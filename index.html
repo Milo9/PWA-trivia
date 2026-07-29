@@ -24,6 +24,25 @@
       <p id="categories-status" class="status-text"></p>
     </section>
 
+    <section id="screen-settings" class="screen hidden">
+      <header class="app-header">
+        <h1 id="settings-category-name"></h1>
+        <p class="subtitle">Choose your round settings</p>
+      </header>
+      <div class="settings-group">
+        <p class="settings-label">Number of questions</p>
+        <div id="count-options" class="toggle-group"></div>
+      </div>
+      <div class="settings-group">
+        <p class="settings-label">Difficulty</p>
+        <div id="difficulty-options" class="toggle-group"></div>
+      </div>
+      <p id="settings-availability" class="status-text"></p>
+      <div class="settings-spacer"></div>
+      <button id="start-round-btn" class="primary-btn">Start Round</button>
+      <button id="settings-back-btn" class="secondary-btn">Back</button>
+    </section>
+
     <section id="screen-quiz" class="screen hidden">
       <header class="quiz-header">
         <button id="quit-btn" class="icon-btn" aria-label="Quit round">✕</button>

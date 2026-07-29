@@ -1,8 +1,16 @@
-const QUESTIONS_PER_ROUND = 10;
+const COUNT_OPTIONS = [10, 20, 30, 40];
+const DIFFICULTY_OPTIONS = [
+  { id: "any", label: "Any" },
+  { id: "easy", label: "Easy" },
+  { id: "medium", label: "Medium" },
+  { id: "hard", label: "Hard" },
+];
 
 const state = {
   categories: [],
   currentCategory: null,
+  pendingCategory: null,
+  settings: { count: 10, difficulty: "any" },
   roundQuestions: [],
   currentIndex: 0,
   score: 0,
@@ -14,8 +22,16 @@ const el = {
   categoriesStatus: document.getElementById("categories-status"),
 
   screenCategories: document.getElementById("screen-categories"),
+  screenSettings: document.getElementById("screen-settings"),
   screenQuiz: document.getElementById("screen-quiz"),
   screenResults: document.getElementById("screen-results"),
+
+  settingsCategoryName: document.getElementById("settings-category-name"),
+  countOptions: document.getElementById("count-options"),
+  difficultyOptions: document.getElementById("difficulty-options"),
+  settingsAvailability: document.getElementById("settings-availability"),
+  startRoundBtn: document.getElementById("start-round-btn"),
+  settingsBackBtn: document.getElementById("settings-back-btn"),
 
   quitBtn: document.getElementById("quit-btn"),
   progressFill: document.getElementById("progress-fill"),
@@ -33,10 +49,11 @@ const el = {
 };
 
 function showScreen(name) {
-  for (const s of [el.screenCategories, el.screenQuiz, el.screenResults]) {
+  for (const s of [el.screenCategories, el.screenSettings, el.screenQuiz, el.screenResults]) {
     s.classList.add("hidden");
   }
   if (name === "categories") el.screenCategories.classList.remove("hidden");
+  if (name === "settings") el.screenSettings.classList.remove("hidden");
   if (name === "quiz") el.screenQuiz.classList.remove("hidden");
   if (name === "results") el.screenResults.classList.remove("hidden");
 }
@@ -81,16 +98,69 @@ function renderCategoryList() {
     btn.className = "category-card";
     btn.innerHTML = `<span>${cat.name}</span><span class="count">${cat.questions.length} questions</span>`;
     btn.disabled = cat.questions.length === 0;
-    btn.addEventListener("click", () => startRound(cat));
+    btn.addEventListener("click", () => openSettings(cat));
     el.categoryList.appendChild(btn);
   }
   el.categoriesStatus.textContent = "";
 }
 
+function filterByDifficulty(questions, difficulty) {
+  return difficulty === "any" ? questions : questions.filter((q) => q.difficulty === difficulty);
+}
+
+function openSettings(category) {
+  state.pendingCategory = category;
+  renderSettingsScreen();
+  showScreen("settings");
+}
+
+function renderSettingsScreen() {
+  el.settingsCategoryName.textContent = state.pendingCategory.name;
+
+  el.countOptions.innerHTML = "";
+  for (const count of COUNT_OPTIONS) {
+    const btn = document.createElement("button");
+    btn.className = "toggle-btn" + (state.settings.count === count ? " active" : "");
+    btn.textContent = count;
+    btn.addEventListener("click", () => {
+      state.settings.count = count;
+      renderSettingsScreen();
+    });
+    el.countOptions.appendChild(btn);
+  }
+
+  el.difficultyOptions.innerHTML = "";
+  for (const diff of DIFFICULTY_OPTIONS) {
+    const btn = document.createElement("button");
+    btn.className = "toggle-btn" + (state.settings.difficulty === diff.id ? " active" : "");
+    btn.textContent = diff.label;
+    btn.addEventListener("click", () => {
+      state.settings.difficulty = diff.id;
+      renderSettingsScreen();
+    });
+    el.difficultyOptions.appendChild(btn);
+  }
+
+  const pool = filterByDifficulty(state.pendingCategory.questions, state.settings.difficulty);
+  const actualCount = Math.min(state.settings.count, pool.length);
+  if (pool.length === 0) {
+    el.settingsAvailability.textContent = "No questions available at this difficulty — pick another.";
+  } else if (actualCount < state.settings.count) {
+    el.settingsAvailability.textContent = `Only ${pool.length} questions available at this difficulty — round will use all ${pool.length}.`;
+  } else {
+    el.settingsAvailability.textContent = `${pool.length} questions available at this difficulty.`;
+  }
+  el.startRoundBtn.disabled = pool.length === 0;
+}
+
+el.settingsBackBtn.addEventListener("click", () => showScreen("categories"));
+el.startRoundBtn.addEventListener("click", () => startRound(state.pendingCategory));
+
 function startRound(category) {
   state.currentCategory = category;
-  const pool = shuffle(category.questions);
-  const count = Math.min(QUESTIONS_PER_ROUND, pool.length);
+  const filtered = filterByDifficulty(category.questions, state.settings.difficulty);
+  const pool = shuffle(filtered);
+  const count = Math.min(state.settings.count, pool.length);
   state.roundQuestions = pool.slice(0, count).map((q) => ({
     ...q,
     shuffledOptions: shuffle(q.options),
@@ -134,7 +204,11 @@ function selectAnswer(selected) {
 
   for (const btn of el.optionsList.children) {
     btn.disabled = true;
-    if (btn.textContent === selected) btn.classList.add("selected");
+    if (btn.textContent === q.answer) {
+      btn.classList.add("correct");
+    } else if (btn.textContent === selected) {
+      btn.classList.add("incorrect");
+    }
   }
 
   el.nextBtn.classList.remove("hidden");
