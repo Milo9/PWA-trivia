@@ -1,0 +1,11 @@
+{
+  "name": "offline-trivia",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Offline-first multiple-choice trivia PWA.",
+  "scripts": {
+    "validate": "node scripts/validate.js",
+    "stamp": "node scripts/stamp-version.js",
+    "serve": "node scripts/serve.js"
+  }
+}

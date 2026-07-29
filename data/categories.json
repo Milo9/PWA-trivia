@@ -1,0 +1,12 @@
+[
+  {
+    "id": "friends",
+    "name": "Friends",
+    "file": "questions/friends.json"
+  },
+  {
+    "id": "big-bang-theory",
+    "name": "The Big Bang Theory",
+    "file": "questions/big-bang-theory.json"
+  }
+]

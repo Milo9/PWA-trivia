@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Offline Trivia</title>
+  <meta name="theme-color" content="#12131a" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="apple-touch-icon" href="icons/icon-180.png" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="Trivia" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main id="app">
+
+    <section id="screen-categories" class="screen">
+      <header class="app-header">
+        <h1>Offline Trivia</h1>
+        <p class="subtitle">Pick a category to start a round</p>
+      </header>
+      <div id="category-list" class="category-list" aria-live="polite"></div>
+      <p id="categories-status" class="status-text"></p>
+    </section>
+
+    <section id="screen-quiz" class="screen hidden">
+      <header class="quiz-header">
+        <button id="quit-btn" class="icon-btn" aria-label="Quit round">✕</button>
+        <div class="progress-track">
+          <div id="progress-fill" class="progress-fill"></div>
+        </div>
+        <span id="question-counter" class="question-counter"></span>
+      </header>
+      <div class="quiz-body">
+        <p id="question-category" class="question-category"></p>
+        <h2 id="question-text" class="question-text"></h2>
+        <div id="options-list" class="options-list"></div>
+      </div>
+      <button id="next-btn" class="primary-btn hidden">Next</button>
+    </section>
+
+    <section id="screen-results" class="screen hidden">
+      <header class="app-header">
+        <h1 id="results-score"></h1>
+        <p id="results-subtitle" class="subtitle"></p>
+      </header>
+      <div id="results-review" class="results-review"></div>
+      <div class="results-actions">
+        <button id="play-again-btn" class="primary-btn">Play Again</button>
+        <button id="choose-category-btn" class="secondary-btn">Choose Category</button>
+      </div>
+    </section>
+
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
