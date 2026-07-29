@@ -20,6 +20,7 @@ const state = {
 const el = {
   categoryList: document.getElementById("category-list"),
   categoriesStatus: document.getElementById("categories-status"),
+  appVersion: document.getElementById("app-version"),
 
   screenCategories: document.getElementById("screen-categories"),
   screenSettings: document.getElementById("screen-settings"),
@@ -286,7 +287,18 @@ function subtitleFor(score, total) {
 el.playAgainBtn.addEventListener("click", () => startRound(state.currentCategory));
 el.chooseCategoryBtn.addEventListener("click", () => showScreen("categories"));
 
+async function loadVersion() {
+  try {
+    const res = await fetch("version.json");
+    const data = await res.json();
+    el.appVersion.textContent = `v${data.build}`;
+  } catch (e) {
+    // non-critical — just don't show a version number
+  }
+}
+
 loadCategories();
+loadVersion();
 
 if ("serviceWorker" in navigator) {
   window.addEventListener("load", () => {

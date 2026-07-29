@@ -14,7 +14,7 @@ const crypto = require("crypto");
 const ROOT = path.join(__dirname, "..");
 const SW_FILE = path.join(ROOT, "sw.js");
 
-const HASHED_FILES = ["index.html", "styles.css", "app.js", "manifest.webmanifest"];
+const HASHED_FILES = ["index.html", "styles.css", "app.js", "manifest.webmanifest", "version.json"];
 
 function collectDataFiles() {
   const dataDir = path.join(ROOT, "data");

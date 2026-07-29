@@ -157,6 +157,19 @@ html, body {
   font-size: 0.9rem;
 }
 
+.app-footer {
+  margin-top: auto;
+  padding-top: 20px;
+  text-align: center;
+}
+
+.app-version {
+  color: var(--text-muted);
+  font-size: 0.75rem;
+  margin: 0;
+  opacity: 0.7;
+}
+
 .quiz-header {
   display: flex;
   align-items: center;

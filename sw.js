@@ -1,7 +1,7 @@
 // Stamped by scripts/stamp-version.js — do not edit by hand.
 // Changes automatically whenever app shell or question data changes,
 // which forces old cached data to be replaced next time we're online.
-const CACHE_VERSION = "v1-9ea2002d";
+const CACHE_VERSION = "v1-536864ff";
 
 const CACHE_NAME = `trivia-cache-${CACHE_VERSION}`;
 
@@ -11,6 +11,7 @@ const APP_SHELL = [
   "styles.css",
   "app.js",
   "manifest.webmanifest",
+  "version.json",
   "icons/icon-180.png",
   "icons/icon-192.png",
   "icons/icon-512.png",
