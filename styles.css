@@ -229,6 +229,29 @@ html, body {
   text-align: left;
   color: var(--text);
   cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.option-label {
+  flex: 1;
+}
+
+.option-icon {
+  flex-shrink: 0;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 1;
+}
+
+.option-btn.correct .option-icon {
+  color: var(--correct);
+}
+
+.option-btn.incorrect .option-icon {
+  color: var(--incorrect);
 }
 
 .option-btn.selected {

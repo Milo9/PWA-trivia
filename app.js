@@ -190,6 +190,22 @@ function renderQuestion() {
   }
 }
 
+function addAnswerIcon(btn, symbol) {
+  // Color alone isn't enough (colorblind-friendly) — pair it with a symbol.
+  const label = document.createElement("span");
+  label.className = "option-label";
+  label.textContent = btn.textContent;
+
+  const icon = document.createElement("span");
+  icon.className = "option-icon";
+  icon.setAttribute("aria-hidden", "true");
+  icon.textContent = symbol;
+
+  btn.textContent = "";
+  btn.appendChild(label);
+  btn.appendChild(icon);
+}
+
 function selectAnswer(selected) {
   const q = state.roundQuestions[state.currentIndex];
   const wasCorrect = selected === q.answer;
@@ -206,8 +222,10 @@ function selectAnswer(selected) {
     btn.disabled = true;
     if (btn.textContent === q.answer) {
       btn.classList.add("correct");
+      addAnswerIcon(btn, "✓");
     } else if (btn.textContent === selected) {
       btn.classList.add("incorrect");
+      addAnswerIcon(btn, "✗");
     }
   }
 
@@ -227,6 +245,14 @@ el.nextBtn.addEventListener("click", () => {
 });
 
 el.quitBtn.addEventListener("click", () => {
+  const inProgress = state.currentIndex < state.roundQuestions.length;
+  if (inProgress && !confirm("Quit this round? Your progress will be lost.")) {
+    return;
+  }
+  state.roundQuestions = [];
+  state.currentIndex = 0;
+  state.score = 0;
+  state.answers = [];
   showScreen("categories");
 });
 

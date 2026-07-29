@@ -70,6 +70,11 @@ tokens and re-auditing shouldn't:
    ```
    npm run stamp
    ```
+5. Commit and push. `npm run ship -- "commit message"` bundles steps 2, 4,
+   and the git add/commit/push into one command — it still won't write the
+   commit message for you, since that requires actually knowing what
+   changed, but it guarantees validate-then-stamp always runs first and
+   collapses the rest into one call.
 
 ## Adding a new category
 

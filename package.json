@@ -6,6 +6,7 @@
   "scripts": {
     "validate": "node scripts/validate.js",
     "stamp": "node scripts/stamp-version.js",
-    "serve": "node scripts/serve.js"
+    "serve": "node scripts/serve.js",
+    "ship": "node scripts/ship.js"
   }
 }
