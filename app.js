@@ -157,15 +157,50 @@ function renderSettingsScreen() {
 el.settingsBackBtn.addEventListener("click", () => showScreen("categories"));
 el.startRoundBtn.addEventListener("click", () => startRound(state.pendingCategory));
 
+function seenStorageKey(categoryId) {
+  return `offline-trivia:seen:${categoryId}`;
+}
+
+function loadSeenIds(categoryId) {
+  try {
+    const raw = localStorage.getItem(seenStorageKey(categoryId));
+    return raw ? new Set(JSON.parse(raw)) : new Set();
+  } catch (e) {
+    return new Set();
+  }
+}
+
+function saveSeenIds(categoryId, seenSet) {
+  try {
+    localStorage.setItem(seenStorageKey(categoryId), JSON.stringify(Array.from(seenSet)));
+  } catch (e) {
+    // localStorage unavailable — repeat-avoidance just won't persist
+  }
+}
+
 function startRound(category) {
   state.currentCategory = category;
   const filtered = filterByDifficulty(category.questions, state.settings.difficulty);
-  const pool = shuffle(filtered);
-  const count = Math.min(state.settings.count, pool.length);
-  state.roundQuestions = pool.slice(0, count).map((q) => ({
+  const requestedCount = Math.min(state.settings.count, filtered.length);
+
+  // Avoid repeating questions already asked for this category until the
+  // whole pool (at the current difficulty) has been cycled through once.
+  let seen = loadSeenIds(category.id);
+  let unseen = filtered.filter((q) => !seen.has(q.id));
+  if (unseen.length < requestedCount) {
+    seen = new Set();
+    unseen = filtered;
+  }
+
+  const pool = shuffle(unseen);
+  state.roundQuestions = pool.slice(0, requestedCount).map((q) => ({
     ...q,
     shuffledOptions: shuffle(q.options),
   }));
+
+  for (const q of state.roundQuestions) seen.add(q.id);
+  saveSeenIds(category.id, seen);
+
   state.currentIndex = 0;
   state.score = 0;
   state.answers = [];
