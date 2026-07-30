@@ -52,5 +52,19 @@
     { "name": "Young Sheldon spinoff", "aliases": ["Young Sheldon", "Medford", "Iain Armitage"] },
     { "name": "Cast & actors", "aliases": ["actor", "actress", "plays"] },
     { "name": "Show meta (seasons/network/creators/finale)", "aliases": ["season", "seasons", "network", "premiere", "episodes", "creators", "CBS", "finale"] }
+  ],
+  "general": [
+    { "name": "History", "aliases": ["history", "war", "empire", "revolution", "president", "king", "queen", "ancient"] },
+    { "name": "Geography", "aliases": ["capital", "country", "river", "mountain", "continent", "ocean", "desert", "island"] },
+    { "name": "Science & Nature", "aliases": ["science", "physics", "chemistry", "biology", "animal", "planet", "element", "species"] },
+    { "name": "Arts & Literature", "aliases": ["novel", "author", "painting", "artist", "poem", "book", "wrote", "sculpture"] },
+    { "name": "Film & TV", "aliases": ["movie", "film", "actor", "actress", "director", "television", "TV series", "Oscar"] },
+    { "name": "Music", "aliases": ["song", "band", "album", "singer", "musician", "composer", "guitarist"] },
+    { "name": "Sports", "aliases": ["Olympics", "championship", "team", "athlete", "tournament", "medal", "league"] },
+    { "name": "Food & Drink", "aliases": ["cuisine", "dish", "ingredient", "recipe", "wine", "cheese", "fruit", "vegetable"] },
+    { "name": "Mythology & Religion", "aliases": ["god", "goddess", "myth", "deity", "legend", "temple", "mythology"] },
+    { "name": "Technology & Math", "aliases": ["computer", "invention", "internet", "number", "equation", "software", "algorithm"] },
+    { "name": "World Cultures & Languages", "aliases": ["language", "currency", "tradition", "flag", "festival", "dialect"] },
+    { "name": "Space & Astronomy", "aliases": ["planet", "star", "galaxy", "NASA", "astronaut", "moon", "spacecraft"] }
   ]
 }

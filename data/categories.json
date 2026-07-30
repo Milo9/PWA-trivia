@@ -8,5 +8,10 @@
     "id": "big-bang-theory",
     "name": "The Big Bang Theory",
     "file": "questions/big-bang-theory.json"
+  },
+  {
+    "id": "general",
+    "name": "General Knowledge",
+    "file": "questions/general.json"
   }
 ]
