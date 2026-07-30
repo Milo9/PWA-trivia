@@ -1,7 +1,7 @@
 // Stamped by scripts/stamp-version.js — do not edit by hand.
 // Changes automatically whenever app shell or question data changes,
 // which forces old cached data to be replaced next time we're online.
-const CACHE_VERSION = "v1-7bceaf3a";
+const CACHE_VERSION = "v1-94c50c1b";
 
 const CACHE_NAME = `trivia-cache-${CACHE_VERSION}`;
 
