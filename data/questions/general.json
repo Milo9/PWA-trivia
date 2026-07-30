@@ -12998,5 +12998,5205 @@
       "Presumption of innocence"
     ],
     "answer": "Double jeopardy"
+  },
+  {
+    "id": "general-1001",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the longest river in the world by most measurements?",
+    "options": [
+      "Nile",
+      "Amazon",
+      "Yangtze",
+      "Mississippi"
+    ],
+    "answer": "Nile"
+  },
+  {
+    "id": "general-1002",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which cold desert in Asia is the largest desert on the continent?",
+    "options": [
+      "Gobi Desert",
+      "Thar Desert",
+      "Karakum Desert",
+      "Taklamakan Desert"
+    ],
+    "answer": "Gobi Desert"
+  },
+  {
+    "id": "general-1003",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which European microstate is famous for its Grand Prix motor race held on its city streets?",
+    "options": [
+      "Monaco",
+      "San Marino",
+      "Liechtenstein",
+      "Andorra"
+    ],
+    "answer": "Monaco"
+  },
+  {
+    "id": "general-1004",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which African country is the most populous by total population?",
+    "options": [
+      "Nigeria",
+      "Ethiopia",
+      "Egypt",
+      "South Africa"
+    ],
+    "answer": "Nigeria"
+  },
+  {
+    "id": "general-1005",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the capital city of Australia?",
+    "options": [
+      "Canberra",
+      "Sydney",
+      "Melbourne",
+      "Perth"
+    ],
+    "answer": "Canberra"
+  },
+  {
+    "id": "general-1006",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which mountain range separates Europe from Asia in Russia?",
+    "options": [
+      "Ural Mountains",
+      "Caucasus Mountains",
+      "Carpathian Mountains",
+      "Alps"
+    ],
+    "answer": "Ural Mountains"
+  },
+  {
+    "id": "general-1007",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the deepest point in the world's oceans?",
+    "options": [
+      "Mariana Trench",
+      "Puerto Rico Trench",
+      "Tonga Trench",
+      "Java Trench"
+    ],
+    "answer": "Mariana Trench"
+  },
+  {
+    "id": "general-1008",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which country has the most time zones of any nation?",
+    "options": [
+      "France",
+      "Russia",
+      "United States",
+      "China"
+    ],
+    "answer": "France"
+  },
+  {
+    "id": "general-1009",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Lake Baikal, the world's deepest lake, is located in which country?",
+    "options": [
+      "Russia",
+      "Kazakhstan",
+      "Mongolia",
+      "China"
+    ],
+    "answer": "Russia"
+  },
+  {
+    "id": "general-1010",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the only sea without any coastline, bordered instead by ocean currents?",
+    "options": [
+      "Sargasso Sea",
+      "Coral Sea",
+      "Caspian Sea",
+      "Dead Sea"
+    ],
+    "answer": "Sargasso Sea"
+  },
+  {
+    "id": "general-1011",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which South American country is home to the Atacama Desert?",
+    "options": [
+      "Chile",
+      "Peru",
+      "Bolivia",
+      "Argentina"
+    ],
+    "answer": "Chile"
+  },
+  {
+    "id": "general-1012",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the largest island in the world (excluding continental landmasses)?",
+    "options": [
+      "Greenland",
+      "New Guinea",
+      "Borneo",
+      "Madagascar"
+    ],
+    "answer": "Greenland"
+  },
+  {
+    "id": "general-1013",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which strait separates Europe and Africa?",
+    "options": [
+      "Strait of Gibraltar",
+      "Bosphorus Strait",
+      "Strait of Dover",
+      "Strait of Sicily"
+    ],
+    "answer": "Strait of Gibraltar"
+  },
+  {
+    "id": "general-1014",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the capital of Chile?",
+    "options": [
+      "Santiago",
+      "Valparaiso",
+      "Concepcion",
+      "Antofagasta"
+    ],
+    "answer": "Santiago"
+  },
+  {
+    "id": "general-1015",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which country is known as the 'Land of a Thousand Hills'?",
+    "options": [
+      "Rwanda",
+      "Uganda",
+      "Burundi",
+      "Nepal"
+    ],
+    "answer": "Rwanda"
+  },
+  {
+    "id": "general-1016",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the driest continent on Earth?",
+    "options": [
+      "Antarctica",
+      "Australia",
+      "Africa",
+      "Asia"
+    ],
+    "answer": "Antarctica"
+  },
+  {
+    "id": "general-1017",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which European country has the most islands, numbering in the tens of thousands?",
+    "options": [
+      "Sweden",
+      "Norway",
+      "Finland",
+      "Greece"
+    ],
+    "answer": "Sweden"
+  },
+  {
+    "id": "general-1018",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the name of the tectonic boundary that runs through Iceland?",
+    "options": [
+      "Mid-Atlantic Ridge",
+      "Ring of Fire",
+      "San Andreas Fault",
+      "East African Rift"
+    ],
+    "answer": "Mid-Atlantic Ridge"
+  },
+  {
+    "id": "general-1019",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which country has the most active volcanoes?",
+    "options": [
+      "Indonesia",
+      "Japan",
+      "United States",
+      "Philippines"
+    ],
+    "answer": "Indonesia"
+  },
+  {
+    "id": "general-1020",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the capital of New Zealand?",
+    "options": [
+      "Wellington",
+      "Auckland",
+      "Christchurch",
+      "Hamilton"
+    ],
+    "answer": "Wellington"
+  },
+  {
+    "id": "general-1021",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which African country has three capital cities?",
+    "options": [
+      "South Africa",
+      "Kenya",
+      "Nigeria",
+      "Tanzania"
+    ],
+    "answer": "South Africa"
+  },
+  {
+    "id": "general-1022",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "The Danube River does not flow through which of these countries?",
+    "options": [
+      "Spain",
+      "Austria",
+      "Hungary",
+      "Germany"
+    ],
+    "answer": "Spain"
+  },
+  {
+    "id": "general-1023",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the world's largest landlocked country?",
+    "options": [
+      "Kazakhstan",
+      "Mongolia",
+      "Bolivia",
+      "Chad"
+    ],
+    "answer": "Kazakhstan"
+  },
+  {
+    "id": "general-1024",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which US state has the longest coastline?",
+    "options": [
+      "Alaska",
+      "Florida",
+      "California",
+      "Hawaii"
+    ],
+    "answer": "Alaska"
+  },
+  {
+    "id": "general-1025",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the name of the fjord-lined western coastal region of Norway famous for tourism?",
+    "options": [
+      "Fjordland",
+      "Sognefjord region",
+      "Nordland",
+      "Vestland"
+    ],
+    "answer": "Sognefjord region"
+  },
+  {
+    "id": "general-1026",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which country consists of over 17,000 islands, making it the world's largest archipelago?",
+    "options": [
+      "Indonesia",
+      "Philippines",
+      "Japan",
+      "Maldives"
+    ],
+    "answer": "Indonesia"
+  },
+  {
+    "id": "general-1027",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "The Great Rift Valley runs primarily through which continent?",
+    "options": [
+      "Africa",
+      "Asia",
+      "South America",
+      "Europe"
+    ],
+    "answer": "Africa"
+  },
+  {
+    "id": "general-1028",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the capital of Mongolia?",
+    "options": [
+      "Ulaanbaatar",
+      "Almaty",
+      "Astana",
+      "Bishkek"
+    ],
+    "answer": "Ulaanbaatar"
+  },
+  {
+    "id": "general-1029",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which country is both in Europe and has territory in Asia, split by the Bosphorus?",
+    "options": [
+      "Turkey",
+      "Georgia",
+      "Kazakhstan",
+      "Azerbaijan"
+    ],
+    "answer": "Turkey"
+  },
+  {
+    "id": "general-1030",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the name of the cold ocean current that flows along the west coast of South America?",
+    "options": [
+      "Humboldt Current",
+      "Gulf Stream",
+      "Kuroshio Current",
+      "Benguela Current"
+    ],
+    "answer": "Humboldt Current"
+  },
+  {
+    "id": "general-1031",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In what year did the Berlin Wall fall?",
+    "options": [
+      "1989",
+      "1991",
+      "1987",
+      "1990"
+    ],
+    "answer": "1989"
+  },
+  {
+    "id": "general-1032",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which Roman emperor commissioned the construction of the Colosseum?",
+    "options": [
+      "Vespasian",
+      "Nero",
+      "Trajan",
+      "Hadrian"
+    ],
+    "answer": "Vespasian"
+  },
+  {
+    "id": "general-1033",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which grandson of Genghis Khan established the Yuan dynasty in China?",
+    "options": [
+      "Kublai Khan",
+      "Ogedei Khan",
+      "Chagatai Khan",
+      "Jochi"
+    ],
+    "answer": "Kublai Khan"
+  },
+  {
+    "id": "general-1034",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "The signing of the Magna Carta in 1215 took place in which country?",
+    "options": [
+      "England",
+      "France",
+      "Scotland",
+      "Ireland"
+    ],
+    "answer": "England"
+  },
+  {
+    "id": "general-1035",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which US general commanded the Confederate Army during the American Civil War?",
+    "options": [
+      "Robert E. Lee",
+      "Ulysses S. Grant",
+      "Stonewall Jackson",
+      "William Tecumseh Sherman"
+    ],
+    "answer": "Robert E. Lee"
+  },
+  {
+    "id": "general-1036",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Who was the Prime Minister of the United Kingdom for most of World War II?",
+    "options": [
+      "Winston Churchill",
+      "Neville Chamberlain",
+      "Clement Attlee",
+      "Anthony Eden"
+    ],
+    "answer": "Winston Churchill"
+  },
+  {
+    "id": "general-1037",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "The ancient city of Troy is believed to have been located in modern-day what country?",
+    "options": [
+      "Turkey",
+      "Greece",
+      "Italy",
+      "Egypt"
+    ],
+    "answer": "Turkey"
+  },
+  {
+    "id": "general-1038",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which explorer is credited with leading the first expedition to circumnavigate the globe, though he died before completing it?",
+    "options": [
+      "Ferdinand Magellan",
+      "Christopher Columbus",
+      "Vasco da Gama",
+      "James Cook"
+    ],
+    "answer": "Ferdinand Magellan"
+  },
+  {
+    "id": "general-1039",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What was the name of the period of cultural rebirth in Europe from the 14th to 17th centuries?",
+    "options": [
+      "The Renaissance",
+      "The Enlightenment",
+      "The Reformation",
+      "The Baroque Era"
+    ],
+    "answer": "The Renaissance"
+  },
+  {
+    "id": "general-1040",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which treaty formally ended World War I?",
+    "options": [
+      "Treaty of Versailles",
+      "Treaty of Paris",
+      "Treaty of Vienna",
+      "Treaty of Westphalia"
+    ],
+    "answer": "Treaty of Versailles"
+  },
+  {
+    "id": "general-1041",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Who was the Egyptian queen famously allied with Julius Caesar and later Mark Antony?",
+    "options": [
+      "Cleopatra",
+      "Nefertiti",
+      "Hatshepsut",
+      "Ankhesenamun"
+    ],
+    "answer": "Cleopatra"
+  },
+  {
+    "id": "general-1042",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "The Boston Tea Party in 1773 was a protest against which country's taxation policies?",
+    "options": [
+      "Great Britain",
+      "France",
+      "Spain",
+      "Netherlands"
+    ],
+    "answer": "Great Britain"
+  },
+  {
+    "id": "general-1043",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which dynasty built the Taj Mahal in India?",
+    "options": [
+      "Mughal",
+      "Maurya",
+      "Gupta",
+      "Chola"
+    ],
+    "answer": "Mughal"
+  },
+  {
+    "id": "general-1044",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "The Cold War was primarily a geopolitical struggle between which two nations?",
+    "options": [
+      "United States and Soviet Union",
+      "United States and China",
+      "United Kingdom and Soviet Union",
+      "France and Soviet Union"
+    ],
+    "answer": "United States and Soviet Union"
+  },
+  {
+    "id": "general-1045",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+    "options": [
+      "Amelia Earhart",
+      "Bessie Coleman",
+      "Harriet Quimby",
+      "Jacqueline Cochran"
+    ],
+    "answer": "Amelia Earhart"
+  },
+  {
+    "id": "general-1046",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "The Rosetta Stone was key to deciphering which ancient writing system?",
+    "options": [
+      "Egyptian hieroglyphs",
+      "Cuneiform",
+      "Linear B",
+      "Sumerian script"
+    ],
+    "answer": "Egyptian hieroglyphs"
+  },
+  {
+    "id": "general-1047",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which country was the first to grant women the right to vote in national elections?",
+    "options": [
+      "New Zealand",
+      "Finland",
+      "United States",
+      "United Kingdom"
+    ],
+    "answer": "New Zealand"
+  },
+  {
+    "id": "general-1048",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In which year did the Chernobyl nuclear disaster occur?",
+    "options": [
+      "1986",
+      "1979",
+      "1991",
+      "1994"
+    ],
+    "answer": "1986"
+  },
+  {
+    "id": "general-1049",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Who succeeded Vladimir Lenin as leader of the Soviet Union?",
+    "options": [
+      "Joseph Stalin",
+      "Leon Trotsky",
+      "Nikita Khrushchev",
+      "Georgy Malenkov"
+    ],
+    "answer": "Joseph Stalin"
+  },
+  {
+    "id": "general-1050",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "The Battle of Hastings in 1066 resulted in the conquest of England by whom?",
+    "options": [
+      "William the Conqueror",
+      "Harold Godwinson",
+      "King Canute",
+      "Richard the Lionheart"
+    ],
+    "answer": "William the Conqueror"
+  },
+  {
+    "id": "general-1051",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which ancient wonder of the world was located in the harbor of the city of Rhodes?",
+    "options": [
+      "Colossus of Rhodes",
+      "Lighthouse of Alexandria",
+      "Statue of Zeus",
+      "Hanging Gardens"
+    ],
+    "answer": "Colossus of Rhodes"
+  },
+  {
+    "id": "general-1052",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What was the name of the ship that famously sank on its maiden voyage in 1912?",
+    "options": [
+      "Titanic",
+      "Lusitania",
+      "Britannic",
+      "Olympic"
+    ],
+    "answer": "Titanic"
+  },
+  {
+    "id": "general-1053",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which US president led the country through most of the Great Depression and World War II?",
+    "options": [
+      "Franklin D. Roosevelt",
+      "Herbert Hoover",
+      "Harry Truman",
+      "Woodrow Wilson"
+    ],
+    "answer": "Franklin D. Roosevelt"
+  },
+  {
+    "id": "general-1054",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "The fall of which city in 1453 is often cited as marking the end of the Byzantine Empire?",
+    "options": [
+      "Constantinople",
+      "Athens",
+      "Alexandria",
+      "Antioch"
+    ],
+    "answer": "Constantinople"
+  },
+  {
+    "id": "general-1055",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Who was the South African anti-apartheid leader who became the country's first Black president?",
+    "options": [
+      "Nelson Mandela",
+      "Desmond Tutu",
+      "Thabo Mbeki",
+      "Steve Biko"
+    ],
+    "answer": "Nelson Mandela"
+  },
+  {
+    "id": "general-1056",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which revolution began in 1789 and led to the end of the French monarchy?",
+    "options": [
+      "The French Revolution",
+      "The Industrial Revolution",
+      "The Glorious Revolution",
+      "The Russian Revolution"
+    ],
+    "answer": "The French Revolution"
+  },
+  {
+    "id": "general-1057",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What was the name given to the wave of Japanese-American internment during World War II authorized under Executive Order 9066?",
+    "options": [
+      "Japanese American internment",
+      "The Manzanar Project",
+      "The Relocation Act",
+      "Internal Security Program"
+    ],
+    "answer": "Japanese American internment"
+  },
+  {
+    "id": "general-1058",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which pharaoh's nearly intact tomb was discovered by Howard Carter in 1922?",
+    "options": [
+      "Tutankhamun",
+      "Ramesses II",
+      "Akhenaten",
+      "Thutmose III"
+    ],
+    "answer": "Tutankhamun"
+  },
+  {
+    "id": "general-1059",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "The Silk Road primarily connected which two regions?",
+    "options": [
+      "China and the Mediterranean",
+      "India and Africa",
+      "Europe and the Americas",
+      "Japan and Korea"
+    ],
+    "answer": "China and the Mediterranean"
+  },
+  {
+    "id": "general-1060",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which US document begins with the words 'We the People'?",
+    "options": [
+      "The Constitution",
+      "The Declaration of Independence",
+      "The Bill of Rights",
+      "The Federalist Papers"
+    ],
+    "answer": "The Constitution"
+  },
+  {
+    "id": "general-1061",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Who was assassinated in Sarajevo in 1914, an event that triggered World War I?",
+    "options": [
+      "Archduke Franz Ferdinand",
+      "Kaiser Wilhelm II",
+      "Tsar Nicholas II",
+      "King Alexander I"
+    ],
+    "answer": "Archduke Franz Ferdinand"
+  },
+  {
+    "id": "general-1062",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "The Apollo 11 mission achieved what historic first in 1969?",
+    "options": [
+      "First crewed Moon landing",
+      "First orbit of the Moon",
+      "First spacewalk",
+      "First satellite launch"
+    ],
+    "answer": "First crewed Moon landing"
+  },
+  {
+    "id": "general-1063",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the chemical symbol for tungsten?",
+    "options": [
+      "W",
+      "Tu",
+      "Tn",
+      "Wo"
+    ],
+    "answer": "W"
+  },
+  {
+    "id": "general-1064",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the term for the curved path an object follows as it moves around a planet or star due to gravity?",
+    "options": [
+      "Orbit",
+      "Trajectory",
+      "Vector",
+      "Axis"
+    ],
+    "answer": "Orbit"
+  },
+  {
+    "id": "general-1065",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the most abundant metal in the Earth's crust?",
+    "options": [
+      "Aluminum",
+      "Iron",
+      "Copper",
+      "Magnesium"
+    ],
+    "answer": "Aluminum"
+  },
+  {
+    "id": "general-1066",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the SI unit of electric current?",
+    "options": [
+      "Ampere",
+      "Volt",
+      "Ohm",
+      "Watt"
+    ],
+    "answer": "Ampere"
+  },
+  {
+    "id": "general-1067",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which Danish physicist developed a foundational model of the atom with electrons in defined energy levels?",
+    "options": [
+      "Niels Bohr",
+      "Albert Einstein",
+      "Max Planck",
+      "Werner Heisenberg"
+    ],
+    "answer": "Niels Bohr"
+  },
+  {
+    "id": "general-1068",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the most abundant gas in Earth's atmosphere?",
+    "options": [
+      "Nitrogen",
+      "Oxygen",
+      "Carbon dioxide",
+      "Argon"
+    ],
+    "answer": "Nitrogen"
+  },
+  {
+    "id": "general-1069",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What type of bond involves the sharing of electron pairs between atoms?",
+    "options": [
+      "Covalent bond",
+      "Ionic bond",
+      "Metallic bond",
+      "Hydrogen bond"
+    ],
+    "answer": "Covalent bond"
+  },
+  {
+    "id": "general-1070",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is absolute zero on the Celsius scale?",
+    "options": [
+      "-273.15°C",
+      "-100°C",
+      "-459.67°C",
+      "0°C"
+    ],
+    "answer": "-273.15°C"
+  },
+  {
+    "id": "general-1071",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which particle has a negative electric charge?",
+    "options": [
+      "Electron",
+      "Proton",
+      "Neutron",
+      "Positron"
+    ],
+    "answer": "Electron"
+  },
+  {
+    "id": "general-1072",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the process by which a liquid turns into a gas below its boiling point?",
+    "options": [
+      "Evaporation",
+      "Condensation",
+      "Sublimation",
+      "Deposition"
+    ],
+    "answer": "Evaporation"
+  },
+  {
+    "id": "general-1073",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which element has the atomic number 6, forming the basis of organic chemistry?",
+    "options": [
+      "Carbon",
+      "Nitrogen",
+      "Oxygen",
+      "Boron"
+    ],
+    "answer": "Carbon"
+  },
+  {
+    "id": "general-1074",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the name for a biological catalyst, typically a protein, that speeds up reactions in living organisms?",
+    "options": [
+      "Enzyme",
+      "Hormone",
+      "Antibody",
+      "Coenzyme"
+    ],
+    "answer": "Enzyme"
+  },
+  {
+    "id": "general-1075",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which law states that energy cannot be created or destroyed, only transformed?",
+    "options": [
+      "Law of conservation of energy",
+      "Newton's first law",
+      "Law of conservation of mass",
+      "Boyle's law"
+    ],
+    "answer": "Law of conservation of energy"
+  },
+  {
+    "id": "general-1076",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the pH value of a neutral solution at room temperature?",
+    "options": [
+      "7",
+      "0",
+      "14",
+      "10"
+    ],
+    "answer": "7"
+  },
+  {
+    "id": "general-1077",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Who formulated the periodic table of elements in a form close to its modern layout?",
+    "options": [
+      "Dmitri Mendeleev",
+      "Antoine Lavoisier",
+      "John Dalton",
+      "Marie Curie"
+    ],
+    "answer": "Dmitri Mendeleev"
+  },
+  {
+    "id": "general-1078",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the speed of light in a vacuum, approximately?",
+    "options": [
+      "300,000 km/s",
+      "150,000 km/s",
+      "1,000,000 km/s",
+      "3,000 km/s"
+    ],
+    "answer": "300,000 km/s"
+  },
+  {
+    "id": "general-1079",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which subatomic particle was discovered by James Chadwick in 1932?",
+    "options": [
+      "Neutron",
+      "Electron",
+      "Proton",
+      "Quark"
+    ],
+    "answer": "Neutron"
+  },
+  {
+    "id": "general-1080",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What kind of energy is stored in an object due to its position or height?",
+    "options": [
+      "Potential energy",
+      "Kinetic energy",
+      "Thermal energy",
+      "Chemical energy"
+    ],
+    "answer": "Potential energy"
+  },
+  {
+    "id": "general-1081",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What green pigment in plant cells is essential for capturing light energy during photosynthesis?",
+    "options": [
+      "Chlorophyll",
+      "Carotene",
+      "Xanthophyll",
+      "Anthocyanin"
+    ],
+    "answer": "Chlorophyll"
+  },
+  {
+    "id": "general-1082",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which state of matter has a definite volume but no definite shape?",
+    "options": [
+      "Liquid",
+      "Solid",
+      "Gas",
+      "Plasma"
+    ],
+    "answer": "Liquid"
+  },
+  {
+    "id": "general-1083",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the term for two or more atoms chemically bonded together, forming the smallest unit of a compound?",
+    "options": [
+      "Molecule",
+      "Atom",
+      "Ion",
+      "Isotope"
+    ],
+    "answer": "Molecule"
+  },
+  {
+    "id": "general-1084",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which scientist is credited with the three laws of motion?",
+    "options": [
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Johannes Kepler",
+      "Albert Einstein"
+    ],
+    "answer": "Isaac Newton"
+  },
+  {
+    "id": "general-1085",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the chemical formula for carbon dioxide?",
+    "options": [
+      "CO2",
+      "CO",
+      "H2O",
+      "O2"
+    ],
+    "answer": "CO2"
+  },
+  {
+    "id": "general-1086",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which noble gas is commonly used in illuminated advertising signs, glowing reddish-orange when electrified?",
+    "options": [
+      "Neon",
+      "Helium",
+      "Argon",
+      "Xenon"
+    ],
+    "answer": "Neon"
+  },
+  {
+    "id": "general-1087",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the term for the amount of matter in an object?",
+    "options": [
+      "Mass",
+      "Weight",
+      "Volume",
+      "Density"
+    ],
+    "answer": "Mass"
+  },
+  {
+    "id": "general-1088",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which organ stores urine before it is expelled from the body?",
+    "options": [
+      "Bladder",
+      "Kidney",
+      "Ureter",
+      "Urethra"
+    ],
+    "answer": "Bladder"
+  },
+  {
+    "id": "general-1089",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the largest muscle in the human body?",
+    "options": [
+      "Gluteus maximus",
+      "Latissimus dorsi",
+      "Quadriceps",
+      "Deltoid"
+    ],
+    "answer": "Gluteus maximus"
+  },
+  {
+    "id": "general-1090",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the powerhouse of the cell, responsible for producing energy?",
+    "options": [
+      "Mitochondria",
+      "Nucleus",
+      "Ribosome",
+      "Golgi apparatus"
+    ],
+    "answer": "Mitochondria"
+  },
+  {
+    "id": "general-1091",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Approximately what percentage of the human population has Rh-positive blood?",
+    "options": [
+      "About 85%",
+      "About 50%",
+      "About 15%",
+      "About 99%"
+    ],
+    "answer": "About 85%"
+  },
+  {
+    "id": "general-1092",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the name of the process by which plants make food using sunlight?",
+    "options": [
+      "Photosynthesis",
+      "Respiration",
+      "Transpiration",
+      "Germination"
+    ],
+    "answer": "Photosynthesis"
+  },
+  {
+    "id": "general-1093",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "How many pairs of chromosomes does a typical human cell contain?",
+    "options": [
+      "23",
+      "22",
+      "24",
+      "46"
+    ],
+    "answer": "23"
+  },
+  {
+    "id": "general-1094",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which gland in the human body regulates metabolism and is located in the neck?",
+    "options": [
+      "Thyroid gland",
+      "Pituitary gland",
+      "Adrenal gland",
+      "Pancreas"
+    ],
+    "answer": "Thyroid gland"
+  },
+  {
+    "id": "general-1095",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the scientific term for the study of insects?",
+    "options": [
+      "Entomology",
+      "Mycology",
+      "Herpetology",
+      "Ornithology"
+    ],
+    "answer": "Entomology"
+  },
+  {
+    "id": "general-1096",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which vitamin is primarily produced by the skin when exposed to sunlight?",
+    "options": [
+      "Vitamin D",
+      "Vitamin C",
+      "Vitamin A",
+      "Vitamin K"
+    ],
+    "answer": "Vitamin D"
+  },
+  {
+    "id": "general-1097",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the main function of red blood cells?",
+    "options": [
+      "Carrying oxygen",
+      "Fighting infection",
+      "Clotting blood",
+      "Producing hormones"
+    ],
+    "answer": "Carrying oxygen"
+  },
+  {
+    "id": "general-1098",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which part of the brainstem controls vital involuntary functions like breathing and heart rate?",
+    "options": [
+      "Medulla oblongata",
+      "Cerebellum",
+      "Cerebrum",
+      "Thalamus"
+    ],
+    "answer": "Medulla oblongata"
+  },
+  {
+    "id": "general-1099",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What do you call an organism that produces its own food, typically through photosynthesis?",
+    "options": [
+      "Autotroph",
+      "Heterotroph",
+      "Decomposer",
+      "Parasite"
+    ],
+    "answer": "Autotroph"
+  },
+  {
+    "id": "general-1100",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "How many pairs of ribs does a typical adult human have?",
+    "options": [
+      "12",
+      "10",
+      "14",
+      "11"
+    ],
+    "answer": "12"
+  },
+  {
+    "id": "general-1101",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the term for animals that are active mainly at night?",
+    "options": [
+      "Nocturnal",
+      "Diurnal",
+      "Crepuscular",
+      "Nomadic"
+    ],
+    "answer": "Nocturnal"
+  },
+  {
+    "id": "general-1102",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which human sense organ contains the cochlea?",
+    "options": [
+      "Ear",
+      "Eye",
+      "Nose",
+      "Tongue"
+    ],
+    "answer": "Ear"
+  },
+  {
+    "id": "general-1103",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the process called when a caterpillar transforms into a butterfly?",
+    "options": [
+      "Metamorphosis",
+      "Photosynthesis",
+      "Pollination",
+      "Germination"
+    ],
+    "answer": "Metamorphosis"
+  },
+  {
+    "id": "general-1104",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which organ produces insulin to regulate blood sugar?",
+    "options": [
+      "Pancreas",
+      "Liver",
+      "Kidney",
+      "Spleen"
+    ],
+    "answer": "Pancreas"
+  },
+  {
+    "id": "general-1105",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the genetic material found in the nucleus of a cell called?",
+    "options": [
+      "DNA",
+      "RNA",
+      "Protein",
+      "Enzyme"
+    ],
+    "answer": "DNA"
+  },
+  {
+    "id": "general-1106",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which planet is famous for its Great Red Spot, a giant storm larger than Earth?",
+    "options": [
+      "Jupiter",
+      "Saturn",
+      "Mars",
+      "Neptune"
+    ],
+    "answer": "Jupiter"
+  },
+  {
+    "id": "general-1107",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which dwarf planet was reclassified from full planet status by the IAU in 2006?",
+    "options": [
+      "Pluto",
+      "Eris",
+      "Ceres",
+      "Makemake"
+    ],
+    "answer": "Pluto"
+  },
+  {
+    "id": "general-1108",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the name of Saturn's largest moon, bigger than the planet Mercury?",
+    "options": [
+      "Titan",
+      "Enceladus",
+      "Rhea",
+      "Mimas"
+    ],
+    "answer": "Titan"
+  },
+  {
+    "id": "general-1109",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Who was the first human to walk on the Moon?",
+    "options": [
+      "Neil Armstrong",
+      "Buzz Aldrin",
+      "Yuri Gagarin",
+      "Michael Collins"
+    ],
+    "answer": "Neil Armstrong"
+  },
+  {
+    "id": "general-1110",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the term for a star that suddenly increases greatly in brightness due to a catastrophic explosion?",
+    "options": [
+      "Supernova",
+      "Nova",
+      "Pulsar",
+      "Quasar"
+    ],
+    "answer": "Supernova"
+  },
+  {
+    "id": "general-1111",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the name of the space telescope that succeeded Hubble, launched in December 2021?",
+    "options": [
+      "James Webb Space Telescope",
+      "Kepler Space Telescope",
+      "Spitzer Space Telescope",
+      "Chandra X-ray Observatory"
+    ],
+    "answer": "James Webb Space Telescope"
+  },
+  {
+    "id": "general-1112",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the closest star to Earth other than the Sun?",
+    "options": [
+      "Proxima Centauri",
+      "Alpha Centauri A",
+      "Sirius",
+      "Betelgeuse"
+    ],
+    "answer": "Proxima Centauri"
+  },
+  {
+    "id": "general-1113",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which planet in our solar system has the shortest day?",
+    "options": [
+      "Jupiter",
+      "Mercury",
+      "Earth",
+      "Mars"
+    ],
+    "answer": "Jupiter"
+  },
+  {
+    "id": "general-1114",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What do astronomers call a region of space where gravity is so strong that nothing can escape it, not even light?",
+    "options": [
+      "Black hole",
+      "Wormhole",
+      "Neutron star",
+      "Dark matter"
+    ],
+    "answer": "Black hole"
+  },
+  {
+    "id": "general-1115",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which spacecraft carried the first crewed mission to orbit the Moon in 1968?",
+    "options": [
+      "Apollo 8",
+      "Apollo 11",
+      "Apollo 13",
+      "Apollo 1"
+    ],
+    "answer": "Apollo 8"
+  },
+  {
+    "id": "general-1116",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the name of SpaceX's crewed spacecraft that ferries astronauts to the International Space Station?",
+    "options": [
+      "Crew Dragon",
+      "Starliner",
+      "Orion",
+      "Falcon"
+    ],
+    "answer": "Crew Dragon"
+  },
+  {
+    "id": "general-1117",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "How long does it take sunlight to reach Earth on average?",
+    "options": [
+      "About 8 minutes",
+      "About 1 minute",
+      "About 30 minutes",
+      "About 1 hour"
+    ],
+    "answer": "About 8 minutes"
+  },
+  {
+    "id": "general-1118",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the name of the totalitarian leader who is never seen but constantly watches citizens in George Orwell's '1984'?",
+    "options": [
+      "Big Brother",
+      "The Ministry",
+      "O'Brien",
+      "Emmanuel Goldstein"
+    ],
+    "answer": "Big Brother"
+  },
+  {
+    "id": "general-1119",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which author created the detective Hercule Poirot?",
+    "options": [
+      "Agatha Christie",
+      "Arthur Conan Doyle",
+      "Dorothy L. Sayers",
+      "P.D. James"
+    ],
+    "answer": "Agatha Christie"
+  },
+  {
+    "id": "general-1120",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the name of the boy wizard in J.K. Rowling's famous book series?",
+    "options": [
+      "Harry Potter",
+      "Percy Jackson",
+      "Eragon",
+      "Frodo Baggins"
+    ],
+    "answer": "Harry Potter"
+  },
+  {
+    "id": "general-1121",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Who wrote the novel 'Wuthering Heights'?",
+    "options": [
+      "Emily Bronte",
+      "Charlotte Bronte",
+      "Anne Bronte",
+      "Jane Austen"
+    ],
+    "answer": "Emily Bronte"
+  },
+  {
+    "id": "general-1122",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which epic poem by Homer describes the events of the Trojan War?",
+    "options": [
+      "The Iliad",
+      "The Odyssey",
+      "The Aeneid",
+      "Metamorphoses"
+    ],
+    "answer": "The Iliad"
+  },
+  {
+    "id": "general-1123",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the name of the fictional town where 'One Hundred Years of Solitude' is set?",
+    "options": [
+      "Macondo",
+      "Comala",
+      "Santa Maria",
+      "Aracataca"
+    ],
+    "answer": "Macondo"
+  },
+  {
+    "id": "general-1124",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the name of the ship in Herman Melville's novel 'Moby-Dick'?",
+    "options": [
+      "Pequod",
+      "Nautilus",
+      "Hispaniola",
+      "Beagle"
+    ],
+    "answer": "Pequod"
+  },
+  {
+    "id": "general-1125",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which Shakespeare play features the characters Rosencrantz and Guildenstern?",
+    "options": [
+      "Hamlet",
+      "Macbeth",
+      "Othello",
+      "King Lear"
+    ],
+    "answer": "Hamlet"
+  },
+  {
+    "id": "general-1126",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "In Aldous Huxley's 'Brave New World', what is the name of the mood-altering drug used by citizens?",
+    "options": [
+      "Soma",
+      "Nectar",
+      "Bliss",
+      "Euphoria"
+    ],
+    "answer": "Soma"
+  },
+  {
+    "id": "general-1127",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the first book in C.S. Lewis's 'The Chronicles of Narnia' series by original publication order?",
+    "options": [
+      "The Lion, the Witch and the Wardrobe",
+      "Prince Caspian",
+      "The Magician's Nephew",
+      "The Silver Chair"
+    ],
+    "answer": "The Lion, the Witch and the Wardrobe"
+  },
+  {
+    "id": "general-1128",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which Russian author wrote 'Crime and Punishment'?",
+    "options": [
+      "Fyodor Dostoevsky",
+      "Leo Tolstoy",
+      "Anton Chekhov",
+      "Nikolai Gogol"
+    ],
+    "answer": "Fyodor Dostoevsky"
+  },
+  {
+    "id": "general-1129",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Who wrote the play 'A Streetcar Named Desire'?",
+    "options": [
+      "Tennessee Williams",
+      "Arthur Miller",
+      "Eugene O'Neill",
+      "Edward Albee"
+    ],
+    "answer": "Tennessee Williams"
+  },
+  {
+    "id": "general-1130",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the name of the fictional town in most of William Faulkner's novels?",
+    "options": [
+      "Yoknapatawpha County",
+      "Maycomb",
+      "Salem's Lot",
+      "Sleepy Hollow"
+    ],
+    "answer": "Yoknapatawpha County"
+  },
+  {
+    "id": "general-1131",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which novel by Charlotte Bronte tells the story of a governess who falls in love with her employer?",
+    "options": [
+      "Jane Eyre",
+      "Wuthering Heights",
+      "Villette",
+      "Shirley"
+    ],
+    "answer": "Jane Eyre"
+  },
+  {
+    "id": "general-1132",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Who wrote 'The Divine Comedy'?",
+    "options": [
+      "Dante Alighieri",
+      "Geoffrey Chaucer",
+      "Giovanni Boccaccio",
+      "Petrarch"
+    ],
+    "answer": "Dante Alighieri"
+  },
+  {
+    "id": "general-1133",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the name of the whale in Herman Melville's most famous novel?",
+    "options": [
+      "Moby Dick",
+      "Leviathan",
+      "White Fang",
+      "Behemoth"
+    ],
+    "answer": "Moby Dick"
+  },
+  {
+    "id": "general-1134",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which author wrote the 'Discworld' fantasy series?",
+    "options": [
+      "Terry Pratchett",
+      "Neil Gaiman",
+      "Douglas Adams",
+      "J.R.R. Tolkien"
+    ],
+    "answer": "Terry Pratchett"
+  },
+  {
+    "id": "general-1135",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In Greek mythology-inspired literature, who wrote 'Percy Jackson and the Olympians'?",
+    "options": [
+      "Rick Riordan",
+      "Suzanne Collins",
+      "John Green",
+      "Veronica Roth"
+    ],
+    "answer": "Rick Riordan"
+  },
+  {
+    "id": "general-1136",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which biblical scene is depicted at the center of the Sistine Chapel ceiling, showing God reaching toward a man?",
+    "options": [
+      "The Creation of Adam",
+      "The Last Judgment",
+      "The Expulsion from Eden",
+      "The Great Flood"
+    ],
+    "answer": "The Creation of Adam"
+  },
+  {
+    "id": "general-1137",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which artist is famous for cutting off part of his own ear?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Claude Monet",
+      "Salvador Dali"
+    ],
+    "answer": "Vincent van Gogh"
+  },
+  {
+    "id": "general-1138",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What art movement is Salvador Dali most associated with?",
+    "options": [
+      "Surrealism",
+      "Cubism",
+      "Impressionism",
+      "Expressionism"
+    ],
+    "answer": "Surrealism"
+  },
+  {
+    "id": "general-1139",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Who painted 'The Persistence of Memory', featuring melting clocks?",
+    "options": [
+      "Salvador Dali",
+      "Rene Magritte",
+      "Joan Miro",
+      "Max Ernst"
+    ],
+    "answer": "Salvador Dali"
+  },
+  {
+    "id": "general-1140",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which Dutch artist painted 'Girl with a Pearl Earring'?",
+    "options": [
+      "Johannes Vermeer",
+      "Rembrandt",
+      "Frans Hals",
+      "Jan Steen"
+    ],
+    "answer": "Johannes Vermeer"
+  },
+  {
+    "id": "general-1141",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the medium used in fresco painting, such as those by Michelangelo?",
+    "options": [
+      "Wet plaster",
+      "Oil on canvas",
+      "Watercolor on paper",
+      "Wax and pigment"
+    ],
+    "answer": "Wet plaster"
+  },
+  {
+    "id": "general-1142",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which pop artist is known for his paintings of Campbell's Soup Cans?",
+    "options": [
+      "Andy Warhol",
+      "Roy Lichtenstein",
+      "Jasper Johns",
+      "Keith Haring"
+    ],
+    "answer": "Andy Warhol"
+  },
+  {
+    "id": "general-1143",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Who sculpted the statue of David, now housed in Florence, Italy?",
+    "options": [
+      "Michelangelo",
+      "Donatello",
+      "Bernini",
+      "Cellini"
+    ],
+    "answer": "Michelangelo"
+  },
+  {
+    "id": "general-1144",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which art movement, pioneered by Monet, focused on capturing light and its changing qualities?",
+    "options": [
+      "Impressionism",
+      "Cubism",
+      "Fauvism",
+      "Realism"
+    ],
+    "answer": "Impressionism"
+  },
+  {
+    "id": "general-1145",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which composer, though he went deaf, composed his famous Ninth Symphony?",
+    "options": [
+      "Ludwig van Beethoven",
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Franz Schubert"
+    ],
+    "answer": "Ludwig van Beethoven"
+  },
+  {
+    "id": "general-1146",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which British rock band released the album 'Abbey Road'?",
+    "options": [
+      "The Beatles",
+      "The Rolling Stones",
+      "Pink Floyd",
+      "Led Zeppelin"
+    ],
+    "answer": "The Beatles"
+  },
+  {
+    "id": "general-1147",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which instrument is virtuoso violinist Itzhak Perlman best known for playing?",
+    "options": [
+      "Violin",
+      "Viola",
+      "Cello",
+      "Double bass"
+    ],
+    "answer": "Violin"
+  },
+  {
+    "id": "general-1148",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which pop star is known as the 'King of Pop'?",
+    "options": [
+      "Michael Jackson",
+      "Elvis Presley",
+      "Prince",
+      "James Brown"
+    ],
+    "answer": "Michael Jackson"
+  },
+  {
+    "id": "general-1149",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the term for a musical composition for a solo instrument accompanied by an orchestra?",
+    "options": [
+      "Concerto",
+      "Symphony",
+      "Sonata",
+      "Overture"
+    ],
+    "answer": "Concerto"
+  },
+  {
+    "id": "general-1150",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which Austrian composer wrote 'The Magic Flute'?",
+    "options": [
+      "Wolfgang Amadeus Mozart",
+      "Ludwig van Beethoven",
+      "Franz Joseph Haydn",
+      "Johann Strauss II"
+    ],
+    "answer": "Wolfgang Amadeus Mozart"
+  },
+  {
+    "id": "general-1151",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which female singer is known for hits like 'Rolling in the Deep' and albums named after her age at the time?",
+    "options": [
+      "Adele",
+      "Amy Winehouse",
+      "Duffy",
+      "Sam Smith"
+    ],
+    "answer": "Adele"
+  },
+  {
+    "id": "general-1152",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which trumpeter and singer, nicknamed 'Satchmo', was one of the most influential figures in early jazz?",
+    "options": [
+      "Louis Armstrong",
+      "Duke Ellington",
+      "Miles Davis",
+      "Dizzy Gillespie"
+    ],
+    "answer": "Louis Armstrong"
+  },
+  {
+    "id": "general-1153",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which Baroque composer wrote the 'Brandenburg Concertos'?",
+    "options": [
+      "Johann Sebastian Bach",
+      "Antonio Vivaldi",
+      "George Frideric Handel",
+      "Georg Philipp Telemann"
+    ],
+    "answer": "Johann Sebastian Bach"
+  },
+  {
+    "id": "general-1154",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What was the stage name of the Jamaican-British singer born Robyn Fenty?",
+    "options": [
+      "Rihanna",
+      "Sade",
+      "Estelle",
+      "M.I.A."
+    ],
+    "answer": "Rihanna"
+  },
+  {
+    "id": "general-1155",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which instrument family does the trumpet belong to?",
+    "options": [
+      "Brass",
+      "Woodwind",
+      "String",
+      "Percussion"
+    ],
+    "answer": "Brass"
+  },
+  {
+    "id": "general-1156",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which iconic music festival took place near Bethel, New York, in August 1969?",
+    "options": [
+      "Woodstock",
+      "Coachella",
+      "Glastonbury",
+      "Lollapalooza"
+    ],
+    "answer": "Woodstock"
+  },
+  {
+    "id": "general-1157",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which 2000 film features a volleyball named Wilson as a castaway's only companion?",
+    "options": [
+      "Cast Away",
+      "Life of Pi",
+      "The Martian",
+      "Robinson Crusoe"
+    ],
+    "answer": "Cast Away"
+  },
+  {
+    "id": "general-1158",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Who directed the 1975 film 'Jaws'?",
+    "options": [
+      "Steven Spielberg",
+      "George Lucas",
+      "Martin Scorsese",
+      "Francis Ford Coppola"
+    ],
+    "answer": "Steven Spielberg"
+  },
+  {
+    "id": "general-1159",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which 1994 film features a shrimp business and the line 'Life is like a box of chocolates'?",
+    "options": [
+      "Forrest Gump",
+      "Pulp Fiction",
+      "The Shawshank Redemption",
+      "The Lion King"
+    ],
+    "answer": "Forrest Gump"
+  },
+  {
+    "id": "general-1160",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In the 'Star Wars' films, who is Luke Skywalker's father?",
+    "options": [
+      "Darth Vader",
+      "Obi-Wan Kenobi",
+      "Han Solo",
+      "Emperor Palpatine"
+    ],
+    "answer": "Darth Vader"
+  },
+  {
+    "id": "general-1161",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which actress played Elizabeth Swann in the 'Pirates of the Caribbean' series?",
+    "options": [
+      "Keira Knightley",
+      "Kate Winslet",
+      "Rachel Weisz",
+      "Natalie Portman"
+    ],
+    "answer": "Keira Knightley"
+  },
+  {
+    "id": "general-1162",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which actor won the Academy Award for Best Actor for his role in 'Forrest Gump'?",
+    "options": [
+      "Tom Hanks",
+      "Kevin Costner",
+      "Denzel Washington",
+      "Morgan Freeman"
+    ],
+    "answer": "Tom Hanks"
+  },
+  {
+    "id": "general-1163",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which actor won an Academy Award for playing the Joker in 2019's 'Joker', separate from the Nolan trilogy?",
+    "options": [
+      "Joaquin Phoenix",
+      "Heath Ledger",
+      "Jared Leto",
+      "Jack Nicholson"
+    ],
+    "answer": "Joaquin Phoenix"
+  },
+  {
+    "id": "general-1164",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which animated film features a clownfish named Marlin searching for his son?",
+    "options": [
+      "Finding Nemo",
+      "Shark Tale",
+      "The Little Mermaid",
+      "Finding Dory"
+    ],
+    "answer": "Finding Nemo"
+  },
+  {
+    "id": "general-1165",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the name of the hotel in Stanley Kubrick's 'The Shining'?",
+    "options": [
+      "The Overlook Hotel",
+      "The Stanley Hotel",
+      "The Timberline Lodge",
+      "The Grand Budapest Hotel"
+    ],
+    "answer": "The Overlook Hotel"
+  },
+  {
+    "id": "general-1166",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which film series features the character Ellen Ripley battling xenomorphs?",
+    "options": [
+      "Alien",
+      "Predator",
+      "The Terminator",
+      "Blade Runner"
+    ],
+    "answer": "Alien"
+  },
+  {
+    "id": "general-1167",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Who directed the film 'Inception'?",
+    "options": [
+      "Christopher Nolan",
+      "James Cameron",
+      "Ridley Scott",
+      "Denis Villeneuve"
+    ],
+    "answer": "Christopher Nolan"
+  },
+  {
+    "id": "general-1168",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the highest-grossing film of all time (unadjusted for inflation) as of the early 2020s?",
+    "options": [
+      "Avatar",
+      "Avengers: Endgame",
+      "Titanic",
+      "Star Wars: The Force Awakens"
+    ],
+    "answer": "Avatar"
+  },
+  {
+    "id": "general-1169",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which 1997 film starring Leonardo DiCaprio and Kate Winslet is set aboard a doomed ocean liner?",
+    "options": [
+      "Titanic",
+      "The Aviator",
+      "Revolutionary Road",
+      "Shutter Island"
+    ],
+    "answer": "Titanic"
+  },
+  {
+    "id": "general-1170",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In 'The Wizard of Oz', what color are Dorothy's iconic shoes?",
+    "options": [
+      "Ruby red",
+      "Emerald green",
+      "Silver",
+      "Gold"
+    ],
+    "answer": "Ruby red"
+  },
+  {
+    "id": "general-1171",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which actor voiced Woody in the 'Toy Story' franchise?",
+    "options": [
+      "Tom Hanks",
+      "Tim Allen",
+      "Billy Crystal",
+      "Robin Williams"
+    ],
+    "answer": "Tom Hanks"
+  },
+  {
+    "id": "general-1172",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which director is known for films such as 'Pulp Fiction' and 'Kill Bill'?",
+    "options": [
+      "Quentin Tarantino",
+      "Martin Scorsese",
+      "David Fincher",
+      "Guy Ritchie"
+    ],
+    "answer": "Quentin Tarantino"
+  },
+  {
+    "id": "general-1173",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which TV series follows chemistry teacher Walter White as he turns to manufacturing meth?",
+    "options": [
+      "Breaking Bad",
+      "Better Call Saul",
+      "The Wire",
+      "Ozark"
+    ],
+    "answer": "Breaking Bad"
+  },
+  {
+    "id": "general-1174",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In 'The Simpsons', what is the name of the family dog?",
+    "options": [
+      "Santa's Little Helper",
+      "Snowball",
+      "Scruffy",
+      "Rex"
+    ],
+    "answer": "Santa's Little Helper"
+  },
+  {
+    "id": "general-1175",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which sitcom is set in a New York City apartment building and features Sheldon Cooper?",
+    "options": [
+      "The Big Bang Theory",
+      "Friends",
+      "How I Met Your Mother",
+      "Seinfeld"
+    ],
+    "answer": "The Big Bang Theory"
+  },
+  {
+    "id": "general-1176",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the fictional town in the animated series 'The Simpsons'?",
+    "options": [
+      "Springfield",
+      "Quahog",
+      "South Park",
+      "Arlen"
+    ],
+    "answer": "Springfield"
+  },
+  {
+    "id": "general-1177",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which HBO series depicts organized crime through the eyes of mob boss Tony Soprano?",
+    "options": [
+      "The Sopranos",
+      "Boardwalk Empire",
+      "Ray Donovan",
+      "The Wire"
+    ],
+    "answer": "The Sopranos"
+  },
+  {
+    "id": "general-1178",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the name of the coffee shop frequented by the characters in 'Friends'?",
+    "options": [
+      "Central Perk",
+      "The Grind",
+      "Java Joe's",
+      "Common Grounds"
+    ],
+    "answer": "Central Perk"
+  },
+  {
+    "id": "general-1179",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which British sci-fi series features a time-traveling alien known as the Doctor?",
+    "options": [
+      "Doctor Who",
+      "Torchwood",
+      "Red Dwarf",
+      "Black Mirror"
+    ],
+    "answer": "Doctor Who"
+  },
+  {
+    "id": "general-1180",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In 'Game of Thrones', which house's sigil is a direwolf?",
+    "options": [
+      "House Stark",
+      "House Lannister",
+      "House Targaryen",
+      "House Baratheon"
+    ],
+    "answer": "House Stark"
+  },
+  {
+    "id": "general-1181",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How many players from each team are on the court in a standard basketball game?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "4"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": "general-1182",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In which sport is the playing area called a 'pitch' in most of the world outside North America?",
+    "options": [
+      "Soccer",
+      "Basketball",
+      "Baseball",
+      "Tennis"
+    ],
+    "answer": "Soccer"
+  },
+  {
+    "id": "general-1183",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How often are the Summer Olympic Games held?",
+    "options": [
+      "Every 4 years",
+      "Every 2 years",
+      "Every 3 years",
+      "Every 5 years"
+    ],
+    "answer": "Every 4 years"
+  },
+  {
+    "id": "general-1184",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which player has scored the most goals in FIFA World Cup history across all tournaments?",
+    "options": [
+      "Miroslav Klose",
+      "Ronaldo Nazario",
+      "Pele",
+      "Lionel Messi"
+    ],
+    "answer": "Miroslav Klose"
+  },
+  {
+    "id": "general-1185",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In tennis, what is the scoring term for the point immediately after deuce, when a player leads by one point?",
+    "options": [
+      "Advantage",
+      "Deuce",
+      "Match point",
+      "Break point"
+    ],
+    "answer": "Advantage"
+  },
+  {
+    "id": "general-1186",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which sport is known as 'the sweet science'?",
+    "options": [
+      "Boxing",
+      "Fencing",
+      "Wrestling",
+      "Judo"
+    ],
+    "answer": "Boxing"
+  },
+  {
+    "id": "general-1187",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "How many players make up a standard cricket team?",
+    "options": [
+      "11",
+      "9",
+      "10",
+      "12"
+    ],
+    "answer": "11"
+  },
+  {
+    "id": "general-1188",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which Grand Slam tennis tournament is played first each calendar year?",
+    "options": [
+      "Australian Open",
+      "French Open",
+      "Wimbledon",
+      "US Open"
+    ],
+    "answer": "Australian Open"
+  },
+  {
+    "id": "general-1189",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In golf, what term describes a score of one over par on a hole?",
+    "options": [
+      "Bogey",
+      "Birdie",
+      "Eagle",
+      "Par"
+    ],
+    "answer": "Bogey"
+  },
+  {
+    "id": "general-1190",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which country hosted the 2020 Summer Olympics, actually held in 2021?",
+    "options": [
+      "Japan",
+      "Brazil",
+      "United Kingdom",
+      "France"
+    ],
+    "answer": "Japan"
+  },
+  {
+    "id": "general-1191",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the maximum score possible in ten-pin bowling for a single game?",
+    "options": [
+      "300",
+      "270",
+      "250",
+      "200"
+    ],
+    "answer": "300"
+  },
+  {
+    "id": "general-1192",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which martial art originated in Japan and involves throws and joint locks, and translates roughly to 'gentle way'?",
+    "options": [
+      "Judo",
+      "Karate",
+      "Taekwondo",
+      "Kung Fu"
+    ],
+    "answer": "Judo"
+  },
+  {
+    "id": "general-1193",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In American football, how many points is a touchdown worth?",
+    "options": [
+      "6",
+      "7",
+      "3",
+      "2"
+    ],
+    "answer": "6"
+  },
+  {
+    "id": "general-1194",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which cyclist won the Tour de France a record seven consecutive times before being stripped of the titles?",
+    "options": [
+      "Lance Armstrong",
+      "Miguel Indurain",
+      "Eddy Merckx",
+      "Bernard Hinault"
+    ],
+    "answer": "Lance Armstrong"
+  },
+  {
+    "id": "general-1195",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the national sport of Japan?",
+    "options": [
+      "Sumo wrestling",
+      "Judo",
+      "Baseball",
+      "Karate"
+    ],
+    "answer": "Sumo wrestling"
+  },
+  {
+    "id": "general-1196",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In which sport do competitors use a shuttlecock?",
+    "options": [
+      "Badminton",
+      "Tennis",
+      "Squash",
+      "Table tennis"
+    ],
+    "answer": "Badminton"
+  },
+  {
+    "id": "general-1197",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In Roman mythology, who is the goddess of love and beauty?",
+    "options": [
+      "Venus",
+      "Juno",
+      "Minerva",
+      "Diana"
+    ],
+    "answer": "Venus"
+  },
+  {
+    "id": "general-1198",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which Norse god is associated with thunder and wields the hammer Mjolnir?",
+    "options": [
+      "Thor",
+      "Odin",
+      "Loki",
+      "Baldr"
+    ],
+    "answer": "Thor"
+  },
+  {
+    "id": "general-1199",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In Egyptian mythology, who is the sun god, often depicted with a falcon head and sun disk?",
+    "options": [
+      "Ra",
+      "Osiris",
+      "Horus",
+      "Set"
+    ],
+    "answer": "Ra"
+  },
+  {
+    "id": "general-1200",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Who is the Greek goddess of wisdom and strategic warfare?",
+    "options": [
+      "Athena",
+      "Aphrodite",
+      "Hera",
+      "Artemis"
+    ],
+    "answer": "Athena"
+  },
+  {
+    "id": "general-1201",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In Hindu mythology, which deity is known as the destroyer and transformer within the trinity?",
+    "options": [
+      "Shiva",
+      "Vishnu",
+      "Brahma",
+      "Ganesha"
+    ],
+    "answer": "Shiva"
+  },
+  {
+    "id": "general-1202",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the sacred text central to Islam believed to be revealed to the Prophet Muhammad?",
+    "options": [
+      "The Quran",
+      "The Torah",
+      "The Bible",
+      "The Vedas"
+    ],
+    "answer": "The Quran"
+  },
+  {
+    "id": "general-1203",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In Greek mythology, which titan stole fire from the gods to give to humanity?",
+    "options": [
+      "Prometheus",
+      "Atlas",
+      "Epimetheus",
+      "Cronus"
+    ],
+    "answer": "Prometheus"
+  },
+  {
+    "id": "general-1204",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which Norse figure is a trickster god known for shapeshifting and causing mischief?",
+    "options": [
+      "Loki",
+      "Thor",
+      "Freyr",
+      "Heimdall"
+    ],
+    "answer": "Loki"
+  },
+  {
+    "id": "general-1205",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In Buddhism, what is the term for the cycle of death and rebirth?",
+    "options": [
+      "Samsara",
+      "Nirvana",
+      "Dharma",
+      "Karma"
+    ],
+    "answer": "Samsara"
+  },
+  {
+    "id": "general-1206",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which Roman god is the counterpart to the Greek god Zeus?",
+    "options": [
+      "Jupiter",
+      "Neptune",
+      "Mars",
+      "Mercury"
+    ],
+    "answer": "Jupiter"
+  },
+  {
+    "id": "general-1207",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In Chinese mythology and culture, which mythical creature symbolizes power, strength, and good luck?",
+    "options": [
+      "The dragon",
+      "The phoenix",
+      "The qilin",
+      "The tiger"
+    ],
+    "answer": "The dragon"
+  },
+  {
+    "id": "general-1208",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "According to the Bible, who built an ark to survive a great flood?",
+    "options": [
+      "Noah",
+      "Moses",
+      "Abraham",
+      "Jonah"
+    ],
+    "answer": "Noah"
+  },
+  {
+    "id": "general-1209",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which country is credited with inventing pizza in its modern form?",
+    "options": [
+      "Italy",
+      "Greece",
+      "France",
+      "Spain"
+    ],
+    "answer": "Italy"
+  },
+  {
+    "id": "general-1210",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the main fermented ingredient that gives traditional Japanese miso soup its flavor?",
+    "options": [
+      "Miso paste (fermented soybeans)",
+      "Fermented rice",
+      "Fermented fish sauce",
+      "Fermented tofu"
+    ],
+    "answer": "Miso paste (fermented soybeans)"
+  },
+  {
+    "id": "general-1211",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which spice is derived from the Crocus flower and is the most expensive by weight?",
+    "options": [
+      "Saffron",
+      "Cardamom",
+      "Vanilla",
+      "Cinnamon"
+    ],
+    "answer": "Saffron"
+  },
+  {
+    "id": "general-1212",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What type of pastry is used to make a traditional French croissant?",
+    "options": [
+      "Laminated dough",
+      "Shortcrust pastry",
+      "Choux pastry",
+      "Filo pastry"
+    ],
+    "answer": "Laminated dough"
+  },
+  {
+    "id": "general-1213",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which country is the origin of the dish paella?",
+    "options": [
+      "Spain",
+      "Portugal",
+      "Mexico",
+      "Italy"
+    ],
+    "answer": "Spain"
+  },
+  {
+    "id": "general-1214",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the primary alcohol content source in beer that gives it its characteristic taste, along with hops?",
+    "options": [
+      "Malted barley",
+      "Wheat flour",
+      "Corn syrup",
+      "Rice"
+    ],
+    "answer": "Malted barley"
+  },
+  {
+    "id": "general-1215",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which fruit is used to make traditional guacamole?",
+    "options": [
+      "Avocado",
+      "Tomato",
+      "Mango",
+      "Lime"
+    ],
+    "answer": "Avocado"
+  },
+  {
+    "id": "general-1216",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the name of the Japanese rice wine made by fermenting rice?",
+    "options": [
+      "Sake",
+      "Shochu",
+      "Mirin",
+      "Umeshu"
+    ],
+    "answer": "Sake"
+  },
+  {
+    "id": "general-1217",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which country is famous for originating the dish sushi?",
+    "options": [
+      "Japan",
+      "China",
+      "Korea",
+      "Thailand"
+    ],
+    "answer": "Japan"
+  },
+  {
+    "id": "general-1218",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the main ingredient in traditional Greek tzatziki sauce, besides yogurt?",
+    "options": [
+      "Cucumber",
+      "Eggplant",
+      "Spinach",
+      "Zucchini"
+    ],
+    "answer": "Cucumber"
+  },
+  {
+    "id": "general-1219",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which country is credited as the origin of chocolate, using cacao beans first cultivated by the Olmec and Maya?",
+    "options": [
+      "Mexico",
+      "Switzerland",
+      "Belgium",
+      "Ghana"
+    ],
+    "answer": "Mexico"
+  },
+  {
+    "id": "general-1220",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the process called when grapes are fermented to produce wine?",
+    "options": [
+      "Vinification",
+      "Distillation",
+      "Malting",
+      "Curing"
+    ],
+    "answer": "Vinification"
+  },
+  {
+    "id": "general-1221",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which computer scientist is known as a father of the Internet for co-designing the TCP/IP protocols?",
+    "options": [
+      "Vint Cerf",
+      "Tim Berners-Lee",
+      "Bill Gates",
+      "Alan Turing"
+    ],
+    "answer": "Vint Cerf"
+  },
+  {
+    "id": "general-1222",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'CPU' stand for in computing?",
+    "options": [
+      "Central Processing Unit",
+      "Computer Processing Unit",
+      "Central Program Unit",
+      "Core Processing Utility"
+    ],
+    "answer": "Central Processing Unit"
+  },
+  {
+    "id": "general-1223",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What was the name of the mobile operating system developed by BlackBerry, once a dominant force in smartphones?",
+    "options": [
+      "BlackBerry OS",
+      "Symbian",
+      "webOS",
+      "Android"
+    ],
+    "answer": "BlackBerry OS"
+  },
+  {
+    "id": "general-1224",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Who is credited with inventing the telephone in 1876?",
+    "options": [
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Guglielmo Marconi"
+    ],
+    "answer": "Alexander Graham Bell"
+  },
+  {
+    "id": "general-1225",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What does 'HTML' stand for?",
+    "options": [
+      "HyperText Markup Language",
+      "HighText Machine Language",
+      "HyperTransfer Markup Language",
+      "Home Tool Markup Language"
+    ],
+    "answer": "HyperText Markup Language"
+  },
+  {
+    "id": "general-1226",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which company created the first commercially successful graphical user interface computer, the Macintosh?",
+    "options": [
+      "Apple",
+      "IBM",
+      "Microsoft",
+      "Xerox"
+    ],
+    "answer": "Apple"
+  },
+  {
+    "id": "general-1227",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the name of the first programmable electronic general-purpose computer, completed in 1945?",
+    "options": [
+      "ENIAC",
+      "UNIVAC",
+      "Colossus",
+      "EDSAC"
+    ],
+    "answer": "ENIAC"
+  },
+  {
+    "id": "general-1228",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Who invented the printing press with movable type in the 15th century?",
+    "options": [
+      "Johannes Gutenberg",
+      "William Caxton",
+      "Aldus Manutius",
+      "Nicolas Jenson"
+    ],
+    "answer": "Johannes Gutenberg"
+  },
+  {
+    "id": "general-1229",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'GPS' stand for?",
+    "options": [
+      "Global Positioning System",
+      "Geo Positioning Service",
+      "Global Path System",
+      "Ground Position Sensor"
+    ],
+    "answer": "Global Positioning System"
+  },
+  {
+    "id": "general-1230",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which inventor is credited with developing the practical incandescent light bulb?",
+    "options": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Michael Faraday",
+      "James Watt"
+    ],
+    "answer": "Thomas Edison"
+  },
+  {
+    "id": "general-1231",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What was the first widely-used web browser, released in 1993?",
+    "options": [
+      "Mosaic",
+      "Netscape Navigator",
+      "Internet Explorer",
+      "Opera"
+    ],
+    "answer": "Mosaic"
+  },
+  {
+    "id": "general-1232",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which programming language is famous for being named after a British comedy troupe?",
+    "options": [
+      "Python",
+      "Ruby",
+      "Perl",
+      "Java"
+    ],
+    "answer": "Python"
+  },
+  {
+    "id": "general-1233",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which African animal is the second-largest land mammal after the elephant?",
+    "options": [
+      "White rhinoceros",
+      "Hippopotamus",
+      "Giraffe",
+      "Cape buffalo"
+    ],
+    "answer": "White rhinoceros"
+  },
+  {
+    "id": "general-1234",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which big cat is known for having a mane, primarily in males?",
+    "options": [
+      "Lion",
+      "Tiger",
+      "Jaguar",
+      "Leopard"
+    ],
+    "answer": "Lion"
+  },
+  {
+    "id": "general-1235",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is a group of lions called?",
+    "options": [
+      "A pride",
+      "A pack",
+      "A herd",
+      "A troop"
+    ],
+    "answer": "A pride"
+  },
+  {
+    "id": "general-1236",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which bird is known for its inability to fly and is native to Antarctica?",
+    "options": [
+      "Penguin",
+      "Ostrich",
+      "Emu",
+      "Kiwi"
+    ],
+    "answer": "Penguin"
+  },
+  {
+    "id": "general-1237",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the fastest land animal in the world?",
+    "options": [
+      "Cheetah",
+      "Lion",
+      "Pronghorn",
+      "Greyhound"
+    ],
+    "answer": "Cheetah"
+  },
+  {
+    "id": "general-1238",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which marine animal is known to have three hearts?",
+    "options": [
+      "Octopus",
+      "Squid",
+      "Jellyfish",
+      "Starfish"
+    ],
+    "answer": "Octopus"
+  },
+  {
+    "id": "general-1239",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the tallest land animal in the world?",
+    "options": [
+      "Giraffe",
+      "Elephant",
+      "Camel",
+      "Ostrich"
+    ],
+    "answer": "Giraffe"
+  },
+  {
+    "id": "general-1240",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which insect is known for its highly organized colonies and production of honey?",
+    "options": [
+      "Honeybee",
+      "Wasp",
+      "Ant",
+      "Termite"
+    ],
+    "answer": "Honeybee"
+  },
+  {
+    "id": "general-1241",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What do you call an animal that eats both plants and meat?",
+    "options": [
+      "Omnivore",
+      "Herbivore",
+      "Carnivore",
+      "Detritivore"
+    ],
+    "answer": "Omnivore"
+  },
+  {
+    "id": "general-1242",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which reptile is the largest living species of lizard?",
+    "options": [
+      "Komodo dragon",
+      "Nile monitor",
+      "Green iguana",
+      "Gila monster"
+    ],
+    "answer": "Komodo dragon"
+  },
+  {
+    "id": "general-1243",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the process called when a snake sheds its skin?",
+    "options": [
+      "Ecdysis",
+      "Molting",
+      "Sloughing",
+      "Regeneration"
+    ],
+    "answer": "Ecdysis"
+  },
+  {
+    "id": "general-1244",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which animal is known to sleep standing up and can go without water for long periods, storing fat in its hump?",
+    "options": [
+      "Camel",
+      "Horse",
+      "Elephant",
+      "Giraffe"
+    ],
+    "answer": "Camel"
+  },
+  {
+    "id": "general-1245",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is a baby kangaroo called?",
+    "options": [
+      "Joey",
+      "Cub",
+      "Pup",
+      "Kit"
+    ],
+    "answer": "Joey"
+  },
+  {
+    "id": "general-1246",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which shark species is the largest fish in the world?",
+    "options": [
+      "Whale shark",
+      "Great white shark",
+      "Basking shark",
+      "Tiger shark"
+    ],
+    "answer": "Whale shark"
+  },
+  {
+    "id": "general-1247",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the largest species of penguin?",
+    "options": [
+      "Emperor penguin",
+      "King penguin",
+      "Gentoo penguin",
+      "Chinstrap penguin"
+    ],
+    "answer": "Emperor penguin"
+  },
+  {
+    "id": "general-1248",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which continent is home to the panda in the wild?",
+    "options": [
+      "Asia",
+      "Africa",
+      "South America",
+      "Australia"
+    ],
+    "answer": "Asia"
+  },
+  {
+    "id": "general-1249",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which country has the highest number of official national languages recognized by its constitution?",
+    "options": [
+      "South Africa",
+      "India",
+      "Switzerland",
+      "Singapore"
+    ],
+    "answer": "South Africa"
+  },
+  {
+    "id": "general-1250",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which language uses the Cyrillic alphabet as its writing system?",
+    "options": [
+      "Russian",
+      "Greek",
+      "Arabic",
+      "Hebrew"
+    ],
+    "answer": "Russian"
+  },
+  {
+    "id": "general-1251",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the term for a word that is spelled the same forward and backward?",
+    "options": [
+      "Palindrome",
+      "Anagram",
+      "Acronym",
+      "Homophone"
+    ],
+    "answer": "Palindrome"
+  },
+  {
+    "id": "general-1252",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which South American country has Dutch as one of its official languages, reflecting its colonial history?",
+    "options": [
+      "Suriname",
+      "Guyana",
+      "French Guiana",
+      "Venezuela"
+    ],
+    "answer": "Suriname"
+  },
+  {
+    "id": "general-1253",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What do you call two words that sound the same but have different meanings and spellings?",
+    "options": [
+      "Homophones",
+      "Synonyms",
+      "Antonyms",
+      "Homographs"
+    ],
+    "answer": "Homophones"
+  },
+  {
+    "id": "general-1254",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which alphabet, consisting of 24 letters, originated in ancient Greece and gave rise to the Latin alphabet?",
+    "options": [
+      "Greek alphabet",
+      "Phoenician alphabet",
+      "Cyrillic alphabet",
+      "Runic alphabet"
+    ],
+    "answer": "Greek alphabet"
+  },
+  {
+    "id": "general-1255",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the official language of Indonesia?",
+    "options": [
+      "Indonesian",
+      "Malay",
+      "Javanese",
+      "Tagalog"
+    ],
+    "answer": "Indonesian"
+  },
+  {
+    "id": "general-1256",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Who is known as the 'father of modern physics' and developed the theory of relativity?",
+    "options": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Stephen Hawking",
+      "Niels Bohr"
+    ],
+    "answer": "Albert Einstein"
+  },
+  {
+    "id": "general-1257",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which inventor and scientist is credited with over 1,000 patents, including for the phonograph?",
+    "options": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Alexander Graham Bell",
+      "Guglielmo Marconi"
+    ],
+    "answer": "Thomas Edison"
+  },
+  {
+    "id": "general-1258",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Who was the longest-reigning British monarch before her death in 2022?",
+    "options": [
+      "Queen Elizabeth II",
+      "Queen Victoria",
+      "King George III",
+      "King George VI"
+    ],
+    "answer": "Queen Elizabeth II"
+  },
+  {
+    "id": "general-1259",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "At which historic location did Martin Luther King Jr. deliver his 'I Have a Dream' speech?",
+    "options": [
+      "The Lincoln Memorial",
+      "The US Capitol",
+      "The White House",
+      "Ebenezer Baptist Church"
+    ],
+    "answer": "The Lincoln Memorial"
+  },
+  {
+    "id": "general-1260",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Who is credited with founding the Microsoft software company alongside Paul Allen?",
+    "options": [
+      "Bill Gates",
+      "Steve Jobs",
+      "Larry Page",
+      "Jeff Bezos"
+    ],
+    "answer": "Bill Gates"
+  },
+  {
+    "id": "general-1261",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which physicist developed the theory of general relativity and won the Nobel Prize for the photoelectric effect?",
+    "options": [
+      "Albert Einstein",
+      "Max Planck",
+      "Werner Heisenberg",
+      "Erwin Schrodinger"
+    ],
+    "answer": "Albert Einstein"
+  },
+  {
+    "id": "general-1262",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Who was the first female Prime Minister of the United Kingdom?",
+    "options": [
+      "Margaret Thatcher",
+      "Theresa May",
+      "Liz Truss",
+      "Angela Merkel"
+    ],
+    "answer": "Margaret Thatcher"
+  },
+  {
+    "id": "general-1263",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which polio vaccine pioneer developed the first successful injectable vaccine in the 1950s?",
+    "options": [
+      "Jonas Salk",
+      "Louis Pasteur",
+      "Edward Jenner",
+      "Albert Sabin"
+    ],
+    "answer": "Jonas Salk"
+  },
+  {
+    "id": "general-1264",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Who wrote the theory of evolution by natural selection in 'On the Origin of Species'?",
+    "options": [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Alfred Russel Wallace",
+      "Thomas Huxley"
+    ],
+    "answer": "Charles Darwin"
+  },
+  {
+    "id": "general-1265",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which physicist is known for his work on radioactivity and was the first person to win Nobel Prizes in two different sciences?",
+    "options": [
+      "Marie Curie",
+      "Ernest Rutherford",
+      "Wilhelm Rontgen",
+      "Henri Becquerel"
+    ],
+    "answer": "Marie Curie"
+  },
+  {
+    "id": "general-1266",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the currency used in Switzerland?",
+    "options": [
+      "Swiss franc",
+      "Euro",
+      "Swiss mark",
+      "Swiss pound"
+    ],
+    "answer": "Swiss franc"
+  },
+  {
+    "id": "general-1267",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which planet is closest to the Sun?",
+    "options": [
+      "Mercury",
+      "Venus",
+      "Earth",
+      "Mars"
+    ],
+    "answer": "Mercury"
+  },
+  {
+    "id": "general-1268",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which mountain, measured from base to peak, is actually taller than Mount Everest though its summit is lower in elevation above sea level?",
+    "options": [
+      "Mauna Kea",
+      "K2",
+      "Denali",
+      "Kilimanjaro"
+    ],
+    "answer": "Mauna Kea"
+  },
+  {
+    "id": "general-1269",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which is the smallest of the world's five oceans by surface area?",
+    "options": [
+      "Arctic Ocean",
+      "Southern Ocean",
+      "Indian Ocean",
+      "Atlantic Ocean"
+    ],
+    "answer": "Arctic Ocean"
+  },
+  {
+    "id": "general-1270",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the national flower of Japan?",
+    "options": [
+      "Cherry blossom",
+      "Lotus",
+      "Chrysanthemum",
+      "Iris"
+    ],
+    "answer": "Cherry blossom"
+  },
+  {
+    "id": "general-1271",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which country funded and built the Eiffel Tower for the 1889 World's Fair?",
+    "options": [
+      "France",
+      "Belgium",
+      "United Kingdom",
+      "Italy"
+    ],
+    "answer": "France"
+  },
+  {
+    "id": "general-1272",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the largest continent by both area and population?",
+    "options": [
+      "Asia",
+      "Africa",
+      "North America",
+      "Europe"
+    ],
+    "answer": "Asia"
+  },
+  {
+    "id": "general-1273",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which board game involves buying and trading properties like Boardwalk and Park Place?",
+    "options": [
+      "Monopoly",
+      "Risk",
+      "The Game of Life",
+      "Clue"
+    ],
+    "answer": "Monopoly"
+  },
+  {
+    "id": "general-1274",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the name of the toy that spins and is balanced on a point, popular as a children's toy for centuries?",
+    "options": [
+      "Top",
+      "Yo-yo",
+      "Kite",
+      "Marble"
+    ],
+    "answer": "Top"
+  },
+  {
+    "id": "general-1275",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which card game is often played to 21 and involves trying to beat the dealer without going over?",
+    "options": [
+      "Blackjack",
+      "Poker",
+      "Baccarat",
+      "Bridge"
+    ],
+    "answer": "Blackjack"
+  },
+  {
+    "id": "general-1276",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the term for a word puzzle where letters are rearranged to form another word?",
+    "options": [
+      "Anagram",
+      "Acrostic",
+      "Cryptogram",
+      "Palindrome"
+    ],
+    "answer": "Anagram"
+  },
+  {
+    "id": "general-1277",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which chess piece can only move diagonally?",
+    "options": [
+      "Bishop",
+      "Rook",
+      "Knight",
+      "Queen"
+    ],
+    "answer": "Bishop"
+  },
+  {
+    "id": "general-1278",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In the game of chess, what is it called when the king is under threat of capture but has no legal move to escape?",
+    "options": [
+      "Checkmate",
+      "Check",
+      "Stalemate",
+      "Castling"
+    ],
+    "answer": "Checkmate"
+  },
+  {
+    "id": "general-1279",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the term used for a two-word phrase where the meaning cannot be deduced from the individual words, like 'kick the bucket'?",
+    "options": [
+      "Idiom",
+      "Metaphor",
+      "Simile",
+      "Proverb"
+    ],
+    "answer": "Idiom"
+  },
+  {
+    "id": "general-1280",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which annual event in Pamplona, Spain, involves participants running ahead of released bulls?",
+    "options": [
+      "Running of the Bulls",
+      "La Tomatina",
+      "Feria de Abril",
+      "Semana Santa"
+    ],
+    "answer": "Running of the Bulls"
+  },
+  {
+    "id": "general-1281",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the name of the famous clock tower in London that houses the bell known as Big Ben?",
+    "options": [
+      "Elizabeth Tower",
+      "Clock Tower",
+      "Westminster Tower",
+      "Victoria Tower"
+    ],
+    "answer": "Elizabeth Tower"
+  },
+  {
+    "id": "general-1282",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which country is famous for the ancient ruins of Machu Picchu?",
+    "options": [
+      "Peru",
+      "Bolivia",
+      "Ecuador",
+      "Colombia"
+    ],
+    "answer": "Peru"
+  },
+  {
+    "id": "general-1283",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the term for an official currency that is not backed by a physical commodity like gold?",
+    "options": [
+      "Fiat currency",
+      "Cryptocurrency",
+      "Commodity currency",
+      "Reserve currency"
+    ],
+    "answer": "Fiat currency"
+  },
+  {
+    "id": "general-1284",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which is the only mammal known to lay eggs rather than give live birth?",
+    "options": [
+      "Platypus",
+      "Kangaroo",
+      "Koala",
+      "Armadillo"
+    ],
+    "answer": "Platypus"
+  },
+  {
+    "id": "general-1285",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which traditional Japanese theater art form is known for elaborate makeup and an all-male cast?",
+    "options": [
+      "Kabuki",
+      "Noh",
+      "Bunraku",
+      "Rakugo"
+    ],
+    "answer": "Kabuki"
+  },
+  {
+    "id": "general-1286",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which country invented the sport of golf?",
+    "options": [
+      "Scotland",
+      "England",
+      "Ireland",
+      "Netherlands"
+    ],
+    "answer": "Scotland"
+  },
+  {
+    "id": "general-1287",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the name of the annual film awards ceremony often referred to as 'Oscars'?",
+    "options": [
+      "Academy Awards",
+      "Golden Globes",
+      "BAFTA Awards",
+      "Emmy Awards"
+    ],
+    "answer": "Academy Awards"
+  },
+  {
+    "id": "general-1288",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which country is home to the ancient site of Stonehenge?",
+    "options": [
+      "England",
+      "Ireland",
+      "Scotland",
+      "Wales"
+    ],
+    "answer": "England"
+  },
+  {
+    "id": "general-1289",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the term for a leader who rules with absolute power, often oppressively?",
+    "options": [
+      "Dictator",
+      "Monarch",
+      "President",
+      "Chancellor"
+    ],
+    "answer": "Dictator"
+  },
+  {
+    "id": "general-1290",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which of these is the largest freshwater lake in the world by surface area?",
+    "options": [
+      "Lake Superior",
+      "Lake Victoria",
+      "Lake Baikal",
+      "Lake Michigan"
+    ],
+    "answer": "Lake Superior"
+  },
+  {
+    "id": "general-1291",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the name of the Indian festival of lights, celebrated by Hindus, Sikhs, and Jains?",
+    "options": [
+      "Diwali",
+      "Holi",
+      "Navratri",
+      "Vaisakhi"
+    ],
+    "answer": "Diwali"
+  },
+  {
+    "id": "general-1292",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which country celebrates 'Canada Day' as its national day on July 1st?",
+    "options": [
+      "Canada",
+      "United States",
+      "Australia",
+      "New Zealand"
+    ],
+    "answer": "Canada"
+  },
+  {
+    "id": "general-1293",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the tallest man-made structure in the world as of the early 2020s?",
+    "options": [
+      "Burj Khalifa",
+      "Shanghai Tower",
+      "Abraj Al-Bait Clock Tower",
+      "One World Trade Center"
+    ],
+    "answer": "Burj Khalifa"
+  },
+  {
+    "id": "general-1294",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which country is credited with inventing the game of table tennis (ping pong)?",
+    "options": [
+      "England",
+      "China",
+      "Japan",
+      "United States"
+    ],
+    "answer": "England"
+  },
+  {
+    "id": "general-1295",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the collective name for the group of Nordic countries including Norway, Sweden, Denmark, Finland, and Iceland?",
+    "options": [
+      "Scandinavia",
+      "Baltic States",
+      "Benelux",
+      "The British Isles"
+    ],
+    "answer": "Scandinavia"
+  },
+  {
+    "id": "general-1296",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which sport uses terms such as 'love', 'deuce', and 'ace'?",
+    "options": [
+      "Tennis",
+      "Badminton",
+      "Squash",
+      "Table tennis"
+    ],
+    "answer": "Tennis"
+  },
+  {
+    "id": "general-1297",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the name of the largest coral reef system in the world?",
+    "options": [
+      "Great Barrier Reef",
+      "Belize Barrier Reef",
+      "Red Sea Coral Reef",
+      "New Caledonia Barrier Reef"
+    ],
+    "answer": "Great Barrier Reef"
+  },
+  {
+    "id": "general-1298",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which country is the origin of the Christmas tradition of decorating an evergreen tree?",
+    "options": [
+      "Germany",
+      "England",
+      "United States",
+      "Norway"
+    ],
+    "answer": "Germany"
+  },
+  {
+    "id": "general-1299",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the name for a period of economic decline typically defined as two consecutive quarters of negative growth?",
+    "options": [
+      "Recession",
+      "Depression",
+      "Inflation",
+      "Stagnation"
+    ],
+    "answer": "Recession"
+  },
+  {
+    "id": "general-1300",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which continent has the most countries?",
+    "options": [
+      "Africa",
+      "Asia",
+      "Europe",
+      "South America"
+    ],
+    "answer": "Africa"
+  },
+  {
+    "id": "general-1301",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the name of the phenomenon where a full or new moon coincides with the moon's closest approach to Earth, making it appear larger?",
+    "options": [
+      "Supermoon",
+      "Blue moon",
+      "Blood moon",
+      "Harvest moon"
+    ],
+    "answer": "Supermoon"
+  },
+  {
+    "id": "general-1302",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which country celebrates its Independence Day on July 4th, commemorating the 1776 Declaration of Independence?",
+    "options": [
+      "United States",
+      "Canada",
+      "Mexico",
+      "Australia"
+    ],
+    "answer": "United States"
+  },
+  {
+    "id": "general-1303",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the capital of Thailand?",
+    "options": [
+      "Bangkok",
+      "Chiang Mai",
+      "Phuket",
+      "Pattaya"
+    ],
+    "answer": "Bangkok"
+  },
+  {
+    "id": "general-1304",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the capital of Tunisia?",
+    "options": [
+      "Tunis",
+      "Sfax",
+      "Sousse",
+      "Kairouan"
+    ],
+    "answer": "Tunis"
+  },
+  {
+    "id": "general-1305",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the capital of Turkey?",
+    "options": [
+      "Ankara",
+      "Istanbul",
+      "Izmir",
+      "Antalya"
+    ],
+    "answer": "Ankara"
+  },
+  {
+    "id": "general-1306",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the capital of Kenya?",
+    "options": [
+      "Nairobi",
+      "Mombasa",
+      "Kisumu",
+      "Nakuru"
+    ],
+    "answer": "Nairobi"
+  },
+  {
+    "id": "general-1307",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the capital of Switzerland?",
+    "options": [
+      "Bern",
+      "Zurich",
+      "Geneva",
+      "Basel"
+    ],
+    "answer": "Bern"
+  },
+  {
+    "id": "general-1308",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the capital of Vietnam?",
+    "options": [
+      "Hanoi",
+      "Ho Chi Minh City",
+      "Da Nang",
+      "Hue"
+    ],
+    "answer": "Hanoi"
+  },
+  {
+    "id": "general-1309",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the capital of Portugal?",
+    "options": [
+      "Lisbon",
+      "Porto",
+      "Faro",
+      "Braga"
+    ],
+    "answer": "Lisbon"
+  },
+  {
+    "id": "general-1310",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the capital of Norway?",
+    "options": [
+      "Oslo",
+      "Bergen",
+      "Trondheim",
+      "Stavanger"
+    ],
+    "answer": "Oslo"
+  },
+  {
+    "id": "general-1311",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which country is home to the Serengeti National Park, famous for its annual wildebeest migration?",
+    "options": [
+      "Tanzania",
+      "Kenya",
+      "Uganda",
+      "Zambia"
+    ],
+    "answer": "Tanzania"
+  },
+  {
+    "id": "general-1312",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which river flows through Paris?",
+    "options": [
+      "Seine",
+      "Loire",
+      "Rhone",
+      "Garonne"
+    ],
+    "answer": "Seine"
+  },
+  {
+    "id": "general-1313",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which river is the longest in the United Kingdom?",
+    "options": [
+      "River Severn",
+      "River Thames",
+      "River Trent",
+      "River Avon"
+    ],
+    "answer": "River Severn"
+  },
+  {
+    "id": "general-1314",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which country does the Amazon River primarily flow through before reaching the Atlantic?",
+    "options": [
+      "Brazil",
+      "Peru",
+      "Colombia",
+      "Ecuador"
+    ],
+    "answer": "Brazil"
+  },
+  {
+    "id": "general-1315",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the name of the mountain range that stretches across much of Central Europe, home to the Matterhorn?",
+    "options": [
+      "Alps",
+      "Pyrenees",
+      "Carpathians",
+      "Apennines"
+    ],
+    "answer": "Alps"
+  },
+  {
+    "id": "general-1316",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which US city is known as the 'Windy City'?",
+    "options": [
+      "Chicago",
+      "New York",
+      "Boston",
+      "Detroit"
+    ],
+    "answer": "Chicago"
+  },
+  {
+    "id": "general-1317",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which country is shaped like a boot on the map of Europe?",
+    "options": [
+      "Italy",
+      "Greece",
+      "Croatia",
+      "Portugal"
+    ],
+    "answer": "Italy"
+  },
+  {
+    "id": "general-1318",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which US Founding Father, never a president, is depicted on the $100 bill?",
+    "options": [
+      "Benjamin Franklin",
+      "Alexander Hamilton",
+      "John Adams",
+      "James Madison"
+    ],
+    "answer": "Benjamin Franklin"
+  },
+  {
+    "id": "general-1319",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What was the name of the wall that divided East and West Berlin from 1961 to 1989?",
+    "options": [
+      "Berlin Wall",
+      "Iron Curtain",
+      "Maginot Line",
+      "Hadrian's Wall"
+    ],
+    "answer": "Berlin Wall"
+  },
+  {
+    "id": "general-1320",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which Chinese dynasty built the majority of the Great Wall of China as it stands today?",
+    "options": [
+      "Ming dynasty",
+      "Qin dynasty",
+      "Han dynasty",
+      "Tang dynasty"
+    ],
+    "answer": "Ming dynasty"
+  },
+  {
+    "id": "general-1321",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Who was the French military leader who became Emperor and was eventually exiled to Elba and later St. Helena?",
+    "options": [
+      "Napoleon Bonaparte",
+      "Charles de Gaulle",
+      "Louis XIV",
+      "Robespierre"
+    ],
+    "answer": "Napoleon Bonaparte"
+  },
+  {
+    "id": "general-1322",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which country was divided into North and South after World War II, leading to a war from 1950 to 1953?",
+    "options": [
+      "Korea",
+      "Vietnam",
+      "Germany",
+      "China"
+    ],
+    "answer": "Korea"
+  },
+  {
+    "id": "general-1323",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What was the name of the economic crisis that began in 1929 and lasted through much of the 1930s?",
+    "options": [
+      "The Great Depression",
+      "The Great Recession",
+      "Black Monday",
+      "The Panic of 1907"
+    ],
+    "answer": "The Great Depression"
+  },
+  {
+    "id": "general-1324",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which ancient civilization built the massive stone heads found on Mexico's Gulf Coast?",
+    "options": [
+      "The Olmec",
+      "The Aztec",
+      "The Maya",
+      "The Toltec"
+    ],
+    "answer": "The Olmec"
+  },
+  {
+    "id": "general-1325",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Who was the queen of England during the Elizabethan era, known for defeating the Spanish Armada?",
+    "options": [
+      "Elizabeth I",
+      "Mary I",
+      "Victoria",
+      "Anne"
+    ],
+    "answer": "Elizabeth I"
+  },
+  {
+    "id": "general-1326",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which country first landed a rover on Mars successfully?",
+    "options": [
+      "United States",
+      "Soviet Union",
+      "China",
+      "European Union"
+    ],
+    "answer": "United States"
+  },
+  {
+    "id": "general-1327",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What was the name of the peace agreement that ended the American Revolutionary War in 1783?",
+    "options": [
+      "Treaty of Paris",
+      "Treaty of Versailles",
+      "Treaty of Ghent",
+      "Treaty of Utrecht"
+    ],
+    "answer": "Treaty of Paris"
+  },
+  {
+    "id": "general-1328",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which South American liberator helped free several countries from Spanish rule in the early 19th century?",
+    "options": [
+      "Simon Bolivar",
+      "Jose de San Martin",
+      "Bernardo O'Higgins",
+      "Miguel Hidalgo"
+    ],
+    "answer": "Simon Bolivar"
+  },
+  {
+    "id": "general-1329",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the name of the period following World War II characterized by tension between the US and USSR without direct military conflict?",
+    "options": [
+      "The Cold War",
+      "The Iron Age",
+      "The Space Race",
+      "Detente"
+    ],
+    "answer": "The Cold War"
+  },
+  {
+    "id": "general-1330",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which country was the first to use the guillotine as a method of execution during a revolution?",
+    "options": [
+      "France",
+      "England",
+      "Germany",
+      "Russia"
+    ],
+    "answer": "France"
+  },
+  {
+    "id": "general-1331",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Who was the Indian independence leader known for advocating nonviolent civil disobedience?",
+    "options": [
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Subhas Chandra Bose",
+      "Bhagat Singh"
+    ],
+    "answer": "Mahatma Gandhi"
+  },
+  {
+    "id": "general-1332",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which empire, centered in modern-day Peru, was the largest in pre-Columbian America?",
+    "options": [
+      "Inca Empire",
+      "Aztec Empire",
+      "Maya Empire",
+      "Olmec Empire"
+    ],
+    "answer": "Inca Empire"
+  },
+  {
+    "id": "general-1333",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the term for the boundary of a black hole beyond which nothing can escape?",
+    "options": [
+      "Event horizon",
+      "Singularity",
+      "Accretion disk",
+      "Photon sphere"
+    ],
+    "answer": "Event horizon"
+  },
+  {
+    "id": "general-1334",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which gas do humans exhale as a waste product of respiration?",
+    "options": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "answer": "Carbon dioxide"
+  },
+  {
+    "id": "general-1335",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the term for an animal's body temperature that varies with the environment, such as in reptiles?",
+    "options": [
+      "Ectothermic",
+      "Endothermic",
+      "Homeothermic",
+      "Poikilothermic and endothermic"
+    ],
+    "answer": "Ectothermic"
+  },
+  {
+    "id": "general-1336",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which scientist proposed the heliocentric model placing the Sun at the center of the solar system?",
+    "options": [
+      "Nicolaus Copernicus",
+      "Galileo Galilei",
+      "Johannes Kepler",
+      "Tycho Brahe"
+    ],
+    "answer": "Nicolaus Copernicus"
+  },
+  {
+    "id": "general-1337",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the name of the process by which cells divide to produce two identical daughter cells?",
+    "options": [
+      "Mitosis",
+      "Meiosis",
+      "Binary fission",
+      "Cytokinesis only"
+    ],
+    "answer": "Mitosis"
+  },
+  {
+    "id": "general-1338",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which planet has a day longer than its year, due to extremely slow rotation?",
+    "options": [
+      "Venus",
+      "Mercury",
+      "Mars",
+      "Uranus"
+    ],
+    "answer": "Venus"
+  },
+  {
+    "id": "general-1339",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What unit is used to measure the loudness of sound?",
+    "options": [
+      "Decibel",
+      "Hertz",
+      "Watt",
+      "Pascal"
+    ],
+    "answer": "Decibel"
+  },
+  {
+    "id": "general-1340",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which vitamin deficiency causes the disease scurvy?",
+    "options": [
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin B12",
+      "Vitamin A"
+    ],
+    "answer": "Vitamin C"
+  },
+  {
+    "id": "general-1341",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What unit of astronomical distance is defined as the distance light travels in one year?",
+    "options": [
+      "Light year",
+      "Astronomical unit",
+      "Parsec",
+      "Solar radius"
+    ],
+    "answer": "Light year"
+  },
+  {
+    "id": "general-1342",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which chemical element is essential for human bone strength and is often added to milk?",
+    "options": [
+      "Calcium",
+      "Iron",
+      "Zinc",
+      "Magnesium"
+    ],
+    "answer": "Calcium"
+  },
+  {
+    "id": "general-1343",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the name of the theory that explains the diversity of life through descent with modification?",
+    "options": [
+      "Theory of evolution",
+      "Theory of relativity",
+      "Germ theory",
+      "Cell theory"
+    ],
+    "answer": "Theory of evolution"
+  },
+  {
+    "id": "general-1344",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which force is responsible for objects being pulled toward the center of the Earth?",
+    "options": [
+      "Gravity",
+      "Magnetism",
+      "Electromagnetism",
+      "Nuclear force"
+    ],
+    "answer": "Gravity"
+  },
+  {
+    "id": "general-1345",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the term for a rock formed from cooled and solidified magma or lava?",
+    "options": [
+      "Igneous rock",
+      "Sedimentary rock",
+      "Metamorphic rock",
+      "Mineral rock"
+    ],
+    "answer": "Igneous rock"
+  },
+  {
+    "id": "general-1346",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which planet in the solar system rotates on its side, with an axial tilt of about 98 degrees?",
+    "options": [
+      "Uranus",
+      "Neptune",
+      "Saturn",
+      "Jupiter"
+    ],
+    "answer": "Uranus"
+  },
+  {
+    "id": "general-1347",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What do you call an organism that lives on or in a host and benefits at the host's expense?",
+    "options": [
+      "Parasite",
+      "Symbiont",
+      "Predator",
+      "Decomposer"
+    ],
+    "answer": "Parasite"
+  },
+  {
+    "id": "general-1348",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Who wrote the epic poem 'Paradise Lost'?",
+    "options": [
+      "John Milton",
+      "William Blake",
+      "John Donne",
+      "Alexander Pope"
+    ],
+    "answer": "John Milton"
+  },
+  {
+    "id": "general-1349",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which author wrote 'The Catcher in the Rye'?",
+    "options": [
+      "J.D. Salinger",
+      "John Steinbeck",
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald"
+    ],
+    "answer": "J.D. Salinger"
+  },
+  {
+    "id": "general-1350",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Who wrote the novel 'The Sun Also Rises'?",
+    "options": [
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald",
+      "John Steinbeck",
+      "William Faulkner"
+    ],
+    "answer": "Ernest Hemingway"
+  },
+  {
+    "id": "general-1351",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which playwright wrote 'Death of a Salesman'?",
+    "options": [
+      "Arthur Miller",
+      "Tennessee Williams",
+      "Eugene O'Neill",
+      "Edward Albee"
+    ],
+    "answer": "Arthur Miller"
+  },
+  {
+    "id": "general-1352",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Who is the author of the 'A Song of Ice and Fire' series that inspired 'Game of Thrones'?",
+    "options": [
+      "George R.R. Martin",
+      "J.R.R. Tolkien",
+      "Robert Jordan",
+      "Brandon Sanderson"
+    ],
+    "answer": "George R.R. Martin"
+  },
+  {
+    "id": "general-1353",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which Italian Renaissance artist painted the 'Mona Lisa'?",
+    "options": [
+      "Leonardo da Vinci",
+      "Michelangelo",
+      "Raphael",
+      "Titian"
+    ],
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "id": "general-1354",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Who painted 'Starry Night'?",
+    "options": [
+      "Vincent van Gogh",
+      "Claude Monet",
+      "Paul Cezanne",
+      "Georges Seurat"
+    ],
+    "answer": "Vincent van Gogh"
+  },
+  {
+    "id": "general-1355",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which Italian Baroque sculptor created 'The Ecstasy of Saint Teresa'?",
+    "options": [
+      "Gian Lorenzo Bernini",
+      "Auguste Rodin",
+      "Donatello",
+      "Antonio Canova"
+    ],
+    "answer": "Gian Lorenzo Bernini"
+  },
+  {
+    "id": "general-1356",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Who wrote the fantasy novel 'The Hobbit'?",
+    "options": [
+      "J.R.R. Tolkien",
+      "C.S. Lewis",
+      "George R.R. Martin",
+      "Terry Pratchett"
+    ],
+    "answer": "J.R.R. Tolkien"
+  },
+  {
+    "id": "general-1357",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which author wrote the dystopian novel 'Fahrenheit 451'?",
+    "options": [
+      "Ray Bradbury",
+      "George Orwell",
+      "Aldous Huxley",
+      "Kurt Vonnegut"
+    ],
+    "answer": "Ray Bradbury"
+  },
+  {
+    "id": "general-1358",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which composer wrote the ballet 'Swan Lake'?",
+    "options": [
+      "Pyotr Ilyich Tchaikovsky",
+      "Igor Stravinsky",
+      "Sergei Prokofiev",
+      "Modest Mussorgsky"
+    ],
+    "answer": "Pyotr Ilyich Tchaikovsky"
+  },
+  {
+    "id": "general-1359",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which American singer is nicknamed the 'Godfather of Soul'?",
+    "options": [
+      "James Brown",
+      "Otis Redding",
+      "Marvin Gaye",
+      "Sam Cooke"
+    ],
+    "answer": "James Brown"
+  },
+  {
+    "id": "general-1360",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which musical featuring songs like 'Defying Gravity' is based on 'The Wizard of Oz' from the witches' perspective?",
+    "options": [
+      "Wicked",
+      "The Wiz",
+      "Chicago",
+      "Hairspray"
+    ],
+    "answer": "Wicked"
+  },
+  {
+    "id": "general-1361",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which director helmed the 'Back to the Future' trilogy?",
+    "options": [
+      "Robert Zemeckis",
+      "Steven Spielberg",
+      "James Cameron",
+      "Ivan Reitman"
+    ],
+    "answer": "Robert Zemeckis"
+  },
+  {
+    "id": "general-1362",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which actor played Iron Man in the Marvel Cinematic Universe?",
+    "options": [
+      "Robert Downey Jr.",
+      "Chris Evans",
+      "Chris Hemsworth",
+      "Mark Ruffalo"
+    ],
+    "answer": "Robert Downey Jr."
+  },
+  {
+    "id": "general-1363",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which 1990s film features a group of dinosaurs cloned from ancient DNA on an island theme park?",
+    "options": [
+      "Jurassic Park",
+      "The Lost World",
+      "Godzilla",
+      "King Kong"
+    ],
+    "answer": "Jurassic Park"
+  },
+  {
+    "id": "general-1364",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Who composed the film scores for 'Star Wars', 'Jaws', and 'Indiana Jones'?",
+    "options": [
+      "John Williams",
+      "Hans Zimmer",
+      "Danny Elfman",
+      "James Horner"
+    ],
+    "answer": "John Williams"
+  },
+  {
+    "id": "general-1365",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which animated Disney film features a snowman named Olaf?",
+    "options": [
+      "Frozen",
+      "Tangled",
+      "Moana",
+      "Brave"
+    ],
+    "answer": "Frozen"
+  },
+  {
+    "id": "general-1366",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which country invented the sport of cricket?",
+    "options": [
+      "England",
+      "Australia",
+      "India",
+      "South Africa"
+    ],
+    "answer": "England"
+  },
+  {
+    "id": "general-1367",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In which sport does a competitor use a 'foil', 'epee', or 'sabre'?",
+    "options": [
+      "Fencing",
+      "Archery",
+      "Javelin",
+      "Shooting"
+    ],
+    "answer": "Fencing"
+  },
+  {
+    "id": "general-1368",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In which sport is the Stanley Cup awarded?",
+    "options": [
+      "Ice hockey",
+      "Basketball",
+      "Baseball",
+      "Soccer"
+    ],
+    "answer": "Ice hockey"
+  },
+  {
+    "id": "general-1369",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which gymnast famously scored the first perfect 10 in Olympic history at the 1976 Montreal Games?",
+    "options": [
+      "Nadia Comaneci",
+      "Simone Biles",
+      "Olga Korbut",
+      "Larisa Latynina"
+    ],
+    "answer": "Nadia Comaneci"
+  },
+  {
+    "id": "general-1370",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which golf major tournament is the only one held at the same course, Augusta National, every year?",
+    "options": [
+      "The Masters",
+      "The PGA Championship",
+      "The US Open",
+      "The Open Championship"
+    ],
+    "answer": "The Masters"
+  },
+  {
+    "id": "general-1371",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In Formula 1 racing, what color flag signals the end of a race?",
+    "options": [
+      "Checkered flag",
+      "Yellow flag",
+      "Red flag",
+      "Black flag"
+    ],
+    "answer": "Checkered flag"
+  },
+  {
+    "id": "general-1372",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which unique tradition is associated with the Wimbledon Championships, involving a fruit and cream?",
+    "options": [
+      "Strawberries and cream",
+      "Apple pie",
+      "Scones and jam",
+      "Trifle"
+    ],
+    "answer": "Strawberries and cream"
+  },
+  {
+    "id": "general-1373",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "How many periods are in a standard game of ice hockey?",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "5"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": "general-1374",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which country won back-to-back FIFA World Cup titles in 1958 and 1962, led by a young Pele?",
+    "options": [
+      "Brazil",
+      "Uruguay",
+      "Italy",
+      "Argentina"
+    ],
+    "answer": "Brazil"
+  },
+  {
+    "id": "general-1375",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In rugby, how many points is a try worth?",
+    "options": [
+      "5",
+      "3",
+      "6",
+      "7"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": "general-1376",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In Norse mythology, what is the name of the realm of the gods?",
+    "options": [
+      "Asgard",
+      "Valhalla",
+      "Midgard",
+      "Jotunheim"
+    ],
+    "answer": "Asgard"
+  },
+  {
+    "id": "general-1377",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which Egyptian god has the head of a jackal and is associated with mummification?",
+    "options": [
+      "Anubis",
+      "Osiris",
+      "Horus",
+      "Set"
+    ],
+    "answer": "Anubis"
+  },
+  {
+    "id": "general-1378",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In Greek mythology, who is the goddess of the harvest whose grief causes winter?",
+    "options": [
+      "Demeter",
+      "Hera",
+      "Persephone",
+      "Artemis"
+    ],
+    "answer": "Demeter"
+  },
+  {
+    "id": "general-1379",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the Jewish festival commemorating the exodus from Egypt called?",
+    "options": [
+      "Passover",
+      "Yom Kippur",
+      "Hanukkah",
+      "Rosh Hashanah"
+    ],
+    "answer": "Passover"
+  },
+  {
+    "id": "general-1380",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In Hindu mythology, which deity is depicted with an elephant head?",
+    "options": [
+      "Ganesha",
+      "Shiva",
+      "Vishnu",
+      "Hanuman"
+    ],
+    "answer": "Ganesha"
+  },
+  {
+    "id": "general-1381",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the term for the Islamic pilgrimage to Mecca that Muslims are expected to make at least once in their lifetime?",
+    "options": [
+      "Hajj",
+      "Umrah",
+      "Sawm",
+      "Zakat"
+    ],
+    "answer": "Hajj"
+  },
+  {
+    "id": "general-1382",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which country is the largest producer of coffee in the world?",
+    "options": [
+      "Brazil",
+      "Colombia",
+      "Vietnam",
+      "Ethiopia"
+    ],
+    "answer": "Brazil"
+  },
+  {
+    "id": "general-1383",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which plant's leaves are dried and brewed to make traditional green and black tea?",
+    "options": [
+      "Camellia sinensis",
+      "Hibiscus",
+      "Mint",
+      "Chamomile"
+    ],
+    "answer": "Camellia sinensis"
+  },
+  {
+    "id": "general-1384",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which country is famous for originating the dish known as goulash?",
+    "options": [
+      "Hungary",
+      "Poland",
+      "Czech Republic",
+      "Austria"
+    ],
+    "answer": "Hungary"
+  },
+  {
+    "id": "general-1385",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the primary ingredient in traditional falafel?",
+    "options": [
+      "Chickpeas",
+      "Lentils",
+      "Black beans",
+      "Fava beans only"
+    ],
+    "answer": "Chickpeas"
+  },
+  {
+    "id": "general-1386",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which fruit is fermented to produce traditional French Calvados brandy?",
+    "options": [
+      "Apples",
+      "Grapes",
+      "Plums",
+      "Pears"
+    ],
+    "answer": "Apples"
+  },
+  {
+    "id": "general-1387",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the name for the Italian coffee drink made with espresso and steamed milk foam?",
+    "options": [
+      "Cappuccino",
+      "Latte",
+      "Macchiato",
+      "Americano"
+    ],
+    "answer": "Cappuccino"
+  },
+  {
+    "id": "general-1388",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which social media platform, launched in 2006, originally limited posts to 140 characters?",
+    "options": [
+      "Twitter",
+      "Facebook",
+      "Instagram",
+      "Tumblr"
+    ],
+    "answer": "Twitter"
+  },
+  {
+    "id": "general-1389",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'AI' commonly stand for in computer science?",
+    "options": [
+      "Artificial Intelligence",
+      "Automated Interface",
+      "Analytical Intelligence",
+      "Applied Informatics"
+    ],
+    "answer": "Artificial Intelligence"
+  },
+  {
+    "id": "general-1390",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which company created the PlayStation video game console?",
+    "options": [
+      "Sony",
+      "Microsoft",
+      "Nintendo",
+      "Sega"
+    ],
+    "answer": "Sony"
+  },
+  {
+    "id": "general-1391",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What does 'USB' stand for?",
+    "options": [
+      "Universal Serial Bus",
+      "United System Bus",
+      "Universal System Board",
+      "Unified Serial Board"
+    ],
+    "answer": "Universal Serial Bus"
+  },
+  {
+    "id": "general-1392",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which company developed the search engine and later parent company Alphabet?",
+    "options": [
+      "Google",
+      "Yahoo",
+      "Microsoft",
+      "Amazon"
+    ],
+    "answer": "Google"
+  },
+  {
+    "id": "general-1393",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which animal is known for changing its skin color to blend into its environment?",
+    "options": [
+      "Chameleon",
+      "Iguana",
+      "Gecko",
+      "Salamander"
+    ],
+    "answer": "Chameleon"
+  },
+  {
+    "id": "general-1394",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is a group of wolves commonly called?",
+    "options": [
+      "A pack",
+      "A pride",
+      "A herd",
+      "A colony"
+    ],
+    "answer": "A pack"
+  },
+  {
+    "id": "general-1395",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which flightless bird native to New Zealand is also the country's national symbol?",
+    "options": [
+      "Kiwi",
+      "Emu",
+      "Cassowary",
+      "Kakapo"
+    ],
+    "answer": "Kiwi"
+  },
+  {
+    "id": "general-1396",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which venomous snake is known as the 'king' among cobras and is the longest venomous snake in the world?",
+    "options": [
+      "King cobra",
+      "Black mamba",
+      "Inland taipan",
+      "Gaboon viper"
+    ],
+    "answer": "King cobra"
+  },
+  {
+    "id": "general-1397",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the term for animals, like bears, that spend the winter in a dormant state?",
+    "options": [
+      "Hibernation",
+      "Estivation",
+      "Torpor only",
+      "Brumation"
+    ],
+    "answer": "Hibernation"
+  },
+  {
+    "id": "general-1398",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which sea mammal is known for using tools, such as rocks, to open shellfish?",
+    "options": [
+      "Sea otter",
+      "Dolphin",
+      "Seal",
+      "Walrus"
+    ],
+    "answer": "Sea otter"
+  },
+  {
+    "id": "general-1399",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the term for a government led by a small, powerful group of individuals?",
+    "options": [
+      "Oligarchy",
+      "Federalism",
+      "Theocracy",
+      "Anarchy"
+    ],
+    "answer": "Oligarchy"
+  },
+  {
+    "id": "general-1400",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "How many permanent members with veto power sit on the United Nations Security Council?",
+    "options": [
+      "5",
+      "6",
+      "4",
+      "10"
+    ],
+    "answer": "5"
   }
 ]
