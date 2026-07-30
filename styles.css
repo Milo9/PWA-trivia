@@ -336,15 +336,31 @@ html, body {
   margin: 0 0 6px;
 }
 
-.review-item .review-answer {
+.review-options {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin: 0;
+  padding: 0;
+}
+
+.review-option {
   font-size: 0.9rem;
-  margin: 2px 0;
+  padding: 6px 10px;
+  border-radius: 8px;
+  border: 1px solid transparent;
 }
 
-.review-item .review-answer.wrong {
-  color: var(--incorrect);
-}
-
-.review-item .review-answer.right {
+.review-option.right {
   color: var(--correct);
+  border-color: var(--correct);
+  background: color-mix(in srgb, var(--correct) 12%, transparent);
+  font-weight: 600;
+}
+
+.review-option.wrong {
+  color: var(--incorrect);
+  border-color: var(--incorrect);
+  background: color-mix(in srgb, var(--incorrect) 12%, transparent);
 }

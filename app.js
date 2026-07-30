@@ -214,6 +214,7 @@ function selectAnswer(selected) {
 
   state.answers.push({
     question: q.question,
+    options: q.shuffledOptions,
     correctAnswer: q.answer,
     selected,
     wasCorrect,
@@ -266,10 +267,29 @@ function showResults() {
   for (const a of state.answers) {
     const item = document.createElement("div");
     item.className = "review-item";
-    const answerLine = a.wasCorrect
-      ? `<p class="review-answer right">✓ ${a.selected}</p>`
-      : `<p class="review-answer wrong">✗ ${a.selected}</p><p class="review-answer right">✓ ${a.correctAnswer}</p>`;
-    item.innerHTML = `<p class="review-question">${a.question}</p>${answerLine}`;
+
+    const optionsList = document.createElement("ul");
+    optionsList.className = "review-options";
+    for (const opt of a.options) {
+      const li = document.createElement("li");
+      const isCorrect = opt === a.correctAnswer;
+      const isSelected = opt === a.selected;
+      let cls = "review-option";
+      let prefix = "";
+      if (isCorrect) {
+        cls += " right";
+        prefix = "✓ ";
+      } else if (isSelected) {
+        cls += " wrong";
+        prefix = "✗ ";
+      }
+      li.className = cls;
+      li.textContent = `${prefix}${opt}`;
+      optionsList.appendChild(li);
+    }
+
+    item.innerHTML = `<p class="review-question">${a.question}</p>`;
+    item.appendChild(optionsList);
     el.resultsReview.appendChild(item);
   }
 
