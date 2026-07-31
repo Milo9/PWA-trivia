@@ -21,6 +21,7 @@ manifest.webmanifest, icons/     — home screen install metadata
 data/categories.json             — category manifest (id, name, file)
 data/questions/<category>.json   — one array of questions per category
 scripts/validate.js              — schema + duplicate + quality checks
+scripts/check-draft.js           — pre-merge check for a not-yet-added batch
 scripts/stamp-version.js         — updates the offline cache version
 scripts/serve.js                 — local dev server
 scripts/generate-icons.ps1       — regenerates icons/ (Windows/PowerShell)
@@ -53,28 +54,70 @@ This is meant to be cheap to repeat, since generating question batches costs
 tokens and re-auditing shouldn't:
 
 1. Ask Claude to draft a batch for a category (existing or new). Point it at
-   this README/schema for context if starting a fresh session.
-2. Run the audit script — no API calls, so re-running it is free:
+   this README/schema for context if starting a fresh session. Draft into a
+   scratch JS file (CommonJS, `module.exports = [...]`) of objects shaped
+   like the schema below but **without** `id`/`category` — those get
+   assigned when the batch is merged into `data/`. See "Sourcing facts for
+   a heavily-populated category" below before drafting `friends` or
+   `big-bang-theory` — memory-only drafting is exhausted for both.
+2. Check the draft *before* merging it into `data/`:
+   ```
+   npm run check-draft -- <path-to-draft.js>
+   ```
+   This scores every drafted question against the entire existing corpus
+   (not just a keyword grep) using the same fuzzy-match function
+   `validate.js` uses, and rejects known hedge/meta-answer patterns (e.g.
+   an option that says "this isn't a real plot point" instead of giving a
+   real answer). Fix anything it flags as a schema problem or a likely
+   duplicate (score ≥ 0.85) before moving on; near-duplicate warnings
+   (0.70–0.85) are judgment calls like the ones from `validate`.
+3. Merge the draft into `data/questions/<category>.json`, assigning each
+   entry a sequential `id` starting one past the current highest number in
+   that category, and setting `category` to match.
+4. Run the full audit script — no API calls, so re-running it is free:
    ```
    npm run validate
    ```
    This checks schema correctness, flags exact duplicates as **errors**, and
    flags near-duplicate question text (fuzzy word-overlap match, within *and*
    across categories) as **warnings** for a human/AI judgment call.
-3. Fix anything flagged. Warnings aren't automatically wrong — e.g. two
+5. Fix anything flagged. Warnings aren't automatically wrong — e.g. two
    genuinely different questions can share enough wording to get flagged;
    use judgment (or ask Claude to look at the specific pair) rather than
    re-running a full AI review over the whole set.
-4. Before deploying, refresh the offline cache version so phones actually
+6. Before deploying, refresh the offline cache version so phones actually
    pick up the new content next time they're online:
    ```
    npm run stamp
    ```
-5. Commit and push. `npm run ship -- "commit message"` bundles steps 2, 4,
+7. Commit and push. `npm run ship -- "commit message"` bundles steps 4, 6,
    and the git add/commit/push into one command — it still won't write the
    commit message for you, since that requires actually knowing what
    changed, but it guarantees validate-then-stamp always runs first and
    collapses the rest into one call.
+
+### Sourcing facts for a heavily-populated category
+
+Once a category has a few hundred questions, drafting purely from a model's
+own training-data memory stops working well: most well-known facts are
+already asked, so new drafts either duplicate something existing or rest on
+facts the model isn't actually sure of. `friends` (690 questions) and
+`big-bang-theory` (611 questions) are already past that point — see
+CLAUDE.md for the specifics of what a memory-only pass yielded there.
+
+For those categories (and any other category that gets similarly deep),
+fetch source material with `WebFetch`/`WebSearch` instead of drafting from
+memory — e.g. against the Friends and Big Bang Theory wikis on Fandom.
+Highest-yield page types, in order:
+
+1. Per-episode guest-cast credit lists and minor-character list pages.
+2. Character pages' "Trivia" and "Appearances" sections.
+3. Episode summary/plot pages — lowest marginal yield, since these are
+   what's already been mined into the existing questions.
+
+This fixes accuracy (facts come from a source instead of a guess), not
+duplication — still run `check-draft.js` against the full corpus for every
+candidate fact regardless of where it came from.
 
 ## Adding a new category
 

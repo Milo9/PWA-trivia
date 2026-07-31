@@ -224,4 +224,8 @@ function report() {
   }
 }
 
-main();
+if (require.main === module) {
+  main();
+}
+
+module.exports = { normalize, wordSet, jaccard, NEAR_DUPLICATE_THRESHOLD };
