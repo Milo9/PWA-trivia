@@ -33798,5 +33798,1890 @@
       "Spain"
     ],
     "answer": "United Kingdom"
+  },
+  {
+    "id": "general-2601",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the process by which plants lose water vapor through small pores in their leaves called?",
+    "options": [
+      "Transpiration",
+      "Respiration",
+      "Photosynthesis",
+      "Osmosis"
+    ],
+    "answer": "Transpiration"
+  },
+  {
+    "id": "general-2602",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the name of the disease caused by prolonged vitamin C deficiency, historically common among long-voyage sailors?",
+    "options": [
+      "Scurvy",
+      "Rickets",
+      "Pellagra",
+      "Beriberi"
+    ],
+    "answer": "Scurvy"
+  },
+  {
+    "id": "general-2603",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which noble gas is commonly used to fill incandescent light bulbs to slow filament oxidation?",
+    "options": [
+      "Argon",
+      "Neon",
+      "Helium",
+      "Krypton"
+    ],
+    "answer": "Argon"
+  },
+  {
+    "id": "general-2604",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which scientist first proposed the theory of continental drift in 1912?",
+    "options": [
+      "Alfred Wegener",
+      "Charles Lyell",
+      "James Hutton",
+      "Arthur Holmes"
+    ],
+    "answer": "Alfred Wegener"
+  },
+  {
+    "id": "general-2605",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the term for an organism that produces its own food using light energy?",
+    "options": [
+      "Photoautotroph",
+      "Heterotroph",
+      "Chemotroph",
+      "Saprotroph"
+    ],
+    "answer": "Photoautotroph"
+  },
+  {
+    "id": "general-2606",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which vitamin is produced in human skin upon exposure to sunlight?",
+    "options": [
+      "Vitamin D",
+      "Vitamin C",
+      "Vitamin A",
+      "Vitamin K"
+    ],
+    "answer": "Vitamin D"
+  },
+  {
+    "id": "general-2607",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the name of the enzyme that breaks down hydrogen peroxide into water and oxygen in cells?",
+    "options": [
+      "Catalase",
+      "Amylase",
+      "Lipase",
+      "Protease"
+    ],
+    "answer": "Catalase"
+  },
+  {
+    "id": "general-2608",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which part of the human eye contains the light-sensitive cells known as rods and cones?",
+    "options": [
+      "Retina",
+      "Cornea",
+      "Iris",
+      "Lens"
+    ],
+    "answer": "Retina"
+  },
+  {
+    "id": "general-2609",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the SI unit of magnetic flux density?",
+    "options": [
+      "Tesla",
+      "Weber",
+      "Gauss",
+      "Henry"
+    ],
+    "answer": "Tesla"
+  },
+  {
+    "id": "general-2610",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which subatomic particle has no electric charge?",
+    "options": [
+      "Neutron",
+      "Proton",
+      "Electron",
+      "Positron"
+    ],
+    "answer": "Neutron"
+  },
+  {
+    "id": "general-2611",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What term describes water containing unusually high levels of dissolved calcium and magnesium?",
+    "options": [
+      "Hard water",
+      "Soft water",
+      "Distilled water",
+      "Brackish water"
+    ],
+    "answer": "Hard water"
+  },
+  {
+    "id": "general-2612",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the name of the layer of the Sun that is visible to observers on Earth as its surface?",
+    "options": [
+      "Photosphere",
+      "Chromosphere",
+      "Corona",
+      "Core"
+    ],
+    "answer": "Photosphere"
+  },
+  {
+    "id": "general-2613",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which scientist developed the polio vaccine first successfully tested in 1952?",
+    "options": [
+      "Jonas Salk",
+      "Albert Sabin",
+      "Louis Pasteur",
+      "Robert Koch"
+    ],
+    "answer": "Jonas Salk"
+  },
+  {
+    "id": "general-2614",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the medical term for an irrational fear of spiders?",
+    "options": [
+      "Arachnophobia",
+      "Entomophobia",
+      "Ophidiophobia",
+      "Myrmecophobia"
+    ],
+    "answer": "Arachnophobia"
+  },
+  {
+    "id": "general-2615",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which empire was ruled by Mansa Musa, renowned for his extreme wealth in the 14th century?",
+    "options": [
+      "Mali Empire",
+      "Songhai Empire",
+      "Ottoman Empire",
+      "Ashanti Empire"
+    ],
+    "answer": "Mali Empire"
+  },
+  {
+    "id": "general-2616",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which Egyptian pharaoh's nearly intact tomb, discovered in 1922, contained a famous golden burial mask?",
+    "options": [
+      "Tutankhamun",
+      "Ramesses II",
+      "Akhenaten",
+      "Thutmose III"
+    ],
+    "answer": "Tutankhamun"
+  },
+  {
+    "id": "general-2617",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which 1494 treaty divided newly explored lands in the Americas between Spain and Portugal?",
+    "options": [
+      "Treaty of Tordesillas",
+      "Treaty of Zaragoza",
+      "Treaty of Alcacovas",
+      "Treaty of Windsor"
+    ],
+    "answer": "Treaty of Tordesillas"
+  },
+  {
+    "id": "general-2618",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Who declared Haiti's independence in 1804, becoming leader of the first free Black republic?",
+    "options": [
+      "Jean-Jacques Dessalines",
+      "Toussaint Louverture",
+      "Henri Christophe",
+      "Alexandre Petion"
+    ],
+    "answer": "Jean-Jacques Dessalines"
+  },
+  {
+    "id": "general-2619",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which Seven Wonders of the Ancient World statue depicted the sun god Helios standing at the harbor of a Greek island?",
+    "options": [
+      "The Colossus of Rhodes",
+      "The Lighthouse of Alexandria",
+      "The Statue of Zeus at Olympia",
+      "The Hanging Gardens"
+    ],
+    "answer": "The Colossus of Rhodes"
+  },
+  {
+    "id": "general-2620",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "The Meiji Restoration of 1868 restored practical imperial rule to which country?",
+    "options": [
+      "Japan",
+      "China",
+      "Korea",
+      "Thailand"
+    ],
+    "answer": "Japan"
+  },
+  {
+    "id": "general-2621",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which explorer led the first European expedition to reach the Pacific Ocean by crossing the Isthmus of Panama?",
+    "options": [
+      "Vasco Nunez de Balboa",
+      "Hernan Cortes",
+      "Francisco Pizarro",
+      "Ferdinand Magellan"
+    ],
+    "answer": "Vasco Nunez de Balboa"
+  },
+  {
+    "id": "general-2622",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which 1415 battle saw a heavily outnumbered English army defeat the French during the Hundred Years' War?",
+    "options": [
+      "Battle of Agincourt",
+      "Battle of Crecy",
+      "Battle of Poitiers",
+      "Battle of Orleans"
+    ],
+    "answer": "Battle of Agincourt"
+  },
+  {
+    "id": "general-2623",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which Chinese dynasty is credited with first unifying the country's script and standardizing weights and measures, around 221 BCE?",
+    "options": [
+      "Qin dynasty",
+      "Han dynasty",
+      "Tang dynasty",
+      "Song dynasty"
+    ],
+    "answer": "Qin dynasty"
+  },
+  {
+    "id": "general-2624",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What was the name of the peace settlement that redrew Europe's map after Napoleon's defeat in 1815?",
+    "options": [
+      "Congress of Vienna",
+      "Treaty of Paris",
+      "Congress of Berlin",
+      "Treaty of Amiens"
+    ],
+    "answer": "Congress of Vienna"
+  },
+  {
+    "id": "general-2625",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which queen of ancient Egypt is believed to have ruled as pharaoh, depicted with traditional male pharaoh regalia including a false beard?",
+    "options": [
+      "Hatshepsut",
+      "Nefertiti",
+      "Cleopatra",
+      "Nefertari"
+    ],
+    "answer": "Hatshepsut"
+  },
+  {
+    "id": "general-2626",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "The Boxer Rebellion of 1899-1901 was an uprising against foreign influence in which country?",
+    "options": [
+      "China",
+      "Japan",
+      "Korea",
+      "Vietnam"
+    ],
+    "answer": "China"
+  },
+  {
+    "id": "general-2627",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which Mongol leader founded the Mongol Empire, the largest contiguous land empire in history?",
+    "options": [
+      "Genghis Khan",
+      "Kublai Khan",
+      "Timur",
+      "Attila the Hun"
+    ],
+    "answer": "Genghis Khan"
+  },
+  {
+    "id": "general-2628",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the name of the January 1905 event where Tsarist troops fired on peaceful protesters in St. Petersburg, sparking revolution?",
+    "options": [
+      "Bloody Sunday",
+      "Bloody Monday",
+      "The Petrograd Massacre",
+      "Red October"
+    ],
+    "answer": "Bloody Sunday"
+  },
+  {
+    "id": "general-2629",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which African kingdom was known for Great Zimbabwe, its massive stone-walled city?",
+    "options": [
+      "Kingdom of Zimbabwe",
+      "Kingdom of Kongo",
+      "Kingdom of Aksum",
+      "Kingdom of Benin"
+    ],
+    "answer": "Kingdom of Zimbabwe"
+  },
+  {
+    "id": "general-2630",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "The Amazon River empties into which ocean?",
+    "options": [
+      "The Atlantic Ocean",
+      "The Pacific Ocean",
+      "The Indian Ocean",
+      "The Arctic Ocean"
+    ],
+    "answer": "The Atlantic Ocean"
+  },
+  {
+    "id": "general-2631",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which mountain range forms a natural border between Spain and France?",
+    "options": [
+      "The Pyrenees",
+      "The Alps",
+      "The Cantabrian Mountains",
+      "The Sierra Nevada"
+    ],
+    "answer": "The Pyrenees"
+  },
+  {
+    "id": "general-2632",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Lake Baikal, holding roughly a fifth of the world's unfrozen fresh water, is located in which country?",
+    "options": [
+      "Russia",
+      "Mongolia",
+      "Kazakhstan",
+      "China"
+    ],
+    "answer": "Russia"
+  },
+  {
+    "id": "general-2633",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Along with Liechtenstein, which Central Asian country is one of only two \"doubly landlocked\" nations, bordered solely by other landlocked countries?",
+    "options": [
+      "Uzbekistan",
+      "Kazakhstan",
+      "Turkmenistan",
+      "Kyrgyzstan"
+    ],
+    "answer": "Uzbekistan"
+  },
+  {
+    "id": "general-2634",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which African country is bordered by both the Atlantic and Indian Oceans due to its southern tip?",
+    "options": [
+      "South Africa",
+      "Namibia",
+      "Mozambique",
+      "Angola"
+    ],
+    "answer": "South Africa"
+  },
+  {
+    "id": "general-2635",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which African country is completely surrounded by South Africa?",
+    "options": [
+      "Lesotho",
+      "Eswatini",
+      "Malawi",
+      "Botswana"
+    ],
+    "answer": "Lesotho"
+  },
+  {
+    "id": "general-2636",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which sea, bordered by Israel and Jordan, is so dense with salt that swimmers float easily?",
+    "options": [
+      "The Dead Sea",
+      "The Red Sea",
+      "The Sea of Galilee",
+      "The Caspian Sea"
+    ],
+    "answer": "The Dead Sea"
+  },
+  {
+    "id": "general-2637",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Iguazu Falls lies on the border between Argentina and which other country?",
+    "options": [
+      "Brazil",
+      "Paraguay",
+      "Uruguay",
+      "Bolivia"
+    ],
+    "answer": "Brazil"
+  },
+  {
+    "id": "general-2638",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Lake Tana, the source of the Blue Nile, is located in which country?",
+    "options": [
+      "Ethiopia",
+      "Sudan",
+      "Uganda",
+      "Kenya"
+    ],
+    "answer": "Ethiopia"
+  },
+  {
+    "id": "general-2639",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "The Strait of Malacca, a key shipping route, lies between Sumatra and which country?",
+    "options": [
+      "Malaysia",
+      "Thailand",
+      "Myanmar",
+      "Vietnam"
+    ],
+    "answer": "Malaysia"
+  },
+  {
+    "id": "general-2640",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which two countries are separated by the 49th parallel for much of their shared border?",
+    "options": [
+      "Canada and the United States",
+      "The United States and Mexico",
+      "Russia and Mongolia",
+      "Norway and Sweden"
+    ],
+    "answer": "Canada and the United States"
+  },
+  {
+    "id": "general-2641",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Mount Kilimanjaro is a dormant volcano composed of how many distinct volcanic cones?",
+    "options": [
+      "Three",
+      "Two",
+      "Four",
+      "Five"
+    ],
+    "answer": "Three"
+  },
+  {
+    "id": "general-2642",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which Dutch painter created \"The Night Watch,\" notable for its dramatic use of light and shadow?",
+    "options": [
+      "Rembrandt",
+      "Johannes Vermeer",
+      "Frans Hals",
+      "Jan Steen"
+    ],
+    "answer": "Rembrandt"
+  },
+  {
+    "id": "general-2643",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which Puccini opera, set in Japan, tells the tragic story of Cio-Cio-San?",
+    "options": [
+      "Madama Butterfly",
+      "Turandot",
+      "Tosca",
+      "La Boheme"
+    ],
+    "answer": "Madama Butterfly"
+  },
+  {
+    "id": "general-2644",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Claude Monet's painting series depicting a Japanese footbridge and floating plants is known by what name?",
+    "options": [
+      "Water Lilies",
+      "Haystacks",
+      "Rouen Cathedral",
+      "Poplars"
+    ],
+    "answer": "Water Lilies"
+  },
+  {
+    "id": "general-2645",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which Renaissance sculptor carved the marble statue of David now housed in Florence's Galleria dell'Accademia?",
+    "options": [
+      "Michelangelo",
+      "Donatello",
+      "Bernini",
+      "Lorenzo Ghiberti"
+    ],
+    "answer": "Michelangelo"
+  },
+  {
+    "id": "general-2646",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which Verdi opera tells the story of a courtesan named Violetta, based on a play by Alexandre Dumas fils?",
+    "options": [
+      "La Traviata",
+      "La Boheme",
+      "Tosca",
+      "Madama Butterfly"
+    ],
+    "answer": "La Traviata"
+  },
+  {
+    "id": "general-2647",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which art movement, led by figures like Andre Breton, sought to unlock the unconscious mind through dreamlike imagery?",
+    "options": [
+      "Surrealism",
+      "Cubism",
+      "Dadaism",
+      "Futurism"
+    ],
+    "answer": "Surrealism"
+  },
+  {
+    "id": "general-2648",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Igor Stravinsky's ballet score \"The Rite of Spring\" famously caused a riot at its 1913 premiere in which city?",
+    "options": [
+      "Paris",
+      "Vienna",
+      "London",
+      "St. Petersburg"
+    ],
+    "answer": "Paris"
+  },
+  {
+    "id": "general-2649",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which Spanish artist co-founded Cubism alongside Georges Braque?",
+    "options": [
+      "Pablo Picasso",
+      "Salvador Dali",
+      "Joan Miro",
+      "Diego Rivera"
+    ],
+    "answer": "Pablo Picasso"
+  },
+  {
+    "id": "general-2650",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which Baroque composer, a contemporary of Bach, wrote \"Water Music\" and \"Music for the Royal Fireworks\"?",
+    "options": [
+      "George Frideric Handel",
+      "Johann Sebastian Bach",
+      "Georg Philipp Telemann",
+      "Christoph Willibald Gluck"
+    ],
+    "answer": "George Frideric Handel"
+  },
+  {
+    "id": "general-2651",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Frida Kahlo's painting style is closely associated with which country's folk art traditions?",
+    "options": [
+      "Mexico",
+      "Spain",
+      "Guatemala",
+      "Cuba"
+    ],
+    "answer": "Mexico"
+  },
+  {
+    "id": "general-2652",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which composer, already deaf by the time he wrote it, composed his Ninth Symphony featuring the \"Ode to Joy\"?",
+    "options": [
+      "Ludwig van Beethoven",
+      "Franz Schubert",
+      "Johannes Brahms",
+      "Gustav Mahler"
+    ],
+    "answer": "Ludwig van Beethoven"
+  },
+  {
+    "id": "general-2653",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Edouard Manet's controversial painting \"Olympia\" depicts a reclining nude modeled after a contemporary figure in which profession?",
+    "options": [
+      "Courtesan",
+      "Queen",
+      "Actress",
+      "Dancer"
+    ],
+    "answer": "Courtesan"
+  },
+  {
+    "id": "general-2654",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In Greek mythology, who is the goddess of wisdom, said to be born fully grown from the head of Zeus?",
+    "options": [
+      "Athena",
+      "Artemis",
+      "Hera",
+      "Demeter"
+    ],
+    "answer": "Athena"
+  },
+  {
+    "id": "general-2655",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In Mesopotamian mythology, which epic tells of a Sumerian king seeking immortality after the death of his friend Enkidu?",
+    "options": [
+      "Epic of Gilgamesh",
+      "Enuma Elish",
+      "Atrahasis",
+      "Epic of Erra"
+    ],
+    "answer": "Epic of Gilgamesh"
+  },
+  {
+    "id": "general-2656",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which falcon-headed Egyptian god represents kingship and the sky, often identified with the pharaoh?",
+    "options": [
+      "Horus",
+      "Anubis",
+      "Set",
+      "Thoth"
+    ],
+    "answer": "Horus"
+  },
+  {
+    "id": "general-2657",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In Greek mythology, who was condemned to push a boulder up a hill for eternity as punishment?",
+    "options": [
+      "Sisyphus",
+      "Tantalus",
+      "Prometheus",
+      "Ixion"
+    ],
+    "answer": "Sisyphus"
+  },
+  {
+    "id": "general-2658",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the name of the hammer wielded by the Norse god Thor?",
+    "options": [
+      "Mjolnir",
+      "Gungnir",
+      "Gram",
+      "Draupnir"
+    ],
+    "answer": "Mjolnir"
+  },
+  {
+    "id": "general-2659",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "In Egyptian mythology, which earth god is Nut's brother and husband, depicted lying beneath her in creation myths?",
+    "options": [
+      "Geb",
+      "Shu",
+      "Osiris",
+      "Set"
+    ],
+    "answer": "Geb"
+  },
+  {
+    "id": "general-2660",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which hero of Greek mythology completed twelve seemingly impossible labors as penance?",
+    "options": [
+      "Heracles",
+      "Theseus",
+      "Perseus",
+      "Jason"
+    ],
+    "answer": "Heracles"
+  },
+  {
+    "id": "general-2661",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In Norse mythology, what is the name of the great wolf prophesied to kill Odin during Ragnarok?",
+    "options": [
+      "Fenrir",
+      "Jormungandr",
+      "Garm",
+      "Skoll"
+    ],
+    "answer": "Fenrir"
+  },
+  {
+    "id": "general-2662",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which Hindu deity is regarded as the destroyer within the Trimurti, alongside Brahma and Vishnu?",
+    "options": [
+      "Shiva",
+      "Ganesha",
+      "Indra",
+      "Agni"
+    ],
+    "answer": "Shiva"
+  },
+  {
+    "id": "general-2663",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "In Greek mythology, which Titaness is associated with memory and is the mother of the nine Muses?",
+    "options": [
+      "Mnemosyne",
+      "Themis",
+      "Rhea",
+      "Tethys"
+    ],
+    "answer": "Mnemosyne"
+  },
+  {
+    "id": "general-2664",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the name of the ferryman who carries souls across the river Styx in Greek mythology?",
+    "options": [
+      "Charon",
+      "Hermes",
+      "Hades",
+      "Thanatos"
+    ],
+    "answer": "Charon"
+  },
+  {
+    "id": "general-2665",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In Egyptian mythology, which sun god was believed to travel across the sky in a solar barge each day?",
+    "options": [
+      "Ra",
+      "Amun",
+      "Aten",
+      "Khepri"
+    ],
+    "answer": "Ra"
+  },
+  {
+    "id": "general-2666",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In George Orwell's \"1984,\" what is the name of the totalitarian party's supreme leader?",
+    "options": [
+      "Big Brother",
+      "O'Brien",
+      "Big Sister",
+      "The Inner Party"
+    ],
+    "answer": "Big Brother"
+  },
+  {
+    "id": "general-2667",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In Chinua Achebe's \"Things Fall Apart,\" what is the name of the protagonist whose downfall drives the novel?",
+    "options": [
+      "Okonkwo",
+      "Obierika",
+      "Unoka",
+      "Nwoye"
+    ],
+    "answer": "Okonkwo"
+  },
+  {
+    "id": "general-2668",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which Gabriel Garcia Marquez novel follows seven generations of the Buendia family in the town of Macondo?",
+    "options": [
+      "One Hundred Years of Solitude",
+      "Love in the Time of Cholera",
+      "Chronicle of a Death Foretold",
+      "The Autumn of the Patriarch"
+    ],
+    "answer": "One Hundred Years of Solitude"
+  },
+  {
+    "id": "general-2669",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In Homer's \"Odyssey,\" what is the name of Odysseus's faithful wife who fends off suitors for twenty years?",
+    "options": [
+      "Penelope",
+      "Circe",
+      "Calypso",
+      "Nausicaa"
+    ],
+    "answer": "Penelope"
+  },
+  {
+    "id": "general-2670",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which Charles Dickens novel features the vengeful Miss Havisham, still wearing her wedding dress decades later?",
+    "options": [
+      "Great Expectations",
+      "Bleak House",
+      "Oliver Twist",
+      "David Copperfield"
+    ],
+    "answer": "Great Expectations"
+  },
+  {
+    "id": "general-2671",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "In Mary Shelley's \"Frankenstein,\" what subject is Victor Frankenstein studying at university when he begins his experiments?",
+    "options": [
+      "Natural philosophy",
+      "Medicine",
+      "Theology",
+      "Law"
+    ],
+    "answer": "Natural philosophy"
+  },
+  {
+    "id": "general-2672",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which Pulitzer Prize-winning novel by Harper Lee is narrated by a young girl named Scout Finch?",
+    "options": [
+      "To Kill a Mockingbird",
+      "Go Set a Watchman",
+      "The Help",
+      "A Time to Kill"
+    ],
+    "answer": "To Kill a Mockingbird"
+  },
+  {
+    "id": "general-2673",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In Leo Tolstoy's \"War and Peace,\" which historical military campaign forms a major backdrop of the novel?",
+    "options": [
+      "Napoleon's invasion of Russia",
+      "The Crimean War",
+      "The Russo-Japanese War",
+      "World War I"
+    ],
+    "answer": "Napoleon's invasion of Russia"
+  },
+  {
+    "id": "general-2674",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the name of the fictional prep school in J.D. Salinger's \"The Catcher in the Rye\" from which Holden Caulfield is expelled?",
+    "options": [
+      "Pencey Prep",
+      "Elkton Hills",
+      "Whooton School",
+      "Xavier Academy"
+    ],
+    "answer": "Pencey Prep"
+  },
+  {
+    "id": "general-2675",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In Jane Austen's \"Pride and Prejudice,\" what is the name of Mr. Darcy's grand estate?",
+    "options": [
+      "Pemberley",
+      "Longbourn",
+      "Netherfield",
+      "Rosings"
+    ],
+    "answer": "Pemberley"
+  },
+  {
+    "id": "general-2676",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which Fyodor Dostoevsky novel centers on Rodion Raskolnikov, a poor student who commits murder?",
+    "options": [
+      "Crime and Punishment",
+      "The Brothers Karamazov",
+      "The Idiot",
+      "Notes from Underground"
+    ],
+    "answer": "Crime and Punishment"
+  },
+  {
+    "id": "general-2677",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In J.R.R. Tolkien's legendarium, what is the name of the volcanic mountain where the One Ring must be destroyed?",
+    "options": [
+      "Mount Doom",
+      "Mount Gundabad",
+      "The Lonely Mountain",
+      "Weathertop"
+    ],
+    "answer": "Mount Doom"
+  },
+  {
+    "id": "general-2678",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In tennis, what informal term describes a set won by a score of 6-0?",
+    "options": [
+      "A \"bagel\"",
+      "A \"love set\"",
+      "A \"breadstick\"",
+      "A \"shutout\""
+    ],
+    "answer": "A \"bagel\""
+  },
+  {
+    "id": "general-2679",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which country won the first-ever FIFA Women's World Cup, held in 1991?",
+    "options": [
+      "United States",
+      "Norway",
+      "Germany",
+      "China"
+    ],
+    "answer": "United States"
+  },
+  {
+    "id": "general-2680",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which major golf championship is traditionally the first of the year's four majors, held each April at Augusta National?",
+    "options": [
+      "The Masters",
+      "The PGA Championship",
+      "The U.S. Open",
+      "The Open Championship"
+    ],
+    "answer": "The Masters"
+  },
+  {
+    "id": "general-2681",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which boxer was stripped of his heavyweight title in 1967 for refusing induction into the U.S. military?",
+    "options": [
+      "Muhammad Ali",
+      "Joe Frazier",
+      "George Foreman",
+      "Sonny Liston"
+    ],
+    "answer": "Muhammad Ali"
+  },
+  {
+    "id": "general-2682",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "In cricket, what is the term for an over in which the bowler concedes no runs at all?",
+    "options": [
+      "A maiden over",
+      "A duck",
+      "A golden duck",
+      "A dot ball"
+    ],
+    "answer": "A maiden over"
+  },
+  {
+    "id": "general-2683",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which Jamaican sprinter set world records in both the 100m and 200m at the 2009 World Championships in Berlin?",
+    "options": [
+      "Usain Bolt",
+      "Yohan Blake",
+      "Asafa Powell",
+      "Tyson Gay"
+    ],
+    "answer": "Usain Bolt"
+  },
+  {
+    "id": "general-2684",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In American football, how many players from each team are on the field at one time?",
+    "options": [
+      "Eleven",
+      "Twelve",
+      "Ten",
+      "Nine"
+    ],
+    "answer": "Eleven"
+  },
+  {
+    "id": "general-2685",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which country's national rugby team performs the haka before matches?",
+    "options": [
+      "New Zealand",
+      "Australia",
+      "South Africa",
+      "Fiji"
+    ],
+    "answer": "New Zealand"
+  },
+  {
+    "id": "general-2686",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In chess, what is the term for a move that threatens the king such that it must respond immediately?",
+    "options": [
+      "Check",
+      "Checkmate",
+      "Stalemate",
+      "Fork"
+    ],
+    "answer": "Check"
+  },
+  {
+    "id": "general-2687",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "As of 2021, which Formula One driver was tied with Michael Schumacher for the most World Championship titles, at seven?",
+    "options": [
+      "Lewis Hamilton",
+      "Sebastian Vettel",
+      "Ayrton Senna",
+      "Alain Prost"
+    ],
+    "answer": "Lewis Hamilton"
+  },
+  {
+    "id": "general-2688",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In baseball, what is the term for a pitch thrown with a spin that causes it to break sharply downward?",
+    "options": [
+      "A curveball",
+      "A fastball",
+      "A slider",
+      "A changeup"
+    ],
+    "answer": "A curveball"
+  },
+  {
+    "id": "general-2689",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which sport uses terms like \"scrum,\" \"ruck,\" and \"maul\"?",
+    "options": [
+      "Rugby",
+      "American football",
+      "Australian rules football",
+      "Gaelic football"
+    ],
+    "answer": "Rugby"
+  },
+  {
+    "id": "general-2690",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which French cooking technique involves slowly cooking food submerged in its own fat?",
+    "options": [
+      "Confit",
+      "Sous vide",
+      "Braising",
+      "Poaching"
+    ],
+    "answer": "Confit"
+  },
+  {
+    "id": "general-2691",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which Japanese fermented soybean dish is known for its sticky texture and strong smell, often eaten with rice at breakfast?",
+    "options": [
+      "Natto",
+      "Miso",
+      "Tempeh",
+      "Edamame"
+    ],
+    "answer": "Natto"
+  },
+  {
+    "id": "general-2692",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which cheese is traditionally used in a classic Greek salad?",
+    "options": [
+      "Feta",
+      "Halloumi",
+      "Ricotta",
+      "Mozzarella"
+    ],
+    "answer": "Feta"
+  },
+  {
+    "id": "general-2693",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Champagne must legally come from a specific region of which country to bear that name?",
+    "options": [
+      "France",
+      "Italy",
+      "Spain",
+      "Germany"
+    ],
+    "answer": "France"
+  },
+  {
+    "id": "general-2694",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Besides tahini and olive oil, what is the main ingredient in traditional hummus?",
+    "options": [
+      "Chickpeas",
+      "Lentils",
+      "Fava beans",
+      "Black beans"
+    ],
+    "answer": "Chickpeas"
+  },
+  {
+    "id": "general-2695",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which tart, lemony spice, popular in Middle Eastern cooking, is made from dried ground berries of a sumac shrub?",
+    "options": [
+      "Sumac",
+      "Tamarind",
+      "Cumin",
+      "Turmeric"
+    ],
+    "answer": "Sumac"
+  },
+  {
+    "id": "general-2696",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which fermented milk beverage, popular in Central Asia, is traditionally made from mare's milk?",
+    "options": [
+      "Kumis",
+      "Kefir",
+      "Yogurt",
+      "Ayran"
+    ],
+    "answer": "Kumis"
+  },
+  {
+    "id": "general-2697",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which fermented Japanese soybean paste is used as the base for a traditional breakfast soup?",
+    "options": [
+      "Miso",
+      "Natto",
+      "Tofu",
+      "Tamari"
+    ],
+    "answer": "Miso"
+  },
+  {
+    "id": "general-2698",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which alcoholic spirit is distilled from fermented blue agave and must legally originate in Mexico?",
+    "options": [
+      "Tequila",
+      "Mezcal",
+      "Rum",
+      "Cachaca"
+    ],
+    "answer": "Tequila"
+  },
+  {
+    "id": "general-2699",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which Moroccan dish of slow-cooked meat and vegetables is named after the distinctive cone-shaped clay pot it's cooked in?",
+    "options": [
+      "Tagine",
+      "Couscous",
+      "Pastilla",
+      "Harira"
+    ],
+    "answer": "Tagine"
+  },
+  {
+    "id": "general-2700",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "The word \"quarantine\" comes from the Italian phrase for how many days ships were isolated during plague outbreaks?",
+    "options": [
+      "Forty",
+      "Thirty",
+      "Fifty",
+      "Sixty"
+    ],
+    "answer": "Forty"
+  },
+  {
+    "id": "general-2701",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "The English word \"salary\" derives from the Latin word for which substance, once used to pay Roman soldiers?",
+    "options": [
+      "Salt",
+      "Silver",
+      "Wheat",
+      "Wine"
+    ],
+    "answer": "Salt"
+  },
+  {
+    "id": "general-2702",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Esperanto, the most widely spoken constructed language, was created in the 1880s by an ophthalmologist from which region?",
+    "options": [
+      "Poland",
+      "Russia",
+      "Germany",
+      "France"
+    ],
+    "answer": "Poland"
+  },
+  {
+    "id": "general-2703",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "The word \"sandwich\" is said to be named after an English nobleman holding which title?",
+    "options": [
+      "Earl of Sandwich",
+      "Duke of Sandwich",
+      "Baron Sandwich",
+      "Viscount Sandwich"
+    ],
+    "answer": "Earl of Sandwich"
+  },
+  {
+    "id": "general-2704",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does the Latin phrase \"carpe diem\" literally translate to?",
+    "options": [
+      "Seize the day",
+      "Live for today",
+      "Time flies",
+      "Enjoy life"
+    ],
+    "answer": "Seize the day"
+  },
+  {
+    "id": "general-2705",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "The word \"assassin\" is popularly said to derive from an Arabic term referring to users of which substance?",
+    "options": [
+      "Hashish",
+      "Opium",
+      "Tobacco",
+      "Cannabis leaf"
+    ],
+    "answer": "Hashish"
+  },
+  {
+    "id": "general-2706",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which ancient alphabet, developed by seafaring traders in the Levant, is considered an ancestor of both Greek and Latin scripts?",
+    "options": [
+      "Phoenician alphabet",
+      "Aramaic alphabet",
+      "Paleo-Hebrew alphabet",
+      "Ugaritic alphabet"
+    ],
+    "answer": "Phoenician alphabet"
+  },
+  {
+    "id": "general-2707",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "The term \"Renaissance\" comes from a French word meaning what?",
+    "options": [
+      "Rebirth",
+      "Rebuilding",
+      "Renewal",
+      "Awakening"
+    ],
+    "answer": "Rebirth"
+  },
+  {
+    "id": "general-2708",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In linguistics, what term describes a word that is spelled the same forwards and backwards?",
+    "options": [
+      "Palindrome",
+      "Anagram",
+      "Acronym",
+      "Homophone"
+    ],
+    "answer": "Palindrome"
+  },
+  {
+    "id": "general-2709",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "The word \"trivia\" derives from Latin \"trivium,\" referring to a meeting point of how many roads?",
+    "options": [
+      "Three",
+      "Two",
+      "Four",
+      "Five"
+    ],
+    "answer": "Three"
+  },
+  {
+    "id": "general-2710",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What term describes a hypothetical faster-than-light particle that has never been experimentally observed?",
+    "options": [
+      "Tachyon",
+      "Graviton",
+      "Neutrino",
+      "Positron"
+    ],
+    "answer": "Tachyon"
+  },
+  {
+    "id": "general-2711",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What term describes a galaxy's compact central region emitting intense radiation, powered by a supermassive black hole?",
+    "options": [
+      "Active galactic nucleus",
+      "Galactic bulge",
+      "Quasar halo",
+      "Stellar nursery"
+    ],
+    "answer": "Active galactic nucleus"
+  },
+  {
+    "id": "general-2712",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which planet has a single rotation on its axis that takes longer than its full orbit around the Sun?",
+    "options": [
+      "Venus",
+      "Mercury",
+      "Mars",
+      "Neptune"
+    ],
+    "answer": "Venus"
+  },
+  {
+    "id": "general-2713",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the name of the reusable SpaceX spacecraft that carries astronauts to the International Space Station?",
+    "options": [
+      "Crew Dragon",
+      "Starliner",
+      "Orion",
+      "Dragon XL"
+    ],
+    "answer": "Crew Dragon"
+  },
+  {
+    "id": "general-2714",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which Soviet spacecraft was the first to achieve a soft landing on the Moon, in February 1966?",
+    "options": [
+      "Luna 9",
+      "Luna 2",
+      "Surveyor 1",
+      "Vostok 1"
+    ],
+    "answer": "Luna 9"
+  },
+  {
+    "id": "general-2715",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the name for a full moon that appears larger and brighter because it coincides with the Moon's closest approach to Earth?",
+    "options": [
+      "A supermoon",
+      "A blue moon",
+      "A blood moon",
+      "A harvest moon"
+    ],
+    "answer": "A supermoon"
+  },
+  {
+    "id": "general-2716",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which space telescope, launched in 2021, is designed to observe the universe primarily in infrared?",
+    "options": [
+      "The James Webb Space Telescope",
+      "The Hubble Space Telescope",
+      "The Spitzer Space Telescope",
+      "The Kepler Space Telescope"
+    ],
+    "answer": "The James Webb Space Telescope"
+  },
+  {
+    "id": "general-2717",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the term for a star system consisting of two stars orbiting a common center of mass?",
+    "options": [
+      "A binary star system",
+      "A twin nebula",
+      "A dual quasar",
+      "A stellar pair cluster"
+    ],
+    "answer": "A binary star system"
+  },
+  {
+    "id": "general-2718",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which dwarf planet, discovered in 2005 and roughly the size of Pluto, prompted the 2006 redefinition of \"planet\"?",
+    "options": [
+      "Eris",
+      "Makemake",
+      "Haumea",
+      "Ceres"
+    ],
+    "answer": "Eris"
+  },
+  {
+    "id": "general-2719",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which NASA mission first landed humans on the Moon, in 1969?",
+    "options": [
+      "Apollo 11",
+      "Apollo 13",
+      "Apollo 8",
+      "Apollo 17"
+    ],
+    "answer": "Apollo 11"
+  },
+  {
+    "id": "general-2720",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Who is credited with inventing the World Wide Web in 1989 while working at CERN?",
+    "options": [
+      "Tim Berners-Lee",
+      "Vint Cerf",
+      "Marc Andreessen",
+      "Bill Gates"
+    ],
+    "answer": "Tim Berners-Lee"
+  },
+  {
+    "id": "general-2721",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which organization released Mosaic, the first commercially popular graphical web browser, in 1993?",
+    "options": [
+      "NCSA",
+      "Netscape",
+      "Microsoft",
+      "AOL"
+    ],
+    "answer": "NCSA"
+  },
+  {
+    "id": "general-2722",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "The first practical typewriter was patented in the 1860s by which American inventor?",
+    "options": [
+      "Christopher Latham Sholes",
+      "Thomas Edison",
+      "Elisha Gray",
+      "Samuel Morse"
+    ],
+    "answer": "Christopher Latham Sholes"
+  },
+  {
+    "id": "general-2723",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which Scottish-born inventor is credited with patenting the first practical telephone in 1876?",
+    "options": [
+      "Alexander Graham Bell",
+      "Elisha Gray",
+      "Thomas Edison",
+      "Nikola Tesla"
+    ],
+    "answer": "Alexander Graham Bell"
+  },
+  {
+    "id": "general-2724",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which chimpanzee became the first hominid launched into space, aboard a Mercury capsule in January 1961?",
+    "options": [
+      "Ham",
+      "Enos",
+      "Albert II",
+      "Gordo"
+    ],
+    "answer": "Ham"
+  },
+  {
+    "id": "general-2725",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which engineer is credited with inventing the modern safety elevator, enabling the construction of skyscrapers?",
+    "options": [
+      "Elisha Otis",
+      "George Westinghouse",
+      "Thomas Edison",
+      "Nikola Tesla"
+    ],
+    "answer": "Elisha Otis"
+  },
+  {
+    "id": "general-2726",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "The first practical sewing machine was patented in the U.S. in 1846 by which inventor?",
+    "options": [
+      "Elias Howe",
+      "Isaac Singer",
+      "Walter Hunt",
+      "Barthelemy Thimonnier"
+    ],
+    "answer": "Elias Howe"
+  },
+  {
+    "id": "general-2727",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which company introduced the Altair 8800, the first mass-market personal computer, in 1975?",
+    "options": [
+      "MITS",
+      "Apple",
+      "IBM",
+      "Commodore"
+    ],
+    "answer": "MITS"
+  },
+  {
+    "id": "general-2728",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Who invented the movable-type printing press in Europe around 1440?",
+    "options": [
+      "Johannes Gutenberg",
+      "William Caxton",
+      "Aldus Manutius",
+      "Johann Fust"
+    ],
+    "answer": "Johannes Gutenberg"
+  },
+  {
+    "id": "general-2729",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which British engineer built Locomotion No. 1, used on the first public steam railway in 1825?",
+    "options": [
+      "George Stephenson",
+      "James Watt",
+      "Richard Trevithick",
+      "Robert Stephenson"
+    ],
+    "answer": "George Stephenson"
+  },
+  {
+    "id": "general-2730",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the name of the holy scripture of Sikhism, treated as the eternal living Guru?",
+    "options": [
+      "Guru Granth Sahib",
+      "Bhagavad Gita",
+      "Vedas",
+      "Upanishads"
+    ],
+    "answer": "Guru Granth Sahib"
+  },
+  {
+    "id": "general-2731",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which Buddhist concept refers to the cycle of death and rebirth driven by karma?",
+    "options": [
+      "Samsara",
+      "Nirvana",
+      "Dharma",
+      "Moksha"
+    ],
+    "answer": "Samsara"
+  },
+  {
+    "id": "general-2732",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the Islamic pilgrimage to Mecca, required of able Muslims at least once, called?",
+    "options": [
+      "Hajj",
+      "Umrah",
+      "Sawm",
+      "Zakat"
+    ],
+    "answer": "Hajj"
+  },
+  {
+    "id": "general-2733",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In Judaism, what is the name of the scroll containing the first five books of the Hebrew Bible?",
+    "options": [
+      "The Torah",
+      "The Talmud",
+      "The Mishnah",
+      "The Zohar"
+    ],
+    "answer": "The Torah"
+  },
+  {
+    "id": "general-2734",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which Hindu festival, known as the \"festival of lights,\" celebrates the victory of light over darkness?",
+    "options": [
+      "Diwali",
+      "Holi",
+      "Navratri",
+      "Vaisakhi"
+    ],
+    "answer": "Diwali"
+  },
+  {
+    "id": "general-2735",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the name of the Christian sacrament of initiation involving water, symbolizing purification?",
+    "options": [
+      "Baptism",
+      "Communion",
+      "Confirmation",
+      "Confession"
+    ],
+    "answer": "Baptism"
+  },
+  {
+    "id": "general-2736",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which Chinese philosophy emphasizes harmony through wu wei, or effortless action?",
+    "options": [
+      "Taoism",
+      "Confucianism",
+      "Legalism",
+      "Mohism"
+    ],
+    "answer": "Taoism"
+  },
+  {
+    "id": "general-2737",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the name of the fast observed by Muslims from dawn to sunset during the ninth month of the Islamic calendar?",
+    "options": [
+      "Ramadan",
+      "Eid al-Fitr",
+      "Ashura",
+      "Laylat al-Qadr"
+    ],
+    "answer": "Ramadan"
+  },
+  {
+    "id": "general-2738",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which board game, invented by Elizabeth Magie in 1903 as \"The Landlord's Game,\" later became a famous property-trading game?",
+    "options": [
+      "Monopoly",
+      "The Game of Life",
+      "Risk",
+      "Careers"
+    ],
+    "answer": "Monopoly"
+  },
+  {
+    "id": "general-2739",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In the card game bridge, how many cards does each of the four players receive from a standard deck?",
+    "options": [
+      "Thirteen",
+      "Twelve",
+      "Ten",
+      "Fourteen"
+    ],
+    "answer": "Thirteen"
+  },
+  {
+    "id": "general-2740",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which strategy board game, originating in ancient India, is considered a precursor to chess?",
+    "options": [
+      "Chaturanga",
+      "Shogi",
+      "Xiangqi",
+      "Go"
+    ],
+    "answer": "Chaturanga"
+  },
+  {
+    "id": "general-2741",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the maximum number of pips found on a single domino end in a standard double-six set?",
+    "options": [
+      "Six",
+      "Five",
+      "Nine",
+      "Twelve"
+    ],
+    "answer": "Six"
+  },
+  {
+    "id": "general-2742",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In which casino card game do players try to reach a hand value as close to 21 as possible without exceeding it?",
+    "options": [
+      "Blackjack",
+      "Baccarat",
+      "Poker",
+      "Rummy"
+    ],
+    "answer": "Blackjack"
+  },
+  {
+    "id": "general-2743",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "The board game Scrabble was originally created in 1938 under what name?",
+    "options": [
+      "Criss-Crosswords",
+      "Lexiko",
+      "WordPlay",
+      "Anagrams"
+    ],
+    "answer": "Criss-Crosswords"
+  },
+  {
+    "id": "general-2744",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In the game of Go, what are the two colors of playing stones used?",
+    "options": [
+      "Black and white",
+      "Red and black",
+      "Blue and white",
+      "Black and gold"
+    ],
+    "answer": "Black and white"
+  },
+  {
+    "id": "general-2745",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which dice game, involving bearing pieces off around a board, is one of the oldest known board games still played today?",
+    "options": [
+      "Backgammon",
+      "Ludo",
+      "Parcheesi",
+      "Senet"
+    ],
+    "answer": "Backgammon"
   }
 ]

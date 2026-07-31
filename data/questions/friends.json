@@ -8507,12 +8507,12 @@
     "difficulty": "medium",
     "question": "What happens to Rachel's boss Joanna at Bloomingdale's, leaving a position open that Rachel competes for?",
     "options": [
-      "Joanna dies suddenly of a heart attack",
+      "Joanna is hit and killed by a cab",
       "Joanna retires to Florida",
       "Joanna is fired for fraud",
       "Joanna transfers to another store"
     ],
-    "answer": "Joanna dies suddenly of a heart attack"
+    "answer": "Joanna is hit and killed by a cab"
   },
   {
     "id": "friends-656",
@@ -8702,12 +8702,12 @@
     "difficulty": "hard",
     "question": "Which actress plays Kathy, the girlfriend Joey and Chandler both fall for?",
     "options": [
-      "Andrea Anders",
+      "Paget Brewster",
       "Christine Taylor",
       "Aisha Tyler",
       "Jessica Hecht"
     ],
-    "answer": "Andrea Anders"
+    "answer": "Paget Brewster"
   },
   {
     "id": "friends-671",
@@ -8968,5 +8968,1305 @@
       "The Fast and the Furious"
     ],
     "answer": "Die Hard"
+  },
+  {
+    "id": "friends-691",
+    "category": "friends",
+    "difficulty": "hard",
+    "question": "James Michael Tyler was cast as Gunther largely because he could competently operate what piece of Central Perk equipment?",
+    "options": [
+      "The cappuccino machine",
+      "The cash register",
+      "The jukebox",
+      "The espresso grinder"
+    ],
+    "answer": "The cappuccino machine"
+  },
+  {
+    "id": "friends-692",
+    "category": "friends",
+    "difficulty": "hard",
+    "question": "According to Gunther's own backstory, what soap opera character did he once play before working at Central Perk?",
+    "options": [
+      "Bryce on All My Children",
+      "Dr. Drake Ramoray",
+      "A villain on Days of Our Lives",
+      "A doctor on General Hospital"
+    ],
+    "answer": "Bryce on All My Children"
+  },
+  {
+    "id": "friends-693",
+    "category": "friends",
+    "difficulty": "hard",
+    "question": "How was Gunther's soap opera character Bryce written off All My Children, according to Gunther?",
+    "options": [
+      "Killed in an avalanche",
+      "Killed in a car crash",
+      "Sent to prison",
+      "Sent to Europe permanently"
+    ],
+    "answer": "Killed in an avalanche"
+  },
+  {
+    "id": "friends-694",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "Despite appearing in more episodes than any actor besides the six leads, how was Gunther formally credited throughout the series?",
+    "options": [
+      "As a guest star",
+      "As a series regular",
+      "As a special guest",
+      "He was never credited by name"
+    ],
+    "answer": "As a guest star"
+  },
+  {
+    "id": "friends-695",
+    "category": "friends",
+    "difficulty": "hard",
+    "question": "Which actor played the recurring character Ugly Naked Guy, whose face was kept off-screen for the entire series?",
+    "options": [
+      "Jon Haugen",
+      "Michael G. Hagerty",
+      "Larry Hankin",
+      "George Newbern"
+    ],
+    "answer": "Jon Haugen"
+  },
+  {
+    "id": "friends-696",
+    "category": "friends",
+    "difficulty": "hard",
+    "question": "In his very first appearance, what generic name was Larry Hankin's character credited under before becoming Mr. Heckles?",
+    "options": [
+      "The Weird Man",
+      "The Neighbor",
+      "Old Man Downstairs",
+      "The Grouch"
+    ],
+    "answer": "The Weird Man"
+  },
+  {
+    "id": "friends-697",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "What surprising job offer does Estelle once make to a shocked Joey?",
+    "options": [
+      "A role in a gay pornographic film",
+      "A part in a children's puppet show",
+      "A modeling job for adult diapers",
+      "A role as a mascot at a theme park"
+    ],
+    "answer": "A role in a gay pornographic film"
+  },
+  {
+    "id": "friends-698",
+    "category": "friends",
+    "difficulty": "hard",
+    "question": "Besides Joey, who is Estelle Leonard's only other mentioned client, a man known for eating paper?",
+    "options": [
+      "Al Zebooker",
+      "Marty Gold",
+      "Sid Farkus",
+      "Lenny Falk"
+    ],
+    "answer": "Al Zebooker"
+  },
+  {
+    "id": "friends-699",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "Ross's pet monkey Marcel was primarily played by a female capuchin monkey named what?",
+    "options": [
+      "Katie",
+      "Bongo",
+      "Coco",
+      "Abu"
+    ],
+    "answer": "Katie"
+  },
+  {
+    "id": "friends-700",
+    "category": "friends",
+    "difficulty": "hard",
+    "question": "Which actress plays Elizabeth Stevens, the much younger student Ross dates during Season 6?",
+    "options": [
+      "Alexandra Holden",
+      "Bonnie Somerville",
+      "Aisha Tyler",
+      "Christine Taylor"
+    ],
+    "answer": "Alexandra Holden"
+  },
+  {
+    "id": "friends-701",
+    "category": "friends",
+    "difficulty": "hard",
+    "question": "Which actress plays Julie, Ross's girlfriend at the start of Season 2, whose return from China upsets Rachel?",
+    "options": [
+      "Lauren Tom",
+      "Jane Sibbett",
+      "Jessica Hecht",
+      "Helen Baxendale"
+    ],
+    "answer": "Lauren Tom"
+  },
+  {
+    "id": "friends-702",
+    "category": "friends",
+    "difficulty": "hard",
+    "question": "Which actor plays Danny, the shaggy-haired neighbor Rachel briefly dates after mistaking him for a yeti?",
+    "options": [
+      "George Newbern",
+      "Eddie Cahill",
+      "Tate Donovan",
+      "Michael Rapaport"
+    ],
+    "answer": "George Newbern"
+  },
+  {
+    "id": "friends-703",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "What ultimately makes Rachel break up with her neighbor Danny, once his shaggy hair is gone?",
+    "options": [
+      "He still takes baths with his mother",
+      "He reveals he is already married",
+      "He forgets her name repeatedly",
+      "He moves away suddenly"
+    ],
+    "answer": "He still takes baths with his mother"
+  },
+  {
+    "id": "friends-704",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "After leaving Ross, Charlie Wheeler gets back together with an old flame, Dr. Benjamin Hobart, played by which actor?",
+    "options": [
+      "Greg Kinnear",
+      "Bruce Willis",
+      "Tom Selleck",
+      "Paul Rudd"
+    ],
+    "answer": "Greg Kinnear"
+  },
+  {
+    "id": "friends-705",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "Ross's infamous slip of saying Rachel's name during his wedding vows was inspired by a real mistake made by which actor at an earlier rehearsal?",
+    "options": [
+      "David Schwimmer",
+      "Matthew Perry",
+      "Matt LeBlanc",
+      "Tate Donovan"
+    ],
+    "answer": "David Schwimmer"
+  },
+  {
+    "id": "friends-706",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "Mr. Treeger agrees to overlook Monica and Rachel's illegal sublet if Joey teaches him what skill ahead of the Super Ball?",
+    "options": [
+      "Ballroom dancing",
+      "Boxing",
+      "Poker",
+      "Cooking"
+    ],
+    "answer": "Ballroom dancing"
+  },
+  {
+    "id": "friends-707",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "Tom Selleck's early entrances as Richard Burke had to be refilmed because the studio audience's reaction resembled crowds for which iconic band?",
+    "options": [
+      "The Beatles",
+      "The Rolling Stones",
+      "Led Zeppelin",
+      "The Beach Boys"
+    ],
+    "answer": "The Beatles"
+  },
+  {
+    "id": "friends-708",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "Which actor plays Vincent, better known as 'Fun Bobby,' Monica's on-and-off boyfriend?",
+    "options": [
+      "Vincent Ventresca",
+      "Tate Donovan",
+      "Michael Rapaport",
+      "Eddie Cahill"
+    ],
+    "answer": "Vincent Ventresca"
+  },
+  {
+    "id": "friends-709",
+    "category": "friends",
+    "difficulty": "hard",
+    "question": "Before Cole Sprouse, young Ben Geller was played by twin actors Charles Thomas Allen and which other actor, from Seasons 3 through 5?",
+    "options": [
+      "John Christopher Allen",
+      "Dylan Sprouse",
+      "Michael Gunderson",
+      "Kyle Sprouse"
+    ],
+    "answer": "John Christopher Allen"
+  },
+  {
+    "id": "friends-710",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "Which of Joey's seven sisters is described as the most aggressive, once punching Chandler?",
+    "options": [
+      "Cookie",
+      "Dina",
+      "Gina",
+      "Tina"
+    ],
+    "answer": "Cookie"
+  },
+  {
+    "id": "friends-711",
+    "category": "friends",
+    "difficulty": "easy",
+    "question": "Roughly how many American viewers watched the live broadcast of the Friends series finale in 2004?",
+    "options": [
+      "52.5 million",
+      "20 million",
+      "35 million",
+      "70 million"
+    ],
+    "answer": "52.5 million"
+  },
+  {
+    "id": "friends-712",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "Where does the Friends series finale rank among the most-watched series finales in U.S. television history?",
+    "options": [
+      "Fifth",
+      "First",
+      "Tenth",
+      "Second"
+    ],
+    "answer": "Fifth"
+  },
+  {
+    "id": "friends-713",
+    "category": "friends",
+    "difficulty": "hard",
+    "question": "The Season 4 finale, filmed on location in London, drew the show's largest audiences: how many separate crowds of about 500 people watched the taping?",
+    "options": [
+      "Three",
+      "One",
+      "Two",
+      "Five"
+    ],
+    "answer": "Three"
+  },
+  {
+    "id": "friends-714",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "By the final two seasons, each of the six lead actors earned roughly what amount per episode?",
+    "options": [
+      "$1 million",
+      "$250,000",
+      "$500,000",
+      "$2 million"
+    ],
+    "answer": "$1 million"
+  },
+  {
+    "id": "friends-715",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "About how long did it typically take to film a single 22-minute episode of Friends, due to retakes and rewrites?",
+    "options": [
+      "About six hours",
+      "About one hour",
+      "About two hours",
+      "About twelve hours"
+    ],
+    "answer": "About six hours"
+  },
+  {
+    "id": "friends-716",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "The idea for Ross's Holiday Armadillo costume was inspired by a real story about a costume shop being sold out of what other costume?",
+    "options": [
+      "A clown costume",
+      "A Santa costume",
+      "A reindeer costume",
+      "An elf costume"
+    ],
+    "answer": "A clown costume"
+  },
+  {
+    "id": "friends-717",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "Maggie Wheeler has said Janice's signature drawn-out laugh developed organically in rehearsal as a reaction to which co-star's comedic timing?",
+    "options": [
+      "Matthew Perry",
+      "Matt LeBlanc",
+      "David Schwimmer",
+      "Courteney Cox"
+    ],
+    "answer": "Matthew Perry"
+  },
+  {
+    "id": "friends-718",
+    "category": "friends",
+    "difficulty": "hard",
+    "question": "Maggie Wheeler was originally cast for a single episode as Janice but ended up appearing in how many episodes across the series?",
+    "options": [
+      "19",
+      "5",
+      "35",
+      "50"
+    ],
+    "answer": "19"
+  },
+  {
+    "id": "friends-719",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "In the Friends/Mad About You crossover episode, which two Mad About You characters visit Central Perk and mistake Phoebe for Ursula?",
+    "options": [
+      "Fran and Jamie",
+      "Paul and Jamie",
+      "Fran and Paul Reiser",
+      "Ira and Jamie"
+    ],
+    "answer": "Fran and Jamie"
+  },
+  {
+    "id": "friends-720",
+    "category": "friends",
+    "difficulty": "hard",
+    "question": "For scenes where both Buffay twins appear together on screen, whose real-life sister served as a body double?",
+    "options": [
+      "Lisa Kudrow's sister",
+      "Courteney Cox's sister",
+      "Jennifer Aniston's sister",
+      "Matthew Perry's sister"
+    ],
+    "answer": "Lisa Kudrow's sister"
+  },
+  {
+    "id": "friends-721",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "Which actor plays Richard Crosby, Joey's pretentious co-star who keeps spitting in his face while over-enunciating?",
+    "options": [
+      "Gary Oldman",
+      "Bruce Willis",
+      "Tom Selleck",
+      "Alec Baldwin"
+    ],
+    "answer": "Gary Oldman"
+  },
+  {
+    "id": "friends-722",
+    "category": "friends",
+    "difficulty": "hard",
+    "question": "Gary Oldman received a real Primetime Emmy nomination for playing which over-the-top actor on Friends?",
+    "options": [
+      "Richard Crosby",
+      "Paul Stevens",
+      "Jean-Claude Van Damme",
+      "Dr. Benjamin Hobart"
+    ],
+    "answer": "Richard Crosby"
+  },
+  {
+    "id": "friends-723",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "Which actor plays Sandy, the overly sensitive male nanny hired to look after Emma?",
+    "options": [
+      "Freddie Prinze Jr.",
+      "Paul Rudd",
+      "Eddie Cahill",
+      "Michael Rapaport"
+    ],
+    "answer": "Freddie Prinze Jr."
+  },
+  {
+    "id": "friends-724",
+    "category": "friends",
+    "difficulty": "hard",
+    "question": "Before Freddie Prinze Jr. was cast as the male nanny Sandy, the role was reportedly first offered to which actor?",
+    "options": [
+      "Tom Hanks",
+      "Bruce Willis",
+      "George Clooney",
+      "Matthew Broderick"
+    ],
+    "answer": "Tom Hanks"
+  },
+  {
+    "id": "friends-725",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "Which actress plays Cheryl, the paleontology PhD candidate whose apartment turns out to be shockingly messy?",
+    "options": [
+      "Rebecca Romijn",
+      "Denise Richards",
+      "Aisha Tyler",
+      "Winona Ryder"
+    ],
+    "answer": "Rebecca Romijn"
+  },
+  {
+    "id": "friends-726",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "Which actress plays Kristen Lang, the woman Ross and Joey unknowingly both take on dates from a $100 budget?",
+    "options": [
+      "Gabrielle Union",
+      "Kristin Davis",
+      "Denise Richards",
+      "Christina Applegate"
+    ],
+    "answer": "Gabrielle Union"
+  },
+  {
+    "id": "friends-727",
+    "category": "friends",
+    "difficulty": "hard",
+    "question": "Which actress plays Erin, Joey's one-night stand in \"The One With Ross' Library Book\"?",
+    "options": [
+      "Kristin Davis",
+      "Gabrielle Union",
+      "Alexandra Holden",
+      "Lauren Tom"
+    ],
+    "answer": "Kristin Davis"
+  },
+  {
+    "id": "friends-728",
+    "category": "friends",
+    "difficulty": "hard",
+    "question": "Which actor, the longtime voice of Homer Simpson, plays a janitor who tells Ross that Marcel has been kidnapped?",
+    "options": [
+      "Dan Castellaneta",
+      "Hank Azaria",
+      "Larry Hankin",
+      "Jon Haugen"
+    ],
+    "answer": "Dan Castellaneta"
+  },
+  {
+    "id": "friends-729",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "The role of Rachel's sister Amy went to Christina Applegate after which actress, previously cast as sister Jill, became unavailable?",
+    "options": [
+      "Reese Witherspoon",
+      "Christina Ricci",
+      "Denise Richards",
+      "Winona Ryder"
+    ],
+    "answer": "Reese Witherspoon"
+  },
+  {
+    "id": "friends-730",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "Christina Applegate won a real Primetime Emmy Award for Outstanding Guest Actress for playing which character?",
+    "options": [
+      "Amy Green",
+      "Jill Green",
+      "Kristen Lang",
+      "Cheryl"
+    ],
+    "answer": "Amy Green"
+  },
+  {
+    "id": "friends-731",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "Which actress plays Erika Ford, the unstable fan who stalks Joey believing he really is Dr. Drake Ramoray?",
+    "options": [
+      "Brooke Shields",
+      "Susan Sarandon",
+      "Denise Richards",
+      "Julia Roberts"
+    ],
+    "answer": "Brooke Shields"
+  },
+  {
+    "id": "friends-732",
+    "category": "friends",
+    "difficulty": "hard",
+    "question": "Which starring sitcom role did Brooke Shields land soon after her memorable guest appearance as Joey's obsessed fan?",
+    "options": [
+      "Suddenly Susan",
+      "Spin City",
+      "Just Shoot Me!",
+      "Caroline in the City"
+    ],
+    "answer": "Suddenly Susan"
+  },
+  {
+    "id": "friends-733",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "Matthew Perry has said Chandler's drawn-out 'Could I BE any more' delivery began as a habit of his own from childhood in which city?",
+    "options": [
+      "Ottawa",
+      "Montreal",
+      "Los Angeles",
+      "Toronto"
+    ],
+    "answer": "Ottawa"
+  },
+  {
+    "id": "friends-734",
+    "category": "friends",
+    "difficulty": "hard",
+    "question": "Matthew Perry reportedly asked producers to phase out Chandler's 'Could I BE' vocal cadence starting around which season?",
+    "options": [
+      "Season six",
+      "Season two",
+      "Season nine",
+      "Season one"
+    ],
+    "answer": "Season six"
+  },
+  {
+    "id": "friends-735",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "Matthew Perry is missing part of a finger on his right hand from a real childhood accident involving what?",
+    "options": [
+      "A car door",
+      "A kitchen knife",
+      "A bicycle chain",
+      "A broken window"
+    ],
+    "answer": "A car door"
+  },
+  {
+    "id": "friends-736",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "Which real-life hairstylist is credited with creating Jennifer Aniston's famous 'Rachel' haircut?",
+    "options": [
+      "Chris McMillan",
+      "Vidal Sassoon",
+      "Frederic Fekkai",
+      "Jose Eber"
+    ],
+    "answer": "Chris McMillan"
+  },
+  {
+    "id": "friends-737",
+    "category": "friends",
+    "difficulty": "hard",
+    "question": "Jennifer Aniston has said in interviews that she personally felt what way about her own famous 'Rachel' haircut?",
+    "options": [
+      "She thought it was the ugliest haircut she'd ever seen",
+      "She thought it was her best look ever",
+      "She was indifferent to it",
+      "She wanted it copyrighted"
+    ],
+    "answer": "She thought it was the ugliest haircut she'd ever seen"
+  },
+  {
+    "id": "friends-738",
+    "category": "friends",
+    "difficulty": "hard",
+    "question": "Friends co-creators Marta Kauffman and David Crane first met while students at which university?",
+    "options": [
+      "Brandeis University",
+      "Harvard University",
+      "NYU",
+      "UCLA"
+    ],
+    "answer": "Brandeis University"
+  },
+  {
+    "id": "friends-739",
+    "category": "friends",
+    "difficulty": "hard",
+    "question": "Kauffman and Crane first met after being cast together in a student production of which play at college?",
+    "options": [
+      "Camino Real",
+      "Our Town",
+      "The Crucible",
+      "A Chorus Line"
+    ],
+    "answer": "Camino Real"
+  },
+  {
+    "id": "friends-740",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "Before it was called Friends, the show's earliest working title while Crane and Kauffman were developing it was what?",
+    "options": [
+      "Insomnia Cafe",
+      "Central Perk",
+      "The Six",
+      "Uptown Girls"
+    ],
+    "answer": "Insomnia Cafe"
+  },
+  {
+    "id": "friends-741",
+    "category": "friends",
+    "difficulty": "hard",
+    "question": "NBC's title \"Six of One\" for the still-developing show was eventually dropped to avoid confusion with which ABC series?",
+    "options": [
+      "These Friends of Mine",
+      "Family Matters",
+      "Step by Step",
+      "Boy Meets World"
+    ],
+    "answer": "These Friends of Mine"
+  },
+  {
+    "id": "friends-742",
+    "category": "friends",
+    "difficulty": "hard",
+    "question": "Which other title, besides Six of One and Friends Like Us, was reportedly considered for the show before it premiered as Friends?",
+    "options": [
+      "Across the Hall",
+      "Uptown Friends",
+      "The Java Stop",
+      "Coffee and Company"
+    ],
+    "answer": "Across the Hall"
+  },
+  {
+    "id": "friends-743",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "Central Perk's iconic orange couch was reportedly discovered by the show's set decorator in what location?",
+    "options": [
+      "A Warner Bros. studio basement",
+      "A New York antique shop",
+      "A film studio auction",
+      "A furniture warehouse in Burbank"
+    ],
+    "answer": "A Warner Bros. studio basement"
+  },
+  {
+    "id": "friends-744",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "Joey originally brings the chick home as a gift for Chandler after learning it would otherwise face what fate?",
+    "options": [
+      "Being euthanized",
+      "Being sold to a farm",
+      "Being released into the wild",
+      "Being given to another tenant"
+    ],
+    "answer": "Being euthanized"
+  },
+  {
+    "id": "friends-745",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "Despite Joey and Chandler's assumption that their pet chick was female, what does it eventually turn out to be?",
+    "options": [
+      "A rooster",
+      "A duckling",
+      "A different species of bird entirely",
+      "Actually two chicks"
+    ],
+    "answer": "A rooster"
+  },
+  {
+    "id": "friends-746",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "In 'The One with Unagi,' Ross claims Unagi is a state of total martial-arts awareness, but the word actually just means what in Japanese?",
+    "options": [
+      "Freshwater eel",
+      "Empty hand",
+      "Inner peace",
+      "Warrior spirit"
+    ],
+    "answer": "Freshwater eel"
+  },
+  {
+    "id": "friends-747",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "Which two Friends characters are officially named as Emma's godparents?",
+    "options": [
+      "Monica and Chandler",
+      "Joey and Phoebe",
+      "Joey and Rachel's sister Jill",
+      "Phoebe and Mike"
+    ],
+    "answer": "Monica and Chandler"
+  },
+  {
+    "id": "friends-748",
+    "category": "friends",
+    "difficulty": "hard",
+    "question": "Baby Emma was played on screen by which pair of twin actresses?",
+    "options": [
+      "Noelle and Cali Sheldon",
+      "Charles and John Allen",
+      "Mackenzie and Sasha Foster",
+      "Ava and Olivia Berlin"
+    ],
+    "answer": "Noelle and Cali Sheldon"
+  },
+  {
+    "id": "friends-749",
+    "category": "friends",
+    "difficulty": "easy",
+    "question": "What was the 2021 HBO Max cast reunion special officially titled?",
+    "options": [
+      "Friends: The Reunion",
+      "The One Where They Get Back Together",
+      "Friends Forever: A Reunion",
+      "The Friends Reunion Special"
+    ],
+    "answer": "Friends: The Reunion"
+  },
+  {
+    "id": "friends-750",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "Which comedian and talk-show host was chosen to host and interview the cast during Friends: The Reunion?",
+    "options": [
+      "James Corden",
+      "Jimmy Fallon",
+      "Conan O'Brien",
+      "Ellen DeGeneres"
+    ],
+    "answer": "James Corden"
+  },
+  {
+    "id": "friends-751",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "Monica is hired as head chef at the restaurant Allesandro's after doing what to impress the owner?",
+    "options": [
+      "Writing a scathing review of the restaurant",
+      "Cooking him a private dinner",
+      "Winning a televised cooking contest",
+      "Interning there for free"
+    ],
+    "answer": "Writing a scathing review of the restaurant"
+  },
+  {
+    "id": "friends-752",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "To toughen her image with a hostile kitchen staff at Allesandro's, Monica hires and immediately does what to Joey?",
+    "options": [
+      "Fires him in front of the other employees",
+      "Promotes him to sous chef",
+      "Forces him to wash dishes for a week",
+      "Sends him to culinary school"
+    ],
+    "answer": "Fires him in front of the other employees"
+  },
+  {
+    "id": "friends-753",
+    "category": "friends",
+    "difficulty": "hard",
+    "question": "The Friends theme song was originally written as how long, before being extended into a full single due to radio demand?",
+    "options": [
+      "50 seconds",
+      "10 seconds",
+      "2 minutes",
+      "90 seconds"
+    ],
+    "answer": "50 seconds"
+  },
+  {
+    "id": "friends-754",
+    "category": "friends",
+    "difficulty": "hard",
+    "question": "The music for the Friends theme song was composed by Michael Skloff, who is married to which member of the creative team?",
+    "options": [
+      "Co-creator Marta Kauffman",
+      "Director James Burrows",
+      "Co-creator David Crane",
+      "Producer Kevin Bright"
+    ],
+    "answer": "Co-creator Marta Kauffman"
+  },
+  {
+    "id": "friends-755",
+    "category": "friends",
+    "difficulty": "hard",
+    "question": "Which R.E.M. song was reportedly considered for the Friends pilot before an original theme song was written?",
+    "options": [
+      "\"Shiny Happy People\"",
+      "\"Losing My Religion\"",
+      "\"Everybody Hurts\"",
+      "\"Man on the Moon\""
+    ],
+    "answer": "\"Shiny Happy People\""
+  },
+  {
+    "id": "friends-756",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "Which actor plays Frank Buffay Sr., Phoebe's estranged father, in his only physical appearance on the show?",
+    "options": [
+      "Bob Balaban",
+      "Elliott Gould",
+      "Larry Hankin",
+      "Michael G. Hagerty"
+    ],
+    "answer": "Bob Balaban"
+  },
+  {
+    "id": "friends-757",
+    "category": "friends",
+    "difficulty": "hard",
+    "question": "Bob Balaban, who plays Phoebe's father Frank Sr., later guest-starred on Web Therapy, a web series created by which of his on-screen daughters?",
+    "options": [
+      "Lisa Kudrow",
+      "Jennifer Aniston",
+      "Courteney Cox",
+      "Christina Applegate"
+    ],
+    "answer": "Lisa Kudrow"
+  },
+  {
+    "id": "friends-758",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "Which actress plays Phoebe Abbott, Phoebe and Ursula's biological mother, first appearing in the Season 3 finale?",
+    "options": [
+      "Teri Garr",
+      "Christina Pickles",
+      "Marlo Thomas",
+      "Debra Jo Rupp"
+    ],
+    "answer": "Teri Garr"
+  },
+  {
+    "id": "friends-759",
+    "category": "friends",
+    "difficulty": "hard",
+    "question": "According to the show, how did Phoebe's adoptive mother Lily Buffay die when Phoebe and Ursula were teenagers?",
+    "options": [
+      "Carbon monoxide poisoning",
+      "A car accident",
+      "A long illness",
+      "A fall down the stairs"
+    ],
+    "answer": "Carbon monoxide poisoning"
+  },
+  {
+    "id": "friends-760",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "In 'The One With All the Rugby,' what excuse does Chandler invent to try to escape an awkward run-in with his ex Janice?",
+    "options": [
+      "That he's being transferred to Yemen for work",
+      "That he's getting married next week",
+      "That he's moving to Canada",
+      "That he's joining the army"
+    ],
+    "answer": "That he's being transferred to Yemen for work"
+  },
+  {
+    "id": "friends-761",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "At which real Off-Broadway theater does Joey's ill-fated musical 'Freud!' run in the show's first season?",
+    "options": [
+      "The Cherry Lane Theatre",
+      "The Public Theater",
+      "The Minetta Lane Theatre",
+      "The Lucille Lortel Theatre"
+    ],
+    "answer": "The Cherry Lane Theatre"
+  },
+  {
+    "id": "friends-762",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "In the musical 'Freud!,' what accent does Joey perform in while playing Sigmund Freud?",
+    "options": [
+      "A German accent",
+      "A British accent",
+      "A French accent",
+      "A Russian accent"
+    ],
+    "answer": "A German accent"
+  },
+  {
+    "id": "friends-763",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "Joey gets ordained as a minister through the internet in order to do what for Monica and Chandler?",
+    "options": [
+      "Officiate their wedding",
+      "Sign their marriage license as a witness",
+      "Bless their new apartment",
+      "Baptize their future children"
+    ],
+    "answer": "Officiate their wedding"
+  },
+  {
+    "id": "friends-764",
+    "category": "friends",
+    "difficulty": "hard",
+    "question": "Joey arrives just in time to officiate Monica and Chandler's wedding while still dressed in what?",
+    "options": [
+      "A World War I trench uniform from a film set",
+      "A tuxedo two sizes too small",
+      "A full Holiday Armadillo costume",
+      "His Dr. Drake Ramoray scrubs"
+    ],
+    "answer": "A World War I trench uniform from a film set"
+  },
+  {
+    "id": "friends-765",
+    "category": "friends",
+    "difficulty": "hard",
+    "question": "'Smelly Cat' is credited as co-written by Lisa Kudrow and which real-life Pretenders frontwoman?",
+    "options": [
+      "Chrissie Hynde",
+      "Stevie Nicks",
+      "Debbie Harry",
+      "Joan Jett"
+    ],
+    "answer": "Chrissie Hynde"
+  },
+  {
+    "id": "friends-766",
+    "category": "friends",
+    "difficulty": "hard",
+    "question": "Chrissie Hynde guest-stars in Friends as Stephanie Schiffer, a street musician who is also whose ex-partner?",
+    "options": [
+      "Phoebe's",
+      "Rachel's",
+      "Monica's",
+      "Joey's"
+    ],
+    "answer": "Phoebe's"
+  },
+  {
+    "id": "friends-767",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "Ross spends the first several seasons of the show working as a paleontologist at a fictional institution called what?",
+    "options": [
+      "The Museum of Prehistoric History",
+      "The Natural History Institute",
+      "The American Fossil Museum",
+      "The Manhattan Museum of Science"
+    ],
+    "answer": "The Museum of Prehistoric History"
+  },
+  {
+    "id": "friends-768",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "After leaving the museum, Ross eventually takes a teaching position at which real university?",
+    "options": [
+      "New York University",
+      "Columbia University",
+      "Cornell University",
+      "NYU's rival, City College"
+    ],
+    "answer": "New York University"
+  },
+  {
+    "id": "friends-769",
+    "category": "friends",
+    "difficulty": "hard",
+    "question": "Monica and Rachel's apartment number, originally shown as 5 early on, was later permanently changed to what?",
+    "options": [
+      "20",
+      "12",
+      "3B",
+      "14"
+    ],
+    "answer": "20"
+  },
+  {
+    "id": "friends-770",
+    "category": "friends",
+    "difficulty": "hard",
+    "question": "Chandler and Joey's apartment number, originally shown as 4 early on, was later permanently changed to what?",
+    "options": [
+      "19",
+      "9",
+      "2A",
+      "15"
+    ],
+    "answer": "19"
+  },
+  {
+    "id": "friends-771",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "Joey's pickup line \"How you doin'?\" is first used on the show in an episode of which season?",
+    "options": [
+      "Season four",
+      "Season one",
+      "Season seven",
+      "Season two"
+    ],
+    "answer": "Season four"
+  },
+  {
+    "id": "friends-772",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "After Ross gives up Marcel, the monkey is eventually sent to live at which real zoo?",
+    "options": [
+      "The San Diego Zoo",
+      "The Bronx Zoo",
+      "The Central Park Zoo",
+      "The National Zoo"
+    ],
+    "answer": "The San Diego Zoo"
+  },
+  {
+    "id": "friends-773",
+    "category": "friends",
+    "difficulty": "hard",
+    "question": "When Ross later learns what became of Marcel, he discovers the monkey went on to appear in a commercial and a movie alongside which action star?",
+    "options": [
+      "Jean-Claude Van Damme",
+      "Bruce Willis",
+      "Sylvester Stallone",
+      "Arnold Schwarzenegger"
+    ],
+    "answer": "Jean-Claude Van Damme"
+  },
+  {
+    "id": "friends-774",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "The running joke calling Chandler \"Miss Chanandler Bong\" comes from a misprint on which household item's address label?",
+    "options": [
+      "Their TV Guide subscription",
+      "Their pizza delivery receipt",
+      "Their electricity bill",
+      "Their gym membership card"
+    ],
+    "answer": "Their TV Guide subscription"
+  },
+  {
+    "id": "friends-775",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "In flashback episodes, an overweight version of teenage Monica is shown using what technique to portray her larger size?",
+    "options": [
+      "A fat suit with prosthetics on Courteney Cox",
+      "Full CGI de-aging effects",
+      "A body double actress",
+      "Camera tricks with wide-angle lenses only"
+    ],
+    "answer": "A fat suit with prosthetics on Courteney Cox"
+  },
+  {
+    "id": "friends-776",
+    "category": "friends",
+    "difficulty": "hard",
+    "question": "According to the show's backstory, teenage Monica loses the weight after overhearing which friend call her fat at Thanksgiving?",
+    "options": [
+      "Chandler",
+      "Ross",
+      "Rachel",
+      "Joey"
+    ],
+    "answer": "Chandler"
+  },
+  {
+    "id": "friends-777",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "What is the profession of Barry Farber, the fiancé Rachel leaves at the altar in the pilot?",
+    "options": [
+      "Orthodontist",
+      "Dentist",
+      "Pediatrician",
+      "Lawyer"
+    ],
+    "answer": "Orthodontist"
+  },
+  {
+    "id": "friends-778",
+    "category": "friends",
+    "difficulty": "hard",
+    "question": "Which actor plays Barry Farber, the orthodontist Rachel leaves at the altar?",
+    "options": [
+      "Mitchell Whitfield",
+      "Tate Donovan",
+      "Eddie Cahill",
+      "Tom Selleck"
+    ],
+    "answer": "Mitchell Whitfield"
+  },
+  {
+    "id": "friends-779",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "After Rachel leaves him at the altar, Barry ends up marrying which of Rachel's own friends or family members?",
+    "options": [
+      "Her maid of honor, Mindy",
+      "Her sister, Amy",
+      "Her sister, Jill",
+      "Her college roommate"
+    ],
+    "answer": "Her maid of honor, Mindy"
+  },
+  {
+    "id": "friends-780",
+    "category": "friends",
+    "difficulty": "hard",
+    "question": "Lisa Kudrow reportedly had to do what unusual step, compared to the rest of the main cast, to land the role of Phoebe?",
+    "options": [
+      "Audition for the part twice",
+      "Read for a different character first",
+      "Wait a full year before being cast",
+      "Screen test opposite all six leads"
+    ],
+    "answer": "Audition for the part twice"
+  },
+  {
+    "id": "friends-781",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "Which comedian plays Steve, a restaurant owner who shows up stoned to a job-interview dinner Monica cooks for him in Season 1?",
+    "options": [
+      "Jon Lovitz",
+      "Danny DeVito",
+      "Fred Willard",
+      "Dan Castellaneta"
+    ],
+    "answer": "Jon Lovitz"
+  },
+  {
+    "id": "friends-782",
+    "category": "friends",
+    "difficulty": "hard",
+    "question": "Jon Lovitz's character Steve returns in Season 9, roughly how many episodes after his first appearance, implied to now be a drug addict?",
+    "options": [
+      "Nearly 200 episodes later",
+      "About 10 episodes later",
+      "Exactly one season later",
+      "Just 2 episodes later"
+    ],
+    "answer": "Nearly 200 episodes later"
+  },
+  {
+    "id": "friends-783",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "The night Ross and Rachel are 'on a break,' Ross spends the night with a coworker from where?",
+    "options": [
+      "The Xerox place",
+      "The gym",
+      "His graduate program",
+      "The museum gift shop"
+    ],
+    "answer": "The Xerox place"
+  },
+  {
+    "id": "friends-784",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "In Season 9, Chandler accidentally accepts a job transfer to run a division of his company in which city?",
+    "options": [
+      "Tulsa",
+      "Chicago",
+      "Dallas",
+      "Denver"
+    ],
+    "answer": "Tulsa"
+  },
+  {
+    "id": "friends-785",
+    "category": "friends",
+    "difficulty": "hard",
+    "question": "Chandler ends up accidentally agreeing to the Tulsa transfer because he did what during the crucial phone meeting?",
+    "options": [
+      "Fell asleep and mumbled a reply",
+      "Misheard the offer as a joke",
+      "Was distracted by Joey",
+      "Answered while drunk at a work party"
+    ],
+    "answer": "Fell asleep and mumbled a reply"
+  },
+  {
+    "id": "friends-786",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "Joey's soap character Dr. Drake Ramoray is initially killed off by falling down what?",
+    "options": [
+      "An elevator shaft",
+      "A parking garage stairwell",
+      "A hospital laundry chute",
+      "An operating room skylight"
+    ],
+    "answer": "An elevator shaft"
+  },
+  {
+    "id": "friends-787",
+    "category": "friends",
+    "difficulty": "hard",
+    "question": "The writers kill off Drake Ramoray partly in response to Joey falsely claiming in an interview that he did what?",
+    "options": [
+      "Improvised most of his lines",
+      "Wrote his own episodes",
+      "Directed several episodes himself",
+      "Refused to work with the show's producers"
+    ],
+    "answer": "Improvised most of his lines"
+  },
+  {
+    "id": "friends-788",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "When Drake Ramoray is revived, his new brain is transplanted from which deceased soap character?",
+    "options": [
+      "Jessica Lockhart",
+      "Cecilia Monroe",
+      "Dr. Mitchell",
+      "Nurse Estelle"
+    ],
+    "answer": "Jessica Lockhart"
+  },
+  {
+    "id": "friends-789",
+    "category": "friends",
+    "difficulty": "medium",
+    "question": "Joey suggests using what household product to help Ross's new leather pants slide back on after he pulls them down to cool off?",
+    "options": [
+      "Baby powder",
+      "Dish soap",
+      "Cooking oil",
+      "Shaving cream"
+    ],
+    "answer": "Baby powder"
+  },
+  {
+    "id": "friends-790",
+    "category": "friends",
+    "difficulty": "hard",
+    "question": "At the 2021 Friends reunion special, which supermodel guest models Ross's infamous leather pants, becoming the first person to wear them since Schwimmer?",
+    "options": [
+      "Cindy Crawford",
+      "Elle Macpherson",
+      "Jill Goodacre",
+      "Christy Turlington"
+    ],
+    "answer": "Cindy Crawford"
   }
 ]
