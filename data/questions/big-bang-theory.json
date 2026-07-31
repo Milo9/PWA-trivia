@@ -7389,7 +7389,10 @@
     "difficulty": "medium",
     "question": "How many Primetime Emmy Awards for Outstanding Lead Actor did Jim Parsons win for playing Sheldon?",
     "options": [
-      "Four","Two","One","Six"
+      "Four",
+      "Two",
+      "One",
+      "Six"
     ],
     "answer": "Four"
   },
@@ -7795,5 +7798,148 @@
       "A voice sample"
     ],
     "answer": "DNA"
+  },
+  {
+    "id": "big-bang-theory-601",
+    "category": "big-bang-theory",
+    "difficulty": "medium",
+    "question": "Which real-life Apollo 11 astronaut guest-stars as himself, leaving Howard deflated that his ISS trip pales in comparison to actually walking on the moon?",
+    "options": [
+      "Buzz Aldrin",
+      "Neil Armstrong",
+      "Michael Collins",
+      "John Glenn"
+    ],
+    "answer": "Buzz Aldrin"
+  },
+  {
+    "id": "big-bang-theory-602",
+    "category": "big-bang-theory",
+    "difficulty": "medium",
+    "question": "Jim Parsons stars in the 2020 Netflix film adaptation of which play about a group of gay friends in 1968 New York?",
+    "options": [
+      "The Boys in the Band",
+      "Angels in America",
+      "The Normal Heart",
+      "Torch Song Trilogy"
+    ],
+    "answer": "The Boys in the Band"
+  },
+  {
+    "id": "big-bang-theory-603",
+    "category": "big-bang-theory",
+    "difficulty": "medium",
+    "question": "Simon Helberg appears in which 2009 Coen Brothers film as a lawyer advising the main character?",
+    "options": [
+      "A Serious Man",
+      "No Country for Old Men",
+      "Burn After Reading",
+      "Inside Llewyn Davis"
+    ],
+    "answer": "A Serious Man"
+  },
+  {
+    "id": "big-bang-theory-604",
+    "category": "big-bang-theory",
+    "difficulty": "hard",
+    "question": "Which actress, the other half of the real-life comedy duo Garfunkel and Oates alongside Kate Micucci, plays Ramona Nowitzki, the grad student obsessed with Sheldon?",
+    "options": [
+      "Riki Lindhome",
+      "Laura Spencer",
+      "Sara Rue",
+      "Lauren Lapkus"
+    ],
+    "answer": "Riki Lindhome"
+  },
+  {
+    "id": "big-bang-theory-605",
+    "category": "big-bang-theory",
+    "difficulty": "medium",
+    "question": "As a child actor, Johnny Galecki played young Rusty Griswold in which 1989 comedy film?",
+    "options": [
+      "National Lampoon's Christmas Vacation",
+      "Uncle Buck",
+      "Vegas Vacation",
+      "Home Alone"
+    ],
+    "answer": "National Lampoon's Christmas Vacation"
+  },
+  {
+    "id": "big-bang-theory-606",
+    "category": "big-bang-theory",
+    "difficulty": "medium",
+    "question": "As a child actress, Mayim Bialik played the young version of Bette Midler's character in which 1988 tearjerker film?",
+    "options": [
+      "Beaches",
+      "Steel Magnolias",
+      "Terms of Endearment",
+      "Fried Green Tomatoes"
+    ],
+    "answer": "Beaches"
+  },
+  {
+    "id": "big-bang-theory-607",
+    "category": "big-bang-theory",
+    "difficulty": "medium",
+    "question": "Before The Big Bang Theory, Kaley Cuoco played Billie Jenkins on which supernatural drama series?",
+    "options": [
+      "Charmed",
+      "Buffy the Vampire Slayer",
+      "Sabrina the Teenage Witch",
+      "Angel"
+    ],
+    "answer": "Charmed"
+  },
+  {
+    "id": "big-bang-theory-608",
+    "category": "big-bang-theory",
+    "difficulty": "medium",
+    "question": "Kunal Nayyar plays lawyer Ravi Shah in the final season of which USA Network legal drama?",
+    "options": [
+      "Suits",
+      "White Collar",
+      "Royal Pains",
+      "Silicon Valley"
+    ],
+    "answer": "Suits"
+  },
+  {
+    "id": "big-bang-theory-609",
+    "category": "big-bang-theory",
+    "difficulty": "easy",
+    "question": "Jim Parsons has a supporting role in which 2016 film about Black female mathematicians working at NASA during the Space Race?",
+    "options": [
+      "Hidden Figures",
+      "First Man",
+      "Apollo 13",
+      "The Right Stuff"
+    ],
+    "answer": "Hidden Figures"
+  },
+  {
+    "id": "big-bang-theory-610",
+    "category": "big-bang-theory",
+    "difficulty": "hard",
+    "question": "What is the fictional street address of Sheldon and Leonard's Pasadena apartment building, seen throughout the series?",
+    "options": [
+      "2311 North Los Robles Avenue",
+      "1200 Colorado Boulevard",
+      "455 Green Street",
+      "900 Del Mar Boulevard"
+    ],
+    "answer": "2311 North Los Robles Avenue"
+  },
+  {
+    "id": "big-bang-theory-611",
+    "category": "big-bang-theory",
+    "difficulty": "medium",
+    "question": "Which fantasy author, known for Sandman and American Gods, guest-stars as himself when the guys eagerly seek his autograph?",
+    "options": [
+      "Neil Gaiman",
+      "George R. R. Martin",
+      "Stan Lee",
+      "Terry Pratchett"
+    ],
+    "answer": "Neil Gaiman"
   }
 ]
