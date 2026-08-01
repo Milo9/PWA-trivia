@@ -353,6 +353,35 @@ instead):
 - Largest planet in the solar system (Jupiter)
 - Which planet is known as the "Red Planet" (Mars)
 - Planet closest to the Sun (Mercury)
+- Name of the galaxy we live in (Milky Way)
+- Force that keeps planets in orbit / pulls objects down (gravity) — generic
+  "what force is this" filler questions
+- Boundary/point of no return around a black hole (event horizon)
+- Dwarf planet located in the asteroid belt (Ceres)
+- Uranus rotates on its side / has an extreme axial tilt
+- Bending of light by gravity (gravitational lensing)
+- First artificial satellite (Sputnik 1)
+- Definition of "orbit" (the path an object takes around a star/planet)
+- Which moon has a retrograde orbit (Triton)
+- Closest star to the Sun/Earth (Proxima Centauri, or the Sun itself as a
+  trick answer) — also watch for Alpha Centauri vs. Proxima Centauri mixups
+- Jupiter's Great Red Spot
+- Point in an orbit closest to Earth (perigee)
+- Gas responsible for Neptune's blue color (methane)
+- Earth's natural satellite (the Moon, incl. calling it "Luna")
+- Galaxy closest to the Milky Way (Andromeda)
+- Definition of "constellation"
+- Largest moon of Jupiter / in the solar system (Ganymede)
+- Which planet has the most prominent/visible rings (Saturn)
+- Main gas making up the Sun (hydrogen)
+- Definition of "cosmology"
+- Region/cloud where stars are born (nebula)
+- Which layer of the Sun/a star is the "outermost" — note the corona, not
+  the photosphere, is actually outermost; don't miscast this
+- Planet with a day longer than its year / extremely slow rotation (Venus)
+- First mission to fly by/explore Pluto (New Horizons)
+- Distance light travels in one year (light-year), incl. rephrased as "a
+  star's distance from Earth"
 
 Use web search to verify every fact — do not rely on memory alone. Prefer
 authoritative sources (space agency sites, encyclopedic sources) over

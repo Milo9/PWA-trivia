@@ -162,6 +162,31 @@ the split) and merged; see `data/questions/*.json` git history around
 that commit for the per-category counts. All confirmed-duplicate angles
 from this batch were folded into the per-category lists below.
 
+**`localLLM-Gemma4-01` processed 2026-08-01** (single-file batch, 112
+`space-astronomy` questions from a local/small model, already
+self-declaring `category`): `check-draft.js` alone only flagged 4 likely
+and 9 near duplicates against the corpus — a manual draft-vs-draft and
+draft-vs-category pass (the technique this section already calls out:
+`check-draft.js` has no draft-vs-draft question-text comparison) found far
+more, since this batch had heavy *internal* repetition (e.g. "what is the
+name of the galaxy we live in" asked 3 times in the same 112, several
+near-identical "what force does X" gravity filler questions) on top of
+chestnuts already in the corpus. 49 of 112 (~44%) were cut — well above
+even the "no angles list yet" 33% rate from the larger Expanded batch
+above, consistent with this being a small/local model with less breadth
+than the frontier-model batches this repo has processed so far. Also
+caught two factual/internal-consistency errors typical of a weaker model,
+not just duplication: one question named "Huygens" itself as the
+*mission* that landed a probe on a moon (Huygens is the probe; the
+mission is Cassini-Huygens — and another question in the same batch
+correctly said so, contradicting the first), and one called the
+photosphere a star's "outermost layer" (the corona is outermost; the
+photosphere is just the visible "surface"). Both dropped rather than
+fixed in place, since better-framed correct versions of the underlying
+facts already existed elsewhere in the batch or corpus. Surviving 63
+merged as `space-astronomy-034`-`096`. All confirmed-duplicate angles
+folded into `space-astronomy`'s list in `DRAFTING-PROMPT-TEMPLATE.md`.
+
 ## General Knowledge split into topic categories (2026-08-01)
 
 `general` (2825 questions) was split into 12 topic categories plus a
