@@ -16,15 +16,23 @@ You are drafting trivia questions for a multiple-choice trivia app. You have
 no access to my codebase — just generate the content below and I'll hand it
 to another AI to review, dedupe, and merge into the database myself.
 
-TOPIC: [e.g. "The Big Bang Theory (TV show) — minor/guest characters" OR
-"General knowledge — world geography" OR "Friends — Season 7 trivia"]
+TOPIC: General knowledge
 
-COUNT: [e.g. 20] questions.
+COUNT: 100 questions.
 
 AVOID THESE ANGLES — already well-covered in my question bank, so don't
 draft facts that overlap with these (pick different, more specific facts
-instead): [paste the matching category's list from "Angles already
-covered" below]
+instead):
+- Chemical symbol for tungsten (W)
+- Earth's atmosphere composition (~78% nitrogen)
+- Number of bones in the adult human body (206)
+- Smallest planet in the solar system (Mercury)
+- Which planet has the most moons (Saturn)
+- Hardest naturally occurring substance (diamond)
+- Who invented the World Wide Web (Tim Berners-Lee)
+- SI unit of electrical resistance (ohm)
+- Chemical symbol for potassium (K)
+- Subatomic particle with no electric charge (neutron)
 
 Use web search to verify every fact — do not rely on memory alone. Prefer
 authoritative sources for this topic (e.g. fan wikis and episode guides for

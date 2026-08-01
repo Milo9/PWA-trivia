@@ -3,7 +3,15 @@
 // stamps it into sw.js as CACHE_VERSION. This is what makes the offline
 // cache refresh cleanly: whenever data or app code changes, the hash
 // changes, the service worker gets a new cache name, old data is dropped
-// on next activate. Run this before deploying (after validate.js passes).
+// on next activate. Also stamps a per-file hash manifest (FILE_HASHES)
+// so the service worker can tell which individual files actually changed
+// and copy the rest forward from the previous cache instead of
+// re-downloading everything on every ship. Run this before deploying
+// (after validate.js passes).
+//
+// Note: icons and "./" are part of the cached app shell but aren't in
+// HASHED_FILES, so they have no manifest entry — the service worker
+// always re-fetches those rather than guessing.
 //
 // Usage: node scripts/stamp-version.js
 
@@ -32,18 +40,26 @@ function collectDataFiles() {
 function main() {
   const files = [...HASHED_FILES.map((f) => path.join(ROOT, f)), ...collectDataFiles()];
 
-  const hash = crypto.createHash("sha256");
+  const combined = crypto.createHash("sha256");
+  const fileHashes = {};
   for (const file of files) {
-    hash.update(path.relative(ROOT, file));
-    hash.update(fs.readFileSync(file));
+    const rel = path.relative(ROOT, file).split(path.sep).join("/");
+    const content = fs.readFileSync(file);
+    combined.update(rel);
+    combined.update(content);
+    fileHashes[rel] = crypto.createHash("sha256").update(content).digest("hex").slice(0, 16);
   }
-  const digest = hash.digest("hex").slice(0, 8);
+  const digest = combined.digest("hex").slice(0, 8);
   const version = `v1-${digest}`;
 
   let sw = fs.readFileSync(SW_FILE, "utf8");
-  const updated = sw.replace(
+  let updated = sw.replace(
     /const CACHE_VERSION = ".*?";/,
     `const CACHE_VERSION = "${version}";`
+  );
+  updated = updated.replace(
+    /const FILE_HASHES = \{[\s\S]*?\};/,
+    `const FILE_HASHES = ${JSON.stringify(fileHashes, null, 2)};`
   );
 
   if (updated === sw) {
