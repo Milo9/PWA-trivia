@@ -2546,5 +2546,824 @@
       "India"
     ],
     "answer": "United States"
+  },
+  {
+    "id": "space-astronomy-034",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What is the primary source of energy for a star on the main sequence?",
+    "options": [
+      "Nuclear fission",
+      "Gravitational collapse",
+      "Hydrogen fusion",
+      "Helium decay"
+    ],
+    "answer": "Hydrogen fusion"
+  },
+  {
+    "id": "space-astronomy-035",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "The Chandrasekhar limit, which determines if a star becomes a white dwarf or a neutron star, is approximately how many solar masses?",
+    "options": [
+      "0.5 solar masses",
+      "1.4 solar masses",
+      "2.8 solar masses",
+      "3.0 solar masses"
+    ],
+    "answer": "1.4 solar masses"
+  },
+  {
+    "id": "space-astronomy-036",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What causes the phenomenon known as 'spaghettification'?",
+    "options": [
+      "Extreme radiation",
+      "Tidal forces",
+      "Magnetic flux",
+      "Gas pressure"
+    ],
+    "answer": "Tidal forces"
+  },
+  {
+    "id": "space-astronomy-037",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which moon of Jupiter is the most volcanically active body in the solar system?",
+    "options": [
+      "Europa",
+      "Ganymede",
+      "Io",
+      "Callisto"
+    ],
+    "answer": "Io"
+  },
+  {
+    "id": "space-astronomy-038",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What type of supernova occurs when a white dwarf in a binary system exceeds the Chandrasekhar limit?",
+    "options": [
+      "Type Ia",
+      "Type II",
+      "Type Ib",
+      "Type Ic"
+    ],
+    "answer": "Type Ia"
+  },
+  {
+    "id": "space-astronomy-039",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "The Cosmic Microwave Background (CMB) is considered evidence for which cosmological model?",
+    "options": [
+      "Steady State Theory",
+      "Big Bang Theory",
+      "Loop Quantum Gravity",
+      "String Theory"
+    ],
+    "answer": "Big Bang Theory"
+  },
+  {
+    "id": "space-astronomy-040",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "In the context of stellar evolution, what is the name of the region where a protostar begins its life?",
+    "options": [
+      "Molecular cloud",
+      "Hertzsprung gap",
+      "Red giant branch",
+      "White dwarf cooling track"
+    ],
+    "answer": "Molecular cloud"
+  },
+  {
+    "id": "space-astronomy-041",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which space telescope is famous for its ability to see in the infrared spectrum and uses a gold-coated beryllium mirror?",
+    "options": [
+      "Hubble",
+      "James Webb",
+      "Kepler",
+      "Spitzer"
+    ],
+    "answer": "James Webb"
+  },
+  {
+    "id": "space-astronomy-042",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the name of the large, dark feature on Pluto often referred to as its 'heart'?",
+    "options": [
+      "Sputnik Planitia",
+      "Tombaugh Regio",
+      "Oz Terra",
+      "Tartarus Dorsa"
+    ],
+    "answer": "Sputnik Planitia"
+  },
+  {
+    "id": "space-astronomy-043",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which effect is used by astronomers to detect exoplanets by measuring the tiny 'wobble' of a star caused by an orbiting planet?",
+    "options": [
+      "Transit method",
+      "Direct imaging",
+      "Radial velocity",
+      "Gravitational microlensing"
+    ],
+    "answer": "Radial velocity"
+  },
+  {
+    "id": "space-astronomy-044",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What is the name of the theoretical boundary where the solar wind meets the interstellar medium?",
+    "options": [
+      "Magnetopause",
+      "Heliopause",
+      "Bow shock",
+      "Termination shock"
+    ],
+    "answer": "Heliopause"
+  },
+  {
+    "id": "space-astronomy-045",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which moon of Saturn is known for its spectacular plumes of water ice erupting from its south pole?",
+    "options": [
+      "Rhea",
+      "Dione",
+      "Enceladus",
+      "Tethys"
+    ],
+    "answer": "Enceladus"
+  },
+  {
+    "id": "space-astronomy-046",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What is the term for a star that has exhausted its hydrogen fuel and expanded significantly in size?",
+    "options": [
+      "White dwarf",
+      "Red giant",
+      "Blue straggler",
+      "Neutron star"
+    ],
+    "answer": "Red giant"
+  },
+  {
+    "id": "space-astronomy-047",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which of these is a major component of Dark Matter as theorized in current cosmological models?",
+    "options": [
+      "WIMPs",
+      "Neutrinos",
+      "Quarks",
+      "Photons"
+    ],
+    "answer": "WIMPs"
+  },
+  {
+    "id": "space-astronomy-048",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "The 'Goldilocks Zone' is another name for which astronomical region?",
+    "options": [
+      "The asteroid belt",
+      "The Kuiper Belt",
+      "The habitable zone",
+      "The Oort Cloud"
+    ],
+    "answer": "The habitable zone"
+  },
+  {
+    "id": "space-astronomy-049",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which type of star is characterized by an extremely intense magnetic field, often resulting in rapid bursts of X-rays and gamma rays?",
+    "options": [
+      "Pulsar",
+      "Magnetar",
+      "Brown dwarf",
+      "White dwarf"
+    ],
+    "answer": "Magnetar"
+  },
+  {
+    "id": "space-astronomy-050",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which celestial object is the primary target of the New Horizons mission?",
+    "options": [
+      "Ceres",
+      "Pluto",
+      "Eris",
+      "Europa"
+    ],
+    "answer": "Pluto"
+  },
+  {
+    "id": "space-astronomy-051",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What is the name of the largest known structure in the universe, consisting of vast filaments of galaxies?",
+    "options": [
+      "Cosmic Web",
+      "Great Attractor",
+      "Laniakea",
+      "Supercluster"
+    ],
+    "answer": "Cosmic Web"
+  },
+  {
+    "id": "space-astronomy-052",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which planet's atmosphere is composed mostly of thick clouds of sulfuric acid?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Neptune",
+      "Jupiter"
+    ],
+    "answer": "Venus"
+  },
+  {
+    "id": "space-astronomy-053",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "In stellar spectroscopy, what does a 'redshift' indicate about a distant galaxy?",
+    "options": [
+      "It is moving toward us",
+      "It is cooling down",
+      "It is moving away from us",
+      "It is getting larger"
+    ],
+    "answer": "It is moving away from us"
+  },
+  {
+    "id": "space-astronomy-054",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which moon of Jupiter is believed to have a massive subsurface ocean containing more water than Earth?",
+    "options": [
+      "Io",
+      "Europa",
+      "Ganymede",
+      "Callisto"
+    ],
+    "answer": "Europa"
+  },
+  {
+    "id": "space-astronomy-055",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the term for a star that does not have enough mass to sustain nuclear fusion in its core?",
+    "options": [
+      "White dwarf",
+      "Brown dwarf",
+      "Red dwarf",
+      "Black dwarf"
+    ],
+    "answer": "Brown dwarf"
+  },
+  {
+    "id": "space-astronomy-056",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What is the name of the mathematical boundary that defines a black hole's size based on its mass?",
+    "options": [
+      "Event horizon",
+      "Schwarzschild radius",
+      "Roche limit",
+      "Lagrange point"
+    ],
+    "answer": "Schwarzschild radius"
+  },
+  {
+    "id": "space-astronomy-057",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Which celestial body is the center of our solar system?",
+    "options": [
+      "The Moon",
+      "The Sun",
+      "Jupiter",
+      "Earth"
+    ],
+    "answer": "The Sun"
+  },
+  {
+    "id": "space-astronomy-058",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the name of the first US space station launched in 1973?",
+    "options": [
+      "Mir",
+      "Skylab",
+      "ISS",
+      "Salyut"
+    ],
+    "answer": "Skylab"
+  },
+  {
+    "id": "space-astronomy-059",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which specific mission used the 'Huygens' probe to study Saturn's moon Titan?",
+    "options": [
+      "Voyager 2",
+      "Cassini",
+      "Pioneer 10",
+      "Galileo"
+    ],
+    "answer": "Cassini"
+  },
+  {
+    "id": "space-astronomy-060",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What phenomenon occurs when a moon or planet passes between a larger body and an observer, blocking the light?",
+    "options": [
+      "Eclipse",
+      "Occultation",
+      "Transit",
+      "Syzygy"
+    ],
+    "answer": "Occultation"
+  },
+  {
+    "id": "space-astronomy-061",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What is the most common element in the universe?",
+    "options": [
+      "Helium",
+      "Oxygen",
+      "Carbon",
+      "Hydrogen"
+    ],
+    "answer": "Hydrogen"
+  },
+  {
+    "id": "space-astronomy-062",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which law relates a planet's orbital period to its distance from the Sun?",
+    "options": [
+      "Newton's First Law",
+      "Kepler's Third Law",
+      "Hubble's Law",
+      "Ohm's Law"
+    ],
+    "answer": "Kepler's Third Law"
+  },
+  {
+    "id": "space-astronomy-063",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the name of the belt containing many small, rocky objects between Mars and Jupiter?",
+    "options": [
+      "Kuiper Belt",
+      "Oort Cloud",
+      "Asteroid Belt",
+      "Comet Belt"
+    ],
+    "answer": "Asteroid Belt"
+  },
+  {
+    "id": "space-astronomy-064",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What is the term for the extremely high-energy light emitted by an active galactic nucleus?",
+    "options": [
+      "Quasar",
+      "Nebula",
+      "Pulsar",
+      "Supernova"
+    ],
+    "answer": "Quasar"
+  },
+  {
+    "id": "space-astronomy-065",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which cosmological constant is used to explain the accelerating expansion of the universe?",
+    "options": [
+      "Dark Matter",
+      "Dark Energy",
+      "Cosmological Constant (Lambda)",
+      "Quintessence"
+    ],
+    "answer": "Cosmological Constant (Lambda)"
+  },
+  {
+    "id": "space-astronomy-066",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the term for a celestial event where three or more bodies are in a straight line?",
+    "options": [
+      "Syzygy",
+      "Eclipse",
+      "Conjunction",
+      "Opposition"
+    ],
+    "answer": "Syzygy"
+  },
+  {
+    "id": "space-astronomy-067",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Which planet is famous for its prominent and beautiful ring system?",
+    "options": [
+      "Jupiter",
+      "Uranus",
+      "Saturn",
+      "Neptune"
+    ],
+    "answer": "Saturn"
+  },
+  {
+    "id": "space-astronomy-068",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which mission was designed to search for Earth-sized planets orbiting other stars?",
+    "options": [
+      "Kepler",
+      "Voyager",
+      "Hubble",
+      "Galileo"
+    ],
+    "answer": "Kepler"
+  },
+  {
+    "id": "space-astronomy-069",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What is the term for a star's brightness as seen from Earth?",
+    "options": [
+      "Absolute magnitude",
+      "Luminosity",
+      "Apparent magnitude",
+      "Parallax"
+    ],
+    "answer": "Apparent magnitude"
+  },
+  {
+    "id": "space-astronomy-070",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which of these is a characteristic of a neutron star?",
+    "options": [
+      "Extremely high density",
+      "Low gravitational pull",
+      "Large radius",
+      "Slow rotation"
+    ],
+    "answer": "Extremely high density"
+  },
+  {
+    "id": "space-astronomy-071",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What is the name of the limit beyond which a star's mass will cause it to collapse into a black hole?",
+    "options": [
+      "Tolman-Oppenheimer-Volkoff limit",
+      "Chandrasekhar limit",
+      "Eddington limit",
+      "Schwarzschild limit"
+    ],
+    "answer": "Tolman-Oppenheimer-Volkoff limit"
+  },
+  {
+    "id": "space-astronomy-072",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which instrument is used to measure the brightness of stars?",
+    "options": [
+      "Spectroscope",
+      "Photometer",
+      "Telescope",
+      "Interferometer"
+    ],
+    "answer": "Photometer"
+  },
+  {
+    "id": "space-astronomy-073",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What is the name for the single point of infinite density from which the universe is theorized to have expanded, according to the Big Bang theory?",
+    "options": [
+      "Singularity",
+      "Nebula",
+      "Void",
+      "Supernova"
+    ],
+    "answer": "Singularity"
+  },
+  {
+    "id": "space-astronomy-074",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the term for a star that has exploded?",
+    "options": [
+      "Black hole",
+      "Neutron star",
+      "Supernova",
+      "Pulsar"
+    ],
+    "answer": "Supernova"
+  },
+  {
+    "id": "space-astronomy-075",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What does the 'Hubble Constant' measure?",
+    "options": [
+      "The age of the universe",
+      "The speed of light",
+      "The rate of cosmic expansion",
+      "The density of dark matter"
+    ],
+    "answer": "The rate of cosmic expansion"
+  },
+  {
+    "id": "space-astronomy-076",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which component is the hottest part of the Sun's atmosphere?",
+    "options": [
+      "Photosphere",
+      "Chromosphere",
+      "Corona",
+      "Convection zone"
+    ],
+    "answer": "Corona"
+  },
+  {
+    "id": "space-astronomy-077",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What do we call a person who travels into space?",
+    "options": [
+      "Cosmonaut",
+      "Astronaut",
+      "Aviator",
+      "Pilot"
+    ],
+    "answer": "Astronaut"
+  },
+  {
+    "id": "space-astronomy-078",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What is the name of the scale used to classify stars based on their temperature and spectral lines?",
+    "options": [
+      "Hertzsprung-Russell",
+      "OBAFGKM",
+      "Magnitude scale",
+      "Parsec scale"
+    ],
+    "answer": "OBAFGKM"
+  },
+  {
+    "id": "space-astronomy-079",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the term for the distance light travels in one year?",
+    "options": [
+      "Parsec",
+      "Light-year",
+      "Astronomical Unit",
+      "Kiloparsec"
+    ],
+    "answer": "Light-year"
+  },
+  {
+    "id": "space-astronomy-080",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What is the largest object in our solar system?",
+    "options": [
+      "Jupiter",
+      "The Sun",
+      "Saturn",
+      "Earth"
+    ],
+    "answer": "The Sun"
+  },
+  {
+    "id": "space-astronomy-081",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which principle states that the more massive an object is, the more it curves spacetime?",
+    "options": [
+      "General Relativity",
+      "Special Relativity",
+      "Quantum Mechanics",
+      "Newtonian Gravity"
+    ],
+    "answer": "General Relativity"
+  },
+  {
+    "id": "space-astronomy-082",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the term for a star that is in the process of collapsing?",
+    "options": [
+      "Protostar",
+      "White dwarf",
+      "Red giant",
+      "Nebula"
+    ],
+    "answer": "Protostar"
+  },
+  {
+    "id": "space-astronomy-083",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which type of galaxy is the Milky Way?",
+    "options": [
+      "Elliptical",
+      "Spiral",
+      "Irregular",
+      "Lenticular"
+    ],
+    "answer": "Spiral"
+  },
+  {
+    "id": "space-astronomy-084",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which mission was the first to orbit Mars?",
+    "options": [
+      "Viking 1",
+      "Mariner 9",
+      "Mars Global Surveyor",
+      "Pathfinder"
+    ],
+    "answer": "Mariner 9"
+  },
+  {
+    "id": "space-astronomy-085",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Which planet is the farthest from the Sun?",
+    "options": [
+      "Saturn",
+      "Uranus",
+      "Neptune",
+      "Pluto"
+    ],
+    "answer": "Neptune"
+  },
+  {
+    "id": "space-astronomy-086",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What is the term for the distance between Earth and the Sun?",
+    "options": [
+      "Parsec",
+      "Light-year",
+      "Astronomical Unit",
+      "Kiloparsec"
+    ],
+    "answer": "Astronomical Unit"
+  },
+  {
+    "id": "space-astronomy-087",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which phenomenon causes the Northern Lights?",
+    "options": [
+      "Solar wind and magnetic field",
+      "Moonlight reflection",
+      "Atmospheric pressure",
+      "Meteor showers"
+    ],
+    "answer": "Solar wind and magnetic field"
+  },
+  {
+    "id": "space-astronomy-088",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which mission was sent to study Jupiter's moons?",
+    "options": [
+      "Voyager",
+      "Galileo",
+      "Cassini",
+      "Juno"
+    ],
+    "answer": "Galileo"
+  },
+  {
+    "id": "space-astronomy-089",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which object is a remnant of a dead star?",
+    "options": [
+      "Asteroid",
+      "Comet",
+      "White dwarf",
+      "Nebula"
+    ],
+    "answer": "White dwarf"
+  },
+  {
+    "id": "space-astronomy-090",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What is the term for a group of galaxies?",
+    "options": [
+      "Cluster",
+      "Constellation",
+      "Solar system",
+      "Nebula"
+    ],
+    "answer": "Cluster"
+  },
+  {
+    "id": "space-astronomy-091",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What is the term for the time it takes for a star to complete one rotation?",
+    "options": [
+      "Orbital period",
+      "Sidereal day",
+      "Solar year",
+      "Light cycle"
+    ],
+    "answer": "Sidereal day"
+  },
+  {
+    "id": "space-astronomy-092",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What is the name of our solar system's star?",
+    "options": [
+      "Sirius",
+      "The Sun",
+      "Alpha Centauri",
+      "Polaris"
+    ],
+    "answer": "The Sun"
+  },
+  {
+    "id": "space-astronomy-093",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which planet's atmosphere is primarily hydrogen and helium?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Jupiter",
+      "Earth"
+    ],
+    "answer": "Jupiter"
+  },
+  {
+    "id": "space-astronomy-094",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What is the name of the theory that suggests there are many universes?",
+    "options": [
+      "Multiverse theory",
+      "Big Bang theory",
+      "String theory",
+      "Cosmology"
+    ],
+    "answer": "Multiverse theory"
+  },
+  {
+    "id": "space-astronomy-095",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What is the term for a star's color?",
+    "options": [
+      "Spectral type",
+      "Magnitude",
+      "Size",
+      "Age"
+    ],
+    "answer": "Spectral type"
+  },
+  {
+    "id": "space-astronomy-096",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What is the name of the force that pulls objects towards a black hole?",
+    "options": [
+      "Gravity",
+      "Magnetism",
+      "Friction",
+      "Centrifugal"
+    ],
+    "answer": "Gravity"
   }
 ]
