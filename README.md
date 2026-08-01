@@ -102,6 +102,20 @@ tokens and re-auditing shouldn't:
    a schema problem or a likely duplicate (score ≥ 0.85) before moving on;
    near-duplicate warnings (0.70–0.85) and the advisory notes are judgment
    calls like the ones from `validate`.
+
+   The answer-match advisory above deliberately suppresses two kinds of
+   noise (an answer already common across 3+ existing questions, or a
+   reworded match scoring below 0.55 text overlap) — which means it can
+   also silently miss a real duplicate once either condition is hit. For
+   a batch that leans on well-known/iconic subjects (where many different
+   questions converge on the same famous answer), run
+   `npm run check-draft -- <path-to-draft.js> --full-answer-audit` too —
+   it prints every draft answer's *complete* corpus match list with no
+   threshold, for you to eyeball directly. See CLAUDE.md's
+   `gemini-code-1785624420472.js` entry for why this exists: a batch of
+   generic "who directed/played/composed X for a famous film" questions
+   scored almost entirely below the default check's threshold despite
+   ~41% being real duplicates.
 3. Merge the draft into `data/questions/<category>.json`, assigning each
    entry a sequential `id` starting one past the current highest number in
    that category, and setting `category` to match. For a category that was

@@ -24,6 +24,27 @@
 //
 // Usage:
 //   node scripts/check-draft.js <path-to-draft.js>
+//   node scripts/check-draft.js <path-to-draft.js> --full-answer-audit
+//
+// --full-answer-audit prints, for every draft answer that matches ANY
+// existing corpus question's answer, the complete match list — bypassing
+// MAX_ANSWER_GROUP_SIZE and SAME_ANSWER_MIN_OVERLAP entirely. Those two
+// filters exist to cut noise for the *default* advisory output (a generic
+// reused entity, or two questions that coincidentally share few words,
+// isn't worth flagging every run) — but the same filters mean a real
+// duplicate silently passes the default run once its answer already has
+// 2+ corpus hits, or once reworded phrasing happens to score below 0.55
+// overlap. On a 2026-08-01 batch (gemini-code-1785624420472.js) the
+// default run flagged only 3 items but a manual version of this exact
+// report found 40+ more real duplicates — mostly "who directed/composed/
+// played X" chestnuts already asked 2-5 times under different wording.
+// Use this flag for any batch you suspect leans on famous/iconic-subject
+// facts (the kind of fact many different questions converge on), and
+// eyeball every group it prints — it has no threshold of its own, so it
+// WILL include plenty of coincidental generic-entity noise (a common
+// answer like a country or a decade) alongside the real hits; that
+// judgment call is still yours, this just stops you from writing the
+// same throwaway node -e script from scratch each time.
 //
 // The draft file must be a CommonJS module exporting an array of objects
 // shaped like { difficulty, question, options, answer } — no id yet, that
@@ -254,10 +275,34 @@ function checkAnswerDuplicates(q, i, corpusIndex, draftMatches) {
   return hits;
 }
 
+// Prints every draft item's FULL corpus answer-match list, ignoring
+// MAX_ANSWER_GROUP_SIZE and SAME_ANSWER_MIN_OVERLAP. See the usage comment
+// at the top of this file for why this exists alongside the capped/
+// filtered check above rather than replacing it.
+function printFullAnswerAudit(draft, corpusAnswerIndex) {
+  console.log(`\nFull answer-match audit (no cap, no overlap floor) — eyeball each group:\n`);
+  let groupsPrinted = 0;
+  draft.forEach((q, i) => {
+    if (typeof q.answer !== "string") return;
+    const key = normalizeAnswer(q.answer);
+    if (!key || key.length < MIN_ANSWER_DUPLICATE_LENGTH) return;
+    const matches = corpusAnswerIndex.get(key) || [];
+    if (matches.length === 0) return;
+    groupsPrinted++;
+    console.log(`draft[${i}] "${q.answer}" -> ${matches.length} corpus match(es):`);
+    console.log(`    draft: "${q.question}"`);
+    for (const m of matches) {
+      console.log(`    ${m.id}: "${m.question}"`);
+    }
+  });
+  console.log(`\n${groupsPrinted} draft answer(s) with at least one existing corpus match.`);
+}
+
 function main() {
   const draftPath = process.argv[2];
+  const fullAnswerAudit = process.argv.includes("--full-answer-audit");
   if (!draftPath) {
-    console.error("Usage: node scripts/check-draft.js <path-to-draft.js>");
+    console.error("Usage: node scripts/check-draft.js <path-to-draft.js> [--full-answer-audit]");
     process.exit(1);
   }
 
@@ -265,6 +310,11 @@ function main() {
   const corpus = loadCorpus();
   const corpusAnswerIndex = buildAnswerIndex(corpus);
   const draftAnswerIndex = buildAnswerIndex(draft.map((q, i) => ({ ...q, __i: i })));
+
+  if (fullAnswerAudit) {
+    printFullAnswerAudit(draft, corpusAnswerIndex);
+    return;
+  }
 
   console.log(`Checking ${draft.length} draft question(s) against ${corpus.length} existing questions...\n`);
 

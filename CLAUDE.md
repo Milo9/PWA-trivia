@@ -23,6 +23,18 @@ actual diff; `ship` won't do that part for you.
 If `npm run validate` fails, fix the reported errors before shipping —
 don't bypass it.
 
+**`ship` runs `git add -A`, which stages the *entire* working tree, not
+just the files you changed.** Before running `ship`, run `git status`
+yourself and check for any pre-existing untracked/modified files that
+aren't part of your current change — `ship` will silently sweep them
+into the same commit otherwise. Confirmed 2026-08-01: an unrelated,
+unreviewed untracked file that happened to be sitting in `templates/`
+(a misplaced draft batch, not a real template) got committed and pushed
+along with an unrelated question batch merge, requiring a follow-up
+commit to remove it. If you find stray files like this, deal with them
+(move, delete, or otherwise resolve) *before* shipping your actual
+change, not after.
+
 ## Prefer token-efficient sequential work over parallelized speed
 
 The user prioritizes token efficiency over wall-clock speed for work in
@@ -193,9 +205,12 @@ batch, 102 `film-tv` questions, already self-declaring `category`):
 `check-draft.js` only flagged 1 near-duplicate and 2 advisory notes, but
 a manual answer-index cross-check (build a map of every draft answer
 against every existing corpus entry sharing that exact normalized
-answer, regardless of `MAX_ANSWER_GROUP_SIZE`, then eyeball each pair)
-found far more — 42 of 102 (~41%) were cut, the highest rate seen on
-this project so far. Almost all were classic "who directed/played X"
+answer, regardless of `MAX_ANSWER_GROUP_SIZE`, then eyeball each pair —
+now built into `check-draft.js --full-answer-audit`, see that file's
+usage comment, so a future session can run one command instead of
+writing this from scratch) found far more — 42 of 102 (~41%) were cut,
+the highest rate seen on this project so far. Almost all were classic
+"who directed/played X"
 chestnuts already asked 2-5 times in the existing `film-tv`/`general`
 corpus (e.g. "who directed Jurassic Park" already had 2 near-identical
 existing entries, "who composed Jaws" had 4, "who directed Pulp
