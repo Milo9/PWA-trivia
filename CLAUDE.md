@@ -97,6 +97,21 @@ with the existing corpus, all common science/geography chestnuts. See
 "Angles already covered" in `DRAFTING-PROMPT-TEMPLATE.md` for the current
 list per category.
 
+**Expanded 2026-08-01** (same day, larger batch): the 7 other pending
+`questions_inbox/*.js` files predating the topic split (708 questions
+total, drafted independently of each other and of GLM52-01.js — no shared
+context, no "Angles already covered" list existed yet to steer any of
+them) were processed together in one union merge-gate pass — see "one
+merge-gate, not many" under "Lessons ported..." below for the technique.
+231 of 708 (~33%) turned out to be duplicates, either of the existing
+corpus or of each other across files — much higher than GLM52-01.js's
+10%, consistent with these being older batches with nothing to steer them
+away from chestnuts. The surviving 477 were classified into the 13 topic
+categories (none of these drafts had a `category` field — they predate
+the split) and merged; see `data/questions/*.json` git history around
+that commit for the per-category counts. All confirmed-duplicate angles
+from this batch were folded into the per-category lists below.
+
 ## General Knowledge split into topic categories (2026-08-01)
 
 `general` (2825 questions) was split into 12 topic categories plus a
@@ -202,12 +217,11 @@ of `general` — a one-time, harmless reset of repeat-avoidance for
 whichever of those 336/307/etc. questions a given player had already
 seen under the old single `general` category.
 
-**`questions_inbox/` batches were left alone** (6 pending drafted
-batches, ~600 questions, all pre-split `general`-style content) — the
-split changes what merging one of those looks like going forward: assign
-each drafted question one of the 13 category ids at merge time (same
-judgment call the classification agents made) instead of defaulting
-everything to `general`.
+**`questions_inbox/` batches were left alone at split time** (6 pending
+drafted batches, ~600 questions, all pre-split `general`-style content) —
+processed 2026-08-01, same day, in a second pass; see "Expanded
+2026-08-01" under "External-agent drafting" below for how the classify-
+into-13-categories step actually went.
 
 ## Lessons ported from the Disney Trivia App sibling project
 
@@ -359,6 +373,31 @@ over rather than re-learning here:
   placeholder ID range, and `check-draft.js`'s dedup/validation gate runs
   exactly once against the concatenated union of all forks' output before
   anything gets real IDs and gets merged — not once per fork.
+  **The same principle applies to sequentially processing multiple
+  pre-existing files, not just parallel forks** — confirmed 2026-08-01
+  merging 7 pending `questions_inbox/*.js` batches (708 questions) in one
+  session: building one union draft (each entry tagged with source file +
+  original index) and comparing it against the corpus once caught
+  cross-file duplicates that 7 separate `check-draft.js` runs would each
+  have missed, since every one of those runs only sees its own file
+  against the corpus. **`check-draft.js` has no draft-vs-draft
+  comparison** (only draft-vs-corpus, plus a same-file answer index) — for
+  a multi-file merge that pass doesn't exist yet and has to be written
+  ad hoc (score every pair in the union with `wordSet`/`jaccard`, both
+  already exported from `validate.js`); don't assume `check-draft.js`
+  alone covers a multi-file merge. Even with both a corpus pass and a
+  draft-vs-draft pass, expect a residual duplicate rate that only surfaces
+  by reading the surviving questions: this batch had 26 further
+  duplicates out of 503 post-gate survivors (~5%) that neither automated
+  pass caught, because the phrasing differed enough that both the
+  question-text overlap and the answer-text overlap fell below their
+  respective thresholds (e.g. "which marine mammal has the densest fur,
+  up to one million hairs per square inch" vs. "which animal is known for
+  having the most dense fur of any mammal" — both answering "sea otter,"
+  caught only while reading question+answer pairs by eye during category
+  classification). Budget time for that manual pass on any future
+  multi-file merge; the automated gate narrows the problem, it doesn't
+  finish it.
 
 ## Memory-only drafting is exhausted for `friends` and `big-bang-theory` — and now `general` too
 
