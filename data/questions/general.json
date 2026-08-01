@@ -1885,19 +1885,6 @@
     "answer": "Schrödinger equation"
   },
   {
-    "id": "general-146",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "What is the tallest mountain in the world, measured from sea level?",
-    "options": [
-      "K2",
-      "Mount Everest",
-      "Kangchenjunga",
-      "Denali"
-    ],
-    "answer": "Mount Everest"
-  },
-  {
     "id": "general-147",
     "category": "general",
     "difficulty": "medium",
@@ -2936,19 +2923,6 @@
       "Emmy"
     ],
     "answer": "Academy Award"
-  },
-  {
-    "id": "general-227",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "Which actress played Hermione Granger in the Harry Potter films?",
-    "options": [
-      "Emma Stone",
-      "Emma Roberts",
-      "Emma Watson",
-      "Emily Blunt"
-    ],
-    "answer": "Emma Watson"
   },
   {
     "id": "general-228",
@@ -4353,19 +4327,6 @@
       "Greece"
     ],
     "answer": "Brazil"
-  },
-  {
-    "id": "general-336",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "Which tennis player holds the record for most Grand Slam men's singles titles in history?",
-    "options": [
-      "Roger Federer",
-      "Rafael Nadal",
-      "Pete Sampras",
-      "Novak Djokovic"
-    ],
-    "answer": "Novak Djokovic"
   },
   {
     "id": "general-337",
@@ -6240,19 +6201,6 @@
     "answer": "The Odyssey"
   },
   {
-    "id": "general-481",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "Which American author wrote 'The Great Gatsby'?",
-    "options": [
-      "F. Scott Fitzgerald",
-      "Ernest Hemingway",
-      "John Steinbeck",
-      "William Faulkner"
-    ],
-    "answer": "F. Scott Fitzgerald"
-  },
-  {
     "id": "general-482",
     "category": "general",
     "difficulty": "medium",
@@ -7709,19 +7657,6 @@
     "answer": "McDonald's"
   },
   {
-    "id": "general-594",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "Which actress won the Academy Award for Best Actress for her role in 'La La Land' (2016)?",
-    "options": [
-      "Natalie Portman",
-      "Emma Stone",
-      "Meryl Streep",
-      "Amy Adams"
-    ],
-    "answer": "Emma Stone"
-  },
-  {
     "id": "general-595",
     "category": "general",
     "difficulty": "hard",
@@ -7928,19 +7863,6 @@
       "Greek"
     ],
     "answer": "Cyrillic"
-  },
-  {
-    "id": "general-611",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "What is the traditional Indian greeting gesture performed by pressing the palms together?",
-    "options": [
-      "Salaam",
-      "Wai",
-      "Namaste",
-      "Aloha"
-    ],
-    "answer": "Namaste"
   },
   {
     "id": "general-612",
@@ -8619,19 +8541,6 @@
     "answer": "Asteroid"
   },
   {
-    "id": "general-664",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "Who proposed the heliocentric model, placing the Sun rather than the Earth at the center of the solar system?",
-    "options": [
-      "Galileo Galilei",
-      "Johannes Kepler",
-      "Isaac Newton",
-      "Nicolaus Copernicus"
-    ],
-    "answer": "Nicolaus Copernicus"
-  },
-  {
     "id": "general-665",
     "category": "general",
     "difficulty": "easy",
@@ -8851,19 +8760,6 @@
       "Rodin"
     ],
     "answer": "Michelangelo"
-  },
-  {
-    "id": "general-682",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "Which American author wrote the novel 'Moby-Dick'?",
-    "options": [
-      "Nathaniel Hawthorne",
-      "Herman Melville",
-      "Mark Twain",
-      "F. Scott Fitzgerald"
-    ],
-    "answer": "Herman Melville"
   },
   {
     "id": "general-683",
@@ -9098,19 +8994,6 @@
       "Frédéric Auguste Bartholdi"
     ],
     "answer": "Frédéric Auguste Bartholdi"
-  },
-  {
-    "id": "general-701",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "Who led the Soviet Union during the 1962 Cuban Missile Crisis?",
-    "options": [
-      "Nikita Khrushchev",
-      "Joseph Stalin",
-      "Leonid Brezhnev",
-      "Vladimir Lenin"
-    ],
-    "answer": "Nikita Khrushchev"
   },
   {
     "id": "general-702",
@@ -10127,19 +10010,6 @@
     "answer": "Apple II"
   },
   {
-    "id": "general-780",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "Which mathematician developed calculus independently of Isaac Newton?",
-    "options": [
-      "René Descartes",
-      "Gottfried Wilhelm Leibniz",
-      "Blaise Pascal",
-      "Pierre de Fermat"
-    ],
-    "answer": "Gottfried Wilhelm Leibniz"
-  },
-  {
     "id": "general-781",
     "category": "general",
     "difficulty": "easy",
@@ -10151,19 +10021,6 @@
       "16"
     ],
     "answer": "2"
-  },
-  {
-    "id": "general-782",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "Which company developed the Windows operating system?",
-    "options": [
-      "Apple",
-      "IBM",
-      "Google",
-      "Microsoft"
-    ],
-    "answer": "Microsoft"
   },
   {
     "id": "general-783",
@@ -11466,19 +11323,6 @@
     "answer": "The kidneys"
   },
   {
-    "id": "general-883",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "What is the name of the phenomenon where light bends as it passes from one medium to another, such as from air to water?",
-    "options": [
-      "Refraction",
-      "Reflection",
-      "Diffraction",
-      "Dispersion"
-    ],
-    "answer": "Refraction"
-  },
-  {
     "id": "general-884",
     "category": "general",
     "difficulty": "easy",
@@ -12285,19 +12129,6 @@
     "answer": "Auguste Rodin"
   },
   {
-    "id": "general-946",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "Which Colombian author wrote 'One Hundred Years of Solitude', a landmark of magical realism?",
-    "options": [
-      "Isabel Allende",
-      "Mario Vargas Llosa",
-      "Pablo Neruda",
-      "Gabriel García Márquez"
-    ],
-    "answer": "Gabriel García Márquez"
-  },
-  {
     "id": "general-947",
     "category": "general",
     "difficulty": "hard",
@@ -13052,19 +12883,6 @@
     "answer": "Nigeria"
   },
   {
-    "id": "general-1005",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "What is the capital city of Australia?",
-    "options": [
-      "Canberra",
-      "Sydney",
-      "Melbourne",
-      "Perth"
-    ],
-    "answer": "Canberra"
-  },
-  {
     "id": "general-1006",
     "category": "general",
     "difficulty": "medium",
@@ -13154,19 +12972,6 @@
       "Madagascar"
     ],
     "answer": "Greenland"
-  },
-  {
-    "id": "general-1013",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "Which strait separates Europe and Africa?",
-    "options": [
-      "Strait of Gibraltar",
-      "Bosphorus Strait",
-      "Strait of Dover",
-      "Strait of Sicily"
-    ],
-    "answer": "Strait of Gibraltar"
   },
   {
     "id": "general-1014",
@@ -13505,19 +13310,6 @@
       "The Baroque Era"
     ],
     "answer": "The Renaissance"
-  },
-  {
-    "id": "general-1040",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "Which treaty formally ended World War I?",
-    "options": [
-      "Treaty of Versailles",
-      "Treaty of Paris",
-      "Treaty of Vienna",
-      "Treaty of Westphalia"
-    ],
-    "answer": "Treaty of Versailles"
   },
   {
     "id": "general-1041",
@@ -13947,19 +13739,6 @@
       "Boron"
     ],
     "answer": "Carbon"
-  },
-  {
-    "id": "general-1074",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "What is the name for a biological catalyst, typically a protein, that speeds up reactions in living organisms?",
-    "options": [
-      "Enzyme",
-      "Hormone",
-      "Antibody",
-      "Coenzyme"
-    ],
-    "answer": "Enzyme"
   },
   {
     "id": "general-1075",
@@ -14807,19 +14586,6 @@
     "answer": "Salvador Dali"
   },
   {
-    "id": "general-1140",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "Which Dutch artist painted 'Girl with a Pearl Earring'?",
-    "options": [
-      "Johannes Vermeer",
-      "Rembrandt",
-      "Frans Hals",
-      "Jan Steen"
-    ],
-    "answer": "Johannes Vermeer"
-  },
-  {
     "id": "general-1141",
     "category": "general",
     "difficulty": "hard",
@@ -15509,19 +15275,6 @@
     "answer": "6"
   },
   {
-    "id": "general-1194",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "Which cyclist won the Tour de France a record seven consecutive times before being stripped of the titles?",
-    "options": [
-      "Lance Armstrong",
-      "Miguel Indurain",
-      "Eddy Merckx",
-      "Bernard Hinault"
-    ],
-    "answer": "Lance Armstrong"
-  },
-  {
     "id": "general-1195",
     "category": "general",
     "difficulty": "medium",
@@ -15912,19 +15665,6 @@
     "answer": "Alexander Graham Bell"
   },
   {
-    "id": "general-1225",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "What does 'HTML' stand for?",
-    "options": [
-      "HyperText Markup Language",
-      "HighText Machine Language",
-      "HyperTransfer Markup Language",
-      "Home Tool Markup Language"
-    ],
-    "answer": "HyperText Markup Language"
-  },
-  {
     "id": "general-1226",
     "category": "general",
     "difficulty": "medium",
@@ -15962,19 +15702,6 @@
       "Nicolas Jenson"
     ],
     "answer": "Johannes Gutenberg"
-  },
-  {
-    "id": "general-1229",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "What does 'GPS' stand for?",
-    "options": [
-      "Global Positioning System",
-      "Geo Positioning Service",
-      "Global Path System",
-      "Ground Position Sensor"
-    ],
-    "answer": "Global Positioning System"
   },
   {
     "id": "general-1230",
@@ -17511,19 +17238,6 @@
     "answer": "Parasite"
   },
   {
-    "id": "general-1348",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "Who wrote the epic poem 'Paradise Lost'?",
-    "options": [
-      "John Milton",
-      "William Blake",
-      "John Donne",
-      "Alexander Pope"
-    ],
-    "answer": "John Milton"
-  },
-  {
     "id": "general-1349",
     "category": "general",
     "difficulty": "medium",
@@ -17691,19 +17405,6 @@
       "Ivan Reitman"
     ],
     "answer": "Robert Zemeckis"
-  },
-  {
-    "id": "general-1362",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "Which actor played Iron Man in the Marvel Cinematic Universe?",
-    "options": [
-      "Robert Downey Jr.",
-      "Chris Evans",
-      "Chris Hemsworth",
-      "Mark Ruffalo"
-    ],
-    "answer": "Robert Downey Jr."
   },
   {
     "id": "general-1363",
@@ -18016,32 +17717,6 @@
       "Pears"
     ],
     "answer": "Apples"
-  },
-  {
-    "id": "general-1387",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "What is the name for the Italian coffee drink made with espresso and steamed milk foam?",
-    "options": [
-      "Cappuccino",
-      "Latte",
-      "Macchiato",
-      "Americano"
-    ],
-    "answer": "Cappuccino"
-  },
-  {
-    "id": "general-1388",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "Which social media platform, launched in 2006, originally limited posts to 140 characters?",
-    "options": [
-      "Twitter",
-      "Facebook",
-      "Instagram",
-      "Tumblr"
-    ],
-    "answer": "Twitter"
   },
   {
     "id": "general-1389",
@@ -19734,19 +19409,6 @@
     "answer": "Mercury"
   },
   {
-    "id": "general-1519",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "Which blood type is known as the universal recipient?",
-    "options": [
-      "AB positive",
-      "O negative",
-      "A positive",
-      "B negative"
-    ],
-    "answer": "AB positive"
-  },
-  {
     "id": "general-1520",
     "category": "general",
     "difficulty": "hard",
@@ -19784,19 +19446,6 @@
       "Physiology"
     ],
     "answer": "Taxonomy"
-  },
-  {
-    "id": "general-1523",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "What is the scientific study of insects called?",
-    "options": [
-      "Entomology",
-      "Ornithology",
-      "Herpetology",
-      "Ichthyology"
-    ],
-    "answer": "Entomology"
   },
   {
     "id": "general-1524",
@@ -20384,19 +20033,6 @@
     "answer": "Shiva"
   },
   {
-    "id": "general-1569",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "In Hindu mythology, who is the preserver god, said to take avatars including Rama and Krishna?",
-    "options": [
-      "Shiva",
-      "Agni",
-      "Vishnu",
-      "Brahma"
-    ],
-    "answer": "Vishnu"
-  },
-  {
     "id": "general-1570",
     "category": "general",
     "difficulty": "medium",
@@ -20668,19 +20304,6 @@
       "Hermes"
     ],
     "answer": "Dionysus"
-  },
-  {
-    "id": "general-1591",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "In Aztec mythology, who is the feathered serpent god?",
-    "options": [
-      "Huitzilopochtli",
-      "Tlaloc",
-      "Quetzalcoatl",
-      "Tezcatlipoca"
-    ],
-    "answer": "Quetzalcoatl"
   },
   {
     "id": "general-1592",
@@ -21032,19 +20655,6 @@
       "Elizabeth Gaskell"
     ],
     "answer": "Anne Bronte"
-  },
-  {
-    "id": "general-1619",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "Who wrote the epic poem 'The Divine Comedy'?",
-    "options": [
-      "Torquato Tasso",
-      "Giovanni Boccaccio",
-      "Petrarch",
-      "Dante Alighieri"
-    ],
-    "answer": "Dante Alighieri"
   },
   {
     "id": "general-1620",
@@ -21656,19 +21266,6 @@
       "Billy Joel"
     ],
     "answer": "Bruce Springsteen"
-  },
-  {
-    "id": "general-1667",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "Which musician is widely known as the 'King of Rock and Roll'?",
-    "options": [
-      "Little Richard",
-      "Buddy Holly",
-      "Chuck Berry",
-      "Elvis Presley"
-    ],
-    "answer": "Elvis Presley"
   },
   {
     "id": "general-1668",
@@ -23257,19 +22854,6 @@
     "answer": "A skein"
   },
   {
-    "id": "general-1790",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "What is the official currency of the United Kingdom?",
-    "options": [
-      "Pound sterling",
-      "Euro",
-      "Dollar",
-      "Krone"
-    ],
-    "answer": "Pound sterling"
-  },
-  {
     "id": "general-1791",
     "category": "general",
     "difficulty": "hard",
@@ -23673,19 +23257,6 @@
     "answer": "South Africa"
   },
   {
-    "id": "general-1822",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "Which is the largest landlocked country in the world?",
-    "options": [
-      "Kazakhstan",
-      "Mongolia",
-      "Bolivia",
-      "Chad"
-    ],
-    "answer": "Kazakhstan"
-  },
-  {
     "id": "general-1823",
     "category": "general",
     "difficulty": "medium",
@@ -24076,19 +23647,6 @@
     "answer": "Volga"
   },
   {
-    "id": "general-1853",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "Which country is nicknamed the 'Land of a Thousand Hills'?",
-    "options": [
-      "Rwanda",
-      "Uganda",
-      "Burundi",
-      "Nepal"
-    ],
-    "answer": "Rwanda"
-  },
-  {
     "id": "general-1854",
     "category": "general",
     "difficulty": "easy",
@@ -24152,19 +23710,6 @@
       "Canada"
     ],
     "answer": "South Africa"
-  },
-  {
-    "id": "general-1859",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "Which African lake is the second deepest lake in the world?",
-    "options": [
-      "Lake Tanganyika",
-      "Lake Victoria",
-      "Lake Malawi",
-      "Lake Chad"
-    ],
-    "answer": "Lake Tanganyika"
   },
   {
     "id": "general-1860",
@@ -25675,19 +25220,6 @@
     "answer": "Carbon dioxide"
   },
   {
-    "id": "general-1976",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "What is the scientific study of weather and atmospheric conditions called?",
-    "options": [
-      "Meteorology",
-      "Climatology",
-      "Astronomy",
-      "Geology"
-    ],
-    "answer": "Meteorology"
-  },
-  {
     "id": "general-1977",
     "category": "general",
     "difficulty": "hard",
@@ -25831,19 +25363,6 @@
     "answer": "The Shire"
   },
   {
-    "id": "general-1988",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "Which author created the amateur detective priest Father Brown?",
-    "options": [
-      "G.K. Chesterton",
-      "Arthur Conan Doyle",
-      "Dorothy L. Sayers",
-      "Agatha Christie"
-    ],
-    "answer": "G.K. Chesterton"
-  },
-  {
     "id": "general-1989",
     "category": "general",
     "difficulty": "easy",
@@ -25948,19 +25467,6 @@
     "answer": "Walt Whitman"
   },
   {
-    "id": "general-1997",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "Who wrote the play 'Death of a Salesman'?",
-    "options": [
-      "Arthur Miller",
-      "Tennessee Williams",
-      "Eugene O'Neill",
-      "Edward Albee"
-    ],
-    "answer": "Arthur Miller"
-  },
-  {
     "id": "general-1998",
     "category": "general",
     "difficulty": "easy",
@@ -26011,19 +25517,6 @@
       "Livy"
     ],
     "answer": "Virgil"
-  },
-  {
-    "id": "general-2002",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "Which playwright wrote 'A Streetcar Named Desire'?",
-    "options": [
-      "Tennessee Williams",
-      "Arthur Miller",
-      "Eugene O'Neill",
-      "David Mamet"
-    ],
-    "answer": "Tennessee Williams"
   },
   {
     "id": "general-2003",
@@ -26575,7 +26068,7 @@
     "id": "general-2045",
     "category": "general",
     "difficulty": "medium",
-    "question": "Which golfer holds the record for the most men's major championship victories in golf history?",
+    "question": "Which golfer holds the record for the most men's major championship victories, as of the mid-2020s?",
     "options": [
       "Jack Nicklaus",
       "Tiger Woods",
@@ -26856,32 +26349,6 @@
       "Danny Elfman"
     ],
     "answer": "John Williams"
-  },
-  {
-    "id": "general-2067",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "Which actress played Katniss Everdeen in 'The Hunger Games' films?",
-    "options": [
-      "Jennifer Lawrence",
-      "Shailene Woodley",
-      "Chloe Grace Moretz",
-      "Kristen Stewart"
-    ],
-    "answer": "Jennifer Lawrence"
-  },
-  {
-    "id": "general-2068",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "What is the name of the fictional African nation in the film 'Black Panther'?",
-    "options": [
-      "Wakanda",
-      "Zamunda",
-      "Genovia",
-      "Sokovia"
-    ],
-    "answer": "Wakanda"
   },
   {
     "id": "general-2069",
@@ -27389,19 +26856,6 @@
       "Johannes Brahms"
     ],
     "answer": "Ludwig van Beethoven"
-  },
-  {
-    "id": "general-2108",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "What is the name of the annual American music awards show often called 'Music's Biggest Night'?",
-    "options": [
-      "The Grammy Awards",
-      "The Billboard Music Awards",
-      "The American Music Awards",
-      "The MTV Video Music Awards"
-    ],
-    "answer": "The Grammy Awards"
   },
   {
     "id": "general-2109",
@@ -28600,19 +28054,6 @@
     "answer": "Mercury"
   },
   {
-    "id": "general-2201",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "The Rosetta Stone was key to deciphering which ancient script?",
-    "options": [
-      "Egyptian hieroglyphs",
-      "Cuneiform",
-      "Linear B",
-      "Phoenician script"
-    ],
-    "answer": "Egyptian hieroglyphs"
-  },
-  {
     "id": "general-2202",
     "category": "general",
     "difficulty": "easy",
@@ -28652,19 +28093,6 @@
     "answer": "The Ming dynasty"
   },
   {
-    "id": "general-2205",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "The fall of which city in 1453 marked the end of the Byzantine Empire?",
-    "options": [
-      "Constantinople",
-      "Rome",
-      "Athens",
-      "Alexandria"
-    ],
-    "answer": "Constantinople"
-  },
-  {
     "id": "general-2206",
     "category": "general",
     "difficulty": "easy",
@@ -28702,19 +28130,6 @@
       "Cuba"
     ],
     "answer": "The Soviet Union"
-  },
-  {
-    "id": "general-2209",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "Which U.S. document begins with the words 'We the People'?",
-    "options": [
-      "The Constitution",
-      "The Declaration of Independence",
-      "The Bill of Rights",
-      "The Federalist Papers"
-    ],
-    "answer": "The Constitution"
   },
   {
     "id": "general-2210",
@@ -28860,19 +28275,6 @@
     "answer": "Nigeria"
   },
   {
-    "id": "general-2221",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "Which sea has no coastline, bordered instead by ocean currents?",
-    "options": [
-      "The Sargasso Sea",
-      "The Dead Sea",
-      "The Caspian Sea",
-      "The Aral Sea"
-    ],
-    "answer": "The Sargasso Sea"
-  },
-  {
     "id": "general-2222",
     "category": "general",
     "difficulty": "hard",
@@ -28923,19 +28325,6 @@
       "Nigeria"
     ],
     "answer": "Ethiopia"
-  },
-  {
-    "id": "general-2226",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "Which U.S. state is known as the 'Aloha State'?",
-    "options": [
-      "Hawaii",
-      "Florida",
-      "California",
-      "Alaska"
-    ],
-    "answer": "Hawaii"
   },
   {
     "id": "general-2227",
@@ -29157,19 +28546,6 @@
       "George Bernard Shaw"
     ],
     "answer": "Henrik Ibsen"
-  },
-  {
-    "id": "general-2244",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "Who wrote 'Frankenstein'?",
-    "options": [
-      "Mary Shelley",
-      "Bram Stoker",
-      "Ann Radcliffe",
-      "Emily Bronte"
-    ],
-    "answer": "Mary Shelley"
   },
   {
     "id": "general-2245",
@@ -29692,19 +29068,6 @@
     "answer": "The Congo River"
   },
   {
-    "id": "general-2285",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "What is the capital city of Argentina?",
-    "options": [
-      "Buenos Aires",
-      "Cordoba",
-      "Rosario",
-      "Mendoza"
-    ],
-    "answer": "Buenos Aires"
-  },
-  {
     "id": "general-2286",
     "category": "general",
     "difficulty": "hard",
@@ -30015,19 +29378,6 @@
       "The Vietnam War"
     ],
     "answer": "World War II"
-  },
-  {
-    "id": "general-2310",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "What is the tallest building in the world as of the early 2020s?",
-    "options": [
-      "Burj Khalifa",
-      "Shanghai Tower",
-      "Abraj Al-Bait Clock Tower",
-      "One World Trade Center"
-    ],
-    "answer": "Burj Khalifa"
   },
   {
     "id": "general-2311",
@@ -30563,19 +29913,6 @@
     "answer": "Iron"
   },
   {
-    "id": "general-2352",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "What is the name of the famous clock tower in London that houses Big Ben's bell?",
-    "options": [
-      "Elizabeth Tower",
-      "Westminster Tower",
-      "Victoria Tower",
-      "Clock Tower of Parliament"
-    ],
-    "answer": "Elizabeth Tower"
-  },
-  {
     "id": "general-2353",
     "category": "general",
     "difficulty": "easy",
@@ -30706,19 +30043,6 @@
     "answer": "Oxygen"
   },
   {
-    "id": "general-2363",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "Which country is the origin of the Olympic Games in ancient times?",
-    "options": [
-      "Greece",
-      "Italy",
-      "Egypt",
-      "Turkey"
-    ],
-    "answer": "Greece"
-  },
-  {
     "id": "general-2364",
     "category": "general",
     "difficulty": "medium",
@@ -30808,19 +30132,6 @@
       "Iraq"
     ],
     "answer": "Saudi Arabia"
-  },
-  {
-    "id": "general-2371",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "Which country is home to the ancient city of Petra, carved into rose-colored rock?",
-    "options": [
-      "Jordan",
-      "Israel",
-      "Lebanon",
-      "Syria"
-    ],
-    "answer": "Jordan"
   },
   {
     "id": "general-2372",
@@ -31263,19 +30574,6 @@
       "Italian"
     ],
     "answer": "Portuguese"
-  },
-  {
-    "id": "general-2406",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "What is the name of the tallest animal in the world?",
-    "options": [
-      "Giraffe",
-      "African elephant",
-      "Ostrich",
-      "Camel"
-    ],
-    "answer": "Giraffe"
   },
   {
     "id": "general-2407",
@@ -32019,19 +31317,6 @@
     "answer": "Gregor Mendel"
   },
   {
-    "id": "general-2464",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "What is the term for the point in an orbit where a planet is closest to the sun?",
-    "options": [
-      "Perihelion",
-      "Aphelion",
-      "Apogee",
-      "Perigee"
-    ],
-    "answer": "Perihelion"
-  },
-  {
     "id": "general-2465",
     "category": "general",
     "difficulty": "medium",
@@ -32591,19 +31876,6 @@
     "answer": "Turmeric"
   },
   {
-    "id": "general-2508",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "What is the name of the traditional Ethiopian flatbread used to scoop up stews?",
-    "options": [
-      "Injera",
-      "Naan",
-      "Pita",
-      "Roti"
-    ],
-    "answer": "Injera"
-  },
-  {
     "id": "general-2509",
     "category": "general",
     "difficulty": "medium",
@@ -32706,19 +31978,6 @@
       "Humphry Davy"
     ],
     "answer": "Thomas Edison"
-  },
-  {
-    "id": "general-2517",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "Which bird is known for its ability to mimic human speech and other sounds?",
-    "options": [
-      "Parrot",
-      "Crow",
-      "Mockingbird",
-      "Starling"
-    ],
-    "answer": "Parrot"
   },
   {
     "id": "general-2518",
@@ -32901,19 +32160,6 @@
       "Fiji"
     ],
     "answer": "New Zealand"
-  },
-  {
-    "id": "general-2532",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "What is the term for a fear of enclosed spaces?",
-    "options": [
-      "Claustrophobia",
-      "Agoraphobia",
-      "Acrophobia",
-      "Nyctophobia"
-    ],
-    "answer": "Claustrophobia"
   },
   {
     "id": "general-2533",
@@ -33618,19 +32864,6 @@
     "answer": "Software Arts"
   },
   {
-    "id": "general-2587",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "Which invention by Johannes Gutenberg revolutionized the spread of information in Europe?",
-    "options": [
-      "The printing press",
-      "The telescope",
-      "The compass",
-      "The mechanical clock"
-    ],
-    "answer": "The printing press"
-  },
-  {
     "id": "general-2588",
     "category": "general",
     "difficulty": "easy",
@@ -33798,19 +33031,6 @@
       "Spain"
     ],
     "answer": "United Kingdom"
-  },
-  {
-    "id": "general-2601",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "What is the process by which plants lose water vapor through small pores in their leaves called?",
-    "options": [
-      "Transpiration",
-      "Respiration",
-      "Photosynthesis",
-      "Osmosis"
-    ],
-    "answer": "Transpiration"
   },
   {
     "id": "general-2602",
@@ -34671,19 +33891,6 @@
     "answer": "Okonkwo"
   },
   {
-    "id": "general-2668",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "Which Gabriel Garcia Marquez novel follows seven generations of the Buendia family in the town of Macondo?",
-    "options": [
-      "One Hundred Years of Solitude",
-      "Love in the Time of Cholera",
-      "Chronicle of a Death Foretold",
-      "The Autumn of the Patriarch"
-    ],
-    "answer": "One Hundred Years of Solitude"
-  },
-  {
     "id": "general-2669",
     "category": "general",
     "difficulty": "easy",
@@ -35282,19 +34489,6 @@
     "answer": "Luna 9"
   },
   {
-    "id": "general-2715",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "What is the name for a full moon that appears larger and brighter because it coincides with the Moon's closest approach to Earth?",
-    "options": [
-      "A supermoon",
-      "A blue moon",
-      "A blood moon",
-      "A harvest moon"
-    ],
-    "answer": "A supermoon"
-  },
-  {
     "id": "general-2716",
     "category": "general",
     "difficulty": "easy",
@@ -35566,19 +34760,6 @@
       "Mohism"
     ],
     "answer": "Taoism"
-  },
-  {
-    "id": "general-2737",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "What is the name of the fast observed by Muslims from dawn to sunset during the ninth month of the Islamic calendar?",
-    "options": [
-      "Ramadan",
-      "Eid al-Fitr",
-      "Ashura",
-      "Laylat al-Qadr"
-    ],
-    "answer": "Ramadan"
   },
   {
     "id": "general-2738",

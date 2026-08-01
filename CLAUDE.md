@@ -30,7 +30,9 @@ don't bypass it.
 - IDs must be unique **across the whole dataset**, not just the file —
   check the highest existing number in that category before picking the
   next batch's range (e.g. this repo currently has `friends` through
-  ~790, `big-bang-theory` through ~711, `general` through ~2745).
+  ~790, `big-bang-theory` through ~711, `general` through ~2855). Note
+  IDs have gaps from the 2026-07-31 dedup pass (deleted entries were not
+  renumbered) — check the highest number, not the file's entry count.
 - Warnings from `validate` about near-duplicate questions are judgment
   calls, not automatic failures — only fix ones that are actually the
   same question reworded.
@@ -66,8 +68,39 @@ over rather than re-learning here:
   existing corpus during this port surfaced ~330 candidates (mostly in
   `general` — repeated "what does X stand for" acronym questions, repeated
   "who wrote/invented X" questions, repeated historical-event questions)
-  that predate this check; that's a housekeeping backlog, not something
-  this port fixed.
+  that predate this check; that was a housekeeping backlog at the time.
+
+  **Housekeeping pass completed (2026-07-31):** a full audit worked through
+  this backlog plus the plain near-duplicate warnings. Triage rule: sort
+  same-answer pairs by word-overlap score descending — high overlap
+  (≥0.55) is dense with real duplicates, low overlap (<0.55, e.g. two
+  questions that just happen to both answer "The Soviet Union" or
+  "Oxygen") is almost all coincidental generic-entity noise, not worth
+  wading through by hand. Fixed: the 4 near-duplicate warnings at ≥0.85
+  similarity (2 were true dupes, 2 were false positives that stay in the
+  corpus unchanged — `general-492`/`general-1857` ask "largest" vs.
+  "second-largest country by land area," and `general-1375`/`general-2046`
+  ask the try's point value in rugby union vs. rugby league, which
+  actually differ — both pairs share wording but ask genuinely different
+  facts, and will resurface at the top of any future score-descending
+  sort, so don't re-flag them as bugs) and all 77 same-answer pairs at
+  ≥0.55 overlap (one per pair deleted, keeping the better-written/more-
+  specific variant — verified against `check-draft.js`'s own approach of
+  spot-checking rather than blind rule-following; one entry,
+  `general-664`/`general-1336`, was caught and swapped after an initial
+  pass applied a "keep lower ID" shortcut that contradicted its own
+  per-pair reasoning — 79 entries removed total across
+  `general`/`friends`/`big-bang-theory`). This also caught a real factual
+  bug, not just wording noise: `friends-284` had Ross's museum wrong
+  ("The Museum of Natural History" instead of the show's actual fictional
+  "The Museum of Prehistoric History," confirmed via web search) — its
+  near-duplicate `friends-596` had the correct answer, which is how the
+  mismatch surfaced. Same-answer pairs below 0.55 overlap (332 total
+  minus the 77 reviewed = 255 remaining) and near-duplicate warnings in
+  the 0.70–0.85 band (102 total) were **not** reviewed this pass — treat
+  those as the remaining backlog for a future session, using the same
+  sort-and-triage approach rather than reading them in original
+  (unsorted) order.
 - **Coverage-table numbers lie by omission.** Disney's regex-based per-film
   coverage table repeatedly mislabeled well-covered films as "under-covered"
   because its keyword patterns didn't match how existing questions actually
@@ -98,14 +131,18 @@ over rather than re-learning here:
   below (e.g. general-717/2365 "largest population... as of the 2020s",
   general-1168/2310 "as of the early 2020s") or are permanently-settled
   historical facts (Bonds' home run count, Armstrong's stripped Tour
-  titles). Two are NOT pinned and are still actively contestable:
+  titles). Two were NOT pinned and still actively contestable:
   **general-336** ("holds the record for most Grand Slam men's singles
   titles in history" → Djokovic) and **general-2045** ("most men's major
-  championship victories in golf history" → Jack Nicklaus) — both should
-  either get a year pin or get re-checked before this note goes stale
-  further. Not fixed as part of this port since it's a content-accuracy
-  question outside this port's tooling scope, not a lesson to encode in
-  the tooling — flagging it here so a future session picks it up.
+  championship victories in golf history" → Jack Nicklaus). **Resolved
+  2026-07-31:** general-336 turned out to be an exact duplicate of
+  general-2037, which already asked the same question correctly pinned
+  ("as of the mid-2020s") — deleted general-336 rather than fixing it in
+  place. general-2045 had no duplicate to fall back on, so it was pinned
+  directly ("as of the mid-2020s"). Neither claim was re-verified against
+  a live source; the pin is a durability fix (freezes the claim to a
+  point in time) not an accuracy re-check — a future session should still
+  confirm both are correct as of whatever "now" is by then.
 - **Large batches parallelized via fork agents need one merge-gate, not
   many.** When splitting a big batch across multiple forks on disjoint
   topic buckets, forks can't see each other's drafts, so cross-fork
