@@ -23,6 +23,32 @@ actual diff; `ship` won't do that part for you.
 If `npm run validate` fails, fix the reported errors before shipping —
 don't bypass it.
 
+## Prefer token-efficient sequential work over parallelized speed
+
+The user prioritizes token efficiency over wall-clock speed for work in
+this repo (confirmed 2026-08-01). Default to doing multi-step work
+(drafting, classifying, reviewing, deduping) as a single sequential pass —
+inline, or with one `advisor()` check before committing to an approach —
+rather than fanning out across multiple parallel subagents or forks.
+Parallelizing trades more total tokens for less wall-clock time: each
+additional fresh agent re-derives context from scratch (no cache
+sharing), and even forks (which do share cache) add their own reasoning/
+output overhead plus a merge/reconciliation step the sequential version
+doesn't need. Only reach for parallelism when something *other* than
+speed specifically requires it — e.g. the 2026-08-01 category-split
+classification (below) deliberately used independent no-shared-context
+agents to avoid one agent's choices biasing the next, not for speed — and
+even then use the minimum parallelism that gets that specific benefit.
+That said, a single sequential agent applying the split's own documented
+tie-break rules classified 503 more questions cleanly in one pass during
+the 2026-08-01 `questions_inbox` merge (see "Expanded 2026-08-01" and the
+merge-gate lesson below) — now that those tie-break rules are written
+down, a *future* reclassification likely doesn't need N fresh parallel
+agents either; that requirement was specific to not having established
+rules yet. Read the "Large batches parallelized via fork agents" lesson
+below as how to parallelize *safely* if wall-clock speed is genuinely the
+binding constraint, not as a default recommendation to reach for it.
+
 ## Adding question batches
 
 - Follow the exact schema and process in README.md ("Adding a new batch
@@ -130,7 +156,9 @@ than forcing a bad fit elsewhere.
 
 **How the split was done:** every question's `question`+`answer` (not
 `id`) was classified by parallel fresh agents (no shared context, so no
-convergent bias toward any one category) against a fixed 13-slug list
+convergent bias toward any one category — see "Prefer token-efficient
+sequential work" above for why this doesn't need repeating that way next
+time) against a fixed 13-slug list
 with explicit tie-break rules (planets → `space-astronomy` not
 `science-technology`; human anatomy → `science-technology` not
 `animals-nature`; mythological figures → `mythology-religion` even in an
