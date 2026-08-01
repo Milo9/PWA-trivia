@@ -4366,5 +4366,876 @@
       "Boots"
     ],
     "answer": "Felt hats"
+  },
+  {
+    "id": "history-001",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "What is the name of the captain of the Carpathia, the ship that rescued survivors of the Titanic?",
+    "options": [
+      "Edward Smith",
+      "Stanley Lord",
+      "Arthur Rostron",
+      "William Murdoch"
+    ],
+    "answer": "Arthur Rostron"
+  },
+  {
+    "id": "history-002",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "In which modern-day country would you find the ruins of the ancient Indus Valley city of Mohenjo-Daro?",
+    "options": [
+      "India",
+      "Iran",
+      "Pakistan",
+      "Afghanistan"
+    ],
+    "answer": "Pakistan"
+  },
+  {
+    "id": "history-003",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which English monarch reigned for only nine days in 1553?",
+    "options": [
+      "Mary I",
+      "Edward VI",
+      "Lady Jane Grey",
+      "Richard III"
+    ],
+    "answer": "Lady Jane Grey"
+  },
+  {
+    "id": "history-004",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Who was the last sovereign emperor of the Inca Empire before it was conquered by the Spanish?",
+    "options": [
+      "Pachacuti",
+      "Atahualpa",
+      "Huascar",
+      "Manco Inca"
+    ],
+    "answer": "Atahualpa"
+  },
+  {
+    "id": "history-005",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Who was the first President of the Republic of South Africa elected in a fully representative democratic election?",
+    "options": [
+      "F.W. de Klerk",
+      "Thabo Mbeki",
+      "Desmond Tutu",
+      "Nelson Mandela"
+    ],
+    "answer": "Nelson Mandela"
+  },
+  {
+    "id": "history-006",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which empire was ruled by the Romanov dynasty from 1613 until 1917?",
+    "options": [
+      "Austro-Hungarian Empire",
+      "Russian Empire",
+      "Ottoman Empire",
+      "Prussian Empire"
+    ],
+    "answer": "Russian Empire"
+  },
+  {
+    "id": "history-007",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "The ancient city of Carthage was located in which modern-day country?",
+    "options": [
+      "Egypt",
+      "Libya",
+      "Tunisia",
+      "Algeria"
+    ],
+    "answer": "Tunisia"
+  },
+  {
+    "id": "history-008",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which US President served the shortest time in office, dying 31 days after his inauguration?",
+    "options": [
+      "James A. Garfield",
+      "Zachary Taylor",
+      "Warren G. Harding",
+      "William Henry Harrison"
+    ],
+    "answer": "William Henry Harrison"
+  },
+  {
+    "id": "history-009",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "In what year did the Great Emu War take place in Australia?",
+    "options": [
+      "1914",
+      "1932",
+      "1945",
+      "1899"
+    ],
+    "answer": "1932"
+  },
+  {
+    "id": "history-010",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which Mesoamerican civilization built the ancient city of Chichen Itza?",
+    "options": [
+      "Aztec",
+      "Maya",
+      "Inca",
+      "Olmec"
+    ],
+    "answer": "Maya"
+  },
+  {
+    "id": "history-011",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which civilian had the unusual distinction of having the American Civil War begin in his front yard and end in his front parlor?",
+    "options": [
+      "Wilmer McLean",
+      "John Wilkes Booth",
+      "Robert E. Lee",
+      "Clara Barton"
+    ],
+    "answer": "Wilmer McLean"
+  },
+  {
+    "id": "history-012",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "During the Mexican-American War, what was the name of the group of Irish Catholic troops who defected from the U.S. Army to fight for Mexico?",
+    "options": [
+      "The Rough Riders",
+      "The Mormon Battalion",
+      "Saint Patrick's Battalion",
+      "The Green Mountain Boys"
+    ],
+    "answer": "Saint Patrick's Battalion"
+  },
+  {
+    "id": "history-013",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "For eleven years beginning in 1706, pirates served as the de facto government of which Caribbean island?",
+    "options": [
+      "Jamaica",
+      "New Providence",
+      "Barbados",
+      "Tortuga"
+    ],
+    "answer": "New Providence"
+  },
+  {
+    "id": "history-014",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Civil rights leader Martin Luther King Jr. and diarist Anne Frank were both born in which year?",
+    "options": [
+      "1919",
+      "1939",
+      "1949",
+      "1929"
+    ],
+    "answer": "1929"
+  },
+  {
+    "id": "history-015",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which British officer named 'Mad Jack' is credited with the only confirmed longbow kill in World War II?",
+    "options": [
+      "Jack Churchill",
+      "Bernard Montgomery",
+      "Orde Wingate",
+      "Paddy Mayne"
+    ],
+    "answer": "Jack Churchill"
+  },
+  {
+    "id": "history-016",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "In 1810, the area of West Florida briefly seceded from Spain to become its own one-star republic before being annexed by the United States. How long did this republic last?",
+    "options": [
+      "About two years",
+      "About two weeks",
+      "About two months",
+      "About two days"
+    ],
+    "answer": "About two months"
+  },
+  {
+    "id": "history-017",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which person depicted on currently circulating U.S. currency was not born in territory that is now part of the United States?",
+    "options": [
+      "Alexander Hamilton",
+      "Benjamin Franklin",
+      "Ulysses S. Grant",
+      "Andrew Jackson"
+    ],
+    "answer": "Alexander Hamilton"
+  },
+  {
+    "id": "history-018",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was the only casualty of the 1859 'Pig War' dispute between Britain and the United States over the San Juan Islands?",
+    "options": [
+      "A pig",
+      "A sheep",
+      "A soldier",
+      "A sailor"
+    ],
+    "answer": "A pig"
+  },
+  {
+    "id": "history-019",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which famous actor's brother once saved Abraham Lincoln's son Robert from falling off a train platform?",
+    "options": [
+      "Edwin Booth",
+      "Junius Booth",
+      "John Wilkes Booth",
+      "Lionel Barrymore"
+    ],
+    "answer": "Edwin Booth"
+  },
+  {
+    "id": "history-020",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Davy Crockett was actually born in the short-lived State of Franklin, which existed from 1784 to 1788. What U.S. state did this territory later become?",
+    "options": [
+      "Tennessee",
+      "Kentucky",
+      "Virginia",
+      "North Carolina"
+    ],
+    "answer": "Tennessee"
+  },
+  {
+    "id": "history-021",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which sitting U.S. president was once fined $20 for speeding in Washington, D.C. while riding a horse?",
+    "options": [
+      "Ulysses S. Grant",
+      "Theodore Roosevelt",
+      "Andrew Jackson",
+      "Zachary Taylor"
+    ],
+    "answer": "Ulysses S. Grant"
+  },
+  {
+    "id": "history-022",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Contrary to popular belief, which president did NOT start the tradition of pardoning a Thanksgiving turkey?",
+    "options": [
+      "Harry S. Truman",
+      "John F. Kennedy",
+      "Ronald Reagan",
+      "George H.W. Bush"
+    ],
+    "answer": "Harry S. Truman"
+  },
+  {
+    "id": "history-023",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which U.S. president first hosted the Easter Egg Roll on the White House lawn in 1878 after children were denied access to the Capitol grounds?",
+    "options": [
+      "Rutherford B. Hayes",
+      "Chester A. Arthur",
+      "James A. Garfield",
+      "Grover Cleveland"
+    ],
+    "answer": "Rutherford B. Hayes"
+  },
+  {
+    "id": "history-024",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Before becoming president, Grover Cleveland served as sheriff of Erie County and personally carried out two what?",
+    "options": [
+      "Hangings",
+      "Weddings",
+      "Trials",
+      "Auctions"
+    ],
+    "answer": "Hangings"
+  },
+  {
+    "id": "history-025",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "What was the nickname of U.S. President Calvin Coolidge, known for his extremely quiet demeanor?",
+    "options": [
+      "Silent Cal",
+      "Honest Cal",
+      "Rough Cal",
+      "Steady Cal"
+    ],
+    "answer": "Silent Cal"
+  },
+  {
+    "id": "history-026",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which U.S. president was offered a cameo role as the 1885 mayor of Hill Valley in 'Back to the Future Part III'?",
+    "options": [
+      "Ronald Reagan",
+      "Jimmy Carter",
+      "Gerald Ford",
+      "George H.W. Bush"
+    ],
+    "answer": "Ronald Reagan"
+  },
+  {
+    "id": "history-027",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What is unusual about U.S. President Harry S. Truman's middle name?",
+    "options": [
+      "It is literally just the letter S",
+      "It was changed three times",
+      "He had no middle name at birth",
+      "It was a number"
+    ],
+    "answer": "It is literally just the letter S"
+  },
+  {
+    "id": "history-028",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which U.S. president was a tailor by trade and continued to make his own clothing even while in office?",
+    "options": [
+      "Andrew Johnson",
+      "Abraham Lincoln",
+      "James Buchanan",
+      "Millard Fillmore"
+    ],
+    "answer": "Andrew Johnson"
+  },
+  {
+    "id": "history-029",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "At age 13, Bill Clinton convinced a grocery store owner to let him do what as his first job?",
+    "options": [
+      "Sell comic books",
+      "Deliver newspapers",
+      "Stock shelves",
+      "Bagger"
+    ],
+    "answer": "Sell comic books"
+  },
+  {
+    "id": "history-030",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What was the original name of the presidential retreat Camp David before Dwight D. Eisenhower renamed it in 1953?",
+    "options": [
+      "Shangri-La",
+      "The Hideaway",
+      "Mountain View",
+      "Pine Knoll"
+    ],
+    "answer": "Shangri-La"
+  },
+  {
+    "id": "history-031",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "options": [
+      "Rosalind Franklin",
+      "Marie Curie",
+      "Ada Lovelace",
+      "Mother Teresa"
+    ],
+    "answer": "Marie Curie"
+  },
+  {
+    "id": "history-032",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which battle was a turning point in the American Civil War?",
+    "options": [
+      "Battle of Gettysburg",
+      "Battle of Bull Run",
+      "Battle of Antietam",
+      "Battle of Shiloh"
+    ],
+    "answer": "Battle of Gettysburg"
+  },
+  {
+    "id": "history-033",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Who was known as the 'Maid of Orleans'?",
+    "options": [
+      "Marie Antoinette",
+      "Joan of Arc",
+      "Catherine de Medici",
+      "Anne Boleyn"
+    ],
+    "answer": "Joan of Arc"
+  },
+  {
+    "id": "history-034",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which empire was ruled by Julius Caesar?",
+    "options": [
+      "Greek Empire",
+      "Roman Empire",
+      "Ottoman Empire",
+      "Persian Empire"
+    ],
+    "answer": "Roman Empire"
+  },
+  {
+    "id": "history-035",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Who was the primary author of the Declaration of Independence?",
+    "options": [
+      "George Washington",
+      "Thomas Jefferson",
+      "Benjamin Franklin",
+      "John Adams"
+    ],
+    "answer": "Thomas Jefferson"
+  },
+  {
+    "id": "history-036",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Who was the first emperor of China?",
+    "options": [
+      "Qin Shi Huang",
+      "Kublai Khan",
+      "Han Wudi",
+      "Tang Taizong"
+    ],
+    "answer": "Qin Shi Huang"
+  },
+  {
+    "id": "history-037",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "In what year was the construction of the Eiffel Tower completed?",
+    "options": [
+      "1889",
+      "1879",
+      "1899",
+      "1901"
+    ],
+    "answer": "1889"
+  },
+  {
+    "id": "history-038",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "On what date did the RMS Titanic sink?",
+    "options": [
+      "15 April 1912",
+      "15 April 1910",
+      "10 April 1912",
+      "15 May 1912"
+    ],
+    "answer": "15 April 1912"
+  },
+  {
+    "id": "history-039",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "On what date did the Berlin Wall fall?",
+    "options": [
+      "9 November 1989",
+      "9 November 1991",
+      "13 August 1961",
+      "3 October 1990"
+    ],
+    "answer": "9 November 1989"
+  },
+  {
+    "id": "history-040",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "In what year was the United States Declaration of Independence adopted?",
+    "options": [
+      "1774",
+      "1776",
+      "1778",
+      "1781"
+    ],
+    "answer": "1776"
+  },
+  {
+    "id": "history-041",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "In which city was the RMS Titanic built?",
+    "options": [
+      "Southampton",
+      "Glasgow",
+      "Belfast",
+      "Liverpool"
+    ],
+    "answer": "Belfast"
+  },
+  {
+    "id": "history-042",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "In what year did the Panama Canal open to traffic?",
+    "options": [
+      "1904",
+      "1914",
+      "1920",
+      "1930"
+    ],
+    "answer": "1914"
+  },
+  {
+    "id": "history-043",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "On what date did construction of the Berlin Wall begin?",
+    "options": [
+      "13 August 1961",
+      "13 August 1959",
+      "9 November 1961",
+      "1 May 1961"
+    ],
+    "answer": "13 August 1961"
+  },
+  {
+    "id": "history-044",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "The earliest sections of the Great Wall of China date back to approximately which century BC?",
+    "options": [
+      "3rd century BC",
+      "5th century BC",
+      "7th century BC",
+      "9th century BC"
+    ],
+    "answer": "7th century BC"
+  },
+  {
+    "id": "history-045",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "In what year did the Montgolfier brothers achieve the first manned hot-air balloon flight?",
+    "options": [
+      "1773",
+      "1783",
+      "1793",
+      "1803"
+    ],
+    "answer": "1783"
+  },
+  {
+    "id": "history-046",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Joseph Nicéphore Niépce produced the oldest surviving photograph in approximately which year?",
+    "options": [
+      "1816",
+      "1826",
+      "1839",
+      "1849"
+    ],
+    "answer": "1826"
+  },
+  {
+    "id": "history-047",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "In which country did same-sex marriage first become legal in 2001?",
+    "options": [
+      "Netherlands",
+      "Belgium",
+      "Spain",
+      "Canada"
+    ],
+    "answer": "Netherlands"
+  },
+  {
+    "id": "history-048",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which scientist created the world's first successful vaccine?",
+    "options": [
+      "Edward Jenner",
+      "Louis Pasteur",
+      "Robert Koch",
+      "Alexander Fleming"
+    ],
+    "answer": "Edward Jenner"
+  },
+  {
+    "id": "history-049",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Whose signature is the first and most prominent on the US Declaration of Independence?",
+    "options": [
+      "John Hancock",
+      "Thomas Jefferson",
+      "Benjamin Franklin",
+      "Samuel Adams"
+    ],
+    "answer": "John Hancock"
+  },
+  {
+    "id": "history-050",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What is the name of the shortest war in history, lasting only 38 minutes?",
+    "options": [
+      "Anglo-Zanzibar War",
+      "Six-Day War",
+      "Winter War",
+      "Football War"
+    ],
+    "answer": "Anglo-Zanzibar War"
+  },
+  {
+    "id": "history-051",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which country was the first to adopt Christianity as its official state religion in 301 AD?",
+    "options": [
+      "Armenia",
+      "Ethiopia",
+      "Georgia",
+      "Byzantine Empire"
+    ],
+    "answer": "Armenia"
+  },
+  {
+    "id": "history-052",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What is the name of the first successful iron steamship?",
+    "options": [
+      "SS Great Britain",
+      "SS Savannah",
+      "SS Great Western",
+      "SS Great Eastern"
+    ],
+    "answer": "SS Great Britain"
+  },
+  {
+    "id": "history-053",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which city was the capital of the Aztec Empire?",
+    "options": [
+      "Tenochtitlan",
+      "Texcoco",
+      "Tlacopan",
+      "Cholula"
+    ],
+    "answer": "Tenochtitlan"
+  },
+  {
+    "id": "history-054",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Who was the first person to win two Nobel Prizes?",
+    "options": [
+      "Marie Curie",
+      "Linus Pauling",
+      "John Bardeen",
+      "Frederick Sanger"
+    ],
+    "answer": "Marie Curie"
+  },
+  {
+    "id": "history-055",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which ancient city was buried by the eruption of Mount Vesuvius in 79 AD?",
+    "options": [
+      "Pompeii",
+      "Herculaneum",
+      "Stabiae",
+      "Oplontis"
+    ],
+    "answer": "Pompeii"
+  },
+  {
+    "id": "history-056",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which country was the first to give women the right to vote in national elections?",
+    "options": [
+      "New Zealand",
+      "United Kingdom",
+      "United States",
+      "Australia"
+    ],
+    "answer": "New Zealand"
+  },
+  {
+    "id": "history-057",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which country was the first to use paper money?",
+    "options": [
+      "China",
+      "Persia",
+      "India",
+      "Egypt"
+    ],
+    "answer": "China"
+  },
+  {
+    "id": "history-058",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which country was the first to legalize euthanasia?",
+    "options": [
+      "Netherlands",
+      "Belgium",
+      "Switzerland",
+      "Luxembourg"
+    ],
+    "answer": "Netherlands"
+  },
+  {
+    "id": "history-059",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which country was the first to introduce a carbon tax?",
+    "options": [
+      "Finland",
+      "Sweden",
+      "Norway",
+      "Denmark"
+    ],
+    "answer": "Finland"
+  },
+  {
+    "id": "history-060",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which country was the first to grant women the right to vote in local elections?",
+    "options": [
+      "Finland",
+      "New Zealand",
+      "United Kingdom",
+      "United States"
+    ],
+    "answer": "Finland"
+  },
+  {
+    "id": "history-061",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "In what year was the first atomic bomb used in warfare?",
+    "options": [
+      "1943",
+      "1947",
+      "1945",
+      "1950"
+    ],
+    "answer": "1945"
+  },
+  {
+    "id": "history-062",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "In what year did the American Revolutionary War begin?",
+    "options": [
+      "1775",
+      "1776",
+      "1780",
+      "1783"
+    ],
+    "answer": "1775"
+  },
+  {
+    "id": "history-063",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "In what year did World War II begin?",
+    "options": [
+      "1937",
+      "1941",
+      "1939",
+      "1943"
+    ],
+    "answer": "1939"
+  },
+  {
+    "id": "history-064",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Who was the first female head of government in the world?",
+    "options": [
+      "Indira Gandhi",
+      "Golda Meir",
+      "Margaret Thatcher",
+      "Sirimavo Bandaranaike"
+    ],
+    "answer": "Sirimavo Bandaranaike"
+  },
+  {
+    "id": "history-065",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which country was the first to permanently abolish slavery?",
+    "options": [
+      "France",
+      "United Kingdom",
+      "United States",
+      "Haiti"
+    ],
+    "answer": "Haiti"
+  },
+  {
+    "id": "history-066",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which country was the first to adopt the metric system?",
+    "options": [
+      "Germany",
+      "United Kingdom",
+      "France",
+      "United States"
+    ],
+    "answer": "France"
+  },
+  {
+    "id": "history-067",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which university is often recognized as the oldest degree-granting university in the world?",
+    "options": [
+      "University of Bologna",
+      "University of Oxford",
+      "University of Paris",
+      "University of al-Qarawiyyin"
+    ],
+    "answer": "University of al-Qarawiyyin"
   }
 ]

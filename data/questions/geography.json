@@ -3989,5 +3989,824 @@
       "Sandstone"
     ],
     "answer": "Limestone"
+  },
+  {
+    "id": "geography-001",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which Central American country does not have a coastline on the Caribbean Sea?",
+    "options": [
+      "Honduras",
+      "Nicaragua",
+      "El Salvador",
+      "Costa Rica"
+    ],
+    "answer": "El Salvador"
+  },
+  {
+    "id": "geography-002",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "What is the capital of the African island nation of São Tomé and Príncipe?",
+    "options": [
+      "Malabo",
+      "São Tomé",
+      "Príncipe",
+      "Praia"
+    ],
+    "answer": "São Tomé"
+  },
+  {
+    "id": "geography-003",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "As of 2026, which country contains the southernmost incorporated municipality in the world, Puerto Williams?",
+    "options": [
+      "Argentina",
+      "New Zealand",
+      "South Africa",
+      "Chile"
+    ],
+    "answer": "Chile"
+  },
+  {
+    "id": "geography-004",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "What is the official currency of Poland?",
+    "options": [
+      "Euro",
+      "Koruna",
+      "Złoty",
+      "Forint"
+    ],
+    "answer": "Złoty"
+  },
+  {
+    "id": "geography-005",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "Which of the following US states shares a land border with exactly one other US state?",
+    "options": [
+      "Maine",
+      "Rhode Island",
+      "Washington",
+      "Florida"
+    ],
+    "answer": "Maine"
+  },
+  {
+    "id": "geography-006",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "The Kerguelen Islands, one of the most isolated places on Earth, are an overseas territory of which country?",
+    "options": [
+      "France",
+      "United Kingdom",
+      "Norway",
+      "Australia"
+    ],
+    "answer": "France"
+  },
+  {
+    "id": "geography-007",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which obscure US river is known as the 'River of No Return'?",
+    "options": [
+      "Snake River",
+      "Salmon River",
+      "Rogue River",
+      "Green River"
+    ],
+    "answer": "Salmon River"
+  },
+  {
+    "id": "geography-008",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "What is the second-smallest independent country in the world by land area?",
+    "options": [
+      "Vatican City",
+      "Nauru",
+      "Tuvalu",
+      "Monaco"
+    ],
+    "answer": "Monaco"
+  },
+  {
+    "id": "geography-009",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "Which European capital is built across an archipelago of 14 islands?",
+    "options": [
+      "Oslo",
+      "Stockholm",
+      "Copenhagen",
+      "Helsinki"
+    ],
+    "answer": "Stockholm"
+  },
+  {
+    "id": "geography-010",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "As of 2026, which country spans the most time zones, including its overseas territories?",
+    "options": [
+      "France",
+      "Russia",
+      "China",
+      "United States"
+    ],
+    "answer": "France"
+  },
+  {
+    "id": "geography-011",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "What is the approximate length of the shortest international land border in the world, between Botswana and Zambia?",
+    "options": [
+      "About 150 meters",
+      "About 15 meters",
+      "About 1.5 kilometers",
+      "About 500 meters"
+    ],
+    "answer": "About 150 meters"
+  },
+  {
+    "id": "geography-012",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "What is the only country name that can be spelled using only the top row of a standard QWERTY keyboard?",
+    "options": [
+      "Peru",
+      "Eritrea",
+      "Qatar",
+      "Yemen"
+    ],
+    "answer": "Peru"
+  },
+  {
+    "id": "geography-013",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "As of 2026, only two national flags contain the color purple. One is Dominica. What is the other?",
+    "options": [
+      "Nicaragua",
+      "Spain",
+      "Brazil",
+      "South Africa"
+    ],
+    "answer": "Nicaragua"
+  },
+  {
+    "id": "geography-014",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "Which country has the oldest constitution still in use, dating back to 1600?",
+    "options": [
+      "San Marino",
+      "United States",
+      "United Kingdom",
+      "Switzerland"
+    ],
+    "answer": "San Marino"
+  },
+  {
+    "id": "geography-015",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "Which country is notable for being the only one with more registered cars than people?",
+    "options": [
+      "San Marino",
+      "Monaco",
+      "Luxembourg",
+      "United States"
+    ],
+    "answer": "San Marino"
+  },
+  {
+    "id": "geography-016",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "As of recent estimates, which Pacific island nation is considered the least visited country in the world?",
+    "options": [
+      "Nauru",
+      "Tuvalu",
+      "Kiribati",
+      "Marshall Islands"
+    ],
+    "answer": "Nauru"
+  },
+  {
+    "id": "geography-017",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which country holds the record for the greatest north-to-south extent, stretching approximately 4,300 kilometers?",
+    "options": [
+      "Chile",
+      "Norway",
+      "Brazil",
+      "Russia"
+    ],
+    "answer": "Chile"
+  },
+  {
+    "id": "geography-018",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "Which Australian city is geographically closer to Singapore than it is to Sydney?",
+    "options": [
+      "Perth",
+      "Darwin",
+      "Adelaide",
+      "Brisbane"
+    ],
+    "answer": "Perth"
+  },
+  {
+    "id": "geography-019",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Lesotho is one of only three countries in the world that is entirely surrounded by another single country. Which country surrounds it?",
+    "options": [
+      "South Africa",
+      "Zimbabwe",
+      "Botswana",
+      "Namibia"
+    ],
+    "answer": "South Africa"
+  },
+  {
+    "id": "geography-020",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "What is the only sovereign country whose name ends with the letter H?",
+    "options": [
+      "Bangladesh",
+      "Bhutan",
+      "Czech Republic",
+      "Morocco"
+    ],
+    "answer": "Bangladesh"
+  },
+  {
+    "id": "geography-021",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "Only two countries start with the letter A but do not end with the letter A. Afghanistan is one. What is the other?",
+    "options": [
+      "Azerbaijan",
+      "Armenia",
+      "Albania",
+      "Australia"
+    ],
+    "answer": "Azerbaijan"
+  },
+  {
+    "id": "geography-022",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "Jamaica's national flag is notable for being the only one among all sovereign nations that contains none of which three colors?",
+    "options": [
+      "Blue, white, and red",
+      "Green, yellow, and black",
+      "Red, white, and green",
+      "Blue, yellow, and green"
+    ],
+    "answer": "Blue, white, and red"
+  },
+  {
+    "id": "geography-023",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "As of 2026, what is the highest capital city in the world by elevation?",
+    "options": [
+      "Quito",
+      "La Paz",
+      "Kathmandu",
+      "Thimphu"
+    ],
+    "answer": "Quito"
+  },
+  {
+    "id": "geography-024",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Approximately what percentage of all water on Earth is fresh water?",
+    "options": [
+      "3%",
+      "10%",
+      "25%",
+      "1%"
+    ],
+    "answer": "3%"
+  },
+  {
+    "id": "geography-025",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "What is the largest desert in the world?",
+    "options": [
+      "Sahara",
+      "Gobi",
+      "Antarctic Desert",
+      "Arabian Desert"
+    ],
+    "answer": "Antarctic Desert"
+  },
+  {
+    "id": "geography-026",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "In which city is the Louvre Museum located?",
+    "options": [
+      "London",
+      "Rome",
+      "Paris",
+      "Madrid"
+    ],
+    "answer": "Paris"
+  },
+  {
+    "id": "geography-027",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "Which ocean lies between Africa and Australia?",
+    "options": [
+      "Atlantic Ocean",
+      "Pacific Ocean",
+      "Indian Ocean",
+      "Southern Ocean"
+    ],
+    "answer": "Indian Ocean"
+  },
+  {
+    "id": "geography-028",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "In which country would you find the Great Wall?",
+    "options": [
+      "Japan",
+      "China",
+      "Korea",
+      "India"
+    ],
+    "answer": "China"
+  },
+  {
+    "id": "geography-029",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which continent is known as the 'Dark Continent'?",
+    "options": [
+      "Asia",
+      "Africa",
+      "South America",
+      "Australia"
+    ],
+    "answer": "Africa"
+  },
+  {
+    "id": "geography-030",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "Which country has the largest population as of 2024?",
+    "options": [
+      "China",
+      "USA",
+      "India",
+      "Indonesia"
+    ],
+    "answer": "India"
+  },
+  {
+    "id": "geography-031",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "What is the name of the imaginary line that divides the Earth into North and South?",
+    "options": [
+      "Prime Meridian",
+      "Equator",
+      "Tropic of Cancer",
+      "Arctic Circle"
+    ],
+    "answer": "Equator"
+  },
+  {
+    "id": "geography-032",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "Which mountain is the highest in the world?",
+    "options": [
+      "K2",
+      "Mount Everest",
+      "Kangchenjunga",
+      "Lhotse"
+    ],
+    "answer": "Mount Everest"
+  },
+  {
+    "id": "geography-033",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which ocean is to the east of the United States?",
+    "options": [
+      "Pacific Ocean",
+      "Indian Ocean",
+      "Atlantic Ocean",
+      "Arctic Ocean"
+    ],
+    "answer": "Atlantic Ocean"
+  },
+  {
+    "id": "geography-034",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "In which country is the Taj Mahal located?",
+    "options": [
+      "Pakistan",
+      "India",
+      "Bangladesh",
+      "Iran"
+    ],
+    "answer": "India"
+  },
+  {
+    "id": "geography-035",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "What is the capital of the United Kingdom?",
+    "options": [
+      "London",
+      "Edinburgh",
+      "Manchester",
+      "Birmingham"
+    ],
+    "answer": "London"
+  },
+  {
+    "id": "geography-036",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which river is generally considered the longest in Europe?",
+    "options": [
+      "Danube",
+      "Volga",
+      "Rhine",
+      "Dnieper"
+    ],
+    "answer": "Volga"
+  },
+  {
+    "id": "geography-037",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "As of 2026, what is the capital city of Kazakhstan, after it reverted from the name Nur-Sultan in 2022?",
+    "options": [
+      "Almaty",
+      "Shymkent",
+      "Astana",
+      "Karaganda"
+    ],
+    "answer": "Astana"
+  },
+  {
+    "id": "geography-038",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "How many continents are there in the most widely used English-language model?",
+    "options": [
+      "Five",
+      "Six",
+      "Seven",
+      "Eight"
+    ],
+    "answer": "Seven"
+  },
+  {
+    "id": "geography-039",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "What is the capital city of Egypt?",
+    "options": [
+      "Alexandria",
+      "Giza",
+      "Cairo",
+      "Luxor"
+    ],
+    "answer": "Cairo"
+  },
+  {
+    "id": "geography-040",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "How many capital cities does South Africa officially have?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "answer": "Three"
+  },
+  {
+    "id": "geography-041",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "What is the de facto capital city of Switzerland?",
+    "options": [
+      "Zurich",
+      "Geneva",
+      "Bern",
+      "Basel"
+    ],
+    "answer": "Bern"
+  },
+  {
+    "id": "geography-042",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "What is the capital city of Morocco?",
+    "options": [
+      "Casablanca",
+      "Marrakesh",
+      "Rabat",
+      "Fez"
+    ],
+    "answer": "Rabat"
+  },
+  {
+    "id": "geography-043",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "As of 2026, what is the tallest building in the world?",
+    "options": [
+      "Shanghai Tower",
+      "Burj Khalifa",
+      "Makkah Royal Clock Tower",
+      "Taipei 101"
+    ],
+    "answer": "Burj Khalifa"
+  },
+  {
+    "id": "geography-044",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "What is the capital city of Norway?",
+    "options": [
+      "Bergen",
+      "Trondheim",
+      "Oslo",
+      "Stavanger"
+    ],
+    "answer": "Oslo"
+  },
+  {
+    "id": "geography-045",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "What is the tallest uninterrupted waterfall in the world?",
+    "options": [
+      "Niagara Falls",
+      "Victoria Falls",
+      "Angel Falls",
+      "Iguazu Falls"
+    ],
+    "answer": "Angel Falls"
+  },
+  {
+    "id": "geography-046",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "What is the capital city of Peru?",
+    "options": [
+      "Cusco",
+      "Arequipa",
+      "Lima",
+      "Trujillo"
+    ],
+    "answer": "Lima"
+  },
+  {
+    "id": "geography-047",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "What is the capital of Bhutan?",
+    "options": [
+      "Thimphu",
+      "Kathmandu",
+      "Paro",
+      "Punakha"
+    ],
+    "answer": "Thimphu"
+  },
+  {
+    "id": "geography-048",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which country is known for having the most natural lakes, with over 60% of the world's lakes larger than 0.2 square miles?",
+    "options": [
+      "Canada",
+      "Finland",
+      "Sweden",
+      "Norway"
+    ],
+    "answer": "Canada"
+  },
+  {
+    "id": "geography-049",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "According to conventional definitions, which continent has no deserts?",
+    "options": [
+      "Europe",
+      "Antarctica",
+      "South America",
+      "Australia"
+    ],
+    "answer": "Europe"
+  },
+  {
+    "id": "geography-050",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "What is the highest peak in North America?",
+    "options": [
+      "Denali",
+      "Mount Logan",
+      "Pico de Orizaba",
+      "Mount Whitney"
+    ],
+    "answer": "Denali"
+  },
+  {
+    "id": "geography-051",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "What is the name of the deepest point in the Mariana Trench?",
+    "options": [
+      "Challenger Deep",
+      "Tonga Trench",
+      "Philippine Trench",
+      "Kermadec Trench"
+    ],
+    "answer": "Challenger Deep"
+  },
+  {
+    "id": "geography-052",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which country has 12 time zones when including its overseas territories?",
+    "options": [
+      "France",
+      "Russia",
+      "United States",
+      "United Kingdom"
+    ],
+    "answer": "France"
+  },
+  {
+    "id": "geography-053",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which national park, established in 1872, is widely recognized as the world's first?",
+    "options": [
+      "Yellowstone",
+      "Yosemite",
+      "Banff",
+      "Rocky Mountain"
+    ],
+    "answer": "Yellowstone"
+  },
+  {
+    "id": "geography-054",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which country has the largest land area?",
+    "options": [
+      "Russia",
+      "Canada",
+      "China",
+      "United States"
+    ],
+    "answer": "Russia"
+  },
+  {
+    "id": "geography-055",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "What is the only country that is also a continent?",
+    "options": [
+      "Australia",
+      "Greenland",
+      "Madagascar",
+      "New Zealand"
+    ],
+    "answer": "Australia"
+  },
+  {
+    "id": "geography-056",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "What is the capital of Japan?",
+    "options": [
+      "Tokyo",
+      "Osaka",
+      "Kyoto",
+      "Yokohama"
+    ],
+    "answer": "Tokyo"
+  },
+  {
+    "id": "geography-057",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "What is the name of the longest river in Africa?",
+    "options": [
+      "Nile River",
+      "Congo River",
+      "Niger River",
+      "Zambezi River"
+    ],
+    "answer": "Nile River"
+  },
+  {
+    "id": "geography-058",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which country is the largest producer of natural rubber?",
+    "options": [
+      "Thailand",
+      "Indonesia",
+      "Malaysia",
+      "Vietnam"
+    ],
+    "answer": "Thailand"
+  },
+  {
+    "id": "geography-059",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which letter does not appear in any US state name?",
+    "options": [
+      "Q",
+      "X",
+      "Z",
+      "J"
+    ],
+    "answer": "Q"
+  },
+  {
+    "id": "geography-060",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "As of 2026, what is the longest bridge in the world?",
+    "options": [
+      "Danyang–Kunshan Grand Bridge",
+      "Changhua–Kaohsiung Viaduct",
+      "Tianjin Grand Bridge",
+      "Weinan Wei River Bridge"
+    ],
+    "answer": "Danyang–Kunshan Grand Bridge"
+  },
+  {
+    "id": "geography-061",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "As of 2026, what is the longest tunnel in the world?",
+    "options": [
+      "Seikan Tunnel",
+      "Channel Tunnel",
+      "Lærdal Tunnel",
+      "Gotthard Base Tunnel"
+    ],
+    "answer": "Gotthard Base Tunnel"
+  },
+  {
+    "id": "geography-062",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "As of 2026, what is the largest dam in the world by installed capacity?",
+    "options": [
+      "Itaipu Dam",
+      "Brutalist Dam",
+      "Grand Coulee Dam",
+      "Three Gorges Dam"
+    ],
+    "answer": "Three Gorges Dam"
+  },
+  {
+    "id": "geography-063",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "What is the largest airport in the world by land area?",
+    "options": [
+      "King Fahd International Airport",
+      "Denver International Airport",
+      "Dallas/Fort Worth International Airport",
+      "Beijing Daxing International Airport"
+    ],
+    "answer": "King Fahd International Airport"
   }
 ]

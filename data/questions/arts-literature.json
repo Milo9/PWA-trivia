@@ -3235,5 +3235,395 @@
       "Hermes"
     ],
     "answer": "Hedwig"
+  },
+  {
+    "id": "arts-literature-001",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which of the Three Elven Rings of Power is worn by Gandalf in The Lord of the Rings?",
+    "options": [
+      "Nenya",
+      "Narya",
+      "Vilya",
+      "The One Ring"
+    ],
+    "answer": "Narya"
+  },
+  {
+    "id": "arts-literature-002",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "What is the name of the wizard prison where Grindelwald was held after his defeat in the Harry Potter series?",
+    "options": [
+      "Azkaban",
+      "Nurmengard",
+      "Durmstrang",
+      "Gringotts"
+    ],
+    "answer": "Nurmengard"
+  },
+  {
+    "id": "arts-literature-003",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "In George Orwell's '1984', what is the name of the inner party member who tortures Winston Smith?",
+    "options": [
+      "Syme",
+      "Parsons",
+      "Goldstein",
+      "O'Brien"
+    ],
+    "answer": "O'Brien"
+  },
+  {
+    "id": "arts-literature-004",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "What was the pen name of the author Mary Ann Evans, who wrote 'Middlemarch'?",
+    "options": [
+      "Currer Bell",
+      "Ellis Bell",
+      "George Eliot",
+      "Acton Bell"
+    ],
+    "answer": "George Eliot"
+  },
+  {
+    "id": "arts-literature-005",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "In the 'Harry Potter' series, what is the core of Draco Malfoy's wand?",
+    "options": [
+      "Dragon heartstring",
+      "Unicorn hair",
+      "Phoenix feather",
+      "Veela hair"
+    ],
+    "answer": "Unicorn hair"
+  },
+  {
+    "id": "arts-literature-006",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "What is the title of the first book in 'The Lord of the Rings' trilogy?",
+    "options": [
+      "The Two Towers",
+      "The Return of the King",
+      "The Fellowship of the Ring",
+      "The Hobbit"
+    ],
+    "answer": "The Fellowship of the Ring"
+  },
+  {
+    "id": "arts-literature-007",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "J.D. Salinger's big break came in 1947 when The New Yorker published his story titled 'A Perfect Day for' what fictional creature?",
+    "options": [
+      "Bananafish",
+      "Coconutfish",
+      "Pineapplefish",
+      "Mangofish"
+    ],
+    "answer": "Bananafish"
+  },
+  {
+    "id": "arts-literature-008",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "In Brian Jacques's 'Redwall' fantasy series, Stonehead McGurney and Sir Harry the Muse are characters of what species?",
+    "options": [
+      "Owls",
+      "Badgers",
+      "Hares",
+      "Moles"
+    ],
+    "answer": "Owls"
+  },
+  {
+    "id": "arts-literature-009",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Who was the first person ever awarded the Nobel Prize in Literature in 1901?",
+    "options": [
+      "Sully Prudhomme",
+      "Rudyard Kipling",
+      "Leo Tolstoy",
+      "Henrik Ibsen"
+    ],
+    "answer": "Sully Prudhomme"
+  },
+  {
+    "id": "arts-literature-010",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which British Prime Minister was awarded the Nobel Prize in Literature in 1953?",
+    "options": [
+      "Winston Churchill",
+      "Benjamin Disraeli",
+      "Margaret Thatcher",
+      "Clement Attlee"
+    ],
+    "answer": "Winston Churchill"
+  },
+  {
+    "id": "arts-literature-011",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "In 1971, John Gardner wrote a novel retelling 'Beowulf' from the perspective of which monster?",
+    "options": [
+      "Grendel",
+      "The dragon",
+      "Grendel's mother",
+      "The wyrm"
+    ],
+    "answer": "Grendel"
+  },
+  {
+    "id": "arts-literature-012",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which Harlem Renaissance author wrote 'Their Eyes Were Watching God' and is honored by an annual festival in Eatonville, Florida?",
+    "options": [
+      "Zora Neale Hurston",
+      "Langston Hughes",
+      "Nella Larsen",
+      "Gwendolyn Brooks"
+    ],
+    "answer": "Zora Neale Hurston"
+  },
+  {
+    "id": "arts-literature-013",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who became the first African-American woman to win the Nobel Prize in Literature, receiving it in 1993?",
+    "options": [
+      "Toni Morrison",
+      "Alice Walker",
+      "Maya Angelou",
+      "Octavia Butler"
+    ],
+    "answer": "Toni Morrison"
+  },
+  {
+    "id": "arts-literature-014",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "'The Fire Next Time,' 'If Beale Street Could Talk,' and 'Giovanni's Room' are all works by which American author?",
+    "options": [
+      "James Baldwin",
+      "Richard Wright",
+      "Ralph Ellison",
+      "John Updike"
+    ],
+    "answer": "James Baldwin"
+  },
+  {
+    "id": "arts-literature-015",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Which Bengali poet became the first non-European to win the Nobel Prize in Literature in 1913?",
+    "options": [
+      "Rabindranath Tagore",
+      "Sarojini Naidu",
+      "Muhammad Iqbal",
+      "Faiz Ahmed Faiz"
+    ],
+    "answer": "Rabindranath Tagore"
+  },
+  {
+    "id": "arts-literature-016",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "In Grant Wood's painting 'American Gothic,' the models for the farmer and his daughter were actually the artist's what?",
+    "options": [
+      "Sister and dentist",
+      "Parents",
+      "Neighbors",
+      "Students"
+    ],
+    "answer": "Sister and dentist"
+  },
+  {
+    "id": "arts-literature-017",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Which famous artist was briefly arrested and questioned as a suspect in the 1911 theft of the Mona Lisa?",
+    "options": [
+      "Pablo Picasso",
+      "Henri Matisse",
+      "Salvador Dalí",
+      "Marcel Duchamp"
+    ],
+    "answer": "Pablo Picasso"
+  },
+  {
+    "id": "arts-literature-018",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which Renaissance master was a known vegetarian who would reportedly buy caged birds in the market solely to set them free?",
+    "options": [
+      "Leonardo da Vinci",
+      "Michelangelo",
+      "Raphael",
+      "Donatello"
+    ],
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "id": "arts-literature-019",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Claude Monet supposedly hired how many full-time gardeners to tend to his gardens at Giverny?",
+    "options": [
+      "Six",
+      "Two",
+      "Twelve",
+      "Twenty"
+    ],
+    "answer": "Six"
+  },
+  {
+    "id": "arts-literature-020",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Which surrealist artist once delivered a speech at the Sorbonne while wearing a deep-sea diving suit?",
+    "options": [
+      "Salvador Dalí",
+      "René Magritte",
+      "Max Ernst",
+      "Joan Miró"
+    ],
+    "answer": "Salvador Dalí"
+  },
+  {
+    "id": "arts-literature-021",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Which American modernist painter customized her car so she could paint inside it, avoiding the desert sun?",
+    "options": [
+      "Georgia O'Keeffe",
+      "Mary Cassatt",
+      "Frida Kahlo",
+      "Helen Frankenthaler"
+    ],
+    "answer": "Georgia O'Keeffe"
+  },
+  {
+    "id": "arts-literature-022",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Who wrote 'The Odyssey'?",
+    "options": [
+      "Homer",
+      "Sophocles",
+      "Plato",
+      "Aristotle"
+    ],
+    "answer": "Homer"
+  },
+  {
+    "id": "arts-literature-023",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Who is the author of 'The Great Gatsby'?",
+    "options": [
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald",
+      "John Steinbeck",
+      "William Faulkner"
+    ],
+    "answer": "F. Scott Fitzgerald"
+  },
+  {
+    "id": "arts-literature-024",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Who wrote the dystopian novel Nineteen Eighty-Four?",
+    "options": [
+      "Aldous Huxley",
+      "George Orwell",
+      "Ray Bradbury",
+      "H.G. Wells"
+    ],
+    "answer": "George Orwell"
+  },
+  {
+    "id": "arts-literature-025",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Who created the 1893 artwork The Scream?",
+    "options": [
+      "Edvard Munch",
+      "Gustav Klimt",
+      "Egon Schiele",
+      "Henri Matisse"
+    ],
+    "answer": "Edvard Munch"
+  },
+  {
+    "id": "arts-literature-026",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "What was the first book printed in the English language?",
+    "options": [
+      "Recuyell of the Historyes of Troye",
+      "The Canterbury Tales",
+      "The Gutenberg Bible",
+      "Le Morte d'Arthur"
+    ],
+    "answer": "Recuyell of the Historyes of Troye"
+  },
+  {
+    "id": "arts-literature-027",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "What is the name of the first woman to win a Nobel Prize in Literature?",
+    "options": [
+      "Selma Lagerlöf",
+      "Pearl S. Buck",
+      "Gabriela Mistral",
+      "Nadine Gordimer"
+    ],
+    "answer": "Selma Lagerlöf"
+  },
+  {
+    "id": "arts-literature-028",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Who wrote the novel 'Ulysses'?",
+    "options": [
+      "Virginia Woolf",
+      "T.S. Eliot",
+      "Ezra Pound",
+      "James Joyce"
+    ],
+    "answer": "James Joyce"
+  },
+  {
+    "id": "arts-literature-029",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who painted 'The Persistence of Memory'?",
+    "options": [
+      "Salvador Dalí",
+      "Pablo Picasso",
+      "Vincent van Gogh",
+      "René Magritte"
+    ],
+    "answer": "Salvador Dalí"
+  },
+  {
+    "id": "arts-literature-030",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "What is the largest library in the world by shelf space?",
+    "options": [
+      "British Library",
+      "New York Public Library",
+      "Library of Congress",
+      "Library and Archives Canada"
+    ],
+    "answer": "Library of Congress"
   }
 ]

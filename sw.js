@@ -1,7 +1,7 @@
 // Stamped by scripts/stamp-version.js — do not edit by hand.
 // Changes automatically whenever app shell or question data changes,
 // which forces old cached data to be replaced next time we're online.
-const CACHE_VERSION = "v1-ed8b9db4";
+const CACHE_VERSION = "v1-ef5714ab";
 
 // Per-file content hashes for everything CACHE_VERSION covers. Lets
 // precache() tell which files actually changed and copy the rest forward
@@ -12,23 +12,23 @@ const FILE_HASHES = {
   "styles.css": "183f207d3aed9e35",
   "app.js": "b508dd413f737cdc",
   "manifest.webmanifest": "de76ad5da1344100",
-  "version.json": "df883faed905d1c3",
+  "version.json": "b9978a3bcc23368c",
   "data/categories.json": "76d89a23cf2be2ef",
-  "data/questions/animals-nature.json": "0624d853c1959803",
-  "data/questions/arts-literature.json": "a6bca47a13305bd1",
+  "data/questions/animals-nature.json": "462730235a50ed94",
+  "data/questions/arts-literature.json": "26bca76ca376da92",
   "data/questions/big-bang-theory.json": "8e2fe2c9d2bc3649",
-  "data/questions/film-tv.json": "d68e65aa0428d3f3",
-  "data/questions/food-drink.json": "d58b2efdb80152fb",
+  "data/questions/film-tv.json": "55d4aac8cd29578c",
+  "data/questions/food-drink.json": "8ae5ba2a06d0d723",
   "data/questions/friends.json": "047e3ec40b64353c",
-  "data/questions/general.json": "6438bc24475eea01",
-  "data/questions/geography.json": "a6c875297af21cd6",
-  "data/questions/history.json": "924de9e7c29a2b29",
-  "data/questions/music.json": "e8a75d3728366ecf",
-  "data/questions/mythology-religion.json": "6d3e2bedc50bfd4b",
-  "data/questions/science-technology.json": "a10b55d6d1150b09",
-  "data/questions/space-astronomy.json": "8e2f756871e8ed5a",
-  "data/questions/sports.json": "a36b50d87f610059",
-  "data/questions/world-cultures.json": "fc3f87960095c25f",
+  "data/questions/general.json": "58193c3a3864c64a",
+  "data/questions/geography.json": "48b30952e4896439",
+  "data/questions/history.json": "0429be649927f746",
+  "data/questions/music.json": "568546ce92baf0f4",
+  "data/questions/mythology-religion.json": "821f0946966d53c5",
+  "data/questions/science-technology.json": "2a58a1ea0f3c4044",
+  "data/questions/space-astronomy.json": "17ce084db343630a",
+  "data/questions/sports.json": "161e5b27adbe6280",
+  "data/questions/world-cultures.json": "52144680ecc3fcc8",
   "data/topics.json": "00c6219fb318d9de"
 };
 

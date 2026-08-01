@@ -2858,5 +2858,564 @@
       "Vizzini"
     ],
     "answer": "Inigo Montoya"
+  },
+  {
+    "id": "film-tv-001",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In the TV series Breaking Bad, what is the name of the junkyard proprietor who assists Walter White in disposing of evidence?",
+    "options": [
+      "Tyrus Kitt",
+      "Old Joe",
+      "Huell Babineaux",
+      "Ed Galbraith"
+    ],
+    "answer": "Old Joe"
+  },
+  {
+    "id": "film-tv-002",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In The Shawshank Redemption, what material does Andy Dufresne use to carve his chess set?",
+    "options": [
+      "Alabaster",
+      "Ivory",
+      "Soapstone",
+      "Wood"
+    ],
+    "answer": "Soapstone"
+  },
+  {
+    "id": "film-tv-003",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "What is the name of the Russian guard who befriends Hopper in Stranger Things season 4?",
+    "options": [
+      "Dmitri Antonov",
+      "Alexei",
+      "Yuri",
+      "Grigori"
+    ],
+    "answer": "Dmitri Antonov"
+  },
+  {
+    "id": "film-tv-004",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In This Is Spinal Tap, which former drummer of the band died by spontaneous combustion?",
+    "options": [
+      "John 'Stumpy' Pepys",
+      "Mick Shrimpton",
+      "Peter 'James' Bond",
+      "Joe 'Mama' Besser"
+    ],
+    "answer": "Peter 'James' Bond"
+  },
+  {
+    "id": "film-tv-005",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "What is the name of the limbo train station linking the Matrix and the real world, introduced in The Matrix Revolutions?",
+    "options": [
+      "Mobil Avenue",
+      "Nexus Station",
+      "Limbo Terminal",
+      "The Merovingian's Waystation"
+    ],
+    "answer": "Mobil Avenue"
+  },
+  {
+    "id": "film-tv-006",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "What is the name of the cartoon dog added to The Itchy & Scratchy Show to boost ratings in The Simpsons?",
+    "options": [
+      "Santa's Little Helper",
+      "Poochie",
+      "Laddie",
+      "Mojo"
+    ],
+    "answer": "Poochie"
+  },
+  {
+    "id": "film-tv-007",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "What is the name of the cartoon DNA character used to explain genetics in Jurassic Park?",
+    "options": [
+      "Mr. DNA",
+      "Helix",
+      "Gene-o",
+      "Deoxy"
+    ],
+    "answer": "Mr. DNA"
+  },
+  {
+    "id": "film-tv-008",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "What is the name of the humanoid species genetically related to the Daleks, from the planet Skaro in Doctor Who?",
+    "options": [
+      "Thals",
+      "Time Lords",
+      "Kaleds",
+      "Ood"
+    ],
+    "answer": "Kaleds"
+  },
+  {
+    "id": "film-tv-009",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "What is the name of the self-help guru in Donnie Darko, played by Patrick Swayze?",
+    "options": [
+      "Jim Cunningham",
+      "Frank the Rabbit",
+      "Dr. Thurman",
+      "Father O'Reilly"
+    ],
+    "answer": "Jim Cunningham"
+  },
+  {
+    "id": "film-tv-010",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "What is the name of the woman with a wooden leg that Chandler accidentally reveals to everyone in Friends?",
+    "options": [
+      "Kathy",
+      "Janice",
+      "Julie",
+      "Ginger"
+    ],
+    "answer": "Ginger"
+  },
+  {
+    "id": "film-tv-011",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "What is the name of the nightclub Tom Haverford opens with Jean-Ralphio in Parks and Recreation?",
+    "options": [
+      "Entertainment 720",
+      "Snakehole Lounge",
+      "The Glitter Factory",
+      "Poutine Place"
+    ],
+    "answer": "Entertainment 720"
+  },
+  {
+    "id": "film-tv-012",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In The Dark Knight, what is the name of the Hong Kong-based mob accountant kidnapped by Batman?",
+    "options": [
+      "Maroni",
+      "Chechen",
+      "Gambol",
+      "Lau"
+    ],
+    "answer": "Lau"
+  },
+  {
+    "id": "film-tv-013",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "What is the name of the superhero team that Rick Sanchez assembles to battle Worldender in Rick and Morty?",
+    "options": [
+      "The Vindicators",
+      "The Defenders",
+      "The Guardians",
+      "The Saviors"
+    ],
+    "answer": "The Vindicators"
+  },
+  {
+    "id": "film-tv-014",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In the opening scene of Blade Runner, Deckard reads a newspaper while eating at a street stand. What is the name of the noodle bar?",
+    "options": [
+      "The Snake Pit",
+      "White Dragon Noodle Bar",
+      "The Old Dragon",
+      "Kowloon Café"
+    ],
+    "answer": "White Dragon Noodle Bar"
+  },
+  {
+    "id": "film-tv-015",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "What character does Ian McShane portray in Game of Thrones?",
+    "options": [
+      "Brother Ray",
+      "Septon Meribald",
+      "Elder Brother",
+      "High Sparrow"
+    ],
+    "answer": "Brother Ray"
+  },
+  {
+    "id": "film-tv-016",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "What is the name of the prized horse that is killed and its head placed in Jack Woltz's bed in The Godfather?",
+    "options": [
+      "Khartoum",
+      "Apollo",
+      "Thunder",
+      "Ajax"
+    ],
+    "answer": "Khartoum"
+  },
+  {
+    "id": "film-tv-017",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "What is the name of the Bolian barber who runs the barbershop on the Enterprise-D in Star Trek: The Next Generation?",
+    "options": [
+      "Mr. Mot",
+      "Mr. Homn",
+      "Mr. O'Brien",
+      "Mr. Barclay"
+    ],
+    "answer": "Mr. Mot"
+  },
+  {
+    "id": "film-tv-018",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "What is the name of the nursing home in Breaking Bad where Hector Salamanca lives?",
+    "options": [
+      "Sunset Hills",
+      "Casa Tranquila",
+      "Desert Palms",
+      "Sandy Shores"
+    ],
+    "answer": "Casa Tranquila"
+  },
+  {
+    "id": "film-tv-019",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "What is the name of the blue alien diva in The Fifth Element?",
+    "options": [
+      "Leeloo",
+      "Ruby Rhod",
+      "Plavalaguna",
+      "Diva Plavalaguna"
+    ],
+    "answer": "Plavalaguna"
+  },
+  {
+    "id": "film-tv-020",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "What is the name of the white, empty virtual environment where Morpheus trains Neo in The Matrix?",
+    "options": [
+      "The Construct",
+      "The Matrix",
+      "Mobil Avenue",
+      "Zion"
+    ],
+    "answer": "The Construct"
+  },
+  {
+    "id": "film-tv-021",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "Who directed the 1979 science fiction horror film 'Alien'?",
+    "options": [
+      "James Cameron",
+      "John Carpenter",
+      "Ridley Scott",
+      "David Cronenberg"
+    ],
+    "answer": "Ridley Scott"
+  },
+  {
+    "id": "film-tv-022",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "Which film won the Academy Award for Best Picture at the 2020 ceremony?",
+    "options": [
+      "1917",
+      "Parasite",
+      "Joker",
+      "Once Upon a Time in Hollywood"
+    ],
+    "answer": "Parasite"
+  },
+  {
+    "id": "film-tv-023",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In the 'Star Wars' universe, what is the name of Han Solo's iconic starship?",
+    "options": [
+      "X-wing",
+      "TIE fighter",
+      "Star Destroyer",
+      "Millennium Falcon"
+    ],
+    "answer": "Millennium Falcon"
+  },
+  {
+    "id": "film-tv-024",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "Who played the character of Vito Corleone in the 1972 film 'The Godfather'?",
+    "options": [
+      "Al Pacino",
+      "Robert De Niro",
+      "James Caan",
+      "Marlon Brando"
+    ],
+    "answer": "Marlon Brando"
+  },
+  {
+    "id": "film-tv-025",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In the Pixar film 'Ratatouille', what is the name of the fictional restaurant founded by Auguste Gusteau?",
+    "options": [
+      "Le Cordon Bleu",
+      "Gusteau's",
+      "La Ratatouille",
+      "Maxim's"
+    ],
+    "answer": "Gusteau's"
+  },
+  {
+    "id": "film-tv-026",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'The Matrix', what colour is the pill that Neo takes to awaken to the real world?",
+    "options": [
+      "Blue",
+      "Red",
+      "Green",
+      "Yellow"
+    ],
+    "answer": "Red"
+  },
+  {
+    "id": "film-tv-027",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "Which actress played the lead role of FBI trainee Clarice Starling in 'The Silence of the Lambs'?",
+    "options": [
+      "Julianne Moore",
+      "Sigourney Weaver",
+      "Jodie Foster",
+      "Michelle Pfeiffer"
+    ],
+    "answer": "Jodie Foster"
+  },
+  {
+    "id": "film-tv-028",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "Who composed the original film score for Disney's 'The Lion King' (1994)?",
+    "options": [
+      "John Williams",
+      "Alan Menken",
+      "Elton John",
+      "Hans Zimmer"
+    ],
+    "answer": "Hans Zimmer"
+  },
+  {
+    "id": "film-tv-029",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "What is the name of the fictional African country in the movie 'Black Panther'?",
+    "options": [
+      "Zamunda",
+      "Genovia",
+      "Krakozhia",
+      "Wakanda"
+    ],
+    "answer": "Wakanda"
+  },
+  {
+    "id": "film-tv-030",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In the TV series 'The Sopranos', what is the name of Tony Soprano's boat?",
+    "options": [
+      "Bada Bing",
+      "The Stugots",
+      "Pine Barrens",
+      "The Cugine"
+    ],
+    "answer": "The Stugots"
+  },
+  {
+    "id": "film-tv-031",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'Breaking Bad', what is the street name used by Walter White?",
+    "options": [
+      "Pinkman",
+      "Tuco",
+      "Heisenberg",
+      "Gus"
+    ],
+    "answer": "Heisenberg"
+  },
+  {
+    "id": "film-tv-032",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "What is the name of the coffee shop where the main characters frequently gather in 'Friends'?",
+    "options": [
+      "Monk's Diner",
+      "MacLaren's Pub",
+      "The Peach Pit",
+      "Central Perk"
+    ],
+    "answer": "Central Perk"
+  },
+  {
+    "id": "film-tv-033",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "Which actor portrays the character of Jon Snow in 'Game of Thrones'?",
+    "options": [
+      "Richard Madden",
+      "Kit Harington",
+      "Alfie Allen",
+      "Isaac Hempstead Wright"
+    ],
+    "answer": "Kit Harington"
+  },
+  {
+    "id": "film-tv-034",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'The Office' (US), what is the name of the paper company they work for?",
+    "options": [
+      "Wernham Hogg",
+      "Sabre",
+      "Dunder Mifflin",
+      "Michael Scott Paper Company"
+    ],
+    "answer": "Dunder Mifflin"
+  },
+  {
+    "id": "film-tv-035",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "Who is the creator of the animated comedy series 'The Simpsons'?",
+    "options": [
+      "Seth MacFarlane",
+      "Mike Judge",
+      "Trey Parker",
+      "Matt Groening"
+    ],
+    "answer": "Matt Groening"
+  },
+  {
+    "id": "film-tv-036",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'Stranger Things', what is the name of the alternate dimension that mirrors the real world?",
+    "options": [
+      "The Nether",
+      "The Dark Place",
+      "The Upside Down",
+      "The Void"
+    ],
+    "answer": "The Upside Down"
+  },
+  {
+    "id": "film-tv-037",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "Which TV show follows the lives of employees at the fictional Sterling Cooper advertising agency?",
+    "options": [
+      "Suits",
+      "Billions",
+      "Succession",
+      "Mad Men"
+    ],
+    "answer": "Mad Men"
+  },
+  {
+    "id": "film-tv-038",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In the TV series 'Frasier', what is the name of Frasier Crane's ex-wife?",
+    "options": [
+      "Maris",
+      "Lilith",
+      "Roz",
+      "Daphne"
+    ],
+    "answer": "Lilith"
+  },
+  {
+    "id": "film-tv-039",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "What is the name of the fictional town where 'Gilmore Girls' is set?",
+    "options": [
+      "Tree Hill",
+      "Capeside",
+      "Pawnee",
+      "Stars Hollow"
+    ],
+    "answer": "Stars Hollow"
+  },
+  {
+    "id": "film-tv-040",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "What is the name of the first woman to win an Academy Award for Best Director?",
+    "options": [
+      "Kathryn Bigelow",
+      "Sofia Coppola",
+      "Jane Campion",
+      "Greta Gerwig"
+    ],
+    "answer": "Kathryn Bigelow"
+  },
+  {
+    "id": "film-tv-041",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "Who played Jack Dawson in the 1997 film 'Titanic'?",
+    "options": [
+      "Brad Pitt",
+      "Johnny Depp",
+      "Leonardo DiCaprio",
+      "Matt Damon"
+    ],
+    "answer": "Leonardo DiCaprio"
+  },
+  {
+    "id": "film-tv-042",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "Who directed the 1993 film 'Jurassic Park'?",
+    "options": [
+      "George Lucas",
+      "James Cameron",
+      "Peter Jackson",
+      "Steven Spielberg"
+    ],
+    "answer": "Steven Spielberg"
+  },
+  {
+    "id": "film-tv-043",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "Who played Indiana Jones in the original film series?",
+    "options": [
+      "Harrison Ford",
+      "Sean Connery",
+      "Mel Gibson",
+      "Liam Neeson"
+    ],
+    "answer": "Harrison Ford"
   }
 ]

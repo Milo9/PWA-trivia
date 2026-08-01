@@ -2780,5 +2780,369 @@
       "Gaelic football"
     ],
     "answer": "Rugby"
+  },
+  {
+    "id": "sports-001",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In the sport of curling, what is the term for a stone that stops in front of the house to protect other stones?",
+    "options": [
+      "Draw",
+      "Guard",
+      "Takeout",
+      "Pebble"
+    ],
+    "answer": "Guard"
+  },
+  {
+    "id": "sports-002",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "How long is the swim segment of a standard Olympic-distance triathlon?",
+    "options": [
+      "2.0 km",
+      "1.0 km",
+      "1.5 km",
+      "3.8 km"
+    ],
+    "answer": "1.5 km"
+  },
+  {
+    "id": "sports-003",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "Which athlete holds the record for the most Olympic gold medals won as of 2026?",
+    "options": [
+      "Usain Bolt",
+      "Carl Lewis",
+      "Mark Spitz",
+      "Michael Phelps"
+    ],
+    "answer": "Michael Phelps"
+  },
+  {
+    "id": "sports-004",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "In ten-pin bowling, what is the term for scoring three consecutive strikes?",
+    "options": [
+      "Double",
+      "Spare",
+      "Turkey",
+      "Split"
+    ],
+    "answer": "Turkey"
+  },
+  {
+    "id": "sports-005",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "Which male tennis player holds the record for the most weeks ranked as world No. 1 in the ATP singles rankings as of 2026?",
+    "options": [
+      "Roger Federer",
+      "Pete Sampras",
+      "Rafael Nadal",
+      "Novak Djokovic"
+    ],
+    "answer": "Novak Djokovic"
+  },
+  {
+    "id": "sports-006",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In baseball, how many strikes make an 'out' for a batter?",
+    "options": [
+      "4",
+      "2",
+      "3",
+      "5"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": "sports-007",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "What is the highest possible score a player can achieve in a single game of ten-pin bowling?",
+    "options": [
+      "200",
+      "150",
+      "300",
+      "400"
+    ],
+    "answer": "300"
+  },
+  {
+    "id": "sports-008",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "Which U.S. president threatened to ban football unless rules were changed, leading to the introduction of the forward pass?",
+    "options": [
+      "Theodore Roosevelt",
+      "William Howard Taft",
+      "Woodrow Wilson",
+      "Calvin Coolidge"
+    ],
+    "answer": "Theodore Roosevelt"
+  },
+  {
+    "id": "sports-009",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "In Major League Baseball, what is the official recorded score of a forfeited game?",
+    "options": [
+      "9-0",
+      "1-0",
+      "7-0",
+      "Forfeit"
+    ],
+    "answer": "9-0"
+  },
+  {
+    "id": "sports-010",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "The longest tennis match in history, played at Wimbledon in 2010 between John Isner and Nicolas Mahut, lasted how long?",
+    "options": [
+      "11 hours and 5 minutes",
+      "8 hours and 30 minutes",
+      "14 hours and 20 minutes",
+      "6 hours and 45 minutes"
+    ],
+    "answer": "11 hours and 5 minutes"
+  },
+  {
+    "id": "sports-011",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "Tennis balls were not always yellow. In what year were yellow tennis balls introduced for better visibility?",
+    "options": [
+      "1986",
+      "1976",
+      "1996",
+      "1966"
+    ],
+    "answer": "1986"
+  },
+  {
+    "id": "sports-012",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "What is the recorded duration of the longest rally in a professional tennis match, played in 1984?",
+    "options": [
+      "29 minutes",
+      "19 minutes",
+      "39 minutes",
+      "49 minutes"
+    ],
+    "answer": "29 minutes"
+  },
+  {
+    "id": "sports-013",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Founded in 1857, which English football club holds the distinction of being the oldest existing football club in the world?",
+    "options": [
+      "Sheffield FC",
+      "Nottingham Forest",
+      "Stoke City",
+      "Sunderland AFC"
+    ],
+    "answer": "Sheffield FC"
+  },
+  {
+    "id": "sports-014",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "As of 2026, which footballer remains the only player to have won three FIFA World Cup tournaments?",
+    "options": [
+      "Pelé",
+      "Diego Maradona",
+      "Lionel Messi",
+      "Cristiano Ronaldo"
+    ],
+    "answer": "Pelé"
+  },
+  {
+    "id": "sports-015",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "How many players does each soccer team field during a standard match?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "answer": "11"
+  },
+  {
+    "id": "sports-016",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "How many players per team are on the court in a basketball game?",
+    "options": [
+      "Four",
+      "Five",
+      "Six",
+      "Seven"
+    ],
+    "answer": "Five"
+  },
+  {
+    "id": "sports-017",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "How many players does each team field in a rugby union match?",
+    "options": [
+      "Thirteen",
+      "Fourteen",
+      "Fifteen",
+      "Sixteen"
+    ],
+    "answer": "Fifteen"
+  },
+  {
+    "id": "sports-018",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "How many players per team are on the court in indoor volleyball?",
+    "options": [
+      "Five",
+      "Six",
+      "Seven",
+      "Eight"
+    ],
+    "answer": "Six"
+  },
+  {
+    "id": "sports-019",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "How many players per team are on the ice in a standard ice hockey game?",
+    "options": [
+      "Five",
+      "Six",
+      "Seven",
+      "Eight"
+    ],
+    "answer": "Six"
+  },
+  {
+    "id": "sports-020",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "The first recorded ancient Olympic Games are traditionally dated to which year?",
+    "options": [
+      "776 BC",
+      "676 BC",
+      "576 BC",
+      "476 BC"
+    ],
+    "answer": "776 BC"
+  },
+  {
+    "id": "sports-021",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "How many players are on each side in a cricket team?",
+    "options": [
+      "Nine",
+      "Ten",
+      "Eleven",
+      "Twelve"
+    ],
+    "answer": "Eleven"
+  },
+  {
+    "id": "sports-022",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "How many players per team are in the water during a water polo match?",
+    "options": [
+      "Six",
+      "Seven",
+      "Eight",
+      "Nine"
+    ],
+    "answer": "Seven"
+  },
+  {
+    "id": "sports-023",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "How many players per team are on the court in a team handball match?",
+    "options": [
+      "Six",
+      "Seven",
+      "Eight",
+      "Nine"
+    ],
+    "answer": "Seven"
+  },
+  {
+    "id": "sports-024",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Who was the first woman to win an Olympic gold medal?",
+    "options": [
+      "Hélène de Pourtalès",
+      "Charlotte Cooper",
+      "Kathleen McKane",
+      "Suzanne Lenglen"
+    ],
+    "answer": "Hélène de Pourtalès"
+  },
+  {
+    "id": "sports-025",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "What is the name of the first woman to win an Olympic gold medal in an individual event?",
+    "options": [
+      "Charlotte Cooper",
+      "Hélène de Pourtalès",
+      "Suzanne Lenglen",
+      "Kathleen McKane"
+    ],
+    "answer": "Charlotte Cooper"
+  },
+  {
+    "id": "sports-026",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "In which country was basketball invented?",
+    "options": [
+      "United States",
+      "Canada",
+      "United Kingdom",
+      "France"
+    ],
+    "answer": "United States"
+  },
+  {
+    "id": "sports-027",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In which country were the modern rules of soccer (association football) first codified?",
+    "options": [
+      "Brazil",
+      "England",
+      "Argentina",
+      "Germany"
+    ],
+    "answer": "England"
+  },
+  {
+    "id": "sports-028",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In which country was baseball invented?",
+    "options": [
+      "United Kingdom",
+      "Canada",
+      "United States",
+      "Australia"
+    ],
+    "answer": "United States"
   }
 ]

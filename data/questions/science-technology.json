@@ -6030,5 +6030,1461 @@
       "\"Testing, one, two\""
     ],
     "answer": "\"Mr. Watson, come here\""
+  },
+  {
+    "id": "science-technology-001",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which element, formerly known as columbium, was later renamed niobium?",
+    "options": [
+      "Copernicium",
+      "Columbium",
+      "Curium",
+      "Chromium"
+    ],
+    "answer": "Columbium"
+  },
+  {
+    "id": "science-technology-002",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which programming language was originally designed by Yukihiro Matsumoto and released in 1995?",
+    "options": [
+      "Ruby",
+      "Python",
+      "Perl",
+      "PHP"
+    ],
+    "answer": "Ruby"
+  },
+  {
+    "id": "science-technology-003",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What is the name of the effect that causes the frequency of a wave to change for an observer moving relative to its source?",
+    "options": [
+      "Doppler effect",
+      "Photoelectric effect",
+      "Meissner effect",
+      "Tyndall effect"
+    ],
+    "answer": "Doppler effect"
+  },
+  {
+    "id": "science-technology-004",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What does the acronym 'CAPTCHA' stand for?",
+    "options": [
+      "Completely Automated Public Turing test to tell Computers and Humans Apart",
+      "Computer-Aided Pattern Turing Challenge and Human Assessment",
+      "Cyber Automated Public Test for Computer and Human Authentication",
+      "Comprehensive Algorithmic Public Turing Check for Human Access"
+    ],
+    "answer": "Completely Automated Public Turing test to tell Computers and Humans Apart"
+  },
+  {
+    "id": "science-technology-005",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the atomic number of the synthetic element oganesson?",
+    "options": [
+      "120",
+      "118",
+      "116",
+      "114"
+    ],
+    "answer": "118"
+  },
+  {
+    "id": "science-technology-006",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What did the acronym 'LISA' reportedly stand for in the original Apple Lisa computer?",
+    "options": [
+      "Logical Integrated Systems Array",
+      "Low-Input System Architecture",
+      "LISA is not an acronym",
+      "Local Integrated Software Architecture"
+    ],
+    "answer": "Local Integrated Software Architecture"
+  },
+  {
+    "id": "science-technology-007",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What was the name of the first full-text web search engine, launched in 1994?",
+    "options": [
+      "AltaVista",
+      "Yahoo!",
+      "Lycos",
+      "WebCrawler"
+    ],
+    "answer": "WebCrawler"
+  },
+  {
+    "id": "science-technology-008",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What was the first 64-bit x86 processor released for consumer desktops?",
+    "options": [
+      "Intel Pentium 4",
+      "AMD Duron",
+      "AMD Athlon 64",
+      "Intel Core 2 Duo"
+    ],
+    "answer": "AMD Athlon 64"
+  },
+  {
+    "id": "science-technology-009",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What does the acronym 'SSH' stand for in network protocols?",
+    "options": [
+      "Secure Shell",
+      "Secure Socket Host",
+      "System Shell Handler",
+      "Standard Security Handshake"
+    ],
+    "answer": "Secure Shell"
+  },
+  {
+    "id": "science-technology-010",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Which heat-stable DNA polymerase, derived from Thermus aquaticus, is commonly used in PCR?",
+    "options": [
+      "DNA ligase",
+      "Reverse transcriptase",
+      "RNA polymerase",
+      "Taq polymerase"
+    ],
+    "answer": "Taq polymerase"
+  },
+  {
+    "id": "science-technology-011",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What does 'MPEG' stand for?",
+    "options": [
+      "Multimedia Processing Encoding Group",
+      "Moving Picture Experts Group",
+      "Motion Pictures and Entertainment Group",
+      "Multiple Picture Encoding Guideline"
+    ],
+    "answer": "Moving Picture Experts Group"
+  },
+  {
+    "id": "science-technology-012",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What does APFS stand for, the file system introduced by Apple in 2017?",
+    "options": [
+      "Apple File System",
+      "Advanced Performance File System",
+      "Apple Partition and File System",
+      "Automated Personal File Storage"
+    ],
+    "answer": "Apple File System"
+  },
+  {
+    "id": "science-technology-013",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What mineral has a hardness of 9 on the Mohs scale?",
+    "options": [
+      "Topaz",
+      "Quartz",
+      "Corundum",
+      "Diamond"
+    ],
+    "answer": "Corundum"
+  },
+  {
+    "id": "science-technology-014",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the name of the proprietary browser engine used by the Opera web browser from 2003 to 2013?",
+    "options": [
+      "WebKit",
+      "Gecko",
+      "Presto",
+      "Trident"
+    ],
+    "answer": "Presto"
+  },
+  {
+    "id": "science-technology-015",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Which type of quark has a charge of +2/3?",
+    "options": [
+      "Up quark",
+      "Down quark",
+      "Strange quark",
+      "Bottom quark"
+    ],
+    "answer": "Up quark"
+  },
+  {
+    "id": "science-technology-016",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which iPhone model introduced the dual-camera system?",
+    "options": [
+      "iPhone 7 Plus",
+      "iPhone 6s Plus",
+      "iPhone 8 Plus",
+      "iPhone X"
+    ],
+    "answer": "iPhone 7 Plus"
+  },
+  {
+    "id": "science-technology-017",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which console, designed by The 3DO Company and manufactured by Panasonic, was the first to use a CD-ROM as its sole game medium?",
+    "options": [
+      "Atari Jaguar CD",
+      "3DO Interactive Multiplayer",
+      "Sega CD",
+      "Commodore Amiga CD32"
+    ],
+    "answer": "3DO Interactive Multiplayer"
+  },
+  {
+    "id": "science-technology-018",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What noble gas constitutes about 0.93% of the Earth's atmosphere by volume?",
+    "options": [
+      "Neon",
+      "Krypton",
+      "Argon",
+      "Xenon"
+    ],
+    "answer": "Argon"
+  },
+  {
+    "id": "science-technology-019",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the name of the gold-copper alloy often used in jewelry for its pinkish color?",
+    "options": [
+      "White gold",
+      "Rose gold",
+      "Green gold",
+      "Electrum"
+    ],
+    "answer": "Rose gold"
+  },
+  {
+    "id": "science-technology-020",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which Unix shell, developed by Stephen Bourne, is the standard command interpreter?",
+    "options": [
+      "Bourne shell",
+      "Bash shell",
+      "C shell",
+      "Korn shell"
+    ],
+    "answer": "Bourne shell"
+  },
+  {
+    "id": "science-technology-021",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "As of 2026, which company was the first to release a smartphone with an under-display fingerprint sensor?",
+    "options": [
+      "Vivo",
+      "Apple",
+      "Samsung",
+      "OnePlus"
+    ],
+    "answer": "Vivo"
+  },
+  {
+    "id": "science-technology-022",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the name of the theoretical particle that mediates the force of gravity?",
+    "options": [
+      "Graviton",
+      "Photon",
+      "Gluon",
+      "Boson"
+    ],
+    "answer": "Graviton"
+  },
+  {
+    "id": "science-technology-023",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the name of the unit equal to 0.00000001 BTC?",
+    "options": [
+      "Satoshi",
+      "Finney",
+      "Nakamoto",
+      "Bit"
+    ],
+    "answer": "Satoshi"
+  },
+  {
+    "id": "science-technology-024",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What was the internal codename of the first iPod during its development?",
+    "options": [
+      "Manhattan",
+      "Pippin",
+      "Dulcimer",
+      "Newton"
+    ],
+    "answer": "Dulcimer"
+  },
+  {
+    "id": "science-technology-025",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the name of the thermodynamic quantity that combines the internal energy of a system with the product of its pressure and volume?",
+    "options": [
+      "Entropy",
+      "Enthalpy",
+      "Gibbs free energy",
+      "Helmholtz free energy"
+    ],
+    "answer": "Enthalpy"
+  },
+  {
+    "id": "science-technology-026",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the standard port number for the IMAP protocol?",
+    "options": [
+      "110",
+      "143",
+      "25",
+      "993"
+    ],
+    "answer": "143"
+  },
+  {
+    "id": "science-technology-027",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which distributed version control system, initiated in 2005, uses the symbol 'hg' as its command?",
+    "options": [
+      "Git",
+      "Mercurial",
+      "Subversion",
+      "Bazaar"
+    ],
+    "answer": "Mercurial"
+  },
+  {
+    "id": "science-technology-028",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the approximate half-life of carbon-14 in years?",
+    "options": [
+      "5,730",
+      "2,460",
+      "11,460",
+      "14,000"
+    ],
+    "answer": "5,730"
+  },
+  {
+    "id": "science-technology-029",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What does NFC stand for?",
+    "options": [
+      "Network Frequency Control",
+      "Near Field Communication",
+      "Non-Fixed Connection",
+      "Nano Frequency Chip"
+    ],
+    "answer": "Near Field Communication"
+  },
+  {
+    "id": "science-technology-030",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the term for the maximum displacement of a wave from its equilibrium position?",
+    "options": [
+      "Amplitude",
+      "Frequency",
+      "Wavelength",
+      "Period"
+    ],
+    "answer": "Amplitude"
+  },
+  {
+    "id": "science-technology-031",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What was the exact retail price of the Apple I computer in 1976?",
+    "options": [
+      "$666.66",
+      "$999.99",
+      "$500.00",
+      "$250.00"
+    ],
+    "answer": "$666.66"
+  },
+  {
+    "id": "science-technology-032",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the defined value of the triple point of water in kelvin?",
+    "options": [
+      "273.16",
+      "273.15",
+      "373.15",
+      "0"
+    ],
+    "answer": "273.16"
+  },
+  {
+    "id": "science-technology-033",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What was the codename of Google's modular smartphone initiative, cancelled in 2016?",
+    "options": [
+      "Project Tango",
+      "Project Glass",
+      "Project Ara",
+      "Project Fi"
+    ],
+    "answer": "Project Ara"
+  },
+  {
+    "id": "science-technology-034",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the name of the sugar component in the backbone of DNA?",
+    "options": [
+      "Ribose",
+      "Deoxyribose",
+      "Glucose",
+      "Fructose"
+    ],
+    "answer": "Deoxyribose"
+  },
+  {
+    "id": "science-technology-035",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What does BIND stand for in the context of DNS server software?",
+    "options": [
+      "Berkeley Internet Name Domain",
+      "Basic Internet Naming Daemon",
+      "Binary Internet Network Directory",
+      "Broadband Integrated Naming Device"
+    ],
+    "answer": "Berkeley Internet Name Domain"
+  },
+  {
+    "id": "science-technology-036",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which chemical compound, formerly used in refrigerants, is primarily responsible for ozone depletion?",
+    "options": [
+      "Carbon dioxide",
+      "Chlorofluorocarbons",
+      "Methane",
+      "Nitrous oxide"
+    ],
+    "answer": "Chlorofluorocarbons"
+  },
+  {
+    "id": "science-technology-037",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "Which Linux distribution is known for its security-focused design and use of the Xfce desktop environment?",
+    "options": [
+      "Ubuntu",
+      "Fedora",
+      "Kali Linux",
+      "Arch Linux"
+    ],
+    "answer": "Kali Linux"
+  },
+  {
+    "id": "science-technology-038",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Which chemical element has the atomic number 2?",
+    "options": [
+      "Hydrogen",
+      "Lithium",
+      "Helium",
+      "Beryllium"
+    ],
+    "answer": "Helium"
+  },
+  {
+    "id": "science-technology-039",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "In quantum mechanics, what is the term for a discrete packet of light?",
+    "options": [
+      "Gluon",
+      "Boson",
+      "Photon",
+      "Quark"
+    ],
+    "answer": "Photon"
+  },
+  {
+    "id": "science-technology-040",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Which scientist discovered the elements polonium and radium?",
+    "options": [
+      "Lise Meitner",
+      "Rosalind Franklin",
+      "Marie Curie",
+      "Dorothy Hodgkin"
+    ],
+    "answer": "Marie Curie"
+  },
+  {
+    "id": "science-technology-041",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What type of elementary particle is the electron classified as?",
+    "options": [
+      "Lepton",
+      "Baryon",
+      "Meson",
+      "Hadron"
+    ],
+    "answer": "Lepton"
+  },
+  {
+    "id": "science-technology-042",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the medical name for the fear of spiders?",
+    "options": [
+      "Ophidiophobia",
+      "Cynophobia",
+      "Arachnophobia",
+      "Entomophobia"
+    ],
+    "answer": "Arachnophobia"
+  },
+  {
+    "id": "science-technology-043",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the scientific name for the modern human species?",
+    "options": [
+      "Homo neanderthalensis",
+      "Homo erectus",
+      "Homo sapiens",
+      "Homo habilis"
+    ],
+    "answer": "Homo sapiens"
+  },
+  {
+    "id": "science-technology-044",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the name of the smallest bone in the human body, located in the middle ear?",
+    "options": [
+      "Incus",
+      "Stapes",
+      "Malleus",
+      "Femur"
+    ],
+    "answer": "Stapes"
+  },
+  {
+    "id": "science-technology-045",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What does the acronym 'RAM' stand for in computer hardware terminology?",
+    "options": [
+      "Read Access Memory",
+      "Rapid Action Memory",
+      "Random Access Memory",
+      "Run All Memory"
+    ],
+    "answer": "Random Access Memory"
+  },
+  {
+    "id": "science-technology-046",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Which programming language was developed by James Gosling at Sun Microsystems and released in 1995?",
+    "options": [
+      "Python",
+      "C++",
+      "Java",
+      "Ruby"
+    ],
+    "answer": "Java"
+  },
+  {
+    "id": "science-technology-047",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the mathematical term for the sequence of numbers where each number is the sum of the two preceding ones?",
+    "options": [
+      "Prime numbers",
+      "Euler's sequence",
+      "Pascal's triangle",
+      "Fibonacci sequence"
+    ],
+    "answer": "Fibonacci sequence"
+  },
+  {
+    "id": "science-technology-048",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What was the name of the first successful cloned mammal created from an adult somatic cell?",
+    "options": [
+      "Laika the dog",
+      "Albert the monkey",
+      "Dolly the sheep",
+      "Snoopy the cat"
+    ],
+    "answer": "Dolly the sheep"
+  },
+  {
+    "id": "science-technology-049",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What is the only substance that naturally exists in all three states of matter on Earth's surface?",
+    "options": [
+      "Water",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Mercury"
+    ],
+    "answer": "Water"
+  },
+  {
+    "id": "science-technology-050",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Bananas contain a small amount of which radioactive isotope, leading scientists to use the 'Banana Equivalent Dose' as a radiation measurement?",
+    "options": [
+      "Potassium-40",
+      "Carbon-14",
+      "Uranium-238",
+      "Radon-222"
+    ],
+    "answer": "Potassium-40"
+  },
+  {
+    "id": "science-technology-051",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the name of the counterintuitive phenomenon where, under certain conditions, hot water freezes faster than cold water?",
+    "options": [
+      "The Mpemba effect",
+      "The Leidenfrost effect",
+      "The Doppler effect",
+      "The Venturi effect"
+    ],
+    "answer": "The Mpemba effect"
+  },
+  {
+    "id": "science-technology-052",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "Why does ice float on liquid water, a property critical for aquatic life in winter?",
+    "options": [
+      "It is less dense than liquid water",
+      "It contains trapped air bubbles",
+      "It is warmer than surrounding water",
+      "It has a lower melting point"
+    ],
+    "answer": "It is less dense than liquid water"
+  },
+  {
+    "id": "science-technology-053",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "The Slinky toy was invented by accident in 1943 when a naval engineer knocked a spring off a table and observed it do what?",
+    "options": [
+      "Walk down and re-coil upright",
+      "Vibrate continuously",
+      "Glow in the dark",
+      "Stick to the wall"
+    ],
+    "answer": "Walk down and re-coil upright"
+  },
+  {
+    "id": "science-technology-054",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "George de Mestral invented Velcro after noticing cockleburs sticking to what during a walk in the woods?",
+    "options": [
+      "His dog's fur",
+      "His wool coat",
+      "His leather boots",
+      "His canvas bag"
+    ],
+    "answer": "His dog's fur"
+  },
+  {
+    "id": "science-technology-055",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Alfred Nobel discovered that nitroglycerin could be stabilized by mixing it with what common material, leading to the invention of dynamite?",
+    "options": [
+      "Sawdust",
+      "Sand",
+      "Clay",
+      "Charcoal"
+    ],
+    "answer": "Sawdust"
+  },
+  {
+    "id": "science-technology-056",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "Scottish researcher Alexander Fleming discovered penicillin in 1928 after returning from vacation to find mold growing in what?",
+    "options": [
+      "A petri dish of staphylococcus",
+      "A flask of nutrient broth",
+      "A contaminated surgical instrument",
+      "A sample of river water"
+    ],
+    "answer": "A petri dish of staphylococcus"
+  },
+  {
+    "id": "science-technology-057",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What was the name of the first computer network, developed by the U.S. Department of Defense in the late 1960s?",
+    "options": [
+      "ARPANET",
+      "BITNET",
+      "USENET",
+      "FidoNet"
+    ],
+    "answer": "ARPANET"
+  },
+  {
+    "id": "science-technology-058",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the name of the first video game, created in 1958 by physicist William Higinbotham?",
+    "options": [
+      "Tennis for Two",
+      "Pong",
+      "Spacewar!",
+      "Tennis for One"
+    ],
+    "answer": "Tennis for Two"
+  },
+  {
+    "id": "science-technology-059",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Which African-American inventor and engineer was hired by Alexander Graham Bell to draft the drawings for his telephone patent application?",
+    "options": [
+      "Lewis Latimer",
+      "Granville Woods",
+      "Elijah McCoy",
+      "Garrett Morgan"
+    ],
+    "answer": "Lewis Latimer"
+  },
+  {
+    "id": "science-technology-060",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "James Ritty invented the cash register in 1879 after being inspired by a mechanism that counted what on a steamboat?",
+    "options": [
+      "Propeller revolutions",
+      "Engine pistons",
+      "Paddle wheel turns",
+      "Steam whistle blasts"
+    ],
+    "answer": "Propeller revolutions"
+  },
+  {
+    "id": "science-technology-061",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which organ system is often called the 'second brain' because it contains its own independent nervous system with approximately 100 million neurons?",
+    "options": [
+      "The gastrointestinal system",
+      "The cardiovascular system",
+      "The lymphatic system",
+      "The integumentary system"
+    ],
+    "answer": "The gastrointestinal system"
+  },
+  {
+    "id": "science-technology-062",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "The cornea and cartilage are the only two tissues in the human body that share what unusual characteristic?",
+    "options": [
+      "They contain no blood vessels",
+      "They cannot regenerate",
+      "They have no nerve endings",
+      "They are transparent"
+    ],
+    "answer": "They contain no blood vessels"
+  },
+  {
+    "id": "science-technology-063",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Which organism has more genes than humans do?",
+    "options": [
+      "The tomato",
+      "The fruit fly",
+      "The yeast cell",
+      "The roundworm"
+    ],
+    "answer": "The tomato"
+  },
+  {
+    "id": "science-technology-064",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "Which chemical element is represented by the symbol 'Ag'?",
+    "options": [
+      "Gold",
+      "Silver",
+      "Argon",
+      "Aluminum"
+    ],
+    "answer": "Silver"
+  },
+  {
+    "id": "science-technology-065",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "How many colors are in a rainbow?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "7"
+  },
+  {
+    "id": "science-technology-066",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Which element is used in most pencils?",
+    "options": [
+      "Lead",
+      "Graphite",
+      "Charcoal",
+      "Carbon"
+    ],
+    "answer": "Graphite"
+  },
+  {
+    "id": "science-technology-067",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Which element has the symbol 'Au'?",
+    "options": [
+      "Silver",
+      "Copper",
+      "Gold",
+      "Aluminum"
+    ],
+    "answer": "Gold"
+  },
+  {
+    "id": "science-technology-068",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Which scientist is known for his laws of motion?",
+    "options": [
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Albert Einstein",
+      "Charles Darwin"
+    ],
+    "answer": "Isaac Newton"
+  },
+  {
+    "id": "science-technology-069",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the chemical symbol for Helium?",
+    "options": [
+      "H",
+      "He",
+      "Hi",
+      "Hy"
+    ],
+    "answer": "He"
+  },
+  {
+    "id": "science-technology-070",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What is the color of an emerald?",
+    "options": [
+      "Red",
+      "Blue",
+      "Green",
+      "Yellow"
+    ],
+    "answer": "Green"
+  },
+  {
+    "id": "science-technology-071",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the most common element in the human body by mass?",
+    "options": [
+      "Carbon",
+      "Oxygen",
+      "Hydrogen",
+      "Nitrogen"
+    ],
+    "answer": "Oxygen"
+  },
+  {
+    "id": "science-technology-072",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "How many teeth does a normal adult human have?",
+    "options": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "answer": "32"
+  },
+  {
+    "id": "science-technology-073",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which element is found in all organic life forms?",
+    "options": [
+      "Nitrogen",
+      "Carbon",
+      "Sulfur",
+      "Phosphorus"
+    ],
+    "answer": "Carbon"
+  },
+  {
+    "id": "science-technology-074",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Who discovered penicillin?",
+    "options": [
+      "Louis Pasteur",
+      "Alexander Fleming",
+      "Marie Curie",
+      "Edward Jenner"
+    ],
+    "answer": "Alexander Fleming"
+  },
+  {
+    "id": "science-technology-075",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Approximately how fast does light travel in a vacuum?",
+    "options": [
+      "300,000 km per second",
+      "150,000 km per second",
+      "30,000 km per second",
+      "3,000,000 km per second"
+    ],
+    "answer": "300,000 km per second"
+  },
+  {
+    "id": "science-technology-076",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "In what year was the first iPhone released in the United States?",
+    "options": [
+      "2005",
+      "2006",
+      "2007",
+      "2008"
+    ],
+    "answer": "2007"
+  },
+  {
+    "id": "science-technology-077",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the largest solid internal organ in the human body?",
+    "options": [
+      "Lungs",
+      "Liver",
+      "Brain",
+      "Kidneys"
+    ],
+    "answer": "Liver"
+  },
+  {
+    "id": "science-technology-078",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "How many bones are in a single human hand (excluding sesamoid bones)?",
+    "options": [
+      "21",
+      "24",
+      "27",
+      "30"
+    ],
+    "answer": "27"
+  },
+  {
+    "id": "science-technology-079",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "In what year was the first networked email sent by Ray Tomlinson?",
+    "options": [
+      "1969",
+      "1971",
+      "1975",
+      "1978"
+    ],
+    "answer": "1971"
+  },
+  {
+    "id": "science-technology-080",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "How many bones are in a single human foot?",
+    "options": [
+      "22",
+      "24",
+      "26",
+      "28"
+    ],
+    "answer": "26"
+  },
+  {
+    "id": "science-technology-081",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the chemical symbol for copper?",
+    "options": [
+      "Co",
+      "Cp",
+      "Cu",
+      "Cr"
+    ],
+    "answer": "Cu"
+  },
+  {
+    "id": "science-technology-082",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the chemical symbol for mercury?",
+    "options": [
+      "Me",
+      "Mc",
+      "Hg",
+      "Hy"
+    ],
+    "answer": "Hg"
+  },
+  {
+    "id": "science-technology-083",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Who is credited with inventing the computer mouse, first publicly demonstrated in 1968?",
+    "options": [
+      "Bill English",
+      "Douglas Engelbart",
+      "Steve Jobs",
+      "Alan Kay"
+    ],
+    "answer": "Douglas Engelbart"
+  },
+  {
+    "id": "science-technology-084",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the chemical symbol for zinc?",
+    "options": [
+      "Zc",
+      "Zn",
+      "Zi",
+      "Zk"
+    ],
+    "answer": "Zn"
+  },
+  {
+    "id": "science-technology-085",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "In what year was the first product scanned with a UPC barcode at a supermarket checkout?",
+    "options": [
+      "1969",
+      "1974",
+      "1979",
+      "1984"
+    ],
+    "answer": "1974"
+  },
+  {
+    "id": "science-technology-086",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "In what year was the first recognized spam email sent, by Gary Thuerk?",
+    "options": [
+      "1971",
+      "1978",
+      "1985",
+      "1990"
+    ],
+    "answer": "1978"
+  },
+  {
+    "id": "science-technology-087",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "In what year was the first SMS text message sent?",
+    "options": [
+      "1988",
+      "1990",
+      "1992",
+      "1995"
+    ],
+    "answer": "1992"
+  },
+  {
+    "id": "science-technology-088",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "In what year was the first Navstar GPS satellite launched?",
+    "options": [
+      "1973",
+      "1978",
+      "1983",
+      "1989"
+    ],
+    "answer": "1978"
+  },
+  {
+    "id": "science-technology-089",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What is the chemical symbol for calcium?",
+    "options": [
+      "C",
+      "Ca",
+      "Cl",
+      "Cm"
+    ],
+    "answer": "Ca"
+  },
+  {
+    "id": "science-technology-090",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "In what year was the first video, 'Me at the zoo,' uploaded to YouTube?",
+    "options": [
+      "2004",
+      "2005",
+      "2006",
+      "2007"
+    ],
+    "answer": "2005"
+  },
+  {
+    "id": "science-technology-091",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the chemical symbol for chlorine?",
+    "options": [
+      "Ch",
+      "Cl",
+      "Cn",
+      "Cr"
+    ],
+    "answer": "Cl"
+  },
+  {
+    "id": "science-technology-092",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "The Motorola DynaTAC 8000X, the first commercially approved handheld cell phone, was unveiled in which year?",
+    "options": [
+      "1979",
+      "1983",
+      "1987",
+      "1991"
+    ],
+    "answer": "1983"
+  },
+  {
+    "id": "science-technology-093",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Who formulated the law of universal gravitation?",
+    "options": [
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Johannes Kepler",
+      "Nicolaus Copernicus"
+    ],
+    "answer": "Isaac Newton"
+  },
+  {
+    "id": "science-technology-094",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the name of the first woman to win a Nobel Prize in Physics?",
+    "options": [
+      "Marie Curie",
+      "Irene Joliot-Curie",
+      "Lise Meitner",
+      "Maria Goeppert-Mayer"
+    ],
+    "answer": "Marie Curie"
+  },
+  {
+    "id": "science-technology-095",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the name of the first successful human heart transplant surgeon?",
+    "options": [
+      "Christiaan Barnard",
+      "Norman Shumway",
+      "Richard Lower",
+      "Adrian Kantrowitz"
+    ],
+    "answer": "Christiaan Barnard"
+  },
+  {
+    "id": "science-technology-096",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the name of the first successful human-powered aircraft to achieve controlled flight?",
+    "options": [
+      "Gossamer Condor",
+      "Gossamer Albatross",
+      "Daedalus",
+      "Helios"
+    ],
+    "answer": "Gossamer Condor"
+  },
+  {
+    "id": "science-technology-097",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the name of the first successful human liver transplant surgeon?",
+    "options": [
+      "Thomas Starzl",
+      "Christiaan Barnard",
+      "Norman Shumway",
+      "Joseph Murray"
+    ],
+    "answer": "Thomas Starzl"
+  },
+  {
+    "id": "science-technology-098",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the name of the first successful human kidney transplant surgeon?",
+    "options": [
+      "Joseph Murray",
+      "Christiaan Barnard",
+      "Thomas Starzl",
+      "Norman Shumway"
+    ],
+    "answer": "Joseph Murray"
+  },
+  {
+    "id": "science-technology-099",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the name of the first successful human bone marrow transplant surgeon?",
+    "options": [
+      "E. Donnall Thomas",
+      "Joseph Murray",
+      "Christiaan Barnard",
+      "Thomas Starzl"
+    ],
+    "answer": "E. Donnall Thomas"
+  },
+  {
+    "id": "science-technology-100",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the name of the first woman to win a Fields Medal in mathematics?",
+    "options": [
+      "Maryam Mirzakhani",
+      "Emmy Noether",
+      "Sophie Germain",
+      "Hypatia"
+    ],
+    "answer": "Maryam Mirzakhani"
+  },
+  {
+    "id": "science-technology-101",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the name of the first successful human pancreas transplant surgeon?",
+    "options": [
+      "Richard Lillehei",
+      "Christiaan Barnard",
+      "Thomas Starzl",
+      "Joseph Murray"
+    ],
+    "answer": "Richard Lillehei"
+  },
+  {
+    "id": "science-technology-102",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Who is credited with creating the first periodic table of elements?",
+    "options": [
+      "John Dalton",
+      "Antoine Lavoisier",
+      "Robert Boyle",
+      "Dmitri Mendeleev"
+    ],
+    "answer": "Dmitri Mendeleev"
+  },
+  {
+    "id": "science-technology-103",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Who is credited with discovering X-rays?",
+    "options": [
+      "Wilhelm Röntgen",
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Heinrich Hertz"
+    ],
+    "answer": "Wilhelm Röntgen"
+  },
+  {
+    "id": "science-technology-104",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Who is generally credited with inventing the first practical telephone?",
+    "options": [
+      "Elisha Gray",
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "Nikola Tesla"
+    ],
+    "answer": "Alexander Graham Bell"
+  },
+  {
+    "id": "science-technology-105",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Who is credited with inventing the first email program?",
+    "options": [
+      "Ray Tomlinson",
+      "Tim Berners-Lee",
+      "Vint Cerf",
+      "Bob Kahn"
+    ],
+    "answer": "Ray Tomlinson"
+  },
+  {
+    "id": "science-technology-106",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Who is generally credited with inventing the first practical incandescent light bulb?",
+    "options": [
+      "Joseph Swan",
+      "Nikola Tesla",
+      "Thomas Edison",
+      "Humphry Davy"
+    ],
+    "answer": "Thomas Edison"
+  },
+  {
+    "id": "science-technology-107",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Who is generally credited with inventing the first practical automobile?",
+    "options": [
+      "Henry Ford",
+      "Gottlieb Daimler",
+      "Nikolaus Otto",
+      "Karl Benz"
+    ],
+    "answer": "Karl Benz"
+  },
+  {
+    "id": "science-technology-108",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Who is credited with inventing the first practical telescope?",
+    "options": [
+      "Hans Lippershey",
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Johannes Kepler"
+    ],
+    "answer": "Hans Lippershey"
+  },
+  {
+    "id": "science-technology-109",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the chemical symbol for antimony?",
+    "options": [
+      "An",
+      "At",
+      "Am",
+      "Sb"
+    ],
+    "answer": "Sb"
+  },
+  {
+    "id": "science-technology-110",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the chemical symbol for uranium?",
+    "options": [
+      "Ur",
+      "Un",
+      "U",
+      "Um"
+    ],
+    "answer": "U"
+  },
+  {
+    "id": "science-technology-111",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "In what year did Karl Benz patent the first practical automobile?",
+    "options": [
+      "1885",
+      "1886",
+      "1887",
+      "1888"
+    ],
+    "answer": "1886"
+  },
+  {
+    "id": "science-technology-112",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "In what year is Alexander Graham Bell generally credited with making the first intelligible telephone call?",
+    "options": [
+      "1875",
+      "1876",
+      "1877",
+      "1878"
+    ],
+    "answer": "1876"
   }
 ]

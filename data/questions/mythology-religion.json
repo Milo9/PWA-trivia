@@ -2351,5 +2351,44 @@
       "The gods would grant the family good fortune"
     ],
     "answer": "The soul could live on in the afterlife"
+  },
+  {
+    "id": "mythology-religion-001",
+    "category": "mythology-religion",
+    "difficulty": "hard",
+    "question": "In Arthurian legend, what is the name of King Arthur's sword?",
+    "options": [
+      "Arondight",
+      "Clarent",
+      "Galatine",
+      "Excalibur"
+    ],
+    "answer": "Excalibur"
+  },
+  {
+    "id": "mythology-religion-002",
+    "category": "mythology-religion",
+    "difficulty": "medium",
+    "question": "In Homer's 'Odyssey,' what is the name of Odysseus's loyal dog, who dies of joy upon recognizing his master after decades apart?",
+    "options": [
+      "Argos",
+      "Cerberus",
+      "Laelaps",
+      "Barghest"
+    ],
+    "answer": "Argos"
+  },
+  {
+    "id": "mythology-religion-003",
+    "category": "mythology-religion",
+    "difficulty": "hard",
+    "question": "In Greek mythology, who is the goddess of wisdom?",
+    "options": [
+      "Hera",
+      "Aphrodite",
+      "Athena",
+      "Artemis"
+    ],
+    "answer": "Athena"
   }
 ]

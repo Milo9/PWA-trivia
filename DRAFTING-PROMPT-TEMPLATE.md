@@ -114,11 +114,32 @@ relevant category's list when drafting for that category specifically.
 
 #### history
 
-*(none logged yet)*
+- Year of the Great Fire of London (1666)
+- Year the French Revolution began (1789)
+- Year the Suez Canal opened (1869)
+- Year WWI began / WWII ended (1914 / 1945)
+- Year the Berlin Wall fell (1989)
+- Who was the first US President (George Washington)
+- Which country gifted the Statue of Liberty to the US (France)
+- First woman to fly solo across the Atlantic (Amelia Earhart)
+- Name of the first artificial Earth satellite (Sputnik 1)
 
 #### geography
 
-*(none logged yet)*
+- Capital-city lookups for major/well-known countries (China, Germany,
+  Brazil, Egypt, Australia, Spain, Russia, India, Canada, France, Italy,
+  Bhutan, Japan, Mongolia, etc.) — near-guaranteed collision territory,
+  favor capitals of less-common countries instead
+- Largest continent by land area (Asia)
+- Country with the longest coastline (Canada)
+- Country home to the Great Barrier Reef (Australia)
+- Largest ocean (Pacific)
+- Tallest mountain in Africa (Kilimanjaro)
+- Smallest country in the world by land area (Vatican City)
+- Tallest building in the world, time-pinned (Burj Khalifa)
+- Country known as "Land of the Rising Sun" (Japan)
+- Longest river in the world (Nile)
+- Japan's official currency (Yen)
 
 #### science-technology
 
@@ -130,31 +151,64 @@ relevant category's list when drafting for that category specifically.
 - SI unit of electrical resistance (ohm)
 - Chemical symbol for potassium (K)
 - Subatomic particle with no electric charge (neutron)
+- Chemical symbol lookups for common elements (silver/Ag, gold/Au,
+  copper/Cu, iron/Fe, helium/He, mercury/Hg, sodium/Na, lead/Pb, tin/Sn) —
+  very high collision rate, favor less-common elements
+- Boiling point of water at sea level (100°C)
+- SI unit of electric current (Ampere) / electrical capacitance (Farad)
+- Longest bone in the human body (Femur)
+- Number of chambers in the human heart (Four)
+- Largest organ in the human body (Skin)
+- Element with atomic number 1 (Hydrogen)
+- Newton's laws of motion / universal gravitation
+- Metal that's liquid at room temperature (Mercury)
+- Most abundant gas in Earth's atmosphere (Nitrogen) — note: "most
+  abundant NOBLE gas" (Argon) is a different, still-valid fact, not a dupe
+- Who discovered penicillin (Alexander Fleming)
+- "First successful human [organ] transplant surgeon" template — heart
+  (Christiaan Barnard), liver (Thomas Starzl), kidney (Joseph Murray),
+  lung (James Hardy), pancreas (Richard Lillehei), bone marrow (E. Donnall
+  Thomas) are all now covered; a heart-LUNG transplant question collided
+  with the existing heart-transplant one specifically
 
 #### animals-nature
 
-*(none logged yet)*
+- How many legs a spider has (Eight)
+- Largest mammal in the world (Blue Whale)
+- How many hearts an octopus has (Three)
 
 #### space-astronomy
 
 - Smallest planet in the solar system (Mercury)
 - Which planet has the most moons (Saturn)
+- Largest planet in the solar system (Jupiter)
+- Which planet is known as the "Red Planet" (Mars)
+- Planet closest to the Sun (Mercury)
 
 #### arts-literature
 
-*(none logged yet)*
+- Who wrote "The Divine Comedy" (Dante Alighieri)
+- Who wrote "Crime and Punishment" (Fyodor Dostoevsky)
+- Who wrote "Pride and Prejudice" (Jane Austen)
+- Who wrote "War and Peace" (Leo Tolstoy)
+- Who painted the "Mona Lisa" (Leonardo da Vinci)
+- Who painted "The Starry Night" (Vincent van Gogh)
+- Who wrote "Don Quixote" (Miguel de Cervantes)
+- Which fairy tale character leaves a glass slipper (Cinderella)
+- Who wrote "Romeo and Juliet" (William Shakespeare) — this one collided
+  three separate times across different drafting agents in a single batch
 
 #### film-tv
 
-*(none logged yet)*
+- Who played the title role in "Forrest Gump" (Tom Hanks)
 
 #### music
 
-*(none logged yet)*
+- Who composed "The Four Seasons" (Antonio Vivaldi)
 
 #### sports
 
-*(none logged yet)*
+- Which country won the first FIFA World Cup (Uruguay)
 
 #### food-drink
 
@@ -162,7 +216,7 @@ relevant category's list when drafting for that category specifically.
 
 #### mythology-religion
 
-*(none logged yet)*
+- Name of Thor's hammer in Norse mythology (Mjölnir)
 
 #### world-cultures
 
@@ -170,7 +224,8 @@ relevant category's list when drafting for that category specifically.
 
 #### general (catch-all)
 
-*(none logged yet)*
+- How many continents there are (Seven)
+- How many sides a hexagon has (Six)
 
 ### friends
 

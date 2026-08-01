@@ -726,5 +726,148 @@
       "Lost it while traveling and never recovered it"
     ],
     "answer": "Sold it to help cover medical expenses"
+  },
+  {
+    "id": "general-2972",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "How many individual squares are there on a standard chessboard?",
+    "options": [
+      "100",
+      "81",
+      "144",
+      "64"
+    ],
+    "answer": "64"
+  },
+  {
+    "id": "general-2973",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How many sides does a triangle have?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": "general-2974",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which direction does the sun rise from?",
+    "options": [
+      "North",
+      "South",
+      "East",
+      "West"
+    ],
+    "answer": "East"
+  },
+  {
+    "id": "general-2975",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How many months are in a year?",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "answer": "12"
+  },
+  {
+    "id": "general-2976",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How many hours are in a day?",
+    "options": [
+      "12",
+      "24",
+      "36",
+      "48"
+    ],
+    "answer": "24"
+  },
+  {
+    "id": "general-2977",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How many sides does a square have?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": "general-2978",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How many legs does a human have?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": "general-2979",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How many years are in a century?",
+    "options": [
+      "10",
+      "50",
+      "100",
+      "1000"
+    ],
+    "answer": "100"
+  },
+  {
+    "id": "general-2980",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which color is made by mixing blue and yellow?",
+    "options": [
+      "Purple",
+      "Green",
+      "Orange",
+      "Brown"
+    ],
+    "answer": "Green"
+  },
+  {
+    "id": "general-2981",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "How many sides does a dodecagon have?",
+    "options": [
+      "Ten",
+      "Eleven",
+      "Twelve",
+      "Fourteen"
+    ],
+    "answer": "Twelve"
+  },
+  {
+    "id": "general-2982",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How many wheels does a standard shopping cart usually have?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Six"
+    ],
+    "answer": "Four"
   }
 ]

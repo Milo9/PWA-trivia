@@ -1922,5 +1922,122 @@
       "Harira"
     ],
     "answer": "Tagine"
+  },
+  {
+    "id": "food-drink-001",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "Which type of beans are traditionally used to make authentic Italian minestrone soup?",
+    "options": [
+      "Borlotti beans",
+      "Kidney beans",
+      "Cannellini beans",
+      "Pinto beans"
+    ],
+    "answer": "Borlotti beans"
+  },
+  {
+    "id": "food-drink-002",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "Which country is the origin of the semi-hard, unripened cheese 'Halloumi'?",
+    "options": [
+      "Greece",
+      "Italy",
+      "Turkey",
+      "Cyprus"
+    ],
+    "answer": "Cyprus"
+  },
+  {
+    "id": "food-drink-003",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the name of the traditional Japanese alcoholic beverage made from fermented rice?",
+    "options": [
+      "Soju",
+      "Shochu",
+      "Sake",
+      "Mirin"
+    ],
+    "answer": "Sake"
+  },
+  {
+    "id": "food-drink-004",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the most expensive spice in the world by weight?",
+    "options": [
+      "Vanilla",
+      "Cardamom",
+      "Saffron",
+      "Cinnamon"
+    ],
+    "answer": "Saffron"
+  },
+  {
+    "id": "food-drink-005",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "In French cooking, a 'mirepoix' consists of onions, carrots, and which other vegetable?",
+    "options": [
+      "Garlic",
+      "Leek",
+      "Celery",
+      "Bell pepper"
+    ],
+    "answer": "Celery"
+  },
+  {
+    "id": "food-drink-006",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the main flavor profile of the liqueur Kahlúa?",
+    "options": [
+      "Chocolate",
+      "Orange",
+      "Coffee",
+      "Hazelnut"
+    ],
+    "answer": "Coffee"
+  },
+  {
+    "id": "food-drink-007",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "Which cocktail is made with vodka, spicy ginger beer, and lime juice, often served in a copper mug?",
+    "options": [
+      "Dark 'n' Stormy",
+      "Bloody Mary",
+      "White Russian",
+      "Moscow Mule"
+    ],
+    "answer": "Moscow Mule"
+  },
+  {
+    "id": "food-drink-008",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "The ice cream cone is said to have been invented at the 1904 World's Fair in St. Louis when a vendor ran out of cups and used what instead?",
+    "options": [
+      "Waffle pastries",
+      "Paper cones",
+      "Banana leaves",
+      "Bread rolls"
+    ],
+    "answer": "Waffle pastries"
+  },
+  {
+    "id": "food-drink-009",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "Which country is the largest producer of cocoa?",
+    "options": [
+      "Ivory Coast",
+      "Ghana",
+      "Nigeria",
+      "Cameroon"
+    ],
+    "answer": "Ivory Coast"
   }
 ]

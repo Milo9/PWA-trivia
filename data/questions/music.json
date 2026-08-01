@@ -2260,5 +2260,161 @@
       "Danny Elfman"
     ],
     "answer": "John Williams"
+  },
+  {
+    "id": "music-001",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which famous musician composed the 1973 instrumental 'Tubular Bells'?",
+    "options": [
+      "Jean-Michel Jarre",
+      "Vangelis",
+      "Yanni",
+      "Mike Oldfield"
+    ],
+    "answer": "Mike Oldfield"
+  },
+  {
+    "id": "music-002",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "What is the name of the keyboardist for The Doors?",
+    "options": [
+      "Robby Krieger",
+      "John Densmore",
+      "Ray Manzarek",
+      "Ian Gillan"
+    ],
+    "answer": "Ray Manzarek"
+  },
+  {
+    "id": "music-003",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which British punk band released the album 'London Calling' in 1979?",
+    "options": [
+      "The Clash",
+      "The Sex Pistols",
+      "The Ramones",
+      "The Damned"
+    ],
+    "answer": "The Clash"
+  },
+  {
+    "id": "music-004",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which artist released the double album 'Songs in the Key of Life' in 1976?",
+    "options": [
+      "Stevie Wonder",
+      "Marvin Gaye",
+      "Stevie Ray Vaughan",
+      "Ray Charles"
+    ],
+    "answer": "Stevie Wonder"
+  },
+  {
+    "id": "music-005",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which band recorded the 1979 concept album 'The Wall'?",
+    "options": [
+      "Pink Floyd",
+      "Led Zeppelin",
+      "The Who",
+      "Genesis"
+    ],
+    "answer": "Pink Floyd"
+  },
+  {
+    "id": "music-006",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which Baroque composer is known for the violin concerti collectively titled 'The Four Seasons'?",
+    "options": [
+      "Antonio Vivaldi",
+      "Johann Sebastian Bach",
+      "George Frideric Handel",
+      "Arcangelo Corelli"
+    ],
+    "answer": "Antonio Vivaldi"
+  },
+  {
+    "id": "music-007",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which Queen album, released in 1975, features the six-minute operatic rock suite 'Bohemian Rhapsody'?",
+    "options": [
+      "A Night at the Opera",
+      "Sheer Heart Attack",
+      "News of the World",
+      "A Day at the Races"
+    ],
+    "answer": "A Night at the Opera"
+  },
+  {
+    "id": "music-008",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "How many keys are on a standard full-size piano?",
+    "options": [
+      "76",
+      "82",
+      "88",
+      "92"
+    ],
+    "answer": "88"
+  },
+  {
+    "id": "music-009",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Who composed 'The Rite of Spring'?",
+    "options": [
+      "Sergei Rachmaninoff",
+      "Igor Stravinsky",
+      "Pyotr Ilyich Tchaikovsky",
+      "Richard Wagner"
+    ],
+    "answer": "Igor Stravinsky"
+  },
+  {
+    "id": "music-010",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "As of 2026, who is the best-selling music artist of all time?",
+    "options": [
+      "Elvis Presley",
+      "Michael Jackson",
+      "The Beatles",
+      "Madonna"
+    ],
+    "answer": "The Beatles"
+  },
+  {
+    "id": "music-011",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which artist is commonly known as the 'King of Pop'?",
+    "options": [
+      "Elvis Presley",
+      "Michael Jackson",
+      "Prince",
+      "Freddie Mercury"
+    ],
+    "answer": "Michael Jackson"
+  },
+  {
+    "id": "music-012",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Who was the lead singer of the band Queen?",
+    "options": [
+      "Brian May",
+      "Roger Taylor",
+      "John Deacon",
+      "Freddie Mercury"
+    ],
+    "answer": "Freddie Mercury"
   }
 ]

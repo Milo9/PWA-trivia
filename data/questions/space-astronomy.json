@@ -2117,5 +2117,434 @@
       "1961"
     ],
     "answer": "1957"
+  },
+  {
+    "id": "space-astronomy-001",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "As of 2026, which galaxy holds the record for being the largest known in the observable universe by diameter?",
+    "options": [
+      "Messier 87",
+      "IC 1101",
+      "Andromeda",
+      "Centaurus A"
+    ],
+    "answer": "IC 1101"
+  },
+  {
+    "id": "space-astronomy-002",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What does the acronym CNO stand for in the CNO cycle of stellar nucleosynthesis?",
+    "options": [
+      "Carbon-Nitrogen-Oxygen",
+      "Calcium-Neon-Osmium",
+      "Chromium-Nickel-Oxygen",
+      "Copper-Niobium-Osmium"
+    ],
+    "answer": "Carbon-Nitrogen-Oxygen"
+  },
+  {
+    "id": "space-astronomy-003",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which moon of Neptune is the only large moon in the solar system to orbit its planet in a retrograde direction?",
+    "options": [
+      "Titan",
+      "Europa",
+      "Callisto",
+      "Triton"
+    ],
+    "answer": "Triton"
+  },
+  {
+    "id": "space-astronomy-004",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the name of the phenomenon where light is bent due to gravity?",
+    "options": [
+      "Gravitational lensing",
+      "Quantum entanglement",
+      "Redshift",
+      "Parallax"
+    ],
+    "answer": "Gravitational lensing"
+  },
+  {
+    "id": "space-astronomy-005",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "According to theory, black holes can emit thermal radiation, known as what?",
+    "options": [
+      "Hawking radiation",
+      "Cherenkov radiation",
+      "Bremsstrahlung",
+      "Synchrotron radiation"
+    ],
+    "answer": "Hawking radiation"
+  },
+  {
+    "id": "space-astronomy-006",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which gas in Neptune's atmosphere absorbs red light, causing it to appear blue?",
+    "options": [
+      "Methane",
+      "Nitrogen",
+      "Oxygen",
+      "Helium"
+    ],
+    "answer": "Methane"
+  },
+  {
+    "id": "space-astronomy-007",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What is the scientific term for the 'northern lights'?",
+    "options": [
+      "Aurora borealis",
+      "Aurora australis",
+      "Bioluminescence",
+      "Starlight"
+    ],
+    "answer": "Aurora borealis"
+  },
+  {
+    "id": "space-astronomy-008",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which moon in the solar system is known to have a dense atmosphere composed primarily of nitrogen?",
+    "options": [
+      "Europa",
+      "Ganymede",
+      "Triton",
+      "Titan"
+    ],
+    "answer": "Titan"
+  },
+  {
+    "id": "space-astronomy-009",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What was the name of the first dog to orbit the Earth in space?",
+    "options": [
+      "Belka",
+      "Laika",
+      "Strelka",
+      "Musha"
+    ],
+    "answer": "Laika"
+  },
+  {
+    "id": "space-astronomy-010",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Who was the first person to conduct a spacewalk?",
+    "options": [
+      "Yuri Gagarin",
+      "Alexei Leonov",
+      "Neil Armstrong",
+      "John Glenn"
+    ],
+    "answer": "Alexei Leonov"
+  },
+  {
+    "id": "space-astronomy-011",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which planet in our solar system has a rotational period that is longer than its orbital period?",
+    "options": [
+      "Venus",
+      "Mercury",
+      "Uranus",
+      "Neptune"
+    ],
+    "answer": "Venus"
+  },
+  {
+    "id": "space-astronomy-012",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the name of the heavily cratered moon of Saturn that resembles the Death Star?",
+    "options": [
+      "Mimas",
+      "Iapetus",
+      "Enceladus",
+      "Tethys"
+    ],
+    "answer": "Mimas"
+  },
+  {
+    "id": "space-astronomy-013",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Who was the second person to walk on the moon?",
+    "options": [
+      "Neil Armstrong",
+      "Michael Collins",
+      "Pete Conrad",
+      "Buzz Aldrin"
+    ],
+    "answer": "Buzz Aldrin"
+  },
+  {
+    "id": "space-astronomy-014",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which gas makes up the majority of the Sun's elemental composition?",
+    "options": [
+      "Helium",
+      "Hydrogen",
+      "Oxygen",
+      "Carbon"
+    ],
+    "answer": "Hydrogen"
+  },
+  {
+    "id": "space-astronomy-015",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Approximately how much mass does the Sun lose every second due to the solar wind?",
+    "options": [
+      "One billion kilograms",
+      "One million kilograms",
+      "One trillion kilograms",
+      "One hundred million kilograms"
+    ],
+    "answer": "One billion kilograms"
+  },
+  {
+    "id": "space-astronomy-016",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "According to measurements by lunar missions, what is the true shape of the Moon?",
+    "options": [
+      "Lemon-shaped",
+      "Perfectly spherical",
+      "Egg-shaped",
+      "Flattened disc"
+    ],
+    "answer": "Lemon-shaped"
+  },
+  {
+    "id": "space-astronomy-017",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Neptune takes about 165 years to orbit the Sun. In what year did it complete its first full orbit since being discovered in 1846?",
+    "options": [
+      "2011",
+      "2001",
+      "1996",
+      "2026"
+    ],
+    "answer": "2011"
+  },
+  {
+    "id": "space-astronomy-018",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "On which planet does a single day (one full rotation) last longer than a single year (one full orbit around the Sun)?",
+    "options": [
+      "Venus",
+      "Mercury",
+      "Mars",
+      "Jupiter"
+    ],
+    "answer": "Venus"
+  },
+  {
+    "id": "space-astronomy-019",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which planet in our solar system has a magnetosphere so large that, if visible, it would appear bigger than the full Moon in our sky?",
+    "options": [
+      "Jupiter",
+      "Saturn",
+      "Earth",
+      "Neptune"
+    ],
+    "answer": "Jupiter"
+  },
+  {
+    "id": "space-astronomy-020",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "If you could find a bathtub large enough, which planet would actually float in water?",
+    "options": [
+      "Saturn",
+      "Jupiter",
+      "Uranus",
+      "Neptune"
+    ],
+    "answer": "Saturn"
+  },
+  {
+    "id": "space-astronomy-021",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Saturn's main ring system spans about 282,000 kilometers across. Approximately how thick is it in most places?",
+    "options": [
+      "About 10 meters",
+      "About 1 kilometer",
+      "About 100 meters",
+      "About 1,000 meters"
+    ],
+    "answer": "About 10 meters"
+  },
+  {
+    "id": "space-astronomy-022",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "On which exoplanet does the atmosphere contain silicate particles that are whipped into horizontal winds, creating a rain of molten glass?",
+    "options": [
+      "HD 189733b",
+      "Kepler-186f",
+      "Proxima Centauri b",
+      "TRAPPIST-1e"
+    ],
+    "answer": "HD 189733b"
+  },
+  {
+    "id": "space-astronomy-023",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What is the name of the star at the center of our solar system?",
+    "options": [
+      "Sirius",
+      "Proxima Centauri",
+      "The Sun",
+      "Polaris"
+    ],
+    "answer": "The Sun"
+  },
+  {
+    "id": "space-astronomy-024",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Which planet is known as the 'Evening Star'?",
+    "options": [
+      "Mars",
+      "Jupiter",
+      "Venus",
+      "Saturn"
+    ],
+    "answer": "Venus"
+  },
+  {
+    "id": "space-astronomy-025",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What is the name of the galaxy we live in?",
+    "options": [
+      "Andromeda",
+      "Milky Way",
+      "Sombrero",
+      "Triangulum"
+    ],
+    "answer": "Milky Way"
+  },
+  {
+    "id": "space-astronomy-026",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Which planet is known for its rings?",
+    "options": [
+      "Jupiter",
+      "Saturn",
+      "Uranus",
+      "Neptune"
+    ],
+    "answer": "Saturn"
+  },
+  {
+    "id": "space-astronomy-027",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "In what year did humans first walk on the Moon?",
+    "options": [
+      "1965",
+      "1967",
+      "1969",
+      "1971"
+    ],
+    "answer": "1969"
+  },
+  {
+    "id": "space-astronomy-028",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the name of the first artificial satellite launched by the United States?",
+    "options": [
+      "Explorer 1",
+      "Vanguard 1",
+      "Telstar 1",
+      "Echo 1"
+    ],
+    "answer": "Explorer 1"
+  },
+  {
+    "id": "space-astronomy-029",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What is the name of the first successful human spaceflight program?",
+    "options": [
+      "Vostok",
+      "Mercury",
+      "Apollo",
+      "Gemini"
+    ],
+    "answer": "Vostok"
+  },
+  {
+    "id": "space-astronomy-030",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the name of the first man-made satellite to orbit the Earth?",
+    "options": [
+      "Sputnik 1",
+      "Explorer 1",
+      "Vanguard 1",
+      "Telstar 1"
+    ],
+    "answer": "Sputnik 1"
+  },
+  {
+    "id": "space-astronomy-031",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "In what year did Yuri Gagarin become the first human in space?",
+    "options": [
+      "1957",
+      "1961",
+      "1963",
+      "1965"
+    ],
+    "answer": "1961"
+  },
+  {
+    "id": "space-astronomy-032",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which country launched the first artificial satellite, Sputnik 1?",
+    "options": [
+      "Soviet Union",
+      "United States",
+      "China",
+      "United Kingdom"
+    ],
+    "answer": "Soviet Union"
+  },
+  {
+    "id": "space-astronomy-033",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Which country was the first to land a human on the Moon?",
+    "options": [
+      "Soviet Union",
+      "China",
+      "United States",
+      "India"
+    ],
+    "answer": "United States"
   }
 ]

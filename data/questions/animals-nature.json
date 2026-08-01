@@ -2208,5 +2208,850 @@
       "Fledgling"
     ],
     "answer": "Cygnet"
+  },
+  {
+    "id": "animals-nature-001",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "As of 2026, which mammal holds the record for the deepest recorded dive?",
+    "options": [
+      "Cuvier's beaked whale",
+      "Sperm whale",
+      "Elephant seal",
+      "Blue whale"
+    ],
+    "answer": "Cuvier's beaked whale"
+  },
+  {
+    "id": "animals-nature-002",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "What is the collective noun for a group of ferrets?",
+    "options": [
+      "A business",
+      "A colony",
+      "A pack",
+      "A herd"
+    ],
+    "answer": "A business"
+  },
+  {
+    "id": "animals-nature-003",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "The tube-lipped nectar bat stores its extraordinarily long tongue in which part of its body?",
+    "options": [
+      "Its rib cage",
+      "Its stomach",
+      "Its tail",
+      "Its skull"
+    ],
+    "answer": "Its rib cage"
+  },
+  {
+    "id": "animals-nature-004",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "What type of animal is a quokka?",
+    "options": [
+      "Marsupial",
+      "Rodent",
+      "Primate",
+      "Canid"
+    ],
+    "answer": "Marsupial"
+  },
+  {
+    "id": "animals-nature-005",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "As of 2026, which bird has the largest wingspan of any living bird?",
+    "options": [
+      "Wandering albatross",
+      "Andean condor",
+      "Southern royal albatross",
+      "Marabou stork"
+    ],
+    "answer": "Wandering albatross"
+  },
+  {
+    "id": "animals-nature-006",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Which deep-sea shark, often called a 'living fossil', has a body resembling an eel?",
+    "options": [
+      "Goblin shark",
+      "Sixgill shark",
+      "Frilled shark",
+      "Thresher shark"
+    ],
+    "answer": "Frilled shark"
+  },
+  {
+    "id": "animals-nature-007",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "What is the only continent on Earth where native bees are not found?",
+    "options": [
+      "Antarctica",
+      "Africa",
+      "South America",
+      "Asia"
+    ],
+    "answer": "Antarctica"
+  },
+  {
+    "id": "animals-nature-008",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "As of 2026, which bird is recognized as the world's smallest by body length?",
+    "options": [
+      "Bee hummingbird",
+      "Elf owl",
+      "Goldcrest",
+      "Calliope hummingbird"
+    ],
+    "answer": "Bee hummingbird"
+  },
+  {
+    "id": "animals-nature-009",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Which mammal is capable of rotating its head nearly 270 degrees?",
+    "options": [
+      "Tarsier",
+      "Aye-aye",
+      "Three-toed sloth",
+      "Slow loris"
+    ],
+    "answer": "Three-toed sloth"
+  },
+  {
+    "id": "animals-nature-010",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Which primate is known to secrete a toxin from glands on its elbows, making its bite venomous?",
+    "options": [
+      "Slow loris",
+      "Tarsier",
+      "Aye-aye",
+      "Bushbaby"
+    ],
+    "answer": "Slow loris"
+  },
+  {
+    "id": "animals-nature-011",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "As of 2026, which whale species is known to undertake the longest seasonal migration of any mammal?",
+    "options": [
+      "Gray whale",
+      "Blue whale",
+      "Humpback whale",
+      "Sperm whale"
+    ],
+    "answer": "Humpback whale"
+  },
+  {
+    "id": "animals-nature-012",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What is the chemical compound used by fireflies to produce light?",
+    "options": [
+      "Luciferin",
+      "Melatonin",
+      "Serotonin",
+      "Chlorophyll"
+    ],
+    "answer": "Luciferin"
+  },
+  {
+    "id": "animals-nature-013",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Which octopus species holds the record for the largest size by weight?",
+    "options": [
+      "Common octopus",
+      "Giant Pacific octopus",
+      "Blue-ringed octopus",
+      "Mimic octopus"
+    ],
+    "answer": "Giant Pacific octopus"
+  },
+  {
+    "id": "animals-nature-014",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "Which beetle family holds the record for the fastest running speed among insects, clocked at over 8 km/h?",
+    "options": [
+      "Cockroaches",
+      "Tiger beetles",
+      "Ants",
+      "Dragonflies"
+    ],
+    "answer": "Tiger beetles"
+  },
+  {
+    "id": "animals-nature-015",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What is the scientific term for the process by which insects shed their exoskeleton?",
+    "options": [
+      "Metamorphosis",
+      "Ecdysis",
+      "Pupation",
+      "Hibernation"
+    ],
+    "answer": "Ecdysis"
+  },
+  {
+    "id": "animals-nature-016",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "What is the only bear species found in South America?",
+    "options": [
+      "Sun bear",
+      "Spectacled bear",
+      "Sloth bear",
+      "Asiatic black bear"
+    ],
+    "answer": "Spectacled bear"
+  },
+  {
+    "id": "animals-nature-017",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "What is the term for the brightly colored, iridescent feathers on a hummingbird's throat?",
+    "options": [
+      "Gorget",
+      "Plumage",
+      "Crest",
+      "Mantle"
+    ],
+    "answer": "Gorget"
+  },
+  {
+    "id": "animals-nature-018",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "As of 2026, which marine mammal has the densest fur, with up to one million hairs per square inch?",
+    "options": [
+      "Beaver",
+      "Mink",
+      "Muskrat",
+      "Sea otter"
+    ],
+    "answer": "Sea otter"
+  },
+  {
+    "id": "animals-nature-019",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What is the collective term for a group of hedgehogs?",
+    "options": [
+      "A prickle",
+      "A herd",
+      "A bevy",
+      "A skulk"
+    ],
+    "answer": "A prickle"
+  },
+  {
+    "id": "animals-nature-020",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "Which fibrous protein forms the silk produced by spiders and silkworms?",
+    "options": [
+      "Keratin",
+      "Fibroin",
+      "Collagen",
+      "Elastin"
+    ],
+    "answer": "Fibroin"
+  },
+  {
+    "id": "animals-nature-021",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "Which bat species is known to fly at altitudes exceeding 3,000 meters?",
+    "options": [
+      "Little brown bat",
+      "Vampire bat",
+      "Mexican free-tailed bat",
+      "Flying fox"
+    ],
+    "answer": "Mexican free-tailed bat"
+  },
+  {
+    "id": "animals-nature-022",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "As of 2026, what is the largest extant species of deer?",
+    "options": [
+      "Elk",
+      "Moose",
+      "Red deer",
+      "Sambar deer"
+    ],
+    "answer": "Moose"
+  },
+  {
+    "id": "animals-nature-023",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "Which jellyfish species can revert its cells back to their earliest form, effectively achieving biological immortality?",
+    "options": [
+      "Turritopsis dohrnii",
+      "Box jellyfish",
+      "Lion's mane jellyfish",
+      "Moon jellyfish"
+    ],
+    "answer": "Turritopsis dohrnii"
+  },
+  {
+    "id": "animals-nature-024",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Which penguin species, native to the Galápagos Islands, is the only penguin found north of the equator?",
+    "options": [
+      "African penguin",
+      "Humboldt penguin",
+      "Galápagos penguin",
+      "Magellanic penguin"
+    ],
+    "answer": "Galápagos penguin"
+  },
+  {
+    "id": "animals-nature-025",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "Which mammal, native to Africa and Asia, is covered in protective keratin scales?",
+    "options": [
+      "Pangolin",
+      "Armadillo",
+      "Aardvark",
+      "Porcupine"
+    ],
+    "answer": "Pangolin"
+  },
+  {
+    "id": "animals-nature-026",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What is the name of the specialized abdominal appendage that spiders use to spin silk?",
+    "options": [
+      "Pedipalp",
+      "Chelicera",
+      "Spinneret",
+      "Cephalothorax"
+    ],
+    "answer": "Spinneret"
+  },
+  {
+    "id": "animals-nature-027",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "What is the name of the modified wrist bone that acts as an opposable thumb in giant pandas?",
+    "options": [
+      "Carpal pad",
+      "Ulnar styloid",
+      "Radial sesamoid",
+      "Metacarpal"
+    ],
+    "answer": "Radial sesamoid"
+  },
+  {
+    "id": "animals-nature-028",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "As of 2026, which ray species holds the title of the largest by wingspan?",
+    "options": [
+      "Reef manta ray",
+      "Spotted eagle ray",
+      "Stingray",
+      "Giant oceanic manta ray"
+    ],
+    "answer": "Giant oceanic manta ray"
+  },
+  {
+    "id": "animals-nature-029",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "As of 2026, which bear species is generally considered the largest by average body mass?",
+    "options": [
+      "Kodiak bear",
+      "Polar bear",
+      "Grizzly bear",
+      "Sun bear"
+    ],
+    "answer": "Polar bear"
+  },
+  {
+    "id": "animals-nature-030",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Where is the venomous spur located on a male platypus?",
+    "options": [
+      "On its hind leg",
+      "On its tail",
+      "On its front paw",
+      "In its mouth"
+    ],
+    "answer": "On its hind leg"
+  },
+  {
+    "id": "animals-nature-031",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Which species of penguin is known for its distinctive yellow crest and red eyes?",
+    "options": [
+      "Rockhopper penguin",
+      "Macaroni penguin",
+      "King penguin",
+      "Adélie penguin"
+    ],
+    "answer": "Rockhopper penguin"
+  },
+  {
+    "id": "animals-nature-032",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What is the primary diet of the Galapagos marine iguana?",
+    "options": [
+      "Small crustaceans",
+      "Insects",
+      "Jellyfish",
+      "Seaweed and algae"
+    ],
+    "answer": "Seaweed and algae"
+  },
+  {
+    "id": "animals-nature-033",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Which mammal is known to be the only one truly capable of sustained flight?",
+    "options": [
+      "Flying squirrel",
+      "Bat",
+      "Sugar glider",
+      "Lemur"
+    ],
+    "answer": "Bat"
+  },
+  {
+    "id": "animals-nature-034",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "The 'Fossa', a carnivorous mammal, is endemic to which island?",
+    "options": [
+      "Tasmania",
+      "Borneo",
+      "New Guinea",
+      "Madagascar"
+    ],
+    "answer": "Madagascar"
+  },
+  {
+    "id": "animals-nature-035",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Despite its tree-like appearance and use as a building material, bamboo is botanically classified as what?",
+    "options": [
+      "A grass",
+      "A palm",
+      "A shrub",
+      "A conifer"
+    ],
+    "answer": "A grass"
+  },
+  {
+    "id": "animals-nature-036",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "What is the common nickname for the underground fungal network through which trees exchange nutrients and chemical signals?",
+    "options": [
+      "The Wood Wide Web",
+      "The Root Router",
+      "The Fungal Freeway",
+      "The Subterranean Switchboard"
+    ],
+    "answer": "The Wood Wide Web"
+  },
+  {
+    "id": "animals-nature-037",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "What is the only bird capable of sustained backward flight?",
+    "options": [
+      "The hummingbird",
+      "The kingfisher",
+      "The swift",
+      "The falcon"
+    ],
+    "answer": "The hummingbird"
+  },
+  {
+    "id": "animals-nature-038",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "During a hunting stoop, the peregrine falcon can reach speeds exceeding 240 miles per hour, making it the fastest animal on Earth in what context?",
+    "options": [
+      "During a dive",
+      "In level flight",
+      "While swimming",
+      "While running"
+    ],
+    "answer": "During a dive"
+  },
+  {
+    "id": "animals-nature-039",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "Which sea turtle is the fastest reptile in water, capable of brief bursts up to 22 miles per hour?",
+    "options": [
+      "The leatherback turtle",
+      "The green sea turtle",
+      "The loggerhead turtle",
+      "The hawksbill turtle"
+    ],
+    "answer": "The leatherback turtle"
+  },
+  {
+    "id": "animals-nature-040",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "What is the world's largest amphibian, capable of growing up to six feet long?",
+    "options": [
+      "The Chinese giant salamander",
+      "The goliath bullfrog",
+      "The Japanese giant salamander",
+      "The marine toad"
+    ],
+    "answer": "The Chinese giant salamander"
+  },
+  {
+    "id": "animals-nature-041",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Which fish is considered the slowest swimmer in the ocean?",
+    "options": [
+      "The sea horse",
+      "The whale shark",
+      "The ocean sunfish",
+      "The flounder"
+    ],
+    "answer": "The sea horse"
+  },
+  {
+    "id": "animals-nature-042",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "Which mammal has the longest claws relative to its body size, with claws reaching up to eight inches?",
+    "options": [
+      "The giant armadillo",
+      "The sloth bear",
+      "The grizzly bear",
+      "The aardvark"
+    ],
+    "answer": "The giant armadillo"
+  },
+  {
+    "id": "animals-nature-043",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "Which owl species is found on every continent except Antarctica, making it the most widespread owl in the world?",
+    "options": [
+      "The barn owl",
+      "The great horned owl",
+      "The snowy owl",
+      "The eagle owl"
+    ],
+    "answer": "The barn owl"
+  },
+  {
+    "id": "animals-nature-044",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "What is the smallest known mammal by weight, averaging just 1.8 grams?",
+    "options": [
+      "The Etruscan shrew",
+      "The bumblebee bat",
+      "The pygmy jerboa",
+      "The mouse lemur"
+    ],
+    "answer": "The Etruscan shrew"
+  },
+  {
+    "id": "animals-nature-045",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "What is the name of the long sleep some animals take in winter?",
+    "options": [
+      "Migration",
+      "Hibernation",
+      "Estivation",
+      "Stasis"
+    ],
+    "answer": "Hibernation"
+  },
+  {
+    "id": "animals-nature-046",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "Which animal is known as the 'King of the Jungle'?",
+    "options": [
+      "Tiger",
+      "Lion",
+      "Elephant",
+      "Leopard"
+    ],
+    "answer": "Lion"
+  },
+  {
+    "id": "animals-nature-047",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "Which animal is known to be very slow and lives in tropical rainforests?",
+    "options": [
+      "Koala",
+      "Sloth",
+      "Anteater",
+      "Lemur"
+    ],
+    "answer": "Sloth"
+  },
+  {
+    "id": "animals-nature-048",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What material makes up a shark's skeleton?",
+    "options": [
+      "Bone",
+      "Cartilage",
+      "Chitin",
+      "Keratin"
+    ],
+    "answer": "Cartilage"
+  },
+  {
+    "id": "animals-nature-049",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "How many permanent teeth does an adult dog typically have?",
+    "options": [
+      "30",
+      "36",
+      "42",
+      "48"
+    ],
+    "answer": "42"
+  },
+  {
+    "id": "animals-nature-050",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "What is the largest animal known to have ever lived on Earth?",
+    "options": [
+      "African elephant",
+      "Blue whale",
+      "Fin whale",
+      "Colossal squid"
+    ],
+    "answer": "Blue whale"
+  },
+  {
+    "id": "animals-nature-051",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "How many compartments does a cow's stomach have?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "answer": "Four"
+  },
+  {
+    "id": "animals-nature-052",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "How many permanent teeth does an adult cat typically have?",
+    "options": [
+      "26",
+      "28",
+      "30",
+      "32"
+    ],
+    "answer": "30"
+  },
+  {
+    "id": "animals-nature-053",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "How many legs does a bee have?",
+    "options": [
+      "Four",
+      "Six",
+      "Eight",
+      "Ten"
+    ],
+    "answer": "Six"
+  },
+  {
+    "id": "animals-nature-054",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "How many cervical vertebrae (neck bones) does a giraffe have?",
+    "options": [
+      "Five",
+      "Six",
+      "Seven",
+      "Nine"
+    ],
+    "answer": "Seven"
+  },
+  {
+    "id": "animals-nature-055",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "How many aortic arches, often called 'hearts,' does an earthworm have?",
+    "options": [
+      "Three",
+      "Five",
+      "Seven",
+      "Nine"
+    ],
+    "answer": "Five"
+  },
+  {
+    "id": "animals-nature-056",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "How many legs does a lobster have in total?",
+    "options": [
+      "Six",
+      "Eight",
+      "Ten",
+      "Twelve"
+    ],
+    "answer": "Ten"
+  },
+  {
+    "id": "animals-nature-057",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "How many permanent teeth does an adult pig have?",
+    "options": [
+      "36",
+      "40",
+      "44",
+      "48"
+    ],
+    "answer": "44"
+  },
+  {
+    "id": "animals-nature-058",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "What is the largest living bird in the world?",
+    "options": [
+      "Emu",
+      "Ostrich",
+      "Cassowary",
+      "Andean condor"
+    ],
+    "answer": "Ostrich"
+  },
+  {
+    "id": "animals-nature-059",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "Roughly how many bones can a long-bodied snake have?",
+    "options": [
+      "Around 100",
+      "Around 200",
+      "Around 400",
+      "Around 600"
+    ],
+    "answer": "Around 400"
+  },
+  {
+    "id": "animals-nature-060",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "How many eyes does a honey bee have in total?",
+    "options": [
+      "Two",
+      "Three",
+      "Five",
+      "Six"
+    ],
+    "answer": "Five"
+  },
+  {
+    "id": "animals-nature-061",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "How many stomachs does a starfish (sea star) have?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "answer": "Two"
+  },
+  {
+    "id": "animals-nature-062",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "How many legs does a Japanese spider crab have?",
+    "options": [
+      "Eight",
+      "Ten",
+      "Twelve",
+      "Fourteen"
+    ],
+    "answer": "Ten"
+  },
+  {
+    "id": "animals-nature-063",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "How many legs does a scorpion have?",
+    "options": [
+      "Six",
+      "Eight",
+      "Ten",
+      "Twelve"
+    ],
+    "answer": "Eight"
+  },
+  {
+    "id": "animals-nature-064",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "Which country is home to the kangaroo?",
+    "options": [
+      "Australia",
+      "New Zealand",
+      "Indonesia",
+      "Papua New Guinea"
+    ],
+    "answer": "Australia"
+  },
+  {
+    "id": "animals-nature-065",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What is the name of the process by which green plants use sunlight to synthesize foods?",
+    "options": [
+      "Photosynthesis",
+      "Respiration",
+      "Fermentation",
+      "Transpiration"
+    ],
+    "answer": "Photosynthesis"
   }
 ]

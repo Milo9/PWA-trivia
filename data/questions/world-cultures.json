@@ -1857,5 +1857,18 @@
       "Russia"
     ],
     "answer": "Canada"
+  },
+  {
+    "id": "world-cultures-001",
+    "category": "world-cultures",
+    "difficulty": "easy",
+    "question": "What is the most widely used alphabet in the world?",
+    "options": [
+      "Cyrillic alphabet",
+      "Arabic script",
+      "Latin alphabet",
+      "Devanagari"
+    ],
+    "answer": "Latin alphabet"
   }
 ]
