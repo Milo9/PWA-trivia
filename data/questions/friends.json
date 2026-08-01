@@ -91,19 +91,6 @@
     "answer": "Masseuse"
   },
   {
-    "id": "friends-008",
-    "category": "friends",
-    "difficulty": "medium",
-    "question": "What is the name of Ross's pet monkey?",
-    "options": [
-      "Marcel",
-      "Bongo",
-      "Charlie",
-      "Chi-Chi"
-    ],
-    "answer": "Marcel"
-  },
-  {
     "id": "friends-009",
     "category": "friends",
     "difficulty": "easy",
@@ -414,19 +401,6 @@
       "Monica"
     ],
     "answer": "Chandler"
-  },
-  {
-    "id": "friends-033",
-    "category": "friends",
-    "difficulty": "medium",
-    "question": "Phoebe carries triplets as a surrogate for her brother. What is his name?",
-    "options": [
-      "Frank Jr.",
-      "Ross",
-      "Mike",
-      "Gunther"
-    ],
-    "answer": "Frank Jr."
   },
   {
     "id": "friends-034",
@@ -7111,19 +7085,6 @@
     "answer": "Central Perk"
   },
   {
-    "id": "friends-552",
-    "category": "friends",
-    "difficulty": "easy",
-    "question": "What is the name of Ross's pet monkey in the early seasons?",
-    "options": [
-      "Marcel",
-      "Charlie",
-      "Coco",
-      "Bongo"
-    ],
-    "answer": "Marcel"
-  },
-  {
     "id": "friends-553",
     "category": "friends",
     "difficulty": "easy",
@@ -7135,19 +7096,6 @@
       "Giovanni Ribisi"
     ],
     "answer": "Cole Sprouse"
-  },
-  {
-    "id": "friends-554",
-    "category": "friends",
-    "difficulty": "easy",
-    "question": "What are the names of Monica and Chandler's twins?",
-    "options": [
-      "Erica and Jack",
-      "Emma and Ben",
-      "Charlie and Sophie",
-      "Jack and Ben"
-    ],
-    "answer": "Erica and Jack"
   },
   {
     "id": "friends-555",
@@ -7397,19 +7345,6 @@
     "answer": "Mindy, Rachel's former best friend"
   },
   {
-    "id": "friends-575",
-    "category": "friends",
-    "difficulty": "medium",
-    "question": "What are the names of Rachel's two sisters?",
-    "options": [
-      "Jill and Amy",
-      "Jill and Emma",
-      "Amy and Susan",
-      "Jill and Kathy"
-    ],
-    "answer": "Jill and Amy"
-  },
-  {
     "id": "friends-576",
     "category": "friends",
     "difficulty": "hard",
@@ -7616,19 +7551,6 @@
       "Susan"
     ],
     "answer": "Alice"
-  },
-  {
-    "id": "friends-592",
-    "category": "friends",
-    "difficulty": "medium",
-    "question": "What are the names of the triplets Phoebe delivers as a surrogate for Frank Jr. and Alice?",
-    "options": [
-      "Frank Jr. Jr., Leslie, and Chandler",
-      "Ben, Frank, and Chandler",
-      "Chandler, Monica, and Joey",
-      "Leslie, Emma, and Frank"
-    ],
-    "answer": "Frank Jr. Jr., Leslie, and Chandler"
   },
   {
     "id": "friends-593",

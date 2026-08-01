@@ -117,19 +117,6 @@
     "answer": "The Lighthouse of Alexandria"
   },
   {
-    "id": "general-010",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "What is the smallest country in the world by area?",
-    "options": [
-      "Monaco",
-      "Vatican City",
-      "San Marino",
-      "Liechtenstein"
-    ],
-    "answer": "Vatican City"
-  },
-  {
     "id": "general-011",
     "category": "general",
     "difficulty": "easy",
@@ -700,19 +687,6 @@
       "Luxor"
     ],
     "answer": "Cairo"
-  },
-  {
-    "id": "general-055",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "In Greek mythology, who is the goddess of wisdom and warfare?",
-    "options": [
-      "Artemis",
-      "Hera",
-      "Athena",
-      "Persephone"
-    ],
-    "answer": "Athena"
   },
   {
     "id": "general-056",
@@ -2834,19 +2808,6 @@
     "answer": "T.S. Eliot"
   },
   {
-    "id": "general-220",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "Salvador Dalí is most closely associated with which 20th-century art movement?",
-    "options": [
-      "Cubism",
-      "Fauvism",
-      "Impressionism",
-      "Surrealism"
-    ],
-    "answer": "Surrealism"
-  },
-  {
     "id": "general-221",
     "category": "general",
     "difficulty": "easy",
@@ -3471,19 +3432,6 @@
     "answer": "Stanley Cup"
   },
   {
-    "id": "general-270",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "Which national team has won the most FIFA World Cup titles?",
-    "options": [
-      "Germany",
-      "Brazil",
-      "Italy",
-      "Argentina"
-    ],
-    "answer": "Brazil"
-  },
-  {
     "id": "general-271",
     "category": "general",
     "difficulty": "medium",
@@ -3560,19 +3508,6 @@
       "Tour de France"
     ],
     "answer": "Tour de France"
-  },
-  {
-    "id": "general-277",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "Which country won the very first FIFA World Cup in 1930?",
-    "options": [
-      "Uruguay",
-      "Argentina",
-      "Brazil",
-      "Italy"
-    ],
-    "answer": "Uruguay"
   },
   {
     "id": "general-278",
@@ -5616,19 +5551,6 @@
     "answer": "Pride"
   },
   {
-    "id": "general-436",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "Which part of the human brain is primarily responsible for coordinating balance and muscle movement?",
-    "options": [
-      "Cerebrum",
-      "Medulla oblongata",
-      "Hypothalamus",
-      "Cerebellum"
-    ],
-    "answer": "Cerebellum"
-  },
-  {
     "id": "general-437",
     "category": "general",
     "difficulty": "easy",
@@ -6940,19 +6862,6 @@
       "Full toss"
     ],
     "answer": "Googly"
-  },
-  {
-    "id": "general-539",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "In golf, what term is used for a score of one under par on a hole?",
-    "options": [
-      "Eagle",
-      "Bogey",
-      "Birdie",
-      "Albatross"
-    ],
-    "answer": "Birdie"
   },
   {
     "id": "general-540",
@@ -8760,19 +8669,6 @@
       "Rodin"
     ],
     "answer": "Michelangelo"
-  },
-  {
-    "id": "general-683",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "Who created the detective character Sherlock Holmes?",
-    "options": [
-      "Agatha Christie",
-      "Charles Dickens",
-      "Arthur Conan Doyle",
-      "Wilkie Collins"
-    ],
-    "answer": "Arthur Conan Doyle"
   },
   {
     "id": "general-684",
@@ -11076,19 +10972,6 @@
     "answer": "Molting"
   },
   {
-    "id": "general-864",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "What is the term for the scientific study of the classification of living organisms?",
-    "options": [
-      "Ecology",
-      "Taxonomy",
-      "Genetics",
-      "Physiology"
-    ],
-    "answer": "Taxonomy"
-  },
-  {
     "id": "general-865",
     "category": "general",
     "difficulty": "medium",
@@ -13390,19 +13273,6 @@
     "answer": "Egyptian hieroglyphs"
   },
   {
-    "id": "general-1047",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "Which country was the first to grant women the right to vote in national elections?",
-    "options": [
-      "New Zealand",
-      "Finland",
-      "United States",
-      "United Kingdom"
-    ],
-    "answer": "New Zealand"
-  },
-  {
     "id": "general-1048",
     "category": "general",
     "difficulty": "medium",
@@ -14222,19 +14092,6 @@
     "answer": "James Webb Space Telescope"
   },
   {
-    "id": "general-1112",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "What is the closest star to Earth other than the Sun?",
-    "options": [
-      "Proxima Centauri",
-      "Alpha Centauri A",
-      "Sirius",
-      "Betelgeuse"
-    ],
-    "answer": "Proxima Centauri"
-  },
-  {
     "id": "general-1113",
     "category": "general",
     "difficulty": "hard",
@@ -14558,19 +14415,6 @@
       "Salvador Dali"
     ],
     "answer": "Vincent van Gogh"
-  },
-  {
-    "id": "general-1138",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "What art movement is Salvador Dali most associated with?",
-    "options": [
-      "Surrealism",
-      "Cubism",
-      "Impressionism",
-      "Expressionism"
-    ],
-    "answer": "Surrealism"
   },
   {
     "id": "general-1139",
@@ -14963,19 +14807,6 @@
     "answer": "Titanic"
   },
   {
-    "id": "general-1170",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "In 'The Wizard of Oz', what color are Dorothy's iconic shoes?",
-    "options": [
-      "Ruby red",
-      "Emerald green",
-      "Silver",
-      "Gold"
-    ],
-    "answer": "Ruby red"
-  },
-  {
     "id": "general-1171",
     "category": "general",
     "difficulty": "easy",
@@ -15338,19 +15169,6 @@
       "Set"
     ],
     "answer": "Ra"
-  },
-  {
-    "id": "general-1200",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "Who is the Greek goddess of wisdom and strategic warfare?",
-    "options": [
-      "Athena",
-      "Aphrodite",
-      "Hera",
-      "Artemis"
-    ],
-    "answer": "Athena"
   },
   {
     "id": "general-1201",
@@ -18603,19 +18421,6 @@
     "answer": "Beijing"
   },
   {
-    "id": "general-1457",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "Which is the second-largest country in the world by total area?",
-    "options": [
-      "Canada",
-      "China",
-      "United States",
-      "Brazil"
-    ],
-    "answer": "Canada"
-  },
-  {
     "id": "general-1458",
     "category": "general",
     "difficulty": "easy",
@@ -18640,19 +18445,6 @@
       "Texas"
     ],
     "answer": "Alaska"
-  },
-  {
-    "id": "general-1460",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "Which is the smallest US state by area?",
-    "options": [
-      "Rhode Island",
-      "Delaware",
-      "Hawaii",
-      "Connecticut"
-    ],
-    "answer": "Rhode Island"
   },
   {
     "id": "general-1461",
@@ -18939,19 +18731,6 @@
       "The Sechura Desert"
     ],
     "answer": "The Atacama Desert"
-  },
-  {
-    "id": "general-1483",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "Which country has the second-most time zones of any country in the world?",
-    "options": [
-      "Russia",
-      "United States",
-      "China",
-      "Canada"
-    ],
-    "answer": "Russia"
   },
   {
     "id": "general-1484",
@@ -19433,19 +19212,6 @@
       "CERN"
     ],
     "answer": "CERN"
-  },
-  {
-    "id": "general-1522",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "What is the scientific study of the classification of organisms called?",
-    "options": [
-      "Taxonomy",
-      "Ecology",
-      "Morphology",
-      "Physiology"
-    ],
-    "answer": "Taxonomy"
   },
   {
     "id": "general-1524",
@@ -23049,19 +22815,6 @@
     "answer": "Ural Mountains"
   },
   {
-    "id": "general-1806",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "What is the deepest known point in the world's oceans?",
-    "options": [
-      "Mariana Trench",
-      "Puerto Rico Trench",
-      "Java Trench",
-      "Tonga Trench"
-    ],
-    "answer": "Mariana Trench"
-  },
-  {
     "id": "general-1807",
     "category": "general",
     "difficulty": "hard",
@@ -23543,19 +23296,6 @@
     "answer": "Brazil"
   },
   {
-    "id": "general-1845",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "Which African country is entirely surrounded by the territory of South Africa?",
-    "options": [
-      "Lesotho",
-      "Eswatini",
-      "Malawi",
-      "Botswana"
-    ],
-    "answer": "Lesotho"
-  },
-  {
     "id": "general-1846",
     "category": "general",
     "difficulty": "medium",
@@ -23764,19 +23504,6 @@
     "answer": "Inca Empire"
   },
   {
-    "id": "general-1864",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "Who co-wrote 'The Communist Manifesto' with Friedrich Engels?",
-    "options": [
-      "Karl Marx",
-      "Vladimir Lenin",
-      "Leon Trotsky",
-      "Friedrich Nietzsche"
-    ],
-    "answer": "Karl Marx"
-  },
-  {
     "id": "general-1865",
     "category": "general",
     "difficulty": "medium",
@@ -23879,19 +23606,6 @@
       "Leon Trotsky"
     ],
     "answer": "Joseph Stalin"
-  },
-  {
-    "id": "general-1873",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "In which year did the RMS Titanic sink?",
-    "options": [
-      "1912",
-      "1910",
-      "1914",
-      "1916"
-    ],
-    "answer": "1912"
   },
   {
     "id": "general-1874",
@@ -24102,19 +23816,6 @@
     "answer": "Vasco da Gama"
   },
   {
-    "id": "general-1890",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "Which Egyptian queen was known for her political alliances with Julius Caesar and Mark Antony?",
-    "options": [
-      "Cleopatra",
-      "Nefertiti",
-      "Hatshepsut",
-      "Nefertari"
-    ],
-    "answer": "Cleopatra"
-  },
-  {
     "id": "general-1891",
     "category": "general",
     "difficulty": "easy",
@@ -24165,19 +23866,6 @@
       "The Great Wall"
     ],
     "answer": "Hadrian's Wall"
-  },
-  {
-    "id": "general-1895",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "Who led Nazi Germany during World War II?",
-    "options": [
-      "Adolf Hitler",
-      "Heinrich Himmler",
-      "Joseph Goebbels",
-      "Hermann Goring"
-    ],
-    "answer": "Adolf Hitler"
   },
   {
     "id": "general-1896",
@@ -24334,19 +24022,6 @@
       "The Arms Race"
     ],
     "answer": "The Cold War"
-  },
-  {
-    "id": "general-1908",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "Who painted the ceiling of the Sistine Chapel?",
-    "options": [
-      "Michelangelo",
-      "Leonardo da Vinci",
-      "Raphael",
-      "Donatello"
-    ],
-    "answer": "Michelangelo"
   },
   {
     "id": "general-1909",
@@ -24531,45 +24206,6 @@
     "answer": "Mercury"
   },
   {
-    "id": "general-1923",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "What is often called the powerhouse of the cell?",
-    "options": [
-      "Mitochondria",
-      "Nucleus",
-      "Ribosome",
-      "Golgi apparatus"
-    ],
-    "answer": "Mitochondria"
-  },
-  {
-    "id": "general-1924",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "What gas do plants primarily absorb from the air for photosynthesis?",
-    "options": [
-      "Carbon dioxide",
-      "Oxygen",
-      "Nitrogen",
-      "Hydrogen"
-    ],
-    "answer": "Carbon dioxide"
-  },
-  {
-    "id": "general-1925",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "Which scientist developed the theory of general relativity?",
-    "options": [
-      "Albert Einstein",
-      "Isaac Newton",
-      "Niels Bohr",
-      "Galileo Galilei"
-    ],
-    "answer": "Albert Einstein"
-  },
-  {
     "id": "general-1926",
     "category": "general",
     "difficulty": "medium",
@@ -24609,19 +24245,6 @@
     "answer": "Taxonomy"
   },
   {
-    "id": "general-1929",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "Which noble gas is commonly used to fill balloons because it is lighter than air and non-flammable?",
-    "options": [
-      "Helium",
-      "Neon",
-      "Argon",
-      "Hydrogen"
-    ],
-    "answer": "Helium"
-  },
-  {
     "id": "general-1930",
     "category": "general",
     "difficulty": "medium",
@@ -24633,19 +24256,6 @@
       "Heart"
     ],
     "answer": "Liver"
-  },
-  {
-    "id": "general-1931",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "Which gas makes up roughly 78% of Earth's atmosphere?",
-    "options": [
-      "Nitrogen",
-      "Oxygen",
-      "Carbon dioxide",
-      "Argon"
-    ],
-    "answer": "Nitrogen"
   },
   {
     "id": "general-1932",
@@ -24687,19 +24297,6 @@
     "answer": "Farad"
   },
   {
-    "id": "general-1935",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "Which part of the human brain primarily controls balance and coordination?",
-    "options": [
-      "Cerebellum",
-      "Cerebrum",
-      "Medulla oblongata",
-      "Hypothalamus"
-    ],
-    "answer": "Cerebellum"
-  },
-  {
     "id": "general-1936",
     "category": "general",
     "difficulty": "medium",
@@ -24724,19 +24321,6 @@
       "Neptune"
     ],
     "answer": "Saturn"
-  },
-  {
-    "id": "general-1938",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "What is the chemical formula for common table salt?",
-    "options": [
-      "NaCl",
-      "KCl",
-      "CaCl2",
-      "NaOH"
-    ],
-    "answer": "NaCl"
   },
   {
     "id": "general-1939",
@@ -24778,19 +24362,6 @@
     "answer": "Pancreas"
   },
   {
-    "id": "general-1942",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "What is the nearest known star to Earth other than the Sun?",
-    "options": [
-      "Proxima Centauri",
-      "Alpha Centauri A",
-      "Sirius",
-      "Barnard's Star"
-    ],
-    "answer": "Proxima Centauri"
-  },
-  {
     "id": "general-1943",
     "category": "general",
     "difficulty": "medium",
@@ -24828,19 +24399,6 @@
       "Jonas Salk"
     ],
     "answer": "Alexander Fleming"
-  },
-  {
-    "id": "general-1946",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "What is the name for rock formed from cooled and solidified lava or magma?",
-    "options": [
-      "Igneous rock",
-      "Sedimentary rock",
-      "Metamorphic rock",
-      "Mineral rock"
-    ],
-    "answer": "Igneous rock"
   },
   {
     "id": "general-1947",
@@ -24971,19 +24529,6 @@
       "Nitrogen"
     ],
     "answer": "Hydrogen"
-  },
-  {
-    "id": "general-1957",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "Which organ is primarily responsible for pumping blood throughout the body?",
-    "options": [
-      "Heart",
-      "Lungs",
-      "Liver",
-      "Kidneys"
-    ],
-    "answer": "Heart"
   },
   {
     "id": "general-1958",
@@ -25129,19 +24674,6 @@
     "answer": "Atomic number"
   },
   {
-    "id": "general-1969",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "Which planet is best known for its prominent, visible ring system?",
-    "options": [
-      "Saturn",
-      "Jupiter",
-      "Uranus",
-      "Neptune"
-    ],
-    "answer": "Saturn"
-  },
-  {
     "id": "general-1970",
     "category": "general",
     "difficulty": "medium",
@@ -25168,19 +24700,6 @@
     "answer": "Chemical energy"
   },
   {
-    "id": "general-1972",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "What is the term for a substance that speeds up a chemical reaction without being consumed by it?",
-    "options": [
-      "Catalyst",
-      "Reagent",
-      "Solvent",
-      "Enzyme substrate"
-    ],
-    "answer": "Catalyst"
-  },
-  {
     "id": "general-1973",
     "category": "general",
     "difficulty": "easy",
@@ -25192,19 +24711,6 @@
       "Bladder"
     ],
     "answer": "Kidneys"
-  },
-  {
-    "id": "general-1974",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "What is the name for the theoretical point of infinite density at the center of a black hole?",
-    "options": [
-      "Singularity",
-      "Event horizon",
-      "Nebula",
-      "Quasar"
-    ],
-    "answer": "Singularity"
   },
   {
     "id": "general-1975",
@@ -25298,19 +24804,6 @@
     "answer": "Vladimir Nabokov"
   },
   {
-    "id": "general-1983",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "Which Shakespeare play features the courtiers Rosencrantz and Guildenstern?",
-    "options": [
-      "Hamlet",
-      "Macbeth",
-      "Othello",
-      "King Lear"
-    ],
-    "answer": "Hamlet"
-  },
-  {
     "id": "general-1984",
     "category": "general",
     "difficulty": "easy",
@@ -25322,32 +24815,6 @@
       "Philip K. Dick"
     ],
     "answer": "Frank Herbert"
-  },
-  {
-    "id": "general-1985",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "Which author created the detective Sherlock Holmes?",
-    "options": [
-      "Arthur Conan Doyle",
-      "Agatha Christie",
-      "Wilkie Collins",
-      "G.K. Chesterton"
-    ],
-    "answer": "Arthur Conan Doyle"
-  },
-  {
-    "id": "general-1986",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "Who wrote 'One Hundred Years of Solitude'?",
-    "options": [
-      "Gabriel Garcia Marquez",
-      "Jorge Luis Borges",
-      "Pablo Neruda",
-      "Mario Vargas Llosa"
-    ],
-    "answer": "Gabriel Garcia Marquez"
   },
   {
     "id": "general-1987",
@@ -25402,19 +24869,6 @@
     "answer": "Homer"
   },
   {
-    "id": "general-1992",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "Who wrote the novel 'Crime and Punishment'?",
-    "options": [
-      "Fyodor Dostoevsky",
-      "Leo Tolstoy",
-      "Nikolai Gogol",
-      "Ivan Turgenev"
-    ],
-    "answer": "Fyodor Dostoevsky"
-  },
-  {
     "id": "general-1993",
     "category": "general",
     "difficulty": "easy",
@@ -25426,19 +24880,6 @@
       "We"
     ],
     "answer": "1984"
-  },
-  {
-    "id": "general-1994",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "Who wrote 'The Catcher in the Rye'?",
-    "options": [
-      "J.D. Salinger",
-      "John Updike",
-      "Jack Kerouac",
-      "Philip Roth"
-    ],
-    "answer": "J.D. Salinger"
   },
   {
     "id": "general-1995",
@@ -25493,19 +24934,6 @@
     "answer": "Margaret Atwood"
   },
   {
-    "id": "general-2000",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "Who wrote the 'Chronicles of Narnia' series?",
-    "options": [
-      "C.S. Lewis",
-      "J.R.R. Tolkien",
-      "Philip Pullman",
-      "Lewis Carroll"
-    ],
-    "answer": "C.S. Lewis"
-  },
-  {
     "id": "general-2001",
     "category": "general",
     "difficulty": "medium",
@@ -25545,32 +24973,6 @@
     "answer": "The Great Gatsby"
   },
   {
-    "id": "general-2005",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "Who wrote 'Wuthering Heights'?",
-    "options": [
-      "Emily Bronte",
-      "Charlotte Bronte",
-      "Anne Bronte",
-      "Jane Austen"
-    ],
-    "answer": "Emily Bronte"
-  },
-  {
-    "id": "general-2006",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "Which author created the fictional Belgian detective Hercule Poirot?",
-    "options": [
-      "Agatha Christie",
-      "Arthur Conan Doyle",
-      "Dorothy L. Sayers",
-      "P.D. James"
-    ],
-    "answer": "Agatha Christie"
-  },
-  {
     "id": "general-2007",
     "category": "general",
     "difficulty": "medium",
@@ -25582,19 +24984,6 @@
       "Flann O'Brien"
     ],
     "answer": "James Joyce"
-  },
-  {
-    "id": "general-2008",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "Which John Steinbeck novel follows the Joad family during the Great Depression?",
-    "options": [
-      "The Grapes of Wrath",
-      "Of Mice and Men",
-      "East of Eden",
-      "Cannery Row"
-    ],
-    "answer": "The Grapes of Wrath"
   },
   {
     "id": "general-2009",
@@ -25649,19 +25038,6 @@
     "answer": "A Tale of Two Cities"
   },
   {
-    "id": "general-2013",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "Who wrote 'The Old Man and the Sea'?",
-    "options": [
-      "Ernest Hemingway",
-      "F. Scott Fitzgerald",
-      "William Faulkner",
-      "John Dos Passos"
-    ],
-    "answer": "Ernest Hemingway"
-  },
-  {
     "id": "general-2014",
     "category": "general",
     "difficulty": "medium",
@@ -25673,32 +25049,6 @@
       "Emile Zola"
     ],
     "answer": "Victor Hugo"
-  },
-  {
-    "id": "general-2015",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "Who wrote 'Jane Eyre'?",
-    "options": [
-      "Charlotte Bronte",
-      "Emily Bronte",
-      "Anne Bronte",
-      "George Eliot"
-    ],
-    "answer": "Charlotte Bronte"
-  },
-  {
-    "id": "general-2016",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "Which ancient epic poem tells the story of the Trojan War hero Achilles?",
-    "options": [
-      "The Iliad",
-      "The Odyssey",
-      "The Aeneid",
-      "The Argonautica"
-    ],
-    "answer": "The Iliad"
   },
   {
     "id": "general-2017",
@@ -25740,45 +25090,6 @@
     "answer": "Kurt Vonnegut"
   },
   {
-    "id": "general-2020",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "In which sport would an athlete perform a 'slam dunk'?",
-    "options": [
-      "Basketball",
-      "Volleyball",
-      "Handball",
-      "Netball"
-    ],
-    "answer": "Basketball"
-  },
-  {
-    "id": "general-2021",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "How many players from each team are on the field in standard soccer (football)?",
-    "options": [
-      "11",
-      "10",
-      "9",
-      "12"
-    ],
-    "answer": "11"
-  },
-  {
-    "id": "general-2022",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "Which country has won the most FIFA World Cup titles?",
-    "options": [
-      "Brazil",
-      "Germany",
-      "Italy",
-      "Argentina"
-    ],
-    "answer": "Brazil"
-  },
-  {
     "id": "general-2023",
     "category": "general",
     "difficulty": "easy",
@@ -25790,45 +25101,6 @@
       "Deuce"
     ],
     "answer": "Love"
-  },
-  {
-    "id": "general-2024",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "Which sport is nicknamed 'the sweet science'?",
-    "options": [
-      "Boxing",
-      "Fencing",
-      "Wrestling",
-      "Judo"
-    ],
-    "answer": "Boxing"
-  },
-  {
-    "id": "general-2025",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "How many interlocking rings appear on the Olympic flag?",
-    "options": [
-      "Five",
-      "Four",
-      "Six",
-      "Seven"
-    ],
-    "answer": "Five"
-  },
-  {
-    "id": "general-2026",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "In golf, what is the term for finishing a hole one stroke under par?",
-    "options": [
-      "Birdie",
-      "Eagle",
-      "Bogey",
-      "Par"
-    ],
-    "answer": "Birdie"
   },
   {
     "id": "general-2027",
@@ -25855,32 +25127,6 @@
       "Six"
     ],
     "answer": "Two"
-  },
-  {
-    "id": "general-2029",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "Which Grand Slam tennis tournament is the only one of the four majors played on grass courts?",
-    "options": [
-      "Wimbledon",
-      "The French Open",
-      "The US Open",
-      "The Australian Open"
-    ],
-    "answer": "Wimbledon"
-  },
-  {
-    "id": "general-2030",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "How many players from each team are on the court at one time in basketball?",
-    "options": [
-      "Five",
-      "Six",
-      "Seven",
-      "Four"
-    ],
-    "answer": "Five"
   },
   {
     "id": "general-2031",
@@ -25933,19 +25179,6 @@
       "White"
     ],
     "answer": "Yellow"
-  },
-  {
-    "id": "general-2035",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "In baseball, how many strikes result in a batter being struck out?",
-    "options": [
-      "Three",
-      "Two",
-      "Four",
-      "Five"
-    ],
-    "answer": "Three"
   },
   {
     "id": "general-2036",
@@ -26182,19 +25415,6 @@
     "answer": "Foil"
   },
   {
-    "id": "general-2054",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "What is the term for scoring three strokes under par on a single golf hole?",
-    "options": [
-      "Albatross",
-      "Eagle",
-      "Birdie",
-      "Condor"
-    ],
-    "answer": "Albatross"
-  },
-  {
     "id": "general-2055",
     "category": "general",
     "difficulty": "easy",
@@ -26286,32 +25506,6 @@
     "answer": "The Simpsons"
   },
   {
-    "id": "general-2062",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "Who played the title role in the 'Harry Potter' film series?",
-    "options": [
-      "Daniel Radcliffe",
-      "Rupert Grint",
-      "Tom Felton",
-      "Matthew Lewis"
-    ],
-    "answer": "Daniel Radcliffe"
-  },
-  {
-    "id": "general-2063",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "Which film won the very first Academy Award for Best Picture?",
-    "options": [
-      "Wings",
-      "Sunrise",
-      "The Jazz Singer",
-      "Metropolis"
-    ],
-    "answer": "Wings"
-  },
-  {
     "id": "general-2064",
     "category": "general",
     "difficulty": "easy",
@@ -26377,19 +25571,6 @@
     "answer": "Francis Ford Coppola"
   },
   {
-    "id": "general-2071",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "Which animated film follows a clownfish searching the ocean for his lost son?",
-    "options": [
-      "Finding Nemo",
-      "Shark Tale",
-      "The Little Mermaid",
-      "Moana"
-    ],
-    "answer": "Finding Nemo"
-  },
-  {
     "id": "general-2072",
     "category": "general",
     "difficulty": "easy",
@@ -26401,19 +25582,6 @@
       "Wallace"
     ],
     "answer": "Walter"
-  },
-  {
-    "id": "general-2073",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "Which long-running film franchise follows a British secret agent identified by the code number 007?",
-    "options": [
-      "James Bond",
-      "Mission: Impossible",
-      "Jason Bourne",
-      "Kingsman"
-    ],
-    "answer": "James Bond"
   },
   {
     "id": "general-2074",
@@ -26505,19 +25673,6 @@
       "Wallace Shawn"
     ],
     "answer": "Tom Hanks"
-  },
-  {
-    "id": "general-2081",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "Which long-running animated sitcom centers on the dysfunctional Griffin family?",
-    "options": [
-      "Family Guy",
-      "American Dad",
-      "The Simpsons",
-      "South Park"
-    ],
-    "answer": "Family Guy"
   },
   {
     "id": "general-2082",
@@ -26622,32 +25777,6 @@
       "Djimon Hounsou"
     ],
     "answer": "Russell Crowe"
-  },
-  {
-    "id": "general-2090",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "Which band released the album 'Abbey Road'?",
-    "options": [
-      "The Beatles",
-      "The Rolling Stones",
-      "Pink Floyd",
-      "The Who"
-    ],
-    "answer": "The Beatles"
-  },
-  {
-    "id": "general-2091",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "Who is widely known as the 'King of Pop'?",
-    "options": [
-      "Michael Jackson",
-      "Elvis Presley",
-      "Prince",
-      "James Brown"
-    ],
-    "answer": "Michael Jackson"
   },
   {
     "id": "general-2092",
@@ -26765,19 +25894,6 @@
       "Whitney Houston"
     ],
     "answer": "Michael Jackson"
-  },
-  {
-    "id": "general-2101",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "Which genre of music, characterized by improvisation, originated in New Orleans?",
-    "options": [
-      "Jazz",
-      "Blues",
-      "Ragtime",
-      "Swing"
-    ],
-    "answer": "Jazz"
   },
   {
     "id": "general-2102",
@@ -26910,19 +26026,6 @@
     "answer": "Bruce Springsteen"
   },
   {
-    "id": "general-2113",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "What is the term for singing performed without any instrumental accompaniment?",
-    "options": [
-      "A cappella",
-      "Falsetto",
-      "Vibrato",
-      "Legato"
-    ],
-    "answer": "A cappella"
-  },
-  {
     "id": "general-2114",
     "category": "general",
     "difficulty": "medium",
@@ -26975,19 +26078,6 @@
     "answer": "Prince"
   },
   {
-    "id": "general-2118",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "What is the highest common female singing voice classification?",
-    "options": [
-      "Soprano",
-      "Alto",
-      "Mezzo-soprano",
-      "Contralto"
-    ],
-    "answer": "Soprano"
-  },
-  {
     "id": "general-2119",
     "category": "general",
     "difficulty": "hard",
@@ -26999,19 +26089,6 @@
       "Gustav Mahler"
     ],
     "answer": "Richard Wagner"
-  },
-  {
-    "id": "general-2120",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "Which artist painted 'The Birth of Venus'?",
-    "options": [
-      "Sandro Botticelli",
-      "Titian",
-      "Raphael",
-      "Leonardo da Vinci"
-    ],
-    "answer": "Sandro Botticelli"
   },
   {
     "id": "general-2121",
@@ -27051,19 +26128,6 @@
       "Expressionism"
     ],
     "answer": "Surrealism"
-  },
-  {
-    "id": "general-2124",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "Who sculpted the famous statue of 'David'?",
-    "options": [
-      "Michelangelo",
-      "Donatello",
-      "Bernini",
-      "Rodin"
-    ],
-    "answer": "Michelangelo"
   },
   {
     "id": "general-2125",
@@ -27129,19 +26193,6 @@
       "Peter Paul Rubens"
     ],
     "answer": "Rembrandt van Rijn"
-  },
-  {
-    "id": "general-2130",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "Which art movement, pioneered by Claude Monet, focuses on capturing light and its changing qualities?",
-    "options": [
-      "Impressionism",
-      "Expressionism",
-      "Fauvism",
-      "Pointillism"
-    ],
-    "answer": "Impressionism"
   },
   {
     "id": "general-2131",
@@ -27261,19 +26312,6 @@
     "answer": "Eugene Delacroix"
   },
   {
-    "id": "general-2140",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "Who is the ancient Egyptian sun god, often depicted with a falcon head?",
-    "options": [
-      "Ra",
-      "Anubis",
-      "Horus",
-      "Thoth"
-    ],
-    "answer": "Ra"
-  },
-  {
     "id": "general-2141",
     "category": "general",
     "difficulty": "easy",
@@ -27326,19 +26364,6 @@
     "answer": "Sphinx"
   },
   {
-    "id": "general-2145",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "Who is the Roman god of war?",
-    "options": [
-      "Mars",
-      "Jupiter",
-      "Neptune",
-      "Vulcan"
-    ],
-    "answer": "Mars"
-  },
-  {
     "id": "general-2146",
     "category": "general",
     "difficulty": "hard",
@@ -27350,19 +26375,6 @@
       "Gullfaxi"
     ],
     "answer": "Sleipnir"
-  },
-  {
-    "id": "general-2147",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "Who is the Greek god of the sea?",
-    "options": [
-      "Poseidon",
-      "Zeus",
-      "Hades",
-      "Apollo"
-    ],
-    "answer": "Poseidon"
   },
   {
     "id": "general-2148",
@@ -27417,19 +26429,6 @@
     "answer": "Isis"
   },
   {
-    "id": "general-2152",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "In Greek mythology, who is the god of the underworld?",
-    "options": [
-      "Hades",
-      "Poseidon",
-      "Zeus",
-      "Ares"
-    ],
-    "answer": "Hades"
-  },
-  {
     "id": "general-2153",
     "category": "general",
     "difficulty": "easy",
@@ -27467,19 +26466,6 @@
       "Spain"
     ],
     "answer": "Italy"
-  },
-  {
-    "id": "general-2156",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "What is the main ingredient in guacamole?",
-    "options": [
-      "Avocado",
-      "Tomato",
-      "Lime",
-      "Onion"
-    ],
-    "answer": "Avocado"
   },
   {
     "id": "general-2157",
@@ -27623,19 +26609,6 @@
       "Cashews"
     ],
     "answer": "Almonds"
-  },
-  {
-    "id": "general-2168",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "What type of small, rice-shaped pasta is often used in soups and salads?",
-    "options": [
-      "Orzo",
-      "Farfalle",
-      "Penne",
-      "Fusilli"
-    ],
-    "answer": "Orzo"
   },
   {
     "id": "general-2169",
@@ -27820,19 +26793,6 @@
     "answer": "Apple"
   },
   {
-    "id": "general-2183",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "What does the computing term 'CPU' stand for?",
-    "options": [
-      "Central Processing Unit",
-      "Computer Processing Unit",
-      "Central Program Unit",
-      "Core Processing Utility"
-    ],
-    "answer": "Central Processing Unit"
-  },
-  {
     "id": "general-2184",
     "category": "general",
     "difficulty": "hard",
@@ -27896,32 +26856,6 @@
       "Unified Serial Bus"
     ],
     "answer": "Universal Serial Bus"
-  },
-  {
-    "id": "general-2189",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "Which company originally developed the Android operating system before it was acquired by Google in 2005?",
-    "options": [
-      "Android Inc.",
-      "Danger Inc.",
-      "Palm Inc.",
-      "Symbian Ltd."
-    ],
-    "answer": "Android Inc."
-  },
-  {
-    "id": "general-2190",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "What does the computing term 'RAM' stand for?",
-    "options": [
-      "Random Access Memory",
-      "Read Access Memory",
-      "Rapid Access Memory",
-      "Runtime Access Memory"
-    ],
-    "answer": "Random Access Memory"
   },
   {
     "id": "general-2191",
