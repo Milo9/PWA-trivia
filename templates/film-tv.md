@@ -16,6 +16,10 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't
 draft facts that overlap with these (pick different, more specific facts
 instead):
 - Who played the title role in "Forrest Gump" (Tom Hanks)
+- First non-English-language film to win Best Picture (Parasite)
+- First woman to win the Academy Award for Best Director (Kathryn Bigelow)
+- Highest-grossing film of all time unadjusted for inflation (Avatar)
+- Name of the paper company in "The Office" (US) (Dunder Mifflin)
 
 Use web search to verify every fact — do not rely on memory alone. Prefer
 authoritative sources (IMDb, encyclopedic sources) over guessing. For each
