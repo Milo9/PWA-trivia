@@ -15,6 +15,13 @@
 //      unplayable as multiple-choice options. Flagged mechanically because
 //      self-review missed them repeatedly in practice.
 //
+// Also reports (advisory, non-blocking — see the exit code logic below):
+// answers that leak into the question text, options that read as full
+// sentences instead of a short answer, and a drafted question sharing a
+// specific correct answer with an existing (or another drafted) question at
+// low text overlap — the "same fact, different wording" case duplicate-by-
+// question-text-similarity misses.
+//
 // Usage:
 //   node scripts/check-draft.js <path-to-draft.js>
 //
@@ -24,13 +31,27 @@
 
 const fs = require("fs");
 const path = require("path");
-const { wordSet, jaccard, NEAR_DUPLICATE_THRESHOLD } = require("./validate.js");
+const {
+  wordSet,
+  jaccard,
+  NEAR_DUPLICATE_THRESHOLD,
+  normalizeAnswer,
+  normalize,
+  MAX_ANSWER_GROUP_SIZE,
+  MIN_ANSWER_DUPLICATE_LENGTH,
+} = require("./validate.js");
 
 const ROOT = path.join(__dirname, "..");
 const DATA_DIR = path.join(ROOT, "data");
 const CATEGORIES_FILE = path.join(DATA_DIR, "categories.json");
 const LIKELY_DUPLICATE_THRESHOLD = 0.85;
 const MAX_OPTION_LENGTH = 90;
+// Options this long that also look like a sentence (contains a linking verb,
+// or ends in terminal punctuation) read as explanatory prose rather than a
+// short noun-phrase answer — advisory only, since multi-part names ("Huey,
+// Dewey, and Louie") and legitimate "why/what happens" answers trip this too.
+const SENTENCE_LIKE_MIN_LENGTH = 40;
+const SENTENCE_LIKE_PATTERN = /[.!?]$|\b(is|are|was|were|because)\b/i;
 
 // Options/questions matching these patterns read as hedges or meta-commentary
 // rather than answers a player could actually pick — e.g. "This isn't a real
@@ -122,6 +143,50 @@ function checkHedges(q, i) {
   return problems;
 }
 
+function escapeRegExp(str) {
+  return str.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+}
+
+// Flags a question that states its own answer, e.g. a full episode/book/movie
+// title named in the question that already contains the tested word, or a
+// question that names the same entity it's asking the player to identify.
+// Word-boundary matched — a naive substring check also fires on coincidental
+// containment ("Ross" inside "across", "Euro" inside "European", "Ear"
+// inside "hearing"), which isn't a leak at all. Advisory rather than
+// blocking: even with word boundaries, some hits are a legitimate quiz
+// convention rather than a bug (a Shakespeare play named after its title
+// character, e.g. "Macbeth"), so this needs a human judgment call like the
+// other advisory checks below.
+function checkAnswerLeak(q, i) {
+  const hits = [];
+  if (typeof q.answer !== "string" || typeof q.question !== "string") return hits;
+  const normAnswer = normalize(q.answer);
+  const normQuestion = normalize(q.question);
+  if (!normAnswer) return hits;
+  const re = new RegExp(`\\b${escapeRegExp(normAnswer)}\\b`);
+  if (re.test(normQuestion)) {
+    hits.push(
+      `draft[${i}]: answer "${q.answer}" appears verbatim in the question text — "${q.question}"`
+    );
+  }
+  return hits;
+}
+
+// Advisory: options that read as full sentences instead of short noun
+// phrases. Not blocking (see SENTENCE_LIKE_PATTERN comment above) — printed
+// separately for a human skim, not counted toward the merge-blocking total.
+function checkSentenceLikeAnswer(q, i) {
+  const hits = [];
+  if (!Array.isArray(q.options)) return hits;
+  for (const opt of q.options) {
+    if (typeof opt !== "string") continue;
+    if (opt.length >= SENTENCE_LIKE_MIN_LENGTH && SENTENCE_LIKE_PATTERN.test(opt)) {
+      hits.push(`draft[${i}]: option reads like a sentence, not a short answer — "${opt}"`);
+    }
+  }
+  return hits;
+}
+
 function nearestMatches(draftQ, corpus, topN) {
   const draftWords = wordSet(draftQ.question || "");
   const scored = corpus.map((c) => ({
@@ -133,6 +198,55 @@ function nearestMatches(draftQ, corpus, topN) {
   return scored.slice(0, topN);
 }
 
+// Groups questions by normalized answer, for the "same fact, low word
+// overlap" check below. checkAnswerDuplicates applies validate.js's
+// MAX_ANSWER_GROUP_SIZE cap at lookup time (skip a corpus match if that
+// answer is already common enough there to be a generic reused entity
+// rather than a specific duplicate signal) — see validate.js for why group
+// size, not answer length, is the right discriminator.
+function buildAnswerIndex(questions) {
+  const index = new Map();
+  for (const q of questions) {
+    if (typeof q.answer !== "string") continue;
+    const key = normalizeAnswer(q.answer);
+    if (!key || key.length < MIN_ANSWER_DUPLICATE_LENGTH) continue;
+    if (!index.has(key)) index.set(key, []);
+    index.get(key).push(q);
+  }
+  return index;
+}
+
+// Catches the same "same fact, different wording" case as validate.js's
+// findAnswerDuplicates, scoped to draft-vs-corpus and draft-vs-draft instead
+// of whole-corpus self-comparison. draftMatches is the same-key draft items
+// (excluding q itself), pre-filtered by the caller.
+function checkAnswerDuplicates(q, i, corpusIndex, draftMatches) {
+  const hits = [];
+  if (typeof q.answer !== "string") return hits;
+  const key = normalizeAnswer(q.answer);
+  if (!key || key.length < MIN_ANSWER_DUPLICATE_LENGTH) return hits;
+
+  const draftWords = wordSet(q.question || "");
+  const corpusMatches = corpusIndex.get(key) || [];
+  if (corpusMatches.length <= MAX_ANSWER_GROUP_SIZE) {
+    for (const match of corpusMatches) {
+      const sim = jaccard(draftWords, wordSet(match.question || ""));
+      if (sim >= NEAR_DUPLICATE_THRESHOLD) continue; // already caught by nearestMatches above
+      hits.push(
+        `draft[${i}]: shares answer "${q.answer}" with existing ${match.id} (question overlap ${sim.toFixed(2)}) — check if it's the same fact reworded: "${match.question}"`
+      );
+    }
+  }
+  for (const other of draftMatches) {
+    const sim = jaccard(draftWords, wordSet(other.q.question || ""));
+    if (sim >= NEAR_DUPLICATE_THRESHOLD) continue;
+    hits.push(
+      `draft[${i}]: shares answer "${q.answer}" with draft[${other.i}] (question overlap ${sim.toFixed(2)}) — check if it's the same fact reworded: "${other.q.question}"`
+    );
+  }
+  return hits;
+}
+
 function main() {
   const draftPath = process.argv[2];
   if (!draftPath) {
@@ -142,12 +256,15 @@ function main() {
 
   const draft = loadDraft(draftPath);
   const corpus = loadCorpus();
+  const corpusAnswerIndex = buildAnswerIndex(corpus);
+  const draftAnswerIndex = buildAnswerIndex(draft.map((q, i) => ({ ...q, __i: i })));
 
   console.log(`Checking ${draft.length} draft question(s) against ${corpus.length} existing questions...\n`);
 
   let schemaProblems = 0;
   let likelyDupes = 0;
   let nearDupes = 0;
+  let advisories = 0;
 
   draft.forEach((q, i) => {
     const problems = [...checkSchema(q, i), ...checkHedges(q, i)];
@@ -167,9 +284,20 @@ function main() {
       console.log(`  ! draft[${i}] near-duplicate (${top.score.toFixed(2)}) of ${top.id}: "${top.question}"`);
       console.log(`      draft: "${q.question}"`);
     }
+
+    const leakHits = checkAnswerLeak(q, i);
+    const sentenceHits = checkSentenceLikeAnswer(q, i);
+    const draftKey = typeof q.answer === "string" ? normalizeAnswer(q.answer) : "";
+    const draftMatches = (draftAnswerIndex.get(draftKey) || [])
+      .filter((other) => other.__i !== i)
+      .map((other) => ({ q: other, i: other.__i }));
+    const answerDupHits = checkAnswerDuplicates(q, i, corpusAnswerIndex, draftMatches);
+    const allAdvisories = [...leakHits, ...sentenceHits, ...answerDupHits];
+    advisories += allAdvisories.length;
+    for (const h of allAdvisories) console.log("  ? " + h);
   });
 
-  console.log(`\n${draft.length} drafted, ${schemaProblems} schema/hedge problem(s), ${likelyDupes} likely duplicate(s), ${nearDupes} near-duplicate warning(s).`);
+  console.log(`\n${draft.length} drafted, ${schemaProblems} schema/hedge problem(s), ${likelyDupes} likely duplicate(s), ${nearDupes} near-duplicate warning(s), ${advisories} advisory note(s) (answer leak/reuse/sentence-like — judgment calls).`);
   console.log(
     schemaProblems === 0 && likelyDupes === 0
       ? "Clear to merge (review near-duplicate warnings, if any, as judgment calls)."

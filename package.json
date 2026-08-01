@@ -7,6 +7,7 @@
     "validate": "node scripts/validate.js",
     "check-draft": "node scripts/check-draft.js",
     "analyze": "node scripts/analyze.js",
+    "find-gaps": "node scripts/find-gaps.js",
     "stamp": "node scripts/stamp-version.js",
     "serve": "node scripts/serve.js",
     "ship": "node scripts/ship.js"

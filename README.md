@@ -22,6 +22,8 @@ data/categories.json             — category manifest (id, name, file)
 data/questions/<category>.json   — one array of questions per category
 scripts/validate.js              — schema + duplicate + quality checks
 scripts/check-draft.js           — pre-merge check for a not-yet-added batch
+scripts/analyze.js               — difficulty/answer-position/topic coverage report
+scripts/find-gaps.js             — topics used only as a wrong answer, never correct
 scripts/stamp-version.js         — updates the offline cache version
 scripts/serve.js                 — local dev server
 scripts/generate-icons.ps1       — regenerates icons/ (Windows/PowerShell)
@@ -68,9 +70,21 @@ tokens and re-auditing shouldn't:
    (not just a keyword grep) using the same fuzzy-match function
    `validate.js` uses, and rejects known hedge/meta-answer patterns (e.g.
    an option that says "this isn't a real plot point" instead of giving a
-   real answer). Fix anything it flags as a schema problem or a likely
-   duplicate (score ≥ 0.85) before moving on; near-duplicate warnings
-   (0.70–0.85) are judgment calls like the ones from `validate`.
+   real answer). It also reports, as advisory notes (not blocking — see
+   below): the answer text leaking verbatim into the question, options that
+   read as a full sentence rather than a short answer, and a drafted
+   question sharing its correct answer with an existing (or another
+   drafted) question at low text overlap — the same fact tested with
+   different wording (e.g. "What weapon is Robin Hood skilled with?" →
+   "Bow and arrow" vs. "What is Robin Hood's signature skill?" → "Archery")
+   often has *low* text overlap, so it slips past the word-overlap
+   duplicate check above; matching on the answer instead catches it (only
+   when that answer isn't already common across several existing
+   questions, since a widely-reused answer like a country or a person's
+   name is a coincidence, not a duplicate signal). Fix anything it flags as
+   a schema problem or a likely duplicate (score ≥ 0.85) before moving on;
+   near-duplicate warnings (0.70–0.85) and the advisory notes are judgment
+   calls like the ones from `validate`.
 3. Merge the draft into `data/questions/<category>.json`, assigning each
    entry a sequential `id` starting one past the current highest number in
    that category, and setting `category` to match.
@@ -80,7 +94,12 @@ tokens and re-auditing shouldn't:
    ```
    This checks schema correctness, flags exact duplicates as **errors**, and
    flags near-duplicate question text (fuzzy word-overlap match, within *and*
-   across categories) as **warnings** for a human/AI judgment call.
+   across categories) as **warnings** for a human/AI judgment call. It also
+   flags pairs of questions in the same category that share a correct
+   answer used by only one other question (not a widely-reused one) but
+   have low question-text overlap — the whole-corpus version of the
+   same-fact-different-wording check `check-draft.js` runs on a single
+   batch.
 5. Fix anything flagged. Warnings aren't automatically wrong — e.g. two
    genuinely different questions can share enough wording to get flagged;
    use judgment (or ask Claude to look at the specific pair) rather than
@@ -95,6 +114,26 @@ tokens and re-auditing shouldn't:
    commit message for you, since that requires actually knowing what
    changed, but it guarantees validate-then-stamp always runs first and
    collapses the rest into one call.
+
+### Finding what to draft next
+
+`npm run analyze` reports difficulty balance, correct-answer position bias,
+and (for categories with a `data/topics.json` entry) which tracked subjects
+are thinnest. `npm run find-gaps` complements it: it reports tracked
+subjects that show up as a *wrong* answer somewhere but have never been the
+correct answer to any question — a subject already in the corpus's orbit
+that hasn't had its own question yet, which tends to be a cheaper source of
+genuinely fresh angles than guessing.
+
+Both are keyword/alias-based against `data/topics.json`, so treat "thin" or
+"zero-coverage" labels as a lead to spot-check, not a verdict — a topic can
+look under-covered purely because its aliases don't match how existing
+questions happen to phrase it. Grep the actual corpus for the topic before
+assuming it's open. `find-gaps.js` in particular can only surface subjects
+someone already curated into `topics.json` — for `friends`/`big-bang-theory`
+that list is just the main cast, who obviously already have plenty of
+correct-answer questions, so it will usually report nothing there. It's
+most useful for a category like `general` with broader subject buckets.
 
 ### Sourcing facts for a heavily-populated category
 

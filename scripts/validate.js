@@ -17,6 +17,21 @@ const REQUIRED_OPTION_COUNT = 4;
 const DIFFICULTIES = new Set(["easy", "medium", "hard"]);
 const ID_PATTERN = /^[a-z0-9-]+-\d{3,}$/;
 const NEAR_DUPLICATE_THRESHOLD = 0.7;
+// Group size, not answer length, is what actually separates "this answer is
+// just a generic reused entity" (Thomas Jefferson answers both a Declaration
+// question and a Louisiana Purchase question; William Shakespeare answers a
+// dozen different plays) from "this answer is genuinely specific enough that
+// two questions sharing it are probably the same fact." Measured against
+// this corpus: capping at 2 (an answer used exactly twice) keeps true finds
+// like "Scurvy" and "Transpiration" while dropping every multi-question
+// generic-entity cluster (Shakespeare, "Theoretical physics", etc.) that a
+// length-only or size<=6 filter let through. Answers shared by MORE than
+// this many questions are skipped entirely by findAnswerDuplicates.
+const MAX_ANSWER_GROUP_SIZE = 2;
+// A short length floor on top of the group-size cap — mostly to filter pure
+// one-word/number answers ("Six", "Red", "1969") that can still coincidentally
+// land in a group of exactly 2.
+const MIN_ANSWER_DUPLICATE_LENGTH = 6;
 
 let errors = [];
 let warnings = [];
@@ -49,6 +64,14 @@ function wordSet(text) {
       .split(" ")
       .filter((w) => w && !STOPWORDS.has(w))
   );
+}
+
+// Normalizes an answer for cross-question comparison: same lowercase/
+// punctuation-stripping as normalize(), plus dropping a leading article or
+// honorific so "The Beatles" and "Beatles" (or "Dr. Watson" and "Watson")
+// group together.
+function normalizeAnswer(text) {
+  return normalize(text).replace(/^(a|an|the|mr|mrs|ms|dr)\s+/, "");
 }
 
 function jaccard(setA, setB) {
@@ -168,6 +191,46 @@ function findDuplicates(questions) {
   }
 }
 
+// Catches "same fact, different wording" duplicates that findDuplicates()
+// misses because the question text itself has little word overlap (e.g.
+// "What weapon is Robin Hood skilled with?" -> "Bow and arrow" vs. "What is
+// Robin Hood's signature skill?" -> "Archery"). Same underlying fact usually
+// means the same correct answer, regardless of phrasing, so grouping by
+// normalized answer surfaces candidates a text-similarity threshold can't.
+//
+// A general-knowledge bank reuses common answers (countries, historical
+// figures, round numbers) across genuinely unrelated facts far more than a
+// single-show bank reuses character names, so this only flags pairs whose
+// question text is BELOW the near-duplicate threshold — pairs at or above it
+// are already reported by findDuplicates(), and re-flagging them here just
+// adds noise without adding a new finding.
+function findAnswerDuplicates(questions) {
+  const groups = new Map();
+  for (const q of questions) {
+    if (!q.answer || typeof q.answer !== "string") continue;
+    const key = normalizeAnswer(q.answer);
+    if (!key || key.length < MIN_ANSWER_DUPLICATE_LENGTH) continue;
+    if (!groups.has(key)) groups.set(key, []);
+    groups.get(key).push({ q, words: wordSet(q.question || "") });
+  }
+
+  for (const group of groups.values()) {
+    if (group.length < 2 || group.length > MAX_ANSWER_GROUP_SIZE) continue;
+    for (let i = 0; i < group.length; i++) {
+      for (let j = i + 1; j < group.length; j++) {
+        const a = group[i];
+        const b = group[j];
+        if (a.q.category !== b.q.category) continue; // cross-category match is almost always coincidence
+        const sim = jaccard(a.words, b.words);
+        if (sim >= NEAR_DUPLICATE_THRESHOLD) continue; // already reported by findDuplicates()
+        warn(
+          `Same answer ("${a.q.answer}"), low word-overlap questions (${sim.toFixed(2)}) in "${a.q.category}" — check whether it's the same fact reworded: "${a.q.id}" ("${a.q.question}") vs "${b.q.id}" ("${b.q.question}")`
+        );
+      }
+    }
+  }
+}
+
 function main() {
   const categories = loadJson(CATEGORIES_FILE, "categories.json");
   if (!categories) {
@@ -202,6 +265,7 @@ function main() {
   }
 
   findDuplicates(allQuestions);
+  findAnswerDuplicates(allQuestions);
 
   console.log(`\nTotal questions across all categories: ${totalCount}`);
   report();
@@ -228,4 +292,12 @@ if (require.main === module) {
   main();
 }
 
-module.exports = { normalize, wordSet, jaccard, NEAR_DUPLICATE_THRESHOLD };
+module.exports = {
+  normalize,
+  wordSet,
+  jaccard,
+  NEAR_DUPLICATE_THRESHOLD,
+  normalizeAnswer,
+  MAX_ANSWER_GROUP_SIZE,
+  MIN_ANSWER_DUPLICATE_LENGTH,
+};
