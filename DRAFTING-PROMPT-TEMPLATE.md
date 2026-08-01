@@ -3,10 +3,11 @@
 Use this when you want an AI agent that has **no context of this repo**
 (e.g. a fresh session, a different tool, one with web search but no
 filesystem access) to draft a batch of trivia questions for you to review.
-Fill in the bracketed parts and paste the whole thing to that agent. Hand
-its output back to Claude in this repo afterward — say which category it's
-for — and Claude will run `check-draft.js`, fix flagged issues, assign IDs,
-merge, validate, and ship.
+Fill in the bracketed parts, then copy everything inside the code block
+below — nothing outside it — and paste that to the agent. Hand its output
+back to Claude in this repo afterward — say which category it's for — and
+Claude will run `check-draft.js`, fix flagged issues, assign IDs, merge,
+validate, and ship.
 
 ---
 
@@ -21,7 +22,8 @@ TOPIC: [e.g. "The Big Bang Theory (TV show) — minor/guest characters" OR
 COUNT: [e.g. 20] questions.
 
 Use web search to verify every fact — do not rely on memory alone. Prefer
-[wiki-name] fan wiki pages, episode guides, or other reliable sources over
+authoritative sources for this topic (e.g. fan wikis and episode guides for
+a TV show, reference databases/almanacs for general knowledge) over
 guessing. For each question, actually find the fact via search rather than
 recalling it, especially for obscure details (guest actor names, minor
 character info, specific numbers/dates/records).
