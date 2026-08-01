@@ -87,9 +87,15 @@ binding constraint, not as a default recommendation to reach for it.
 
 ## External-agent drafting: avoiding convergent duplicate topics
 
-`DRAFTING-PROMPT-TEMPLATE.md` is a prompt for handing batch-drafting to an
-AI agent with no context of this repo (see that file for the full
-template). Those agents draw on roughly the same slice of general/training
+`DRAFTING-PROMPT-TEMPLATE.md` holds one fully self-contained, ready-to-
+copy-paste prompt per category, for handing batch-drafting to an AI agent
+with no context of this repo. **That file is copy-paste content only —
+it has no instructions aimed at the user or at Claude, just the prompts
+themselves.** Claude maintains it directly (see below); the user never
+edits it or assembles a prompt from pieces — they pick a category's
+section and copy the whole code block as-is.
+
+Those external agents draw on roughly the same slice of general/training
 knowledge any other agent — or a memory-only Claude draft — would, so
 different agents (and repeat runs of the same one) tend to converge on the
 same well-known chestnuts. This is the same convergence problem as the
@@ -99,19 +105,21 @@ obvious facts, rather than one corpus slowly exhausting them.
 
 **Don't front-load the prompt with the full corpus or a guessed topic
 list** — expensive in tokens for a payoff that's mostly speculation before
-you've seen what an external agent actually collides on. Instead, the
-template has an "Angles already covered" section, maintained iteratively:
+you've seen what an external agent actually collides on. Instead, each
+category's prompt has its own `AVOID THESE ANGLES` list baked in,
+maintained iteratively:
 
 1. After reviewing an inbox batch (i.e. after running `check-draft.js` and
    `validate` against it), note the **topic/angle** — not the literal
    question wording — behind every confirmed duplicate (e.g. "chemical
    symbol for tungsten," not the exact phrasing of the question that asked
    it).
-2. Add those angles to the matching category's list in the "Angles already
-   covered" section of `DRAFTING-PROMPT-TEMPLATE.md`.
-3. Next time that category's prompt goes to an external agent, the user
-   pastes that list into the prompt's `AVOID THESE ANGLES` line.
-4. If a category's list grows past ~30–40 entries, prune it: drop angles
+2. Edit that category's `AVOID THESE ANGLES` list directly, in place, in
+   `DRAFTING-PROMPT-TEMPLATE.md` — add the new angles to that one
+   category's code block. Don't touch other categories' blocks, and don't
+   maintain the list anywhere else; the prompt block itself is the only
+   copy.
+3. If a category's list grows past ~30–40 entries, prune it: drop angles
    too specific to plausibly recur, and keep the ones that show up
    repeatedly across batches (e.g. "SI unit of X," "chemical symbol for
    Y" — categories of chestnut, not just one-off facts).
@@ -119,9 +127,9 @@ template has an "Angles already covered" section, maintained iteratively:
 **Seeded 2026-08-01** from the first inbox batch (`GLM52-01.js`, 100
 `general`-category questions drafted by an external agent, reviewed and
 merged as `general-2881`–`2970`): 10 of the 100 drafted questions collided
-with the existing corpus, all common science/geography chestnuts. See
-"Angles already covered" in `DRAFTING-PROMPT-TEMPLATE.md` for the current
-list per category.
+with the existing corpus, all common science/geography chestnuts. See the
+per-category `AVOID THESE ANGLES` lists in `DRAFTING-PROMPT-TEMPLATE.md`
+for the current state.
 
 **Expanded 2026-08-01** (same day, larger batch): the 7 other pending
 `questions_inbox/*.js` files predating the topic split (708 questions
