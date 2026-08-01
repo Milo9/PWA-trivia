@@ -53,6 +53,7 @@ OUTPUT FORMAT: A single JavaScript file, CommonJS style, like this:
 module.exports = [
   {
     "difficulty": "easy" | "medium" | "hard",
+    "category": "history",
     "question": "What is...?",
     "options": ["Correct answer", "Wrong option 1", "Wrong option 2", "Wrong option 3"],
     "answer": "Correct answer"
@@ -61,7 +62,10 @@ module.exports = [
 ];
 
 Rules for each entry:
-- Do NOT include "id" or "category" fields — I'll assign those myself.
+- Do NOT include an "id" field — I'll assign that myself.
+- Every entry MUST include "category": "history" exactly as written
+  (all lowercase, with the hyphen) — don't vary it, translate it, or use the
+  topic name instead.
 - Exactly 4 options, all non-empty, all distinct from each other.
 - "answer" must be an exact string match (character-for-character) to one of
   the 4 "options".
@@ -129,6 +133,7 @@ OUTPUT FORMAT: A single JavaScript file, CommonJS style, like this:
 module.exports = [
   {
     "difficulty": "easy" | "medium" | "hard",
+    "category": "geography",
     "question": "What is...?",
     "options": ["Correct answer", "Wrong option 1", "Wrong option 2", "Wrong option 3"],
     "answer": "Correct answer"
@@ -137,7 +142,10 @@ module.exports = [
 ];
 
 Rules for each entry:
-- Do NOT include "id" or "category" fields — I'll assign those myself.
+- Do NOT include an "id" field — I'll assign that myself.
+- Every entry MUST include "category": "geography" exactly as written
+  (all lowercase, with the hyphen) — don't vary it, translate it, or use the
+  topic name instead.
 - Exactly 4 options, all non-empty, all distinct from each other.
 - "answer" must be an exact string match (character-for-character) to one of
   the 4 "options".
@@ -218,6 +226,7 @@ OUTPUT FORMAT: A single JavaScript file, CommonJS style, like this:
 module.exports = [
   {
     "difficulty": "easy" | "medium" | "hard",
+    "category": "science-technology",
     "question": "What is...?",
     "options": ["Correct answer", "Wrong option 1", "Wrong option 2", "Wrong option 3"],
     "answer": "Correct answer"
@@ -226,7 +235,10 @@ module.exports = [
 ];
 
 Rules for each entry:
-- Do NOT include "id" or "category" fields — I'll assign those myself.
+- Do NOT include an "id" field — I'll assign that myself.
+- Every entry MUST include "category": "science-technology" exactly as written
+  (all lowercase, with the hyphen) — don't vary it, translate it, or use the
+  topic name instead.
 - Exactly 4 options, all non-empty, all distinct from each other.
 - "answer" must be an exact string match (character-for-character) to one of
   the 4 "options".
@@ -285,6 +297,7 @@ OUTPUT FORMAT: A single JavaScript file, CommonJS style, like this:
 module.exports = [
   {
     "difficulty": "easy" | "medium" | "hard",
+    "category": "animals-nature",
     "question": "What is...?",
     "options": ["Correct answer", "Wrong option 1", "Wrong option 2", "Wrong option 3"],
     "answer": "Correct answer"
@@ -293,7 +306,10 @@ module.exports = [
 ];
 
 Rules for each entry:
-- Do NOT include "id" or "category" fields — I'll assign those myself.
+- Do NOT include an "id" field — I'll assign that myself.
+- Every entry MUST include "category": "animals-nature" exactly as written
+  (all lowercase, with the hyphen) — don't vary it, translate it, or use the
+  topic name instead.
 - Exactly 4 options, all non-empty, all distinct from each other.
 - "answer" must be an exact string match (character-for-character) to one of
   the 4 "options".
@@ -353,6 +369,7 @@ OUTPUT FORMAT: A single JavaScript file, CommonJS style, like this:
 module.exports = [
   {
     "difficulty": "easy" | "medium" | "hard",
+    "category": "space-astronomy",
     "question": "What is...?",
     "options": ["Correct answer", "Wrong option 1", "Wrong option 2", "Wrong option 3"],
     "answer": "Correct answer"
@@ -361,7 +378,10 @@ module.exports = [
 ];
 
 Rules for each entry:
-- Do NOT include "id" or "category" fields — I'll assign those myself.
+- Do NOT include an "id" field — I'll assign that myself.
+- Every entry MUST include "category": "space-astronomy" exactly as written
+  (all lowercase, with the hyphen) — don't vary it, translate it, or use the
+  topic name instead.
 - Exactly 4 options, all non-empty, all distinct from each other.
 - "answer" must be an exact string match (character-for-character) to one of
   the 4 "options".
@@ -427,6 +447,7 @@ OUTPUT FORMAT: A single JavaScript file, CommonJS style, like this:
 module.exports = [
   {
     "difficulty": "easy" | "medium" | "hard",
+    "category": "arts-literature",
     "question": "What is...?",
     "options": ["Correct answer", "Wrong option 1", "Wrong option 2", "Wrong option 3"],
     "answer": "Correct answer"
@@ -435,7 +456,10 @@ module.exports = [
 ];
 
 Rules for each entry:
-- Do NOT include "id" or "category" fields — I'll assign those myself.
+- Do NOT include an "id" field — I'll assign that myself.
+- Every entry MUST include "category": "arts-literature" exactly as written
+  (all lowercase, with the hyphen) — don't vary it, translate it, or use the
+  topic name instead.
 - Exactly 4 options, all non-empty, all distinct from each other.
 - "answer" must be an exact string match (character-for-character) to one of
   the 4 "options".
@@ -492,6 +516,7 @@ OUTPUT FORMAT: A single JavaScript file, CommonJS style, like this:
 module.exports = [
   {
     "difficulty": "easy" | "medium" | "hard",
+    "category": "film-tv",
     "question": "What is...?",
     "options": ["Correct answer", "Wrong option 1", "Wrong option 2", "Wrong option 3"],
     "answer": "Correct answer"
@@ -500,7 +525,10 @@ module.exports = [
 ];
 
 Rules for each entry:
-- Do NOT include "id" or "category" fields — I'll assign those myself.
+- Do NOT include an "id" field — I'll assign that myself.
+- Every entry MUST include "category": "film-tv" exactly as written
+  (all lowercase, with the hyphen) — don't vary it, translate it, or use the
+  topic name instead.
 - Exactly 4 options, all non-empty, all distinct from each other.
 - "answer" must be an exact string match (character-for-character) to one of
   the 4 "options".
@@ -556,6 +584,7 @@ OUTPUT FORMAT: A single JavaScript file, CommonJS style, like this:
 module.exports = [
   {
     "difficulty": "easy" | "medium" | "hard",
+    "category": "music",
     "question": "What is...?",
     "options": ["Correct answer", "Wrong option 1", "Wrong option 2", "Wrong option 3"],
     "answer": "Correct answer"
@@ -564,7 +593,10 @@ module.exports = [
 ];
 
 Rules for each entry:
-- Do NOT include "id" or "category" fields — I'll assign those myself.
+- Do NOT include an "id" field — I'll assign that myself.
+- Every entry MUST include "category": "music" exactly as written
+  (all lowercase, with the hyphen) — don't vary it, translate it, or use the
+  topic name instead.
 - Exactly 4 options, all non-empty, all distinct from each other.
 - "answer" must be an exact string match (character-for-character) to one of
   the 4 "options".
@@ -620,6 +652,7 @@ OUTPUT FORMAT: A single JavaScript file, CommonJS style, like this:
 module.exports = [
   {
     "difficulty": "easy" | "medium" | "hard",
+    "category": "sports",
     "question": "What is...?",
     "options": ["Correct answer", "Wrong option 1", "Wrong option 2", "Wrong option 3"],
     "answer": "Correct answer"
@@ -628,7 +661,10 @@ module.exports = [
 ];
 
 Rules for each entry:
-- Do NOT include "id" or "category" fields — I'll assign those myself.
+- Do NOT include an "id" field — I'll assign that myself.
+- Every entry MUST include "category": "sports" exactly as written
+  (all lowercase, with the hyphen) — don't vary it, translate it, or use the
+  topic name instead.
 - Exactly 4 options, all non-empty, all distinct from each other.
 - "answer" must be an exact string match (character-for-character) to one of
   the 4 "options".
@@ -679,6 +715,7 @@ OUTPUT FORMAT: A single JavaScript file, CommonJS style, like this:
 module.exports = [
   {
     "difficulty": "easy" | "medium" | "hard",
+    "category": "food-drink",
     "question": "What is...?",
     "options": ["Correct answer", "Wrong option 1", "Wrong option 2", "Wrong option 3"],
     "answer": "Correct answer"
@@ -687,7 +724,10 @@ module.exports = [
 ];
 
 Rules for each entry:
-- Do NOT include "id" or "category" fields — I'll assign those myself.
+- Do NOT include an "id" field — I'll assign that myself.
+- Every entry MUST include "category": "food-drink" exactly as written
+  (all lowercase, with the hyphen) — don't vary it, translate it, or use the
+  topic name instead.
 - Exactly 4 options, all non-empty, all distinct from each other.
 - "answer" must be an exact string match (character-for-character) to one of
   the 4 "options".
@@ -744,6 +784,7 @@ OUTPUT FORMAT: A single JavaScript file, CommonJS style, like this:
 module.exports = [
   {
     "difficulty": "easy" | "medium" | "hard",
+    "category": "mythology-religion",
     "question": "What is...?",
     "options": ["Correct answer", "Wrong option 1", "Wrong option 2", "Wrong option 3"],
     "answer": "Correct answer"
@@ -752,7 +793,10 @@ module.exports = [
 ];
 
 Rules for each entry:
-- Do NOT include "id" or "category" fields — I'll assign those myself.
+- Do NOT include an "id" field — I'll assign that myself.
+- Every entry MUST include "category": "mythology-religion" exactly as written
+  (all lowercase, with the hyphen) — don't vary it, translate it, or use the
+  topic name instead.
 - Exactly 4 options, all non-empty, all distinct from each other.
 - "answer" must be an exact string match (character-for-character) to one of
   the 4 "options".
@@ -804,6 +848,7 @@ OUTPUT FORMAT: A single JavaScript file, CommonJS style, like this:
 module.exports = [
   {
     "difficulty": "easy" | "medium" | "hard",
+    "category": "world-cultures",
     "question": "What is...?",
     "options": ["Correct answer", "Wrong option 1", "Wrong option 2", "Wrong option 3"],
     "answer": "Correct answer"
@@ -812,7 +857,10 @@ module.exports = [
 ];
 
 Rules for each entry:
-- Do NOT include "id" or "category" fields — I'll assign those myself.
+- Do NOT include an "id" field — I'll assign that myself.
+- Every entry MUST include "category": "world-cultures" exactly as written
+  (all lowercase, with the hyphen) — don't vary it, translate it, or use the
+  topic name instead.
 - Exactly 4 options, all non-empty, all distinct from each other.
 - "answer" must be an exact string match (character-for-character) to one of
   the 4 "options".
@@ -871,6 +919,7 @@ OUTPUT FORMAT: A single JavaScript file, CommonJS style, like this:
 module.exports = [
   {
     "difficulty": "easy" | "medium" | "hard",
+    "category": "general",
     "question": "What is...?",
     "options": ["Correct answer", "Wrong option 1", "Wrong option 2", "Wrong option 3"],
     "answer": "Correct answer"
@@ -879,7 +928,10 @@ module.exports = [
 ];
 
 Rules for each entry:
-- Do NOT include "id" or "category" fields — I'll assign those myself.
+- Do NOT include an "id" field — I'll assign that myself.
+- Every entry MUST include "category": "general" exactly as written
+  (all lowercase, with the hyphen) — don't vary it, translate it, or use the
+  topic name instead.
 - Exactly 4 options, all non-empty, all distinct from each other.
 - "answer" must be an exact string match (character-for-character) to one of
   the 4 "options".
@@ -941,6 +993,7 @@ OUTPUT FORMAT: A single JavaScript file, CommonJS style, like this:
 module.exports = [
   {
     "difficulty": "easy" | "medium" | "hard",
+    "category": "friends",
     "question": "What is...?",
     "options": ["Correct answer", "Wrong option 1", "Wrong option 2", "Wrong option 3"],
     "answer": "Correct answer"
@@ -949,7 +1002,10 @@ module.exports = [
 ];
 
 Rules for each entry:
-- Do NOT include "id" or "category" fields — I'll assign those myself.
+- Do NOT include an "id" field — I'll assign that myself.
+- Every entry MUST include "category": "friends" exactly as written
+  (all lowercase, with the hyphen) — don't vary it, translate it, or use the
+  topic name instead.
 - Exactly 4 options, all non-empty, all distinct from each other.
 - "answer" must be an exact string match (character-for-character) to one of
   the 4 "options".
@@ -1012,6 +1068,7 @@ OUTPUT FORMAT: A single JavaScript file, CommonJS style, like this:
 module.exports = [
   {
     "difficulty": "easy" | "medium" | "hard",
+    "category": "big-bang-theory",
     "question": "What is...?",
     "options": ["Correct answer", "Wrong option 1", "Wrong option 2", "Wrong option 3"],
     "answer": "Correct answer"
@@ -1020,7 +1077,10 @@ module.exports = [
 ];
 
 Rules for each entry:
-- Do NOT include "id" or "category" fields — I'll assign those myself.
+- Do NOT include an "id" field — I'll assign that myself.
+- Every entry MUST include "category": "big-bang-theory" exactly as written
+  (all lowercase, with the hyphen) — don't vary it, translate it, or use the
+  topic name instead.
 - Exactly 4 options, all non-empty, all distinct from each other.
 - "answer" must be an exact string match (character-for-character) to one of
   the 4 "options".

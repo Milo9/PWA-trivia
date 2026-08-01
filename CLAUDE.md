@@ -131,6 +131,22 @@ with the existing corpus, all common science/geography chestnuts. See the
 per-category `AVOID THESE ANGLES` lists in `DRAFTING-PROMPT-TEMPLATE.md`
 for the current state.
 
+**Drafts now self-declare `category` (2026-08-01):** since each prompt in
+`DRAFTING-PROMPT-TEMPLATE.md` is already for exactly one category, every
+prompt's `OUTPUT FORMAT` example and rules now require the external agent
+to stamp a fixed `"category": "<slug>"` (the real `data/categories.json`
+id, e.g. `"history"`) onto every entry, rather than omitting it. `id` is
+still excluded — that still requires knowing the current max ID in the
+target file at merge time, which the external agent can't know. This
+doesn't remove any real classification work on Claude's side (the
+category was already known from which prompt was used, and previously
+got applied to the whole file in one step at merge time either way) — it
+just removes the need for the user to state the category when handing a
+completed draft back, and gives a field `check-draft.js`/a human skim can
+cross-check against the filename it's being merged into.
+`check-draft.js` doesn't read or validate this field itself (see its
+header comment).
+
 **Expanded 2026-08-01** (same day, larger batch): the 7 other pending
 `questions_inbox/*.js` files predating the topic split (708 questions
 total, drafted independently of each other and of GLM52-01.js — no shared

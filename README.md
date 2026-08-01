@@ -69,14 +69,17 @@ tokens and re-auditing shouldn't:
 1. Ask Claude to draft a batch for a category (existing or new). Point it at
    this README/schema for context if starting a fresh session. Draft into a
    scratch JS file (CommonJS, `module.exports = [...]`) of objects shaped
-   like the schema below but **without** `id`/`category` — those get
-   assigned when the batch is merged into `data/`. See "Sourcing facts for
-   a heavily-populated category" below before drafting `friends` or
-   `big-bang-theory` — memory-only drafting is exhausted for both.
-   Alternatively, draft with an AI agent that has no context of this repo
-   (e.g. one with web search but no filesystem access) using
-   [DRAFTING-PROMPT-TEMPLATE.md](DRAFTING-PROMPT-TEMPLATE.md), then hand its
-   output to Claude here for review.
+   like the schema below but **without** `id` — that gets assigned when the
+   batch is merged into `data/`. See "Sourcing facts for a heavily-populated
+   category" below before drafting `friends` or `big-bang-theory` —
+   memory-only drafting is exhausted for both. Alternatively, draft with an
+   AI agent that has no context of this repo (e.g. one with web search but
+   no filesystem access) using
+   [DRAFTING-PROMPT-TEMPLATE.md](DRAFTING-PROMPT-TEMPLATE.md) — each
+   prompt there is already category-specific and has the agent stamp a
+   `category` field on every entry, so you don't need to state which
+   category the file is for when handing its output back to Claude — just
+   hand it over.
 2. Check the draft *before* merging it into `data/`:
    ```
    npm run check-draft -- <path-to-draft.js>

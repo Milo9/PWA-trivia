@@ -26,8 +26,12 @@
 //   node scripts/check-draft.js <path-to-draft.js>
 //
 // The draft file must be a CommonJS module exporting an array of objects
-// shaped like { difficulty, question, options, answer } — no id/category
-// yet, those get assigned at merge time (see README "Adding a new batch").
+// shaped like { difficulty, question, options, answer } — no id yet, that
+// gets assigned at merge time (see README "Adding a new batch"). A
+// "category" field is optional here: external-agent drafts from
+// DRAFTING-PROMPT-TEMPLATE.md include it (each prompt is already
+// category-specific, so the agent just stamps a fixed value); this script
+// doesn't read or validate it either way.
 
 const fs = require("fs");
 const path = require("path");
