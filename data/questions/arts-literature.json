@@ -3625,5 +3625,1305 @@
       "Library and Archives Canada"
     ],
     "answer": "Library of Congress"
+  },
+  {
+    "id": "arts-literature-031",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "The Burghers of Calais, a sculpture by Auguste Rodin, commemorates an event during which conflict?",
+    "options": [
+      "The Hundred Years' War",
+      "The War of the Roses",
+      "The Thirty Years' War",
+      "The French Revolution"
+    ],
+    "answer": "The Hundred Years' War"
+  },
+  {
+    "id": "arts-literature-032",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which American author wrote the novel \"The House of Mirth\"?",
+    "options": [
+      "Willa Cather",
+      "Edith Wharton",
+      "Kate Chopin",
+      "Henry James"
+    ],
+    "answer": "Edith Wharton"
+  },
+  {
+    "id": "arts-literature-033",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "In Homer's \"Odyssey,\" what is the name of Odysseus's faithful dog?",
+    "options": [
+      "Laertes",
+      "Eumaeus",
+      "Telemachus",
+      "Argos"
+    ],
+    "answer": "Argos"
+  },
+  {
+    "id": "arts-literature-034",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "What 20th-century American poet wrote \"The Love Song of J. Alfred Prufrock\"?",
+    "options": [
+      "T.S. Eliot",
+      "Ezra Pound",
+      "Wallace Stevens",
+      "Robert Frost"
+    ],
+    "answer": "T.S. Eliot"
+  },
+  {
+    "id": "arts-literature-035",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Which Italian Renaissance painter is known for the frescoes in the Camera degli Sposi in Mantua?",
+    "options": [
+      "Sandro Botticelli",
+      "Piero della Francesca",
+      "Andrea Mantegna",
+      "Paolo Uccello"
+    ],
+    "answer": "Andrea Mantegna"
+  },
+  {
+    "id": "arts-literature-036",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "\"Wide Sargasso Sea\" by Jean Rhys serves as a prequel to which 19th-century novel?",
+    "options": [
+      "Wuthering Heights",
+      "Jane Eyre",
+      "Middlemarch",
+      "Tess of the d'Urbervilles"
+    ],
+    "answer": "Jane Eyre"
+  },
+  {
+    "id": "arts-literature-037",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "What literary term describes a novel that focuses on the psychological and moral growth of its protagonist from youth to adulthood?",
+    "options": [
+      "Künstlerroman",
+      "Picaresque",
+      "Epistolary",
+      "Bildungsroman"
+    ],
+    "answer": "Bildungsroman"
+  },
+  {
+    "id": "arts-literature-038",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which brothers created the Ghent Altarpiece, also known as \"The Adoration of the Mystic Lamb\"?",
+    "options": [
+      "Limbourg",
+      "Pollaiuolo",
+      "van Eyck",
+      "Bellini"
+    ],
+    "answer": "van Eyck"
+  },
+  {
+    "id": "arts-literature-039",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "What is the name of the fictional town that serves as the setting for Gabriel García Márquez's \"One Hundred Years of Solitude\"?",
+    "options": [
+      "Macondo",
+      "Santa María",
+      "Comala",
+      "Luvina"
+    ],
+    "answer": "Macondo"
+  },
+  {
+    "id": "arts-literature-040",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Donatello's celebrated 15th-century \"David,\" the first freestanding nude statue since antiquity, is made primarily of which metal?",
+    "options": [
+      "Marble",
+      "Bronze",
+      "Terracotta",
+      "Wood"
+    ],
+    "answer": "Bronze"
+  },
+  {
+    "id": "arts-literature-041",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "In John Milton's \"Paradise Lost,\" which archangel is the regent of the sun and initially guards Eden?",
+    "options": [
+      "Raphael",
+      "Michael",
+      "Gabriel",
+      "Uriel"
+    ],
+    "answer": "Uriel"
+  },
+  {
+    "id": "arts-literature-042",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "In Velázquez's \"Las Meninas,\" the mirror on the back wall reflects whom?",
+    "options": [
+      "King Philip IV and Queen Mariana",
+      "The artist and his wife",
+      "The Infanta Margarita and her duenna",
+      "The royal hounds"
+    ],
+    "answer": "King Philip IV and Queen Mariana"
+  },
+  {
+    "id": "arts-literature-043",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "In Anton Chekhov's \"The Cherry Orchard,\" what is the name of the landowner who returns from Paris?",
+    "options": [
+      "Irina Arkadina",
+      "Olga Prozorova",
+      "Lyubov Ranevskaya",
+      "Masha Kulygina"
+    ],
+    "answer": "Lyubov Ranevskaya"
+  },
+  {
+    "id": "arts-literature-044",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "In Gustave Flaubert's \"Madame Bovary,\" which character is the pompous pharmacist of Yonville?",
+    "options": [
+      "Monsieur Lheureux",
+      "Monsieur Homais",
+      "Léon Dupuis",
+      "Rodolphe Boulanger"
+    ],
+    "answer": "Monsieur Homais"
+  },
+  {
+    "id": "arts-literature-045",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which object is prominently displayed on the rear wall in Jan van Eyck's \"Arnolfini Portrait\"?",
+    "options": [
+      "A crucifix",
+      "A candlestick",
+      "A map",
+      "A convex mirror"
+    ],
+    "answer": "A convex mirror"
+  },
+  {
+    "id": "arts-literature-046",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "In Botticelli's \"The Birth of Venus,\" Venus stands on which object?",
+    "options": [
+      "A giant scallop shell",
+      "A cloud",
+      "A seahorse chariot",
+      "A lotus flower"
+    ],
+    "answer": "A giant scallop shell"
+  },
+  {
+    "id": "arts-literature-047",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "\"Arma virumque cano\" is the opening of which Latin epic?",
+    "options": [
+      "The Metamorphoses",
+      "The Odyssey",
+      "The Aeneid",
+      "The Iliad"
+    ],
+    "answer": "The Aeneid"
+  },
+  {
+    "id": "arts-literature-048",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Agatha Christie's Miss Marple made her debut in which 1930 novel?",
+    "options": [
+      "The Body in the Library",
+      "The Murder at the Vicarage",
+      "A Murder Is Announced",
+      "4.50 from Paddington"
+    ],
+    "answer": "The Murder at the Vicarage"
+  },
+  {
+    "id": "arts-literature-049",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "In \"The Rime of the Ancient Mariner,\" what does the mariner wear around his neck as a punishment?",
+    "options": [
+      "The dead albatross",
+      "A cross of ice",
+      "A ship's bell",
+      "A cursed amulet"
+    ],
+    "answer": "The dead albatross"
+  },
+  {
+    "id": "arts-literature-050",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Bernini's \"Ecstasy of Saint Teresa\" is housed in which church in Rome?",
+    "options": [
+      "St. Peter's Basilica",
+      "Santa Maria del Popolo",
+      "Santa Maria della Vittoria",
+      "San Luigi dei Francesi"
+    ],
+    "answer": "Santa Maria della Vittoria"
+  },
+  {
+    "id": "arts-literature-051",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Charles Dickens's early sketches were published under which pseudonym?",
+    "options": [
+      "George Eliot",
+      "Currer Bell",
+      "Saki",
+      "Boz"
+    ],
+    "answer": "Boz"
+  },
+  {
+    "id": "arts-literature-052",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "In \"The Scarlet Letter,\" what is the assumed name of Hester Prynne's missing husband?",
+    "options": [
+      "Roger Chillingworth",
+      "Arthur Dimmesdale",
+      "John Wilson",
+      "Governor Bellingham"
+    ],
+    "answer": "Roger Chillingworth"
+  },
+  {
+    "id": "arts-literature-053",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "The subject of Théodore Géricault's \"The Raft of the Medusa\" was a maritime disaster involving which nation's naval vessel?",
+    "options": [
+      "Spain",
+      "France",
+      "Britain",
+      "Portugal"
+    ],
+    "answer": "France"
+  },
+  {
+    "id": "arts-literature-054",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "In George Orwell's \"1984,\" what is Winston Smith's job title at the Ministry of Truth?",
+    "options": [
+      "Telescreen operator",
+      "Thought police officer",
+      "Records clerk",
+      "Prole liaison"
+    ],
+    "answer": "Records clerk"
+  },
+  {
+    "id": "arts-literature-055",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "\"Girl with a Pearl Earring\" is sometimes referred to by which nickname?",
+    "options": [
+      "The Dutch Venus",
+      "The Pearl of Delft",
+      "The Smile of Holland",
+      "The Mona Lisa of the North"
+    ],
+    "answer": "The Mona Lisa of the North"
+  },
+  {
+    "id": "arts-literature-056",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which ancient Greek poet is known for the didactic poem \"Works and Days\"?",
+    "options": [
+      "Hesiod",
+      "Pindar",
+      "Sappho",
+      "Alcaeus"
+    ],
+    "answer": "Hesiod"
+  },
+  {
+    "id": "arts-literature-057",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Shylock is a central character in which Shakespeare play?",
+    "options": [
+      "Othello",
+      "The Merchant of Venice",
+      "The Tempest",
+      "King Lear"
+    ],
+    "answer": "The Merchant of Venice"
+  },
+  {
+    "id": "arts-literature-058",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who designed the glass pyramid entrance to the Louvre museum?",
+    "options": [
+      "Frank Gehry",
+      "Renzo Piano",
+      "I.M. Pei",
+      "Norman Foster"
+    ],
+    "answer": "I.M. Pei"
+  },
+  {
+    "id": "arts-literature-059",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "In Victor Hugo's \"Les Misérables,\" what is the name of the police inspector obsessed with capturing Jean Valjean?",
+    "options": [
+      "Thenardier",
+      "Marius",
+      "Enjolras",
+      "Javert"
+    ],
+    "answer": "Javert"
+  },
+  {
+    "id": "arts-literature-060",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which two animals are featured most prominently in Picasso's \"Guernica\"?",
+    "options": [
+      "A bull and a horse",
+      "A lion and a lamb",
+      "An eagle and a snake",
+      "A dog and a cat"
+    ],
+    "answer": "A bull and a horse"
+  },
+  {
+    "id": "arts-literature-061",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "In Dostoevsky's \"The Brothers Karamazov,\" what is the name of the youngest brother who is a novice monk?",
+    "options": [
+      "Ivan",
+      "Alyosha",
+      "Dmitri",
+      "Smerdyakov"
+    ],
+    "answer": "Alyosha"
+  },
+  {
+    "id": "arts-literature-062",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "In Rembrandt's \"The Night Watch,\" Captain Frans Banninck Cocq wears a sash of which color?",
+    "options": [
+      "Black",
+      "Gold",
+      "Red",
+      "White"
+    ],
+    "answer": "Red"
+  },
+  {
+    "id": "arts-literature-063",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "In T.S. Eliot's \"The Waste Land,\" what is the wounded figure associated with fertility known as?",
+    "options": [
+      "Hollow Man",
+      "Ancient Mariner",
+      "Hanged Man",
+      "Fisher King"
+    ],
+    "answer": "Fisher King"
+  },
+  {
+    "id": "arts-literature-064",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "What is a 14-line poem written in iambic pentameter called?",
+    "options": [
+      "Sonnet",
+      "Villanelle",
+      "Sestina",
+      "Ballad"
+    ],
+    "answer": "Sonnet"
+  },
+  {
+    "id": "arts-literature-065",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "The landscape in Dalí's \"The Persistence of Memory\" is based on the coastline of which region?",
+    "options": [
+      "Andalusia",
+      "Catalonia",
+      "Provence",
+      "Tuscany"
+    ],
+    "answer": "Catalonia"
+  },
+  {
+    "id": "arts-literature-066",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "In Aldous Huxley's \"Brave New World,\" what drug is used to keep the population content?",
+    "options": [
+      "Prozium",
+      "Opium",
+      "Soma",
+      "Mescaline"
+    ],
+    "answer": "Soma"
+  },
+  {
+    "id": "arts-literature-067",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "The ancient sculpture \"Laocoön and His Sons\" was created during which period?",
+    "options": [
+      "Archaic",
+      "Roman",
+      "Etruscan",
+      "Hellenistic"
+    ],
+    "answer": "Hellenistic"
+  },
+  {
+    "id": "arts-literature-068",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "\"Sense and Sensibility\" was initially drafted as which type of narrative?",
+    "options": [
+      "Epistolary novel",
+      "Diary entries",
+      "Third-person omniscient",
+      "Play script"
+    ],
+    "answer": "Epistolary novel"
+  },
+  {
+    "id": "arts-literature-069",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "What architectural style is featured in the window of the house in Grant Wood's \"American Gothic\"?",
+    "options": [
+      "Colonial",
+      "Gothic Revival",
+      "Greek Revival",
+      "Victorian"
+    ],
+    "answer": "Gothic Revival"
+  },
+  {
+    "id": "arts-literature-070",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Before his transformation in Kafka's \"The Metamorphosis,\" what was Gregor Samsa's occupation?",
+    "options": [
+      "Bank clerk",
+      "Schoolteacher",
+      "Traveling salesman",
+      "Journalist"
+    ],
+    "answer": "Traveling salesman"
+  },
+  {
+    "id": "arts-literature-071",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "In Poe's \"The Raven,\" the bird perches on a bust of which figure?",
+    "options": [
+      "Zeus",
+      "Apollo",
+      "Medusa",
+      "Pallas Athena"
+    ],
+    "answer": "Pallas Athena"
+  },
+  {
+    "id": "arts-literature-072",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Donatello's equestrian statue in Padua depicts which mercenary commander?",
+    "options": [
+      "Erasmo da Narni",
+      "Niccolò da Tolentino",
+      "Bartolomeo Colleoni",
+      "Francesco Sforza"
+    ],
+    "answer": "Erasmo da Narni"
+  },
+  {
+    "id": "arts-literature-073",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "In \"Twenty Thousand Leagues Under the Sea,\" the Nautilus is originally believed to be what?",
+    "options": [
+      "A sea serpent",
+      "A giant narwhal",
+      "A whale",
+      "A giant squid"
+    ],
+    "answer": "A giant narwhal"
+  },
+  {
+    "id": "arts-literature-074",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "In Bosch's \"The Garden of Earthly Delights,\" the Hell panel includes a figure known as the Tree-Man whose body is partly what?",
+    "options": [
+      "A wine barrel",
+      "A bagpipe",
+      "A skull",
+      "A broken eggshell"
+    ],
+    "answer": "A broken eggshell"
+  },
+  {
+    "id": "arts-literature-075",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Which mythical creature posed the riddle that Oedipus answered to become king of Thebes?",
+    "options": [
+      "The Sphinx",
+      "The Chimera",
+      "The Harpy",
+      "The Minotaur"
+    ],
+    "answer": "The Sphinx"
+  },
+  {
+    "id": "arts-literature-076",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Georges Seurat's \"A Sunday Afternoon on the Island of La Grande Jatte\" exemplifies which painting technique?",
+    "options": [
+      "Impressionism",
+      "Fauvism",
+      "Pointillism",
+      "Cubism"
+    ],
+    "answer": "Pointillism"
+  },
+  {
+    "id": "arts-literature-077",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "What illegal act did Nora commit to save her husband's life in Ibsen's \"A Doll's House\"?",
+    "options": [
+      "Theft",
+      "Forgery",
+      "Blackmail",
+      "Perjury"
+    ],
+    "answer": "Forgery"
+  },
+  {
+    "id": "arts-literature-078",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "The Solomon R. Guggenheim Museum in New York was designed by which architect?",
+    "options": [
+      "Le Corbusier",
+      "Walter Gropius",
+      "Mies van der Rohe",
+      "Frank Lloyd Wright"
+    ],
+    "answer": "Frank Lloyd Wright"
+  },
+  {
+    "id": "arts-literature-079",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "The more refined neighboring estate in Emily Brontë's \"Wuthering Heights\" is called?",
+    "options": [
+      "Thrushcross Grange",
+      "The Heights",
+      "Gimmerton Hall",
+      "Penistone Crags"
+    ],
+    "answer": "Thrushcross Grange"
+  },
+  {
+    "id": "arts-literature-080",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Despite its name, the Bayeux Tapestry is technically an example of what?",
+    "options": [
+      "Woven tapestry",
+      "Fresco",
+      "Embroidery",
+      "Mosaic"
+    ],
+    "answer": "Embroidery"
+  },
+  {
+    "id": "arts-literature-081",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "In Oscar Wilde's \"The Picture of Dorian Gray,\" the artist who paints the fateful portrait is?",
+    "options": [
+      "Lord Henry Wotton",
+      "Basil Hallward",
+      "James Vane",
+      "Alan Campbell"
+    ],
+    "answer": "Basil Hallward"
+  },
+  {
+    "id": "arts-literature-082",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Cellini's bronze statue of Perseus holding Medusa's head stands in the Loggia dei Lanzi in which city?",
+    "options": [
+      "Rome",
+      "Venice",
+      "Milan",
+      "Florence"
+    ],
+    "answer": "Florence"
+  },
+  {
+    "id": "arts-literature-083",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "How many tales did Chaucer originally plan for the pilgrims in \"The Canterbury Tales\"?",
+    "options": [
+      "120",
+      "24",
+      "100",
+      "50"
+    ],
+    "answer": "120"
+  },
+  {
+    "id": "arts-literature-084",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "The main character of Albert Camus's \"The Stranger\" is named?",
+    "options": [
+      "Clamence",
+      "Tarrou",
+      "Meursault",
+      "Grand"
+    ],
+    "answer": "Meursault"
+  },
+  {
+    "id": "arts-literature-085",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "What is a painting focusing on arranged objects like fruit, vases, and books called?",
+    "options": [
+      "Landscape",
+      "Still life",
+      "Genre scene",
+      "Portrait"
+    ],
+    "answer": "Still life"
+  },
+  {
+    "id": "arts-literature-086",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "What architectural feature dominates the setting of Raphael's \"The School of Athens\"?",
+    "options": [
+      "Gothic arches",
+      "Corinthian columns",
+      "Domes",
+      "Barrel vaults"
+    ],
+    "answer": "Barrel vaults"
+  },
+  {
+    "id": "arts-literature-087",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "In Greek mythology, who is the sea nymph mother of Achilles?",
+    "options": [
+      "Thetis",
+      "Amphitrite",
+      "Galatea",
+      "Doris"
+    ],
+    "answer": "Thetis"
+  },
+  {
+    "id": "arts-literature-088",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Rodin's marble sculpture \"The Kiss\" was originally conceived as part of which monumental doorway?",
+    "options": [
+      "The Portal of Paradise",
+      "The Door of the Apocalypse",
+      "The Gates of Hell",
+      "The Gate of Ivory"
+    ],
+    "answer": "The Gates of Hell"
+  },
+  {
+    "id": "arts-literature-089",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "In Ray Bradbury's \"Fahrenheit 451,\" what is Guy Montag's profession?",
+    "options": [
+      "Librarian",
+      "Fireman",
+      "Policeman",
+      "Teacher"
+    ],
+    "answer": "Fireman"
+  },
+  {
+    "id": "arts-literature-090",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "The American artist known for inventing the mobile sculpture is?",
+    "options": [
+      "David Smith",
+      "Henry Moore",
+      "Jean Tinguely",
+      "Alexander Calder"
+    ],
+    "answer": "Alexander Calder"
+  },
+  {
+    "id": "arts-literature-091",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Which character says \"Something is rotten in the state of Denmark\"?",
+    "options": [
+      "Marcellus",
+      "Hamlet",
+      "Horatio",
+      "Polonius"
+    ],
+    "answer": "Marcellus"
+  },
+  {
+    "id": "arts-literature-092",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who narrates Ken Kesey's \"One Flew Over the Cuckoo's Nest\"?",
+    "options": [
+      "Randle McMurphy",
+      "Nurse Ratched",
+      "Chief Bromden",
+      "Billy Bibbit"
+    ],
+    "answer": "Chief Bromden"
+  },
+  {
+    "id": "arts-literature-093",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Caravaggio is particularly associated with which dramatic lighting technique?",
+    "options": [
+      "Tenebrism",
+      "Chiaroscuro",
+      "Sfumato",
+      "Pointillism"
+    ],
+    "answer": "Tenebrism"
+  },
+  {
+    "id": "arts-literature-094",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "In Joseph Heller's \"Catch-22,\" what is the name of the bombardier who tries to get out of flying missions?",
+    "options": [
+      "Milo Minderbinder",
+      "Doc Daneeka",
+      "Major Major",
+      "Yossarian"
+    ],
+    "answer": "Yossarian"
+  },
+  {
+    "id": "arts-literature-095",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "The Little Mermaid statue in Copenhagen is made of what material?",
+    "options": [
+      "Marble",
+      "Bronze",
+      "Granite",
+      "Silver"
+    ],
+    "answer": "Bronze"
+  },
+  {
+    "id": "arts-literature-096",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "In the opening line of Allen Ginsberg's \"Howl,\" what destroyed \"the best minds of my generation\"?",
+    "options": [
+      "poverty",
+      "censorship",
+      "madness",
+      "drugs"
+    ],
+    "answer": "madness"
+  },
+  {
+    "id": "arts-literature-097",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "The reclusive neighbor whom Scout and Jem are fascinated by in \"To Kill a Mockingbird\" is named?",
+    "options": [
+      "Boo Radley",
+      "Dill Harris",
+      "Tom Robinson",
+      "Heck Tate"
+    ],
+    "answer": "Boo Radley"
+  },
+  {
+    "id": "arts-literature-098",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "What does Marat hold in his left hand in Jacques-Louis David's \"The Death of Marat\"?",
+    "options": [
+      "A dagger",
+      "A laurel wreath",
+      "A petition letter",
+      "A book"
+    ],
+    "answer": "A petition letter"
+  },
+  {
+    "id": "arts-literature-099",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "\"The Master and Margarita,\" a satirical novel set in Moscow, was written by?",
+    "options": [
+      "Nikolai Gogol",
+      "Boris Pasternak",
+      "Vladimir Nabokov",
+      "Mikhail Bulgakov"
+    ],
+    "answer": "Mikhail Bulgakov"
+  },
+  {
+    "id": "arts-literature-100",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "In Shakespeare's \"The Tempest,\" which airy spirit serves Prospero?",
+    "options": [
+      "Caliban",
+      "Ariel",
+      "Sycorax",
+      "Ferdinand"
+    ],
+    "answer": "Ariel"
+  },
+  {
+    "id": "arts-literature-101",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Brâncuși's \"Bird in Space\" was central to a 1928 U.S. court case determining whether it qualified as what?",
+    "options": [
+      "Art for duty-free import",
+      "Manufactured metal pipe",
+      "Religious sculpture",
+      "Aeronautical device"
+    ],
+    "answer": "Art for duty-free import"
+  },
+  {
+    "id": "arts-literature-102",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "George Eliot's \"Middlemarch\" is subtitled \"A Study of\" which of the following?",
+    "options": [
+      "Rural Manners",
+      "Town and Country",
+      "Provincial Life",
+      "The Human Heart"
+    ],
+    "answer": "Provincial Life"
+  },
+  {
+    "id": "arts-literature-103",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "What hangs on the wall behind the seated woman in Whistler's \"Arrangement in Grey and Black No.1\"?",
+    "options": [
+      "A clock",
+      "A mirror",
+      "A tapestry",
+      "A framed etching"
+    ],
+    "answer": "A framed etching"
+  },
+  {
+    "id": "arts-literature-104",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "In \"Paradise Lost,\" who declares \"Better to reign in Hell than serve in Heaven\"?",
+    "options": [
+      "Satan",
+      "Beelzebub",
+      "Moloch",
+      "Belial"
+    ],
+    "answer": "Satan"
+  },
+  {
+    "id": "arts-literature-105",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Goya's \"The Third of May 1808\" shows the execution of Spanish resistors by troops of which nation?",
+    "options": [
+      "Britain",
+      "France",
+      "Russia",
+      "Prussia"
+    ],
+    "answer": "France"
+  },
+  {
+    "id": "arts-literature-106",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "In Wordsworth's \"I Wandered Lonely as a Cloud,\" the speaker encounters a host of what?",
+    "options": [
+      "Bluebells",
+      "Roses",
+      "Golden daffodils",
+      "Snowdrops"
+    ],
+    "answer": "Golden daffodils"
+  },
+  {
+    "id": "arts-literature-107",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "\"The Red and the Black,\" a novel about Julien Sorel, was written by?",
+    "options": [
+      "Honoré de Balzac",
+      "Gustave Flaubert",
+      "Émile Zola",
+      "Stendhal"
+    ],
+    "answer": "Stendhal"
+  },
+  {
+    "id": "arts-literature-108",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "In \"The Great Gatsby,\" what color is the light on Daisy's dock that Gatsby reaches toward?",
+    "options": [
+      "Green",
+      "Yellow",
+      "White",
+      "Blue"
+    ],
+    "answer": "Green"
+  },
+  {
+    "id": "arts-literature-109",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "The blood-red sky in Edvard Munch's \"The Scream\" is often attributed to the atmospheric effects of which volcanic eruption?",
+    "options": [
+      "Vesuvius",
+      "Mount Pelée",
+      "Krakatoa",
+      "Santorini"
+    ],
+    "answer": "Krakatoa"
+  },
+  {
+    "id": "arts-literature-110",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "The protagonist of Ernest Hemingway's \"The Old Man and the Sea\" is named?",
+    "options": [
+      "Manolin",
+      "Santiago",
+      "Pedro",
+      "Juan"
+    ],
+    "answer": "Santiago"
+  },
+  {
+    "id": "arts-literature-111",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "The classical Greek sculpture \"Discobolus\" (Discus Thrower) was created by?",
+    "options": [
+      "Polykleitos",
+      "Phidias",
+      "Praxiteles",
+      "Myron"
+    ],
+    "answer": "Myron"
+  },
+  {
+    "id": "arts-literature-112",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "\"Dead Souls,\" a satirical novel about a man buying deceased serfs, was written by?",
+    "options": [
+      "Nikolai Gogol",
+      "Ivan Turgenev",
+      "Leo Tolstoy",
+      "Fyodor Dostoevsky"
+    ],
+    "answer": "Nikolai Gogol"
+  },
+  {
+    "id": "arts-literature-113",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "In \"Macbeth,\" which wood is prophesied to come to Dunsinane?",
+    "options": [
+      "Sherwood Forest",
+      "Arden Wood",
+      "Birnam Wood",
+      "Windsor Forest"
+    ],
+    "answer": "Birnam Wood"
+  },
+  {
+    "id": "arts-literature-114",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Monet painted his \"Water Lilies\" series in the garden of his home in?",
+    "options": [
+      "Arles",
+      "Giverny",
+      "Auvers-sur-Oise",
+      "Barbizon"
+    ],
+    "answer": "Giverny"
+  },
+  {
+    "id": "arts-literature-115",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "The first Pevensie child to discover the land of Narnia in C.S. Lewis's series is?",
+    "options": [
+      "Edmund",
+      "Susan",
+      "Peter",
+      "Lucy"
+    ],
+    "answer": "Lucy"
+  },
+  {
+    "id": "arts-literature-116",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "In Leonardo da Vinci's \"The Last Supper,\" which apostle clutches a small bag, identifying him as the betrayer?",
+    "options": [
+      "Judas",
+      "Peter",
+      "John",
+      "Andrew"
+    ],
+    "answer": "Judas"
+  },
+  {
+    "id": "arts-literature-117",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Lord Byron's \"Don Juan\" is a satirical epic about a young man from which country?",
+    "options": [
+      "Italy",
+      "Greece",
+      "Spain",
+      "England"
+    ],
+    "answer": "Spain"
+  },
+  {
+    "id": "arts-literature-118",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Michelangelo carved his signature on the \"Pieta\" across the sash of which figure?",
+    "options": [
+      "Christ",
+      "The Virgin Mary",
+      "An angel",
+      "Nicodemus"
+    ],
+    "answer": "The Virgin Mary"
+  },
+  {
+    "id": "arts-literature-119",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "In the preface to \"Don Quixote,\" Cervantes claims the story was translated from the Arabic of which fictional author?",
+    "options": [
+      "Alonso Quijano",
+      "Sansón Carrasco",
+      "Ginés de Pasamonte",
+      "Cide Hamete Benengeli"
+    ],
+    "answer": "Cide Hamete Benengeli"
+  },
+  {
+    "id": "arts-literature-120",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Bram Stoker's \"Dracula\" is structured as a series of what?",
+    "options": [
+      "Letters and diary entries",
+      "Newspaper articles",
+      "Third-person narration",
+      "Dialogue only"
+    ],
+    "answer": "Letters and diary entries"
+  },
+  {
+    "id": "arts-literature-121",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "\"The Gleaners,\" depicting peasant women collecting leftover grain, was painted by which French artist?",
+    "options": [
+      "Gustave Courbet",
+      "Camille Pissarro",
+      "Jean-François Millet",
+      "Jules Breton"
+    ],
+    "answer": "Jean-François Millet"
+  },
+  {
+    "id": "arts-literature-122",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "The protagonist of J.D. Salinger's \"The Catcher in the Rye\" has a younger sister named?",
+    "options": [
+      "Jane",
+      "Phoebe",
+      "Sally",
+      "Sunny"
+    ],
+    "answer": "Phoebe"
+  },
+  {
+    "id": "arts-literature-123",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Delacroix's \"Liberty Leading the People\" celebrates the overthrow of Charles X during which event?",
+    "options": [
+      "French Revolution of 1789",
+      "Revolution of 1848",
+      "Paris Commune",
+      "July Revolution of 1830"
+    ],
+    "answer": "July Revolution of 1830"
+  },
+  {
+    "id": "arts-literature-124",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "\"Song of Myself\" is a long poem from Walt Whitman's collection?",
+    "options": [
+      "Leaves of Grass",
+      "Drum-Taps",
+      "Specimen Days",
+      "November Boughs"
+    ],
+    "answer": "Leaves of Grass"
+  },
+  {
+    "id": "arts-literature-125",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Rodin's \"The Thinker\" originally represented which author contemplating his epic poem?",
+    "options": [
+      "Homer",
+      "John Milton",
+      "Dante Alighieri",
+      "Virgil"
+    ],
+    "answer": "Dante Alighieri"
+  },
+  {
+    "id": "arts-literature-126",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "In Mary Shelley's \"Frankenstein,\" the lonely creature secretly observes and learns from a family named?",
+    "options": [
+      "Waldman",
+      "De Lacey",
+      "Krempe",
+      "Beaufort"
+    ],
+    "answer": "De Lacey"
+  },
+  {
+    "id": "arts-literature-127",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Gainsborough's \"Blue Boy\" is traditionally identified as a portrait of whom?",
+    "options": [
+      "Lord Byron",
+      "George III",
+      "David Garrick",
+      "Jonathan Buttall"
+    ],
+    "answer": "Jonathan Buttall"
+  },
+  {
+    "id": "arts-literature-128",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "A Shakespearean sonnet ends with a rhyming pair of lines known as a?",
+    "options": [
+      "Couplet",
+      "Sestet",
+      "Octave",
+      "Refrain"
+    ],
+    "answer": "Couplet"
+  },
+  {
+    "id": "arts-literature-129",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "In classical mythology, which river must souls cross to enter the Underworld?",
+    "options": [
+      "Styx",
+      "Lethe",
+      "Acheron",
+      "Cocytus"
+    ],
+    "answer": "Styx"
+  },
+  {
+    "id": "arts-literature-130",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "The Rococo painting \"The Swing,\" depicting a woman being pushed by a bishop, was created by which French painter?",
+    "options": [
+      "François Boucher",
+      "Antoine Watteau",
+      "Jean-Honoré Fragonard",
+      "Jean-Baptiste-Siméon Chardin"
+    ],
+    "answer": "Jean-Honoré Fragonard"
   }
 ]
