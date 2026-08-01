@@ -2039,5 +2039,1175 @@
       "Cameroon"
     ],
     "answer": "Ivory Coast"
+  },
+  {
+    "id": "food-drink-010",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What seaweed is essential for making traditional Japanese dashi broth?",
+    "options": [
+      "Kombu",
+      "Nori",
+      "Wakame",
+      "Hijiki"
+    ],
+    "answer": "Kombu"
+  },
+  {
+    "id": "food-drink-011",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What Italian cured meat is traditionally made from pork jowl or cheek?",
+    "options": [
+      "Pancetta",
+      "Guanciale",
+      "Prosciutto",
+      "Salami"
+    ],
+    "answer": "Guanciale"
+  },
+  {
+    "id": "food-drink-012",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What traditional Mexican alcoholic beverage is fermented from the fresh sap of the maguey plant?",
+    "options": [
+      "Mezcal",
+      "Tequila",
+      "Pulque",
+      "Sotol"
+    ],
+    "answer": "Pulque"
+  },
+  {
+    "id": "food-drink-013",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What spicy Korean side dish is made from salted and fermented vegetables, most often napa cabbage and Korean radishes?",
+    "options": [
+      "Sauerkraut",
+      "Kimchi",
+      "Curtido",
+      "Giardiniera"
+    ],
+    "answer": "Kimchi"
+  },
+  {
+    "id": "food-drink-014",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What warming Indian spice blend typically contains cardamom, cinnamon, cloves, cumin, and coriander?",
+    "options": [
+      "Curry powder",
+      "Garam masala",
+      "Ras el hanout",
+      "Za'atar"
+    ],
+    "answer": "Garam masala"
+  },
+  {
+    "id": "food-drink-015",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What roasted vegetable is the primary ingredient in the Middle Eastern dip baba ghanoush?",
+    "options": [
+      "Chickpeas",
+      "Eggplant",
+      "Tomatoes",
+      "Lentils"
+    ],
+    "answer": "Eggplant"
+  },
+  {
+    "id": "food-drink-016",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What Italian spirit is distilled from the pomace (leftover grape skins, seeds, and stems) of winemaking?",
+    "options": [
+      "Brandy",
+      "Grappa",
+      "Cognac",
+      "Armagnac"
+    ],
+    "answer": "Grappa"
+  },
+  {
+    "id": "food-drink-017",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What dairy product forms the creamy base of traditional Greek tzatziki sauce?",
+    "options": [
+      "Sour cream",
+      "Yogurt",
+      "Mayonnaise",
+      "Cream cheese"
+    ],
+    "answer": "Yogurt"
+  },
+  {
+    "id": "food-drink-018",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What is the primary protein traditionally used in the Thai soup Tom Yum Goong?",
+    "options": [
+      "Shrimp",
+      "Chicken",
+      "Pork",
+      "Beef"
+    ],
+    "answer": "Shrimp"
+  },
+  {
+    "id": "food-drink-019",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What distinct spice gives traditional Spanish paella its signature yellow color and earthy flavor?",
+    "options": [
+      "Cumin",
+      "Saffron",
+      "Paprika",
+      "Coriander"
+    ],
+    "answer": "Saffron"
+  },
+  {
+    "id": "food-drink-020",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What traditional French dish consists of slow-cooked white beans and various meats like duck confit and sausages?",
+    "options": [
+      "Bouillabaisse",
+      "Coq au vin",
+      "Cassoulet",
+      "Ratatouille"
+    ],
+    "answer": "Cassoulet"
+  },
+  {
+    "id": "food-drink-021",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What type of meat is braised in red wine to make the classic French dish Boeuf Bourguignon?",
+    "options": [
+      "Lamb",
+      "Beef",
+      "Pork",
+      "Veal"
+    ],
+    "answer": "Beef"
+  },
+  {
+    "id": "food-drink-022",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What type of noodles are the foundation of the Vietnamese soup pho?",
+    "options": [
+      "Egg noodles",
+      "Rice noodles",
+      "Wheat noodles",
+      "Soba noodles"
+    ],
+    "answer": "Rice noodles"
+  },
+  {
+    "id": "food-drink-023",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What fresh herb is the primary bulk ingredient in the Middle Eastern salad tabbouleh?",
+    "options": [
+      "Mint",
+      "Cilantro",
+      "Parsley",
+      "Dill"
+    ],
+    "answer": "Parsley"
+  },
+  {
+    "id": "food-drink-024",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What paper-thin pastry dough is layered with nuts and honey to make traditional baklava?",
+    "options": [
+      "Puff pastry",
+      "Shortcrust pastry",
+      "Phyllo dough",
+      "Choux pastry"
+    ],
+    "answer": "Phyllo dough"
+  },
+  {
+    "id": "food-drink-025",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What sweet Italian cream cheese is a primary ingredient in the dessert tiramisu?",
+    "options": [
+      "Ricotta",
+      "Mascarpone",
+      "Cream cheese",
+      "Brie"
+    ],
+    "answer": "Mascarpone"
+  },
+  {
+    "id": "food-drink-026",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What root vegetable gives the Eastern European soup borscht its deep red color?",
+    "options": [
+      "Carrots",
+      "Potatoes",
+      "Beets",
+      "Radishes"
+    ],
+    "answer": "Beets"
+  },
+  {
+    "id": "food-drink-027",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What Polish dish consists of unleavened dough wrapped around a savory or sweet filling and boiled?",
+    "options": [
+      "Noodles",
+      "Dumplings",
+      "Pancakes",
+      "Bread"
+    ],
+    "answer": "Dumplings"
+  },
+  {
+    "id": "food-drink-028",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What meat is paired with organ meat in the traditional British steak and kidney pie?",
+    "options": [
+      "Chicken",
+      "Pork",
+      "Beef",
+      "Venison"
+    ],
+    "answer": "Beef"
+  },
+  {
+    "id": "food-drink-029",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What melted dairy product is the main component of traditional Swiss fondue?",
+    "options": [
+      "Chocolate",
+      "Cheese",
+      "Butter",
+      "Cream"
+    ],
+    "answer": "Cheese"
+  },
+  {
+    "id": "food-drink-030",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "Traditional Scottish haggis is encased in what animal's stomach lining?",
+    "options": [
+      "Cow",
+      "Pig",
+      "Sheep",
+      "Goat"
+    ],
+    "answer": "Sheep"
+  },
+  {
+    "id": "food-drink-031",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What specific type of small white bean is traditionally used to make American baked beans?",
+    "options": [
+      "Pinto beans",
+      "Navy beans",
+      "Kidney beans",
+      "Black beans"
+    ],
+    "answer": "Navy beans"
+  },
+  {
+    "id": "food-drink-032",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What vegetable is considered the centerpiece of the traditional French Provençal stew ratatouille?",
+    "options": [
+      "Potatoes",
+      "Eggplant",
+      "Zucchini",
+      "Tomatoes"
+    ],
+    "answer": "Eggplant"
+  },
+  {
+    "id": "food-drink-033",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What legume is harvested young and served boiled in the pod as the Japanese dish edamame?",
+    "options": [
+      "Peas",
+      "Green beans",
+      "Soybeans",
+      "Lentils"
+    ],
+    "answer": "Soybeans"
+  },
+  {
+    "id": "food-drink-034",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What leafy green is puréed to make the vibrant sauce in the Indian dish palak paneer?",
+    "options": [
+      "Kale",
+      "Spinach",
+      "Mustard greens",
+      "Collard greens"
+    ],
+    "answer": "Spinach"
+  },
+  {
+    "id": "food-drink-035",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What warm spice, also known as pimento, is the signature flavor base for Jamaican jerk chicken?",
+    "options": [
+      "Cumin",
+      "Allspice",
+      "Cinnamon",
+      "Nutmeg"
+    ],
+    "answer": "Allspice"
+  },
+  {
+    "id": "food-drink-036",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the South African snack of air-dried, cured meat strips, similar to jerky, called?",
+    "options": [
+      "Biltong",
+      "Droëwors",
+      "Boerewors",
+      "Pemmican"
+    ],
+    "answer": "Biltong"
+  },
+  {
+    "id": "food-drink-037",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What savory, dark brown Australian spread is made by concentrating a leftover byproduct of the beer-brewing process?",
+    "options": [
+      "Malt extract",
+      "Yeast extract",
+      "Corn syrup",
+      "Molasses"
+    ],
+    "answer": "Yeast extract"
+  },
+  {
+    "id": "food-drink-038",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What three ingredients make up the classic Canadian dish poutine?",
+    "options": [
+      "Fries, cheese curds, and gravy",
+      "Mashed potatoes and gravy",
+      "Baked potatoes and sour cream",
+      "Potato salad and bacon"
+    ],
+    "answer": "Fries, cheese curds, and gravy"
+  },
+  {
+    "id": "food-drink-039",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What shellfish is the star ingredient in New England clam chowder?",
+    "options": [
+      "Oysters",
+      "Mussels",
+      "Clams",
+      "Scallops"
+    ],
+    "answer": "Clams"
+  },
+  {
+    "id": "food-drink-040",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What type of bean is the base of the hearty Brazilian pork stew known as feijoada?",
+    "options": [
+      "Pinto beans",
+      "Black beans",
+      "Kidney beans",
+      "Lima beans"
+    ],
+    "answer": "Black beans"
+  },
+  {
+    "id": "food-drink-041",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What plant's leaves are steeped in hot water to make the traditional South American beverage mate?",
+    "options": [
+      "Green tea",
+      "Yerba mate",
+      "Black tea",
+      "Rooibos"
+    ],
+    "answer": "Yerba mate"
+  },
+  {
+    "id": "food-drink-042",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "In Latin American ceviche, what acidic liquid 'cooks' the raw fish without heat?",
+    "options": [
+      "Boiling water",
+      "Citrus juice",
+      "Vinegar",
+      "Coconut milk"
+    ],
+    "answer": "Citrus juice"
+  },
+  {
+    "id": "food-drink-043",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What ancient grain is fermented to make the sourdough batter for Ethiopian injera bread?",
+    "options": [
+      "Wheat",
+      "Rice",
+      "Teff",
+      "Corn"
+    ],
+    "answer": "Teff"
+  },
+  {
+    "id": "food-drink-044",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What distinct vessel is traditionally used to slow-cook the Moroccan dish tagine?",
+    "options": [
+      "Iron cauldron",
+      "Clay pot",
+      "Wok",
+      "Copper pan"
+    ],
+    "answer": "Clay pot"
+  },
+  {
+    "id": "food-drink-045",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What leaves are traditionally stuffed with rice, meat, or herbs to make the Mediterranean dolma?",
+    "options": [
+      "Cabbage leaves",
+      "Grape leaves",
+      "Banana leaves",
+      "Corn husks"
+    ],
+    "answer": "Grape leaves"
+  },
+  {
+    "id": "food-drink-046",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "In traditional Filipino adobo, what acidic liquid is the essential base of the marinade that acts as a preservative?",
+    "options": [
+      "Lemon juice",
+      "Vinegar",
+      "Tamarind paste",
+      "Calamansi juice"
+    ],
+    "answer": "Vinegar"
+  },
+  {
+    "id": "food-drink-047",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What cooking method is applied to the rice in the Indonesian national dish nasi goreng?",
+    "options": [
+      "Boiled",
+      "Fried",
+      "Steamed",
+      "Baked"
+    ],
+    "answer": "Fried"
+  },
+  {
+    "id": "food-drink-048",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "The rice in the Malaysian dish nasi lemak is traditionally cooked in what rich liquid?",
+    "options": [
+      "Water",
+      "Chicken broth",
+      "Coconut milk",
+      "Tamarind juice"
+    ],
+    "answer": "Coconut milk"
+  },
+  {
+    "id": "food-drink-049",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What type of French bread is used as the base for a Vietnamese banh mi sandwich?",
+    "options": [
+      "Pita bread",
+      "Baguette",
+      "Tortilla",
+      "Brioche"
+    ],
+    "answer": "Baguette"
+  },
+  {
+    "id": "food-drink-050",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What type of noodles are traditionally used in the Thai dish pad thai?",
+    "options": [
+      "Glass noodles",
+      "Rice noodles",
+      "Udon noodles",
+      "Egg noodles"
+    ],
+    "answer": "Rice noodles"
+  },
+  {
+    "id": "food-drink-051",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What vegetable forms the thick, layered base of the traditional Greek casserole moussaka?",
+    "options": [
+      "Zucchini",
+      "Eggplant",
+      "Potatoes",
+      "Tomatoes"
+    ],
+    "answer": "Eggplant"
+  },
+  {
+    "id": "food-drink-052",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What red spice provides the signature flavor and color of Hungarian goulash?",
+    "options": [
+      "Cumin",
+      "Paprika",
+      "Coriander",
+      "Turmeric"
+    ],
+    "answer": "Paprika"
+  },
+  {
+    "id": "food-drink-053",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What rich dairy product is stirred into the root vegetable sauce of the Czech dish svickova?",
+    "options": [
+      "Tomato puree",
+      "Cream",
+      "Beef broth",
+      "Red wine"
+    ],
+    "answer": "Cream"
+  },
+  {
+    "id": "food-drink-054",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What traditional Finnish pastry, known as the Karelian pasty, features a thin rye crust and is typically filled with what ingredient?",
+    "options": [
+      "Mashed potatoes",
+      "Rice porridge",
+      "Minced meat",
+      "Lingonberries"
+    ],
+    "answer": "Rice porridge"
+  },
+  {
+    "id": "food-drink-055",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What fish is fermented and canned to produce the notoriously pungent Swedish dish surströmming?",
+    "options": [
+      "Salmon",
+      "Cod",
+      "Herring",
+      "Mackerel"
+    ],
+    "answer": "Herring"
+  },
+  {
+    "id": "food-drink-056",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What harsh alkaline substance is used to rehydrate dried stockfish when making Norwegian lutefisk?",
+    "options": [
+      "Salt",
+      "Lye",
+      "Vinegar",
+      "Sugar"
+    ],
+    "answer": "Lye"
+  },
+  {
+    "id": "food-drink-057",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What large marine animal is buried and fermented to create the traditional Icelandic delicacy hákarl?",
+    "options": [
+      "Whale",
+      "Shark",
+      "Walrus",
+      "Seal"
+    ],
+    "answer": "Shark"
+  },
+  {
+    "id": "food-drink-058",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What dense bread forms the base of the traditional Danish open-faced sandwich known as smørrebrød?",
+    "options": [
+      "Sourdough",
+      "Rye bread",
+      "Baguette",
+      "Pita"
+    ],
+    "answer": "Rye bread"
+  },
+  {
+    "id": "food-drink-059",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What shellfish is served alongside french fries in the classic Belgian dish moules-frites?",
+    "options": [
+      "Oysters",
+      "Clams",
+      "Mussels",
+      "Scallops"
+    ],
+    "answer": "Mussels"
+  },
+  {
+    "id": "food-drink-060",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What starchy vegetable is mashed with kale or sauerkraut to make the traditional Dutch dish stamppot?",
+    "options": [
+      "Boiled potatoes",
+      "Mashed potatoes",
+      "Fried potatoes",
+      "Baked potatoes"
+    ],
+    "answer": "Mashed potatoes"
+  },
+  {
+    "id": "food-drink-061",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What white fish is heavily salted and dried to make the staple Portuguese ingredient bacalhau?",
+    "options": [
+      "Salmon",
+      "Cod",
+      "Tuna",
+      "Halibut"
+    ],
+    "answer": "Cod"
+  },
+  {
+    "id": "food-drink-062",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What red ingredient provides the base flavor and color for West African jollof rice?",
+    "options": [
+      "Coconut milk",
+      "Tomatoes",
+      "Black beans",
+      "Spinach"
+    ],
+    "answer": "Tomatoes"
+  },
+  {
+    "id": "food-drink-063",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What West African country is the national dish 'thieboudienne' originally from?",
+    "options": [
+      "Nigeria",
+      "Ghana",
+      "Senegal",
+      "Kenya"
+    ],
+    "answer": "Senegal"
+  },
+  {
+    "id": "food-drink-064",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What grain is cooked into a stiff porridge to make the East African staple food ugali?",
+    "options": [
+      "Wheat",
+      "Maize",
+      "Rice",
+      "Cassava"
+    ],
+    "answer": "Maize"
+  },
+  {
+    "id": "food-drink-065",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What toxic fruit must be carefully prepared and cooked to be safely eaten in the Jamaican national dish?",
+    "options": [
+      "Papaya",
+      "Ackee",
+      "Mango",
+      "Guava"
+    ],
+    "answer": "Ackee"
+  },
+  {
+    "id": "food-drink-066",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What fried flatbread is used to hold curried chickpeas in the popular Trinidadian street food doubles?",
+    "options": [
+      "Roti",
+      "Naan",
+      "Bara",
+      "Pita"
+    ],
+    "answer": "Bara"
+  },
+  {
+    "id": "food-drink-067",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What does the name of the Cuban dish 'ropa vieja' literally translate to in English?",
+    "options": [
+      "Old clothes",
+      "Old shoes",
+      "Old hats",
+      "Old blankets"
+    ],
+    "answer": "Old clothes"
+  },
+  {
+    "id": "food-drink-068",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What starchy fruit is mashed with garlic and pork cracklings to make the Puerto Rican dish mofongo?",
+    "options": [
+      "Plantains",
+      "Cassava",
+      "Yams",
+      "Potatoes"
+    ],
+    "answer": "Plantains"
+  },
+  {
+    "id": "food-drink-069",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What ingredient is boiled and then mashed to create the traditional Dominican breakfast dish mangú?",
+    "options": [
+      "Plantains",
+      "Sweet potatoes",
+      "Corn",
+      "Rice"
+    ],
+    "answer": "Plantains"
+  },
+  {
+    "id": "food-drink-070",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "Ponzu sauce is primarily a mixture of soy sauce and what other liquid ingredient?",
+    "options": [
+      "Fish sauce",
+      "Mirin",
+      "Citrus juice",
+      "Sesame oil"
+    ],
+    "answer": "Citrus juice"
+  },
+  {
+    "id": "food-drink-071",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What savory ingredient is fermented alongside red chili to make the Korean paste gochujang?",
+    "options": [
+      "Wheat",
+      "Rice",
+      "Fermented soybeans",
+      "Corn"
+    ],
+    "answer": "Fermented soybeans"
+  },
+  {
+    "id": "food-drink-072",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What legume is the primary base for the sweet and savory Chinese condiment hoisin sauce?",
+    "options": [
+      "Wheat",
+      "Soybeans",
+      "Rice",
+      "Barley"
+    ],
+    "answer": "Soybeans"
+  },
+  {
+    "id": "food-drink-073",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What fiery vegetable is the main ingredient in Thai sriracha hot sauce?",
+    "options": [
+      "Tomatoes",
+      "Garlic",
+      "Chili peppers",
+      "Onions"
+    ],
+    "answer": "Chili peppers"
+  },
+  {
+    "id": "food-drink-074",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What cooling dairy product is mixed with spices and vegetables to make the Indian condiment raita?",
+    "options": [
+      "Sour cream",
+      "Yogurt",
+      "Mayonnaise",
+      "Cream cheese"
+    ],
+    "answer": "Yogurt"
+  },
+  {
+    "id": "food-drink-075",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What toasted seeds are ground into a paste to make the Middle Eastern condiment tahini?",
+    "options": [
+      "Peanuts",
+      "Sunflower seeds",
+      "Sesame seeds",
+      "Pine nuts"
+    ],
+    "answer": "Sesame seeds"
+  },
+  {
+    "id": "food-drink-076",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What smoked vegetable forms the fiery base of the North African chili paste harissa?",
+    "options": [
+      "Tomatoes",
+      "Red peppers",
+      "Eggplant",
+      "Carrots"
+    ],
+    "answer": "Red peppers"
+  },
+  {
+    "id": "food-drink-077",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What small green fruit is the main ingredient in Mexican salsa verde?",
+    "options": [
+      "Tomatoes",
+      "Tomatillos",
+      "Red peppers",
+      "Green chilies"
+    ],
+    "answer": "Tomatillos"
+  },
+  {
+    "id": "food-drink-078",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What fresh herb is blended with pine nuts, garlic, and Parmesan to make traditional Italian pesto?",
+    "options": [
+      "Oregano",
+      "Thyme",
+      "Basil",
+      "Rosemary"
+    ],
+    "answer": "Basil"
+  },
+  {
+    "id": "food-drink-079",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What pungent bulb is emulsified with olive oil to make the Provençal sauce aioli?",
+    "options": [
+      "Onions",
+      "Garlic",
+      "Shallots",
+      "Leeks"
+    ],
+    "answer": "Garlic"
+  },
+  {
+    "id": "food-drink-080",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What citrus oil is used to flavor traditional Earl Grey tea?",
+    "options": [
+      "Vanilla",
+      "Bergamot",
+      "Cinnamon",
+      "Orange peel"
+    ],
+    "answer": "Bergamot"
+  },
+  {
+    "id": "food-drink-081",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What type of tea leaves form the base of a traditional Indian masala chai?",
+    "options": [
+      "Green tea",
+      "White tea",
+      "Black tea",
+      "Oolong tea"
+    ],
+    "answer": "Black tea"
+  },
+  {
+    "id": "food-drink-082",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What shade of tea leaves are stone-ground into a fine powder to make Japanese matcha?",
+    "options": [
+      "Black tea",
+      "Green tea",
+      "White tea",
+      "Oolong tea"
+    ],
+    "answer": "Green tea"
+  },
+  {
+    "id": "food-drink-083",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What grain is soaked, ground, and sweetened to make the traditional Mexican beverage horchata?",
+    "options": [
+      "Corn",
+      "Rice",
+      "Wheat",
+      "Oats"
+    ],
+    "answer": "Rice"
+  },
+  {
+    "id": "food-drink-084",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What grain is the primary base for the traditional Latin American fermented beverage known as chicha?",
+    "options": [
+      "Wheat",
+      "Barley",
+      "Maize",
+      "Rice"
+    ],
+    "answer": "Maize"
+  },
+  {
+    "id": "food-drink-085",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What traditional Slavic fermented beverage is made by soaking rye bread in water?",
+    "options": [
+      "Kombucha",
+      "Kvass",
+      "Kefir",
+      "Mead"
+    ],
+    "answer": "Kvass"
+  },
+  {
+    "id": "food-drink-086",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What fermented dairy product is diluted with water and salt to make the Turkish drink ayran?",
+    "options": [
+      "Milk",
+      "Yogurt",
+      "Kefir",
+      "Buttermilk"
+    ],
+    "answer": "Yogurt"
+  },
+  {
+    "id": "food-drink-087",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What Middle Eastern fruit syrup, often served over ice with pine nuts, is primarily made from dates and grape molasses?",
+    "options": [
+      "Tamarind juice",
+      "Jallab",
+      "Rose water syrup",
+      "Carob juice"
+    ],
+    "answer": "Jallab"
+  },
+  {
+    "id": "food-drink-088",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What country is the brightly colored, famously quirky soft drink Irn-Bru originally from?",
+    "options": [
+      "England",
+      "Ireland",
+      "Scotland",
+      "Wales"
+    ],
+    "answer": "Scotland"
+  },
+  {
+    "id": "food-drink-089",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What citrus fruit's zest is steeped in alcohol to produce the Italian liqueur limoncello?",
+    "options": [
+      "Oranges",
+      "Lemons",
+      "Limes",
+      "Grapefruits"
+    ],
+    "answer": "Lemons"
+  },
+  {
+    "id": "food-drink-090",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What bitter herb is the defining botanical ingredient in traditional French absinthe?",
+    "options": [
+      "Wormwood",
+      "Anise",
+      "Fennel",
+      "Mint"
+    ],
+    "answer": "Wormwood"
+  },
+  {
+    "id": "food-drink-091",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What licorice-flavored seed gives Greek ouzo its distinct aroma?",
+    "options": [
+      "Mint",
+      "Cinnamon",
+      "Anise",
+      "Clove"
+    ],
+    "answer": "Anise"
+  },
+  {
+    "id": "food-drink-092",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What spice gives the Middle Eastern spirit arak its strong licorice-like flavor?",
+    "options": [
+      "Anise",
+      "Cumin",
+      "Coriander",
+      "Cardamom"
+    ],
+    "answer": "Anise"
+  },
+  {
+    "id": "food-drink-093",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What seed is the traditional and dominant flavoring agent in Scandinavian aquavit?",
+    "options": [
+      "Caraway",
+      "Juniper",
+      "Anise",
+      "Cinnamon"
+    ],
+    "answer": "Caraway"
+  },
+  {
+    "id": "food-drink-094",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What Japanese spirit is traditionally distilled from barley, sweet potatoes, or rice, and is often compared to vodka but with more flavor?",
+    "options": [
+      "Sake",
+      "Shochu",
+      "Umeshu",
+      "Awamori"
+    ],
+    "answer": "Shochu"
+  },
+  {
+    "id": "food-drink-095",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What clear Korean spirit is traditionally distilled from rice, though modern mass-produced versions often use sweet potatoes or tapioca?",
+    "options": [
+      "Baijiu",
+      "Soju",
+      "Sake",
+      "Shochu"
+    ],
+    "answer": "Soju"
+  },
+  {
+    "id": "food-drink-096",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What potent Chinese spirit is most commonly distilled from fermented sorghum and has a classification system based on its 'aroma' profiles?",
+    "options": [
+      "Sake",
+      "Soju",
+      "Baijiu",
+      "Shochu"
+    ],
+    "answer": "Baijiu"
+  },
+  {
+    "id": "food-drink-097",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What specific plant is legally required to be the primary ingredient in tequila?",
+    "options": [
+      "Maguey",
+      "Blue agave",
+      "Espadin",
+      "Pulque agave"
+    ],
+    "answer": "Blue agave"
+  },
+  {
+    "id": "food-drink-098",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What crop's byproducts, such as molasses or fresh juice, are fermented and distilled to make rum?",
+    "options": [
+      "Corn",
+      "Wheat",
+      "Sugarcane",
+      "Potatoes"
+    ],
+    "answer": "Sugarcane"
+  },
+  {
+    "id": "food-drink-099",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What grain must make up at least 51% of the mash bill for an American whiskey to be legally classified as bourbon?",
+    "options": [
+      "Wheat",
+      "Rye",
+      "Corn",
+      "Barley"
+    ],
+    "answer": "Corn"
   }
 ]

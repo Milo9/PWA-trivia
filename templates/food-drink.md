@@ -56,5 +56,20 @@ Rules for each entry:
   themselves be true statements about the topic (a wrong answer that's
   secretly also correct elsewhere is a common trivia bug).
 
+AVOID THESE ANGLES (facts already asked, in some cases more than once —
+don't draft a question that tests the same underlying fact even if worded
+differently):
+- Which spice comes from the crocus flower / is the most expensive by weight
+  (saffron)
+- What pasta shape resembles small grains of rice, used in soups (orzo)
+- Main/base ingredient of hummus (chickpeas)
+- Cheese traditionally used on a Margherita pizza (mozzarella)
+- Main ingredient of guacamole (avocado)
+- Vegetable fermented to make sauerkraut (cabbage)
+- Main ingredient of Spanish gazpacho (tomato)
+- The three vegetables in a French mirepoix (onions, carrots, celery) —
+  already asked both as "name the mixture" and "name the missing third
+  vegetable"
+
 Output just the JS file content, nothing else.
 ```

@@ -252,6 +252,48 @@ confirmed-duplicate angles folded into `film-tv`'s list in
 clarifying note rather than a bullet (they're not "already in film-tv,"
 they're "belongs to a different category entirely").
 
+**`QWEN-01-8779348587346bgkjdfhgiudfhgjhdfrgkhdfikgu.js` processed
+2026-08-01** (single-file batch, 100 `food-drink` questions, already
+self-declaring `category` — first batch drafted from `templates/
+food-drink.md`, which had no `AVOID THESE ANGLES` list yet): 10 of 100
+were cut. `check-draft.js`'s default pass only flagged 2 near-duplicates
+(orzo, Margherita cheese) and 4 advisory notes; a manual full-answer-audit
+plus targeted corpus greps for each drafted dish/ingredient name (the
+technique this section already documents — `check-draft.js`'s answer-match
+check suppresses once an answer already has 2+ existing hits, and several
+`food-drink`/`general` chestnuts here already had 2-3) found the rest: the
+crocus/saffron origin fact, hummus's chickpea base, and guacamole's avocado
+base were each already asked 2-3 times in the existing corpus; sauerkraut's
+cabbage base and gazpacho's tomato base were each already asked once. One
+more (mirepoix's three vegetables) matched only at low text-overlap because
+the existing corpus asks it in reverse ("name the third vegetable besides
+onions and carrots" / "name this mixture of onions, celery, carrots") while
+the draft asked "name all three" — same fact, missed by both the text-
+overlap and answer-match checks since the draft's answer was the full list
+rather than a single ingredient name. One question (Ukrainian dumplings,
+described as "similar to Polish pierogi") duplicated another question in
+the *same draft batch* (Polish pierogi dumplings) — check-draft.js has no
+draft-vs-draft comparison, so this only surfaced during a manual read.
+One was cut for a distractor-correctness bug, not duplication: a wasabi
+question offered "Wasabia japonica" as correct and "Eutrema japonicum" as
+wrong, but the latter is the currently-accepted scientific name for the
+same plant (Wasabia japonica is a synonym) — same class of bug as the
+Fiorina/Fury 161 and Huygens/photosphere errors in earlier batches. Two
+more were fixed rather than cut for a subtler version of the same
+answer-leak pattern `check-draft.js` already catches verbatim: a biltong
+question described it as "air-dried, cured meat strips" and then offered
+"Dried meat" as the correct answer — testable by reading comprehension
+alone, no actual biltong knowledge required — rewritten to ask for the
+snack's name directly (answer: "Biltong", with "Droëwors"/"Boerewors"/
+"Pemmican" as real distractors); a Vegemite question and an arak question
+both had the answer word itself ("yeast extract," "anise") appear verbatim
+in the question text (these two were caught by `check-draft.js`) and were
+reworded to describe rather than name the answer. Surviving 90 merged as
+`food-drink-010`–`099` (existing file only had 9 entries using the
+`food-drink-` prefix; the rest are legacy `general-NNNN` ids from before
+the split). Seeded `templates/food-drink.md`'s first `AVOID THESE ANGLES`
+list with all 7 confirmed-duplicate angles from this batch (see that file).
+
 ## General Knowledge split into topic categories (2026-08-01)
 
 `general` (2825 questions) was split into 12 topic categories plus a
