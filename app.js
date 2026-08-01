@@ -187,8 +187,20 @@ function saveSeenIds(categoryId, seenSet) {
 
 const STATS_KEY = "offline-trivia:stats";
 
+function currentDateKey() {
+  const d = new Date();
+  return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
+}
+
 function defaultStats() {
-  return { gamesPlayed: 0, totalQuestions: 0, totalCorrect: 0, bestPct: 0 };
+  return {
+    gamesPlayed: 0,
+    totalQuestions: 0,
+    totalCorrect: 0,
+    bestPct: 0,
+    lastGame: null, // { score, total, pct }
+    today: { date: currentDateKey(), gamesPlayed: 0, totalQuestions: 0, totalCorrect: 0 },
+  };
 }
 
 function loadStats() {
@@ -208,6 +220,13 @@ function saveStats(stats) {
   }
 }
 
+// Returns stats.today if it's still today's bucket, otherwise a fresh
+// zeroed-out bucket for the current date (doesn't mutate/save).
+function todayBucket(stats) {
+  if (stats.today && stats.today.date === currentDateKey()) return stats.today;
+  return { date: currentDateKey(), gamesPlayed: 0, totalQuestions: 0, totalCorrect: 0 };
+}
+
 // Records this game's result and returns the updated overall stats.
 function recordGameResult(score, total) {
   const stats = loadStats();
@@ -216,6 +235,15 @@ function recordGameResult(score, total) {
   stats.totalCorrect += score;
   const pct = total > 0 ? (score / total) * 100 : 0;
   if (pct > stats.bestPct) stats.bestPct = pct;
+
+  const today = todayBucket(stats);
+  today.gamesPlayed += 1;
+  today.totalQuestions += total;
+  today.totalCorrect += score;
+  stats.today = today;
+
+  stats.lastGame = { score, total, pct };
+
   saveStats(stats);
   return stats;
 }
@@ -223,17 +251,33 @@ function recordGameResult(score, total) {
 function renderStatsSummary() {
   const stats = loadStats();
   if (stats.gamesPlayed === 0) {
-    el.statsSummary.textContent = "";
+    el.statsSummary.classList.add("hidden");
     el.resetStatsBtn.classList.add("hidden");
     return;
   }
-  const avgPct = stats.totalQuestions > 0
+  el.statsSummary.classList.remove("hidden");
+  el.resetStatsBtn.classList.remove("hidden");
+
+  const overallPct = stats.totalQuestions > 0
     ? Math.round((stats.totalCorrect / stats.totalQuestions) * 100)
     : 0;
-  const gameWord = stats.gamesPlayed === 1 ? "game" : "games";
-  el.statsSummary.textContent =
-    `${stats.gamesPlayed} ${gameWord} played · ${avgPct}% average · ${Math.round(stats.bestPct)}% best`;
-  el.resetStatsBtn.classList.remove("hidden");
+  const overallLine =
+    `${stats.gamesPlayed} ${stats.gamesPlayed === 1 ? "game" : "games"} · ${overallPct}% avg · ${Math.round(stats.bestPct)}% best`;
+
+  const today = todayBucket(stats);
+  const todayLine = today.gamesPlayed === 0
+    ? "No games yet"
+    : `${today.gamesPlayed} ${today.gamesPlayed === 1 ? "game" : "games"} · ${Math.round((today.totalCorrect / today.totalQuestions) * 100)}% avg`;
+
+  const lastLine = stats.lastGame
+    ? `${Math.round(stats.lastGame.pct)}% (${stats.lastGame.score}/${stats.lastGame.total})`
+    : "—";
+
+  el.statsSummary.innerHTML = `
+    <div class="stats-row"><span>Overall</span><span class="stats-value">${overallLine}</span></div>
+    <div class="stats-row"><span>Today</span><span class="stats-value">${todayLine}</span></div>
+    <div class="stats-row"><span>Last Game</span><span class="stats-value">${lastLine}</span></div>
+  `;
 }
 
 el.resetStatsBtn.addEventListener("click", () => {

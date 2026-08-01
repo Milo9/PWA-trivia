@@ -11,5 +11,8 @@
     "stamp": "node scripts/stamp-version.js",
     "serve": "node scripts/serve.js",
     "ship": "node scripts/ship.js"
+  },
+  "devDependencies": {
+    "playwright": "^1.62.1"
   }
 }
