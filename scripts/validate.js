@@ -32,6 +32,15 @@ const MAX_ANSWER_GROUP_SIZE = 2;
 // one-word/number answers ("Six", "Red", "1969") that can still coincidentally
 // land in a group of exactly 2.
 const MIN_ANSWER_DUPLICATE_LENGTH = 6;
+// Floor on question-text overlap for the same-answer check below. Confirmed
+// empirically across two full-corpus triage passes (2026-07-31, 2026-08-01):
+// sorting same-answer pairs by this score, pairs >= 0.55 are dense with real
+// duplicates, while pairs below it are almost all coincidental generic-entity
+// reuse (two questions that just happen to both answer "Oxygen" or "Poland").
+// Below this floor isn't a useful signal, so don't report it — a warning that
+// resolves to "ignore this" on every single run trains reviewers to stop
+// reading warnings at all.
+const SAME_ANSWER_MIN_OVERLAP = 0.55;
 
 let errors = [];
 let warnings = [];
@@ -223,6 +232,7 @@ function findAnswerDuplicates(questions) {
         if (a.q.category !== b.q.category) continue; // cross-category match is almost always coincidence
         const sim = jaccard(a.words, b.words);
         if (sim >= NEAR_DUPLICATE_THRESHOLD) continue; // already reported by findDuplicates()
+        if (sim < SAME_ANSWER_MIN_OVERLAP) continue; // below this, it's coincidental generic-entity reuse, not signal
         warn(
           `Same answer ("${a.q.answer}"), low word-overlap questions (${sim.toFixed(2)}) in "${a.q.category}" — check whether it's the same fact reworded: "${a.q.id}" ("${a.q.question}") vs "${b.q.id}" ("${b.q.question}")`
         );
@@ -300,4 +310,5 @@ module.exports = {
   normalizeAnswer,
   MAX_ANSWER_GROUP_SIZE,
   MIN_ANSWER_DUPLICATE_LENGTH,
+  SAME_ANSWER_MIN_OVERLAP,
 };

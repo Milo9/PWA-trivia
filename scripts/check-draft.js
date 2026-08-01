@@ -39,6 +39,7 @@ const {
   normalize,
   MAX_ANSWER_GROUP_SIZE,
   MIN_ANSWER_DUPLICATE_LENGTH,
+  SAME_ANSWER_MIN_OVERLAP,
 } = require("./validate.js");
 
 const ROOT = path.join(__dirname, "..");
@@ -232,6 +233,7 @@ function checkAnswerDuplicates(q, i, corpusIndex, draftMatches) {
     for (const match of corpusMatches) {
       const sim = jaccard(draftWords, wordSet(match.question || ""));
       if (sim >= NEAR_DUPLICATE_THRESHOLD) continue; // already caught by nearestMatches above
+      if (sim < SAME_ANSWER_MIN_OVERLAP) continue; // below this, it's coincidental generic-entity reuse, not signal
       hits.push(
         `draft[${i}]: shares answer "${q.answer}" with existing ${match.id} (question overlap ${sim.toFixed(2)}) — check if it's the same fact reworded: "${match.question}"`
       );
@@ -240,6 +242,7 @@ function checkAnswerDuplicates(q, i, corpusIndex, draftMatches) {
   for (const other of draftMatches) {
     const sim = jaccard(draftWords, wordSet(other.q.question || ""));
     if (sim >= NEAR_DUPLICATE_THRESHOLD) continue;
+    if (sim < SAME_ANSWER_MIN_OVERLAP) continue;
     hits.push(
       `draft[${i}]: shares answer "${q.answer}" with draft[${other.i}] (question overlap ${sim.toFixed(2)}) — check if it's the same fact reworded: "${other.q.question}"`
     );
