@@ -1,0 +1,3239 @@
+[
+  {
+    "id": "general-201",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Who wrote the play \"Romeo and Juliet\"?",
+    "options": [
+      "William Shakespeare",
+      "Christopher Marlowe",
+      "Ben Jonson",
+      "Oscar Wilde"
+    ],
+    "answer": "William Shakespeare"
+  },
+  {
+    "id": "general-202",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Who wrote \"Pride and Prejudice\"?",
+    "options": [
+      "Charlotte Brontë",
+      "Jane Austen",
+      "Emily Brontë",
+      "Mary Shelley"
+    ],
+    "answer": "Jane Austen"
+  },
+  {
+    "id": "general-203",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Who painted the Mona Lisa?",
+    "options": [
+      "Michelangelo",
+      "Raphael",
+      "Leonardo da Vinci",
+      "Donatello"
+    ],
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "id": "general-204",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Who wrote the Harry Potter book series?",
+    "options": [
+      "Suzanne Collins",
+      "Stephenie Meyer",
+      "C.S. Lewis",
+      "J.K. Rowling"
+    ],
+    "answer": "J.K. Rowling"
+  },
+  {
+    "id": "general-205",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Who wrote the dystopian novel \"1984\"?",
+    "options": [
+      "George Orwell",
+      "Aldous Huxley",
+      "Ray Bradbury",
+      "Kurt Vonnegut"
+    ],
+    "answer": "George Orwell"
+  },
+  {
+    "id": "general-206",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Which Renaissance artist sculpted the statue of \"David\"?",
+    "options": [
+      "Donatello",
+      "Michelangelo",
+      "Bernini",
+      "Cellini"
+    ],
+    "answer": "Michelangelo"
+  },
+  {
+    "id": "general-207",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Who wrote \"The Great Gatsby\"?",
+    "options": [
+      "Ernest Hemingway",
+      "John Steinbeck",
+      "F. Scott Fitzgerald",
+      "William Faulkner"
+    ],
+    "answer": "F. Scott Fitzgerald"
+  },
+  {
+    "id": "general-208",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which Dutch post-Impressionist painter created \"The Starry Night\"?",
+    "options": [
+      "Claude Monet",
+      "Paul Cézanne",
+      "Henri Matisse",
+      "Vincent van Gogh"
+    ],
+    "answer": "Vincent van Gogh"
+  },
+  {
+    "id": "general-209",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who wrote the novel \"Moby-Dick\"?",
+    "options": [
+      "Herman Melville",
+      "Nathaniel Hawthorne",
+      "Mark Twain",
+      "Henry James"
+    ],
+    "answer": "Herman Melville"
+  },
+  {
+    "id": "general-210",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which author wrote \"One Hundred Years of Solitude\"?",
+    "options": [
+      "Jorge Luis Borges",
+      "Gabriel García Márquez",
+      "Pablo Neruda",
+      "Isabel Allende"
+    ],
+    "answer": "Gabriel García Márquez"
+  },
+  {
+    "id": "general-211",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which Dutch painter is known for \"Girl with a Pearl Earring\"?",
+    "options": [
+      "Rembrandt",
+      "Frans Hals",
+      "Johannes Vermeer",
+      "Jan Steen"
+    ],
+    "answer": "Johannes Vermeer"
+  },
+  {
+    "id": "general-212",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who wrote \"Crime and Punishment\"?",
+    "options": [
+      "Leo Tolstoy",
+      "Anton Chekhov",
+      "Ivan Turgenev",
+      "Fyodor Dostoevsky"
+    ],
+    "answer": "Fyodor Dostoevsky"
+  },
+  {
+    "id": "general-213",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "\"Mark Twain\" was the pen name of which American author?",
+    "options": [
+      "Samuel Clemens",
+      "Washington Irving",
+      "Bret Harte",
+      "Ambrose Bierce"
+    ],
+    "answer": "Samuel Clemens"
+  },
+  {
+    "id": "general-214",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who painted \"Guernica\" in response to the bombing during the Spanish Civil War?",
+    "options": [
+      "Joan Miró",
+      "Pablo Picasso",
+      "Salvador Dalí",
+      "Diego Rivera"
+    ],
+    "answer": "Pablo Picasso"
+  },
+  {
+    "id": "general-215",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who wrote \"The Canterbury Tales\"?",
+    "options": [
+      "John Milton",
+      "Edmund Spenser",
+      "Geoffrey Chaucer",
+      "Thomas Malory"
+    ],
+    "answer": "Geoffrey Chaucer"
+  },
+  {
+    "id": "general-216",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who wrote the epic novel \"War and Peace\"?",
+    "options": [
+      "Fyodor Dostoevsky",
+      "Anton Chekhov",
+      "Ivan Goncharov",
+      "Leo Tolstoy"
+    ],
+    "answer": "Leo Tolstoy"
+  },
+  {
+    "id": "general-217",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Which French author wrote the multi-volume novel \"In Search of Lost Time\"?",
+    "options": [
+      "Marcel Proust",
+      "Albert Camus",
+      "André Gide",
+      "Victor Hugo"
+    ],
+    "answer": "Marcel Proust"
+  },
+  {
+    "id": "general-218",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Which French sculptor created \"The Thinker\"?",
+    "options": [
+      "Antoine Bourdelle",
+      "Auguste Rodin",
+      "Camille Claudel",
+      "Aristide Maillol"
+    ],
+    "answer": "Auguste Rodin"
+  },
+  {
+    "id": "general-219",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Which modernist poet wrote \"The Waste Land\"?",
+    "options": [
+      "Ezra Pound",
+      "W.B. Yeats",
+      "T.S. Eliot",
+      "Wallace Stevens"
+    ],
+    "answer": "T.S. Eliot"
+  },
+  {
+    "id": "general-473",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Which American author wrote 'To Kill a Mockingbird'?",
+    "options": [
+      "Harper Lee",
+      "Truman Capote",
+      "Flannery O'Connor",
+      "Eudora Welty"
+    ],
+    "answer": "Harper Lee"
+  },
+  {
+    "id": "general-474",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which Russian author wrote the novel 'War and Peace'?",
+    "options": [
+      "Fyodor Dostoevsky",
+      "Leo Tolstoy",
+      "Anton Chekhov",
+      "Ivan Turgenev"
+    ],
+    "answer": "Leo Tolstoy"
+  },
+  {
+    "id": "general-475",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Which artist painted the ceiling of the Sistine Chapel?",
+    "options": [
+      "Leonardo da Vinci",
+      "Raphael",
+      "Michelangelo",
+      "Donatello"
+    ],
+    "answer": "Michelangelo"
+  },
+  {
+    "id": "general-476",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Which author created the fictional detective Sherlock Holmes?",
+    "options": [
+      "Agatha Christie",
+      "Wilkie Collins",
+      "Edgar Allan Poe",
+      "Arthur Conan Doyle"
+    ],
+    "answer": "Arthur Conan Doyle"
+  },
+  {
+    "id": "general-477",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which Spanish surrealist artist is known for melting clocks in his painting 'The Persistence of Memory'?",
+    "options": [
+      "Salvador Dalí",
+      "Joan Miró",
+      "Pablo Picasso",
+      "Francisco Goya"
+    ],
+    "answer": "Salvador Dalí"
+  },
+  {
+    "id": "general-478",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Which 19th-century English novelist wrote 'Pride and Prejudice'?",
+    "options": [
+      "Charlotte Brontë",
+      "Jane Austen",
+      "George Eliot",
+      "Emily Brontë"
+    ],
+    "answer": "Jane Austen"
+  },
+  {
+    "id": "general-479",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which Dutch painter created 'The Night Watch'?",
+    "options": [
+      "Johannes Vermeer",
+      "Peter Paul Rubens",
+      "Rembrandt van Rijn",
+      "Frans Hals"
+    ],
+    "answer": "Rembrandt van Rijn"
+  },
+  {
+    "id": "general-480",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which epic poem, attributed to Homer, tells the story of Odysseus's journey home after the Trojan War?",
+    "options": [
+      "The Iliad",
+      "The Aeneid",
+      "The Argonautica",
+      "The Odyssey"
+    ],
+    "answer": "The Odyssey"
+  },
+  {
+    "id": "general-482",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which Renaissance artist sculpted the statue of 'David', now housed in Florence?",
+    "options": [
+      "Donatello",
+      "Michelangelo",
+      "Bernini",
+      "Cellini"
+    ],
+    "answer": "Michelangelo"
+  },
+  {
+    "id": "general-483",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Which Argentine author is famous for the short-story collection 'Ficciones' and labyrinthine, philosophical themes?",
+    "options": [
+      "Gabriel García Márquez",
+      "Mario Vargas Llosa",
+      "Jorge Luis Borges",
+      "Isabel Allende"
+    ],
+    "answer": "Jorge Luis Borges"
+  },
+  {
+    "id": "general-484",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Which British artist is famous for preserving a shark in formaldehyde in an artwork titled 'The Physical Impossibility of Death in the Mind of Someone Living'?",
+    "options": [
+      "Banksy",
+      "Antony Gormley",
+      "Anish Kapoor",
+      "Damien Hirst"
+    ],
+    "answer": "Damien Hirst"
+  },
+  {
+    "id": "general-485",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which Norwegian artist painted 'The Scream'?",
+    "options": [
+      "Edvard Munch",
+      "Gustav Klimt",
+      "Egon Schiele",
+      "Vincent van Gogh"
+    ],
+    "answer": "Edvard Munch"
+  },
+  {
+    "id": "general-486",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which Irish author wrote the Gothic horror novel 'Dracula'?",
+    "options": [
+      "Oscar Wilde",
+      "Bram Stoker",
+      "George Bernard Shaw",
+      "Samuel Beckett"
+    ],
+    "answer": "Bram Stoker"
+  },
+  {
+    "id": "general-487",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Which British author wrote the dystopian novel '1984'?",
+    "options": [
+      "Aldous Huxley",
+      "Ray Bradbury",
+      "George Orwell",
+      "H.G. Wells"
+    ],
+    "answer": "George Orwell"
+  },
+  {
+    "id": "general-488",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which art movement, pioneered by Pablo Picasso and Georges Braque, depicts subjects from multiple viewpoints simultaneously?",
+    "options": [
+      "Surrealism",
+      "Impressionism",
+      "Fauvism",
+      "Cubism"
+    ],
+    "answer": "Cubism"
+  },
+  {
+    "id": "general-489",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Which French Impressionist painter is known for his series of 'Water Lilies' paintings?",
+    "options": [
+      "Claude Monet",
+      "Edgar Degas",
+      "Pierre-Auguste Renoir",
+      "Camille Pissarro"
+    ],
+    "answer": "Claude Monet"
+  },
+  {
+    "id": "general-490",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which ancient Greek playwright wrote the tragedy 'Oedipus Rex'?",
+    "options": [
+      "Euripides",
+      "Sophocles",
+      "Aeschylus",
+      "Aristophanes"
+    ],
+    "answer": "Sophocles"
+  },
+  {
+    "id": "general-668",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Who wrote the tragedy 'Hamlet'?",
+    "options": [
+      "Christopher Marlowe",
+      "Ben Jonson",
+      "John Webster",
+      "William Shakespeare"
+    ],
+    "answer": "William Shakespeare"
+  },
+  {
+    "id": "general-669",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Which Italian sculptor created the marble statue 'The Pietà', housed in St. Peter's Basilica?",
+    "options": [
+      "Michelangelo",
+      "Donatello",
+      "Bernini",
+      "Raphael"
+    ],
+    "answer": "Michelangelo"
+  },
+  {
+    "id": "general-670",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Which Russian novelist wrote the epic 'War and Peace'?",
+    "options": [
+      "Fyodor Dostoevsky",
+      "Leo Tolstoy",
+      "Anton Chekhov",
+      "Ivan Turgenev"
+    ],
+    "answer": "Leo Tolstoy"
+  },
+  {
+    "id": "general-671",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which artist painted 'The Last Supper', a mural depicting Jesus and his disciples?",
+    "options": [
+      "Michelangelo",
+      "Raphael",
+      "Leonardo da Vinci",
+      "Titian"
+    ],
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "id": "general-672",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which author wrote the dystopian novel 'Brave New World'?",
+    "options": [
+      "George Orwell",
+      "Ray Bradbury",
+      "H.G. Wells",
+      "Aldous Huxley"
+    ],
+    "answer": "Aldous Huxley"
+  },
+  {
+    "id": "general-673",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Which 20th-century art movement, associated with Salvador Dalí, sought to depict dream-like, irrational imagery?",
+    "options": [
+      "Surrealism",
+      "Cubism",
+      "Impressionism",
+      "Expressionism"
+    ],
+    "answer": "Surrealism"
+  },
+  {
+    "id": "general-674",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Which author wrote 'The Chronicles of Narnia' series?",
+    "options": [
+      "J.R.R. Tolkien",
+      "C.S. Lewis",
+      "J.K. Rowling",
+      "Roald Dahl"
+    ],
+    "answer": "C.S. Lewis"
+  },
+  {
+    "id": "general-675",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which Dutch painter is famous for 'The Starry Night' and for cutting off part of his own ear?",
+    "options": [
+      "Claude Monet",
+      "Rembrandt",
+      "Vincent van Gogh",
+      "Paul Cézanne"
+    ],
+    "answer": "Vincent van Gogh"
+  },
+  {
+    "id": "general-676",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Which epic poem, attributed to Homer, tells the story of the Trojan War hero Achilles?",
+    "options": [
+      "The Odyssey",
+      "The Aeneid",
+      "Metamorphoses",
+      "The Iliad"
+    ],
+    "answer": "The Iliad"
+  },
+  {
+    "id": "general-677",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which Brontë sister wrote the novel 'Jane Eyre'?",
+    "options": [
+      "Charlotte Brontë",
+      "Emily Brontë",
+      "Anne Brontë",
+      "Jane Austen"
+    ],
+    "answer": "Charlotte Brontë"
+  },
+  {
+    "id": "general-678",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which art movement, pioneered by Pablo Picasso and Georges Braque, depicted subjects from multiple angles at once?",
+    "options": [
+      "Surrealism",
+      "Cubism",
+      "Fauvism",
+      "Futurism"
+    ],
+    "answer": "Cubism"
+  },
+  {
+    "id": "general-679",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Which Irish author wrote the modernist novel 'Ulysses'?",
+    "options": [
+      "Samuel Beckett",
+      "Oscar Wilde",
+      "James Joyce",
+      "W.B. Yeats"
+    ],
+    "answer": "James Joyce"
+  },
+  {
+    "id": "general-681",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which sculptor created the statue of 'David', housed in Florence, Italy?",
+    "options": [
+      "Michelangelo",
+      "Donatello",
+      "Bernini",
+      "Rodin"
+    ],
+    "answer": "Michelangelo"
+  },
+  {
+    "id": "general-684",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which Norwegian playwright, known as 'the father of realism', wrote 'A Doll's House'?",
+    "options": [
+      "August Strindberg",
+      "Anton Chekhov",
+      "Bertolt Brecht",
+      "Henrik Ibsen"
+    ],
+    "answer": "Henrik Ibsen"
+  },
+  {
+    "id": "general-685",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Which Renaissance artist painted the fresco 'The School of Athens'?",
+    "options": [
+      "Raphael",
+      "Michelangelo",
+      "Leonardo da Vinci",
+      "Titian"
+    ],
+    "answer": "Raphael"
+  },
+  {
+    "id": "general-686",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Who wrote 'The Adventures of Huckleberry Finn'?",
+    "options": [
+      "Herman Melville",
+      "Mark Twain",
+      "Nathaniel Hawthorne",
+      "Jack London"
+    ],
+    "answer": "Mark Twain"
+  },
+  {
+    "id": "general-687",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which early 20th-century art style, led by Henri Matisse, emphasized geometric shapes and bold, unnatural colors?",
+    "options": [
+      "Cubism",
+      "Dadaism",
+      "Fauvism",
+      "Pointillism"
+    ],
+    "answer": "Fauvism"
+  },
+  {
+    "id": "general-700",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Who sculpted the Statue of Liberty, officially titled 'Liberty Enlightening the World'?",
+    "options": [
+      "Gustave Eiffel",
+      "Auguste Rodin",
+      "Claude Monet",
+      "Frédéric Auguste Bartholdi"
+    ],
+    "answer": "Frédéric Auguste Bartholdi"
+  },
+  {
+    "id": "general-940",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Which Spanish artist, associated with Cubism, painted 'Guernica' in response to the bombing of a Basque town during the Spanish Civil War?",
+    "options": [
+      "Salvador Dalí",
+      "Pablo Picasso",
+      "Joan Miró",
+      "Francisco Goya"
+    ],
+    "answer": "Pablo Picasso"
+  },
+  {
+    "id": "general-941",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who wrote the classic Russian novel 'Crime and Punishment'?",
+    "options": [
+      "Leo Tolstoy",
+      "Anton Chekhov",
+      "Fyodor Dostoevsky",
+      "Nikolai Gogol"
+    ],
+    "answer": "Fyodor Dostoevsky"
+  },
+  {
+    "id": "general-942",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Which American poet wrote 'The Raven', a narrative poem published in 1845?",
+    "options": [
+      "Walt Whitman",
+      "Emily Dickinson",
+      "Henry Wadsworth Longfellow",
+      "Edgar Allan Poe"
+    ],
+    "answer": "Edgar Allan Poe"
+  },
+  {
+    "id": "general-943",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Which Dutch artist is famous for optical illusion prints and impossible constructions, such as 'Relativity'?",
+    "options": [
+      "M.C. Escher",
+      "Piet Mondrian",
+      "Vincent van Gogh",
+      "Hieronymus Bosch"
+    ],
+    "answer": "M.C. Escher"
+  },
+  {
+    "id": "general-944",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Who wrote the play 'A Midsummer Night's Dream'?",
+    "options": [
+      "Christopher Marlowe",
+      "William Shakespeare",
+      "Ben Jonson",
+      "Thomas Kyd"
+    ],
+    "answer": "William Shakespeare"
+  },
+  {
+    "id": "general-945",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which sculptor created 'The Thinker', a bronze statue depicting a man in deep thought?",
+    "options": [
+      "Michelangelo",
+      "Donatello",
+      "Auguste Rodin",
+      "Constantin Brâncuși"
+    ],
+    "answer": "Auguste Rodin"
+  },
+  {
+    "id": "general-947",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Which artist is known for colorful, dreamlike depictions of village life in works like 'I and the Village'?",
+    "options": [
+      "Marc Chagall",
+      "Wassily Kandinsky",
+      "Paul Klee",
+      "Henri Rousseau"
+    ],
+    "answer": "Marc Chagall"
+  },
+  {
+    "id": "general-948",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Who wrote the American novel 'To Kill a Mockingbird'?",
+    "options": [
+      "Toni Morrison",
+      "Harper Lee",
+      "Flannery O'Connor",
+      "Carson McCullers"
+    ],
+    "answer": "Harper Lee"
+  },
+  {
+    "id": "general-949",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Which Italian Renaissance artist sculpted the bronze doors of the Florence Baptistery, known as the 'Gates of Paradise'?",
+    "options": [
+      "Donatello",
+      "Filippo Brunelleschi",
+      "Lorenzo Ghiberti",
+      "Michelangelo"
+    ],
+    "answer": "Lorenzo Ghiberti"
+  },
+  {
+    "id": "general-950",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Who wrote the epic poem 'Paradise Lost', depicting the fall of Adam and Eve?",
+    "options": [
+      "John Donne",
+      "Alexander Pope",
+      "William Blake",
+      "John Milton"
+    ],
+    "answer": "John Milton"
+  },
+  {
+    "id": "general-951",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Which French Post-Impressionist painter created 'A Sunday Afternoon on the Island of La Grande Jatte' using the pointillist technique?",
+    "options": [
+      "Georges Seurat",
+      "Claude Monet",
+      "Paul Cézanne",
+      "Henri Matisse"
+    ],
+    "answer": "Georges Seurat"
+  },
+  {
+    "id": "general-952",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who wrote the philosophical novella 'The Little Prince'?",
+    "options": [
+      "Albert Camus",
+      "Antoine de Saint-Exupéry",
+      "Jean-Paul Sartre",
+      "Victor Hugo"
+    ],
+    "answer": "Antoine de Saint-Exupéry"
+  },
+  {
+    "id": "general-953",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Which American sculptor pioneered kinetic art with large-scale mobile sculptures?",
+    "options": [
+      "Richard Serra",
+      "Jeff Koons",
+      "Alexander Calder",
+      "Isamu Noguchi"
+    ],
+    "answer": "Alexander Calder"
+  },
+  {
+    "id": "general-954",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who wrote 'Don Quixote', often considered one of the first modern novels?",
+    "options": [
+      "Lope de Vega",
+      "Federico García Lorca",
+      "Pedro Calderón de la Barca",
+      "Miguel de Cervantes"
+    ],
+    "answer": "Miguel de Cervantes"
+  },
+  {
+    "id": "general-955",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Which German-American architect pioneered the minimalist 'less is more' philosophy of modernist architecture?",
+    "options": [
+      "Ludwig Mies van der Rohe",
+      "Walter Gropius",
+      "Le Corbusier",
+      "Frank Lloyd Wright"
+    ],
+    "answer": "Ludwig Mies van der Rohe"
+  },
+  {
+    "id": "general-1118",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "What is the name of the totalitarian leader who is never seen but constantly watches citizens in George Orwell's '1984'?",
+    "options": [
+      "Big Brother",
+      "The Ministry",
+      "O'Brien",
+      "Emmanuel Goldstein"
+    ],
+    "answer": "Big Brother"
+  },
+  {
+    "id": "general-1119",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which author created the detective Hercule Poirot?",
+    "options": [
+      "Agatha Christie",
+      "Arthur Conan Doyle",
+      "Dorothy L. Sayers",
+      "P.D. James"
+    ],
+    "answer": "Agatha Christie"
+  },
+  {
+    "id": "general-1120",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "What is the name of the boy wizard in J.K. Rowling's famous book series?",
+    "options": [
+      "Harry Potter",
+      "Percy Jackson",
+      "Eragon",
+      "Frodo Baggins"
+    ],
+    "answer": "Harry Potter"
+  },
+  {
+    "id": "general-1121",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who wrote the novel 'Wuthering Heights'?",
+    "options": [
+      "Emily Bronte",
+      "Charlotte Bronte",
+      "Anne Bronte",
+      "Jane Austen"
+    ],
+    "answer": "Emily Bronte"
+  },
+  {
+    "id": "general-1122",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which epic poem by Homer describes the events of the Trojan War?",
+    "options": [
+      "The Iliad",
+      "The Odyssey",
+      "The Aeneid",
+      "Metamorphoses"
+    ],
+    "answer": "The Iliad"
+  },
+  {
+    "id": "general-1123",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "What is the name of the fictional town where 'One Hundred Years of Solitude' is set?",
+    "options": [
+      "Macondo",
+      "Comala",
+      "Santa Maria",
+      "Aracataca"
+    ],
+    "answer": "Macondo"
+  },
+  {
+    "id": "general-1124",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "What is the name of the ship in Herman Melville's novel 'Moby-Dick'?",
+    "options": [
+      "Pequod",
+      "Nautilus",
+      "Hispaniola",
+      "Beagle"
+    ],
+    "answer": "Pequod"
+  },
+  {
+    "id": "general-1125",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which Shakespeare play features the characters Rosencrantz and Guildenstern?",
+    "options": [
+      "Hamlet",
+      "Macbeth",
+      "Othello",
+      "King Lear"
+    ],
+    "answer": "Hamlet"
+  },
+  {
+    "id": "general-1126",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "In Aldous Huxley's 'Brave New World', what is the name of the mood-altering drug used by citizens?",
+    "options": [
+      "Soma",
+      "Nectar",
+      "Bliss",
+      "Euphoria"
+    ],
+    "answer": "Soma"
+  },
+  {
+    "id": "general-1127",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "What is the first book in C.S. Lewis's 'The Chronicles of Narnia' series by original publication order?",
+    "options": [
+      "The Lion, the Witch and the Wardrobe",
+      "Prince Caspian",
+      "The Magician's Nephew",
+      "The Silver Chair"
+    ],
+    "answer": "The Lion, the Witch and the Wardrobe"
+  },
+  {
+    "id": "general-1128",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which Russian author wrote 'Crime and Punishment'?",
+    "options": [
+      "Fyodor Dostoevsky",
+      "Leo Tolstoy",
+      "Anton Chekhov",
+      "Nikolai Gogol"
+    ],
+    "answer": "Fyodor Dostoevsky"
+  },
+  {
+    "id": "general-1129",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Who wrote the play 'A Streetcar Named Desire'?",
+    "options": [
+      "Tennessee Williams",
+      "Arthur Miller",
+      "Eugene O'Neill",
+      "Edward Albee"
+    ],
+    "answer": "Tennessee Williams"
+  },
+  {
+    "id": "general-1130",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "What is the name of the fictional town in most of William Faulkner's novels?",
+    "options": [
+      "Yoknapatawpha County",
+      "Maycomb",
+      "Salem's Lot",
+      "Sleepy Hollow"
+    ],
+    "answer": "Yoknapatawpha County"
+  },
+  {
+    "id": "general-1131",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which novel by Charlotte Bronte tells the story of a governess who falls in love with her employer?",
+    "options": [
+      "Jane Eyre",
+      "Wuthering Heights",
+      "Villette",
+      "Shirley"
+    ],
+    "answer": "Jane Eyre"
+  },
+  {
+    "id": "general-1132",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who wrote 'The Divine Comedy'?",
+    "options": [
+      "Dante Alighieri",
+      "Geoffrey Chaucer",
+      "Giovanni Boccaccio",
+      "Petrarch"
+    ],
+    "answer": "Dante Alighieri"
+  },
+  {
+    "id": "general-1133",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "What is the name of the whale in Herman Melville's most famous novel?",
+    "options": [
+      "Moby Dick",
+      "Leviathan",
+      "White Fang",
+      "Behemoth"
+    ],
+    "answer": "Moby Dick"
+  },
+  {
+    "id": "general-1134",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which author wrote the 'Discworld' fantasy series?",
+    "options": [
+      "Terry Pratchett",
+      "Neil Gaiman",
+      "Douglas Adams",
+      "J.R.R. Tolkien"
+    ],
+    "answer": "Terry Pratchett"
+  },
+  {
+    "id": "general-1135",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "In Greek mythology-inspired literature, who wrote 'Percy Jackson and the Olympians'?",
+    "options": [
+      "Rick Riordan",
+      "Suzanne Collins",
+      "John Green",
+      "Veronica Roth"
+    ],
+    "answer": "Rick Riordan"
+  },
+  {
+    "id": "general-1136",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which biblical scene is depicted at the center of the Sistine Chapel ceiling, showing God reaching toward a man?",
+    "options": [
+      "The Creation of Adam",
+      "The Last Judgment",
+      "The Expulsion from Eden",
+      "The Great Flood"
+    ],
+    "answer": "The Creation of Adam"
+  },
+  {
+    "id": "general-1137",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Which artist is famous for cutting off part of his own ear?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Claude Monet",
+      "Salvador Dali"
+    ],
+    "answer": "Vincent van Gogh"
+  },
+  {
+    "id": "general-1139",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who painted 'The Persistence of Memory', featuring melting clocks?",
+    "options": [
+      "Salvador Dali",
+      "Rene Magritte",
+      "Joan Miro",
+      "Max Ernst"
+    ],
+    "answer": "Salvador Dali"
+  },
+  {
+    "id": "general-1141",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "What is the medium used in fresco painting, such as those by Michelangelo?",
+    "options": [
+      "Wet plaster",
+      "Oil on canvas",
+      "Watercolor on paper",
+      "Wax and pigment"
+    ],
+    "answer": "Wet plaster"
+  },
+  {
+    "id": "general-1142",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Which pop artist is known for his paintings of Campbell's Soup Cans?",
+    "options": [
+      "Andy Warhol",
+      "Roy Lichtenstein",
+      "Jasper Johns",
+      "Keith Haring"
+    ],
+    "answer": "Andy Warhol"
+  },
+  {
+    "id": "general-1143",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who sculpted the statue of David, now housed in Florence, Italy?",
+    "options": [
+      "Michelangelo",
+      "Donatello",
+      "Bernini",
+      "Cellini"
+    ],
+    "answer": "Michelangelo"
+  },
+  {
+    "id": "general-1144",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Which art movement, pioneered by Monet, focused on capturing light and its changing qualities?",
+    "options": [
+      "Impressionism",
+      "Cubism",
+      "Fauvism",
+      "Realism"
+    ],
+    "answer": "Impressionism"
+  },
+  {
+    "id": "general-1349",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which author wrote 'The Catcher in the Rye'?",
+    "options": [
+      "J.D. Salinger",
+      "John Steinbeck",
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald"
+    ],
+    "answer": "J.D. Salinger"
+  },
+  {
+    "id": "general-1350",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who wrote the novel 'The Sun Also Rises'?",
+    "options": [
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald",
+      "John Steinbeck",
+      "William Faulkner"
+    ],
+    "answer": "Ernest Hemingway"
+  },
+  {
+    "id": "general-1351",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which playwright wrote 'Death of a Salesman'?",
+    "options": [
+      "Arthur Miller",
+      "Tennessee Williams",
+      "Eugene O'Neill",
+      "Edward Albee"
+    ],
+    "answer": "Arthur Miller"
+  },
+  {
+    "id": "general-1352",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Who is the author of the 'A Song of Ice and Fire' series that inspired 'Game of Thrones'?",
+    "options": [
+      "George R.R. Martin",
+      "J.R.R. Tolkien",
+      "Robert Jordan",
+      "Brandon Sanderson"
+    ],
+    "answer": "George R.R. Martin"
+  },
+  {
+    "id": "general-1353",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Which Italian Renaissance artist painted the 'Mona Lisa'?",
+    "options": [
+      "Leonardo da Vinci",
+      "Michelangelo",
+      "Raphael",
+      "Titian"
+    ],
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "id": "general-1354",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Who painted 'Starry Night'?",
+    "options": [
+      "Vincent van Gogh",
+      "Claude Monet",
+      "Paul Cezanne",
+      "Georges Seurat"
+    ],
+    "answer": "Vincent van Gogh"
+  },
+  {
+    "id": "general-1355",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Which Italian Baroque sculptor created 'The Ecstasy of Saint Teresa'?",
+    "options": [
+      "Gian Lorenzo Bernini",
+      "Auguste Rodin",
+      "Donatello",
+      "Antonio Canova"
+    ],
+    "answer": "Gian Lorenzo Bernini"
+  },
+  {
+    "id": "general-1356",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Who wrote the fantasy novel 'The Hobbit'?",
+    "options": [
+      "J.R.R. Tolkien",
+      "C.S. Lewis",
+      "George R.R. Martin",
+      "Terry Pratchett"
+    ],
+    "answer": "J.R.R. Tolkien"
+  },
+  {
+    "id": "general-1357",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which author wrote the dystopian novel 'Fahrenheit 451'?",
+    "options": [
+      "Ray Bradbury",
+      "George Orwell",
+      "Aldous Huxley",
+      "Kurt Vonnegut"
+    ],
+    "answer": "Ray Bradbury"
+  },
+  {
+    "id": "general-1583",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Which ancient Mesopotamian epic, one of the earliest known works of literature, follows a king's quest for immortality?",
+    "options": [
+      "The Book of the Dead",
+      "The Epic of Gilgamesh",
+      "The Enuma Elish",
+      "The Iliad"
+    ],
+    "answer": "The Epic of Gilgamesh"
+  },
+  {
+    "id": "general-1601",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "In which Shakespeare play does the mischievous fairy Puck cause chaos among four young lovers?",
+    "options": [
+      "A Midsummer Night's Dream",
+      "Twelfth Night",
+      "The Tempest",
+      "As You Like It"
+    ],
+    "answer": "A Midsummer Night's Dream"
+  },
+  {
+    "id": "general-1602",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Which Jane Austen novel features the character Emma Woodhouse, a well-meaning matchmaker?",
+    "options": [
+      "Emma",
+      "Sense and Sensibility",
+      "Persuasion",
+      "Mansfield Park"
+    ],
+    "answer": "Emma"
+  },
+  {
+    "id": "general-1603",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Who wrote the psychological horror novella 'The Strange Case of Dr Jekyll and Mr Hyde'?",
+    "options": [
+      "Robert Louis Stevenson",
+      "Bram Stoker",
+      "Mary Shelley",
+      "Arthur Conan Doyle"
+    ],
+    "answer": "Robert Louis Stevenson"
+  },
+  {
+    "id": "general-1604",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Who wrote 'To Kill a Mockingbird'?",
+    "options": [
+      "Harper Lee",
+      "Flannery O'Connor",
+      "Carson McCullers",
+      "Toni Morrison"
+    ],
+    "answer": "Harper Lee"
+  },
+  {
+    "id": "general-1605",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who wrote the novel 'The Old Man and the Sea'?",
+    "options": [
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald",
+      "John Steinbeck",
+      "William Faulkner"
+    ],
+    "answer": "Ernest Hemingway"
+  },
+  {
+    "id": "general-1606",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which Russian author wrote the play 'The Cherry Orchard'?",
+    "options": [
+      "Anton Chekhov",
+      "Leo Tolstoy",
+      "Fyodor Dostoevsky",
+      "Nikolai Gogol"
+    ],
+    "answer": "Anton Chekhov"
+  },
+  {
+    "id": "general-1607",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Which Dostoevsky novel follows the devout Alyosha and his brothers amid a patricide investigation?",
+    "options": [
+      "The Brothers Karamazov",
+      "The Idiot",
+      "Demons",
+      "Notes from Underground"
+    ],
+    "answer": "The Brothers Karamazov"
+  },
+  {
+    "id": "general-1608",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Who wrote the 'Percy Jackson' book series?",
+    "options": [
+      "Rick Riordan",
+      "Suzanne Collins",
+      "Cassandra Clare",
+      "Veronica Roth"
+    ],
+    "answer": "Rick Riordan"
+  },
+  {
+    "id": "general-1609",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who wrote the dystopian novel 'A Clockwork Orange'?",
+    "options": [
+      "Anthony Burgess",
+      "Aldous Huxley",
+      "George Orwell",
+      "J.G. Ballard"
+    ],
+    "answer": "Anthony Burgess"
+  },
+  {
+    "id": "general-1610",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Which Peruvian author wrote 'The Feast of the Goat' and won the Nobel Prize in Literature in 2010?",
+    "options": [
+      "Mario Vargas Llosa",
+      "Gabriel Garcia Marquez",
+      "Pablo Neruda",
+      "Isabel Allende"
+    ],
+    "answer": "Mario Vargas Llosa"
+  },
+  {
+    "id": "general-1611",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who wrote the play 'Hamlet'?",
+    "options": [
+      "John Webster",
+      "William Shakespeare",
+      "Thomas Kyd",
+      "Christopher Marlowe"
+    ],
+    "answer": "William Shakespeare"
+  },
+  {
+    "id": "general-1612",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which Shakespeare play features the ambitious Scottish general and his wife, Lady Macbeth?",
+    "options": [
+      "Othello",
+      "Macbeth",
+      "Hamlet",
+      "King Lear"
+    ],
+    "answer": "Macbeth"
+  },
+  {
+    "id": "general-1613",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who wrote the novel 'Don Quixote'?",
+    "options": [
+      "Gabriel Garcia Marquez",
+      "Lope de Vega",
+      "Miguel de Cervantes",
+      "Federico Garcia Lorca"
+    ],
+    "answer": "Miguel de Cervantes"
+  },
+  {
+    "id": "general-1614",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Which Aldous Huxley work describes his experiences with the hallucinogen mescaline?",
+    "options": [
+      "The Doors of Perception",
+      "Brave New World Revisited",
+      "Point Counter Point",
+      "Island"
+    ],
+    "answer": "The Doors of Perception"
+  },
+  {
+    "id": "general-1615",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Which author wrote the Christian theological work 'Mere Christianity'?",
+    "options": [
+      "C.S. Lewis",
+      "G.K. Chesterton",
+      "J.R.R. Tolkien",
+      "Thomas Merton"
+    ],
+    "answer": "C.S. Lewis"
+  },
+  {
+    "id": "general-1616",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Which author wrote the coming-of-age novel 'The Perks of Being a Wallflower'?",
+    "options": [
+      "Stephen Chbosky",
+      "John Green",
+      "Rainbow Rowell",
+      "Jay Asher"
+    ],
+    "answer": "Stephen Chbosky"
+  },
+  {
+    "id": "general-1617",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who wrote the novel 'Jane Eyre'?",
+    "options": [
+      "Jane Austen",
+      "George Eliot",
+      "Emily Bronte",
+      "Charlotte Bronte"
+    ],
+    "answer": "Charlotte Bronte"
+  },
+  {
+    "id": "general-1618",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Which Bronte sister wrote 'The Tenant of Wildfell Hall'?",
+    "options": [
+      "Anne Bronte",
+      "Charlotte Bronte",
+      "Emily Bronte",
+      "Elizabeth Gaskell"
+    ],
+    "answer": "Anne Bronte"
+  },
+  {
+    "id": "general-1620",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Which Mark Twain novel, preceding 'Huckleberry Finn', follows a mischievous boy along the Mississippi River?",
+    "options": [
+      "The Adventures of Tom Sawyer",
+      "Life on the Mississippi",
+      "Pudd'nhead Wilson",
+      "The Prince and the Pauper"
+    ],
+    "answer": "The Adventures of Tom Sawyer"
+  },
+  {
+    "id": "general-1621",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Which Swedish author created the character Lisbeth Salander in 'The Girl with the Dragon Tattoo'?",
+    "options": [
+      "Stieg Larsson",
+      "Henning Mankell",
+      "Jo Nesbo",
+      "Camilla Lackberg"
+    ],
+    "answer": "Stieg Larsson"
+  },
+  {
+    "id": "general-1622",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who wrote the novel 'Frankenstein'?",
+    "options": [
+      "Emily Bronte",
+      "Mary Shelley",
+      "Bram Stoker",
+      "Ann Radcliffe"
+    ],
+    "answer": "Mary Shelley"
+  },
+  {
+    "id": "general-1623",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who wrote the novel 'Dracula'?",
+    "options": [
+      "Mary Shelley",
+      "Sheridan Le Fanu",
+      "Bram Stoker",
+      "H.P. Lovecraft"
+    ],
+    "answer": "Bram Stoker"
+  },
+  {
+    "id": "general-1625",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who painted 'Guernica', a response to the bombing of a Spanish town?",
+    "options": [
+      "Salvador Dali",
+      "Diego Rivera",
+      "Francisco Goya",
+      "Pablo Picasso"
+    ],
+    "answer": "Pablo Picasso"
+  },
+  {
+    "id": "general-1626",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which art movement, pioneered by Picasso and Braque, is known for fragmented, geometric forms?",
+    "options": [
+      "Cubism",
+      "Surrealism",
+      "Expressionism",
+      "Fauvism"
+    ],
+    "answer": "Cubism"
+  },
+  {
+    "id": "general-1627",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who painted 'The Scream'?",
+    "options": [
+      "Gustav Klimt",
+      "Vincent van Gogh",
+      "Edvard Munch",
+      "Egon Schiele"
+    ],
+    "answer": "Edvard Munch"
+  },
+  {
+    "id": "general-1628",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who sculpted the statue of 'David'?",
+    "options": [
+      "Bernini",
+      "Michelangelo",
+      "Leonardo da Vinci",
+      "Donatello"
+    ],
+    "answer": "Michelangelo"
+  },
+  {
+    "id": "general-1629",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which artist designed the dome of St. Peter's Basilica in Vatican City?",
+    "options": [
+      "Michelangelo",
+      "Bramante",
+      "Bernini",
+      "Raphael"
+    ],
+    "answer": "Michelangelo"
+  },
+  {
+    "id": "general-1630",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which Dutch Golden Age painter is famous for 'The Night Watch'?",
+    "options": [
+      "Rembrandt",
+      "Johannes Vermeer",
+      "Frans Hals",
+      "Jan Steen"
+    ],
+    "answer": "Rembrandt"
+  },
+  {
+    "id": "general-1631",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which art movement, pioneered by Monet, is characterized by capturing light and everyday scenes with visible brushstrokes?",
+    "options": [
+      "Romanticism",
+      "Impressionism",
+      "Baroque",
+      "Cubism"
+    ],
+    "answer": "Impressionism"
+  },
+  {
+    "id": "general-1632",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Who painted 'American Gothic', depicting a farmer and his daughter?",
+    "options": [
+      "Norman Rockwell",
+      "Andrew Wyeth",
+      "Edward Hopper",
+      "Grant Wood"
+    ],
+    "answer": "Grant Wood"
+  },
+  {
+    "id": "general-1633",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which artist, famous for soup can and celebrity silkscreen prints, was a leading figure of the Pop Art movement?",
+    "options": [
+      "Roy Lichtenstein",
+      "Andy Warhol",
+      "Jasper Johns",
+      "Keith Haring"
+    ],
+    "answer": "Andy Warhol"
+  },
+  {
+    "id": "general-1634",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who wrote the poem 'The Raven'?",
+    "options": [
+      "Edgar Allan Poe",
+      "Emily Dickinson",
+      "Walt Whitman",
+      "Henry Wadsworth Longfellow"
+    ],
+    "answer": "Edgar Allan Poe"
+  },
+  {
+    "id": "general-1635",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who wrote 'Great Expectations' and 'A Tale of Two Cities'?",
+    "options": [
+      "Wilkie Collins",
+      "William Thackeray",
+      "Thomas Hardy",
+      "Charles Dickens"
+    ],
+    "answer": "Charles Dickens"
+  },
+  {
+    "id": "general-1636",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which Charles Dickens novel follows an orphan raised in a workhouse who runs away to London?",
+    "options": [
+      "Nicholas Nickleby",
+      "Bleak House",
+      "David Copperfield",
+      "Oliver Twist"
+    ],
+    "answer": "Oliver Twist"
+  },
+  {
+    "id": "general-1637",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who is credited as the author of the ancient Greek epics 'The Iliad' and 'The Odyssey'?",
+    "options": [
+      "Homer",
+      "Sophocles",
+      "Hesiod",
+      "Virgil"
+    ],
+    "answer": "Homer"
+  },
+  {
+    "id": "general-1638",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Who wrote the novel 'Anna Karenina'?",
+    "options": [
+      "Anton Chekhov",
+      "Fyodor Dostoevsky",
+      "Leo Tolstoy",
+      "Ivan Turgenev"
+    ],
+    "answer": "Leo Tolstoy"
+  },
+  {
+    "id": "general-1639",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Which author created the vicar-detective character Father Brown?",
+    "options": [
+      "G.K. Chesterton",
+      "Agatha Christie",
+      "Dorothy L. Sayers",
+      "Arthur Conan Doyle"
+    ],
+    "answer": "G.K. Chesterton"
+  },
+  {
+    "id": "general-1640",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who wrote 'The Picture of Dorian Gray'?",
+    "options": [
+      "Henry James",
+      "W. Somerset Maugham",
+      "George Bernard Shaw",
+      "Oscar Wilde"
+    ],
+    "answer": "Oscar Wilde"
+  },
+  {
+    "id": "general-1641",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Which Tennessee Williams play features the character Maggie 'the Cat' Pollitt?",
+    "options": [
+      "Cat on a Hot Tin Roof",
+      "The Glass Menagerie",
+      "Sweet Bird of Youth",
+      "Suddenly, Last Summer"
+    ],
+    "answer": "Cat on a Hot Tin Roof"
+  },
+  {
+    "id": "general-1642",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who wrote the novel 'Of Mice and Men'?",
+    "options": [
+      "Ernest Hemingway",
+      "William Faulkner",
+      "John Steinbeck",
+      "Sinclair Lewis"
+    ],
+    "answer": "John Steinbeck"
+  },
+  {
+    "id": "general-1643",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which John Steinbeck novel follows the Joad family as they migrate during the Great Depression?",
+    "options": [
+      "Cannery Row",
+      "In Dubious Battle",
+      "East of Eden",
+      "The Grapes of Wrath"
+    ],
+    "answer": "The Grapes of Wrath"
+  },
+  {
+    "id": "general-1644",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who wrote the novel 'Little Women'?",
+    "options": [
+      "Emily Dickinson",
+      "Edith Wharton",
+      "Louisa May Alcott",
+      "Kate Chopin"
+    ],
+    "answer": "Louisa May Alcott"
+  },
+  {
+    "id": "general-1645",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Who is the author of 'The Lord of the Rings' trilogy?",
+    "options": [
+      "C.S. Lewis",
+      "George R.R. Martin",
+      "Ursula K. Le Guin",
+      "J.R.R. Tolkien"
+    ],
+    "answer": "J.R.R. Tolkien"
+  },
+  {
+    "id": "general-1646",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which Renaissance artist painted 'The Birth of Venus'?",
+    "options": [
+      "Raphael",
+      "Titian",
+      "Sandro Botticelli",
+      "Leonardo da Vinci"
+    ],
+    "answer": "Sandro Botticelli"
+  },
+  {
+    "id": "general-1647",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which Impressionist artist painted a famous series of 'Water Lilies' depicting his garden at Giverny?",
+    "options": [
+      "Edgar Degas",
+      "Claude Monet",
+      "Camille Pissarro",
+      "Pierre-Auguste Renoir"
+    ],
+    "answer": "Claude Monet"
+  },
+  {
+    "id": "general-1648",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which French sculptor created 'The Kiss', a marble sculpture of two embracing lovers?",
+    "options": [
+      "Auguste Rodin",
+      "Camille Claudel",
+      "Antonio Canova",
+      "Jean-Baptiste Carpeaux"
+    ],
+    "answer": "Auguste Rodin"
+  },
+  {
+    "id": "general-1649",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which English poet wrote 'The Canterbury Tales'?",
+    "options": [
+      "Geoffrey Chaucer",
+      "John Milton",
+      "Edmund Spenser",
+      "William Langland"
+    ],
+    "answer": "Geoffrey Chaucer"
+  },
+  {
+    "id": "general-1650",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which Dutch Post-Impressionist artist cut off part of his own ear and painted 'Sunflowers'?",
+    "options": [
+      "Georges Seurat",
+      "Henri Matisse",
+      "Paul Gauguin",
+      "Vincent van Gogh"
+    ],
+    "answer": "Vincent van Gogh"
+  },
+  {
+    "id": "general-1655",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "In which decade were the first Harry Potter novels published?",
+    "options": [
+      "The 1990s",
+      "The 1980s",
+      "The 2000s",
+      "The 2010s"
+    ],
+    "answer": "The 1990s"
+  },
+  {
+    "id": "general-1980",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who wrote the absurdist play 'Waiting for Godot'?",
+    "options": [
+      "Samuel Beckett",
+      "Eugene Ionesco",
+      "Harold Pinter",
+      "Jean-Paul Sartre"
+    ],
+    "answer": "Samuel Beckett"
+  },
+  {
+    "id": "general-1981",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which novel famously begins with the line 'Call me Ishmael'?",
+    "options": [
+      "Moby-Dick",
+      "The Old Man and the Sea",
+      "Treasure Island",
+      "Robinson Crusoe"
+    ],
+    "answer": "Moby-Dick"
+  },
+  {
+    "id": "general-1982",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which author wrote the controversial novel 'Lolita'?",
+    "options": [
+      "Vladimir Nabokov",
+      "Anthony Burgess",
+      "Philip Roth",
+      "Henry Miller"
+    ],
+    "answer": "Vladimir Nabokov"
+  },
+  {
+    "id": "general-1984",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Who wrote the science fiction novel 'Dune'?",
+    "options": [
+      "Frank Herbert",
+      "Isaac Asimov",
+      "Arthur C. Clarke",
+      "Philip K. Dick"
+    ],
+    "answer": "Frank Herbert"
+  },
+  {
+    "id": "general-1987",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "In 'The Lord of the Rings,' what is the name of Frodo Baggins's home region?",
+    "options": [
+      "The Shire",
+      "Rivendell",
+      "Rohan",
+      "Gondor"
+    ],
+    "answer": "The Shire"
+  },
+  {
+    "id": "general-1989",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Which Harper Lee novel features the lawyer Atticus Finch?",
+    "options": [
+      "To Kill a Mockingbird",
+      "Go Set a Watchman",
+      "The Help",
+      "A Time to Kill"
+    ],
+    "answer": "To Kill a Mockingbird"
+  },
+  {
+    "id": "general-1990",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who wrote the novella 'Heart of Darkness'?",
+    "options": [
+      "Joseph Conrad",
+      "Rudyard Kipling",
+      "E.M. Forster",
+      "H. Rider Haggard"
+    ],
+    "answer": "Joseph Conrad"
+  },
+  {
+    "id": "general-1991",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Which ancient Greek poet is traditionally credited with writing the 'Iliad' and the 'Odyssey'?",
+    "options": [
+      "Homer",
+      "Hesiod",
+      "Sophocles",
+      "Virgil"
+    ],
+    "answer": "Homer"
+  },
+  {
+    "id": "general-1993",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Which novel features the dystopian warning 'Big Brother is watching you'?",
+    "options": [
+      "1984",
+      "Brave New World",
+      "Fahrenheit 451",
+      "We"
+    ],
+    "answer": "1984"
+  },
+  {
+    "id": "general-1995",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which author wrote the classic novel 'Don Quixote'?",
+    "options": [
+      "Miguel de Cervantes",
+      "Lope de Vega",
+      "Federico Garcia Lorca",
+      "Gabriel Garcia Marquez"
+    ],
+    "answer": "Miguel de Cervantes"
+  },
+  {
+    "id": "general-1996",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which American poet wrote the collection 'Leaves of Grass'?",
+    "options": [
+      "Walt Whitman",
+      "Emily Dickinson",
+      "Henry Wadsworth Longfellow",
+      "Robert Frost"
+    ],
+    "answer": "Walt Whitman"
+  },
+  {
+    "id": "general-1998",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Which Mary Shelley novel tells the story of a scientist who creates a living creature?",
+    "options": [
+      "Frankenstein",
+      "Dracula",
+      "The Strange Case of Dr Jekyll and Mr Hyde",
+      "The Island of Doctor Moreau"
+    ],
+    "answer": "Frankenstein"
+  },
+  {
+    "id": "general-1999",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which author wrote the dystopian novel 'The Handmaid's Tale'?",
+    "options": [
+      "Margaret Atwood",
+      "Ursula K. Le Guin",
+      "Octavia Butler",
+      "Doris Lessing"
+    ],
+    "answer": "Margaret Atwood"
+  },
+  {
+    "id": "general-2001",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who wrote the epic Roman poem 'The Aeneid'?",
+    "options": [
+      "Virgil",
+      "Ovid",
+      "Horace",
+      "Livy"
+    ],
+    "answer": "Virgil"
+  },
+  {
+    "id": "general-2003",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Which British author wrote 'Alice's Adventures in Wonderland'?",
+    "options": [
+      "Lewis Carroll",
+      "J.M. Barrie",
+      "A.A. Milne",
+      "Kenneth Grahame"
+    ],
+    "answer": "Lewis Carroll"
+  },
+  {
+    "id": "general-2004",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Which novel centers on the mysterious millionaire Jay Gatsby?",
+    "options": [
+      "The Great Gatsby",
+      "Tender Is the Night",
+      "This Side of Paradise",
+      "The Beautiful and Damned"
+    ],
+    "answer": "The Great Gatsby"
+  },
+  {
+    "id": "general-2007",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who wrote the modernist novel 'Ulysses,' set in Dublin?",
+    "options": [
+      "James Joyce",
+      "Samuel Beckett",
+      "W.B. Yeats",
+      "Flann O'Brien"
+    ],
+    "answer": "James Joyce"
+  },
+  {
+    "id": "general-2009",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Who wrote the modernist novel 'The Sound and the Fury'?",
+    "options": [
+      "William Faulkner",
+      "Ernest Hemingway",
+      "John Steinbeck",
+      "F. Scott Fitzgerald"
+    ],
+    "answer": "William Faulkner"
+  },
+  {
+    "id": "general-2010",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which author wrote 'Beloved,' a novel about the legacy of slavery?",
+    "options": [
+      "Toni Morrison",
+      "Alice Walker",
+      "Zora Neale Hurston",
+      "Maya Angelou"
+    ],
+    "answer": "Toni Morrison"
+  },
+  {
+    "id": "general-2011",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Which author created the fantasy series 'A Song of Ice and Fire'?",
+    "options": [
+      "George R.R. Martin",
+      "Robert Jordan",
+      "Brandon Sanderson",
+      "Patrick Rothfuss"
+    ],
+    "answer": "George R.R. Martin"
+  },
+  {
+    "id": "general-2012",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which novel opens with the line 'It was the best of times, it was the worst of times'?",
+    "options": [
+      "A Tale of Two Cities",
+      "Great Expectations",
+      "Oliver Twist",
+      "David Copperfield"
+    ],
+    "answer": "A Tale of Two Cities"
+  },
+  {
+    "id": "general-2014",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who wrote the classic French novel 'Les Miserables'?",
+    "options": [
+      "Victor Hugo",
+      "Alexandre Dumas",
+      "Gustave Flaubert",
+      "Emile Zola"
+    ],
+    "answer": "Victor Hugo"
+  },
+  {
+    "id": "general-2017",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Who wrote 'The Hobbit'?",
+    "options": [
+      "J.R.R. Tolkien",
+      "C.S. Lewis",
+      "Ursula K. Le Guin",
+      "Terry Pratchett"
+    ],
+    "answer": "J.R.R. Tolkien"
+  },
+  {
+    "id": "general-2018",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Which Russian author wrote 'The Brothers Karamazov'?",
+    "options": [
+      "Fyodor Dostoevsky",
+      "Leo Tolstoy",
+      "Nikolai Gogol",
+      "Ivan Goncharov"
+    ],
+    "answer": "Fyodor Dostoevsky"
+  },
+  {
+    "id": "general-2019",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Who wrote the novel 'Slaughterhouse-Five'?",
+    "options": [
+      "Kurt Vonnegut",
+      "Joseph Heller",
+      "Norman Mailer",
+      "John Irving"
+    ],
+    "answer": "Kurt Vonnegut"
+  },
+  {
+    "id": "general-2121",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Which post-impressionist artist famously cut off part of his own ear?",
+    "options": [
+      "Vincent van Gogh",
+      "Paul Gauguin",
+      "Paul Cezanne",
+      "Henri Matisse"
+    ],
+    "answer": "Vincent van Gogh"
+  },
+  {
+    "id": "general-2122",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which artist painted the 'Water Lilies' series, inspired by his garden at Giverny?",
+    "options": [
+      "Claude Monet",
+      "Edgar Degas",
+      "Pierre-Auguste Renoir",
+      "Camille Pissarro"
+    ],
+    "answer": "Claude Monet"
+  },
+  {
+    "id": "general-2123",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which 20th-century art movement is Salvador Dali most closely associated with?",
+    "options": [
+      "Surrealism",
+      "Cubism",
+      "Impressionism",
+      "Expressionism"
+    ],
+    "answer": "Surrealism"
+  },
+  {
+    "id": "general-2125",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Which Paris museum houses the 'Mona Lisa'?",
+    "options": [
+      "The Louvre",
+      "Musee d'Orsay",
+      "Centre Pompidou",
+      "Musee de l'Orangerie"
+    ],
+    "answer": "The Louvre"
+  },
+  {
+    "id": "general-2126",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which artist is known for the abstract 'drip painting' technique, as seen in works like 'No. 5, 1948'?",
+    "options": [
+      "Jackson Pollock",
+      "Willem de Kooning",
+      "Mark Rothko",
+      "Franz Kline"
+    ],
+    "answer": "Jackson Pollock"
+  },
+  {
+    "id": "general-2127",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which Spanish artist co-founded the Cubist art movement?",
+    "options": [
+      "Pablo Picasso",
+      "Salvador Dali",
+      "Joan Miro",
+      "Diego Velazquez"
+    ],
+    "answer": "Pablo Picasso"
+  },
+  {
+    "id": "general-2128",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "What is the term for a painting that depicts an outdoor natural scene?",
+    "options": [
+      "Landscape",
+      "Portrait",
+      "Still life",
+      "Abstract"
+    ],
+    "answer": "Landscape"
+  },
+  {
+    "id": "general-2129",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which Baroque artist painted 'The Night Watch'?",
+    "options": [
+      "Rembrandt van Rijn",
+      "Johannes Vermeer",
+      "Frans Hals",
+      "Peter Paul Rubens"
+    ],
+    "answer": "Rembrandt van Rijn"
+  },
+  {
+    "id": "general-2131",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who created the famous bronze sculpture 'The Thinker'?",
+    "options": [
+      "Auguste Rodin",
+      "Constantin Brancusi",
+      "Alberto Giacometti",
+      "Henry Moore"
+    ],
+    "answer": "Auguste Rodin"
+  },
+  {
+    "id": "general-2132",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Which pop artist is known for silkscreen prints of Campbell's Soup Cans?",
+    "options": [
+      "Andy Warhol",
+      "Roy Lichtenstein",
+      "Jasper Johns",
+      "Keith Haring"
+    ],
+    "answer": "Andy Warhol"
+  },
+  {
+    "id": "general-2133",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "In which country did the Cubist art movement originate in the early 20th century?",
+    "options": [
+      "France",
+      "Spain",
+      "Italy",
+      "Germany"
+    ],
+    "answer": "France"
+  },
+  {
+    "id": "general-2134",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who painted 'Guernica,' a mural depicting the horrors of war?",
+    "options": [
+      "Pablo Picasso",
+      "Francisco Goya",
+      "Diego Rivera",
+      "Salvador Dali"
+    ],
+    "answer": "Pablo Picasso"
+  },
+  {
+    "id": "general-2135",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Notre-Dame Cathedral in Paris is a famous example of which architectural style?",
+    "options": [
+      "Gothic",
+      "Baroque",
+      "Romanesque",
+      "Neoclassical"
+    ],
+    "answer": "Gothic"
+  },
+  {
+    "id": "general-2136",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who painted the iconic work 'American Gothic'?",
+    "options": [
+      "Grant Wood",
+      "Edward Hopper",
+      "Norman Rockwell",
+      "Thomas Hart Benton"
+    ],
+    "answer": "Grant Wood"
+  },
+  {
+    "id": "general-2137",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Which French artist is closely associated with the Pointillism technique seen in 'A Sunday on La Grande Jatte'?",
+    "options": [
+      "Georges Seurat",
+      "Paul Signac",
+      "Henri de Toulouse-Lautrec",
+      "Paul Cezanne"
+    ],
+    "answer": "Georges Seurat"
+  },
+  {
+    "id": "general-2138",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "What is the term for artwork created by piecing together small fragments of colored glass, stone, or tile?",
+    "options": [
+      "Mosaic",
+      "Fresco",
+      "Collage",
+      "Tapestry"
+    ],
+    "answer": "Mosaic"
+  },
+  {
+    "id": "general-2139",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Which artist painted 'Liberty Leading the People,' commemorating the 1830 July Revolution?",
+    "options": [
+      "Eugene Delacroix",
+      "Jacques-Louis David",
+      "Theodore Gericault",
+      "Jean-Auguste-Dominique Ingres"
+    ],
+    "answer": "Eugene Delacroix"
+  },
+  {
+    "id": "general-2241",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which Shakespeare play features the character Puck?",
+    "options": [
+      "A Midsummer Night's Dream",
+      "Twelfth Night",
+      "The Tempest",
+      "Much Ado About Nothing"
+    ],
+    "answer": "A Midsummer Night's Dream"
+  },
+  {
+    "id": "general-2242",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which novel by Herman Melville features Captain Ahab's hunt for a whale?",
+    "options": [
+      "Moby-Dick",
+      "Billy Budd",
+      "Typee",
+      "Omoo"
+    ],
+    "answer": "Moby-Dick"
+  },
+  {
+    "id": "general-2243",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Who wrote the play 'A Doll's House'?",
+    "options": [
+      "Henrik Ibsen",
+      "August Strindberg",
+      "Anton Chekhov",
+      "George Bernard Shaw"
+    ],
+    "answer": "Henrik Ibsen"
+  },
+  {
+    "id": "general-2245",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which author wrote 'War and Peace'?",
+    "options": [
+      "Leo Tolstoy",
+      "Fyodor Dostoevsky",
+      "Ivan Turgenev",
+      "Anton Chekhov"
+    ],
+    "answer": "Leo Tolstoy"
+  },
+  {
+    "id": "general-2246",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Who wrote '1984'?",
+    "options": [
+      "George Orwell",
+      "Aldous Huxley",
+      "Ray Bradbury",
+      "H.G. Wells"
+    ],
+    "answer": "George Orwell"
+  },
+  {
+    "id": "general-2247",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which author created the character Winston Smith?",
+    "options": [
+      "George Orwell",
+      "Kurt Vonnegut",
+      "Philip K. Dick",
+      "Anthony Burgess"
+    ],
+    "answer": "George Orwell"
+  },
+  {
+    "id": "general-2248",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which novel by Gabriel Garcia Marquez follows the Buendia family over generations?",
+    "options": [
+      "One Hundred Years of Solitude",
+      "Love in the Time of Cholera",
+      "Chronicle of a Death Foretold",
+      "Autumn of the Patriarch"
+    ],
+    "answer": "One Hundred Years of Solitude"
+  },
+  {
+    "id": "general-2249",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which dystopian novel by Aldous Huxley depicts a genetically engineered society?",
+    "options": [
+      "Brave New World",
+      "Island",
+      "Point Counter Point",
+      "Eyeless in Gaza"
+    ],
+    "answer": "Brave New World"
+  },
+  {
+    "id": "general-2250",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which author wrote 'Beloved' and 'Song of Solomon'?",
+    "options": [
+      "Toni Morrison",
+      "Alice Walker",
+      "Maya Angelou",
+      "Zora Neale Hurston"
+    ],
+    "answer": "Toni Morrison"
+  },
+  {
+    "id": "general-2291",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Which of Shakespeare's plays features the character Lady Macbeth?",
+    "options": [
+      "Macbeth",
+      "Hamlet",
+      "Othello",
+      "King Lear"
+    ],
+    "answer": "Macbeth"
+  },
+  {
+    "id": "general-2292",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who is the author of 'The Grapes of Wrath'?",
+    "options": [
+      "John Steinbeck",
+      "Ernest Hemingway",
+      "William Faulkner",
+      "F. Scott Fitzgerald"
+    ],
+    "answer": "John Steinbeck"
+  },
+  {
+    "id": "general-2293",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which poet wrote 'The Raven'?",
+    "options": [
+      "Edgar Allan Poe",
+      "Walt Whitman",
+      "Emily Dickinson",
+      "Henry Wadsworth Longfellow"
+    ],
+    "answer": "Edgar Allan Poe"
+  },
+  {
+    "id": "general-2294",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Who wrote the fantasy series beginning with 'The Fellowship of the Ring'?",
+    "options": [
+      "J.R.R. Tolkien",
+      "C.S. Lewis",
+      "Terry Pratchett",
+      "Ursula K. Le Guin"
+    ],
+    "answer": "J.R.R. Tolkien"
+  },
+  {
+    "id": "general-2315",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "What is the name of the fairy tale character who leaves behind a glass slipper?",
+    "options": [
+      "Cinderella",
+      "Snow White",
+      "Sleeping Beauty",
+      "Rapunzel"
+    ],
+    "answer": "Cinderella"
+  },
+  {
+    "id": "general-2468",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which novel by Jane Austen features the character Emma Woodhouse?",
+    "options": [
+      "Emma",
+      "Sense and Sensibility",
+      "Persuasion",
+      "Mansfield Park"
+    ],
+    "answer": "Emma"
+  },
+  {
+    "id": "general-2469",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which Russian author wrote 'Anna Karenina'?",
+    "options": [
+      "Leo Tolstoy",
+      "Fyodor Dostoevsky",
+      "Anton Chekhov",
+      "Ivan Turgenev"
+    ],
+    "answer": "Leo Tolstoy"
+  },
+  {
+    "id": "general-2470",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Who wrote the short story collection 'Dubliners'?",
+    "options": [
+      "James Joyce",
+      "Samuel Beckett",
+      "Oscar Wilde",
+      "Sean O'Casey"
+    ],
+    "answer": "James Joyce"
+  },
+  {
+    "id": "general-2471",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Which novel tells the story of Atticus Finch defending a Black man in the segregated South?",
+    "options": [
+      "To Kill a Mockingbird",
+      "The Help",
+      "Native Son",
+      "Invisible Man"
+    ],
+    "answer": "To Kill a Mockingbird"
+  },
+  {
+    "id": "general-2472",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who wrote the epic poem 'The Canterbury Tales'?",
+    "options": [
+      "Geoffrey Chaucer",
+      "William Langland",
+      "John Gower",
+      "Thomas Malory"
+    ],
+    "answer": "Geoffrey Chaucer"
+  },
+  {
+    "id": "general-2473",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Which author created the detective character Sam Spade?",
+    "options": [
+      "Dashiell Hammett",
+      "Raymond Chandler",
+      "Agatha Christie",
+      "Arthur Conan Doyle"
+    ],
+    "answer": "Dashiell Hammett"
+  },
+  {
+    "id": "general-2474",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Who wrote 'The Bell Jar', a semi-autobiographical novel?",
+    "options": [
+      "Sylvia Plath",
+      "Anne Sexton",
+      "Adrienne Rich",
+      "Joyce Carol Oates"
+    ],
+    "answer": "Sylvia Plath"
+  },
+  {
+    "id": "general-2475",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Which playwright wrote 'Waiting for Godot'?",
+    "options": [
+      "Samuel Beckett",
+      "Eugene Ionesco",
+      "Harold Pinter",
+      "Jean-Paul Sartre"
+    ],
+    "answer": "Samuel Beckett"
+  },
+  {
+    "id": "general-2476",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Who wrote the novel 'Middlemarch'?",
+    "options": [
+      "George Eliot",
+      "Charlotte Bronte",
+      "Elizabeth Gaskell",
+      "Virginia Woolf"
+    ],
+    "answer": "George Eliot"
+  },
+  {
+    "id": "general-2477",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which novel by Cormac McCarthy follows a father and son surviving in a post-apocalyptic world?",
+    "options": [
+      "The Road",
+      "Blood Meridian",
+      "No Country for Old Men",
+      "All the Pretty Horses"
+    ],
+    "answer": "The Road"
+  },
+  {
+    "id": "general-2502",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Which art movement, led by artists like Monet and Renoir, emphasized capturing light and momentary impressions?",
+    "options": [
+      "Impressionism",
+      "Expressionism",
+      "Cubism",
+      "Surrealism"
+    ],
+    "answer": "Impressionism"
+  },
+  {
+    "id": "general-2504",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who sculpted 'The Thinker'?",
+    "options": [
+      "Auguste Rodin",
+      "Constantin Brancusi",
+      "Camille Claudel",
+      "Antonio Canova"
+    ],
+    "answer": "Auguste Rodin"
+  },
+  {
+    "id": "general-2505",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which Mexican artist, known for self-portraits, was married to Diego Rivera?",
+    "options": [
+      "Frida Kahlo",
+      "Remedios Varo",
+      "Leonora Carrington",
+      "Maria Izquierdo"
+    ],
+    "answer": "Frida Kahlo"
+  },
+  {
+    "id": "general-2537",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Which philosopher wrote 'The Social Contract', influencing democratic theory?",
+    "options": [
+      "Jean-Jacques Rousseau",
+      "John Locke",
+      "Thomas Hobbes",
+      "Voltaire"
+    ],
+    "answer": "Jean-Jacques Rousseau"
+  },
+  {
+    "id": "general-2556",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Which Shakespeare tragedy features the Scottish general who murders King Duncan?",
+    "options": [
+      "Macbeth",
+      "Hamlet",
+      "King Lear",
+      "Othello"
+    ],
+    "answer": "Macbeth"
+  },
+  {
+    "id": "general-2557",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Who wrote the novel 'Rebecca', featuring the mysterious Mrs. Danvers?",
+    "options": [
+      "Daphne du Maurier",
+      "Agatha Christie",
+      "Iris Murdoch",
+      "Muriel Spark"
+    ],
+    "answer": "Daphne du Maurier"
+  },
+  {
+    "id": "general-2558",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Which poet is known for the collection 'Songs of Innocence and of Experience'?",
+    "options": [
+      "William Blake",
+      "John Keats",
+      "Percy Bysshe Shelley",
+      "Lord Byron"
+    ],
+    "answer": "William Blake"
+  },
+  {
+    "id": "general-2559",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who wrote the play 'The Importance of Being Earnest'?",
+    "options": [
+      "Oscar Wilde",
+      "George Bernard Shaw",
+      "Noel Coward",
+      "J.M. Barrie"
+    ],
+    "answer": "Oscar Wilde"
+  },
+  {
+    "id": "general-2560",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Which novel by Kurt Vonnegut features the phrase 'So it goes'?",
+    "options": [
+      "Slaughterhouse-Five",
+      "Cat's Cradle",
+      "Breakfast of Champions",
+      "The Sirens of Titan"
+    ],
+    "answer": "Slaughterhouse-Five"
+  },
+  {
+    "id": "general-2561",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Who wrote the memoir-style novel 'I Know Why the Caged Bird Sings'?",
+    "options": [
+      "Maya Angelou",
+      "Toni Morrison",
+      "Alice Walker",
+      "Zora Neale Hurston"
+    ],
+    "answer": "Maya Angelou"
+  },
+  {
+    "id": "general-2578",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Which sculptor created 'The Kiss', a marble sculpture of an embracing couple?",
+    "options": [
+      "Auguste Rodin",
+      "Antonio Canova",
+      "Constantin Brancusi",
+      "Camille Claudel"
+    ],
+    "answer": "Auguste Rodin"
+  },
+  {
+    "id": "general-2642",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which Dutch painter created \"The Night Watch,\" notable for its dramatic use of light and shadow?",
+    "options": [
+      "Rembrandt",
+      "Johannes Vermeer",
+      "Frans Hals",
+      "Jan Steen"
+    ],
+    "answer": "Rembrandt"
+  },
+  {
+    "id": "general-2644",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Claude Monet's painting series depicting a Japanese footbridge and floating plants is known by what name?",
+    "options": [
+      "Water Lilies",
+      "Haystacks",
+      "Rouen Cathedral",
+      "Poplars"
+    ],
+    "answer": "Water Lilies"
+  },
+  {
+    "id": "general-2645",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Which Renaissance sculptor carved the marble statue of David now housed in Florence's Galleria dell'Accademia?",
+    "options": [
+      "Michelangelo",
+      "Donatello",
+      "Bernini",
+      "Lorenzo Ghiberti"
+    ],
+    "answer": "Michelangelo"
+  },
+  {
+    "id": "general-2647",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which art movement, led by figures like Andre Breton, sought to unlock the unconscious mind through dreamlike imagery?",
+    "options": [
+      "Surrealism",
+      "Cubism",
+      "Dadaism",
+      "Futurism"
+    ],
+    "answer": "Surrealism"
+  },
+  {
+    "id": "general-2649",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Which Spanish artist co-founded Cubism alongside Georges Braque?",
+    "options": [
+      "Pablo Picasso",
+      "Salvador Dali",
+      "Joan Miro",
+      "Diego Rivera"
+    ],
+    "answer": "Pablo Picasso"
+  },
+  {
+    "id": "general-2651",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Frida Kahlo's painting style is closely associated with which country's folk art traditions?",
+    "options": [
+      "Mexico",
+      "Spain",
+      "Guatemala",
+      "Cuba"
+    ],
+    "answer": "Mexico"
+  },
+  {
+    "id": "general-2653",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "Edouard Manet's controversial painting \"Olympia\" depicts a reclining nude modeled after a contemporary figure in which profession?",
+    "options": [
+      "Courtesan",
+      "Queen",
+      "Actress",
+      "Dancer"
+    ],
+    "answer": "Courtesan"
+  },
+  {
+    "id": "general-2666",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "In George Orwell's \"1984,\" what is the name of the totalitarian party's supreme leader?",
+    "options": [
+      "Big Brother",
+      "O'Brien",
+      "Big Sister",
+      "The Inner Party"
+    ],
+    "answer": "Big Brother"
+  },
+  {
+    "id": "general-2667",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "In Chinua Achebe's \"Things Fall Apart,\" what is the name of the protagonist whose downfall drives the novel?",
+    "options": [
+      "Okonkwo",
+      "Obierika",
+      "Unoka",
+      "Nwoye"
+    ],
+    "answer": "Okonkwo"
+  },
+  {
+    "id": "general-2669",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "In Homer's \"Odyssey,\" what is the name of Odysseus's faithful wife who fends off suitors for twenty years?",
+    "options": [
+      "Penelope",
+      "Circe",
+      "Calypso",
+      "Nausicaa"
+    ],
+    "answer": "Penelope"
+  },
+  {
+    "id": "general-2670",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which Charles Dickens novel features the vengeful Miss Havisham, still wearing her wedding dress decades later?",
+    "options": [
+      "Great Expectations",
+      "Bleak House",
+      "Oliver Twist",
+      "David Copperfield"
+    ],
+    "answer": "Great Expectations"
+  },
+  {
+    "id": "general-2671",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "In Mary Shelley's \"Frankenstein,\" what subject is Victor Frankenstein studying at university when he begins his experiments?",
+    "options": [
+      "Natural philosophy",
+      "Medicine",
+      "Theology",
+      "Law"
+    ],
+    "answer": "Natural philosophy"
+  },
+  {
+    "id": "general-2672",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "Which Pulitzer Prize-winning novel by Harper Lee is narrated by a young girl named Scout Finch?",
+    "options": [
+      "To Kill a Mockingbird",
+      "Go Set a Watchman",
+      "The Help",
+      "A Time to Kill"
+    ],
+    "answer": "To Kill a Mockingbird"
+  },
+  {
+    "id": "general-2673",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "In Leo Tolstoy's \"War and Peace,\" which historical military campaign forms a major backdrop of the novel?",
+    "options": [
+      "Napoleon's invasion of Russia",
+      "The Crimean War",
+      "The Russo-Japanese War",
+      "World War I"
+    ],
+    "answer": "Napoleon's invasion of Russia"
+  },
+  {
+    "id": "general-2674",
+    "category": "arts-literature",
+    "difficulty": "hard",
+    "question": "What is the name of the fictional prep school in J.D. Salinger's \"The Catcher in the Rye\" from which Holden Caulfield is expelled?",
+    "options": [
+      "Pencey Prep",
+      "Elkton Hills",
+      "Whooton School",
+      "Xavier Academy"
+    ],
+    "answer": "Pencey Prep"
+  },
+  {
+    "id": "general-2675",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "In Jane Austen's \"Pride and Prejudice,\" what is the name of Mr. Darcy's grand estate?",
+    "options": [
+      "Pemberley",
+      "Longbourn",
+      "Netherfield",
+      "Rosings"
+    ],
+    "answer": "Pemberley"
+  },
+  {
+    "id": "general-2676",
+    "category": "arts-literature",
+    "difficulty": "medium",
+    "question": "Which Fyodor Dostoevsky novel centers on Rodion Raskolnikov, a poor student who commits murder?",
+    "options": [
+      "Crime and Punishment",
+      "The Brothers Karamazov",
+      "The Idiot",
+      "Notes from Underground"
+    ],
+    "answer": "Crime and Punishment"
+  },
+  {
+    "id": "general-2677",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "In J.R.R. Tolkien's legendarium, what is the name of the volcanic mountain where the One Ring must be destroyed?",
+    "options": [
+      "Mount Doom",
+      "Mount Gundabad",
+      "The Lonely Mountain",
+      "Weathertop"
+    ],
+    "answer": "Mount Doom"
+  },
+  {
+    "id": "general-2966",
+    "category": "arts-literature",
+    "difficulty": "easy",
+    "question": "In the \"Harry Potter\" series, what is the name of Harry's pet snowy owl?",
+    "options": [
+      "Hedwig",
+      "Errol",
+      "Pigwidgeon",
+      "Hermes"
+    ],
+    "answer": "Hedwig"
+  }
+]

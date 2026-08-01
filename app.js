@@ -8,13 +8,15 @@ const DIFFICULTY_OPTIONS = [
 
 const state = {
   categories: [],
-  currentCategory: null,
-  pendingCategory: null,
+  categoryById: {},
+  selectedCategoryIds: new Set(),
+  currentCategories: [],
+  pendingCategories: [],
   settings: { count: 10, difficulty: "any" },
   roundQuestions: [],
   currentIndex: 0,
   score: 0,
-  answers: [], // { question, options, correctAnswer, selected, wasCorrect }
+  answers: [], // { question, options, correctAnswer, selected, wasCorrect, category }
 };
 
 const el = {
@@ -29,6 +31,9 @@ const el = {
 
   statsSummary: document.getElementById("stats-summary"),
   resetStatsBtn: document.getElementById("reset-stats-btn"),
+  selectionBar: document.getElementById("selection-bar"),
+  selectAllBtn: document.getElementById("select-all-btn"),
+  playSelectedBtn: document.getElementById("play-selected-btn"),
 
   settingsCategoryName: document.getElementById("settings-category-name"),
   countOptions: document.getElementById("count-options"),
@@ -48,6 +53,7 @@ const el = {
   resultsScore: document.getElementById("results-score"),
   resultsSubtitle: document.getElementById("results-subtitle"),
   resultsStats: document.getElementById("results-stats"),
+  resultsCategoryBreakdown: document.getElementById("results-category-breakdown"),
   resultsReview: document.getElementById("results-review"),
   playAgainBtn: document.getElementById("play-again-btn"),
   chooseCategoryBtn: document.getElementById("choose-category-btn"),
@@ -59,6 +65,9 @@ function showScreen(name) {
   }
   if (name === "categories") {
     el.screenCategories.classList.remove("hidden");
+    // Re-render so per-category stat badges reflect the game just played
+    // (state.categories itself doesn't change, but localStorage stats do).
+    if (state.categories.length) renderCategoryList();
     renderStatsSummary();
   }
   if (name === "settings") el.screenSettings.classList.remove("hidden");
@@ -93,37 +102,104 @@ async function loadCategories() {
     );
 
     state.categories = withCounts;
+    state.categoryById = {};
+    for (const cat of withCounts) state.categoryById[cat.id] = cat;
     renderCategoryList();
   } catch (e) {
     el.categoriesStatus.textContent = "Couldn't load categories. Try reopening the app.";
   }
 }
 
+function categoryStatsLine(catId) {
+  const stats = loadStats();
+  const s = stats.byCategory && stats.byCategory[catId];
+  if (!s || !s.totalQuestions) return null;
+  return `${Math.round((s.totalCorrect / s.totalQuestions) * 100)}% avg`;
+}
+
 function renderCategoryList() {
   el.categoryList.innerHTML = "";
   for (const cat of state.categories) {
     const btn = document.createElement("button");
-    btn.className = "category-card";
-    btn.innerHTML = `<span>${cat.name}</span><span class="count">${cat.questions.length} questions</span>`;
+    const isSelected = state.selectedCategoryIds.has(cat.id);
+    btn.className = "category-card" + (isSelected ? " selected" : "");
     btn.disabled = cat.questions.length === 0;
-    btn.addEventListener("click", () => openSettings(cat));
+    const statLine = categoryStatsLine(cat.id);
+    btn.innerHTML = `
+      <span class="category-check" aria-hidden="true"></span>
+      <span class="category-info">
+        <span class="category-name">${cat.name}</span>
+        <span class="count">${cat.questions.length} questions${statLine ? " · " + statLine : ""}</span>
+      </span>
+    `;
+    btn.addEventListener("click", () => toggleCategorySelection(cat.id));
     el.categoryList.appendChild(btn);
   }
   el.categoriesStatus.textContent = "";
+  renderSelectionBar();
 }
+
+function toggleCategorySelection(catId) {
+  if (state.selectedCategoryIds.has(catId)) {
+    state.selectedCategoryIds.delete(catId);
+  } else {
+    state.selectedCategoryIds.add(catId);
+  }
+  renderCategoryList();
+}
+
+function playableCategories() {
+  return state.categories.filter((c) => c.questions.length > 0);
+}
+
+function renderSelectionBar() {
+  const playable = playableCategories();
+  if (playable.length === 0) {
+    el.selectionBar.classList.add("hidden");
+    return;
+  }
+  el.selectionBar.classList.remove("hidden");
+
+  const allSelected = playable.every((c) => state.selectedCategoryIds.has(c.id));
+  el.selectAllBtn.textContent = allSelected ? "Clear Selection" : "Select All";
+  el.selectAllBtn.onclick = () => {
+    if (allSelected) {
+      state.selectedCategoryIds.clear();
+    } else {
+      for (const c of playable) state.selectedCategoryIds.add(c.id);
+    }
+    renderCategoryList();
+  };
+
+  const count = state.selectedCategoryIds.size;
+  el.playSelectedBtn.disabled = count === 0;
+  el.playSelectedBtn.textContent = count === 0 ? "Play Selected" : `Play Selected (${count})`;
+}
+
+el.playSelectedBtn.addEventListener("click", () => {
+  const categories = state.categories.filter((c) => state.selectedCategoryIds.has(c.id));
+  if (!categories.length) return;
+  openSettings(categories);
+});
 
 function filterByDifficulty(questions, difficulty) {
   return difficulty === "any" ? questions : questions.filter((q) => q.difficulty === difficulty);
 }
 
-function openSettings(category) {
-  state.pendingCategory = category;
+function openSettings(categories) {
+  state.pendingCategories = categories;
   renderSettingsScreen();
   showScreen("settings");
 }
 
+function settingsTitle(categories) {
+  if (categories.length === 1) return categories[0].name;
+  if (categories.length <= 3) return categories.map((c) => c.name).join(", ");
+  return `${categories.length} Categories`;
+}
+
 function renderSettingsScreen() {
-  el.settingsCategoryName.textContent = state.pendingCategory.name;
+  el.settingsCategoryName.textContent = settingsTitle(state.pendingCategories);
 
   el.countOptions.innerHTML = "";
   for (const count of COUNT_OPTIONS) {
@@ -149,7 +225,8 @@ function renderSettingsScreen() {
     el.difficultyOptions.appendChild(btn);
   }
 
-  const pool = filterByDifficulty(state.pendingCategory.questions, state.settings.difficulty);
+  const combinedQuestions = state.pendingCategories.flatMap((c) => c.questions);
+  const pool = filterByDifficulty(combinedQuestions, state.settings.difficulty);
   const actualCount = Math.min(state.settings.count, pool.length);
   if (pool.length === 0) {
     el.settingsAvailability.textContent = "No questions available at this difficulty — pick another.";
@@ -162,7 +239,7 @@ function renderSettingsScreen() {
 }
 
 el.settingsBackBtn.addEventListener("click", () => showScreen("categories"));
-el.startRoundBtn.addEventListener("click", () => startRound(state.pendingCategory));
+el.startRoundBtn.addEventListener("click", () => startRound(state.pendingCategories));
 
 function seenStorageKey(categoryId) {
   return `offline-trivia:seen:${categoryId}`;
@@ -200,6 +277,7 @@ function defaultStats() {
     bestPct: 0,
     lastGame: null, // { score, total, pct }
     today: { date: currentDateKey(), gamesPlayed: 0, totalQuestions: 0, totalCorrect: 0 },
+    byCategory: {}, // { [categoryId]: { totalQuestions, totalCorrect } }
   };
 }
 
@@ -227,8 +305,11 @@ function todayBucket(stats) {
   return { date: currentDateKey(), gamesPlayed: 0, totalQuestions: 0, totalCorrect: 0 };
 }
 
-// Records this game's result and returns the updated overall stats.
-function recordGameResult(score, total) {
+// Records this game's result and returns the updated overall stats. `answers`
+// (state.answers) carries the category each question actually belonged to,
+// so a mixed round attributes each question to its own category rather than
+// the round as a whole.
+function recordGameResult(score, total, answers) {
   const stats = loadStats();
   stats.gamesPlayed += 1;
   stats.totalQuestions += total;
@@ -243,6 +324,15 @@ function recordGameResult(score, total) {
   stats.today = today;
 
   stats.lastGame = { score, total, pct };
+
+  for (const a of answers || []) {
+    if (!a.category) continue;
+    if (!stats.byCategory[a.category]) {
+      stats.byCategory[a.category] = { totalQuestions: 0, totalCorrect: 0 };
+    }
+    stats.byCategory[a.category].totalQuestions += 1;
+    if (a.wasCorrect) stats.byCategory[a.category].totalCorrect += 1;
+  }
 
   saveStats(stats);
   return stats;
@@ -286,17 +376,21 @@ el.resetStatsBtn.addEventListener("click", () => {
   renderStatsSummary();
 });
 
-function startRound(category) {
-  state.currentCategory = category;
-  const filtered = filterByDifficulty(category.questions, state.settings.difficulty);
+function startRound(categories) {
+  state.currentCategories = categories;
+  const filtered = filterByDifficulty(categories.flatMap((c) => c.questions), state.settings.difficulty);
   const requestedCount = Math.min(state.settings.count, filtered.length);
 
-  // Avoid repeating questions already asked for this category until the
-  // whole pool (at the current difficulty) has been cycled through once.
-  let seen = loadSeenIds(category.id);
-  let unseen = filtered.filter((q) => !seen.has(q.id));
+  // Avoid repeating questions already asked for a category until its whole
+  // pool (at the current difficulty) has been cycled through once. Each
+  // question keeps its own real category (q.category), so a mixed round
+  // still tracks "seen" per underlying category, not per round.
+  const seenByCat = {};
+  for (const cat of categories) seenByCat[cat.id] = loadSeenIds(cat.id);
+
+  let unseen = filtered.filter((q) => !seenByCat[q.category].has(q.id));
   if (unseen.length < requestedCount) {
-    seen = new Set();
+    for (const cat of categories) seenByCat[cat.id] = new Set();
     unseen = filtered;
   }
 
@@ -306,8 +400,8 @@ function startRound(category) {
     shuffledOptions: shuffle(q.options),
   }));
 
-  for (const q of state.roundQuestions) seen.add(q.id);
-  saveSeenIds(category.id, seen);
+  for (const q of state.roundQuestions) seenByCat[q.category].add(q.id);
+  for (const catId of Object.keys(seenByCat)) saveSeenIds(catId, seenByCat[catId]);
 
   state.currentIndex = 0;
   state.score = 0;
@@ -318,7 +412,8 @@ function startRound(category) {
 
 function renderQuestion() {
   const q = state.roundQuestions[state.currentIndex];
-  el.questionCategory.textContent = state.currentCategory.name;
+  const cat = state.categoryById[q.category];
+  el.questionCategory.textContent = cat ? cat.name : q.category;
   el.questionText.textContent = q.question;
   el.questionCounter.textContent = `${state.currentIndex + 1}/${state.roundQuestions.length}`;
   el.progressFill.style.width = `${(state.currentIndex / state.roundQuestions.length) * 100}%`;
@@ -361,6 +456,7 @@ function selectAnswer(selected) {
     correctAnswer: q.answer,
     selected,
     wasCorrect,
+    category: q.category,
   });
 
   for (const btn of el.optionsList.children) {
@@ -401,14 +497,40 @@ el.quitBtn.addEventListener("click", () => {
   showScreen("categories");
 });
 
+function renderResultsCategoryBreakdown(answers) {
+  const byCategory = new Map();
+  for (const a of answers) {
+    if (!byCategory.has(a.category)) byCategory.set(a.category, { total: 0, correct: 0 });
+    const entry = byCategory.get(a.category);
+    entry.total++;
+    if (a.wasCorrect) entry.correct++;
+  }
+
+  if (byCategory.size <= 1) {
+    el.resultsCategoryBreakdown.classList.add("hidden");
+    el.resultsCategoryBreakdown.innerHTML = "";
+    return;
+  }
+
+  const rows = [...byCategory.entries()]
+    .map(([catId, e]) => {
+      const name = state.categoryById[catId] ? state.categoryById[catId].name : catId;
+      return `<div class="category-breakdown-row"><span>${name}</span><span class="stats-value">${e.correct}/${e.total}</span></div>`;
+    })
+    .join("");
+  el.resultsCategoryBreakdown.innerHTML = rows;
+  el.resultsCategoryBreakdown.classList.remove("hidden");
+}
+
 function showResults() {
   const total = state.roundQuestions.length;
   const priorStats = loadStats();
-  const updatedStats = recordGameResult(state.score, total);
+  const updatedStats = recordGameResult(state.score, total, state.answers);
 
   el.resultsScore.textContent = `${state.score}/${total}`;
   el.resultsSubtitle.textContent = subtitleFor(state.score, total);
   renderResultsStats(state.score, total, priorStats, updatedStats);
+  renderResultsCategoryBreakdown(state.answers);
 
   el.resultsReview.innerHTML = "";
   for (const a of state.answers) {
@@ -484,7 +606,7 @@ function subtitleFor(score, total) {
   return "Room to improve — play again!";
 }
 
-el.playAgainBtn.addEventListener("click", () => startRound(state.currentCategory));
+el.playAgainBtn.addEventListener("click", () => startRound(state.currentCategories));
 el.chooseCategoryBtn.addEventListener("click", () => showScreen("categories"));
 
 async function loadVersion() {

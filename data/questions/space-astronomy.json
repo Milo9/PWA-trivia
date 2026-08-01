@@ -1,0 +1,2121 @@
+[
+  {
+    "id": "general-033",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Who was the first man to walk on the Moon?",
+    "options": [
+      "Neil Armstrong",
+      "Buzz Aldrin",
+      "Yuri Gagarin",
+      "John Glenn"
+    ],
+    "answer": "Neil Armstrong"
+  },
+  {
+    "id": "general-102",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Mercury"
+    ],
+    "answer": "Mars"
+  },
+  {
+    "id": "general-108",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What is the name of the closest star system to our Sun?",
+    "options": [
+      "Sirius",
+      "Betelgeuse",
+      "Polaris",
+      "Alpha Centauri"
+    ],
+    "answer": "Alpha Centauri"
+  },
+  {
+    "id": "general-110",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which is the largest planet in our solar system?",
+    "options": [
+      "Earth",
+      "Jupiter",
+      "Saturn",
+      "Neptune"
+    ],
+    "answer": "Jupiter"
+  },
+  {
+    "id": "general-114",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What planet do humans live on?",
+    "options": [
+      "Mars",
+      "Earth",
+      "Venus",
+      "Mercury"
+    ],
+    "answer": "Earth"
+  },
+  {
+    "id": "general-120",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What is the name of NASA's rover that landed on Mars in 2021 to search for signs of ancient microbial life?",
+    "options": [
+      "Curiosity",
+      "Opportunity",
+      "Spirit",
+      "Perseverance"
+    ],
+    "answer": "Perseverance"
+  },
+  {
+    "id": "general-125",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What is the name of the process by which stars generate energy by fusing hydrogen into helium?",
+    "options": [
+      "Nuclear fusion",
+      "Nuclear fission",
+      "Radioactive decay",
+      "Combustion"
+    ],
+    "answer": "Nuclear fusion"
+  },
+  {
+    "id": "general-128",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What natural satellite orbits the Earth?",
+    "options": [
+      "Mars",
+      "Sun",
+      "Titan",
+      "The Moon"
+    ],
+    "answer": "The Moon"
+  },
+  {
+    "id": "general-133",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What was the name of the first artificial satellite, launched into orbit by the Soviet Union in 1957?",
+    "options": [
+      "Sputnik 1",
+      "Explorer 1",
+      "Vostok 1",
+      "Luna 1"
+    ],
+    "answer": "Sputnik 1"
+  },
+  {
+    "id": "general-136",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Which planet is known for its prominent, easily visible ring system?",
+    "options": [
+      "Mars",
+      "Neptune",
+      "Uranus",
+      "Saturn"
+    ],
+    "answer": "Saturn"
+  },
+  {
+    "id": "general-139",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What is the name of the boundary around a black hole beyond which nothing, not even light, can escape?",
+    "options": [
+      "Photon sphere",
+      "Accretion disk",
+      "Event horizon",
+      "Singularity"
+    ],
+    "answer": "Event horizon"
+  },
+  {
+    "id": "general-143",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "How many planets are in our solar system, since Pluto's reclassification as a dwarf planet?",
+    "options": [
+      "9",
+      "10",
+      "8",
+      "7"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": "general-150",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What term describes the distance light travels in one year, used to measure astronomical distances?",
+    "options": [
+      "Parsec",
+      "Light-year",
+      "Astronomical unit",
+      "Kilometer"
+    ],
+    "answer": "Light-year"
+  },
+  {
+    "id": "general-153",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What is the name of the galaxy that contains our solar system?",
+    "options": [
+      "Milky Way",
+      "Andromeda",
+      "Triangulum",
+      "Whirlpool"
+    ],
+    "answer": "Milky Way"
+  },
+  {
+    "id": "general-157",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the term for the point in a planet's orbit where it is closest to the Sun?",
+    "options": [
+      "Perihelion",
+      "Aphelion",
+      "Zenith",
+      "Apogee"
+    ],
+    "answer": "Perihelion"
+  },
+  {
+    "id": "general-161",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What is the name of Earth's only natural satellite?",
+    "options": [
+      "The Moon",
+      "Titan",
+      "Europa",
+      "Phobos"
+    ],
+    "answer": "The Moon"
+  },
+  {
+    "id": "general-165",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What term describes a star that suddenly increases dramatically in brightness due to a catastrophic explosion at the end of its life?",
+    "options": [
+      "Supernova",
+      "Nova",
+      "Pulsar",
+      "Quasar"
+    ],
+    "answer": "Supernova"
+  },
+  {
+    "id": "general-170",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What planet in our solar system is closest to the Sun?",
+    "options": [
+      "Venus",
+      "Mercury",
+      "Earth",
+      "Mars"
+    ],
+    "answer": "Mercury"
+  },
+  {
+    "id": "general-179",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What term describes the average distance from the Earth to the Sun, commonly used as a unit in astronomy?",
+    "options": [
+      "Light-year",
+      "Parsec",
+      "Astronomical unit",
+      "Angstrom"
+    ],
+    "answer": "Astronomical unit"
+  },
+  {
+    "id": "general-182",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the name for the point in the sky directly above an observer?",
+    "options": [
+      "Horizon",
+      "Zenith",
+      "Meridian",
+      "Nadir"
+    ],
+    "answer": "Zenith"
+  },
+  {
+    "id": "general-184",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the smallest planet in our solar system?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Earth",
+      "Mercury"
+    ],
+    "answer": "Mercury"
+  },
+  {
+    "id": "general-191",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What do you call a scientist who studies stars, planets, and outer space?",
+    "options": [
+      "Biologist",
+      "Geologist",
+      "Astronomer",
+      "Chemist"
+    ],
+    "answer": "Astronomer"
+  },
+  {
+    "id": "general-193",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What was the first man-made object to leave the solar system and enter interstellar space, launched by NASA in 1977?",
+    "options": [
+      "Voyager 1",
+      "Pioneer 10",
+      "New Horizons",
+      "Voyager 2"
+    ],
+    "answer": "Voyager 1"
+  },
+  {
+    "id": "general-409",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Which space agency launched the Hubble Space Telescope in 1990?",
+    "options": [
+      "NASA",
+      "ESA",
+      "Roscosmos",
+      "JAXA"
+    ],
+    "answer": "NASA"
+  },
+  {
+    "id": "general-410",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Who was the first woman to travel into space, aboard Vostok 6 in 1963?",
+    "options": [
+      "Sally Ride",
+      "Valentina Tereshkova",
+      "Mae Jemison",
+      "Svetlana Savitskaya"
+    ],
+    "answer": "Valentina Tereshkova"
+  },
+  {
+    "id": "general-411",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which planet has the most confirmed moons in our solar system, having overtaken Jupiter in 2023?",
+    "options": [
+      "Jupiter",
+      "Neptune",
+      "Saturn",
+      "Uranus"
+    ],
+    "answer": "Saturn"
+  },
+  {
+    "id": "general-412",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What is the term for the point in the Moon's orbit when it is closest to Earth?",
+    "options": [
+      "Apogee",
+      "Zenith",
+      "Aphelion",
+      "Perigee"
+    ],
+    "answer": "Perigee"
+  },
+  {
+    "id": "general-413",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which NASA telescope, launched in 2021, is designed as the scientific successor to the Hubble Space Telescope?",
+    "options": [
+      "James Webb Space Telescope",
+      "Kepler Space Telescope",
+      "Spitzer Space Telescope",
+      "Chandra X-ray Observatory"
+    ],
+    "answer": "James Webb Space Telescope"
+  },
+  {
+    "id": "general-414",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "About how long does it take light from the Sun to reach Earth?",
+    "options": [
+      "60 seconds",
+      "About 8 minutes",
+      "1 hour",
+      "1 minute"
+    ],
+    "answer": "About 8 minutes"
+  },
+  {
+    "id": "general-415",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Which spacecraft carried the first humans to walk on the Moon in 1969?",
+    "options": [
+      "Gemini 8",
+      "Mercury-Atlas 6",
+      "Apollo 11",
+      "Apollo 13"
+    ],
+    "answer": "Apollo 11"
+  },
+  {
+    "id": "general-416",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What is the name of the largest object in the asteroid belt between Mars and Jupiter, classified as a dwarf planet?",
+    "options": [
+      "Pluto",
+      "Eris",
+      "Makemake",
+      "Ceres"
+    ],
+    "answer": "Ceres"
+  },
+  {
+    "id": "general-417",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which planet spins on its side, with an axial tilt of about 98 degrees?",
+    "options": [
+      "Uranus",
+      "Neptune",
+      "Saturn",
+      "Venus"
+    ],
+    "answer": "Uranus"
+  },
+  {
+    "id": "general-418",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What is the name for an extremely dense object whose gravity is so strong that not even light can escape it?",
+    "options": [
+      "Neutron star",
+      "Black hole",
+      "White dwarf",
+      "Pulsar"
+    ],
+    "answer": "Black hole"
+  },
+  {
+    "id": "general-419",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which planet in our solar system has the shortest day, rotating on its axis in about 10 hours?",
+    "options": [
+      "Saturn",
+      "Neptune",
+      "Jupiter",
+      "Uranus"
+    ],
+    "answer": "Jupiter"
+  },
+  {
+    "id": "general-420",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What do astronomers call a large, dense cloud of gas and dust in space where new stars often form?",
+    "options": [
+      "Galaxy",
+      "Asteroid belt",
+      "Corona",
+      "Nebula"
+    ],
+    "answer": "Nebula"
+  },
+  {
+    "id": "general-423",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which gas gives the planet Venus its thick, toxic atmosphere?",
+    "options": [
+      "Nitrogen",
+      "Methane",
+      "Carbon dioxide",
+      "Sulfur dioxide"
+    ],
+    "answer": "Carbon dioxide"
+  },
+  {
+    "id": "general-650",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which planet is known as the 'Morning Star' or 'Evening Star' due to its brightness in Earth's sky?",
+    "options": [
+      "Mercury",
+      "Venus",
+      "Mars",
+      "Jupiter"
+    ],
+    "answer": "Venus"
+  },
+  {
+    "id": "general-651",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the name of the closest large spiral galaxy to the Milky Way?",
+    "options": [
+      "The Triangulum Galaxy",
+      "The Whirlpool Galaxy",
+      "The Andromeda Galaxy",
+      "The Sombrero Galaxy"
+    ],
+    "answer": "The Andromeda Galaxy"
+  },
+  {
+    "id": "general-652",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What is the term for the elongated oval shape of planetary orbits, as described by Kepler's first law of planetary motion?",
+    "options": [
+      "Circle",
+      "Parabola",
+      "Spiral",
+      "Ellipse"
+    ],
+    "answer": "Ellipse"
+  },
+  {
+    "id": "general-653",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which planet in our solar system has a day (one full rotation) longer than its own year?",
+    "options": [
+      "Venus",
+      "Mercury",
+      "Mars",
+      "Uranus"
+    ],
+    "answer": "Venus"
+  },
+  {
+    "id": "general-654",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which dog became the first living creature to orbit the Earth, aboard Sputnik 2 in 1957?",
+    "options": [
+      "Belka",
+      "Laika",
+      "Strelka",
+      "Ham"
+    ],
+    "answer": "Laika"
+  },
+  {
+    "id": "general-655",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What is the term for the theoretical point of infinite density at the center of a black hole?",
+    "options": [
+      "Event horizon",
+      "Photon sphere",
+      "Singularity",
+      "Nucleus"
+    ],
+    "answer": "Singularity"
+  },
+  {
+    "id": "general-656",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "How many planets are in our solar system?",
+    "options": [
+      "7",
+      "9",
+      "10",
+      "8"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": "general-657",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which NASA mission first landed astronauts on the Moon, in July 1969?",
+    "options": [
+      "Apollo 11",
+      "Apollo 13",
+      "Apollo 8",
+      "Gemini 4"
+    ],
+    "answer": "Apollo 11"
+  },
+  {
+    "id": "general-658",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What is the term for the extremely dense stellar remnant, composed almost entirely of neutrons, left after certain supernovae?",
+    "options": [
+      "White dwarf",
+      "Neutron star",
+      "Red giant",
+      "Brown dwarf"
+    ],
+    "answer": "Neutron star"
+  },
+  {
+    "id": "general-659",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What term describes a large group of stars, gas, and dust held together by gravity?",
+    "options": [
+      "Nebula",
+      "Cluster",
+      "Galaxy",
+      "Constellation"
+    ],
+    "answer": "Galaxy"
+  },
+  {
+    "id": "general-660",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which planet has the most extensive and visible ring system in our solar system?",
+    "options": [
+      "Jupiter",
+      "Uranus",
+      "Neptune",
+      "Saturn"
+    ],
+    "answer": "Saturn"
+  },
+  {
+    "id": "general-661",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What is the name for the effect where light from a receding object shifts toward the red end of the spectrum?",
+    "options": [
+      "Redshift",
+      "Blueshift",
+      "Doppler burst",
+      "Photon drag"
+    ],
+    "answer": "Redshift"
+  },
+  {
+    "id": "general-662",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Which star is closest to Earth?",
+    "options": [
+      "Proxima Centauri",
+      "The Sun",
+      "Alpha Centauri",
+      "Sirius"
+    ],
+    "answer": "The Sun"
+  },
+  {
+    "id": "general-663",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the name for a small rocky body orbiting the Sun, found mostly in the belt between Mars and Jupiter?",
+    "options": [
+      "Comet",
+      "Meteoroid",
+      "Asteroid",
+      "Moon"
+    ],
+    "answer": "Asteroid"
+  },
+  {
+    "id": "general-665",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What term describes a natural object that orbits a planet, such as Earth's Moon?",
+    "options": [
+      "Satellite",
+      "Asteroid",
+      "Comet",
+      "Meteor"
+    ],
+    "answer": "Satellite"
+  },
+  {
+    "id": "general-666",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which powerful space telescope, launched in December 2021, observes the universe primarily in infrared light?",
+    "options": [
+      "The Hubble Space Telescope",
+      "The James Webb Space Telescope",
+      "The Spitzer Space Telescope",
+      "The Kepler Space Telescope"
+    ],
+    "answer": "The James Webb Space Telescope"
+  },
+  {
+    "id": "general-667",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What is the name of the mysterious force believed to be causing the accelerating expansion of the universe?",
+    "options": [
+      "Dark matter",
+      "Gravitational waves",
+      "Dark energy",
+      "Cosmic radiation"
+    ],
+    "answer": "Dark energy"
+  },
+  {
+    "id": "general-697",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Who was the first person to walk on the Moon?",
+    "options": [
+      "Neil Armstrong",
+      "Buzz Aldrin",
+      "Yuri Gagarin",
+      "John Glenn"
+    ],
+    "answer": "Neil Armstrong"
+  },
+  {
+    "id": "general-922",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What is the term for a large, powerful explosion marking the death of a massive star?",
+    "options": [
+      "Nova",
+      "Nebula",
+      "Quasar",
+      "Supernova"
+    ],
+    "answer": "Supernova"
+  },
+  {
+    "id": "general-923",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which planet is often called Earth's 'twin' due to its similar size, though its atmosphere is far more hostile?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Mercury",
+      "Neptune"
+    ],
+    "answer": "Venus"
+  },
+  {
+    "id": "general-924",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What is the name of the theoretical starting point of the universe, describing its rapid expansion from an extremely hot, dense state?",
+    "options": [
+      "The Big Crunch",
+      "The Big Bang",
+      "The Steady State",
+      "The Inflation Era"
+    ],
+    "answer": "The Big Bang"
+  },
+  {
+    "id": "general-925",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which spacecraft, launched in 1977, became the first human-made object to enter interstellar space?",
+    "options": [
+      "Voyager 2",
+      "Pioneer 10",
+      "Voyager 1",
+      "New Horizons"
+    ],
+    "answer": "Voyager 1"
+  },
+  {
+    "id": "general-926",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What is the name for a collection of stars that forms a recognizable pattern in the sky, such as Orion?",
+    "options": [
+      "Galaxy",
+      "Nebula",
+      "Cluster",
+      "Constellation"
+    ],
+    "answer": "Constellation"
+  },
+  {
+    "id": "general-927",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Which planet is famous for its Great Red Spot, a giant storm that has raged for centuries?",
+    "options": [
+      "Jupiter",
+      "Saturn",
+      "Neptune",
+      "Mars"
+    ],
+    "answer": "Jupiter"
+  },
+  {
+    "id": "general-928",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What is the term for the darkest, central part of the shadow cast by the Moon during a solar eclipse?",
+    "options": [
+      "Penumbra",
+      "Umbra",
+      "Corona",
+      "Antumbra"
+    ],
+    "answer": "Umbra"
+  },
+  {
+    "id": "general-929",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which NASA space shuttle disaster occurred in 1986, shortly after liftoff?",
+    "options": [
+      "Columbia",
+      "Discovery",
+      "Challenger",
+      "Atlantis"
+    ],
+    "answer": "Challenger"
+  },
+  {
+    "id": "general-930",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What is the name of the force that keeps planets in orbit around the Sun?",
+    "options": [
+      "Magnetism",
+      "Inertia",
+      "Friction",
+      "Gravity"
+    ],
+    "answer": "Gravity"
+  },
+  {
+    "id": "general-931",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Which dwarf planet, located in the Kuiper Belt, was reclassified from full planet status in 2006?",
+    "options": [
+      "Pluto",
+      "Eris",
+      "Ceres",
+      "Haumea"
+    ],
+    "answer": "Pluto"
+  },
+  {
+    "id": "general-932",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What is the term for when the Moon appears completely dark because Earth's shadow falls upon it?",
+    "options": [
+      "A solar eclipse",
+      "A lunar eclipse",
+      "A new moon",
+      "A supermoon"
+    ],
+    "answer": "A lunar eclipse"
+  },
+  {
+    "id": "general-933",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Whose early 17th-century telescope observations supported the heliocentric model, leading to conflict with the Catholic Church?",
+    "options": [
+      "Nicolaus Copernicus",
+      "Johannes Kepler",
+      "Galileo Galilei",
+      "Tycho Brahe"
+    ],
+    "answer": "Galileo Galilei"
+  },
+  {
+    "id": "general-934",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What is the name of the reusable spacecraft company founded by Elon Musk in 2002?",
+    "options": [
+      "Blue Origin",
+      "Virgin Galactic",
+      "Rocket Lab",
+      "SpaceX"
+    ],
+    "answer": "SpaceX"
+  },
+  {
+    "id": "general-935",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which planet has the fastest rotation of any planet in our solar system, completing a day in under 10 hours?",
+    "options": [
+      "Jupiter",
+      "Saturn",
+      "Neptune",
+      "Uranus"
+    ],
+    "answer": "Jupiter"
+  },
+  {
+    "id": "general-936",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the term for the region around a star where conditions might allow liquid water to exist on a planet's surface?",
+    "options": [
+      "The Kuiper Belt",
+      "The habitable zone",
+      "The Oort Cloud",
+      "The asteroid belt"
+    ],
+    "answer": "The habitable zone"
+  },
+  {
+    "id": "general-937",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Which country's space agency launched Yuri Gagarin, the first human in space, in 1961?",
+    "options": [
+      "The United States",
+      "China",
+      "The Soviet Union",
+      "France"
+    ],
+    "answer": "The Soviet Union"
+  },
+  {
+    "id": "general-938",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What is the name of the massive canyon system on Mars, one of the largest in the solar system?",
+    "options": [
+      "Olympus Mons",
+      "Hellas Basin",
+      "Tharsis",
+      "Valles Marineris"
+    ],
+    "answer": "Valles Marineris"
+  },
+  {
+    "id": "general-939",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which comet, visible from Earth roughly every 76 years, was last seen in 1986 and will return in 2061?",
+    "options": [
+      "Halley's Comet",
+      "Hale-Bopp Comet",
+      "Comet Hyakutake",
+      "Comet NEOWISE"
+    ],
+    "answer": "Halley's Comet"
+  },
+  {
+    "id": "general-1062",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "The Apollo 11 mission achieved what historic first in 1969?",
+    "options": [
+      "First crewed Moon landing",
+      "First orbit of the Moon",
+      "First spacewalk",
+      "First satellite launch"
+    ],
+    "answer": "First crewed Moon landing"
+  },
+  {
+    "id": "general-1064",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What is the term for the curved path an object follows as it moves around a planet or star due to gravity?",
+    "options": [
+      "Orbit",
+      "Trajectory",
+      "Vector",
+      "Axis"
+    ],
+    "answer": "Orbit"
+  },
+  {
+    "id": "general-1106",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which planet is famous for its Great Red Spot, a giant storm larger than Earth?",
+    "options": [
+      "Jupiter",
+      "Saturn",
+      "Mars",
+      "Neptune"
+    ],
+    "answer": "Jupiter"
+  },
+  {
+    "id": "general-1107",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which dwarf planet was reclassified from full planet status by the IAU in 2006?",
+    "options": [
+      "Pluto",
+      "Eris",
+      "Ceres",
+      "Makemake"
+    ],
+    "answer": "Pluto"
+  },
+  {
+    "id": "general-1108",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What is the name of Saturn's largest moon, bigger than the planet Mercury?",
+    "options": [
+      "Titan",
+      "Enceladus",
+      "Rhea",
+      "Mimas"
+    ],
+    "answer": "Titan"
+  },
+  {
+    "id": "general-1109",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Who was the first human to walk on the Moon?",
+    "options": [
+      "Neil Armstrong",
+      "Buzz Aldrin",
+      "Yuri Gagarin",
+      "Michael Collins"
+    ],
+    "answer": "Neil Armstrong"
+  },
+  {
+    "id": "general-1110",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the term for a star that suddenly increases greatly in brightness due to a catastrophic explosion?",
+    "options": [
+      "Supernova",
+      "Nova",
+      "Pulsar",
+      "Quasar"
+    ],
+    "answer": "Supernova"
+  },
+  {
+    "id": "general-1111",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the name of the space telescope that succeeded Hubble, launched in December 2021?",
+    "options": [
+      "James Webb Space Telescope",
+      "Kepler Space Telescope",
+      "Spitzer Space Telescope",
+      "Chandra X-ray Observatory"
+    ],
+    "answer": "James Webb Space Telescope"
+  },
+  {
+    "id": "general-1113",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which planet in our solar system has the shortest day?",
+    "options": [
+      "Jupiter",
+      "Mercury",
+      "Earth",
+      "Mars"
+    ],
+    "answer": "Jupiter"
+  },
+  {
+    "id": "general-1114",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What do astronomers call a region of space where gravity is so strong that nothing can escape it, not even light?",
+    "options": [
+      "Black hole",
+      "Wormhole",
+      "Neutron star",
+      "Dark matter"
+    ],
+    "answer": "Black hole"
+  },
+  {
+    "id": "general-1115",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which spacecraft carried the first crewed mission to orbit the Moon in 1968?",
+    "options": [
+      "Apollo 8",
+      "Apollo 11",
+      "Apollo 13",
+      "Apollo 1"
+    ],
+    "answer": "Apollo 8"
+  },
+  {
+    "id": "general-1116",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What is the name of SpaceX's crewed spacecraft that ferries astronauts to the International Space Station?",
+    "options": [
+      "Crew Dragon",
+      "Starliner",
+      "Orion",
+      "Falcon"
+    ],
+    "answer": "Crew Dragon"
+  },
+  {
+    "id": "general-1117",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "How long does it take sunlight to reach Earth on average?",
+    "options": [
+      "About 8 minutes",
+      "About 1 minute",
+      "About 30 minutes",
+      "About 1 hour"
+    ],
+    "answer": "About 8 minutes"
+  },
+  {
+    "id": "general-1267",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Which planet is closest to the Sun?",
+    "options": [
+      "Mercury",
+      "Venus",
+      "Earth",
+      "Mars"
+    ],
+    "answer": "Mercury"
+  },
+  {
+    "id": "general-1301",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the name of the phenomenon where a full or new moon coincides with the moon's closest approach to Earth, making it appear larger?",
+    "options": [
+      "Supermoon",
+      "Blue moon",
+      "Blood moon",
+      "Harvest moon"
+    ],
+    "answer": "Supermoon"
+  },
+  {
+    "id": "general-1326",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which country first landed a rover on Mars successfully?",
+    "options": [
+      "United States",
+      "Soviet Union",
+      "China",
+      "European Union"
+    ],
+    "answer": "United States"
+  },
+  {
+    "id": "general-1333",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What is the term for the boundary of a black hole beyond which nothing can escape?",
+    "options": [
+      "Event horizon",
+      "Singularity",
+      "Accretion disk",
+      "Photon sphere"
+    ],
+    "answer": "Event horizon"
+  },
+  {
+    "id": "general-1336",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which scientist proposed the heliocentric model placing the Sun at the center of the solar system?",
+    "options": [
+      "Nicolaus Copernicus",
+      "Galileo Galilei",
+      "Johannes Kepler",
+      "Tycho Brahe"
+    ],
+    "answer": "Nicolaus Copernicus"
+  },
+  {
+    "id": "general-1338",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which planet has a day longer than its year, due to extremely slow rotation?",
+    "options": [
+      "Venus",
+      "Mercury",
+      "Mars",
+      "Uranus"
+    ],
+    "answer": "Venus"
+  },
+  {
+    "id": "general-1341",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What unit of astronomical distance is defined as the distance light travels in one year?",
+    "options": [
+      "Light year",
+      "Astronomical unit",
+      "Parsec",
+      "Solar radius"
+    ],
+    "answer": "Light year"
+  },
+  {
+    "id": "general-1346",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which planet in the solar system rotates on its side, with an axial tilt of about 98 degrees?",
+    "options": [
+      "Uranus",
+      "Neptune",
+      "Saturn",
+      "Jupiter"
+    ],
+    "answer": "Uranus"
+  },
+  {
+    "id": "general-1445",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Who was the first human to travel into outer space?",
+    "options": [
+      "Yuri Gagarin",
+      "Alan Shepard",
+      "Neil Armstrong",
+      "John Glenn"
+    ],
+    "answer": "Yuri Gagarin"
+  },
+  {
+    "id": "general-1446",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "The Cold War-era competition between the US and USSR to achieve spaceflight milestones is known as what?",
+    "options": [
+      "The Arms Race",
+      "The Tech War",
+      "The Orbit Race",
+      "The Space Race"
+    ],
+    "answer": "The Space Race"
+  },
+  {
+    "id": "general-1504",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "How many moons does Earth have?",
+    "options": [
+      "1",
+      "2",
+      "0",
+      "3"
+    ],
+    "answer": "1"
+  },
+  {
+    "id": "general-1505",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Which planet has two small moons named Phobos and Deimos?",
+    "options": [
+      "Mars",
+      "Earth",
+      "Venus",
+      "Mercury"
+    ],
+    "answer": "Mars"
+  },
+  {
+    "id": "general-1506",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which planet in our solar system has the shortest day, completing a full rotation in about 10 hours?",
+    "options": [
+      "Jupiter",
+      "Saturn",
+      "Neptune",
+      "Mars"
+    ],
+    "answer": "Jupiter"
+  },
+  {
+    "id": "general-1507",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which planet was the first to be discovered using a telescope rather than the naked eye?",
+    "options": [
+      "Uranus",
+      "Neptune",
+      "Pluto",
+      "Saturn"
+    ],
+    "answer": "Uranus"
+  },
+  {
+    "id": "general-1508",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which is the nearest star system to Earth, other than the Sun?",
+    "options": [
+      "Barnard's Star",
+      "Alpha Centauri B",
+      "Proxima Centauri",
+      "Sirius"
+    ],
+    "answer": "Proxima Centauri"
+  },
+  {
+    "id": "general-1525",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the term for a star's final explosive collapse, dispersing matter into space?",
+    "options": [
+      "A supernova",
+      "A nova",
+      "A supergiant",
+      "A pulsar"
+    ],
+    "answer": "A supernova"
+  },
+  {
+    "id": "general-1526",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which planet takes the longest to complete one orbit of the Sun?",
+    "options": [
+      "Neptune",
+      "Uranus",
+      "Pluto",
+      "Saturn"
+    ],
+    "answer": "Neptune"
+  },
+  {
+    "id": "general-1527",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What is the name of Saturn's largest moon?",
+    "options": [
+      "Europa",
+      "Triton",
+      "Io",
+      "Titan"
+    ],
+    "answer": "Titan"
+  },
+  {
+    "id": "general-1528",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What is the largest moon in the solar system, orbiting Jupiter?",
+    "options": [
+      "Ganymede",
+      "Titan",
+      "Io",
+      "Callisto"
+    ],
+    "answer": "Ganymede"
+  },
+  {
+    "id": "general-1529",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "How many moons does Mars have?",
+    "options": [
+      "2",
+      "1",
+      "0",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": "general-1530",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Which planet is famous for having a massive storm called the Great Red Spot?",
+    "options": [
+      "Neptune",
+      "Jupiter",
+      "Saturn",
+      "Mars"
+    ],
+    "answer": "Jupiter"
+  },
+  {
+    "id": "general-1535",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Ocean tides are primarily caused by the gravitational pull of which celestial body?",
+    "options": [
+      "The Moon",
+      "Mars",
+      "Venus",
+      "The Sun"
+    ],
+    "answer": "The Moon"
+  },
+  {
+    "id": "general-1547",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What is the name for a hypothetical tunnel-like structure that could theoretically connect two separate points in spacetime?",
+    "options": [
+      "A wormhole",
+      "A black hole",
+      "A singularity",
+      "A quasar"
+    ],
+    "answer": "A wormhole"
+  },
+  {
+    "id": "general-1897",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "In which year did the Apollo 11 mission land the first humans on the Moon?",
+    "options": [
+      "1969",
+      "1967",
+      "1971",
+      "1965"
+    ],
+    "answer": "1969"
+  },
+  {
+    "id": "general-1922",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which planet in our solar system has the shortest year, orbiting the Sun in just 88 Earth days?",
+    "options": [
+      "Mercury",
+      "Venus",
+      "Mars",
+      "Earth"
+    ],
+    "answer": "Mercury"
+  },
+  {
+    "id": "general-1937",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which planet has more confirmed moons than any other in the solar system, according to recent counts?",
+    "options": [
+      "Saturn",
+      "Jupiter",
+      "Uranus",
+      "Neptune"
+    ],
+    "answer": "Saturn"
+  },
+  {
+    "id": "general-1940",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the scientific study of the origin and evolution of the universe called?",
+    "options": [
+      "Cosmology",
+      "Astrophysics",
+      "Astronomy",
+      "Astrology"
+    ],
+    "answer": "Cosmology"
+  },
+  {
+    "id": "general-1950",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What is the scientific study of stars and celestial objects called?",
+    "options": [
+      "Astronomy",
+      "Astrology",
+      "Cosmology",
+      "Meteorology"
+    ],
+    "answer": "Astronomy"
+  },
+  {
+    "id": "general-1952",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which planet is often called Earth's 'twin' due to its similar size, though it is far hotter due to a thick atmosphere?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Mercury",
+      "Neptune"
+    ],
+    "answer": "Venus"
+  },
+  {
+    "id": "general-1953",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which planet rotates almost completely on its side, with an axial tilt of about 98 degrees?",
+    "options": [
+      "Uranus",
+      "Neptune",
+      "Saturn",
+      "Venus"
+    ],
+    "answer": "Uranus"
+  },
+  {
+    "id": "general-1956",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the main gas that makes up the Sun?",
+    "options": [
+      "Hydrogen",
+      "Helium",
+      "Oxygen",
+      "Nitrogen"
+    ],
+    "answer": "Hydrogen"
+  },
+  {
+    "id": "general-1960",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What is the name of the group of galaxies that includes the Milky Way and the Andromeda Galaxy?",
+    "options": [
+      "The Local Group",
+      "The Virgo Cluster",
+      "The Local Supercluster",
+      "The Magellanic Group"
+    ],
+    "answer": "The Local Group"
+  },
+  {
+    "id": "general-1977",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which scientist formulated the three laws of planetary motion?",
+    "options": [
+      "Johannes Kepler",
+      "Nicolaus Copernicus",
+      "Galileo Galilei",
+      "Tycho Brahe"
+    ],
+    "answer": "Johannes Kepler"
+  },
+  {
+    "id": "general-2200",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Which planet in our solar system is known for having the most extreme temperature swings due to its lack of atmosphere?",
+    "options": [
+      "Mercury",
+      "Venus",
+      "Mars",
+      "Pluto"
+    ],
+    "answer": "Mercury"
+  },
+  {
+    "id": "general-2234",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What galaxy is Earth located in?",
+    "options": [
+      "The Milky Way",
+      "Andromeda",
+      "The Triangulum Galaxy",
+      "The Whirlpool Galaxy"
+    ],
+    "answer": "The Milky Way"
+  },
+  {
+    "id": "general-2236",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which planet has the most moons in our solar system?",
+    "options": [
+      "Saturn",
+      "Jupiter",
+      "Uranus",
+      "Neptune"
+    ],
+    "answer": "Saturn"
+  },
+  {
+    "id": "general-2238",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which planet has a day longer than its year?",
+    "options": [
+      "Venus",
+      "Mercury",
+      "Mars",
+      "Uranus"
+    ],
+    "answer": "Venus"
+  },
+  {
+    "id": "general-2239",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which layer of the sun do we see when we look at it?",
+    "options": [
+      "Photosphere",
+      "Corona",
+      "Chromosphere",
+      "Core"
+    ],
+    "answer": "Photosphere"
+  },
+  {
+    "id": "general-2290",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Which of these is a dwarf planet in our solar system?",
+    "options": [
+      "Pluto",
+      "Mercury",
+      "Mars",
+      "Venus"
+    ],
+    "answer": "Pluto"
+  },
+  {
+    "id": "general-2307",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "The Apollo 11 mission landed on the Moon in which year?",
+    "options": [
+      "1969",
+      "1971",
+      "1965",
+      "1973"
+    ],
+    "answer": "1969"
+  },
+  {
+    "id": "general-2322",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which planet is often called Earth's 'twin' due to similar size?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Mercury",
+      "Neptune"
+    ],
+    "answer": "Venus"
+  },
+  {
+    "id": "general-2333",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Which natural satellite is the only one Earth has?",
+    "options": [
+      "The Moon",
+      "Phobos",
+      "Titan",
+      "Europa"
+    ],
+    "answer": "The Moon"
+  },
+  {
+    "id": "general-2344",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Which planet is known for its prominent ring system visible from Earth with a telescope?",
+    "options": [
+      "Saturn",
+      "Jupiter",
+      "Uranus",
+      "Neptune"
+    ],
+    "answer": "Saturn"
+  },
+  {
+    "id": "general-2350",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which planet in our solar system rotates on its side, almost perpendicular to its orbit?",
+    "options": [
+      "Uranus",
+      "Neptune",
+      "Saturn",
+      "Jupiter"
+    ],
+    "answer": "Uranus"
+  },
+  {
+    "id": "general-2353",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What is the term for the imaginary line around which the Earth rotates?",
+    "options": [
+      "Axis",
+      "Equator",
+      "Meridian",
+      "Orbit"
+    ],
+    "answer": "Axis"
+  },
+  {
+    "id": "general-2357",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which planet has a surface hot enough to melt lead due to a thick, toxic atmosphere?",
+    "options": [
+      "Venus",
+      "Mercury",
+      "Mars",
+      "Jupiter"
+    ],
+    "answer": "Venus"
+  },
+  {
+    "id": "general-2364",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the term for the natural phenomenon where the moon completely blocks the sun?",
+    "options": [
+      "A total solar eclipse",
+      "A lunar eclipse",
+      "A supermoon",
+      "A blood moon"
+    ],
+    "answer": "A total solar eclipse"
+  },
+  {
+    "id": "general-2383",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which planet was discovered in 1846 through mathematical prediction rather than direct observation?",
+    "options": [
+      "Neptune",
+      "Uranus",
+      "Pluto",
+      "Saturn"
+    ],
+    "answer": "Neptune"
+  },
+  {
+    "id": "general-2388",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which planet is often visible as a bright 'morning star' or 'evening star' in Earth's sky?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Mercury"
+    ],
+    "answer": "Venus"
+  },
+  {
+    "id": "general-2399",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which of these planets does not have any moons?",
+    "options": [
+      "Mercury",
+      "Mars",
+      "Jupiter",
+      "Neptune"
+    ],
+    "answer": "Mercury"
+  },
+  {
+    "id": "general-2413",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which planet takes about 165 Earth years to orbit the sun once?",
+    "options": [
+      "Neptune",
+      "Uranus",
+      "Pluto",
+      "Saturn"
+    ],
+    "answer": "Neptune"
+  },
+  {
+    "id": "general-2454",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which scientist is credited with formulating the laws of planetary motion?",
+    "options": [
+      "Johannes Kepler",
+      "Nicolaus Copernicus",
+      "Galileo Galilei",
+      "Tycho Brahe"
+    ],
+    "answer": "Johannes Kepler"
+  },
+  {
+    "id": "general-2460",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which planet has a moon named Titan, larger than the planet Mercury?",
+    "options": [
+      "Saturn",
+      "Jupiter",
+      "Uranus",
+      "Neptune"
+    ],
+    "answer": "Saturn"
+  },
+  {
+    "id": "general-2467",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which planet has the strongest winds recorded in the solar system, exceeding 1,000 mph?",
+    "options": [
+      "Neptune",
+      "Saturn",
+      "Jupiter",
+      "Uranus"
+    ],
+    "answer": "Neptune"
+  },
+  {
+    "id": "general-2528",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which planet's axial tilt is roughly similar to Earth's, giving it seasons?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Mercury",
+      "Jupiter"
+    ],
+    "answer": "Mars"
+  },
+  {
+    "id": "general-2599",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Which planet is named after the Roman god of the sea?",
+    "options": [
+      "Neptune",
+      "Mercury",
+      "Mars",
+      "Jupiter"
+    ],
+    "answer": "Neptune"
+  },
+  {
+    "id": "general-2612",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the name of the layer of the Sun that is visible to observers on Earth as its surface?",
+    "options": [
+      "Photosphere",
+      "Chromosphere",
+      "Corona",
+      "Core"
+    ],
+    "answer": "Photosphere"
+  },
+  {
+    "id": "general-2711",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What term describes a galaxy's compact central region emitting intense radiation, powered by a supermassive black hole?",
+    "options": [
+      "Active galactic nucleus",
+      "Galactic bulge",
+      "Quasar halo",
+      "Stellar nursery"
+    ],
+    "answer": "Active galactic nucleus"
+  },
+  {
+    "id": "general-2712",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which planet has a single rotation on its axis that takes longer than its full orbit around the Sun?",
+    "options": [
+      "Venus",
+      "Mercury",
+      "Mars",
+      "Neptune"
+    ],
+    "answer": "Venus"
+  },
+  {
+    "id": "general-2713",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the name of the reusable SpaceX spacecraft that carries astronauts to the International Space Station?",
+    "options": [
+      "Crew Dragon",
+      "Starliner",
+      "Orion",
+      "Dragon XL"
+    ],
+    "answer": "Crew Dragon"
+  },
+  {
+    "id": "general-2714",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which Soviet spacecraft was the first to achieve a soft landing on the Moon, in February 1966?",
+    "options": [
+      "Luna 9",
+      "Luna 2",
+      "Surveyor 1",
+      "Vostok 1"
+    ],
+    "answer": "Luna 9"
+  },
+  {
+    "id": "general-2716",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Which space telescope, launched in 2021, is designed to observe the universe primarily in infrared?",
+    "options": [
+      "The James Webb Space Telescope",
+      "The Hubble Space Telescope",
+      "The Spitzer Space Telescope",
+      "The Kepler Space Telescope"
+    ],
+    "answer": "The James Webb Space Telescope"
+  },
+  {
+    "id": "general-2717",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What is the term for a star system consisting of two stars orbiting a common center of mass?",
+    "options": [
+      "A binary star system",
+      "A twin nebula",
+      "A dual quasar",
+      "A stellar pair cluster"
+    ],
+    "answer": "A binary star system"
+  },
+  {
+    "id": "general-2718",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which dwarf planet, discovered in 2005 and roughly the size of Pluto, prompted the 2006 redefinition of \"planet\"?",
+    "options": [
+      "Eris",
+      "Makemake",
+      "Haumea",
+      "Ceres"
+    ],
+    "answer": "Eris"
+  },
+  {
+    "id": "general-2719",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Which NASA mission first landed humans on the Moon, in 1969?",
+    "options": [
+      "Apollo 11",
+      "Apollo 13",
+      "Apollo 8",
+      "Apollo 17"
+    ],
+    "answer": "Apollo 11"
+  },
+  {
+    "id": "general-2724",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which chimpanzee became the first hominid launched into space, aboard a Mercury capsule in January 1961?",
+    "options": [
+      "Ham",
+      "Enos",
+      "Albert II",
+      "Gordo"
+    ],
+    "answer": "Ham"
+  },
+  {
+    "id": "general-2816",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Because the Moon has no atmosphere or wind to erode them, the footprints left by Apollo astronauts are expected to last for approximately how long?",
+    "options": [
+      "Millions of years",
+      "About a thousand years",
+      "Roughly a century",
+      "Only a few decades"
+    ],
+    "answer": "Millions of years"
+  },
+  {
+    "id": "general-2817",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "The Voyager 1 and 2 probes, launched in 1977, each carry a 'Golden Record' containing what?",
+    "options": [
+      "Sounds, images, and music representing life on Earth",
+      "A star map showing every mission Voyager would pass",
+      "Blueprints for building a radio receiver",
+      "A time capsule of newspaper headlines from 1977"
+    ],
+    "answer": "Sounds, images, and music representing life on Earth"
+  },
+  {
+    "id": "general-2818",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Japan's Hayabusa spacecraft, launched in 2003, achieved what space exploration first?",
+    "options": [
+      "Returning a sample from an asteroid to Earth",
+      "Landing a rover on a comet",
+      "Completing the first flyby of Pluto",
+      "Orbiting Mercury for an extended mission"
+    ],
+    "answer": "Returning a sample from an asteroid to Earth"
+  },
+  {
+    "id": "general-2819",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "The Soviet probe Mars 3 became the first spacecraft to soft-land on Mars in 1971, but its mission was cut short after only how long?",
+    "options": [
+      "About 110 seconds, after which contact was lost",
+      "One full Martian day",
+      "Roughly two weeks",
+      "Just under an hour"
+    ],
+    "answer": "About 110 seconds, after which contact was lost"
+  },
+  {
+    "id": "general-2820",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Valentina Tereshkova, the first woman in space, flew aboard which spacecraft in 1963?",
+    "options": [
+      "Vostok 6",
+      "Soyuz 1",
+      "Voskhod 1",
+      "Vostok 1"
+    ],
+    "answer": "Vostok 6"
+  },
+  {
+    "id": "general-2822",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Sputnik 1, launched by the Soviet Union in 1957, is significant as the first what?",
+    "options": [
+      "Artificial satellite to orbit Earth",
+      "Crewed spacecraft to reach orbit",
+      "Probe to photograph the far side of the Moon",
+      "Rocket to exceed the speed of sound"
+    ],
+    "answer": "Artificial satellite to orbit Earth"
+  },
+  {
+    "id": "general-2823",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "The Viking 1 lander holds the distinction of being the first spacecraft to do what on Mars, in 1976?",
+    "options": [
+      "Successfully land and transmit images back to Earth",
+      "Drill a core sample from the surface",
+      "Detect liquid water beneath the surface",
+      "Complete a powered flight through the Martian atmosphere"
+    ],
+    "answer": "Successfully land and transmit images back to Earth"
+  },
+  {
+    "id": "general-2917",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "In what year was the Voyager 1 probe launched?",
+    "options": [
+      "1972",
+      "1975",
+      "1977",
+      "1980"
+    ],
+    "answer": "1977"
+  },
+  {
+    "id": "general-2924",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What was the name of the first artificial Earth satellite?",
+    "options": [
+      "Explorer 1",
+      "Sputnik 1",
+      "Vanguard 1",
+      "Ariel 1"
+    ],
+    "answer": "Sputnik 1"
+  },
+  {
+    "id": "general-2925",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "On which planet is the Great Red Spot located?",
+    "options": [
+      "Mars",
+      "Saturn",
+      "Jupiter",
+      "Neptune"
+    ],
+    "answer": "Jupiter"
+  },
+  {
+    "id": "general-2929",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What was the name of NASA's experimental helicopter that flew on Mars?",
+    "options": [
+      "Perseverance",
+      "Curiosity",
+      "Ingenuity",
+      "Opportunity"
+    ],
+    "answer": "Ingenuity"
+  },
+  {
+    "id": "general-2933",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "In what year was Sputnik 1 launched by the Soviet Union?",
+    "options": [
+      "1955",
+      "1957",
+      "1959",
+      "1961"
+    ],
+    "answer": "1957"
+  }
+]

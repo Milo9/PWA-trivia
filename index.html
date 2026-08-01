@@ -18,10 +18,14 @@
     <section id="screen-categories" class="screen">
       <header class="app-header">
         <h1>Offline Trivia</h1>
-        <p class="subtitle">Pick a category to start a round</p>
+        <p class="subtitle">Pick one or more categories to start a round</p>
       </header>
       <div id="category-list" class="category-list" aria-live="polite"></div>
       <p id="categories-status" class="status-text"></p>
+      <div id="selection-bar" class="selection-bar hidden">
+        <button id="select-all-btn" class="text-btn"></button>
+        <button id="play-selected-btn" class="primary-btn" disabled>Play Selected</button>
+      </div>
       <footer class="app-footer">
         <div id="stats-summary" class="stats-card hidden"></div>
         <button id="reset-stats-btn" class="text-btn hidden">Reset Stats</button>
@@ -74,6 +78,7 @@
         <button id="choose-category-btn" class="secondary-btn">Choose Category</button>
       </div>
       <div id="results-stats" class="stats-card"></div>
+      <div id="results-category-breakdown" class="stats-card hidden"></div>
       <div id="results-review" class="results-review"></div>
     </section>
 

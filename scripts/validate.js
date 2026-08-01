@@ -213,7 +213,15 @@ function findDuplicates(questions) {
 // question text is BELOW the near-duplicate threshold — pairs at or above it
 // are already reported by findDuplicates(), and re-flagging them here just
 // adds noise without adding a new finding.
-function findAnswerDuplicates(questions) {
+// dupeGroupOf(categoryId) maps a category to the broader group it should be
+// compared within for this check — see categories.json's optional
+// "dupeGroup" field. Categories split out of a formerly-single bucket (e.g.
+// general's ~12-way split into history/geography/science-technology/...)
+// share a dupeGroup so a same-answer pair that now lands in two different
+// sub-categories is still caught; categories that were always distinct
+// (friends, big-bang-theory) fall back to their own id.
+function findAnswerDuplicates(questions, dupeGroupOf) {
+  const groupKey = dupeGroupOf || ((catId) => catId);
   const groups = new Map();
   for (const q of questions) {
     if (!q.answer || typeof q.answer !== "string") continue;
@@ -229,7 +237,7 @@ function findAnswerDuplicates(questions) {
       for (let j = i + 1; j < group.length; j++) {
         const a = group[i];
         const b = group[j];
-        if (a.q.category !== b.q.category) continue; // cross-category match is almost always coincidence
+        if (groupKey(a.q.category) !== groupKey(b.q.category)) continue; // cross-dupeGroup match is almost always coincidence
         const sim = jaccard(a.words, b.words);
         if (sim >= NEAR_DUPLICATE_THRESHOLD) continue; // already reported by findDuplicates()
         if (sim < SAME_ANSWER_MIN_OVERLAP) continue; // below this, it's coincidental generic-entity reuse, not signal
@@ -250,6 +258,7 @@ function main() {
 
   const seenIds = new Set();
   const allQuestions = [];
+  const dupeGroupByCategory = new Map();
   let totalCount = 0;
 
   for (const cat of categories) {
@@ -257,6 +266,7 @@ function main() {
       err(`categories.json: entry missing id/name/file — ${JSON.stringify(cat)}`);
       continue;
     }
+    dupeGroupByCategory.set(cat.id, cat.dupeGroup || cat.id);
     const filePath = path.join(DATA_DIR, cat.file);
     const questions = loadJson(filePath, cat.file);
     if (!questions) continue;
@@ -275,7 +285,7 @@ function main() {
   }
 
   findDuplicates(allQuestions);
-  findAnswerDuplicates(allQuestions);
+  findAnswerDuplicates(allQuestions, (catId) => dupeGroupByCategory.get(catId) || catId);
 
   console.log(`\nTotal questions across all categories: ${totalCount}`);
   report();

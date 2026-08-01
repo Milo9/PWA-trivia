@@ -10,8 +10,81 @@
     "file": "questions/big-bang-theory.json"
   },
   {
+    "id": "history",
+    "name": "History",
+    "file": "questions/history.json",
+    "dupeGroup": "general"
+  },
+  {
+    "id": "geography",
+    "name": "Geography",
+    "file": "questions/geography.json",
+    "dupeGroup": "general"
+  },
+  {
+    "id": "science-technology",
+    "name": "Science & Technology",
+    "file": "questions/science-technology.json",
+    "dupeGroup": "general"
+  },
+  {
+    "id": "animals-nature",
+    "name": "Animals & Nature",
+    "file": "questions/animals-nature.json",
+    "dupeGroup": "general"
+  },
+  {
+    "id": "space-astronomy",
+    "name": "Space & Astronomy",
+    "file": "questions/space-astronomy.json",
+    "dupeGroup": "general"
+  },
+  {
+    "id": "arts-literature",
+    "name": "Arts & Literature",
+    "file": "questions/arts-literature.json",
+    "dupeGroup": "general"
+  },
+  {
+    "id": "film-tv",
+    "name": "Film & TV",
+    "file": "questions/film-tv.json",
+    "dupeGroup": "general"
+  },
+  {
+    "id": "music",
+    "name": "Music",
+    "file": "questions/music.json",
+    "dupeGroup": "general"
+  },
+  {
+    "id": "sports",
+    "name": "Sports",
+    "file": "questions/sports.json",
+    "dupeGroup": "general"
+  },
+  {
+    "id": "food-drink",
+    "name": "Food & Drink",
+    "file": "questions/food-drink.json",
+    "dupeGroup": "general"
+  },
+  {
+    "id": "mythology-religion",
+    "name": "Mythology & Religion",
+    "file": "questions/mythology-religion.json",
+    "dupeGroup": "general"
+  },
+  {
+    "id": "world-cultures",
+    "name": "World Cultures & Languages",
+    "file": "questions/world-cultures.json",
+    "dupeGroup": "general"
+  },
+  {
     "id": "general",
     "name": "General Knowledge",
-    "file": "questions/general.json"
+    "file": "questions/general.json",
+    "dupeGroup": "general"
   }
 ]

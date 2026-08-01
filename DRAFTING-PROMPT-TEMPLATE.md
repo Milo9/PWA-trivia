@@ -16,7 +16,12 @@ You are drafting trivia questions for a multiple-choice trivia app. You have
 no access to my codebase — just generate the content below and I'll hand it
 to another AI to review, dedupe, and merge into the database myself.
 
-TOPIC: General knowledge
+TOPIC: [Pick one category — general knowledge is now split into: History,
+Geography, Science & Technology, Animals & Nature, Space & Astronomy, Arts
+& Literature, Film & TV, Music, Sports, Food & Drink, Mythology &
+Religion, World Cultures & Languages, or a small General Knowledge
+catch-all for things that don't fit any of those. Name the one category
+you want here, e.g. "Science & Technology" or "Friends (TV show)".]
 
 COUNT: 100 questions.
 
@@ -99,18 +104,73 @@ CLAUDE.md's "External-agent drafting" section for the update process. Not
 meant to be exhaustive or grow forever; entries get pruned if the list gets
 long and unfocused.
 
-### general
+### general (formerly one bucket, split 2026-08-01 — see CLAUDE.md)
+
+`general` used to be a single ~2825-question category; it's now split
+into the 12 categories below plus a small `general` catch-all. The
+chestnuts below were logged back when it was all one bucket and have been
+sorted into whichever new category they actually belong to. Paste the
+relevant category's list when drafting for that category specifically.
+
+#### history
+
+*(none logged yet)*
+
+#### geography
+
+*(none logged yet)*
+
+#### science-technology
 
 - Chemical symbol for tungsten (W)
 - Earth's atmosphere composition (~78% nitrogen)
 - Number of bones in the adult human body (206)
-- Smallest planet in the solar system (Mercury)
-- Which planet has the most moons (Saturn)
 - Hardest naturally occurring substance (diamond)
 - Who invented the World Wide Web (Tim Berners-Lee)
 - SI unit of electrical resistance (ohm)
 - Chemical symbol for potassium (K)
 - Subatomic particle with no electric charge (neutron)
+
+#### animals-nature
+
+*(none logged yet)*
+
+#### space-astronomy
+
+- Smallest planet in the solar system (Mercury)
+- Which planet has the most moons (Saturn)
+
+#### arts-literature
+
+*(none logged yet)*
+
+#### film-tv
+
+*(none logged yet)*
+
+#### music
+
+*(none logged yet)*
+
+#### sports
+
+*(none logged yet)*
+
+#### food-drink
+
+*(none logged yet)*
+
+#### mythology-religion
+
+*(none logged yet)*
+
+#### world-cultures
+
+*(none logged yet)*
+
+#### general (catch-all)
+
+*(none logged yet)*
 
 ### friends
 

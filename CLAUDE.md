@@ -30,9 +30,26 @@ don't bypass it.
 - IDs must be unique **across the whole dataset**, not just the file —
   check the highest existing number in that category before picking the
   next batch's range (e.g. this repo currently has `friends` through
-  ~790, `big-bang-theory` through ~711, `general` through ~2970). Note
-  IDs have gaps from the 2026-07-31 dedup pass (deleted entries were not
-  renumbered) — check the highest number, not the file's entry count.
+  ~790, `big-bang-theory` through ~711). Note IDs have gaps from the
+  2026-07-31 dedup pass (deleted entries were not renumbered) — check the
+  highest number, not the file's entry count.
+- **`general`-derived categories have two ID namespaces per file, and
+  that's fine.** The 2026-08-01 split (see "General Knowledge split into
+  topic categories" below) moved existing `general-NNNN` questions into
+  new category files (`history.json`, `geography.json`, etc.) *without*
+  renumbering them — those entries kept their original `general-NNNN` id
+  even though `category` now says `history`/`geography`/etc. `id` prefix
+  matching `category` is a convention, not something `validate.js`
+  enforces (`ID_PATTERN` only requires `<letters/digits/hyphens>-<3+
+  digits>`, globally unique). **New** questions drafted for one of these
+  categories get a fresh, category-prefixed sequence starting at
+  `<category>-001` — don't continue the old `general-` numbering, and
+  don't be confused by `analyze.js`'s `nextId()` suggesting something odd
+  for these files (it just takes the max trailing digits in the file
+  regardless of prefix, so a file mixing `general-1867` and
+  `history-004` will suggest `history-1868` — ignore the number, keep the
+  category prefix and pick the next number after the highest ID that
+  *already* uses that prefix in that file).
 - Warnings from `validate` about near-duplicate questions are judgment
   calls, not automatic failures — only fix ones that are actually the
   same question reworded.
@@ -79,6 +96,118 @@ merged as `general-2881`–`2970`): 10 of the 100 drafted questions collided
 with the existing corpus, all common science/geography chestnuts. See
 "Angles already covered" in `DRAFTING-PROMPT-TEMPLATE.md` for the current
 list per category.
+
+## General Knowledge split into topic categories (2026-08-01)
+
+`general` (2825 questions) was split into 12 topic categories plus a
+smaller `general` catch-all, so players can pick specific topics and so
+drafting can be directed at whichever category is thinnest, rather than
+everything living in one undifferentiated 2825-question bucket. New
+categories (all in `data/categories.json`, files under
+`data/questions/`): `history` (336), `geography` (307),
+`science-technology` (464), `animals-nature` (170), `space-astronomy`
+(163), `arts-literature` (249), `film-tv` (220), `music` (174), `sports`
+(214), `food-drink` (148), `mythology-religion` (181), `world-cultures`
+(143). `general` kept 56 questions that didn't fit any specific bucket
+well (idioms, economics terms, legal principles, etc.) — it's a
+deliberate catch-all, not a bug; keep using it for genuine misfits rather
+than forcing a bad fit elsewhere.
+
+**How the split was done:** every question's `question`+`answer` (not
+`id`) was classified by parallel fresh agents (no shared context, so no
+convergent bias toward any one category) against a fixed 13-slug list
+with explicit tie-break rules (planets → `space-astronomy` not
+`science-technology`; human anatomy → `science-technology` not
+`animals-nature`; mythological figures → `mythology-religion` even in an
+ancient-civilization framing). Merge validated 100% coverage (every
+original id mapped exactly once, no invalid category values) before any
+files were written — see "IDs must be unique" above for why ids were
+**not** renumbered in the process. The 8 batch agents ran independently
+(no shared context, no cross-batch calibration) against contiguous id
+ranges, so per-batch category distributions vary with whatever content
+happened to cluster in that slice — e.g. one batch assigned zero
+questions to `history` while another assigned 69. Spot-checked via
+keyword grep (war/battle/king/queen/ancient/century/etc.) and confirmed
+genuine (that slice really had no history-topic questions, not a
+misrouted batch) rather than reviewing all 2825 by hand — if a future
+session wants higher confidence, grepping each category file for
+keywords strongly associated with a *different* category is the cheap
+way to spot-check further.
+
+**`findAnswerDuplicates` in `validate.js` gained a `dupeGroup` concept**
+because of this split: that check skips same-answer pairs in different
+categories (a cross-category match is usually coincidence — see the
+function's own comment), which would have silently gotten *weaker* the
+moment a same-answer pair that used to both be `general` ended up split
+across e.g. `history` and `geography`. Every `general`-derived category
+in `categories.json` carries `"dupeGroup": "general"`; the check compares
+`dupeGroup ?? category` instead of raw `category`, so the whole former-
+`general` bucket is still checked against itself as one group.
+Verified empirically: baselining the pre-split `general.json` against the
+pre-fix logic and the post-split files against the fixed logic both
+produce zero same-answer warnings (the housekeeping backlog was already
+fully resolved — see below), and a synthetic cross-category pair
+(same answer, ~0.60 word-overlap question text, one question filed under
+`history` and one under `geography`) correctly triggers the warning
+post-fix, confirming the mechanism works rather than just silently
+finding nothing.
+
+**Incidental finding, not yet fixed:** while constructing that synthetic
+test, `Ferdinand Magellan` turned up as the answer to *four* essentially-
+identical circumnavigation questions already in the corpus
+(`general-465`, `general-750`, `general-1038`, `general-1882` — all still
+filed under the `general` catch-all). None of the four pairwise
+combinations reach the 0.70 near-duplicate text-overlap threshold
+(highest is 0.60), and `findAnswerDuplicates`'s `MAX_ANSWER_GROUP_SIZE =
+2` cap (see `validate.js`) means a group of 4 sharing this answer gets
+skipped entirely as "probably a generic reused entity" — the same
+heuristic that correctly ignores things like Shakespeare or Thomas
+Jefferson here incorrectly waves through a genuinely narrow, specific
+answer that just happens to have been drafted four separate times across
+different memory-drafting sessions. This predates the 2026-08-01 split
+(confirmed present in the original `general.json`) and is a real gap in
+the group-size-cap heuristic, not something the split caused. Flagging
+as backlog for a future dedicated audit — the fix is a human/AI judgment
+call (which of the four is best-worded) like every prior housekeeping
+pass, not a mechanical one.
+
+**`topics.json`'s old 12-bucket `general` subject list was removed** — it
+was literally these 12 new categories under their old keyword-alias
+form, so it's now redundant with the categories themselves; per-category
+question counts from `validate.js`/`analyze.js` give the same
+"where's it thin" signal the old list did. None of the 12 new categories
+has a `topics.json` entry of their own yet (`analyze.js`/`find-gaps.js`
+will report "no topic list configured" for them) — adding finer-grained
+per-category subject lists (the way `friends`/`big-bang-theory` track
+individual characters) is a reasonable future enhancement, not done here.
+
+**App changes to support this:** the category picker is now multi-select
+(tap to toggle, "Play Selected" starts a round mixing all selected
+categories' pools) instead of one-tap-per-category, since most of the
+13 categories are individually much smaller than the old 2825-question
+`general` was. Stats gained a `byCategory` bucket
+(`{totalQuestions, totalCorrect}` per category id) recorded per-question
+from `state.answers[].category` — accurate even in a mixed round, since
+each question keeps its own real category regardless of which
+categories were selected to build the round. The "seen" (repeat-
+avoidance) `localStorage` keys stayed per-category
+(`offline-trivia:seen:<categoryId>`). Because ids were **not**
+renumbered, `offline-trivia:seen:general` on a returning player's device
+is still correct and still read — it still matches the 56 questions that
+stayed in the `general` catch-all. The 12 *new* category ids
+(`offline-trivia:seen:history`, etc.) simply don't exist yet on a
+returning device, so those categories start with a clean slate rather
+than inheriting any prior seen-state from when their questions were part
+of `general` — a one-time, harmless reset of repeat-avoidance for
+whichever of those 336/307/etc. questions a given player had already
+seen under the old single `general` category.
+
+**`questions_inbox/` batches were left alone** (6 pending drafted
+batches, ~600 questions, all pre-split `general`-style content) — the
+split changes what merging one of those looks like going forward: assign
+each drafted question one of the 13 category ids at merge time (same
+judgment call the classification agents made) instead of defaulting
+everything to `general`.
 
 ## Lessons ported from the Disney Trivia App sibling project
 

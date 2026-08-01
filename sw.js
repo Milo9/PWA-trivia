@@ -1,23 +1,35 @@
 // Stamped by scripts/stamp-version.js — do not edit by hand.
 // Changes automatically whenever app shell or question data changes,
 // which forces old cached data to be replaced next time we're online.
-const CACHE_VERSION = "v1-9349be0d";
+const CACHE_VERSION = "v1-ed8b9db4";
 
 // Per-file content hashes for everything CACHE_VERSION covers. Lets
 // precache() tell which files actually changed and copy the rest forward
 // from the previous cache instead of re-downloading all of it on every
 // ship. Files not listed here (icons, "./") are always re-fetched.
 const FILE_HASHES = {
-  "index.html": "689c6268c17851ed",
-  "styles.css": "ae03e196501220e1",
-  "app.js": "25716b777f484ca1",
+  "index.html": "7de415efe0aa24ae",
+  "styles.css": "183f207d3aed9e35",
+  "app.js": "b508dd413f737cdc",
   "manifest.webmanifest": "de76ad5da1344100",
-  "version.json": "3fa55b5bd7fa5ebf",
-  "data/categories.json": "736b55dfa17234ec",
+  "version.json": "df883faed905d1c3",
+  "data/categories.json": "76d89a23cf2be2ef",
+  "data/questions/animals-nature.json": "0624d853c1959803",
+  "data/questions/arts-literature.json": "a6bca47a13305bd1",
   "data/questions/big-bang-theory.json": "8e2fe2c9d2bc3649",
+  "data/questions/film-tv.json": "d68e65aa0428d3f3",
+  "data/questions/food-drink.json": "d58b2efdb80152fb",
   "data/questions/friends.json": "047e3ec40b64353c",
-  "data/questions/general.json": "90d029f58141329e",
-  "data/topics.json": "4ad7aacab6096e76"
+  "data/questions/general.json": "6438bc24475eea01",
+  "data/questions/geography.json": "a6c875297af21cd6",
+  "data/questions/history.json": "924de9e7c29a2b29",
+  "data/questions/music.json": "e8a75d3728366ecf",
+  "data/questions/mythology-religion.json": "6d3e2bedc50bfd4b",
+  "data/questions/science-technology.json": "a10b55d6d1150b09",
+  "data/questions/space-astronomy.json": "8e2f756871e8ed5a",
+  "data/questions/sports.json": "a36b50d87f610059",
+  "data/questions/world-cultures.json": "fc3f87960095c25f",
+  "data/topics.json": "00c6219fb318d9de"
 };
 
 const CACHE_NAME = `trivia-cache-${CACHE_VERSION}`;

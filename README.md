@@ -11,6 +11,17 @@ required.
   on install, so the very first offline session already has everything.
 - Categories and questions live as flat JSON under `data/`, kept separate
   by design so new shows/topics can be added without touching app code.
+  `general` (formerly one large mixed-topic bucket) was split 2026-08-01
+  into 12 topic categories (history, geography, science-technology,
+  animals-nature, space-astronomy, arts-literature, film-tv, music,
+  sports, food-drink, mythology-religion, world-cultures) plus a small
+  `general` catch-all for genuine misfits — see `data/categories.json`
+  for the full current list and CLAUDE.md for how/why.
+- The category picker on the home screen is multi-select: tap to toggle
+  categories, then "Play Selected" starts a round pulling from all of
+  them (per-question repeat-avoidance and stats still track each
+  question's own category, so mixing categories in a round doesn't lose
+  that).
 
 ## Project layout
 
@@ -91,7 +102,11 @@ tokens and re-auditing shouldn't:
    calls like the ones from `validate`.
 3. Merge the draft into `data/questions/<category>.json`, assigning each
    entry a sequential `id` starting one past the current highest number in
-   that category, and setting `category` to match.
+   that category, and setting `category` to match. For a category that was
+   split out of `general` on 2026-08-01 (see CLAUDE.md), the file may
+   contain older entries still numbered `general-NNNN` from before the
+   split — start new ids at `<category>-001` (or one past the highest
+   existing `<category>-NNNN`), not the old `general-` numbering.
 4. Run the full audit script — no API calls, so re-running it is free:
    ```
    npm run validate
@@ -136,8 +151,16 @@ questions happen to phrase it. Grep the actual corpus for the topic before
 assuming it's open. `find-gaps.js` in particular can only surface subjects
 someone already curated into `topics.json` — for `friends`/`big-bang-theory`
 that list is just the main cast, who obviously already have plenty of
-correct-answer questions, so it will usually report nothing there. It's
-most useful for a category like `general` with broader subject buckets.
+correct-answer questions, so it will usually report nothing there.
+
+The 12 categories split out of `general` on 2026-08-01 (history, geography,
+science-technology, etc.) don't have `topics.json` entries yet, so
+`analyze.js`/`find-gaps.js` will just report "no topic list configured" for
+each — the category-level question counts (`npm run analyze`'s header line,
+or `data/categories.json`) are the current signal for which of the 12 is
+thinnest overall. Adding a finer-grained subject list per category, the way
+`friends`/`big-bang-theory` track individual characters, would sharpen this
+further but hasn't been done.
 
 ### Sourcing facts for a heavily-populated category
 

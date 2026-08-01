@@ -1,0 +1,2784 @@
+[
+  {
+    "id": "general-261",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Which sport is played by dribbling and shooting a ball through a raised hoop?",
+    "options": [
+      "Basketball",
+      "Handball",
+      "Netball",
+      "Volleyball"
+    ],
+    "answer": "Basketball"
+  },
+  {
+    "id": "general-262",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "How many players from each team are on the field in a standard soccer (association football) match?",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "9"
+    ],
+    "answer": "11"
+  },
+  {
+    "id": "general-263",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "The modern Summer Olympic Games are held every how many years?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "answer": "Four"
+  },
+  {
+    "id": "general-264",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Which sport is played at the Wimbledon Championships?",
+    "options": [
+      "Badminton",
+      "Squash",
+      "Table tennis",
+      "Tennis"
+    ],
+    "answer": "Tennis"
+  },
+  {
+    "id": "general-265",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "In which country did modern association football (soccer) originate?",
+    "options": [
+      "England",
+      "Italy",
+      "Brazil",
+      "Scotland"
+    ],
+    "answer": "England"
+  },
+  {
+    "id": "general-266",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Basketball legend Michael Jordan played the majority of his NBA career with which team?",
+    "options": [
+      "Los Angeles Lakers",
+      "Chicago Bulls",
+      "Boston Celtics",
+      "New York Knicks"
+    ],
+    "answer": "Chicago Bulls"
+  },
+  {
+    "id": "general-267",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "A professional boxing championship match traditionally consists of how many rounds?",
+    "options": [
+      "10",
+      "15",
+      "12",
+      "8"
+    ],
+    "answer": "12"
+  },
+  {
+    "id": "general-268",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "The first modern Olympic Games in 1896 were held in which city?",
+    "options": [
+      "Paris",
+      "Rome",
+      "London",
+      "Athens"
+    ],
+    "answer": "Athens"
+  },
+  {
+    "id": "general-269",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which trophy is awarded annually to the champion of the NHL playoffs?",
+    "options": [
+      "Stanley Cup",
+      "Vince Lombardi Trophy",
+      "Larry O'Brien Trophy",
+      "Commissioner's Trophy"
+    ],
+    "answer": "Stanley Cup"
+  },
+  {
+    "id": "general-271",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which Grand Slam tennis tournament is played on red clay courts?",
+    "options": [
+      "Wimbledon",
+      "US Open",
+      "French Open",
+      "Australian Open"
+    ],
+    "answer": "French Open"
+  },
+  {
+    "id": "general-272",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "The Masters, one of golf's four major championships, is held annually at which course?",
+    "options": [
+      "Pebble Beach",
+      "St Andrews",
+      "Pinehurst No. 2",
+      "Augusta National"
+    ],
+    "answer": "Augusta National"
+  },
+  {
+    "id": "general-273",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Muhammad Ali became a three-time world heavyweight champion in which sport?",
+    "options": [
+      "Boxing",
+      "Wrestling",
+      "Mixed martial arts",
+      "Fencing"
+    ],
+    "answer": "Boxing"
+  },
+  {
+    "id": "general-274",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "What is the championship game of the NFL called?",
+    "options": [
+      "World Series",
+      "Super Bowl",
+      "Grey Cup",
+      "Championship Bowl"
+    ],
+    "answer": "Super Bowl"
+  },
+  {
+    "id": "general-275",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "The scoring terms \"love\" and \"deuce\" are used in which sport?",
+    "options": [
+      "Badminton",
+      "Squash",
+      "Tennis",
+      "Table tennis"
+    ],
+    "answer": "Tennis"
+  },
+  {
+    "id": "general-276",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which multi-stage cycling race, held annually in France, is one of the sport's most prestigious events?",
+    "options": [
+      "Giro d'Italia",
+      "Vuelta a España",
+      "Paris–Roubaix",
+      "Tour de France"
+    ],
+    "answer": "Tour de France"
+  },
+  {
+    "id": "general-278",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "Which swimmer won a record eight gold medals at a single Olympic Games (Beijing 2008)?",
+    "options": [
+      "Mark Spitz",
+      "Michael Phelps",
+      "Ryan Lochte",
+      "Ian Thorpe"
+    ],
+    "answer": "Michael Phelps"
+  },
+  {
+    "id": "general-279",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "Volleyball was originally invented under what name?",
+    "options": [
+      "Netball",
+      "Faustball",
+      "Mintonette",
+      "Pushball"
+    ],
+    "answer": "Mintonette"
+  },
+  {
+    "id": "general-280",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "In what year did Jesse Owens win four gold medals at the Berlin Olympics?",
+    "options": [
+      "1932",
+      "1928",
+      "1948",
+      "1936"
+    ],
+    "answer": "1936"
+  },
+  {
+    "id": "general-331",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "Which country has won the most gold medals in Winter Olympics history, as of the 2022 Beijing Games?",
+    "options": [
+      "United States",
+      "Germany",
+      "Norway",
+      "Russia"
+    ],
+    "answer": "Norway"
+  },
+  {
+    "id": "general-332",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "How many players are on a standard basketball team on the court at one time?",
+    "options": [
+      "6",
+      "7",
+      "4",
+      "5"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": "general-333",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "In which sport would you perform a 'slam dunk'?",
+    "options": [
+      "Basketball",
+      "Volleyball",
+      "Handball",
+      "Netball"
+    ],
+    "answer": "Basketball"
+  },
+  {
+    "id": "general-334",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "Who holds the record for most career home runs in Major League Baseball, hitting 762?",
+    "options": [
+      "Babe Ruth",
+      "Barry Bonds",
+      "Hank Aaron",
+      "Alex Rodriguez"
+    ],
+    "answer": "Barry Bonds"
+  },
+  {
+    "id": "general-335",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Which country hosted the 2016 Summer Olympics?",
+    "options": [
+      "China",
+      "United Kingdom",
+      "Brazil",
+      "Greece"
+    ],
+    "answer": "Brazil"
+  },
+  {
+    "id": "general-337",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "What is a perfect score in a single game of ten-pin bowling?",
+    "options": [
+      "300",
+      "200",
+      "250",
+      "350"
+    ],
+    "answer": "300"
+  },
+  {
+    "id": "general-338",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "In golf, what term describes scoring one stroke under par on a hole?",
+    "options": [
+      "Eagle",
+      "Birdie",
+      "Bogey",
+      "Albatross"
+    ],
+    "answer": "Birdie"
+  },
+  {
+    "id": "general-339",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "Which horse won the American Triple Crown in 2015, ending a 37-year drought?",
+    "options": [
+      "Justify",
+      "Secretariat",
+      "American Pharoah",
+      "Seattle Slew"
+    ],
+    "answer": "American Pharoah"
+  },
+  {
+    "id": "general-340",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "How many rings are on the Olympic flag?",
+    "options": [
+      "6",
+      "4",
+      "7",
+      "5"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": "general-341",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "Which country won the first-ever Cricket World Cup in 1975?",
+    "options": [
+      "West Indies",
+      "Australia",
+      "England",
+      "India"
+    ],
+    "answer": "West Indies"
+  },
+  {
+    "id": "general-342",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "In American football, how many points is a touchdown worth, before the extra point or conversion?",
+    "options": [
+      "7",
+      "6",
+      "3",
+      "2"
+    ],
+    "answer": "6"
+  },
+  {
+    "id": "general-343",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which cyclist won a record seven consecutive Tour de France titles from 1999 to 2005, later stripped for doping?",
+    "options": [
+      "Miguel Indurain",
+      "Eddy Merckx",
+      "Lance Armstrong",
+      "Bernard Hinault"
+    ],
+    "answer": "Lance Armstrong"
+  },
+  {
+    "id": "general-344",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "What is the term for a score of three under par on a single golf hole?",
+    "options": [
+      "Eagle",
+      "Birdie",
+      "Bogey",
+      "Albatross"
+    ],
+    "answer": "Albatross"
+  },
+  {
+    "id": "general-345",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Which sport is known as 'the beautiful game'?",
+    "options": [
+      "Soccer (association football)",
+      "Basketball",
+      "Rugby",
+      "Cricket"
+    ],
+    "answer": "Soccer (association football)"
+  },
+  {
+    "id": "general-346",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In which sport do competitors use a 'foil', 'épée', or 'sabre'?",
+    "options": [
+      "Archery",
+      "Fencing",
+      "Javelin",
+      "Pole vault"
+    ],
+    "answer": "Fencing"
+  },
+  {
+    "id": "general-347",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "Which country has won the most Rugby World Cup titles, as of 2023?",
+    "options": [
+      "New Zealand",
+      "Australia",
+      "South Africa",
+      "England"
+    ],
+    "answer": "South Africa"
+  },
+  {
+    "id": "general-348",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "What term is used for a score of zero in tennis?",
+    "options": [
+      "Nil",
+      "Zero",
+      "Deuce",
+      "Love"
+    ],
+    "answer": "Love"
+  },
+  {
+    "id": "general-349",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which NBA player became the league's all-time leading scorer, surpassing Kareem Abdul-Jabbar in 2023?",
+    "options": [
+      "LeBron James",
+      "Kobe Bryant",
+      "Michael Jordan",
+      "Kareem Abdul-Jabbar"
+    ],
+    "answer": "LeBron James"
+  },
+  {
+    "id": "general-350",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "How many holes are played in a standard round of golf?",
+    "options": [
+      "9",
+      "18",
+      "12",
+      "24"
+    ],
+    "answer": "18"
+  },
+  {
+    "id": "general-351",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which country won the UEFA European Football Championship (Euro), played in 2021 due to the COVID-19 pandemic?",
+    "options": [
+      "England",
+      "Spain",
+      "Italy",
+      "France"
+    ],
+    "answer": "Italy"
+  },
+  {
+    "id": "general-352",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In competitive swimming, which of the four main strokes is considered the fastest?",
+    "options": [
+      "Backstroke",
+      "Breaststroke",
+      "Butterfly",
+      "Freestyle (front crawl)"
+    ],
+    "answer": "Freestyle (front crawl)"
+  },
+  {
+    "id": "general-353",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "Who was the first gymnast to score a perfect 10 at the Olympics, at the 1976 Montreal Games?",
+    "options": [
+      "Nadia Comăneci",
+      "Olga Korbut",
+      "Simone Biles",
+      "Mary Lou Retton"
+    ],
+    "answer": "Nadia Comăneci"
+  },
+  {
+    "id": "general-354",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "How many players are on a standard soccer team on the field, including the goalkeeper?",
+    "options": [
+      "10",
+      "11",
+      "9",
+      "12"
+    ],
+    "answer": "11"
+  },
+  {
+    "id": "general-355",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which boxer was known as 'The Greatest' and famously beat George Foreman in the 1974 'Rumble in the Jungle'?",
+    "options": [
+      "Joe Frazier",
+      "Sonny Liston",
+      "Muhammad Ali",
+      "Mike Tyson"
+    ],
+    "answer": "Muhammad Ali"
+  },
+  {
+    "id": "general-521",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "How many players are on a standard soccer (association football) team on the field at one time?",
+    "options": [
+      "11",
+      "9",
+      "10",
+      "12"
+    ],
+    "answer": "11"
+  },
+  {
+    "id": "general-522",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In tennis, what is the term for a tied score of 40-40 within a game?",
+    "options": [
+      "Advantage",
+      "Deuce",
+      "Match point",
+      "Break point"
+    ],
+    "answer": "Deuce"
+  },
+  {
+    "id": "general-523",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "Which country has won the most FIFA World Cup titles as of 2022?",
+    "options": [
+      "Germany",
+      "Italy",
+      "Brazil",
+      "Argentina"
+    ],
+    "answer": "Brazil"
+  },
+  {
+    "id": "general-524",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "In basketball, how many points is a standard field goal made from inside the three-point line worth?",
+    "options": [
+      "1",
+      "3",
+      "4",
+      "2"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": "general-525",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which is the only Grand Slam tennis tournament played on grass courts?",
+    "options": [
+      "Wimbledon",
+      "US Open",
+      "French Open",
+      "Australian Open"
+    ],
+    "answer": "Wimbledon"
+  },
+  {
+    "id": "general-526",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "In which sport would a player perform a 'chukka'?",
+    "options": [
+      "Cricket",
+      "Polo",
+      "Rugby",
+      "Fencing"
+    ],
+    "answer": "Polo"
+  },
+  {
+    "id": "general-527",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "What is the term for the small peg used to elevate a golf ball for the first shot on each hole?",
+    "options": [
+      "Marker",
+      "Divot",
+      "Tee",
+      "Flag"
+    ],
+    "answer": "Tee"
+  },
+  {
+    "id": "general-528",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which country hosted the 2020 Summer Olympics, held in 2021 due to the COVID-19 pandemic?",
+    "options": [
+      "South Korea",
+      "China",
+      "United Kingdom",
+      "Japan"
+    ],
+    "answer": "Japan"
+  },
+  {
+    "id": "general-529",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "In cricket, what term describes a bowler taking three wickets with three consecutive deliveries?",
+    "options": [
+      "Hat-trick",
+      "Century",
+      "Duck",
+      "Maiden"
+    ],
+    "answer": "Hat-trick"
+  },
+  {
+    "id": "general-530",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "In volleyball, how many players from each team are on the court at one time?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "4"
+    ],
+    "answer": "6"
+  },
+  {
+    "id": "general-531",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "What is the term for scoring three goals in a single soccer match by one player?",
+    "options": [
+      "Brace",
+      "Treble",
+      "Hat-trick",
+      "Triple"
+    ],
+    "answer": "Hat-trick"
+  },
+  {
+    "id": "general-532",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "Which boxer was known as 'The Greatest' and famously predicted the round in which he would knock out opponents?",
+    "options": [
+      "Mike Tyson",
+      "Joe Frazier",
+      "George Foreman",
+      "Muhammad Ali"
+    ],
+    "answer": "Muhammad Ali"
+  },
+  {
+    "id": "general-533",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "In American football, how many points is a successful field goal worth?",
+    "options": [
+      "3",
+      "2",
+      "1",
+      "6"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": "general-534",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which country is credited with inventing the sport of table tennis in the Victorian era?",
+    "options": [
+      "China",
+      "England",
+      "Japan",
+      "United States"
+    ],
+    "answer": "England"
+  },
+  {
+    "id": "general-535",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "In Formula 1, what term describes the fastest lap of qualifying that determines starting grid order?",
+    "options": [
+      "Grid slot",
+      "Fast lap",
+      "Pole position",
+      "Podium"
+    ],
+    "answer": "Pole position"
+  },
+  {
+    "id": "general-536",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "What do the five interlocking rings on the Olympic flag traditionally represent?",
+    "options": [
+      "The five founding member nations",
+      "The five ancient Olympic events",
+      "The five host cities of the first Games",
+      "The five inhabited continents"
+    ],
+    "answer": "The five inhabited continents"
+  },
+  {
+    "id": "general-537",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "How many teams competed in the first FIFA World Cup, held in 1930?",
+    "options": [
+      "13",
+      "16",
+      "24",
+      "8"
+    ],
+    "answer": "13"
+  },
+  {
+    "id": "general-538",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "In cricket, what is the term for a delivery bowled with disguised spin that turns unexpectedly, popularized by Shane Warne?",
+    "options": [
+      "Yorker",
+      "Googly",
+      "Bouncer",
+      "Full toss"
+    ],
+    "answer": "Googly"
+  },
+  {
+    "id": "general-540",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "Which horse race, held annually at Churchill Downs, is known as 'The Run for the Roses'?",
+    "options": [
+      "Preakness Stakes",
+      "Belmont Stakes",
+      "Grand National",
+      "Kentucky Derby"
+    ],
+    "answer": "Kentucky Derby"
+  },
+  {
+    "id": "general-751",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "In which sport is the term 'ippon' used to signify a full point winning move?",
+    "options": [
+      "Judo",
+      "Karate",
+      "Taekwondo",
+      "Aikido"
+    ],
+    "answer": "Judo"
+  },
+  {
+    "id": "general-752",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Which country has won the most Olympic gold medals overall in history?",
+    "options": [
+      "Soviet Union",
+      "United States",
+      "China",
+      "Great Britain"
+    ],
+    "answer": "United States"
+  },
+  {
+    "id": "general-753",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "What is the maximum score possible in ten-pin bowling with all strikes?",
+    "options": [
+      "200",
+      "250",
+      "300",
+      "360"
+    ],
+    "answer": "300"
+  },
+  {
+    "id": "general-754",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "Which country is credited with codifying and popularizing badminton in its modern form during the 19th century?",
+    "options": [
+      "India",
+      "China",
+      "Malaysia",
+      "England"
+    ],
+    "answer": "England"
+  },
+  {
+    "id": "general-755",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In boxing, how many rounds are in a standard professional championship fight?",
+    "options": [
+      "12",
+      "10",
+      "15",
+      "8"
+    ],
+    "answer": "12"
+  },
+  {
+    "id": "general-756",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Which swimming stroke is typically the fastest of the four competitive strokes?",
+    "options": [
+      "Butterfly",
+      "Freestyle",
+      "Backstroke",
+      "Breaststroke"
+    ],
+    "answer": "Freestyle"
+  },
+  {
+    "id": "general-757",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "What score did Nadia Comăneci famously achieve at the 1976 Olympics, the first perfect mark in gymnastics history?",
+    "options": [
+      "A 9.9",
+      "A perfect 100",
+      "A 10.0",
+      "A 9.5"
+    ],
+    "answer": "A 10.0"
+  },
+  {
+    "id": "general-758",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Which country is credited with inventing the modern game of golf in the 15th century?",
+    "options": [
+      "England",
+      "Ireland",
+      "Netherlands",
+      "Scotland"
+    ],
+    "answer": "Scotland"
+  },
+  {
+    "id": "general-759",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "In ice hockey, how many players, including the goalie, does each team have on the ice at one time?",
+    "options": [
+      "6",
+      "5",
+      "7",
+      "4"
+    ],
+    "answer": "6"
+  },
+  {
+    "id": "general-760",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which country has won the most men's Cricket World Cup titles in ODI cricket?",
+    "options": [
+      "India",
+      "Australia",
+      "West Indies",
+      "England"
+    ],
+    "answer": "Australia"
+  },
+  {
+    "id": "general-761",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "What is the term in baseball for a home run hit with the bases loaded, scoring four runs at once?",
+    "options": [
+      "Triple play",
+      "Walk-off",
+      "Grand slam",
+      "Cycle"
+    ],
+    "answer": "Grand slam"
+  },
+  {
+    "id": "general-762",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Which martial art, originating in Brazil, focuses on ground fighting and submission holds?",
+    "options": [
+      "Capoeira",
+      "Muay Thai",
+      "Krav Maga",
+      "Brazilian Jiu-Jitsu"
+    ],
+    "answer": "Brazilian Jiu-Jitsu"
+  },
+  {
+    "id": "general-763",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In which sport do athletes compete using a curling stone and brooms to sweep the ice?",
+    "options": [
+      "Curling",
+      "Bobsled",
+      "Ice hockey",
+      "Skeleton"
+    ],
+    "answer": "Curling"
+  },
+  {
+    "id": "general-764",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "How many players are on a rugby union team on the field at one time?",
+    "options": [
+      "13",
+      "15",
+      "11",
+      "7"
+    ],
+    "answer": "15"
+  },
+  {
+    "id": "general-765",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "Which country hosted the first-ever Winter Olympic Games, in Chamonix in 1924?",
+    "options": [
+      "Switzerland",
+      "Austria",
+      "France",
+      "Norway"
+    ],
+    "answer": "France"
+  },
+  {
+    "id": "general-766",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "What is the name of the trophy awarded to the winner of the NHL's Stanley Cup playoffs?",
+    "options": [
+      "The Vince Lombardi Trophy",
+      "The Commissioner's Trophy",
+      "The Larry O'Brien Trophy",
+      "The Stanley Cup"
+    ],
+    "answer": "The Stanley Cup"
+  },
+  {
+    "id": "general-767",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which Grand Slam tennis tournament is played at the USTA Billie Jean King National Tennis Center?",
+    "options": [
+      "US Open",
+      "Wimbledon",
+      "French Open",
+      "Australian Open"
+    ],
+    "answer": "US Open"
+  },
+  {
+    "id": "general-768",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Which athlete set the current men's 100 meters world record of 9.58 seconds in 2009?",
+    "options": [
+      "Tyson Gay",
+      "Usain Bolt",
+      "Justin Gatlin",
+      "Yohan Blake"
+    ],
+    "answer": "Usain Bolt"
+  },
+  {
+    "id": "general-769",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "What is the standard length, in meters, of an Olympic swimming pool used in competition?",
+    "options": [
+      "25",
+      "100",
+      "50",
+      "33"
+    ],
+    "answer": "50"
+  },
+  {
+    "id": "general-770",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Which sport is played at the Ryder Cup, a biennial competition between teams from Europe and the United States?",
+    "options": [
+      "Tennis",
+      "Cricket",
+      "Sailing",
+      "Golf"
+    ],
+    "answer": "Golf"
+  },
+  {
+    "id": "general-771",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In golf, what is the informal name for scoring a hole-in-one on a par-3 hole?",
+    "options": [
+      "An 'ace'",
+      "An 'eagle'",
+      "A 'birdie'",
+      "A 'condor'"
+    ],
+    "answer": "An 'ace'"
+  },
+  {
+    "id": "general-772",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "Which country's national cricket team is nicknamed 'the Baggy Greens'?",
+    "options": [
+      "England",
+      "Australia",
+      "South Africa",
+      "New Zealand"
+    ],
+    "answer": "Australia"
+  },
+  {
+    "id": "general-773",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Which sport is nicknamed 'the beautiful game', a phrase widely associated with Brazilian footballer Pelé?",
+    "options": [
+      "Basketball",
+      "Rugby",
+      "Football (soccer)",
+      "Cricket"
+    ],
+    "answer": "Football (soccer)"
+  },
+  {
+    "id": "general-774",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "What is the term for when a soccer player is dismissed from a match after receiving a red card?",
+    "options": [
+      "Benched",
+      "Suspended",
+      "Cautioned",
+      "Sent off"
+    ],
+    "answer": "Sent off"
+  },
+  {
+    "id": "general-1181",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "How many players from each team are on the court in a standard basketball game?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "4"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": "general-1182",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "In which sport is the playing area called a 'pitch' in most of the world outside North America?",
+    "options": [
+      "Soccer",
+      "Basketball",
+      "Baseball",
+      "Tennis"
+    ],
+    "answer": "Soccer"
+  },
+  {
+    "id": "general-1183",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "How often are the Summer Olympic Games held?",
+    "options": [
+      "Every 4 years",
+      "Every 2 years",
+      "Every 3 years",
+      "Every 5 years"
+    ],
+    "answer": "Every 4 years"
+  },
+  {
+    "id": "general-1184",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "Which player has scored the most goals in FIFA World Cup history across all tournaments?",
+    "options": [
+      "Miroslav Klose",
+      "Ronaldo Nazario",
+      "Pele",
+      "Lionel Messi"
+    ],
+    "answer": "Miroslav Klose"
+  },
+  {
+    "id": "general-1185",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In tennis, what is the scoring term for the point immediately after deuce, when a player leads by one point?",
+    "options": [
+      "Advantage",
+      "Deuce",
+      "Match point",
+      "Break point"
+    ],
+    "answer": "Advantage"
+  },
+  {
+    "id": "general-1186",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which sport is known as 'the sweet science'?",
+    "options": [
+      "Boxing",
+      "Fencing",
+      "Wrestling",
+      "Judo"
+    ],
+    "answer": "Boxing"
+  },
+  {
+    "id": "general-1187",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "How many players make up a standard cricket team?",
+    "options": [
+      "11",
+      "9",
+      "10",
+      "12"
+    ],
+    "answer": "11"
+  },
+  {
+    "id": "general-1188",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which Grand Slam tennis tournament is played first each calendar year?",
+    "options": [
+      "Australian Open",
+      "French Open",
+      "Wimbledon",
+      "US Open"
+    ],
+    "answer": "Australian Open"
+  },
+  {
+    "id": "general-1189",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In golf, what term describes a score of one over par on a hole?",
+    "options": [
+      "Bogey",
+      "Birdie",
+      "Eagle",
+      "Par"
+    ],
+    "answer": "Bogey"
+  },
+  {
+    "id": "general-1190",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Which country hosted the 2020 Summer Olympics, actually held in 2021?",
+    "options": [
+      "Japan",
+      "Brazil",
+      "United Kingdom",
+      "France"
+    ],
+    "answer": "Japan"
+  },
+  {
+    "id": "general-1191",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "What is the maximum score possible in ten-pin bowling for a single game?",
+    "options": [
+      "300",
+      "270",
+      "250",
+      "200"
+    ],
+    "answer": "300"
+  },
+  {
+    "id": "general-1192",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which martial art originated in Japan and involves throws and joint locks, and translates roughly to 'gentle way'?",
+    "options": [
+      "Judo",
+      "Karate",
+      "Taekwondo",
+      "Kung Fu"
+    ],
+    "answer": "Judo"
+  },
+  {
+    "id": "general-1193",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "In American football, how many points is a touchdown worth?",
+    "options": [
+      "6",
+      "7",
+      "3",
+      "2"
+    ],
+    "answer": "6"
+  },
+  {
+    "id": "general-1195",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "What is the national sport of Japan?",
+    "options": [
+      "Sumo wrestling",
+      "Judo",
+      "Baseball",
+      "Karate"
+    ],
+    "answer": "Sumo wrestling"
+  },
+  {
+    "id": "general-1196",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "In which sport do competitors use a shuttlecock?",
+    "options": [
+      "Badminton",
+      "Tennis",
+      "Squash",
+      "Table tennis"
+    ],
+    "answer": "Badminton"
+  },
+  {
+    "id": "general-1286",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which country invented the sport of golf?",
+    "options": [
+      "Scotland",
+      "England",
+      "Ireland",
+      "Netherlands"
+    ],
+    "answer": "Scotland"
+  },
+  {
+    "id": "general-1294",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "Which country is credited with inventing the game of table tennis (ping pong)?",
+    "options": [
+      "England",
+      "China",
+      "Japan",
+      "United States"
+    ],
+    "answer": "England"
+  },
+  {
+    "id": "general-1296",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Which sport uses terms such as 'love', 'deuce', and 'ace'?",
+    "options": [
+      "Tennis",
+      "Badminton",
+      "Squash",
+      "Table tennis"
+    ],
+    "answer": "Tennis"
+  },
+  {
+    "id": "general-1366",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which country invented the sport of cricket?",
+    "options": [
+      "England",
+      "Australia",
+      "India",
+      "South Africa"
+    ],
+    "answer": "England"
+  },
+  {
+    "id": "general-1367",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In which sport does a competitor use a 'foil', 'epee', or 'sabre'?",
+    "options": [
+      "Fencing",
+      "Archery",
+      "Javelin",
+      "Shooting"
+    ],
+    "answer": "Fencing"
+  },
+  {
+    "id": "general-1368",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "In which sport is the Stanley Cup awarded?",
+    "options": [
+      "Ice hockey",
+      "Basketball",
+      "Baseball",
+      "Soccer"
+    ],
+    "answer": "Ice hockey"
+  },
+  {
+    "id": "general-1369",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which gymnast famously scored the first perfect 10 in Olympic history at the 1976 Montreal Games?",
+    "options": [
+      "Nadia Comaneci",
+      "Simone Biles",
+      "Olga Korbut",
+      "Larisa Latynina"
+    ],
+    "answer": "Nadia Comaneci"
+  },
+  {
+    "id": "general-1370",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which golf major tournament is the only one held at the same course, Augusta National, every year?",
+    "options": [
+      "The Masters",
+      "The PGA Championship",
+      "The US Open",
+      "The Open Championship"
+    ],
+    "answer": "The Masters"
+  },
+  {
+    "id": "general-1371",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "In Formula 1 racing, what color flag signals the end of a race?",
+    "options": [
+      "Checkered flag",
+      "Yellow flag",
+      "Red flag",
+      "Black flag"
+    ],
+    "answer": "Checkered flag"
+  },
+  {
+    "id": "general-1372",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which unique tradition is associated with the Wimbledon Championships, involving a fruit and cream?",
+    "options": [
+      "Strawberries and cream",
+      "Apple pie",
+      "Scones and jam",
+      "Trifle"
+    ],
+    "answer": "Strawberries and cream"
+  },
+  {
+    "id": "general-1373",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "How many periods are in a standard game of ice hockey?",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "5"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": "general-1374",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "Which country won back-to-back FIFA World Cup titles in 1958 and 1962, led by a young Pele?",
+    "options": [
+      "Brazil",
+      "Uruguay",
+      "Italy",
+      "Argentina"
+    ],
+    "answer": "Brazil"
+  },
+  {
+    "id": "general-1375",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In rugby, how many points is a try worth?",
+    "options": [
+      "5",
+      "3",
+      "6",
+      "7"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": "general-1701",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "In Australian rules football, how many players are on the field per team?",
+    "options": [
+      "18",
+      "15",
+      "13",
+      "11"
+    ],
+    "answer": "18"
+  },
+  {
+    "id": "general-1702",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "In water polo, how many players from each team are in the pool at one time, including the goalkeeper?",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "5"
+    ],
+    "answer": "7"
+  },
+  {
+    "id": "general-1703",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "In which sport would a player perform an 'alley-oop'?",
+    "options": [
+      "Basketball",
+      "Volleyball",
+      "American football",
+      "Netball"
+    ],
+    "answer": "Basketball"
+  },
+  {
+    "id": "general-1704",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "In which country did the ancient Olympic Games originate?",
+    "options": [
+      "Greece",
+      "Turkey",
+      "Egypt",
+      "Italy"
+    ],
+    "answer": "Greece"
+  },
+  {
+    "id": "general-1705",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "How often are the Winter Olympic Games held?",
+    "options": [
+      "Every 4 years",
+      "Every 2 years",
+      "Every 3 years",
+      "Every 6 years"
+    ],
+    "answer": "Every 4 years"
+  },
+  {
+    "id": "general-1706",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which national football team is nicknamed 'Die Mannschaft'?",
+    "options": [
+      "Germany",
+      "Netherlands",
+      "Austria",
+      "Switzerland"
+    ],
+    "answer": "Germany"
+  },
+  {
+    "id": "general-1707",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which city hosted the 2016 Summer Olympics?",
+    "options": [
+      "Beijing",
+      "London",
+      "Rio de Janeiro",
+      "Tokyo"
+    ],
+    "answer": "Rio de Janeiro"
+  },
+  {
+    "id": "general-1708",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which city is set to host the 2028 Summer Olympics?",
+    "options": [
+      "Los Angeles",
+      "Paris",
+      "Brisbane",
+      "London"
+    ],
+    "answer": "Los Angeles"
+  },
+  {
+    "id": "general-1709",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In tennis, what is the term for a tie at 40-40 in a game?",
+    "options": [
+      "Deuce",
+      "Advantage",
+      "Love",
+      "Match point"
+    ],
+    "answer": "Deuce"
+  },
+  {
+    "id": "general-1710",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "How many Grand Slam tennis tournaments are held each year?",
+    "options": [
+      "2",
+      "4",
+      "5",
+      "3"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": "general-1711",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In tennis, what is the term for a serve that is not touched by the returner and wins the point outright?",
+    "options": [
+      "An ace",
+      "A let",
+      "A fault",
+      "A rally"
+    ],
+    "answer": "An ace"
+  },
+  {
+    "id": "general-1712",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Which of the four Grand Slam tennis tournaments is held in New York each late summer?",
+    "options": [
+      "The US Open",
+      "Wimbledon",
+      "The Australian Open",
+      "The French Open"
+    ],
+    "answer": "The US Open"
+  },
+  {
+    "id": "general-1713",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "What term describes a score of four strokes under par on a hole, an extremely rare feat?",
+    "options": [
+      "Condor",
+      "Albatross",
+      "Eagle",
+      "Birdie"
+    ],
+    "answer": "Condor"
+  },
+  {
+    "id": "general-1714",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In golf, what term describes a score of two strokes under par on a hole?",
+    "options": [
+      "Birdie",
+      "Condor",
+      "Bogey",
+      "Eagle"
+    ],
+    "answer": "Eagle"
+  },
+  {
+    "id": "general-1715",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "In a standard game of ten-pin bowling, how many pins are set up for each frame?",
+    "options": [
+      "10",
+      "9",
+      "12",
+      "8"
+    ],
+    "answer": "10"
+  },
+  {
+    "id": "general-1716",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "In American football, how many points is a safety worth?",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "6"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": "general-1717",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which combat sport is nicknamed 'the sweet science'?",
+    "options": [
+      "Wrestling",
+      "Boxing",
+      "Judo",
+      "Fencing"
+    ],
+    "answer": "Boxing"
+  },
+  {
+    "id": "general-1718",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "How many rounds are typically scheduled in a professional championship boxing match?",
+    "options": [
+      "8",
+      "12",
+      "15",
+      "10"
+    ],
+    "answer": "12"
+  },
+  {
+    "id": "general-1719",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "Which country is credited with inventing the sport of table tennis in the late 19th century?",
+    "options": [
+      "China",
+      "England",
+      "Japan",
+      "Germany"
+    ],
+    "answer": "England"
+  },
+  {
+    "id": "general-1720",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "In baseball, how many players from each team are on the field defensively?",
+    "options": [
+      "9",
+      "11",
+      "8",
+      "10"
+    ],
+    "answer": "9"
+  },
+  {
+    "id": "general-1721",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "In baseball, how many strikes result in a batter being called out?",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "3"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": "general-1722",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In baseball, how many balls result in a batter being awarded a walk?",
+    "options": [
+      "5",
+      "3",
+      "2",
+      "4"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": "general-1723",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Which sport features events such as the butterfly, backstroke, and freestyle?",
+    "options": [
+      "Diving",
+      "Rowing",
+      "Water polo",
+      "Swimming"
+    ],
+    "answer": "Swimming"
+  },
+  {
+    "id": "general-1724",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which sport, added to the Olympics in 2021, involves competitors performing tricks on a skateboard?",
+    "options": [
+      "Skateboarding",
+      "BMX freestyle",
+      "Surfing",
+      "Sport climbing"
+    ],
+    "answer": "Skateboarding"
+  },
+  {
+    "id": "general-1725",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Which country traditionally dominates the sport of sumo wrestling?",
+    "options": [
+      "Japan",
+      "South Korea",
+      "Mongolia",
+      "China"
+    ],
+    "answer": "Japan"
+  },
+  {
+    "id": "general-1726",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In which sport do athletes compete using a 'pommel horse'?",
+    "options": [
+      "Vaulting",
+      "Gymnastics",
+      "Rodeo",
+      "Equestrian"
+    ],
+    "answer": "Gymnastics"
+  },
+  {
+    "id": "general-1727",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Which prestigious cycling race is held annually across France each summer?",
+    "options": [
+      "The Tour de France",
+      "The Vuelta a Espana",
+      "Paris-Roubaix",
+      "The Giro d'Italia"
+    ],
+    "answer": "The Tour de France"
+  },
+  {
+    "id": "general-1728",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In which sport would an athlete perform a 'triple axel'?",
+    "options": [
+      "Diving",
+      "Ski jumping",
+      "Figure skating",
+      "Gymnastics"
+    ],
+    "answer": "Figure skating"
+  },
+  {
+    "id": "general-1729",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which sport is traditionally played at Lord's Cricket Ground in London?",
+    "options": [
+      "Tennis",
+      "Cricket",
+      "Rugby",
+      "Croquet"
+    ],
+    "answer": "Cricket"
+  },
+  {
+    "id": "general-1730",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "How many players are on a rugby league team on the field at one time?",
+    "options": [
+      "13",
+      "15",
+      "11",
+      "7"
+    ],
+    "answer": "13"
+  },
+  {
+    "id": "general-1731",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Which country is credited with inventing the game of golf?",
+    "options": [
+      "England",
+      "Netherlands",
+      "Ireland",
+      "Scotland"
+    ],
+    "answer": "Scotland"
+  },
+  {
+    "id": "general-1732",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Teams compete for the Vince Lombardi Trophy in which annual sporting event?",
+    "options": [
+      "The Stanley Cup Finals",
+      "The Super Bowl",
+      "The NBA Finals",
+      "The World Series"
+    ],
+    "answer": "The Super Bowl"
+  },
+  {
+    "id": "general-1733",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which annual American horse race is known as 'The Run for the Roses'?",
+    "options": [
+      "The Preakness Stakes",
+      "The Belmont Stakes",
+      "The Kentucky Derby",
+      "The Breeders' Cup"
+    ],
+    "answer": "The Kentucky Derby"
+  },
+  {
+    "id": "general-1734",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In which sport is the score 'love-all' used to indicate the game has just begun?",
+    "options": [
+      "Tennis",
+      "Badminton",
+      "Table tennis",
+      "Squash"
+    ],
+    "answer": "Tennis"
+  },
+  {
+    "id": "general-1735",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which grappling-focused martial art, originating in Brazil, emphasizes ground fighting and submissions?",
+    "options": [
+      "Judo",
+      "Brazilian Jiu-Jitsu",
+      "Muay Thai",
+      "Capoeira"
+    ],
+    "answer": "Brazilian Jiu-Jitsu"
+  },
+  {
+    "id": "general-1736",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which Japanese martial art's name translates to 'the gentle way'?",
+    "options": [
+      "Aikido",
+      "Karate",
+      "Kendo",
+      "Judo"
+    ],
+    "answer": "Judo"
+  },
+  {
+    "id": "general-1737",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which country won the FIFA World Cup in 2022, ending a drought since 1986?",
+    "options": [
+      "Argentina",
+      "France",
+      "Brazil",
+      "Croatia"
+    ],
+    "answer": "Argentina"
+  },
+  {
+    "id": "general-1738",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "In sports such as soccer and ice hockey, what term describes a player scoring three goals in a single game?",
+    "options": [
+      "A treble",
+      "A brace",
+      "A hat-trick",
+      "A triple"
+    ],
+    "answer": "A hat-trick"
+  },
+  {
+    "id": "general-1739",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "In which sport do players use a lightweight, cork-and-feather projectile called a shuttlecock?",
+    "options": [
+      "Badminton",
+      "Racquetball",
+      "Squash",
+      "Tennis"
+    ],
+    "answer": "Badminton"
+  },
+  {
+    "id": "general-1740",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Which sport is often referred to as 'America's pastime'?",
+    "options": [
+      "Ice hockey",
+      "Baseball",
+      "American football",
+      "Basketball"
+    ],
+    "answer": "Baseball"
+  },
+  {
+    "id": "general-1741",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "The sport of lacrosse originated among Indigenous peoples of which continent?",
+    "options": [
+      "Africa",
+      "Australia",
+      "North America",
+      "South America"
+    ],
+    "answer": "North America"
+  },
+  {
+    "id": "general-1742",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which international multi-sport event brings together athletes with intellectual disabilities?",
+    "options": [
+      "The Invictus Games",
+      "The Deaflympics",
+      "The Paralympics",
+      "The Special Olympics"
+    ],
+    "answer": "The Special Olympics"
+  },
+  {
+    "id": "general-1743",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Which quadrennial multi-sport event features competitions such as curling and ski jumping?",
+    "options": [
+      "The Winter X Games",
+      "The World Games",
+      "The Summer Olympics",
+      "The Winter Olympics"
+    ],
+    "answer": "The Winter Olympics"
+  },
+  {
+    "id": "general-1744",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "In which sport would a competitor carry a 'quiver' of arrows?",
+    "options": [
+      "Fencing",
+      "Archery",
+      "Javelin throw",
+      "Biathlon"
+    ],
+    "answer": "Archery"
+  },
+  {
+    "id": "general-1745",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which sport features 'The Ashes', a historic rivalry series between England and Australia?",
+    "options": [
+      "Field hockey",
+      "Cricket",
+      "Rugby",
+      "Netball"
+    ],
+    "answer": "Cricket"
+  },
+  {
+    "id": "general-1746",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "Which sport crowns its world champion with a trophy historically named the 'Jules Rimet' trophy?",
+    "options": [
+      "Football (soccer)",
+      "Rugby union",
+      "Cricket",
+      "Field hockey"
+    ],
+    "answer": "Football (soccer)"
+  },
+  {
+    "id": "general-1747",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Which sport is played on a diamond-shaped infield with bases at each corner?",
+    "options": [
+      "Cricket",
+      "Field hockey",
+      "Baseball",
+      "Rounders"
+    ],
+    "answer": "Baseball"
+  },
+  {
+    "id": "general-1748",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which individual athlete has won the most Olympic gold medals in history?",
+    "options": [
+      "Michael Phelps",
+      "Usain Bolt",
+      "Larisa Latynina",
+      "Carl Lewis"
+    ],
+    "answer": "Michael Phelps"
+  },
+  {
+    "id": "general-1749",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which winter sport involves sliding stones across ice toward a target while teammates sweep the ice with brooms?",
+    "options": [
+      "Skeleton",
+      "Luge",
+      "Bobsled",
+      "Curling"
+    ],
+    "answer": "Curling"
+  },
+  {
+    "id": "general-1750",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "In which sport do competitors race down a snow-covered course on a single board strapped to both feet?",
+    "options": [
+      "Snowboarding",
+      "Tobogganing",
+      "Skiing",
+      "Sledding"
+    ],
+    "answer": "Snowboarding"
+  },
+  {
+    "id": "general-2023",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "In tennis, what is a score of zero called?",
+    "options": [
+      "Love",
+      "Nil",
+      "Zero",
+      "Deuce"
+    ],
+    "answer": "Love"
+  },
+  {
+    "id": "general-2027",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Which country is credited with inventing the sport of cricket?",
+    "options": [
+      "England",
+      "Australia",
+      "India",
+      "South Africa"
+    ],
+    "answer": "England"
+  },
+  {
+    "id": "general-2028",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In American football, how many points is a successful two-point conversion worth?",
+    "options": [
+      "Two",
+      "One",
+      "Three",
+      "Six"
+    ],
+    "answer": "Two"
+  },
+  {
+    "id": "general-2031",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Which boxer was widely known as 'The Greatest'?",
+    "options": [
+      "Muhammad Ali",
+      "Mike Tyson",
+      "Joe Frazier",
+      "George Foreman"
+    ],
+    "answer": "Muhammad Ali"
+  },
+  {
+    "id": "general-2032",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "In which sport do players use a shuttlecock?",
+    "options": [
+      "Badminton",
+      "Tennis",
+      "Squash",
+      "Table Tennis"
+    ],
+    "answer": "Badminton"
+  },
+  {
+    "id": "general-2033",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Which country hosts the Tour de France cycling race, for the most part?",
+    "options": [
+      "France",
+      "Italy",
+      "Spain",
+      "Belgium"
+    ],
+    "answer": "France"
+  },
+  {
+    "id": "general-2034",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "In cycling's Tour de France, what color jersey is worn by the overall race leader?",
+    "options": [
+      "Yellow",
+      "Green",
+      "Polka dot",
+      "White"
+    ],
+    "answer": "Yellow"
+  },
+  {
+    "id": "general-2036",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Which sport features events such as the pommel horse and the rings?",
+    "options": [
+      "Gymnastics",
+      "Diving",
+      "Figure skating",
+      "Cheerleading"
+    ],
+    "answer": "Gymnastics"
+  },
+  {
+    "id": "general-2037",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which tennis player holds the men's record for most Grand Slam singles titles as of the mid-2020s?",
+    "options": [
+      "Novak Djokovic",
+      "Rafael Nadal",
+      "Roger Federer",
+      "Pete Sampras"
+    ],
+    "answer": "Novak Djokovic"
+  },
+  {
+    "id": "general-2038",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which country is credited with inventing modern table tennis?",
+    "options": [
+      "England",
+      "China",
+      "Japan",
+      "Hungary"
+    ],
+    "answer": "England"
+  },
+  {
+    "id": "general-2039",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "In ice hockey, how many players from each team, including the goalie, are on the ice at once?",
+    "options": [
+      "Six",
+      "Five",
+      "Seven",
+      "Four"
+    ],
+    "answer": "Six"
+  },
+  {
+    "id": "general-2040",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which swimming stroke is generally considered the fastest?",
+    "options": [
+      "Freestyle",
+      "Backstroke",
+      "Breaststroke",
+      "Butterfly"
+    ],
+    "answer": "Freestyle"
+  },
+  {
+    "id": "general-2041",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which grappling martial art, which originated in Brazil, emphasizes ground fighting and submission holds?",
+    "options": [
+      "Brazilian Jiu-Jitsu",
+      "Judo",
+      "Muay Thai",
+      "Capoeira"
+    ],
+    "answer": "Brazilian Jiu-Jitsu"
+  },
+  {
+    "id": "general-2042",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "Which country won the first-ever FIFA World Cup, held in 1930?",
+    "options": [
+      "Uruguay",
+      "Argentina",
+      "Brazil",
+      "Italy"
+    ],
+    "answer": "Uruguay"
+  },
+  {
+    "id": "general-2043",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "In which sport is the score 'love-fifteen' used?",
+    "options": [
+      "Tennis",
+      "Squash",
+      "Badminton",
+      "Table Tennis"
+    ],
+    "answer": "Tennis"
+  },
+  {
+    "id": "general-2044",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "What is widely regarded as the national sport of Japan?",
+    "options": [
+      "Sumo wrestling",
+      "Judo",
+      "Baseball",
+      "Karate"
+    ],
+    "answer": "Sumo wrestling"
+  },
+  {
+    "id": "general-2045",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which golfer holds the record for the most men's major championship victories, as of the mid-2020s?",
+    "options": [
+      "Jack Nicklaus",
+      "Tiger Woods",
+      "Arnold Palmer",
+      "Gary Player"
+    ],
+    "answer": "Jack Nicklaus"
+  },
+  {
+    "id": "general-2046",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In rugby league, how many points is a try worth?",
+    "options": [
+      "Four",
+      "Five",
+      "Three",
+      "Six"
+    ],
+    "answer": "Four"
+  },
+  {
+    "id": "general-2047",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which driver tied Michael Schumacher's record of seven Formula 1 World Championships?",
+    "options": [
+      "Lewis Hamilton",
+      "Sebastian Vettel",
+      "Max Verstappen",
+      "Fernando Alonso"
+    ],
+    "answer": "Lewis Hamilton"
+  },
+  {
+    "id": "general-2048",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "What is the approximate distance of a marathon in miles?",
+    "options": [
+      "26.2 miles",
+      "20 miles",
+      "30 miles",
+      "24 miles"
+    ],
+    "answer": "26.2 miles"
+  },
+  {
+    "id": "general-2049",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Which prestigious tennis tournament is played on grass courts at the All England Club?",
+    "options": [
+      "Wimbledon",
+      "The French Open",
+      "The US Open",
+      "The Australian Open"
+    ],
+    "answer": "Wimbledon"
+  },
+  {
+    "id": "general-2050",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "Which historic golf clubs were once called the 'mashie' and the 'niblick'?",
+    "options": [
+      "Irons used for approach shots",
+      "Types of putters",
+      "Types of drivers",
+      "Types of golf balls"
+    ],
+    "answer": "Irons used for approach shots"
+  },
+  {
+    "id": "general-2051",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which country has won the most medals overall at the Winter Olympic Games?",
+    "options": [
+      "Norway",
+      "United States",
+      "Germany",
+      "Russia"
+    ],
+    "answer": "Norway"
+  },
+  {
+    "id": "general-2052",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "In which sport did the term 'hat-trick' originate before spreading to sports like soccer and hockey?",
+    "options": [
+      "Cricket",
+      "Rugby",
+      "Field hockey",
+      "Lacrosse"
+    ],
+    "answer": "Cricket"
+  },
+  {
+    "id": "general-2053",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "In fencing, which is the lightest of the three weapons used in competition?",
+    "options": [
+      "Foil",
+      "Epee",
+      "Sabre",
+      "Rapier"
+    ],
+    "answer": "Foil"
+  },
+  {
+    "id": "general-2267",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Which sport uses terms like 'birdie' and 'bogey'?",
+    "options": [
+      "Golf",
+      "Cricket",
+      "Baseball",
+      "Archery"
+    ],
+    "answer": "Golf"
+  },
+  {
+    "id": "general-2268",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "How many players make up a baseball team on the field?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "8"
+    ],
+    "answer": "9"
+  },
+  {
+    "id": "general-2269",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In boxing, how many minutes is a standard professional round?",
+    "options": [
+      "Three",
+      "Two",
+      "Four",
+      "Five"
+    ],
+    "answer": "Three"
+  },
+  {
+    "id": "general-2317",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Which sport is played at Wimbledon each year?",
+    "options": [
+      "Tennis",
+      "Cricket",
+      "Rugby",
+      "Golf"
+    ],
+    "answer": "Tennis"
+  },
+  {
+    "id": "general-2384",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which country is the origin of the sport of judo?",
+    "options": [
+      "Japan",
+      "China",
+      "South Korea",
+      "Thailand"
+    ],
+    "answer": "Japan"
+  },
+  {
+    "id": "general-2496",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In which sport is the term 'love-all' used to indicate a score of zero-zero?",
+    "options": [
+      "Tennis",
+      "Badminton",
+      "Squash",
+      "Table tennis"
+    ],
+    "answer": "Tennis"
+  },
+  {
+    "id": "general-2497",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Which athlete is known as the fastest man in history, holding the 100m world record?",
+    "options": [
+      "Usain Bolt",
+      "Carl Lewis",
+      "Tyson Gay",
+      "Justin Gatlin"
+    ],
+    "answer": "Usain Bolt"
+  },
+  {
+    "id": "general-2498",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Which country hosts the Wimbledon tennis championships each year?",
+    "options": [
+      "United Kingdom",
+      "France",
+      "United States",
+      "Australia"
+    ],
+    "answer": "United Kingdom"
+  },
+  {
+    "id": "general-2499",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "How many players are on a standard rugby union team?",
+    "options": [
+      "15",
+      "13",
+      "11",
+      "12"
+    ],
+    "answer": "15"
+  },
+  {
+    "id": "general-2500",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In which sport is the Ryder Cup contested between the United States and Europe?",
+    "options": [
+      "Golf",
+      "Tennis",
+      "Rugby",
+      "Cricket"
+    ],
+    "answer": "Golf"
+  },
+  {
+    "id": "general-2534",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which African American athlete won four gold medals at the 1936 Berlin Olympics, undermining Nazi ideology?",
+    "options": [
+      "Jesse Owens",
+      "Jackie Robinson",
+      "Wilma Rudolph",
+      "Carl Lewis"
+    ],
+    "answer": "Jesse Owens"
+  },
+  {
+    "id": "general-2573",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "In which sport do athletes compete in events like the pommel horse and parallel bars?",
+    "options": [
+      "Gymnastics",
+      "Diving",
+      "Figure skating",
+      "Track and field"
+    ],
+    "answer": "Gymnastics"
+  },
+  {
+    "id": "general-2574",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Which sport features positions like 'point guard' and 'center'?",
+    "options": [
+      "Basketball",
+      "Football",
+      "Hockey",
+      "Volleyball"
+    ],
+    "answer": "Basketball"
+  },
+  {
+    "id": "general-2575",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "In which country did the sport of table tennis (ping pong) originate?",
+    "options": [
+      "England",
+      "China",
+      "Japan",
+      "United States"
+    ],
+    "answer": "England"
+  },
+  {
+    "id": "general-2576",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Which boxer was known for the phrase 'float like a butterfly, sting like a bee'?",
+    "options": [
+      "Muhammad Ali",
+      "Mike Tyson",
+      "Joe Frazier",
+      "George Foreman"
+    ],
+    "answer": "Muhammad Ali"
+  },
+  {
+    "id": "general-2678",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In tennis, what informal term describes a set won by a score of 6-0?",
+    "options": [
+      "A \"bagel\"",
+      "A \"love set\"",
+      "A \"breadstick\"",
+      "A \"shutout\""
+    ],
+    "answer": "A \"bagel\""
+  },
+  {
+    "id": "general-2679",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which country won the first-ever FIFA Women's World Cup, held in 1991?",
+    "options": [
+      "United States",
+      "Norway",
+      "Germany",
+      "China"
+    ],
+    "answer": "United States"
+  },
+  {
+    "id": "general-2680",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Which major golf championship is traditionally the first of the year's four majors, held each April at Augusta National?",
+    "options": [
+      "The Masters",
+      "The PGA Championship",
+      "The U.S. Open",
+      "The Open Championship"
+    ],
+    "answer": "The Masters"
+  },
+  {
+    "id": "general-2681",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which boxer was stripped of his heavyweight title in 1967 for refusing induction into the U.S. military?",
+    "options": [
+      "Muhammad Ali",
+      "Joe Frazier",
+      "George Foreman",
+      "Sonny Liston"
+    ],
+    "answer": "Muhammad Ali"
+  },
+  {
+    "id": "general-2682",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "In cricket, what is the term for an over in which the bowler concedes no runs at all?",
+    "options": [
+      "A maiden over",
+      "A duck",
+      "A golden duck",
+      "A dot ball"
+    ],
+    "answer": "A maiden over"
+  },
+  {
+    "id": "general-2683",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which Jamaican sprinter set world records in both the 100m and 200m at the 2009 World Championships in Berlin?",
+    "options": [
+      "Usain Bolt",
+      "Yohan Blake",
+      "Asafa Powell",
+      "Tyson Gay"
+    ],
+    "answer": "Usain Bolt"
+  },
+  {
+    "id": "general-2684",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "In American football, how many players from each team are on the field at one time?",
+    "options": [
+      "Eleven",
+      "Twelve",
+      "Ten",
+      "Nine"
+    ],
+    "answer": "Eleven"
+  },
+  {
+    "id": "general-2685",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Which country's national rugby team performs the haka before matches?",
+    "options": [
+      "New Zealand",
+      "Australia",
+      "South Africa",
+      "Fiji"
+    ],
+    "answer": "New Zealand"
+  },
+  {
+    "id": "general-2687",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "As of 2021, which Formula One driver was tied with Michael Schumacher for the most World Championship titles, at seven?",
+    "options": [
+      "Lewis Hamilton",
+      "Sebastian Vettel",
+      "Ayrton Senna",
+      "Alain Prost"
+    ],
+    "answer": "Lewis Hamilton"
+  },
+  {
+    "id": "general-2688",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "In baseball, what is the term for a pitch thrown with a spin that causes it to break sharply downward?",
+    "options": [
+      "A curveball",
+      "A fastball",
+      "A slider",
+      "A changeup"
+    ],
+    "answer": "A curveball"
+  },
+  {
+    "id": "general-2689",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which sport uses terms like \"scrum,\" \"ruck,\" and \"maul\"?",
+    "options": [
+      "Rugby",
+      "American football",
+      "Australian rules football",
+      "Gaelic football"
+    ],
+    "answer": "Rugby"
+  }
+]
