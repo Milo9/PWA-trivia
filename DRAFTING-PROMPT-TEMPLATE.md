@@ -21,6 +21,11 @@ TOPIC: [e.g. "The Big Bang Theory (TV show) — minor/guest characters" OR
 
 COUNT: [e.g. 20] questions.
 
+AVOID THESE ANGLES — already well-covered in my question bank, so don't
+draft facts that overlap with these (pick different, more specific facts
+instead): [paste the matching category's list from "Angles already
+covered" below]
+
 Use web search to verify every fact — do not rely on memory alone. Prefer
 authoritative sources for this topic (e.g. fan wikis and episode guides for
 a TV show, reference databases/almanacs for general knowledge) over
@@ -67,6 +72,47 @@ Rules for each entry:
 
 Output just the JS file content, nothing else.
 ```
+
+---
+
+## Angles already covered
+
+Different external agents (and repeat runs of the same one) tend to
+converge on the same well-known trivia facts, since they're drawing on a
+similar slice of general knowledge. This list tracks the specific
+facts/angles that have already caused a drafted question to collide with
+the existing corpus, so future prompts can steer around them instead of
+re-generating and re-rejecting the same chestnuts every batch. Paste the
+relevant category's list into the `AVOID THESE ANGLES` line above before
+sending the prompt.
+
+This is maintained by Claude after each inbox batch review — see
+CLAUDE.md's "External-agent drafting" section for the update process. Not
+meant to be exhaustive or grow forever; entries get pruned if the list gets
+long and unfocused.
+
+### general
+
+- Chemical symbol for tungsten (W)
+- Earth's atmosphere composition (~78% nitrogen)
+- Number of bones in the adult human body (206)
+- Smallest planet in the solar system (Mercury)
+- Which planet has the most moons (Saturn)
+- Hardest naturally occurring substance (diamond)
+- Who invented the World Wide Web (Tim Berners-Lee)
+- SI unit of electrical resistance (ohm)
+- Chemical symbol for potassium (K)
+- Subatomic particle with no electric charge (neutron)
+
+### friends
+
+*(none yet — add here after the first external-agent batch for this
+category is reviewed)*
+
+### big-bang-theory
+
+*(none yet — add here after the first external-agent batch for this
+category is reviewed)*
 
 ---
 

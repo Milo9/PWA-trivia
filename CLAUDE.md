@@ -30,7 +30,7 @@ don't bypass it.
 - IDs must be unique **across the whole dataset**, not just the file —
   check the highest existing number in that category before picking the
   next batch's range (e.g. this repo currently has `friends` through
-  ~790, `big-bang-theory` through ~711, `general` through ~2855). Note
+  ~790, `big-bang-theory` through ~711, `general` through ~2970). Note
   IDs have gaps from the 2026-07-31 dedup pass (deleted entries were not
   renumbered) — check the highest number, not the file's entry count.
 - Warnings from `validate` about near-duplicate questions are judgment
@@ -41,6 +41,44 @@ don't bypass it.
   drafted question against the *entire* existing corpus (not just
   keyword grepping) and rejects known hedge/meta-answer patterns. See
   README for the draft file format and full workflow.
+
+## External-agent drafting: avoiding convergent duplicate topics
+
+`DRAFTING-PROMPT-TEMPLATE.md` is a prompt for handing batch-drafting to an
+AI agent with no context of this repo (see that file for the full
+template). Those agents draw on roughly the same slice of general/training
+knowledge any other agent — or a memory-only Claude draft — would, so
+different agents (and repeat runs of the same one) tend to converge on the
+same well-known chestnuts. This is the same convergence problem as the
+memory-exhaustion issue documented below for `friends`/`big-bang-theory`,
+just arriving from a different direction: many agents landing on the same
+obvious facts, rather than one corpus slowly exhausting them.
+
+**Don't front-load the prompt with the full corpus or a guessed topic
+list** — expensive in tokens for a payoff that's mostly speculation before
+you've seen what an external agent actually collides on. Instead, the
+template has an "Angles already covered" section, maintained iteratively:
+
+1. After reviewing an inbox batch (i.e. after running `check-draft.js` and
+   `validate` against it), note the **topic/angle** — not the literal
+   question wording — behind every confirmed duplicate (e.g. "chemical
+   symbol for tungsten," not the exact phrasing of the question that asked
+   it).
+2. Add those angles to the matching category's list in the "Angles already
+   covered" section of `DRAFTING-PROMPT-TEMPLATE.md`.
+3. Next time that category's prompt goes to an external agent, the user
+   pastes that list into the prompt's `AVOID THESE ANGLES` line.
+4. If a category's list grows past ~30–40 entries, prune it: drop angles
+   too specific to plausibly recur, and keep the ones that show up
+   repeatedly across batches (e.g. "SI unit of X," "chemical symbol for
+   Y" — categories of chestnut, not just one-off facts).
+
+**Seeded 2026-08-01** from the first inbox batch (`GLM52-01.js`, 100
+`general`-category questions drafted by an external agent, reviewed and
+merged as `general-2881`–`2970`): 10 of the 100 drafted questions collided
+with the existing corpus, all common science/geography chestnuts. See
+"Angles already covered" in `DRAFTING-PROMPT-TEMPLATE.md` for the current
+list per category.
 
 ## Lessons ported from the Disney Trivia App sibling project
 
