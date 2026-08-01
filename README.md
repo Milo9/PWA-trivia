@@ -74,12 +74,11 @@ tokens and re-auditing shouldn't:
    category" below before drafting `friends` or `big-bang-theory` —
    memory-only drafting is exhausted for both. Alternatively, draft with an
    AI agent that has no context of this repo (e.g. one with web search but
-   no filesystem access) using
-   [DRAFTING-PROMPT-TEMPLATE.md](DRAFTING-PROMPT-TEMPLATE.md) — each
-   prompt there is already category-specific and has the agent stamp a
-   `category` field on every entry, so you don't need to state which
-   category the file is for when handing its output back to Claude — just
-   hand it over.
+   no filesystem access) using one of the per-category prompts in
+   [templates/](templates/README.md) — each prompt is already
+   category-specific and has the agent stamp a `category` field on every
+   entry, so you don't need to state which category the file is for when
+   handing its output back to Claude — just hand it over.
 2. Check the draft *before* merging it into `data/`:
    ```
    npm run check-draft -- <path-to-draft.js>

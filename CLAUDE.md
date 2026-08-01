@@ -87,13 +87,15 @@ binding constraint, not as a default recommendation to reach for it.
 
 ## External-agent drafting: avoiding convergent duplicate topics
 
-`DRAFTING-PROMPT-TEMPLATE.md` holds one fully self-contained, ready-to-
-copy-paste prompt per category, for handing batch-drafting to an AI agent
-with no context of this repo. **That file is copy-paste content only —
-it has no instructions aimed at the user or at Claude, just the prompts
-themselves.** Claude maintains it directly (see below); the user never
-edits it or assembles a prompt from pieces — they pick a category's
-section and copy the whole code block as-is.
+`templates/` holds one fully self-contained, ready-to-copy-paste prompt
+file per category (`templates/<slug>.md`), for handing batch-drafting to
+an AI agent with no context of this repo. **Each category file is
+copy-paste content only — it has no instructions aimed at the user or at
+Claude, just the prompt itself.** (`templates/README.md` is the one
+exception — it's an index with picking instructions, not a prompt.)
+Claude maintains the per-category files directly (see below); the user
+never edits them or assembles a prompt from pieces — they pick a
+category's file and copy the whole code block as-is.
 
 Those external agents draw on roughly the same slice of general/training
 knowledge any other agent — or a memory-only Claude draft — would, so
@@ -115,10 +117,9 @@ maintained iteratively:
    symbol for tungsten," not the exact phrasing of the question that asked
    it).
 2. Edit that category's `AVOID THESE ANGLES` list directly, in place, in
-   `DRAFTING-PROMPT-TEMPLATE.md` — add the new angles to that one
-   category's code block. Don't touch other categories' blocks, and don't
-   maintain the list anywhere else; the prompt block itself is the only
-   copy.
+   `templates/<slug>.md` — add the new angles to that one category's code
+   block. Don't touch other categories' files, and don't maintain the
+   list anywhere else; the prompt block itself is the only copy.
 3. If a category's list grows past ~30–40 entries, prune it: drop angles
    too specific to plausibly recur, and keep the ones that show up
    repeatedly across batches (e.g. "SI unit of X," "chemical symbol for
@@ -128,11 +129,11 @@ maintained iteratively:
 `general`-category questions drafted by an external agent, reviewed and
 merged as `general-2881`–`2970`): 10 of the 100 drafted questions collided
 with the existing corpus, all common science/geography chestnuts. See the
-per-category `AVOID THESE ANGLES` lists in `DRAFTING-PROMPT-TEMPLATE.md`
+per-category `AVOID THESE ANGLES` lists in `templates/<slug>.md`
 for the current state.
 
-**Drafts now self-declare `category` (2026-08-01):** since each prompt in
-`DRAFTING-PROMPT-TEMPLATE.md` is already for exactly one category, every
+**Drafts now self-declare `category` (2026-08-01):** since each file in
+`templates/` is already for exactly one category, every
 prompt's `OUTPUT FORMAT` example and rules now require the external agent
 to stamp a fixed `"category": "<slug>"` (the real `data/categories.json`
 id, e.g. `"history"`) onto every entry, rather than omitting it. `id` is
@@ -185,7 +186,7 @@ photosphere is just the visible "surface"). Both dropped rather than
 fixed in place, since better-framed correct versions of the underlying
 facts already existed elsewhere in the batch or corpus. Surviving 63
 merged as `space-astronomy-034`-`096`. All confirmed-duplicate angles
-folded into `space-astronomy`'s list in `DRAFTING-PROMPT-TEMPLATE.md`.
+folded into `space-astronomy`'s list in `templates/space-astronomy.md`.
 
 ## General Knowledge split into topic categories (2026-08-01)
 
