@@ -128,9 +128,20 @@ over rather than re-learning here:
   monkey) only appeared once `friends-552` was removed. Re-running
   `validate` after each deletion pass caught these; a single pass
   without re-checking would have missed them. 91 entries removed total.
-  Same-answer pairs below 0.55 overlap (now 265, since some 3-member
-  clusters collapsed to 2) remain unreviewed — still noise per the
-  triage rule above, not a backlog worth wading into.
+
+  **Same-answer noise floor added (2026-08-01):** the 0.55 triage
+  cutoff above was a manual rule a human/AI had to re-apply on every
+  single `validate` run, since the checker itself reported everything
+  down to 0.00 overlap — on this corpus that meant ~265 warnings that
+  always resolved to "ignore this." Baked the cutoff into the tool
+  instead: `validate.js` now exports `SAME_ANSWER_MIN_OVERLAP = 0.55`
+  and both it and `check-draft.js` skip reporting same-answer pairs
+  below that score, rather than reporting-then-discarding them every
+  time. There is no remaining below-0.55 backlog to review — those
+  pairs no longer surface as warnings at all. If a future full-corpus
+  audit wants to re-examine that band specifically (e.g. hunting for
+  factual errors, not duplicates), lower the constant temporarily
+  rather than grepping raw `validate` output.
 - **Coverage-table numbers lie by omission.** Disney's regex-based per-film
   coverage table repeatedly mislabeled well-covered films as "under-covered"
   because its keyword patterns didn't match how existing questions actually
