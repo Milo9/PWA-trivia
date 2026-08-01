@@ -101,6 +101,36 @@ over rather than re-learning here:
   those as the remaining backlog for a future session, using the same
   sort-and-triage approach rather than reading them in original
   (unsorted) order.
+
+  **Near-duplicate band resolved (2026-08-01):** worked through all 102
+  near-duplicate warnings in the 0.70–0.85 band by fetching each pair's
+  full `answer` field (not just question text) before deciding — the
+  question-text similarity score alone isn't enough, since some
+  high-similarity pairs turned out to test genuinely different facts
+  (e.g. `general-1375`/`general-2046`: rugby union vs. rugby league try
+  values, 5 vs. 4 points; `friends-184`/`friends-627`: Ross's marriage
+  count vs. divorce count, a real running joke in the show where both
+  happen to be three; `big-bang-theory-122`/`big-bang-theory-532`:
+  different actors playing young vs. adult Mary Cooper). 15 of the 102
+  were confirmed-legitimate false positives like these and were left
+  alone (don't re-flag them). The other 87 were true duplicates —
+  including three-way and four-way clusters the pairwise near-duplicate
+  list undersold (e.g. "Greek goddess of wisdom and warfare" existed as
+  3 near-identical entries; "scientific study of classifying organisms"
+  as 3; Salvador Dalí/Surrealism as 3; most FIFA World Cup titles/Brazil
+  as 3) — one survivor kept per cluster, the more precise/complete-
+  worded variant. Deleting down to 2-member answer groups exposed a
+  second-order effect: `validate.js`'s same-answer check only fires on
+  groups of *exactly* 2, so a few real duplicates hiding in what used to
+  be 3-member clusters (low text-overlap with the other two, so absent
+  from the original near-duplicate list) surfaced only after the first
+  cluster deletion — e.g. `friends-008` vs. `friends-286` (Ross's
+  monkey) only appeared once `friends-552` was removed. Re-running
+  `validate` after each deletion pass caught these; a single pass
+  without re-checking would have missed them. 91 entries removed total.
+  Same-answer pairs below 0.55 overlap (now 265, since some 3-member
+  clusters collapsed to 2) remain unreviewed — still noise per the
+  triage rule above, not a backlog worth wading into.
 - **Coverage-table numbers lie by omission.** Disney's regex-based per-film
   coverage table repeatedly mislabeled well-covered films as "under-covered"
   because its keyword patterns didn't match how existing questions actually
