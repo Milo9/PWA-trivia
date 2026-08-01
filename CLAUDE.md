@@ -188,6 +188,55 @@ facts already existed elsewhere in the batch or corpus. Surviving 63
 merged as `space-astronomy-034`-`096`. All confirmed-duplicate angles
 folded into `space-astronomy`'s list in `templates/space-astronomy.md`.
 
+**`gemini-code-1785624420472.js` processed 2026-08-01** (single-file
+batch, 102 `film-tv` questions, already self-declaring `category`):
+`check-draft.js` only flagged 1 near-duplicate and 2 advisory notes, but
+a manual answer-index cross-check (build a map of every draft answer
+against every existing corpus entry sharing that exact normalized
+answer, regardless of `MAX_ANSWER_GROUP_SIZE`, then eyeball each pair)
+found far more — 42 of 102 (~41%) were cut, the highest rate seen on
+this project so far. Almost all were classic "who directed/played X"
+chestnuts already asked 2-5 times in the existing `film-tv`/`general`
+corpus (e.g. "who directed Jurassic Park" already had 2 near-identical
+existing entries, "who composed Jaws" had 4, "who directed Pulp
+Fiction" had 5) — `check-draft.js`'s own near-duplicate pass missed
+these because the drafted wording was different enough (low word
+overlap) and its same-answer check's `MAX_ANSWER_GROUP_SIZE` cap and
+`SAME_ANSWER_MIN_OVERLAP` floor both correctly suppress noise but, as a
+side effect, also suppress real duplicates once an answer already has 2+
+existing hits or the reworded phrasing scores below 0.55 overlap — the
+same documented gap as the Magellan finding under "General Knowledge
+split," just triggered at much higher volume here because this batch
+leaned so heavily on the most obvious Hollywood facts. Two entries were
+fixed rather than dropped: one attributed Darth Vader's "No, I am your
+father" line to "the original 1977 Star Wars" instead of *The Empire
+Strikes Back* (1980), and one placed "Stranger Things"' Hawkins in
+Washington state instead of Indiana — both real factual errors, not
+duplicates, caught during the same manual read-through. One more was
+dropped for a distractor-correctness problem rather than duplication:
+a question about the prison planet in *Alien 3* offered "Fiorina 161"
+as correct and "Fury 161" as wrong, but the film's own on-screen text
+calls it "Fiorina 'Fury' 161" — both forms are correct, so the
+"wrong" option wasn't actually wrong (same class of bug as the
+Huygens/photosphere errors in the `localLLM-Gemma4-01` batch above).
+Also caught one cross-category duplicate that neither automated check
+looks for at all: a "which actor played Sheldon Cooper" question tagged
+`film-tv` duplicated `big-bang-theory-030`, which already asks the exact
+same fact in the dedicated `big-bang-theory` category — `check-draft.js`
+and `validate.js` both compare *within* whatever category grouping
+applies (`dupeGroup ?? category`), which is correct for avoiding false
+positives on coincidental cross-category answer reuse, but means a
+genuine duplicate that happens to straddle a "general" category
+(`film-tv`) and a deep dedicated category (`big-bang-theory`,
+`mythology-religion`) won't surface automatically — worth specifically
+checking for when a `film-tv` draft touches Friends/Big Bang Theory
+characters or generic mythology/legend facts that have their own
+category. Surviving 60 merged as `film-tv-134`-`193`. All
+confirmed-duplicate angles folded into `film-tv`'s list in
+`templates/film-tv.md`, including the cross-category ones as a
+clarifying note rather than a bullet (they're not "already in film-tv,"
+they're "belongs to a different category entirely").
+
 ## General Knowledge split into topic categories (2026-08-01)
 
 `general` (2825 questions) was split into 12 topic categories plus a

@@ -8,7 +8,12 @@ to another AI to review, dedupe, and merge into the database myself.
 TOPIC: Film & TV — movies and television shows in general (actors,
 directors, plots, awards). This is not about Friends or The Big Bang
 Theory specifically — those are separate categories with their own
-prompts.
+prompts. Avoid asking basic identification facts about Friends/Big Bang
+Theory characters (e.g. "who plays Sheldon Cooper") even under a
+film-tv framing — those already exist in the dedicated categories.
+Likewise avoid facts that belong to a different specific category (e.g.
+"what is King Arthur's sword called" belongs to mythology-religion, not
+film-tv, even when the clue is phrased around a film adaptation).
 
 COUNT: 100 questions.
 
@@ -20,6 +25,45 @@ instead):
 - First woman to win the Academy Award for Best Director (Kathryn Bigelow)
 - Highest-grossing film of all time unadjusted for inflation (Avatar)
 - Name of the paper company in "The Office" (US) (Dunder Mifflin)
+- What fruit foreshadows death throughout "The Godfather" trilogy (oranges)
+- Who composed the score/theme for "Jaws" (John Williams)
+- First feature-length film made entirely with CGI (Toy Story)
+- Actor who played James Bond in the most films (Roger Moore)
+- Name of the fictional nation in "Black Panther" (Wakanda)
+- Who directed "The Lord of the Rings" trilogy (Peter Jackson)
+- Actor who played Captain Jack Sparrow (Johnny Depp)
+- Name of the Harry Potter wizarding school (Hogwarts)
+- What color pill Neo takes in "The Matrix" (red)
+- Who directed "Jurassic Park" (Steven Spielberg)
+- Actress who played Clarice Starling / won the Oscar for "The Silence of
+  the Lambs" (Jodie Foster)
+- Who composed the score for "The Good, the Bad and the Ugly" (Ennio
+  Morricone)
+- Walter White's drug-trade alias in "Breaking Bad" (Heisenberg)
+- Animated Disney film featuring the song "Let It Go" (Frozen)
+- Actor who played the Joker in "The Dark Knight" / won a posthumous
+  Oscar for it (Heath Ledger)
+- Actor who played Indiana Jones (Harrison Ford)
+- Who directed "The Shining" (Stanley Kubrick)
+- Pixar film set inside a young girl's mind, Riley ("Inside Out")
+- Actress who played Katniss Everdeen (Jennifer Lawrence)
+- Director known for "Inception"/"Interstellar" (Christopher Nolan)
+- Actor who voiced Buzz Lightyear (Tim Allen)
+- Actor who played Iron Man / Tony Stark in the MCU (Robert Downey Jr.)
+- Actor who played Vito Corleone in "The Godfather" (Marlon Brando)
+- Animated ogre franchise from DreamWorks (Shrek)
+- Who directed "Dune" (2021) (Denis Villeneuve)
+- Fictional Indiana town in "Parks and Recreation" (Pawnee)
+- Who directed "Pulp Fiction" (Quentin Tarantino)
+- Pixar movie about a clownfish searching the ocean for his missing son
+  (Finding Nemo) — already asked from multiple angles, very saturated
+- Who directed "Schindler's List" (Steven Spielberg)
+- Actor who played Jack Dawson in "Titanic" (Leonardo DiCaprio)
+- Name of the hotel in "The Shining" (The Overlook Hotel)
+- Fictional prison planet in "Alien 3" — avoid entirely; the film's own
+  on-screen text calls it both "Fiorina 161" and "Fury 161" (a nickname
+  of the same name, not a distinct wrong answer), so any distractor using
+  the other form is actually also correct
 
 Use web search to verify every fact — do not rely on memory alone. Prefer
 authoritative sources (IMDb, encyclopedic sources) over guessing. For each
