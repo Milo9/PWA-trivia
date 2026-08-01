@@ -170,6 +170,56 @@ html, body {
   opacity: 0.7;
 }
 
+.stats-summary {
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  margin: 0 0 8px;
+}
+
+.text-btn {
+  background: none;
+  border: none;
+  color: var(--text-muted);
+  font-size: 0.8rem;
+  text-decoration: underline;
+  padding: 4px;
+  cursor: pointer;
+}
+
+.stats-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 14px 16px;
+  margin-bottom: 20px;
+}
+
+.stats-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  font-size: 0.9rem;
+  padding: 4px 0;
+}
+
+.stats-row .stats-value {
+  font-weight: 700;
+}
+
+.stats-delta {
+  margin: 8px 0 0;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+.stats-delta.up {
+  color: var(--correct);
+}
+
+.stats-delta.down {
+  color: var(--incorrect);
+}
+
 .quiz-header {
   display: flex;
   align-items: center;

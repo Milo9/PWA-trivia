@@ -27,6 +27,9 @@ const el = {
   screenQuiz: document.getElementById("screen-quiz"),
   screenResults: document.getElementById("screen-results"),
 
+  statsSummary: document.getElementById("stats-summary"),
+  resetStatsBtn: document.getElementById("reset-stats-btn"),
+
   settingsCategoryName: document.getElementById("settings-category-name"),
   countOptions: document.getElementById("count-options"),
   difficultyOptions: document.getElementById("difficulty-options"),
@@ -44,6 +47,7 @@ const el = {
 
   resultsScore: document.getElementById("results-score"),
   resultsSubtitle: document.getElementById("results-subtitle"),
+  resultsStats: document.getElementById("results-stats"),
   resultsReview: document.getElementById("results-review"),
   playAgainBtn: document.getElementById("play-again-btn"),
   chooseCategoryBtn: document.getElementById("choose-category-btn"),
@@ -53,7 +57,10 @@ function showScreen(name) {
   for (const s of [el.screenCategories, el.screenSettings, el.screenQuiz, el.screenResults]) {
     s.classList.add("hidden");
   }
-  if (name === "categories") el.screenCategories.classList.remove("hidden");
+  if (name === "categories") {
+    el.screenCategories.classList.remove("hidden");
+    renderStatsSummary();
+  }
   if (name === "settings") el.screenSettings.classList.remove("hidden");
   if (name === "quiz") el.screenQuiz.classList.remove("hidden");
   if (name === "results") el.screenResults.classList.remove("hidden");
@@ -178,6 +185,63 @@ function saveSeenIds(categoryId, seenSet) {
   }
 }
 
+const STATS_KEY = "offline-trivia:stats";
+
+function defaultStats() {
+  return { gamesPlayed: 0, totalQuestions: 0, totalCorrect: 0, bestPct: 0 };
+}
+
+function loadStats() {
+  try {
+    const raw = localStorage.getItem(STATS_KEY);
+    return raw ? { ...defaultStats(), ...JSON.parse(raw) } : defaultStats();
+  } catch (e) {
+    return defaultStats();
+  }
+}
+
+function saveStats(stats) {
+  try {
+    localStorage.setItem(STATS_KEY, JSON.stringify(stats));
+  } catch (e) {
+    // localStorage unavailable — stats just won't persist
+  }
+}
+
+// Records this game's result and returns the updated overall stats.
+function recordGameResult(score, total) {
+  const stats = loadStats();
+  stats.gamesPlayed += 1;
+  stats.totalQuestions += total;
+  stats.totalCorrect += score;
+  const pct = total > 0 ? (score / total) * 100 : 0;
+  if (pct > stats.bestPct) stats.bestPct = pct;
+  saveStats(stats);
+  return stats;
+}
+
+function renderStatsSummary() {
+  const stats = loadStats();
+  if (stats.gamesPlayed === 0) {
+    el.statsSummary.textContent = "";
+    el.resetStatsBtn.classList.add("hidden");
+    return;
+  }
+  const avgPct = stats.totalQuestions > 0
+    ? Math.round((stats.totalCorrect / stats.totalQuestions) * 100)
+    : 0;
+  const gameWord = stats.gamesPlayed === 1 ? "game" : "games";
+  el.statsSummary.textContent =
+    `${stats.gamesPlayed} ${gameWord} played · ${avgPct}% average · ${Math.round(stats.bestPct)}% best`;
+  el.resetStatsBtn.classList.remove("hidden");
+}
+
+el.resetStatsBtn.addEventListener("click", () => {
+  if (!confirm("Reset all game stats? This can't be undone.")) return;
+  saveStats(defaultStats());
+  renderStatsSummary();
+});
+
 function startRound(category) {
   state.currentCategory = category;
   const filtered = filterByDifficulty(category.questions, state.settings.difficulty);
@@ -295,8 +359,12 @@ el.quitBtn.addEventListener("click", () => {
 
 function showResults() {
   const total = state.roundQuestions.length;
+  const priorStats = loadStats();
+  const updatedStats = recordGameResult(state.score, total);
+
   el.resultsScore.textContent = `${state.score}/${total}`;
   el.resultsSubtitle.textContent = subtitleFor(state.score, total);
+  renderResultsStats(state.score, total, priorStats, updatedStats);
 
   el.resultsReview.innerHTML = "";
   for (const a of state.answers) {
@@ -331,6 +399,39 @@ function showResults() {
   showScreen("results");
 }
 
+function renderResultsStats(score, total, prior, updated) {
+  const pct = total > 0 ? Math.round((score / total) * 100) : 0;
+  const priorAvgPct = prior.gamesPlayed > 0 && prior.totalQuestions > 0
+    ? Math.round((prior.totalCorrect / prior.totalQuestions) * 100)
+    : null;
+  const isNewBest = Math.round(updated.bestPct) > Math.round(prior.bestPct);
+  const gameWord = updated.gamesPlayed === 1 ? "game" : "games";
+
+  let deltaHtml = "";
+  if (priorAvgPct === null) {
+    deltaHtml = `<p class="stats-delta">This is your first recorded game.</p>`;
+  } else {
+    const diff = pct - priorAvgPct;
+    const cls = diff > 0 ? "up" : diff < 0 ? "down" : "";
+    const diffText = diff === 0
+      ? "Right at your average."
+      : diff > 0
+        ? `${diff} pts above your average.`
+        : `${Math.abs(diff)} pts below your average.`;
+    deltaHtml = `<p class="stats-delta ${cls}">${diffText}</p>`;
+  }
+  if (isNewBest) {
+    deltaHtml += `<p class="stats-delta up">New best score!</p>`;
+  }
+
+  el.resultsStats.innerHTML = `
+    <div class="stats-row"><span>This game</span><span class="stats-value">${pct}%</span></div>
+    <div class="stats-row"><span>Your average</span><span class="stats-value">${priorAvgPct === null ? "—" : priorAvgPct + "%"}</span></div>
+    <div class="stats-row"><span>Games played</span><span class="stats-value">${updated.gamesPlayed} ${gameWord}</span></div>
+    ${deltaHtml}
+  `;
+}
+
 function subtitleFor(score, total) {
   const pct = score / total;
   if (pct === 1) return "Perfect score!";
@@ -354,6 +455,7 @@ async function loadVersion() {
 
 loadCategories();
 loadVersion();
+renderStatsSummary();
 
 if ("serviceWorker" in navigator) {
   window.addEventListener("load", () => {
