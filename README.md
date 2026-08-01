@@ -62,6 +62,10 @@ tokens and re-auditing shouldn't:
    assigned when the batch is merged into `data/`. See "Sourcing facts for
    a heavily-populated category" below before drafting `friends` or
    `big-bang-theory` — memory-only drafting is exhausted for both.
+   Alternatively, draft with an AI agent that has no context of this repo
+   (e.g. one with web search but no filesystem access) using
+   [DRAFTING-PROMPT-TEMPLATE.md](DRAFTING-PROMPT-TEMPLATE.md), then hand its
+   output to Claude here for review.
 2. Check the draft *before* merging it into `data/`:
    ```
    npm run check-draft -- <path-to-draft.js>
