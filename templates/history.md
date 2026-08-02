@@ -22,6 +22,34 @@ instead):
 - Which country gifted the Statue of Liberty to the US (France)
 - First woman to fly solo across the Atlantic (Amelia Earhart)
 - Name of the first artificial Earth satellite (Sputnik 1)
+- Which Chinese dynasty built most of the Great Wall as it stands today (Ming)
+- First Holy Roman Emperor, crowned 800 AD (Charlemagne)
+- What conflict the 1648 Peace/Treaty of Westphalia ended (Thirty Years' War)
+- Who led the Haitian Revolution against French colonial rule (Toussaint Louverture)
+- 1415 battle where English longbowmen beat a larger French army (Agincourt)
+- What modern country the ancient city of Carthage is located in (Tunisia)
+- Which philosopher, a student of Plato, tutored Alexander the Great (Aristotle)
+- Explorer who led the first circumnavigation of the globe but died in the
+  Philippines partway through (Ferdinand Magellan) — already asked 4+ times
+  in the corpus under near-identical phrasing; don't add another
+- Which Seven Wonders of the Ancient World structure was a lighthouse in
+  Alexandria, Egypt (Lighthouse of Alexandria / Pharos)
+- What modern country the ancient rock-cut city of Petra is located in
+  (Jordan)
+- Which Chinese emperor the Terracotta Army was built to guard (Qin Shi
+  Huang)
+- Female 18th-dynasty Egyptian pharaoh who wore a false beard and took full
+  royal powers (Hatshepsut)
+- Which ancient Mesopotamian civilization developed cuneiform (Sumerians)
+- Who is credited with inventing the movable-type printing press in Europe
+  around 1440 (Johannes Gutenberg) — already asked 3+ times in the corpus
+- Which Inca emperor was captured by Pizarro / was the last sovereign Inca
+  emperor (Atahualpa) — already covered via the "last emperor" framing
+
+CAUTION — fill-in-the-blank style ("...located in present-day...", "was
+chartered in...") doesn't match this app's format; every existing question
+in the corpus is phrased as a direct interrogative ending in "?". Write
+full questions, not sentence fragments trailing into an answer.
 
 Use web search to verify every fact — do not rely on memory alone. Prefer
 authoritative sources (encyclopedic references, history databases) over

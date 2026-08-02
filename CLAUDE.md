@@ -459,6 +459,47 @@ angles folded into `geography`'s list in `templates/geography.md`,
 including the two ambiguous-superlative traps (highest capital,
 driest place) as cautionary notes for future drafting.
 
+**`HISTORY-deepseek_javascript_20260802_69d8a6.js` processed 2026-08-01**
+(single-file batch, 100 `history` questions, self-declaring `category`):
+`check-draft.js`'s default pass found 3 duplicates (1 exact, 1 near-dup at
+each of 0.75/0.82) and 9 "contains `...`" schema flags, but a manual
+`--full-answer-audit` pass (30 draft answers with at least one corpus
+match) found substantially more real duplicates than the default pass —
+12 additional entries where the drafted fact was already asked under
+different wording (e.g. draft's "who led the Haitian Revolution... to
+independence from France" duplicated `general-1918`'s near-identical
+phrasing; "which Inca emperor was captured by Pizarro at Cajamarca"
+duplicated `history-004`'s "last sovereign emperor of the Inca Empire" —
+same figure/fact, different framing detail, judged a duplicate rather
+than a complementary angle). One was cut for being a 5th near-identical
+entry on an already-crowded fact (Magellan's circumnavigation death in
+the Philippines has 4 existing near-identical entries, see the Magellan
+note under "General Knowledge split" below — didn't need a 5th). 15 of
+100 cut in total for duplication.
+
+The batch's "contains `...`" flags were **not** hedge/self-correction
+bugs (this checker's usual target) — they were a genuine, different
+problem: 8 questions used a fill-in-the-blank sentence-fragment style
+("The ancient city of Ur... is located in present-day...") that doesn't
+match this app's format. Every one of the corpus's other 5,514 questions
+(confirmed via corpus-wide grep) is phrased as a direct interrogative
+ending in "?" — this was the *only* batch so far to use the fragment
+style, and it needed reformatting into a real question rather than
+cutting or leaving as-is, since the underlying facts were all otherwise
+correct and non-duplicated. One more question (`draft[89]`, about the
+poet Li Bai) was broken in a different way: it named "Li Bai" in the
+question stem itself and then asked "was also known by what name?" with
+"Li Bai" as the correct answer — answering the question with the name
+already given, rather than testing the actual alternate-name fact
+(Li Bai/Li Po). Reworded to ask for the poet by a description (nicknamed
+the "Immortal Poet") plus the alternate romanization "Li Po", keeping the
+same answer and options. All facts in the surviving 85 were manually
+spot-checked against memory (no factual errors found, unlike several
+prior batches) — this was a strong batch on accuracy, weak only on
+duplication and format consistency. Surviving 85 merged as
+`history-068`–`152`. All confirmed-duplicate angles and the fragment-
+style caution folded into `history`'s list in `templates/history.md`.
+
 ## General Knowledge split into topic categories (2026-08-01)
 
 `general` (2825 questions) was split into 12 topic categories plus a
