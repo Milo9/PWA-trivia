@@ -27,6 +27,45 @@ instead):
 - Country known as "Land of the Rising Sun" (Japan)
 - Longest river in the world (Nile)
 - Japan's official currency (Yen)
+- Andes as the world's longest (continental) mountain range
+- Angel Falls as the world's highest waterfall
+- Sahara as the world's largest hot desert / Antarctic Desert as the
+  world's largest desert overall
+- US/Canada as the longest international land border
+- Greenland as the world's largest island
+- Highest mountain on each continent by name (Aconcagua for South
+  America, Denali for North America — these specifically, not just
+  Everest/Kilimanjaro)
+- Volga as the longest river in Europe
+- Liechtenstein and Uzbekistan as the world's only two "doubly
+  landlocked" countries
+- Kazakhstan as the world's largest landlocked country
+- Lesotho as the enclave/landlocked country entirely surrounded by
+  South Africa
+- Turkey straddling Europe and Asia across the Bosphorus
+- Sweden having the most islands of any country
+- France having the most time zones (due to overseas territories)
+- Which African country is smallest by land area (Seychelles)
+- Strait of Gibraltar separating Europe from Africa
+- Bering Strait separating Asia from North America
+- Suez Canal connecting the Mediterranean and Red Seas
+- Tanzania's official capital being Dodoma (not Dar es Salaam)
+- Yangtze as the longest river entirely within a single country/China
+- Indonesia having the most active volcanoes of any country
+- Sicily as the largest island in the Mediterranean
+- São Tomé and Príncipe's capital
+
+Also watch for two specific ambiguous-superlative traps, confirmed via
+web search while auditing a batch: (1) "highest capital city" — La Paz
+is the mainstream-cited answer (world's highest national capital,
+~3,640m); Quito (~2,850m) is only "highest" under a technical framing
+that discounts La Paz for not being Bolivia's constitutional capital —
+don't draft either without checking what's already in the corpus for
+this exact fact. (2) "driest place on Earth" — McMurdo Dry Valleys
+(Antarctica) is the actual driest place with zero recorded
+precipitation in parts; the Atacama Desert is more precisely "the
+driest non-polar desert." If drafting either, phrase precisely enough
+to not contradict the other.
 
 Use web search to verify every fact — do not rely on memory alone. Prefer
 authoritative sources (reference databases, almanacs) over guessing. For

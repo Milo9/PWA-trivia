@@ -384,6 +384,81 @@ horseshoe crab, kept when the draft asked it about an octopus instead —
 is a judgment call to keep, not an automatic cut, unlike a verbatim
 repeat on the same animal.
 
+**`QWEN37max-01-GEOGRAPHY...js` processed 2026-08-01** (single-file
+batch, 100 `geography` questions, self-declaring `category`): the
+highest duplicate rate seen on this project so far — 26 of 100 (26%) cut
+— because `geography` as a topic is almost entirely made of superlative
+chestnuts ("largest," "longest," "highest") that both this corpus and
+any drafting model converge on independently. `check-draft.js`'s default
+pass actually did most of the work this time (5 likely + 10 near-dup
+warnings caught the most blatant repeats: Sahara/largest hot desert,
+Greenland/largest island, Volga/longest river Europe, Bering
+Strait, Sicily/largest Mediterranean island, etc.), but still needed a
+manual grep-every-noun-phrase pass on top to catch same-fact-different-
+wording duplicates that score below the text/answer thresholds — e.g.
+Turkey straddling the Bosphorus already had *three* near-identical
+existing entries, France's time-zone count had *four*, and the Andes as
+longest mountain range had *four*, none flagged automatically because
+each individual pair's wording differed enough. Capital-of-country
+questions for obscure/small nations (Eswatini, Palau, Vanuatu, Kiribati,
+Tuvalu, Comoros, etc. — about 60 of the batch's 100 questions) turned
+out to be almost entirely *not* duplicated, since the existing corpus's
+capital coverage skews toward well-known countries — confirming
+`templates/geography.md`'s existing advice to favor obscure-country
+capitals really does avoid collisions in practice.
+
+This batch also surfaced three real factual errors already **shipped**
+in the existing corpus, not just in the draft — caught because the
+draft's version of the same fact used a different (and, on checking,
+more accurate) answer, which is a distinct failure mode from every prior
+batch's errors (which were all draft-side). All three were verified via
+web search, fixed in place in `data/questions/geography.json`, and kept
+distinct from the corresponding new draft entries rather than treated as
+plain duplicates:
+1. `geography-011` claimed the Botswana–Zambia border (~150m) was "the
+   shortest international land border in the world" — the Spain–Morocco
+   border at Peñón de Vélez de la Gomera (~85m) is shorter and is the one
+   generally cited as shortest. Reworded `geography-011` to drop the
+   false "shortest in the world" claim (now "one of the shortest"), and
+   kept the draft's Spain/Morocco question as the "shortest" answer.
+2. `geography-023` asked for "the highest capital city in the world by
+   elevation" and gave **Quito** as the answer; mainstream sources
+   (WorldAtlas, Britannica, CIA World Factbook) all cite **La Paz**
+   (~3,640m) as the highest, with Quito (~2,850m) second — fixed
+   `geography-023`'s answer to La Paz, which made the draft's own
+   "highest administrative capital" question (same fact, La Paz) now a
+   duplicate of the corrected entry, so that draft question was cut
+   rather than kept.
+3. `general-1482` and `general-2445` (both filed in `geography.json`
+   per the `general`-split's `dupeGroup` convention) both called the
+   Atacama Desert "the driest place on Earth" — the McMurdo Dry Valleys
+   (Antarctica) hold that title with zero recorded precipitation in
+   parts; Atacama is more precisely the driest *non-polar* desert.
+   Reworded both existing entries to say "driest non-polar desert" /
+   "driest non-polar places," which resolved what would otherwise have
+   been a direct contradiction with the draft's McMurdo Dry Valleys
+   question, and both were kept as complementary rather than
+   conflicting facts.
+
+One judgment call resolved the opposite way — *not* a contradiction
+despite initially looking like one: the draft asked for "the largest
+archipelago in the world by area" (Malay Archipelago), while the corpus
+already has four existing entries calling Indonesia "the world's largest
+archipelago." Web search confirmed these aren't actually competing
+claims: the Malay Archipelago is the largest archipelago as a geographic
+region (it contains Indonesia, the Philippines, Malaysia, Brunei, Timor-
+Leste, and Papua New Guinea), while Indonesia is the largest archipelago
+*by country*. Since the draft's question and options are all archipelago
+*regions* (not countries), it doesn't read as contradicting the existing
+country-scoped questions, so it was kept rather than cut — unlike the
+three cases above, no existing entries needed correction here, just
+verification that the two "largest" claims don't actually conflict.
+
+Surviving 74 merged as `geography-064`–`137`. All confirmed-duplicate
+angles folded into `geography`'s list in `templates/geography.md`,
+including the two ambiguous-superlative traps (highest capital,
+driest place) as cautionary notes for future drafting.
+
 ## General Knowledge split into topic categories (2026-08-01)
 
 `general` (2825 questions) was split into 12 topic categories plus a
