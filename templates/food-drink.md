@@ -106,6 +106,17 @@ differently):
   from (sturgeon) / which hotel claims to have invented the brownie
   (Palmer House, Chicago) — all already asked in both directions (name
   the food → answer, and describe the food → name it)
+- Main ingredient in Greek tzatziki besides yogurt (cucumber)
+- Primary dairy ingredient in Indian lassi (yogurt)
+- What Ethiopian/Eritrean injera flatbread is made from (teff flour)
+- The French culinary term for combining a dry-heat sear with a covered,
+  moist-heat slow cook (braising)
+
+Avoid drafting a question whose dish name already contains the answer
+(e.g. asking what tuber "pounded yam" is pounded from, when the answer is
+literally "yam"; or what grain "farro salad" is made from, when the
+answer is "farro") — these are self-answering and get cut regardless of
+whether the underlying fact is otherwise fresh.
 
 Watch especially for the *reversed-direction* duplicate pattern in this
 category: an existing question that describes an ingredient/process and

@@ -85,6 +85,24 @@ instead):
   country surrounds San Marino" or "which microstate is surrounded by
   Italy")
 - Rio Grande forming part of the US/Mexico border
+- Capitals of Suriname, Moldova, Kyrgyzstan, Turkmenistan, Montenegro,
+  Brunei, Tonga, Gabon, Mauritania, Malawi, Chad, Niger, Mali, Burkina
+  Faso, Fiji, Samoa, and Papua New Guinea — now covered; a drafting
+  agent converged on almost this exact list twice already, so treat any
+  "capital of [country]" idea as likely already covered unless the
+  country isn't in this list or the one two entries above
+- Smallest country in South America by land area (Suriname)
+- Smallest country in Asia by land area (Maldives)
+- Longest river in the United Kingdom (River Severn)
+- Legislative/administrative capital of Sri Lanka (Sri Jayawardenepura
+  Kotte, distinct from Colombo)
+- Longest river entirely within Australia (Murray River)
+- Highest point/mountain in Europe (Mount Elbrus) — already asked both
+  as "highest point" and "highest mountain," treat as the same fact
+- Africa's largest lake by surface area (Lake Victoria)
+- Madagascar as the largest island in/near Africa or in the Indian
+  Ocean — already asked with both framings; treat as the same fact and
+  don't draft a third angle on it
 
 Also watch for a flag-shape trap: a drafted question claimed Vatican
 City is "the only country other than Nepal" with a non-rectangular

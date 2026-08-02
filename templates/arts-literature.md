@@ -103,6 +103,41 @@ instead):
   *answers* are completely different strings (an artist's name vs. a
   work's title), so an answer-text-match check won't catch it — only a
   read-through comparing what fact each question actually tests will.
+- Same reverse-direction pattern, now also covered: Kafka's "The
+  Metamorphosis" and "The Trial", Beckett's "Waiting for Godot", Hans
+  Holbein the Younger's "The Ambassadors" (the anamorphic skull
+  painting), Fragonard's "The Swing", Coleridge's "The Rime of the
+  Ancient Mariner", Synge's "The Playboy of the Western World" (the
+  1907 Dublin riot play), and Toni Morrison's "Beloved" — a batch of
+  100 questions drafted as "who wrote/painted X" collided with a
+  separate batch of 100 drafted as "which [author]'s work is X" on all
+  seven of these; if you're given one direction's phrasing style, that
+  doesn't protect against colliding with a differently-phrased existing
+  question testing the same work
+- Boccioni's "Unique Forms of Continuity in Space" (1913 bronze),
+  Boccaccio's "The Decameron", and Millais's "Ophelia" (1851-52
+  painting) — already asked (same-direction duplicates: two separately
+  drafted batches both used "who created X" phrasing for these three)
+- Emily Dickinson's "Because I could not stop for Death" — already
+  asked via a description of its content ("personifies mortality as a
+  gentleman caller..."); don't also draft it via its opening line, since
+  quoting the first line as the question's premise makes the answer
+  self-evident anyway
+- Monet's "Impression, Sunrise" giving the Impressionist movement its
+  name — now covered
+- Keats's "Ode on a Grecian Urn" via its closing "beauty is truth"
+  lines — now covered
+- Which book was published first in C.S. Lewis's "Chronicles of
+  Narnia" (The Lion, the Witch and the Wardrobe) — now covered
+
+Avoid drafting a question whose only in-universe answer is a character's
+name (or an in-story quoted term) that's identical to the work's title —
+these self-answering questions get cut regardless of how obscure the
+underlying fact is. Confirmed examples already hit: Voltaire's "Candide"
+(protagonist is literally named Candide), Voltaire's "Zadig" (protagonist
+named Zadig), Neal Stephenson's "Snow Crash" (the in-story drug is named
+"Snow Crash"), and Gogol's "Dead Souls" (the question's own premise
+quotes the phrase "dead souls").
 
 CAUTION — a same-author reuse isn't automatically a duplicate: e.g. Arthur
 Miller wrote both "Death of a Salesman" (covered above) and "The Crucible"

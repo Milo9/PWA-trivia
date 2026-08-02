@@ -86,6 +86,10 @@ instead):
   parasitism)
 - Blobfish's "ugly" appearance being an artifact of decompression at the
   surface, not how it looks at depth
+- Pistol shrimp's cavitation bubble reaching temperatures comparable to
+  the surface of the sun
+- Kiwi laying the largest egg relative to its body size of any bird
+- Male platypus's venomous spurs on its hind legs
 
 Two facts that are premises already stated inside an existing question's
 stem, so drafting them as a separate standalone question is redundant even
