@@ -111,11 +111,11 @@ tokens and re-auditing shouldn't:
    questions converge on the same famous answer), run
    `npm run check-draft -- <path-to-draft.js> --full-answer-audit` too —
    it prints every draft answer's *complete* corpus match list with no
-   threshold, for you to eyeball directly. See CLAUDE.md's
-   `gemini-code-1785624420472.js` entry for why this exists: a batch of
-   generic "who directed/played/composed X for a famous film" questions
-   scored almost entirely below the default check's threshold despite
-   ~41% being real duplicates.
+   threshold, for you to eyeball directly. See CLAUDE.md's "Duplicate
+   detection: what the tools catch and what they miss" for why this
+   exists: a batch of generic "who directed/played/composed X for a
+   famous film" questions once scored almost entirely below the default
+   check's threshold despite ~41% being real duplicates.
 3. Merge the draft into `data/questions/<category>.json`, assigning each
    entry a sequential `id` starting one past the current highest number in
    that category, and setting `category` to match. For a category that was
