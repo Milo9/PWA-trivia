@@ -553,6 +553,57 @@ All confirmed-duplicate angles, plus the Creation-of-Adam/Sistine-ceiling
 and movement-vs-artist distinctions as cautionary notes, folded into
 `arts-literature`'s list in `templates/arts-literature.md`.
 
+**`SCIENCE-QWEN37-lsdfjgso9804956j59j.js` processed 2026-08-01**
+(single-file batch, 100 `science-technology` questions, self-declaring
+`category`): a moderate duplicate rate — 21 of 100 cut, 1 accuracy fix,
+0 schema/hedge problems (the cleanest batch on schema issues so far).
+`check-draft.js`'s default pass caught 2 outright and 9 near-duplicates;
+`--full-answer-audit` (24 draft answers with a corpus match) found the
+rest, mostly the same "computing acronym expansion" and "process/
+phenomenon name" chestnuts already documented for other categories —
+laughing gas/nitrous oxide, bronze, sublimation, Doppler effect, mitosis,
+DNA's sugar backbone, melanin, Ada Lovelace's algorithm, Mosaic the first
+browser, Guido van Rossum/Python, the elevator/Otis fact, and acronym
+expansions for SQL, API, HTTP, URL, RAM, CPU, and VPN (BIOS, DNS, GUI, and
+IoT, by contrast, were genuinely fresh — confirmed via direct corpus grep
+since the audit only checks answer-text matches).
+
+Two pairs looked like duplicates by shared answer/near-identical wording
+but weren't, and were kept: SI unit of magnetic flux (Weber) vs. the
+existing SI unit of magnetic flux *density* (Tesla) — different physical
+quantities; and "which company developed C#" (Microsoft) vs. the existing
+"which company developed C" (Bell Labs/AT&T, a different language
+entirely) — both now noted as cautions in `templates/science-technology.md`
+rather than angles to avoid, since the underlying facts are legitimately
+different despite the surface pattern match. One duplicate needed judgment
+in the *opposite* direction: "what structure in a eukaryotic cell contains
+genetic material" (Nucleus) was cut despite not matching any existing
+answer text, because the existing corpus already asks the same
+nucleus↔genetic-material relationship in reverse ("what genetic material
+is found in the nucleus" → DNA) — the same reversed-direction duplicate
+pattern documented in the README's Robin Hood/archery example, which
+`check-draft.js` can't catch since the answer text differs.
+
+One accuracy bug, not a duplication issue: a question described
+"a material [that] emits light after absorbing photons" and gave
+Fluorescence as the answer, but that description is the general definition
+of photoluminescence and fits Phosphorescence (also an option) equally
+well without specifying timing — fixed by rewording to specify immediate
+re-emission vs. phosphorescence's delayed glow, keeping the same answer
+and options. Caught a process bug of its own, not just a content one:
+after the CUT-index merge script ran, `validate` still flagged a
+duplicate (`science-technology-163`, "largest internal organ" = Liver,
+against the pre-existing `science-technology-077`) — this fact had been
+correctly identified as a duplicate during manual review but the index
+was accidentally omitted from the script's actual cut set, a reminder to
+diff the planned-cuts list against the executed one (or just re-run
+`validate` immediately after merging, before shipping, which is what
+caught it here) rather than trusting the review pass alone. Surviving 78
+(after removing that one post-merge) merged as `science-technology-113`
+onward (one id gap at 163 from the post-merge fix). All confirmed-
+duplicate angles, plus the magnetic-flux/C# cautions, folded into
+`science-technology`'s list in `templates/science-technology.md`.
+
 ## General Knowledge split into topic categories (2026-08-01)
 
 `general` (2825 questions) was split into 12 topic categories plus a

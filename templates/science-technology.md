@@ -39,6 +39,36 @@ instead):
 - "First successful human [organ] transplant surgeon" template — heart,
   liver, kidney, lung, pancreas, and bone marrow transplant firsts are all
   now covered
+- Largest INTERNAL organ in the human body (Liver) — distinct from "largest
+  organ" (Skin, already listed above), but also already covered
+- Chemical name for laughing gas (Nitrous oxide)
+- Alloy of copper and tin (Bronze)
+- Solid-to-gas phase change term (Sublimation)
+- Doppler effect (sound wave frequency shift from relative motion)
+- Mitosis (cell division into two identical daughter cells)
+- Sugar in DNA's backbone (Deoxyribose)
+- Pigment giving human skin its color (Melanin)
+- Blood vessel carrying blood away from the heart (Artery)
+- Structure containing genetic material — whether asked directly ("what
+  structure holds a cell's DNA" -> Nucleus) or in reverse ("what's the
+  genetic material found in the nucleus" -> DNA), both directions are
+  covered
+- Brain region for balance/coordination (Cerebellum)
+- Credited with the first algorithm for a machine (Ada Lovelace)
+- First widely-used graphical web browser (Mosaic)
+- Python's creator (Guido van Rossum)
+- Computing acronym expansions for SQL, API, HTTP, URL, RAM, CPU, VPN —
+  very high collision rate, favor less-common acronyms (e.g. avoid another
+  "what does X stand for" unless X isn't already on this list)
+- Elisha Otis and the safety elevator
+
+CAUTION — some pairs that look like duplicates by shared answer or
+surface wording are NOT: SI unit of magnetic flux (Weber) is a different
+quantity from SI unit of magnetic flux DENSITY (Tesla), already covered;
+"which company developed C#" (Microsoft) is a different fact from "which
+company developed C" (Bell Labs/AT&T) despite the near-identical question
+text. Don't skip a fact just because a similarly-worded question already
+exists — check whether it's actually the same underlying fact first.
 
 Use web search to verify every fact — do not rely on memory alone. Prefer
 authoritative sources (reference databases, encyclopedic sources) over
