@@ -3365,5 +3365,993 @@
       "Centrifugal"
     ],
     "answer": "Gravity"
+  },
+  {
+    "difficulty": "easy",
+    "category": "space-astronomy",
+    "question": "Which planet has the highest average surface temperature?",
+    "options": [
+      "Mercury",
+      "Venus",
+      "Mars",
+      "Jupiter"
+    ],
+    "answer": "Venus",
+    "id": "space-astronomy-097"
+  },
+  {
+    "difficulty": "medium",
+    "category": "space-astronomy",
+    "question": "Which planet has the greatest orbital eccentricity?",
+    "options": [
+      "Mars",
+      "Mercury",
+      "Venus",
+      "Saturn"
+    ],
+    "answer": "Mercury",
+    "id": "space-astronomy-098"
+  },
+  {
+    "difficulty": "easy",
+    "category": "space-astronomy",
+    "question": "Which planet has the strongest magnetic field?",
+    "options": [
+      "Saturn",
+      "Jupiter",
+      "Earth",
+      "Neptune"
+    ],
+    "answer": "Jupiter",
+    "id": "space-astronomy-099"
+  },
+  {
+    "difficulty": "easy",
+    "category": "space-astronomy",
+    "question": "Which planet is the densest in the solar system?",
+    "options": [
+      "Mercury",
+      "Venus",
+      "Earth",
+      "Mars"
+    ],
+    "answer": "Earth",
+    "id": "space-astronomy-100"
+  },
+  {
+    "difficulty": "medium",
+    "category": "space-astronomy",
+    "question": "Which planet has the highest albedo, reflecting the most sunlight?",
+    "options": [
+      "Earth",
+      "Jupiter",
+      "Venus",
+      "Saturn"
+    ],
+    "answer": "Venus",
+    "id": "space-astronomy-101"
+  },
+  {
+    "difficulty": "hard",
+    "category": "space-astronomy",
+    "question": "Which planet features a hexagonal jet stream at its north pole?",
+    "options": [
+      "Jupiter",
+      "Saturn",
+      "Neptune",
+      "Uranus"
+    ],
+    "answer": "Saturn",
+    "id": "space-astronomy-102"
+  },
+  {
+    "difficulty": "easy",
+    "category": "space-astronomy",
+    "question": "Which planet’s atmosphere is primarily composed of carbon dioxide?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Earth",
+      "Mercury"
+    ],
+    "answer": "Venus",
+    "id": "space-astronomy-103"
+  },
+  {
+    "difficulty": "hard",
+    "category": "space-astronomy",
+    "question": "Which planet has the most circular orbit around the Sun?",
+    "options": [
+      "Earth",
+      "Neptune",
+      "Venus",
+      "Saturn"
+    ],
+    "answer": "Venus",
+    "id": "space-astronomy-104"
+  },
+  {
+    "difficulty": "medium",
+    "category": "space-astronomy",
+    "question": "Which planet has the highest surface gravity?",
+    "options": [
+      "Saturn",
+      "Neptune",
+      "Earth",
+      "Jupiter"
+    ],
+    "answer": "Jupiter",
+    "id": "space-astronomy-105"
+  },
+  {
+    "difficulty": "easy",
+    "category": "space-astronomy",
+    "question": "Which planet has the thickest atmosphere?",
+    "options": [
+      "Jupiter",
+      "Saturn",
+      "Venus",
+      "Earth"
+    ],
+    "answer": "Venus",
+    "id": "space-astronomy-106"
+  },
+  {
+    "difficulty": "medium",
+    "category": "space-astronomy",
+    "question": "Which planet has a day length of approximately 24 hours and 37 minutes?",
+    "options": [
+      "Venus",
+      "Mercury",
+      "Mars",
+      "Jupiter"
+    ],
+    "answer": "Mars",
+    "id": "space-astronomy-107"
+  },
+  {
+    "difficulty": "medium",
+    "category": "space-astronomy",
+    "question": "Which moon has a nitrogen-rich atmosphere?",
+    "options": [
+      "Europa",
+      "Ganymede",
+      "Titan",
+      "Enceladus"
+    ],
+    "answer": "Titan",
+    "id": "space-astronomy-108"
+  },
+  {
+    "difficulty": "hard",
+    "category": "space-astronomy",
+    "question": "Which moon has a two-toned surface with a dark leading hemisphere?",
+    "options": [
+      "Rhea",
+      "Dione",
+      "Iapetus",
+      "Tethys"
+    ],
+    "answer": "Iapetus",
+    "id": "space-astronomy-109"
+  },
+  {
+    "difficulty": "medium",
+    "category": "space-astronomy",
+    "question": "Which moon is the largest relative to the size of its planet?",
+    "options": [
+      "Moon (Earth)",
+      "Titan (Saturn)",
+      "Ganymede (Jupiter)",
+      "Charon (Pluto)"
+    ],
+    "answer": "Charon (Pluto)",
+    "id": "space-astronomy-110"
+  },
+  {
+    "difficulty": "medium",
+    "category": "space-astronomy",
+    "question": "Which moon has lakes and rivers of liquid methane and ethane?",
+    "options": [
+      "Europa",
+      "Enceladus",
+      "Titan",
+      "Triton"
+    ],
+    "answer": "Titan",
+    "id": "space-astronomy-111"
+  },
+  {
+    "difficulty": "hard",
+    "category": "space-astronomy",
+    "question": "Which moon has the highest density?",
+    "options": [
+      "Europa",
+      "Ganymede",
+      "Io",
+      "Callisto"
+    ],
+    "answer": "Io",
+    "id": "space-astronomy-112"
+  },
+  {
+    "difficulty": "hard",
+    "category": "space-astronomy",
+    "question": "Which moon has a chaotic, tumbling rotation?",
+    "options": [
+      "Phoebe",
+      "Miranda",
+      "Hyperion",
+      "Nereid"
+    ],
+    "answer": "Hyperion",
+    "id": "space-astronomy-113"
+  },
+  {
+    "difficulty": "hard",
+    "category": "space-astronomy",
+    "question": "Which moon has the most eccentric orbit of any large moon?",
+    "options": [
+      "Triton",
+      "Phoebe",
+      "Nereid",
+      "Himalia"
+    ],
+    "answer": "Nereid",
+    "id": "space-astronomy-114"
+  },
+  {
+    "difficulty": "medium",
+    "category": "space-astronomy",
+    "question": "Which moon is the second largest in the solar system?",
+    "options": [
+      "Callisto",
+      "Io",
+      "Titan",
+      "Earth's Moon"
+    ],
+    "answer": "Titan",
+    "id": "space-astronomy-115"
+  },
+  {
+    "difficulty": "medium",
+    "category": "space-astronomy",
+    "question": "Which moon was the first to be discovered beyond Earth’s Moon?",
+    "options": [
+      "Titan",
+      "Triton",
+      "Phobos",
+      "Galilean moons"
+    ],
+    "answer": "Galilean moons",
+    "id": "space-astronomy-116"
+  },
+  {
+    "difficulty": "hard",
+    "category": "space-astronomy",
+    "question": "Which moon has a surface temperature of approximately -178°C?",
+    "options": [
+      "Ganymede",
+      "Europa",
+      "Callisto",
+      "Titan"
+    ],
+    "answer": "Europa",
+    "id": "space-astronomy-117"
+  },
+  {
+    "difficulty": "easy",
+    "category": "space-astronomy",
+    "question": "Which star is the brightest in the night sky?",
+    "options": [
+      "Vega",
+      "Sirius",
+      "Arcturus",
+      "Canopus"
+    ],
+    "answer": "Sirius",
+    "id": "space-astronomy-118"
+  },
+  {
+    "difficulty": "easy",
+    "category": "space-astronomy",
+    "question": "Which star is known as the 'Dog Star'?",
+    "options": [
+      "Procyon",
+      "Sirius",
+      "Betelgeuse",
+      "Rigel"
+    ],
+    "answer": "Sirius",
+    "id": "space-astronomy-119"
+  },
+  {
+    "difficulty": "easy",
+    "category": "space-astronomy",
+    "question": "Which star is currently the North Star?",
+    "options": [
+      "Vega",
+      "Polaris",
+      "Deneb",
+      "Aldebaran"
+    ],
+    "answer": "Polaris",
+    "id": "space-astronomy-120"
+  },
+  {
+    "difficulty": "medium",
+    "category": "space-astronomy",
+    "question": "Which star is a red supergiant in the constellation Orion?",
+    "options": [
+      "Rigel",
+      "Bellatrix",
+      "Betelgeuse",
+      "Saiph"
+    ],
+    "answer": "Betelgeuse",
+    "id": "space-astronomy-121"
+  },
+  {
+    "difficulty": "hard",
+    "category": "space-astronomy",
+    "question": "Which star is the second brightest in the night sky?",
+    "options": [
+      "Arcturus",
+      "Vega",
+      "Canopus",
+      "Capella"
+    ],
+    "answer": "Canopus",
+    "id": "space-astronomy-122"
+  },
+  {
+    "difficulty": "medium",
+    "category": "space-astronomy",
+    "question": "Which star system contains the first confirmed exoplanet around a Sun-like star?",
+    "options": [
+      "Alpha Centauri",
+      "51 Pegasi",
+      "Tau Ceti",
+      "Epsilon Eridani"
+    ],
+    "answer": "51 Pegasi",
+    "id": "space-astronomy-123"
+  },
+  {
+    "difficulty": "easy",
+    "category": "space-astronomy",
+    "question": "What is the spectral type of the Sun?",
+    "options": [
+      "K-type",
+      "G-type main-sequence",
+      "F-type",
+      "M-type"
+    ],
+    "answer": "G-type main-sequence",
+    "id": "space-astronomy-124"
+  },
+  {
+    "difficulty": "hard",
+    "category": "space-astronomy",
+    "question": "Which star is the most massive known star as of 2026?",
+    "options": [
+      "UY Scuti",
+      "Stephenson 2-18",
+      "R136a1",
+      "VY Canis Majoris"
+    ],
+    "answer": "R136a1",
+    "id": "space-astronomy-125"
+  },
+  {
+    "difficulty": "hard",
+    "category": "space-astronomy",
+    "question": "Which star is the largest known by radius as of 2026?",
+    "options": [
+      "UY Scuti",
+      "Stephenson 2-18",
+      "VY Canis Majoris",
+      "R136a1"
+    ],
+    "answer": "Stephenson 2-18",
+    "id": "space-astronomy-126"
+  },
+  {
+    "difficulty": "medium",
+    "category": "space-astronomy",
+    "question": "Which star is a red supergiant in the constellation Scorpius?",
+    "options": [
+      "Shaula",
+      "Sargas",
+      "Antares",
+      "Alniyat"
+    ],
+    "answer": "Antares",
+    "id": "space-astronomy-127"
+  },
+  {
+    "difficulty": "easy",
+    "category": "space-astronomy",
+    "question": "Which constellation contains the stars Betelgeuse and Rigel?",
+    "options": [
+      "Taurus",
+      "Canis Major",
+      "Orion",
+      "Leo"
+    ],
+    "answer": "Orion",
+    "id": "space-astronomy-128"
+  },
+  {
+    "difficulty": "hard",
+    "category": "space-astronomy",
+    "question": "Which type of star is commonly used as a standard candle in astronomy?",
+    "options": [
+      "RR Lyrae",
+      "Delta Scuti",
+      "Mira",
+      "Cepheid variable"
+    ],
+    "answer": "Cepheid variable",
+    "id": "space-astronomy-129"
+  },
+  {
+    "difficulty": "medium",
+    "category": "space-astronomy",
+    "question": "Which star is the closest to the Sun that is visible to the naked eye?",
+    "options": [
+      "Proxima Centauri",
+      "Barnard's Star",
+      "Alpha Centauri A",
+      "Wolf 359"
+    ],
+    "answer": "Alpha Centauri A",
+    "id": "space-astronomy-130"
+  },
+  {
+    "difficulty": "hard",
+    "category": "space-astronomy",
+    "question": "Which star is the most luminous known as of 2026?",
+    "options": [
+      "Stephenson 2-18",
+      "UY Scuti",
+      "R136a1",
+      "Eta Carinae"
+    ],
+    "answer": "R136a1",
+    "id": "space-astronomy-131"
+  },
+  {
+    "difficulty": "medium",
+    "category": "space-astronomy",
+    "question": "Which star system is a binary with a white dwarf companion?",
+    "options": [
+      "Procyon",
+      "Alpha Centauri",
+      "Sirius",
+      "Vega"
+    ],
+    "answer": "Sirius",
+    "id": "space-astronomy-132"
+  },
+  {
+    "difficulty": "medium",
+    "category": "space-astronomy",
+    "question": "Which mission was the first to orbit a comet?",
+    "options": [
+      "Deep Impact",
+      "Stardust",
+      "Rosetta",
+      "Giotto"
+    ],
+    "answer": "Rosetta",
+    "id": "space-astronomy-133"
+  },
+  {
+    "difficulty": "medium",
+    "category": "space-astronomy",
+    "question": "Which mission was the first to land on a comet?",
+    "options": [
+      "Rosetta",
+      "NEAR Shoemaker",
+      "Hayabusa",
+      "Philae"
+    ],
+    "answer": "Philae",
+    "id": "space-astronomy-134"
+  },
+  {
+    "difficulty": "medium",
+    "category": "space-astronomy",
+    "question": "Which mission was the first to orbit Jupiter?",
+    "options": [
+      "Pioneer 10",
+      "Voyager 1",
+      "Galileo",
+      "Juno"
+    ],
+    "answer": "Galileo",
+    "id": "space-astronomy-135"
+  },
+  {
+    "difficulty": "medium",
+    "category": "space-astronomy",
+    "question": "Which mission was the first to orbit Saturn?",
+    "options": [
+      "Voyager 1",
+      "Voyager 2",
+      "Pioneer 11",
+      "Cassini"
+    ],
+    "answer": "Cassini",
+    "id": "space-astronomy-136"
+  },
+  {
+    "difficulty": "medium",
+    "category": "space-astronomy",
+    "question": "Which mission was the first to orbit Mercury?",
+    "options": [
+      "Mariner 10",
+      "MESSENGER",
+      "BepiColombo",
+      "Venus Express"
+    ],
+    "answer": "MESSENGER",
+    "id": "space-astronomy-137"
+  },
+  {
+    "difficulty": "medium",
+    "category": "space-astronomy",
+    "question": "Which mission is currently studying the Sun’s corona?",
+    "options": [
+      "SOHO",
+      "Solar Orbiter",
+      "Parker Solar Probe",
+      "STEREO"
+    ],
+    "answer": "Parker Solar Probe",
+    "id": "space-astronomy-138"
+  },
+  {
+    "difficulty": "medium",
+    "category": "space-astronomy",
+    "question": "Which NASA program aims to return humans to the Moon?",
+    "options": [
+      "Apollo",
+      "Orion",
+      "Artemis",
+      "Dragon"
+    ],
+    "answer": "Artemis",
+    "id": "space-astronomy-139"
+  },
+  {
+    "difficulty": "medium",
+    "category": "space-astronomy",
+    "question": "Which ESA mission is designed to study Jupiter’s moons?",
+    "options": [
+      "Europa Clipper",
+      "Cassini",
+      "Galileo",
+      "JUICE"
+    ],
+    "answer": "JUICE",
+    "id": "space-astronomy-140"
+  },
+  {
+    "difficulty": "medium",
+    "category": "space-astronomy",
+    "question": "Which NASA mission will study Europa in detail?",
+    "options": [
+      "Galileo",
+      "Juno",
+      "Cassini",
+      "Europa Clipper"
+    ],
+    "answer": "Europa Clipper",
+    "id": "space-astronomy-141"
+  },
+  {
+    "difficulty": "hard",
+    "category": "space-astronomy",
+    "question": "Which mission launched in 2025 to study magnetic reconnection?",
+    "options": [
+      "Parker Solar Probe",
+      "Solar Orbiter",
+      "TRACERS",
+      "IMAP"
+    ],
+    "answer": "TRACERS",
+    "id": "space-astronomy-142"
+  },
+  {
+    "difficulty": "hard",
+    "category": "space-astronomy",
+    "question": "Which mission launched in 2025 to study the heliosphere?",
+    "options": [
+      "Voyager",
+      "New Horizons",
+      "TRACERS",
+      "IMAP"
+    ],
+    "answer": "IMAP",
+    "id": "space-astronomy-143"
+  },
+  {
+    "difficulty": "hard",
+    "category": "space-astronomy",
+    "question": "Which ESA mission plans its first test flights in 2026?",
+    "options": [
+      "Ariane 6",
+      "Vega C",
+      "Soyuz",
+      "Themis"
+    ],
+    "answer": "Themis",
+    "id": "space-astronomy-144"
+  },
+  {
+    "difficulty": "hard",
+    "category": "space-astronomy",
+    "question": "Which NASA space telescope launched in 2026 to study exoplanet atmospheres?",
+    "options": [
+      "James Webb",
+      "Hubble",
+      "Pandora",
+      "TESS"
+    ],
+    "answer": "Pandora",
+    "id": "space-astronomy-145"
+  },
+  {
+    "difficulty": "medium",
+    "category": "space-astronomy",
+    "question": "Which mission was the first to orbit a dwarf planet?",
+    "options": [
+      "New Horizons",
+      "Hayabusa",
+      "Rosetta",
+      "Dawn"
+    ],
+    "answer": "Dawn",
+    "id": "space-astronomy-146"
+  },
+  {
+    "difficulty": "medium",
+    "category": "space-astronomy",
+    "question": "Which mission studied Saturn’s moon Enceladus in detail?",
+    "options": [
+      "Voyager 2",
+      "Galileo",
+      "New Horizons",
+      "Cassini"
+    ],
+    "answer": "Cassini",
+    "id": "space-astronomy-147"
+  },
+  {
+    "difficulty": "medium",
+    "category": "space-astronomy",
+    "question": "Which mission discovered water vapor on Europa?",
+    "options": [
+      "Galileo",
+      "Juno",
+      "Cassini",
+      "Hubble"
+    ],
+    "answer": "Hubble",
+    "id": "space-astronomy-148"
+  },
+  {
+    "difficulty": "medium",
+    "category": "space-astronomy",
+    "question": "Which mission will study the Trojan asteroids?",
+    "options": [
+      "Psyche",
+      "OSIRIS-REx",
+      "Hayabusa2",
+      "Lucy"
+    ],
+    "answer": "Lucy",
+    "id": "space-astronomy-149"
+  },
+  {
+    "difficulty": "medium",
+    "category": "space-astronomy",
+    "question": "Which NASA mission is set to explore a metal-rich asteroid believed to be the exposed iron core of an early planet-forming body?",
+    "options": [
+      "Lucy",
+      "Dawn",
+      "Hayabusa2",
+      "Psyche"
+    ],
+    "answer": "Psyche",
+    "id": "space-astronomy-150"
+  },
+  {
+    "difficulty": "medium",
+    "category": "space-astronomy",
+    "question": "What is the approximate age of the universe?",
+    "options": [
+      "10 billion years",
+      "13.8 billion years",
+      "15 billion years",
+      "20 billion years"
+    ],
+    "answer": "13.8 billion years",
+    "id": "space-astronomy-151"
+  },
+  {
+    "difficulty": "medium",
+    "category": "space-astronomy",
+    "question": "What is the name of the afterglow of the Big Bang?",
+    "options": [
+      "Cosmic Background Radiation",
+      "Primordial Light",
+      "Cosmic Microwave Background",
+      "Relic Radiation"
+    ],
+    "answer": "Cosmic Microwave Background",
+    "id": "space-astronomy-152"
+  },
+  {
+    "difficulty": "medium",
+    "category": "space-astronomy",
+    "question": "What percentage of the universe is estimated to be dark matter?",
+    "options": [
+      "5%",
+      "27%",
+      "68%",
+      "95%"
+    ],
+    "answer": "27%",
+    "id": "space-astronomy-153"
+  },
+  {
+    "difficulty": "medium",
+    "category": "space-astronomy",
+    "question": "What percentage of the universe is estimated to be dark energy?",
+    "options": [
+      "5%",
+      "27%",
+      "68%",
+      "95%"
+    ],
+    "answer": "68%",
+    "id": "space-astronomy-154"
+  },
+  {
+    "difficulty": "hard",
+    "category": "space-astronomy",
+    "question": "What is the name for the first generation of stars in the universe?",
+    "options": [
+      "Population I stars",
+      "Population II stars",
+      "Population III stars",
+      "Primordial stars"
+    ],
+    "answer": "Population III stars",
+    "id": "space-astronomy-155"
+  },
+  {
+    "difficulty": "hard",
+    "category": "space-astronomy",
+    "question": "What is the name of the largest known structure in the observable universe?",
+    "options": [
+      "Sloan Great Wall",
+      "Laniakea Supercluster",
+      "Local Group",
+      "Hercules–Corona Borealis Great Wall"
+    ],
+    "answer": "Hercules–Corona Borealis Great Wall",
+    "id": "space-astronomy-156"
+  },
+  {
+    "difficulty": "hard",
+    "category": "space-astronomy",
+    "question": "What is the name of the void that contains the Milky Way?",
+    "options": [
+      "Boötes Void",
+      "Sculptor Void",
+      "Local Void",
+      "Canes Venatici Void"
+    ],
+    "answer": "Local Void",
+    "id": "space-astronomy-157"
+  },
+  {
+    "difficulty": "medium",
+    "category": "space-astronomy",
+    "question": "What is the name of the supercluster that contains the Milky Way?",
+    "options": [
+      "Virgo Supercluster",
+      "Local Group",
+      "Coma Supercluster",
+      "Laniakea"
+    ],
+    "answer": "Laniakea",
+    "id": "space-astronomy-158"
+  },
+  {
+    "difficulty": "medium",
+    "category": "space-astronomy",
+    "question": "Which mission studied the cosmic microwave background in detail?",
+    "options": [
+      "COBE",
+      "Hubble",
+      "Planck",
+      "WMAP"
+    ],
+    "answer": "Planck",
+    "id": "space-astronomy-159"
+  },
+  {
+    "difficulty": "hard",
+    "category": "space-astronomy",
+    "question": "What is the name of the epoch immediately after the Big Bang?",
+    "options": [
+      "Quantum epoch",
+      "Grand unification epoch",
+      "Planck epoch",
+      "Inflationary epoch"
+    ],
+    "answer": "Planck epoch",
+    "id": "space-astronomy-160"
+  },
+  {
+    "difficulty": "medium",
+    "category": "space-astronomy",
+    "question": "What were the first atoms formed in the universe?",
+    "options": [
+      "Carbon and Oxygen",
+      "Nitrogen and Oxygen",
+      "Hydrogen and Helium",
+      "Iron and Nickel"
+    ],
+    "answer": "Hydrogen and Helium",
+    "id": "space-astronomy-161"
+  },
+  {
+    "difficulty": "hard",
+    "category": "space-astronomy",
+    "question": "As of February 2026, how many confirmed exoplanets are listed in the NASA Exoplanet Archive?",
+    "options": [
+      "4,000",
+      "5,000",
+      "6,128",
+      "7,000"
+    ],
+    "answer": "6,128",
+    "id": "space-astronomy-162"
+  },
+  {
+    "difficulty": "medium",
+    "category": "space-astronomy",
+    "question": "Which dwarf planet has the most moons?",
+    "options": [
+      "Eris",
+      "Haumea",
+      "Pluto",
+      "Makemake"
+    ],
+    "answer": "Pluto",
+    "id": "space-astronomy-163"
+  },
+  {
+    "difficulty": "medium",
+    "category": "space-astronomy",
+    "question": "Which dwarf planet has a heart-shaped feature on its surface?",
+    "options": [
+      "Eris",
+      "Pluto",
+      "Haumea",
+      "Makemake"
+    ],
+    "answer": "Pluto",
+    "id": "space-astronomy-164"
+  },
+  {
+    "difficulty": "hard",
+    "category": "space-astronomy",
+    "question": "Which dwarf planet is the second-brightest object in the Kuiper Belt?",
+    "options": [
+      "Pluto",
+      "Eris",
+      "Haumea",
+      "Makemake"
+    ],
+    "answer": "Makemake",
+    "id": "space-astronomy-165"
+  },
+  {
+    "difficulty": "medium",
+    "category": "space-astronomy",
+    "question": "Which dwarf planet has an oval shape due to rapid rotation?",
+    "options": [
+      "Pluto",
+      "Eris",
+      "Haumea",
+      "Makemake"
+    ],
+    "answer": "Haumea",
+    "id": "space-astronomy-166"
+  },
+  {
+    "difficulty": "medium",
+    "category": "space-astronomy",
+    "question": "Which dwarf planet was discovered in 2005 and led to Pluto’s reclassification?",
+    "options": [
+      "Haumea",
+      "Makemake",
+      "Eris",
+      "Sedna"
+    ],
+    "answer": "Eris",
+    "id": "space-astronomy-167"
+  },
+  {
+    "difficulty": "hard",
+    "category": "space-astronomy",
+    "question": "Which asteroid was the first to be visited by a spacecraft?",
+    "options": [
+      "433 Eros",
+      "253 Mathilde",
+      "951 Gaspra",
+      "243 Ida"
+    ],
+    "answer": "951 Gaspra",
+    "id": "space-astronomy-168"
+  },
+  {
+    "difficulty": "hard",
+    "category": "space-astronomy",
+    "question": "Which asteroid was the first to have a spacecraft enter orbit around it?",
+    "options": [
+      "951 Gaspra",
+      "253 Mathilde",
+      "433 Eros",
+      "243 Ida"
+    ],
+    "answer": "433 Eros",
+    "id": "space-astronomy-169"
+  },
+  {
+    "difficulty": "medium",
+    "category": "space-astronomy",
+    "question": "Which comet was the first to be orbited by a spacecraft?",
+    "options": [
+      "Halley’s Comet",
+      "Tempel 1",
+      "67P/Churyumov–Gerasimenko",
+      "Borrelly"
+    ],
+    "answer": "67P/Churyumov–Gerasimenko",
+    "id": "space-astronomy-170"
+  },
+  {
+    "difficulty": "hard",
+    "category": "space-astronomy",
+    "question": "Which asteroid will the ESA Hera mission visit in 2026?",
+    "options": [
+      "Bennu",
+      "Ryugu",
+      "Didymos",
+      "Itokawa"
+    ],
+    "answer": "Didymos",
+    "id": "space-astronomy-171"
+  },
+  {
+    "difficulty": "hard",
+    "category": "space-astronomy",
+    "question": "Which interstellar comet was discovered in July 2025?",
+    "options": [
+      "Borisov",
+      "Oumuamua",
+      "3I/ATLAS",
+      "Hale-Bopp"
+    ],
+    "answer": "3I/ATLAS",
+    "id": "space-astronomy-172"
   }
 ]
