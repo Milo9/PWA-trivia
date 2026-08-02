@@ -5302,5 +5302,1240 @@
       "Blue seaweed"
     ],
     "answer": "Red seaweed"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Which Greek cheese is commonly flambéed in the appetizer saganaki?",
+    "options": [
+      "Feta",
+      "Halloumi",
+      "Graviera",
+      "Kefalotyri"
+    ],
+    "answer": "Kefalotyri",
+    "id": "food-drink-261"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "What is the Japanese culinary art of carving decorative garnishes from vegetables and fruits?",
+    "options": [
+      "Kaiseki",
+      "Mukimono",
+      "Ikebana",
+      "Sashimi"
+    ],
+    "answer": "Mukimono",
+    "id": "food-drink-262"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "What type of Japanese noodle is made primarily from buckwheat flour?",
+    "options": [
+      "Udon",
+      "Ramen",
+      "Soba",
+      "Somen"
+    ],
+    "answer": "Soba",
+    "id": "food-drink-263"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What is the name of the spicy Ethiopian seasoning blend typically containing chili peppers, garlic, and ginger?",
+    "options": [
+      "Za'atar",
+      "Berbere",
+      "Harissa",
+      "Garam masala"
+    ],
+    "answer": "Berbere",
+    "id": "food-drink-264"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What cooking technique involves vacuum-sealing food and cooking it in a temperature-controlled water bath?",
+    "options": [
+      "Braising",
+      "Sous vide",
+      "Poaching",
+      "Steaming"
+    ],
+    "answer": "Sous vide",
+    "id": "food-drink-265"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What cold Spanish soup, predating gazpacho, is made from almonds, bread, garlic, and olive oil?",
+    "options": [
+      "Salmorejo",
+      "Gazpacho",
+      "Ajo blanco",
+      "Vichyssoise"
+    ],
+    "answer": "Ajo blanco",
+    "id": "food-drink-266"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "Which vegetable is stuffed with onions, garlic, and tomatoes in the Turkish dish imam bayildi?",
+    "options": [
+      "Zucchini",
+      "Bell pepper",
+      "Eggplant",
+      "Potato"
+    ],
+    "answer": "Eggplant",
+    "id": "food-drink-267"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "The French liqueur crème de cassis is made from what type of berry?",
+    "options": [
+      "Raspberry",
+      "Blueberry",
+      "Elderberry",
+      "Blackcurrant"
+    ],
+    "answer": "Blackcurrant",
+    "id": "food-drink-268"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What is the name of the thick, pudding-like hot chocolate traditionally served with churros in Spain?",
+    "options": [
+      "Ganache",
+      "Chocolate a la taza",
+      "Couverture",
+      "Mole"
+    ],
+    "answer": "Chocolate a la taza",
+    "id": "food-drink-269"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "In the traditional Greek garlic dip skordalia, what is the most common base ingredient besides garlic?",
+    "options": [
+      "Chickpeas",
+      "Potato",
+      "Eggplant",
+      "Yogurt"
+    ],
+    "answer": "Potato",
+    "id": "food-drink-270"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What is the name of the Korean fermented soybean paste, similar to miso, used in soups and stews?",
+    "options": [
+      "Gochujang",
+      "Ssamjang",
+      "Doenjang",
+      "Ganjang"
+    ],
+    "answer": "Doenjang",
+    "id": "food-drink-271"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Which grain is most commonly used to produce China's baijiu spirit?",
+    "options": [
+      "Rice",
+      "Wheat",
+      "Sorghum",
+      "Corn"
+    ],
+    "answer": "Sorghum",
+    "id": "food-drink-272"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What type of nut or kernel gives the Italian liqueur Amaretto its distinctive flavor?",
+    "options": [
+      "Hazelnut",
+      "Walnut",
+      "Pistachio",
+      "Almond"
+    ],
+    "answer": "Almond",
+    "id": "food-drink-273"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "The green paste served with sushi is often made from horseradish dyed green, but authentic wasabi comes from the rhizome of what plant?",
+    "options": [
+      "Mustard",
+      "Ginger",
+      "Wasabi plant",
+      "Horseradish"
+    ],
+    "answer": "Wasabi plant",
+    "id": "food-drink-274"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "What is the name of the crispy South Indian crepe made from fermented rice and urad dal batter?",
+    "options": [
+      "Naan",
+      "Dosa",
+      "Roti",
+      "Chapati"
+    ],
+    "answer": "Dosa",
+    "id": "food-drink-275"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Which Chinese tea, originating from Yunnan province, undergoes post-fermentation and is often pressed into cakes?",
+    "options": [
+      "Oolong",
+      "Matcha",
+      "Pu-erh",
+      "Sencha"
+    ],
+    "answer": "Pu-erh",
+    "id": "food-drink-276"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What is the name of the hot and sour Thai soup typically flavored with lemongrass, kaffir lime leaves, and galangal?",
+    "options": [
+      "Laksa",
+      "Tom kha",
+      "Tom yum",
+      "Pho"
+    ],
+    "answer": "Tom yum",
+    "id": "food-drink-277"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What type of seafood is the star of the Galician dish pulpo a la gallega?",
+    "options": [
+      "Squid",
+      "Octopus",
+      "Cuttlefish",
+      "Mussels"
+    ],
+    "answer": "Octopus",
+    "id": "food-drink-278"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "What type of cherry is used to produce the Hungarian fruit brandy meggypálinka?",
+    "options": [
+      "Sweet cherry",
+      "Plum",
+      "Apricot",
+      "Sour cherry"
+    ],
+    "answer": "Sour cherry",
+    "id": "food-drink-279"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What French term describes baking food inside a folded parchment paper pouch?",
+    "options": [
+      "Sous vide",
+      "En papillote",
+      "Braiser",
+      "Flamber"
+    ],
+    "answer": "En papillote",
+    "id": "food-drink-280"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "What Persian herbed omelette, often served during Nowruz, contains a mix of fresh herbs like parsley, cilantro, and dill?",
+    "options": [
+      "Frittata",
+      "Kuku sabzi",
+      "Tortilla española",
+      "Shakshuka"
+    ],
+    "answer": "Kuku sabzi",
+    "id": "food-drink-281"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What is the main vegetable base of the Syrian dip muhammara, often blended with walnuts and pomegranate molasses?",
+    "options": [
+      "Eggplant",
+      "Roasted red peppers",
+      "Chickpeas",
+      "Tomatoes"
+    ],
+    "answer": "Roasted red peppers",
+    "id": "food-drink-282"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Which Japanese dish is a savory pancake often described as 'as you like it', filled with cabbage and topped with sauces?",
+    "options": [
+      "Takoyaki",
+      "Okonomiyaki",
+      "Tempura",
+      "Tonkatsu"
+    ],
+    "answer": "Okonomiyaki",
+    "id": "food-drink-283"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "What fish is cured with salt, sugar, and dill to make the Nordic dish gravlax?",
+    "options": [
+      "Trout",
+      "Herring",
+      "Salmon",
+      "Mackerel"
+    ],
+    "answer": "Salmon",
+    "id": "food-drink-284"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "What is the name of the Italian dish made from boiled cornmeal, which can be served creamy or set and sliced?",
+    "options": [
+      "Risotto",
+      "Gnocchi",
+      "Polenta",
+      "Farinata"
+    ],
+    "answer": "Polenta",
+    "id": "food-drink-285"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What green pod spice is a primary flavoring in traditional masala chai?",
+    "options": [
+      "Cinnamon",
+      "Nutmeg",
+      "Cardamom",
+      "Star anise"
+    ],
+    "answer": "Cardamom",
+    "id": "food-drink-286"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Which classic French sauce is an emulsion of egg yolks and clarified butter, often served with eggs Benedict?",
+    "options": [
+      "Béchamel",
+      "Hollandaise",
+      "Velouté",
+      "Béarnaise"
+    ],
+    "answer": "Hollandaise",
+    "id": "food-drink-287"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "Which fruit gives the Japanese liqueur Midori its bright green color and flavor?",
+    "options": [
+      "Kiwi",
+      "Lime",
+      "Melon",
+      "Cucumber"
+    ],
+    "answer": "Melon",
+    "id": "food-drink-288"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What paper-thin pastry dough is used to make baklava?",
+    "options": [
+      "Puff pastry",
+      "Strudel dough",
+      "Shortcrust",
+      "Phyllo"
+    ],
+    "answer": "Phyllo",
+    "id": "food-drink-289"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "What animal's milk is used to produce authentic mozzarella di bufala?",
+    "options": [
+      "Cow",
+      "Goat",
+      "Water buffalo",
+      "Sheep"
+    ],
+    "answer": "Water buffalo",
+    "id": "food-drink-290"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What is the Japanese name for the dried, fermented, and shaved bonito flakes used as a topping on takoyaki and okonomiyaki?",
+    "options": [
+      "Nori",
+      "Katsuobushi",
+      "Wakame",
+      "Kombu"
+    ],
+    "answer": "Katsuobushi",
+    "id": "food-drink-291"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What clear eau-de-vie is distilled from Williams pears, often with a whole pear inside the bottle?",
+    "options": [
+      "Calvados",
+      "Kirsch",
+      "Framboise",
+      "Poire Williams"
+    ],
+    "answer": "Poire Williams",
+    "id": "food-drink-292"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "What unripe nut is steeped in alcohol to produce the Italian liqueur nocino?",
+    "options": [
+      "Hazelnuts",
+      "Almonds",
+      "Chestnuts",
+      "Walnuts"
+    ],
+    "answer": "Walnuts",
+    "id": "food-drink-293"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What is the name of the Japanese dry seasoning blend typically sprinkled over rice, made with sesame seeds and seaweed?",
+    "options": [
+      "Shichimi togarashi",
+      "Gomasio",
+      "Furikake",
+      "Ponzu"
+    ],
+    "answer": "Furikake",
+    "id": "food-drink-294"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What is the name of the complex North African spice blend that translates to 'head of the shop'?",
+    "options": [
+      "Harissa",
+      "Baharat",
+      "Ras el hanout",
+      "Za'atar"
+    ],
+    "answer": "Ras el hanout",
+    "id": "food-drink-295"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What white cheese is commonly used in the Turkish savory pastry börek?",
+    "options": [
+      "Ricotta",
+      "Mozzarella",
+      "Halloumi",
+      "Feta"
+    ],
+    "answer": "Feta",
+    "id": "food-drink-296"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What milky, lightly sparkling Korean rice wine is traditionally served in a bowl?",
+    "options": [
+      "Soju",
+      "Sake",
+      "Baijiu",
+      "Makgeolli"
+    ],
+    "answer": "Makgeolli",
+    "id": "food-drink-297"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Which Italian liqueur, recognizable by its monk-shaped bottle, is flavored with hazelnuts?",
+    "options": [
+      "Amaretto",
+      "Frangelico",
+      "Sambuca",
+      "Limoncello"
+    ],
+    "answer": "Frangelico",
+    "id": "food-drink-298"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "In a classic Greek moussaka, what type of ground meat is typically layered with eggplant and béchamel?",
+    "options": [
+      "Pork",
+      "Veal",
+      "Lamb",
+      "Chicken"
+    ],
+    "answer": "Lamb",
+    "id": "food-drink-299"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "The Carthusian monks produce two main types of Chartreuse liqueur; which color has a lower alcohol content and is sweeter?",
+    "options": [
+      "Red",
+      "Blue",
+      "White",
+      "Yellow"
+    ],
+    "answer": "Yellow",
+    "id": "food-drink-300"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "The Korean stir-fried noodle dish japchae uses noodles made from which starch?",
+    "options": [
+      "Mung bean",
+      "Rice",
+      "Sweet potato",
+      "Wheat"
+    ],
+    "answer": "Sweet potato",
+    "id": "food-drink-301"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What is the name of the Portuguese egg tart pastry, often dusted with cinnamon?",
+    "options": [
+      "Crème brûlée",
+      "Flan",
+      "Pastel de nata",
+      "Panna cotta"
+    ],
+    "answer": "Pastel de nata",
+    "id": "food-drink-302"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What spice, a relative of ginger, is commonly used as an affordable coloring substitute for saffron, providing a yellow hue?",
+    "options": [
+      "Paprika",
+      "Annatto",
+      "Cumin",
+      "Turmeric"
+    ],
+    "answer": "Turmeric",
+    "id": "food-drink-303"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Which small, red legume is cooked and sweetened to make the paste used in many Japanese sweets like dorayaki?",
+    "options": [
+      "Kidney beans",
+      "Mung beans",
+      "Adzuki beans",
+      "Black beans"
+    ],
+    "answer": "Adzuki beans",
+    "id": "food-drink-304"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Which Provençal fish stew, originating from Marseille, is traditionally served with rouille and croutons?",
+    "options": [
+      "Cioppino",
+      "Chowder",
+      "Bourride",
+      "Bouillabaisse"
+    ],
+    "answer": "Bouillabaisse",
+    "id": "food-drink-305"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Which licorice-like flavoring is the key component of the Italian liqueur Sambuca?",
+    "options": [
+      "Mint",
+      "Coffee",
+      "Anise",
+      "Almond"
+    ],
+    "answer": "Anise",
+    "id": "food-drink-306"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Which Mexican sauce, often served over turkey or chicken, contains chocolate along with various chilies and spices?",
+    "options": [
+      "Salsa verde",
+      "Adobo",
+      "Mole",
+      "Pipián"
+    ],
+    "answer": "Mole",
+    "id": "food-drink-307"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What traditional German Christmas fruit bread often contains a marzipan core and is dusted with powdered sugar?",
+    "options": [
+      "Panettone",
+      "Fruitcake",
+      "Babka",
+      "Stollen"
+    ],
+    "answer": "Stollen",
+    "id": "food-drink-308"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What is the sweet Japanese liqueur made from steeping ume fruits in alcohol and sugar?",
+    "options": [
+      "Sake",
+      "Shochu",
+      "Amazake",
+      "Umeshu"
+    ],
+    "answer": "Umeshu",
+    "id": "food-drink-309"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What Korean fermented chili paste is a staple condiment used in bibimbap and tteokbokki?",
+    "options": [
+      "Doenjang",
+      "Ssamjang",
+      "Miso",
+      "Gochujang"
+    ],
+    "answer": "Gochujang",
+    "id": "food-drink-310"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Which Japanese dish features thinly sliced meat and vegetables swished in a communal pot of broth?",
+    "options": [
+      "Sukiyaki",
+      "Tempura",
+      "Teppanyaki",
+      "Shabu-shabu"
+    ],
+    "answer": "Shabu-shabu",
+    "id": "food-drink-311"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Which boat-shaped cheese bread is a national dish of Georgia, often topped with egg and butter?",
+    "options": [
+      "Burek",
+      "Pide",
+      "Focaccia",
+      "Khachapuri"
+    ],
+    "answer": "Khachapuri",
+    "id": "food-drink-312"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What hard, salty Italian cheese made from sheep's milk is a key ingredient in cacio e pepe?",
+    "options": [
+      "Parmigiano-Reggiano",
+      "Grana Padano",
+      "Pecorino Romano",
+      "Asiago"
+    ],
+    "answer": "Pecorino Romano",
+    "id": "food-drink-313"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What vegetable, besides eggs, is the main component of a classic Spanish tortilla?",
+    "options": [
+      "Onion",
+      "Bell pepper",
+      "Potato",
+      "Zucchini"
+    ],
+    "answer": "Potato",
+    "id": "food-drink-314"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What Italian fresh sausage is typically seasoned with fennel seeds and used in pasta dishes?",
+    "options": [
+      "Pepperoni",
+      "Soppressata",
+      "Mortadella",
+      "Salsiccia"
+    ],
+    "answer": "Salsiccia",
+    "id": "food-drink-315"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "What sweet spread made from chestnuts is a specialty of the Ardèche region in France?",
+    "options": [
+      "Marzipan",
+      "Nutella",
+      "Crème de marrons",
+      "Dulce de leche"
+    ],
+    "answer": "Crème de marrons",
+    "id": "food-drink-316"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Which West African one-pot rice dish is a staple in Nigeria and Ghana, often sparking friendly rivalry?",
+    "options": [
+      "Paella",
+      "Biryani",
+      "Pilaf",
+      "Jollof rice"
+    ],
+    "answer": "Jollof rice",
+    "id": "food-drink-317"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What is the Turkish term for grape leaves stuffed with rice, pine nuts, and currants?",
+    "options": [
+      "Börek",
+      "Manti",
+      "Yaprak sarma",
+      "Pide"
+    ],
+    "answer": "Yaprak sarma",
+    "id": "food-drink-318"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What intensely sour and salty pickled fruit is a common accompaniment in Japanese bento boxes?",
+    "options": [
+      "Gari",
+      "Takuan",
+      "Shibazuke",
+      "Umeboshi"
+    ],
+    "answer": "Umeboshi",
+    "id": "food-drink-319"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "What is the name of the Greek savory pie made with phyllo, spinach, and feta cheese?",
+    "options": [
+      "Tiropita",
+      "Baklava",
+      "Spanakopita",
+      "Kreatopita"
+    ],
+    "answer": "Spanakopita",
+    "id": "food-drink-320"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Which Peruvian dish features layers of seasoned mashed potato with fillings like chicken or tuna?",
+    "options": [
+      "Ceviche",
+      "Lomo saltado",
+      "Aji de gallina",
+      "Causa"
+    ],
+    "answer": "Causa",
+    "id": "food-drink-321"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Which Filipino dish, not to be confused with a Spanish seasoning paste, is a tangy stew of meat braised in vinegar, soy sauce, and garlic?",
+    "options": [
+      "Sinigang",
+      "Kare-kare",
+      "Lechon",
+      "Adobo"
+    ],
+    "answer": "Adobo",
+    "id": "food-drink-322"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "What is the generic term for traditional Hungarian fruit brandy?",
+    "options": [
+      "Slivovitz",
+      "Rakija",
+      "Pálinka",
+      "Schnapps"
+    ],
+    "answer": "Pálinka",
+    "id": "food-drink-323"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What is the name of the fresh Italian cheese made from the milk of water buffalo?",
+    "options": [
+      "Burrata",
+      "Stracciatella",
+      "Mozzarella di bufala",
+      "Ricotta"
+    ],
+    "answer": "Mozzarella di bufala",
+    "id": "food-drink-324"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "As of 2026, the world's most expensive coffee, Black Ivory, is made from beans that have been digested by which animal?",
+    "options": [
+      "Civet",
+      "Bat",
+      "Bird",
+      "Elephant"
+    ],
+    "answer": "Elephant",
+    "id": "food-drink-325"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "As of 2026, which chili pepper holds the Guinness World Record for the hottest, with over 2.6 million Scoville Heat Units?",
+    "options": [
+      "Carolina Reaper",
+      "Trinidad Scorpion",
+      "Pepper X",
+      "Ghost Pepper"
+    ],
+    "answer": "Pepper X",
+    "id": "food-drink-326"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "As of 2026, which cheese, made from donkey milk, is often cited as the most expensive cheese in the world?",
+    "options": [
+      "Roquefort",
+      "Gruyère",
+      "Pule",
+      "Cheddar"
+    ],
+    "answer": "Pule",
+    "id": "food-drink-327"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What type of citrus fruit is used to flavor the French liqueur Grand Marnier?",
+    "options": [
+      "Lemon",
+      "Grapefruit",
+      "Orange",
+      "Tangerine"
+    ],
+    "answer": "Orange",
+    "id": "food-drink-328"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "What type of Italian dry-cured ham, often sliced paper-thin, is traditionally paired with melon?",
+    "options": [
+      "Pancetta",
+      "Guanciale",
+      "Prosciutto",
+      "Speck"
+    ],
+    "answer": "Prosciutto",
+    "id": "food-drink-329"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What sweet Japanese rice wine is an essential ingredient in teriyaki sauce, providing a shiny glaze?",
+    "options": [
+      "Sake",
+      "Rice vinegar",
+      "Dashi",
+      "Mirin"
+    ],
+    "answer": "Mirin",
+    "id": "food-drink-330"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What is the Spanish word for smoked paprika, a key ingredient in chorizo?",
+    "options": [
+      "Achiote",
+      "Chipotle",
+      "Guajillo",
+      "Pimentón"
+    ],
+    "answer": "Pimentón",
+    "id": "food-drink-331"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Which Tuscan bread salad traditionally combines stale bread, tomatoes, onions, and basil?",
+    "options": [
+      "Ribollita",
+      "Bruschetta",
+      "Caprese",
+      "Panzanella"
+    ],
+    "answer": "Panzanella",
+    "id": "food-drink-332"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What sweet, brown Norwegian cheese is made by caramelizing whey?",
+    "options": [
+      "Gjetost",
+      "Jarlsberg",
+      "Gamalost",
+      "Brunost"
+    ],
+    "answer": "Brunost",
+    "id": "food-drink-333"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "In Mongolian cuisine, what animal's milk is traditionally fermented to make the drink airag?",
+    "options": [
+      "Camel",
+      "Yak",
+      "Mare",
+      "Goat"
+    ],
+    "answer": "Mare",
+    "id": "food-drink-334"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "What is the name of the Italian rice dish from Veneto made with a young, semi-hard cheese and typically cooked in broth?",
+    "options": [
+      "Risotto alla Milanese",
+      "Risi e bisi",
+      "Risotto al nero di seppia",
+      "Risotto all'isolana"
+    ],
+    "answer": "Risi e bisi",
+    "id": "food-drink-335"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Which type of seaweed is used to wrap onigiri and is sold in thin, dried sheets?",
+    "options": [
+      "Wakame",
+      "Kombu",
+      "Nori",
+      "Hijiki"
+    ],
+    "answer": "Nori",
+    "id": "food-drink-336"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What fruit is traditionally used to make the Polish liqueur wiśniówka?",
+    "options": [
+      "Plum",
+      "Blackcurrant",
+      "Cherry",
+      "Raspberry"
+    ],
+    "answer": "Cherry",
+    "id": "food-drink-337"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What is the name of the Indian deep-fried bread that puffs up into a hollow ball?",
+    "options": [
+      "Roti",
+      "Naan",
+      "Puri",
+      "Paratha"
+    ],
+    "answer": "Puri",
+    "id": "food-drink-338"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "What is the name of the French sauce made by reducing red wine, shallots, and bone marrow, often served with steak?",
+    "options": [
+      "Chasseur",
+      "Marchand de vin",
+      "Bordelaise",
+      "Diane"
+    ],
+    "answer": "Bordelaise",
+    "id": "food-drink-339"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What root vegetable is the primary ingredient in the Swiss dish rösti?",
+    "options": [
+      "Turnip",
+      "Potato",
+      "Parsnip",
+      "Carrot"
+    ],
+    "answer": "Potato",
+    "id": "food-drink-340"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "What is the name of the extremely sour dried black limes used in Persian and Gulf Arab cooking?",
+    "options": [
+      "Sumac",
+      "Loomi",
+      "Barberries",
+      "Tamarind"
+    ],
+    "answer": "Loomi",
+    "id": "food-drink-341"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What is the name of the thick, fermented shrimp paste used in many Southeast Asian cuisines?",
+    "options": [
+      "Sambal",
+      "Belacan",
+      "Kecap manis",
+      "Nam pla"
+    ],
+    "answer": "Belacan",
+    "id": "food-drink-342"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Which almond-flavored syrup is used in cocktails like the Mai Tai and the Japanese Slipper?",
+    "options": [
+      "Grenadine",
+      "Orgeat",
+      "Falernum",
+      "Curaçao"
+    ],
+    "answer": "Orgeat",
+    "id": "food-drink-343"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "What is the name of the Italian dessert made from layers of coffee-soaked ladyfingers and mascarpone?",
+    "options": [
+      "Cannoli",
+      "Tiramisu",
+      "Panna cotta",
+      "Zabaglione"
+    ],
+    "answer": "Tiramisu",
+    "id": "food-drink-344"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "What is the name of the Japanese grilling technique where food is coated with a sweet soy glaze (tare) while cooking?",
+    "options": [
+      "Yakitori",
+      "Teriyaki",
+      "Robatayaki",
+      "Teppanyaki"
+    ],
+    "answer": "Teriyaki",
+    "id": "food-drink-345"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What is the main base ingredient in the Caribbean dish callaloo?",
+    "options": [
+      "Okra",
+      "Amaranth leaves",
+      "Spinach",
+      "Taro leaves"
+    ],
+    "answer": "Taro leaves",
+    "id": "food-drink-346"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What is the name of the yeast-leavened waffle pastry from Belgium, often dusted with powdered sugar?",
+    "options": [
+      "Stroopwafel",
+      "Liège waffle",
+      "Brussels waffle",
+      "Pizzelle"
+    ],
+    "answer": "Liège waffle",
+    "id": "food-drink-347"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "What is the name of the sour cherry soup served cold in Hungarian cuisine?",
+    "options": [
+      "Gulyás",
+      "Meggyleves",
+      "Főzelék",
+      "Halászlé"
+    ],
+    "answer": "Meggyleves",
+    "id": "food-drink-348"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What is the name of the Brazilian dish of black beans and pork, often considered the national dish?",
+    "options": [
+      "Moqueca",
+      "Feijoada",
+      "Churrasco",
+      "Vatapá"
+    ],
+    "answer": "Feijoada",
+    "id": "food-drink-349"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What is the name of the crisp, pickled ginger served alongside sushi?",
+    "options": [
+      "Gari",
+      "Takuan",
+      "Umeboshi",
+      "Shibazuke"
+    ],
+    "answer": "Gari",
+    "id": "food-drink-350"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "What is the name of the French technique of concentrating a liquid by simmering or boiling, used to make syrups or sauces?",
+    "options": [
+      "Déglacer",
+      "Réduction",
+      "Infusion",
+      "Émulsion"
+    ],
+    "answer": "Réduction",
+    "id": "food-drink-351"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What nutty, oil-rich legume is the main ingredient in the West African stew groundnut soup?",
+    "options": [
+      "Cashew",
+      "Almond",
+      "Peanut",
+      "Sesame"
+    ],
+    "answer": "Peanut",
+    "id": "food-drink-352"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What type of tea undergoes a 'kill-green' step to halt oxidation, preserving its green color?",
+    "options": [
+      "Oolong",
+      "Black tea",
+      "White tea",
+      "Green tea"
+    ],
+    "answer": "Green tea",
+    "id": "food-drink-353"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "What is the name of the traditional Finnish dish of baked barley porridge, often served at Easter?",
+    "options": [
+      "Mämmi",
+      "Karjalanpiirakka",
+      "Lohikeitto",
+      "Mustamakkara"
+    ],
+    "answer": "Mämmi",
+    "id": "food-drink-354"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What is the key flavoring agent in the Italian liqueur Galliano?",
+    "options": [
+      "Coffee",
+      "Anise",
+      "Vanilla",
+      "Saffron"
+    ],
+    "answer": "Vanilla",
+    "id": "food-drink-355"
   }
 ]
