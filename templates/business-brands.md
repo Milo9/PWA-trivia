@@ -138,6 +138,10 @@ differently):
   Periscope app (2015)
 - BMW's 1916 founding as an aircraft engine manufacturer
 - HD DVD losing the format war to Blu-ray (2008)
+- TikTok's 2018 US merger with Musical.ly (either direction: "what was
+  TikTok originally called" or "what app did TikTok merge with")
+- The original retail price of the Apple I computer at launch in 1976
+  ($666.66)
 - Coca-Cola's founding by pharmacist John Pemberton (1886)
 - The PalmPilot (1996) and Palm's later webOS (2009)
 - Taco Bell's talking Chihuahua ad campaign
