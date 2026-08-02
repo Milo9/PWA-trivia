@@ -5237,5 +5237,1110 @@
       "University of al-Qarawiyyin"
     ],
     "answer": "University of al-Qarawiyyin"
+  },
+  {
+    "id": "history-068",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which Ptolemaic ruler was the last active pharaoh of Ancient Egypt?",
+    "options": [
+      "Cleopatra VII",
+      "Hatshepsut",
+      "Nefertiti",
+      "Arsinoe IV"
+    ],
+    "answer": "Cleopatra VII"
+  },
+  {
+    "id": "history-069",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "The Hundred Years' War between England and France ended with which battle in 1453?",
+    "options": [
+      "Battle of Agincourt",
+      "Battle of Castillon",
+      "Battle of Crécy",
+      "Battle of Poitiers"
+    ],
+    "answer": "Battle of Castillon"
+  },
+  {
+    "id": "history-070",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "The Inca Empire was conquered by which Spanish conquistador?",
+    "options": [
+      "Hernán Cortés",
+      "Francisco Pizarro",
+      "Vasco Núñez de Balboa",
+      "Hernando de Soto"
+    ],
+    "answer": "Francisco Pizarro"
+  },
+  {
+    "id": "history-071",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What name is given to the 1803 acquisition of land from France that doubled the size of the United States?",
+    "options": [
+      "Gadsden Purchase",
+      "Alaska Purchase",
+      "Louisiana Purchase",
+      "Oregon Territory"
+    ],
+    "answer": "Louisiana Purchase"
+  },
+  {
+    "id": "history-072",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "During which military campaign was the Rosetta Stone discovered in 1799?",
+    "options": [
+      "Alexander the Great's conquest",
+      "Napoleon's Egyptian campaign",
+      "British occupation of Egypt",
+      "Crusader invasion of Egypt"
+    ],
+    "answer": "Napoleon's Egyptian campaign"
+  },
+  {
+    "id": "history-073",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Who held the record for the longest reign of a British monarch before being surpassed by Elizabeth II in 2015?",
+    "options": [
+      "George III",
+      "Victoria",
+      "Henry III",
+      "Edward III"
+    ],
+    "answer": "Victoria"
+  },
+  {
+    "id": "history-074",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which imperial dynasty was ruling China during the Boxer Rebellion?",
+    "options": [
+      "Ming dynasty",
+      "Qing dynasty",
+      "Yuan dynasty",
+      "Song dynasty"
+    ],
+    "answer": "Qing dynasty"
+  },
+  {
+    "id": "history-075",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which Roman town, along with Pompeii, was buried by the eruption of Mount Vesuvius in 79 AD?",
+    "options": [
+      "Ostia",
+      "Capua",
+      "Herculaneum",
+      "Tivoli"
+    ],
+    "answer": "Herculaneum"
+  },
+  {
+    "id": "history-076",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which Renaissance figure, known for the Mona Lisa, conducted detailed anatomical dissections of human corpses?",
+    "options": [
+      "Michelangelo",
+      "Leonardo da Vinci",
+      "Raphael",
+      "Donatello"
+    ],
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "id": "history-077",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "In which modern-day country is the ancient Sumerian city of Ur located?",
+    "options": [
+      "Iran",
+      "Iraq",
+      "Syria",
+      "Turkey"
+    ],
+    "answer": "Iraq"
+  },
+  {
+    "id": "history-078",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "The infamous Charge of the Light Brigade during the Crimean War occurred at which battle?",
+    "options": [
+      "Battle of Inkerman",
+      "Battle of Balaclava",
+      "Battle of Alma",
+      "Siege of Sevastopol"
+    ],
+    "answer": "Battle of Balaclava"
+  },
+  {
+    "id": "history-079",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which empire used the 'Devshirme' system to recruit Christian boys into its military and administration?",
+    "options": [
+      "Safavid Empire",
+      "Ottoman Empire",
+      "Mughal Empire",
+      "Byzantine Empire"
+    ],
+    "answer": "Ottoman Empire"
+  },
+  {
+    "id": "history-080",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Who was the captain of the RMS Titanic on its ill-fated maiden voyage?",
+    "options": [
+      "William Turner",
+      "Edward Smith",
+      "Arthur Rostron",
+      "Charles Lightoller"
+    ],
+    "answer": "Edward Smith"
+  },
+  {
+    "id": "history-081",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which Scandinavian king was defeated and killed by Harold Godwinson at the Battle of Stamford Bridge in 1066?",
+    "options": [
+      "Sweyn Forkbeard",
+      "Cnut the Great",
+      "Harald Hardrada",
+      "Olaf Tryggvason"
+    ],
+    "answer": "Harald Hardrada"
+  },
+  {
+    "id": "history-082",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "The Glorious Revolution of 1688 brought which pair of co-monarchs to the English throne?",
+    "options": [
+      "Charles and Henrietta",
+      "William and Mary",
+      "James and Anne",
+      "George and Caroline"
+    ],
+    "answer": "William and Mary"
+  },
+  {
+    "id": "history-083",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Who became the first woman to head a democratic government in a Muslim-majority nation when she took office in 1988?",
+    "options": [
+      "Indira Gandhi",
+      "Benazir Bhutto",
+      "Golda Meir",
+      "Sheikh Hasina"
+    ],
+    "answer": "Benazir Bhutto"
+  },
+  {
+    "id": "history-084",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "In which city was Archduke Franz Ferdinand assassinated in 1914?",
+    "options": [
+      "Belgrade",
+      "Sarajevo",
+      "Vienna",
+      "Zagreb"
+    ],
+    "answer": "Sarajevo"
+  },
+  {
+    "id": "history-085",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Who led the Taiping Rebellion against the Qing dynasty, claiming to be the younger brother of Jesus Christ?",
+    "options": [
+      "Sun Yat-sen",
+      "Yuan Shikai",
+      "Hong Xiuquan",
+      "Li Zicheng"
+    ],
+    "answer": "Hong Xiuquan"
+  },
+  {
+    "id": "history-086",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which country built the Maginot Line, a series of fortifications along its eastern border, in the 1930s?",
+    "options": [
+      "Germany",
+      "France",
+      "Belgium",
+      "Netherlands"
+    ],
+    "answer": "France"
+  },
+  {
+    "id": "history-087",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which political faction, led by Vladimir Lenin, seized power in Russia during the October Revolution of 1917?",
+    "options": [
+      "Mensheviks",
+      "Bolsheviks",
+      "White Army",
+      "Kadets"
+    ],
+    "answer": "Bolsheviks"
+  },
+  {
+    "id": "history-088",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which large urban center of the Indus Valley Civilization was excavated first in modern-day Pakistan?",
+    "options": [
+      "Mohenjo-daro",
+      "Harappa",
+      "Lothal",
+      "Dholavira"
+    ],
+    "answer": "Harappa"
+  },
+  {
+    "id": "history-089",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "The 14th-century Black Death pandemic was caused by which bacterium?",
+    "options": [
+      "Vibrio cholerae",
+      "Mycobacterium tuberculosis",
+      "Yersinia pestis",
+      "Clostridium tetani"
+    ],
+    "answer": "Yersinia pestis"
+  },
+  {
+    "id": "history-090",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "The Aztec capital Tenochtitlan was founded on an island in which lake in present-day Mexico City?",
+    "options": [
+      "Lake Chapala",
+      "Lake Texcoco",
+      "Lake Nicaragua",
+      "Lake Titicaca"
+    ],
+    "answer": "Lake Texcoco"
+  },
+  {
+    "id": "history-091",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "The Balfour Declaration of 1917, issued by the British government, supported the establishment of a 'national home' for which group in Palestine?",
+    "options": [
+      "Armenian people",
+      "Jewish people",
+      "Kurdish people",
+      "Arab people"
+    ],
+    "answer": "Jewish people"
+  },
+  {
+    "id": "history-092",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Who was the final shogun of the Tokugawa shogunate before the Meiji Restoration?",
+    "options": [
+      "Tokugawa Ieyasu",
+      "Tokugawa Iemitsu",
+      "Tokugawa Yoshinobu",
+      "Tokugawa Tsunayoshi"
+    ],
+    "answer": "Tokugawa Yoshinobu"
+  },
+  {
+    "id": "history-093",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "The Spanish Armada of 1588 was sent by which Spanish monarch to invade England?",
+    "options": [
+      "Charles V",
+      "Philip II",
+      "Ferdinand II",
+      "Philip III"
+    ],
+    "answer": "Philip II"
+  },
+  {
+    "id": "history-094",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "The Radcliffe Line, established in 1947, partitioned which territory into two new independent nations?",
+    "options": [
+      "French Indochina",
+      "British India",
+      "Ottoman Empire",
+      "Dutch East Indies"
+    ],
+    "answer": "British India"
+  },
+  {
+    "id": "history-095",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Who was the first person hanged during the 1692 Salem witch trials?",
+    "options": [
+      "Sarah Good",
+      "Rebecca Nurse",
+      "Bridget Bishop",
+      "Giles Corey"
+    ],
+    "answer": "Bridget Bishop"
+  },
+  {
+    "id": "history-096",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which Prussian field marshal led reinforcements to the Battle of Waterloo, helping defeat Napoleon?",
+    "options": [
+      "Karl von Clausewitz",
+      "August von Gneisenau",
+      "Gebhard von Blücher",
+      "Ludwig Yorck"
+    ],
+    "answer": "Gebhard von Blücher"
+  },
+  {
+    "id": "history-097",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "The 1494 Treaty of Tordesillas divided unexplored territories outside Europe between which two Iberian kingdoms?",
+    "options": [
+      "France and England",
+      "Netherlands and Spain",
+      "Spain and Portugal",
+      "Portugal and England"
+    ],
+    "answer": "Spain and Portugal"
+  },
+  {
+    "id": "history-098",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which Persian king led the invasion of Greece that included the Battle of Thermopylae?",
+    "options": [
+      "Darius I",
+      "Xerxes I",
+      "Cyrus the Great",
+      "Artaxerxes I"
+    ],
+    "answer": "Xerxes I"
+  },
+  {
+    "id": "history-099",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which wealthy banking family ruled Florence for much of the Renaissance and patronized artists like Michelangelo?",
+    "options": [
+      "Borgia",
+      "Sforza",
+      "Medici",
+      "Visconti"
+    ],
+    "answer": "Medici"
+  },
+  {
+    "id": "history-100",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "The First Opium War (1839–1842) was fought between the Qing dynasty and which foreign power?",
+    "options": [
+      "France",
+      "Great Britain",
+      "United States",
+      "Russia"
+    ],
+    "answer": "Great Britain"
+  },
+  {
+    "id": "history-101",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What did the French Third Estate pledge to establish in the 1789 Tennis Court Oath?",
+    "options": [
+      "A republic",
+      "A monarchy",
+      "A constitution",
+      "A guild"
+    ],
+    "answer": "A constitution"
+  },
+  {
+    "id": "history-102",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "According to a 2012 announcement by China's State Administration of Cultural Heritage, what is the Great Wall's total length across all dynasties?",
+    "options": [
+      "8,850 km",
+      "5,500 km",
+      "21,196 km",
+      "13,000 km"
+    ],
+    "answer": "21,196 km"
+  },
+  {
+    "id": "history-103",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which of Louis XIV's finance ministers is credited with developing mercantilism in France?",
+    "options": [
+      "Cardinal Richelieu",
+      "Jules Mazarin",
+      "Jean-Baptiste Colbert",
+      "Nicolas Fouquet"
+    ],
+    "answer": "Jean-Baptiste Colbert"
+  },
+  {
+    "id": "history-104",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "The Berlin Conference of 1884–85 was convened by which European power, under Chancellor Otto von Bismarck?",
+    "options": [
+      "France",
+      "Germany",
+      "Britain",
+      "Belgium"
+    ],
+    "answer": "Germany"
+  },
+  {
+    "id": "history-105",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Marie Curie discovered the elements polonium and radium while working in which city?",
+    "options": [
+      "Warsaw",
+      "Vienna",
+      "Paris",
+      "London"
+    ],
+    "answer": "Paris"
+  },
+  {
+    "id": "history-106",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "The Code of Hammurabi was enacted by a ruler of which ancient civilization?",
+    "options": [
+      "Assyria",
+      "Sumer",
+      "Babylon",
+      "Persia"
+    ],
+    "answer": "Babylon"
+  },
+  {
+    "id": "history-107",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "What was the rebel faction led by Francisco Franco during the Spanish Civil War called?",
+    "options": [
+      "Republicans",
+      "Anarchists",
+      "Nationalists",
+      "Socialists"
+    ],
+    "answer": "Nationalists"
+  },
+  {
+    "id": "history-108",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Who was the commanding general of the Union Army at the Battle of Gettysburg?",
+    "options": [
+      "Ulysses S. Grant",
+      "George Meade",
+      "William Tecumseh Sherman",
+      "Joseph Hooker"
+    ],
+    "answer": "George Meade"
+  },
+  {
+    "id": "history-109",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "What parallel of latitude divided North and South Korea before the Korean War?",
+    "options": [
+      "17th parallel",
+      "49th parallel",
+      "38th parallel",
+      "45th parallel"
+    ],
+    "answer": "38th parallel"
+  },
+  {
+    "id": "history-110",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "The tumultuous 'Year of the Four Emperors' in 69 AD took place in the history of which ancient empire?",
+    "options": [
+      "Byzantine Empire",
+      "Persian Empire",
+      "Roman Empire",
+      "Mauryan Empire"
+    ],
+    "answer": "Roman Empire"
+  },
+  {
+    "id": "history-111",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which indigenous culture built the elaborate cliff dwellings found at Mesa Verde in present-day Colorado?",
+    "options": [
+      "Navajo",
+      "Ancestral Puebloans",
+      "Apache",
+      "Hopi"
+    ],
+    "answer": "Ancestral Puebloans"
+  },
+  {
+    "id": "history-112",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which invention by James Hargreaves in 1764 revolutionized the textile industry during the Industrial Revolution?",
+    "options": [
+      "Water frame",
+      "Power loom",
+      "Spinning Jenny",
+      "Cotton gin"
+    ],
+    "answer": "Spinning Jenny"
+  },
+  {
+    "id": "history-113",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which Roman senator, along with Brutus, led the conspiracy to kill Julius Caesar?",
+    "options": [
+      "Marcus Tullius Cicero",
+      "Gaius Cassius Longinus",
+      "Mark Antony",
+      "Gnaeus Pompey"
+    ],
+    "answer": "Gaius Cassius Longinus"
+  },
+  {
+    "id": "history-114",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Under which Ottoman sultan did Constantinople fall in 1453?",
+    "options": [
+      "Suleiman the Magnificent",
+      "Selim I",
+      "Mehmed II",
+      "Bayezid I"
+    ],
+    "answer": "Mehmed II"
+  },
+  {
+    "id": "history-115",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Along with the South African Republic (Transvaal), which other Boer republic fought the British in the Second Boer War?",
+    "options": [
+      "Cape of Good Hope",
+      "Orange Free State",
+      "Natal",
+      "Griqualand"
+    ],
+    "answer": "Orange Free State"
+  },
+  {
+    "id": "history-116",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Winston Churchill famously declared that an 'iron curtain' had descended across Europe in a speech given in which year?",
+    "options": [
+      "1945",
+      "1947",
+      "1946",
+      "1948"
+    ],
+    "answer": "1946"
+  },
+  {
+    "id": "history-117",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "British General Charles Gordon died during the Mahdist uprising at the siege of which Sudanese city in 1885?",
+    "options": [
+      "Omdurman",
+      "El Alamein",
+      "Khartoum",
+      "Port Sudan"
+    ],
+    "answer": "Khartoum"
+  },
+  {
+    "id": "history-118",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "What was the original Latin name for the Colosseum, reflecting the dynasty that built it?",
+    "options": [
+      "Circus Maximus",
+      "Theatre of Pompey",
+      "Flavian Amphitheatre",
+      "Basilica Julia"
+    ],
+    "answer": "Flavian Amphitheatre"
+  },
+  {
+    "id": "history-119",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Following the deaths of Cleopatra VII and Mark Antony, Egypt was annexed as a Roman province in 30 BC by which ruler?",
+    "options": [
+      "Julius Caesar",
+      "Tiberius",
+      "Octavian",
+      "Nero"
+    ],
+    "answer": "Octavian"
+  },
+  {
+    "id": "history-120",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "The Treaty of Brest-Litovsk of 1918 was signed between Soviet Russia and which major power?",
+    "options": [
+      "Austria-Hungary",
+      "Ottoman Empire",
+      "Germany",
+      "France"
+    ],
+    "answer": "Germany"
+  },
+  {
+    "id": "history-121",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "As of 2023, what moment magnitude do seismologists estimate for the 1906 San Francisco earthquake?",
+    "options": [
+      "6.9",
+      "8.4",
+      "7.9",
+      "9.0"
+    ],
+    "answer": "7.9"
+  },
+  {
+    "id": "history-122",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which country was the main target of the tripartite attack during the 1956 Suez Crisis?",
+    "options": [
+      "Syria",
+      "Jordan",
+      "Egypt",
+      "Lebanon"
+    ],
+    "answer": "Egypt"
+  },
+  {
+    "id": "history-123",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which US Army general served as the military head of the Manhattan Project?",
+    "options": [
+      "Dwight Eisenhower",
+      "George Patton",
+      "Leslie Groves",
+      "Douglas MacArthur"
+    ],
+    "answer": "Leslie Groves"
+  },
+  {
+    "id": "history-124",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "The guillotine became a symbol of which phase of the French Revolution, marked by mass executions?",
+    "options": [
+      "The Directory",
+      "The Thermidorian Reaction",
+      "The Reign of Terror",
+      "The Estates-General"
+    ],
+    "answer": "The Reign of Terror"
+  },
+  {
+    "id": "history-125",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "At the Battle of Midway, the Japanese lost four fleet carriers. Which of these was NOT one of them?",
+    "options": [
+      "Akagi",
+      "Kaga",
+      "Hiryū",
+      "Shōkaku"
+    ],
+    "answer": "Shōkaku"
+  },
+  {
+    "id": "history-126",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "The Library of Alexandria was part of which larger research institution?",
+    "options": [
+      "Serapeum",
+      "Lyceum",
+      "Mouseion",
+      "Academy"
+    ],
+    "answer": "Mouseion"
+  },
+  {
+    "id": "history-127",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "The Spanish-American War began in which year, following the explosion of the USS Maine?",
+    "options": [
+      "1895",
+      "1901",
+      "1898",
+      "1910"
+    ],
+    "answer": "1898"
+  },
+  {
+    "id": "history-128",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "What was the name of the treaty that briefly halted the Peloponnesian War in 421 BC?",
+    "options": [
+      "Thirty Years' Peace",
+      "Peace of Callias",
+      "Peace of Nicias",
+      "Treaty of Antalcidas"
+    ],
+    "answer": "Peace of Nicias"
+  },
+  {
+    "id": "history-129",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "The First Crusade was launched after a call by which pope at the Council of Clermont in 1095?",
+    "options": [
+      "Innocent III",
+      "Gregory VII",
+      "Urban II",
+      "Leo IX"
+    ],
+    "answer": "Urban II"
+  },
+  {
+    "id": "history-130",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Which sultan reigned over the Ottoman Empire during World War I?",
+    "options": [
+      "Abdul Hamid II",
+      "Mehmed VI",
+      "Mehmed V",
+      "Selim III"
+    ],
+    "answer": "Mehmed V"
+  },
+  {
+    "id": "history-131",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "In what year was the Dutch East India Company (VOC), often considered the world's first multinational corporation, chartered?",
+    "options": [
+      "1620",
+      "1599",
+      "1602",
+      "1640"
+    ],
+    "answer": "1602"
+  },
+  {
+    "id": "history-132",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "The Zulu victory at the Battle of Isandlwana in 1879 was a major defeat for which country?",
+    "options": [
+      "Portugal",
+      "Netherlands",
+      "Great Britain",
+      "Germany"
+    ],
+    "answer": "Great Britain"
+  },
+  {
+    "id": "history-133",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Zheng He's famed treasure voyages were ordered by which Ming dynasty emperor?",
+    "options": [
+      "Hongwu Emperor",
+      "Wanli Emperor",
+      "Yongle Emperor",
+      "Kangxi Emperor"
+    ],
+    "answer": "Yongle Emperor"
+  },
+  {
+    "id": "history-134",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "According to records, how many prisoners were being held in the Bastille when it was stormed on July 14, 1789?",
+    "options": [
+      "Three",
+      "Twelve",
+      "Seven",
+      "Zero"
+    ],
+    "answer": "Seven"
+  },
+  {
+    "id": "history-135",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "In which year did the Taiping Rebellion, which claimed millions of lives, finally end?",
+    "options": [
+      "1856",
+      "1871",
+      "1864",
+      "1848"
+    ],
+    "answer": "1864"
+  },
+  {
+    "id": "history-136",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "China's Great Leap Forward, an economic and social campaign, was launched in which year?",
+    "options": [
+      "1955",
+      "1961",
+      "1958",
+      "1950"
+    ],
+    "answer": "1958"
+  },
+  {
+    "id": "history-137",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "The Zimmermann Telegram proposed a military alliance between Germany and which country against the United States?",
+    "options": [
+      "Venezuela",
+      "Argentina",
+      "Mexico",
+      "Brazil"
+    ],
+    "answer": "Mexico"
+  },
+  {
+    "id": "history-138",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which Aztec emperor was in power when Hernán Cortés arrived in Tenochtitlan?",
+    "options": [
+      "Cuauhtémoc",
+      "Cuitláhuac",
+      "Montezuma II",
+      "Ahuitzotl"
+    ],
+    "answer": "Montezuma II"
+  },
+  {
+    "id": "history-139",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "The blight that triggered the Irish Great Famine first appeared in Ireland in which year?",
+    "options": [
+      "1830",
+      "1852",
+      "1845",
+      "1860"
+    ],
+    "answer": "1845"
+  },
+  {
+    "id": "history-140",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "The notorious 'war guilt clause' of the Treaty of Versailles, blaming Germany for the war, is found in which article?",
+    "options": [
+      "Article 48",
+      "Article 10",
+      "Article 231",
+      "Article 99"
+    ],
+    "answer": "Article 231"
+  },
+  {
+    "id": "history-141",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Before taking the title Genghis Khan, the Mongol leader was known by which name?",
+    "options": [
+      "Kublai",
+      "Ögedei",
+      "Temüjin",
+      "Jochi"
+    ],
+    "answer": "Temüjin"
+  },
+  {
+    "id": "history-142",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Michelangelo's famous statue 'David' was carved from a block of marble sourced from which quarry?",
+    "options": [
+      "Siena",
+      "Massa",
+      "Carrara",
+      "Volterra"
+    ],
+    "answer": "Carrara"
+  },
+  {
+    "id": "history-143",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which Tang dynasty poet, nicknamed the 'Immortal Poet' for his romantic, imaginative verse, is also known by the alternate romanization 'Li Po'?",
+    "options": [
+      "Du Fu",
+      "Wang Wei",
+      "Li Bai",
+      "Bai Juyi"
+    ],
+    "answer": "Li Bai"
+  },
+  {
+    "id": "history-144",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Napoleon dispatched his brother-in-law, which general, to suppress the Haitian Revolution, but he died of yellow fever?",
+    "options": [
+      "Rochambeau",
+      "Toussaint Louverture",
+      "Charles Leclerc",
+      "Jean-Jacques Dessalines"
+    ],
+    "answer": "Charles Leclerc"
+  },
+  {
+    "id": "history-145",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "U.S. Secretary of State George C. Marshall first proposed the European Recovery Program in a speech at Harvard in which year?",
+    "options": [
+      "1945",
+      "1949",
+      "1947",
+      "1951"
+    ],
+    "answer": "1947"
+  },
+  {
+    "id": "history-146",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "Which Roman emperor is famously (though probably inaccurately) said to have 'fiddled while Rome burned'?",
+    "options": [
+      "Caligula",
+      "Claudius",
+      "Nero",
+      "Tiberius"
+    ],
+    "answer": "Nero"
+  },
+  {
+    "id": "history-147",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which renowned polymath authored the collection of scientific writings known as the Codex Leicester?",
+    "options": [
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Leonardo da Vinci",
+      "Nicolaus Copernicus"
+    ],
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "id": "history-148",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "The Warsaw Pact, a collective defense treaty among Eastern Bloc countries, was signed in which year?",
+    "options": [
+      "1949",
+      "1952",
+      "1955",
+      "1961"
+    ],
+    "answer": "1955"
+  },
+  {
+    "id": "history-149",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "Who was the mechanic who built the gasoline engine used in the Wright brothers' 1903 Flyer?",
+    "options": [
+      "Orville Wright",
+      "Wilbur Wright",
+      "Charlie Taylor",
+      "Glenn Curtiss"
+    ],
+    "answer": "Charlie Taylor"
+  },
+  {
+    "id": "history-150",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Which country became the first major power to announce its withdrawal from the League of Nations, doing so in 1933?",
+    "options": [
+      "Germany",
+      "Italy",
+      "Japan",
+      "Brazil"
+    ],
+    "answer": "Japan"
+  },
+  {
+    "id": "history-151",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "The Korean War armistice, which halted active combat, was signed in which year?",
+    "options": [
+      "1950",
+      "1955",
+      "1953",
+      "1949"
+    ],
+    "answer": "1953"
+  },
+  {
+    "id": "history-152",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "Machu Picchu was brought to international attention in 1911 by which American explorer?",
+    "options": [
+      "Percy Fawcett",
+      "John Lloyd Stephens",
+      "Hiram Bingham",
+      "Richard Francis Burton"
+    ],
+    "answer": "Hiram Bingham"
   }
 ]
