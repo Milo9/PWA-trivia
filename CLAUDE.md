@@ -317,6 +317,23 @@ pre-existing files, not just parallel forks.** Build one union draft
 leaves cross-file duplication uncaught, since each run only sees its own
 file against the corpus.
 
+**Cross-file merges concentrate reversed-direction duplicates
+specifically, because each source file tends to be internally consistent
+in phrasing direction.** A single drafting agent asked for "who
+wrote/painted X" questions will phrase (almost) all 100 of them that way;
+a different agent — or the same one on a separate run — asked for
+"which [author]'s work is X" will phrase all of *its* 100 the other way.
+Where both files happen to draft the same famous work, that's a real
+duplicate, but the two questions' answers are completely different
+strings (an author's name vs. a work's title), so `check-draft.js`'s
+union run — even with `--full-answer-audit` — can't catch it; only a
+manual read of the full union dump (per-entry `index | answer |
+question`) does. On one two-file arts-literature merge, this pattern
+alone accounted for more cuts (8) than the union check's own same-answer
+advisories caught (3) — budget for a full manual read on every
+multi-file merge, not just single-file batches leaning on iconic
+subjects.
+
 ## Known backlog / do-not-re-flag
 
 Settled judgment calls — don't re-litigate these as bugs if they

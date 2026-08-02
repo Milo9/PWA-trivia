@@ -38,6 +38,11 @@ scripts/find-gaps.js             — topics used only as a wrong answer, never c
 scripts/stamp-version.js         — updates the offline cache version
 scripts/serve.js                 — local dev server
 scripts/generate-icons.ps1       — regenerates icons/ (Windows/PowerShell)
+questions_inbox/                 — gitignored; drop external-agent draft
+                                    files here to be checked and merged
+questions_inbox/processed/       — merged draft files get moved here
+                                    (not deleted) once shipped, as a record
+                                    of what's already been processed
 ```
 
 ## Question schema
