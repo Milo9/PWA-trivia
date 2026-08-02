@@ -30,6 +30,7 @@ const el = {
   screenResults: document.getElementById("screen-results"),
 
   statsSummary: document.getElementById("stats-summary"),
+  categoryCounts: document.getElementById("category-counts"),
   resetStatsBtn: document.getElementById("reset-stats-btn"),
   selectionBar: document.getElementById("selection-bar"),
   selectAllBtn: document.getElementById("select-all-btn"),
@@ -65,10 +66,9 @@ function showScreen(name) {
   }
   if (name === "categories") {
     el.screenCategories.classList.remove("hidden");
-    // Re-render so per-category stat badges reflect the game just played
-    // (state.categories itself doesn't change, but localStorage stats do).
     if (state.categories.length) renderCategoryList();
     renderStatsSummary();
+    renderCategoryCounts();
   }
   if (name === "settings") el.screenSettings.classList.remove("hidden");
   if (name === "quiz") el.screenQuiz.classList.remove("hidden");
@@ -105,6 +105,7 @@ async function loadCategories() {
     state.categoryById = {};
     for (const cat of withCounts) state.categoryById[cat.id] = cat;
     renderCategoryList();
+    renderCategoryCounts();
   } catch (e) {
     el.categoriesStatus.textContent = "Couldn't load categories. Try reopening the app.";
   }
@@ -124,12 +125,10 @@ function renderCategoryList() {
     const isSelected = state.selectedCategoryIds.has(cat.id);
     btn.className = "category-card" + (isSelected ? " selected" : "");
     btn.disabled = cat.questions.length === 0;
-    const statLine = categoryStatsLine(cat.id);
     btn.innerHTML = `
       <span class="category-check" aria-hidden="true"></span>
       <span class="category-info">
         <span class="category-name">${cat.name}</span>
-        <span class="count">${cat.questions.length} questions${statLine ? " · " + statLine : ""}</span>
       </span>
     `;
     btn.addEventListener("click", () => toggleCategorySelection(cat.id));
@@ -137,6 +136,22 @@ function renderCategoryList() {
   }
   el.categoriesStatus.textContent = "";
   renderSelectionBar();
+}
+
+function renderCategoryCounts() {
+  if (!state.categories.length) {
+    el.categoryCounts.classList.add("hidden");
+    return;
+  }
+  el.categoryCounts.classList.remove("hidden");
+  const rows = state.categories
+    .map((cat) => {
+      const statLine = categoryStatsLine(cat.id);
+      const value = `${cat.questions.length} questions${statLine ? " · " + statLine : ""}`;
+      return `<div class="category-breakdown-row"><span>${cat.name}</span><span class="stats-value">${value}</span></div>`;
+    })
+    .join("");
+  el.categoryCounts.innerHTML = `<p class="settings-label">Question Bank</p>${rows}`;
 }
 
 function toggleCategorySelection(catId) {
@@ -374,6 +389,7 @@ el.resetStatsBtn.addEventListener("click", () => {
   if (!confirm("Reset all game stats? This can't be undone.")) return;
   saveStats(defaultStats());
   renderStatsSummary();
+  renderCategoryCounts();
 });
 
 function startRound(categories) {

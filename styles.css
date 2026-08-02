@@ -84,22 +84,27 @@ html, body {
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: 12px;
-  padding: 10px 12px;
+  padding: 14px 26px 14px 14px;
   text-align: left;
-  font-size: 0.9rem;
+  font-size: 0.95rem;
   font-weight: 600;
   color: var(--text);
   display: flex;
   flex-direction: column;
+  justify-content: center;
   align-items: flex-start;
-  gap: 4px;
   cursor: pointer;
   position: relative;
-  min-height: 62px;
+  min-height: 50px;
 }
 
 .category-card:active {
   background: var(--surface-raised);
+}
+
+.category-card:disabled {
+  opacity: 0.5;
+  cursor: default;
 }
 
 .category-card.selected {
@@ -143,20 +148,12 @@ html, body {
   flex: 1;
   display: flex;
   flex-direction: column;
-  gap: 2px;
   min-width: 0;
-  padding-right: 20px;
 }
 
 .category-name {
   overflow-wrap: break-word;
-  line-height: 1.2;
-}
-
-.category-card .count {
-  color: var(--text-muted);
-  font-weight: 400;
-  font-size: 0.72rem;
+  line-height: 1.25;
 }
 
 .selection-bar {
