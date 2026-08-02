@@ -9,7 +9,13 @@
 //   2. Duplicate content — scores every draft question against the ENTIRE
 //      existing corpus using the same fuzzy-match function validate.js uses,
 //      so "have we already asked this?" is a number, not a memory of having
-//      grepped for a few keywords.
+//      grepped for a few keywords. Also scores every draft question against
+//      every OTHER draft question the same way (findInternalDuplicates) —
+//      added after a single-file batch (FOOD-deepseek, 2026-08-02) turned out
+//      to be two rewritten passes over its own topic list, and several
+//      word-for-word-identical pairs shipped past the answer-index check
+//      because that check assumed near-duplicate pairs were "already caught
+//      elsewhere," which was only true for draft-vs-corpus, not draft-vs-draft.
 //   3. Hedge/meta options ("This isn't a real plot point", "not given a
 //      specific name...") — these read as answers while drafting but are
 //      unplayable as multiple-choice options. Flagged mechanically because
@@ -78,6 +84,22 @@ const MAX_OPTION_LENGTH = 90;
 // Dewey, and Louie") and legitimate "why/what happens" answers trip this too.
 const SENTENCE_LIKE_MIN_LENGTH = 40;
 const SENTENCE_LIKE_PATTERN = /[.!?]$|\b(is|are|was|were|because)\b/i;
+
+// Structural answer values ("All of the above" and friends) show up across
+// completely unrelated questions purely because they're a common multiple-
+// choice pattern, not because two questions test the same fact. Excluded
+// from every answer-index build below so they don't masquerade as a shared-
+// entity duplicate signal — this matters most for the draft-vs-draft check,
+// where a small (~100-question) draft can easily have 3-4 unrelated "All of
+// the above" answers stay under MAX_ANSWER_GROUP_SIZE by chance.
+const GENERIC_ANSWER_KEYS = new Set([
+  "all of the above",
+  "none of the above",
+  "both of the above",
+  "neither of the above",
+  "all of these",
+  "none of these",
+]);
 
 // Options/questions matching these patterns read as hedges or meta-commentary
 // rather than answers a player could actually pick — e.g. "This isn't a real
@@ -224,6 +246,43 @@ function nearestMatches(draftQ, corpus, topN) {
   return scored.slice(0, topN);
 }
 
+// Draft-vs-draft near-duplicate pass — mirrors validate.js's findDuplicates(),
+// but over the draft array against itself instead of the shipped corpus.
+// Added 2026-08-02 after the FOOD-deepseek batch shipped-almost-shipped ~15
+// internal duplicates (some word-for-word identical, e.g. two entries both
+// "Butter tarts are a classic dessert from which country?") that this file's
+// answer-index check (checkAnswerDuplicates) silently let through: its
+// draft-vs-draft loop explicitly skips any pair scoring >= NEAR_DUPLICATE_
+// THRESHOLD on the assumption "already caught by nearestMatches above" — but
+// nearestMatches only ever compares a draft question against the CORPUS, so a
+// near-identical pair *within the draft itself* was never checked by anything.
+// This function is that missing check: every draft question against every
+// other draft question, full O(n^2) pairwise question-text comparison, same
+// thresholds as the corpus check. Cheap at draft-batch sizes (tested to ~700
+// entries without a noticeable delay).
+function findInternalDuplicates(draft) {
+  const withWordSets = draft.map((q, i) => ({
+    i,
+    q,
+    words: wordSet(q.question || ""),
+    norm: normalize(q.question || ""),
+  }));
+  const hits = [];
+  for (let i = 0; i < withWordSets.length; i++) {
+    for (let j = i + 1; j < withWordSets.length; j++) {
+      const a = withWordSets[i];
+      const b = withWordSets[j];
+      const sim = a.norm && a.norm === b.norm ? 1 : jaccard(a.words, b.words);
+      if (sim >= LIKELY_DUPLICATE_THRESHOLD) {
+        hits.push({ tier: "likely", a, b, sim });
+      } else if (sim >= NEAR_DUPLICATE_THRESHOLD) {
+        hits.push({ tier: "near", a, b, sim });
+      }
+    }
+  }
+  return hits;
+}
+
 // Groups questions by normalized answer, for the "same fact, low word
 // overlap" check below. checkAnswerDuplicates applies validate.js's
 // MAX_ANSWER_GROUP_SIZE cap at lookup time (skip a corpus match if that
@@ -236,6 +295,7 @@ function buildAnswerIndex(questions) {
     if (typeof q.answer !== "string") continue;
     const key = normalizeAnswer(q.answer);
     if (!key || key.length < MIN_ANSWER_DUPLICATE_LENGTH) continue;
+    if (GENERIC_ANSWER_KEYS.has(key)) continue;
     if (!index.has(key)) index.set(key, []);
     index.get(key).push(q);
   }
@@ -266,8 +326,17 @@ function checkAnswerDuplicates(q, i, corpusIndex, draftMatches) {
   }
   for (const other of draftMatches) {
     const sim = jaccard(draftWords, wordSet(other.q.question || ""));
-    if (sim >= NEAR_DUPLICATE_THRESHOLD) continue;
-    if (sim < SAME_ANSWER_MIN_OVERLAP) continue;
+    if (sim >= NEAR_DUPLICATE_THRESHOLD) continue; // now caught by findInternalDuplicates instead
+    // No SAME_ANSWER_MIN_OVERLAP floor here (unlike the corpus loop above):
+    // that floor was calibrated against a ~7,000-question corpus where a
+    // shared specific answer is often coincidental generic-entity reuse. A
+    // single draft batch is 2-3 orders of magnitude smaller, so two entries
+    // sharing a specific, non-generic answer (GENERIC_ANSWER_KEYS is already
+    // filtered out above) are far more likely to be the same fact reworded —
+    // confirmed against the FOOD-deepseek batch (2026-08-02): every pair this
+    // floor would have suppressed here (e.g. "St Lucie cherry" at 0.36
+    // overlap, "Ostrich fern" at 0.30) turned out to be a real duplicate on
+    // manual review, unlike the corpus-scale case.
     hits.push(
       `draft[${i}]: shares answer "${q.answer}" with draft[${other.i}] (question overlap ${sim.toFixed(2)}) — check if it's the same fact reworded: "${other.q.question}"`
     );
@@ -322,6 +391,23 @@ function main() {
   let likelyDupes = 0;
   let nearDupes = 0;
   let advisories = 0;
+
+  const internalHits = findInternalDuplicates(draft);
+  for (const hit of internalHits) {
+    if (hit.tier === "likely") {
+      likelyDupes++;
+      console.log(
+        `  ✗ draft[${hit.a.i}] LIKELY DUPLICATE (${hit.sim.toFixed(2)}) of draft[${hit.b.i}] (same draft, not the corpus): "${hit.b.q.question}"`
+      );
+      console.log(`      draft[${hit.a.i}]: "${hit.a.q.question}"`);
+    } else {
+      nearDupes++;
+      console.log(
+        `  ! draft[${hit.a.i}] near-duplicate (${hit.sim.toFixed(2)}) of draft[${hit.b.i}] (same draft, not the corpus): "${hit.b.q.question}"`
+      );
+      console.log(`      draft[${hit.a.i}]: "${hit.a.q.question}"`);
+    }
+  }
 
   draft.forEach((q, i) => {
     const problems = [...checkSchema(q, i), ...checkHedges(q, i)];

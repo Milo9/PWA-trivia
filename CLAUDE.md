@@ -1046,12 +1046,14 @@ over rather than re-learning here:
   original index) and comparing it against the corpus once caught
   cross-file duplicates that 7 separate `check-draft.js` runs would each
   have missed, since every one of those runs only sees its own file
-  against the corpus. **`check-draft.js` has no draft-vs-draft
-  comparison** (only draft-vs-corpus, plus a same-file answer index) — for
-  a multi-file merge that pass doesn't exist yet and has to be written
-  ad hoc (score every pair in the union with `wordSet`/`jaccard`, both
-  already exported from `validate.js`); don't assume `check-draft.js`
-  alone covers a multi-file merge. Even with both a corpus pass and a
+  against the corpus. **`check-draft.js` gained a real draft-vs-draft
+  question-text pass (`findInternalDuplicates`) on 2026-08-02** — see the
+  dated entry below for why — but it still only compares the *single
+  file* you point it at against itself; for a multi-file merge, you still
+  need to build one concatenated union draft first (each entry tagged
+  with source file + original index) and run `check-draft.js` against
+  that union, since running it once per file still leaves cross-file
+  duplication uncaught. Even with both a corpus pass and a
   draft-vs-draft pass, expect a residual duplicate rate that only surfaces
   by reading the surviving questions: this batch had 26 further
   duplicates out of 503 post-gate survivors (~5%) that neither automated
@@ -1064,6 +1066,84 @@ over rather than re-learning here:
   classification). Budget time for that manual pass on any future
   multi-file merge; the automated gate narrows the problem, it doesn't
   finish it.
+
+## `check-draft.js` gained draft-vs-draft duplicate detection (2026-08-02)
+
+Processing three single-file `questions_inbox` batches in one session
+(`FILM-GLM52-...js`, 100 film-tv; `FOOD-deepseek_...js`, 96 food-drink;
+`MUSIC-Qwen_...js`, 100 music) surfaced a real gap in `check-draft.js`
+itself, not just a "read more carefully" lesson — fixed in the script
+rather than just documented here.
+
+**The FOOD-deepseek batch was ~20% internal self-duplication that
+shipped past both of `check-draft.js`'s existing passes.** The file
+turned out to be two rewritten passes over almost the same ~50 topics
+(Canadian and historical foods) with slightly different wording —
+including two entries that were **word-for-word identical**
+("Butter tarts are a classic dessert from which country?" appeared
+twice). Neither existing check caught most of these:
+- The default near-duplicate pass (`nearestMatches`) only ever compares
+  each draft question against the *existing corpus* — it never compared
+  draft questions against each other, despite a comment in the
+  answer-index check (`checkAnswerDuplicates`) claiming high-overlap
+  same-answer draft pairs were "already caught by nearestMatches above."
+  They weren't. This is why exact duplicates like the Butter tarts pair
+  above shipped silently — an audit bug, not a coverage gap that just
+  needed a lower threshold.
+- The answer-index check's `SAME_ANSWER_MIN_OVERLAP = 0.55` floor (see
+  `validate.js`), calibrated against the ~7,000-question full corpus
+  where a shared specific answer is often coincidental generic-entity
+  reuse, was too aggressive for a single ~100-question draft — pairs
+  like "St Lucie cherry" (Mahlab, asked twice, 0.36 text overlap) and
+  "Ostrich fern" (Fiddleheads, asked twice, 0.30 overlap) are genuine
+  duplicates that this floor silently suppressed. At draft-batch scale a
+  shared *specific* answer is a much stronger signal than at corpus
+  scale, since there's far less opportunity for coincidental reuse.
+
+**Fixed in `scripts/check-draft.js`:**
+1. Added `findInternalDuplicates(draft)` — a real O(n²) draft-vs-draft
+   question-text pass, structurally identical to `validate.js`'s
+   `findDuplicates()` but run over the draft array against itself. Runs
+   by default (not behind a flag) and counts toward the same
+   likely-duplicate/near-duplicate totals as the corpus check.
+2. Dropped `SAME_ANSWER_MIN_OVERLAP` specifically for the draft-vs-draft
+   branch of `checkAnswerDuplicates` (the draft-vs-corpus branch keeps
+   the floor — that one's still correctly calibrated against corpus-scale
+   noise). Every pair this unblocked on the FOOD-deepseek batch turned
+   out to be a real duplicate on manual review, not noise.
+3. Added `GENERIC_ANSWER_KEYS` (a short list — "all of the above," "none
+   of the above," etc.) excluded from every answer-index build, since
+   dropping the overlap floor without this would make every unrelated
+   pair of "All of the above" answers look like a shared-entity
+   duplicate signal.
+
+Re-running the fixed script against the FOOD-deepseek draft catches 12 of
+the ~20 real duplicates found by manual review automatically (up from ~4
+before the fix) — the remaining ~8 are still only catchable by a human
+read, because they're either **reversed-direction** duplicates (e.g. "who
+invented the brownie" → Palmer House Hotel vs. "what did Palmer House
+invent" → Brownie use completely different answer text, so no
+answer-index approach can link them) or share a near-but-not-identical
+answer string ("Acadia" vs. "Acadians," "Cheese" vs. "Cheese and leek").
+Both of those remain exactly what the existing "premise reveals the
+answer" and reversed-direction guidance elsewhere in this file already
+describes — this fix narrows the automatable slice, it doesn't replace
+the manual read.
+
+**Technique for the manual slice that's left:** dumping the whole draft
+as one `index | answer | question` line per entry, oldest-index-first,
+is far cheaper to eyeball for internal repetition than reading the raw
+draft file — the terse, aligned format makes a repeated topic jump out
+immediately even when the exact wording differs:
+
+```
+node -e "require('<path-to-draft.js>').forEach((q,i)=>console.log(i,'|',q.answer,'|',q.question))"
+```
+
+Use this on any single-file batch, not just as a fallback when
+`check-draft.js` comes back suspiciously clean — it's what actually
+surfaced the reversed-direction and near-answer duplicate pairs above
+that the script still can't catch mechanically.
 
 ## Memory-only drafting is exhausted for `friends` and `big-bang-theory` — and now `general` too
 
