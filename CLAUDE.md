@@ -604,6 +604,55 @@ onward (one id gap at 163 from the post-merge fix). All confirmed-
 duplicate angles, plus the magnetic-flux/C# cautions, folded into
 `science-technology`'s list in `templates/science-technology.md`.
 
+**`BRANDS-GLM52-39848jdjfduhjkdf.js` processed 2026-08-01** (single-file
+batch, 98 `business-brands` questions, self-declaring `category`): the
+lowest duplicate rate seen on this project so far — only 3 of 98 cut —
+because `business-brands` was a nearly-empty category (5 existing
+questions, seeded by hand, not drafted) going into this batch, so there
+was almost no existing corpus to collide with. `check-draft.js`'s default
+pass found 0 duplicates and only 2 advisory answer-leak notes (both
+judged: one, "Crystal Pepsi" leaking "Pepsi," was real and fixed by
+describing the product instead of naming it; the other, a Google+
+question naming "Google," was not a real leak since 3 of its 4 options
+already share the "Google" prefix, so it doesn't narrow down which
+specific product).
+
+Since corpus-collision risk was minimal, review effort went instead into
+manual accuracy verification via `WebSearch` — this batch leaned heavily
+on obscure "hard"-difficulty corporate-history specifics (original
+company names, exact discontinuation years) that are exactly the kind of
+fact a model states with false confidence from training-data recall. Two
+web-verified issues, neither of which any automated check could have
+caught: a Canon question claimed "Precision Optical Instruments
+Laboratory" was the company's name when it *incorporated* in 1937, but
+that name actually belongs to the earlier 1933 pre-incorporation lab —
+the 1937 incorporation used a different name ("Precision Optical Industry
+Co., Ltd.") — cut rather than risk shipping an imprecise fix; and an MSN
+Direct question said the service "was shut down in 2008," but that's only
+when Microsoft's SPOT watches were discontinued — the underlying MSN
+Direct data service itself continued until 2011/2012 — fixed by
+rewording to attribute the 2008 date to the watches, not the service.
+Both web searches confirmed other risky-looking claims (Pepsi Girl's real
+name Hallie Eisenberg, Hulu's "Clown Co." nickname) as accurate,
+consistent with this being a strong-but-not-perfect batch rather than a
+systematically unreliable one.
+
+Two more issues surfaced from manual reading rather than search: the
+batch asked "which company introduced Surge" and, separately, "what was
+Coca-Cola's citrus soda that competed with Mountain Dew" — the same fact
+in both directions, so one (the shorter, less specific framing) was cut;
+and a question calling 1873's original riveted Levi's jeans "Levi's 501"
+was both a near-duplicate of another question already asking about the
+1873 Levi Strauss/Jacob Davis rivet patent *and* a factual anachronism —
+the "501" lot number wasn't applied until roughly 1890 — so it was cut
+rather than fixed, since a correct, non-duplicate version of the 1873
+fact already survived elsewhere in the batch. Surviving 95 merged as
+`business-brands-006`–`100`, taking this category from 5 questions (all
+hand-seeded, none drafted) to 100. Seeded `templates/business-brands.md`'s
+`AVOID THESE ANGLES` list with all confirmed facts from this batch (its
+first real content batch), plus the four judgment-call patterns above as
+cautionary notes.
+
 ## General Knowledge split into topic categories (2026-08-01)
 
 `general` (2825 questions) was split into 12 topic categories plus a

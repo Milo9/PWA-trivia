@@ -73,6 +73,103 @@ differently):
 - The Ford Edsel as a byword for a notorious commercial flop
 - The McDonald brothers (Richard and Maurice) opening the original
   McDonald's in San Bernardino, CA in 1940, before Ray Kroc franchised it
+- Blue Ribbon Sports (Nike's predecessor) distributing Onitsuka Tiger
+  shoes before creating its own brand
+- Yahoo!'s original name, "Jerry's Guide to the World Wide Web"
+- Nintendo's original product line, Hanafuda playing cards
+- McDonald's 1992 "Arch Deluxe" flop, and the 2002 "McAfrika" controversy
+- Tesla's first mass-produced vehicle, the Roadster, and Tesla Motors'
+  2003 founding by Martin Eberhard and Marc Tarpenning
+- The Apple Newton (1990s PDA flop) and Apple's 1995 Pippin game console
+- Pepsi-Cola's original 1893 name, "Brad's Drink"
+- Amazon's Fire Phone (2015 flop)
+- Crystal Pepsi (1992) and the "Pepsi Girl" mascot's real name, Hallie
+  Eisenberg
+- L'Oréal founder Eugène Schueller's first product, a hair dye formula
+- Starbucks' original 1971 siren logo featuring bare breasts
+- Microsoft's MSN Direct/SPOT smartwatch network (watches launched 2004,
+  discontinued 2008) and its Kin smartphone (2010, discontinued after 48
+  days) and Zune music player (2006-2011)
+- Nokia's original business in wood pulp and paper
+- Heinz's early-2000s green ketchup
+- Virgin Cola (1994)
+- Chevrolet's bowtie logo, popularly said to be inspired by Parisian
+  hotel wallpaper
+- Lego's name meaning "play well" in Danish
+- Apple's 1998 iMac in "Bondi Blue" and other translucent colors
+- Google+ (2011-2019) and Google Buzz/Orkut as other defunct Google
+  social networks
+- Reebok's predecessor, J.W. Foster and Sons (founded in England)
+- Levi's founding by Levi Strauss and Jacob Davis in 1873 (riveted denim)
+- Coca-Cola's Dasani bottled water (1999, UK recall) and other Coca-Cola
+  product flops: New Coke (already listed above), TaB Clear (1985),
+  Surge (1990s, vs. Mountain Dew), Coca-Cola C2 (2004)
+- HP TouchPad (2011, discontinued after 49 days)
+- Pringles' mascot, Julius Pringles, and its 1968 introduction by P&G in
+  a cylindrical can
+- Best Buy's original name, "Sound of Music" (renamed 1983 after a
+  tornado damaged its store)
+- Pepsi's "Pepsi Stuff" Harrier-jet lawsuit (1992)
+- Michelin's mascot, Bibendum
+- The QWERTY keyboard's origin with E. Remington and Sons typewriters
+- Apple's original 1976 logo featuring Isaac Newton under a tree
+- Mr. Clean's genie-logo
+- Hulu's pre-launch nickname, "Clown Co."
+- Vans, founded 1966 by Paul Van Doren
+- Colgate's failed 1980s "Kitchen Entrees" frozen foods
+- Joe Camel, RJR's 1988 mascot for Camel cigarettes
+- Wendy's founding by Dave Thomas (named after his daughter) and its
+  1984 "Where's the beef?" slogan
+- McDonald's majority stake in Chipotle (1998-2006)
+- Microsoft's founding by Bill Gates and Paul Allen (1975)
+- Jaguar's leaping-cat logo
+- RCA/Victor's "His Master's Voice" mascot dog, Nipper
+- Barbie's creator, Ruth Handler (1959)
+- J.C. Penney's origin as a Kemmerer, Wyoming dry goods store (1902)
+- American Express's "Don't leave home without it" slogan
+- Nescafé, introduced by Nestlé in 1938
+- Elon Musk's X.com (1999, merged into PayPal)
+- Oprah Winfrey's OWN network (2011)
+- Mattel, founded 1945 by Matt Matson and Elliot Handler (name blend),
+  and its Intellivision game console (1979)
+- Commodore 64 (1982) and Atari Jaguar (1993)
+- NBC's peacock logo (1956, for color broadcasting)
+- Facebook's Poke app (2013, a Snapchat competitor) and Twitter's
+  Periscope app (2015)
+- BMW's 1916 founding as an aircraft engine manufacturer
+- HD DVD losing the format war to Blu-ray (2008)
+- Coca-Cola's founding by pharmacist John Pemberton (1886)
+- The PalmPilot (1996) and Palm's later webOS (2009)
+- Taco Bell's talking Chihuahua ad campaign
+- Diamond Multimedia's Rio PMP300 (1998) and the resulting digital-music
+  legal battle
+- Suzuki's origin as a weaving-loom manufacturer (1909)
+- MySpace, founded by Tom Anderson and Chris DeWolfe (2003)
+- Sony's Walkman (1979) and the Nintendo Entertainment System (1985)
+- Burberry's gabardine fabric origin (1856)
+- Gatorade's 1965 University of Florida origin
+- Fisker Automotive, founded by Henrik Fisker (2007, bankrupt 2013)
+- Hasbro's original name, Hassenfeld Brothers (1923)
+- Kleenex's WWI gas-mask-filter origin
+- The Trabant's Duroplast body
+- Ralph Lauren's polo-player logo
+- Jacob Schick's 1928 electric razor patent
+- Second Life (Linden Lab, 2003)
+- 3M's original name, Minnesota Mining and Manufacturing Company (1902)
+- Honda's ASIMO robot (2000)
+
+CAUTION — verify precise founding names/dates via web search rather than
+memory for corporate-history "original name" questions: a 2026-08-01 batch
+had to cut a Canon question that conflated its 1933 lab name ("Precision
+Optical Instruments Laboratory") with its differently-named 1937
+incorporation, and had to fix an MSN Direct question that said the
+service "shut down in 2008" when only the SPOT watches were discontinued
+that year — the underlying data service actually ran until 2011/2012.
+Also watch for the same fact tested in both directions within one batch
+(e.g. "which company made Surge" and "what was Coca-Cola's anti-Mountain-
+Dew soda called" are the same fact, not two) and for a specific product
+name applied anachronistically to an earlier event (e.g. calling 1873's
+riveted jeans "Levi's 501" — the 501 lot number wasn't used until ~1890).
 
 Output just the JS file content, nothing else.
 ```
