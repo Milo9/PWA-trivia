@@ -48,8 +48,8 @@ html, body {
   flex: 1;
   display: flex;
   flex-direction: column;
-  padding: 24px 20px calc(20px + env(safe-area-inset-bottom));
-  max-width: 560px;
+  padding: 16px 16px calc(14px + env(safe-area-inset-bottom));
+  max-width: 640px;
   width: 100%;
   margin: 0 auto;
 }
@@ -60,40 +60,42 @@ html, body {
 
 .app-header {
   text-align: center;
-  margin-bottom: 24px;
+  margin-bottom: 12px;
 }
 
 .app-header h1 {
-  font-size: 1.7rem;
-  margin: 8px 0 4px;
+  font-size: 1.35rem;
+  margin: 2px 0 2px;
 }
 
 .subtitle {
   color: var(--text-muted);
   margin: 0;
-  font-size: 0.95rem;
+  font-size: 0.85rem;
 }
 
 .category-list {
-  display: flex;
-  flex-direction: column;
-  gap: 12px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(128px, 1fr));
+  gap: 8px;
 }
 
 .category-card {
   background: var(--surface);
   border: 1px solid var(--border);
-  border-radius: 14px;
-  padding: 18px 20px;
+  border-radius: 12px;
+  padding: 10px 12px;
   text-align: left;
-  font-size: 1.05rem;
+  font-size: 0.9rem;
   font-weight: 600;
   color: var(--text);
   display: flex;
-  justify-content: flex-start;
-  align-items: center;
-  gap: 14px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
   cursor: pointer;
+  position: relative;
+  min-height: 62px;
 }
 
 .category-card:active {
@@ -107,11 +109,13 @@ html, body {
 
 .category-check {
   flex-shrink: 0;
-  width: 22px;
-  height: 22px;
-  border-radius: 6px;
+  width: 16px;
+  height: 16px;
+  border-radius: 5px;
   border: 2px solid var(--border);
-  position: relative;
+  position: absolute;
+  top: 9px;
+  right: 9px;
 }
 
 .category-card.selected .category-check {
@@ -122,10 +126,10 @@ html, body {
 .category-card.selected .category-check::after {
   content: "";
   position: absolute;
-  left: 6px;
-  top: 2px;
-  width: 6px;
-  height: 11px;
+  left: 3px;
+  top: 0px;
+  width: 5px;
+  height: 8px;
   border: solid white;
   border-width: 0 2px 2px 0;
   transform: rotate(45deg);
@@ -141,16 +145,18 @@ html, body {
   flex-direction: column;
   gap: 2px;
   min-width: 0;
+  padding-right: 20px;
 }
 
 .category-name {
   overflow-wrap: break-word;
+  line-height: 1.2;
 }
 
 .category-card .count {
   color: var(--text-muted);
   font-weight: 400;
-  font-size: 0.85rem;
+  font-size: 0.72rem;
 }
 
 .selection-bar {
@@ -158,7 +164,7 @@ html, body {
   align-items: center;
   justify-content: space-between;
   gap: 12px;
-  margin-top: 16px;
+  margin-top: 10px;
 }
 
 .selection-bar .primary-btn {
@@ -227,13 +233,13 @@ html, body {
 .status-text {
   text-align: center;
   color: var(--text-muted);
-  margin-top: 20px;
-  font-size: 0.9rem;
+  margin-top: 12px;
+  font-size: 0.85rem;
 }
 
 .app-footer {
   margin-top: auto;
-  padding-top: 20px;
+  padding-top: 12px;
   text-align: center;
 }
 
@@ -258,21 +264,21 @@ html, body {
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: 12px;
-  padding: 14px 16px;
-  margin-bottom: 20px;
+  padding: 10px 14px;
+  margin-bottom: 14px;
   text-align: left;
 }
 
 .app-footer .stats-card {
-  margin-bottom: 12px;
+  margin-bottom: 8px;
 }
 
 .stats-row {
   display: flex;
   justify-content: space-between;
   align-items: baseline;
-  font-size: 0.9rem;
-  padding: 4px 0;
+  font-size: 0.85rem;
+  padding: 2px 0;
 }
 
 .stats-row .stats-value {
