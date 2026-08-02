@@ -17,6 +17,41 @@ instead):
 - How many legs a spider has (Eight)
 - Largest mammal in the world (Blue Whale)
 - How many hearts an octopus has (Three)
+- Mantis shrimp punch acceleration/speed (compared to a .22 caliber
+  bullet, or given in g-force) — already asked twice
+- What a narwhal's tusk actually is (an elongated canine tooth)
+- What the honeybee waggle dance communicates (direction/distance to food)
+- What pangolin scales are made of (keratin, same as fingernails) —
+  already asked twice
+- How wood frogs survive winter (freezing solid, thawing in spring)
+- Which sex of seahorse carries the developing embryos (the male)
+- How the "immortal jellyfish" (Turritopsis dohrnii) achieves biological
+  immortality (reverting to a polyp stage)
+- Bombardier beetle's defensive spray being boiling-hot
+- Peregrine falcon's diving speed as the fastest animal (already asked
+  with a ~240 mph figure — don't reintroduce with a different number)
+- Unique shape of wombat droppings (cube-shaped)
+- Giant squid having the largest eyes in the animal kingdom (already
+  described as "size of a dinner plate" — don't reintroduce with a
+  diameter-in-inches figure)
+- Capybara as the largest living rodent species
+- Naked mole rats' exceptional cancer resistance
+- The fossa as Madagascar's top predator/largest carnivore
+- Kākāpō being the world's only flightless parrot
+- Okapi's closest living relative being the giraffe
+- Mantis shrimp's exceptional color vision (12-16 photoreceptor
+  types, vs. 3 in humans)
+- Sea otters having the densest fur of any mammal (~1 million hairs per
+  square inch)
+- Giant panda's "thumb" being an enlarged/modified wrist bone (radial
+  sesamoid) — already asked twice
+- Cuttlefish pupils forming a W-shape in bright light
+
+Watch for this same fact reused on a *different* named animal, not just
+verbatim repeats — e.g. blue blood from copper-based hemocyanin is
+already asked about a horseshoe crab; the same mechanism on an octopus
+or other mollusk is a distinct-enough entity to keep, but don't stack
+more than one or two species onto the same shared mechanism.
 
 Use web search to verify every fact — do not rely on memory alone. Prefer
 authoritative sources (reference databases, encyclopedic sources) over

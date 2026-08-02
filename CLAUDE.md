@@ -341,6 +341,49 @@ including the two factual-error angles (Magellan/Venus, Kepler/51
 Pegasi) as cautionary notes rather than bullets, since they're wrong-
 answer traps rather than duplicate topics.
 
+**`QWEN38max-01-ANIMALS...js` processed 2026-08-01** (single-file batch,
+100 `animals-nature` questions, self-declaring `category`): `check-
+draft.js`'s default pass found nothing blocking at all (0 likely/near
+duplicates), and `--full-answer-audit` only surfaced 5 candidates, of
+which 4 were real. This batch was unusually specific/numeric (exact
+voltages, decibel levels, g-forces, dates) rather than leaning on generic
+superlatives, which is exactly why the automated checks underperformed
+here: a specific-sounding drafted fact ("what disease are naked mole rats
+resistant to") can still be a near-verbatim duplicate of an existing
+entry even though neither the question text nor a bare answer-string
+match makes that obvious at a glance. A manual pass — grepping the
+existing `animals-nature`/`general` corpus for every distinctive noun in
+the draft (species and phenomenon names: narwhal, wombat, mantis shrimp,
+axolotl, etc.) rather than relying on either automated check — found 21
+of 100 (21%) were duplicates, all missed by `check-draft.js` because the
+matching existing entry's *answer* wording differed enough (e.g. draft's
+"a canine tooth" vs. corpus's "an elongated canine tooth" for the narwhal
+tusk fact) or because the fact already had 2 existing hits, hitting the
+answer-match group-size cap (pangolin scales/keratin and giant panda's
+thumb/radial sesamoid bone were each already asked twice in the corpus).
+One entry was both a duplicate and a factual overstatement: a draft
+question asked what body part axolotls can regenerate and gave "its
+entire brain" as the correct answer, when the existing corpus entry
+testing the same fact correctly says axolotls regenerate "parts of its
+brain and heart" — axolotls do not regenerate an entire brain, so the
+draft's answer was simply wrong, not just redundant. Two duplicates were
+the same core fact restated with a different specific number rather than
+different wording — peregrine falcon dive speed (existing corpus already
+uses "over 240 mph"; draft used "320 km/h / 200 mph" for the same "fastest
+diving bird" fact) and giant squid eye size (existing corpus says "size of
+a dinner plate"; draft gave "10 inches / 25 cm" for the same "largest eyes
+in the animal kingdom" fact) — both cut as the same underlying trivia
+point, not kept as complementary facts, since the specific number wasn't
+the point being tested in either version. Surviving 79 merged as
+`animals-nature-166`–`244`. All confirmed-duplicate angles folded into
+`animals-nature`'s list in `templates/animals-nature.md`, including a
+note (not from this batch, but noticed while auditing it) that the *same*
+shared biological mechanism reused on a *different* named animal — e.g.
+copper-based hemocyanin causing blue blood, already asked about a
+horseshoe crab, kept when the draft asked it about an octopus instead —
+is a judgment call to keep, not an automatic cut, unlike a verbatim
+repeat on the same animal.
+
 ## General Knowledge split into topic categories (2026-08-01)
 
 `general` (2825 questions) was split into 12 topic categories plus a
