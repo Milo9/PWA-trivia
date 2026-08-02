@@ -717,6 +717,65 @@ cautionary notes, folded into the three categories' lists in
 98d6f876fdga976adf8fg7a9d8fg.js`, 100 `space-astronomy` questions) was
 left unprocessed this session — next in line for a future batch.
 
+**`HISTORY-Qwen_javascript_20260802_te1ac99ol.js`, `SPACE-Gemini-
+98d6f876fdga976adf8fg7a9d8fg.js`, and `ARTS-Gemini-
+19087dfg98hkjdfgas9g8039221jnfdsbvbdxfjhgei8475.js` processed 2026-08-02**
+(three single-file batches, 100 `history`, 100 `space-astronomy`, and 100
+`arts-literature` questions respectively, processed sequentially in one
+session): the ARTS file had a real syntax bug, not just a content issue —
+its drafting agent used unescaped straight double quotes around every
+work title inside `"question"` string values (e.g. `"...masterpiece "Las
+Meninas"?"`), which is invalid JSON/JS and made the file fail to
+`require()` at all. Fixed mechanically (escaped every embedded `"` inside
+`question` values only, since a check confirmed `answer`/`options` lines
+were all clean) before any review could start — worth checking a new
+inbox file actually parses before running `check-draft.js` on it, since a
+parse failure otherwise looks identical to "no file yet."
+
+Duplicate rates: 23/100 (history), 15/100 (space-astronomy), 13/100
+(arts-literature) — all caught by a mix of `check-draft.js`'s default
+pass, `--full-answer-audit`, and a manual read against the corpus,
+consistent with prior batches' finding that the default pass alone misses
+same-fact-different-wording pairs. The arts-literature batch's low rate
+(vs. e.g. `ARTS-Mistral-...`'s 48% from the prior day) came from favoring
+specific-named-work framing ("who painted 'Las Meninas'") over generic
+"who wrote/painted the [author]'s most famous work" — confirming
+`templates/arts-literature.md`'s existing anti-chestnut guidance works
+when followed. One duplicate needed a judgment call in the arts batch:
+"name of the monster in Beowulf that terrorizes Heorot" (Grendel) was cut
+against an existing question that only names Grendel indirectly (via a
+1971 novel retelling from the monster's perspective) — same underlying
+fact a player needs to know, different surface framing, treated as a
+duplicate per the "premise reveals the answer" precedent from the
+2026-08-02 ANIMALS/FILMS/FOOD batches above rather than kept as a
+distinct trivia point.
+
+Three real factual errors were caught and fixed in place rather than
+cut, since correct distractor options already existed in each case (same
+pattern as prior batches' Fiorina/Fury 161 and Huygens/photosphere
+fixes), all confirmed via `WebSearch` rather than memory:
+1. A history question asking for "the first U.S. President to be born in
+   a log cabin" gave Lincoln as the answer with Andrew Jackson already
+   present as a wrong option — Jackson (born 1767) actually was first,
+   decades before Lincoln (born 1809); answer switched to Jackson.
+2. A history question calling Grover Cleveland "the only U.S. President
+   to serve non-consecutive terms" was true when written but became false
+   in 2025 when Donald Trump became the second (2017–2021, 2025–) —
+   reworded "the only" to "the first," which stays true regardless of who
+   comes after Trump.
+3. A space-astronomy question asked which star "marks [Orion's] lower
+   right foot," giving Rigel — Rigel is actually Orion's *left* foot
+   (Betelgeuse is the right shoulder, by the same convention); fixed the
+   question text's "right" to "left."
+
+Surviving 77/85/87 merged as `history-153`–`229`,
+`space-astronomy-173`–`257`, and `arts-literature-178`–`264`
+respectively. All confirmed-duplicate angles, plus the three factual-
+error cautions, folded into the three categories' lists in
+`templates/history.md`, `templates/space-astronomy.md`, and
+`templates/arts-literature.md`. `questions_inbox/` is now empty (all 10
+pending batches from the 2026-08-01/02 backlog have been processed).
+
 ## General Knowledge split into topic categories (2026-08-01)
 
 `general` (2825 questions) was split into 12 topic categories plus a
