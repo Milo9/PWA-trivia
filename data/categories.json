@@ -86,5 +86,10 @@
     "name": "General Knowledge",
     "file": "questions/general.json",
     "dupeGroup": "general"
+  },
+  {
+    "id": "business-brands",
+    "name": "Business & Brands",
+    "file": "questions/business-brands.json"
   }
 ]
