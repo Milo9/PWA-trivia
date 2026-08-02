@@ -54,6 +54,47 @@ instead):
 - Indonesia having the most active volcanoes of any country
 - Sicily as the largest island in the Mediterranean
 - São Tomé and Príncipe's capital
+- Capitals of Comoros, Palau, Tuvalu, Kiribati, Vanuatu, Micronesia,
+  Marshall Islands, Solomon Islands, Timor-Leste, Cape Verde, Belize,
+  and Bolivia's constitutional capital (Sucre) — now covered
+- The executive/official capital of Eswatini (Mbabane), Côte d'Ivoire
+  (Yamoussoukro), and Benin (Porto-Novo), in either "what is X's capital"
+  or "which city serves as X's capital" framing
+- Myanmar's 2005 capital move to Naypyidaw
+- South Africa's three capital cities
+- Netherlands' constitutional capital (Amsterdam) vs. actual seat of
+  government (The Hague) — already asked with The Hague as a distractor
+- Deepest lake in the world (Lake Baikal), largest lake by surface area
+  (Caspian Sea), largest freshwater lake by surface area (Lake Superior)
+- Lowest point on Earth's land surface (shores of the Dead Sea)
+- Challenger Deep / Mariana Trench as the ocean's deepest point
+- Mauna Kea as the tallest mountain measured base-to-summit
+- Amazon River's discharge volume (largest by volume)
+- Gobi Desert spanning China and Mongolia
+- Arabian Peninsula as the world's largest peninsula
+- Ural Mountains as the Europe/Asia boundary (already asked 3+ times)
+- K2's location in the Karakoram range
+- Great Rift Valley's continent (Africa)
+- Most populous country in Africa (Nigeria)
+- Iguazu Falls on the Argentina/Brazil border
+- Victoria Falls on the Zambia/Zimbabwe border
+- Strait of Malacca lying between Sumatra/Indonesia and Malaysia
+- Colorado River carving the Grand Canyon (either direction)
+- Pyrenees as the France/Spain border (already asked 2+ times)
+- San Marino as an enclave surrounded by Italy (either direction: "which
+  country surrounds San Marino" or "which microstate is surrounded by
+  Italy")
+- Rio Grande forming part of the US/Mexico border
+
+Also watch for a flag-shape trap: a drafted question claimed Vatican
+City is "the only country other than Nepal" with a non-rectangular
+flag, and a companion question claimed Nepal is "one of only two"
+non-rectangular flags — both wrong. Switzerland's flag is also square
+(non-oblong), so there are three unusual flags (Nepal, Switzerland,
+Vatican City), not two, and which ones count as "non-rectangular"
+depends on a contested definition (a square is technically still a
+rectangle). Cut rather than draft this angle unless you can phrase it
+without an "only X" claim.
 
 Also watch for two specific ambiguous-superlative traps, confirmed via
 web search while auditing a batch: (1) "highest capital city" — La Paz

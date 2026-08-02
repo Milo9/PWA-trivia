@@ -5770,5 +5770,837 @@
     ],
     "answer": "Chile",
     "id": "geography-137"
+  },
+  {
+    "id": "geography-138",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the capital of Suriname?",
+    "options": [
+      "Paramaribo",
+      "Georgetown",
+      "Cayenne",
+      "Bridgetown"
+    ],
+    "answer": "Paramaribo"
+  },
+  {
+    "id": "geography-139",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the capital of Kyrgyzstan?",
+    "options": [
+      "Almaty",
+      "Tashkent",
+      "Bishkek",
+      "Dushanbe"
+    ],
+    "answer": "Bishkek"
+  },
+  {
+    "id": "geography-140",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the capital of Montenegro?",
+    "options": [
+      "Zagreb",
+      "Sarajevo",
+      "Belgrade",
+      "Podgorica"
+    ],
+    "answer": "Podgorica"
+  },
+  {
+    "id": "geography-141",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the capital of Moldova?",
+    "options": [
+      "Chișinău",
+      "Tiraspol",
+      "Bucharest",
+      "Kyiv"
+    ],
+    "answer": "Chișinău"
+  },
+  {
+    "id": "geography-142",
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "Burundi moved its political capital in 2019 to which city?",
+    "options": [
+      "Kampala",
+      "Kigali",
+      "Gitega",
+      "Addis Ababa"
+    ],
+    "answer": "Gitega"
+  },
+  {
+    "id": "geography-143",
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "What is the capital of Malawi?",
+    "options": [
+      "Lilongwe",
+      "Blantyre",
+      "Lusaka",
+      "Harare"
+    ],
+    "answer": "Lilongwe"
+  },
+  {
+    "id": "geography-144",
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "What is the capital of Mauritania?",
+    "options": [
+      "Nouadhibou",
+      "Dakar",
+      "Bamako",
+      "Nouakchott"
+    ],
+    "answer": "Nouakchott"
+  },
+  {
+    "id": "geography-145",
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "What is the capital of Dominica?",
+    "options": [
+      "Castries",
+      "Roseau",
+      "St. George's",
+      "Kingstown"
+    ],
+    "answer": "Roseau"
+  },
+  {
+    "id": "geography-146",
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "What is the capital of Saint Lucia?",
+    "options": [
+      "Castries",
+      "Roseau",
+      "Kingstown",
+      "Bridgetown"
+    ],
+    "answer": "Castries"
+  },
+  {
+    "id": "geography-147",
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "What is the capital of Grenada?",
+    "options": [
+      "Kingstown",
+      "Castries",
+      "St. George's",
+      "Bridgetown"
+    ],
+    "answer": "St. George's"
+  },
+  {
+    "id": "geography-148",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the capital of Guyana?",
+    "options": [
+      "Paramaribo",
+      "Port of Spain",
+      "Georgetown",
+      "Bridgetown"
+    ],
+    "answer": "Georgetown"
+  },
+  {
+    "id": "geography-149",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which lake holds roughly 20% of the world's unfrozen surface freshwater?",
+    "options": [
+      "Lake Superior",
+      "Lake Tanganyika",
+      "Lake Baikal",
+      "Caspian Sea"
+    ],
+    "answer": "Lake Baikal"
+  },
+  {
+    "id": "geography-150",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Where is the world's largest salt flat (Salar de Uyuni) located?",
+    "options": [
+      "Argentina",
+      "Chile",
+      "Bolivia",
+      "Peru"
+    ],
+    "answer": "Bolivia"
+  },
+  {
+    "id": "geography-151",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Lake Titicaca, often cited as the highest navigable lake for large vessels, straddles which two countries?",
+    "options": [
+      "Chile and Argentina",
+      "Peru and Bolivia",
+      "Ecuador and Peru",
+      "Bolivia and Chile"
+    ],
+    "answer": "Peru and Bolivia"
+  },
+  {
+    "id": "geography-152",
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "Because Earth bulges at the equator, the summit of which volcano is the farthest point on Earth's surface from its center?",
+    "options": [
+      "Mount Chimborazo",
+      "Mount Cotopaxi",
+      "Mount Everest",
+      "Mount Kilimanjaro"
+    ],
+    "answer": "Mount Chimborazo"
+  },
+  {
+    "id": "geography-153",
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "As of 2026, which volcano is considered the highest active volcano in the world (about 6,893 m)?",
+    "options": [
+      "Ojos del Salado",
+      "Llullaillaco",
+      "Nevado Ojos del Salado",
+      "Cerro Tipas"
+    ],
+    "answer": "Ojos del Salado"
+  },
+  {
+    "id": "geography-154",
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "As of 2026, which river is regarded as the deepest in the world, with measured depths exceeding 220 m?",
+    "options": [
+      "Yangtze",
+      "Amazon",
+      "Congo",
+      "Mekong"
+    ],
+    "answer": "Congo"
+  },
+  {
+    "id": "geography-155",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "The Danube, Europe's second-longest river, flows through (or along the borders of) how many countries?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "answer": "10"
+  },
+  {
+    "id": "geography-156",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "From its source in the Tibetan Plateau, the Mekong flows through how many countries before reaching the South China Sea?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "6"
+  },
+  {
+    "id": "geography-157",
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "Because of its overseas department French Guiana, France's longest land border is with which country?",
+    "options": [
+      "Spain",
+      "Belgium",
+      "Brazil",
+      "Germany"
+    ],
+    "answer": "Brazil"
+  },
+  {
+    "id": "geography-158",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "As of 2026, Russia and which other country each share land borders with 14 other countries, the most of any nation?",
+    "options": [
+      "Brazil",
+      "China",
+      "India",
+      "Democratic Republic of the Congo"
+    ],
+    "answer": "China"
+  },
+  {
+    "id": "geography-159",
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "The Wakhan Corridor is a narrow strip of which country that reaches to the border of China, separating Tajikistan from Pakistan?",
+    "options": [
+      "Pakistan",
+      "Tajikistan",
+      "Afghanistan",
+      "Kyrgyzstan"
+    ],
+    "answer": "Afghanistan"
+  },
+  {
+    "id": "geography-160",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country is an enclave entirely surrounded by Senegal, apart from its short Atlantic coastline?",
+    "options": [
+      "Guinea-Bissau",
+      "The Gambia",
+      "Sierra Leone",
+      "Liberia"
+    ],
+    "answer": "The Gambia"
+  },
+  {
+    "id": "geography-161",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country consists of two parts separated by Malaysia's Limbang district?",
+    "options": [
+      "Malaysia",
+      "Indonesia",
+      "Brunei",
+      "East Timor"
+    ],
+    "answer": "Brunei"
+  },
+  {
+    "id": "geography-162",
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "The Musandam Peninsula, controlling the Strait of Hormuz, is an exclave of which country separated from its mainland by the UAE?",
+    "options": [
+      "Saudi Arabia",
+      "Iran",
+      "Oman",
+      "Yemen"
+    ],
+    "answer": "Oman"
+  },
+  {
+    "id": "geography-163",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Borneo, the third-largest island in the world, is divided among which three countries?",
+    "options": [
+      "Indonesia, Malaysia, and Brunei",
+      "Indonesia, Malaysia, and the Philippines",
+      "Malaysia, the Philippines, and Vietnam",
+      "Indonesia, Papua New Guinea, and Malaysia"
+    ],
+    "answer": "Indonesia, Malaysia, and Brunei"
+  },
+  {
+    "id": "geography-164",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "As of 2026, which is the second-largest island in the world by area?",
+    "options": [
+      "Madagascar",
+      "Borneo",
+      "New Guinea",
+      "Sumatra"
+    ],
+    "answer": "New Guinea"
+  },
+  {
+    "id": "geography-165",
+    "difficulty": "easy",
+    "category": "geography",
+    "question": "Which island in the Greater Antilles is shared by Haiti and the Dominican Republic?",
+    "options": [
+      "Cuba",
+      "Jamaica",
+      "Puerto Rico",
+      "Hispaniola"
+    ],
+    "answer": "Hispaniola"
+  },
+  {
+    "id": "geography-166",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Honshu is the largest island of which country?",
+    "options": [
+      "South Korea",
+      "Philippines",
+      "Japan",
+      "Indonesia"
+    ],
+    "answer": "Japan"
+  },
+  {
+    "id": "geography-167",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "As of 2026, which is the fourth-largest island in the world by area?",
+    "options": [
+      "Sumatra",
+      "Madagascar",
+      "Borneo",
+      "Honshu"
+    ],
+    "answer": "Madagascar"
+  },
+  {
+    "id": "geography-168",
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "Often cited as the oldest desert in the world, which desert runs along the coast of Namibia?",
+    "options": [
+      "Kalahari Desert",
+      "Karoo",
+      "Namib Desert",
+      "Sahara"
+    ],
+    "answer": "Namib Desert"
+  },
+  {
+    "id": "geography-169",
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "The Patagonian Desert, the largest desert in the Americas, is located primarily in which country?",
+    "options": [
+      "Chile",
+      "Argentina",
+      "Peru",
+      "Bolivia"
+    ],
+    "answer": "Argentina"
+  },
+  {
+    "id": "geography-170",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "The Thar Desert lies mostly in northwestern India and extends into which neighboring country?",
+    "options": [
+      "Pakistan",
+      "Afghanistan",
+      "Nepal",
+      "Bangladesh"
+    ],
+    "answer": "Pakistan"
+  },
+  {
+    "id": "geography-171",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "The Taklamakan Desert is located in which country?",
+    "options": [
+      "Mongolia",
+      "Kazakhstan",
+      "China",
+      "Uzbekistan"
+    ],
+    "answer": "China"
+  },
+  {
+    "id": "geography-172",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Through which strait does roughly one-third of the world's seaborne oil pass, linking the Persian Gulf and the Gulf of Oman?",
+    "options": [
+      "Strait of Hormuz",
+      "Bab-el-Mandeb",
+      "Strait of Malacca",
+      "Bosporus"
+    ],
+    "answer": "Strait of Hormuz"
+  },
+  {
+    "id": "geography-173",
+    "difficulty": "easy",
+    "category": "geography",
+    "question": "The Cape of Good Hope is located on which continent?",
+    "options": [
+      "South America",
+      "Australia",
+      "Africa",
+      "Asia"
+    ],
+    "answer": "Africa"
+  },
+  {
+    "id": "geography-174",
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "Which cape, not the Cape of Good Hope, is the actual southernmost point of mainland Africa?",
+    "options": [
+      "Cape Agulhas",
+      "Cape Point",
+      "Cape Columbine",
+      "Cape St. Francis"
+    ],
+    "answer": "Cape Agulhas"
+  },
+  {
+    "id": "geography-175",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Cape Horn marks the southernmost point of which continent's mainland?",
+    "options": [
+      "Africa",
+      "Australia",
+      "Antarctica",
+      "South America"
+    ],
+    "answer": "South America"
+  },
+  {
+    "id": "geography-176",
+    "difficulty": "easy",
+    "category": "geography",
+    "question": "Norway and Sweden together occupy most of which peninsula?",
+    "options": [
+      "Iberian Peninsula",
+      "Balkan Peninsula",
+      "Scandinavian Peninsula",
+      "Jutland Peninsula"
+    ],
+    "answer": "Scandinavian Peninsula"
+  },
+  {
+    "id": "geography-177",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "The Caucasus Mountains run mainly between which two bodies of water?",
+    "options": [
+      "Black Sea and Caspian Sea",
+      "Black Sea and Mediterranean Sea",
+      "Caspian Sea and Aral Sea",
+      "Aegean Sea and Black Sea"
+    ],
+    "answer": "Black Sea and Caspian Sea"
+  },
+  {
+    "id": "geography-178",
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "Over Lake Maracaibo in which country does the 'Catatumbo lightning' produce near-constant thunderstorms?",
+    "options": [
+      "Colombia",
+      "Venezuela",
+      "Brazil",
+      "Peru"
+    ],
+    "answer": "Venezuela"
+  },
+  {
+    "id": "geography-179",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Once the fourth-largest lake in the world, the Aral Sea has drastically shrunk and lies between which two countries?",
+    "options": [
+      "Kazakhstan and Uzbekistan",
+      "Kazakhstan and Turkmenistan",
+      "Uzbekistan and Tajikistan",
+      "Turkmenistan and Iran"
+    ],
+    "answer": "Kazakhstan and Uzbekistan"
+  },
+  {
+    "id": "geography-180",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Lake Chad, which has shrunk dramatically since the 1960s, is shared by which set of countries?",
+    "options": [
+      "Chad, Niger, Nigeria, and Cameroon",
+      "Chad, Sudan, and Central African Republic",
+      "Niger, Nigeria, and Benin",
+      "Chad, Cameroon, and Nigeria"
+    ],
+    "answer": "Chad, Niger, Nigeria, and Cameroon"
+  },
+  {
+    "id": "geography-181",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Mount Etna, one of the world's most active volcanoes, is located in which country?",
+    "options": [
+      "Greece",
+      "Italy",
+      "Spain",
+      "Turkey"
+    ],
+    "answer": "Italy"
+  },
+  {
+    "id": "geography-182",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "From its source in the Alps, the Rhine flows through which sequence of countries before reaching the North Sea?",
+    "options": [
+      "Switzerland, Germany, Netherlands",
+      "Austria, Germany, Netherlands",
+      "Switzerland, France, Germany",
+      "Italy, Switzerland, Germany"
+    ],
+    "answer": "Switzerland, Germany, Netherlands"
+  },
+  {
+    "id": "geography-183",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "The Indus River flows primarily through which country before emptying into the Arabian Sea?",
+    "options": [
+      "India",
+      "Pakistan",
+      "Afghanistan",
+      "Iran"
+    ],
+    "answer": "Pakistan"
+  },
+  {
+    "id": "geography-184",
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "As of 2026, the Black Sea is bordered by how many countries?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "6"
+  },
+  {
+    "id": "geography-185",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "The Coral Sea lies off the northeastern coast of which country?",
+    "options": [
+      "Indonesia",
+      "Papua New Guinea",
+      "Australia",
+      "Philippines"
+    ],
+    "answer": "Australia"
+  },
+  {
+    "id": "geography-186",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "The Hindu Kush mountain range runs mainly through which two countries?",
+    "options": [
+      "Pakistan and Afghanistan",
+      "Afghanistan and Iran",
+      "Pakistan and India",
+      "Tajikistan and Afghanistan"
+    ],
+    "answer": "Pakistan and Afghanistan"
+  },
+  {
+    "id": "geography-187",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "The Atlas Mountains run through which region?",
+    "options": [
+      "Iberian Peninsula",
+      "Northwest Africa",
+      "Arabian Peninsula",
+      "Anatolia"
+    ],
+    "answer": "Northwest Africa"
+  },
+  {
+    "id": "geography-188",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "The Baja California Peninsula belongs to which country?",
+    "options": [
+      "United States",
+      "Mexico",
+      "Guatemala",
+      "Cuba"
+    ],
+    "answer": "Mexico"
+  },
+  {
+    "id": "geography-189",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "As of 2026, Russia spans how many time zones, the most of any single country?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "answer": "11"
+  },
+  {
+    "id": "geography-190",
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "Despite its size, China officially uses how many time zones?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "1"
+  },
+  {
+    "id": "geography-191",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Monaco shares its entire land border with only one country. Which one?",
+    "options": [
+      "Italy",
+      "Switzerland",
+      "France",
+      "Spain"
+    ],
+    "answer": "France"
+  },
+  {
+    "id": "geography-192",
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "Which island nation in the Indian Ocean is the only country in the world made entirely of atolls?",
+    "options": [
+      "Maldives",
+      "Seychelles",
+      "Mauritius",
+      "Comoros"
+    ],
+    "answer": "Maldives"
+  },
+  {
+    "id": "geography-193",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "As of 2026, which is the most populous landlocked country in the world?",
+    "options": [
+      "Ethiopia",
+      "Uganda",
+      "Afghanistan",
+      "Nepal"
+    ],
+    "answer": "Ethiopia"
+  },
+  {
+    "id": "geography-194",
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "Which small European country is divided into 11 communes, the highest being La Massana, and lies in the Pyrenees between France and Spain?",
+    "options": [
+      "Monaco",
+      "Liechtenstein",
+      "Andorra",
+      "San Marino"
+    ],
+    "answer": "Andorra"
+  },
+  {
+    "id": "geography-195",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "The Alps span parts of which eight countries, including France, Italy, Switzerland, and Austria?",
+    "options": [
+      "France, Italy, Switzerland, Austria, Germany, Slovenia, Liechtenstein, Monaco",
+      "France, Italy, Switzerland, Austria, Germany, Slovenia, Croatia, Monaco",
+      "France, Italy, Switzerland, Austria, Germany, Czech Republic, Liechtenstein, Monaco",
+      "France, Italy, Switzerland, Austria, Germany, Slovenia, Liechtenstein, Hungary"
+    ],
+    "answer": "France, Italy, Switzerland, Austria, Germany, Slovenia, Liechtenstein, Monaco"
+  },
+  {
+    "id": "geography-196",
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "Lake Nyos, the site of a deadly 1986 limnic eruption that released carbon dioxide, is in which country?",
+    "options": [
+      "Rwanda",
+      "Cameroon",
+      "Democratic Republic of the Congo",
+      "Kenya"
+    ],
+    "answer": "Cameroon"
+  },
+  {
+    "id": "geography-197",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which peninsula, separating the Gulf of Thailand from the Andaman Sea, includes parts of Myanmar, Thailand, and Malaysia?",
+    "options": [
+      "Malay Peninsula",
+      "Kra Isthmus",
+      "Indochina Peninsula",
+      "Korean Peninsula"
+    ],
+    "answer": "Malay Peninsula"
+  },
+  {
+    "id": "geography-198",
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "The river known as the Zambezi's largest tributary, the Kafue, flows entirely within which country?",
+    "options": [
+      "Zambia",
+      "Zimbabwe",
+      "Mozambique",
+      "Angola"
+    ],
+    "answer": "Zambia"
+  },
+  {
+    "id": "geography-199",
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "The Darién Gap, an unbroken stretch of jungle, lies between which two countries, interrupting the Pan-American Highway?",
+    "options": [
+      "Panama and Colombia",
+      "Costa Rica and Panama",
+      "Colombia and Venezuela",
+      "Nicaragua and Costa Rica"
+    ],
+    "answer": "Panama and Colombia"
+  },
+  {
+    "id": "geography-200",
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "Mount Damavand, the highest volcano in Asia and the highest peak of Iran, lies in which mountain range?",
+    "options": [
+      "Zagros",
+      "Alborz",
+      "Kopet Dag",
+      "Caucasus"
+    ],
+    "answer": "Alborz"
+  },
+  {
+    "id": "geography-201",
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "The world's northernmost town with over 1,000 permanent residents, as of 2026, is Longyearbyen, located on which archipelago?",
+    "options": [
+      "Faroe Islands",
+      "Svalbard",
+      "Novaya Zemlya",
+      "Franz Josef Land"
+    ],
+    "answer": "Svalbard"
   }
 ]
