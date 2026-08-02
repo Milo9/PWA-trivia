@@ -47,6 +47,38 @@ instead):
 - First mission to fly by/explore Pluto (New Horizons)
 - Distance light travels in one year (light-year), incl. rephrased as "a
   star's distance from Earth"
+- Saturn's density being lower than water (it would float in a big enough
+  bathtub)
+- Jupiter having the shortest day/fastest rotation of any planet
+- Uranus discovered by William Herschel in 1781 / first planet found via
+  telescope rather than the naked eye
+- Neptune having the fastest/strongest recorded winds in the solar system
+- Neptune having the longest orbital period (year) of any planet
+- Mercury having the shortest orbital period (year) of any planet
+- Mercury's extreme day/night temperature swings due to lacking an
+  atmosphere
+- Neptune being predicted mathematically (from Uranus's orbit) before it
+  was observed/discovered in 1846
+- Enceladus's geysers/plumes of water ice erupting from its south pole
+- Io as the most volcanically active body in the solar system — also
+  don't accidentally attribute this to a planet as a distractor-flip; Io
+  is a moon, not a planet
+- Europa's subsurface ocean and its potential to harbor life
+- Ganymede being larger than the planet Mercury / the largest moon in the
+  solar system
+- Apollo 11 as the first crewed Moon landing (1969)
+- Voyager 1 as the first spacecraft to enter interstellar space
+- James Webb Space Telescope basics (2021 launch, Hubble's successor,
+  infrared, observes the earliest stars/galaxies) — already asked from
+  several angles
+- Dark energy as the cause of the universe's accelerating expansion
+- Which spacecraft was first to orbit Venus — Magellan (1989) is a common
+  wrong answer; Venera 9 (1975) was first overall, and even NASA's own
+  Pioneer Venus (1978) predates Magellan
+- Which telescope/mission discovered the first exoplanet around a
+  Sun-like star — this was 51 Pegasi b, found in 1995 by ground-based
+  radial-velocity observation (Mayor & Queloz), not by Kepler (which
+  didn't launch until 2009)
 
 Use web search to verify every fact — do not rely on memory alone. Prefer
 authoritative sources (space agency sites, encyclopedic sources) over

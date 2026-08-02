@@ -294,6 +294,53 @@ reworded to describe rather than name the answer. Surviving 90 merged as
 the split). Seeded `templates/food-drink.md`'s first `AVOID THESE ANGLES`
 list with all 7 confirmed-duplicate angles from this batch (see that file).
 
+**`Mistral-01-SPACE87785676...js` processed 2026-08-01** (single-file
+batch, 99 `space-astronomy` questions, self-declaring `category`):
+`check-draft.js`'s default pass only flagged 1 likely duplicate, 1
+near-duplicate, and 1 advisory note, but a manual full-answer-audit
+(`--full-answer-audit`) plus reading every surviving question against the
+existing corpus found far more — 23 of 99 (~23%) were cut, all for one of
+two reasons. Most were plain duplicates the answer-match check's overlap
+floor/group-size cap suppressed, the same known gap documented elsewhere
+in this file: e.g. "which planet has the lowest density, less than
+water" duplicated `space-astronomy-020`'s "would float in a bathtub"
+framing of the identical fact; "shortest rotation period" duplicated 4
+existing "shortest day" entries; "discovered by Herschel in 1781"
+duplicated "first planet discovered by telescope"; Enceladus's geysers,
+Europa's subsurface ocean, and Ganymede-larger-than-Mercury each
+duplicated an existing entry testing the same fact with different
+wording. The rest were real factual errors caught only by web-verifying
+claims that "sounded right" from training-data recall, the same failure
+mode as the Huygens/photosphere and Fiorina/Fury 161 errors in earlier
+batches: one question named Venus as the solar system's most
+volcanically active body (Io is; Venus's own entry contradicted a
+correctly-worded Io question elsewhere in the same draft), one named
+Magellan as the first spacecraft to orbit Venus (Venera 9 orbited in
+1975, and even NASA's own Pioneer Venus in 1978 predates Magellan's
+1989 arrival — confirmed via web search, not memory), one credited
+Kepler with discovering the first exoplanet around a Sun-like star
+(that was 51 Pegasi b in 1995 via ground-based radial velocity, seven
+years before Kepler existed), one claimed OSIRIS-REx "is studying"
+Bennu in the present tense (the spacecraft finished with Bennu at
+sample return in 2023 and is now OSIRIS-APEX, en route to Apophis), and
+two had a genuine two-correct-options bug rather than a wrong answer:
+"which mission brought back samples from an asteroid" listed both
+Hayabusa2 and OSIRIS-REx as options when both are true, and "which rover
+is currently exploring Mars" listed both Curiosity and Perseverance as
+options when both are still active as of 2026 (confirmed via web
+search). One advisory-flagged answer leak (a "16 Psyche" question whose
+answer was "Psyche") was fixed by rewording rather than cut, since the
+underlying fact was otherwise fine. Time-pinned "as of 2026"-style
+claims that looked risky at first (Themis's spring-2026 first hop test,
+Pandora's 2026 launch, the 6,128-exoplanet count as of February 2026)
+were individually web-verified as accurate rather than assumed
+guilty-by-association with the errors above, and kept. Surviving 76
+merged as `space-astronomy-097`–`172`. All confirmed-duplicate angles
+folded into `space-astronomy`'s list in `templates/space-astronomy.md`,
+including the two factual-error angles (Magellan/Venus, Kepler/51
+Pegasi) as cautionary notes rather than bullets, since they're wrong-
+answer traps rather than duplicate topics.
+
 ## General Knowledge split into topic categories (2026-08-01)
 
 `general` (2825 questions) was split into 12 topic categories plus a
