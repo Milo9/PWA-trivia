@@ -5367,5 +5367,1032 @@
       "Dial M for Murder"
     ],
     "answer": "Rear Window"
+  },
+  {
+    "difficulty": "medium",
+    "category": "film-tv",
+    "question": "In the film 'The Matrix', what is the name of the hovercraft commanded by Morpheus?",
+    "options": [
+      "Nebuchadnezzar",
+      "Logos",
+      "Osiris",
+      "Hammer"
+    ],
+    "answer": "Nebuchadnezzar",
+    "id": "film-tv-194"
+  },
+  {
+    "difficulty": "medium",
+    "category": "film-tv",
+    "question": "What is the name of the spaceship in the television series 'Firefly'?",
+    "options": [
+      "Serenity",
+      "Andromeda",
+      "Rocinante",
+      "Destiny"
+    ],
+    "answer": "Serenity",
+    "id": "film-tv-195"
+  },
+  {
+    "difficulty": "medium",
+    "category": "film-tv",
+    "question": "Which actor portrayed the ruthless assassin Anton Chigurh in 'No Country for Old Men'?",
+    "options": [
+      "Javier Bardem",
+      "Benicio del Toro",
+      "Bardem Cruz",
+      "Antonio Banderas"
+    ],
+    "answer": "Javier Bardem",
+    "id": "film-tv-196"
+  },
+  {
+    "difficulty": "medium",
+    "category": "film-tv",
+    "question": "In the 'Alien' film franchise, what is the designation of the moon where the Nostromo crew first discovers the derelict ship?",
+    "options": [
+      "LV-426",
+      "LV-223",
+      "LV-1201",
+      "LV-895"
+    ],
+    "answer": "LV-426",
+    "id": "film-tv-197"
+  },
+  {
+    "difficulty": "hard",
+    "category": "film-tv",
+    "question": "Which actor physically portrayed Darth Vader in the original 'Star Wars' trilogy (inside the suit)?",
+    "options": [
+      "David Prowse",
+      "James Earl Jones",
+      "Sebastian Shaw",
+      "Bob Anderson"
+    ],
+    "answer": "David Prowse",
+    "id": "film-tv-198"
+  },
+  {
+    "difficulty": "medium",
+    "category": "film-tv",
+    "question": "In 'Seinfeld', what is the name of the fictitious charity George Costanza invents to avoid giving office Christmas presents?",
+    "options": [
+      "The Human Fund",
+      "The Children's Alliance",
+      "Hands Across America",
+      "The Goodwill Society"
+    ],
+    "answer": "The Human Fund",
+    "id": "film-tv-199"
+  },
+  {
+    "difficulty": "hard",
+    "category": "film-tv",
+    "question": "In 'The Big Lebowski', what is the Dude's preferred cocktail?",
+    "options": [
+      "White Russian",
+      "Black Russian",
+      "Caucasian",
+      "Bloody Mary"
+    ],
+    "answer": "White Russian",
+    "id": "film-tv-200"
+  },
+  {
+    "difficulty": "medium",
+    "category": "film-tv",
+    "question": "In the film 'Gladiator' (2000), what is the name of Maximus's loyal fellow gladiator from Numidia?",
+    "options": [
+      "Juba",
+      "Proximo",
+      "Hagen",
+      "Cicero"
+    ],
+    "answer": "Juba",
+    "id": "film-tv-201"
+  },
+  {
+    "difficulty": "hard",
+    "category": "film-tv",
+    "question": "Which film director is known for the 'Three Colors' trilogy (Blue, White, and Red)?",
+    "options": [
+      "Krzysztof Kieślowski",
+      "Andrei Tarkovsky",
+      "François Truffaut",
+      "Ingmar Bergman"
+    ],
+    "answer": "Krzysztof Kieślowski",
+    "id": "film-tv-202"
+  },
+  {
+    "difficulty": "medium",
+    "category": "film-tv",
+    "question": "In 'The X-Files', what is the actual name of the Cigarette Smoking Man?",
+    "options": [
+      "C.G.B. Spender",
+      "William Mulder",
+      "Alex Krycek",
+      "Walter Skinner"
+    ],
+    "answer": "C.G.B. Spender",
+    "id": "film-tv-203"
+  },
+  {
+    "difficulty": "medium",
+    "category": "film-tv",
+    "question": "What is the name of the corporation that manufactures the replicants in 'Blade Runner'?",
+    "options": [
+      "Tyrell Corporation",
+      "Weyland-Yutani",
+      "Cyberdyne Systems",
+      "Umbrella Corporation"
+    ],
+    "answer": "Tyrell Corporation",
+    "id": "film-tv-204"
+  },
+  {
+    "difficulty": "easy",
+    "category": "film-tv",
+    "question": "Who directed the 1995 crime thriller 'Heat', starring Al Pacino and Robert De Niro?",
+    "options": [
+      "Michael Mann",
+      "Martin Scorsese",
+      "Brian De Palma",
+      "Quentin Tarantino"
+    ],
+    "answer": "Michael Mann",
+    "id": "film-tv-205"
+  },
+  {
+    "difficulty": "easy",
+    "category": "film-tv",
+    "question": "What is the name of the maximum-security prison in the film 'The Green Mile'?",
+    "options": [
+      "Cold Mountain Penitentiary",
+      "Shawshank State Prison",
+      "Alcatraz Island",
+      "Fox River State"
+    ],
+    "answer": "Cold Mountain Penitentiary",
+    "id": "film-tv-206"
+  },
+  {
+    "difficulty": "medium",
+    "category": "film-tv",
+    "question": "Who directed the 1960 psychological horror film 'Psycho'?",
+    "options": [
+      "Alfred Hitchcock",
+      "Stanley Kubrick",
+      "Roman Polanski",
+      "John Carpenter"
+    ],
+    "answer": "Alfred Hitchcock",
+    "id": "film-tv-207"
+  },
+  {
+    "difficulty": "hard",
+    "category": "film-tv",
+    "question": "In 'Game of Thrones', what is the name of the Valyrian steel sword gifted to Brienne of Tarth by Jaime Lannister?",
+    "options": [
+      "Oathkeeper",
+      "Widow's Wail",
+      "Ice",
+      "Needle"
+    ],
+    "answer": "Oathkeeper",
+    "id": "film-tv-208"
+  },
+  {
+    "difficulty": "medium",
+    "category": "film-tv",
+    "question": "Who directed the 2010 biographical drama 'The Social Network'?",
+    "options": [
+      "David Fincher",
+      "Aaron Sorkin",
+      "Christopher Nolan",
+      "Danny Boyle"
+    ],
+    "answer": "David Fincher",
+    "id": "film-tv-209"
+  },
+  {
+    "difficulty": "easy",
+    "category": "film-tv",
+    "question": "In the TV series 'Mad Men', what is the name of the advertising agency where Don Draper initially works?",
+    "options": [
+      "Sterling Cooper",
+      "SC&P",
+      "Young & Rubicam",
+      "McCann Erickson"
+    ],
+    "answer": "Sterling Cooper",
+    "id": "film-tv-210"
+  },
+  {
+    "difficulty": "hard",
+    "category": "film-tv",
+    "question": "In the film 'The Grand Budapest Hotel', what is the name of the fictional European country where the hotel is located?",
+    "options": [
+      "Zubrowka",
+      "Sokovia",
+      "Krasnovia",
+      "Latveria"
+    ],
+    "answer": "Zubrowka",
+    "id": "film-tv-211"
+  },
+  {
+    "difficulty": "medium",
+    "category": "film-tv",
+    "question": "Who directed the 1966 spaghetti western 'The Good, the Bad and the Ugly'?",
+    "options": [
+      "Sergio Leone",
+      "Sergio Corbucci",
+      "Ennio Morricone",
+      "Clint Eastwood"
+    ],
+    "answer": "Sergio Leone",
+    "id": "film-tv-212"
+  },
+  {
+    "difficulty": "medium",
+    "category": "film-tv",
+    "question": "In 'The Wire', what is the street nickname of Russell Bell, the drug organization's second-in-command?",
+    "options": [
+      "Stringer Bell",
+      "Avon Barksdale",
+      "Marlo Stanfield",
+      "Omar Little"
+    ],
+    "answer": "Stringer Bell",
+    "id": "film-tv-213"
+  },
+  {
+    "difficulty": "medium",
+    "category": "film-tv",
+    "question": "Who directed the 2006 dark fantasy film 'Pan's Labyrinth'?",
+    "options": [
+      "Guillermo del Toro",
+      "Alejandro González Iñárritu",
+      "Alfonso Cuarón",
+      "Pedro Almodóvar"
+    ],
+    "answer": "Guillermo del Toro",
+    "id": "film-tv-214"
+  },
+  {
+    "difficulty": "hard",
+    "category": "film-tv",
+    "question": "In 'Pulp Fiction', what is the name of the themed 1950s restaurant where Mia Wallace and Vincent Vega dance?",
+    "options": [
+      "Jack Rabbit Slim's",
+      "Ed Debevic's",
+      "Mel's Drive-In",
+      "Johnny Rockets"
+    ],
+    "answer": "Jack Rabbit Slim's",
+    "id": "film-tv-215"
+  },
+  {
+    "difficulty": "medium",
+    "category": "film-tv",
+    "question": "Who directed the 1979 Vietnam War epic 'Apocalypse Now'?",
+    "options": [
+      "Francis Ford Coppola",
+      "Stanley Kubrick",
+      "Oliver Stone",
+      "Michael Cimino"
+    ],
+    "answer": "Francis Ford Coppola",
+    "id": "film-tv-216"
+  },
+  {
+    "difficulty": "medium",
+    "category": "film-tv",
+    "question": "What is the name of the fictional town in the stop-motion film 'The Nightmare Before Christmas'?",
+    "options": [
+      "Halloween Town",
+      "Christmas Town",
+      "Sleepy Hollow",
+      "Salem's Lot"
+    ],
+    "answer": "Halloween Town",
+    "id": "film-tv-217"
+  },
+  {
+    "difficulty": "hard",
+    "category": "film-tv",
+    "question": "In the film 'The Truman Show', what is the name of the creator and director of the television show within the movie?",
+    "options": [
+      "Christof",
+      "Marlon",
+      "Kirk",
+      "Sylvia"
+    ],
+    "answer": "Christof",
+    "id": "film-tv-218"
+  },
+  {
+    "difficulty": "medium",
+    "category": "film-tv",
+    "question": "What is the name of the commercial towing spaceship in the 1979 film 'Alien'?",
+    "options": [
+      "Nostromo",
+      "Sulaco",
+      "Patna",
+      "Auriga"
+    ],
+    "answer": "Nostromo",
+    "id": "film-tv-219"
+  },
+  {
+    "difficulty": "medium",
+    "category": "film-tv",
+    "question": "Who directed the 1958 psychological thriller 'Vertigo'?",
+    "options": [
+      "Alfred Hitchcock",
+      "Billy Wilder",
+      "Orson Welles",
+      "Stanley Donen"
+    ],
+    "answer": "Alfred Hitchcock",
+    "id": "film-tv-220"
+  },
+  {
+    "difficulty": "hard",
+    "category": "film-tv",
+    "question": "In the TV show 'Arrested Development', what is the name of the Bluth family's frozen banana stand business?",
+    "options": [
+      "Bluth's Original Frozen Banana Stand",
+      "The Big Yellow Joint",
+      "Banana Grabber Stand",
+      "Sitwell Frozen Bananas"
+    ],
+    "answer": "Bluth's Original Frozen Banana Stand",
+    "id": "film-tv-221"
+  },
+  {
+    "difficulty": "easy",
+    "category": "film-tv",
+    "question": "Who directed the 1993 fantasy-comedy 'Groundhog Day'?",
+    "options": [
+      "Harold Ramis",
+      "Bill Murray",
+      "Ivan Reitman",
+      "John Hughes"
+    ],
+    "answer": "Harold Ramis",
+    "id": "film-tv-222"
+  },
+  {
+    "difficulty": "hard",
+    "category": "film-tv",
+    "question": "In 'The Godfather Part II', what is the name of Vito Corleone's older brother, who is murdered in Sicily during their childhood?",
+    "options": [
+      "Paolo",
+      "Santino",
+      "Fredo",
+      "Michael"
+    ],
+    "answer": "Paolo",
+    "id": "film-tv-223"
+  },
+  {
+    "difficulty": "easy",
+    "category": "film-tv",
+    "question": "Which actor played the title role in the 1989 superhero film 'Batman', directed by Tim Burton?",
+    "options": [
+      "Michael Keaton",
+      "Jack Nicholson",
+      "Val Kilmer",
+      "George Clooney"
+    ],
+    "answer": "Michael Keaton",
+    "id": "film-tv-224"
+  },
+  {
+    "difficulty": "medium",
+    "category": "film-tv",
+    "question": "In the TV series 'The West Wing', what is the full name of the President of the United States?",
+    "options": [
+      "Josiah Bartlet",
+      "Matthew Santos",
+      "Glenallen Walken",
+      "Robert Ritchie"
+    ],
+    "answer": "Josiah Bartlet",
+    "id": "film-tv-225"
+  },
+  {
+    "difficulty": "hard",
+    "category": "film-tv",
+    "question": "What is the name of the real-life Tokyo hotel that serves as the primary setting for the film 'Lost in Translation'?",
+    "options": [
+      "Park Hyatt Tokyo",
+      "Grand Hyatt Tokyo",
+      "The Peninsula Tokyo",
+      "Mandarin Oriental Tokyo"
+    ],
+    "answer": "Park Hyatt Tokyo",
+    "id": "film-tv-226"
+  },
+  {
+    "difficulty": "medium",
+    "category": "film-tv",
+    "question": "Who directed the 1998 stoner crime comedy 'The Big Lebowski'?",
+    "options": [
+      "The Coen Brothers",
+      "Quentin Tarantino",
+      "Robert Rodriguez",
+      "Guy Ritchie"
+    ],
+    "answer": "The Coen Brothers",
+    "id": "film-tv-227"
+  },
+  {
+    "difficulty": "medium",
+    "category": "film-tv",
+    "question": "Which actor played the character of Morpheus in 'The Matrix' film series?",
+    "options": [
+      "Laurence Fishburne",
+      "Samuel L. Jackson",
+      "Denzel Washington",
+      "Morgan Freeman"
+    ],
+    "answer": "Laurence Fishburne",
+    "id": "film-tv-228"
+  },
+  {
+    "difficulty": "medium",
+    "category": "film-tv",
+    "question": "In 'The Office' (US), what is the name of the printer company that acquires Dunder Mifflin in Season 6?",
+    "options": [
+      "Sabre",
+      "Corell",
+      "Athlead",
+      "Vance Refrigeration"
+    ],
+    "answer": "Sabre",
+    "id": "film-tv-229"
+  },
+  {
+    "difficulty": "easy",
+    "category": "film-tv",
+    "question": "Which actress plays the role of Black Widow in the Marvel Cinematic Universe?",
+    "options": [
+      "Scarlett Johansson",
+      "Elizabeth Olsen",
+      "Zoe Saldana",
+      "Brie Larson"
+    ],
+    "answer": "Scarlett Johansson",
+    "id": "film-tv-230"
+  },
+  {
+    "difficulty": "medium",
+    "category": "film-tv",
+    "question": "In 'Seinfeld', what is the name of Cosmo Kramer's eccentric lawyer?",
+    "options": [
+      "Jackie Chiles",
+      "Barry Prophet",
+      "Shellbach",
+      "Arthur Digby Sellers"
+    ],
+    "answer": "Jackie Chiles",
+    "id": "film-tv-231"
+  },
+  {
+    "difficulty": "medium",
+    "category": "film-tv",
+    "question": "Who directed the 1999 psychological thriller 'Fight Club'?",
+    "options": [
+      "David Fincher",
+      "Christopher Nolan",
+      "David Lynch",
+      "Spike Jonze"
+    ],
+    "answer": "David Fincher",
+    "id": "film-tv-232"
+  },
+  {
+    "difficulty": "easy",
+    "category": "film-tv",
+    "question": "In the TV series 'Game of Thrones', what is the name of the primary continent where most of the story takes place?",
+    "options": [
+      "Westeros",
+      "Essos",
+      "Sothoryos",
+      "Ulthos"
+    ],
+    "answer": "Westeros",
+    "id": "film-tv-233"
+  },
+  {
+    "difficulty": "hard",
+    "category": "film-tv",
+    "question": "What is the name of the fictional band at the center of the 2000 film 'Almost Famous'?",
+    "options": [
+      "Stillwater",
+      "Spinal Tap",
+      "The Wonders",
+      "Sex Bob-omb"
+    ],
+    "answer": "Stillwater",
+    "id": "film-tv-234"
+  },
+  {
+    "difficulty": "medium",
+    "category": "film-tv",
+    "question": "Who directed the 2014 drama film 'Whiplash'?",
+    "options": [
+      "Damien Chazelle",
+      "Barry Jenkins",
+      "Kenneth Lonergan",
+      "Ben Affleck"
+    ],
+    "answer": "Damien Chazelle",
+    "id": "film-tv-235"
+  },
+  {
+    "difficulty": "hard",
+    "category": "film-tv",
+    "question": "In the TV series 'Mr. Robot', what is the colloquial name given to the corrupt mega-corporation E Corp by the protagonist?",
+    "options": [
+      "Evil Corp",
+      "Phantom Corp",
+      "Dark Corp",
+      "Null Corp"
+    ],
+    "answer": "Evil Corp",
+    "id": "film-tv-236"
+  },
+  {
+    "difficulty": "medium",
+    "category": "film-tv",
+    "question": "In 'Breaking Bad', what alias does Walter White's son, Walter Jr., briefly adopt?",
+    "options": [
+      "Flynn",
+      "Jesse",
+      "Badger",
+      "Skinny"
+    ],
+    "answer": "Flynn",
+    "id": "film-tv-237"
+  },
+  {
+    "difficulty": "easy",
+    "category": "film-tv",
+    "question": "What is the name of the fictional sport played on broomsticks in the 'Harry Potter' film series?",
+    "options": [
+      "Quidditch",
+      "Blitzball",
+      "Calvinball",
+      "Muggleball"
+    ],
+    "answer": "Quidditch",
+    "id": "film-tv-238"
+  },
+  {
+    "difficulty": "medium",
+    "category": "film-tv",
+    "question": "Which actress played the role of Wonder Woman in the DC Extended Universe films?",
+    "options": [
+      "Gal Gadot",
+      "Lynda Carter",
+      "Margot Robbie",
+      "Zoe Saldana"
+    ],
+    "answer": "Gal Gadot",
+    "id": "film-tv-239"
+  },
+  {
+    "difficulty": "hard",
+    "category": "film-tv",
+    "question": "In the film 'Goodfellas', what is the real-life last name of the mobster Jimmy Conway, played by Robert De Niro?",
+    "options": [
+      "Burke",
+      "Conway",
+      "DeSimone",
+      "Vario"
+    ],
+    "answer": "Burke",
+    "id": "film-tv-240"
+  },
+  {
+    "difficulty": "hard",
+    "category": "film-tv",
+    "question": "What is the name of the remote planet that serves as the primary setting for the first act of 'Star Wars: A New Hope'?",
+    "options": [
+      "Tatooine",
+      "Naboo",
+      "Jakku",
+      "Geonosis"
+    ],
+    "answer": "Tatooine",
+    "id": "film-tv-241"
+  },
+  {
+    "difficulty": "medium",
+    "category": "film-tv",
+    "question": "Who directed the 2017 horror film 'Get Out'?",
+    "options": [
+      "Jordan Peele",
+      "Ari Aster",
+      "Robert Eggers",
+      "Mike Flanagan"
+    ],
+    "answer": "Jordan Peele",
+    "id": "film-tv-242"
+  },
+  {
+    "difficulty": "easy",
+    "category": "film-tv",
+    "question": "Which actress played the role of Princess Leia in the original 'Star Wars' trilogy?",
+    "options": [
+      "Carrie Fisher",
+      "Natalie Portman",
+      "Daisy Ridley",
+      "Mark Hamill"
+    ],
+    "answer": "Carrie Fisher",
+    "id": "film-tv-243"
+  },
+  {
+    "difficulty": "hard",
+    "category": "film-tv",
+    "question": "In the film 'The Truman Show', what is the name of the actress who plays Truman's wife, Meryl?",
+    "options": [
+      "Laura Linney",
+      "Ed Harris",
+      "Natascha McElhone",
+      "Holland Taylor"
+    ],
+    "answer": "Laura Linney",
+    "id": "film-tv-244"
+  },
+  {
+    "difficulty": "hard",
+    "category": "film-tv",
+    "question": "What is the name of the android character played by Ian Holm in the 1979 film 'Alien'?",
+    "options": [
+      "Ash",
+      "Bishop",
+      "Call",
+      "David"
+    ],
+    "answer": "Ash",
+    "id": "film-tv-245"
+  },
+  {
+    "difficulty": "medium",
+    "category": "film-tv",
+    "question": "What is the name of the android character played by Lance Henriksen in the 1986 film 'Aliens'?",
+    "options": [
+      "Bishop",
+      "Ash",
+      "Call",
+      "David"
+    ],
+    "answer": "Bishop",
+    "id": "film-tv-246"
+  },
+  {
+    "difficulty": "hard",
+    "category": "film-tv",
+    "question": "In 'Game of Thrones', what is the name of the king beyond the Wall who leads the wildlings?",
+    "options": [
+      "Mance Rayder",
+      "Tormund Giantsbane",
+      "Stannis Baratheon",
+      "Robb Stark"
+    ],
+    "answer": "Mance Rayder",
+    "id": "film-tv-247"
+  },
+  {
+    "difficulty": "medium",
+    "category": "film-tv",
+    "question": "Which actor played the title role in the 1982 sci-fi film 'Blade Runner'?",
+    "options": [
+      "Harrison Ford",
+      "Rutger Hauer",
+      "Sean Young",
+      "Edward James Olmos"
+    ],
+    "answer": "Harrison Ford",
+    "id": "film-tv-248"
+  },
+  {
+    "difficulty": "hard",
+    "category": "film-tv",
+    "question": "In the film 'The Matrix', what is the name of the traitorous crew member who strikes a deal with Agent Smith?",
+    "options": [
+      "Cypher",
+      "Tank",
+      "Dozer",
+      "Apoc"
+    ],
+    "answer": "Cypher",
+    "id": "film-tv-249"
+  },
+  {
+    "difficulty": "medium",
+    "category": "film-tv",
+    "question": "What is the name of the fictional university where Indiana Jones teaches archaeology?",
+    "options": [
+      "Marshall College",
+      "Barnett College",
+      "Princeton University",
+      "Yale University"
+    ],
+    "answer": "Marshall College",
+    "id": "film-tv-250"
+  },
+  {
+    "difficulty": "easy",
+    "category": "film-tv",
+    "question": "Who directed the 1991 film 'The Silence of the Lambs'?",
+    "options": [
+      "Jonathan Demme",
+      "David Fincher",
+      "Ridley Scott",
+      "Oliver Stone"
+    ],
+    "answer": "Jonathan Demme",
+    "id": "film-tv-251"
+  },
+  {
+    "difficulty": "medium",
+    "category": "film-tv",
+    "question": "Which actor portrayed the character of Agent Smith in 'The Matrix' trilogy?",
+    "options": [
+      "Hugo Weaving",
+      "Ian Bliss",
+      "Helmut Bakaitis",
+      "Monica Bellucci"
+    ],
+    "answer": "Hugo Weaving",
+    "id": "film-tv-252"
+  },
+  {
+    "difficulty": "medium",
+    "category": "film-tv",
+    "question": "Who directed the 1991 sequel 'Terminator 2: Judgment Day'?",
+    "options": [
+      "James Cameron",
+      "Ridley Scott",
+      "John McTiernan",
+      "Paul Verhoeven"
+    ],
+    "answer": "James Cameron",
+    "id": "film-tv-253"
+  },
+  {
+    "difficulty": "hard",
+    "category": "film-tv",
+    "question": "In 'The Shawshank Redemption', what is the name of the prison librarian?",
+    "options": [
+      "Brooks Hatlen",
+      "Heywood",
+      "Bogs Diamond",
+      "Byron Hadley"
+    ],
+    "answer": "Brooks Hatlen",
+    "id": "film-tv-254"
+  },
+  {
+    "difficulty": "hard",
+    "category": "film-tv",
+    "question": "What is the name of the fictional town in Maine that serves as the primary setting for the TV series 'Dark Shadows'?",
+    "options": [
+      "Collinsport",
+      "Castle Rock",
+      "Derry",
+      "Jerusalem's Lot"
+    ],
+    "answer": "Collinsport",
+    "id": "film-tv-255"
+  },
+  {
+    "difficulty": "hard",
+    "category": "film-tv",
+    "question": "In the film 'Pulp Fiction', what is the name of the fictional fast-food chain whose burgers are eaten by Jules and Vincent?",
+    "options": [
+      "Big Kahuna Burger",
+      "Fatburger",
+      "Whataburger",
+      "In-N-Out Burger"
+    ],
+    "answer": "Big Kahuna Burger",
+    "id": "film-tv-256"
+  },
+  {
+    "difficulty": "hard",
+    "category": "film-tv",
+    "question": "In 'The Simpsons', what is the name of the school bus driver?",
+    "options": [
+      "Otto Mann",
+      "Seymour Skinner",
+      "Dewey Largo",
+      "Groundskeeper Willie"
+    ],
+    "answer": "Otto Mann",
+    "id": "film-tv-257"
+  },
+  {
+    "difficulty": "medium",
+    "category": "film-tv",
+    "question": "Who directed the 1998 World War II film 'Saving Private Ryan'?",
+    "options": [
+      "Steven Spielberg",
+      "Ridley Scott",
+      "Michael Bay",
+      "Francis Ford Coppola"
+    ],
+    "answer": "Steven Spielberg",
+    "id": "film-tv-258"
+  },
+  {
+    "difficulty": "hard",
+    "category": "film-tv",
+    "question": "In the film 'Fargo', what is the name of the pregnant police chief who investigates the murders?",
+    "options": [
+      "Marge Gunderson",
+      "Mona Lisa Vito",
+      "Clarice Starling",
+      "Ellen Ripley"
+    ],
+    "answer": "Marge Gunderson",
+    "id": "film-tv-259"
+  },
+  {
+    "difficulty": "medium",
+    "category": "film-tv",
+    "question": "Who directed the 1982 sci-fi film 'Blade Runner'?",
+    "options": [
+      "Ridley Scott",
+      "Steven Spielberg",
+      "George Lucas",
+      "James Cameron"
+    ],
+    "answer": "Ridley Scott",
+    "id": "film-tv-260"
+  },
+  {
+    "difficulty": "hard",
+    "category": "film-tv",
+    "question": "In the film 'The Big Lebowski', what is the Dude's actual last name?",
+    "options": [
+      "Lebowski",
+      "Dowd",
+      "Sobchak",
+      "Treehorn"
+    ],
+    "answer": "Lebowski",
+    "id": "film-tv-261"
+  },
+  {
+    "difficulty": "hard",
+    "category": "film-tv",
+    "question": "In 'Seinfeld', what is the name of the fictional creator of the 'show about nothing'?",
+    "options": [
+      "Jerry Seinfeld",
+      "George Costanza",
+      "Cosmo Kramer",
+      "Art Vandelay"
+    ],
+    "answer": "Jerry Seinfeld",
+    "id": "film-tv-262"
+  },
+  {
+    "difficulty": "medium",
+    "category": "film-tv",
+    "question": "Who directed the 2007 film 'No Country for Old Men'?",
+    "options": [
+      "The Coen Brothers",
+      "Quentin Tarantino",
+      "Robert Rodriguez",
+      "Paul Thomas Anderson"
+    ],
+    "answer": "The Coen Brothers",
+    "id": "film-tv-263"
+  },
+  {
+    "difficulty": "hard",
+    "category": "film-tv",
+    "question": "What is the name of the fictional prison planet featured in 'Alien 3'?",
+    "options": [
+      "Fiorina 161",
+      "LV-426",
+      "Hadley's Hope",
+      "Origae-6"
+    ],
+    "answer": "Fiorina 161",
+    "id": "film-tv-264"
+  },
+  {
+    "difficulty": "medium",
+    "category": "film-tv",
+    "question": "Who directed the 1975 psychological thriller 'One Flew Over the Cuckoo's Nest'?",
+    "options": [
+      "Miloš Forman",
+      "Stanley Kubrick",
+      "Francis Ford Coppola",
+      "Mike Nichols"
+    ],
+    "answer": "Miloš Forman",
+    "id": "film-tv-265"
+  },
+  {
+    "difficulty": "medium",
+    "category": "film-tv",
+    "question": "Which actor played the role of Darth Vader's voice in the original 'Star Wars' trilogy?",
+    "options": [
+      "James Earl Jones",
+      "David Prowse",
+      "Sebastian Shaw",
+      "Hayden Christensen"
+    ],
+    "answer": "James Earl Jones",
+    "id": "film-tv-266"
+  },
+  {
+    "difficulty": "hard",
+    "category": "film-tv",
+    "question": "In the film 'Fight Club', what is the name of the narrator's alter ego?",
+    "options": [
+      "Tyler Durden",
+      "Robert Paulson",
+      "Marla Singer",
+      "Richard Chesler"
+    ],
+    "answer": "Tyler Durden",
+    "id": "film-tv-267"
+  },
+  {
+    "difficulty": "hard",
+    "category": "film-tv",
+    "question": "What is the name of the restaurant in 'Pulp Fiction' where the film's opening and closing scenes take place?",
+    "options": [
+      "Hawthorne Grill",
+      "Jack Rabbit Slim's",
+      "Big Kahuna Burger",
+      "Mona Lisa"
+    ],
+    "answer": "Hawthorne Grill",
+    "id": "film-tv-268"
+  },
+  {
+    "difficulty": "medium",
+    "category": "film-tv",
+    "question": "In the TV series 'The Office' (US), what is the name of the company that competes with Dunder Mifflin?",
+    "options": [
+      "Staples",
+      "Office Depot",
+      "Wernham Hogg",
+      "Prince Family Paper"
+    ],
+    "answer": "Staples",
+    "id": "film-tv-269"
+  },
+  {
+    "difficulty": "hard",
+    "category": "film-tv",
+    "question": "In 'The Matrix', what is the name of the last human city?",
+    "options": [
+      "Zion",
+      "Babylon",
+      "Helios",
+      "Atlantis"
+    ],
+    "answer": "Zion",
+    "id": "film-tv-270"
+  },
+  {
+    "difficulty": "hard",
+    "category": "film-tv",
+    "question": "In the film 'Goodfellas', what is the name of the mobster played by Joe Pesci, based on Thomas DeSimone?",
+    "options": [
+      "Tommy DeVito",
+      "Jimmy Conway",
+      "Henry Hill",
+      "Paulie Cicero"
+    ],
+    "answer": "Tommy DeVito",
+    "id": "film-tv-271"
+  },
+  {
+    "difficulty": "medium",
+    "category": "film-tv",
+    "question": "Who directed the 2014 sci-fi epic 'Interstellar'?",
+    "options": [
+      "Christopher Nolan",
+      "Ridley Scott",
+      "Denis Villeneuve",
+      "J.J. Abrams"
+    ],
+    "answer": "Christopher Nolan",
+    "id": "film-tv-272"
   }
 ]

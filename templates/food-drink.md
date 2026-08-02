@@ -70,6 +70,37 @@ differently):
 - The three vegetables in a French mirepoix (onions, carrots, celery) —
   already asked both as "name the mixture" and "name the missing third
   vegetable"
+- Who/what the sandwich is named after (John Montagu, 4th Earl of
+  Sandwich)
+- What plant tequila must legally be distilled from (blue agave)
+- Minimum corn percentage required for a whiskey to be called bourbon
+  (51%)
+- What winemaking byproduct grappa is distilled from (grape pomace)
+- What fruit Calvados brandy is distilled from (apples)
+- What kvass is made from (fermented rye bread)
+- What three ingredients make up Turkish ayran (yogurt, water, salt) —
+  already asked in both directions ("what's the third ingredient" and
+  "what's this yogurt drink called")
+- What cut of pork guanciale is made from (pork cheek/jowl) — already
+  asked in both directions
+- What natto is made of (fermented soybeans) — already asked as "name
+  this fermented soybean dish" from the description side
+- What kombu is (a type of edible kelp/seaweed) — already asked as
+  "what seaweed is used for dashi" from the other direction
+- What part of the tree cinnamon comes from (the inner bark) — already
+  asked in the reverse direction ("which spice comes from tree bark")
+- What part of the clove tree the spice comes from (unexpanded flower
+  buds) — already asked in the reverse direction
+- What natural casing haggis is boiled in (a sheep's stomach)
+- What gives Earl Grey tea its flavor (bergamot oil/citrus)
+- Primary ingredient in risotto (Arborio rice)
+
+Watch especially for the *reversed-direction* duplicate pattern in this
+category: an existing question that describes an ingredient/process and
+asks for the dish's name, versus a new question that names the dish and
+asks for the ingredient/process — these test the same fact from opposite
+ends and both count as the same duplicate even though word overlap is low
+and neither literally repeats the other's phrasing.
 
 Output just the JS file content, nothing else.
 ```

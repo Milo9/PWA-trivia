@@ -3209,5 +3209,1110 @@
       "Barley"
     ],
     "answer": "Corn"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What unusual botanical structure does the cashew nut grow directly out of?",
+    "options": [
+      "An underground rhizome",
+      "A woody pinecone-like structure",
+      "A modified leaf pod",
+      "A false fruit called a cashew apple"
+    ],
+    "answer": "A false fruit called a cashew apple",
+    "id": "food-drink-100"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "What is the source of carminic acid, a common red food dye used in candies and beverages?",
+    "options": [
+      "Crushed cochineal beetles",
+      "Synthesized petroleum derivatives",
+      "Extract of red beet powder",
+      "Pomegranate seed husks"
+    ],
+    "answer": "Crushed cochineal beetles",
+    "id": "food-drink-101"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "What is the flavor profile of the different colored loops in a standard box of Kellogg's Froot Loops?",
+    "options": [
+      "Lemon, cherry, orange, and lime",
+      "They are all exactly the same flavor",
+      "Each color corresponds to a different tropical fruit",
+      "A mix of natural and artificial berry flavors"
+    ],
+    "answer": "They are all exactly the same flavor",
+    "id": "food-drink-102"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "In what city was the Caesar salad famously invented by a hotelier in the 1920s?",
+    "options": [
+      "Rome, Italy",
+      "New York City, USA",
+      "Tijuana, Mexico",
+      "Paris, France"
+    ],
+    "answer": "Tijuana, Mexico",
+    "id": "food-drink-103"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Where was the Hawaiian pizza (topped with ham and pineapple) invented in the 1960s?",
+    "options": [
+      "Honolulu, Hawaii",
+      "Chatham, Ontario",
+      "Sydney, Australia",
+      "San Francisco, California"
+    ],
+    "answer": "Chatham, Ontario",
+    "id": "food-drink-104"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "Why do raw apples float in water?",
+    "options": [
+      "Their skin is coated in naturally hydrophobic wax",
+      "They are 25 percent air by volume",
+      "They have a hollow core chamber",
+      "Their sugar content causes water displacement"
+    ],
+    "answer": "They are 25 percent air by volume",
+    "id": "food-drink-105"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What happens when you place a whole, unpeeled lemon and a whole, unpeeled lime in a pitcher of water?",
+    "options": [
+      "The lemon floats and the lime sinks",
+      "Both float to the top",
+      "The lime floats and the lemon sinks",
+      "Both sink to the bottom"
+    ],
+    "answer": "The lemon floats and the lime sinks",
+    "id": "food-drink-106"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "Which crop was famously the first food grown in space aboard the Space Shuttle Columbia in 1995?",
+    "options": [
+      "Wheat",
+      "Soybeans",
+      "Potatoes",
+      "Radishes"
+    ],
+    "answer": "Potatoes",
+    "id": "food-drink-107"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Before tomatoes became the standard base in the 19th century, what was a primary ingredient in early British ketchup recipes?",
+    "options": [
+      "Mushrooms",
+      "Apples",
+      "Onions",
+      "Carrots"
+    ],
+    "answer": "Mushrooms",
+    "id": "food-drink-108"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "How old was Frank Epperson when he accidentally invented the Popsicle by leaving a stirred drink outside in the cold?",
+    "options": [
+      "11 years old",
+      "18 years old",
+      "25 years old",
+      "32 years old"
+    ],
+    "answer": "11 years old",
+    "id": "food-drink-109"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "What ingredient makes up the creamy layers between the wafers inside a standard Kit Kat bar?",
+    "options": [
+      "White chocolate ganache",
+      "Crushed up broken Kit Kat bars",
+      "Vanilla-flavored nougat",
+      "Marshmallow creme"
+    ],
+    "answer": "Crushed up broken Kit Kat bars",
+    "id": "food-drink-110"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "How did German chocolate cake get its name?",
+    "options": [
+      "It was invented in Berlin in the 1890s",
+      "It was brought to America by German immigrants",
+      "It is named after an American baker named Sam German",
+      "It uses a cocoa powder exclusively milled in Germany"
+    ],
+    "answer": "It is named after an American baker named Sam German",
+    "id": "food-drink-111"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Botanically speaking, what exactly is a coffee bean?",
+    "options": [
+      "A true legume",
+      "A root nodule",
+      "The seed inside a cherry-like fruit",
+      "A tiny dried tuber"
+    ],
+    "answer": "The seed inside a cherry-like fruit",
+    "id": "food-drink-112"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "Before manual hand-pollination was developed, what specific insect was historically responsible for pollinating the vanilla orchid in Mexico?",
+    "options": [
+      "The monarch butterfly",
+      "The Melipona bee",
+      "The Mexican honey wasp",
+      "The agave snout weevil"
+    ],
+    "answer": "The Melipona bee",
+    "id": "food-drink-113"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Prior to the 17th century, the vast majority of cultivated carrots were not orange, but rather what colors?",
+    "options": [
+      "Red and white",
+      "Purple and yellow",
+      "Green and brown",
+      "Black and pink"
+    ],
+    "answer": "Purple and yellow",
+    "id": "food-drink-114"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "A variation in the OR6A2 gene causes some people to perceive what herb as tasting intensely of dish soap?",
+    "options": [
+      "Parsley",
+      "Tarragon",
+      "Cilantro",
+      "Dill"
+    ],
+    "answer": "Cilantro",
+    "id": "food-drink-115"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "Tonka beans are banned from use in commercial food in the US because they contain high levels of what chemical compound?",
+    "options": [
+      "Cyanide",
+      "Coumarin",
+      "Thujone",
+      "Solanine"
+    ],
+    "answer": "Coumarin",
+    "id": "food-drink-116"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What unusual additive is required for the production of the traditional Sardinian cheese known as Casu Marzu?",
+    "options": [
+      "Edible gold leaf",
+      "Live insect larvae",
+      "Volcanic ash",
+      "Squid ink"
+    ],
+    "answer": "Live insect larvae",
+    "id": "food-drink-117"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "What strict requirement must a chef meet to legally prepare and serve Fugu (pufferfish) in Japan?",
+    "options": [
+      "They must grow their own supply of the fish",
+      "They must undergo rigorous training and hold a special license",
+      "They must personally catch the fish by hand",
+      "They must taste every portion before serving it to customers"
+    ],
+    "answer": "They must undergo rigorous training and hold a special license",
+    "id": "food-drink-118"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What is the primary ingredient that forms the structure of the edible nests used in traditional Chinese bird's nest soup?",
+    "options": [
+      "Woven seagrass",
+      "Dried kelp fronds",
+      "The solidified saliva of swiftlets",
+      "Rice noodles shaped into a bowl"
+    ],
+    "answer": "The solidified saliva of swiftlets",
+    "id": "food-drink-119"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "Despite their culinary classification as nuts, almonds are botanically part of the Prunus genus, making them closely related to what fruit?",
+    "options": [
+      "Peaches",
+      "Apples",
+      "Pomegranates",
+      "Figs"
+    ],
+    "answer": "Peaches",
+    "id": "food-drink-120"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What was the very first food eaten in space by an American astronaut (John Glenn in 1962)?",
+    "options": [
+      "Freeze-dried ice cream",
+      "A pureed meat paste",
+      "Applesauce from an aluminum tube",
+      "A compressed cereal bar"
+    ],
+    "answer": "Applesauce from an aluminum tube",
+    "id": "food-drink-121"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "The first machine for spinning cotton candy (originally called 'fairy floss') was famously co-invented in 1897 by a confectioner and a man of what profession?",
+    "options": [
+      "Dentist",
+      "Blacksmith",
+      "Shoemaker",
+      "Pharmacist"
+    ],
+    "answer": "Dentist",
+    "id": "food-drink-122"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "What process gives traditional Westphalian pumpernickel bread its famously dark brown color?",
+    "options": [
+      "The addition of dark cocoa powder",
+      "A long, slow bake causing the Maillard reaction",
+      "Dyeing the dough with squid ink",
+      "Using exclusively burnt rye grains"
+    ],
+    "answer": "A long, slow bake causing the Maillard reaction",
+    "id": "food-drink-123"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What are capers, the salty, pea-sized green garnishes often used in Mediterranean cooking?",
+    "options": [
+      "Immature green olives",
+      "Pickled seeds of the nasturtium plant",
+      "Unopened flower buds of the caper bush",
+      "Tiny unripe berries from a trailing vine"
+    ],
+    "answer": "Unopened flower buds of the caper bush",
+    "id": "food-drink-124"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "While perfectly safe for humans, consuming macadamia nuts can cause a severe non-fatal toxic reaction (including weakness and tremors) in what animal?",
+    "options": [
+      "Cats",
+      "Parrots",
+      "Dogs",
+      "Hamsters"
+    ],
+    "answer": "Dogs",
+    "id": "food-drink-125"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "The name of Canola oil, a cooking oil developed in the 1970s from rapeseed, is actually an acronym standing for what?",
+    "options": [
+      "Culinary And Nutritive Oil from Los Angeles",
+      "Cold-pressed And Natural Oil Lightly Aged",
+      "Canadian Oil, Low Acid",
+      "Carotene And Niacin Oil Liquid Additive"
+    ],
+    "answer": "Canadian Oil, Low Acid",
+    "id": "food-drink-126"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "To earn the PDO designation, what is the absolute minimum amount of time 'Aceto Balsamico Tradizionale' (traditional balsamic vinegar) must be aged in wooden barrels?",
+    "options": [
+      "3 years",
+      "5 years",
+      "12 years",
+      "25 years"
+    ],
+    "answer": "12 years",
+    "id": "food-drink-127"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "By European law, true Roquefort cheese must be aged in the natural dampness of the Combalou caves located in which country?",
+    "options": [
+      "France",
+      "Italy",
+      "Spain",
+      "Switzerland"
+    ],
+    "answer": "France",
+    "id": "food-drink-128"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "The highest grade of Spanish Jamón Ibérico (Jamón Ibérico de Bellota) is made from pigs that roam freely and eat a diet consisting primarily of what?",
+    "options": [
+      "Chestnuts",
+      "Acorns",
+      "Hazelnuts",
+      "Wild truffles"
+    ],
+    "answer": "Acorns",
+    "id": "food-drink-129"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Vidalia onions, famous for their unusually sweet flavor profile, can only legally be grown in a specific region of which US state?",
+    "options": [
+      "Texas",
+      "California",
+      "Georgia",
+      "Washington"
+    ],
+    "answer": "Georgia",
+    "id": "food-drink-130"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Kopi Luwak, one of the world's most expensive coffees, undergoes a unique processing step that involves being eaten and excreted by what animal?",
+    "options": [
+      "The Asian palm civet",
+      "The rhesus macaque",
+      "The Malayan tapir",
+      "The fruit bat"
+    ],
+    "answer": "The Asian palm civet",
+    "id": "food-drink-131"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What fermented seafood ingredient provides the signature deep umami flavor in traditional Worcestershire sauce?",
+    "options": [
+      "Oyster extract",
+      "Anchovies",
+      "Kelp",
+      "Fermented shrimp paste"
+    ],
+    "answer": "Anchovies",
+    "id": "food-drink-132"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Authentic grenadine syrup gets its name and deep red color from what fruit?",
+    "options": [
+      "Cherry",
+      "Pomegranate",
+      "Cranberry",
+      "Blood orange"
+    ],
+    "answer": "Pomegranate",
+    "id": "food-drink-133"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "Although it tastes strongly of almonds, the traditional Italian liqueur Amaretto is often primarily flavored using the kernels of what fruit?",
+    "options": [
+      "Peaches",
+      "Apricots",
+      "Cherries",
+      "Plums"
+    ],
+    "answer": "Apricots",
+    "id": "food-drink-134"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Huitlacoche, often considered a delicacy in Mexican cuisine and sometimes called 'Mexican truffle', is a pathogenic fungus that grows on what crop?",
+    "options": [
+      "Agave",
+      "Corn",
+      "Potatoes",
+      "Squash"
+    ],
+    "answer": "Corn",
+    "id": "food-drink-135"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "Gochujang, the savory and pungent Korean chili paste, is traditionally fermented using chili powder, soybean paste, salt, and what grain?",
+    "options": [
+      "Glutinous rice",
+      "Buckwheat",
+      "Millet",
+      "Barley"
+    ],
+    "answer": "Glutinous rice",
+    "id": "food-drink-136"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "The iconic Australian spread Vegemite is primarily manufactured from what industrial byproduct?",
+    "options": [
+      "Leftover brewer's yeast extract",
+      "Rendered beef fat",
+      "Desiccated coconut husks",
+      "Milled sugarcane pulp"
+    ],
+    "answer": "Leftover brewer's yeast extract",
+    "id": "food-drink-137"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "In traditional British pudding recipes, suet is often used as a fat. From what specific part of a cow or sheep is suet harvested?",
+    "options": [
+      "The marrow of the femur",
+      "The hard fat around the kidneys",
+      "The subcutaneous fat on the belly",
+      "The rendered fat from the tail"
+    ],
+    "answer": "The hard fat around the kidneys",
+    "id": "food-drink-138"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Culinary gelatin is produced by partially hydrolyzing what structural protein extracted from animal skin, bones, and connective tissues?",
+    "options": [
+      "Keratin",
+      "Myosin",
+      "Collagen",
+      "Elastin"
+    ],
+    "answer": "Collagen",
+    "id": "food-drink-139"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Agar-agar, a popular vegetarian substitute for gelatin used in many Asian desserts, is derived from what natural source?",
+    "options": [
+      "Red seaweed",
+      "Tapioca root",
+      "Lotus seed pods",
+      "Sago palms"
+    ],
+    "answer": "Red seaweed",
+    "id": "food-drink-140"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "To create masa harina for making tortillas, dried corn is steeped in an alkaline solution (usually slaked lime) in a process called what?",
+    "options": [
+      "Maceration",
+      "Nixtamalization",
+      "Saponification",
+      "Autolysis"
+    ],
+    "answer": "Nixtamalization",
+    "id": "food-drink-141"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "Chimichurri, an uncooked herb sauce typically made with parsley, garlic, vinegar, and oil, originated in which country?",
+    "options": [
+      "Brazil",
+      "Mexico",
+      "Argentina",
+      "Spain"
+    ],
+    "answer": "Argentina",
+    "id": "food-drink-142"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "While variations exist, the most famous and widespread type of Italian gnocchi uses what starchy ingredient as its base?",
+    "options": [
+      "Semolina flour",
+      "Potato",
+      "Ricotta cheese",
+      "Breadcrumbs"
+    ],
+    "answer": "Potato",
+    "id": "food-drink-143"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "The Japanese word 'edamame', referring to the popular preparation of immature soybeans in the pod, literally translates to what in English?",
+    "options": [
+      "Green pods",
+      "Stem beans",
+      "Summer seeds",
+      "Salted branches"
+    ],
+    "answer": "Stem beans",
+    "id": "food-drink-144"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "In traditional tofu making, what coagulant (rich in magnesium chloride and extracted from seawater) is most commonly used to curdle the soy milk?",
+    "options": [
+      "Rennet",
+      "Nigari",
+      "Alum",
+      "Citric acid"
+    ],
+    "answer": "Nigari",
+    "id": "food-drink-145"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "Unlike tofu, tempeh is made by binding whole soybeans into a cake-like form through a fermentation process utilizing what?",
+    "options": [
+      "Lactobacillus bacteria",
+      "A specific mold called Rhizopus oligosporus",
+      "Acetic acid bacteria",
+      "Wild ambient yeast from the air"
+    ],
+    "answer": "A specific mold called Rhizopus oligosporus",
+    "id": "food-drink-146"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Often used as a meat substitute in vegetarian cuisine, seitan is made entirely from what specific plant protein?",
+    "options": [
+      "Pea protein isolate",
+      "Hydrated vital wheat gluten",
+      "Textured soy protein",
+      "Fermented mung bean paste"
+    ],
+    "answer": "Hydrated vital wheat gluten",
+    "id": "food-drink-147"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Nori, the dark green sheets commonly used to wrap sushi rolls, belongs to which category of marine life?",
+    "options": [
+      "Brown kelp",
+      "Red algae",
+      "Green microalgae",
+      "Seagrass"
+    ],
+    "answer": "Red algae",
+    "id": "food-drink-148"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Because the real plant is notoriously difficult to grow and highly perishable, the 'wasabi' served at most sushi restaurants outside of Japan is actually a mixture of mustard, green food coloring, and what?",
+    "options": [
+      "Horseradish",
+      "Daikon radish",
+      "Turnip",
+      "Ginger"
+    ],
+    "answer": "Horseradish",
+    "id": "food-drink-149"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "To produce high-quality matcha, the tea bushes are subjected to what specific agricultural practice for three to four weeks before harvest?",
+    "options": [
+      "They are deprived of water to concentrate flavors",
+      "They are heavily pruned down to the rootstock",
+      "They are grown entirely in the shade under canopies",
+      "They are exposed to artificial UV light 24 hours a day"
+    ],
+    "answer": "They are grown entirely in the shade under canopies",
+    "id": "food-drink-150"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "In the processing of traditional tea leaves, what key characteristic differentiates Oolong tea from both green tea and black tea?",
+    "options": [
+      "It is roasted over pine wood fires",
+      "It is partially oxidized",
+      "It is buried underground for a year",
+      "It is fermented with a specific fungal strain"
+    ],
+    "answer": "It is partially oxidized",
+    "id": "food-drink-151"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "Rooibos, an herbal tea known for its earthy flavor and reddish-brown color, is cultivated exclusively in which country?",
+    "options": [
+      "India",
+      "China",
+      "South Africa",
+      "Sri Lanka"
+    ],
+    "answer": "South Africa",
+    "id": "food-drink-152"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "According to the Scotch Whisky Regulations, a spirit cannot legally be called Scotch unless it has been aged in oak casks in Scotland for a minimum of how long?",
+    "options": [
+      "1 year",
+      "3 years",
+      "5 years",
+      "10 years"
+    ],
+    "answer": "3 years",
+    "id": "food-drink-153"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "Regardless of other botanicals used, all liquors labeled as gin must derive their predominant flavor from what ingredient?",
+    "options": [
+      "Coriander seed",
+      "Angelica root",
+      "Juniper berries",
+      "Citrus peel"
+    ],
+    "answer": "Juniper berries",
+    "id": "food-drink-154"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Rum is a distilled alcoholic beverage made primarily from the fermentation and distillation of what agricultural product?",
+    "options": [
+      "Agave nectar",
+      "Sugarcane juice or molasses",
+      "Malted barley",
+      "Corn syrup"
+    ],
+    "answer": "Sugarcane juice or molasses",
+    "id": "food-drink-155"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "The notorious green spirit Absinthe gets its name and characteristic bitter flavor from Artemisia absinthium, a botanical commonly known as what?",
+    "options": [
+      "Grand wormwood",
+      "Mugwort",
+      "Tansy",
+      "Yarrow"
+    ],
+    "answer": "Grand wormwood",
+    "id": "food-drink-156"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "Which French herbal liqueur has been produced continuously since 1737 from a secret recipe of 130 herbs known only to two monks at a time?",
+    "options": [
+      "Benedictine",
+      "Chartreuse",
+      "Cointreau",
+      "Campari"
+    ],
+    "answer": "Chartreuse",
+    "id": "food-drink-157"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "Mead, one of the oldest alcoholic beverages in human history, is created by fermenting a primary mixture of water and what?",
+    "options": [
+      "Malted barley",
+      "Honey",
+      "Crushed grapes",
+      "Tree sap"
+    ],
+    "answer": "Honey",
+    "id": "food-drink-158"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "Sake production involves a unique 'multiple parallel fermentation' process where starch is converted to sugar and sugar is converted to alcohol simultaneously. What mold is used to break down the rice starch?",
+    "options": [
+      "Saccharomyces cerevisiae",
+      "Penicillium candidum",
+      "Aspergillus oryzae (koji)",
+      "Rhizopus oligosporus"
+    ],
+    "answer": "Aspergillus oryzae (koji)",
+    "id": "food-drink-159"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Cachaça, the essential spirit used in a Caipirinha cocktail, is a Brazilian liquor distilled directly from what?",
+    "options": [
+      "Fermented molasses",
+      "Fresh sugarcane juice",
+      "Roasted agave hearts",
+      "Cashew apples"
+    ],
+    "answer": "Fresh sugarcane juice",
+    "id": "food-drink-160"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Pisco is a colorless or yellowish-to-amber brandy produced in winemaking regions of which two South American countries?",
+    "options": [
+      "Argentina and Brazil",
+      "Peru and Chile",
+      "Colombia and Ecuador",
+      "Uruguay and Paraguay"
+    ],
+    "answer": "Peru and Chile",
+    "id": "food-drink-161"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "While Mexican horchata is typically rice-based, the original Spanish horchata (horchata de chufa) from Valencia is made using what ingredient?",
+    "options": [
+      "Tiger nuts",
+      "Almonds",
+      "Sesame seeds",
+      "Oats"
+    ],
+    "answer": "Tiger nuts",
+    "id": "food-drink-162"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "A standard Indian lassi, whether sweet or savory, is a blended beverage featuring what primary dairy ingredient?",
+    "options": [
+      "Heavy cream",
+      "Ghee",
+      "Yogurt",
+      "Evaporated milk"
+    ],
+    "answer": "Yogurt",
+    "id": "food-drink-163"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "In Indian cuisine, what exactly is ghee?",
+    "options": [
+      "A type of fermented buttermilk",
+      "A clarified butter with the milk solids toasted and removed",
+      "A soft cheese similar to cottage cheese",
+      "A thick cream skimmed from water buffalo milk"
+    ],
+    "answer": "A clarified butter with the milk solids toasted and removed",
+    "id": "food-drink-164"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "Unlike many Western cheeses, the Indian cheese paneer does not melt and is historically coagulated using food acids (like lemon juice) rather than what?",
+    "options": [
+      "Heat",
+      "Rennet",
+      "Bacterial starter cultures",
+      "Salt"
+    ],
+    "answer": "Rennet",
+    "id": "food-drink-165"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Halloumi, a traditional cheese from Cyprus, is famous for what unique culinary property?",
+    "options": [
+      "It turns deep red when exposed to air",
+      "It has a high melting point and can be easily grilled or fried",
+      "It is naturally carbonated and fizzles on the tongue",
+      "It must be aged underground for five years before consumption"
+    ],
+    "answer": "It has a high melting point and can be easily grilled or fried",
+    "id": "food-drink-166"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "The Swiss dish Raclette takes its name from the French word 'racler', which refers to what specific action done when serving the cheese?",
+    "options": [
+      "Melting the cheese wheel and scraping it onto diners' plates",
+      "Grating the cheese over a hot fire",
+      "Stirring the cheese rapidly to prevent separation",
+      "Slicing the cheese paper-thin using a wire cutter"
+    ],
+    "answer": "Melting the cheese wheel and scraping it onto diners' plates",
+    "id": "food-drink-167"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "Gruyère is a firm yellow cheese known for its use in baking and fondue. From which European country does it originate?",
+    "options": [
+      "France",
+      "Germany",
+      "Switzerland",
+      "Austria"
+    ],
+    "answer": "Switzerland",
+    "id": "food-drink-168"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Manchego, a firm, buttery cheese from the La Mancha region of Spain, is traditionally made exclusively from the milk of what animal?",
+    "options": [
+      "Cow",
+      "Goat",
+      "Sheep",
+      "Water Buffalo"
+    ],
+    "answer": "Sheep",
+    "id": "food-drink-169"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "All Italian cheeses that bear the name 'Pecorino' (such as Pecorino Romano) have what in common?",
+    "options": [
+      "They are aged in caves",
+      "They are made from sheep's milk",
+      "They contain black peppercorns",
+      "They are washed in brine during aging"
+    ],
+    "answer": "They are made from sheep's milk",
+    "id": "food-drink-170"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "The distinct blue-green marbling inside authentic Italian Gorgonzola cheese is created by injecting the curds with spores of what mold?",
+    "options": [
+      "Aspergillus oryzae",
+      "Penicillium glaucum",
+      "Saccharomyces cerevisiae",
+      "Mucor mucedo"
+    ],
+    "answer": "Penicillium glaucum",
+    "id": "food-drink-171"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "By law, pigs raised for Prosciutto di Parma must be fed a strict diet that includes the leftover whey from the production of what other famous local product?",
+    "options": [
+      "Balsamic vinegar",
+      "Chianti wine",
+      "Parmigiano Reggiano cheese",
+      "Olive oil"
+    ],
+    "answer": "Parmigiano Reggiano cheese",
+    "id": "food-drink-172"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "Lardo di Colonnata is a prized Italian charcuterie made of pork fatback that is traditionally cured and aged for months inside basins made of what material?",
+    "options": [
+      "Terracotta clay",
+      "Carrara marble",
+      "Hollowed out oak logs",
+      "Copper"
+    ],
+    "answer": "Carrara marble",
+    "id": "food-drink-173"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Pancetta, an Italian salt-cured meat often used in pasta dishes, is cut from what part of the pig?",
+    "options": [
+      "The cheek/jowl",
+      "The belly",
+      "The shoulder",
+      "The hind leg"
+    ],
+    "answer": "The belly",
+    "id": "food-drink-174"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Traditional Spanish chorizo gets its distinctive smoky flavor and deep red color from the heavy use of what spice?",
+    "options": [
+      "Cayenne pepper",
+      "Smoked pimentón (paprika)",
+      "Achiote paste",
+      "Crushed saffron threads"
+    ],
+    "answer": "Smoked pimentón (paprika)",
+    "id": "food-drink-175"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "'Nduja is a spicy, fermented pork salumi from the Calabria region of Italy that is most famous for what unique physical characteristic?",
+    "options": [
+      "It is completely black in color",
+      "It is dry enough to grate like hard cheese",
+      "It has a soft, spreadable texture at room temperature",
+      "It is shaped into a perfectly flat rectangle"
+    ],
+    "answer": "It has a soft, spreadable texture at room temperature",
+    "id": "food-drink-176"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "What is the defining primary ingredient of a traditional British or Irish 'black pudding' sausage?",
+    "options": [
+      "Animal blood",
+      "Squid ink",
+      "Black beans",
+      "Dark roasted barley"
+    ],
+    "answer": "Animal blood",
+    "id": "food-drink-177"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "True Beluga, Osetra, and Sevruga caviar all consist of the salt-cured unfertilized roe (eggs) of what specific fish family?",
+    "options": [
+      "Salmon",
+      "Trout",
+      "Sturgeon",
+      "Paddlefish"
+    ],
+    "answer": "Sturgeon",
+    "id": "food-drink-178"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "In classic French cuisine, escargot (snails) are traditionally served cooked in their shells with a rich butter heavily flavored with what two ingredients?",
+    "options": [
+      "Garlic and parsley",
+      "Truffle and shallot",
+      "Lemon and thyme",
+      "Mustard and tarragon"
+    ],
+    "answer": "Garlic and parsley",
+    "id": "food-drink-179"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "Foie gras is a controversial luxury food product made of the specially fattened liver of what animals?",
+    "options": [
+      "Pigs or boars",
+      "Ducks or geese",
+      "Calves or lambs",
+      "Pheasants or quail"
+    ],
+    "answer": "Ducks or geese",
+    "id": "food-drink-180"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Historically, what two animals have been primarily used by foragers to hunt and unearth highly prized subterranean truffles?",
+    "options": [
+      "Ferrets and badgers",
+      "Pigs and specially trained dogs",
+      "Donkeys and goats",
+      "Raccoons and bloodhounds"
+    ],
+    "answer": "Pigs and specially trained dogs",
+    "id": "food-drink-181"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "To produce miso paste, soybeans are fermented with salt and 'koji'. What exactly is koji?",
+    "options": [
+      "A type of edible seaweed",
+      "A starter culture mold grown on rice or barley",
+      "A naturally occurring lactic acid bacteria",
+      "A specific kind of sea salt from Okinawa"
+    ],
+    "answer": "A starter culture mold grown on rice or barley",
+    "id": "food-drink-182"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "Katsuobushi, a key ingredient in Japanese dashi broth that appears to 'dance' when sprinkled on hot food, is made by simmering, smoking, and fermenting what?",
+    "options": [
+      "Skipjack tuna",
+      "Giant kelp",
+      "Daikon radish",
+      "Eel"
+    ],
+    "answer": "Skipjack tuna",
+    "id": "food-drink-183"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "During which decade was the iconic Canadian dish poutine (fries topped with cheese curds and gravy) said to have originated in the province of Quebec?",
+    "options": [
+      "1890s",
+      "1920s",
+      "1950s",
+      "1980s"
+    ],
+    "answer": "1950s",
+    "id": "food-drink-184"
   }
 ]

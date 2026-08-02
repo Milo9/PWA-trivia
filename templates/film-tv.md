@@ -64,6 +64,40 @@ instead):
   on-screen text calls it both "Fiorina 161" and "Fury 161" (a nickname
   of the same name, not a distinct wrong answer), so any distractor using
   the other form is actually also correct
+- Who directed "Alien" (1979) (Ridley Scott)
+- Fictional Indiana town where "Stranger Things" is set (Hawkins)
+- Name of Gus Fring's fast-food chicken chain front in "Breaking Bad"
+  (Los Pollos Hermanos)
+- Comic Book Guy's real first name in "The Simpsons" (Jeff)
+- Name of the Roy family's media conglomerate in "Succession" (Waystar
+  Royco)
+- Who directed "The Shawshank Redemption" (Frank Darabont)
+- Name of Tony Soprano's boat in "The Sopranos" (The Stugots)
+- Saul Goodman's birth name in "Better Call Saul" (Jimmy McGill — not
+  "James McGill"; the show consistently uses "Jimmy")
+- Creator/narrator/host of the original "The Twilight Zone" (Rod Serling)
+- Who directed "Spirited Away" (Hayao Miyazaki)
+- Name of the bar in "It's Always Sunny in Philadelphia" (Paddy's Pub)
+- Actor who played Wolverine in the "X-Men" films (Hugh Jackman)
+- Name of the town where "The Simpsons" is set (Springfield)
+- Who directed "Kill Bill" (Quentin Tarantino)
+- Who directed "The Godfather" (Francis Ford Coppola)
+- Name of the starship commanded by Captain Kirk in the original "Star
+  Trek" series (USS Enterprise)
+- Name of the fictional town in "Twin Peaks" (the town is itself named
+  Twin Peaks — same name as the show, an easy accidental answer-leak)
+- Who directed "The Shining" (Stanley Kubrick)
+
+Also watch for a fact that's already given away as a premise inside an
+existing question's stem, even if the existing question's own answer is
+something else — e.g. an existing question about the horse's-head scene
+in "The Godfather" already names "Jack Woltz" in its own text, so a
+separate question asking "who is the executive who wakes up with the
+horse's head" is redundant even though the two questions test nominally
+different specific facts; likewise an existing "Back to the Future"
+question already names the town "Hill Valley" in its premise. If a fact
+is stated outright in another question's wording, don't draft a new
+question whose answer is that same stated fact.
 
 Use web search to verify every fact — do not rely on memory alone. Prefer
 authoritative sources (IMDb, encyclopedic sources) over guessing. For each

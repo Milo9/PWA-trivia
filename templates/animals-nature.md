@@ -46,6 +46,53 @@ instead):
 - Giant panda's "thumb" being an enlarged/modified wrist bone (radial
   sesamoid) — already asked twice
 - Cuttlefish pupils forming a W-shape in bright light
+- Starfish regenerating a whole body from a single severed arm plus part
+  of the central disk
+- Electric eel (Electrophorus voltai) discharging ~860 volts, the highest
+  recorded voltage from an eel
+- Slow loris as the only venomous primate (toxin from elbow glands,
+  delivered via a bite through grooved teeth)
+- Collective noun for a group of flamingos (a flamboyance)
+- Pufferfish toxin's name (tetrodotoxin)
+- Chemical compound fireflies use to produce light (luciferin)
+- Emperor penguin as the largest living penguin species
+- Hoatzin chicks having claws on their wings
+- King cobra as the longest venomous snake in the world
+- Periodical cicadas' 13- or 17-year emergence cycles
+- Venus flytrap needing two touches to its trigger hairs within ~20
+  seconds to snap shut
+- Mimic octopus impersonating other marine animals (already asked with
+  specific species named — lionfish, sea snakes, jellyfish)
+- Poison dart frogs losing toxicity in captivity because their toxin
+  comes from their wild diet (ants/mites/beetles)
+- How long it takes a sloth to digest a single meal (~a month/30 days)
+- Hummingbird heart rate in flight (~1,200 beats per minute)
+- Hippopotamus "blood sweat" being a natural sunscreen/antibacterial
+  secretion (hipposudoric acid)
+- Komodo dragon killing prey primarily via venom (not just septic
+  bacteria/bite force)
+- Chameleon tongue length relative to body (about twice its body length)
+- Basilisk ("Jesus") lizard running across water's surface
+- Surinam toad embedding eggs in the skin of her back
+- Quokka's "world's happiest animal" nickname
+- Bristlecone pine "Methuselah"'s age (~4,800-4,857 years)
+- Superb lyrebird's general ability to mimic a wide range of sounds
+  (already asked with specific examples — camera shutters, chainsaws)
+- Aye-aye locating grubs by tapping on wood and listening for hollows
+- Greenland shark's ~400+ year lifespan as longest of any vertebrate
+- Archerfish's basic water-jet hunting method (already asked with the
+  specific accurate range — up to ~5 feet/1.5 meters)
+- Deep-sea anglerfish males fusing permanently to females (sexual
+  parasitism)
+- Blobfish's "ugly" appearance being an artifact of decompression at the
+  surface, not how it looks at depth
+
+Two facts that are premises already stated inside an existing question's
+stem, so drafting them as a separate standalone question is redundant even
+though the wording/answer differs: Rafflesia arnoldii being the world's
+largest individual flower (already stated as a premise in the existing
+"corpse flower" question), and a baobab's swollen trunk being for water
+storage (already implied by the existing "how many liters" question).
 
 Watch for this same fact reused on a *different* named animal, not just
 verbatim repeats — e.g. blue blood from copper-based hemocyanin is
