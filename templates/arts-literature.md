@@ -24,6 +24,51 @@ instead):
 - Which fairy tale character leaves a glass slipper (Cinderella)
 - Who wrote "Romeo and Juliet" (William Shakespeare) — this one collided
   three separate times across different drafting agents in a single batch
+- Who wrote "The Odyssey"/"The Iliad" (Homer)
+- Who wrote "The Aeneid" (Virgil)
+- Who wrote "The Canterbury Tales" (Geoffrey Chaucer)
+- Who wrote "Frankenstein" (Mary Shelley)
+- Who wrote "Wuthering Heights"/"Jane Eyre" (Emily/Charlotte Brontë)
+- Who wrote "Moby-Dick" (Herman Melville)
+- Who wrote "The Picture of Dorian Gray" (Oscar Wilde)
+- Who wrote "The Great Gatsby" (F. Scott Fitzgerald)
+- Who wrote "To Kill a Mockingbird" (Harper Lee)
+- Who wrote "1984"/"Brave New World" (George Orwell/Aldous Huxley)
+- Who wrote "The Sound and the Fury" (William Faulkner)
+- Who wrote "The Catcher in the Rye" (J.D. Salinger)
+- Who wrote "One Hundred Years of Solitude" (Gabriel García Márquez)
+- Who wrote "The Bell Jar" (Sylvia Plath)
+- Who wrote "The Waste Land" (T.S. Eliot)
+- Who wrote "The Raven" (Edgar Allan Poe) — note "Annabel Lee" (also Poe) is
+  a different poem and NOT a duplicate of this
+- Who wrote "Leaves of Grass" (Walt Whitman)
+- Who wrote "Paradise Lost" (John Milton)
+- Who painted "Guernica" (Pablo Picasso)
+- Who painted "The Persistence of Memory" (Salvador Dalí)
+- Who painted "The Scream" (Edvard Munch)
+- Who painted "Girl with a Pearl Earring" (Johannes Vermeer)
+- Who painted "The Birth of Venus" (Sandro Botticelli)
+- Who painted "The Night Watch" (Rembrandt van Rijn)
+- Who painted "The School of Athens" (Raphael)
+- Who sculpted "The Thinker"/"The Pietà"/"David" (Auguste Rodin/Michelangelo)
+- Who designed/sculpted the Statue of Liberty (Frédéric Auguste Bartholdi)
+- Who painted "The Creation of Adam" — same fact as "who painted the
+  Sistine Chapel ceiling," since it's that ceiling's central/title panel
+- Who painted "American Gothic" (Grant Wood)
+- Which art movement is Salvador Dalí/Surrealism, Picasso/Cubism, or
+  Monet-Renoir-Degas/Impressionism most associated with — already covered
+  via "which movement, pioneered/associated with [artist], ..." framing
+- Who wrote "The Importance of Being Earnest" (Oscar Wilde)
+- Who wrote "A Streetcar Named Desire" (Tennessee Williams)
+- Who wrote "Death of a Salesman" (Arthur Miller)
+
+CAUTION — a same-author reuse isn't automatically a duplicate: e.g. Arthur
+Miller wrote both "Death of a Salesman" (covered above) and "The Crucible"
+(not covered, a genuinely different question); Tennessee Williams wrote
+both "A Streetcar Named Desire" (covered) and "The Glass Menagerie" (not);
+Michelangelo, Picasso, and Rodin especially have many genuinely distinct
+works each — only treat it as a duplicate when the *specific work* matches
+one already listed above, not just the artist/author.
 
 Use web search to verify every fact — do not rely on memory alone. Prefer
 authoritative sources (encyclopedic sources, literary references) over

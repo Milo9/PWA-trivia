@@ -500,6 +500,59 @@ duplication and format consistency. Surviving 85 merged as
 `history-068`–`152`. All confirmed-duplicate angles and the fragment-
 style caution folded into `history`'s list in `templates/history.md`.
 
+**`ARTS-Mistral-98897fdgd9jjmkci998.js` processed 2026-08-01** (single-file
+batch, 90 `arts-literature` questions, self-declaring `category`): the
+highest duplicate rate seen on this project so far — 43 of 90 (~48%) cut
+— because the batch leaned almost entirely on the single most generic
+"who wrote/painted/sculpted X" framing for the most famous work by each
+artist, exactly the failure mode documented for
+`gemini-code-1785624420472.js` (film-tv) below: `check-draft.js`'s
+default pass caught 9 outright and 8 near-duplicates, but
+`--full-answer-audit` (48 draft answers with at least one corpus match)
+surfaced most of the rest, since the existing corpus almost always phrases
+the same fact with an added epithet ("the novel," "the dystopian novel,"
+"which Renaissance artist") that keeps text-overlap and some pairs' answer-
+reuse count just under the automated thresholds — e.g. draft's plain "Who
+wrote 'Brave New World'?" vs. corpus's "Which author wrote the dystopian
+novel 'Brave New World'?". One additional duplicate (`draft[1]`, "Who wrote
+'The Iliad'?") wasn't even in the audit's flagged list on its own — it
+surfaced by cross-referencing the audit hit for `draft[0]`'s "Odyssey"
+answer match, which included two existing entries that name the Iliad and
+Odyssey together as a pair.
+
+The judgment calls that separated real duplicates from coincidental reuse:
+a shared *artist/author* is not a duplicate signal by itself (Michelangelo,
+Picasso, Rodin, Kafka, Camus, Arthur Miller, and Tennessee Williams each
+correctly have multiple distinct surviving questions about different named
+works) — only a shared *specific named work* is. One boundary case each
+way: `draft[59]` ("Who painted 'The Creation of Adam'?") was cut as a
+duplicate of the existing "who painted the Sistine Chapel ceiling"
+question, since Creation of Adam is that ceiling's single title/defining
+panel, not a separate work; `draft[83]` ("Who painted 'The Last Judgment'
+in the Sistine Chapel?") was kept despite naming the same building and
+artist, since the Last Judgment is a physically separate fresco (altar
+wall, painted decades later) testing a genuinely different fact. Six
+"which art movement is [artist] associated with" questions (Dalí/
+Surrealism, Picasso/Cubism, Monet-Renoir-Degas/Impressionism, asked twice
+each with slightly different wording) were all cut as duplicates of
+existing "which movement, pioneered/associated with [artist], ..."
+questions — but a seventh in the same shape, "which movement includes
+Warhol and Lichtenstein" (Pop Art), was kept, since the existing corpus's
+only Warhol-adjacent questions ask the player to name the *artist* given
+clues, never the *movement* given the artist — a different fact despite
+the surface-level pattern match. One flagged item, `draft[86]` ("Who
+painted 'The Treachery of Images' (This is not a pipe)?"), was a false
+positive on `check-draft.js`'s hedge-language regex (it matched "not a
+... pipe" the same way it'd match a real hedge like "not a real plot
+point") — the parenthetical is the painting's own famous inscription
+("Ceci n'est pas une pipe"), not evasive phrasing, so it was kept as-is
+after manual confirmation the fact itself is accurate and not duplicated.
+All facts in the surviving 47 were spot-checked against memory; no
+factual errors found. Surviving 47 merged as `arts-literature-131`–`177`.
+All confirmed-duplicate angles, plus the Creation-of-Adam/Sistine-ceiling
+and movement-vs-artist distinctions as cautionary notes, folded into
+`arts-literature`'s list in `templates/arts-literature.md`.
+
 ## General Knowledge split into topic categories (2026-08-01)
 
 `general` (2825 questions) was split into 12 topic categories plus a
