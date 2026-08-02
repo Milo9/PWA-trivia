@@ -7486,5 +7486,1019 @@
       "1878"
     ],
     "answer": "1876"
+  },
+  {
+    "id": "science-technology-113",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the rarest naturally occurring element in the Earth's crust?",
+    "options": [
+      "Promethium",
+      "Francium",
+      "Technetium",
+      "Astatine"
+    ],
+    "answer": "Astatine"
+  },
+  {
+    "id": "science-technology-114",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What is the only letter that does not appear in any element name on the periodic table?",
+    "options": [
+      "Y",
+      "X",
+      "Q",
+      "J"
+    ],
+    "answer": "J"
+  },
+  {
+    "id": "science-technology-115",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the SI unit of electrical conductance?",
+    "options": [
+      "Mho",
+      "Volt",
+      "Siemens",
+      "Ohm"
+    ],
+    "answer": "Siemens"
+  },
+  {
+    "id": "science-technology-116",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the SI unit of magnetic flux?",
+    "options": [
+      "Gauss",
+      "Weber",
+      "Maxwell",
+      "Tesla"
+    ],
+    "answer": "Weber"
+  },
+  {
+    "id": "science-technology-117",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What is the term for the process where a gas turns directly into a solid?",
+    "options": [
+      "Condensation",
+      "Freezing",
+      "Sublimation",
+      "Deposition"
+    ],
+    "answer": "Deposition"
+  },
+  {
+    "id": "science-technology-118",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the most abundant protein in the human body?",
+    "options": [
+      "Keratin",
+      "Actin",
+      "Hemoglobin",
+      "Collagen"
+    ],
+    "answer": "Collagen"
+  },
+  {
+    "id": "science-technology-119",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What scale is used to measure the hardness of minerals?",
+    "options": [
+      "Brinell scale",
+      "Richter scale",
+      "Mohs scale",
+      "Vickers scale"
+    ],
+    "answer": "Mohs scale"
+  },
+  {
+    "id": "science-technology-120",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Which element is named after the Greek word for 'green'?",
+    "options": [
+      "Thallium",
+      "Chlorine",
+      "Beryllium",
+      "Chromium"
+    ],
+    "answer": "Chlorine"
+  },
+  {
+    "id": "science-technology-121",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What type of chemical bond is formed by the transfer of electrons?",
+    "options": [
+      "Covalent bond",
+      "Hydrogen bond",
+      "Ionic bond",
+      "Metallic bond"
+    ],
+    "answer": "Ionic bond"
+  },
+  {
+    "id": "science-technology-122",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the name of the process of coating a metal with zinc to prevent rusting?",
+    "options": [
+      "Electroplating",
+      "Anodization",
+      "Passivation",
+      "Galvanization"
+    ],
+    "answer": "Galvanization"
+  },
+  {
+    "id": "science-technology-123",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the chemical formula for hydrogen peroxide?",
+    "options": [
+      "H2O",
+      "HO2",
+      "H2O2",
+      "H3O2"
+    ],
+    "answer": "H2O2"
+  },
+  {
+    "id": "science-technology-124",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Which element has the highest density at room temperature?",
+    "options": [
+      "Iridium",
+      "Osmium",
+      "Platinum",
+      "Gold"
+    ],
+    "answer": "Osmium"
+  },
+  {
+    "id": "science-technology-125",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What process is used to separate mixtures based on differences in boiling points?",
+    "options": [
+      "Chromatography",
+      "Distillation",
+      "Centrifugation",
+      "Filtration"
+    ],
+    "answer": "Distillation"
+  },
+  {
+    "id": "science-technology-126",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What is the primary acid found in vinegar?",
+    "options": [
+      "Citric acid",
+      "Lactic acid",
+      "Formic acid",
+      "Acetic acid"
+    ],
+    "answer": "Acetic acid"
+  },
+  {
+    "id": "science-technology-127",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the name of the sugar naturally found in milk?",
+    "options": [
+      "Maltose",
+      "Fructose",
+      "Sucrose",
+      "Lactose"
+    ],
+    "answer": "Lactose"
+  },
+  {
+    "id": "science-technology-128",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the name of the sugar naturally found in most fruits?",
+    "options": [
+      "Sucrose",
+      "Fructose",
+      "Glucose",
+      "Galactose"
+    ],
+    "answer": "Fructose"
+  },
+  {
+    "id": "science-technology-129",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "Which element has the lowest melting point of all elements?",
+    "options": [
+      "Neon",
+      "Hydrogen",
+      "Nitrogen",
+      "Helium"
+    ],
+    "answer": "Helium"
+  },
+  {
+    "id": "science-technology-130",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the SI unit of inductance?",
+    "options": [
+      "Henry",
+      "Weber",
+      "Tesla",
+      "Farad"
+    ],
+    "answer": "Henry"
+  },
+  {
+    "id": "science-technology-131",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the SI unit of radioactivity?",
+    "options": [
+      "Gray",
+      "Becquerel",
+      "Curie",
+      "Sievert"
+    ],
+    "answer": "Becquerel"
+  },
+  {
+    "id": "science-technology-132",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What is the SI unit of luminous intensity?",
+    "options": [
+      "Lux",
+      "Lumen",
+      "Watt",
+      "Candela"
+    ],
+    "answer": "Candela"
+  },
+  {
+    "id": "science-technology-133",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the name of the effect where light is scattered by particles in a colloid?",
+    "options": [
+      "Photoelectric effect",
+      "Doppler effect",
+      "Rayleigh scattering",
+      "Tyndall effect"
+    ],
+    "answer": "Tyndall effect"
+  },
+  {
+    "id": "science-technology-134",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the term for the phenomenon where a material's electrical resistance drops to zero?",
+    "options": [
+      "Ferromagnetism",
+      "Piezoelectricity",
+      "Superfluidity",
+      "Superconductivity"
+    ],
+    "answer": "Superconductivity"
+  },
+  {
+    "id": "science-technology-135",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What principle states that the pressure of a fluid decreases as its velocity increases?",
+    "options": [
+      "Bernoulli's principle",
+      "Pascal's principle",
+      "Archimedes' principle",
+      "Boyle's law"
+    ],
+    "answer": "Bernoulli's principle"
+  },
+  {
+    "id": "science-technology-136",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the term for the bending of light around the corners of an obstacle?",
+    "options": [
+      "Reflection",
+      "Dispersion",
+      "Diffraction",
+      "Refraction"
+    ],
+    "answer": "Diffraction"
+  },
+  {
+    "id": "science-technology-137",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which particle mediates the weak nuclear force?",
+    "options": [
+      "W boson",
+      "Graviton",
+      "Gluon",
+      "Photon"
+    ],
+    "answer": "W boson"
+  },
+  {
+    "id": "science-technology-138",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What is the approximate speed of sound in air at 20°C?",
+    "options": [
+      "300 meters per second",
+      "500 meters per second",
+      "400 meters per second",
+      "343 meters per second"
+    ],
+    "answer": "343 meters per second"
+  },
+  {
+    "id": "science-technology-139",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What is the name of the effect where a current is induced by a changing magnetic field?",
+    "options": [
+      "Hall effect",
+      "Thermoelectric effect",
+      "Electromagnetic induction",
+      "Electrostatic induction"
+    ],
+    "answer": "Electromagnetic induction"
+  },
+  {
+    "id": "science-technology-140",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the term for the resistance of any physical object to a change in its velocity?",
+    "options": [
+      "Inertia",
+      "Gravity",
+      "Momentum",
+      "Friction"
+    ],
+    "answer": "Inertia"
+  },
+  {
+    "id": "science-technology-141",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What is the SI unit of frequency?",
+    "options": [
+      "Hertz",
+      "Watt",
+      "Joule",
+      "Decibel"
+    ],
+    "answer": "Hertz"
+  },
+  {
+    "id": "science-technology-142",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What is the SI unit of pressure?",
+    "options": [
+      "Pascal",
+      "Atmosphere",
+      "Bar",
+      "Torr"
+    ],
+    "answer": "Pascal"
+  },
+  {
+    "id": "science-technology-143",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the SI unit of energy?",
+    "options": [
+      "Coulomb",
+      "Newton",
+      "Joule",
+      "Watt"
+    ],
+    "answer": "Joule"
+  },
+  {
+    "id": "science-technology-144",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What is the name of the effect where a magnetic field creates a voltage difference across a conductor?",
+    "options": [
+      "Peltier effect",
+      "Seebeck effect",
+      "Hall effect",
+      "Thomson effect"
+    ],
+    "answer": "Hall effect"
+  },
+  {
+    "id": "science-technology-145",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the term for the theoretical temperature at which all molecular motion ceases?",
+    "options": [
+      "Critical point",
+      "Triple point",
+      "Absolute zero",
+      "Boiling point"
+    ],
+    "answer": "Absolute zero"
+  },
+  {
+    "id": "science-technology-146",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the name of the phenomenon where a material immediately re-emits absorbed light, unlike phosphorescence (which continues glowing after the light source is removed)?",
+    "options": [
+      "Incandescence",
+      "Phosphorescence",
+      "Bioluminescence",
+      "Fluorescence"
+    ],
+    "answer": "Fluorescence"
+  },
+  {
+    "id": "science-technology-147",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the SI unit of electric charge?",
+    "options": [
+      "Ampere",
+      "Coulomb",
+      "Ohm",
+      "Volt"
+    ],
+    "answer": "Coulomb"
+  },
+  {
+    "id": "science-technology-148",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What principle states that the upward buoyant force equals the weight of the fluid displaced?",
+    "options": [
+      "Archimedes' principle",
+      "Newton's third law",
+      "Pascal's principle",
+      "Bernoulli's principle"
+    ],
+    "answer": "Archimedes' principle"
+  },
+  {
+    "id": "science-technology-149",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What enzyme is responsible for unwinding the DNA double helix?",
+    "options": [
+      "Primase",
+      "Polymerase",
+      "Helicase",
+      "Ligase"
+    ],
+    "answer": "Helicase"
+  },
+  {
+    "id": "science-technology-150",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the name of the process by which DNA is copied into RNA?",
+    "options": [
+      "Replication",
+      "Translation",
+      "Transduction",
+      "Transcription"
+    ],
+    "answer": "Transcription"
+  },
+  {
+    "id": "science-technology-151",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the name of the process by which RNA is translated into protein?",
+    "options": [
+      "Translation",
+      "Transcription",
+      "Transformation",
+      "Replication"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "id": "science-technology-152",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the name of the process by which cells engulf large particles?",
+    "options": [
+      "Exocytosis",
+      "Osmosis",
+      "Pinocytosis",
+      "Phagocytosis"
+    ],
+    "answer": "Phagocytosis"
+  },
+  {
+    "id": "science-technology-153",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "During cell division, what is the phase where chromosomes separate?",
+    "options": [
+      "Metaphase",
+      "Telophase",
+      "Anaphase",
+      "Prophase"
+    ],
+    "answer": "Anaphase"
+  },
+  {
+    "id": "science-technology-154",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What organelle is responsible for packaging and modifying proteins?",
+    "options": [
+      "Golgi apparatus",
+      "Lysosome",
+      "Endoplasmic reticulum",
+      "Nucleolus"
+    ],
+    "answer": "Golgi apparatus"
+  },
+  {
+    "id": "science-technology-155",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the biological term for programmed cell death?",
+    "options": [
+      "Apoptosis",
+      "Senescence",
+      "Necrosis",
+      "Autophagy"
+    ],
+    "answer": "Apoptosis"
+  },
+  {
+    "id": "science-technology-156",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What protein is the primary structural component of hair and nails?",
+    "options": [
+      "Collagen",
+      "Keratin",
+      "Elastin",
+      "Myosin"
+    ],
+    "answer": "Keratin"
+  },
+  {
+    "id": "science-technology-157",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What type of blood vessel carries blood toward the heart?",
+    "options": [
+      "Artery",
+      "Arteriole",
+      "Vein",
+      "Capillary"
+    ],
+    "answer": "Vein"
+  },
+  {
+    "id": "science-technology-158",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the name of the process where a cell engulfs liquid into a vesicle?",
+    "options": [
+      "Exocytosis",
+      "Pinocytosis",
+      "Phagocytosis",
+      "Diffusion"
+    ],
+    "answer": "Pinocytosis"
+  },
+  {
+    "id": "science-technology-159",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What molecule acts as the primary energy carrier in cells?",
+    "options": [
+      "ATP",
+      "NADH",
+      "DNA",
+      "RNA"
+    ],
+    "answer": "ATP"
+  },
+  {
+    "id": "science-technology-160",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the name of the phase of the cell cycle where the cell grows and replicates its DNA?",
+    "options": [
+      "Interphase",
+      "Prophase",
+      "Cytokinesis",
+      "Metaphase"
+    ],
+    "answer": "Interphase"
+  },
+  {
+    "id": "science-technology-161",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What type of cell division produces gametes?",
+    "options": [
+      "Budding",
+      "Mitosis",
+      "Meiosis",
+      "Binary fission"
+    ],
+    "answer": "Meiosis"
+  },
+  {
+    "id": "science-technology-162",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the biological term for a virus integrating its DNA into the host genome?",
+    "options": [
+      "Lysogeny",
+      "Conjugation",
+      "Transformation",
+      "Lytic cycle"
+    ],
+    "answer": "Lysogeny"
+  },
+  {
+    "id": "science-technology-164",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What gland in the human brain is responsible for producing melatonin?",
+    "options": [
+      "Thyroid gland",
+      "Adrenal gland",
+      "Pituitary gland",
+      "Pineal gland"
+    ],
+    "answer": "Pineal gland"
+  },
+  {
+    "id": "science-technology-165",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What is the only bone in the human body that does not connect to any other bone?",
+    "options": [
+      "Hyoid bone",
+      "Talus",
+      "Patella",
+      "Coccyx"
+    ],
+    "answer": "Hyoid bone"
+  },
+  {
+    "id": "science-technology-166",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What is the largest cell in the human body?",
+    "options": [
+      "Neuron",
+      "Ovum",
+      "Skeletal muscle cell",
+      "Macrophage"
+    ],
+    "answer": "Ovum"
+  },
+  {
+    "id": "science-technology-167",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What is the name of the first section of the small intestine?",
+    "options": [
+      "Jejunum",
+      "Ileum",
+      "Duodenum",
+      "Cecum"
+    ],
+    "answer": "Duodenum"
+  },
+  {
+    "id": "science-technology-168",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What fluid is responsible for lubricating human joints?",
+    "options": [
+      "Synovial fluid",
+      "Bile",
+      "Cerebrospinal fluid",
+      "Lymph"
+    ],
+    "answer": "Synovial fluid"
+  },
+  {
+    "id": "science-technology-169",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What muscle separates the thoracic cavity from the abdominal cavity?",
+    "options": [
+      "Pectoralis major",
+      "Intercostal muscle",
+      "Rectus abdominis",
+      "Diaphragm"
+    ],
+    "answer": "Diaphragm"
+  },
+  {
+    "id": "science-technology-170",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What part of the human ear vibrates in response to sound waves?",
+    "options": [
+      "Ossicles",
+      "Eustachian tube",
+      "Cochlea",
+      "Tympanic membrane"
+    ],
+    "answer": "Tympanic membrane"
+  },
+  {
+    "id": "science-technology-171",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the name of the valve between the left atrium and left ventricle?",
+    "options": [
+      "Mitral valve",
+      "Tricuspid valve",
+      "Aortic valve",
+      "Pulmonary valve"
+    ],
+    "answer": "Mitral valve"
+  },
+  {
+    "id": "science-technology-172",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What connective tissue connects muscle to bone?",
+    "options": [
+      "Fascia",
+      "Ligament",
+      "Tendon",
+      "Cartilage"
+    ],
+    "answer": "Tendon"
+  },
+  {
+    "id": "science-technology-173",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What nerve transmits visual information from the retina to the brain?",
+    "options": [
+      "Trigeminal nerve",
+      "Oculomotor nerve",
+      "Optic nerve",
+      "Trochlear nerve"
+    ],
+    "answer": "Optic nerve"
+  },
+  {
+    "id": "science-technology-174",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the name of the bone in the lower leg commonly known as the shinbone?",
+    "options": [
+      "Patella",
+      "Femur",
+      "Fibula",
+      "Tibia"
+    ],
+    "answer": "Tibia"
+  },
+  {
+    "id": "science-technology-175",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What small, pea-shaped gland at the base of the brain produces growth hormone?",
+    "options": [
+      "Thalamus",
+      "Pineal gland",
+      "Pituitary gland",
+      "Hypothalamus"
+    ],
+    "answer": "Pituitary gland"
+  },
+  {
+    "id": "science-technology-176",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What tube carries urine from the kidney to the bladder?",
+    "options": [
+      "Urethra",
+      "Ureter",
+      "Renal pelvis",
+      "Nephron"
+    ],
+    "answer": "Ureter"
+  },
+  {
+    "id": "science-technology-177",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What is the name of the largest artery in the human body?",
+    "options": [
+      "Carotid artery",
+      "Vena cava",
+      "Pulmonary artery",
+      "Aorta"
+    ],
+    "answer": "Aorta"
+  },
+  {
+    "id": "science-technology-178",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the name of the fluid portion of human blood?",
+    "options": [
+      "Plasma",
+      "Hemoglobin",
+      "Lymph",
+      "Serum"
+    ],
+    "answer": "Plasma"
+  },
+  {
+    "id": "science-technology-179",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What type of white blood cell is primarily responsible for producing antibodies?",
+    "options": [
+      "Macrophage",
+      "T cell",
+      "Neutrophil",
+      "B cell"
+    ],
+    "answer": "B cell"
+  },
+  {
+    "id": "science-technology-180",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What structure connects the two hemispheres of the human brain?",
+    "options": [
+      "Medulla",
+      "Hypothalamus",
+      "Thalamus",
+      "Corpus callosum"
+    ],
+    "answer": "Corpus callosum"
+  },
+  {
+    "id": "science-technology-181",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the name of the outermost layer of human skin?",
+    "options": [
+      "Dermis",
+      "Epidermis",
+      "Stratum corneum",
+      "Hypodermis"
+    ],
+    "answer": "Epidermis"
+  },
+  {
+    "id": "science-technology-182",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What programming language was originally developed by Bjarne Stroustrup?",
+    "options": [
+      "C#",
+      "Java",
+      "Python",
+      "C++"
+    ],
+    "answer": "C++"
+  },
+  {
+    "id": "science-technology-183",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "Which company originally developed the Java programming language?",
+    "options": [
+      "Microsoft",
+      "IBM",
+      "Oracle",
+      "Sun Microsystems"
+    ],
+    "answer": "Sun Microsystems"
+  },
+  {
+    "id": "science-technology-184",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What was the name of the first electronic general-purpose computer?",
+    "options": [
+      "UNIVAC",
+      "EDVAC",
+      "Colossus",
+      "ENIAC"
+    ],
+    "answer": "ENIAC"
+  },
+  {
+    "id": "science-technology-185",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What does the computing acronym 'BIOS' stand for?",
+    "options": [
+      "Binary Integrated Operating System",
+      "Boot Initialization Operating System",
+      "Basic Input/Output System",
+      "Basic Internal Operating Software"
+    ],
+    "answer": "Basic Input/Output System"
+  },
+  {
+    "id": "science-technology-186",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What does the computing acronym 'DNS' stand for?",
+    "options": [
+      "Domain Name System",
+      "Directory Name Server",
+      "Digital Network Service",
+      "Data Naming Structure"
+    ],
+    "answer": "Domain Name System"
+  },
+  {
+    "id": "science-technology-187",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What does the computing acronym 'GUI' stand for?",
+    "options": [
+      "Graphical Utility Integration",
+      "General User Interaction",
+      "Global User Interface",
+      "Graphical User Interface"
+    ],
+    "answer": "Graphical User Interface"
+  },
+  {
+    "id": "science-technology-188",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What does the computing acronym 'IoT' stand for?",
+    "options": [
+      "Intelligent Operating Technology",
+      "Internet of Things",
+      "Interconnected Online Terminals",
+      "Integration of Technology"
+    ],
+    "answer": "Internet of Things"
+  },
+  {
+    "id": "science-technology-189",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What was the name of the first computer virus to spread in the wild in 1986?",
+    "options": [
+      "ILOVEYOU",
+      "Melissa",
+      "Creeper",
+      "Brain"
+    ],
+    "answer": "Brain"
+  },
+  {
+    "id": "science-technology-190",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "Which company developed the C# programming language?",
+    "options": [
+      "Apple",
+      "Microsoft",
+      "Sun Microsystems",
+      "Google"
+    ],
+    "answer": "Microsoft"
+  },
+  {
+    "id": "science-technology-191",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Who is credited with popularizing the term 'computer bug' after finding a moth in a relay?",
+    "options": [
+      "Ada Lovelace",
+      "Grace Hopper",
+      "John von Neumann",
+      "Alan Turing"
+    ],
+    "answer": "Grace Hopper"
   }
 ]
