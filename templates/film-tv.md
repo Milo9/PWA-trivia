@@ -86,7 +86,32 @@ instead):
   Trek" series (USS Enterprise)
 - Name of the fictional town in "Twin Peaks" (the town is itself named
   Twin Peaks — same name as the show, an easy accidental answer-leak)
-- Who directed "The Shining" (Stanley Kubrick)
+- Name of the towing spaceship in "Alien" (Nostromo) / the android-making
+  corporation in "Blade Runner" (Tyrell Corporation) / Neo's birth name in
+  "The Matrix" (Thomas Anderson) / the traitorous crew member in "The
+  Matrix" (Cypher)
+- Who directed "Pan's Labyrinth" (Guillermo del Toro) / "The Grand
+  Budapest Hotel" (Wes Anderson) / "Whiplash" (Damien Chazelle) / "Get
+  Out" (Jordan Peele) / "The Social Network" (David Fincher)
+- Name of the ad agency in "Mad Men" (Sterling Cooper) / the diner in
+  "Gilmore Girls" (Luke's Diner) / the spaceship in "Firefly" (Serenity)
+  / the fictional country in "The Grand Budapest Hotel" (Zubrowka)
+- Actor who played Anton Chigurh in "No Country for Old Men" (Javier
+  Bardem) / Furiosa in "Mad Max: Fury Road" (Charlize Theron) / Black
+  Widow in the MCU (Scarlett Johansson) / the voice of Sheriff Woody
+  (Tom Hanks)
+- Who is revealed as Laura Palmer's killer in "Twin Peaks" (Leland
+  Palmer, possessed by BOB) / who created "The Simpsons" (Matt
+  Groening) / who wrote the "A Song of Ice and Fire" novels (George
+  R.R. Martin) / who created "The X-Files" (Chris Carter)
+- Name of Han Solo's ship (Millennium Falcon) / the continent in "Game
+  of Thrones" (Westeros) / the sentient computer in "2001: A Space
+  Odyssey" (HAL 9000) / the fictional band in "Almost Famous"
+  (Stillwater)
+- Who co-created "Twin Peaks" alongside David Lynch (Mark Frost) — the
+  existing corpus already asks the reverse ("which surrealist director
+  co-created it alongside Mark Frost" → Lynch); don't draft either
+  direction of this pairing again, it's a fully closed loop now
 
 Also watch for a fact that's already given away as a premise inside an
 existing question's stem, even if the existing question's own answer is

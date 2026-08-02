@@ -6394,5 +6394,954 @@
     ],
     "answer": "Christopher Nolan",
     "id": "film-tv-272"
+  },
+  {
+    "id": "film-tv-273",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "Who played the villain Hans Gruber in 'Die Hard' (1988)?",
+    "options": [
+      "Jeremy Irons",
+      "Alan Rickman",
+      "Gary Oldman",
+      "Rutger Hauer"
+    ],
+    "answer": "Alan Rickman"
+  },
+  {
+    "id": "film-tv-274",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "Which actress played Ellen Ripley in the 'Alien' film series?",
+    "options": [
+      "Sigourney Weaver",
+      "Linda Hamilton",
+      "Carrie-Anne Moss",
+      "Milla Jovovich"
+    ],
+    "answer": "Sigourney Weaver"
+  },
+  {
+    "id": "film-tv-275",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'Fargo' (1996), what is Marge Gunderson's law-enforcement position?",
+    "options": [
+      "FBI agent",
+      "Insurance investigator",
+      "Police chief",
+      "Defense attorney"
+    ],
+    "answer": "Police chief"
+  },
+  {
+    "id": "film-tv-276",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "Which Italian island region is the setting of 'The White Lotus' Season 2?",
+    "options": [
+      "Sardinia",
+      "Capri",
+      "Elba",
+      "Sicily"
+    ],
+    "answer": "Sicily"
+  },
+  {
+    "id": "film-tv-277",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'Seinfeld,' what is Newman's occupation?",
+    "options": [
+      "Postal worker",
+      "Doorman",
+      "Sanitation worker",
+      "Meter reader"
+    ],
+    "answer": "Postal worker"
+  },
+  {
+    "id": "film-tv-278",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "Who directed the romantic sci-fi film 'Her' (2013)?",
+    "options": [
+      "Spike Lee",
+      "Spike Jonze",
+      "David Fincher",
+      "Sofia Coppola"
+    ],
+    "answer": "Spike Jonze"
+  },
+  {
+    "id": "film-tv-279",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In the film 'Her,' what name does the operating-system AI choose for herself?",
+    "options": [
+      "Siri",
+      "Cortana",
+      "Samantha",
+      "Alexis"
+    ],
+    "answer": "Samantha"
+  },
+  {
+    "id": "film-tv-280",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In what year did the series finale of 'The Sopranos' originally air?",
+    "options": [
+      "2007",
+      "2005",
+      "2006",
+      "2008"
+    ],
+    "answer": "2007"
+  },
+  {
+    "id": "film-tv-281",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "What is the name of the convenience store in 'The Simpsons'?",
+    "options": [
+      "7-Eleven",
+      "Stop-N-Go",
+      "Kwik-E-Mart",
+      "QuikTrip"
+    ],
+    "answer": "Kwik-E-Mart"
+  },
+  {
+    "id": "film-tv-282",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "Which actor played Frodo Baggins in Peter Jackson's 'The Lord of the Rings' trilogy?",
+    "options": [
+      "Sean Astin",
+      "Dominic Monaghan",
+      "Billy Boyd",
+      "Elijah Wood"
+    ],
+    "answer": "Elijah Wood"
+  },
+  {
+    "id": "film-tv-283",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'Breaking Bad,' what is the name of Walter White's brother-in-law who works for the DEA?",
+    "options": [
+      "Hank Schrader",
+      "Steven Gomez",
+      "Ted Beneke",
+      "Marie Schrader"
+    ],
+    "answer": "Hank Schrader"
+  },
+  {
+    "id": "film-tv-284",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "Which actress won the Academy Award for Best Actress for 'Monster's Ball' (2001)?",
+    "options": [
+      "Nicole Kidman",
+      "Halle Berry",
+      "Julia Roberts",
+      "Charlize Theron"
+    ],
+    "answer": "Halle Berry"
+  },
+  {
+    "id": "film-tv-285",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'The Simpsons,' what is the name of Krusty the Clown's current sidekick (as of the show's run)?",
+    "options": [
+      "Sideshow Bob",
+      "Sideshow Cecil",
+      "Sideshow Mel",
+      "Sideshow Sam"
+    ],
+    "answer": "Sideshow Mel"
+  },
+  {
+    "id": "film-tv-286",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "Who provides the voice of the superhero costume designer Edna Mode in 'The Incredibles'?",
+    "options": [
+      "John Ratzenberger",
+      "Wallace Shawn",
+      "Billy West",
+      "Brad Bird"
+    ],
+    "answer": "Brad Bird"
+  },
+  {
+    "id": "film-tv-287",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "Who directed 'Eternal Sunshine of the Spotless Mind' (2004)?",
+    "options": [
+      "Charlie Kaufman",
+      "Michel Gondry",
+      "Spike Jonze",
+      "Wes Anderson"
+    ],
+    "answer": "Michel Gondry"
+  },
+  {
+    "id": "film-tv-288",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'Eternal Sunshine of the Spotless Mind,' what is the name of the company that erases unwanted memories?",
+    "options": [
+      "Anesthesia",
+      "Oblivion",
+      "Lacuna Inc.",
+      "Memory Lane"
+    ],
+    "answer": "Lacuna Inc."
+  },
+  {
+    "id": "film-tv-289",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'The West Wing,' what is the first name of U.S. President Bartlet?",
+    "options": [
+      "Andrew",
+      "Frank",
+      "Selina",
+      "Josiah"
+    ],
+    "answer": "Josiah"
+  },
+  {
+    "id": "film-tv-290",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "What is the name of the artificial, dome-covered town where Truman Burbank lives in 'The Truman Show'?",
+    "options": [
+      "Seahaven",
+      "Pleasantville",
+      "Capeside",
+      "Stars Hollow"
+    ],
+    "answer": "Seahaven"
+  },
+  {
+    "id": "film-tv-291",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "Who directed 'Lost in Translation' (2003)?",
+    "options": [
+      "Francis Ford Coppola",
+      "Sofia Coppola",
+      "Nancy Meyers",
+      "Sofia Loren"
+    ],
+    "answer": "Sofia Coppola"
+  },
+  {
+    "id": "film-tv-292",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "What is the name of the high school in 'Buffy the Vampire Slayer'?",
+    "options": [
+      "Hemery High",
+      "William McKinley High",
+      "Sunnydale High",
+      "Capeside High"
+    ],
+    "answer": "Sunnydale High"
+  },
+  {
+    "id": "film-tv-293",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'Game of Thrones,' what is the name of the Stark family's ancestral castle?",
+    "options": [
+      "Winterfell",
+      "Riverrun",
+      "Storm's End",
+      "Highgarden"
+    ],
+    "answer": "Winterfell"
+  },
+  {
+    "id": "film-tv-294",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'The Wire,' who is the leader of the West Baltimore drug organization investigated in Season 1?",
+    "options": [
+      "Stringer Bell",
+      "Marlo Stanfield",
+      "Proposition Joe",
+      "Avon Barksdale"
+    ],
+    "answer": "Avon Barksdale"
+  },
+  {
+    "id": "film-tv-295",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "What is the name of the elite boarding school in 'Dead Poets Society' (1989)?",
+    "options": [
+      "Bretton Academy",
+      "Harrison Prep",
+      "Devon School",
+      "Welton Academy"
+    ],
+    "answer": "Welton Academy"
+  },
+  {
+    "id": "film-tv-296",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "Who directed 'The Sixth Sense' (1999)?",
+    "options": [
+      "Christopher Nolan",
+      "M. Night Shyamalan",
+      "David Fincher",
+      "Bryan Singer"
+    ],
+    "answer": "M. Night Shyamalan"
+  },
+  {
+    "id": "film-tv-297",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'The Sixth Sense,' what is Cole Sear's famous line about his ability?",
+    "options": [
+      "\"I see ghosts\"",
+      "\"I see dead people\"",
+      "\"I see spirits\"",
+      "\"I see the beyond\""
+    ],
+    "answer": "\"I see dead people\""
+  },
+  {
+    "id": "film-tv-298",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'Whiplash,' what is the name of the ruthlessly abusive conductor at Shaffer Conservatory?",
+    "options": [
+      "Andrew Neiman",
+      "Terence Fletcher",
+      "Sean Casey",
+      "Jim Neiman"
+    ],
+    "answer": "Terence Fletcher"
+  },
+  {
+    "id": "film-tv-299",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "Who composed the original score for 'La La Land' (2016)?",
+    "options": [
+      "Lin-Manuel Miranda",
+      "Justin Hurwitz",
+      "Benj Pasek",
+      "John Legend"
+    ],
+    "answer": "Justin Hurwitz"
+  },
+  {
+    "id": "film-tv-300",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'Get Out' (2017), what is the surname of the suburban family that Chris Washington visits?",
+    "options": [
+      "Whitman",
+      "Deerfield",
+      "Armitage",
+      "Crawford"
+    ],
+    "answer": "Armitage"
+  },
+  {
+    "id": "film-tv-301",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "Who created the science-fiction Western 'Firefly' (2002)?",
+    "options": [
+      "Ronald D. Moore",
+      "Joss Whedon",
+      "J.J. Abrams",
+      "Bryan Fuller"
+    ],
+    "answer": "Joss Whedon"
+  },
+  {
+    "id": "film-tv-302",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'Seinfeld,' what is the name of the diner the characters frequent throughout the series?",
+    "options": [
+      "Tom's Restaurant",
+      "Monk's Café",
+      "Reggie's",
+      "Mendy's"
+    ],
+    "answer": "Monk's Café"
+  },
+  {
+    "id": "film-tv-303",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "Who composed the Academy Award–winning score for 'The Social Network'?",
+    "options": [
+      "Hans Zimmer",
+      "Trent Reznor and Atticus Ross",
+      "Danny Elfman",
+      "Thomas Newman"
+    ],
+    "answer": "Trent Reznor and Atticus Ross"
+  },
+  {
+    "id": "film-tv-304",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "Who directed 'Brokeback Mountain' (2005)?",
+    "options": [
+      "Gus Van Sant",
+      "Ang Lee",
+      "Sam Mendes",
+      "Joel Schumacher"
+    ],
+    "answer": "Ang Lee"
+  },
+  {
+    "id": "film-tv-305",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'Mad Max: Fury Road,' what is the name of the mesa-top stronghold ruled by Immortan Joe?",
+    "options": [
+      "Gas Town",
+      "The Bullet Farm",
+      "Bartertown",
+      "The Citadel"
+    ],
+    "answer": "The Citadel"
+  },
+  {
+    "id": "film-tv-306",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'The Simpsons,' what is the name of Bart Simpson's fourth-grade teacher for most of the series?",
+    "options": [
+      "Elizabeth Hoover",
+      "Gary Chalmers",
+      "Edna Krabappel",
+      "Seymour Skinner"
+    ],
+    "answer": "Edna Krabappel"
+  },
+  {
+    "id": "film-tv-307",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "Who provides the voice of Homer Simpson?",
+    "options": [
+      "Hank Azaria",
+      "Dan Castellaneta",
+      "Harry Shearer",
+      "Bill Oakley"
+    ],
+    "answer": "Dan Castellaneta"
+  },
+  {
+    "id": "film-tv-308",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In what year did 'The Simpsons' debut as a half-hour prime-time series?",
+    "options": [
+      "1987",
+      "1990",
+      "1991",
+      "1989"
+    ],
+    "answer": "1989"
+  },
+  {
+    "id": "film-tv-309",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "Who played Daenerys Targaryen in 'Game of Thrones'?",
+    "options": [
+      "Kit Harington",
+      "Emilia Clarke",
+      "Lena Headey",
+      "Sophie Turner"
+    ],
+    "answer": "Emilia Clarke"
+  },
+  {
+    "id": "film-tv-310",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'The Office' (US), what is the name of Dwight Schrute's family beet farm?",
+    "options": [
+      "Schrute Beet Farm",
+      "Shrute Acres",
+      "Schrute Family Farm",
+      "Schrute Farms"
+    ],
+    "answer": "Schrute Farms"
+  },
+  {
+    "id": "film-tv-311",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "Who directed the sequel 'Aliens' (1986)?",
+    "options": [
+      "Ridley Scott",
+      "David Fincher",
+      "James Cameron",
+      "Jean-Pierre Jeunet"
+    ],
+    "answer": "James Cameron"
+  },
+  {
+    "id": "film-tv-312",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "Who created the HBO series 'The Wire'?",
+    "options": [
+      "David Chase",
+      "David Milch",
+      "Vince Gilligan",
+      "David Simon"
+    ],
+    "answer": "David Simon"
+  },
+  {
+    "id": "film-tv-313",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'Futurama,' what is the name of the interplanetary delivery company the main characters work for?",
+    "options": [
+      "Galactic Express",
+      "Planet Delivery",
+      "Planet Express",
+      "Farnsworth Express"
+    ],
+    "answer": "Planet Express"
+  },
+  {
+    "id": "film-tv-314",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'Seinfeld,' what alias does George Costanza repeatedly use for his imaginary importer/exporter business?",
+    "options": [
+      "Bob Sacamano",
+      "Coco the Monkey",
+      "Lloyd Braun",
+      "Art Vandelay"
+    ],
+    "answer": "Art Vandelay"
+  },
+  {
+    "id": "film-tv-315",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "Who directed the 'Three Flavours Cornetto' trilogy ('Shaun of the Dead,' 'Hot Fuzz,' 'The World's End')?",
+    "options": [
+      "Simon Pegg",
+      "Edgar Wright",
+      "Nick Frost",
+      "Joe Cornish"
+    ],
+    "answer": "Edgar Wright"
+  },
+  {
+    "id": "film-tv-316",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'Shaun of the Dead,' what is the name of the pub where the survivors take shelter?",
+    "options": [
+      "The Crown",
+      "The Duke of York",
+      "The Winchester",
+      "The Railway"
+    ],
+    "answer": "The Winchester"
+  },
+  {
+    "id": "film-tv-317",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'The Princess Bride,' what is the name of the kind-hearted giant?",
+    "options": [
+      "Inigo",
+      "Vizzini",
+      "Westley",
+      "Fezzik"
+    ],
+    "answer": "Fezzik"
+  },
+  {
+    "id": "film-tv-318",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "Who played the giant Fezzik in 'The Princess Bride' (1987)?",
+    "options": [
+      "André Braugher",
+      "André the Giant",
+      "Hulk Hogan",
+      "Randy Savage"
+    ],
+    "answer": "André the Giant"
+  },
+  {
+    "id": "film-tv-319",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "Who played Dr. Frank-N-Furter in 'The Rocky Horror Picture Show' (1975)?",
+    "options": [
+      "Barry Bostwick",
+      "Tim Curry",
+      "Peter Hinwood",
+      "Richard O'Brien"
+    ],
+    "answer": "Tim Curry"
+  },
+  {
+    "id": "film-tv-320",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'Toy Story,' what is the name of the antagonistic boy next door who mutilates toys?",
+    "options": [
+      "Andy Davis",
+      "Al McWhiggin",
+      "Sid Phillips",
+      "Stinky Pete"
+    ],
+    "answer": "Sid Phillips"
+  },
+  {
+    "id": "film-tv-321",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In Pixar's 'Ratatouille,' what is the name of the rat who dreams of becoming a chef?",
+    "options": [
+      "Emile",
+      "Django",
+      "Skinner",
+      "Remy"
+    ],
+    "answer": "Remy"
+  },
+  {
+    "id": "film-tv-322",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In Pixar's 'Up,' what is the name of the Junior Wilderness Explorer who stows away on Carl's flying house?",
+    "options": [
+      "Kevin",
+      "Russell",
+      "Dug",
+      "Charles Muntz"
+    ],
+    "answer": "Russell"
+  },
+  {
+    "id": "film-tv-323",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'WALL-E,' what is the name of the sleek probe robot that WALL-E falls in love with?",
+    "options": [
+      "AUTO",
+      "MO",
+      "EVE",
+      "BURN-E"
+    ],
+    "answer": "EVE"
+  },
+  {
+    "id": "film-tv-324",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'Monsters, Inc.,' what nickname do Sulley and Mike give to the little girl who wanders into their world?",
+    "options": [
+      "Celia",
+      "Roz",
+      "Flint",
+      "Boo"
+    ],
+    "answer": "Boo"
+  },
+  {
+    "id": "film-tv-325",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In Pixar's 'Coco,' what is the name of the deceased singer Miguel idolizes and believes is his ancestor?",
+    "options": [
+      "Hector Rivera",
+      "Imelda Rivera",
+      "Ernesto de la Cruz",
+      "Frida Kahlo"
+    ],
+    "answer": "Ernesto de la Cruz"
+  },
+  {
+    "id": "film-tv-326",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'The Incredibles,' what is the surname of the superhero family?",
+    "options": [
+      "Incredible",
+      "Parr",
+      "Smith",
+      "Johnson"
+    ],
+    "answer": "Parr"
+  },
+  {
+    "id": "film-tv-327",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'Spider-Man: Into the Spider-Verse,' what is the designation of the older, disheveled Peter Parker variant who mentors Miles?",
+    "options": [
+      "Peter Porker",
+      "Peni Parker",
+      "Peter B. Parker",
+      "Spider-Man Noir"
+    ],
+    "answer": "Peter B. Parker"
+  },
+  {
+    "id": "film-tv-328",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "Who voices Miles Morales in 'Spider-Man: Into the Spider-Verse' (2018)?",
+    "options": [
+      "Donald Glover",
+      "Jake Johnson",
+      "Shameik Moore",
+      "Hailee Steinfeld"
+    ],
+    "answer": "Shameik Moore"
+  },
+  {
+    "id": "film-tv-329",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'Black Panther,' what is the name of the U.S. military-trained antagonist who seeks to claim the Wakandan throne?",
+    "options": [
+      "Ulysses Klaue",
+      "Erik Killmonger",
+      "M'Baku",
+      "Everett Ross"
+    ],
+    "answer": "Erik Killmonger"
+  },
+  {
+    "id": "film-tv-330",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'Guardians of the Galaxy,' what is the name of the genetically engineered, weapon-toting raccoon?",
+    "options": [
+      "Groot",
+      "Drax",
+      "Rocket",
+      "Yondu"
+    ],
+    "answer": "Rocket"
+  },
+  {
+    "id": "film-tv-331",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'Iron Man' (2008), what is the name of Tony Stark's assistant and eventual love interest?",
+    "options": [
+      "Natasha Romanoff",
+      "Maria Hill",
+      "Pepper Potts",
+      "Christine Everhart"
+    ],
+    "answer": "Pepper Potts"
+  },
+  {
+    "id": "film-tv-332",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'The Hunger Games,' what is the name of the dystopian nation where the story is set?",
+    "options": [
+      "Gilead",
+      "Oceania",
+      "Airstrip One",
+      "Panem"
+    ],
+    "answer": "Panem"
+  },
+  {
+    "id": "film-tv-333",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'The Matrix,' what is the name of the last human city, hidden deep underground?",
+    "options": [
+      "Midian",
+      "Avalon",
+      "Zion",
+      "Atlantis"
+    ],
+    "answer": "Zion"
+  },
+  {
+    "id": "film-tv-334",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "Who played FBI Special Agent Dale Cooper in 'Twin Peaks'?",
+    "options": [
+      "Michael Ontkean",
+      "Kyle MacLachlan",
+      "Jack Nance",
+      "Miguel Ferrer"
+    ],
+    "answer": "Kyle MacLachlan"
+  },
+  {
+    "id": "film-tv-335",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'Star Trek: The Next Generation,' what is the name of the android officer serving on the Enterprise-D?",
+    "options": [
+      "Lore",
+      "B-4",
+      "Data",
+      "Soong"
+    ],
+    "answer": "Data"
+  },
+  {
+    "id": "film-tv-336",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "Who played Captain Jean-Luc Picard in 'Star Trek: The Next Generation'?",
+    "options": [
+      "Jonathan Frakes",
+      "Patrick Stewart",
+      "Brent Spiner",
+      "Avery Brooks"
+    ],
+    "answer": "Patrick Stewart"
+  },
+  {
+    "id": "film-tv-337",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'Star Trek: The Original Series,' what is the name of the half-Vulcan, half-human science officer?",
+    "options": [
+      "Sarek",
+      "Tuvok",
+      "Saavik",
+      "Spock"
+    ],
+    "answer": "Spock"
+  },
+  {
+    "id": "film-tv-338",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "Who directed the Vietnam War film 'Platoon' (1986)?",
+    "options": [
+      "Stanley Kubrick",
+      "Francis Coppola",
+      "Oliver Stone",
+      "Michael Cimino"
+    ],
+    "answer": "Oliver Stone"
+  },
+  {
+    "id": "film-tv-339",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'Full Metal Jacket,' what is the military rank of the drill instructor famously portrayed by R. Lee Ermey?",
+    "options": [
+      "Staff Sergeant",
+      "Gunnery Sergeant",
+      "Master Sergeant",
+      "First Sergeant"
+    ],
+    "answer": "Gunnery Sergeant"
+  },
+  {
+    "id": "film-tv-340",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'The Silence of the Lambs,' what is the nickname of the serial killer Clarice Starling is tasked with hunting?",
+    "options": [
+      "Hannibal the Cannibal",
+      "The Tooth Fairy",
+      "Buffalo Bill",
+      "The Red Dragon"
+    ],
+    "answer": "Buffalo Bill"
+  },
+  {
+    "id": "film-tv-341",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'The Green Mile,' what is the name of the death-row inmate possessing miraculous healing powers?",
+    "options": [
+      "Paul Edgecomb",
+      "\"Wild Bill\" Wharton",
+      "Eduard Delacroix",
+      "John Coffey"
+    ],
+    "answer": "John Coffey"
+  },
+  {
+    "id": "film-tv-342",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "Who directed the 1986 coming-of-age film 'Stand By Me,' based on a Stephen King novella?",
+    "options": [
+      "Stephen King",
+      "John Carpenter",
+      "Rob Reiner",
+      "John Landis"
+    ],
+    "answer": "Rob Reiner"
+  },
+  {
+    "id": "film-tv-343",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "Who played Pennywise the Dancing Clown in the 2017 film adaptation of Stephen King's 'It'?",
+    "options": [
+      "Alexander Skarsgård",
+      "Bill Skarsgård",
+      "Finn Wolfhard",
+      "Andy Muschietti"
+    ],
+    "answer": "Bill Skarsgård"
+  },
+  {
+    "id": "film-tv-344",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'Citizen Kane' (1941), what is the name of Charles Foster Kane's sprawling Florida estate?",
+    "options": [
+      "San Simeon",
+      "Rosebud",
+      "Mandalay",
+      "Xanadu"
+    ],
+    "answer": "Xanadu"
+  },
+  {
+    "id": "film-tv-345",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "Who played the title role in Brian De Palma's 1976 film adaptation of 'Carrie'?",
+    "options": [
+      "Nancy Allen",
+      "Piper Laurie",
+      "Amy Irving",
+      "Sissy Spacek"
+    ],
+    "answer": "Sissy Spacek"
   }
 ]

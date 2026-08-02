@@ -14,6 +14,16 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't
 draft facts that overlap with these (pick different, more specific facts
 instead):
 - Who composed "The Four Seasons" (Antonio Vivaldi)
+- Who wrote the opera "Carmen" (Georges Bizet)
+- City where Stravinsky's "The Rite of Spring" caused a riot at its 1913
+  premiere (Paris)
+- Which Beatles album is considered one of the first concept albums
+  (Sgt. Pepper's Lonely Hearts Club Band) — already asked in reverse
+  ("which band released Sgt. Pepper's") too; this pairing is a closed
+  loop, avoid both directions
+- Which country reggae originated in (Jamaica) — already given away as
+  a premise in an existing question about reggae's precursor genre ("...
+  developed in Jamaica and influenced the birth of reggae")
 
 Use web search to verify every fact — do not rely on memory alone. Prefer
 authoritative sources (encyclopedic sources, music databases) over

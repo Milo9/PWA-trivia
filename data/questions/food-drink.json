@@ -4314,5 +4314,993 @@
     ],
     "answer": "1950s",
     "id": "food-drink-184"
+  },
+  {
+    "id": "food-drink-185",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "Which food additive, historically used as a vanilla substitute, is derived from the castor sacs of beavers?",
+    "options": [
+      "Ambergris",
+      "Castoreum",
+      "Isinglass",
+      "Tragacanth"
+    ],
+    "answer": "Castoreum"
+  },
+  {
+    "id": "food-drink-186",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "The first known written recipe for ice cream, from the 1660s, called for an unusual ingredient produced by sperm whales. What is it?",
+    "options": [
+      "Ambergris",
+      "Castoreum",
+      "Isinglass",
+      "Mace"
+    ],
+    "answer": "Ambergris"
+  },
+  {
+    "id": "food-drink-187",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What fruit, cultivated since Roman times, was known in medieval England by the vulgar nickname 'open-arse'?",
+    "options": [
+      "Medlar",
+      "Quince",
+      "Osage orange",
+      "Loquat"
+    ],
+    "answer": "Medlar"
+  },
+  {
+    "id": "food-drink-188",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "The softball-sized, inedible fruit of the Osage orange tree is believed by scientists to have evolved to be eaten by which extinct animals?",
+    "options": [
+      "Woolly mammoths",
+      "Giant ground sloths",
+      "American mastodons",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": "food-drink-189",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "Pule, the world's most expensive cheese as of 2026, is made primarily from the milk of which animal?",
+    "options": [
+      "Moose",
+      "Donkey",
+      "Yak",
+      "Camel"
+    ],
+    "answer": "Donkey"
+  },
+  {
+    "id": "food-drink-190",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "Casu marzu, a traditional Sardinian cheese, is distinctive for containing which live organisms?",
+    "options": [
+      "Cheese mites",
+      "Maggots",
+      "Ant larvae",
+      "Yeast cultures"
+    ],
+    "answer": "Maggots"
+  },
+  {
+    "id": "food-drink-191",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "Milbenkäse, a German specialty cheese, owes its flavor to the digestive action and feces of which tiny creatures?",
+    "options": [
+      "Cheese mites",
+      "Maggots",
+      "Springtails",
+      "Booklice"
+    ],
+    "answer": "Cheese mites"
+  },
+  {
+    "id": "food-drink-192",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "Despite its name, Welsh rabbit (or rarebit) contains no meat. What is its primary ingredient?",
+    "options": [
+      "Cheese",
+      "Rabbit",
+      "Lamb",
+      "Fish"
+    ],
+    "answer": "Cheese"
+  },
+  {
+    "id": "food-drink-193",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "In culinary terms, 'sweetbreads' refers to which part of an animal?",
+    "options": [
+      "Thymus or pancreas",
+      "Bone marrow",
+      "Tongue",
+      "Tail"
+    ],
+    "answer": "Thymus or pancreas"
+  },
+  {
+    "id": "food-drink-194",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "Head cheese, also known as souse, is a cold cut made from which part of a pig?",
+    "options": [
+      "The head",
+      "The trotters",
+      "The loin",
+      "The belly"
+    ],
+    "answer": "The head"
+  },
+  {
+    "id": "food-drink-195",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "Rocky Mountain oysters are a delicacy made from which animal part?",
+    "options": [
+      "Bull testicles",
+      "Sheep brains",
+      "Pork stomach",
+      "Beef tongue"
+    ],
+    "answer": "Bull testicles"
+  },
+  {
+    "id": "food-drink-196",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "A century egg, a preserved food in Chinese cuisine, is typically made from which base ingredient?",
+    "options": [
+      "Duck egg",
+      "Chicken egg",
+      "Quail egg",
+      "Goose egg"
+    ],
+    "answer": "Duck egg"
+  },
+  {
+    "id": "food-drink-197",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "In Tudor cuisine, a cockenthrice was a fantastical dish created by sewing together the upper body of a pig with the lower body of which bird?",
+    "options": [
+      "Turkey",
+      "Capon",
+      "Peacock",
+      "Goose"
+    ],
+    "answer": "Turkey"
+  },
+  {
+    "id": "food-drink-198",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "Frumenty, a dish with medieval origins, is a porridge made primarily from which grain?",
+    "options": [
+      "Wheat",
+      "Barley",
+      "Oats",
+      "Rye"
+    ],
+    "answer": "Wheat"
+  },
+  {
+    "id": "food-drink-199",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "Garum, a staple condiment in ancient Roman cuisine, was made from what base ingredient?",
+    "options": [
+      "Fermented fish",
+      "Fermented grapes",
+      "Fermented barley",
+      "Fermented milk"
+    ],
+    "answer": "Fermented fish"
+  },
+  {
+    "id": "food-drink-200",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "The word 'ketchup' is believed to derive from a Chinese term for a fermented sauce made from what?",
+    "options": [
+      "Pickled fish",
+      "Soybeans",
+      "Tomatoes",
+      "Mushrooms"
+    ],
+    "answer": "Pickled fish"
+  },
+  {
+    "id": "food-drink-201",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "The name 'mustard' comes from the Latin 'mustum ardens,' which refers to mixing ground seeds with what?",
+    "options": [
+      "Unfermented grape juice",
+      "Vinegar",
+      "Honey",
+      "Olive oil"
+    ],
+    "answer": "Unfermented grape juice"
+  },
+  {
+    "id": "food-drink-202",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "In 1795, which French leader offered a prize of 12,000 francs for a method of preserving food, leading to the development of canning?",
+    "options": [
+      "Napoleon Bonaparte",
+      "Louis XVI",
+      "Robespierre",
+      "Marat"
+    ],
+    "answer": "Napoleon Bonaparte"
+  },
+  {
+    "id": "food-drink-203",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "Who received the first British patent for a method of preserving food in airtight containers in 1810?",
+    "options": [
+      "Peter Durand",
+      "Nicolas Appert",
+      "Bryan Donkin",
+      "John Hall"
+    ],
+    "answer": "Peter Durand"
+  },
+  {
+    "id": "food-drink-204",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "Approximately how many distinct shapes of pasta are produced worldwide, according to the International Pasta Organization?",
+    "options": [
+      "Over 600",
+      "About 150",
+      "Exactly 350",
+      "Over 1000"
+    ],
+    "answer": "Over 600"
+  },
+  {
+    "id": "food-drink-205",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "Which U.S. president is credited with popularizing pasta in America after bringing back a pasta-making machine from Europe?",
+    "options": [
+      "Thomas Jefferson",
+      "George Washington",
+      "James Madison",
+      "John Adams"
+    ],
+    "answer": "Thomas Jefferson"
+  },
+  {
+    "id": "food-drink-206",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "Bread is one of the oldest prepared foods, with evidence of flatbread baking dating back approximately how many years?",
+    "options": [
+      "14,500 years",
+      "5,000 years",
+      "10,000 years",
+      "2,000 years"
+    ],
+    "answer": "14,500 years"
+  },
+  {
+    "id": "food-drink-207",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "Sourdough, one of the oldest forms of leavened bread, has been made for at least how many years?",
+    "options": [
+      "5,500 years",
+      "2,000 years",
+      "10,000 years",
+      "1,000 years"
+    ],
+    "answer": "5,500 years"
+  },
+  {
+    "id": "food-drink-208",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "In the 19th century, lobster was considered a food for which class of people in North America?",
+    "options": [
+      "The poor",
+      "The wealthy",
+      "Sailors",
+      "Prisoners"
+    ],
+    "answer": "The poor"
+  },
+  {
+    "id": "food-drink-209",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "Gravlax, a Nordic dish of cured salmon, is traditionally seasoned with which herb?",
+    "options": [
+      "Dill",
+      "Parsley",
+      "Thyme",
+      "Rosemary"
+    ],
+    "answer": "Dill"
+  },
+  {
+    "id": "food-drink-210",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "Stargazy pie, a traditional Cornish dish, is distinctive for having what protruding from the pastry crust?",
+    "options": [
+      "Fish heads",
+      "Fish tails",
+      "Crab claws",
+      "Mussels"
+    ],
+    "answer": "Fish heads"
+  },
+  {
+    "id": "food-drink-211",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "The Iroquois agricultural method of planting corn, beans, and squash together was known by what name?",
+    "options": [
+      "The Three Sisters",
+      "The Sacred Trio",
+      "The Companion Plants",
+      "The Harvest Trinity"
+    ],
+    "answer": "The Three Sisters"
+  },
+  {
+    "id": "food-drink-212",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "The Oreo cookie, first produced in 1912, was originally created as an imitation of which earlier cookie brand?",
+    "options": [
+      "Hydrox",
+      "Fig Newton",
+      "Nilla Wafer",
+      "Lorna Doone"
+    ],
+    "answer": "Hydrox"
+  },
+  {
+    "id": "food-drink-213",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "In 1995, Mars Inc. held a poll that resulted in blue M&M's replacing which color in the standard mix?",
+    "options": [
+      "Tan",
+      "Brown",
+      "Red",
+      "Green"
+    ],
+    "answer": "Tan"
+  },
+  {
+    "id": "food-drink-214",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "The first meal eaten on the moon by Neil Armstrong and Buzz Aldrin in 1969 consisted of bacon squares and what else?",
+    "options": [
+      "Cookies",
+      "Sandwiches",
+      "Fruit cocktail",
+      "Oatmeal"
+    ],
+    "answer": "Cookies"
+  },
+  {
+    "id": "food-drink-215",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "Chicken tikka masala, a popular dish in British cuisine, is widely believed to have been invented in which city?",
+    "options": [
+      "Glasgow",
+      "London",
+      "Birmingham",
+      "Manchester"
+    ],
+    "answer": "Glasgow"
+  },
+  {
+    "id": "food-drink-216",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "Despite its name, Caesar salad was invented in which country?",
+    "options": [
+      "Mexico",
+      "Italy",
+      "United States",
+      "France"
+    ],
+    "answer": "Mexico"
+  },
+  {
+    "id": "food-drink-217",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "The chocolate chip cookie was invented by Ruth Wakefield, who later sold the recipe to Nestlé for how much?",
+    "options": [
+      "$1",
+      "$100",
+      "$1,000",
+      "$10"
+    ],
+    "answer": "$1"
+  },
+  {
+    "id": "food-drink-218",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "The brownie is claimed to have been first created at which hotel in Chicago?",
+    "options": [
+      "Palmer House Hotel",
+      "Drake Hotel",
+      "Hilton Chicago",
+      "The Ritz-Carlton"
+    ],
+    "answer": "Palmer House Hotel"
+  },
+  {
+    "id": "food-drink-219",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "The popular story that potato chips were invented in 1853 by a chef named George Crum is considered by historians to be what?",
+    "options": [
+      "A myth",
+      "Fact",
+      "Partially true",
+      "Undocumented"
+    ],
+    "answer": "A myth"
+  },
+  {
+    "id": "food-drink-220",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "The word 'poutine' is widely accepted to be derived from which English word?",
+    "options": [
+      "Pudding",
+      "Poutine",
+      "Putty",
+      "Pouch"
+    ],
+    "answer": "Pudding"
+  },
+  {
+    "id": "food-drink-221",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "In Saskatchewan, Canada, a unique dessert pierogi is filled with which local berry?",
+    "options": [
+      "Saskatoon berry",
+      "Blueberry",
+      "Raspberry",
+      "Strawberry"
+    ],
+    "answer": "Saskatoon berry"
+  },
+  {
+    "id": "food-drink-222",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "Flapper pie, also known as the forgotten Prairie pie, is a custard pie topped with meringue and made with what type of crust?",
+    "options": [
+      "Graham cracker",
+      "Pastry",
+      "Shortbread",
+      "Phyllo"
+    ],
+    "answer": "Graham cracker"
+  },
+  {
+    "id": "food-drink-223",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "Fricot is a traditional stew from which Canadian region?",
+    "options": [
+      "Acadia",
+      "Quebec",
+      "Newfoundland",
+      "Ontario"
+    ],
+    "answer": "Acadia"
+  },
+  {
+    "id": "food-drink-224",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "Rappie pie, a dish from Nova Scotia, is made primarily from which vegetable?",
+    "options": [
+      "Potato",
+      "Carrot",
+      "Turnip",
+      "Parsnip"
+    ],
+    "answer": "Potato"
+  },
+  {
+    "id": "food-drink-225",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "Tiger tail ice cream, a Canadian flavor, is characterized by its orange base and black stripes of what flavor?",
+    "options": [
+      "Licorice",
+      "Chocolate",
+      "Vanilla",
+      "Coffee"
+    ],
+    "answer": "Licorice"
+  },
+  {
+    "id": "food-drink-226",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "Akutaq, also known as Eskimo ice cream, traditionally contains no dairy but is made with what base ingredient?",
+    "options": [
+      "Animal fat",
+      "Fish roe",
+      "Berries",
+      "Snow"
+    ],
+    "answer": "Animal fat"
+  },
+  {
+    "id": "food-drink-227",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "Escamoles, a Mexican delicacy sometimes called 'insect caviar,' are the larvae of which insect?",
+    "options": [
+      "Ants",
+      "Bees",
+      "Wasps",
+      "Beetles"
+    ],
+    "answer": "Ants"
+  },
+  {
+    "id": "food-drink-228",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "Mahlab, an aromatic spice used in Middle Eastern baking, is made from the ground seeds of which fruit?",
+    "options": [
+      "St Lucie cherry",
+      "Almond",
+      "Apricot",
+      "Plum"
+    ],
+    "answer": "St Lucie cherry"
+  },
+  {
+    "id": "food-drink-229",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "Silphium, a plant highly prized in ancient Roman cuisine, is notable for what status today?",
+    "options": [
+      "Extinct",
+      "Critically endangered",
+      "Cultivated widely",
+      "Rediscovered"
+    ],
+    "answer": "Extinct"
+  },
+  {
+    "id": "food-drink-230",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "Murri and kamakh were medieval Near Eastern condiments made from fermented barley dough that was wrapped in what?",
+    "options": [
+      "Fig leaves",
+      "Grape leaves",
+      "Cabbage leaves",
+      "Corn husks"
+    ],
+    "answer": "Fig leaves"
+  },
+  {
+    "id": "food-drink-231",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "Mersu, an ancient Mesopotamian dessert dating back to 2100 BCE, contained unusual ingredients including what?",
+    "options": [
+      "Onions and garlic",
+      "Honey and dates",
+      "Nuts and figs",
+      "Cheese and bread"
+    ],
+    "answer": "Onions and garlic"
+  },
+  {
+    "id": "food-drink-232",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "Fairy butter, a colonial American dessert spread, was typically made by combining butter with what?",
+    "options": [
+      "Rose water and sugar",
+      "Honey and spices",
+      "Cream and fruit",
+      "Egg yolks and wine"
+    ],
+    "answer": "Rose water and sugar"
+  },
+  {
+    "id": "food-drink-233",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "Despite its name, squab pie is traditionally made with which meat?",
+    "options": [
+      "Lamb",
+      "Pigeon",
+      "Chicken",
+      "Pork"
+    ],
+    "answer": "Lamb"
+  },
+  {
+    "id": "food-drink-234",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "Hodge-podge, a creamy summer stew from the Maritime provinces of Canada, has a name that derives from which language?",
+    "options": [
+      "Old French",
+      "English",
+      "Acadian French",
+      "Mi'kmaq"
+    ],
+    "answer": "Old French"
+  },
+  {
+    "id": "food-drink-235",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "Bannock is a simple type of bread traditionally associated with which indigenous peoples of North America?",
+    "options": [
+      "First Nations",
+      "Inuit",
+      "Métis",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": "food-drink-236",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "Butter tarts are a classic dessert from which country?",
+    "options": [
+      "Canada",
+      "United States",
+      "United Kingdom",
+      "Australia"
+    ],
+    "answer": "Canada"
+  },
+  {
+    "id": "food-drink-237",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "Tire d'érable sur la neige, a Canadian treat, is made by pouring hot maple syrup onto what?",
+    "options": [
+      "Snow",
+      "Ice",
+      "Sand",
+      "Marble"
+    ],
+    "answer": "Snow"
+  },
+  {
+    "id": "food-drink-238",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "Dulse, a snack popular in Atlantic Canada, is made from what?",
+    "options": [
+      "Dried seaweed",
+      "Dried fish",
+      "Dried meat",
+      "Dried fruit"
+    ],
+    "answer": "Dried seaweed"
+  },
+  {
+    "id": "food-drink-239",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "Fiddleheads, a seasonal vegetable in Nova Scotia, are the curled fronds of which plant?",
+    "options": [
+      "Ostrich fern",
+      "Bracken fern",
+      "Cinnamon fern",
+      "Royal fern"
+    ],
+    "answer": "Ostrich fern"
+  },
+  {
+    "id": "food-drink-240",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "Seal flipper pie is a traditional dish from which Canadian province?",
+    "options": [
+      "Newfoundland and Labrador",
+      "Nova Scotia",
+      "Prince Edward Island",
+      "New Brunswick"
+    ],
+    "answer": "Newfoundland and Labrador"
+  },
+  {
+    "id": "food-drink-241",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "Beaver tail, a historical food in North America, was prepared by which indigenous peoples?",
+    "options": [
+      "Odawa and Ojibwe",
+      "Cree",
+      "Inuit",
+      "Iroquois"
+    ],
+    "answer": "Odawa and Ojibwe"
+  },
+  {
+    "id": "food-drink-242",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "Isinglass, a historical thickening agent, is derived from the swim bladders of which fish?",
+    "options": [
+      "Sturgeon",
+      "Cod",
+      "Salmon",
+      "Herring"
+    ],
+    "answer": "Sturgeon"
+  },
+  {
+    "id": "food-drink-243",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "Which ancient Roman condiment, made from fermented fish, is considered a predecessor to Worcestershire sauce?",
+    "options": [
+      "Garum",
+      "Murri",
+      "Kamakh",
+      "Liquamen"
+    ],
+    "answer": "Garum"
+  },
+  {
+    "id": "food-drink-244",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "The first known recipe for ice cream, written in the 1660s, was authored by which English noblewoman?",
+    "options": [
+      "Lady Anne Fanshawe",
+      "Queen Elizabeth I",
+      "Lady Mary Wortley Montagu",
+      "Duchess of Newcastle"
+    ],
+    "answer": "Lady Anne Fanshawe"
+  },
+  {
+    "id": "food-drink-245",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "The medlar fruit must undergo a process called 'bletting' before it is edible. What does this process involve?",
+    "options": [
+      "Partial rotting",
+      "Freezing",
+      "Drying",
+      "Fermenting"
+    ],
+    "answer": "Partial rotting"
+  },
+  {
+    "id": "food-drink-246",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "Pule cheese is produced exclusively at which location?",
+    "options": [
+      "Zasavica Special Nature Reserve",
+      "Parma",
+      "Gouda",
+      "Roquefort"
+    ],
+    "answer": "Zasavica Special Nature Reserve"
+  },
+  {
+    "id": "food-drink-247",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "Casu marzu is made from the milk of which animal?",
+    "options": [
+      "Sheep",
+      "Goat",
+      "Cow",
+      "Donkey"
+    ],
+    "answer": "Sheep"
+  },
+  {
+    "id": "food-drink-248",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "Which cheese is made with the help of cheese mites, which contribute to its distinctive flavor?",
+    "options": [
+      "Milbenkäse",
+      "Mimolette",
+      "Cantal",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": "food-drink-249",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "The Hydrox cookie, which inspired the Oreo, was introduced in what year?",
+    "options": [
+      "1908",
+      "1912",
+      "1920",
+      "1895"
+    ],
+    "answer": "1908"
+  },
+  {
+    "id": "food-drink-250",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "Which color of M&M was introduced in 1995 after a public vote?",
+    "options": [
+      "Blue",
+      "Purple",
+      "Pink",
+      "Green"
+    ],
+    "answer": "Blue"
+  },
+  {
+    "id": "food-drink-251",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "The first meal eaten on the moon included bacon squares and sugar cookies. What fruit drink was also included?",
+    "options": [
+      "Peach drink",
+      "Orange drink",
+      "Apple drink",
+      "Grape drink"
+    ],
+    "answer": "Peach drink"
+  },
+  {
+    "id": "food-drink-252",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "Ruth Wakefield invented which iconic cookie?",
+    "options": [
+      "Chocolate chip cookie",
+      "Oreo",
+      "Fig Newton",
+      "Nilla Wafer"
+    ],
+    "answer": "Chocolate chip cookie"
+  },
+  {
+    "id": "food-drink-253",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "Rappie pie, a Nova Scotian dish, is made from grated potatoes and what other main ingredient?",
+    "options": [
+      "Meat",
+      "Fish",
+      "Cheese",
+      "Vegetables"
+    ],
+    "answer": "Meat"
+  },
+  {
+    "id": "food-drink-254",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "Escamoles, known as 'insect caviar,' are harvested from the roots of which plant?",
+    "options": [
+      "Agave",
+      "Corn",
+      "Wheat",
+      "Rice"
+    ],
+    "answer": "Agave"
+  },
+  {
+    "id": "food-drink-255",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "The ancient Roman spice silphium is believed to have gone extinct due to overharvesting. What was it used for?",
+    "options": [
+      "Culinary and medicinal purposes",
+      "Perfume",
+      "Religious rituals",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": "food-drink-256",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "Murri, a medieval Near Eastern condiment, was made by fermenting barley dough wrapped in fig leaves for how many days?",
+    "options": [
+      "40 days",
+      "30 days",
+      "60 days",
+      "90 days"
+    ],
+    "answer": "40 days"
+  },
+  {
+    "id": "food-drink-257",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "Mersu, an ancient Mesopotamian dessert, was made with onions and garlic. What was its primary sweetener?",
+    "options": [
+      "Dates",
+      "Honey",
+      "Sugar",
+      "Fruit juice"
+    ],
+    "answer": "Dates"
+  },
+  {
+    "id": "food-drink-258",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "Glamorgan sausages are a Welsh specialty that are made without meat. What is their main ingredient?",
+    "options": [
+      "Cheese and leek",
+      "Potato",
+      "Beans",
+      "Breadcrumbs"
+    ],
+    "answer": "Cheese and leek"
+  },
+  {
+    "id": "food-drink-259",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "Hodge-podge, a Canadian stew, gets its name from the Old French word 'hochepot,' meaning what?",
+    "options": [
+      "Shaken pot",
+      "Mixed pot",
+      "Hot pot",
+      "Hearty pot"
+    ],
+    "answer": "Shaken pot"
+  },
+  {
+    "id": "food-drink-260",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "Dulse, a popular snack in Atlantic Canada, is made from what type of seaweed?",
+    "options": [
+      "Red seaweed",
+      "Brown seaweed",
+      "Green seaweed",
+      "Blue seaweed"
+    ],
+    "answer": "Red seaweed"
   }
 ]

@@ -2416,5 +2416,1240 @@
       "Freddie Mercury"
     ],
     "answer": "Freddie Mercury"
+  },
+  {
+    "id": "music-013",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Composer Ludwig van Beethoven was so meticulous about his coffee that he counted exactly how many beans per cup?",
+    "options": [
+      "80",
+      "40",
+      "100",
+      "60"
+    ],
+    "answer": "60"
+  },
+  {
+    "id": "music-014",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which composer wrote a secular cantata known as the 'Coffee Cantata' (BWV 211) around 1732-1735?",
+    "options": [
+      "Henry Purcell",
+      "Antonio Vivaldi",
+      "Johann Sebastian Bach",
+      "George Frideric Handel"
+    ],
+    "answer": "Johann Sebastian Bach"
+  },
+  {
+    "id": "music-015",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Joseph Haydn's Symphony No. 94 is commonly known as the 'Surprise Symphony.' According to one account, Haydn was inspired to add the sudden fortissimo chord after hearing a front-row patron doing what?",
+    "options": [
+      "Coughing",
+      "Leaving",
+      "Talking",
+      "Snoring"
+    ],
+    "answer": "Snoring"
+  },
+  {
+    "id": "music-016",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Franz Schubert's famous 'Unfinished Symphony' (Symphony No. 8) was started in 1822 but left with only how many completed movements?",
+    "options": [
+      "One",
+      "Three",
+      "Two",
+      "Four"
+    ],
+    "answer": "Two"
+  },
+  {
+    "id": "music-017",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Claude Debussy's famous piano piece 'Clair de Lune' takes its title from a poem by which French poet?",
+    "options": [
+      "Charles Baudelaire",
+      "Arthur Rimbaud",
+      "Stéphane Mallarmé",
+      "Paul Verlaine"
+    ],
+    "answer": "Paul Verlaine"
+  },
+  {
+    "id": "music-018",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Maurice Ravel's 'Boléro' was commissioned by which Russian ballerina in the late 1920s?",
+    "options": [
+      "Anna Pavlova",
+      "Sergei Diaghilev",
+      "Vaslav Nijinsky",
+      "Ida Rubinstein"
+    ],
+    "answer": "Ida Rubinstein"
+  },
+  {
+    "id": "music-019",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Norwegian composer Edvard Grieg kept what object in his pocket and would rub it for good luck before every concert?",
+    "options": [
+      "A four-leaf clover",
+      "A rabbit's foot",
+      "A small frog figurine",
+      "A horseshoe charm"
+    ],
+    "answer": "A small frog figurine"
+  },
+  {
+    "id": "music-020",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Conductor Hans von Bülow popularized the concept of the 'Three Bs' of classical music. Which three composers did this refer to?",
+    "options": [
+      "Bach, Beethoven, Berlioz",
+      "Beethoven, Brahms, Bartók",
+      "Bach, Beethoven, Brahms",
+      "Bach, Brahms, Bruckner"
+    ],
+    "answer": "Bach, Beethoven, Brahms"
+  },
+  {
+    "id": "music-021",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which composer preferred playing the viola over the violin when performing chamber music with friends?",
+    "options": [
+      "Wolfgang Amadeus Mozart",
+      "Franz Schubert",
+      "Ludwig van Beethoven",
+      "Felix Mendelssohn"
+    ],
+    "answer": "Wolfgang Amadeus Mozart"
+  },
+  {
+    "id": "music-022",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 19th-century virtuoso pianist is credited with inventing the word 'recital' for solo concert performances?",
+    "options": [
+      "Clara Schumann",
+      "Robert Schumann",
+      "Franz Liszt",
+      "Frédéric Chopin"
+    ],
+    "answer": "Franz Liszt"
+  },
+  {
+    "id": "music-023",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Arnold Schoenberg suffered from triskaidekaphobia, which is a fear of what?",
+    "options": [
+      "Black cats",
+      "Friday the 13th",
+      "Mirrors",
+      "The number 13"
+    ],
+    "answer": "The number 13"
+  },
+  {
+    "id": "music-024",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which famous opera by Giacomo Puccini was left unfinished at the time of his death in 1924, and whose premiere under Arturo Toscanini stopped at the point where Puccini had stopped writing?",
+    "options": [
+      "La Bohème",
+      "Madama Butterfly",
+      "Tosca",
+      "Turandot"
+    ],
+    "answer": "Turandot"
+  },
+  {
+    "id": "music-025",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "George Frideric Handel composed his famous oratorio 'Messiah' in approximately how many days in 1741?",
+    "options": [
+      "7 days",
+      "14 days",
+      "24 days",
+      "30 days"
+    ],
+    "answer": "24 days"
+  },
+  {
+    "id": "music-026",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Leo Fender, the inventor of the iconic Fender guitars, never learned to play what instrument?",
+    "options": [
+      "Bass",
+      "Drums",
+      "Piano",
+      "Guitar"
+    ],
+    "answer": "Guitar"
+  },
+  {
+    "id": "music-027",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Before becoming a famous musician, Elvis Presley worked as what occupation for Crown Electric Company in 1954?",
+    "options": [
+      "Truck driver",
+      "Electrician",
+      "Mechanic",
+      "Carpenter"
+    ],
+    "answer": "Truck driver"
+  },
+  {
+    "id": "music-028",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Before his music career took off, Sting (Gordon Sumner) worked as what profession, teaching English and music to children?",
+    "options": [
+      "Coach",
+      "School teacher",
+      "Librarian",
+      "Social worker"
+    ],
+    "answer": "School teacher"
+  },
+  {
+    "id": "music-029",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Before becoming famous, Madonna briefly worked at which fast-food chain and was fired for squirting jelly at a customer?",
+    "options": [
+      "McDonald's",
+      "Burger King",
+      "Starbucks",
+      "Dunkin' Donuts"
+    ],
+    "answer": "Dunkin' Donuts"
+  },
+  {
+    "id": "music-030",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Before his music career, country legend Johnny Cash served in which branch of the U.S. military from 1950 to 1954?",
+    "options": [
+      "Army",
+      "Marines",
+      "Air Force",
+      "Navy"
+    ],
+    "answer": "Air Force"
+  },
+  {
+    "id": "music-031",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Eminem's song 'Rap God' holds a Guinness World Record for having how many words in a hit single?",
+    "options": [
+      "900",
+      "2,000",
+      "1,200",
+      "1,560"
+    ],
+    "answer": "1,560"
+  },
+  {
+    "id": "music-032",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Canadian astronaut Chris Hadfield released an album in 2015 that was recorded where?",
+    "options": [
+      "On the International Space Station",
+      "On the Moon",
+      "In a submarine",
+      "On Mars"
+    ],
+    "answer": "On the International Space Station"
+  },
+  {
+    "id": "music-033",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Rod Stewart holds a record for the largest free rock concert attendance, performing for approximately how many people at Copacabana Beach in 1994?",
+    "options": [
+      "3.5 million",
+      "500,000",
+      "2 million",
+      "1 million"
+    ],
+    "answer": "3.5 million"
+  },
+  {
+    "id": "music-034",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "The term 'disco' derives from the French word 'discothèque,' which originally referred to what type of venue?",
+    "options": [
+      "A dance nightclub",
+      "A concert hall",
+      "A radio station",
+      "A record store"
+    ],
+    "answer": "A dance nightclub"
+  },
+  {
+    "id": "music-035",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1951 song, credited to Jackie Brenston and his Delta Cats (actually Ike Turner's band), is often cited as the first rock and roll record?",
+    "options": [
+      "Rock Around the Clock",
+      "Hound Dog",
+      "That's All Right",
+      "Rocket 88"
+    ],
+    "answer": "Rocket 88"
+  },
+  {
+    "id": "music-036",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "In 1965, which song became the first song ever played in space, performed by astronauts using a harmonica and sleigh bells aboard Gemini 6?",
+    "options": [
+      "Twinkle Twinkle Little Star",
+      "The Star-Spangled Banner",
+      "Jingle Bells",
+      "Happy Birthday"
+    ],
+    "answer": "Jingle Bells"
+  },
+  {
+    "id": "music-037",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "The oldest national anthem in continuous use is 'Wilhelmus,' which belongs to which country?",
+    "options": [
+      "Sweden",
+      "The Netherlands",
+      "Belgium",
+      "Denmark"
+    ],
+    "answer": "The Netherlands"
+  },
+  {
+    "id": "music-038",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "The theremin, one of the first electronic musical instruments, was invented around 1920 by which Russian physicist?",
+    "options": [
+      "Nikola Tesla",
+      "Thomas Edison",
+      "Léon Theremin",
+      "Alexander Graham Bell"
+    ],
+    "answer": "Léon Theremin"
+  },
+  {
+    "id": "music-039",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which Belgian instrument maker invented the saxophone in the early 1840s and patented it in 1846?",
+    "options": [
+      "Henri Peeters",
+      "Nicolas Léonard Sadi Carnot",
+      "Charles Goodyear",
+      "Adolphe Sax"
+    ],
+    "answer": "Adolphe Sax"
+  },
+  {
+    "id": "music-040",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Les Paul is credited with pioneering the solid-body electric guitar, and his prototype, called 'The Log,' was made from what?",
+    "options": [
+      "A bamboo pole",
+      "A steel rod",
+      "A 4x4 piece of wood",
+      "A hollow pipe"
+    ],
+    "answer": "A 4x4 piece of wood"
+  },
+  {
+    "id": "music-041",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "What was the first music video ever aired on MTV when it launched on August 1, 1981?",
+    "options": [
+      "Video Killed the Radio Star",
+      "You Better Run",
+      "She Won't Dance With Me",
+      "Sailing"
+    ],
+    "answer": "Video Killed the Radio Star"
+  },
+  {
+    "id": "music-042",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "The first Grammy Awards ceremony was held in what year?",
+    "options": [
+      "1959",
+      "1970",
+      "1950",
+      "1965"
+    ],
+    "answer": "1959"
+  },
+  {
+    "id": "music-043",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Thomas Edison invented the phonograph in what year?",
+    "options": [
+      "1877",
+      "1885",
+      "1890",
+      "1900"
+    ],
+    "answer": "1877"
+  },
+  {
+    "id": "music-044",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "The lyrics to 'The Star-Spangled Banner' were written by Francis Scott Key after witnessing the bombardment of which fort in 1814?",
+    "options": [
+      "Fort Sumter",
+      "Fort Ticonderoga",
+      "Fort McHenry",
+      "Fort Knox"
+    ],
+    "answer": "Fort McHenry"
+  },
+  {
+    "id": "music-045",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Miles Davis's landmark jazz album 'Kind of Blue' was recorded in how many sessions in 1959?",
+    "options": [
+      "One",
+      "Five",
+      "Three",
+      "Seven"
+    ],
+    "answer": "Three"
+  },
+  {
+    "id": "music-046",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "The Beatles' final paid concert took place on August 29, 1966, at which venue?",
+    "options": [
+      "Shea Stadium",
+      "Hollywood Bowl",
+      "Royal Albert Hall",
+      "Candlestick Park"
+    ],
+    "answer": "Candlestick Park"
+  },
+  {
+    "id": "music-047",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Nirvana's breakthrough album 'Nevermind' was released in what month and year?",
+    "options": [
+      "June 1992",
+      "September 1991",
+      "January 1990",
+      "March 1993"
+    ],
+    "answer": "September 1991"
+  },
+  {
+    "id": "music-048",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "As of 2026, which album holds the record for the most cumulative weeks on the Billboard 200 chart?",
+    "options": [
+      "The Dark Side of the Moon",
+      "Rumours",
+      "Thriller",
+      "Back in Black"
+    ],
+    "answer": "The Dark Side of the Moon"
+  },
+  {
+    "id": "music-049",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Queen's 'Bohemian Rhapsody' originally spent how many weeks at number one on the UK chart in 1975-76?",
+    "options": [
+      "Four",
+      "Nine",
+      "Twelve",
+      "Seven"
+    ],
+    "answer": "Nine"
+  },
+  {
+    "id": "music-050",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Despite becoming FM radio's most requested song, which Led Zeppelin song was never released as a commercial single in the United States?",
+    "options": [
+      "Black Dog",
+      "Whole Lotta Love",
+      "Kashmir",
+      "Stairway to Heaven"
+    ],
+    "answer": "Stairway to Heaven"
+  },
+  {
+    "id": "music-051",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Frédéric Chopin wrote almost exclusively for which instrument?",
+    "options": [
+      "Flute",
+      "Violin",
+      "Piano",
+      "Cello"
+    ],
+    "answer": "Piano"
+  },
+  {
+    "id": "music-052",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Robert Schumann and Clara Wieck were married on September 12, 1840, the day before Clara's twenty-first birthday. Clara's father, Friedrich Wieck, was known for being what?",
+    "options": [
+      "A famous opera singer",
+      "The composer of their wedding march",
+      "Fiercely opposed to the marriage",
+      "The mayor of Leipzig"
+    ],
+    "answer": "Fiercely opposed to the marriage"
+  },
+  {
+    "id": "music-053",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Mozart's commonly known middle name 'Amadeus' is the Latin form of what Greek name, meaning 'lover of God'?",
+    "options": [
+      "Alexandros",
+      "Andreas",
+      "Demetrius",
+      "Theophilus"
+    ],
+    "answer": "Theophilus"
+  },
+  {
+    "id": "music-054",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Pyotr Ilyich Tchaikovsky's '1812 Overture' is famous for calling for what unusual instrument in its orchestration?",
+    "options": [
+      "A glass harmonica",
+      "Actual cannon fire",
+      "Church bells and cannons",
+      "A full choir"
+    ],
+    "answer": "Actual cannon fire"
+  },
+  {
+    "id": "music-055",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "The first jazz recording was made in 1917 by which band?",
+    "options": [
+      "King Oliver's Creole Jazz Band",
+      "Original Dixieland Jass Band",
+      "Jelly Roll Morton's Red Hot Peppers",
+      "Louis Armstrong's Hot Five"
+    ],
+    "answer": "Original Dixieland Jass Band"
+  },
+  {
+    "id": "music-056",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Reggaeton's origins are debated, but many trace it to which city, where descendants of West Indian workers created 'reggae en español'?",
+    "options": [
+      "Kingston",
+      "Panama City",
+      "Miami",
+      "San Juan"
+    ],
+    "answer": "Panama City"
+  },
+  {
+    "id": "music-057",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1979 song by The Sugarhill Gang is widely recognized as the first rap single to achieve mainstream commercial success?",
+    "options": [
+      "Planet Rock",
+      "The Message",
+      "White Lines",
+      "Rapper's Delight"
+    ],
+    "answer": "Rapper's Delight"
+  },
+  {
+    "id": "music-058",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Robert Moog introduced the first complete voltage-controlled modular synthesizer, known as the Moog synthesizer, in what year?",
+    "options": [
+      "1958",
+      "1970",
+      "1964",
+      "1975"
+    ],
+    "answer": "1964"
+  },
+  {
+    "id": "music-059",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Paul Tutmarc invented the first solid-body electric bass guitar in 1935-36. What was his instrument called?",
+    "options": [
+      "Gibson EB-1",
+      "Audiovox 736 Bass Fiddle",
+      "Fender Precision Bass",
+      "Rickenbacker 4000"
+    ],
+    "answer": "Audiovox 736 Bass Fiddle"
+  },
+  {
+    "id": "music-060",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "The mechanical metronome was patented in 1815 by which German inventor, though he may have copied the design from Dietrich Nikolaus Winkel?",
+    "options": [
+      "Johann Christoph Denner",
+      "Theobald Boehm",
+      "Friedrich Buschmann",
+      "Johann Nepomuk Maelzel"
+    ],
+    "answer": "Johann Nepomuk Maelzel"
+  },
+  {
+    "id": "music-061",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "John Cage's controversial composition '4′33″' (1952) consists entirely of what?",
+    "options": [
+      "Spoken poetry",
+      "A single sustained note",
+      "Random white noise",
+      "Silence with ambient sound"
+    ],
+    "answer": "Silence with ambient sound"
+  },
+  {
+    "id": "music-062",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Morton Feldman's String Quartet No. 2 (1983) is one of the longest compositions ever written. Approximately how long does a performance last?",
+    "options": [
+      "Two hours",
+      "Eight hours",
+      "Four hours",
+      "Six hours"
+    ],
+    "answer": "Six hours"
+  },
+  {
+    "id": "music-063",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Karlheinz Stockhausen's 'Helicopter String Quartet' (1995) requires the four string players to perform from where?",
+    "options": [
+      "Inside four separate helicopters",
+      "On moving trains",
+      "Underwater",
+      "Four different countries"
+    ],
+    "answer": "Inside four separate helicopters"
+  },
+  {
+    "id": "music-064",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Björk's 1997 album 'Homogenic' featured cover art designed by which fashion designer?",
+    "options": [
+      "Alexander McQueen",
+      "Jean-Paul Gaultier",
+      "Gianni Versace",
+      "Vivienne Westwood"
+    ],
+    "answer": "Alexander McQueen"
+  },
+  {
+    "id": "music-065",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "David Bowie famously 'killed off' his Ziggy Stardust persona on stage during a concert on what date?",
+    "options": [
+      "May 1, 1975",
+      "July 3, 1973",
+      "August 15, 1974",
+      "June 16, 1972"
+    ],
+    "answer": "July 3, 1973"
+  },
+  {
+    "id": "music-066",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "In 1993, Prince changed his name to an unpronounceable symbol during a dispute with which record label?",
+    "options": [
+      "Warner Bros. Records",
+      "Motown",
+      "Columbia Records",
+      "Atlantic Records"
+    ],
+    "answer": "Warner Bros. Records"
+  },
+  {
+    "id": "music-067",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "The banjo originated in West Africa and was created by enslaved Africans in which region before entering mainstream American music?",
+    "options": [
+      "The Caribbean and colonial North America",
+      "South America",
+      "Europe",
+      "West Africa"
+    ],
+    "answer": "The Caribbean and colonial North America"
+  },
+  {
+    "id": "music-068",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "The ukulele, though associated with Hawaii, is actually of which European origin?",
+    "options": [
+      "Spanish",
+      "Italian",
+      "French",
+      "Portuguese"
+    ],
+    "answer": "Portuguese"
+  },
+  {
+    "id": "music-069",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "The piano was invented around 1700 by which Italian harpsichord maker?",
+    "options": [
+      "Johann Andreas Stein",
+      "Domenico Scarlatti",
+      "Gottfried Silbermann",
+      "Bartolomeo Cristofori"
+    ],
+    "answer": "Bartolomeo Cristofori"
+  },
+  {
+    "id": "music-070",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "The cello first emerged in Northern Italy in the first half of the 16th century, with its invention credited to which instrument maker?",
+    "options": [
+      "Gasparo da Salò",
+      "Andrea Amati",
+      "Guarneri del Gesù",
+      "Antonio Stradivari"
+    ],
+    "answer": "Andrea Amati"
+  },
+  {
+    "id": "music-071",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "The first working brass instrument valve was created in 1818 by Heinrich Stölzel and which collaborator?",
+    "options": [
+      "Adolphe Sax",
+      "Johann Christoph Denner",
+      "Theobald Boehm",
+      "Friedrich Blühmel"
+    ],
+    "answer": "Friedrich Blühmel"
+  },
+  {
+    "id": "music-072",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "The modern drum set was developed in which country in the 1860s?",
+    "options": [
+      "Japan",
+      "Germany",
+      "United States",
+      "United Kingdom"
+    ],
+    "answer": "United States"
+  },
+  {
+    "id": "music-073",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "The phrase 'rock and roll' was popularized on mainstream radio in the early 1950s by which disc jockey from Cleveland, Ohio?",
+    "options": [
+      "Wolfman Jack",
+      "Dick Clark",
+      "Alan Freed",
+      "Casey Kasem"
+    ],
+    "answer": "Alan Freed"
+  },
+  {
+    "id": "music-074",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "As of 2026, which song holds the record for the most streams on Spotify of all time?",
+    "options": [
+      "Blinding Lights by The Weeknd",
+      "Shape of You by Ed Sheeran",
+      "Despacito by Luis Fonsi",
+      "Someone Like You by Adele"
+    ],
+    "answer": "Blinding Lights by The Weeknd"
+  },
+  {
+    "id": "music-075",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "As of 2026, which artist holds the record for the most Grammy Awards won in history?",
+    "options": [
+      "Chick Corea",
+      "Beyoncé",
+      "Quincy Jones",
+      "Georg Solti"
+    ],
+    "answer": "Beyoncé"
+  },
+  {
+    "id": "music-076",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "The 'Lady Blunt' Stradivarius violin set a record for the most expensive musical instrument sold at auction. In what year was this violin made?",
+    "options": [
+      "1690",
+      "1716",
+      "1721",
+      "1730"
+    ],
+    "answer": "1721"
+  },
+  {
+    "id": "music-077",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "The Beatles' song 'Yesterday' (1965) holds a record for being one of the most covered songs in history, with approximately how many cover versions?",
+    "options": [
+      "Over 1,000",
+      "Over 500",
+      "Over 2,200",
+      "Over 5,000"
+    ],
+    "answer": "Over 2,200"
+  },
+  {
+    "id": "music-078",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "The Woodstock Music Festival of 1969 was held in Bethel, New York, and attracted an estimated audience of approximately how many people?",
+    "options": [
+      "1 million",
+      "100,000",
+      "250,000",
+      "400,000 to 500,000"
+    ],
+    "answer": "400,000 to 500,000"
+  },
+  {
+    "id": "music-079",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Unlike most opera composers, Richard Wagner did something unusual for all of his stage works. What was it?",
+    "options": [
+      "He composed them in reverse order",
+      "He wrote both the librettos and the music",
+      "He used only male singers",
+      "He wrote them in Latin"
+    ],
+    "answer": "He wrote both the librettos and the music"
+  },
+  {
+    "id": "music-080",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Giuseppe Verdi's opera 'Aida' was commissioned by the Khedive of Egypt to celebrate the opening of what?",
+    "options": [
+      "The Alexandria Library",
+      "The Suez Canal",
+      "The Luxor Temple",
+      "The Cairo Opera House"
+    ],
+    "answer": "The Cairo Opera House"
+  },
+  {
+    "id": "music-081",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Puccini's opera 'La Bohème' is based on which novel by Henry Murger?",
+    "options": [
+      "Les Misérables",
+      "Madame Bovary",
+      "Scènes de la vie de Bohème",
+      "The Hunchback of Notre-Dame"
+    ],
+    "answer": "Scènes de la vie de Bohème"
+  },
+  {
+    "id": "music-082",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Wolfgang Amadeus Mozart wrote his first symphony (Symphony No. 1 in E-flat major, K. 16) at what age?",
+    "options": [
+      "Twelve",
+      "Sixteen",
+      "Eight",
+      "Five"
+    ],
+    "answer": "Eight"
+  },
+  {
+    "id": "music-083",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "At the premiere of Beethoven's Symphony No. 9 in 1824, the deaf composer continued conducting after the orchestra had finished. Who had to turn him around to see the audience's applause?",
+    "options": [
+      "His assistant conductor",
+      "A singer (Karoline Unger)",
+      "A stagehand",
+      "The concertmaster"
+    ],
+    "answer": "A singer (Karoline Unger)"
+  },
+  {
+    "id": "music-084",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Erik Satie coined the term 'furniture music' (musique d'ameublement) in what year, referring to background music meant to be ignored?",
+    "options": [
+      "1898",
+      "1917",
+      "1905",
+      "1925"
+    ],
+    "answer": "1917"
+  },
+  {
+    "id": "music-085",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "The modern concert flute's key mechanism was revolutionized by which German flutist and inventor in the 1830s?",
+    "options": [
+      "Friedrich Blühmel",
+      "Adolphe Sax",
+      "Johann Christoph Denner",
+      "Theobald Boehm"
+    ],
+    "answer": "Theobald Boehm"
+  },
+  {
+    "id": "music-086",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "The trombone evolved from an earlier instrument known as what, used until the early 18th century?",
+    "options": [
+      "Cornett",
+      "Shawm",
+      "Serpent",
+      "Sackbut"
+    ],
+    "answer": "Sackbut"
+  },
+  {
+    "id": "music-087",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "The clarinet was invented around 1690-1700 by which German woodwind instrument maker from Nuremberg?",
+    "options": [
+      "Theobald Boehm",
+      "Friedrich Buschmann",
+      "Adolphe Sax",
+      "Johann Christoph Denner"
+    ],
+    "answer": "Johann Christoph Denner"
+  },
+  {
+    "id": "music-088",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "The accordion, a box-shaped bellows-driven free-reed instrument, was patented in Vienna in what year?",
+    "options": [
+      "1829",
+      "1800",
+      "1850",
+      "1875"
+    ],
+    "answer": "1829"
+  },
+  {
+    "id": "music-089",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "The first significant electronic musical instrument, the Telharmonium (also called the Dynamophone), was developed by Thaddeus Cahill and patented in what year?",
+    "options": [
+      "1912",
+      "1897",
+      "1885",
+      "1905"
+    ],
+    "answer": "1897"
+  },
+  {
+    "id": "music-090",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Hip-hop culture and music originated in which New York City borough in the early 1970s?",
+    "options": [
+      "Queens",
+      "The Bronx",
+      "Manhattan",
+      "Brooklyn"
+    ],
+    "answer": "The Bronx"
+  },
+  {
+    "id": "music-091",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Michael Jackson's album 'Thriller,' released in 1982, remains the best-selling album of all time with estimated sales of approximately how many copies worldwide as of 2026?",
+    "options": [
+      "70 million",
+      "100 million",
+      "50 million",
+      "30 million"
+    ],
+    "answer": "70 million"
+  },
+  {
+    "id": "music-092",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "The term 'Lisztomania' was coined by which poet to describe the intense fan frenzy surrounding Franz Liszt's performances?",
+    "options": [
+      "Heinrich Heine",
+      "Victor Hugo",
+      "Johann Wolfgang von Goethe",
+      "Friedrich Schiller"
+    ],
+    "answer": "Heinrich Heine"
+  },
+  {
+    "id": "music-093",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "The first compact disc (CD) was released commercially in October 1982 in which country?",
+    "options": [
+      "United Kingdom",
+      "Germany",
+      "Japan",
+      "United States"
+    ],
+    "answer": "Japan"
+  },
+  {
+    "id": "music-094",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "The first album released on CD format was which artist's album, released alongside Sony's CDP-101 player in October 1982?",
+    "options": [
+      "ABBA's The Visitors",
+      "Pink Floyd's The Wall",
+      "Billy Joel's 52nd Street",
+      "Michael Jackson's Thriller"
+    ],
+    "answer": "Billy Joel's 52nd Street"
+  },
+  {
+    "id": "music-095",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Before 'rock and roll' was adopted, the term was originally slang for what?",
+    "options": [
+      "Dancing",
+      "Sex",
+      "Partying",
+      "Sailing"
+    ],
+    "answer": "Sex"
+  },
+  {
+    "id": "music-096",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "The earliest known musical instrument found by archaeologists is a flute carved from what material, dating back approximately 43,000 years?",
+    "options": [
+      "Mammoth ivory",
+      "Stone",
+      "Bamboo",
+      "Vulture bone"
+    ],
+    "answer": "Vulture bone"
+  },
+  {
+    "id": "music-097",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "The first electric guitar is generally credited to George Beauchamp, who developed it in 1931 with the assistance of which collaborator?",
+    "options": [
+      "Paul Bigsby",
+      "Les Paul",
+      "Adolph Rickenbacker",
+      "Leo Fender"
+    ],
+    "answer": "Adolph Rickenbacker"
+  },
+  {
+    "id": "music-098",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "The electric violin was first patented in 1936 by which inventor?",
+    "options": [
+      "Les Paul",
+      "George Beauchamp",
+      "Mark Wood",
+      "Leo Fender"
+    ],
+    "answer": "George Beauchamp"
+  },
+  {
+    "id": "music-099",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "The harmonica's ancestor, the sheng, originated in which country around 1100 BC?",
+    "options": [
+      "Korea",
+      "China",
+      "India",
+      "Japan"
+    ],
+    "answer": "China"
+  },
+  {
+    "id": "music-100",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Radiohead's album 'OK Computer' (1997) was first released in Japan how long before its worldwide release?",
+    "options": [
+      "Six months",
+      "Three months",
+      "Two weeks",
+      "One month"
+    ],
+    "answer": "One month"
+  },
+  {
+    "id": "music-101",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "The Fender Precision Bass, introduced in 1951, was the first what?",
+    "options": [
+      "Mass-produced electric bass guitar",
+      "Six-string bass",
+      "Acoustic-electric bass",
+      "Fretless bass guitar"
+    ],
+    "answer": "Mass-produced electric bass guitar"
+  },
+  {
+    "id": "music-102",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which composer's 'Notre-Dame school' in the mid-12th century first fully explored organized rhythms and polyphony in Western music?",
+    "options": [
+      "Léonin and Pérotin",
+      "Philippe de Vitry",
+      "Hildegard von Bingen",
+      "Guillaume de Machaut"
+    ],
+    "answer": "Léonin and Pérotin"
+  },
+  {
+    "id": "music-103",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "The years between 1750 and 1820 are known as what era in music history?",
+    "options": [
+      "Romantic era",
+      "Classical era",
+      "Baroque era",
+      "Renaissance era"
+    ],
+    "answer": "Classical era"
+  },
+  {
+    "id": "music-104",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which American composer is known for his extremely long compositions, including 'String Quartet No. 2' which can last up to six hours?",
+    "options": [
+      "Steve Reich",
+      "Philip Glass",
+      "John Cage",
+      "Morton Feldman"
+    ],
+    "answer": "Morton Feldman"
+  },
+  {
+    "id": "music-105",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "The 'Messiah' Stradivarius violin, one of the most expensive instruments ever, was made by Antonio Stradivari in what year?",
+    "options": [
+      "1721",
+      "1700",
+      "1690",
+      "1716"
+    ],
+    "answer": "1716"
+  },
+  {
+    "id": "music-106",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1968 song's lyric 'heavy metal thunder' is believed to have inspired the name of the heavy metal music genre?",
+    "options": [
+      "Smoke on the Water",
+      "Whole Lotta Love",
+      "Born to Be Wild",
+      "Iron Man"
+    ],
+    "answer": "Born to Be Wild"
+  },
+  {
+    "id": "music-107",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Black Sabbath's 1970 eponymous debut album is widely considered the starting point of which music genre?",
+    "options": [
+      "Grunge",
+      "Punk rock",
+      "Progressive rock",
+      "Heavy metal"
+    ],
+    "answer": "Heavy metal"
   }
 ]

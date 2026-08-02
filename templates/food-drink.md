@@ -94,6 +94,18 @@ differently):
 - What natural casing haggis is boiled in (a sheep's stomach)
 - What gives Earl Grey tea its flavor (bergamot oil/citrus)
 - Primary ingredient in risotto (Arborio rice)
+- Country Caesar salad was actually invented in (Mexico, despite the
+  Italian-sounding name)
+- City chicken tikka masala is widely believed to have been invented in
+  (Glasgow) — already asked at both city and country (Scotland)
+  granularity; don't draft either again
+- Which country butter tarts / Tire d'érable sur la neige (maple taffy on
+  snow) come from (Canada)
+- What gives Canadian "tiger tail" ice cream its black stripes (licorice)
+- Which indigenous peoples made beaver tail / what fish isinglass comes
+  from (sturgeon) / which hotel claims to have invented the brownie
+  (Palmer House, Chicago) — all already asked in both directions (name
+  the food → answer, and describe the food → name it)
 
 Watch especially for the *reversed-direction* duplicate pattern in this
 category: an existing question that describes an ingredient/process and
