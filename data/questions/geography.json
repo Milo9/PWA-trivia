@@ -6602,5 +6602,980 @@
       "Franz Josef Land"
     ],
     "answer": "Svalbard"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the capital of Eritrea?",
+    "options": [
+      "Asmara",
+      "Addis Ababa",
+      "Djibouti City",
+      "Khartoum"
+    ],
+    "answer": "Asmara",
+    "id": "geography-202"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the capital of Togo?",
+    "options": [
+      "Lomé",
+      "Accra",
+      "Cotonou",
+      "Ouagadougou"
+    ],
+    "answer": "Lomé",
+    "id": "geography-203"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the capital of Slovenia?",
+    "options": [
+      "Ljubljana",
+      "Zagreb",
+      "Bratislava",
+      "Sarajevo"
+    ],
+    "answer": "Ljubljana",
+    "id": "geography-204"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the capital of Laos?",
+    "options": [
+      "Vientiane",
+      "Phnom Penh",
+      "Hanoi",
+      "Bangkok"
+    ],
+    "answer": "Vientiane",
+    "id": "geography-205"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the capital of Armenia?",
+    "options": [
+      "Tbilisi",
+      "Yerevan",
+      "Baku",
+      "Ankara"
+    ],
+    "answer": "Yerevan",
+    "id": "geography-206"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Tbilisi is the capital of which country?",
+    "options": [
+      "Armenia",
+      "Azerbaijan",
+      "Georgia",
+      "Turkey"
+    ],
+    "answer": "Georgia",
+    "id": "geography-207"
+  },
+  {
+    "difficulty": "easy",
+    "category": "geography",
+    "question": "What is the capital of Albania?",
+    "options": [
+      "Pristina",
+      "Skopje",
+      "Podgorica",
+      "Tirana"
+    ],
+    "answer": "Tirana",
+    "id": "geography-208"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the capital of Kosovo?",
+    "options": [
+      "Pristina",
+      "Skopje",
+      "Tirana",
+      "Belgrade"
+    ],
+    "answer": "Pristina",
+    "id": "geography-209"
+  },
+  {
+    "difficulty": "easy",
+    "category": "geography",
+    "question": "What is the capital of Estonia?",
+    "options": [
+      "Riga",
+      "Helsinki",
+      "Vilnius",
+      "Tallinn"
+    ],
+    "answer": "Tallinn",
+    "id": "geography-210"
+  },
+  {
+    "difficulty": "easy",
+    "category": "geography",
+    "question": "What is the capital of Lithuania?",
+    "options": [
+      "Riga",
+      "Tallinn",
+      "Vilnius",
+      "Minsk"
+    ],
+    "answer": "Vilnius",
+    "id": "geography-211"
+  },
+  {
+    "difficulty": "easy",
+    "category": "geography",
+    "question": "What is the capital of Bosnia and Herzegovina?",
+    "options": [
+      "Zagreb",
+      "Belgrade",
+      "Podgorica",
+      "Sarajevo"
+    ],
+    "answer": "Sarajevo",
+    "id": "geography-212"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the capital of Zambia?",
+    "options": [
+      "Harare",
+      "Lusaka",
+      "Lilongwe",
+      "Gaborone"
+    ],
+    "answer": "Lusaka",
+    "id": "geography-213"
+  },
+  {
+    "difficulty": "easy",
+    "category": "geography",
+    "question": "What is the capital of Nepal?",
+    "options": [
+      "Dhaka",
+      "Kathmandu",
+      "Thimphu",
+      "Islamabad"
+    ],
+    "answer": "Kathmandu",
+    "id": "geography-214"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the capital of Cambodia?",
+    "options": [
+      "Vientiane",
+      "Bangkok",
+      "Yangon",
+      "Phnom Penh"
+    ],
+    "answer": "Phnom Penh",
+    "id": "geography-215"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the capital of Senegal?",
+    "options": [
+      "Conakry",
+      "Dakar",
+      "Banjul",
+      "Bamako"
+    ],
+    "answer": "Dakar",
+    "id": "geography-216"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the capital of Botswana?",
+    "options": [
+      "Gaborone",
+      "Windhoek",
+      "Harare",
+      "Lusaka"
+    ],
+    "answer": "Gaborone",
+    "id": "geography-217"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the capital of Namibia?",
+    "options": [
+      "Gaborone",
+      "Luanda",
+      "Windhoek",
+      "Maputo"
+    ],
+    "answer": "Windhoek",
+    "id": "geography-218"
+  },
+  {
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "What is the capital of Tajikistan?",
+    "options": [
+      "Tashkent",
+      "Bishkek",
+      "Dushanbe",
+      "Ashgabat"
+    ],
+    "answer": "Dushanbe",
+    "id": "geography-219"
+  },
+  {
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "What is the capital of Madagascar?",
+    "options": [
+      "Port Louis",
+      "Antananarivo",
+      "Moroni",
+      "Victoria"
+    ],
+    "answer": "Antananarivo",
+    "id": "geography-220"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the capital of Sierra Leone?",
+    "options": [
+      "Monrovia",
+      "Freetown",
+      "Conakry",
+      "Banjul"
+    ],
+    "answer": "Freetown",
+    "id": "geography-221"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the capital of Azerbaijan?",
+    "options": [
+      "Tbilisi",
+      "Baku",
+      "Yerevan",
+      "Ashgabat"
+    ],
+    "answer": "Baku",
+    "id": "geography-222"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the capital of Belarus?",
+    "options": [
+      "Vilnius",
+      "Kyiv",
+      "Minsk",
+      "Warsaw"
+    ],
+    "answer": "Minsk",
+    "id": "geography-223"
+  },
+  {
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "What is the capital of South Sudan?",
+    "options": [
+      "Juba",
+      "Khartoum",
+      "Kampala",
+      "Addis Ababa"
+    ],
+    "answer": "Juba",
+    "id": "geography-224"
+  },
+  {
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "What is the capital of the Central African Republic?",
+    "options": [
+      "Brazzaville",
+      "Bangui",
+      "Yaoundé",
+      "Libreville"
+    ],
+    "answer": "Bangui",
+    "id": "geography-225"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the capital of Cyprus?",
+    "options": [
+      "Limassol",
+      "Larnaca",
+      "Nicosia",
+      "Famagusta"
+    ],
+    "answer": "Nicosia",
+    "id": "geography-226"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the capital of Malta?",
+    "options": [
+      "Mdina",
+      "Sliema",
+      "Birkirkara",
+      "Valletta"
+    ],
+    "answer": "Valletta",
+    "id": "geography-227"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the capital of Honduras?",
+    "options": [
+      "Tegucigalpa",
+      "Managua",
+      "San Salvador",
+      "Guatemala City"
+    ],
+    "answer": "Tegucigalpa",
+    "id": "geography-228"
+  },
+  {
+    "difficulty": "easy",
+    "category": "geography",
+    "question": "What is the capital of Oman?",
+    "options": [
+      "Manama",
+      "Muscat",
+      "Doha",
+      "Abu Dhabi"
+    ],
+    "answer": "Muscat",
+    "id": "geography-229"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the capital of Bahrain?",
+    "options": [
+      "Doha",
+      "Kuwait City",
+      "Manama",
+      "Muscat"
+    ],
+    "answer": "Manama",
+    "id": "geography-230"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the capital of Rwanda?",
+    "options": [
+      "Bujumbura",
+      "Kampala",
+      "Goma",
+      "Kigali"
+    ],
+    "answer": "Kigali",
+    "id": "geography-231"
+  },
+  {
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "What is the highest mountain in Scandinavia?",
+    "options": [
+      "Kebnekaise",
+      "Halti",
+      "Glittertind",
+      "Galdhøpiggen"
+    ],
+    "answer": "Galdhøpiggen",
+    "id": "geography-232"
+  },
+  {
+    "difficulty": "easy",
+    "category": "geography",
+    "question": "What is the largest island in the Caribbean by area?",
+    "options": [
+      "Hispaniola",
+      "Jamaica",
+      "Cuba",
+      "Puerto Rico"
+    ],
+    "answer": "Cuba",
+    "id": "geography-233"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the second-longest river in Africa after the Nile?",
+    "options": [
+      "Congo River",
+      "Niger River",
+      "Zambezi River",
+      "Orange River"
+    ],
+    "answer": "Congo River",
+    "id": "geography-234"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the highest point on mainland Australia?",
+    "options": [
+      "Mount Townsend",
+      "Mount Twynam",
+      "Mount Kosciuszko",
+      "Mount Bogong"
+    ],
+    "answer": "Mount Kosciuszko",
+    "id": "geography-235"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the largest freshwater lake in South America?",
+    "options": [
+      "Lake Titicaca",
+      "Lake Maracaibo",
+      "Lake Poopó",
+      "Lake Buenos Aires"
+    ],
+    "answer": "Lake Titicaca",
+    "id": "geography-236"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the second-longest river in Europe after the Volga?",
+    "options": [
+      "Ural River",
+      "Danube",
+      "Dnieper",
+      "Don"
+    ],
+    "answer": "Danube",
+    "id": "geography-237"
+  },
+  {
+    "difficulty": "easy",
+    "category": "geography",
+    "question": "What is the largest island in Europe by area?",
+    "options": [
+      "Iceland",
+      "Ireland",
+      "Great Britain",
+      "Sicily"
+    ],
+    "answer": "Great Britain",
+    "id": "geography-238"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the highest mountain in Germany?",
+    "options": [
+      "Zugspitze",
+      "Watzmann",
+      "Feldberg",
+      "Brocken"
+    ],
+    "answer": "Zugspitze",
+    "id": "geography-239"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the longest river in France?",
+    "options": [
+      "Seine",
+      "Loire",
+      "Rhône",
+      "Garonne"
+    ],
+    "answer": "Loire",
+    "id": "geography-240"
+  },
+  {
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "What is the largest island in Norway?",
+    "options": [
+      "Hinnøya",
+      "Senja",
+      "Lofoten",
+      "Spitsbergen"
+    ],
+    "answer": "Spitsbergen",
+    "id": "geography-241"
+  },
+  {
+    "difficulty": "easy",
+    "category": "geography",
+    "question": "What is the highest point in Japan?",
+    "options": [
+      "Mount Kita",
+      "Mount Hotaka",
+      "Mount Yarigatake",
+      "Mount Fuji"
+    ],
+    "answer": "Mount Fuji",
+    "id": "geography-242"
+  },
+  {
+    "difficulty": "easy",
+    "category": "geography",
+    "question": "What is the largest of Japan's four main islands?",
+    "options": [
+      "Honshu",
+      "Hokkaido",
+      "Kyushu",
+      "Shikoku"
+    ],
+    "answer": "Honshu",
+    "id": "geography-243"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the largest island in the Philippines?",
+    "options": [
+      "Mindanao",
+      "Luzon",
+      "Samar",
+      "Palawan"
+    ],
+    "answer": "Luzon",
+    "id": "geography-244"
+  },
+  {
+    "difficulty": "easy",
+    "category": "geography",
+    "question": "What is the highest point in the United Kingdom?",
+    "options": [
+      "Scafell Pike",
+      "Ben Nevis",
+      "Snowdon",
+      "Slieve Donard"
+    ],
+    "answer": "Ben Nevis",
+    "id": "geography-245"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the longest river in Italy?",
+    "options": [
+      "Tiber",
+      "Po",
+      "Arno",
+      "Adige"
+    ],
+    "answer": "Po",
+    "id": "geography-246"
+  },
+  {
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "What is the largest island in Denmark proper, excluding Greenland and the Faroe Islands?",
+    "options": [
+      "Funen",
+      "Zealand",
+      "Bornholm",
+      "North Jutlandic Island"
+    ],
+    "answer": "Zealand",
+    "id": "geography-247"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the highest point in Spain, located on the island of Tenerife?",
+    "options": [
+      "Mulhacén",
+      "Aneto",
+      "Teide",
+      "Veleta"
+    ],
+    "answer": "Teide",
+    "id": "geography-248"
+  },
+  {
+    "difficulty": "easy",
+    "category": "geography",
+    "question": "What is the largest island in Greece?",
+    "options": [
+      "Euboea",
+      "Lesbos",
+      "Rhodes",
+      "Crete"
+    ],
+    "answer": "Crete",
+    "id": "geography-249"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the largest island in the Pacific Ocean?",
+    "options": [
+      "New Guinea",
+      "Borneo",
+      "Honshu",
+      "Sumatra"
+    ],
+    "answer": "New Guinea",
+    "id": "geography-250"
+  },
+  {
+    "difficulty": "easy",
+    "category": "geography",
+    "question": "What is the largest island in the Indian Ocean?",
+    "options": [
+      "Sri Lanka",
+      "Madagascar",
+      "Sumatra",
+      "Borneo"
+    ],
+    "answer": "Madagascar",
+    "id": "geography-251"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the largest island in Canada?",
+    "options": [
+      "Victoria Island",
+      "Ellesmere Island",
+      "Baffin Island",
+      "Newfoundland"
+    ],
+    "answer": "Baffin Island",
+    "id": "geography-252"
+  },
+  {
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "What is the highest point in Brazil?",
+    "options": [
+      "Pico da Bandeira",
+      "Pico do Cristal",
+      "Pico do Paraná",
+      "Pico da Neblina"
+    ],
+    "answer": "Pico da Neblina",
+    "id": "geography-253"
+  },
+  {
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "What is the deepest canyon in the world, located in Tibet?",
+    "options": [
+      "Grand Canyon",
+      "Yarlung Tsangpo Grand Canyon",
+      "Kali Gandaki Gorge",
+      "Fish River Canyon"
+    ],
+    "answer": "Yarlung Tsangpo Grand Canyon",
+    "id": "geography-254"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the longest river flowing entirely within Spain?",
+    "options": [
+      "Tagus",
+      "Ebro",
+      "Guadalquivir",
+      "Duero"
+    ],
+    "answer": "Ebro",
+    "id": "geography-255"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the second-longest river in South America after the Amazon?",
+    "options": [
+      "Paraná River",
+      "Orinoco River",
+      "São Francisco River",
+      "Magdalena River"
+    ],
+    "answer": "Paraná River",
+    "id": "geography-256"
+  },
+  {
+    "difficulty": "easy",
+    "category": "geography",
+    "question": "What is the longest river in India?",
+    "options": [
+      "Ganges",
+      "Brahmaputra",
+      "Godavari",
+      "Krishna"
+    ],
+    "answer": "Ganges",
+    "id": "geography-257"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the largest country in Central America by area?",
+    "options": [
+      "Honduras",
+      "Nicaragua",
+      "Guatemala",
+      "Panama"
+    ],
+    "answer": "Nicaragua",
+    "id": "geography-258"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country is considered the narrowest in the world by its length-to-width ratio?",
+    "options": [
+      "Togo",
+      "Panama",
+      "Chile",
+      "Norway"
+    ],
+    "answer": "Chile",
+    "id": "geography-259"
+  },
+  {
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "Which coastal country has the shortest coastline in the world?",
+    "options": [
+      "Nauru",
+      "Tuvalu",
+      "Malta",
+      "Monaco"
+    ],
+    "answer": "Monaco",
+    "id": "geography-260"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which European country has approximately 188,000 lakes, the most of any country in Europe?",
+    "options": [
+      "Finland",
+      "Sweden",
+      "Norway",
+      "Ireland"
+    ],
+    "answer": "Finland",
+    "id": "geography-261"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the deepest river in the world, with measured depths exceeding 220 meters?",
+    "options": [
+      "Amazon River",
+      "Congo River",
+      "Yangtze River",
+      "Mississippi River"
+    ],
+    "answer": "Congo River",
+    "id": "geography-262"
+  },
+  {
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "What is the largest city on the Caspian Sea?",
+    "options": [
+      "Astrakhan",
+      "Makhachkala",
+      "Baku",
+      "Aktau"
+    ],
+    "answer": "Baku",
+    "id": "geography-263"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which African capital sits at the confluence of the Blue and White Nile rivers?",
+    "options": [
+      "Juba",
+      "Addis Ababa",
+      "Cairo",
+      "Khartoum"
+    ],
+    "answer": "Khartoum",
+    "id": "geography-264"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which capital city is located on the westernmost point of continental Africa?",
+    "options": [
+      "Dakar",
+      "Conakry",
+      "Banjul",
+      "Nouakchott"
+    ],
+    "answer": "Dakar",
+    "id": "geography-265"
+  },
+  {
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "Which Caribbean territory's capital, Plymouth, was abandoned in 1997 due to volcanic eruptions?",
+    "options": [
+      "Dominica",
+      "Guadeloupe",
+      "Martinique",
+      "Montserrat"
+    ],
+    "answer": "Montserrat",
+    "id": "geography-266"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which city is the northernmost capital of a sovereign state?",
+    "options": [
+      "Helsinki",
+      "Oslo",
+      "Reykjavík",
+      "Tallinn"
+    ],
+    "answer": "Reykjavík",
+    "id": "geography-267"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which capital city is the smallest in the European Union by area?",
+    "options": [
+      "Luxembourg City",
+      "Nicosia",
+      "Ljubljana",
+      "Valletta"
+    ],
+    "answer": "Valletta",
+    "id": "geography-268"
+  },
+  {
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "Which capital city has a UN buffer zone called the Green Line running through it?",
+    "options": [
+      "Jerusalem",
+      "Beirut",
+      "Nicosia",
+      "Sarajevo"
+    ],
+    "answer": "Nicosia",
+    "id": "geography-269"
+  },
+  {
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "Which Pacific island nation has no official capital city?",
+    "options": [
+      "Nauru",
+      "Tuvalu",
+      "Palau",
+      "Kiribati"
+    ],
+    "answer": "Nauru",
+    "id": "geography-270"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "As of 2025, which country has the most UNESCO World Heritage Sites?",
+    "options": [
+      "China",
+      "Germany",
+      "Italy",
+      "France"
+    ],
+    "answer": "Italy",
+    "id": "geography-271"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which African country shares land borders with the most other countries, at nine?",
+    "options": [
+      "Sudan",
+      "Mali",
+      "Nigeria",
+      "Democratic Republic of the Congo"
+    ],
+    "answer": "Democratic Republic of the Congo",
+    "id": "geography-272"
+  },
+  {
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "What is the largest lake located entirely within Germany?",
+    "options": [
+      "Lake Müritz",
+      "Lake Constance",
+      "Chiemsee",
+      "Lake Starnberg"
+    ],
+    "answer": "Lake Müritz",
+    "id": "geography-273"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the second-largest island in the Caribbean after Cuba?",
+    "options": [
+      "Jamaica",
+      "Puerto Rico",
+      "Trinidad",
+      "Hispaniola"
+    ],
+    "answer": "Hispaniola",
+    "id": "geography-274"
+  },
+  {
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "What is the longest river flowing entirely within Germany?",
+    "options": [
+      "Rhine",
+      "Danube",
+      "Main River",
+      "Elbe"
+    ],
+    "answer": "Main River",
+    "id": "geography-275"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What strait separates the island of Sri Lanka from India?",
+    "options": [
+      "Strait of Malacca",
+      "Sunda Strait",
+      "Lombok Strait",
+      "Palk Strait"
+    ],
+    "answer": "Palk Strait",
+    "id": "geography-276"
   }
 ]
