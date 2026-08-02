@@ -7954,5 +7954,2358 @@
       "Étant donnés"
     ],
     "answer": "Fountain"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "In Shakespeare's \"Hamlet,\" what is the name of the castle where the play is set?",
+    "options": [
+      "Inverness",
+      "Elsinore",
+      "Dover",
+      "Windsor"
+    ],
+    "answer": "Elsinore",
+    "id": "arts-literature-364"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which Tolstoy novel opens with the line \"All happy families are alike; each unhappy family is unhappy in its own way\"?",
+    "options": [
+      "Resurrection",
+      "The Death of Ivan Ilyich",
+      "Anna Karenina",
+      "War and Peace"
+    ],
+    "answer": "Anna Karenina",
+    "id": "arts-literature-365"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Who painted \"The Last Supper,\" the famous late 15th-century mural depicting Jesus's final meal with his disciples?",
+    "options": [
+      "Leonardo da Vinci",
+      "Michelangelo",
+      "Raphael",
+      "Sandro Botticelli"
+    ],
+    "answer": "Leonardo da Vinci",
+    "id": "arts-literature-366"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "What is the name of the character who recounts his journey up the Congo River in Joseph Conrad's \"Heart of Darkness\"?",
+    "options": [
+      "Nostromo",
+      "Jim",
+      "Kurtz",
+      "Marlow"
+    ],
+    "answer": "Marlow",
+    "id": "arts-literature-367"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Which artist is known for painting the \"Water Lilies\" series, depicting the garden at his home in Giverny?",
+    "options": [
+      "Edgar Degas",
+      "Claude Monet",
+      "Pierre-Auguste Renoir",
+      "Camille Pissarro"
+    ],
+    "answer": "Claude Monet",
+    "id": "arts-literature-368"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "In Shakespeare's \"Macbeth,\" immediately after encountering the witches, what title does Macbeth learn he has been granted?",
+    "options": [
+      "King of Scotland",
+      "Earl of Fife",
+      "Thane of Glamis",
+      "Thane of Cawdor"
+    ],
+    "answer": "Thane of Cawdor",
+    "id": "arts-literature-369"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who wrote the novel \"Beloved,\" which won the Pulitzer Prize for Fiction in 1988?",
+    "options": [
+      "Alice Walker",
+      "Maya Angelou",
+      "Toni Morrison",
+      "Zora Neale Hurston"
+    ],
+    "answer": "Toni Morrison",
+    "id": "arts-literature-370"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "In which town did Vincent van Gogh rent the \"Yellow House\" and invite Paul Gauguin to stay with him in 1888?",
+    "options": [
+      "Arles",
+      "Saint-Rémy-de-Provence",
+      "Auvers-sur-Oise",
+      "Montmartre"
+    ],
+    "answer": "Arles",
+    "id": "arts-literature-371"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "What is the name of the fictional Mississippi county where many of William Faulkner's novels are set?",
+    "options": [
+      "Compson County",
+      "Sartoris County",
+      "Jefferson County",
+      "Yoknapatawpha County"
+    ],
+    "answer": "Yoknapatawpha County",
+    "id": "arts-literature-372"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Who wrote \"The Metamorphosis,\" the novella in which Gregor Samsa wakes up transformed into an insect?",
+    "options": [
+      "Franz Kafka",
+      "Thomas Mann",
+      "Hermann Hesse",
+      "Robert Musil"
+    ],
+    "answer": "Franz Kafka",
+    "id": "arts-literature-373"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "In which Roman church can Michelangelo's statue of Moses, part of the Tomb of Pope Julius II, be found?",
+    "options": [
+      "St. Peter's Basilica",
+      "Santa Maria Maggiore",
+      "San Pietro in Vincoli",
+      "Santa Maria Sopra Minerva"
+    ],
+    "answer": "San Pietro in Vincoli",
+    "id": "arts-literature-374"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Who wrote \"The Old Man and the Sea,\" the story of an aging Cuban fisherman named Santiago?",
+    "options": [
+      "John Steinbeck",
+      "Ernest Hemingway",
+      "William Faulkner",
+      "F. Scott Fitzgerald"
+    ],
+    "answer": "Ernest Hemingway",
+    "id": "arts-literature-375"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "In Lewis Carroll's \"Alice's Adventures in Wonderland,\" what word does the Cheshire Cat use to describe everyone in Wonderland?",
+    "options": [
+      "Late",
+      "Lost",
+      "Dreaming",
+      "Mad"
+    ],
+    "answer": "Mad",
+    "id": "arts-literature-376"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which novel by Gabriel García Márquez tells the story of Florentino Ariza and Fermina Daza's decades-long romance?",
+    "options": [
+      "Love in the Time of Cholera",
+      "One Hundred Years of Solitude",
+      "The Autumn of the Patriarch",
+      "Chronicle of a Death Foretold"
+    ],
+    "answer": "Love in the Time of Cholera",
+    "id": "arts-literature-377"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Over what span of time do the events of James Joyce's \"Ulysses\" take place?",
+    "options": [
+      "Three days",
+      "One day",
+      "One week",
+      "One year"
+    ],
+    "answer": "One day",
+    "id": "arts-literature-378"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Who sculpted \"The Burghers of Calais,\" a monument commemorating six citizens who offered themselves as hostages during the Hundred Years' War?",
+    "options": [
+      "Antonio Canova",
+      "Gian Lorenzo Bernini",
+      "Frédéric Auguste Bartholdi",
+      "Auguste Rodin"
+    ],
+    "answer": "Auguste Rodin",
+    "id": "arts-literature-379"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "What is the title of the first novel in J.R.R. Tolkien's \"The Lord of the Rings\" trilogy?",
+    "options": [
+      "The Fellowship of the Ring",
+      "The Two Towers",
+      "The Return of the King",
+      "The Hobbit"
+    ],
+    "answer": "The Fellowship of the Ring",
+    "id": "arts-literature-380"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Who wrote \"The Awakening,\" the 1899 novel about Edna Pontellier's struggle for independence in Louisiana?",
+    "options": [
+      "Edith Wharton",
+      "Willa Cather",
+      "Kate Chopin",
+      "Sarah Orne Jewett"
+    ],
+    "answer": "Kate Chopin",
+    "id": "arts-literature-381"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which artist painted a famous series depicting Rouen Cathedral at different times of day and in different weather conditions?",
+    "options": [
+      "Camille Pissarro",
+      "Claude Monet",
+      "Paul Cézanne",
+      "Vincent van Gogh"
+    ],
+    "answer": "Claude Monet",
+    "id": "arts-literature-382"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "In Nathaniel Hawthorne's \"The Scarlet Letter,\" what single letter is Hester Prynne forced to wear on her chest as punishment?",
+    "options": [
+      "S",
+      "H",
+      "P",
+      "A"
+    ],
+    "answer": "A",
+    "id": "arts-literature-383"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who wrote the play \"Waiting for Godot,\" in which two characters wait on a country road for someone who never arrives?",
+    "options": [
+      "Samuel Beckett",
+      "Eugène Ionesco",
+      "Harold Pinter",
+      "Tom Stoppard"
+    ],
+    "answer": "Samuel Beckett",
+    "id": "arts-literature-384"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Which Amsterdam museum houses the world's largest collection of Vincent van Gogh's works?",
+    "options": [
+      "Rijksmuseum",
+      "Stedelijk Museum",
+      "Van Gogh Museum",
+      "Rembrandt House Museum"
+    ],
+    "answer": "Van Gogh Museum",
+    "id": "arts-literature-385"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Who wrote \"The Faerie Queene,\" an epic poem dedicated to Queen Elizabeth I?",
+    "options": [
+      "Philip Sidney",
+      "Edmund Spenser",
+      "Christopher Marlowe",
+      "Ben Jonson"
+    ],
+    "answer": "Edmund Spenser",
+    "id": "arts-literature-386"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Which artist painted \"Bal du moulin de la Galette,\" an 1876 work depicting a Sunday afternoon dance in Montmartre?",
+    "options": [
+      "Claude Monet",
+      "Edgar Degas",
+      "Édouard Manet",
+      "Pierre-Auguste Renoir"
+    ],
+    "answer": "Pierre-Auguste Renoir",
+    "id": "arts-literature-387"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Who wrote \"Invisible Cities,\" a novel in which Marco Polo describes 55 imaginary cities to Kublai Khan?",
+    "options": [
+      "Italo Calvino",
+      "Jorge Luis Borges",
+      "Umberto Eco",
+      "Julio Cortázar"
+    ],
+    "answer": "Italo Calvino",
+    "id": "arts-literature-388"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "In Shakespeare's \"King Lear,\" which daughter refuses to flatter her father and is disinherited as a result?",
+    "options": [
+      "Goneril",
+      "Regan",
+      "Cordelia",
+      "Rosalind"
+    ],
+    "answer": "Cordelia",
+    "id": "arts-literature-389"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who wrote \"Howl,\" the landmark poem of the Beat Generation first performed publicly in 1955?",
+    "options": [
+      "Jack Kerouac",
+      "Allen Ginsberg",
+      "William S. Burroughs",
+      "Lawrence Ferlinghetti"
+    ],
+    "answer": "Allen Ginsberg",
+    "id": "arts-literature-390"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Which artist painted \"The Embarkation for Cythera,\" an early 18th-century fête galante depicting lovers departing for the island of love?",
+    "options": [
+      "Jean-Antoine Watteau",
+      "François Boucher",
+      "Jean-Honoré Fragonard",
+      "Thomas Gainsborough"
+    ],
+    "answer": "Jean-Antoine Watteau",
+    "id": "arts-literature-391"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "In George Orwell's \"Animal Farm,\" the Seven Commandments are ultimately reduced to one: \"All animals are equal, but some animals are ____\"?",
+    "options": [
+      "better than others",
+      "wiser than others",
+      "purer than others",
+      "more equal than others"
+    ],
+    "answer": "more equal than others",
+    "id": "arts-literature-392"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Who painted \"Christina's World,\" the 1948 work depicting a woman lying in a field gazing toward a distant farmhouse?",
+    "options": [
+      "Norman Rockwell",
+      "Andrew Wyeth",
+      "Edward Hopper",
+      "Thomas Hart Benton"
+    ],
+    "answer": "Andrew Wyeth",
+    "id": "arts-literature-393"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "In Mark Twain's \"Adventures of Huckleberry Finn,\" what is the name of the runaway slave who accompanies Huck on his journey down the Mississippi?",
+    "options": [
+      "Jim",
+      "Tom",
+      "Pap",
+      "Buck"
+    ],
+    "answer": "Jim",
+    "id": "arts-literature-394"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who wrote \"The Trial,\" a novel in which Josef K. is arrested and prosecuted by a remote authority for a crime never revealed?",
+    "options": [
+      "George Orwell",
+      "Hermann Hesse",
+      "Franz Kafka",
+      "Robert Musil"
+    ],
+    "answer": "Franz Kafka",
+    "id": "arts-literature-395"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Which art movement, founded by poet Filippo Tommaso Marinetti around 1909, glorified speed, technology, and industrial modernity?",
+    "options": [
+      "Constructivism",
+      "Dadaism",
+      "Cubism",
+      "Futurism"
+    ],
+    "answer": "Futurism",
+    "id": "arts-literature-396"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "In Jane Austen's \"Persuasion,\" what is the name of the protagonist who is persuaded to break off her engagement to Captain Wentworth?",
+    "options": [
+      "Anne Elliot",
+      "Elizabeth Bennet",
+      "Fanny Price",
+      "Catherine Morland"
+    ],
+    "answer": "Anne Elliot",
+    "id": "arts-literature-397"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Who painted \"The Ambassadors\" (1533), a double portrait famous for the distorted anamorphic skull in its lower foreground?",
+    "options": [
+      "Lucas Cranach the Elder",
+      "Hans Holbein the Younger",
+      "Albrecht Dürer",
+      "Jan van Eyck"
+    ],
+    "answer": "Hans Holbein the Younger",
+    "id": "arts-literature-398"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Which novel by Charles Dickens begins with the famous line \"It was the best of times, it was the worst of times\"?",
+    "options": [
+      "Oliver Twist",
+      "Bleak House",
+      "A Tale of Two Cities",
+      "David Copperfield"
+    ],
+    "answer": "A Tale of Two Cities",
+    "id": "arts-literature-399"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who wrote \"The Rime of the Ancient Mariner,\" a poem in which a sailor kills an albatross and suffers supernatural consequences?",
+    "options": [
+      "Samuel Taylor Coleridge",
+      "William Wordsworth",
+      "John Keats",
+      "Percy Bysshe Shelley"
+    ],
+    "answer": "Samuel Taylor Coleridge",
+    "id": "arts-literature-400"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which artist painted \"Saturn Devouring His Son,\" one of the so-called \"Black Paintings\" created directly on the walls of his own home?",
+    "options": [
+      "Diego Velázquez",
+      "El Greco",
+      "Francisco de Zurbarán",
+      "Francisco Goya"
+    ],
+    "answer": "Francisco Goya",
+    "id": "arts-literature-401"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who wrote \"Gulliver's Travels,\" the 1726 satirical novel describing Lemuel Gulliver's voyages to fantastical lands?",
+    "options": [
+      "Daniel Defoe",
+      "Jonathan Swift",
+      "Henry Fielding",
+      "Laurence Sterne"
+    ],
+    "answer": "Jonathan Swift",
+    "id": "arts-literature-402"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Which artist created \"Unique Forms of Continuity in Space\" (1913), a bronze sculpture that embodies the Futurist celebration of movement?",
+    "options": [
+      "Umberto Boccioni",
+      "Giacomo Balla",
+      "Gino Severini",
+      "Carlo Carrà"
+    ],
+    "answer": "Umberto Boccioni",
+    "id": "arts-literature-403"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who wrote \"The Sun Also Rises,\" a novel about a group of American and British expatriates traveling from Paris to Pamplona?",
+    "options": [
+      "F. Scott Fitzgerald",
+      "John Dos Passos",
+      "Ernest Hemingway",
+      "Gertrude Stein"
+    ],
+    "answer": "Ernest Hemingway",
+    "id": "arts-literature-404"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "In Shakespeare's \"A Midsummer Night's Dream,\" what is the name of the mischievous sprite who serves the fairy king Oberon?",
+    "options": [
+      "Ariel",
+      "Puck",
+      "Caliban",
+      "Mustardseed"
+    ],
+    "answer": "Puck",
+    "id": "arts-literature-405"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Who painted \"The Death of Marat,\" depicting the murdered French revolutionary leader slumped in his bathtub?",
+    "options": [
+      "Eugène Delacroix",
+      "Théodore Géricault",
+      "Jean-Auguste-Dominique Ingres",
+      "Jacques-Louis David"
+    ],
+    "answer": "Jacques-Louis David",
+    "id": "arts-literature-406"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which novel by Vladimir Nabokov is narrated by Humbert Humbert, a man obsessed with a young girl named Dolores Haze?",
+    "options": [
+      "Lolita",
+      "Pale Fire",
+      "Ada",
+      "Pnin"
+    ],
+    "answer": "Lolita",
+    "id": "arts-literature-407"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Who wrote \"The Decameron,\" a collection of 100 tales told by young people sheltering from the Black Death?",
+    "options": [
+      "Petrarch",
+      "Niccolò Machiavelli",
+      "Giovanni Boccaccio",
+      "Dante Alighieri"
+    ],
+    "answer": "Giovanni Boccaccio",
+    "id": "arts-literature-408"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Which artist painted \"The Card Players,\" a series of five oil paintings depicting Provençal peasants playing cards?",
+    "options": [
+      "Paul Cézanne",
+      "Paul Gauguin",
+      "Henri de Toulouse-Lautrec",
+      "Édouard Manet"
+    ],
+    "answer": "Paul Cézanne",
+    "id": "arts-literature-409"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "In Joseph Conrad's \"Lord Jim,\" what is the name of the pilgrim ship from which Jim and the crew abandon their passengers?",
+    "options": [
+      "Narcissus",
+      "Patna",
+      "Nan-Shan",
+      "Sephora"
+    ],
+    "answer": "Patna",
+    "id": "arts-literature-410"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who wrote \"The Portrait of a Lady,\" the novel in which Isabel Archer inherits a fortune and moves to England?",
+    "options": [
+      "Edith Wharton",
+      "George Eliot",
+      "William Dean Howells",
+      "Henry James"
+    ],
+    "answer": "Henry James",
+    "id": "arts-literature-411"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which ancient Greek playwright wrote both \"Oedipus Rex\" and \"Antigone\"?",
+    "options": [
+      "Sophocles",
+      "Aeschylus",
+      "Euripides",
+      "Aristophanes"
+    ],
+    "answer": "Sophocles",
+    "id": "arts-literature-412"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "In Shakespeare's \"Othello,\" what is the name of the villain who manipulates Othello into murdering his wife Desdemona?",
+    "options": [
+      "Cassio",
+      "Roderigo",
+      "Iago",
+      "Brabantio"
+    ],
+    "answer": "Iago",
+    "id": "arts-literature-413"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Who painted \"The Swing\" (1767), a celebrated Rococo painting of a young woman on a swing with her lover hidden in the bushes below?",
+    "options": [
+      "François Boucher",
+      "Jean-Honoré Fragonard",
+      "Jean-Antoine Watteau",
+      "William Hogarth"
+    ],
+    "answer": "Jean-Honoré Fragonard",
+    "id": "arts-literature-414"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which novel by Thomas Hardy follows the life of Michael Henchard, a man who sells his wife at a country fair?",
+    "options": [
+      "The Mayor of Casterbridge",
+      "Tess of the d'Urbervilles",
+      "Jude the Obscure",
+      "Far from the Madding Crowd"
+    ],
+    "answer": "The Mayor of Casterbridge",
+    "id": "arts-literature-415"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Who wrote \"The Hound of the Baskervilles,\" one of the most famous Sherlock Holmes novels?",
+    "options": [
+      "Agatha Christie",
+      "G.K. Chesterton",
+      "Dorothy L. Sayers",
+      "Arthur Conan Doyle"
+    ],
+    "answer": "Arthur Conan Doyle",
+    "id": "arts-literature-416"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which artist is associated with the \"Blue Period,\" a phase of melancholic paintings dominated by shades of blue and blue-green?",
+    "options": [
+      "Henri Matisse",
+      "Pablo Picasso",
+      "Georges Braque",
+      "Juan Gris"
+    ],
+    "answer": "Pablo Picasso",
+    "id": "arts-literature-417"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who wrote \"The Pilgrim's Progress,\" the 1678 allegorical novel describing a man's journey from the City of Destruction to the Celestial City?",
+    "options": [
+      "John Bunyan",
+      "John Milton",
+      "Daniel Defoe",
+      "George Fox"
+    ],
+    "answer": "John Bunyan",
+    "id": "arts-literature-418"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Which German Romantic painter created \"The Cross in the Mountains,\" also known as the Tetschen Altar?",
+    "options": [
+      "Philipp Otto Runge",
+      "Carl Gustav Carus",
+      "Caspar David Friedrich",
+      "J.M.W. Turner"
+    ],
+    "answer": "Caspar David Friedrich",
+    "id": "arts-literature-419"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "In Shakespeare's \"The Tempest,\" what is the name of the sorcerer who was the rightful Duke of Milan before being exiled to an island?",
+    "options": [
+      "Antonio",
+      "Alonso",
+      "Sebastian",
+      "Prospero"
+    ],
+    "answer": "Prospero",
+    "id": "arts-literature-420"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who wrote \"Middlemarch,\" the novel subtitled \"A Study of Provincial Life\"?",
+    "options": [
+      "George Eliot",
+      "Elizabeth Gaskell",
+      "Anthony Trollope",
+      "Thomas Hardy"
+    ],
+    "answer": "George Eliot",
+    "id": "arts-literature-421"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which artist painted \"The Hay Wain\" (1821), a celebrated landscape depicting a rural scene on the River Stour?",
+    "options": [
+      "J.M.W. Turner",
+      "John Constable",
+      "Thomas Gainsborough",
+      "Richard Wilson"
+    ],
+    "answer": "John Constable",
+    "id": "arts-literature-422"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "In Edgar Allan Poe's \"The Tell-Tale Heart,\" what specific feature of the old man's appearance obsesses the narrator and drives him to murder?",
+    "options": [
+      "His vulture eye",
+      "His withered hand",
+      "His deaf ear",
+      "His racing pulse"
+    ],
+    "answer": "His vulture eye",
+    "id": "arts-literature-423"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Who wrote \"The Master and Margarita,\" a novel in which the Devil visits Soviet Moscow accompanied by a retinue including a talking black cat?",
+    "options": [
+      "Boris Pasternak",
+      "Mikhail Bulgakov",
+      "Aleksandr Solzhenitsyn",
+      "Nikolai Gogol"
+    ],
+    "answer": "Mikhail Bulgakov",
+    "id": "arts-literature-424"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Which art movement, founded by Kazimir Malevich around 1913, sought to reduce art to basic geometric shapes and pure color?",
+    "options": [
+      "Constructivism",
+      "De Stijl",
+      "Cubism",
+      "Suprematism"
+    ],
+    "answer": "Suprematism",
+    "id": "arts-literature-425"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "In Jane Austen's \"Sense and Sensibility,\" which two sisters represent the titular qualities of sense and sensibility, respectively?",
+    "options": [
+      "Marianne and Elinor",
+      "Elinor and Marianne",
+      "Elizabeth and Jane",
+      "Jane and Elizabeth"
+    ],
+    "answer": "Elinor and Marianne",
+    "id": "arts-literature-426"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Who sculpted \"The Rape of the Sabine Women,\" a monumental marble sculpture completed in the early 1580s?",
+    "options": [
+      "Giambologna",
+      "Benvenuto Cellini",
+      "Donatello",
+      "Andrea del Verrocchio"
+    ],
+    "answer": "Giambologna",
+    "id": "arts-literature-427"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Who wrote \"The Iceman Cometh,\" a play set in Harry Hope's saloon featuring a group of drunks awaiting a traveling salesman?",
+    "options": [
+      "Arthur Miller",
+      "Tennessee Williams",
+      "Thornton Wilder",
+      "Eugene O'Neill"
+    ],
+    "answer": "Eugene O'Neill",
+    "id": "arts-literature-428"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Which artist painted \"Christ in the Storm on the Sea of Galilee,\" his only seascape, stolen from the Isabella Stewart Gardner Museum in 1990?",
+    "options": [
+      "Rembrandt van Rijn",
+      "Jan van Goyen",
+      "Jacob van Ruisdael",
+      "Aelbert Cuyp"
+    ],
+    "answer": "Rembrandt van Rijn",
+    "id": "arts-literature-429"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "In Lewis Carroll's \"Through the Looking-Glass,\" what is the title of the nonsense poem that describes a creature with \"jaws that bite\" and \"claws that catch\"?",
+    "options": [
+      "The Hunting of the Snark",
+      "Jabberwocky",
+      "The Walrus and the Carpenter",
+      "You Are Old, Father William"
+    ],
+    "answer": "Jabberwocky",
+    "id": "arts-literature-430"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Who wrote \"A Confederacy of Dunces,\" a comic novel published posthumously in 1980, eleven years after the author's suicide?",
+    "options": [
+      "Flannery O'Connor",
+      "Walker Percy",
+      "John Kennedy Toole",
+      "Truman Capote"
+    ],
+    "answer": "John Kennedy Toole",
+    "id": "arts-literature-431"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which artist is known for the \"Cut-Outs\" series, large paper collages created in the final years of his life when he was largely bedridden?",
+    "options": [
+      "Henri Matisse",
+      "Pablo Picasso",
+      "Georges Braque",
+      "Fernand Léger"
+    ],
+    "answer": "Henri Matisse",
+    "id": "arts-literature-432"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "In D.H. Lawrence's \"Lady Chatterley's Lover,\" what is the name of the gamekeeper with whom Constance Chatterley has an affair?",
+    "options": [
+      "Clifford Chatterley",
+      "Michaelis",
+      "Tom Birch",
+      "Oliver Mellors"
+    ],
+    "answer": "Oliver Mellors",
+    "id": "arts-literature-433"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Who wrote \"Germinal,\" a novel depicting a coal miners' strike in northern France during the 1860s?",
+    "options": [
+      "Gustave Flaubert",
+      "Émile Zola",
+      "Guy de Maupassant",
+      "Honoré de Balzac"
+    ],
+    "answer": "Émile Zola",
+    "id": "arts-literature-434"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Which artist created \"Merda d'artista\" (1961), a work consisting of 90 tin cans purportedly containing the artist's own excrement?",
+    "options": [
+      "Piero Manzoni",
+      "Marcel Duchamp",
+      "Yves Klein",
+      "Lucio Fontana"
+    ],
+    "answer": "Piero Manzoni",
+    "id": "arts-literature-435"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "In Shakespeare's \"The Merchant of Venice,\" what is the name of the merchant who borrows money from Shylock on his friend's behalf?",
+    "options": [
+      "Gratiano",
+      "Lorenzo",
+      "Antonio",
+      "Bassanio"
+    ],
+    "answer": "Antonio",
+    "id": "arts-literature-436"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who wrote \"The Hunchback of Notre-Dame,\" a novel featuring the deaf bell-ringer Quasimodo?",
+    "options": [
+      "Alexandre Dumas",
+      "Victor Hugo",
+      "Honoré de Balzac",
+      "Gustave Flaubert"
+    ],
+    "answer": "Victor Hugo",
+    "id": "arts-literature-437"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Which ancient Greek playwright is known for the \"Oresteia\" trilogy, comprising \"Agamemnon,\" \"The Libation Bearers,\" and \"The Eumenides\"?",
+    "options": [
+      "Sophocles",
+      "Euripides",
+      "Aristophanes",
+      "Aeschylus"
+    ],
+    "answer": "Aeschylus",
+    "id": "arts-literature-438"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "In Bram Stoker's \"Dracula,\" what is the name of the professor who leads the fight against the vampire?",
+    "options": [
+      "Abraham Van Helsing",
+      "Jonathan Harker",
+      "John Seward",
+      "Arthur Holmwood"
+    ],
+    "answer": "Abraham Van Helsing",
+    "id": "arts-literature-439"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Who painted \"The Coronation of Napoleon,\" a massive 1807 work commissioned by Napoleon himself?",
+    "options": [
+      "Antoine-Jean Gros",
+      "Jean-Auguste-Dominique Ingres",
+      "Jacques-Louis David",
+      "François Gérard"
+    ],
+    "answer": "Jacques-Louis David",
+    "id": "arts-literature-440"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which novel by Thomas Pynchon features the V-2 rocket and a character named Tyrone Slothrop?",
+    "options": [
+      "V.",
+      "The Crying of Lot 49",
+      "Gravity's Rainbow",
+      "Mason & Dixon"
+    ],
+    "answer": "Gravity's Rainbow",
+    "id": "arts-literature-441"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Who wrote \"Murder in the Cathedral,\" a 1935 verse drama about the assassination of Archbishop Thomas Becket?",
+    "options": [
+      "T.S. Eliot",
+      "W.H. Auden",
+      "Christopher Fry",
+      "Stephen Spender"
+    ],
+    "answer": "T.S. Eliot",
+    "id": "arts-literature-442"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Which Dutch master painted \"The Jewish Bride,\" a 17th-century work that Vincent van Gogh said he would give ten years of his life to view for two weeks?",
+    "options": [
+      "Johannes Vermeer",
+      "Frans Hals",
+      "Jan Steen",
+      "Rembrandt van Rijn"
+    ],
+    "answer": "Rembrandt van Rijn",
+    "id": "arts-literature-443"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who wrote \"A Clockwork Orange,\" the novel featuring the teenage delinquent Alex and his use of the slang language Nadsat?",
+    "options": [
+      "George Orwell",
+      "Anthony Burgess",
+      "William S. Burroughs",
+      "J.G. Ballard"
+    ],
+    "answer": "Anthony Burgess",
+    "id": "arts-literature-444"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Which artist painted \"Automat\" (1927), depicting a lone woman drinking coffee in a self-service restaurant?",
+    "options": [
+      "Edward Hopper",
+      "Reginald Marsh",
+      "Paul Cadmus",
+      "Isabel Bishop"
+    ],
+    "answer": "Edward Hopper",
+    "id": "arts-literature-445"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "In Roald Dahl's \"Charlie and the Chocolate Factory,\" what is the name of the fourth child to find a Golden Ticket?",
+    "options": [
+      "Violet Beauregarde",
+      "Veruca Salt",
+      "Mike Teavee",
+      "Augustus Gloop"
+    ],
+    "answer": "Mike Teavee",
+    "id": "arts-literature-446"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who wrote \"The Crucible,\" a 1953 play dramatizing the Salem witch trials as an allegory for McCarthyism?",
+    "options": [
+      "Tennessee Williams",
+      "Eugene O'Neill",
+      "Thornton Wilder",
+      "Arthur Miller"
+    ],
+    "answer": "Arthur Miller",
+    "id": "arts-literature-447"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Which artist painted \"Whistlejacket\" (1762), a life-sized portrait of a rearing racehorse notable for having no background?",
+    "options": [
+      "George Stubbs",
+      "Thomas Gainsborough",
+      "George Morland",
+      "Sawrey Gilpin"
+    ],
+    "answer": "George Stubbs",
+    "id": "arts-literature-448"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Who wrote \"Tristram Shandy,\" a novel published between 1759 and 1767 known for its digressive, unconventional narrative style?",
+    "options": [
+      "Henry Fielding",
+      "Laurence Sterne",
+      "Tobias Smollett",
+      "Samuel Richardson"
+    ],
+    "answer": "Laurence Sterne",
+    "id": "arts-literature-449"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Which artist painted \"Ophelia\" (1851–52), depicting the drowning Ophelia from Shakespeare's \"Hamlet\"?",
+    "options": [
+      "William Holman Hunt",
+      "Dante Gabriel Rossetti",
+      "John Everett Millais",
+      "John William Waterhouse"
+    ],
+    "answer": "John Everett Millais",
+    "id": "arts-literature-450"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who wrote \"Madame Bovary,\" the 1856 novel about a doctor's wife who has adulterous affairs and lives beyond her means?",
+    "options": [
+      "Honoré de Balzac",
+      "Guy de Maupassant",
+      "Émile Zola",
+      "Gustave Flaubert"
+    ],
+    "answer": "Gustave Flaubert",
+    "id": "arts-literature-451"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which artist developed the \"drip painting\" technique, laying canvases flat on the floor and pouring or flicking paint onto them?",
+    "options": [
+      "Willem de Kooning",
+      "Jackson Pollock",
+      "Mark Rothko",
+      "Franz Kline"
+    ],
+    "answer": "Jackson Pollock",
+    "id": "arts-literature-452"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Who wrote \"I, Claudius,\" a 1934 novel written as the fictional autobiography of the Roman Emperor Claudius?",
+    "options": [
+      "Robert Graves",
+      "Mary Renault",
+      "Marguerite Yourcenar",
+      "Thornton Wilder"
+    ],
+    "answer": "Robert Graves",
+    "id": "arts-literature-453"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Who wrote \"The Playboy of the Western World,\" a 1907 play whose premiere at Dublin's Abbey Theatre sparked riots?",
+    "options": [
+      "Sean O'Casey",
+      "Brendan Behan",
+      "John Millington Synge",
+      "Samuel Beckett"
+    ],
+    "answer": "John Millington Synge",
+    "id": "arts-literature-454"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "In Shakespeare's \"Julius Caesar,\" what are Caesar's final words as he is stabbed by the conspirators?",
+    "options": [
+      "Veni, vidi, vici",
+      "Et tu, Brute?",
+      "Alea iacta est",
+      "Memento mori"
+    ],
+    "answer": "Et tu, Brute?",
+    "id": "arts-literature-455"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Who wrote \"Les Fleurs du mal\" (The Flowers of Evil), the 1857 poetry collection that led to an obscenity trial?",
+    "options": [
+      "Paul Verlaine",
+      "Arthur Rimbaud",
+      "Stéphane Mallarmé",
+      "Charles Baudelaire"
+    ],
+    "answer": "Charles Baudelaire",
+    "id": "arts-literature-456"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Who wrote \"The Book of Disquiet,\" a posthumously published work often considered one of the greatest works of Portuguese literature?",
+    "options": [
+      "Fernando Pessoa",
+      "José Saramago",
+      "Eça de Queirós",
+      "Luís de Camões"
+    ],
+    "answer": "Fernando Pessoa",
+    "id": "arts-literature-457"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "In L. Frank Baum's original \"The Wonderful Wizard of Oz\" novel, what color are the magic slippers Dorothy receives?",
+    "options": [
+      "Ruby",
+      "Gold",
+      "Silver",
+      "Emerald"
+    ],
+    "answer": "Silver",
+    "id": "arts-literature-458"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Who wrote \"The Leopard\" (Il Gattopardo), a 1958 novel set during the Risorgimento and considered one of the greatest Italian novels?",
+    "options": [
+      "Alberto Moravia",
+      "Italo Calvino",
+      "Giuseppe Tomasi di Lampedusa",
+      "Cesare Pavese"
+    ],
+    "answer": "Giuseppe Tomasi di Lampedusa",
+    "id": "arts-literature-459"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which artist created the \"Four Freedoms\" paintings, inspired by Franklin D. Roosevelt's 1941 State of the Union address?",
+    "options": [
+      "Andrew Wyeth",
+      "Thomas Hart Benton",
+      "Edward Hopper",
+      "Norman Rockwell"
+    ],
+    "answer": "Norman Rockwell",
+    "id": "arts-literature-460"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "What is the name of the giant, gun-toting black cat in Mikhail Bulgakov's novel 'The Master and Margarita'?",
+    "options": [
+      "Woland",
+      "Behemoth",
+      "Azazello",
+      "Koroviev"
+    ],
+    "answer": "Behemoth",
+    "id": "arts-literature-461"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which satirical war novel features the bombardier Captain John Yossarian?",
+    "options": [
+      "Slaughterhouse-Five",
+      "The Caine Mutiny",
+      "Catch-22",
+      "From Here to Eternity"
+    ],
+    "answer": "Catch-22",
+    "id": "arts-literature-462"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who wrote the historical mystery novel 'The Name of the Rose', set in a 14th-century Italian monastery?",
+    "options": [
+      "Italo Calvino",
+      "Alessandro Manzoni",
+      "Umberto Eco",
+      "Alberto Moravia"
+    ],
+    "answer": "Umberto Eco",
+    "id": "arts-literature-463"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Which avant-garde art movement was co-founded by the Romanian-French poet Tristan Tzara in 1916?",
+    "options": [
+      "Surrealism",
+      "Dadaism",
+      "Futurism",
+      "Cubism"
+    ],
+    "answer": "Dadaism",
+    "id": "arts-literature-464"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Marcel Duchamp's 'Bicycle Wheel' is one of the earliest and most famous examples of what type of sculpture, consisting of manufactured objects designated as art?",
+    "options": [
+      "Assemblages",
+      "Readymades",
+      "Happenings",
+      "Installations"
+    ],
+    "answer": "Readymades",
+    "id": "arts-literature-465"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who painted the massive 1818-1819 canvas 'The Raft of the Medusa', depicting the aftermath of a French naval shipwreck?",
+    "options": [
+      "Eugène Delacroix",
+      "Théodore Géricault",
+      "Jean-Auguste-Dominique Ingres",
+      "Jacques-Louis David"
+    ],
+    "answer": "Théodore Géricault",
+    "id": "arts-literature-466"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which Italian artist is best known for his portraits featuring elongated faces and necks, often with almond-shaped eyes?",
+    "options": [
+      "Giorgio de Chirico",
+      "Amedeo Modigliani",
+      "Umberto Boccioni",
+      "Giacomo Balla"
+    ],
+    "answer": "Amedeo Modigliani",
+    "id": "arts-literature-467"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Who wrote the epic poem 'Orlando Furioso', a continuation of Matteo Maria Boiardo's 'Orlando Innamorato'?",
+    "options": [
+      "Torquato Tasso",
+      "Ludovico Ariosto",
+      "Matteo Maria Boiardo",
+      "Luigi Pulci"
+    ],
+    "answer": "Ludovico Ariosto",
+    "id": "arts-literature-468"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who wrote the 1952 novel 'Invisible Man', exploring the social and intellectual issues facing African Americans in the early 20th century?",
+    "options": [
+      "Richard Wright",
+      "James Baldwin",
+      "Ralph Ellison",
+      "Langston Hughes"
+    ],
+    "answer": "Ralph Ellison",
+    "id": "arts-literature-469"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Which Alice Walker novel is written as a series of letters from the protagonist Celie to God and her sister Nettie?",
+    "options": [
+      "The Color Purple",
+      "Meridian",
+      "The Temple of My Familiar",
+      "Possessing the Secret of Joy"
+    ],
+    "answer": "The Color Purple",
+    "id": "arts-literature-470"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which Salman Rushdie novel won the Booker Prize in 1981 and follows children born at the exact moment of India's independence?",
+    "options": [
+      "Shame",
+      "The Satanic Verses",
+      "Midnight's Children",
+      "The Moor's Last Sigh"
+    ],
+    "answer": "Midnight's Children",
+    "id": "arts-literature-471"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who wrote the 1997 Booker Prize-winning novel 'The God of Small Things', set in Kerala, India?",
+    "options": [
+      "Jhumpa Lahiri",
+      "Kiran Desai",
+      "Arundhati Roy",
+      "Chitra Banerjee Divakaruni"
+    ],
+    "answer": "Arundhati Roy",
+    "id": "arts-literature-472"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which Chinua Achebe novel depicts pre-colonial life in Nigeria and the arrival of Europeans to an Igbo village?",
+    "options": [
+      "Things Fall Apart",
+      "No Longer at Ease",
+      "Arrow of God",
+      "A Man of the People"
+    ],
+    "answer": "Things Fall Apart",
+    "id": "arts-literature-473"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Which Ivan Turgenev novel introduced the concept of nihilism to the wider public through the character Yevgeny Bazarov?",
+    "options": [
+      "A Sportsman's Sketches",
+      "Fathers and Sons",
+      "A Nest of the Gentry",
+      "On the Eve"
+    ],
+    "answer": "Fathers and Sons",
+    "id": "arts-literature-474"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "What is the name of the fictional rural region in southern England where most of Thomas Hardy's novels are set?",
+    "options": [
+      "Wessex",
+      "Mercia",
+      "Northanger",
+      "Angria"
+    ],
+    "answer": "Wessex",
+    "id": "arts-literature-475"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Which Pieter Bruegel the Elder painting, completed in 1563, depicts the biblical story of humanity attempting to build a tower to reach the heavens?",
+    "options": [
+      "Landscape with the Fall of Icarus",
+      "The Tower of Babel",
+      "The Peasant Wedding",
+      "Netherlandish Proverbs"
+    ],
+    "answer": "The Tower of Babel",
+    "id": "arts-literature-476"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Who painted the influential 1435 altarpiece 'The Descent from the Cross', known for its emotional intensity and detailed realism?",
+    "options": [
+      "Rogier van der Weyden",
+      "Hans Memling",
+      "Hugo van der Goes",
+      "Robert Campin"
+    ],
+    "answer": "Rogier van der Weyden",
+    "id": "arts-literature-477"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who painted the famous 1770 portrait 'The Blue Boy', depicting a young man in a historic blue satin costume?",
+    "options": [
+      "Joshua Reynolds",
+      "Thomas Gainsborough",
+      "George Romney",
+      "Allan Ramsay"
+    ],
+    "answer": "Thomas Gainsborough",
+    "id": "arts-literature-478"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which monumental sculptural group by Auguste Rodin, inspired by Dante's 'Inferno', features the famous figures 'The Thinker' and 'The Kiss' within its composition?",
+    "options": [
+      "The Burghers of Calais",
+      "The Gates of Hell",
+      "The Age of Bronze",
+      "The Walking Man"
+    ],
+    "answer": "The Gates of Hell",
+    "id": "arts-literature-479"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Which Kurt Vonnegut anti-war novel centers on Billy Pilgrim, a man who becomes 'unstuck in time' after surviving the firebombing of Dresden?",
+    "options": [
+      "Cat's Cradle",
+      "The Sirens of Titan",
+      "Slaughterhouse-Five",
+      "Breakfast of Champions"
+    ],
+    "answer": "Slaughterhouse-Five",
+    "id": "arts-literature-480"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which Kurt Vonnegut novel features the fictional religion 'Bokononism' and the apocalyptic substance 'ice-nine'?",
+    "options": [
+      "The Sirens of Titan",
+      "Cat's Cradle",
+      "Breakfast of Champions",
+      "Player Piano"
+    ],
+    "answer": "Cat's Cradle",
+    "id": "arts-literature-481"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Who wrote the comedic science fiction series 'The Hitchhiker's Guide to the Galaxy'?",
+    "options": [
+      "Terry Pratchett",
+      "Douglas Adams",
+      "Neil Gaiman",
+      "P.G. Wodehouse"
+    ],
+    "answer": "Douglas Adams",
+    "id": "arts-literature-482"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Which Frank Herbert science fiction novel follows Paul Atreides on the desert planet Arrakis?",
+    "options": [
+      "Foundation",
+      "Dune",
+      "Neuromancer",
+      "Hyperion"
+    ],
+    "answer": "Dune",
+    "id": "arts-literature-483"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which William Gibson novel is widely considered the seminal work of the cyberpunk genre and coined the term 'cyberspace'?",
+    "options": [
+      "Snow Crash",
+      "Neuromancer",
+      "Count Zero",
+      "Mona Lisa Overdrive"
+    ],
+    "answer": "Neuromancer",
+    "id": "arts-literature-484"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which Ursula K. Le Guin novel explores gender and society on the planet Gethen, where inhabitants are ambisexual?",
+    "options": [
+      "The Dispossessed",
+      "The Left Hand of Darkness",
+      "The Word for World Is Forest",
+      "The Lathe of Heaven"
+    ],
+    "answer": "The Left Hand of Darkness",
+    "id": "arts-literature-485"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Which Ursula K. Le Guin novel presents a contrast between an anarchist moon called Anarres and its capitalist mother planet, Urras?",
+    "options": [
+      "The Dispossessed",
+      "The Word for World Is Forest",
+      "City of Illusions",
+      "Rocannon's World"
+    ],
+    "answer": "The Dispossessed",
+    "id": "arts-literature-486"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which Philip K. Dick novel features Rick Deckard, a bounty hunter who 'retires' rogue androids in a post-apocalyptic San Francisco?",
+    "options": [
+      "The Man in the High Castle",
+      "Do Androids Dream of Electric Sheep?",
+      "Ubik",
+      "A Scanner Darkly"
+    ],
+    "answer": "Do Androids Dream of Electric Sheep?",
+    "id": "arts-literature-487"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which Philip K. Dick alternate history novel imagines a world where the Axis powers won World War II and divided the United States?",
+    "options": [
+      "The Man in the High Castle",
+      "The Three Stigmata of Palmer Eldritch",
+      "Flow My Tears, the Policeman Said",
+      "VALIS"
+    ],
+    "answer": "The Man in the High Castle",
+    "id": "arts-literature-488"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which Ray Bradbury fix-up novel consists of interconnected short stories about Earth's colonization of Mars?",
+    "options": [
+      "The Illustrated Man",
+      "The Martian Chronicles",
+      "Something Wicked This Way Comes",
+      "Fahrenheit 451"
+    ],
+    "answer": "The Martian Chronicles",
+    "id": "arts-literature-489"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which Ray Bradbury dark fantasy novel features the sinister 'Cooger & Dark's Pandemonium Shadow Show' and a carousel that ages or de-ages its riders?",
+    "options": [
+      "The October Country",
+      "Something Wicked This Way Comes",
+      "Dandelion Wine",
+      "Green Shadows, White Whale"
+    ],
+    "answer": "Something Wicked This Way Comes",
+    "id": "arts-literature-490"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Which Isaac Asimov collection of science fiction short stories introduces the 'Three Laws of Robotics'?",
+    "options": [
+      "Foundation",
+      "I, Robot",
+      "The Caves of Steel",
+      "The End of Eternity"
+    ],
+    "answer": "I, Robot",
+    "id": "arts-literature-491"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Which Isaac Asimov science fiction series chronicles the fall of a Galactic Empire and the efforts of psychohistorian Hari Seldon to shorten the ensuing dark age?",
+    "options": [
+      "The Robot Series",
+      "The Galactic Empire Series",
+      "The Foundation Series",
+      "The Lucky Starr Series"
+    ],
+    "answer": "The Foundation Series",
+    "id": "arts-literature-492"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which Arthur C. Clarke novel concludes with the alien Overlords watching the Earth being consumed by a cosmic phenomenon as humanity transcends physical form?",
+    "options": [
+      "Childhood's End",
+      "2001: A Space Odyssey",
+      "Rendezvous with Rama",
+      "The City and the Stars"
+    ],
+    "answer": "Childhood's End",
+    "id": "arts-literature-493"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Which Arthur C. Clarke novel was developed concurrently with the Stanley Kubrick film of the same name and features the monolith and the computer HAL 9000?",
+    "options": [
+      "2001: A Space Odyssey",
+      "2010: Odyssey Two",
+      "2061: Odyssey Three",
+      "3001: The Final Odyssey"
+    ],
+    "answer": "2001: A Space Odyssey",
+    "id": "arts-literature-494"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Which H.G. Wells science fiction novel describes an extraterrestrial invasion of Earth by Martians using tripod fighting machines?",
+    "options": [
+      "The Time Machine",
+      "The War of the Worlds",
+      "The Invisible Man",
+      "The Island of Doctor Moreau"
+    ],
+    "answer": "The War of the Worlds",
+    "id": "arts-literature-495"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Which H.G. Wells novel follows a scientist known only as the Time Traveller as he journeys to the year 802,701 AD?",
+    "options": [
+      "The Time Machine",
+      "The First Men in the Moon",
+      "When the Sleeper Wakes",
+      "The Food of the Gods"
+    ],
+    "answer": "The Time Machine",
+    "id": "arts-literature-496"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which H.G. Wells novel features a shipwrecked man named Edward Prendick who encounters a scientist creating human-animal hybrids through vivisection?",
+    "options": [
+      "The Invisible Man",
+      "The Island of Doctor Moreau",
+      "The War in the Air",
+      "The Shape of Things to Come"
+    ],
+    "answer": "The Island of Doctor Moreau",
+    "id": "arts-literature-497"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which satirical 1884 novella by Edwin A. Abbott explores the geometry of dimensions through the perspective of a character named A Square?",
+    "options": [
+      "The Time Machine",
+      "Flatland",
+      "Erewhon",
+      "New Atlantis"
+    ],
+    "answer": "Flatland",
+    "id": "arts-literature-498"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Which 1872 utopian satirical novel by Samuel Butler is set in a fictional country where machines are banned due to fears they will evolve to supplant humanity?",
+    "options": [
+      "Erewhon",
+      "The Way of All Flesh",
+      "The New Machiavelli",
+      "Ann Veronica"
+    ],
+    "answer": "Erewhon",
+    "id": "arts-literature-499"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Which 1516 work of fiction and socio-political philosophy by Thomas More coined the term for an ideal, perfect society?",
+    "options": [
+      "Utopia",
+      "The City of the Sun",
+      "New Atlantis",
+      "Leviathan"
+    ],
+    "answer": "Utopia",
+    "id": "arts-literature-500"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Which early 17th-century philosophical utopian work by Tommaso Campanella describes a theocratic society governed by a priest-prince named Hoh?",
+    "options": [
+      "The City of the Sun",
+      "The New Atlantis",
+      "Utopia",
+      "The Commonwealth of Oceana"
+    ],
+    "answer": "The City of the Sun",
+    "id": "arts-literature-501"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Which unfinished 1626 utopian novel by Francis Bacon describes the fictional island of Bensalem, known for its scientific research institution 'Salomon's House'?",
+    "options": [
+      "New Atlantis",
+      "The Advancement of Learning",
+      "Novum Organum",
+      "Sylva Sylvarum"
+    ],
+    "answer": "New Atlantis",
+    "id": "arts-literature-502"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which series of five comic novels by François Rabelais follows the outrageous and bawdy adventures of two giants, a father and his son?",
+    "options": [
+      "Gargantua and Pantagruel",
+      "The Decameron",
+      "Don Quixote",
+      "The Satyricon"
+    ],
+    "answer": "Gargantua and Pantagruel",
+    "id": "arts-literature-503"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Which 16th-century collection of 72 short stories by Marguerite de Navarre was modeled after Boccaccio's 'Decameron' and published posthumously?",
+    "options": [
+      "The Heptaméron",
+      "The Canterbury Tales",
+      "The Cent Nouvelles",
+      "The Decameron"
+    ],
+    "answer": "The Heptaméron",
+    "id": "arts-literature-504"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Which ancient Roman work of fiction by Petronius, a satire of the excesses of the Neronian era, survives only in fragments and includes the famous 'Dinner of Trimalchio'?",
+    "options": [
+      "The Satyricon",
+      "The Golden Ass",
+      "The Aeneid",
+      "Metamorphoses"
+    ],
+    "answer": "The Satyricon",
+    "id": "arts-literature-505"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which 2nd-century Latin novel by Apuleius, also known as 'Metamorphoses', follows Lucius as he is accidentally turned into a donkey?",
+    "options": [
+      "The Golden Ass",
+      "The Satyricon",
+      "The Decameron",
+      "The Aeneid"
+    ],
+    "answer": "The Golden Ass",
+    "id": "arts-literature-506"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which Roman poet wrote 'Metamorphoses', a 15-book narrative poem that compiles and retells over 250 Greek and Roman myths involving transformations?",
+    "options": [
+      "Ovid",
+      "Virgil",
+      "Horace",
+      "Lucan"
+    ],
+    "answer": "Ovid",
+    "id": "arts-literature-507"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Which Henrik Ibsen play centers on Nora Helmer, who eventually leaves her husband and children to discover her own identity?",
+    "options": [
+      "A Doll's House",
+      "Hedda Gabler",
+      "Ghosts",
+      "The Wild Duck"
+    ],
+    "answer": "A Doll's House",
+    "id": "arts-literature-508"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which Henrik Ibsen play features the manipulative and destructive title character, who marries Jørgen Tesman and ultimately takes her own life?",
+    "options": [
+      "Hedda Gabler",
+      "The Master Builder",
+      "Rosmersholm",
+      "The Lady from the Sea"
+    ],
+    "answer": "Hedda Gabler",
+    "id": "arts-literature-509"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which August Strindberg naturalistic tragedy depicts the disastrous Midsummer's Eve seduction of the title character by her father's valet, Jean?",
+    "options": [
+      "Miss Julie",
+      "The Father",
+      "The Dance of Death",
+      "Creditors"
+    ],
+    "answer": "Miss Julie",
+    "id": "arts-literature-510"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Which expressionist play by August Strindberg features a 'Mummy' who lives in a closet and a 'Old Man' who turns out to be an impostor?",
+    "options": [
+      "The Ghost Sonata",
+      "A Dream Play",
+      "To Damascus",
+      "The Pelican"
+    ],
+    "answer": "The Ghost Sonata",
+    "id": "arts-literature-511"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which Oscar Wilde comedy of manners centers on a political scandal involving a blackmailing Mrs. Cheveley and a stolen bracelet?",
+    "options": [
+      "An Ideal Husband",
+      "Lady Windermere's Fan",
+      "A Woman of No Importance",
+      "The Importance of Being Earnest"
+    ],
+    "answer": "An Ideal Husband",
+    "id": "arts-literature-512"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which Oscar Wilde play features a mysterious woman with a past who turns out to be the mother of the title character?",
+    "options": [
+      "Lady Windermere's Fan",
+      "A Woman of No Importance",
+      "An Ideal Husband",
+      "Salome"
+    ],
+    "answer": "Lady Windermere's Fan",
+    "id": "arts-literature-513"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which Seán O'Casey tragedy, the second of his Dublin Trilogy, follows the Boyle family in a tenement during the Irish Civil War?",
+    "options": [
+      "Juno and the Paycock",
+      "The Shadow of a Gunman",
+      "The Plough and the Stars",
+      "The Silver Tassie"
+    ],
+    "answer": "Juno and the Paycock",
+    "id": "arts-literature-514"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Which Seán O'Casey play depicts the tragic events of the 1916 Easter Rising in Dublin from the perspective of the working-class residents of a tenement house?",
+    "options": [
+      "The Plough and the Stars",
+      "The Shadow of a Gunman",
+      "Juno and the Paycock",
+      "Red Roses for Me"
+    ],
+    "answer": "The Plough and the Stars",
+    "id": "arts-literature-515"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which John Osborne play is widely considered the beginning of the 'Angry Young Men' movement in British theatre and features the character Jimmy Porter?",
+    "options": [
+      "Look Back in Anger",
+      "The Entertainer",
+      "Inadmissible Evidence",
+      "A Patriot for Me"
+    ],
+    "answer": "Look Back in Anger",
+    "id": "arts-literature-516"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which Harold Pinter play features the menacing return of Teddy and his wife Ruth to the North London home of Teddy's father and brothers?",
+    "options": [
+      "The Homecoming",
+      "The Birthday Party",
+      "The Caretaker",
+      "The Dumb Waiter"
+    ],
+    "answer": "The Homecoming",
+    "id": "arts-literature-517"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which Harold Pinter play features Stanley Webber, a pianist hiding out in a seaside boarding house who is terrorized by two mysterious strangers, Goldberg and McCann?",
+    "options": [
+      "The Birthday Party",
+      "The Caretaker",
+      "The Room",
+      "A Slight Ache"
+    ],
+    "answer": "The Birthday Party",
+    "id": "arts-literature-518"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which Tom Stoppard tragicomedy focuses on two minor characters from Shakespeare's 'Hamlet' who are largely unaware of the broader context of the play?",
+    "options": [
+      "Rosencrantz and Guildenstern Are Dead",
+      "The Real Thing",
+      "Arcadia",
+      "Jumpers"
+    ],
+    "answer": "Rosencrantz and Guildenstern Are Dead",
+    "id": "arts-literature-519"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Which Tom Stoppard play intertwines the lives of 19th-century intellectuals, including Lord Byron, with those of modern-day academics in an English country estate?",
+    "options": [
+      "Arcadia",
+      "The Coast of Utopia",
+      "Indian Ink",
+      "Hapgood"
+    ],
+    "answer": "Arcadia",
+    "id": "arts-literature-520"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which Tony Kushner two-part epic play, subtitled 'A Gay Fantasia on National Themes', deals with the AIDS crisis in 1980s New York?",
+    "options": [
+      "Angels in America",
+      "Perestroika",
+      "Millennium Approaches",
+      "A Bright Room Called Day"
+    ],
+    "answer": "Angels in America",
+    "id": "arts-literature-521"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which August Wilson play, part of his Pittsburgh Cycle, follows former baseball player Troy Maxson as he struggles with his past and his relationship with his son?",
+    "options": [
+      "Fences",
+      "The Piano Lesson",
+      "Ma Rainey's Black Bottom",
+      "Joe Turner's Come and Gone"
+    ],
+    "answer": "Fences",
+    "id": "arts-literature-522"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which Lorraine Hansberry play centers on the Younger family's decision on how to spend a $10,000 life insurance check in 1950s Chicago?",
+    "options": [
+      "A Raisin in the Sun",
+      "The Sign in Sidney Brustein's Window",
+      "Les Blancs",
+      "The Drinking Gourd"
+    ],
+    "answer": "A Raisin in the Sun",
+    "id": "arts-literature-523"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Which Henri Rousseau painting features a nude woman reclining on a sofa in a jungle surrounded by wild animals and a snake charmer?",
+    "options": [
+      "The Sleeping Gypsy",
+      "The Dream",
+      "The Snake Charmer",
+      "Tiger in a Tropical Storm"
+    ],
+    "answer": "The Dream",
+    "id": "arts-literature-524"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which Marc Chagall painting features overlapping, dreamlike images of a green-faced man, a cow, and a fiddler on a roof, reflecting his memories of his hometown?",
+    "options": [
+      "Over Vitebsk",
+      "I and the Village",
+      "The Birthday",
+      "The Promenade"
+    ],
+    "answer": "I and the Village",
+    "id": "arts-literature-525"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which René Magritte painting depicts a man in a bowler hat and overcoat whose face is obscured by a floating green apple?",
+    "options": [
+      "The Son of Man",
+      "The Lovers",
+      "Golconda",
+      "The False Mirror"
+    ],
+    "answer": "The Son of Man",
+    "id": "arts-literature-526"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which René Magritte painting features a realistic depiction of a pipe accompanied by the text 'Ceci n'est pas une pipe' (This is not a pipe)?",
+    "options": [
+      "The Treachery of Images",
+      "The Human Condition",
+      "The Empire of Light",
+      "Time Transfixed"
+    ],
+    "answer": "The Treachery of Images",
+    "id": "arts-literature-527"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Which Max Ernst painting features a surreal, biomorphic creature resembling an elephant with a large, cylindrical body, inspired by a photograph of Sudanese grain bins?",
+    "options": [
+      "The Elephant Celebes",
+      "Europe After the Rain II",
+      "Two Children Are Threatened by a Nightingale",
+      "The Virgin Chastises the Infant Jesus"
+    ],
+    "answer": "The Elephant Celebes",
+    "id": "arts-literature-528"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which Joan Miró painting is a highly complex, hallucinatory work filled with abstracted shapes, stars, and tiny creatures, representing the artist's starvation hallucinations?",
+    "options": [
+      "The Harlequin's Carnival",
+      "The Farm",
+      "Blue II",
+      "Woman Throwing a Stone"
+    ],
+    "answer": "The Harlequin's Carnival",
+    "id": "arts-literature-529"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Which Wassily Kandinsky painting features a complex arrangement of geometric shapes, lines, and circles floating against a light background, marking a shift toward Bauhaus constructivism?",
+    "options": [
+      "Composition VIII",
+      "Composition VII",
+      "Yellow-Red-Blue",
+      "Several Circles"
+    ],
+    "answer": "Composition VIII",
+    "id": "arts-literature-530"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which Piet Mondrian painting, completed in 1943, abandons his usual black grid lines in favor of intersecting red, yellow, and blue lines, reflecting the rhythm of New York City?",
+    "options": [
+      "Broadway Boogie Woogie",
+      "Composition with Red, Blue and Yellow",
+      "Victory Boogie Woogie",
+      "Tableau I"
+    ],
+    "answer": "Broadway Boogie Woogie",
+    "id": "arts-literature-531"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which Henri Matisse painting, created in 1910, features five nude figures holding hands and dancing in a circle against a stark blue and green background?",
+    "options": [
+      "The Dance",
+      "Music",
+      "The Red Studio",
+      "Woman with a Hat"
+    ],
+    "answer": "The Dance",
+    "id": "arts-literature-532"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Which Henri Matisse painting depicts his own workspace bathed entirely in a deep, uniform red color, with outlines of his furniture and artworks visible only as negative space?",
+    "options": [
+      "The Red Studio",
+      "The Joy of Life",
+      "Open Window, Collioure",
+      "The Green Stripe"
+    ],
+    "answer": "The Red Studio",
+    "id": "arts-literature-533"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Which Anton Chekhov play centers on an aristocratic Russian family who return to their estate just before it is auctioned to pay the mortgage, ultimately losing their beloved orchard?",
+    "options": [
+      "The Cherry Orchard",
+      "The Seagull",
+      "Uncle Vanya",
+      "Three Sisters"
+    ],
+    "answer": "The Cherry Orchard",
+    "id": "arts-literature-534"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which Anton Chekhov play features the aspiring writer Konstantin Treplev, the aging actress Irina Arkadina, and a literal seagull brought onto the stage?",
+    "options": [
+      "The Seagull",
+      "Uncle Vanya",
+      "The Cherry Orchard",
+      "Ivanov"
+    ],
+    "answer": "The Seagull",
+    "id": "arts-literature-535"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which Samuel Beckett one-act play features the blind, immobile Hamm and his aging servant Clov living in a bleak, sheltered room?",
+    "options": [
+      "Endgame",
+      "Play",
+      "Not I",
+      "Days to Come"
+    ],
+    "answer": "Endgame",
+    "id": "arts-literature-536"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which Eugène Ionesco play, considered a pioneer of the Theatre of the Absurd, features the Smiths and the Martins engaging in nonsensical, cliché-ridden dialogue?",
+    "options": [
+      "The Bald Soprano",
+      "The Chairs",
+      "Rhinoceros",
+      "The Lesson"
+    ],
+    "answer": "The Bald Soprano",
+    "id": "arts-literature-537"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which Eugène Ionesco play features a town where the inhabitants gradually transform into the title animal, representing the rise of fascism and mob mentality?",
+    "options": [
+      "Rhinoceros",
+      "Exit the King",
+      "A Stroll in the Air",
+      "Killer"
+    ],
+    "answer": "Rhinoceros",
+    "id": "arts-literature-538"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which W.B. Yeats poem contains the famous lines 'Things fall apart; the centre cannot hold; / Mere anarchy is loosed upon the world'?",
+    "options": [
+      "Sailing to Byzantium",
+      "The Second Coming",
+      "Easter, 1916",
+      "The Tower"
+    ],
+    "answer": "The Second Coming",
+    "id": "arts-literature-539"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which Robert Frost poem explores the boundaries between neighbors and features the line 'Good fences make good neighbors'?",
+    "options": [
+      "The Road Not Taken",
+      "Mending Wall",
+      "Stopping by Woods on a Snowy Evening",
+      "Fire and Ice"
+    ],
+    "answer": "Mending Wall",
+    "id": "arts-literature-540"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which W.H. Auden poem, originally titled 'Stop all the clocks', is a famous elegy often read at funerals and featured in the film 'Four Weddings and a Funeral'?",
+    "options": [
+      "Musée des Beaux Arts",
+      "Funeral Blues",
+      "As I Walked Out One Evening",
+      "The Unknown Citizen"
+    ],
+    "answer": "Funeral Blues",
+    "id": "arts-literature-541"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which Emily Dickinson poem personifies mortality as a gentleman caller who takes the speaker on a carriage ride toward eternity?",
+    "options": [
+      "I heard a Fly buzz - when I died",
+      "Because I could not stop for Death",
+      "I felt a Funeral, in my Brain",
+      "This is my letter to the World"
+    ],
+    "answer": "Because I could not stop for Death",
+    "id": "arts-literature-542"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Which Percy Bysshe Shelley sonnet describes the ruined, colossal statue of an arrogant ancient king in the desert?",
+    "options": [
+      "Ozymandias",
+      "Ode to the West Wind",
+      "To a Skylark",
+      "Mont Blanc"
+    ],
+    "answer": "Ozymandias",
+    "id": "arts-literature-543"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which satirical epic poem by Lord Byron follows the adventures of its titular character across Europe and the Ottoman Empire?",
+    "options": [
+      "Don Juan",
+      "Childe Harold's Pilgrimage",
+      "The Prisoner of Chillon",
+      "Manfred"
+    ],
+    "answer": "Don Juan",
+    "id": "arts-literature-544"
   }
 ]
