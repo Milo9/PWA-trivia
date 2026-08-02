@@ -6459,5 +6459,1266 @@
     ],
     "answer": "The Serengeti–Masai Mara ecosystem",
     "id": "animals-nature-327"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "Which marine invertebrate holds the record for the largest reproductive organ relative to its body size?",
+    "options": [
+      "Giant clam",
+      "Sponge",
+      "Sea urchin",
+      "Barnacle"
+    ],
+    "answer": "Barnacle",
+    "id": "animals-nature-328"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "The axolotl exhibits neoteny, meaning it retains which larval feature throughout its adult life?",
+    "options": [
+      "External gills",
+      "Tail fin",
+      "Transparent skin",
+      "Larval teeth"
+    ],
+    "answer": "External gills",
+    "id": "animals-nature-329"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "The tuatara, a reptile endemic to New Zealand, possesses a parietal eye on the top of its head primarily used for what purpose?",
+    "options": [
+      "Hunting insects in the dark",
+      "Detecting seasonal changes and light",
+      "Communicating with mates",
+      "Scanning for aerial predators"
+    ],
+    "answer": "Detecting seasonal changes and light",
+    "id": "animals-nature-330"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "Which primate is the only one that is entirely carnivorous, eating exclusively live animal prey?",
+    "options": [
+      "Slow loris",
+      "Lemur",
+      "Tarsier",
+      "Aye-aye"
+    ],
+    "answer": "Tarsier",
+    "id": "animals-nature-331"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "When threatened, the horned lizard employs which unusual defense mechanism?",
+    "options": [
+      "Detaching its tail",
+      "Releasing toxic gas",
+      "Changing color instantly",
+      "Shooting blood from its eyes"
+    ],
+    "answer": "Shooting blood from its eyes",
+    "id": "animals-nature-332"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Unlike other sea turtles, the leatherback sea turtle lacks a bony shell. What covers its carapace instead?",
+    "options": [
+      "Oily, leathery skin",
+      "A thick layer of cartilage",
+      "Smooth, rubbery blubber",
+      "Overlapping keratin scales"
+    ],
+    "answer": "Oily, leathery skin",
+    "id": "animals-nature-333"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "Which bird holds the record for the largest wingspan-to-weight ratio, allowing it to stay aloft for weeks?",
+    "options": [
+      "Harpy eagle",
+      "Frigatebird",
+      "Wandering albatross",
+      "Andean condor"
+    ],
+    "answer": "Frigatebird",
+    "id": "animals-nature-334"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Unlike most other birds, the ostrich possesses how many toes on each foot?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "answer": "Two",
+    "id": "animals-nature-335"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "The potoo bird possesses a unique eyelid adaptation that helps it remain vigilant while roosting. What is this adaptation?",
+    "options": [
+      "Slits that allow it to see when eyes are closed",
+      "Transparent lower eyelids",
+      "Eyelids that reflect moonlight",
+      "Nictitating membranes that filter light"
+    ],
+    "answer": "Slits that allow it to see when eyes are closed",
+    "id": "animals-nature-336"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "The oilbird is unique among flying fruit-eating birds because it navigates in dark caves using which method?",
+    "options": [
+      "Magnetic field detection",
+      "Infrared vision",
+      "Scent trails",
+      "Echolocation"
+    ],
+    "answer": "Echolocation",
+    "id": "animals-nature-337"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "The shoebill stork communicates and asserts dominance by doing what with its massive bill?",
+    "options": [
+      "Plunging it into water rhythmically",
+      "Clattering it like a machine gun",
+      "Scraping it against tree bark",
+      "Humming through hollow chambers"
+    ],
+    "answer": "Clattering it like a machine gun",
+    "id": "animals-nature-338"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "How long can a giant isopod survive without eating in the deep sea?",
+    "options": [
+      "Up to 6 months",
+      "Roughly 3 weeks",
+      "Over 5 years",
+      "Exactly 1 year"
+    ],
+    "answer": "Over 5 years",
+    "id": "animals-nature-339"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which crustacean is the largest terrestrial arthropod in the world?",
+    "options": [
+      "Coconut crab",
+      "Hermit crab",
+      "Horseshoe crab",
+      "Spider crab"
+    ],
+    "answer": "Coconut crab",
+    "id": "animals-nature-340"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "The velvet ant is actually not an ant at all, but rather a wingless species of what insect?",
+    "options": [
+      "Termite",
+      "Bee",
+      "Wasp",
+      "Beetle"
+    ],
+    "answer": "Wasp",
+    "id": "animals-nature-341"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "The wheel bug, an assassin bug species native to North America, is easily identified by what feature?",
+    "options": [
+      "A cogwheel-shaped crest on its thorax",
+      "Bright red and black warning colors",
+      "A massive stinger on its abdomen",
+      "Glowing bioluminescent spots"
+    ],
+    "answer": "A cogwheel-shaped crest on its thorax",
+    "id": "animals-nature-342"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which beetle escapes predators by snapping its body to launch itself into the air?",
+    "options": [
+      "Firefly",
+      "Click beetle",
+      "Stag beetle",
+      "Dung beetle"
+    ],
+    "answer": "Click beetle",
+    "id": "animals-nature-343"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "The whirligig beetle possesses a unique visual adaptation for hunting at the water's surface. What is it?",
+    "options": [
+      "Divided eyes to see above and below water simultaneously",
+      "A third eye on its abdomen",
+      "Compound eyes that detect polarized light",
+      "Infrared sensors on its antennae"
+    ],
+    "answer": "Divided eyes to see above and below water simultaneously",
+    "id": "animals-nature-344"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which spider lives entirely underwater, constructing a silk 'diving bell' filled with air?",
+    "options": [
+      "Trapdoor spider",
+      "Wolf spider",
+      "Orb-weaver spider",
+      "Diving bell spider"
+    ],
+    "answer": "Diving bell spider",
+    "id": "animals-nature-345"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "The trap-jaw ant can close its mandibles at incredible speeds, but it also uses this snapping force to do what?",
+    "options": [
+      "Vibrate to communicate with the colony",
+      "Launch itself backwards to escape danger",
+      "Dig tunnels in hard clay",
+      "Crack open hard seeds"
+    ],
+    "answer": "Launch itself backwards to escape danger",
+    "id": "animals-nature-346"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Leafcutter ants do not eat the leaves they harvest. Instead, they use the leaves to cultivate what?",
+    "options": [
+      "A specific fungus",
+      "Moss for nest insulation",
+      "Algae for protein",
+      "Bacteria to digest cellulose"
+    ],
+    "answer": "A specific fungus",
+    "id": "animals-nature-347"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "In a honeypot ant colony, what is the function of specialized workers called 'repletes'?",
+    "options": [
+      "Incubating eggs with body heat",
+      "Acting as living storage tanks for nectar",
+      "Defending the queen by swarming",
+      "Excavating deep tunnel networks"
+    ],
+    "answer": "Acting as living storage tanks for nectar",
+    "id": "animals-nature-348"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which insect is the only one known to orient itself and navigate using the Milky Way galaxy?",
+    "options": [
+      "Monarch butterfly",
+      "Dung beetle",
+      "Honeybee",
+      "Locust"
+    ],
+    "answer": "Dung beetle",
+    "id": "animals-nature-349"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "The adult atlas moth lacks which anatomical feature, causing it to live only a few weeks solely to reproduce?",
+    "options": [
+      "Mouthparts and digestive system",
+      "Antennae for sensing pheromones",
+      "Legs for perching",
+      "Wings for sustained flight"
+    ],
+    "answer": "Mouthparts and digestive system",
+    "id": "animals-nature-350"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "The long tails on the hindwings of the Luna moth evolved primarily to serve what purpose?",
+    "options": [
+      "Confuse the echolocation of hunting bats",
+      "Regulate body temperature",
+      "Attract mates with visual displays",
+      "Glide further between tree canopies"
+    ],
+    "answer": "Confuse the echolocation of hunting bats",
+    "id": "animals-nature-351"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which insect holds the title of the largest butterfly in the world by wingspan?",
+    "options": [
+      "Atlas moth",
+      "Queen Alexandra's birdwing",
+      "African giant swallowtail",
+      "Goliath birdwing"
+    ],
+    "answer": "Queen Alexandra's birdwing",
+    "id": "animals-nature-352"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "The Portuguese man o' war is not a single organism but rather what?",
+    "options": [
+      "A symbiotic pairing of a polyp and a medusa",
+      "A type of jellyfish with multiple nuclei",
+      "A larval stage of a larger cephalopod",
+      "A colonial organism made of specialized zooids"
+    ],
+    "answer": "A colonial organism made of specialized zooids",
+    "id": "animals-nature-353"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "Unlike most other jellyfish, the box jellyfish possesses which complex anatomical feature?",
+    "options": [
+      "A venomous bite mechanism",
+      "A centralized brain ganglion",
+      "Eyes with retinas and corneas",
+      "Auditory sensors for vibration"
+    ],
+    "answer": "Eyes with retinas and corneas",
+    "id": "animals-nature-354"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "The comb jelly (ctenophore) creates a rainbow visual effect as it moves. How does it propel itself?",
+    "options": [
+      "Rows of ciliary 'combs'",
+      "Pulsing its bell-like body",
+      "Flicking its tentacles",
+      "Jetting water from its mouth"
+    ],
+    "answer": "Rows of ciliary 'combs'",
+    "id": "animals-nature-355"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "The sea cucumber breathes by taking water into which unusual body part?",
+    "options": [
+      "Tubular feet along its sides",
+      "Respiratory trees in its cloaca",
+      "Its stomach lining",
+      "Spiracles on its dorsal ridge"
+    ],
+    "answer": "Respiratory trees in its cloaca",
+    "id": "animals-nature-356"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which starfish species is a voracious corallivore that can devastate coral reefs during population outbreaks?",
+    "options": [
+      "Sunflower sea star",
+      "Sand sifting sea star",
+      "Blood star",
+      "Crown-of-thorns starfish"
+    ],
+    "answer": "Crown-of-thorns starfish",
+    "id": "animals-nature-357"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "Unlike other starfish that rely on tube feet, the brittle star primarily moves by doing what?",
+    "options": [
+      "Dragging its central disk",
+      "Jetting water from its mouth",
+      "Rowing its long, flexible arms",
+      "Rolling along the ocean floor"
+    ],
+    "answer": "Rowing its long, flexible arms",
+    "id": "animals-nature-358"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "The chambered nautilus regulates its buoyancy by doing what?",
+    "options": [
+      "Pumping gas and fluid into the chambers of its shell",
+      "Releasing hydrogen from its skin",
+      "Swallowing stones to act as ballast",
+      "Inflating a specialized lung sac"
+    ],
+    "answer": "Pumping gas and fluid into the chambers of its shell",
+    "id": "animals-nature-359"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "In the argonaut (paper nautilus), which sex secretes a delicate, calcareous shell-like eggcase?",
+    "options": [
+      "The male",
+      "Both sexes",
+      "Neither, they find abandoned shells",
+      "The female"
+    ],
+    "answer": "The female",
+    "id": "animals-nature-360"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "Unlike true squids that eject ink, the vampire squid defends itself by ejecting what?",
+    "options": [
+      "A cloud of acidic bubbles",
+      "A cloud of foul-smelling gas",
+      "A swarm of parasitic larvae",
+      "A cloud of bioluminescent mucus"
+    ],
+    "answer": "A cloud of bioluminescent mucus",
+    "id": "animals-nature-361"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "The colossal squid differs from the giant squid by possessing what unique feature on its tentacles?",
+    "options": [
+      "Venomous spines",
+      "Bioluminescent suckers",
+      "Electro-receptive pads",
+      "Swiveling hooks"
+    ],
+    "answer": "Swiveling hooks",
+    "id": "animals-nature-362"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "The flamboyant cuttlefish is one of the only known cephalopods that is highly what?",
+    "options": [
+      "Venomous",
+      "Bioluminescent",
+      "Toxic",
+      "Amphibious"
+    ],
+    "answer": "Toxic",
+    "id": "animals-nature-363"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "The blanket octopus defends itself by tearing off and wielding the stinging tentacles of which other marine animal?",
+    "options": [
+      "Sea anemone",
+      "Lionfish",
+      "Portuguese man o' war",
+      "Box jellyfish"
+    ],
+    "answer": "Portuguese man o' war",
+    "id": "animals-nature-364"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "The bobtail squid maintains a symbiotic relationship with bioluminescent bacteria primarily to do what?",
+    "options": [
+      "Hide its shadow from predators below",
+      "Stun prey with flashes of light",
+      "Signal potential mates in the dark",
+      "Attract small crustaceans to eat"
+    ],
+    "answer": "Hide its shadow from predators below",
+    "id": "animals-nature-365"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "The spiny dogfish shark possesses a unique defense mechanism consisting of what?",
+    "options": [
+      "Mild venomous spines in front of its dorsal fins",
+      "Toxic skin secretions",
+      "The ability to inflate its body",
+      "A high-voltage electric organ"
+    ],
+    "answer": "Mild venomous spines in front of its dorsal fins",
+    "id": "animals-nature-366"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "The horn shark uses its flat, molar-like teeth primarily to crush what type of prey?",
+    "options": [
+      "Hard-shelled invertebrates like sea urchins",
+      "Tough kelp and seaweed",
+      "Coral branches",
+      "Small schooling fish"
+    ],
+    "answer": "Hard-shelled invertebrates like sea urchins",
+    "id": "animals-nature-367"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "The epaulette shark can survive for hours in severely hypoxic (low-oxygen) water by doing what?",
+    "options": [
+      "Extracting oxygen directly from water via its fins",
+      "Entering a state of suspended animation",
+      "Reducing its metabolic rate and blood flow to non-essential organs",
+      "Switching to anaerobic respiration via its skin"
+    ],
+    "answer": "Reducing its metabolic rate and blood flow to non-essential organs",
+    "id": "animals-nature-368"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "When threatened, the swellshark defends itself by doing what?",
+    "options": [
+      "Shedding its skin to slip away",
+      "Emitting a high-pitched sonic burst",
+      "Inflating its stomach with water to double its size",
+      "Changing its skin texture to mimic a rock"
+    ],
+    "answer": "Inflating its stomach with water to double its size",
+    "id": "animals-nature-369"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "The goblin shark catches prey using a mechanism known as 'slingshot feeding,' which involves what?",
+    "options": [
+      "An extendable tongue",
+      "A suction cup-like mouth",
+      "A protrusible jaw that shoots out of its mouth",
+      "Tentacles hidden in its snout"
+    ],
+    "answer": "A protrusible jaw that shoots out of its mouth",
+    "id": "animals-nature-370"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which shark is the second-largest fish in the world and feeds entirely by filter-feeding on zooplankton?",
+    "options": [
+      "Great white shark",
+      "Whale shark",
+      "Megamouth shark",
+      "Basking shark"
+    ],
+    "answer": "Basking shark",
+    "id": "animals-nature-371"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "The megamouth shark possesses a highly luminous strip of tissue inside its upper jaw. What is its suspected purpose?",
+    "options": [
+      "Navigating in the dark",
+      "Scaring off predators",
+      "Communicating with mates",
+      "Attracting plankton"
+    ],
+    "answer": "Attracting plankton",
+    "id": "animals-nature-372"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "The thresher shark uses its exceptionally long, whip-like upper tail fin to do what?",
+    "options": [
+      "Create vortices to trap plankton",
+      "Dig for buried prey in the sand",
+      "Propel itself out of the water",
+      "Strike and stun schools of fish"
+    ],
+    "answer": "Strike and stun schools of fish",
+    "id": "animals-nature-373"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Despite its name and shark-like appearance, the sawfish is actually a type of what?",
+    "options": [
+      "Ray",
+      "Eel",
+      "Skate",
+      "Chimaera"
+    ],
+    "answer": "Ray",
+    "id": "animals-nature-374"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "The torpedo ray can generate an electric shock of up to how many volts to stun prey?",
+    "options": [
+      "860 volts",
+      "50 volts",
+      "200 volts",
+      "1,000 volts"
+    ],
+    "answer": "200 volts",
+    "id": "animals-nature-375"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "Which ray has the largest brain-to-body ratio of all cold-blooded fish and has been observed passing the mirror self-recognition test?",
+    "options": [
+      "Eagle ray",
+      "Manta ray",
+      "Stingray",
+      "Cowtail stingray"
+    ],
+    "answer": "Manta ray",
+    "id": "animals-nature-376"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "The coelacanth was thought to be extinct for 66 million years until a living specimen was found in 1938 off the coast of which continent?",
+    "options": [
+      "Africa",
+      "Australia",
+      "Asia",
+      "South America"
+    ],
+    "answer": "Africa",
+    "id": "animals-nature-377"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "The lungfish can survive severe droughts by burrowing into the mud and entering a state of what?",
+    "options": [
+      "Brumation",
+      "Torpor",
+      "Hibernation",
+      "Estivation"
+    ],
+    "answer": "Estivation",
+    "id": "animals-nature-378"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "The mudskipper is an amphibious fish that can breathe out of water primarily through what?",
+    "options": [
+      "Its skin and the lining of its mouth and throat",
+      "Its intestinal tract",
+      "Modified gills that function like lungs",
+      "A specialized dorsal fin"
+    ],
+    "answer": "Its skin and the lining of its mouth and throat",
+    "id": "animals-nature-379"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "The four-eyed fish (Anableps) possesses a unique eye adaptation that allows it to do what?",
+    "options": [
+      "Detect electrical fields in the water",
+      "See in complete darkness using infrared",
+      "Zoom in on prey like a telescope",
+      "See both above and below the water surface simultaneously"
+    ],
+    "answer": "See both above and below the water surface simultaneously",
+    "id": "animals-nature-380"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "The arapaima, one of the largest freshwater fish in the world, is an obligate what?",
+    "options": [
+      "Filter-feeder",
+      "Air-breather",
+      "Carnivore",
+      "Migrator"
+    ],
+    "answer": "Air-breather",
+    "id": "animals-nature-381"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "The pacu fish is closely related to the piranha but possesses what unusual dental feature?",
+    "options": [
+      "Square, human-like teeth for crushing nuts",
+      "Needle-like teeth that curve backward",
+      "No teeth at all",
+      "Continuously growing tusks"
+    ],
+    "answer": "Square, human-like teeth for crushing nuts",
+    "id": "animals-nature-382"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "The frogfish is a master of camouflage that lures prey using a modified dorsal fin spine known as what?",
+    "options": [
+      "A spiracle",
+      "An illicium",
+      "A rostrum",
+      "A barb"
+    ],
+    "answer": "An illicium",
+    "id": "animals-nature-383"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "The ocean sunfish (mola mola) holds the record for being the heaviest known species of what?",
+    "options": [
+      "Deep-sea fish",
+      "Bony fish",
+      "Jawless fish",
+      "Cartilaginous fish"
+    ],
+    "answer": "Bony fish",
+    "id": "animals-nature-384"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "The barreleye fish (Macropinna microstoma) possesses a transparent, fluid-filled dome on its head that serves what purpose?",
+    "options": [
+      "Protecting its tubular eyes while allowing them to peer upwards",
+      "Acting as a buoyancy device",
+      "Amplifying sound waves in the deep sea",
+      "Generating bioluminescence to attract prey"
+    ],
+    "answer": "Protecting its tubular eyes while allowing them to peer upwards",
+    "id": "animals-nature-385"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "The handfish is uniquely adapted to its benthic environment by doing what?",
+    "options": [
+      "Attaching itself permanently to coral reefs",
+      "Gliding through the water using wing-like fins",
+      "Burrowing completely into the sand for weeks",
+      "Walking along the sea floor using modified pectoral and pelvic fins"
+    ],
+    "answer": "Walking along the sea floor using modified pectoral and pelvic fins",
+    "id": "animals-nature-386"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "The gulper eel is famous for its highly distensible anatomy, allowing it to do what?",
+    "options": [
+      "Store oxygen for deep dives",
+      "Inflate itself to scare off predators",
+      "Filter massive amounts of water for plankton",
+      "Swallow prey much larger than itself"
+    ],
+    "answer": "Swallow prey much larger than itself",
+    "id": "animals-nature-387"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "The cookiecutter shark feeds by doing what to much larger marine animals?",
+    "options": [
+      "Laying eggs inside their gill slits",
+      "Filtering the skin flakes off their backs",
+      "Drinking their blood via specialized fangs",
+      "Taking perfectly round, cookie-shaped bites out of them"
+    ],
+    "answer": "Taking perfectly round, cookie-shaped bites out of them",
+    "id": "animals-nature-388"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "The pistol shrimp and the goby share a symbiotic relationship where the shrimp digs the burrow and the goby acts as what?",
+    "options": [
+      "A provider of food scraps",
+      "A lookout for predators",
+      "A defender against rival shrimp",
+      "A cleaner of parasites"
+    ],
+    "answer": "A lookout for predators",
+    "id": "animals-nature-389"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "The parrotfish secretes a mucus cocoon from its mouth while sleeping primarily to do what?",
+    "options": [
+      "Regulate its body temperature",
+      "Keep its gills moist in low tides",
+      "Prevent parasitic isopods from attaching",
+      "Hide its scent from predators like moray eels"
+    ],
+    "answer": "Hide its scent from predators like moray eels",
+    "id": "animals-nature-390"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "The bluehead wrasse exhibits protogynous hermaphroditism, meaning what?",
+    "options": [
+      "All individuals are born male and can change sex to female",
+      "They alternate sexes every breeding season",
+      "All individuals are born female and can change sex to male",
+      "They possess both male and female organs simultaneously"
+    ],
+    "answer": "All individuals are born female and can change sex to male",
+    "id": "animals-nature-391"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "The moray eel constantly opens and closes its mouth primarily to do what?",
+    "options": [
+      "Pump water over its gills for respiration",
+      "Signal to cleaner wrasses",
+      "Intimidate potential predators",
+      "Grind down its continuously growing teeth"
+    ],
+    "answer": "Pump water over its gills for respiration",
+    "id": "animals-nature-392"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "Unlike most fish, the sturgeon possesses a heterocercal tail and armor-like plates known as what?",
+    "options": [
+      "Cycloid scales",
+      "Ganoid scales",
+      "Scutes",
+      "Placoid scales"
+    ],
+    "answer": "Scutes",
+    "id": "animals-nature-393"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "The paddlefish uses its elongated rostrum (paddle) covered in electroreceptors primarily to do what?",
+    "options": [
+      "Detect plankton in murky water",
+      "Navigate using magnetic fields",
+      "Stun small fish",
+      "Communicate with other paddlefish"
+    ],
+    "answer": "Detect plankton in murky water",
+    "id": "animals-nature-394"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "The bichir is a primitive fish that possesses paired lungs and fleshy pectoral fins, making it an important evolutionary link to what?",
+    "options": [
+      "Modern coral reef fish",
+      "Early tetrapods",
+      "Cartilaginous sharks",
+      "Deep-sea anglerfish"
+    ],
+    "answer": "Early tetrapods",
+    "id": "animals-nature-395"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "The olm, a blind, cave-dwelling aquatic salamander in Europe, is capable of surviving for how long without food?",
+    "options": [
+      "Roughly 6 months",
+      "Up to 10 years",
+      "About 3 weeks",
+      "Exactly 2 years"
+    ],
+    "answer": "Up to 10 years",
+    "id": "animals-nature-396"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "The hellbender, a large aquatic salamander in North America, breathes primarily through what?",
+    "options": [
+      "A specialized lung sac",
+      "The lining of its mouth",
+      "The folds of its loose skin",
+      "External gills on its neck"
+    ],
+    "answer": "The folds of its loose skin",
+    "id": "animals-nature-397"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "Sirens are unique among amphibians because they possess front legs but lack what?",
+    "options": [
+      "Hind legs",
+      "Lungs",
+      "External gills",
+      "A tail"
+    ],
+    "answer": "Hind legs",
+    "id": "animals-nature-398"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "The caecilian is a highly unusual amphibian that physically resembles what other animal group?",
+    "options": [
+      "Frogs lacking hind legs",
+      "Legless reptiles or giant earthworms",
+      "Aquatic salamanders with flippers",
+      "Toads with elongated bodies"
+    ],
+    "answer": "Legless reptiles or giant earthworms",
+    "id": "animals-nature-399"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "In Darwin's frog, which parent carries the developing tadpoles, and where?",
+    "options": [
+      "The male, in his stomach",
+      "The female, in her mouth",
+      "The male, in his vocal sac",
+      "The female, in a dorsal pouch"
+    ],
+    "answer": "The male, in his vocal sac",
+    "id": "animals-nature-400"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "When threatened, the hairy frog employs which extreme defensive mechanism?",
+    "options": [
+      "Breaking its own toe bones to create retractable claws",
+      "Shedding its skin to slip away",
+      "Shooting toxic blood from its eyes",
+      "Inflating its body to twice its size"
+    ],
+    "answer": "Breaking its own toe bones to create retractable claws",
+    "id": "animals-nature-401"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "The spadefoot toad spends most of its life doing what?",
+    "options": [
+      "Floating in open ocean currents",
+      "Buried underground",
+      "High in the forest canopy",
+      "In deep subterranean caves"
+    ],
+    "answer": "Buried underground",
+    "id": "animals-nature-402"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "The gharial, a crocodilian native to the Indian subcontinent, is easily distinguished by what anatomical feature?",
+    "options": [
+      "A massive, dome-shaped casque on its head",
+      "A highly flexible, prehensile tail",
+      "An extremely long, narrow snout adapted for catching fish",
+      "Brightly colored scales on its underbelly"
+    ],
+    "answer": "An extremely long, narrow snout adapted for catching fish",
+    "id": "animals-nature-403"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which living animal has the most powerful bite force ever measured?",
+    "options": [
+      "Great white shark",
+      "Saltwater crocodile",
+      "Hippopotamus",
+      "Jaguar"
+    ],
+    "answer": "Saltwater crocodile",
+    "id": "animals-nature-404"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "The Gila monster is one of the few venomous lizards in the world. How does it deliver its venom?",
+    "options": [
+      "By secreting it through its skin pores",
+      "Via a stinger on its tail",
+      "By chewing it through grooved teeth",
+      "Through hollow fangs like a snake"
+    ],
+    "answer": "By chewing it through grooved teeth",
+    "id": "animals-nature-405"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "The thorny devil, an Australian lizard, has capillary channels between its scales that serve what function?",
+    "options": [
+      "Excreting excess salt",
+      "Dissipating extreme desert heat",
+      "Drawing water up to its mouth from anywhere on its body",
+      "Changing color for camouflage"
+    ],
+    "answer": "Drawing water up to its mouth from anywhere on its body",
+    "id": "animals-nature-406"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "The flying lizard (Draco) can glide between trees using 'patagia,' which are gliding membranes supported by what?",
+    "options": [
+      "Flattened tail scales",
+      "Modified leg muscles",
+      "Extended finger bones",
+      "Elongated ribs"
+    ],
+    "answer": "Elongated ribs",
+    "id": "animals-nature-407"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "Jackson's chameleon differs from many other chameleon species because it gives birth to live young and possesses what unique feature?",
+    "options": [
+      "Nocturnal vision adaptations",
+      "The ability to change color to bright red",
+      "A prehensile tongue twice its body length",
+      "Three horns on its head"
+    ],
+    "answer": "Three horns on its head",
+    "id": "animals-nature-408"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "The tokay gecko gets its common name from what?",
+    "options": [
+      "The specific region in Indonesia where it lives",
+      "The indigenous tribe that first documented it",
+      "The scientist who discovered it",
+      "Its distinctive vocalization that sounds like 'to-kay'"
+    ],
+    "answer": "Its distinctive vocalization that sounds like 'to-kay'",
+    "id": "animals-nature-409"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "The Nile monitor, an invasive species in places like Florida, is notorious for raiding the nests of what animal to eat their eggs?",
+    "options": [
+      "Sea turtles",
+      "Snapping turtles",
+      "Alligators",
+      "Wading birds"
+    ],
+    "answer": "Alligators",
+    "id": "animals-nature-410"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "When threatened, the chuckwalla lizard wedges itself into rock crevices and does what to avoid being pulled out?",
+    "options": [
+      "Secretes a sticky resin",
+      "Inflates its lungs",
+      "Drops its tail",
+      "Hardens its scales"
+    ],
+    "answer": "Inflates its lungs",
+    "id": "animals-nature-411"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "The Uromastyx, or spiny-tailed lizard, uses its thick, spiky tail primarily to do what?",
+    "options": [
+      "Whip predators",
+      "Store fat reserves",
+      "Signal mates",
+      "Act as a plug to seal its burrow"
+    ],
+    "answer": "Act as a plug to seal its burrow",
+    "id": "animals-nature-412"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "A snake's eyes are permanently covered by a clear, protective scale known as what?",
+    "options": [
+      "A nictitating membrane",
+      "An ocular scute",
+      "A brille (spectacle)",
+      "A corneal shield"
+    ],
+    "answer": "A brille (spectacle)",
+    "id": "animals-nature-413"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "Based on LD50 tests in mice, which snake possesses the most toxic venom in the world?",
+    "options": [
+      "Eastern brown snake",
+      "King cobra",
+      "Black mamba",
+      "Inland taipan"
+    ],
+    "answer": "Inland taipan",
+    "id": "animals-nature-414"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "The black mamba gets its common name not from the color of its scales, but from the black coloration inside its what?",
+    "options": [
+      "Stomach lining",
+      "Eye pupils",
+      "Venom sacs",
+      "Mouth"
+    ],
+    "answer": "Mouth",
+    "id": "animals-nature-415"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "The boomslang is a highly venomous African colubrid snake whose venom is primarily a hemotoxin. It was responsible for the death of which famous herpetologist?",
+    "options": [
+      "Jeff Corwin",
+      "Steve Irwin",
+      "Marlin Perkins",
+      "Karl Schmidt"
+    ],
+    "answer": "Karl Schmidt",
+    "id": "animals-nature-416"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "The tentacled snake, a fully aquatic snake in Southeast Asia, possesses two fleshy tentacles on its snout used to do what?",
+    "options": [
+      "Filter oxygen from the water",
+      "Detect motion in the water",
+      "Lure small fish",
+      "Sense electrical fields"
+    ],
+    "answer": "Detect motion in the water",
+    "id": "animals-nature-417"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "The egg-eating snake lacks teeth entirely. Instead, it uses what to crack open bird eggs?",
+    "options": [
+      "Its muscular body contractions",
+      "Powerful stomach acids",
+      "Hardened scales on its palate",
+      "Bony projections from its spine in its throat"
+    ],
+    "answer": "Bony projections from its spine in its throat",
+    "id": "animals-nature-418"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "When severely threatened, the hognose snake engages in thanatosis, which means it does what?",
+    "options": [
+      "Changes color to match the dirt",
+      "Sheds its skin instantly",
+      "Plays dead",
+      "Buries itself in sand"
+    ],
+    "answer": "Plays dead",
+    "id": "animals-nature-419"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which venomous snake holds the record for having the longest fangs in the world, reaching up to 2 inches?",
+    "options": [
+      "Reticulated python",
+      "Gaboon viper",
+      "Bushmaster",
+      "King cobra"
+    ],
+    "answer": "Gaboon viper",
+    "id": "animals-nature-420"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Pit vipers possess loreal pits between their eyes and nostrils that allow them to detect what?",
+    "options": [
+      "Pheromones",
+      "Infrared radiation (heat)",
+      "Electrical fields",
+      "Ultraviolet light"
+    ],
+    "answer": "Infrared radiation (heat)",
+    "id": "animals-nature-421"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Relative to its body mass, which living mammalian carnivore possesses the most powerful bite force, allowing it to easily crush bones?",
+    "options": [
+      "Jaguar",
+      "Tasmanian devil",
+      "Wolverine",
+      "Spotted hyena"
+    ],
+    "answer": "Tasmanian devil",
+    "id": "animals-nature-422"
+  },
+  {
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "Under a microscope, the fingerprints of which marsupial are virtually indistinguishable from human fingerprints?",
+    "options": [
+      "Wombat",
+      "Kangaroo",
+      "Koala",
+      "Possum"
+    ],
+    "answer": "Koala",
+    "id": "animals-nature-423"
+  },
+  {
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "The echidna and the platypus are the only surviving species of what unique type of mammal?",
+    "options": [
+      "Marsupials",
+      "Monotremes (egg-laying mammals)",
+      "Xenarthrans",
+      "Afrotherians"
+    ],
+    "answer": "Monotremes (egg-laying mammals)",
+    "id": "animals-nature-424"
   }
 ]
