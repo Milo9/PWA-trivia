@@ -1870,5 +1870,1279 @@
       "Devanagari"
     ],
     "answer": "Latin alphabet"
+  },
+  {
+    "id": "world-cultures-002",
+    "difficulty": "medium",
+    "category": "world-cultures",
+    "question": "As of 2026, approximately how many inhabitants of La Gomera, Canary Islands, speak Silbo Gomero?",
+    "options": [
+      "Only the elderly",
+      "Fewer than 1,000 speakers",
+      "Over 22,000 inhabitants",
+      "Around 5,000 inhabitants"
+    ],
+    "answer": "Over 22,000 inhabitants"
+  },
+  {
+    "id": "world-cultures-003",
+    "difficulty": "medium",
+    "category": "world-cultures",
+    "question": "The Rotokas language of Papua New Guinea is known for having the world's shortest alphabet. How many letters does it contain?",
+    "options": [
+      "20",
+      "26",
+      "12",
+      "15"
+    ],
+    "answer": "12"
+  },
+  {
+    "id": "world-cultures-004",
+    "difficulty": "medium",
+    "category": "world-cultures",
+    "question": "The Khmer script of Cambodia holds a Guinness World Record for the largest alphabet. How many distinct characters does it include?",
+    "options": [
+      "33",
+      "74",
+      "52",
+      "88"
+    ],
+    "answer": "74"
+  },
+  {
+    "id": "world-cultures-005",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "Which of the following is a distinctive grammatical feature of the Basque language?",
+    "options": [
+      "It has no grammatical gender",
+      "It is a Romance language",
+      "It has three grammatical genders",
+      "It uses only base-ten numbering"
+    ],
+    "answer": "It has no grammatical gender"
+  },
+  {
+    "id": "world-cultures-006",
+    "difficulty": "medium",
+    "category": "world-cultures",
+    "question": "In written Xhosa, which three letters represent the language's main click consonants?",
+    "options": [
+      "b, d, and g",
+      "s, sh, and ch",
+      "c, x, and q",
+      "k, t, and p"
+    ],
+    "answer": "c, x, and q"
+  },
+  {
+    "id": "world-cultures-007",
+    "difficulty": "medium",
+    "category": "world-cultures",
+    "question": "Approximately how many overripe tomatoes are thrown during Spain's La Tomatina festival each year?",
+    "options": [
+      "Around 50 tonnes",
+      "Around 15 tonnes",
+      "Around 150 tonnes",
+      "Around 1,500 tonnes"
+    ],
+    "answer": "Around 150 tonnes"
+  },
+  {
+    "id": "world-cultures-008",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "In which Spanish village do men dressed as devils leap over newborn babies during the festival known as El Colacho?",
+    "options": [
+      "Barcelona, Spain",
+      "Pamplona, Spain",
+      "Castrillo de Murcia, Spain",
+      "Buñol, Spain"
+    ],
+    "answer": "Castrillo de Murcia, Spain"
+  },
+  {
+    "id": "world-cultures-009",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "The Noche de Rábanos festival, where artisans carve giant radishes into elaborate scenes, takes place in which Mexican city?",
+    "options": [
+      "Puebla, Mexico",
+      "Oaxaca, Mexico",
+      "Guadalajara, Mexico",
+      "Mexico City"
+    ],
+    "answer": "Oaxaca, Mexico"
+  },
+  {
+    "id": "world-cultures-010",
+    "difficulty": "medium",
+    "category": "world-cultures",
+    "question": "The Wife Carrying World Championships, where winners receive the wife's weight in beer, are held annually in which Finnish town?",
+    "options": [
+      "Reykjavik, Iceland",
+      "Stockholm, Sweden",
+      "Oslo, Norway",
+      "Sonkajärvi, Finland"
+    ],
+    "answer": "Sonkajärvi, Finland"
+  },
+  {
+    "id": "world-cultures-011",
+    "difficulty": "medium",
+    "category": "world-cultures",
+    "question": "Which Thai city hosts an annual festival where thousands of macaques are treated to a massive buffet of fruits and vegetables?",
+    "options": [
+      "Chiang Mai, Thailand",
+      "Bangkok, Thailand",
+      "Phuket, Thailand",
+      "Lopburi, Thailand"
+    ],
+    "answer": "Lopburi, Thailand"
+  },
+  {
+    "id": "world-cultures-012",
+    "difficulty": "medium",
+    "category": "world-cultures",
+    "question": "The Famadihana ceremony, in which families exhume ancestors to rewrap them in fresh cloth and dance with the bodies, is practiced on which island nation?",
+    "options": [
+      "Fiji",
+      "Madagascar",
+      "Indonesia",
+      "Papua New Guinea"
+    ],
+    "answer": "Madagascar"
+  },
+  {
+    "id": "world-cultures-013",
+    "difficulty": "medium",
+    "category": "world-cultures",
+    "question": "During the German pre-wedding tradition called Polterabend, guests smash which materials to bring good luck?",
+    "options": [
+      "Metal objects",
+      "Glass and mirrors",
+      "Porcelain and ceramics",
+      "Wood and paper"
+    ],
+    "answer": "Porcelain and ceramics"
+  },
+  {
+    "id": "world-cultures-014",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "The Tinku festival, where participants engage in ritualistic street brawls to offer blood to Pachamama for a good harvest, originated in which country?",
+    "options": [
+      "Chile",
+      "Peru",
+      "Bolivia",
+      "Ecuador"
+    ],
+    "answer": "Bolivia"
+  },
+  {
+    "id": "world-cultures-015",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "In Denmark, what substances are traditionally thrown at unmarried people on their 25th and 30th birthdays respectively?",
+    "options": [
+      "Pepper at 25, cinnamon at 30",
+      "Flour at 25, eggs at 30",
+      "Water at 25, mud at 30",
+      "Cinnamon at 25, pepper at 30"
+    ],
+    "answer": "Cinnamon at 25, pepper at 30"
+  },
+  {
+    "id": "world-cultures-016",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "Which Amazonian tribe uses gloves filled with bullet ants as a coming-of-age ritual for young men?",
+    "options": [
+      "Dani tribe, Indonesia",
+      "Maasai people, Kenya",
+      "Satere-Mawe tribe, Brazil",
+      "Ainu people, Japan"
+    ],
+    "answer": "Satere-Mawe tribe, Brazil"
+  },
+  {
+    "id": "world-cultures-017",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "The Dani tribe's practice of ikipalin, in which women amputate finger segments to mourn the dead, is found in which country?",
+    "options": [
+      "Papua New Guinea",
+      "Malaysia",
+      "Indonesia",
+      "Philippines"
+    ],
+    "answer": "Indonesia"
+  },
+  {
+    "id": "world-cultures-018",
+    "difficulty": "medium",
+    "category": "world-cultures",
+    "question": "The Hadaka Matsuri, or 'Naked Festival,' where thousands of men in loincloths compete to catch sacred wooden sticks, is held at Saidai-ji Temple in which Japanese prefecture?",
+    "options": [
+      "Kyoto, Japan",
+      "Tokyo, Japan",
+      "Osaka, Japan",
+      "Okayama, Japan"
+    ],
+    "answer": "Okayama, Japan"
+  },
+  {
+    "id": "world-cultures-019",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "The Naki Sumo festival, where sumo wrestlers compete to make babies cry first, takes place at Sensoji Temple in which city?",
+    "options": [
+      "Osaka, Japan",
+      "Kyoto, Japan",
+      "Nagoya, Japan",
+      "Tokyo, Japan"
+    ],
+    "answer": "Tokyo, Japan"
+  },
+  {
+    "id": "world-cultures-020",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "The Busójárás festival, where locals in wooden masks and wool costumes chase away winter, is celebrated in which Hungarian town?",
+    "options": [
+      "Budapest, Hungary",
+      "Krakow, Poland",
+      "Prague, Czech Republic",
+      "Mohács, Hungary"
+    ],
+    "answer": "Mohács, Hungary"
+  },
+  {
+    "id": "world-cultures-021",
+    "difficulty": "medium",
+    "category": "world-cultures",
+    "question": "Which activity is commonly performed during China's Qingming Festival to honor ancestors?",
+    "options": [
+      "Releasing floating lanterns on water",
+      "Throwing colored powder",
+      "Burning spirit money and paper goods",
+      "Wearing masks and costumes"
+    ],
+    "answer": "Burning spirit money and paper goods"
+  },
+  {
+    "id": "world-cultures-022",
+    "difficulty": "medium",
+    "category": "world-cultures",
+    "question": "Obon, the Japanese Buddhist festival when families welcome ancestral spirits back home, is traditionally observed on which dates?",
+    "options": [
+      "January 1-3",
+      "August 13-15",
+      "November 11-13",
+      "March 3-5"
+    ],
+    "answer": "August 13-15"
+  },
+  {
+    "id": "world-cultures-023",
+    "difficulty": "medium",
+    "category": "world-cultures",
+    "question": "Inti Raymi, the Inca Festival of the Sun, is celebrated annually in Cusco, Peru on which date?",
+    "options": [
+      "March 20",
+      "September 22",
+      "June 24",
+      "December 21"
+    ],
+    "answer": "June 24"
+  },
+  {
+    "id": "world-cultures-024",
+    "difficulty": "easy",
+    "category": "world-cultures",
+    "question": "Mongolia's Naadam festival is famous for its 'Three Manly Games.' Which three sports are featured?",
+    "options": [
+      "Soccer, basketball, and tennis",
+      "Wrestling, horse racing, and archery",
+      "Sword fighting, javelin, and swimming",
+      "Polo, gymnastics, and weightlifting"
+    ],
+    "answer": "Wrestling, horse racing, and archery"
+  },
+  {
+    "id": "world-cultures-025",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "The Bun Bang Fai rocket festival, held to encourage rain and fertility at the end of the dry season, is a tradition of which Southeast Asian country?",
+    "options": [
+      "Thailand",
+      "Laos",
+      "Myanmar",
+      "Cambodia"
+    ],
+    "answer": "Laos"
+  },
+  {
+    "id": "world-cultures-026",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "La Pourcailhade, a now-discontinued festival in France, featured contestants competing in which unusual activity?",
+    "options": [
+      "Cheese rolling",
+      "Tomato throwing",
+      "Pig squealing",
+      "Radish carving"
+    ],
+    "answer": "Pig squealing"
+  },
+  {
+    "id": "world-cultures-027",
+    "difficulty": "medium",
+    "category": "world-cultures",
+    "question": "The Feria de Abril, known for its casetas tents and sevillanas dancing, is held in which Spanish city?",
+    "options": [
+      "Barcelona, Spain",
+      "Madrid, Spain",
+      "Valencia, Spain",
+      "Seville, Spain"
+    ],
+    "answer": "Seville, Spain"
+  },
+  {
+    "id": "world-cultures-028",
+    "difficulty": "medium",
+    "category": "world-cultures",
+    "question": "During Japan's Tanabata festival, people traditionally write wishes on colorful paper strips and hang them from what?",
+    "options": [
+      "Giant radish carvings",
+      "Floating lanterns on rivers",
+      "Bamboo branches with paper strips",
+      "Breaking porcelain plates"
+    ],
+    "answer": "Bamboo branches with paper strips"
+  },
+  {
+    "id": "world-cultures-029",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "According to regional traditions, what material are Diwali diyas most commonly made from in North India?",
+    "options": [
+      "Bamboo, in East India",
+      "Glass, throughout India",
+      "Metal, in South India",
+      "Clay, in North India"
+    ],
+    "answer": "Clay, in North India"
+  },
+  {
+    "id": "world-cultures-030",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "What is the defining feature of the traditional Venetian Bauta mask?",
+    "options": [
+      "It covers only the eyes",
+      "It is a half-mask for the lower face",
+      "It is a black velvet oval",
+      "It covers the full face but leaves the mouth accessible"
+    ],
+    "answer": "It covers the full face but leaves the mouth accessible"
+  },
+  {
+    "id": "world-cultures-031",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "In which year did Nicaraguan Sign Language begin to emerge spontaneously among deaf children at a special education center in Managua?",
+    "options": [
+      "1950",
+      "1880",
+      "1977",
+      "1995"
+    ],
+    "answer": "1977"
+  },
+  {
+    "id": "world-cultures-032",
+    "difficulty": "medium",
+    "category": "world-cultures",
+    "question": "South Korea officially switched from the traditional Korean age system to the international age system in which month and year?",
+    "options": [
+      "September 2018",
+      "March 2015",
+      "June 2023",
+      "January 2020"
+    ],
+    "answer": "June 2023"
+  },
+  {
+    "id": "world-cultures-033",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "What are the standard dimensions of a Japanese business card (meishi)?",
+    "options": [
+      "85 mm x 50 mm",
+      "91 mm x 55 mm",
+      "89 mm x 51 mm",
+      "95 mm x 60 mm"
+    ],
+    "answer": "91 mm x 55 mm"
+  },
+  {
+    "id": "world-cultures-034",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "In the Tujia crying marriage custom of China, how long before the wedding does the bride begin her daily hour of weeping?",
+    "options": [
+      "On the wedding day only",
+      "During the engagement period",
+      "One month before the wedding",
+      "One week after the wedding"
+    ],
+    "answer": "One month before the wedding"
+  },
+  {
+    "id": "world-cultures-035",
+    "difficulty": "medium",
+    "category": "world-cultures",
+    "question": "What is the traditional purpose of a Welsh lovespoon?",
+    "options": [
+      "A cooking utensil used at weddings",
+      "A token of romantic affection carved by suitors",
+      "A religious offering at churches",
+      "A tool for measuring grain"
+    ],
+    "answer": "A token of romantic affection carved by suitors"
+  },
+  {
+    "id": "world-cultures-036",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "In the Peruvian wedding tradition called cintas de la torta, what does the single woman who pulls the ribbon with the ring attached symbolically become?",
+    "options": [
+      "The next woman to have a baby",
+      "The woman who will find wealth",
+      "The next woman to get engaged",
+      "The woman who will travel abroad"
+    ],
+    "answer": "The next woman to get engaged"
+  },
+  {
+    "id": "world-cultures-037",
+    "difficulty": "medium",
+    "category": "world-cultures",
+    "question": "What happens during the Jewish wedding tradition known as the bedeken?",
+    "options": [
+      "The couple breaks a glass underfoot",
+      "The bride circles the groom seven times",
+      "The groom places a veil over the bride's face",
+      "The groom reads from the Torah"
+    ],
+    "answer": "The groom places a veil over the bride's face"
+  },
+  {
+    "id": "world-cultures-038",
+    "difficulty": "medium",
+    "category": "world-cultures",
+    "question": "What is the adumu in Maasai culture?",
+    "options": [
+      "A harvest celebration with drums",
+      "A funeral ritual with chanting",
+      "A jumping dance performed by young male warriors",
+      "A wedding procession with cattle"
+    ],
+    "answer": "A jumping dance performed by young male warriors"
+  },
+  {
+    "id": "world-cultures-039",
+    "difficulty": "medium",
+    "category": "world-cultures",
+    "question": "How is traditional Inuit katajjaq throat singing typically performed?",
+    "options": [
+      "A solo performance by male hunters",
+      "Two women face each other in a vocal contest",
+      "A group chant around a drum circle",
+      "A lullaby sung by mothers to infants"
+    ],
+    "answer": "Two women face each other in a vocal contest"
+  },
+  {
+    "id": "world-cultures-040",
+    "difficulty": "medium",
+    "category": "world-cultures",
+    "question": "In Tibetan sky burial, how is the deceased's body disposed of?",
+    "options": [
+      "The body is cremated on a pyre",
+      "Vultures consume the body",
+      "The body is buried in the earth",
+      "The body is placed in a river"
+    ],
+    "answer": "Vultures consume the body"
+  },
+  {
+    "id": "world-cultures-041",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "What is a gákti in Sami culture?",
+    "options": [
+      "A type of reindeer sled",
+      "A ceremonial drum used in rituals",
+      "Traditional clothing indicating region and family",
+      "A style of polyphonic singing"
+    ],
+    "answer": "Traditional clothing indicating region and family"
+  },
+  {
+    "id": "world-cultures-042",
+    "difficulty": "medium",
+    "category": "world-cultures",
+    "question": "Which statement accurately describes the modern use of the Māori haka?",
+    "options": [
+      "It is performed only before battles",
+      "It is a solo dance for the tribe chief",
+      "It is performed at weddings, funerals, and to welcome guests",
+      "It is sung exclusively by women"
+    ],
+    "answer": "It is performed at weddings, funerals, and to welcome guests"
+  },
+  {
+    "id": "world-cultures-043",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "In traditional Zulu beadwork, what does an upward-pointing triangular tip signify?",
+    "options": [
+      "A downward tip indicates a married woman",
+      "An hourglass indicates a child",
+      "A diamond shape indicates a widower",
+      "An upward-pointing tip indicates an unmarried female"
+    ],
+    "answer": "An upward-pointing tip indicates an unmarried female"
+  },
+  {
+    "id": "world-cultures-044",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "In Tlingit culture, how is social status traditionally demonstrated during a potlatch?",
+    "options": [
+      "It is a silent meditation ceremony",
+      "Status is gained by accumulating wealth",
+      "Status is gained by giving away wealth",
+      "It involves competitive wrestling matches"
+    ],
+    "answer": "Status is gained by giving away wealth"
+  },
+  {
+    "id": "world-cultures-045",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "Which of the following is a documented feature of the Pirahã language spoken in the Brazilian Amazon?",
+    "options": [
+      "It has over 100 words for snow",
+      "It uses a 74-character alphabet",
+      "It has no words for precise numbers",
+      "It is written in whistles only"
+    ],
+    "answer": "It has no words for precise numbers"
+  },
+  {
+    "id": "world-cultures-046",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "What is the current state of knowledge about the Sentinelese language?",
+    "options": [
+      "It is taught in Indian schools",
+      "It has a written grammar book",
+      "It remains virtually undocumented",
+      "It is mutually intelligible with Hindi"
+    ],
+    "answer": "It remains virtually undocumented"
+  },
+  {
+    "id": "world-cultures-047",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "What was the key initiative that sparked the modern revival of the Hawaiian language in the 1980s?",
+    "options": [
+      "English-only public schools",
+      "French missionary schools",
+      "Online apps only",
+      "Pūnana Leo preschools"
+    ],
+    "answer": "Pūnana Leo preschools"
+  },
+  {
+    "id": "world-cultures-048",
+    "difficulty": "medium",
+    "category": "world-cultures",
+    "question": "What is the Mongolian term for the traditional art of throat singing that produces multiple harmonic overtones?",
+    "options": [
+      "Haka",
+      "Joik",
+      "Katajjaq",
+      "Khoomei"
+    ],
+    "answer": "Khoomei"
+  },
+  {
+    "id": "world-cultures-049",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "Ancient Polynesian wayfinders traditionally measured star altitude using what technique?",
+    "options": [
+      "Magnetic compasses",
+      "Following seabirds exclusively",
+      "Hand measurements against the horizon",
+      "Written star charts on paper"
+    ],
+    "answer": "Hand measurements against the horizon"
+  },
+  {
+    "id": "world-cultures-050",
+    "difficulty": "medium",
+    "category": "world-cultures",
+    "question": "On which day after birth is the traditional Igbo naming ceremony (Ìsọmọlórúkọ) held?",
+    "options": [
+      "The day of birth",
+      "The child's first birthday",
+      "The eighth day after birth",
+      "The first full moon"
+    ],
+    "answer": "The eighth day after birth"
+  },
+  {
+    "id": "world-cultures-051",
+    "difficulty": "medium",
+    "category": "world-cultures",
+    "question": "In Russian naming tradition, what is the origin of a person's patronymic?",
+    "options": [
+      "It is derived from the mother's first name",
+      "It is chosen from a saint's feast day",
+      "It is derived from the father's first name",
+      "It is the same as the family surname"
+    ],
+    "answer": "It is derived from the father's first name"
+  },
+  {
+    "id": "world-cultures-052",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "In Arabic naming tradition, what is a kunya?",
+    "options": [
+      "A family surname passed down generations",
+      "A religious title given by scholars",
+      "A social name based on the firstborn child's name",
+      "A nickname based on physical appearance"
+    ],
+    "answer": "A social name based on the firstborn child's name"
+  },
+  {
+    "id": "world-cultures-053",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "Which pair of names do the Yoruba people traditionally give to twins?",
+    "options": [
+      "Dmitry and Ivan",
+      "Chukwuemeka and Kamsiyochukwu",
+      "Taiwo and Kehinde",
+      "Abu and Umm"
+    ],
+    "answer": "Taiwo and Kehinde"
+  },
+  {
+    "id": "world-cultures-054",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "How is identity traditionally determined in Navajo naming and kinship systems?",
+    "options": [
+      "Patrilineal surname inheritance",
+      "Matrilineal clan affiliations",
+      "Patronymic middle names",
+      "Saint-based name days"
+    ],
+    "answer": "Matrilineal clan affiliations"
+  },
+  {
+    "id": "world-cultures-055",
+    "difficulty": "easy",
+    "category": "world-cultures",
+    "question": "In Korean naming convention, what is the standard order of names?",
+    "options": [
+      "Given name first, family name second",
+      "Family name first, given name second",
+      "Patronymic first, given name second",
+      "Only a single name is used"
+    ],
+    "answer": "Family name first, given name second"
+  },
+  {
+    "id": "world-cultures-056",
+    "difficulty": "medium",
+    "category": "world-cultures",
+    "question": "What is the typical structure of a Spanish person's full name?",
+    "options": [
+      "Given name, mother's surname, father's surname",
+      "Family name and patronymic only",
+      "A single surname is used",
+      "Given name, father's surname, mother's surname"
+    ],
+    "answer": "Given name, father's surname, mother's surname"
+  },
+  {
+    "id": "world-cultures-057",
+    "difficulty": "medium",
+    "category": "world-cultures",
+    "question": "What is proper etiquette at the start of a communal meal in South Korea?",
+    "options": [
+      "The youngest person serves first",
+      "Women eat before men",
+      "Wait for the oldest person to take the first bite",
+      "Everyone must eat simultaneously"
+    ],
+    "answer": "Wait for the oldest person to take the first bite"
+  },
+  {
+    "id": "world-cultures-058",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "In some traditional Spanish tapas bars, what do patrons do with their litter to signal that the bar is popular?",
+    "options": [
+      "Stacking plates neatly",
+      "Leaving tips on the table",
+      "Throwing napkins and litter on the floor",
+      "Bringing your own dishes"
+    ],
+    "answer": "Throwing napkins and litter on the floor"
+  },
+  {
+    "id": "world-cultures-059",
+    "difficulty": "medium",
+    "category": "world-cultures",
+    "question": "In Thailand, what is the primary proper use of a fork at the dinner table?",
+    "options": [
+      "Eat noodles directly with it",
+      "Cut meat like a knife",
+      "Use it to push food onto a spoon",
+      "Stir drinks with it"
+    ],
+    "answer": "Use it to push food onto a spoon"
+  },
+  {
+    "id": "world-cultures-060",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "In Russian dining etiquette, what does leaving a small amount of food on your plate communicate?",
+    "options": [
+      "Finishing everything signals you are full",
+      "Turning the plate upside down",
+      "Leaving a little food signals you are full",
+      "Placing chopsticks across the bowl"
+    ],
+    "answer": "Leaving a little food signals you are full"
+  },
+  {
+    "id": "world-cultures-061",
+    "difficulty": "medium",
+    "category": "world-cultures",
+    "question": "In Italy, why might ordering a cappuccino after lunch or dinner draw disapproval?",
+    "options": [
+      "It is the traditional dessert drink",
+      "It is considered inappropriate after a meal",
+      "It is served only at weddings",
+      "It replaces espresso at breakfast"
+    ],
+    "answer": "It is considered inappropriate after a meal"
+  },
+  {
+    "id": "world-cultures-062",
+    "difficulty": "medium",
+    "category": "world-cultures",
+    "question": "What is injera in Ethiopian dining culture?",
+    "options": [
+      "A spicy meat dish cooked in clay",
+      "A communal flatbread used to scoop stews",
+      "A fermented honey wine",
+      "A ceremonial coffee ceremony"
+    ],
+    "answer": "A communal flatbread used to scoop stews"
+  },
+  {
+    "id": "world-cultures-063",
+    "difficulty": "easy",
+    "category": "world-cultures",
+    "question": "In traditional Indian dining, which hand is customarily used for eating?",
+    "options": [
+      "The left hand is used for eating",
+      "Both hands must be clasped together",
+      "Only utensils may touch food",
+      "The right hand is used for eating"
+    ],
+    "answer": "The right hand is used for eating"
+  },
+  {
+    "id": "world-cultures-064",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "In Chile, what is considered proper etiquette regarding touching food during a meal?",
+    "options": [
+      "Bread is broken by hand",
+      "Even fries must be eaten with utensils",
+      "Fruit is peeled with fingers",
+      "Soup is drunk directly from the bowl"
+    ],
+    "answer": "Even fries must be eaten with utensils"
+  },
+  {
+    "id": "world-cultures-065",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "In Colombia, what is the general rule for eating food at the table?",
+    "options": [
+      "Only meat requires utensils",
+      "Hands are preferred for most foods",
+      "All food, including fruit, is eaten with utensils",
+      "Chopsticks are used for rice"
+    ],
+    "answer": "All food, including fruit, is eaten with utensils"
+  },
+  {
+    "id": "world-cultures-066",
+    "difficulty": "medium",
+    "category": "world-cultures",
+    "question": "What is the socially expected arrival time for a dinner invitation in Mexico?",
+    "options": [
+      "Arriving exactly on time is polite",
+      "Guests should arrive before the host",
+      "Arriving 30 minutes late is expected",
+      "Arriving one hour early is customary"
+    ],
+    "answer": "Arriving 30 minutes late is expected"
+  },
+  {
+    "id": "world-cultures-067",
+    "difficulty": "medium",
+    "category": "world-cultures",
+    "question": "What is the standard utensil combination for eating a meal in the Philippines?",
+    "options": [
+      "Chopsticks are standard",
+      "Only a knife and fork are used",
+      "A fork and spoon are used together",
+      "Hands are used for all foods"
+    ],
+    "answer": "A fork and spoon are used together"
+  },
+  {
+    "id": "world-cultures-068",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "In Austria, what is the proper way to eat a dumpling?",
+    "options": [
+      "Cut it with a knife into small pieces",
+      "Break it apart with a fork, never cut it",
+      "Eat it with your fingers",
+      "Dip it in soup before eating"
+    ],
+    "answer": "Break it apart with a fork, never cut it"
+  },
+  {
+    "id": "world-cultures-069",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "In Sweden, where should your hands be positioned during a meal?",
+    "options": [
+      "Place hands in the lap between bites",
+      "Keep hands visible on the table, not in the lap",
+      "Fold arms while chewing",
+      "Rest elbows on the table"
+    ],
+    "answer": "Keep hands visible on the table, not in the lap"
+  },
+  {
+    "id": "world-cultures-070",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "According to English superstition, what should you do when you see a single magpie to ward off bad luck?",
+    "options": [
+      "Throw a coin over your shoulder",
+      "Salute the magpie and greet it politely",
+      "Turn around three times",
+      "Whistle a specific tune"
+    ],
+    "answer": "Salute the magpie and greet it politely"
+  },
+  {
+    "id": "world-cultures-071",
+    "difficulty": "medium",
+    "category": "world-cultures",
+    "question": "In Malaysia, what is the cultural significance of touching another person's head?",
+    "options": [
+      "Patting a child's head brings good luck",
+      "The head should be bowed when greeting",
+      "Touching someone's head is considered very rude",
+      "Covering the head is mandatory indoors"
+    ],
+    "answer": "Touching someone's head is considered very rude"
+  },
+  {
+    "id": "world-cultures-072",
+    "difficulty": "medium",
+    "category": "world-cultures",
+    "question": "In Japan, how is asking someone's age when you first meet them generally viewed?",
+    "options": [
+      "Age is never discussed in any context",
+      "Only doctors may ask a person's age",
+      "Asking age is considered extremely rude",
+      "Asking someone's age upon first meeting is normal"
+    ],
+    "answer": "Asking someone's age upon first meeting is normal"
+  },
+  {
+    "id": "world-cultures-073",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "In Nicaragua and Colombia, how do people commonly point to indicate direction?",
+    "options": [
+      "Using the index finger",
+      "Nodding the head in the direction",
+      "Pursing the lips and pointing with the pucker",
+      "Using the thumb over the shoulder"
+    ],
+    "answer": "Pursing the lips and pointing with the pucker"
+  },
+  {
+    "id": "world-cultures-074",
+    "difficulty": "medium",
+    "category": "world-cultures",
+    "question": "What is true about the French greeting known as 'La Bise'?",
+    "options": [
+      "Exactly two kisses are always given",
+      "Only men and women exchange kisses",
+      "The number of cheek kisses varies by region",
+      "It is only done on New Year's Day"
+    ],
+    "answer": "The number of cheek kisses varies by region"
+  },
+  {
+    "id": "world-cultures-075",
+    "difficulty": "medium",
+    "category": "world-cultures",
+    "question": "What does the Japanese tradition of omiyage involve?",
+    "options": [
+      "Expensive jewelry given to family",
+      "Regional specialty souvenirs brought back for others",
+      "Religious offerings at shrines",
+      "Formal business contracts"
+    ],
+    "answer": "Regional specialty souvenirs brought back for others"
+  },
+  {
+    "id": "world-cultures-076",
+    "difficulty": "medium",
+    "category": "world-cultures",
+    "question": "La Tomatina, the famous tomato-throwing festival in Spain, began in which year after a spontaneous food fight?",
+    "options": [
+      "1620",
+      "1957",
+      "1840",
+      "1945"
+    ],
+    "answer": "1945"
+  },
+  {
+    "id": "world-cultures-077",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "The Baby Jumping Festival (El Colacho) in Spain has been celebrated since approximately which year?",
+    "options": [
+      "1500",
+      "1620",
+      "1840",
+      "1945"
+    ],
+    "answer": "1620"
+  },
+  {
+    "id": "world-cultures-078",
+    "difficulty": "medium",
+    "category": "world-cultures",
+    "question": "The Wife Carrying World Championships in Finland have been held annually since which year?",
+    "options": [
+      "1975",
+      "1980",
+      "1992",
+      "2000"
+    ],
+    "answer": "1992"
+  },
+  {
+    "id": "world-cultures-079",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "The modern theatrical reenactment of Inti Raymi in Cusco, Peru began in which year?",
+    "options": [
+      "1535",
+      "1821",
+      "1910",
+      "1944"
+    ],
+    "answer": "1944"
+  },
+  {
+    "id": "world-cultures-080",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "In which year was Silbo Gomero officially included in the school curriculum of La Gomera?",
+    "options": [
+      "2009",
+      "1985",
+      "1999",
+      "2015"
+    ],
+    "answer": "1999"
+  },
+  {
+    "id": "world-cultures-081",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "When was Silbo Gomero added to UNESCO's Representative List of the Intangible Cultural Heritage of Humanity?",
+    "options": [
+      "1999",
+      "1985",
+      "2009",
+      "2015"
+    ],
+    "answer": "2009"
+  },
+  {
+    "id": "world-cultures-082",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "Which linguist was invited by the Nicaraguan Ministry of Education in 1986 to study the emerging Nicaraguan Sign Language?",
+    "options": [
+      "Noam Chomsky",
+      "Judy Kegl",
+      "Steven Pinker",
+      "Daniel Everett"
+    ],
+    "answer": "Judy Kegl"
+  },
+  {
+    "id": "world-cultures-083",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "Approximately how many people speak the Pirahã language in the Brazilian Amazon?",
+    "options": [
+      "Around 4,000",
+      "Around 400",
+      "Around 2,000",
+      "Around 40,000"
+    ],
+    "answer": "Around 400"
+  },
+  {
+    "id": "world-cultures-084",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "Approximately how many native speakers does the Rotokas language have?",
+    "options": [
+      "Around 400,000",
+      "Around 400",
+      "Around 40,000",
+      "Around 4,000"
+    ],
+    "answer": "Around 4,000"
+  },
+  {
+    "id": "world-cultures-085",
+    "difficulty": "medium",
+    "category": "world-cultures",
+    "question": "Approximately how many people speak Xhosa in South Africa?",
+    "options": [
+      "Around 820,000",
+      "Around 1.2 million",
+      "Around 82 million",
+      "Around 8.2 million"
+    ],
+    "answer": "Around 8.2 million"
+  },
+  {
+    "id": "world-cultures-086",
+    "difficulty": "medium",
+    "category": "world-cultures",
+    "question": "Approximately how many people worldwide speak the Basque language?",
+    "options": [
+      "Around 75,000",
+      "Around 750,000",
+      "Around 1.5 million",
+      "Around 7.5 million"
+    ],
+    "answer": "Around 750,000"
+  },
+  {
+    "id": "world-cultures-087",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "According to the Hokkaido Government's 2013 survey, what is the minimum recorded population of Ainu in Hokkaido?",
+    "options": [
+      "Fewer than 1,000 total",
+      "At least 19,786 in Hokkaido",
+      "Around 200,000 in Hokkaido",
+      "Over 1 million in Japan"
+    ],
+    "answer": "At least 19,786 in Hokkaido"
+  },
+  {
+    "id": "world-cultures-088",
+    "difficulty": "medium",
+    "category": "world-cultures",
+    "question": "As of 2024, approximately what percentage of the world's living languages are classified as endangered by Ethnologue?",
+    "options": [
+      "About 10%",
+      "About 25%",
+      "About 44%",
+      "About 75%"
+    ],
+    "answer": "About 44%"
+  },
+  {
+    "id": "world-cultures-089",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "According to the Endangered Language Catalog, how many languages have fewer than ten speakers remaining?",
+    "options": [
+      "35",
+      "335",
+      "1,500",
+      "3,500"
+    ],
+    "answer": "335"
+  },
+  {
+    "id": "world-cultures-090",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "In which year did the last fluent speaker of the Yaghan language, Cristina Calderón, pass away?",
+    "options": [
+      "2015",
+      "2022",
+      "2008",
+      "1999"
+    ],
+    "answer": "2022"
+  },
+  {
+    "id": "world-cultures-091",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "Between the count of fluent Hawaiian speakers about twenty years prior and 2016, what was the approximate increase in people speaking Hawaiian at home?",
+    "options": [
+      "A roughly 50 percent increase",
+      "A roughly 200 percent increase",
+      "A roughly 1,400 percent increase",
+      "A roughly 10 percent increase"
+    ],
+    "answer": "A roughly 1,400 percent increase"
+  },
+  {
+    "id": "world-cultures-092",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "What is the current status of the Ongota language in Ethiopia?",
+    "options": [
+      "Around 1,200 speakers",
+      "Around 50,000 speakers",
+      "No speakers remain",
+      "Fewer than 12 elderly speakers"
+    ],
+    "answer": "Fewer than 12 elderly speakers"
+  },
+  {
+    "id": "world-cultures-093",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "In Zulu beadwork color symbolism, what is unique about the color white?",
+    "options": [
+      "It represents death and mourning",
+      "It is the only consistently positive color",
+      "It indicates hostility",
+      "It symbolizes poverty"
+    ],
+    "answer": "It is the only consistently positive color"
+  },
+  {
+    "id": "world-cultures-094",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "In traditional Māori facial tattoo (moko), what does the left side of the face typically represent?",
+    "options": [
+      "The mother's lineage",
+      "The spouse's family",
+      "The father's lineage",
+      "The tribal chief's ancestry"
+    ],
+    "answer": "The father's lineage"
+  },
+  {
+    "id": "world-cultures-095",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "In traditional Tlingit society, what is the rule regarding marriage between the two main moieties?",
+    "options": [
+      "Eagles must marry Eagles",
+      "Ravens must marry Wolves",
+      "Any clan may marry any other clan",
+      "Eagles must marry Ravens"
+    ],
+    "answer": "Eagles must marry Ravens"
+  },
+  {
+    "id": "world-cultures-096",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "Why are willow branches traditionally used during China's Qingming Festival?",
+    "options": [
+      "Willow trees are planted to mark graves",
+      "Willow bark is burned as incense",
+      "Willow branches are placed on tombs to ward off evil spirits",
+      "Willow leaves are eaten for health"
+    ],
+    "answer": "Willow branches are placed on tombs to ward off evil spirits"
+  },
+  {
+    "id": "world-cultures-097",
+    "difficulty": "medium",
+    "category": "world-cultures",
+    "question": "What are chochin in the context of Japan's Obon festival?",
+    "options": [
+      "Paper boats released on rivers",
+      "Bamboo poles with prayer flags",
+      "Paper lanterns hung to guide ancestral spirits",
+      "Stone markers at gravesites"
+    ],
+    "answer": "Paper lanterns hung to guide ancestral spirits"
+  },
+  {
+    "id": "world-cultures-098",
+    "difficulty": "medium",
+    "category": "world-cultures",
+    "question": "Which of the following is an official rule of La Tomatina?",
+    "options": [
+      "Glass bottles may be thrown",
+      "Participants must wear red only",
+      "The fight lasts for three hours",
+      "Tomatoes must be squashed before throwing"
+    ],
+    "answer": "Tomatoes must be squashed before throwing"
+  },
+  {
+    "id": "world-cultures-099",
+    "difficulty": "hard",
+    "category": "world-cultures",
+    "question": "In the Tujia crying marriage custom, when does the bride's grandmother traditionally join the weeping?",
+    "options": [
+      "Five days before the wedding",
+      "On the wedding day",
+      "One week after the engagement",
+      "Twenty days before the wedding"
+    ],
+    "answer": "Twenty days before the wedding"
   }
 ]

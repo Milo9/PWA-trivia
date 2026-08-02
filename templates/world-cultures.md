@@ -11,6 +11,20 @@ languages, and everyday life across different cultures. Not history/dates
 
 COUNT: 100 questions.
 
+AVOID THESE ANGLES — already well-covered in my question bank, so don't
+draft facts that overlap with these (pick different, more specific facts
+instead):
+- The Nahuatl-derived name for the marigold flower used on Mexican Day
+  of the Dead altars (Cempasúchil)
+- Which country/region the Ainu people traditionally inhabit (Hokkaido,
+  Japan) — covered in either "which country is home to the Ainu" or
+  "which region do the Ainu inhabit" framing
+- Diwali as "the Hindu festival of lights" (already asked 3+ times)
+- Which country's rugby team performs the haka before matches (New
+  Zealand) — a different fact from the haka's modern ceremonial uses
+  (weddings/funerals/welcoming guests), which is NOT yet covered
+- The Running of the Bulls in Pamplona, Spain
+
 Use web search to verify every fact — do not rely on memory alone. Prefer
 authoritative sources (encyclopedic sources, cultural references) over
 guessing. For each question, actually find the fact via search rather than
