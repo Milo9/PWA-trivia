@@ -77,6 +77,32 @@ instead):
 - Who wrote "Who's Afraid of Virginia Woolf?" (Edward Albee)
 - Name of the monster in "Beowulf" (Grendel) — already covered via the
   John Gardner "Grendel" retelling-novel framing
+- Which war Tennyson's "The Charge of the Light Brigade" commemorates
+  (the Crimean War) — now covered, in either "which war" framing
+- Who wrote "The Tin Drum" (Günter Grass)
+- Who wrote "If on a winter's night a traveler" (Italo Calvino)
+- Which painting Delacroix's "Liberty Leading the People" depicts/
+  commemorates (the July Revolution of 1830) — now covered
+- Manet's "Olympia" (1863 nude reclining on a bed, attended by a Black
+  maid) — now covered, in either "name the painting" or "who painted
+  this scene" framing
+- Edward Hopper's "Nighthawks" (1942 late-night diner painting) — now
+  covered
+- Who painted/created, in either direction (artist-given-title or
+  title-given-artist): Hokusai's "The Great Wave off Kanagawa", Duchamp's
+  "Fountain", Warhol's "Campbell's Soup Cans", Brâncuși's "Bird in
+  Space", Van Eyck's "The Arnolfini Portrait", Bosch's "The Garden of
+  Earthly Delights", Bruegel's "Hunters in the Snow", Turner's "The
+  Fighting Temeraire", Caspar David Friedrich's "Wanderer above the Sea
+  of Fog", Ghiberti's "The Gates of Paradise", and Damien Hirst's "The
+  Physical Impossibility of Death in the Mind of Someone Living" — each
+  of these already has a "who created/painted/sculpted [title]" question
+  in the corpus, so a new question giving the artist and asking for the
+  title (or vice versa) is the same fact reworded, not a fresh angle.
+  This "reverse direction" pattern is easy to miss: the two questions'
+  *answers* are completely different strings (an artist's name vs. a
+  work's title), so an answer-text-match check won't catch it — only a
+  read-through comparing what fact each question actually tests will.
 
 CAUTION — a same-author reuse isn't automatically a duplicate: e.g. Arthur
 Miller wrote both "Death of a Salesman" (covered above) and "The Crucible"
