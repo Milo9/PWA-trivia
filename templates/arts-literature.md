@@ -1,19 +1,13 @@
 ## Arts & Literature
 
 ```
-You are drafting trivia questions for a multiple-choice trivia app. You have
-no access to my codebase — just generate the content below and I'll hand it
-to another AI to review, dedupe, and merge into the database myself.
+You are drafting trivia questions for a multiple-choice trivia app. You have no access to my codebase — just generate the content below and I'll hand it to another AI to review, dedupe, and merge into the database myself.
 
-TOPIC: Arts & Literature — books, authors, painting, sculpture, poetry,
-classic literature and fine art. Film/TV and music have their own
-categories — don't draft those here.
+TOPIC: Arts & Literature — books, authors, painting, sculpture, poetry, classic literature and fine art. Film/TV and music have their own categories — don't draft those here.
 
 COUNT: 100 questions.
 
-AVOID THESE ANGLES — already well-covered in my question bank, so don't
-draft facts that overlap with these (pick different, more specific facts
-instead):
+AVOID THESE ANGLES — already well-covered in my question bank, so don't draft facts that overlap with these (pick different, more specific facts instead):
 - Who wrote "The Divine Comedy" (Dante Alighieri)
 - Who wrote "Crime and Punishment" (Fyodor Dostoevsky)
 - Who wrote "Pride and Prejudice" (Jane Austen)
@@ -22,8 +16,7 @@ instead):
 - Who painted "The Starry Night" (Vincent van Gogh)
 - Who wrote "Don Quixote" (Miguel de Cervantes)
 - Which fairy tale character leaves a glass slipper (Cinderella)
-- Who wrote "Romeo and Juliet" (William Shakespeare) — this one collided
-  three separate times across different drafting agents in a single batch
+- Who wrote "Romeo and Juliet" (William Shakespeare) — this one collided three separate times across different drafting agents in a single batch
 - Who wrote "The Odyssey"/"The Iliad" (Homer)
 - Who wrote "The Aeneid" (Virgil)
 - Who wrote "The Canterbury Tales" (Geoffrey Chaucer)
@@ -39,8 +32,7 @@ instead):
 - Who wrote "One Hundred Years of Solitude" (Gabriel García Márquez)
 - Who wrote "The Bell Jar" (Sylvia Plath)
 - Who wrote "The Waste Land" (T.S. Eliot)
-- Who wrote "The Raven" (Edgar Allan Poe) — note "Annabel Lee" (also Poe) is
-  a different poem and NOT a duplicate of this
+- Who wrote "The Raven" (Edgar Allan Poe) — note "Annabel Lee" (also Poe) is a different poem and NOT a duplicate of this
 - Who wrote "Leaves of Grass" (Walt Whitman)
 - Who wrote "Paradise Lost" (John Milton)
 - Who painted "Guernica" (Pablo Picasso)
@@ -52,110 +44,46 @@ instead):
 - Who painted "The School of Athens" (Raphael)
 - Who sculpted "The Thinker"/"The Pietà"/"David" (Auguste Rodin/Michelangelo)
 - Who designed/sculpted the Statue of Liberty (Frédéric Auguste Bartholdi)
-- Who painted "The Creation of Adam" — same fact as "who painted the
-  Sistine Chapel ceiling," since it's that ceiling's central/title panel
+- Who painted "The Creation of Adam" — same fact as "who painted the Sistine Chapel ceiling," since it's that ceiling's central/title panel
 - Who painted "American Gothic" (Grant Wood)
-- Which art movement is Salvador Dalí/Surrealism, Picasso/Cubism, or
-  Monet-Renoir-Degas/Impressionism most associated with — already covered
-  via "which movement, pioneered/associated with [artist], ..." framing
+- Which art movement is Salvador Dalí/Surrealism, Picasso/Cubism, or Monet-Renoir-Degas/Impressionism most associated with — already covered via "which movement, pioneered/associated with [artist], ..." framing
 - Who wrote "The Importance of Being Earnest" (Oscar Wilde)
 - Who wrote "A Streetcar Named Desire" (Tennessee Williams)
 - Who wrote "Death of a Salesman" (Arthur Miller)
 - Who painted "Las Meninas" (Diego Velázquez)
 - Who painted "The Third of May 1808" (Francisco Goya)
-- Which artist/technique is "A Sunday on La Grande Jatte" (Georges Seurat,
-  Pointillism)
+- Which artist/technique is "A Sunday on La Grande Jatte" (Georges Seurat, Pointillism)
 - Who painted "The Kiss" (Gustav Klimt)
 - Who sculpted "The Ecstasy of Saint Teresa" (Gian Lorenzo Bernini)
 - Who wrote "Les Misérables" (Victor Hugo)
-- Which Dickens novel has Pip and Miss Havisham (Great Expectations) —
-  already covered via the Havisham-in-wedding-dress framing
+- Which Dickens novel has Pip and Miss Havisham (Great Expectations) — already covered via the Havisham-in-wedding-dress framing
 - Who wrote "The Stranger" (Albert Camus)
 - Name of the regime in Margaret Atwood's "The Handmaid's Tale" (Gilead)
 - Guy Montag's profession in "Fahrenheit 451" (Fireman)
 - Which Steinbeck novel follows the Joad family (The Grapes of Wrath)
 - Who wrote "Who's Afraid of Virginia Woolf?" (Edward Albee)
-- Name of the monster in "Beowulf" (Grendel) — already covered via the
-  John Gardner "Grendel" retelling-novel framing
-- Which war Tennyson's "The Charge of the Light Brigade" commemorates
-  (the Crimean War) — now covered, in either "which war" framing
+- Name of the monster in "Beowulf" (Grendel) — already covered via the John Gardner "Grendel" retelling-novel framing
+- Which war Tennyson's "The Charge of the Light Brigade" commemorates (the Crimean War) — now covered, in either "which war" framing
 - Who wrote "The Tin Drum" (Günter Grass)
 - Who wrote "If on a winter's night a traveler" (Italo Calvino)
-- Which painting Delacroix's "Liberty Leading the People" depicts/
-  commemorates (the July Revolution of 1830) — now covered
-- Manet's "Olympia" (1863 nude reclining on a bed, attended by a Black
-  maid) — now covered, in either "name the painting" or "who painted
-  this scene" framing
-- Edward Hopper's "Nighthawks" (1942 late-night diner painting) — now
-  covered
-- Who painted/created, in either direction (artist-given-title or
-  title-given-artist): Hokusai's "The Great Wave off Kanagawa", Duchamp's
-  "Fountain", Warhol's "Campbell's Soup Cans", Brâncuși's "Bird in
-  Space", Van Eyck's "The Arnolfini Portrait", Bosch's "The Garden of
-  Earthly Delights", Bruegel's "Hunters in the Snow", Turner's "The
-  Fighting Temeraire", Caspar David Friedrich's "Wanderer above the Sea
-  of Fog", Ghiberti's "The Gates of Paradise", and Damien Hirst's "The
-  Physical Impossibility of Death in the Mind of Someone Living" — each
-  of these already has a "who created/painted/sculpted [title]" question
-  in the corpus, so a new question giving the artist and asking for the
-  title (or vice versa) is the same fact reworded, not a fresh angle.
-  This "reverse direction" pattern is easy to miss: the two questions'
-  *answers* are completely different strings (an artist's name vs. a
-  work's title), so an answer-text-match check won't catch it — only a
-  read-through comparing what fact each question actually tests will.
-- Same reverse-direction pattern, now also covered: Kafka's "The
-  Metamorphosis" and "The Trial", Beckett's "Waiting for Godot", Hans
-  Holbein the Younger's "The Ambassadors" (the anamorphic skull
-  painting), Fragonard's "The Swing", Coleridge's "The Rime of the
-  Ancient Mariner", Synge's "The Playboy of the Western World" (the
-  1907 Dublin riot play), and Toni Morrison's "Beloved" — a batch of
-  100 questions drafted as "who wrote/painted X" collided with a
-  separate batch of 100 drafted as "which [author]'s work is X" on all
-  seven of these; if you're given one direction's phrasing style, that
-  doesn't protect against colliding with a differently-phrased existing
-  question testing the same work
-- Boccioni's "Unique Forms of Continuity in Space" (1913 bronze),
-  Boccaccio's "The Decameron", and Millais's "Ophelia" (1851-52
-  painting) — already asked (same-direction duplicates: two separately
-  drafted batches both used "who created X" phrasing for these three)
-- Emily Dickinson's "Because I could not stop for Death" — already
-  asked via a description of its content ("personifies mortality as a
-  gentleman caller..."); don't also draft it via its opening line, since
-  quoting the first line as the question's premise makes the answer
-  self-evident anyway
-- Monet's "Impression, Sunrise" giving the Impressionist movement its
-  name — now covered
-- Keats's "Ode on a Grecian Urn" via its closing "beauty is truth"
-  lines — now covered
-- Which book was published first in C.S. Lewis's "Chronicles of
-  Narnia" (The Lion, the Witch and the Wardrobe) — now covered
+- Which painting Delacroix's "Liberty Leading the People" depicts/commemorates (the July Revolution of 1830) — now covered
+- Manet's "Olympia" (1863 nude reclining on a bed, attended by a Black maid) — now covered, in either "name the painting" or "who painted this scene" framing
+- Edward Hopper's "Nighthawks" (1942 late-night diner painting) — now covered
+- Who painted/created, in either direction (artist-given-title or title-given-artist): Hokusai's "The Great Wave off Kanagawa", Duchamp's "Fountain", Warhol's "Campbell's Soup Cans", Brâncuși's "Bird in Space", Van Eyck's "The Arnolfini Portrait", Bosch's "The Garden of Earthly Delights", Bruegel's "Hunters in the Snow", Turner's "The Fighting Temeraire", Caspar David Friedrich's "Wanderer above the Sea of Fog", Ghiberti's "The Gates of Paradise", and Damien Hirst's "The Physical Impossibility of Death in the Mind of Someone Living" — each of these already has a "who created/painted/sculpted [title]" question in the corpus, so a new question giving the artist and asking for the title (or vice versa) is the same fact reworded, not a fresh angle. This "reverse direction" pattern is easy to miss: the two questions' *answers* are completely different strings (an artist's name vs. a work's title), so an answer-text-match check won't catch it — only a read-through comparing what fact each question actually tests will.
+- Same reverse-direction pattern, now also covered: Kafka's "The Metamorphosis" and "The Trial", Beckett's "Waiting for Godot", Hans Holbein the Younger's "The Ambassadors" (the anamorphic skull painting), Fragonard's "The Swing", Coleridge's "The Rime of the Ancient Mariner", Synge's "The Playboy of the Western World" (the 1907 Dublin riot play), and Toni Morrison's "Beloved" — a batch of 100 questions drafted as "who wrote/painted X" collided with a separate batch of 100 drafted as "which [author]'s work is X" on all seven of these; if you're given one direction's phrasing style, that doesn't protect against colliding with a differently-phrased existing question testing the same work
+- Boccioni's "Unique Forms of Continuity in Space" (1913 bronze), Boccaccio's "The Decameron", and Millais's "Ophelia" (1851-52 painting) — already asked (same-direction duplicates: two separately drafted batches both used "who created X" phrasing for these three)
+- Emily Dickinson's "Because I could not stop for Death" — already asked via a description of its content ("personifies mortality as a gentleman caller..."); don't also draft it via its opening line, since quoting the first line as the question's premise makes the answer self-evident anyway
+- Monet's "Impression, Sunrise" giving the Impressionist movement its name — now covered
+- Keats's "Ode on a Grecian Urn" via its closing "beauty is truth" lines — now covered
+- Which book was published first in C.S. Lewis's "Chronicles of Narnia" (The Lion, the Witch and the Wardrobe) — now covered
 
-Avoid drafting a question whose only in-universe answer is a character's
-name (or an in-story quoted term) that's identical to the work's title —
-these self-answering questions get cut regardless of how obscure the
-underlying fact is. Confirmed examples already hit: Voltaire's "Candide"
-(protagonist is literally named Candide), Voltaire's "Zadig" (protagonist
-named Zadig), Neal Stephenson's "Snow Crash" (the in-story drug is named
-"Snow Crash"), and Gogol's "Dead Souls" (the question's own premise
-quotes the phrase "dead souls").
+Avoid drafting a question whose only in-universe answer is a character's name (or an in-story quoted term) that's identical to the work's title — these self-answering questions get cut regardless of how obscure the underlying fact is. Confirmed examples already hit: Voltaire's "Candide" (protagonist is literally named Candide), Voltaire's "Zadig" (protagonist named Zadig), Neal Stephenson's "Snow Crash" (the in-story drug is named "Snow Crash"), and Gogol's "Dead Souls" (the question's own premise quotes the phrase "dead souls").
 
-CAUTION — a same-author reuse isn't automatically a duplicate: e.g. Arthur
-Miller wrote both "Death of a Salesman" (covered above) and "The Crucible"
-(not covered, a genuinely different question); Tennessee Williams wrote
-both "A Streetcar Named Desire" (covered) and "The Glass Menagerie" (not);
-Michelangelo, Picasso, and Rodin especially have many genuinely distinct
-works each — only treat it as a duplicate when the *specific work* matches
-one already listed above, not just the artist/author.
+CAUTION — a same-author reuse isn't automatically a duplicate: e.g. Arthur Miller wrote both "Death of a Salesman" (covered above) and "The Crucible" (not covered, a genuinely different question); Tennessee Williams wrote both "A Streetcar Named Desire" (covered) and "The Glass Menagerie" (not); Michelangelo, Picasso, and Rodin especially have many genuinely distinct works each — only treat it as a duplicate when the *specific work* matches one already listed above, not just the artist/author.
 
-Use web search to verify every fact — do not rely on memory alone. Prefer
-authoritative sources (encyclopedic sources, literary references) over
-guessing. For each question, actually find the fact via search rather than
-recalling it, especially for obscure details (lesser-known works,
-specific dates).
+Use web search to verify every fact — do not rely on memory alone. Prefer authoritative sources (encyclopedic sources, literary references) over guessing. For each question, actually find the fact via search rather than recalling it, especially for obscure details (lesser-known works, specific dates).
 
-If any fact involves a "current record," "most," "latest," or similar
-superlative, pin it to a specific time (e.g. "as of 2026") rather than
-stating it as a timeless fact, since these claims go stale.
+If any fact involves a "current record," "most," "latest," or similar superlative, pin it to a specific time (e.g. "as of 2026") rather than stating it as a timeless fact, since these claims go stale.
 
 OUTPUT FORMAT: A single JavaScript file, CommonJS style, like this:
 
@@ -172,26 +100,15 @@ module.exports = [
 
 Rules for each entry:
 - Do NOT include an "id" field — I'll assign that myself.
-- Every entry MUST include "category": "arts-literature" exactly as written
-  (all lowercase, with the hyphen) — don't vary it, translate it, or use the
-  topic name instead.
+- Every entry MUST include "category": "arts-literature" exactly as written (all lowercase, with the hyphen) — don't vary it, translate it, or use the topic name instead.
 - Exactly 4 options, all non-empty, all distinct from each other.
-- "answer" must be an exact string match (character-for-character) to one of
-  the 4 "options".
-- The correct answer's position in the options array should be varied/
-  randomized across questions — don't always put it first or in the same slot.
-- "question" must not leak the answer in the question text itself (e.g. don't
-  write "What type of animal is Geppetto's cat?" if the answer is "cat").
+- "answer" must be an exact string match (character-for-character) to one of the 4 "options".
+- The correct answer's position in the options array should be varied/randomized across questions — don't always put it first or in the same slot.
+- "question" must not leak the answer in the question text itself (e.g. don't write "What type of animal is Geppetto's cat?" if the answer is "cat").
 - Options should be short answer phrases, not full sentences.
-- Do NOT use hedge or meta answers as options (e.g. "This isn't a real plot
-  point," "None of the above," "It's unclear") — every option should be a
-  real, specific, plausible-sounding answer.
-- Avoid the most well-known/obvious trivia chestnuts for this topic if
-  possible — I likely already have those. Favor specific, lesser-known facts
-  over headline facts.
-- Distractor (wrong) options should be plausible, not absurd, and should not
-  themselves be true statements about the topic (a wrong answer that's
-  secretly also correct elsewhere is a common trivia bug).
+- Do NOT use hedge or meta answers as options (e.g. "This isn't a real plot point," "None of the above," "It's unclear") — every option should be a real, specific, plausible-sounding answer.
+- Avoid the most well-known/obvious trivia chestnuts for this topic if possible — I likely already have those. Favor specific, lesser-known facts over headline facts.
+- Distractor (wrong) options should be plausible, not absurd, and should not themselves be true statements about the topic (a wrong answer that's secretly also correct elsewhere is a common trivia bug).
 
 Output just the JS file content, nothing else.
 ```

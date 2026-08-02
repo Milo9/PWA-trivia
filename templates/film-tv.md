@@ -1,25 +1,13 @@
 ## Film & TV
 
 ```
-You are drafting trivia questions for a multiple-choice trivia app. You have
-no access to my codebase — just generate the content below and I'll hand it
-to another AI to review, dedupe, and merge into the database myself.
+You are drafting trivia questions for a multiple-choice trivia app. You have no access to my codebase — just generate the content below and I'll hand it to another AI to review, dedupe, and merge into the database myself.
 
-TOPIC: Film & TV — movies and television shows in general (actors,
-directors, plots, awards). This is not about Friends or The Big Bang
-Theory specifically — those are separate categories with their own
-prompts. Avoid asking basic identification facts about Friends/Big Bang
-Theory characters (e.g. "who plays Sheldon Cooper") even under a
-film-tv framing — those already exist in the dedicated categories.
-Likewise avoid facts that belong to a different specific category (e.g.
-"what is King Arthur's sword called" belongs to mythology-religion, not
-film-tv, even when the clue is phrased around a film adaptation).
+TOPIC: Film & TV — movies and television shows in general (actors, directors, plots, awards). This is not about Friends or The Big Bang Theory specifically — those are separate categories with their own prompts. Avoid asking basic identification facts about Friends/Big Bang Theory characters (e.g. "who plays Sheldon Cooper") even under a film-tv framing — those already exist in the dedicated categories. Likewise avoid facts that belong to a different specific category (e.g. "what is King Arthur's sword called" belongs to mythology-religion, not film-tv, even when the clue is phrased around a film adaptation).
 
 COUNT: 100 questions.
 
-AVOID THESE ANGLES — already well-covered in my question bank, so don't
-draft facts that overlap with these (pick different, more specific facts
-instead):
+AVOID THESE ANGLES — already well-covered in my question bank, so don't draft facts that overlap with these (pick different, more specific facts instead):
 - Who played the title role in "Forrest Gump" (Tom Hanks)
 - First non-English-language film to win Best Picture (Parasite)
 - First woman to win the Academy Award for Best Director (Kathryn Bigelow)
@@ -35,14 +23,11 @@ instead):
 - Name of the Harry Potter wizarding school (Hogwarts)
 - What color pill Neo takes in "The Matrix" (red)
 - Who directed "Jurassic Park" (Steven Spielberg)
-- Actress who played Clarice Starling / won the Oscar for "The Silence of
-  the Lambs" (Jodie Foster)
-- Who composed the score for "The Good, the Bad and the Ugly" (Ennio
-  Morricone)
+- Actress who played Clarice Starling / won the Oscar for "The Silence of the Lambs" (Jodie Foster)
+- Who composed the score for "The Good, the Bad and the Ugly" (Ennio Morricone)
 - Walter White's drug-trade alias in "Breaking Bad" (Heisenberg)
 - Animated Disney film featuring the song "Let It Go" (Frozen)
-- Actor who played the Joker in "The Dark Knight" / won a posthumous
-  Oscar for it (Heath Ledger)
+- Actor who played the Joker in "The Dark Knight" / won a posthumous Oscar for it (Heath Ledger)
 - Actor who played Indiana Jones (Harrison Ford)
 - Who directed "The Shining" (Stanley Kubrick)
 - Pixar film set inside a young girl's mind, Riley ("Inside Out")
@@ -55,26 +40,19 @@ instead):
 - Who directed "Dune" (2021) (Denis Villeneuve)
 - Fictional Indiana town in "Parks and Recreation" (Pawnee)
 - Who directed "Pulp Fiction" (Quentin Tarantino)
-- Pixar movie about a clownfish searching the ocean for his missing son
-  (Finding Nemo) — already asked from multiple angles, very saturated
+- Pixar movie about a clownfish searching the ocean for his missing son (Finding Nemo) — already asked from multiple angles, very saturated
 - Who directed "Schindler's List" (Steven Spielberg)
 - Actor who played Jack Dawson in "Titanic" (Leonardo DiCaprio)
 - Name of the hotel in "The Shining" (The Overlook Hotel)
-- Fictional prison planet in "Alien 3" — avoid entirely; the film's own
-  on-screen text calls it both "Fiorina 161" and "Fury 161" (a nickname
-  of the same name, not a distinct wrong answer), so any distractor using
-  the other form is actually also correct
+- Fictional prison planet in "Alien 3" — avoid entirely; the film's own on-screen text calls it both "Fiorina 161" and "Fury 161" (a nickname of the same name, not a distinct wrong answer), so any distractor using the other form is actually also correct
 - Who directed "Alien" (1979) (Ridley Scott)
 - Fictional Indiana town where "Stranger Things" is set (Hawkins)
-- Name of Gus Fring's fast-food chicken chain front in "Breaking Bad"
-  (Los Pollos Hermanos)
+- Name of Gus Fring's fast-food chicken chain front in "Breaking Bad" (Los Pollos Hermanos)
 - Comic Book Guy's real first name in "The Simpsons" (Jeff)
-- Name of the Roy family's media conglomerate in "Succession" (Waystar
-  Royco)
+- Name of the Roy family's media conglomerate in "Succession" (Waystar Royco)
 - Who directed "The Shawshank Redemption" (Frank Darabont)
 - Name of Tony Soprano's boat in "The Sopranos" (The Stugots)
-- Saul Goodman's birth name in "Better Call Saul" (Jimmy McGill — not
-  "James McGill"; the show consistently uses "Jimmy")
+- Saul Goodman's birth name in "Better Call Saul" (Jimmy McGill — not "James McGill"; the show consistently uses "Jimmy")
 - Creator/narrator/host of the original "The Twilight Zone" (Rod Serling)
 - Who directed "Spirited Away" (Hayao Miyazaki)
 - Name of the bar in "It's Always Sunny in Philadelphia" (Paddy's Pub)
@@ -82,56 +60,21 @@ instead):
 - Name of the town where "The Simpsons" is set (Springfield)
 - Who directed "Kill Bill" (Quentin Tarantino)
 - Who directed "The Godfather" (Francis Ford Coppola)
-- Name of the starship commanded by Captain Kirk in the original "Star
-  Trek" series (USS Enterprise)
-- Name of the fictional town in "Twin Peaks" (the town is itself named
-  Twin Peaks — same name as the show, an easy accidental answer-leak)
-- Name of the towing spaceship in "Alien" (Nostromo) / the android-making
-  corporation in "Blade Runner" (Tyrell Corporation) / Neo's birth name in
-  "The Matrix" (Thomas Anderson) / the traitorous crew member in "The
-  Matrix" (Cypher)
-- Who directed "Pan's Labyrinth" (Guillermo del Toro) / "The Grand
-  Budapest Hotel" (Wes Anderson) / "Whiplash" (Damien Chazelle) / "Get
-  Out" (Jordan Peele) / "The Social Network" (David Fincher)
-- Name of the ad agency in "Mad Men" (Sterling Cooper) / the diner in
-  "Gilmore Girls" (Luke's Diner) / the spaceship in "Firefly" (Serenity)
-  / the fictional country in "The Grand Budapest Hotel" (Zubrowka)
-- Actor who played Anton Chigurh in "No Country for Old Men" (Javier
-  Bardem) / Furiosa in "Mad Max: Fury Road" (Charlize Theron) / Black
-  Widow in the MCU (Scarlett Johansson) / the voice of Sheriff Woody
-  (Tom Hanks)
-- Who is revealed as Laura Palmer's killer in "Twin Peaks" (Leland
-  Palmer, possessed by BOB) / who created "The Simpsons" (Matt
-  Groening) / who wrote the "A Song of Ice and Fire" novels (George
-  R.R. Martin) / who created "The X-Files" (Chris Carter)
-- Name of Han Solo's ship (Millennium Falcon) / the continent in "Game
-  of Thrones" (Westeros) / the sentient computer in "2001: A Space
-  Odyssey" (HAL 9000) / the fictional band in "Almost Famous"
-  (Stillwater)
-- Who co-created "Twin Peaks" alongside David Lynch (Mark Frost) — the
-  existing corpus already asks the reverse ("which surrealist director
-  co-created it alongside Mark Frost" → Lynch); don't draft either
-  direction of this pairing again, it's a fully closed loop now
+- Name of the starship commanded by Captain Kirk in the original "Star Trek" series (USS Enterprise)
+- Name of the fictional town in "Twin Peaks" (the town is itself named Twin Peaks — same name as the show, an easy accidental answer-leak)
+- Name of the towing spaceship in "Alien" (Nostromo) / the android-making corporation in "Blade Runner" (Tyrell Corporation) / Neo's birth name in "The Matrix" (Thomas Anderson) / the traitorous crew member in "The Matrix" (Cypher)
+- Who directed "Pan's Labyrinth" (Guillermo del Toro) / "The Grand Budapest Hotel" (Wes Anderson) / "Whiplash" (Damien Chazelle) / "Get Out" (Jordan Peele) / "The Social Network" (David Fincher)
+- Name of the ad agency in "Mad Men" (Sterling Cooper) / the diner in "Gilmore Girls" (Luke's Diner) / the spaceship in "Firefly" (Serenity) / the fictional country in "The Grand Budapest Hotel" (Zubrowka)
+- Actor who played Anton Chigurh in "No Country for Old Men" (Javier Bardem) / Furiosa in "Mad Max: Fury Road" (Charlize Theron) / Black Widow in the MCU (Scarlett Johansson) / the voice of Sheriff Woody (Tom Hanks)
+- Who is revealed as Laura Palmer's killer in "Twin Peaks" (Leland Palmer, possessed by BOB) / who created "The Simpsons" (Matt Groening) / who wrote the "A Song of Ice and Fire" novels (George R.R. Martin) / who created "The X-Files" (Chris Carter)
+- Name of Han Solo's ship (Millennium Falcon) / the continent in "Game of Thrones" (Westeros) / the sentient computer in "2001: A Space Odyssey" (HAL 9000) / the fictional band in "Almost Famous" (Stillwater)
+- Who co-created "Twin Peaks" alongside David Lynch (Mark Frost) — the existing corpus already asks the reverse ("which surrealist director co-created it alongside Mark Frost" → Lynch); don't draft either direction of this pairing again, it's a fully closed loop now
 
-Also watch for a fact that's already given away as a premise inside an
-existing question's stem, even if the existing question's own answer is
-something else — e.g. an existing question about the horse's-head scene
-in "The Godfather" already names "Jack Woltz" in its own text, so a
-separate question asking "who is the executive who wakes up with the
-horse's head" is redundant even though the two questions test nominally
-different specific facts; likewise an existing "Back to the Future"
-question already names the town "Hill Valley" in its premise. If a fact
-is stated outright in another question's wording, don't draft a new
-question whose answer is that same stated fact.
+Also watch for a fact that's already given away as a premise inside an existing question's stem, even if the existing question's own answer is something else — e.g. an existing question about the horse's-head scene in "The Godfather" already names "Jack Woltz" in its own text, so a separate question asking "who is the executive who wakes up with the horse's head" is redundant even though the two questions test nominally different specific facts; likewise an existing "Back to the Future" question already names the town "Hill Valley" in its premise. If a fact is stated outright in another question's wording, don't draft a new question whose answer is that same stated fact.
 
-Use web search to verify every fact — do not rely on memory alone. Prefer
-authoritative sources (IMDb, encyclopedic sources) over guessing. For each
-question, actually find the fact via search rather than recalling it,
-especially for obscure details (supporting cast, specific dates, awards).
+Use web search to verify every fact — do not rely on memory alone. Prefer authoritative sources (IMDb, encyclopedic sources) over guessing. For each question, actually find the fact via search rather than recalling it, especially for obscure details (supporting cast, specific dates, awards).
 
-If any fact involves a "current record," "most," "latest," or similar
-superlative, pin it to a specific time (e.g. "as of 2026") rather than
-stating it as a timeless fact, since these claims go stale.
+If any fact involves a "current record," "most," "latest," or similar superlative, pin it to a specific time (e.g. "as of 2026") rather than stating it as a timeless fact, since these claims go stale.
 
 OUTPUT FORMAT: A single JavaScript file, CommonJS style, like this:
 
@@ -148,26 +91,15 @@ module.exports = [
 
 Rules for each entry:
 - Do NOT include an "id" field — I'll assign that myself.
-- Every entry MUST include "category": "film-tv" exactly as written
-  (all lowercase, with the hyphen) — don't vary it, translate it, or use the
-  topic name instead.
+- Every entry MUST include "category": "film-tv" exactly as written (all lowercase, with the hyphen) — don't vary it, translate it, or use the topic name instead.
 - Exactly 4 options, all non-empty, all distinct from each other.
-- "answer" must be an exact string match (character-for-character) to one of
-  the 4 "options".
-- The correct answer's position in the options array should be varied/
-  randomized across questions — don't always put it first or in the same slot.
-- "question" must not leak the answer in the question text itself (e.g. don't
-  write "What type of animal is Geppetto's cat?" if the answer is "cat").
+- "answer" must be an exact string match (character-for-character) to one of the 4 "options".
+- The correct answer's position in the options array should be varied/randomized across questions — don't always put it first or in the same slot.
+- "question" must not leak the answer in the question text itself (e.g. don't write "What type of animal is Geppetto's cat?" if the answer is "cat").
 - Options should be short answer phrases, not full sentences.
-- Do NOT use hedge or meta answers as options (e.g. "This isn't a real plot
-  point," "None of the above," "It's unclear") — every option should be a
-  real, specific, plausible-sounding answer.
-- Avoid the most well-known/obvious trivia chestnuts for this topic if
-  possible — I likely already have those. Favor specific, lesser-known facts
-  over headline facts.
-- Distractor (wrong) options should be plausible, not absurd, and should not
-  themselves be true statements about the topic (a wrong answer that's
-  secretly also correct elsewhere is a common trivia bug).
+- Do NOT use hedge or meta answers as options (e.g. "This isn't a real plot point," "None of the above," "It's unclear") — every option should be a real, specific, plausible-sounding answer.
+- Avoid the most well-known/obvious trivia chestnuts for this topic if possible — I likely already have those. Favor specific, lesser-known facts over headline facts.
+- Distractor (wrong) options should be plausible, not absurd, and should not themselves be true statements about the topic (a wrong answer that's secretly also correct elsewhere is a common trivia bug).
 
 Output just the JS file content, nothing else.
 ```
