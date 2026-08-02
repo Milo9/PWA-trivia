@@ -8500,5 +8500,980 @@
       "Alan Turing"
     ],
     "answer": "Grace Hopper"
+  },
+  {
+    "id": "science-technology-192",
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What is the pH of pure water at 25 degrees Celsius?",
+    "options": [
+      "14",
+      "1",
+      "7",
+      "0"
+    ],
+    "answer": "7"
+  },
+  {
+    "id": "science-technology-193",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "How many cervical vertebrae does a human have?",
+    "options": [
+      "5",
+      "12",
+      "7",
+      "9"
+    ],
+    "answer": "7"
+  },
+  {
+    "id": "science-technology-194",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Who proposed the 'plum pudding' model of the atom?",
+    "options": [
+      "Niels Bohr",
+      "Ernest Rutherford",
+      "J.J. Thomson",
+      "James Chadwick"
+    ],
+    "answer": "J.J. Thomson"
+  },
+  {
+    "id": "science-technology-195",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "In Hooke's law, what symbol represents the spring constant?",
+    "options": [
+      "x",
+      "F",
+      "k",
+      "m"
+    ],
+    "answer": "k"
+  },
+  {
+    "id": "science-technology-196",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "How many lobes does the right human lung have?",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "5"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": "science-technology-197",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which hormone, produced by the alpha cells of the pancreas, raises blood glucose levels?",
+    "options": [
+      "Insulin",
+      "Glucagon",
+      "Cortisol",
+      "Leptin"
+    ],
+    "answer": "Glucagon"
+  },
+  {
+    "id": "science-technology-198",
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Which programming language, introduced by IBM in 1957, is generally considered the first widely used high-level language?",
+    "options": [
+      "COBOL",
+      "LISP",
+      "ALGOL",
+      "Fortran"
+    ],
+    "answer": "Fortran"
+  },
+  {
+    "id": "science-technology-199",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "In what year was the point-contact transistor first demonstrated at Bell Labs?",
+    "options": [
+      "1939",
+      "1952",
+      "1947",
+      "1958"
+    ],
+    "answer": "1947"
+  },
+  {
+    "id": "science-technology-200",
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "How many bits are in one nibble?",
+    "options": [
+      "2",
+      "8",
+      "4",
+      "16"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": "science-technology-201",
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "Which colored structure of the eye controls the diameter of the pupil?",
+    "options": [
+      "Cornea",
+      "Retina",
+      "Iris",
+      "Sclera"
+    ],
+    "answer": "Iris"
+  },
+  {
+    "id": "science-technology-202",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which element was named after the Greek word for the sun, having been detected in the solar spectrum before being isolated on Earth?",
+    "options": [
+      "Helium",
+      "Hydrogen",
+      "Argon",
+      "Krypton"
+    ],
+    "answer": "Helium"
+  },
+  {
+    "id": "science-technology-203",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What term describes an organism's observable physical or biochemical characteristics?",
+    "options": [
+      "Genotype",
+      "Phenotype",
+      "Karyotype",
+      "Haplotype"
+    ],
+    "answer": "Phenotype"
+  },
+  {
+    "id": "science-technology-204",
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "Which programming language was created by Dennis Ritchie at Bell Labs in the early 1970s?",
+    "options": [
+      "C",
+      "Pascal",
+      "BASIC",
+      "Ada"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": "science-technology-205",
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "Which organelle is often called the 'powerhouse of the cell' because it produces most of the cell's ATP?",
+    "options": [
+      "Golgi apparatus",
+      "Endoplasmic reticulum",
+      "Mitochondrion",
+      "Lysosome"
+    ],
+    "answer": "Mitochondrion"
+  },
+  {
+    "id": "science-technology-206",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which is the outermost of the three meninges covering the brain and spinal cord?",
+    "options": [
+      "Arachnoid mater",
+      "Pia mater",
+      "Dura mater",
+      "Periosteum"
+    ],
+    "answer": "Dura mater"
+  },
+  {
+    "id": "science-technology-207",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What absorbent siliceous material did Alfred Nobel use to stabilize nitroglycerin and create dynamite in 1867?",
+    "options": [
+      "Sawdust",
+      "Diatomaceous earth",
+      "Charcoal",
+      "Sand"
+    ],
+    "answer": "Diatomaceous earth"
+  },
+  {
+    "id": "science-technology-208",
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What is the primary mode of heat transfer in fluids such as water and air?",
+    "options": [
+      "Conduction",
+      "Convection",
+      "Radiation",
+      "Sublimation"
+    ],
+    "answer": "Convection"
+  },
+  {
+    "id": "science-technology-209",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which algorithm is commonly used to find the shortest path between nodes in a weighted graph with non-negative edge weights?",
+    "options": [
+      "Dijkstra's algorithm",
+      "Kruskal's algorithm",
+      "Merge sort",
+      "Binary search"
+    ],
+    "answer": "Dijkstra's algorithm"
+  },
+  {
+    "id": "science-technology-210",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which hormone is released by the adrenal medulla as part of the 'fight or flight' response?",
+    "options": [
+      "Cortisol",
+      "Insulin",
+      "Epinephrine",
+      "Aldosterone"
+    ],
+    "answer": "Epinephrine"
+  },
+  {
+    "id": "science-technology-211",
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Which is the first phase of mitosis, during which chromatin condenses into visible chromosomes?",
+    "options": [
+      "Anaphase",
+      "Metaphase",
+      "Prophase",
+      "Telophase"
+    ],
+    "answer": "Prophase"
+  },
+  {
+    "id": "science-technology-212",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which text encoding standard, capable of representing characters from most of the world's writing systems, has largely superseded ASCII?",
+    "options": [
+      "EBCDIC",
+      "Unicode",
+      "UTF-7",
+      "ISO 8859-1"
+    ],
+    "answer": "Unicode"
+  },
+  {
+    "id": "science-technology-213",
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "Which state of matter is the most common in the universe, making up stars like the Sun?",
+    "options": [
+      "Solid",
+      "Liquid",
+      "Gas",
+      "Plasma"
+    ],
+    "answer": "Plasma"
+  },
+  {
+    "id": "science-technology-214",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Who invented the resonant transformer circuit known as the 'Tesla coil' in 1891?",
+    "options": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Michael Faraday",
+      "Guglielmo Marconi"
+    ],
+    "answer": "Nikola Tesla"
+  },
+  {
+    "id": "science-technology-215",
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Which lossless data compression algorithm, combining LZ77 and Huffman coding, is used by the ZIP file format?",
+    "options": [
+      "DEFLATE",
+      "LZW",
+      "bzip2",
+      "Burrows-Wheeler"
+    ],
+    "answer": "DEFLATE"
+  },
+  {
+    "id": "science-technology-216",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which particle is emitted during beta-minus decay of a radioactive nucleus?",
+    "options": [
+      "Positron",
+      "Electron",
+      "Alpha particle",
+      "Neutrino only"
+    ],
+    "answer": "Electron"
+  },
+  {
+    "id": "science-technology-217",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What was the first commercially available microprocessor, released by Intel in 1971?",
+    "options": [
+      "Intel 8008",
+      "Intel 8080",
+      "Intel 4004",
+      "Motorola 6800"
+    ],
+    "answer": "Intel 4004"
+  },
+  {
+    "id": "science-technology-218",
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "Which endocrine gland in the neck regulates the body's basal metabolic rate?",
+    "options": [
+      "Thymus",
+      "Thyroid",
+      "Parathyroid",
+      "Adrenal"
+    ],
+    "answer": "Thyroid"
+  },
+  {
+    "id": "science-technology-219",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which type of mature human blood cell lacks a nucleus?",
+    "options": [
+      "Red blood cells",
+      "Platelets only",
+      "Lymphocytes",
+      "Monocytes"
+    ],
+    "answer": "Red blood cells"
+  },
+  {
+    "id": "science-technology-220",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Werner Heisenberg is best known for which principle, stating that certain pairs of physical quantities cannot both be precisely known?",
+    "options": [
+      "Exclusion principle",
+      "Correspondence principle",
+      "Equivalence principle",
+      "Uncertainty principle"
+    ],
+    "answer": "Uncertainty principle"
+  },
+  {
+    "id": "science-technology-221",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Who is credited with inventing the mercury-in-glass thermometer in 1714?",
+    "options": [
+      "Anders Celsius",
+      "Galileo Galilei",
+      "Daniel Gabriel Fahrenheit",
+      "Lord Kelvin"
+    ],
+    "answer": "Daniel Gabriel Fahrenheit"
+  },
+  {
+    "id": "science-technology-222",
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "Which element is found in both graphite and diamond as their sole component?",
+    "options": [
+      "Silicon",
+      "Carbon",
+      "Sulfur",
+      "Phosphorus"
+    ],
+    "answer": "Carbon"
+  },
+  {
+    "id": "science-technology-223",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "A googol is the number 10 raised to what power?",
+    "options": [
+      "10",
+      "50",
+      "100",
+      "1000"
+    ],
+    "answer": "100"
+  },
+  {
+    "id": "science-technology-224",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Approximately how many liters of blood does an average adult human body contain?",
+    "options": [
+      "2 liters",
+      "10 liters",
+      "5 liters",
+      "8 liters"
+    ],
+    "answer": "5 liters"
+  },
+  {
+    "id": "science-technology-225",
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "In which network topology do all nodes connect to a single central hub or switch?",
+    "options": [
+      "Bus",
+      "Ring",
+      "Star",
+      "Mesh"
+    ],
+    "answer": "Star"
+  },
+  {
+    "id": "science-technology-226",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What is the name of an electrical device that converts alternating current into direct current?",
+    "options": [
+      "Inverter",
+      "Rectifier",
+      "Transformer",
+      "Oscillator"
+    ],
+    "answer": "Rectifier"
+  },
+  {
+    "id": "science-technology-227",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which enzyme in gastric juice begins the digestion of proteins in the stomach?",
+    "options": [
+      "Trypsin",
+      "Amylase",
+      "Pepsin",
+      "Lipase"
+    ],
+    "answer": "Pepsin"
+  },
+  {
+    "id": "science-technology-228",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "How many bits long is an IPv4 address?",
+    "options": [
+      "32",
+      "48",
+      "64",
+      "128"
+    ],
+    "answer": "32"
+  },
+  {
+    "id": "science-technology-229",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which acid takes its name from the Latin word for ant, and is a major component of ant venom?",
+    "options": [
+      "Acetic acid",
+      "Formic acid",
+      "Citric acid",
+      "Oxalic acid"
+    ],
+    "answer": "Formic acid"
+  },
+  {
+    "id": "science-technology-230",
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What is the medical term for the condition in which the lens of the eye becomes cloudy, leading to impaired vision?",
+    "options": [
+      "Glaucoma",
+      "Cataract",
+      "Astigmatism",
+      "Presbyopia"
+    ],
+    "answer": "Cataract"
+  },
+  {
+    "id": "science-technology-231",
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What is the phase change called when a gas turns into a liquid?",
+    "options": [
+      "Evaporation",
+      "Condensation",
+      "Sublimation",
+      "Deposition"
+    ],
+    "answer": "Condensation"
+  },
+  {
+    "id": "science-technology-232",
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Which element is the heaviest primordial element, having been present since the formation of the Solar System?",
+    "options": [
+      "Plutonium",
+      "Uranium",
+      "Thorium",
+      "Bismuth"
+    ],
+    "answer": "Uranium"
+  },
+  {
+    "id": "science-technology-233",
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "Which transport-layer Internet protocol provides reliable, ordered, error-checked delivery of data?",
+    "options": [
+      "UDP",
+      "ICMP",
+      "TCP",
+      "ARP"
+    ],
+    "answer": "TCP"
+  },
+  {
+    "id": "science-technology-234",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which vessel is the only vein in the human body that normally carries oxygenated blood?",
+    "options": [
+      "Pulmonary vein",
+      "Superior vena cava",
+      "Jugular vein",
+      "Subclavian vein"
+    ],
+    "answer": "Pulmonary vein"
+  },
+  {
+    "id": "science-technology-235",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "How many articulating (movable) vertebrae are in the adult human spine, excluding the fused sacrum and coccyx?",
+    "options": [
+      "33",
+      "26",
+      "24",
+      "30"
+    ],
+    "answer": "24"
+  },
+  {
+    "id": "science-technology-236",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which endocrine gland, located at the base of the brain, is often called the 'master gland'?",
+    "options": [
+      "Pineal",
+      "Pituitary",
+      "Hypothalamus",
+      "Thymus"
+    ],
+    "answer": "Pituitary"
+  },
+  {
+    "id": "science-technology-237",
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Which substance, isolated from malt by Anselme Payen in 1833, is generally credited as the first enzyme to be discovered?",
+    "options": [
+      "Pepsin",
+      "Diastase",
+      "Amylase",
+      "Trypsin"
+    ],
+    "answer": "Diastase"
+  },
+  {
+    "id": "science-technology-238",
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "Which iron-containing protein in red blood cells is responsible for transporting oxygen?",
+    "options": [
+      "Myoglobin",
+      "Hemoglobin",
+      "Ferritin",
+      "Cytochrome"
+    ],
+    "answer": "Hemoglobin"
+  },
+  {
+    "id": "science-technology-239",
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Who invented the Audion, a three-element vacuum tube (triode) that made electronic amplification possible?",
+    "options": [
+      "Lee De Forest",
+      "John Ambrose Fleming",
+      "Thomas Edison",
+      "Nikola Tesla"
+    ],
+    "answer": "Lee De Forest"
+  },
+  {
+    "id": "science-technology-240",
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "Which semiconductor element is the primary material used in most integrated circuits?",
+    "options": [
+      "Germanium",
+      "Silicon",
+      "Gallium",
+      "Selenium"
+    ],
+    "answer": "Silicon"
+  },
+  {
+    "id": "science-technology-241",
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "Which lobe of the brain, located at the back of the head, is primarily responsible for processing visual information?",
+    "options": [
+      "Frontal lobe",
+      "Parietal lobe",
+      "Temporal lobe",
+      "Occipital lobe"
+    ],
+    "answer": "Occipital lobe"
+  },
+  {
+    "id": "science-technology-242",
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "Which acid is the principal electrolyte in the lead-acid batteries used in cars?",
+    "options": [
+      "Hydrochloric acid",
+      "Nitric acid",
+      "Sulfuric acid",
+      "Phosphoric acid"
+    ],
+    "answer": "Sulfuric acid"
+  },
+  {
+    "id": "science-technology-243",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "How many carpal bones are in each human hand?",
+    "options": [
+      "5",
+      "8",
+      "14",
+      "12"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": "science-technology-244",
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Tin has more stable isotopes than any other element. How many stable isotopes does it have?",
+    "options": [
+      "5",
+      "7",
+      "10",
+      "13"
+    ],
+    "answer": "10"
+  },
+  {
+    "id": "science-technology-245",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "The annual ACM prize in computing, often called the 'Nobel Prize of Computing,' is named after which pioneer?",
+    "options": [
+      "Charles Babbage",
+      "Alan Turing",
+      "John von Neumann",
+      "Claude Shannon"
+    ],
+    "answer": "Alan Turing"
+  },
+  {
+    "id": "science-technology-246",
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Who defined the REST architectural style in his 2000 doctoral dissertation?",
+    "options": [
+      "Roy Fielding",
+      "Tim Berners-Lee",
+      "Vint Cerf",
+      "Leonard Kleinrock"
+    ],
+    "answer": "Roy Fielding"
+  },
+  {
+    "id": "science-technology-247",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "In stellar nucleosynthesis, fusion up to which element generally releases energy rather than requiring it?",
+    "options": [
+      "Carbon",
+      "Oxygen",
+      "Iron",
+      "Silicon"
+    ],
+    "answer": "Iron"
+  },
+  {
+    "id": "science-technology-248",
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Approximately what is the half-life of a free neutron, outside of a nucleus?",
+    "options": [
+      "88 seconds",
+      "15 minutes",
+      "2 hours",
+      "1.5 days"
+    ],
+    "answer": "15 minutes"
+  },
+  {
+    "id": "science-technology-249",
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Approximately how many bones is a typical human baby born with, before some fuse together during growth?",
+    "options": [
+      "240",
+      "300",
+      "360",
+      "420"
+    ],
+    "answer": "300"
+  },
+  {
+    "id": "science-technology-250",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "In a DNA double helix, the base adenine always pairs with which other base?",
+    "options": [
+      "Guanine",
+      "Cytosine",
+      "Uracil",
+      "Thymine"
+    ],
+    "answer": "Thymine"
+  },
+  {
+    "id": "science-technology-251",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which photoreceptor cells in the human retina are primarily responsible for vision in dim light?",
+    "options": [
+      "Cones",
+      "Rods",
+      "Ganglion cells",
+      "Bipolar cells"
+    ],
+    "answer": "Rods"
+  },
+  {
+    "id": "science-technology-252",
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Who coined the term 'antibiotic' in 1942 while studying antimicrobial compounds produced by soil microbes?",
+    "options": [
+      "Paul Ehrlich",
+      "Howard Florey",
+      "Selman Waksman",
+      "Gerhard Domagk"
+    ],
+    "answer": "Selman Waksman"
+  },
+  {
+    "id": "science-technology-253",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which acid accumulates in muscles during intense anaerobic exercise, contributing to muscle fatigue?",
+    "options": [
+      "Pyruvic acid",
+      "Citric acid",
+      "Lactic acid",
+      "Acetic acid"
+    ],
+    "answer": "Lactic acid"
+  },
+  {
+    "id": "science-technology-254",
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "In which layer of Earth's atmosphere does the protective ozone layer reside?",
+    "options": [
+      "Troposphere",
+      "Mesosphere",
+      "Stratosphere",
+      "Thermosphere"
+    ],
+    "answer": "Stratosphere"
+  },
+  {
+    "id": "science-technology-255",
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "Which type of rock is formed when existing rocks are transformed by heat and pressure?",
+    "options": [
+      "Igneous",
+      "Sedimentary",
+      "Metamorphic",
+      "Volcanic"
+    ],
+    "answer": "Metamorphic"
+  },
+  {
+    "id": "science-technology-256",
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "What color does the indicator phenolphthalein turn in a basic (alkaline) solution?",
+    "options": [
+      "Yellow",
+      "Blue",
+      "Colorless",
+      "Pink"
+    ],
+    "answer": "Pink"
+  },
+  {
+    "id": "science-technology-257",
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Which synthetic element, atomic number 99, was discovered in the debris of the first hydrogen bomb test in 1952?",
+    "options": [
+      "Californium",
+      "Fermium",
+      "Einsteinium",
+      "Berkelium"
+    ],
+    "answer": "Einsteinium"
+  },
+  {
+    "id": "science-technology-258",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What material was used as the neutron moderator in Chicago Pile-1, the world's first artificial nuclear reactor?",
+    "options": [
+      "Heavy water",
+      "Graphite",
+      "Beryllium",
+      "Cadmium"
+    ],
+    "answer": "Graphite"
+  },
+  {
+    "id": "science-technology-259",
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "Which subatomic particle, found in the nucleus, carries a positive electric charge?",
+    "options": [
+      "Electron",
+      "Neutron",
+      "Proton",
+      "Photon"
+    ],
+    "answer": "Proton"
+  },
+  {
+    "id": "science-technology-260",
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "How many bits are in one byte in modern computing?",
+    "options": [
+      "4",
+      "8",
+      "16",
+      "32"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": "science-technology-261",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Who, upon observing box-like structures in cork under a microscope in 1665, coined the biological term 'cell'?",
+    "options": [
+      "Antonie van Leeuwenhoek",
+      "Robert Hooke",
+      "Marcello Malpighi",
+      "Robert Brown"
+    ],
+    "answer": "Robert Hooke"
+  },
+  {
+    "id": "science-technology-262",
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "What is the chemical symbol for bismuth?",
+    "options": [
+      "Bi",
+      "Bm",
+      "Bs",
+      "Bh"
+    ],
+    "answer": "Bi"
+  },
+  {
+    "id": "science-technology-263",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What is the chemical symbol for xenon?",
+    "options": [
+      "Xe",
+      "Xn",
+      "Xo",
+      "Xm"
+    ],
+    "answer": "Xe"
+  },
+  {
+    "id": "science-technology-264",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What is the chemical symbol for strontium?",
+    "options": [
+      "Sn",
+      "St",
+      "Sr",
+      "Sb"
+    ],
+    "answer": "Sr"
+  },
+  {
+    "id": "science-technology-265",
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What is the most abundant element by mass in Earth's crust?",
+    "options": [
+      "Silicon",
+      "Aluminum",
+      "Oxygen",
+      "Iron"
+    ],
+    "answer": "Oxygen"
+  },
+  {
+    "id": "science-technology-266",
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Which element, with atomic number 43, was the first element to be artificially produced, in 1937?",
+    "options": [
+      "Promethium",
+      "Technetium",
+      "Neptunium",
+      "Plutonium"
+    ],
+    "answer": "Technetium"
   }
 ]

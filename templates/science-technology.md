@@ -61,6 +61,34 @@ instead):
   very high collision rate, favor less-common acronyms (e.g. avoid another
   "what does X stand for" unless X isn't already on this list)
 - Elisha Otis and the safety elevator
+- SI unit lookups for luminous intensity (Candela), frequency (Hertz),
+  inductance (Henry) — "SI base unit of X" / "SI derived unit of X" is
+  the same fact as plain "SI unit of X", not a fresh angle
+- Chemical symbol for antimony (Sb)
+- Element with atomic number 79 (Gold)
+- Highest melting point of any pure metal (Tungsten)
+- Vitamin essential for blood clotting (Vitamin K)
+- Metal with the highest electrical conductivity (Silver)
+- Acid that is the main component of gastric juice/stomach acid
+  (Hydrochloric acid)
+- Smallest bone in the human body (Stapes, in the middle ear)
+- Edward Jenner and the first (smallpox/cowpox) vaccine — already covered
+  in a "which scientist created the first successful vaccine" framing
+- Element with the highest density at standard/room conditions (Osmium)
+- Vitamin synthesized in skin from sunlight/UVB exposure (Vitamin D)
+- Connective tissue that attaches muscle to bone (Tendon)
+- Acid that gives vinegar its sour taste (Acetic acid)
+- Process by which DNA is copied/transcribed into RNA (Transcription)
+- Rock type formed from cooling magma/lava (Igneous)
+- Material in pencil "lead" (Graphite) — but note Chicago Pile-1's use of
+  graphite as a neutron moderator is a genuinely different, NOT yet
+  covered fact, despite sharing the same answer
+- Definition of refraction (light bending between media) — already
+  covered; diffraction (bending/spreading around obstacles) is a
+  different, already-covered fact too, so don't redraft either
+- Linus Torvalds creating the Linux kernel in 1991
+- Which bond type involves sharing electron pairs (Covalent bond)
+- pH of pure water at 25°C (7)
 
 CAUTION — some pairs that look like duplicates by shared answer or
 surface wording are NOT: SI unit of magnetic flux (Weber) is a different
