@@ -61,6 +61,22 @@ instead):
 - Who wrote "The Importance of Being Earnest" (Oscar Wilde)
 - Who wrote "A Streetcar Named Desire" (Tennessee Williams)
 - Who wrote "Death of a Salesman" (Arthur Miller)
+- Who painted "Las Meninas" (Diego Velázquez)
+- Who painted "The Third of May 1808" (Francisco Goya)
+- Which artist/technique is "A Sunday on La Grande Jatte" (Georges Seurat,
+  Pointillism)
+- Who painted "The Kiss" (Gustav Klimt)
+- Who sculpted "The Ecstasy of Saint Teresa" (Gian Lorenzo Bernini)
+- Who wrote "Les Misérables" (Victor Hugo)
+- Which Dickens novel has Pip and Miss Havisham (Great Expectations) —
+  already covered via the Havisham-in-wedding-dress framing
+- Who wrote "The Stranger" (Albert Camus)
+- Name of the regime in Margaret Atwood's "The Handmaid's Tale" (Gilead)
+- Guy Montag's profession in "Fahrenheit 451" (Fireman)
+- Which Steinbeck novel follows the Joad family (The Grapes of Wrath)
+- Who wrote "Who's Afraid of Virginia Woolf?" (Edward Albee)
+- Name of the monster in "Beowulf" (Grendel) — already covered via the
+  John Gardner "Grendel" retelling-novel framing
 
 CAUTION — a same-author reuse isn't automatically a duplicate: e.g. Arthur
 Miller wrote both "Death of a Salesman" (covered above) and "The Crucible"

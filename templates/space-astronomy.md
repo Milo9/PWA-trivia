@@ -79,6 +79,30 @@ instead):
   Sun-like star — this was 51 Pegasi b, found in 1995 by ground-based
   radial-velocity observation (Mayor & Queloz), not by Kepler (which
   didn't launch until 2009)
+- Which spacecraft was first to orbit another planet / orbit Mars
+  (Mariner 9, 1971)
+- First human in space (Yuri Gagarin, Vostok 1, 1961)
+- First woman in space (Valentina Tereshkova, Vostok 6, 1963)
+- First spacewalk (Alexei Leonov, Voskhod 2, 1965)
+- First US crewed space station (Skylab, 1973)
+- Heliopause as the boundary where solar wind meets the interstellar
+  medium
+- Photosphere as the visible layer of the Sun we see from Earth
+- Chandrasekhar limit ≈ 1.4 solar masses
+- Magnetar as a neutron star with an extremely powerful magnetic field
+- Iapetus's two-tone coloration (one hemisphere dark, one bright)
+- Hyperion's sponge-like, chaotic/tumbling rotation
+- Haumea's elongated, football-like shape from rapid rotation
+- Type Ia supernova mechanism (white dwarf in a binary exceeds the
+  Chandrasekhar limit)
+- Redshift as the definition of light stretching to longer wavelengths
+  from a receding object
+- Hawking radiation (black holes emitting thermal radiation, proposed
+  1974)
+
+CAUTION — Rigel is Orion's *left* foot, not right (Betelgeuse is the
+right shoulder, Bellatrix the left shoulder, Saiph the right foot) —
+commonly flipped.
 
 Use web search to verify every fact — do not rely on memory alone. Prefer
 authoritative sources (space agency sites, encyclopedic sources) over

@@ -45,6 +45,40 @@ instead):
   around 1440 (Johannes Gutenberg) — already asked 3+ times in the corpus
 - Which Inca emperor was captured by Pizarro / was the last sovereign Inca
   emperor (Atahualpa) — already covered via the "last emperor" framing
+- Ship that carried the Pilgrims to North America in 1620 (Mayflower)
+- Code name for the Allied invasion of Normandy, June 1944 (Operation
+  Overlord)
+- Who was the first Roman Emperor (Augustus)
+- Which Civil War battle was the turning point (Gettysburg)
+- First female UK Prime Minister (Margaret Thatcher)
+- Year India gained independence from Britain (1947)
+- Who founded the Mongol Empire (Genghis Khan)
+- First President of South Africa after apartheid ended (Nelson Mandela)
+- Which 1919 treaty ended WWI / the state of war with Germany (Treaty of
+  Versailles)
+- Greek city-state renowned for its military culture (Sparta)
+- First woman to win a Nobel Prize (Marie Curie)
+- Last imperial dynasty of China (Qing)
+- Year of the stock market crash that triggered the Great Depression (1929)
+- First European explorer to reach India by sea around Africa (Vasco da
+  Gama) — already asked 3+ times in the corpus
+- Code name for the US atomic bomb program (Manhattan Project)
+- Only/first US President to resign from office (Nixon, 1974)
+- First dynasty to unify China (Qin)
+- First female PM of a Muslim-majority country (Benazir Bhutto, Pakistan
+  1988)
+- Last Tsar of Russia, executed 1918 (Nicholas II)
+- First woman in space / first female cosmonaut (Valentina Tereshkova,
+  Vostok 6, 1963)
+- First person to walk on the Moon (Neil Armstrong) — already asked 3+
+  times in the corpus
+
+CAUTION — "first US President born in a log cabin" is commonly
+misattributed to Lincoln; Andrew Jackson was actually first (Jackson born
+1767, decades before Lincoln). "The only US President to serve
+non-consecutive terms" (Grover Cleveland) stopped being true in 2025 when
+Donald Trump became the second — phrase any similar claim as "first," not
+"only," or pin it to a date.
 
 CAUTION — fill-in-the-blank style ("...located in present-day...", "was
 chartered in...") doesn't match this app's format; every existing question
