@@ -653,6 +653,70 @@ hand-seeded, none drafted) to 100. Seeded `templates/business-brands.md`'s
 first real content batch), plus the four judgment-call patterns above as
 cautionary notes.
 
+**`ANIMALS-GLM52-8d6hjfkcfnbvid008f3225hfbud.js`,
+`FILMS-GLM52-9d8jj39rt0f773jhi8f6jqjh73.js`, and
+`FOOD-Gemini-97sd9fyskdhf87syjksbdkf234234.js` processed 2026-08-02**
+(three single-file batches, 114 `animals-nature`, 100 `film-tv`, and 100
+`food-drink` questions respectively, all self-declaring `category`,
+processed sequentially in one session): `check-draft.js`'s default pass
+was weak on all three (0-2 duplicates flagged on two of the three
+batches) but `--full-answer-audit` plus a manual grep-every-distinctive-
+noun pass against the full corpus found substantially more — 31 of 114
+(~27%) cut from the animals batch, 21 of 100 cut from the film-tv batch,
+and 15 of 100 cut from the food-drink batch. The film-tv batch was the
+worst offender, consistent with `gemini-code-1785624420472.js`'s earlier
+finding for this same category: it leaned heavily on the single most
+obvious "who directed X famous film" / "name the iconic prop/setting in
+X" framing for films already well-represented in the corpus (Alien, The
+Godfather, The Shining, Pulp Fiction, The Matrix, Breaking Bad, The
+Simpsons, Seinfeld, Game of Thrones), so a large fraction collided with
+existing entries almost verbatim.
+
+Two duplicate patterns surfaced clearly enough in this session to be
+worth naming for future batches:
+1. **A fact stated as a premise inside an existing question's own
+   wording, even when that existing question's tested answer is
+   something else entirely.** E.g. an existing Godfather question already
+   names "Jack Woltz" in its own text while asking about the *horse's*
+   name — a separate question asking "who is the executive who wakes up
+   with the horse's head" is redundant even though the two questions
+   nominally test different facts, because the second question's entire
+   answer is given away by the first question's premise. Same pattern hit
+   an existing "Back to the Future" question that already names the town
+   "Hill Valley" while asking about Ronald Reagan's cameo offer, and (in
+   the animals batch) an existing Rafflesia/"corpse flower" question that
+   already states it's "the world's largest individual flower" while
+   asking about the smell, and an existing baobab question that already
+   implies water storage while asking for a liter figure.
+2. **Reversed-direction duplicates, heavily concentrated in the food-drink
+   batch** — an existing question describing an ingredient/process and
+   asking for the dish's name, versus a new question naming the dish and
+   asking for the ingredient/process (the same class of bug as the
+   nucleus/DNA case in the `SCIENCE-QWEN37` entry below, and the Robin
+   Hood/archery example in the README). Six of the food-drink batch's 15
+   cuts were this pattern alone (ayran, guanciale, natto, kombu, cinnamon,
+   cloves) — `check-draft.js`'s answer-match check does catch same-answer
+   pairs, but several of these scored below its overlap floor because the
+   *question* text differed so much (naming the dish vs. describing it)
+   even though the *answer* was effectively fixed by the other question's
+   premise.
+
+No factual-error or schema/hedge problems were found in any of the three
+batches beyond the usual sentence-like-option advisories (already
+consistent with this batch's descriptive-answer style, not a real
+concern) and one self-answering tautological question cut from the
+film-tv batch (a "Matrix Reloaded" question asking for "the name of the
+character who serves as the Keymaker," whose only in-universe name *is*
+"The Keymaker" — unfixable without changing the underlying fact, so cut
+rather than reworded). Surviving 83/79/85 merged as `animals-nature-245`–
+`327`, `film-tv-194`–`272`, and `food-drink-100`–`184` respectively. All
+confirmed-duplicate angles, plus the two duplicate patterns above as
+cautionary notes, folded into the three categories' lists in
+`templates/animals-nature.md`, `templates/film-tv.md`, and
+`templates/food-drink.md`. One inbox file (`SPACE-Gemini-
+98d6f876fdga976adf8fg7a9d8fg.js`, 100 `space-astronomy` questions) was
+left unprocessed this session — next in line for a future batch.
+
 ## General Knowledge split into topic categories (2026-08-01)
 
 `general` (2825 questions) was split into 12 topic categories plus a
