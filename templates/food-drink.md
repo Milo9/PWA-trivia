@@ -69,6 +69,15 @@ AVOID THESE ANGLES (facts already asked, in some cases more than once — don't 
 - Primary dairy ingredient in Indian lassi (yogurt)
 - What Ethiopian/Eritrean injera flatbread is made from (teff flour)
 - The French culinary term for combining a dry-heat sear with a covered, moist-heat slow cook (braising)
+- What fish katsuobushi is made from (skipjack tuna) — already asked in both directions
+- Which of the five French mother sauces is an emulsion rather than roux-based (hollandaise)
+- Casu marzu containing live insect larvae/maggots — already asked in both directions (name the cheese → organism, and describe the organism → name the cheese)
+- What grain sake is made from (rice) — already asked many times over, heavily saturated
+- What mirin is (a sweet Japanese rice wine) — already asked in both directions
+- What jamón Ibérico de bellota pigs feed on during the montanera (acorns)
+- Sous vide as vacuum-sealed, temperature-controlled water bath cooking
+- Ajo blanco as a chilled Spanish almond-garlic-bread soup predating gazpacho
+- Halloumi's high melting point letting it be grilled/fried — already asked in both directions
 
 Avoid drafting a question whose dish name already contains the answer (e.g. asking what tuber "pounded yam" is pounded from, when the answer is literally "yam"; or what grain "farro salad" is made from, when the answer is "farro") — these are self-answering and get cut regardless of whether the underlying fact is otherwise fresh.
 
