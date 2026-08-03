@@ -51,6 +51,27 @@ AVOID THESE ANGLES (facts already asked, in some cases more than once — don't 
 - Pepsi-Cola's original 1893 name, "Brad's Drink"
 - Amazon's Fire Phone (2015 flop)
 - Crystal Pepsi (1992) and the "Pepsi Girl" mascot's real name, Hallie Eisenberg
+- Google Glass's 2013 "Explorer Edition" launch and "Glasshole" mockery
+- Nintendo's Virtual Boy (1995 red-monochrome 3D console, discontinued within a year)
+- Snapchat's original name, Picaboo
+- Airbnb's original name/concept, "Airbed & Breakfast"
+- Amazon's original working name, "Cadabra"
+- Frito-Lay's 2005 Cheetos-flavored lip balm
+- Subway's original 1965 name, "Pete's Super Submarines"
+- Domino's original name, "DomiNick's"
+- Pepsi AM (1989 extra-caffeinated morning cola)
+- Coors' 1990 non-alcoholic flop, Rocky Mountain Sparkling Water
+- Zara being originally named "Zorba" after the film, changed due to a nearby bar with the same name
+- Patagonia founder Yvon Chouinard originally selling climbing pitons
+- Target originating as Dayton's discount store division
+- Avon's original name, California Perfume Company
+- The six stars in Subaru's logo representing the Pleiades star cluster
+- The Hyundai logo depicting two people shaking hands (beyond just being a slanted "H")
+- Audi's four rings representing the 1932 merger of four companies (whether asked as "how many companies" or "what do the rings represent")
+- The Pontiac Aztek as Walter White's car in Breaking Bad (don't ask from either the car-identification or the show-trivia direction)
+- Mazda's name partly deriving from Ahura Mazda, god of light/wisdom
+- MGM's mascot lion being named Leo (don't ask from either the studio-identification or the lion-name direction)
+- Play-Doh's original purpose as a wallpaper/wallpaper-soot cleaner
 - L'Oréal founder Eugène Schueller's first product, a hair dye formula
 - Starbucks' original 1971 siren logo featuring bare breasts
 - Microsoft's MSN Direct/SPOT smartwatch network (watches launched 2004, discontinued 2008) and its Kin smartphone (2010, discontinued after 48 days) and Zune music player (2006-2011)
