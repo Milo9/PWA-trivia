@@ -59,11 +59,26 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Acid that gives vinegar its sour taste (Acetic acid)
 - Process by which DNA is copied/transcribed into RNA (Transcription)
 - Rock type formed from cooling magma/lava (Igneous)
-- Material in pencil "lead" (Graphite) — but note Chicago Pile-1's use of graphite as a neutron moderator is a genuinely different, NOT yet covered fact, despite sharing the same answer
+- Material in pencil "lead" (Graphite) — Chicago Pile-1's use of graphite as a neutron moderator is now ALSO covered (a separate fact sharing the same answer, don't redraft either)
 - Definition of refraction (light bending between media) — already covered; diffraction (bending/spreading around obstacles) is a different, already-covered fact too, so don't redraft either
 - Linus Torvalds creating the Linux kernel in 1991
 - Which bond type involves sharing electron pairs (Covalent bond)
 - pH of pure water at 25°C (7)
+- SI unit of magnetic flux (Weber)
+- Technetium as the first artificially produced element, atomic number 43, in 1937
+- Heisenberg's uncertainty principle (formulated 1927)
+- The Schrödinger equation (describes how a quantum system's wave function evolves)
+- The thyroid gland (butterfly-shaped, neck, regulates metabolism)
+- Einsteinium (atomic number 99, discovered in 1952 H-bomb test debris)
+- Dijkstra's algorithm for shortest paths in a weighted graph
+- Unicode as the character encoding standard that superseded ASCII
+- Definition of the Fibonacci sequence
+- Archimedes' principle (buoyant force equals weight of displaced fluid)
+- Dmitri Mendeleev and the periodic table of elements (very high collision rate — asked from at least 4 different phrasings already)
+- The barometer as the instrument that measures atmospheric pressure
+- ENIAC as the first general-purpose electronic computer
+- Grace Hopper popularizing the term "computer bug" after finding a moth — also avoid asking "what insect was found" directly, since the existing question's own premise already states it was a moth
+- The Haber-Bosch process (ammonia synthesis, first used industrially at BASF Oppau in 1913)
 
 CAUTION — some pairs that look like duplicates by shared answer or surface wording are NOT: SI unit of magnetic flux (Weber) is a different quantity from SI unit of magnetic flux DENSITY (Tesla), already covered; "which company developed C#" (Microsoft) is a different fact from "which company developed C" (Bell Labs/AT&T) despite the near-identical question text. Don't skip a fact just because a similarly-worded question already exists — check whether it's actually the same underlying fact first.
 

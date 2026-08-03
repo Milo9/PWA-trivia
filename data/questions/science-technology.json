@@ -9475,5 +9475,1227 @@
       "Plutonium"
     ],
     "answer": "Technetium"
+  },
+  {
+    "id": "science-technology-267",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What industrial process, first used at BASF Oppau in 1913, synthesizes ammonia from nitrogen and hydrogen gases?",
+    "options": [
+      "Haber-Bosch process",
+      "Ostwald process",
+      "Contact process",
+      "Solvay process"
+    ],
+    "answer": "Haber-Bosch process"
+  },
+  {
+    "id": "science-technology-268",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What is the hardness rating of talc on the Mohs scale of mineral hardness?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "0"
+    ],
+    "answer": "1"
+  },
+  {
+    "id": "science-technology-269",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Which radioactive rare earth element has no stable isotopes and atomic number 61?",
+    "options": [
+      "Promethium",
+      "Praseodymium",
+      "Neodymium",
+      "Samarium"
+    ],
+    "answer": "Promethium"
+  },
+  {
+    "id": "science-technology-270",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "How many cranial nerves are there in the human body?",
+    "options": [
+      "12",
+      "10",
+      "31",
+      "8"
+    ],
+    "answer": "12"
+  },
+  {
+    "id": "science-technology-271",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What programming language was created by Graydon Hoare in 2006 while working at Mozilla?",
+    "options": [
+      "Rust",
+      "Go",
+      "Swift",
+      "Kotlin"
+    ],
+    "answer": "Rust"
+  },
+  {
+    "id": "science-technology-272",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Who created the D programming language and founded Digital Mars?",
+    "options": [
+      "Walter Bright",
+      "Anders Hejlsberg",
+      "Bjarne Stroustrup",
+      "James Gosling"
+    ],
+    "answer": "Walter Bright"
+  },
+  {
+    "id": "science-technology-273",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "Who created C++ at Bell Labs starting in 1979, originally calling it 'C with Classes'?",
+    "options": [
+      "Bjarne Stroustrup",
+      "Dennis Ritchie",
+      "Ken Thompson",
+      "Brian Kernighan"
+    ],
+    "answer": "Bjarne Stroustrup"
+  },
+  {
+    "id": "science-technology-274",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What dimensionless quantity in fluid dynamics, proposed by Osborne Reynolds in 1883, helps predict flow patterns?",
+    "options": [
+      "Reynolds number",
+      "Mach number",
+      "Prandtl number",
+      "Nusselt number"
+    ],
+    "answer": "Reynolds number"
+  },
+  {
+    "id": "science-technology-275",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What apparent deflection of moving objects in a rotating reference frame was described by Gaspard-Gustave de Coriolis in 1835?",
+    "options": [
+      "Coriolis effect",
+      "Magnus effect",
+      "Venturi effect",
+      "Coanda effect"
+    ],
+    "answer": "Coriolis effect"
+  },
+  {
+    "id": "science-technology-276",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "Which cranial nerve is the longest in the human body and a key component of the parasympathetic nervous system?",
+    "options": [
+      "Vagus nerve",
+      "Trigeminal nerve",
+      "Facial nerve",
+      "Hypoglossal nerve"
+    ],
+    "answer": "Vagus nerve"
+  },
+  {
+    "id": "science-technology-277",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What process for mass-producing steel by blowing air through molten pig iron was patented by Henry Bessemer in 1856?",
+    "options": [
+      "Bessemer process",
+      "Open-hearth process",
+      "Basic oxygen process",
+      "Crucible process"
+    ],
+    "answer": "Bessemer process"
+  },
+  {
+    "id": "science-technology-278",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What device, invented by French engineer Henri Pitot in 1732, measures fluid flow velocity?",
+    "options": [
+      "Pitot tube",
+      "Venturi tube",
+      "Manometer",
+      "Rotameter"
+    ],
+    "answer": "Pitot tube"
+  },
+  {
+    "id": "science-technology-279",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What element with atomic number 101 is named after Dmitri Mendeleev?",
+    "options": [
+      "Mendelevium",
+      "Meitnerium",
+      "Moscovium",
+      "Magnesium"
+    ],
+    "answer": "Mendelevium"
+  },
+  {
+    "id": "science-technology-280",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What element with atomic number 96 is named after Marie and Pierre Curie?",
+    "options": [
+      "Curium",
+      "Californium",
+      "Copernicium",
+      "Cerium"
+    ],
+    "answer": "Curium"
+  },
+  {
+    "id": "science-technology-281",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What element with atomic number 100 was discovered in the fallout from the Ivy Mike nuclear test in 1952?",
+    "options": [
+      "Fermium",
+      "Flerovium",
+      "Francium",
+      "Mendelevium"
+    ],
+    "answer": "Fermium"
+  },
+  {
+    "id": "science-technology-282",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "In topology, what is the value of V - E + F for any convex polyhedron, where V=vertices, E=edges, and F=faces?",
+    "options": [
+      "2",
+      "0",
+      "1",
+      "-2"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": "science-technology-283",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What ratio in materials science describes the relationship between transverse strain and longitudinal strain?",
+    "options": [
+      "Poisson's ratio",
+      "Aspect ratio",
+      "Slenderness ratio",
+      "Strain ratio"
+    ],
+    "answer": "Poisson's ratio"
+  },
+  {
+    "id": "science-technology-284",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What property of solid materials, introduced by Thomas Young in 1807, measures stiffness or tensile/compressive rigidity?",
+    "options": [
+      "Young's modulus",
+      "Shear modulus",
+      "Bulk modulus",
+      "Flexural modulus"
+    ],
+    "answer": "Young's modulus"
+  },
+  {
+    "id": "science-technology-285",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What space-filling fractal curve, also known as the flowsnake, was discovered by Bill Gosper in 1973?",
+    "options": [
+      "Gosper curve",
+      "Hilbert curve",
+      "Peano curve",
+      "Koch curve"
+    ],
+    "answer": "Gosper curve"
+  },
+  {
+    "id": "science-technology-286",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What computable function, discovered in 1928, is famously not primitive recursive and grows extremely rapidly?",
+    "options": [
+      "Ackermann function",
+      "McCarthy function",
+      "Turing function",
+      "Church function"
+    ],
+    "answer": "Ackermann function"
+  },
+  {
+    "id": "science-technology-287",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What public-key cryptosystem was publicly described by Rivest, Shamir, and Adleman in 1977?",
+    "options": [
+      "RSA",
+      "AES",
+      "DES",
+      "Blowfish"
+    ],
+    "answer": "RSA"
+  },
+  {
+    "id": "science-technology-288",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What series of biochemical reactions in the mitochondria, discovered by Hans Krebs in 1937, generates energy from nutrients?",
+    "options": [
+      "Krebs cycle",
+      "Calvin cycle",
+      "Urea cycle",
+      "Electron transport chain"
+    ],
+    "answer": "Krebs cycle"
+  },
+  {
+    "id": "science-technology-289",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What four criteria, formulated by Robert Koch in the 1880s, establish that a specific microbe causes a specific disease?",
+    "options": [
+      "Koch's postulates",
+      "Hill's criteria",
+      "Bradford Hill criteria",
+      "Germ theory postulates"
+    ],
+    "answer": "Koch's postulates"
+  },
+  {
+    "id": "science-technology-290",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What type of internal combustion engine uses a triangular rotor instead of pistons and was invented by Felix Wankel?",
+    "options": [
+      "Wankel engine",
+      "Radial engine",
+      "Two-stroke engine",
+      "Opposed-piston engine"
+    ],
+    "answer": "Wankel engine"
+  },
+  {
+    "id": "science-technology-291",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What type of internal combustion engine uses compression ignition and was patented by Rudolf Diesel in 1892?",
+    "options": [
+      "Diesel engine",
+      "Gasoline engine",
+      "Steam engine",
+      "Stirling engine"
+    ],
+    "answer": "Diesel engine"
+  },
+  {
+    "id": "science-technology-292",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What law of electromagnetism states that electric flux through a closed surface is proportional to the enclosed charge?",
+    "options": [
+      "Gauss's law",
+      "Faraday's law",
+      "Ampère's law",
+      "Biot-Savart law"
+    ],
+    "answer": "Gauss's law"
+  },
+  {
+    "id": "science-technology-293",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What law of electromagnetic induction, discovered in 1831, describes how a changing magnetic field induces an electric current?",
+    "options": [
+      "Faraday's law",
+      "Lenz's law",
+      "Ohm's law",
+      "Coulomb's law"
+    ],
+    "answer": "Faraday's law"
+  },
+  {
+    "id": "science-technology-294",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What law, formulated in 1834, states that the direction of an induced current opposes the change that produces it?",
+    "options": [
+      "Lenz's law",
+      "Faraday's law",
+      "Ampère's law",
+      "Biot-Savart law"
+    ],
+    "answer": "Lenz's law"
+  },
+  {
+    "id": "science-technology-295",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What fundamental physical constant, denoted by h, was introduced by Max Planck in 1900 and is central to quantum mechanics?",
+    "options": [
+      "Planck's constant",
+      "Boltzmann constant",
+      "Avogadro constant",
+      "Gravitational constant"
+    ],
+    "answer": "Planck's constant"
+  },
+  {
+    "id": "science-technology-296",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What laws of inheritance were established by Gregor Mendel in 1865 through pea plant experiments?",
+    "options": [
+      "Mendel's laws",
+      "Darwin's laws",
+      "Lamarck's laws",
+      "Weismann's laws"
+    ],
+    "answer": "Mendel's laws"
+  },
+  {
+    "id": "science-technology-297",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Who described the double helix structure of DNA in 1953?",
+    "options": [
+      "Watson and Crick",
+      "Pauling and Corey",
+      "Franklin and Wilkins",
+      "Hershey and Chase"
+    ],
+    "answer": "Watson and Crick"
+  },
+  {
+    "id": "science-technology-298",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What DNA sequencing method, using chain-terminating dideoxynucleotides, was developed by Frederick Sanger in 1977?",
+    "options": [
+      "Sanger sequencing",
+      "Maxam-Gilbert sequencing",
+      "Next-generation sequencing",
+      "Nanopore sequencing"
+    ],
+    "answer": "Sanger sequencing"
+  },
+  {
+    "id": "science-technology-299",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What technique for amplifying specific DNA sequences was invented by Kary Mullis in 1983?",
+    "options": [
+      "PCR",
+      "Gel electrophoresis",
+      "DNA microarray",
+      "Southern blot"
+    ],
+    "answer": "PCR"
+  },
+  {
+    "id": "science-technology-300",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What lossless data compression algorithm was developed by David Huffman in 1952?",
+    "options": [
+      "Huffman coding",
+      "LZW compression",
+      "Run-length encoding",
+      "Arithmetic coding"
+    ],
+    "answer": "Huffman coding"
+  },
+  {
+    "id": "science-technology-301",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What compression algorithms, developed by Abraham Lempel and Jacob Ziv in 1977-1978, use dictionary-based coding?",
+    "options": [
+      "Lempel-Ziv",
+      "Huffman coding",
+      "Burrows-Wheeler",
+      "DEFLATE"
+    ],
+    "answer": "Lempel-Ziv"
+  },
+  {
+    "id": "science-technology-302",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What shortest path algorithm, published in 1958, can handle graphs with negative edge weights?",
+    "options": [
+      "Bellman-Ford algorithm",
+      "Dijkstra's algorithm",
+      "Floyd-Warshall algorithm",
+      "A* algorithm"
+    ],
+    "answer": "Bellman-Ford algorithm"
+  },
+  {
+    "id": "science-technology-303",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What divide-and-conquer sorting algorithm was developed by Tony Hoare in 1959?",
+    "options": [
+      "Quicksort",
+      "Mergesort",
+      "Heapsort",
+      "Shellsort"
+    ],
+    "answer": "Quicksort"
+  },
+  {
+    "id": "science-technology-304",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What color filter array pattern, invented by Bryce Bayer at Kodak in 1976, is used in most digital camera sensors?",
+    "options": [
+      "Bayer filter",
+      "Foveon filter",
+      "RGB filter",
+      "CMY filter"
+    ],
+    "answer": "Bayer filter"
+  },
+  {
+    "id": "science-technology-305",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What short-range wireless communication standard, proposed under that name by Intel engineer Jim Kardach in 1996, is named after a 10th-century Scandinavian king famous for uniting Danish tribes?",
+    "options": [
+      "Bluetooth",
+      "Wi-Fi",
+      "Zigbee",
+      "Z-Wave"
+    ],
+    "answer": "Bluetooth"
+  },
+  {
+    "id": "science-technology-306",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What term, coined by the branding firm Interbrand in 1999, is often mistakenly thought to stand for 'Wireless Fidelity'?",
+    "options": [
+      "Wi-Fi",
+      "Bluetooth",
+      "Ethernet",
+      "Hotspot"
+    ],
+    "answer": "Wi-Fi"
+  },
+  {
+    "id": "science-technology-307",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What encoding system using dots and dashes was developed by Samuel Morse in the 1830s for telegraph communication?",
+    "options": [
+      "Morse code",
+      "Binary code",
+      "Braille",
+      "ASCII"
+    ],
+    "answer": "Morse code"
+  },
+  {
+    "id": "science-technology-308",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What tactile reading and writing system for blind and visually impaired people was invented in 1824 by a 15-year-old French student?",
+    "options": [
+      "Braille",
+      "Moon type",
+      "Boston Line Letter",
+      "New York Point"
+    ],
+    "answer": "Braille"
+  },
+  {
+    "id": "science-technology-309",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What character encoding standard, first published in 1963, stands for American Standard Code for Information Interchange?",
+    "options": [
+      "ASCII",
+      "EBCDIC",
+      "Unicode",
+      "ISO-8859-1"
+    ],
+    "answer": "ASCII"
+  },
+  {
+    "id": "science-technology-310",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What heat-resistant synthetic fiber, invented by Stephanie Kwolek at DuPont in 1965, is used in bulletproof vests?",
+    "options": [
+      "Kevlar",
+      "Nomex",
+      "Vectran",
+      "Spectra"
+    ],
+    "answer": "Kevlar"
+  },
+  {
+    "id": "science-technology-311",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What hook-and-loop fastener was invented by George de Mestral in 1941 after observing burrs stuck to his dog?",
+    "options": [
+      "Velcro",
+      "Duct tape",
+      "Zipper",
+      "Snap fastener"
+    ],
+    "answer": "Velcro"
+  },
+  {
+    "id": "science-technology-312",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What polymer, accidentally discovered by Roy Plunkett at DuPont in 1938, is known for its non-stick properties?",
+    "options": [
+      "Teflon",
+      "Nylon",
+      "Bakelite",
+      "Polystyrene"
+    ],
+    "answer": "Teflon"
+  },
+  {
+    "id": "science-technology-313",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What cyanoacrylate adhesive was discovered by Harry Coover at Eastman Kodak in 1942?",
+    "options": [
+      "Superglue",
+      "Epoxy",
+      "Contact cement",
+      "Hot glue"
+    ],
+    "answer": "Superglue"
+  },
+  {
+    "id": "science-technology-314",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What gas law, published in 1662, states that pressure and volume are inversely proportional at constant temperature?",
+    "options": [
+      "Boyle's law",
+      "Charles's law",
+      "Gay-Lussac's law",
+      "Avogadro's law"
+    ],
+    "answer": "Boyle's law"
+  },
+  {
+    "id": "science-technology-315",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What gas law, formulated by Jacques Charles in 1787, states that volume is directly proportional to temperature at constant pressure?",
+    "options": [
+      "Charles's law",
+      "Boyle's law",
+      "Gay-Lussac's law",
+      "Dalton's law"
+    ],
+    "answer": "Charles's law"
+  },
+  {
+    "id": "science-technology-316",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What gas law, published in 1802, states that pressure is directly proportional to temperature at constant volume?",
+    "options": [
+      "Gay-Lussac's law",
+      "Boyle's law",
+      "Charles's law",
+      "Henry's law"
+    ],
+    "answer": "Gay-Lussac's law"
+  },
+  {
+    "id": "science-technology-317",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What gas law, proposed in 1811, states that equal volumes of gases at the same temperature and pressure contain equal numbers of molecules?",
+    "options": [
+      "Avogadro's law",
+      "Boyle's law",
+      "Charles's law",
+      "Dalton's law"
+    ],
+    "answer": "Avogadro's law"
+  },
+  {
+    "id": "science-technology-318",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What law of electricity, formulated by Georg Ohm in 1827, describes the relationship between voltage, current, and resistance?",
+    "options": [
+      "Ohm's law",
+      "Kirchhoff's law",
+      "Watt's law",
+      "Joule's law"
+    ],
+    "answer": "Ohm's law"
+  },
+  {
+    "id": "science-technology-319",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What law of physics, formulated in 1785, describes the electrostatic force between electrically charged particles?",
+    "options": [
+      "Coulomb's law",
+      "Newton's law",
+      "Gauss's law",
+      "Ampère's law"
+    ],
+    "answer": "Coulomb's law"
+  },
+  {
+    "id": "science-technology-320",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What law of optics, formulated in 1621, describes the relationship between angles of incidence and refraction?",
+    "options": [
+      "Snell's law",
+      "Brewster's law",
+      "Malus's law",
+      "Fresnel's law"
+    ],
+    "answer": "Snell's law"
+  },
+  {
+    "id": "science-technology-321",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What triangular array of binomial coefficients was studied extensively by Blaise Pascal in 1653?",
+    "options": [
+      "Pascal's triangle",
+      "Sierpinski triangle",
+      "Yang Hui triangle",
+      "Khayyam triangle"
+    ],
+    "answer": "Pascal's triangle"
+  },
+  {
+    "id": "science-technology-322",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What mathematical ratio, approximately 1.618 and represented by phi (Φ), appears frequently in art, architecture, and nature?",
+    "options": [
+      "Golden ratio",
+      "Silver ratio",
+      "Plastic ratio",
+      "Supergolden ratio"
+    ],
+    "answer": "Golden ratio"
+  },
+  {
+    "id": "science-technology-323",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What common laboratory equipment, named after Robert Bunsen and developed in 1855, produces a single open gas flame?",
+    "options": [
+      "Bunsen burner",
+      "Bunsen flask",
+      "Bunsen valve",
+      "Bunsen cell"
+    ],
+    "answer": "Bunsen burner"
+  },
+  {
+    "id": "science-technology-324",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What electromechanical instrument, first built by Johann Schweigger in 1820, detects and measures small electric currents?",
+    "options": [
+      "Galvanometer",
+      "Voltmeter",
+      "Ammeter",
+      "Ohmmeter"
+    ],
+    "answer": "Galvanometer"
+  },
+  {
+    "id": "science-technology-325",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What was the first electrical battery that could continuously provide electric current, invented by Alessandro Volta in 1800?",
+    "options": [
+      "Voltaic pile",
+      "Daniell cell",
+      "Leclanché cell",
+      "Grove cell"
+    ],
+    "answer": "Voltaic pile"
+  },
+  {
+    "id": "science-technology-326",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What theoretical heat engine, described by Sadi Carnot in 1824, sets the maximum possible efficiency for any heat engine?",
+    "options": [
+      "Carnot engine",
+      "Stirling engine",
+      "Otto engine",
+      "Diesel engine"
+    ],
+    "answer": "Carnot engine"
+  },
+  {
+    "id": "science-technology-327",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What thermodynamic cycle describes the ideal process for compression ignition engines?",
+    "options": [
+      "Diesel cycle",
+      "Otto cycle",
+      "Brayton cycle",
+      "Rankine cycle"
+    ],
+    "answer": "Diesel cycle"
+  },
+  {
+    "id": "science-technology-328",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What four-stroke engine cycle, developed by Nikolaus Otto in 1876, is used in most gasoline automobile engines?",
+    "options": [
+      "Otto cycle",
+      "Diesel cycle",
+      "Atkinson cycle",
+      "Miller cycle"
+    ],
+    "answer": "Otto cycle"
+  },
+  {
+    "id": "science-technology-329",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What thermodynamic cycle, analyzed by William Rankine in 1859, is used in steam power plants and nuclear reactors?",
+    "options": [
+      "Rankine cycle",
+      "Brayton cycle",
+      "Stirling cycle",
+      "Ericsson cycle"
+    ],
+    "answer": "Rankine cycle"
+  },
+  {
+    "id": "science-technology-330",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What hardness test, invented by Johan August Brinell in 1900, measures the diameter of an indentation made by a hard sphere?",
+    "options": [
+      "Brinell hardness test",
+      "Rockwell hardness test",
+      "Vickers hardness test",
+      "Knoop hardness test"
+    ],
+    "answer": "Brinell hardness test"
+  },
+  {
+    "id": "science-technology-331",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What hardness test, patented in 1919, determines hardness by measuring the depth of indentation rather than its size?",
+    "options": [
+      "Rockwell hardness test",
+      "Brinell hardness test",
+      "Vickers hardness test",
+      "Shore hardness test"
+    ],
+    "answer": "Rockwell hardness test"
+  },
+  {
+    "id": "science-technology-332",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What hardness test, developed at Vickers Ltd in 1921, uses a diamond pyramid indenter?",
+    "options": [
+      "Vickers hardness test",
+      "Brinell hardness test",
+      "Rockwell hardness test",
+      "Mohs hardness test"
+    ],
+    "answer": "Vickers hardness test"
+  },
+  {
+    "id": "science-technology-333",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What device, invented by Albert Shore in 1915, measures the hardness of polymers and elastomers?",
+    "options": [
+      "Shore durometer",
+      "Rockwell tester",
+      "Brinell tester",
+      "Vickers tester"
+    ],
+    "answer": "Shore durometer"
+  },
+  {
+    "id": "science-technology-334",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What early attempt at organizing elements, proposed in 1864, noted that every eighth element had similar properties?",
+    "options": [
+      "Law of octaves",
+      "Law of triads",
+      "Periodic law",
+      "Law of multiple proportions"
+    ],
+    "answer": "Law of octaves"
+  },
+  {
+    "id": "science-technology-335",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What law, discovered by Henry Moseley in 1913, relates an element's atomic number to the frequency of its characteristic X-rays?",
+    "options": [
+      "Moseley's law",
+      "Bragg's law",
+      "Siegbahn's law",
+      "Duane-Hunt law"
+    ],
+    "answer": "Moseley's law"
+  },
+  {
+    "id": "science-technology-336",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What element with atomic number 106 was named in 1997 after Glenn Seaborg, making it the first element named after a living person?",
+    "options": [
+      "Seaborgium",
+      "Rutherfordium",
+      "Dubnium",
+      "Bohrium"
+    ],
+    "answer": "Seaborgium"
+  },
+  {
+    "id": "science-technology-337",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What industrial process produces sulfuric acid using vanadium pentoxide (V₂O₅) as a catalyst?",
+    "options": [
+      "Contact process",
+      "Lead chamber process",
+      "Double contact process",
+      "Ostwald process"
+    ],
+    "answer": "Contact process"
+  },
+  {
+    "id": "science-technology-338",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What industrial process, invented by Ernest Solvay in 1861, produces sodium carbonate (soda ash) from salt and limestone?",
+    "options": [
+      "Solvay process",
+      "Leblanc process",
+      "Ammonia-soda process",
+      "Hou's process"
+    ],
+    "answer": "Solvay process"
+  },
+  {
+    "id": "science-technology-339",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What process, developed independently in 1886, is used to smelt aluminum by electrolysis of alumina dissolved in molten cryolite?",
+    "options": [
+      "Hall-Héroult process",
+      "Bayer process",
+      "Deville process",
+      "Pidgeon process"
+    ],
+    "answer": "Hall-Héroult process"
+  },
+  {
+    "id": "science-technology-340",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What neurotransmitter, identified as an independent neurotransmitter by Arvid Carlsson in 1957, plays a key role in reward and pleasure?",
+    "options": [
+      "Dopamine",
+      "Serotonin",
+      "Norepinephrine",
+      "Acetylcholine"
+    ],
+    "answer": "Dopamine"
+  },
+  {
+    "id": "science-technology-341",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What neurotransmitter, isolated and named by Maurice Rapport in 1948, plays a key role in mood regulation?",
+    "options": [
+      "Serotonin",
+      "Dopamine",
+      "GABA",
+      "Glutamate"
+    ],
+    "answer": "Serotonin"
+  },
+  {
+    "id": "science-technology-342",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What endogenous opioid peptides, first discovered in 1964, are responsible for the pain relief experienced during exercise?",
+    "options": [
+      "Endorphins",
+      "Enkephalins",
+      "Dynorphins",
+      "Endocannabinoids"
+    ],
+    "answer": "Endorphins"
+  },
+  {
+    "id": "science-technology-343",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What hormone, discovered by Aaron Lerner in 1958, regulates circadian rhythms and sleep-wake cycles?",
+    "options": [
+      "Melatonin",
+      "Cortisol",
+      "Serotonin",
+      "Adenosine"
+    ],
+    "answer": "Melatonin"
+  },
+  {
+    "id": "science-technology-344",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What synthetic polymer, developed by Wallace Carothers at DuPont in 1935, revolutionized the textile industry?",
+    "options": [
+      "Nylon",
+      "Polyester",
+      "Acrylic",
+      "Spandex"
+    ],
+    "answer": "Nylon"
+  },
+  {
+    "id": "science-technology-345",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What synthetic fiber, first called Terylene, was patented by Whinfield and Dickson in 1941?",
+    "options": [
+      "Polyester",
+      "Nylon",
+      "Rayon",
+      "Acrylic"
+    ],
+    "answer": "Polyester"
+  },
+  {
+    "id": "science-technology-346",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What semi-synthetic fiber, originally called 'artificial silk' and made from regenerated cellulose, was first produced commercially around 1905?",
+    "options": [
+      "Rayon",
+      "Nylon",
+      "Polyester",
+      "Acetate"
+    ],
+    "answer": "Rayon"
+  },
+  {
+    "id": "science-technology-347",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What form of electromagnetic radiation was accidentally discovered by Wilhelm Röntgen on November 8, 1895?",
+    "options": [
+      "X-rays",
+      "Gamma rays",
+      "Ultraviolet light",
+      "Infrared radiation"
+    ],
+    "answer": "X-rays"
+  },
+  {
+    "id": "science-technology-348",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What phenomenon was discovered by Henri Becquerel in 1896 while investigating uranium salts?",
+    "options": [
+      "Radioactivity",
+      "Fluorescence",
+      "Phosphorescence",
+      "Luminescence"
+    ],
+    "answer": "Radioactivity"
+  },
+  {
+    "id": "science-technology-349",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What radioactive element was discovered by Marie and Pierre Curie in 1898 and isolated from pitchblende in 1902?",
+    "options": [
+      "Radium",
+      "Polonium",
+      "Uranium",
+      "Thorium"
+    ],
+    "answer": "Radium"
+  },
+  {
+    "id": "science-technology-350",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What early temperature measuring device, created by Galileo Galilei around 1592, showed relative temperature changes but had no scale?",
+    "options": [
+      "Thermoscope",
+      "Thermometer",
+      "Pyrometer",
+      "Calorimeter"
+    ],
+    "answer": "Thermoscope"
+  },
+  {
+    "id": "science-technology-351",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What device for measuring humidity was first designed by Leonardo da Vinci around 1480?",
+    "options": [
+      "Hygrometer",
+      "Psychrometer",
+      "Hygroscope",
+      "Dew point meter"
+    ],
+    "answer": "Hygrometer"
+  },
+  {
+    "id": "science-technology-352",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What instrument for measuring wind speed was first described by Leon Battista Alberti around 1450?",
+    "options": [
+      "Anemometer",
+      "Wind vane",
+      "Weathercock",
+      "Beaufort scale"
+    ],
+    "answer": "Anemometer"
+  },
+  {
+    "id": "science-technology-353",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What temperature scale, along with the mercury thermometer, was developed by Daniel Gabriel Fahrenheit in 1714?",
+    "options": [
+      "Fahrenheit scale",
+      "Celsius scale",
+      "Réaumur scale",
+      "Rankine scale"
+    ],
+    "answer": "Fahrenheit scale"
+  },
+  {
+    "id": "science-technology-354",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What temperature scale was proposed by Anders Celsius in 1742, originally with 0 as the boiling point and 100 as the freezing point?",
+    "options": [
+      "Celsius scale",
+      "Fahrenheit scale",
+      "Kelvin scale",
+      "Newton scale"
+    ],
+    "answer": "Celsius scale"
+  },
+  {
+    "id": "science-technology-355",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What absolute temperature scale, proposed by William Thomson in 1848, starts at absolute zero?",
+    "options": [
+      "Kelvin scale",
+      "Rankine scale",
+      "Celsius scale",
+      "Réaumur scale"
+    ],
+    "answer": "Kelvin scale"
+  },
+  {
+    "id": "science-technology-356",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What logarithmic scale for measuring earthquake magnitude was developed by Charles Richter in 1935?",
+    "options": [
+      "Richter scale",
+      "Moment magnitude scale",
+      "Mercalli scale",
+      "Medvedev-Sponheuer-Karnik scale"
+    ],
+    "answer": "Richter scale"
+  },
+  {
+    "id": "science-technology-357",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What microcomputer kit, launched by MITS in 1975, is widely credited with starting the personal computer revolution?",
+    "options": [
+      "Altair 8800",
+      "Apple I",
+      "Commodore PET",
+      "TRS-80"
+    ],
+    "answer": "Altair 8800"
+  },
+  {
+    "id": "science-technology-358",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What operating system was developed by Ken Thompson and Dennis Ritchie at Bell Labs in 1969?",
+    "options": [
+      "Unix",
+      "Multics",
+      "CP/M",
+      "VMS"
+    ],
+    "answer": "Unix"
+  },
+  {
+    "id": "science-technology-359",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What local area networking technology was invented by Robert Metcalfe at Xerox PARC in 1973?",
+    "options": [
+      "Ethernet",
+      "Token Ring",
+      "ARCNET",
+      "FDDI"
+    ],
+    "answer": "Ethernet"
+  },
+  {
+    "id": "science-technology-360",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What was the first artificial nuclear reactor, built by Enrico Fermi's team in 1942?",
+    "options": [
+      "Chicago Pile-1",
+      "X-10 Graphite Reactor",
+      "EBR-I",
+      "Shippingport Reactor"
+    ],
+    "answer": "Chicago Pile-1"
   }
 ]
