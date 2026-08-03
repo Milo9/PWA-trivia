@@ -88,6 +88,42 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Which country Machu Picchu is located in (Peru)
 - Which country Angkor Wat is located in (Cambodia)
 - Which modern country the ancient city of Carthage was located in (Tunisia) — this fact is also already asked from the history category, so it's cross-category saturated
+- Capitals of Botswana, Zambia, Namibia, Laos, Eritrea, Angola, Equatorial Guinea, Lesotho, Tajikistan, Kazakhstan, Lithuania, Estonia, Slovenia, Albania, North Macedonia, Bosnia and Herzegovina, Kosovo, Cambodia, Bahrain, Uzbekistan, Uruguay, and Guyana — now covered; treat any "capital of [country]" idea as likely already covered unless the country is well outside this list and the other capital lists above
+- The Mekong River flowing through how many countries before reaching the sea
+- Congo River as the world's deepest river / as the second-longest river in Africa (either framing already asked; "only major river to cross the equator twice" is still a distinct, undrafted fact about the Congo)
+- Danube River emptying into the Black Sea
+- Namib Desert as the world's oldest desert
+- Mount Kosciuszko as the highest point on mainland Australia
+- New Guinea as the world's second-largest island
+- Baffin Island as the largest island in Canada
+- Great Britain as the largest island in Europe
+- Honshu as the largest of Japan's main islands
+- Sargasso Sea as the only sea with no land boundary/coastline
+- Panama Canal connecting the Atlantic and Pacific
+- Bay of Bengal as the world's largest bay
+- Sri Lanka as an island nation off southeastern India ("Pearl of the Indian Ocean")
+- Adriatic Sea lying between Italy and the Balkan Peninsula
+- Gulf Stream warming Western Europe's climate
+- Brazil sharing borders with the most South American countries; Brazil containing most of the Amazon rainforest; Brazil as the world's largest coffee producer — all already asked multiple ways, treat any new Brazil-superlative angle as high collision risk
+- DRC bordering the most African countries (nine, tied with Sudan)
+- Indonesia as the world's largest archipelago nation (17,000+ islands)
+- Canada having the most lakes of any country
+- Tropic of Cancer / Arctic Circle as the named line at 23.5°N / 66.5°N
+- Indian Ocean lying between Africa and Australia
+- South Africa as the only country bordering both the Atlantic and Indian Oceans
+- Algeria as Africa's largest country by land area
+- Germany as the source of the Danube's headwaters (Black Forest)
+- Norway known for its fjords / having 1,000+ islands — already asked 3+ ways, treat as saturated
+- Ireland as the "Emerald Isle"
+- Nicaragua as the largest Central American country by area
+- Liechtenstein as the microstate between Switzerland and Austria with capital Vaduz
+- Madagascar as an island off southeast Africa, separated by the Mozambique Channel, with capital Antananarivo — already asked multiple ways, treat as saturated
+- Uzbekistan's capital (Tashkent) or its identification via Samarkand/Bukhara
+- Bolivia as home to the Uyuni Salt Flat (world's largest)
+- Ben Nevis as the highest point in the UK/British Isles
+- Djibouti's capital sharing its name with the country (fine to ask the capital, but don't lead with "shares its name with the country" — it gives away the answer)
+- Zanzibar City's country — don't state "off the coast of Tanzania" in the question stem, it gives away the answer
+- Watch for leaked meta-commentary in drafted question text (phrases like "banned," "avoid collision," "not framed as X," "in your bank") — these are prompt-reasoning artifacts that leaked into the output and make the question unusable; regenerate the fact cleanly instead of patching the wording
 
 Also watch for a flag-shape trap: a drafted question claimed Vatican City is "the only country other than Nepal" with a non-rectangular flag, and a companion question claimed Nepal is "one of only two" non-rectangular flags — both wrong. Switzerland's flag is also square (non-oblong), so there are three unusual flags (Nepal, Switzerland, Vatican City), not two, and which ones count as "non-rectangular" depends on a contested definition (a square is technically still a rectangle). Cut rather than draft this angle unless you can phrase it without an "only X" claim.
 
