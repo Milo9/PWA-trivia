@@ -3742,5 +3742,1032 @@
       "Honda"
     ],
     "answer": "Volkswagen"
+  },
+  {
+    "difficulty": "medium",
+    "category": "business-brands",
+    "question": "Founded in 1938, what was the Samsung conglomerate's original primary business?",
+    "options": [
+      "Textile manufacturing",
+      "Consumer electronics",
+      "Grocery and noodle trading",
+      "Construction equipment"
+    ],
+    "answer": "Grocery and noodle trading",
+    "id": "business-brands-289"
+  },
+  {
+    "difficulty": "hard",
+    "category": "business-brands",
+    "question": "Before adopting its current two-letter name, the South Korean electronics giant LG was originally established under what name?",
+    "options": [
+      "Seoul Electronics",
+      "Lak-Hui Chemical",
+      "Hanwha Industries",
+      "Daewoo Tech"
+    ],
+    "answer": "Lak-Hui Chemical",
+    "id": "business-brands-290"
+  },
+  {
+    "difficulty": "easy",
+    "category": "business-brands",
+    "question": "Sony's Betamax video cassette format famously lost the 1980s home video format war to which rival standard?",
+    "options": [
+      "LaserDisc",
+      "U-matic",
+      "Video 2000",
+      "VHS"
+    ],
+    "answer": "VHS",
+    "id": "business-brands-291"
+  },
+  {
+    "difficulty": "medium",
+    "category": "business-brands",
+    "question": "Released in 1999 in North America, what was the final home video game console produced by Sega before transitioning to a third-party software developer?",
+    "options": [
+      "Sega Saturn",
+      "Sega Genesis",
+      "Sega Dreamcast",
+      "Sega Master System"
+    ],
+    "answer": "Sega Dreamcast",
+    "id": "business-brands-292"
+  },
+  {
+    "difficulty": "easy",
+    "category": "business-brands",
+    "question": "Before renaming itself after its most famous product line, the Canadian technology company behind the BlackBerry was known by what name?",
+    "options": [
+      "Waterloo Tech",
+      "Research In Motion",
+      "Wireless Data Inc.",
+      "OmniSky"
+    ],
+    "answer": "Research In Motion",
+    "id": "business-brands-293"
+  },
+  {
+    "difficulty": "medium",
+    "category": "business-brands",
+    "question": "The software company Adobe got its name from what specific inspiration?",
+    "options": [
+      "An acronym for Advanced Data Object Based Engine",
+      "The Spanish word for 'creative'",
+      "A type of clay brick used in their first office",
+      "A creek behind the founder's house"
+    ],
+    "answer": "A creek behind the founder's house",
+    "id": "business-brands-294"
+  },
+  {
+    "difficulty": "medium",
+    "category": "business-brands",
+    "question": "Released in 1983, what was the name of Apple's first commercial computer with a graphical user interface, which ultimately became a massive commercial flop?",
+    "options": [
+      "Apple Macintosh",
+      "Apple Lisa",
+      "Apple III",
+      "Apple Centris"
+    ],
+    "answer": "Apple Lisa",
+    "id": "business-brands-295"
+  },
+  {
+    "difficulty": "medium",
+    "category": "business-brands",
+    "question": "Which infamous 1995 Microsoft software product featured a virtual house interface and a cartoon helper dog named Rover?",
+    "options": [
+      "Microsoft Bob",
+      "Microsoft Home",
+      "Microsoft Explorer",
+      "Microsoft Companion"
+    ],
+    "answer": "Microsoft Bob",
+    "id": "business-brands-296"
+  },
+  {
+    "difficulty": "hard",
+    "category": "business-brands",
+    "question": "What 1994 IBM device is widely considered to be the first true smartphone ever released to the public?",
+    "options": [
+      "IBM ThinkPad",
+      "IBM Watson",
+      "IBM Communicator",
+      "IBM Simon"
+    ],
+    "answer": "IBM Simon",
+    "id": "business-brands-297"
+  },
+  {
+    "difficulty": "hard",
+    "category": "business-brands",
+    "question": "Which 2005 Motorola mobile phone was the first to feature Apple's iTunes software, but flopped due to a 100-song limit and poor interface?",
+    "options": [
+      "ROKR E1",
+      "RAZR V3",
+      "SLVR L7",
+      "PEBL U6"
+    ],
+    "answer": "ROKR E1",
+    "id": "business-brands-298"
+  },
+  {
+    "difficulty": "medium",
+    "category": "business-brands",
+    "question": "Millions of unsold cartridges for which disastrous 1982 Atari video game were famously buried in a New Mexico landfill?",
+    "options": [
+      "Pac-Man",
+      "E.T. the Extra-Terrestrial",
+      "Asteroids",
+      "Space Invaders"
+    ],
+    "answer": "E.T. the Extra-Terrestrial",
+    "id": "business-brands-299"
+  },
+  {
+    "difficulty": "hard",
+    "category": "business-brands",
+    "question": "Introduced in 1977, what Polaroid instant home movie system was a massive commercial failure because it lacked sound and required excessively bright lighting?",
+    "options": [
+      "Captiva",
+      "Spectra",
+      "Swinger",
+      "Polavision"
+    ],
+    "answer": "Polavision",
+    "id": "business-brands-300"
+  },
+  {
+    "difficulty": "hard",
+    "category": "business-brands",
+    "question": "Before settling on its fiery permanent name in 2012, the dating app Tinder was originally prototyped under what name?",
+    "options": [
+      "SwipeRight",
+      "Flame",
+      "MatchBox",
+      "Spark"
+    ],
+    "answer": "MatchBox",
+    "id": "business-brands-301"
+  },
+  {
+    "difficulty": "medium",
+    "category": "business-brands",
+    "question": "In 2011, Netflix faced massive customer backlash after attempting to spin off its DVD-by-mail service under what short-lived brand name?",
+    "options": [
+      "RedEnvelope",
+      "DiscGo",
+      "Qwikster",
+      "MailFlix"
+    ],
+    "answer": "Qwikster",
+    "id": "business-brands-302"
+  },
+  {
+    "difficulty": "hard",
+    "category": "business-brands",
+    "question": "What was the name of the heavily edited, peer-reviewed web encyclopedia project that preceded and eventually inspired Wikipedia?",
+    "options": [
+      "Nupedia",
+      "Infopedia",
+      "ScholarNet",
+      "Encarta"
+    ],
+    "answer": "Nupedia",
+    "id": "business-brands-303"
+  },
+  {
+    "difficulty": "medium",
+    "category": "business-brands",
+    "question": "Which fruit-flavored soda brand was originally developed by the German branch of Coca-Cola in 1940 because WWII trade embargoes cut off cola syrup supplies?",
+    "options": [
+      "Sprite",
+      "Fanta",
+      "Fresca",
+      "Mirinda"
+    ],
+    "answer": "Fanta",
+    "id": "business-brands-304"
+  },
+  {
+    "difficulty": "easy",
+    "category": "business-brands",
+    "question": "In 1991, Kentucky Fried Chicken officially rebranded to the acronym KFC primarily to distance the company from what specific word?",
+    "options": [
+      "Kentucky",
+      "Chicken",
+      "Fried",
+      "Fat"
+    ],
+    "answer": "Fried",
+    "id": "business-brands-305"
+  },
+  {
+    "difficulty": "hard",
+    "category": "business-brands",
+    "question": "What was the name of Pizza Hut's massive 1985 commercial flop, a stuffed pie that resembled a Chicago-style deep-dish pizza but took up to 40 minutes to bake?",
+    "options": [
+      "P'Zone",
+      "Priazzo",
+      "Sicilian Pan",
+      "Calizza"
+    ],
+    "answer": "Priazzo",
+    "id": "business-brands-306"
+  },
+  {
+    "difficulty": "medium",
+    "category": "business-brands",
+    "question": "In 1986, Taco Bell launched a heavily advertised, short-lived menu item attempting to capture some of the market share of McDonald's Filet-O-Fish. What was it?",
+    "options": [
+      "Seafood Salad",
+      "Fish Tacos",
+      "Shrimp Enchilada",
+      "Crab Burrito"
+    ],
+    "answer": "Seafood Salad",
+    "id": "business-brands-307"
+  },
+  {
+    "difficulty": "hard",
+    "category": "business-brands",
+    "question": "Introduced in 2013 and discontinued less than a year later, what was the name of Burger King's crinkle-cut fries marketed as a healthier, lower-calorie option?",
+    "options": [
+      "Lite Fries",
+      "King Cuts",
+      "Satisfries",
+      "Skinny Fries"
+    ],
+    "answer": "Satisfries",
+    "id": "business-brands-308"
+  },
+  {
+    "difficulty": "medium",
+    "category": "business-brands",
+    "question": "In the 1960s, Ray Kroc introduced the ill-fated 'Hula Burger' for Catholics abstaining from meat on Fridays. What was the 'patty' made of?",
+    "options": [
+      "A fried green tomato",
+      "A breaded eggplant cutlet",
+      "A thick slab of portobello mushroom",
+      "A slice of grilled pineapple"
+    ],
+    "answer": "A slice of grilled pineapple",
+    "id": "business-brands-309"
+  },
+  {
+    "difficulty": "hard",
+    "category": "business-brands",
+    "question": "Launched in 2006 and discontinued by 2008, Coca-Cola BlāK was an unsuccessful attempt to blend the brand's classic cola with what distinct flavor?",
+    "options": [
+      "Coffee",
+      "Green tea",
+      "Dark chocolate",
+      "Pomegranate"
+    ],
+    "answer": "Coffee",
+    "id": "business-brands-310"
+  },
+  {
+    "difficulty": "easy",
+    "category": "business-brands",
+    "question": "Frito-Lay's 1998 'WOW!' line of fat-free chips suffered disastrous sales after the FDA required warning labels that the fat substitute Olestra caused what side effect?",
+    "options": [
+      "Severe migraines",
+      "Temporary loss of taste",
+      "Abdominal cramping and loose stools",
+      "Heart palpitations"
+    ],
+    "answer": "Abdominal cramping and loose stools",
+    "id": "business-brands-311"
+  },
+  {
+    "difficulty": "medium",
+    "category": "business-brands",
+    "question": "Introduced in 1990 and recalled months later due to the packaging posing a severe choking hazard, what was the name of this Life Savers candy spin-off?",
+    "options": [
+      "Life Savers Minis",
+      "Life Savers Holes",
+      "Life Savers Dots",
+      "Life Savers Drops"
+    ],
+    "answer": "Life Savers Holes",
+    "id": "business-brands-312"
+  },
+  {
+    "difficulty": "medium",
+    "category": "business-brands",
+    "question": "What 1998 Kellogg's cereal product flopped because consumers were repulsed by the concept of unrefrigerated, aseptically packaged milk included right in the box?",
+    "options": [
+      "Cereal to Go",
+      "Breakfast Mates",
+      "Milk & Crunch",
+      "Morning Combos"
+    ],
+    "answer": "Breakfast Mates",
+    "id": "business-brands-313"
+  },
+  {
+    "difficulty": "medium",
+    "category": "business-brands",
+    "question": "In 1999, Snapple launched a highly successful but eventually discontinued line of glass-bottled fruit drinks named after what theme?",
+    "options": [
+      "Astrological zodiac signs",
+      "Greek gods and goddesses",
+      "Earth elements like Fire and Rain",
+      "Planets of the solar system"
+    ],
+    "answer": "Earth elements like Fire and Rain",
+    "id": "business-brands-314"
+  },
+  {
+    "difficulty": "hard",
+    "category": "business-brands",
+    "question": "In 1994, Starbucks and PepsiCo partnered on a short-lived bottled beverage called Mazagran. What type of drink was it?",
+    "options": [
+      "Carbonated coffee soda",
+      "Nitrogen-infused iced tea",
+      "Spiced hot chocolate syrup",
+      "Fermented kombucha espresso"
+    ],
+    "answer": "Carbonated coffee soda",
+    "id": "business-brands-315"
+  },
+  {
+    "difficulty": "medium",
+    "category": "business-brands",
+    "question": "Before opening their first ice cream scoop shop in a renovated gas station in 1978, Ben Cohen and Jerry Greenfield originally planned to sell what food?",
+    "options": [
+      "Pretzels",
+      "Hot dogs",
+      "Donuts",
+      "Bagels"
+    ],
+    "answer": "Bagels",
+    "id": "business-brands-316"
+  },
+  {
+    "difficulty": "medium",
+    "category": "business-brands",
+    "question": "What does the name of the ice cream brand 'Häagen-Dazs' actually translate to in Danish?",
+    "options": [
+      "Happy Days",
+      "Frozen Cream",
+      "It is a completely made-up nonsense word",
+      "The King's Dairy"
+    ],
+    "answer": "It is a completely made-up nonsense word",
+    "id": "business-brands-317"
+  },
+  {
+    "difficulty": "easy",
+    "category": "business-brands",
+    "question": "The iconic daisy logo for the Spanish lollipop brand Chupa Chups was designed in 1969 by which famous artist?",
+    "options": [
+      "Pablo Picasso",
+      "Andy Warhol",
+      "Salvador Dalí",
+      "Joan Miró"
+    ],
+    "answer": "Salvador Dalí",
+    "id": "business-brands-318"
+  },
+  {
+    "difficulty": "medium",
+    "category": "business-brands",
+    "question": "Lululemon founder Chip Wilson specifically chose the brand's name because he believed Japanese consumers would struggle to pronounce which letter, making it sound authentically Western?",
+    "options": [
+      "R",
+      "V",
+      "TH",
+      "L"
+    ],
+    "answer": "L",
+    "id": "business-brands-319"
+  },
+  {
+    "difficulty": "hard",
+    "category": "business-brands",
+    "question": "When the first Gap store opened in San Francisco in 1969, it exclusively sold Levi's jeans alongside what other product category?",
+    "options": [
+      "Surfboards",
+      "Vinyl records",
+      "Leather jackets",
+      "Sunglasses"
+    ],
+    "answer": "Vinyl records",
+    "id": "business-brands-320"
+  },
+  {
+    "difficulty": "medium",
+    "category": "business-brands",
+    "question": "Founded in 1996 by a former college football player, what was Under Armour's breakout first product, dubbed 'The Shorty'?",
+    "options": [
+      "A lightweight molded football cleat",
+      "Padded compression shorts",
+      "Neoprene ankle braces",
+      "A tight moisture-wicking synthetic shirt"
+    ],
+    "answer": "A tight moisture-wicking synthetic shirt",
+    "id": "business-brands-321"
+  },
+  {
+    "difficulty": "easy",
+    "category": "business-brands",
+    "question": "When the foam clog brand Crocs first debuted at a 2002 trade show, the shoes were specifically marketed for what specific outdoor activity?",
+    "options": [
+      "Boating",
+      "Gardening",
+      "Hospital nursing",
+      "Kitchen prep work"
+    ],
+    "answer": "Boating",
+    "id": "business-brands-322"
+  },
+  {
+    "difficulty": "medium",
+    "category": "business-brands",
+    "question": "Which legendary Nike designer created the iconic Air Max 1 shoe in 1987, famously exposing the shoe's air bubble after being inspired by Parisian architecture?",
+    "options": [
+      "Peter Moore",
+      "Bruce Kilgore",
+      "Tinker Hatfield",
+      "Sergio Lozano"
+    ],
+    "answer": "Tinker Hatfield",
+    "id": "business-brands-323"
+  },
+  {
+    "difficulty": "hard",
+    "category": "business-brands",
+    "question": "The sportswear brand ASICS derives its name from a Latin phrase that roughly translates to what?",
+    "options": [
+      "Swift as the wind on the track",
+      "Victory goes to the persistent",
+      "Excellence in motion and form",
+      "A healthy soul in a healthy body"
+    ],
+    "answer": "A healthy soul in a healthy body",
+    "id": "business-brands-324"
+  },
+  {
+    "difficulty": "medium",
+    "category": "business-brands",
+    "question": "Founder Hans Wilsdorf chose the name 'Rolex' in 1908 primarily for what reason?",
+    "options": [
+      "It was an anagram of his children's initials",
+      "It was short and easy to pronounce in any language",
+      "It meant 'timeless' in old Swiss dialects",
+      "It was the name of his grandfather's estate"
+    ],
+    "answer": "It was short and easy to pronounce in any language",
+    "id": "business-brands-325"
+  },
+  {
+    "difficulty": "hard",
+    "category": "business-brands",
+    "question": "Founded in 1837, Tiffany & Co. did not originally specialize in diamonds and fine jewelry. What did the very first store primarily sell?",
+    "options": [
+      "Exotic teas and spices",
+      "Tailored men's suits",
+      "Stationery and fancy goods",
+      "Imported fine wines"
+    ],
+    "answer": "Stationery and fancy goods",
+    "id": "business-brands-326"
+  },
+  {
+    "difficulty": "hard",
+    "category": "business-brands",
+    "question": "The 'I' and 'K' in IKEA stand for founder Ingvar Kamprad. What do the 'E' and 'A' stand for?",
+    "options": [
+      "Excellence and Affordability",
+      "European and Asian markets",
+      "His family farm and hometown village",
+      "The Swedish words for simple and modern"
+    ],
+    "answer": "His family farm and hometown village",
+    "id": "business-brands-327"
+  },
+  {
+    "difficulty": "medium",
+    "category": "business-brands",
+    "question": "The American pharmacy chain CVS was originally founded in 1963 as a store selling health and beauty products. What did CVS originally stand for?",
+    "options": [
+      "Care Pharmacy Services",
+      "Convenience Variety Supply",
+      "Consumer Value Stores",
+      "Central Valley Systems"
+    ],
+    "answer": "Consumer Value Stores",
+    "id": "business-brands-328"
+  },
+  {
+    "difficulty": "easy",
+    "category": "business-brands",
+    "question": "Sam Walton opened the very first Walmart discount city store in 1962 in which U.S. state?",
+    "options": [
+      "Missouri",
+      "Texas",
+      "Arkansas",
+      "Oklahoma"
+    ],
+    "answer": "Arkansas",
+    "id": "business-brands-329"
+  },
+  {
+    "difficulty": "hard",
+    "category": "business-brands",
+    "question": "The cosmetics brand Sephora gets its name from 'sephos', Greek for beauty, and Zipporah, who was the exceptionally beautiful wife of which Biblical figure?",
+    "options": [
+      "Abraham",
+      "King David",
+      "Solomon",
+      "Moses"
+    ],
+    "answer": "Moses",
+    "id": "business-brands-330"
+  },
+  {
+    "difficulty": "medium",
+    "category": "business-brands",
+    "question": "The '40' in the household spray brand name WD-40 stands for what?",
+    "options": [
+      "The 40 ounces originally sold per can",
+      "The 40 active ingredients in the mixture",
+      "The 40th attempt to formulate the spray",
+      "The year 1940 when it was invented"
+    ],
+    "answer": "The 40th attempt to formulate the spray",
+    "id": "business-brands-331"
+  },
+  {
+    "difficulty": "easy",
+    "category": "business-brands",
+    "question": "In 1903, King C. Gillette revolutionized personal grooming by introducing the first commercially successful version of what product?",
+    "options": [
+      "A safety razor with disposable blades",
+      "An electric shaving machine",
+      "A canned shaving cream",
+      "A multi-blade pivoting cartridge razor"
+    ],
+    "answer": "A safety razor with disposable blades",
+    "id": "business-brands-332"
+  },
+  {
+    "difficulty": "medium",
+    "category": "business-brands",
+    "question": "Procter & Gamble researcher Victor Mills revolutionized childcare in 1961 by inventing Pampers, which were the first mass-produced what?",
+    "options": [
+      "Pre-mixed baby formulas",
+      "Disposable diapers",
+      "Tear-free baby shampoos",
+      "Silicone pacifiers"
+    ],
+    "answer": "Disposable diapers",
+    "id": "business-brands-333"
+  },
+  {
+    "difficulty": "easy",
+    "category": "business-brands",
+    "question": "Founded in France in 1945, the BIC corporation built its initial fortune on what inexpensive, ubiquitous consumer product?",
+    "options": [
+      "Disposable butane lighters",
+      "Single-blade disposable razors",
+      "Correction fluid",
+      "The Cristal ballpoint pen"
+    ],
+    "answer": "The Cristal ballpoint pen",
+    "id": "business-brands-334"
+  },
+  {
+    "difficulty": "medium",
+    "category": "business-brands",
+    "question": "Why did inventor George G. Blaisdell name his famous windproof lighter the 'Zippo' in 1932?",
+    "options": [
+      "It was designed to slip neatly into pant pockets",
+      "He simply liked the sound of the word 'zipper'",
+      "It was manufactured in Zippo, Pennsylvania",
+      "The flint wheel made a sharp 'zip' sound"
+    ],
+    "answer": "He simply liked the sound of the word 'zipper'",
+    "id": "business-brands-335"
+  },
+  {
+    "difficulty": "hard",
+    "category": "business-brands",
+    "question": "Coined by founder Edwin Binney's wife in 1903, the name 'Crayola' is a combination of the French word for chalk ('craie') and 'ola', which means what?",
+    "options": [
+      "Colorful",
+      "Waxy",
+      "Childlike",
+      "Oily or oleaginous"
+    ],
+    "answer": "Oily or oleaginous",
+    "id": "business-brands-336"
+  },
+  {
+    "difficulty": "medium",
+    "category": "business-brands",
+    "question": "Who was the pioneering saleswoman who convinced Earl Tupper to pull his Tupperware products from retail store shelves and sell them entirely through home parties?",
+    "options": [
+      "Mary Kay Ash",
+      "Joy Mangano",
+      "Brownie Wise",
+      "Estée Lauder"
+    ],
+    "answer": "Brownie Wise",
+    "id": "business-brands-337"
+  },
+  {
+    "difficulty": "hard",
+    "category": "business-brands",
+    "question": "When Leo Gerstenzang invented Q-tips in 1923 after watching his wife wrap cotton around a toothpick, what bizarre name were they originally sold under?",
+    "options": [
+      "Cotton Buds",
+      "Baby Gays",
+      "Ear Wands",
+      "Swab-Eez"
+    ],
+    "answer": "Baby Gays",
+    "id": "business-brands-338"
+  },
+  {
+    "difficulty": "medium",
+    "category": "business-brands",
+    "question": "Johnson & Johnson employee Earle Dickson invented the Band-Aid in 1920 for what specific purpose?",
+    "options": [
+      "Soldiers returning from WWI needed sterile field dressings",
+      "To cover up shaving nicks on his own face",
+      "His wife constantly cut and burned herself while cooking",
+      "Factory workers needed flexible bandages for machinery cuts"
+    ],
+    "answer": "His wife constantly cut and burned herself while cooking",
+    "id": "business-brands-339"
+  },
+  {
+    "difficulty": "hard",
+    "category": "business-brands",
+    "question": "The Toyota Motor Corporation was originally named 'Toyoda'. Why was the spelling officially changed for the company's trademark in 1936?",
+    "options": [
+      "'Toyoda' meant 'broken wheel' in a Chinese dialect",
+      "To avoid a trademark dispute with a sewing machine brand",
+      "'Toyota' took exactly eight lucky brush strokes to write in Katakana",
+      "The founder consulted a numerologist who preferred the letter T"
+    ],
+    "answer": "'Toyota' took exactly eight lucky brush strokes to write in Katakana",
+    "id": "business-brands-340"
+  },
+  {
+    "difficulty": "easy",
+    "category": "business-brands",
+    "question": "From the 1950s until a massive global rebranding campaign in the 1980s, Nissan exported its cars to the United States under what brand name?",
+    "options": [
+      "Isuzu",
+      "Scion",
+      "Geo",
+      "Datsun"
+    ],
+    "answer": "Datsun",
+    "id": "business-brands-341"
+  },
+  {
+    "difficulty": "medium",
+    "category": "business-brands",
+    "question": "The Swedish automotive brand Volvo gets its name from a Latin word that translates to what?",
+    "options": [
+      "I protect",
+      "I roll",
+      "I endure",
+      "I move"
+    ],
+    "answer": "I roll",
+    "id": "business-brands-342"
+  },
+  {
+    "difficulty": "hard",
+    "category": "business-brands",
+    "question": "The original Volkswagen Beetle was commissioned by the German government in the 1930s under what official project name?",
+    "options": [
+      "The Autobahn Cruiser",
+      "The Blitz Machine",
+      "The KdF-Wagen",
+      "The People's Transport"
+    ],
+    "answer": "The KdF-Wagen",
+    "id": "business-brands-343"
+  },
+  {
+    "difficulty": "hard",
+    "category": "business-brands",
+    "question": "Produced starting in 1948, what was the first production automobile to bear the Porsche name?",
+    "options": [
+      "Porsche 911",
+      "Porsche 356",
+      "Porsche 550 Spyder",
+      "Porsche 914"
+    ],
+    "answer": "Porsche 356",
+    "id": "business-brands-344"
+  },
+  {
+    "difficulty": "easy",
+    "category": "business-brands",
+    "question": "Which 1970s Ford subcompact car became notoriously infamous due to a design flaw that caused its fuel tank to easily catch fire in rear-end collisions?",
+    "options": [
+      "Ford Maverick",
+      "Ford Escort",
+      "Ford Pinto",
+      "Ford Festiva"
+    ],
+    "answer": "Ford Pinto",
+    "id": "business-brands-345"
+  },
+  {
+    "difficulty": "easy",
+    "category": "business-brands",
+    "question": "Famous for its appearance in the 'Back to the Future' films, what distinctive exterior feature was a factory standard on every DeLorean DMC-12?",
+    "options": [
+      "Carbon fiber racing stripes",
+      "Retractable bulletproof headlights",
+      "Unpainted stainless-steel body panels",
+      "Wooden side paneling"
+    ],
+    "answer": "Unpainted stainless-steel body panels",
+    "id": "business-brands-346"
+  },
+  {
+    "difficulty": "hard",
+    "category": "business-brands",
+    "question": "Considered one of GM's worst product failures, the 1982 Cadillac Cimarron was widely criticized because it was essentially just a hastily rebadged version of what cheap economy car?",
+    "options": [
+      "Ford Fiesta",
+      "Honda Civic",
+      "Chevrolet Cavalier",
+      "Dodge Dart"
+    ],
+    "answer": "Chevrolet Cavalier",
+    "id": "business-brands-347"
+  },
+  {
+    "difficulty": "medium",
+    "category": "business-brands",
+    "question": "The 'Mercedes' in the luxury automotive brand Mercedes-Benz comes from the name of an Austrian automotive entrepreneur's what?",
+    "options": [
+      "Wife",
+      "Daughter",
+      "Hometown",
+      "Mother"
+    ],
+    "answer": "Daughter",
+    "id": "business-brands-348"
+  },
+  {
+    "difficulty": "medium",
+    "category": "business-brands",
+    "question": "The Chevrolet brand was co-founded by William C. Durant and Louis Chevrolet. What was Louis Chevrolet's primary profession before building cars?",
+    "options": [
+      "Swiss watchmaker",
+      "Blacksmith",
+      "Race car driver",
+      "Airplane pilot"
+    ],
+    "answer": "Race car driver",
+    "id": "business-brands-349"
+  },
+  {
+    "difficulty": "medium",
+    "category": "business-brands",
+    "question": "The very first motorcycle produced by William S. Harley and Arthur Davidson in 1903 was essentially a motorized version of what?",
+    "options": [
+      "A rowboat",
+      "A bicycle",
+      "A horse carriage",
+      "A wheelchair"
+    ],
+    "answer": "A bicycle",
+    "id": "business-brands-350"
+  },
+  {
+    "difficulty": "medium",
+    "category": "business-brands",
+    "question": "When it commenced operations in 1971, Southwest Airlines only flew routes within the 'Texas Triangle', which connected Dallas, San Antonio, and what other city?",
+    "options": [
+      "Austin",
+      "El Paso",
+      "Houston",
+      "Fort Worth"
+    ],
+    "answer": "Houston",
+    "id": "business-brands-351"
+  },
+  {
+    "difficulty": "hard",
+    "category": "business-brands",
+    "question": "Founded in 1924 as Huff Daland Dusters, the company that eventually became Delta Air Lines originally operated for what commercial purpose?",
+    "options": [
+      "Transporting US Mail",
+      "Agricultural crop dusting",
+      "Surveying land for oil",
+      "Aerial photography"
+    ],
+    "answer": "Agricultural crop dusting",
+    "id": "business-brands-352"
+  },
+  {
+    "difficulty": "hard",
+    "category": "business-brands",
+    "question": "The massive Marriott international hotel chain traces its origins back to 1927, when founder J. Willard Marriott opened what kind of business in Washington, D.C.?",
+    "options": [
+      "An A&W root beer stand",
+      "A corner newsstand",
+      "A shoeshine parlor",
+      "A tiny 10-room motel"
+    ],
+    "answer": "An A&W root beer stand",
+    "id": "business-brands-353"
+  },
+  {
+    "difficulty": "medium",
+    "category": "business-brands",
+    "question": "Conrad Hilton officially entered the hospitality industry in 1919 when he purchased the Mobley Hotel, which served roughneck oil workers in which US state?",
+    "options": [
+      "Oklahoma",
+      "California",
+      "Texas",
+      "Pennsylvania"
+    ],
+    "answer": "Texas",
+    "id": "business-brands-354"
+  },
+  {
+    "difficulty": "easy",
+    "category": "business-brands",
+    "question": "In 1928, Walt Disney famously lost the intellectual property rights to which successful cartoon character, forcing him to create Mickey Mouse as a replacement?",
+    "options": [
+      "Felix the Cat",
+      "Oswald the Lucky Rabbit",
+      "Julius the Cat",
+      "Bosco the Bear"
+    ],
+    "answer": "Oswald the Lucky Rabbit",
+    "id": "business-brands-355"
+  },
+  {
+    "difficulty": "medium",
+    "category": "business-brands",
+    "question": "The Warner Bros. entertainment company was founded in 1923 by four brothers. What were their first names?",
+    "options": [
+      "John, William, James, and Robert",
+      "Arthur, Benjamin, Charles, and David",
+      "Michael, Thomas, Richard, and Joseph",
+      "Harry, Albert, Sam, and Jack"
+    ],
+    "answer": "Harry, Albert, Sam, and Jack",
+    "id": "business-brands-356"
+  },
+  {
+    "difficulty": "hard",
+    "category": "business-brands",
+    "question": "Universal Studios was founded in 1912 by which German-Jewish immigrant, who is credited with helping establish the star system in early Hollywood?",
+    "options": [
+      "Adolph Zukor",
+      "Carl Laemmle",
+      "Louis B. Mayer",
+      "Samuel Goldwyn"
+    ],
+    "answer": "Carl Laemmle",
+    "id": "business-brands-357"
+  },
+  {
+    "difficulty": "easy",
+    "category": "business-brands",
+    "question": "In the year 2000, Blockbuster CEO John Antioco famously passed on the opportunity to purchase what young company for just $50 million?",
+    "options": [
+      "Redbox",
+      "Hulu",
+      "Netflix",
+      "Roku"
+    ],
+    "answer": "Netflix",
+    "id": "business-brands-358"
+  },
+  {
+    "difficulty": "hard",
+    "category": "business-brands",
+    "question": "The iconic board game Monopoly was heavily derived from 'The Landlord's Game', which was originally patented in 1904 by whom?",
+    "options": [
+      "Charles Darrow",
+      "Milton Bradley",
+      "Parker Brothers",
+      "Lizzie Magie"
+    ],
+    "answer": "Lizzie Magie",
+    "id": "business-brands-359"
+  },
+  {
+    "difficulty": "medium",
+    "category": "business-brands",
+    "question": "Though globally known by her nickname, what is the fictional full name of the original Barbie doll introduced by Mattel in 1959?",
+    "options": [
+      "Barbara Ann Kenner",
+      "Barbara Jean Smith",
+      "Barbara Millicent Roberts",
+      "Barbara Lynn Mattison"
+    ],
+    "answer": "Barbara Millicent Roberts",
+    "id": "business-brands-360"
+  },
+  {
+    "difficulty": "easy",
+    "category": "business-brands",
+    "question": "The popular flying disc toy known as the Frisbee was heavily inspired by the empty tins of what type of food?",
+    "options": [
+      "Cookies",
+      "Pies",
+      "Sardines",
+      "Popcorn"
+    ],
+    "answer": "Pies",
+    "id": "business-brands-361"
+  },
+  {
+    "difficulty": "hard",
+    "category": "business-brands",
+    "question": "The Slinky toy was accidentally invented in 1943 by Richard James, a naval engineer who was trying to develop tension springs for what purpose?",
+    "options": [
+      "Absorbing recoil on naval artillery guns",
+      "Creating flexible piping for submarine engines",
+      "Stabilizing sensitive ship instruments in rough seas",
+      "Dampening vibrations in aircraft carriers"
+    ],
+    "answer": "Stabilizing sensitive ship instruments in rough seas",
+    "id": "business-brands-362"
+  },
+  {
+    "difficulty": "medium",
+    "category": "business-brands",
+    "question": "When Hungarian architecture professor Ernő Rubik invented his famous 3D puzzle in 1974, he originally named it what?",
+    "options": [
+      "The Logic Block",
+      "The Magic Cube",
+      "The Rainbow Box",
+      "The Impossible Square"
+    ],
+    "answer": "The Magic Cube",
+    "id": "business-brands-363"
+  },
+  {
+    "difficulty": "hard",
+    "category": "business-brands",
+    "question": "Due to its highly physical, body-contorting gameplay, the popular party game Twister was originally patented in 1966 under what name?",
+    "options": [
+      "Tangled",
+      "Knot",
+      "Human Jigsaw",
+      "Pretzel"
+    ],
+    "answer": "Pretzel",
+    "id": "business-brands-364"
+  },
+  {
+    "difficulty": "hard",
+    "category": "business-brands",
+    "question": "Invented by French mechanic André Cassagnes in the late 1950s, the Etch A Sketch was originally sold under a French name that translates to what?",
+    "options": [
+      "The Silver Canvas",
+      "The Dust Drawer",
+      "The Magic Screen",
+      "The Electric Box"
+    ],
+    "answer": "The Magic Screen",
+    "id": "business-brands-365"
+  },
+  {
+    "difficulty": "medium",
+    "category": "business-brands",
+    "question": "Which legendary Nintendo designer created both the Game & Watch electronic series and the massively successful original Game Boy handheld?",
+    "options": [
+      "Shigeru Miyamoto",
+      "Gunpei Yokoi",
+      "Satoru Iwata",
+      "Masahiro Sakurai"
+    ],
+    "answer": "Gunpei Yokoi",
+    "id": "business-brands-366"
+  },
+  {
+    "difficulty": "easy",
+    "category": "business-brands",
+    "question": "Released by Bandai in 1996, the digital pet 'Tamagotchi' gets its name from a combination of the English word 'watch' and the Japanese word for what?",
+    "options": [
+      "Pet",
+      "Friend",
+      "Egg",
+      "Monster"
+    ],
+    "answer": "Egg",
+    "id": "business-brands-367"
   }
 ]

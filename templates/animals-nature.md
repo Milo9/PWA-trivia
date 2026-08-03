@@ -94,6 +94,19 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Bullhorn acacia trees hosting ants that defend the tree in a mutualism
 - Giraffe tongue length (~45-50cm/18-20in) — already stated as a premise in the existing tongue-color question, so don't ask it as a standalone answer
 - Arctic fox coat changing color with the seasons — summer color (brownish-gray) is already an existing answer
+- Koala fingerprints closely resembling human fingerprints
+- What a camel stores in its hump (fat)
+- Platypus being a/the only egg-laying mammal
+- Ostrich's eye being larger than its brain
+- Owl maximum head-rotation angle
+- Frigatebird's largest wingspan-to-weight ratio, staying aloft for weeks
+- Wandering albatross having the largest wingspan of any living bird
+- Woodpecker's tongue wrapping around its skull to cushion its brain while drumming
+- Shark electroreceptors (ampullae of Lorenzini) detecting bioelectric fields of buried prey
+- Coral being an animal, not a plant/rock
+- Anglerfish's lure glowing via symbiotic bioluminescent bacteria
+- How many eyes a honeybee has (five, compound + ocelli)
+- Plants absorbing carbon dioxide for photosynthesis
 
 Two facts that are premises already stated inside an existing question's stem, so drafting them as a separate standalone question is redundant even though the wording/answer differs: Rafflesia arnoldii being the world's largest individual flower (already stated as a premise in the existing "corpse flower" question), and a baobab's swollen trunk being for water storage (already implied by the existing "how many liters" question).
 
