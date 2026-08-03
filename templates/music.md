@@ -13,6 +13,12 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - City where Stravinsky's "The Rite of Spring" caused a riot at its 1913 premiere (Paris)
 - Which Beatles album is considered one of the first concept albums (Sgt. Pepper's Lonely Hearts Club Band) — already asked in reverse ("which band released Sgt. Pepper's") too; this pairing is a closed loop, avoid both directions
 - Which country reggae originated in (Jamaica) — already given away as a premise in an existing question about reggae's precursor genre ("... developed in Jamaica and influenced the birth of reggae")
+- Which Michael Jackson album is the best-selling album of all time (Thriller) — other distinct Thriller facts (tracklist, the John Landis-directed video, its Quincy Jones production) are still fair game, just not the sales-record framing
+- Who is known as the "Queen of Pop" (Madonna)
+- How many strings a standard violin has (four) / how many keys a standard piano has (88)
+- Who invented the saxophone (Adolphe Sax, 1840s) / who invented the piano (Bartolomeo Cristofori, c. 1700)
+- The musical term for gradually getting louder (crescendo)
+- Watch for self-answering premises where the question states the answer as an aside instead of testing it (e.g. "Album X, according to modern scholarship dedicated to Y" or "Which album ... is titled Y" or "Studio X, located on Y street" where X already contains Y) — rework to test the fact via a genuine distinguishing detail instead of restating the title/name as given information
 
 Use web search to verify every fact — do not rely on memory alone. Prefer authoritative sources (encyclopedic sources, music databases) over guessing. For each question, actually find the fact via search rather than recalling it, especially for obscure details (specific dates, lesser-known artists/works).
 

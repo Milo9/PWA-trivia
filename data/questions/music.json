@@ -3651,5 +3651,2475 @@
       "Heavy metal"
     ],
     "answer": "Heavy metal"
+  },
+  {
+    "id": "music-108",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "What key is Mozart's Symphony No. 40, K. 550, composed in?",
+    "options": [
+      "C minor",
+      "D minor",
+      "G minor",
+      "G major"
+    ],
+    "answer": "G minor"
+  },
+  {
+    "id": "music-109",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "How many variations follow the opening aria in Bach's Goldberg Variations, BWV 988?",
+    "options": [
+      "30",
+      "12",
+      "24",
+      "32"
+    ],
+    "answer": "30"
+  },
+  {
+    "id": "music-110",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "In what year did Handel's Messiah receive its world premiere in Dublin?",
+    "options": [
+      "1717",
+      "1742",
+      "1759",
+      "1741"
+    ],
+    "answer": "1742"
+  },
+  {
+    "id": "music-111",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which numbered symphony is Haydn's 'Farewell' Symphony?",
+    "options": [
+      "No. 101",
+      "No. 44",
+      "No. 94",
+      "No. 45"
+    ],
+    "answer": "No. 45"
+  },
+  {
+    "id": "music-112",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which numbered symphony is Haydn's 'Surprise' Symphony?",
+    "options": [
+      "No. 101",
+      "No. 104",
+      "No. 94",
+      "No. 45"
+    ],
+    "answer": "No. 94"
+  },
+  {
+    "id": "music-113",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which numbered symphony is Haydn's 'Clock' Symphony?",
+    "options": [
+      "No. 45",
+      "No. 101",
+      "No. 100",
+      "No. 94"
+    ],
+    "answer": "No. 101"
+  },
+  {
+    "id": "music-114",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which numbered symphony is Mozart's 'Jupiter' Symphony?",
+    "options": [
+      "No. 44",
+      "No. 39",
+      "No. 40",
+      "No. 41"
+    ],
+    "answer": "No. 41"
+  },
+  {
+    "id": "music-115",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "How many concertos are in Bach's Brandenburg Concertos collection, BWV 1046-1051?",
+    "options": [
+      "Twelve",
+      "Six",
+      "Four",
+      "Five"
+    ],
+    "answer": "Six"
+  },
+  {
+    "id": "music-116",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "What is the original key of Mozart's Eine kleine Nachtmusik, K. 525?",
+    "options": [
+      "G minor",
+      "C major",
+      "D major",
+      "G major"
+    ],
+    "answer": "G major"
+  },
+  {
+    "id": "music-117",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "What key is Mozart's Requiem, K. 626, primarily in?",
+    "options": [
+      "C minor",
+      "D minor",
+      "D major",
+      "B minor"
+    ],
+    "answer": "D minor"
+  },
+  {
+    "id": "music-118",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "What key is Bach's Mass BWV 232 commonly known by?",
+    "options": [
+      "A minor",
+      "G minor",
+      "B minor",
+      "D major"
+    ],
+    "answer": "B minor"
+  },
+  {
+    "id": "music-119",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "In what year did Beethoven's Symphony No. 9 have its premiere in Vienna?",
+    "options": [
+      "1824",
+      "1827",
+      "1808",
+      "1822"
+    ],
+    "answer": "1824"
+  },
+  {
+    "id": "music-120",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which Beethoven piano sonata is nicknamed the 'Moonlight' Sonata?",
+    "options": [
+      "No. 14",
+      "No. 23",
+      "No. 8",
+      "No. 17"
+    ],
+    "answer": "No. 14"
+  },
+  {
+    "id": "music-121",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Beethoven's 'Moonlight' Sonata was dedicated to which pupil?",
+    "options": [
+      "Josephine Brunsvik",
+      "Giulietta Guicciardi",
+      "Therese Malfatti",
+      "Elise Barensfeld"
+    ],
+    "answer": "Giulietta Guicciardi"
+  },
+  {
+    "id": "music-122",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Modern scholarship suggests Beethoven's bagatelle 'Für Elise' was originally dedicated to which woman?",
+    "options": [
+      "Elise Barensfeld",
+      "Giulietta Guicciardi",
+      "Therese Malfatti",
+      "Antonie Brentano"
+    ],
+    "answer": "Therese Malfatti"
+  },
+  {
+    "id": "music-123",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Under standard numbering, which number is Schubert's B minor 'Unfinished' Symphony?",
+    "options": [
+      "Symphony No. 8",
+      "Symphony No. 5",
+      "Symphony No. 9",
+      "Symphony No. 7"
+    ],
+    "answer": "Symphony No. 8"
+  },
+  {
+    "id": "music-124",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "How many songs make up Schubert's song cycle Winterreise?",
+    "options": [
+      "20 songs",
+      "24 songs",
+      "16 songs",
+      "12 songs"
+    ],
+    "answer": "24 songs"
+  },
+  {
+    "id": "music-125",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "How many études did Chopin compose in total including Opp. 10, 25 and Trois nouvelles études?",
+    "options": [
+      "21",
+      "27",
+      "24",
+      "32"
+    ],
+    "answer": "27"
+  },
+  {
+    "id": "music-126",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "To whom did Chopin dedicate his 12 Études Op. 10?",
+    "options": [
+      "Franz Liszt",
+      "Niccolò Paganini",
+      "Friedrich Kalkbrenner",
+      "Robert Schumann"
+    ],
+    "answer": "Franz Liszt"
+  },
+  {
+    "id": "music-127",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "How many Hungarian Rhapsodies did Liszt compose for solo piano?",
+    "options": [
+      "12",
+      "21",
+      "15",
+      "19"
+    ],
+    "answer": "19"
+  },
+  {
+    "id": "music-128",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which single-movement programmatic orchestral genre is Franz Liszt generally credited with inventing?",
+    "options": [
+      "Concert overture",
+      "Orchestral ballad",
+      "Symphonic poem",
+      "Tone picture"
+    ],
+    "answer": "Symphonic poem"
+  },
+  {
+    "id": "music-129",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Brahms' famous lullaby is officially titled Wiegenlied in which opus?",
+    "options": [
+      "Op. 20, No. 2",
+      "Op. 49, No. 4",
+      "Op. 98, No. 2",
+      "Op. 68, No. 3"
+    ],
+    "answer": "Op. 49, No. 4"
+  },
+  {
+    "id": "music-130",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Tchaikovsky's 1812 Overture commemorates the defense against which historical figure's invasion?",
+    "options": [
+      "Genghis Khan",
+      "Napoleon",
+      "Charles XII",
+      "Hitler"
+    ],
+    "answer": "Napoleon"
+  },
+  {
+    "id": "music-131",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "From which larger piano suite does Debussy's 'Clair de Lune' come?",
+    "options": [
+      "Estampes",
+      "Suite bergamasque",
+      "Images",
+      "Preludes Book 1"
+    ],
+    "answer": "Suite bergamasque"
+  },
+  {
+    "id": "music-132",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "In what year did Ravel premiere his orchestral work Boléro?",
+    "options": [
+      "1935",
+      "1913",
+      "1925",
+      "1928"
+    ],
+    "answer": "1928"
+  },
+  {
+    "id": "music-133",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which ballet company commissioned Stravinsky's The Firebird in 1910?",
+    "options": [
+      "Royal Ballet",
+      "Ballets Russes",
+      "Bolshoi Ballet",
+      "Paris Opera Ballet"
+    ],
+    "answer": "Ballets Russes"
+  },
+  {
+    "id": "music-134",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which composition technique using all 12 chromatic pitches is Arnold Schoenberg known for developing?",
+    "options": [
+      "Twelve-tone technique",
+      "Impressionism",
+      "Minimalism",
+      "Spectralism"
+    ],
+    "answer": "Twelve-tone technique"
+  },
+  {
+    "id": "music-135",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Copland's Appalachian Spring won the Pulitzer Prize for Music in which year?",
+    "options": [
+      "1948",
+      "1945",
+      "1942",
+      "1950"
+    ],
+    "answer": "1945"
+  },
+  {
+    "id": "music-136",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "John Cage's silent composition 4'33\" was first performed in which year?",
+    "options": [
+      "1952",
+      "1960",
+      "1948",
+      "1965"
+    ],
+    "answer": "1952"
+  },
+  {
+    "id": "music-137",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Philip Glass's opera Einstein on the Beach premiered in which year?",
+    "options": [
+      "1968",
+      "1980",
+      "1972",
+      "1976"
+    ],
+    "answer": "1976"
+  },
+  {
+    "id": "music-138",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Wagner's opera cycle Der Ring des Nibelungen consists of how many operas?",
+    "options": [
+      "Six",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "answer": "Four"
+  },
+  {
+    "id": "music-139",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "What is the Köchel number of Mozart's Symphony No. 40?",
+    "options": [
+      "K. 551",
+      "K. 550",
+      "K. 626",
+      "K. 525"
+    ],
+    "answer": "K. 550"
+  },
+  {
+    "id": "music-140",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Handel composed his Water Music for which British monarch?",
+    "options": [
+      "George II",
+      "Charles II",
+      "Henry VIII",
+      "George I"
+    ],
+    "answer": "George I"
+  },
+  {
+    "id": "music-141",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which instrument did Paganini famously virtuosically perform?",
+    "options": [
+      "Violin",
+      "Piano",
+      "Cello",
+      "Flute"
+    ],
+    "answer": "Violin"
+  },
+  {
+    "id": "music-142",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which Beethoven symphony was originally dedicated to Napoleon before the dedication was removed?",
+    "options": [
+      "Symphony No. 3 Eroica",
+      "Symphony No. 9",
+      "Symphony No. 5",
+      "Symphony No. 6"
+    ],
+    "answer": "Symphony No. 3 Eroica"
+  },
+  {
+    "id": "music-143",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "What was the nickname of Haydn's Symphony No. 100?",
+    "options": [
+      "Farewell",
+      "Surprise",
+      "Military",
+      "Clock"
+    ],
+    "answer": "Military"
+  },
+  {
+    "id": "music-144",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which Mozart opera features the characters Papageno and the Queen of the Night?",
+    "options": [
+      "Così fan tutte",
+      "The Magic Flute",
+      "Don Giovanni",
+      "The Marriage of Figaro"
+    ],
+    "answer": "The Magic Flute"
+  },
+  {
+    "id": "music-145",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "In which city did Mozart die in 1791?",
+    "options": [
+      "Munich",
+      "Salzburg",
+      "Vienna",
+      "Paris"
+    ],
+    "answer": "Vienna"
+  },
+  {
+    "id": "music-146",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Bach spent over 20 years as Kantor in which German city?",
+    "options": [
+      "Hamburg",
+      "Leipzig",
+      "Munich",
+      "Berlin"
+    ],
+    "answer": "Leipzig"
+  },
+  {
+    "id": "music-147",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which composer wrote the opera Tristan und Isolde?",
+    "options": [
+      "Giuseppe Verdi",
+      "Richard Wagner",
+      "Richard Strauss",
+      "Giacomo Puccini"
+    ],
+    "answer": "Richard Wagner"
+  },
+  {
+    "id": "music-148",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "In what year was Miles Davis's album Kind of Blue released?",
+    "options": [
+      "1957",
+      "1965",
+      "1959",
+      "1961"
+    ],
+    "answer": "1959"
+  },
+  {
+    "id": "music-149",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "What unusual time signature is Dave Brubeck's 'Take Five' famous for using?",
+    "options": [
+      "7/8",
+      "9/8",
+      "3/4",
+      "5/4"
+    ],
+    "answer": "5/4"
+  },
+  {
+    "id": "music-150",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Who composed 'Take Five' although it was performed by the Dave Brubeck Quartet?",
+    "options": [
+      "Miles Davis",
+      "Dave Brubeck",
+      "Charles Mingus",
+      "Paul Desmond"
+    ],
+    "answer": "Paul Desmond"
+  },
+  {
+    "id": "music-151",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which jazz trumpeter led the ensembles that recorded Birth of the Cool in 1949-50?",
+    "options": [
+      "Chet Baker",
+      "Miles Davis",
+      "Louis Armstrong",
+      "Dizzy Gillespie"
+    ],
+    "answer": "Miles Davis"
+  },
+  {
+    "id": "music-152",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which saxophonist recorded the landmark 1965 album A Love Supreme?",
+    "options": [
+      "Charlie Parker",
+      "Sonny Rollins",
+      "Ornette Coleman",
+      "John Coltrane"
+    ],
+    "answer": "John Coltrane"
+  },
+  {
+    "id": "music-153",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "What was Charlie Parker's nickname?",
+    "options": [
+      "Duke",
+      "Bird",
+      "Satchmo",
+      "Dizzy"
+    ],
+    "answer": "Bird"
+  },
+  {
+    "id": "music-154",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Duke Ellington's signature composition 'Mood Indigo' was first recorded in which year?",
+    "options": [
+      "1927",
+      "1942",
+      "1930",
+      "1935"
+    ],
+    "answer": "1930"
+  },
+  {
+    "id": "music-155",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which jazz label was founded by Alfred Lion and Max Margulis in 1939?",
+    "options": [
+      "Impulse! Records",
+      "Prestige Records",
+      "Verve Records",
+      "Blue Note Records"
+    ],
+    "answer": "Blue Note Records"
+  },
+  {
+    "id": "music-156",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which Thelonious Monk composition is the most recorded jazz standard written by a jazz musician?",
+    "options": [
+      "Blue Monk",
+      "Ruby, My Dear",
+      "'Round Midnight",
+      "Straight, No Chaser"
+    ],
+    "answer": "'Round Midnight"
+  },
+  {
+    "id": "music-157",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which instrument did jazz legend Charlie Parker primarily play?",
+    "options": [
+      "Trumpet",
+      "Alto saxophone",
+      "Tenor saxophone",
+      "Piano"
+    ],
+    "answer": "Alto saxophone"
+  },
+  {
+    "id": "music-158",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which jazz vocalist recorded a series of 'Song Book' tribute albums in the 1950s-60s, including a celebrated 1956 tribute to Cole Porter?",
+    "options": [
+      "Billie Holiday",
+      "Nina Simone",
+      "Ella Fitzgerald",
+      "Sarah Vaughan"
+    ],
+    "answer": "Ella Fitzgerald"
+  },
+  {
+    "id": "music-159",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "What city is considered the birthplace of jazz in the early 20th century?",
+    "options": [
+      "New York",
+      "Kansas City",
+      "Chicago",
+      "New Orleans"
+    ],
+    "answer": "New Orleans"
+  },
+  {
+    "id": "music-160",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which jazz drummer recorded the solo 'Sing, Sing, Sing' at Carnegie Hall in 1938 with Benny Goodman?",
+    "options": [
+      "Buddy Rich",
+      "Gene Krupa",
+      "Max Roach",
+      "Art Blakey"
+    ],
+    "answer": "Gene Krupa"
+  },
+  {
+    "id": "music-161",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Miles Davis's second great quintet of the mid-1960s included which pianist?",
+    "options": [
+      "Bill Evans",
+      "Herbie Hancock",
+      "Oscar Peterson",
+      "Thelonious Monk"
+    ],
+    "answer": "Herbie Hancock"
+  },
+  {
+    "id": "music-162",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which jazz guitarist invented the electric jazz guitar with his Gibson L-5 and amplifier setup in the 1930s?",
+    "options": [
+      "Joe Pass",
+      "Django Reinhardt",
+      "Wes Montgomery",
+      "Charlie Christian"
+    ],
+    "answer": "Charlie Christian"
+  },
+  {
+    "id": "music-163",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "What was Louis Armstrong's nickname?",
+    "options": [
+      "Bird",
+      "Duke",
+      "Satchmo",
+      "Count"
+    ],
+    "answer": "Satchmo"
+  },
+  {
+    "id": "music-164",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1970 Miles Davis album is considered a landmark of jazz fusion?",
+    "options": [
+      "Kind of Blue",
+      "A Love Supreme",
+      "Bitches Brew",
+      "Time Out"
+    ],
+    "answer": "Bitches Brew"
+  },
+  {
+    "id": "music-165",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which bebop trumpeter co-founded bebop with Charlie Parker?",
+    "options": [
+      "Miles Davis",
+      "Louis Armstrong",
+      "Dizzy Gillespie",
+      "Chet Baker"
+    ],
+    "answer": "Dizzy Gillespie"
+  },
+  {
+    "id": "music-166",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which jazz singer was known as 'Lady Day'?",
+    "options": [
+      "Sarah Vaughan",
+      "Ella Fitzgerald",
+      "Dinah Washington",
+      "Billie Holiday"
+    ],
+    "answer": "Billie Holiday"
+  },
+  {
+    "id": "music-167",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which jazz standard begins with the lyric about summer wind from across the sea?",
+    "options": [
+      "Autumn Leaves",
+      "Summertime",
+      "Summer Wind",
+      "Summer Samba"
+    ],
+    "answer": "Summer Wind"
+  },
+  {
+    "id": "music-168",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Pink Floyd's The Dark Side of the Moon spent how many weeks on the Billboard 200 as of 2026, a record for longevity?",
+    "options": [
+      "Over 300 weeks",
+      "Over 700 weeks",
+      "Over 500 weeks",
+      "Over 950 weeks"
+    ],
+    "answer": "Over 950 weeks"
+  },
+  {
+    "id": "music-169",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which Queen song features distinct opera, ballad, and hard rock sections?",
+    "options": [
+      "Hotel California",
+      "Stairway to Heaven",
+      "Dream On",
+      "Bohemian Rhapsody"
+    ],
+    "answer": "Bohemian Rhapsody"
+  },
+  {
+    "id": "music-170",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "David Bowie introduced his Ziggy Stardust persona in which year?",
+    "options": [
+      "1969",
+      "1975",
+      "1970",
+      "1972"
+    ],
+    "answer": "1972"
+  },
+  {
+    "id": "music-171",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which 1975 Pink Floyd album, dedicated to founding member Syd Barrett, takes its title from its opening track?",
+    "options": [
+      "Animals",
+      "The Wall",
+      "Wish You Were Here",
+      "Meddle"
+    ],
+    "answer": "Wish You Were Here"
+  },
+  {
+    "id": "music-172",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Fleetwood Mac's Rumours was largely recorded at which California studio?",
+    "options": [
+      "Abbey Road",
+      "Electric Lady",
+      "Record Plant",
+      "Sunset Sound"
+    ],
+    "answer": "Record Plant"
+  },
+  {
+    "id": "music-173",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Who was the original lead singer and guitarist of Fleetwood Mac who left in 1970?",
+    "options": [
+      "Peter Green",
+      "Lindsey Buckingham",
+      "Jeremy Spencer",
+      "Stevie Nicks"
+    ],
+    "answer": "Peter Green"
+  },
+  {
+    "id": "music-174",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which Rolling Stones album from 1972 includes 'Tumbling Dice' and 'Happy'?",
+    "options": [
+      "Sticky Fingers",
+      "Let It Bleed",
+      "Exile on Main St.",
+      "Some Girls"
+    ],
+    "answer": "Exile on Main St."
+  },
+  {
+    "id": "music-175",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which The Who album is a rock opera about a deaf, dumb, and blind boy?",
+    "options": [
+      "Tommy",
+      "Quadrophenia",
+      "A Quick One",
+      "Who's Next"
+    ],
+    "answer": "Tommy"
+  },
+  {
+    "id": "music-176",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which Led Zeppelin song features the opening line 'There's a lady who's sure all that glitters is gold'?",
+    "options": [
+      "Kashmir",
+      "Immigrant Song",
+      "Stairway to Heaven",
+      "Whole Lotta Love"
+    ],
+    "answer": "Stairway to Heaven"
+  },
+  {
+    "id": "music-177",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which guitarist played the famous solo on the Eagles' 'Hotel California' with Don Felder?",
+    "options": [
+      "Joe Walsh",
+      "Slash",
+      "Brian May",
+      "Jimmy Page"
+    ],
+    "answer": "Joe Walsh"
+  },
+  {
+    "id": "music-178",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "What year did The Beatles release their final studio album Let It Be?",
+    "options": [
+      "1969",
+      "1971",
+      "1970",
+      "1968"
+    ],
+    "answer": "1970"
+  },
+  {
+    "id": "music-179",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which band released the 1975 album A Night at the Opera containing Bohemian Rhapsody?",
+    "options": [
+      "Led Zeppelin",
+      "Pink Floyd",
+      "Queen",
+      "The Who"
+    ],
+    "answer": "Queen"
+  },
+  {
+    "id": "music-180",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which instrument did John Paul Jones primarily play in Led Zeppelin besides keyboards?",
+    "options": [
+      "Bass guitar",
+      "Drums",
+      "Sitar",
+      "Harmonica"
+    ],
+    "answer": "Bass guitar"
+  },
+  {
+    "id": "music-181",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which Bob Dylan album from 1965 features 'Like a Rolling Stone'?",
+    "options": [
+      "Bringing It All Back Home",
+      "Blood on the Tracks",
+      "Highway 61 Revisited",
+      "Blonde on Blonde"
+    ],
+    "answer": "Highway 61 Revisited"
+  },
+  {
+    "id": "music-182",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "The Woodstock festival was held on the dairy farm of which owner?",
+    "options": [
+      "John Roberts",
+      "Max Yasgur",
+      "Elliot Tiber",
+      "Michael Lang"
+    ],
+    "answer": "Max Yasgur"
+  },
+  {
+    "id": "music-183",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which town in New York actually hosted the 1969 Woodstock festival?",
+    "options": [
+      "Saugerties",
+      "Woodstock",
+      "Bethel",
+      "Wallkill"
+    ],
+    "answer": "Bethel"
+  },
+  {
+    "id": "music-184",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which guitarist is known for playing a double-neck Gibson EDS-1275 live for 'Stairway to Heaven'?",
+    "options": [
+      "Brian May",
+      "Keith Richards",
+      "Eric Clapton",
+      "Jimmy Page"
+    ],
+    "answer": "Jimmy Page"
+  },
+  {
+    "id": "music-185",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which drummer was nicknamed 'Bonzo' in Led Zeppelin?",
+    "options": [
+      "John Paul Jones",
+      "Keith Moon",
+      "Charlie Watts",
+      "John Bonham"
+    ],
+    "answer": "John Bonham"
+  },
+  {
+    "id": "music-186",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which 1971 song by Don McLean is about 'the day the music died'?",
+    "options": [
+      "Vincent",
+      "The End",
+      "Candle in the Wind",
+      "American Pie"
+    ],
+    "answer": "American Pie"
+  },
+  {
+    "id": "music-187",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Who co-produced Nirvana's album Nevermind alongside the band?",
+    "options": [
+      "Rick Rubin",
+      "Steve Albini",
+      "Brendan O'Brien",
+      "Butch Vig"
+    ],
+    "answer": "Butch Vig"
+  },
+  {
+    "id": "music-188",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "In what year was Radiohead's album OK Computer first released?",
+    "options": [
+      "1995",
+      "1999",
+      "1997",
+      "2000"
+    ],
+    "answer": "1997"
+  },
+  {
+    "id": "music-189",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "In what year did Beyonce release the visual album Lemonade?",
+    "options": [
+      "2014",
+      "2016",
+      "2013",
+      "2018"
+    ],
+    "answer": "2016"
+  },
+  {
+    "id": "music-190",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "What subtitle does Taylor Swift use for her re-recorded albums?",
+    "options": [
+      "Swift's Version",
+      "Reimagined",
+      "Taylor's Version",
+      "From The Vault"
+    ],
+    "answer": "Taylor's Version"
+  },
+  {
+    "id": "music-191",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "At which TV special did Michael Jackson first debut the moonwalk performing 'Billie Jean'?",
+    "options": [
+      "Grammy Awards 1984",
+      "Soul Train 1983",
+      "Motown 25",
+      "MTV VMAs 1983"
+    ],
+    "answer": "Motown 25"
+  },
+  {
+    "id": "music-192",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "In which year was Prince's album Purple Rain released as a soundtrack?",
+    "options": [
+      "1984",
+      "1986",
+      "1982",
+      "1985"
+    ],
+    "answer": "1984"
+  },
+  {
+    "id": "music-193",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "What was Madonna's first Billboard Hot 100 number-one single as lead artist?",
+    "options": [
+      "Like a Virgin",
+      "Holiday",
+      "Material Girl",
+      "Borderline"
+    ],
+    "answer": "Like a Virgin"
+  },
+  {
+    "id": "music-194",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which duo produced U2's album The Joshua Tree?",
+    "options": [
+      "Steve Lillywhite and Flood",
+      "Jimmy Iovine and Flood",
+      "Nigel Godrich and Brian Eno",
+      "Brian Eno and Daniel Lanois"
+    ],
+    "answer": "Brian Eno and Daniel Lanois"
+  },
+  {
+    "id": "music-195",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Who was Nirvana's drummer on their debut album Bleach?",
+    "options": [
+      "Dale Crover",
+      "Dave Grohl",
+      "Krist Novoselic",
+      "Chad Channing"
+    ],
+    "answer": "Chad Channing"
+  },
+  {
+    "id": "music-196",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which Michael Jackson album includes the songs 'Beat It' and 'Billie Jean'?",
+    "options": [
+      "Bad",
+      "Dangerous",
+      "Thriller",
+      "Off the Wall"
+    ],
+    "answer": "Thriller"
+  },
+  {
+    "id": "music-197",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which band released the 1991 album Nevermind?",
+    "options": [
+      "Nirvana",
+      "Soundgarden",
+      "Pearl Jam",
+      "Alice in Chains"
+    ],
+    "answer": "Nirvana"
+  },
+  {
+    "id": "music-198",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "What year did MTV launch its music video channel in the US?",
+    "options": [
+      "1985",
+      "1983",
+      "1981",
+      "1979"
+    ],
+    "answer": "1981"
+  },
+  {
+    "id": "music-199",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which Prince song opens Purple Rain with the line 'Dearly beloved, we are gathered here today'?",
+    "options": [
+      "I Would Die 4 U",
+      "Let's Go Crazy",
+      "When Doves Cry",
+      "Purple Rain"
+    ],
+    "answer": "Let's Go Crazy"
+  },
+  {
+    "id": "music-200",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which album by Fleetwood Mac from 1977 features 'Go Your Own Way'?",
+    "options": [
+      "Tango in the Night",
+      "Tusk",
+      "Fleetwood Mac",
+      "Rumours"
+    ],
+    "answer": "Rumours"
+  },
+  {
+    "id": "music-201",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which Radiohead album from 2000 marked a major shift to electronic music?",
+    "options": [
+      "Amnesiac",
+      "Hail to the Thief",
+      "In Rainbows",
+      "Kid A"
+    ],
+    "answer": "Kid A"
+  },
+  {
+    "id": "music-202",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which artist released the 2020 album Folklore recorded during lockdown?",
+    "options": [
+      "Lorde",
+      "Adele",
+      "Billie Eilish",
+      "Taylor Swift"
+    ],
+    "answer": "Taylor Swift"
+  },
+  {
+    "id": "music-203",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Who produced Michael Jackson's Thriller along with Jackson?",
+    "options": [
+      "Phil Spector",
+      "George Martin",
+      "Rick Rubin",
+      "Quincy Jones"
+    ],
+    "answer": "Quincy Jones"
+  },
+  {
+    "id": "music-204",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which U2 album from 1987 includes 'With or Without You'?",
+    "options": [
+      "War",
+      "The Joshua Tree",
+      "Rattle and Hum",
+      "Achtung Baby"
+    ],
+    "answer": "The Joshua Tree"
+  },
+  {
+    "id": "music-205",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "In what year was the Sugarhill Gang's 'Rapper's Delight' released?",
+    "options": [
+      "1982",
+      "1977",
+      "1980",
+      "1979"
+    ],
+    "answer": "1979"
+  },
+  {
+    "id": "music-206",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which Kendrick Lamar album won the 2018 Pulitzer Prize for Music?",
+    "options": [
+      "good kid, m.A.A.d city",
+      "DAMN.",
+      "Mr. Morale",
+      "To Pimp a Butterfly"
+    ],
+    "answer": "DAMN."
+  },
+  {
+    "id": "music-207",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which Bronx DJ is credited with organizing the 1973 party considered the birth of hip-hop culture?",
+    "options": [
+      "Afrika Bambaataa",
+      "DJ Hollywood",
+      "Grandmaster Flash",
+      "DJ Kool Herc"
+    ],
+    "answer": "DJ Kool Herc"
+  },
+  {
+    "id": "music-208",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which duo composed of Andre 3000 and Big Boi released the 2003 double album Speakerboxxx/The Love Below?",
+    "options": [
+      "Run-D.M.C.",
+      "Mobb Deep",
+      "A Tribe Called Quest",
+      "Outkast"
+    ],
+    "answer": "Outkast"
+  },
+  {
+    "id": "music-209",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Lauryn Hill's debut solo album The Miseducation of Lauryn Hill was released in which year?",
+    "options": [
+      "1996",
+      "2000",
+      "1998",
+      "1999"
+    ],
+    "answer": "1998"
+  },
+  {
+    "id": "music-210",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which producer's 1992 debut album The Chronic helped define G-funk?",
+    "options": [
+      "DJ Quik",
+      "Ice Cube",
+      "Dr. Dre",
+      "Snoop Dogg"
+    ],
+    "answer": "Dr. Dre"
+  },
+  {
+    "id": "music-211",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Tupac Shakur's debut solo album 2Pacalypse Now was released in which year?",
+    "options": [
+      "1990",
+      "1994",
+      "1993",
+      "1991"
+    ],
+    "answer": "1991"
+  },
+  {
+    "id": "music-212",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which Notorious B.I.G. debut album from 1994 includes 'Juicy'?",
+    "options": [
+      "Bad Boy",
+      "Ready to Die",
+      "Born Again",
+      "Life After Death"
+    ],
+    "answer": "Ready to Die"
+  },
+  {
+    "id": "music-213",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which record label was co-founded by Dr. Dre and Suge Knight in 1991?",
+    "options": [
+      "Interscope Records",
+      "Def Jam Recordings",
+      "Death Row Records",
+      "Bad Boy Records"
+    ],
+    "answer": "Death Row Records"
+  },
+  {
+    "id": "music-214",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which rapper's real name is Marshall Mathers?",
+    "options": [
+      "Kanye West",
+      "Snoop Dogg",
+      "Jay-Z",
+      "Eminem"
+    ],
+    "answer": "Eminem"
+  },
+  {
+    "id": "music-215",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Jay-Z's debut album Reasonable Doubt was released in which year?",
+    "options": [
+      "1994",
+      "1996",
+      "1999",
+      "1998"
+    ],
+    "answer": "1996"
+  },
+  {
+    "id": "music-216",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which hip-hop group released the 1988 album Straight Outta Compton?",
+    "options": [
+      "Public Enemy",
+      "Wu-Tang Clan",
+      "Run-D.M.C.",
+      "N.W.A"
+    ],
+    "answer": "N.W.A"
+  },
+  {
+    "id": "music-217",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which female rapper's debut album Pink Friday was released in 2010?",
+    "options": [
+      "Lil' Kim",
+      "Nicki Minaj",
+      "Megan Thee Stallion",
+      "Cardi B"
+    ],
+    "answer": "Nicki Minaj"
+  },
+  {
+    "id": "music-218",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which producer pioneered sampling with the Akai MPC60 and released the instrumental album Donuts in 2006?",
+    "options": [
+      "Madlib",
+      "DJ Premier",
+      "J Dilla",
+      "Pete Rock"
+    ],
+    "answer": "J Dilla"
+  },
+  {
+    "id": "music-219",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which 2015 Kendrick Lamar album features 'Alright'?",
+    "options": [
+      "good kid, m.A.A.d city",
+      "To Pimp a Butterfly",
+      "Section.80",
+      "DAMN."
+    ],
+    "answer": "To Pimp a Butterfly"
+  },
+  {
+    "id": "music-220",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which R&B singer's 1994 debut album is titled Age Ain't Nothing but a Number?",
+    "options": [
+      "Beyonce",
+      "Brandy",
+      "Monica",
+      "Aaliyah"
+    ],
+    "answer": "Aaliyah"
+  },
+  {
+    "id": "music-221",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Who was the first solo female rapper to win the Grammy for Best Rap Album?",
+    "options": [
+      "Cardi B",
+      "Lauryn Hill",
+      "Nicki Minaj",
+      "Missy Elliott"
+    ],
+    "answer": "Lauryn Hill"
+  },
+  {
+    "id": "music-222",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which DJ invented the scratch technique in the 1970s as a teenager?",
+    "options": [
+      "DJ Kool Herc",
+      "Grand Wizard Theodore",
+      "Afrika Bambaataa",
+      "Grandmaster Flash"
+    ],
+    "answer": "Grand Wizard Theodore"
+  },
+  {
+    "id": "music-223",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which hip-hop collective from Staten Island debuted with Enter the Wu-Tang (36 Chambers) in 1993?",
+    "options": [
+      "A Tribe Called Quest",
+      "Mobb Deep",
+      "Wu-Tang Clan",
+      "De La Soul"
+    ],
+    "answer": "Wu-Tang Clan"
+  },
+  {
+    "id": "music-224",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which rapper released the 2018 hit 'Old Town Road' blending country and trap?",
+    "options": [
+      "Post Malone",
+      "DaBaby",
+      "Lil Nas X",
+      "Travis Scott"
+    ],
+    "answer": "Lil Nas X"
+  },
+  {
+    "id": "music-225",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Kraftwerk's influential album Autobahn was released in which month and year?",
+    "options": [
+      "March 1973",
+      "June 1975",
+      "November 1974",
+      "September 1974"
+    ],
+    "answer": "November 1974"
+  },
+  {
+    "id": "music-226",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "The Roland TR-808 drum machine was first manufactured in which year?",
+    "options": [
+      "1982",
+      "1978",
+      "1980",
+      "1985"
+    ],
+    "answer": "1980"
+  },
+  {
+    "id": "music-227",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which French duo released the 2001 album Discovery featuring 'One More Time'?",
+    "options": [
+      "Daft Punk",
+      "Chemical Brothers",
+      "Justice",
+      "Air"
+    ],
+    "answer": "Daft Punk"
+  },
+  {
+    "id": "music-228",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which German electronic band is often called the godfathers of electronic pop with albums like Trans-Europe Express?",
+    "options": [
+      "Kraftwerk",
+      "Tangerine Dream",
+      "Can",
+      "Klaus Schulze"
+    ],
+    "answer": "Kraftwerk"
+  },
+  {
+    "id": "music-229",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "What city is recognized as the birthplace of house music in the early 1980s?",
+    "options": [
+      "London",
+      "Detroit",
+      "Chicago",
+      "New York"
+    ],
+    "answer": "Chicago"
+  },
+  {
+    "id": "music-230",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "What city is recognized as the birthplace of techno music in the mid-1980s?",
+    "options": [
+      "Chicago",
+      "London",
+      "Detroit",
+      "Berlin"
+    ],
+    "answer": "Detroit"
+  },
+  {
+    "id": "music-231",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which British musician's real name is Richard D. James known for Windowlicker?",
+    "options": [
+      "Squarepusher",
+      "Boards of Canada",
+      "Aphex Twin",
+      "Autechre"
+    ],
+    "answer": "Aphex Twin"
+  },
+  {
+    "id": "music-232",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which synthesizer, nicknamed the 'Model D,' was released by Moog in 1970 and became one of the first widely used portable synths?",
+    "options": [
+      "DX7",
+      "Minimoog",
+      "Juno-106",
+      "ARP 2600"
+    ],
+    "answer": "Minimoog"
+  },
+  {
+    "id": "music-233",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which Daft Punk album from 2013 features 'Get Lucky'?",
+    "options": [
+      "Homework",
+      "Random Access Memories",
+      "Human After All",
+      "Discovery"
+    ],
+    "answer": "Random Access Memories"
+  },
+  {
+    "id": "music-234",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which electronic duo wears robot helmets and debuted them around 2001?",
+    "options": [
+      "Daft Punk",
+      "Deadmau5",
+      "Chemical Brothers",
+      "Justice"
+    ],
+    "answer": "Daft Punk"
+  },
+  {
+    "id": "music-235",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1980s drum machine used analog synthesis rather than samples, unlike the Linn LM-1?",
+    "options": [
+      "Roland TR-909",
+      "Roland TR-808",
+      "Oberheim DMX",
+      "LinnDrum"
+    ],
+    "answer": "Roland TR-808"
+  },
+  {
+    "id": "music-236",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which Detroit DJ trio Juan Atkins, Derrick May and Kevin Saunderson are techno originators called?",
+    "options": [
+      "Belleville Three",
+      "Drexicya",
+      "Underground Resistance",
+      "Daft Punk"
+    ],
+    "answer": "Belleville Three"
+  },
+  {
+    "id": "music-237",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which UK genre emerged in South London in early 2000s blending garage, grime, and dub?",
+    "options": [
+      "Drum and bass",
+      "Dubstep",
+      "Jungle",
+      "House"
+    ],
+    "answer": "Dubstep"
+  },
+  {
+    "id": "music-238",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Skrillex won Grammy for Best Dance Recording with which 2011 track?",
+    "options": [
+      "First of the Year",
+      "Bangarang",
+      "Cinema Remix",
+      "Scary Monsters and Nice Sprites"
+    ],
+    "answer": "Scary Monsters and Nice Sprites"
+  },
+  {
+    "id": "music-239",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which Kraftwerk single depicts travel on German highways and is over 22 minutes on album?",
+    "options": [
+      "The Model",
+      "Trans-Europe Express",
+      "Computer Love",
+      "Autobahn"
+    ],
+    "answer": "Autobahn"
+  },
+  {
+    "id": "music-240",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which festival in Belgium is one of the world's largest EDM festivals as of 2026?",
+    "options": [
+      "Tomorrowland",
+      "Ultra",
+      "Glastonbury",
+      "Coachella"
+    ],
+    "answer": "Tomorrowland"
+  },
+  {
+    "id": "music-241",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which synthesizer company created the TB-303 Bass Line originally for guitarists?",
+    "options": [
+      "Korg",
+      "Roland",
+      "Yamaha",
+      "Moog"
+    ],
+    "answer": "Roland"
+  },
+  {
+    "id": "music-242",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which electronic artist released Selected Ambient Works 85-92 in 1992?",
+    "options": [
+      "Burial",
+      "Boards of Canada",
+      "Brian Eno",
+      "Aphex Twin"
+    ],
+    "answer": "Aphex Twin"
+  },
+  {
+    "id": "music-243",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which Chicago DJ is considered the godfather of house music with residency at Warehouse?",
+    "options": [
+      "Ron Hardy",
+      "David Mancuso",
+      "Larry Levan",
+      "Frankie Knuckles"
+    ],
+    "answer": "Frankie Knuckles"
+  },
+  {
+    "id": "music-244",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1998 album by The Chemical Brothers features 'Hey Boy Hey Girl'?",
+    "options": [
+      "Dig Your Own Hole",
+      "Come With Us",
+      "Exit Planet Dust",
+      "Surrender"
+    ],
+    "answer": "Surrender"
+  },
+  {
+    "id": "music-245",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "In what year did Johnny Cash perform his famous live shows at Folsom State Prison?",
+    "options": [
+      "1971",
+      "1968",
+      "1969",
+      "1965"
+    ],
+    "answer": "1968"
+  },
+  {
+    "id": "music-246",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "In what year was Dolly Parton's single 'Jolene' first released?",
+    "options": [
+      "1971",
+      "1973",
+      "1974",
+      "1975"
+    ],
+    "answer": "1973"
+  },
+  {
+    "id": "music-247",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "In what year was Bob Dylan awarded the Nobel Prize in Literature?",
+    "options": [
+      "2013",
+      "2018",
+      "2016",
+      "2014"
+    ],
+    "answer": "2016"
+  },
+  {
+    "id": "music-248",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "According to legend, at which two U.S. highways did Robert Johnson allegedly sell his soul near Clarksdale?",
+    "options": [
+      "Highways 61 and 90",
+      "Highways 10 and 49",
+      "Highways 61 and 49",
+      "Highways 61 and 20"
+    ],
+    "answer": "Highways 61 and 49"
+  },
+  {
+    "id": "music-249",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "What was Johnny Cash's legal name at birth?",
+    "options": [
+      "Johnny Ray Cash",
+      "John Ray Cash",
+      "J. R. Cash",
+      "Jonathan Cash"
+    ],
+    "answer": "J. R. Cash"
+  },
+  {
+    "id": "music-250",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Dolly Parton wrote 'I Will Always Love You' as a farewell to which longtime duet partner?",
+    "options": [
+      "Chet Atkins",
+      "Porter Wagoner",
+      "Carl Dean",
+      "Bill Anderson"
+    ],
+    "answer": "Porter Wagoner"
+  },
+  {
+    "id": "music-251",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "What was Bob Dylan's birth name?",
+    "options": [
+      "Robert Andrew Zimmerman",
+      "Robert Allen Zimmerman",
+      "Robert Anthony Zimmerman",
+      "Robert Alan Zimmerman"
+    ],
+    "answer": "Robert Allen Zimmerman"
+  },
+  {
+    "id": "music-252",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which instrument is a traditional Japanese 13-string zither?",
+    "options": [
+      "Taiko",
+      "Shakuhachi",
+      "Koto",
+      "Shamisen"
+    ],
+    "answer": "Koto"
+  },
+  {
+    "id": "music-253",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which Indian sitar virtuoso taught George Harrison and collaborated with Yehudi Menuhin?",
+    "options": [
+      "Anoushka Shankar",
+      "Ravi Shankar",
+      "Ali Akbar Khan",
+      "Zakir Hussain"
+    ],
+    "answer": "Ravi Shankar"
+  },
+  {
+    "id": "music-254",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which 1971 Led Zeppelin song features mandolin and references Tolkien?",
+    "options": [
+      "Going to California",
+      "Ramble On",
+      "The Battle of Evermore",
+      "Misty Mountain Hop"
+    ],
+    "answer": "The Battle of Evermore"
+  },
+  {
+    "id": "music-255",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which Woody Guthrie song is an alternative national anthem beginning 'This land is your land'?",
+    "options": [
+      "Blowin' in the Wind",
+      "If I Had a Hammer",
+      "We Shall Overcome",
+      "This Land Is Your Land"
+    ],
+    "answer": "This Land Is Your Land"
+  },
+  {
+    "id": "music-256",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which Carter Family member is known as the Mother of Maybelle and creator of the Carter scratch?",
+    "options": [
+      "Sara Carter",
+      "Maybelle Carter",
+      "Anita Carter",
+      "June Carter"
+    ],
+    "answer": "Maybelle Carter"
+  },
+  {
+    "id": "music-257",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which country singer's 1968 hit 'Folsom Prison Blues' was performed live at Folsom?",
+    "options": [
+      "Willie Nelson",
+      "Johnny Cash",
+      "Waylon Jennings",
+      "Merle Haggard"
+    ],
+    "answer": "Johnny Cash"
+  },
+  {
+    "id": "music-258",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which folk festival in Rhode Island has hosted folk legends since 1959?",
+    "options": [
+      "Coachella",
+      "Bonnaroo",
+      "Newport Folk Festival",
+      "Telluride"
+    ],
+    "answer": "Newport Folk Festival"
+  },
+  {
+    "id": "music-259",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "What is the title of Nick Drake's 1969 debut folk-rock album, a phrase borrowed from a printed warning on cigarette rolling papers?",
+    "options": [
+      "Pink Moon",
+      "Bryter Layter",
+      "Unhalfbricking",
+      "Five Leaves Left"
+    ],
+    "answer": "Five Leaves Left"
+  },
+  {
+    "id": "music-260",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which instrument does a luthier traditionally build and repair?",
+    "options": [
+      "Electronic keyboards",
+      "Brass instruments",
+      "String instruments",
+      "Percussion"
+    ],
+    "answer": "String instruments"
+  },
+  {
+    "id": "music-261",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which genre originating in Louisiana blends French, African, and Spanish influences and uses accordion?",
+    "options": [
+      "Cajun",
+      "Zydeco",
+      "Gumbo",
+      "Bluegrass"
+    ],
+    "answer": "Zydeco"
+  },
+  {
+    "id": "music-262",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which country star's 1980 hit '9 to 5' was written for the film of same name?",
+    "options": [
+      "Tammy Wynette",
+      "Loretta Lynn",
+      "Dolly Parton",
+      "Barbara Mandrell"
+    ],
+    "answer": "Dolly Parton"
+  },
+  {
+    "id": "music-263",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which singer-songwriter wrote 'Hallelujah' originally released in 1984?",
+    "options": [
+      "Jeff Buckley",
+      "Bob Dylan",
+      "Tom Waits",
+      "Leonard Cohen"
+    ],
+    "answer": "Leonard Cohen"
+  },
+  {
+    "id": "music-264",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which 1960s instrument used by The Beach Boys and The Beatles is an early polyphonic tape sampler?",
+    "options": [
+      "Theremin",
+      "Mellotron",
+      "Moog",
+      "Ondes Martenot"
+    ],
+    "answer": "Mellotron"
+  },
+  {
+    "id": "music-265",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which Nirvana song's main riff was inspired by Boston's 'More Than a Feeling' according to Kurt Cobain?",
+    "options": [
+      "Come As You Are",
+      "Smells Like Teen Spirit",
+      "In Bloom",
+      "Lithium"
+    ],
+    "answer": "Smells Like Teen Spirit"
+  },
+  {
+    "id": "music-266",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which Eagles song from 1976 is in B minor and features extended guitar duet coda?",
+    "options": [
+      "Desperado",
+      "Life in the Fast Lane",
+      "Hotel California",
+      "Take It Easy"
+    ],
+    "answer": "Hotel California"
+  },
+  {
+    "id": "music-267",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which Fleetwood Mac album from 1973 features a penguin on cover?",
+    "options": [
+      "Mirage",
+      "Penguin",
+      "Rumours",
+      "Tusk"
+    ],
+    "answer": "Penguin"
+  },
+  {
+    "id": "music-268",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which Beatles album cover shows the band crossing a zebra crossing outside EMI Studios?",
+    "options": [
+      "Revolver",
+      "Abbey Road",
+      "Let It Be",
+      "Help!"
+    ],
+    "answer": "Abbey Road"
+  },
+  {
+    "id": "music-269",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which Michael Jackson video directed by John Landis is over 13 minutes long and features zombies?",
+    "options": [
+      "Billie Jean",
+      "Thriller",
+      "Bad",
+      "Beat It"
+    ],
+    "answer": "Thriller"
+  },
+  {
+    "id": "music-270",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which Queen album features the robot on the cover that later became mascot?",
+    "options": [
+      "Jazz",
+      "News of the World",
+      "The Game",
+      "A Night at the Opera"
+    ],
+    "answer": "News of the World"
+  },
+  {
+    "id": "music-271",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which Nirvana album cover shows a baby swimming towards a dollar bill?",
+    "options": [
+      "Incesticide",
+      "In Utero",
+      "Bleach",
+      "Nevermind"
+    ],
+    "answer": "Nevermind"
+  },
+  {
+    "id": "music-272",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which Pink Floyd album cover was designed by Hipgnosis and shows a prism?",
+    "options": [
+      "Wish You Were Here",
+      "Animals",
+      "The Dark Side of the Moon",
+      "The Wall"
+    ],
+    "answer": "The Dark Side of the Moon"
+  },
+  {
+    "id": "music-273",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which Led Zeppelin album cover shows an old man carrying sticks?",
+    "options": [
+      "Led Zeppelin III",
+      "Presence",
+      "Led Zeppelin IV",
+      "Physical Graffiti"
+    ],
+    "answer": "Led Zeppelin IV"
+  },
+  {
+    "id": "music-274",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which 1982 album by Michael Jackson was produced by Quincy Jones and includes seven Top 10 singles?",
+    "options": [
+      "Thriller",
+      "Off the Wall",
+      "Dangerous",
+      "Bad"
+    ],
+    "answer": "Thriller"
+  },
+  {
+    "id": "music-275",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which song did Paul McCartney write about his English sheepdog Martha?",
+    "options": [
+      "Blackbird",
+      "Let It Be",
+      "Martha My Dear",
+      "Hey Jude"
+    ],
+    "answer": "Martha My Dear"
+  },
+  {
+    "id": "music-276",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which 1979 double album by The Clash features a cover photo of bassist Paul Simonon smashing his guitar on stage?",
+    "options": [
+      "Combat Rock",
+      "The Clash",
+      "London Calling",
+      "Give 'Em Enough Rope"
+    ],
+    "answer": "London Calling"
+  },
+  {
+    "id": "music-277",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which 1991 Metallica album is commonly called The Black Album?",
+    "options": [
+      "Metallica",
+      "And Justice for All",
+      "Master of Puppets",
+      "Ride the Lightning"
+    ],
+    "answer": "Metallica"
+  },
+  {
+    "id": "music-278",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which Beyonce album from 2013 was a surprise visual album released without prior announcement?",
+    "options": [
+      "Lemonade",
+      "4",
+      "B'Day",
+      "Beyonce"
+    ],
+    "answer": "Beyonce"
+  },
+  {
+    "id": "music-279",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which Taylor Swift album from 2014 marked her full transition to pop?",
+    "options": [
+      "Reputation",
+      "1989",
+      "Red",
+      "Lover"
+    ],
+    "answer": "1989"
+  },
+  {
+    "id": "music-280",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which Adele album from 2015 includes 'Hello'?",
+    "options": [
+      "21",
+      "30",
+      "19",
+      "25"
+    ],
+    "answer": "25"
+  },
+  {
+    "id": "music-281",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which Kanye West album from 2010 features 'Runaway' and 'Power'?",
+    "options": [
+      "Yeezus",
+      "Graduation",
+      "The College Dropout",
+      "My Beautiful Dark Twisted Fantasy"
+    ],
+    "answer": "My Beautiful Dark Twisted Fantasy"
+  },
+  {
+    "id": "music-282",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which Beatles song ends Abbey Road's medley before 'The End'?",
+    "options": [
+      "She Came in Through the Bathroom Window",
+      "Golden Slumbers",
+      "You Never Give Me Your Money",
+      "Carry That Weight"
+    ],
+    "answer": "Carry That Weight"
+  },
+  {
+    "id": "music-283",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which note is the standard orchestral tuning pitch at 440 Hz?",
+    "options": [
+      "G3",
+      "C4",
+      "E5",
+      "A4"
+    ],
+    "answer": "A4"
+  },
+  {
+    "id": "music-284",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "How many violins crafted by Antonio Stradivari are estimated to survive as of 2026?",
+    "options": [
+      "Around 50",
+      "Around 1200",
+      "Around 200",
+      "Around 650"
+    ],
+    "answer": "Around 650"
+  },
+  {
+    "id": "music-285",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which artist holds the record for most Grammy wins as of 2026?",
+    "options": [
+      "Stevie Wonder",
+      "Georg Solti",
+      "Quincy Jones",
+      "Beyonce"
+    ],
+    "answer": "Beyonce"
+  },
+  {
+    "id": "music-286",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "In which year did the Eurovision Song Contest first take place?",
+    "options": [
+      "1960",
+      "1950",
+      "1971",
+      "1956"
+    ],
+    "answer": "1956"
+  },
+  {
+    "id": "music-287",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which country's entry won the first Eurovision in 1956?",
+    "options": [
+      "Netherlands",
+      "Germany",
+      "Switzerland",
+      "France"
+    ],
+    "answer": "Switzerland"
+  },
+  {
+    "id": "music-288",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "What does the Italian term 'forte' mean in music dynamics?",
+    "options": [
+      "Slow",
+      "Loud",
+      "Fast",
+      "Soft"
+    ],
+    "answer": "Loud"
+  },
+  {
+    "id": "music-289",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "What does 'piano' mean as a dynamic marking?",
+    "options": [
+      "Soft",
+      "Medium",
+      "Gradual",
+      "Loud"
+    ],
+    "answer": "Soft"
+  },
+  {
+    "id": "music-290",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which woodwind instrument uses a double reed?",
+    "options": [
+      "Oboe",
+      "Clarinet",
+      "Flute",
+      "Saxophone"
+    ],
+    "answer": "Oboe"
+  },
+  {
+    "id": "music-291",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which brass instrument has the lowest pitch in a standard orchestra?",
+    "options": [
+      "Trumpet",
+      "Tuba",
+      "Trombone",
+      "French horn"
+    ],
+    "answer": "Tuba"
+  },
+  {
+    "id": "music-292",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "What is the relative minor key of C major?",
+    "options": [
+      "E minor",
+      "A minor",
+      "G minor",
+      "D minor"
+    ],
+    "answer": "A minor"
+  },
+  {
+    "id": "music-293",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which scale has no sharps or flats in its key signature?",
+    "options": [
+      "A minor",
+      "C major",
+      "F major",
+      "G major"
+    ],
+    "answer": "C major"
+  },
+  {
+    "id": "music-294",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "What is the term for gradually increasing tempo?",
+    "options": [
+      "Decrescendo",
+      "Accelerando",
+      "Crescendo",
+      "Ritardando"
+    ],
+    "answer": "Accelerando"
+  },
+  {
+    "id": "music-295",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which clef is primarily used for higher-pitched instruments and voices?",
+    "options": [
+      "Alto clef",
+      "Tenor clef",
+      "Treble clef",
+      "Bass clef"
+    ],
+    "answer": "Treble clef"
+  },
+  {
+    "id": "music-296",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "How many symphonies did Beethoven compose?",
+    "options": [
+      "Forty-one",
+      "Nine",
+      "Five",
+      "Twelve"
+    ],
+    "answer": "Nine"
+  },
+  {
+    "id": "music-297",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "How many symphonies did Mozart compose according to traditional counting?",
+    "options": [
+      "27",
+      "41",
+      "104",
+      "40"
+    ],
+    "answer": "41"
   }
 ]
