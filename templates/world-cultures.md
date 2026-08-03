@@ -13,6 +13,13 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Diwali as "the Hindu festival of lights" (already asked 3+ times)
 - Which country's rugby team performs the haka before matches (New Zealand) — a different fact from the haka's modern ceremonial uses (weddings/funerals/welcoming guests), which is NOT yet covered
 - The Running of the Bulls in Pamplona, Spain
+- Songkran, Thailand's water-splashing New Year festival
+- Injera, the Ethiopian/Eritrean sour flatbread made from teff
+- Kimchi as Korea's national fermented (napa cabbage) side dish
+- Norway's Constitution Day (17 May) and its bunad folk costumes
+- The Mexican piñata (decorated container filled with candy, broken at celebrations)
+- Welsh "ll" representing a voiceless lateral fricative sound
+- The yukata as a casual/light cotton summer garment (vs. a formal kimono)
 
 Use web search to verify every fact — do not rely on memory alone. Prefer authoritative sources (encyclopedic sources, cultural references) over guessing. For each question, actually find the fact via search rather than recalling it, especially for obscure details (lesser-known customs, specific terms).
 
