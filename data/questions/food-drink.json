@@ -6537,5 +6537,1175 @@
     ],
     "answer": "Vanilla",
     "id": "food-drink-355"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Which local pomace brandy is traditionally used to wash the sticky orange rind of Burgundy's Epoisses cheese during aging?",
+    "options": [
+      "Marc de Bourgogne",
+      "Chablis wine",
+      "Burgundy beer",
+      "Apple cider"
+    ],
+    "answer": "Marc de Bourgogne",
+    "id": "food-drink-356"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "What plant-based coagulant is required by PDO rules to curdle raw ewe's milk for Portugal's Serra da Estrela cheese?",
+    "options": [
+      "Lemon juice",
+      "Thistle flower",
+      "Fig latex",
+      "Calf rennet"
+    ],
+    "answer": "Thistle flower",
+    "id": "food-drink-357"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Which English blue cheese cannot legally be produced in the Cambridgeshire village that gave it its name, due to PDO rules limiting production to three Midlands counties?",
+    "options": [
+      "Wensleydale",
+      "Cheddar",
+      "Stilton",
+      "Red Leicester"
+    ],
+    "answer": "Stilton",
+    "id": "food-drink-358"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "As of 2026, which animal's milk is used to make Pule, recognized as the world's most expensive cheese and produced only at Zasavica Reserve in Serbia?",
+    "options": [
+      "Yak milk",
+      "Donkey milk",
+      "Camel milk",
+      "Reindeer milk"
+    ],
+    "answer": "Donkey milk",
+    "id": "food-drink-359"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What natural band encircles Vacherin Mont d'Or to prevent collapse and impart resinous pine notes during ripening?",
+    "options": [
+      "Chestnut leaves",
+      "Spruce bark",
+      "Beeswax cloth",
+      "Walnut husk"
+    ],
+    "answer": "Spruce bark",
+    "id": "food-drink-360"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "Which preserved forage is strictly prohibited in the diet of cows whose milk is destined for Parmigiano Reggiano PDO?",
+    "options": [
+      "Alfalfa hay",
+      "Silage",
+      "Fresh pasture",
+      "Cracked barley"
+    ],
+    "answer": "Silage",
+    "id": "food-drink-361"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "What does the name of Sardinia's ultra-rare pasta su filindeu literally translate to in English?",
+    "options": [
+      "Veins of Stone",
+      "Threads of God",
+      "Hair of Angels",
+      "Strings of the Sun"
+    ],
+    "answer": "Threads of God",
+    "id": "food-drink-362"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "The lactic acid bacterium most associated with traditional sourdough's tang was first isolated from the sourdough of which American city, lending it its species name?",
+    "options": [
+      "Boston",
+      "New Orleans",
+      "San Francisco",
+      "Seattle"
+    ],
+    "answer": "San Francisco",
+    "id": "food-drink-363"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "Buckwheat, the gluten-free flour used for Japanese soba noodles, is botanically classified as what type of crop rather than a true wheat?",
+    "options": [
+      "Pseudocereal",
+      "Legume",
+      "Aquatic grass",
+      "Oilseed"
+    ],
+    "answer": "Pseudocereal",
+    "id": "food-drink-364"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "Which treatment gives authentic bagels their signature chewy crust and is done moments before baking?",
+    "options": [
+      "Steamed in milk",
+      "Boiled in water",
+      "Deep-fried in oil",
+      "Misted with sugar water"
+    ],
+    "answer": "Boiled in water",
+    "id": "food-drink-365"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Authentic German Laugenbrezel get their dark mahogany gloss and distinctive taste from a quick dip in what before baking?",
+    "options": [
+      "Honey glaze",
+      "Sodium hydroxide",
+      "Vinegar water",
+      "Olive oil"
+    ],
+    "answer": "Sodium hydroxide",
+    "id": "food-drink-366"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Japanese ramen noodles stay firm in hot broth and appear pale yellow without egg thanks to which alkaline water?",
+    "options": [
+      "Kombu dashi",
+      "Kansui",
+      "Miso paste",
+      "Baking powder"
+    ],
+    "answer": "Kansui",
+    "id": "food-drink-367"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Which regional ramen style from Fukuoka Prefecture is defined by its creamy white pork bone broth and thin straight noodles?",
+    "options": [
+      "Kitakata",
+      "Hakata",
+      "Onomichi",
+      "Sapporo"
+    ],
+    "answer": "Hakata",
+    "id": "food-drink-368"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Despite its name, Sichuan peppercorn is not a true peppercorn but belongs to which plant family?",
+    "options": [
+      "Pepper family",
+      "Citrus family",
+      "Mint family",
+      "Nightshade family"
+    ],
+    "answer": "Citrus family",
+    "id": "food-drink-369"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "What key ingredient is omitted in Korean baek-kimchi, or white kimchi, giving it its pale color?",
+    "options": [
+      "Garlic",
+      "Radish",
+      "Chili pepper powder",
+      "Ginger"
+    ],
+    "answer": "Chili pepper powder",
+    "id": "food-drink-370"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Pixian doubanjiang, the soul of Sichuan cuisine, is a fermented chili paste made primarily from what bean?",
+    "options": [
+      "Mung bean",
+      "Broad bean",
+      "Soybean only",
+      "Adzuki bean"
+    ],
+    "answer": "Broad bean",
+    "id": "food-drink-371"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "What does the Thai name nam pla literally translate to in English?",
+    "options": [
+      "Fermented juice",
+      "Fish water",
+      "Shrimp paste",
+      "Salted sea"
+    ],
+    "answer": "Fish water",
+    "id": "food-drink-372"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "In the Philippines, the thin amber fish sauce called patis is traditionally harvested as a by-product of making what other fermented product?",
+    "options": [
+      "Bagoong",
+      "Taho",
+      "Latik",
+      "Suka"
+    ],
+    "answer": "Bagoong",
+    "id": "food-drink-373"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Legend holds that mole poblano was invented by nuns in the Convent of Santa Rosa in which Mexican state?",
+    "options": [
+      "Oaxaca",
+      "Puebla",
+      "Jalisco",
+      "Yucatán"
+    ],
+    "answer": "Puebla",
+    "id": "food-drink-374"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "Traditional nixtamalization for corn tortillas uses an alkaline soak made from what compound?",
+    "options": [
+      "Sodium chloride",
+      "Calcium hydroxide",
+      "Baking soda",
+      "Citric acid"
+    ],
+    "answer": "Calcium hydroxide",
+    "id": "food-drink-375"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "In the Yucatán classic cochinita pibil, what does the Mayan term pibil describe?",
+    "options": [
+      "Banana leaf wrap",
+      "Buried pit cooking",
+      "Sour orange marinade",
+      "Clay pot simmering"
+    ],
+    "answer": "Buried pit cooking",
+    "id": "food-drink-376"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "Which fresh herb provides the dominant green color and flavor base in authentic Argentine chimichurri?",
+    "options": [
+      "Cilantro",
+      "Parsley",
+      "Basil",
+      "Oregano"
+    ],
+    "answer": "Parsley",
+    "id": "food-drink-377"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Tacos al pastor's method of cooking meat on a vertical trompo was brought to Puebla in the early 20th century by immigrants from where?",
+    "options": [
+      "Lebanon",
+      "Spain",
+      "Italy",
+      "China"
+    ],
+    "answer": "Lebanon",
+    "id": "food-drink-378"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "The Brazilian national dish feijoada completa is a slow-cooked stew traditionally made with which beans?",
+    "options": [
+      "Kidney",
+      "Pinto",
+      "Black",
+      "Lima"
+    ],
+    "answer": "Black",
+    "id": "food-drink-379"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "At traditional Texas chili cookoffs, which ingredient is considered a disqualifying addition?",
+    "options": [
+      "Beef chuck",
+      "Beans",
+      "Chile peppers",
+      "Cumin"
+    ],
+    "answer": "Beans",
+    "id": "food-drink-380"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Which chef codified the five French mother sauces in his 1903 Le Guide Culinaire?",
+    "options": [
+      "Marie-Antoine Carême",
+      "Auguste Escoffier",
+      "Paul Bocuse",
+      "Alain Ducasse"
+    ],
+    "answer": "Auguste Escoffier",
+    "id": "food-drink-381"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "Southwestern French cassoulet is traditionally built around which heirloom white bean with protected status?",
+    "options": [
+      "Cannellini bean",
+      "Tarbais bean",
+      "Kidney bean",
+      "Navy bean"
+    ],
+    "answer": "Tarbais bean",
+    "id": "food-drink-382"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "How is authentic Marseille bouillabaisse traditionally presented at the table?",
+    "options": [
+      "Baked in pastry",
+      "Broth first, fish second",
+      "Flambéed tableside",
+      "Served cold"
+    ],
+    "answer": "Broth first, fish second",
+    "id": "food-drink-383"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "In classic Beef Wellington the fillet is coated with a finely minced mushroom and shallot paste called what?",
+    "options": [
+      "Persillade",
+      "Duxelles",
+      "Matignon",
+      "Farce"
+    ],
+    "answer": "Duxelles",
+    "id": "food-drink-384"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "Authentic Paella Valenciana includes chicken and which other meat as its traditional proteins?",
+    "options": [
+      "Rabbit",
+      "Chorizo",
+      "Sea bass",
+      "Pork belly"
+    ],
+    "answer": "Rabbit",
+    "id": "food-drink-385"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Rhenish sauerbraten was historically prepared with which meat before beef became standard?",
+    "options": [
+      "Goose",
+      "Venison",
+      "Horse",
+      "Boar"
+    ],
+    "answer": "Horse",
+    "id": "food-drink-386"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What is the primary functional effect of the tall conical lid on a traditional North African tagine pot?",
+    "options": [
+      "Returns condensation to pot",
+      "Filters charcoal smoke",
+      "Flattens meat",
+      "Drains excess oil"
+    ],
+    "answer": "Returns condensation to pot",
+    "id": "food-drink-387"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "In Arabic, the name of the North African spice blend ras el hanout literally translates to what?",
+    "options": [
+      "Head of the shop",
+      "Golden dust",
+      "Mother of flavor",
+      "Twelve spices"
+    ],
+    "answer": "Head of the shop",
+    "id": "food-drink-388"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Authentic Ethiopian berbere often includes korarima, which is better known outside Ethiopia as what?",
+    "options": [
+      "Smoked paprika",
+      "Ethiopian cardamom",
+      "Wild basil seed",
+      "Black cumin"
+    ],
+    "answer": "Ethiopian cardamom",
+    "id": "food-drink-389"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Traditional South Indian dosa batter made from rice and black gram rises and turns tangy overnight mainly due to activity of what?",
+    "options": [
+      "Baking powder",
+      "Lactic acid bacteria",
+      "Palm vinegar",
+      "Fermented coconut milk"
+    ],
+    "answer": "Lactic acid bacteria",
+    "id": "food-drink-390"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "The characteristic pocket inside Middle Eastern pita bread forms during baking because of what?",
+    "options": [
+      "Steam puffing dough",
+      "Hand folding technique",
+      "Oil separation",
+      "Yeast injection"
+    ],
+    "answer": "Steam puffing dough",
+    "id": "food-drink-391"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "West African egusi soup is thickened and given its nutty richness by ground seeds from what?",
+    "options": [
+      "Melon seeds",
+      "Baobab seeds",
+      "Sesame paste",
+      "Moringa seeds"
+    ],
+    "answer": "Melon seeds",
+    "id": "food-drink-392"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "The French 75 cocktail, popularized in World War I-era Paris, is named after what piece of military equipment?",
+    "options": [
+      "Mustard gas canister",
+      "75mm field gun",
+      "Browning machine gun",
+      "Mark V tank"
+    ],
+    "answer": "75mm field gun",
+    "id": "food-drink-393"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "In 1919 Florence, Count Camillo Negroni asked bartender Fosco Scarselli at Caffè Casoni to strengthen which existing cocktail by replacing soda water with gin?",
+    "options": [
+      "Milano-Torino",
+      "Americano",
+      "Garibaldi",
+      "Negroni Sbagliato"
+    ],
+    "answer": "Americano",
+    "id": "food-drink-394"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "The world's first pale lager of its style, Pilsner Urquell, was first brewed in 1842 in which Bohemian city?",
+    "options": [
+      "Plzeň",
+      "Prague",
+      "České Budějovice",
+      "Munich"
+    ],
+    "answer": "Plzeň",
+    "id": "food-drink-395"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "As of 2026, to carry the Authentic Trappist Product logo, where must a beer be brewed under International Trappist Association rules?",
+    "options": [
+      "In oak barrels",
+      "Inside Trappist monastery walls",
+      "Within 10km of a monastery",
+      "In Belgium or Netherlands only"
+    ],
+    "answer": "Inside Trappist monastery walls",
+    "id": "food-drink-396"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "In the traditional méthode champenoise, what process creates Champagne's bubbles?",
+    "options": [
+      "Injection of carbon dioxide",
+      "Secondary fermentation in bottle",
+      "Charmat tank fermentation",
+      "Addition of soda water"
+    ],
+    "answer": "Secondary fermentation in bottle",
+    "id": "food-drink-397"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Which Belgian beer style is traditionally produced by spontaneous fermentation with wild yeasts?",
+    "options": [
+      "Dubbel",
+      "Lambic",
+      "Witbier",
+      "Saison"
+    ],
+    "answer": "Lambic",
+    "id": "food-drink-398"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Ancient Rome's prized umami condiment garum was produced by fermenting which part of small fish with salt in the hot sun?",
+    "options": [
+      "Fish scales",
+      "Fish intestines",
+      "Fish gills",
+      "Fish bones"
+    ],
+    "answer": "Fish intestines",
+    "id": "food-drink-399"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "The Mediterranean delicacy bottarga is made by salting, pressing and drying the intact roe pouch chiefly from which fish?",
+    "options": [
+      "Atlantic salmon",
+      "Grey mullet",
+      "European sea bass",
+      "Yellowtail amberjack"
+    ],
+    "answer": "Grey mullet",
+    "id": "food-drink-400"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "Under PDO consortium rules, Prosciutto di Parma must be aged for a legal minimum of how long from first salting?",
+    "options": [
+      "90 days",
+      "200 days",
+      "400 days",
+      "600 days"
+    ],
+    "answer": "400 days",
+    "id": "food-drink-401"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "In classic French duck confit, after salt-curing, meat is slow-cooked and then preserved fully submerged in what to block oxygen?",
+    "options": [
+      "Red wine reduction",
+      "Rendered fat",
+      "Vinegar brine",
+      "Honey glaze"
+    ],
+    "answer": "Rendered fat",
+    "id": "food-drink-402"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Which pork cut is traditionally used to make the Italian salume capicola, also called coppa?",
+    "options": [
+      "Hind leg",
+      "Neck to fourth rib",
+      "Pork belly",
+      "Tenderloin"
+    ],
+    "answer": "Neck to fourth rib",
+    "id": "food-drink-403"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "In traditional New York deli style, pastrami is most authentically made from which beef cut?",
+    "options": [
+      "Tenderloin",
+      "Beef navel",
+      "Shank",
+      "Short rib"
+    ],
+    "answer": "Beef navel",
+    "id": "food-drink-404"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "Scandinavian gravlax cures raw salmon with salt, sugar, and a generous amount of which fresh herb?",
+    "options": [
+      "Dill",
+      "Thyme",
+      "Basil",
+      "Cilantro"
+    ],
+    "answer": "Dill",
+    "id": "food-drink-405"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Which northern Italian city is credited as the birthplace of tiramisu at restaurant Le Beccherie in 1969?",
+    "options": [
+      "Verona",
+      "Treviso",
+      "Parma",
+      "Bologna"
+    ],
+    "answer": "Treviso",
+    "id": "food-drink-406"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "What does the Italian name tiramisu literally translate to in English?",
+    "options": [
+      "Sweet dreams",
+      "Pick me up",
+      "Light as air",
+      "Coffee cloud"
+    ],
+    "answer": "Pick me up",
+    "id": "food-drink-407"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "By what alternate name has Baked Alaska historically appeared on menus, referencing its hot-and-cold contrast?",
+    "options": [
+      "Norwegian omelette",
+      "Swedish torch",
+      "Danish snowball",
+      "Icelandic flame"
+    ],
+    "answer": "Norwegian omelette",
+    "id": "food-drink-408"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "Which ingredient is essential to a classic macaroon but absent from a French macaron?",
+    "options": [
+      "Shredded coconut",
+      "Almond flour",
+      "Pistachio paste",
+      "Cocoa butter"
+    ],
+    "answer": "Shredded coconut",
+    "id": "food-drink-409"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Which earlier Austrian crescent-shaped pastry is considered the ancestor of the French croissant?",
+    "options": [
+      "Strudel",
+      "Kipferl",
+      "Kaiserschmarrn",
+      "Linzer"
+    ],
+    "answer": "Kipferl",
+    "id": "food-drink-410"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Authentic white chocolate must contain cocoa butter, but what cocoa component does it lack?",
+    "options": [
+      "Milk solids",
+      "Cocoa solids",
+      "Sugar",
+      "Vanilla"
+    ],
+    "answer": "Cocoa solids",
+    "id": "food-drink-411"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "Which cherry spirit traditionally soaks the chocolate sponge layers of a Black Forest gateau?",
+    "options": [
+      "Kirschwasser",
+      "Amaretto",
+      "Frangelico",
+      "Limoncello"
+    ],
+    "answer": "Kirschwasser",
+    "id": "food-drink-412"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "The Middle Eastern spice sumac, prized for its lemony tang, is made by grinding what part of the Rhus plant?",
+    "options": [
+      "Dried berries",
+      "Dried bark",
+      "Dried leaves",
+      "Dried roots"
+    ],
+    "answer": "Dried berries",
+    "id": "food-drink-413"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "Asafoetida, the pungent spice often used as a substitute for onion and garlic, is harvested as an oleo-gum-resin from which part of Ferula plants?",
+    "options": [
+      "Flower pollen",
+      "Taproot oleo-gum-resin",
+      "Seed coat",
+      "Leaf latex"
+    ],
+    "answer": "Taproot oleo-gum-resin",
+    "id": "food-drink-414"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Which pair of ingredients provides the characteristic savory-tangy depth in traditional Worcestershire sauce first made by Lea & Perrins?",
+    "options": [
+      "Capers and lemon",
+      "Anchovies and tamarind",
+      "Soybeans and mirin",
+      "Mustard and horseradish"
+    ],
+    "answer": "Anchovies and tamarind",
+    "id": "food-drink-415"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "Traditional balsamic vinegar protected in Modena and Reggio Emilia is made from a single ingredient – what is it?",
+    "options": [
+      "Fermented rice",
+      "Cooked grape must",
+      "Aged red wine",
+      "Malted barley"
+    ],
+    "answer": "Cooked grape must",
+    "id": "food-drink-416"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Black, white, and green peppercorns all come from the same vine species – what is its botanical name?",
+    "options": [
+      "Piper longum",
+      "Schinus molle",
+      "Piper nigrum",
+      "Zanthoxylum piperitum"
+    ],
+    "answer": "Piper nigrum",
+    "id": "food-drink-417"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What is the name of the Japanese paste made from yuzu peel, chili, and salt that seasons yakitori and ramen?",
+    "options": [
+      "Yuzu kosho",
+      "Shichimi togarashi",
+      "Ponzu",
+      "Karashi"
+    ],
+    "answer": "Yuzu kosho",
+    "id": "food-drink-418"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "Which nut is traditionally ground with basil, garlic, and Pecorino to make authentic pesto alla Genovese?",
+    "options": [
+      "Almond",
+      "Pine nut",
+      "Walnut",
+      "Cashew"
+    ],
+    "answer": "Pine nut",
+    "id": "food-drink-419"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What is the traditional Mexican soup pozole made from nixtamalized corn kernels known as?",
+    "options": [
+      "Hominy",
+      "Polenta",
+      "Grits",
+      "Mote"
+    ],
+    "answer": "Hominy",
+    "id": "food-drink-420"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "Which starchy ingredient is the base of Korean tteok rice cakes?",
+    "options": [
+      "Glutinous rice flour",
+      "Wheat flour",
+      "Mung bean starch",
+      "Buckwheat flour"
+    ],
+    "answer": "Glutinous rice flour",
+    "id": "food-drink-421"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Which thickening agent is NOT traditionally considered one of the three classic thickeners for Louisiana gumbo?",
+    "options": [
+      "Roux",
+      "Okra",
+      "Filé powder",
+      "Cornstarch"
+    ],
+    "answer": "Cornstarch",
+    "id": "food-drink-422"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What type of flour gives a Breton galette its grayish color and nutty flavor, distinguishing it from a wheat crêpe?",
+    "options": [
+      "Buckwheat flour",
+      "Rye flour",
+      "Chestnut flour",
+      "Chickpea flour"
+    ],
+    "answer": "Buckwheat flour",
+    "id": "food-drink-423"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "Thai som tam is a spicy salad traditionally made from shredded unripe what?",
+    "options": [
+      "Mango",
+      "Papaya",
+      "Cucumber",
+      "Carrot"
+    ],
+    "answer": "Papaya",
+    "id": "food-drink-424"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Which country popularized the fortune cookie as we know it today via Japanese immigrants in early 1900s California?",
+    "options": [
+      "China",
+      "United States",
+      "Japan",
+      "Korea"
+    ],
+    "answer": "United States",
+    "id": "food-drink-425"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "What compound in tonic water makes it glow under UV light and historically treated malaria?",
+    "options": [
+      "Caffeine",
+      "Quinine",
+      "Taurine",
+      "Theobromine"
+    ],
+    "answer": "Quinine",
+    "id": "food-drink-426"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "What is the traditional earthenware pot used to ferment kimchi in Korea called?",
+    "options": [
+      "Donabe",
+      "Onggi",
+      "Tagine",
+      "Römertopf"
+    ],
+    "answer": "Onggi",
+    "id": "food-drink-427"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Which smoked wood flavor is traditionally essential for drying malted barley for Scotch whisky production?",
+    "options": [
+      "Hickory",
+      "Mesquite",
+      "Peat smoke",
+      "Applewood"
+    ],
+    "answer": "Peat smoke",
+    "id": "food-drink-428"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Which condiment made from fermented mare's milk is a traditional drink of the Central Asian steppe?",
+    "options": [
+      "Kumis",
+      "Kefir",
+      "Doogh",
+      "Ayran"
+    ],
+    "answer": "Kumis",
+    "id": "food-drink-429"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "The Ethiopian honey wine traditionally served in a berele glass vessel is called what?",
+    "options": [
+      "Tej",
+      "Tella",
+      "Borde",
+      "Areki"
+    ],
+    "answer": "Tej",
+    "id": "food-drink-430"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "Which roasted vegetable is the primary base of Balkan ajvar spread?",
+    "options": [
+      "Eggplant",
+      "Red bell pepper",
+      "Zucchini",
+      "Beetroot"
+    ],
+    "answer": "Red bell pepper",
+    "id": "food-drink-431"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "In French cuisine, the caramelized brown bits stuck to a pan after searing meat are called what?",
+    "options": [
+      "Fond",
+      "Roux",
+      "Mirepoix",
+      "Brunoise"
+    ],
+    "answer": "Fond",
+    "id": "food-drink-432"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "What is the name of the Sardinian culurgione filling that blends potato, pecorino, and what aromatic herb?",
+    "options": [
+      "Basil",
+      "Mint",
+      "Rosemary",
+      "Sage"
+    ],
+    "answer": "Mint",
+    "id": "food-drink-433"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Which Japanese knife with a long single-bevel blade is traditionally used for slicing sashimi?",
+    "options": [
+      "Deba",
+      "Yanagiba",
+      "Santoku",
+      "Nakiri"
+    ],
+    "answer": "Yanagiba",
+    "id": "food-drink-434"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Icelandic rye bread rugbrauð is traditionally baked slowly using what natural heat source?",
+    "options": [
+      "Geothermal ground heat",
+      "Volcanic ash oven",
+      "Peat fire pit",
+      "Seawater steam"
+    ],
+    "answer": "Geothermal ground heat",
+    "id": "food-drink-435"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "Which chemical compound, found in wormwood, was historically blamed for absinthe's psychoactive reputation?",
+    "options": [
+      "Thujone",
+      "Anethole",
+      "Coumarin",
+      "Safrole"
+    ],
+    "answer": "Thujone",
+    "id": "food-drink-436"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What is the traditional thin pancake wrapper served with Peking duck called?",
+    "options": [
+      "Bao",
+      "Mandarin pancake",
+      "Lotus leaf",
+      "Scallion pancake"
+    ],
+    "answer": "Mandarin pancake",
+    "id": "food-drink-437"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "The Tunisian chili paste harissa gets its heat and color primarily from what?",
+    "options": [
+      "Sundried tomatoes",
+      "Smoked red chilies",
+      "Chipotle peppers",
+      "Paprika and cayenne"
+    ],
+    "answer": "Smoked red chilies",
+    "id": "food-drink-438"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "Which type of wheat flour, meaning double zero, is prized for Neapolitan pizza dough?",
+    "options": [
+      "Tipo 00",
+      "Semolina",
+      "Whole wheat",
+      "Tipo 1"
+    ],
+    "answer": "Tipo 00",
+    "id": "food-drink-439"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Which small pasta from Alsace is made from tiny dumplings toasted in butter and often served in soups?",
+    "options": [
+      "Spätzle",
+      "Fregola",
+      "Trofie",
+      "Cavatelli"
+    ],
+    "answer": "Spätzle",
+    "id": "food-drink-440"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "What is the primary protein in Hawaiian poke's classic preparation?",
+    "options": [
+      "Octopus",
+      "Raw ahi tuna",
+      "Cooked shrimp",
+      "Salmon roe"
+    ],
+    "answer": "Raw ahi tuna",
+    "id": "food-drink-441"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Which pungent British cheese, washed in perry made from a specific pear variety, shares its unusual name with that pear?",
+    "options": [
+      "Stinking Bishop",
+      "Stilton",
+      "Red Windsor",
+      "Lancashire"
+    ],
+    "answer": "Stinking Bishop",
+    "id": "food-drink-442"
+  },
+  {
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "Which French town's mustard is traditionally made with verjuice instead of vinegar?",
+    "options": [
+      "Dijon",
+      "Meaux",
+      "Bordeaux",
+      "Lyon"
+    ],
+    "answer": "Dijon",
+    "id": "food-drink-443"
+  },
+  {
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "The Filipino sour soup sinigang gets its characteristic tartness traditionally from which fruit?",
+    "options": [
+      "Calamansi",
+      "Tamarind",
+      "Green mango",
+      "Kamias"
+    ],
+    "answer": "Tamarind",
+    "id": "food-drink-444"
+  },
+  {
+    "difficulty": "hard",
+    "category": "food-drink",
+    "question": "Which Indonesian fermented soybean cake originates from Java and is bound together by Rhizopus mold?",
+    "options": [
+      "Natto",
+      "Tempeh",
+      "Oncom",
+      "Miso"
+    ],
+    "answer": "Tempeh",
+    "id": "food-drink-445"
   }
 ]

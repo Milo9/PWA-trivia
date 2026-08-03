@@ -82,6 +82,24 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Who betrays the crew for a steak dinner in "The Matrix" (Cypher)
 - What "Hakuna Matata" means (No worries/no worries) — asked both as a Lion King question and a Swahili-phrase question, same fact
 - First African American/Black actor to win an Academy Award (Hattie McDaniel, for "Gone with the Wind")
+- Original color of Dorothy's slippers in the "Wizard of Oz" book before the film changed them to ruby red (silver) — already asked from multiple angles
+- First animated feature nominated for Best Picture (Beauty and the Beast) — don't ask from either the "which film" or "which award category" direction
+- "It Happened One Night" as the first film to sweep the "Big Five" Oscars
+- Speed the DeLorean must reach for time travel in "Back to the Future" (88 mph)
+- Name of Tony Soprano's psychiatrist in "The Sopranos" (Dr. Jennifer Melfi) — don't ask from either the "who is she" or "what is her profession" direction
+- Full name of Rick Blaine's nightclub in "Casablanca" (Rick's Café Américain)
+- Actor with the most competitive Best Actor Oscar wins (Daniel Day-Lewis, three)
+- Actress/actor with the most competitive acting Oscar wins (Katharine Hepburn, four)
+- Name of the black hole in "Interstellar" (Gargantua)
+- Actress who played Ellen Ripley in the "Alien" franchise (Sigourney Weaver)
+- Name of Dorothy's dog in "The Wizard of Oz" (Toto)
+- Name of the newspaper where Peter Parker works in "Spider-Man" (Daily Bugle)
+- "Everything Everywhere All at Once" winning Best Picture at the 95th Academy Awards (2023)
+- Real first name of "The Wire"'s Stringer Bell (Russell) — don't ask from either the nickname-to-real-name or real-name-to-nickname direction
+- Name of the lawyer Atticus Finch played by Gregory Peck in "To Kill a Mockingbird" — don't ask from either the character-to-novel or novel/actor-to-character direction
+- Name of Thor's hammer, Mjolnir — already saturated across Norse-mythology framing; don't reintroduce via an MCU framing
+- Walter White's teaching subject before "Breaking Bad" (chemistry) — don't ask from either the "which show" or "what subject" direction
+- Which Pennsylvania city "The Office" (US)/Dunder Mifflin's Scranton branch is set in
 
 Also watch for a fact that's already given away as a premise inside an existing question's stem, even if the existing question's own answer is something else — e.g. an existing question about the horse's-head scene in "The Godfather" already names "Jack Woltz" in its own text, so a separate question asking "who is the executive who wakes up with the horse's head" is redundant even though the two questions test nominally different specific facts; likewise an existing "Back to the Future" question already names the town "Hill Valley" in its premise. If a fact is stated outright in another question's wording, don't draft a new question whose answer is that same stated fact.
 
