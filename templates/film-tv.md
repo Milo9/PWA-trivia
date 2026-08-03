@@ -69,6 +69,19 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Who is revealed as Laura Palmer's killer in "Twin Peaks" (Leland Palmer, possessed by BOB) / who created "The Simpsons" (Matt Groening) / who wrote the "A Song of Ice and Fire" novels (George R.R. Martin) / who created "The X-Files" (Chris Carter)
 - Name of Han Solo's ship (Millennium Falcon) / the continent in "Game of Thrones" (Westeros) / the sentient computer in "2001: A Space Odyssey" (HAL 9000) / the fictional band in "Almost Famous" (Stillwater)
 - Who co-created "Twin Peaks" alongside David Lynch (Mark Frost) — the existing corpus already asks the reverse ("which surrealist director co-created it alongside Mark Frost" → Lynch); don't draft either direction of this pairing again, it's a fully closed loop now
+- What "Rosebud" turns out to be in "Citizen Kane" (a sled/his childhood sled)
+- Who actually drew the charcoal nude sketch of Rose in "Titanic" (James Cameron, the director, not DiCaprio's character)
+- George's fake charity in "Seinfeld"'s "The Strike" (The Human Fund)
+- The primary setting city of HBO's "The Wire" (Baltimore)
+- Youngest person to win a competitive Academy Award, age 10 for "Paper Moon" (Tatum O'Neal)
+- Actor tied for most Oscar acting nominations without a win, 8 each (Peter O'Toole, tied with Glenn Close)
+- Cinematographer with three consecutive Best Cinematography Oscars for Gravity/Birdman/The Revenant (Emmanuel Lubezki)
+- Name of Dwight's beet farm/B&B in "The Office" US (Schrute Farms)
+- Name of Morpheus's hovercraft in "The Matrix" (Nebuchadnezzar)
+- The Dude's preferred cocktail in "The Big Lebowski" (White Russian)
+- Who betrays the crew for a steak dinner in "The Matrix" (Cypher)
+- What "Hakuna Matata" means (No worries/no worries) — asked both as a Lion King question and a Swahili-phrase question, same fact
+- First African American/Black actor to win an Academy Award (Hattie McDaniel, for "Gone with the Wind")
 
 Also watch for a fact that's already given away as a premise inside an existing question's stem, even if the existing question's own answer is something else — e.g. an existing question about the horse's-head scene in "The Godfather" already names "Jack Woltz" in its own text, so a separate question asking "who is the executive who wakes up with the horse's head" is redundant even though the two questions test nominally different specific facts; likewise an existing "Back to the Future" question already names the town "Hill Valley" in its premise. If a fact is stated outright in another question's wording, don't draft a new question whose answer is that same stated fact.
 
