@@ -20,6 +20,22 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - The Mexican piñata (decorated container filled with candy, broken at celebrations)
 - Welsh "ll" representing a voiceless lateral fricative sound
 - The yukata as a casual/light cotton summer garment (vs. a formal kimono)
+- Basque being a language isolate with no known living relatives
+- Quechua as an official language of Peru and Bolivia
+- The genkan, the lowered entryway in a Japanese home where shoes are removed
+- Sticking chopsticks upright in rice being taboo (resembles funeral incense)
+- Setsubun's roasted soybeans thrown to drive out evil spirits
+- El Colacho, the Spanish baby-jumping ritual in Castrillo de Murcia
+- Inti Raymi (Inca Festival of the Sun) held in Cusco, Peru on June 24
+- Hanami, the Japanese custom of viewing cherry blossoms
+- La Tomatina being held in the Spanish town of Buñol
+- The Wife Carrying World Championships in Sonkajärvi, Finland (prize: the wife's weight in beer)
+- The Maasai adumu jumping dance being performed by young male warriors (morani)
+- Inuit katajjaq throat singing as a face-to-face duet contest between two women
+- French "la bise" cheek-kissing, and that the number of kisses varies by region
+- The Māori hongi greeting (pressing noses/foreheads together)
+- Swedish fika (coffee-and-pastry social break)
+- The Turkish Nazar Boncuğu blue glass bead warding off the evil eye
 
 Use web search to verify every fact — do not rely on memory alone. Prefer authoritative sources (encyclopedic sources, cultural references) over guessing. For each question, actually find the fact via search rather than recalling it, especially for obscure details (lesser-known customs, specific terms).
 
