@@ -62,6 +62,38 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Pistol shrimp's cavitation bubble reaching temperatures comparable to the surface of the sun
 - Kiwi laying the largest egg relative to its body size of any bird
 - Male platypus's venomous spurs on its hind legs
+- Giraffe having the same number of neck/cervical vertebrae as humans (seven) — already asked twice, with and without the human comparison
+- Polar bear fur being transparent/hollow over black skin
+- Cheetah being unable to roar (already asked twice, once compared to snow leopard)
+- Tiger stripes being visible on the skin itself, not just the fur
+- Bats being the only mammal capable of true/sustained/powered flight
+- Kangaroo rat never needing to drink liquid water
+- Beaver incisors being orange due to iron in the enamel
+- Tasmanian devil's bite force being the strongest relative to body size among living mammals
+- Snow leopard's long tail wrapping around itself for warmth/balance
+- Cassowary as the world's most dangerous bird, via its dagger-like inner claw
+- New Caledonian crows' tool-making/tool use ability
+- Flamingos turning pink from carotenoids in their diet (algae/crustaceans)
+- Snakes using the Jacobson's (vomeronasal) organ, sampled via tongue-flicking, to detect scent
+- Geckos adhering to surfaces via Van der Waals forces from toe setae
+- Parrotfish secreting a mucus cocoon/sleeping bag at night
+- Flying fish gliding distance (up to ~200m/650ft)
+- Mudskippers breathing through skin and mouth/throat lining out of water
+- Coelacanth's rediscovery year (1938) after presumed extinction
+- Manta ray having the largest brain-to-body ratio of any fish
+- Leafcutter ants farming fungus rather than eating the leaves directly
+- Dung beetles navigating by the Milky Way
+- Butterflies' taste receptors being located on their feet
+- Monarch butterfly migration distance (~3,000 miles, Canada/US to Mexico)
+- Earthworms having five pairs of aortic arches ("hearts")
+- Leeches having 32 segmental ganglia, often called "brains"
+- Snail radula being covered in thousands of microscopic teeth
+- Sea cucumbers expelling internal organs as a defense mechanism
+- The "Wood Wide Web" nickname for the underground fungal network connecting trees
+- Welwitschia mirabilis growing only two leaves over its entire lifetime
+- Bullhorn acacia trees hosting ants that defend the tree in a mutualism
+- Giraffe tongue length (~45-50cm/18-20in) — already stated as a premise in the existing tongue-color question, so don't ask it as a standalone answer
+- Arctic fox coat changing color with the seasons — summer color (brownish-gray) is already an existing answer
 
 Two facts that are premises already stated inside an existing question's stem, so drafting them as a separate standalone question is redundant even though the wording/answer differs: Rafflesia arnoldii being the world's largest individual flower (already stated as a premise in the existing "corpse flower" question), and a baobab's swollen trunk being for water storage (already implied by the existing "how many liters" question).
 
