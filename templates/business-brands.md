@@ -153,6 +153,15 @@ AVOID THESE ANGLES (facts already asked, in some cases more than once — don't 
 - Second Life (Linden Lab, 2003)
 - 3M's original name, Minnesota Mining and Manufacturing Company (1902)
 - Honda's ASIMO robot (2000)
+- Harley-Davidson's 1990s cologne flop ("Hot Road," "Legend")
+- Cosmopolitan magazine's 1999 low-fat yogurt line
+- Microsoft Bob (1995, cartoon dog Rover, virtual-house interface)
+- The Apple Lisa (1983, ~$10,000, first commercial GUI computer, flopped)
+- Dunkin' Donuts' original 1948 name, "Open Kettle" (founder William Rosenberg)
+- Cisco Systems' logo's vertical blue lines representing the Golden Gate Bridge
+- Trader Joe's founder Joe Coulombe's prior convenience-store chain, "Pronto Markets" (renamed 1967)
+- Toyota's pre-automotive business manufacturing automatic looms
+- Marriott's 1927 origin as an A&W Root Beer stand (J. Willard Marriott, Washington D.C.)
 
 CAUTION — verify precise founding names/dates via web search rather than memory for corporate-history "original name" questions: a 2026-08-01 batch had to cut a Canon question that conflated its 1933 lab name ("Precision Optical Instruments Laboratory") with its differently-named 1937 incorporation, and had to fix an MSN Direct question that said the service "shut down in 2008" when only the SPOT watches were discontinued that year — the underlying data service actually ran until 2011/2012. Also watch for the same fact tested in both directions within one batch (e.g. "which company made Surge" and "what was Coca-Cola's anti-Mountain- Dew soda called" are the same fact, not two) and for a specific product name applied anachronistically to an earlier event (e.g. calling 1873's riveted jeans "Levi's 501" — the 501 lot number wasn't used until ~1890).
 
