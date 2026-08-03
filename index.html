@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
   <title>Offline Trivia</title>
-  <meta name="theme-color" content="#12131a" />
+  <meta name="theme-color" content="#0a0714" />
   <link rel="manifest" href="manifest.webmanifest" />
   <link rel="apple-touch-icon" href="icons/icon-180.png" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -13,11 +13,16 @@
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
+  <div class="arcade-bg" aria-hidden="true">
+    <span class="bg-blob blob-1"></span>
+    <span class="bg-blob blob-2"></span>
+    <span class="bg-blob blob-3"></span>
+  </div>
   <main id="app">
 
     <section id="screen-categories" class="screen">
       <header class="app-header">
-        <h1>Offline Trivia</h1>
+        <h1><span class="logo-icon" aria-hidden="true">🎮</span>Offline Trivia</h1>
         <p class="subtitle">Pick one or more categories to start a round</p>
       </header>
       <div id="category-list" class="category-list" aria-live="polite"></div>
@@ -72,6 +77,7 @@
     <section id="screen-results" class="screen hidden">
       <header class="app-header">
         <h1 id="results-score"></h1>
+        <div id="results-stars" class="results-stars" aria-hidden="true"></div>
         <p id="results-subtitle" class="subtitle"></p>
       </header>
       <div class="results-actions">

@@ -5,6 +5,30 @@ const DIFFICULTY_OPTIONS = [
   { id: "medium", label: "Medium" },
   { id: "hard", label: "Hard" },
 ];
+const OPTION_LETTERS = ["A", "B", "C", "D", "E", "F"];
+const CATEGORY_ICONS = {
+  friends: "☕",
+  "big-bang-theory": "🤓",
+  history: "🏛️",
+  geography: "🌍",
+  "science-technology": "🧪",
+  "animals-nature": "🦁",
+  "space-astronomy": "🚀",
+  "arts-literature": "🎨",
+  "film-tv": "🎬",
+  music: "🎵",
+  sports: "🏆",
+  "food-drink": "🍔",
+  "mythology-religion": "⚡",
+  "world-cultures": "🗺️",
+  general: "🧠",
+  "business-brands": "💼",
+};
+const DEFAULT_CATEGORY_ICON = "🎯";
+
+function categoryIcon(id) {
+  return CATEGORY_ICONS[id] || DEFAULT_CATEGORY_ICON;
+}
 
 const state = {
   categories: [],
@@ -52,6 +76,7 @@ const el = {
   nextBtn: document.getElementById("next-btn"),
 
   resultsScore: document.getElementById("results-score"),
+  resultsStars: document.getElementById("results-stars"),
   resultsSubtitle: document.getElementById("results-subtitle"),
   resultsStats: document.getElementById("results-stats"),
   resultsCategoryBreakdown: document.getElementById("results-category-breakdown"),
@@ -127,6 +152,7 @@ function renderCategoryList() {
     btn.disabled = cat.questions.length === 0;
     btn.innerHTML = `
       <span class="category-check" aria-hidden="true"></span>
+      <span class="category-icon" aria-hidden="true">${categoryIcon(cat.id)}</span>
       <span class="category-info">
         <span class="category-name">${cat.name}</span>
       </span>
@@ -429,35 +455,40 @@ function startRound(categories) {
 function renderQuestion() {
   const q = state.roundQuestions[state.currentIndex];
   const cat = state.categoryById[q.category];
-  el.questionCategory.textContent = cat ? cat.name : q.category;
+  el.questionCategory.textContent = `${categoryIcon(q.category)} ${cat ? cat.name : q.category}`;
   el.questionText.textContent = q.question;
   el.questionCounter.textContent = `${state.currentIndex + 1}/${state.roundQuestions.length}`;
   el.progressFill.style.width = `${(state.currentIndex / state.roundQuestions.length) * 100}%`;
   el.nextBtn.classList.add("hidden");
 
   el.optionsList.innerHTML = "";
-  for (const opt of q.shuffledOptions) {
+  q.shuffledOptions.forEach((opt, i) => {
     const btn = document.createElement("button");
     btn.className = "option-btn";
-    btn.textContent = opt;
+    btn.dataset.option = opt;
+
+    const badge = document.createElement("span");
+    badge.className = "option-badge";
+    badge.setAttribute("aria-hidden", "true");
+    badge.textContent = OPTION_LETTERS[i] || "";
+
+    const label = document.createElement("span");
+    label.className = "option-label";
+    label.textContent = opt;
+
+    btn.appendChild(badge);
+    btn.appendChild(label);
     btn.addEventListener("click", () => selectAnswer(opt));
     el.optionsList.appendChild(btn);
-  }
+  });
 }
 
-function addAnswerIcon(btn, symbol) {
+function markOptionResult(btn, symbol) {
   // Color alone isn't enough (colorblind-friendly) — pair it with a symbol.
-  const label = document.createElement("span");
-  label.className = "option-label";
-  label.textContent = btn.textContent;
-
   const icon = document.createElement("span");
   icon.className = "option-icon";
   icon.setAttribute("aria-hidden", "true");
   icon.textContent = symbol;
-
-  btn.textContent = "";
-  btn.appendChild(label);
   btn.appendChild(icon);
 }
 
@@ -477,12 +508,12 @@ function selectAnswer(selected) {
 
   for (const btn of el.optionsList.children) {
     btn.disabled = true;
-    if (btn.textContent === q.answer) {
+    if (btn.dataset.option === q.answer) {
       btn.classList.add("correct");
-      addAnswerIcon(btn, "✓");
-    } else if (btn.textContent === selected) {
+      markOptionResult(btn, "✓");
+    } else if (btn.dataset.option === selected) {
       btn.classList.add("incorrect");
-      addAnswerIcon(btn, "✗");
+      markOptionResult(btn, "✗");
     }
   }
 
@@ -538,12 +569,28 @@ function renderResultsCategoryBreakdown(answers) {
   el.resultsCategoryBreakdown.classList.remove("hidden");
 }
 
+function starRating(score, total) {
+  const pct = total > 0 ? (score / total) * 100 : 0;
+  if (pct >= 90) return 3;
+  if (pct >= 70) return 2;
+  if (pct >= 50) return 1;
+  return 0;
+}
+
+function renderResultsStars(score, total) {
+  const lit = starRating(score, total);
+  el.resultsStars.innerHTML = [1, 2, 3]
+    .map((i) => `<span class="star${i <= lit ? " lit" : ""}">★</span>`)
+    .join("");
+}
+
 function showResults() {
   const total = state.roundQuestions.length;
   const priorStats = loadStats();
   const updatedStats = recordGameResult(state.score, total, state.answers);
 
   el.resultsScore.textContent = `${state.score}/${total}`;
+  renderResultsStars(state.score, total);
   el.resultsSubtitle.textContent = subtitleFor(state.score, total);
   renderResultsStats(state.score, total, priorStats, updatedStats);
   renderResultsCategoryBreakdown(state.answers);
