@@ -96,6 +96,11 @@ AVOID THESE ANGLES (facts already asked, in some cases more than once — don't 
 - TikTok's 2018 US merger with Musical.ly (either direction: "what was TikTok originally called" or "what app did TikTok merge with")
 - The original retail price of the Apple I computer at launch in 1976 ($666.66)
 - Coca-Cola's founding by pharmacist John Pemberton (1886)
+- Sony's original 1946 name, Tokyo Tsushin Kogyo
+- Adidas and Puma founders Adi and Rudolf Dassler being brothers (the Dassler Brothers Shoe Factory split)
+- Instagram's original check-in app name, Burbn
+- Slack's origin as an internal tool built from the cancelled game Glitch (either angle: the game's name or the company/founders behind it)
+- Virgin's name origin — Richard Branson and partners considering themselves business "virgins" (asked about Virgin Records specifically, but the same fact applies to the wider Virgin brand)
 - The PalmPilot (1996) and Palm's later webOS (2009)
 - Taco Bell's talking Chihuahua ad campaign
 - Diamond Multimedia's Rio PMP300 (1998) and the resulting digital-music legal battle
