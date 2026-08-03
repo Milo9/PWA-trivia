@@ -117,6 +117,21 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Huygens probe as the first to land on Titan (2005)
 - Ingenuity as the helicopter that flew on Mars (either direction: naming the helicopter or naming the planet)
 - OSIRIS-REx and asteroid Bennu (sample collection in 2020 vs. sample return in 2023 — same underlying fact, don't redraft either date)
+- Mars 3 as the first spacecraft to soft-land on Mars in 1971 (transmitted for only ~14 seconds before failing)
+- Luna 2 as the first human-made object to reach the Moon's surface (1959)
+- Buzz Aldrin as the second person to walk on the Moon
+- Eugene Cernan as the last person to walk on the Moon (Apollo 17)
+- The specific optical flaw (spherical aberration) discovered in the Hubble Space Telescope's mirror after its 1990 launch
+- Comet Shoemaker-Levy 9 colliding with Jupiter in 1994
+- Alan Shepard as the first American in space (May 5, 1961)
+- Polaris/the North Star belonging to Ursa Minor — already asked both directions (naming Polaris and asking the constellation, or describing "Little Bear/contains the North Star" and asking the constellation)
+- TRAPPIST-1 as the ultra-cool red dwarf system with seven roughly Earth-sized exoplanets, discovered 2017
+- Chang'e 4 as the first mission to land on the Moon's far side (2019)
+- Chandrayaan-3 as the first mission to land near the Moon's south pole (August 2023)
+- The Local Void (the sparse region of space adjacent to/containing the Milky Way)
+- The Hercules-Corona Borealis Great Wall as the largest known structure in the observable universe
+- A singularity as the theoretical point of infinite density (whether framed as a black hole's center or the Big Bang's origin — treat both framings as covered)
+- The Planck mission (ESA, 2009-2013) mapping the cosmic microwave background
 
 CAUTION — Rigel is Orion's *left* foot, not right (Betelgeuse is the right shoulder, Bellatrix the left shoulder, Saiph the right foot) — commonly flipped.
 
