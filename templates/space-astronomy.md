@@ -68,6 +68,30 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Iapetus's two-tone coloration (one hemisphere dark, one bright)
 - Hyperion's sponge-like, chaotic/tumbling rotation
 - Haumea's elongated, football-like shape from rapid rotation
+- Voyager 2 as the only spacecraft to fly past Uranus (also the only one to visit Neptune, as part of its "Grand Tour")
+- Rosetta orbiting comet 67P/Churyumov-Gerasimenko (the first comet ever orbited by a spacecraft)
+- Philae as the first lander to touch down on a comet (deployed by Rosetta)
+- Galileo as the first spacecraft to orbit Jupiter (1995) — distinct from Galileo's 2003 deliberate plunge into Jupiter's atmosphere to protect Europa from contamination, which is a different, still-open fact
+- Antares as the red supergiant/brightest star in the constellation Scorpius
+- Penzias and Wilson's 1965 accidental discovery of the Cosmic Microwave Background radiation
+- The Laniakea Supercluster containing the Milky Way
+- The Event Horizon Telescope's 2019 black hole image being of the galaxy Messier 87
+- The Cassini Division, the gap separating Saturn's A and B rings
+- Callisto as Jupiter's outermost, most heavily cratered Galilean moon
+- Perihelion as the point in an orbit closest to the Sun
+- Roche limit (the distance within which tidal forces disintegrate a body held together only by gravity)
+- Jocelyn Bell Burnell's 1967 discovery of the first radio pulsar
+- Cassini's 2017 mission-ending plunge into Saturn
+- Vera Rubin's galaxy rotation curve observations as evidence for dark matter
+- The first gravitational waves (GW150914, 2015) resulting from a black hole merger
+- Stephenson 2-18 as the largest known star by radius
+- White dwarf as the dense remnant core left after a medium-mass star sheds its outer layers
+- Apollo 8 as the first crewed mission to orbit the Moon (1968)
+- MESSENGER as the first spacecraft to orbit Mercury (2011)
+- The Sun's ~11-year sunspot/activity cycle
+- Kepler space telescope's exoplanet-hunting mission via the transit method
+- Fred Hoyle coining "Big Bang" in a 1949 BBC radio broadcast
+- The Kuiper Belt as the region beyond Neptune containing Pluto, Eris, and other icy bodies
 - Type Ia supernova mechanism (white dwarf in a binary exceeds the Chandrasekhar limit)
 - Redshift as the definition of light stretching to longer wavelengths from a receding object
 - Hawking radiation (black holes emitting thermal radiation, proposed 1974)

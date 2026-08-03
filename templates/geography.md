@@ -73,6 +73,21 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Highest point/mountain in Europe (Mount Elbrus) — already asked both as "highest point" and "highest mountain," treat as the same fact
 - Africa's largest lake by surface area (Lake Victoria)
 - Madagascar as the largest island in/near Africa or in the Indian Ocean — already asked with both framings; treat as the same fact and don't draft a third angle on it
+- Capital cities of Rwanda, Oman, Honduras, Senegal, Nepal, and Armenia (Kigali, Muscat, Tegucigalpa, Dakar, Kathmandu, Yerevan) — already covered; keep favoring less-common countries' capitals
+- Which country the Taklamakan Desert is in (China)
+- Which three countries share the Kalahari Desert (Botswana, Namibia, South Africa) — already asked with each of the three as the "blank" country in turn, so treat any framing of this fact as covered
+- Which country the Atacama Desert is primarily in (Chile)
+- Which two countries share Lake Titicaca (Peru and Bolivia) — already asked with either as the "other" country
+- Which city/capital the Seine flows through (Paris) — already asked in both directions
+- What body of water the Strait of Hormuz connects the Persian Gulf to (Gulf of Oman) — already stated as a premise in an existing question about the strait's name
+- Which two countries share the island of Hispaniola (Haiti and Dominican Republic) — already asked with either as the "other" country
+- Which country, alongside Indonesia and Malaysia, shares the island of Borneo (Brunei)
+- Which country the Wakhan Corridor belongs to (Afghanistan)
+- Poland's official currency (Złoty)
+- Which country is home to Petra (Jordan)
+- Which country Machu Picchu is located in (Peru)
+- Which country Angkor Wat is located in (Cambodia)
+- Which modern country the ancient city of Carthage was located in (Tunisia) — this fact is also already asked from the history category, so it's cross-category saturated
 
 Also watch for a flag-shape trap: a drafted question claimed Vatican City is "the only country other than Nepal" with a non-rectangular flag, and a companion question claimed Nepal is "one of only two" non-rectangular flags — both wrong. Switzerland's flag is also square (non-oblong), so there are three unusual flags (Nepal, Switzerland, Vatican City), not two, and which ones count as "non-rectangular" depends on a contested definition (a square is technically still a rectangle). Cut rather than draft this angle unless you can phrase it without an "only X" claim.
 

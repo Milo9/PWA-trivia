@@ -97,6 +97,20 @@ AVOID THESE ANGLES (facts already asked, in some cases more than once — don't 
 - Vans, founded 1966 by Paul Van Doren
 - Colgate's failed 1980s "Kitchen Entrees" frozen foods
 - Joe Camel, RJR's 1988 mascot for Camel cigarettes
+- Snickers being named after the Mars family's favorite horse
+- Twix's original 1967 UK name, "Raider"
+- Chupa Chups' daisy logo, designed by Salvador Dalí in 1969
+- Costco's original 1976 name, Price Club
+- Walmart's first store (1962, Sam Walton, Arkansas)
+- CVS's acronym standing for "Consumer Value Stores"
+- Victoria's Secret founder Roy Raymond's motivation (embarrassed buying lingerie for his wife)
+- Gap's name referencing "the generation gap"
+- Volvo's name translating to "I roll" in Latin
+- Mazda founder Jujiro Matsuda's name (whether asked directly or via the "Toyo Cork Kogyo" original company name)
+- Lamborghini originally manufacturing tractors before Ferruccio Lamborghini founded the sports car brand
+- Ferrari's Prancing Horse logo originating from WWI pilot Francesco Baracca's plane emblem
+- Google's original internal nickname/project name, BackRub
+- Spotify's co-founders, Daniel Ek and Martin Lorentzon
 - Wendy's founding by Dave Thomas (named after his daughter) and its 1984 "Where's the beef?" slogan
 - McDonald's majority stake in Chipotle (1998-2006)
 - Microsoft's founding by Bill Gates and Paul Allen (1975)

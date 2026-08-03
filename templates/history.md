@@ -17,7 +17,6 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Which country gifted the Statue of Liberty to the US (France)
 - First woman to fly solo across the Atlantic (Amelia Earhart)
 - Name of the first artificial Earth satellite (Sputnik 1)
-- Which Chinese dynasty built most of the Great Wall as it stands today (Ming)
 - First Holy Roman Emperor, crowned 800 AD (Charlemagne)
 - What conflict the 1648 Peace/Treaty of Westphalia ended (Thirty Years' War)
 - Who led the Haitian Revolution against French colonial rule (Toussaint Louverture)
@@ -25,7 +24,6 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - What modern country the ancient city of Carthage is located in (Tunisia)
 - Which philosopher, a student of Plato, tutored Alexander the Great (Aristotle)
 - Explorer who led the first circumnavigation of the globe but died in the Philippines partway through (Ferdinand Magellan) — already asked 4+ times in the corpus under near-identical phrasing; don't add another
-- Which Seven Wonders of the Ancient World structure was a lighthouse in Alexandria, Egypt (Lighthouse of Alexandria / Pharos)
 - What modern country the ancient rock-cut city of Petra is located in (Jordan)
 - Which Chinese emperor the Terracotta Army was built to guard (Qin Shi Huang)
 - Female 18th-dynasty Egyptian pharaoh who wore a false beard and took full royal powers (Hatshepsut)
@@ -53,6 +51,43 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Last Tsar of Russia, executed 1918 (Nicholas II)
 - First woman in space / first female cosmonaut (Valentina Tereshkova, Vostok 6, 1963)
 - First person to walk on the Moon (Neil Armstrong) — already asked 3+ times in the corpus
+- Spanish Armada defeat year (1588); King John signing the Magna Carta (1215, whether asked as king or year)
+- Aztec Empire capital (Tenochtitlan); Aztec emperor ruling when Cortés arrived (Moctezuma II); Hernán Cortés leading the conquest/fall of the Aztec Empire (any framing)
+- Michelangelo painting the Sistine Chapel ceiling
+- Fall of Constantinople in 1453 — whether asked as which city fell or which Ottoman sultan conquered it (Mehmed II)
+- Romanov dynasty ruling Russia 1613–1917 (any framing)
+- Meiji Restoration restoring imperial rule to Japan, including its year (1868)
+- RMS Titanic sinking year (1912); Spanish Civil War start year (1936); Chernobyl disaster year (1986); Apollo 11 Moon landing year (1969); Cuban Missile Crisis year (1962); Rwandan genocide year (1994)
+- First artificial satellite launched by the US (Explorer 1)
+- Lincoln issuing the Emancipation Proclamation, including its year (1863)
+- Ship Charles Darwin sailed on (HMS Beagle)
+- Achaemenid Empire founded by Cyrus the Great (either direction: founder-to-empire or empire-to-founder)
+- First Tsar of All Russia, Ivan IV, crowned 1547
+- Last Ptolemaic pharaoh of Egypt (Cleopatra VII)
+- Babur founding the Mughal Empire after the Battle of Panipat (1526)
+- Theodosius I making Christianity the Roman Empire's official state religion via the Edict of Thessalonica (380 AD)
+- Simón Bolívar's generic role in South American independence
+- Gamal Abdel Nasser and the 1956 Suez Crisis/Canal nationalization (any framing, including the year)
+- First Opium War start year (1839) and the Treaty of Nanjing/Nanking that ended it (1842) — don't ask either the year or the treaty name given the other
+- Fall of the Western Roman Empire, traditionally dated 476 AD
+- First Crusade launched by Pope Urban II at the Council of Clermont (1095) — don't ask either the pope or the year given the other
+- Spanish-American War year (1898); Treaty of Tordesillas year (1494)
+- Louisiana Purchase from France (1803) — whether asked for the year, the country, or the president
+- Boston Tea Party as a protest against British taxation, including its year (1773)
+- Treaty of Paris (1783) ending the American Revolutionary War
+- Berlin Airlift (1948–49 operation flying supplies into blockaded West Berlin) — don't ask either the operation name or the year given the other
+- Henry VIII's six wives
+- Thomas Jefferson as principal author of the Declaration of Independence
+- Zimbabwe's former name, Rhodesia
+- Indira Gandhi as India's first female Prime Minister
+- The Silk Road as the trade network connecting China to the Mediterranean
+- 14th-century peak of the Black Death in Europe
+- Mao Zedong's 1949 victory in the Chinese Civil War / founding of the PRC
+- Sirimavo Bandaranaike as the world's first female head of government (Sri Lanka, 1960)
+- Hong Xiuquan leading the Taiping Rebellion
+- Hiram Bingham bringing Machu Picchu to international attention (1911)
+- Neville Chamberlain's appeasement policy / the Munich Agreement (1938)
+- Kublai Khan founding the Yuan Dynasty after conquering the Song Dynasty
 
 CAUTION — "first US President born in a log cabin" is commonly misattributed to Lincoln; Andrew Jackson was actually first (Jackson born 1767, decades before Lincoln). "The only US President to serve non-consecutive terms" (Grover Cleveland) stopped being true in 2025 when Donald Trump became the second — phrase any similar claim as "first," not "only," or pin it to a date.
 
