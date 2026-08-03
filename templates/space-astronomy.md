@@ -71,6 +71,28 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Type Ia supernova mechanism (white dwarf in a binary exceeds the Chandrasekhar limit)
 - Redshift as the definition of light stretching to longer wavelengths from a receding object
 - Hawking radiation (black holes emitting thermal radiation, proposed 1974)
+- Olympus Mons as the tallest/largest volcano in the solar system (on Mars)
+- Valles Marineris as Mars's vast canyon system
+- Phobos slowly spiraling inward toward Mars
+- Verona Rupes, the tallest known cliff in the solar system, on Uranus's moon Miranda
+- Sirius as the brightest star in the night sky
+- Polaris as the current North Star
+- Betelgeuse as the red supergiant marking Orion's shoulder
+- Sagittarius A* as the Milky Way's central supermassive black hole
+- Age of the universe (~13.8 billion years)
+- The Oort Cloud (source of long-period comets)
+- Parker Solar Probe as the first spacecraft to fly through the Sun's corona (2018/2021)
+- The Kármán line (100 km) as the boundary of space
+- Main sequence as the stellar life phase of core hydrogen fusion
+- The Crab Nebula supernova observed in 1054 AD
+- DART mission and Dimorphos (asteroid moon it deflected in 2022)
+- ʻOumuamua as the first confirmed interstellar object (2017)
+- Halley's Comet's ~76-year orbital period
+- Pluto's 2006 reclassification as a dwarf planet
+- JWST orbiting at the Sun-Earth L2 Lagrange point
+- Huygens probe as the first to land on Titan (2005)
+- Ingenuity as the helicopter that flew on Mars (either direction: naming the helicopter or naming the planet)
+- OSIRIS-REx and asteroid Bennu (sample collection in 2020 vs. sample return in 2023 — same underlying fact, don't redraft either date)
 
 CAUTION — Rigel is Orion's *left* foot, not right (Betelgeuse is the right shoulder, Bellatrix the left shoulder, Saiph the right foot) — commonly flipped.
 
