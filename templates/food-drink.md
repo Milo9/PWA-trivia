@@ -78,6 +78,32 @@ AVOID THESE ANGLES (facts already asked, in some cases more than once — don't 
 - Sous vide as vacuum-sealed, temperature-controlled water bath cooking
 - Ajo blanco as a chilled Spanish almond-garlic-bread soup predating gazpacho
 - Halloumi's high melting point letting it be grilled/fried — already asked in both directions
+- Which Austrian pastry the French croissant descends from (Kipferl)
+- What Italian Christmas bread Dresden's Stollen equivalent is / naming Stollen from a "Dresden Christmas fruit bread" clue
+- What cheese makes up tiramisu's creamy layer (mascarpone)
+- What animal's milk authentic mozzarella di bufala is made from (water buffalo)
+- What liquid nasi lemak rice is cooked in (coconut milk)
+- Which Japanese noodle is made from buckwheat flour (soba)
+- Naming tom yum from a "sour spicy Thai soup with shrimp/lemongrass" clue
+- What fruit gives sinigang its sourness (tamarind) — already asked in both directions
+- Naming Jollof rice from a "West African rivalry / Jollof Wars" clue
+- Main ingredient of baba ghanoush (eggplant/roasted vegetable)
+- Naming biltong from a "South African jerky-like cured meat" clue
+- Naming tagine from a "Moroccan stew named after its conical pot" clue
+- Naming berbere from its distinctive spice-blend ingredients
+- Main ingredient of tabbouleh (parsley)
+- What root vegetable gives borscht its red color (beet)
+- Naming quiche Lorraine's namesake region, or Madeira wine's namesake island, or Pisco Sour's base spirit — all self-leaking since the dish/drink name already contains the answer word; don't draft these framings, ask something else about the item instead
+- What beer style uses wild Brettanomyces/spontaneous fermentation in open coolships (lambic)
+- What compound makes chili peppers hot (capsaicin) — already asked from the "deters mammals, not birds" angle
+- What nut, besides basil and olive oil, goes into pesto (pine nuts)
+- The French term for cooking food slow and low sealed in its own fat (confit)
+- Naming hollandaise from an "egg yolk, lemon, clarified butter" description
+- What cheese is fried in Greek saganaki (kefalotyri)
+- Naming doenjang from a "Korean fermented soybean paste" description
+- Main/centerpiece vegetable of ratatouille (eggplant)
+- What spice gives paella its yellow color (saffron) — already asked in both directions
+- What spirit is the base of a Mojito (rum)
 
 Avoid drafting a question whose dish name already contains the answer (e.g. asking what tuber "pounded yam" is pounded from, when the answer is literally "yam"; or what grain "farro salad" is made from, when the answer is "farro") — these are self-answering and get cut regardless of whether the underlying fact is otherwise fresh.
 
