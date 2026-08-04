@@ -88,6 +88,44 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Hiram Bingham bringing Machu Picchu to international attention (1911)
 - Neville Chamberlain's appeasement policy / the Munich Agreement (1938)
 - Kublai Khan founding the Yuan Dynasty after conquering the Song Dynasty
+- Year of the Battle of Hastings / William the Conqueror's Norman Conquest of England (1066, either framing)
+- Congress of Vienna (1814–15) reorganizing Europe after Napoleon's defeat
+- Charles Martel defeating the Umayyads at the Battle of Tours (732)
+- Roald Amundsen leading the first expedition to reach the South Pole (December 1911)
+- Niccolò Machiavelli writing The Prince (c. 1513)
+- Alexander Fleming discovering penicillin (1928)
+- Egypt and Syria's surprise Yom Kippur War attack on Israel (October 1973)
+- Battle of Adwa, Ethiopia's 1896 victory over Italy
+- Medici family ruling Florence during the Renaissance (either direction: family-to-city or city-to-family)
+- Sejong the Great creating the Hangul alphabet (1443)
+- Panama Canal officially opening to traffic (1914)
+- Cuauhtémoc as the last Aztec emperor, captured and executed by the Spanish (distinct from Moctezuma II)
+- Louis XIV as the "Sun King"
+- Australia's Great Emu War year (1932)
+- Goryeo-dynasty Korea's distinctive celadon pottery — don't name "Goryeo" in the question stem, it leaks the answer
+- Nicolaus Copernicus's De Revolutionibus proposing the heliocentric model (1543)
+- Council of Trent (1545–63) and the Catholic Counter-Reformation
+- Mansa Musa's 1324 pilgrimage to Mecca
+- Heinrich Schliemann using Homer's Iliad to locate and excavate Troy (1870s)
+- Johannes Kepler's three laws of planetary motion
+- James Cook claiming/mapping Australia's east coast (1770)
+- Joan of Arc burned at the stake in Rouen (1431)
+- Charles I's execution (January 1649)
+- Shah Jahan commissioning the Taj Mahal
+- Tim Berners-Lee inventing the World Wide Web at CERN (1989)
+- Wilhelm Röntgen discovering X-rays (1895)
+- Suleiman the Magnificent and the Ottoman Empire's 16th-century peak
+- Ashoka's conversion to Buddhism after the Kalinga War
+- Mohammad Reza Pahlavi, the last Shah of Iran, overthrown in the 1979 revolution
+- Jamestown as the first permanent English settlement in the Americas (1607)
+- Ignatius of Loyola founding the Jesuit order/Society of Jesus (1540)
+- Geoffrey Chaucer writing The Canterbury Tales
+- Hadrian's Wall built by the Romans across northern Britain
+- The Charge of the Light Brigade during the Crimean War (1854)
+- Ghana as the first sub-Saharan African nation to gain independence (1957)
+- Battle of Isandlwana / Anglo-Zulu War year (1879)
+- Indian Rebellion / Sepoy Mutiny year (1857)
+- Fidel Castro's revolution triumphantly entering Havana (1959)
 
 CAUTION — "first US President born in a log cabin" is commonly misattributed to Lincoln; Andrew Jackson was actually first (Jackson born 1767, decades before Lincoln). "The only US President to serve non-consecutive terms" (Grover Cleveland) stopped being true in 2025 when Donald Trump became the second — phrase any similar claim as "first," not "only," or pin it to a date.
 
