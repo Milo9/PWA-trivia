@@ -6121,5 +6121,1344 @@
       "40"
     ],
     "answer": "41"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "\"Paint The Town Red\" by Doja Cat prominently samples a 1964 hit by which legendary soul singer?",
+    "options": [
+      "Dionne Warwick",
+      "Patti LaBelle",
+      "Roberta Flack",
+      "Gladys Knight"
+    ],
+    "answer": "Dionne Warwick",
+    "id": "music-298"
+  },
+  {
+    "difficulty": "easy",
+    "category": "music",
+    "question": "In which year was Tamla Records, which became Motown, founded with an $800 loan?",
+    "options": [
+      "1962",
+      "1955",
+      "1959",
+      "1968"
+    ],
+    "answer": "1959",
+    "id": "music-299"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "Which Fergie track featuring Ludacris is heavily sampled in Jack Harlow's \"First Class\"?",
+    "options": [
+      "Clumsy",
+      "Milf $",
+      "Glamorous",
+      "London Bridge"
+    ],
+    "answer": "Glamorous",
+    "id": "music-300"
+  },
+  {
+    "difficulty": "hard",
+    "category": "music",
+    "question": "Songs in the Key of Life won which top Grammy honor in 1977?",
+    "options": [
+      "Album of the Year",
+      "Best New Artist",
+      "Song of the Year",
+      "Record of the Year"
+    ],
+    "answer": "Album of the Year",
+    "id": "music-301"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "Which 1964 classic by Dionne Warwick was sampled in Doja Cat's 2023 chart-topper \"Paint The Town Red\"?",
+    "options": [
+      "Walk On By",
+      "Anyone Who Had a Heart",
+      "I Say a Little Prayer",
+      "Don't Make Me Over"
+    ],
+    "answer": "Walk On By",
+    "id": "music-302"
+  },
+  {
+    "difficulty": "hard",
+    "category": "music",
+    "question": "Which 1979 Gap Band song's writers were retroactively added to Mark Ronson's \"Uptown Funk\" credits?",
+    "options": [
+      "Oops Up Side Your Head",
+      "Outstanding",
+      "You Dropped a Bomb on Me",
+      "Burn Rubber"
+    ],
+    "answer": "Oops Up Side Your Head",
+    "id": "music-303"
+  },
+  {
+    "difficulty": "easy",
+    "category": "music",
+    "question": "\"Happy\" by Pharrell was released as the lead single from which movie's soundtrack album?",
+    "options": [
+      "Trolls",
+      "Happy Feet 2",
+      "Sing",
+      "Despicable Me 2"
+    ],
+    "answer": "Despicable Me 2",
+    "id": "music-304"
+  },
+  {
+    "difficulty": "easy",
+    "category": "music",
+    "question": "Which record label released Miles Davis's landmark album Kind of Blue on August 17, 1959?",
+    "options": [
+      "Prestige Records",
+      "Columbia Records",
+      "Blue Note Records",
+      "Verve Records"
+    ],
+    "answer": "Columbia Records",
+    "id": "music-305"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "Whose chilling laugh is heard at the end of Michael Jackson's Thriller?",
+    "options": [
+      "John Landis",
+      "Michael Jackson",
+      "Vincent Price",
+      "Quincy Jones"
+    ],
+    "answer": "Vincent Price",
+    "id": "music-306"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "Who performed the improvised wordless vocals on Pink Floyd's 'The Great Gig in the Sky'?",
+    "options": [
+      "Merry Clayton",
+      "Dusty Springfield",
+      "Clare Torry",
+      "Patti LaBelle"
+    ],
+    "answer": "Clare Torry",
+    "id": "music-307"
+  },
+  {
+    "difficulty": "easy",
+    "category": "music",
+    "question": "What is the Italian term for the written text of an opera?",
+    "options": [
+      "Aria",
+      "Libretto",
+      "Overture",
+      "Score"
+    ],
+    "answer": "Libretto",
+    "id": "music-308"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "The Roland TR-808 Rhythm Composer is classified as what type of instrument?",
+    "options": [
+      "Sampler",
+      "Drum machine",
+      "Bass synth",
+      "Guitar amp"
+    ],
+    "answer": "Drum machine",
+    "id": "music-309"
+  },
+  {
+    "difficulty": "hard",
+    "category": "music",
+    "question": "Which 18th-century Welsh cottage did Jimmy Page and Robert Plant use to write songs for Led Zeppelin III?",
+    "options": [
+      "Stargroves",
+      "Villa Nellcote",
+      "Bron-Yr-Aur",
+      "Headley Grange"
+    ],
+    "answer": "Bron-Yr-Aur",
+    "id": "music-310"
+  },
+  {
+    "difficulty": "easy",
+    "category": "music",
+    "question": "Who was Pink Floyd's original frontman and primary songwriter from 1965 to 1968?",
+    "options": [
+      "David Gilmour",
+      "Syd Barrett",
+      "Richard Wright",
+      "Roger Waters"
+    ],
+    "answer": "Syd Barrett",
+    "id": "music-311"
+  },
+  {
+    "difficulty": "easy",
+    "category": "music",
+    "question": "What type of instrument was B.B. King's Lucille?",
+    "options": [
+      "Piano",
+      "Trumpet",
+      "Guitar",
+      "Drum kit"
+    ],
+    "answer": "Guitar",
+    "id": "music-312"
+  },
+  {
+    "difficulty": "easy",
+    "category": "music",
+    "question": "Which OutKast member wrote and sang the 2003 hit 'Hey Ya!'?",
+    "options": [
+      "Andre 3000",
+      "CeeLo Green",
+      "Killer Mike",
+      "Big Boi"
+    ],
+    "answer": "Andre 3000",
+    "id": "music-313"
+  },
+  {
+    "difficulty": "easy",
+    "category": "music",
+    "question": "In which state is the Folsom State Prison where Johnny Cash recorded his 1968 live album?",
+    "options": [
+      "California",
+      "New York",
+      "Tennessee",
+      "Texas"
+    ],
+    "answer": "California",
+    "id": "music-314"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "Which number is Haydn's Surprise Symphony?",
+    "options": [
+      "No. 88",
+      "No. 45",
+      "No. 101",
+      "No. 94"
+    ],
+    "answer": "No. 94",
+    "id": "music-315"
+  },
+  {
+    "difficulty": "easy",
+    "category": "music",
+    "question": "Which holiday hit co-written by Mariah Carey and Walter Afanasieff became a Christmas standard?",
+    "options": [
+      "Jingle Bell Rock",
+      "Santa Baby",
+      "Last Christmas",
+      "All I Want for Christmas Is You"
+    ],
+    "answer": "All I Want for Christmas Is You",
+    "id": "music-316"
+  },
+  {
+    "difficulty": "easy",
+    "category": "music",
+    "question": "Who produced most of The Beatles' studio albums and was called the Fifth Beatle?",
+    "options": [
+      "Paul Rothchild",
+      "Phil Spector",
+      "George Martin",
+      "Jimmy Page"
+    ],
+    "answer": "George Martin",
+    "id": "music-317"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "Which instrument did John Paul Jones play on Led Zeppelin's 'Going to California'?",
+    "options": [
+      "Mandolin",
+      "Banjo",
+      "Sitar",
+      "Hammond organ"
+    ],
+    "answer": "Mandolin",
+    "id": "music-318"
+  },
+  {
+    "difficulty": "hard",
+    "category": "music",
+    "question": "In which Detroit high school did the three founders of Detroit techno meet as friends?",
+    "options": [
+      "Cass Technical High School",
+      "Mumford High School",
+      "Belleville High School",
+      "Southeastern High School"
+    ],
+    "answer": "Belleville High School",
+    "id": "music-319"
+  },
+  {
+    "difficulty": "hard",
+    "category": "music",
+    "question": "In what year did EMI Recording Studios legally change its name to Abbey Road Studios?",
+    "options": [
+      "1969",
+      "1990",
+      "1984",
+      "1975"
+    ],
+    "answer": "1984",
+    "id": "music-320"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "Which Chicago nightclub that operated from 1977 to 1982 gave house music its name?",
+    "options": [
+      "The Warehouse",
+      "Studio 54",
+      "Paradise Garage",
+      "The Hacienda"
+    ],
+    "answer": "The Warehouse",
+    "id": "music-321"
+  },
+  {
+    "difficulty": "hard",
+    "category": "music",
+    "question": "Which opera opens Wagner's Der Ring des Nibelungen cycle in performance order?",
+    "options": [
+      "Götterdämmerung",
+      "Die Walküre",
+      "Das Rheingold",
+      "Siegfried"
+    ],
+    "answer": "Das Rheingold",
+    "id": "music-322"
+  },
+  {
+    "difficulty": "easy",
+    "category": "music",
+    "question": "What is the real name of the rapper The Notorious B.I.G.?",
+    "options": [
+      "Calvin Broadus",
+      "Christopher Wallace",
+      "Curtis Jackson",
+      "Shawn Carter"
+    ],
+    "answer": "Christopher Wallace",
+    "id": "music-323"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "Who is credited as the founder of Sun Records in Memphis?",
+    "options": [
+      "Berry Gordy Jr.",
+      "Sam Phillips",
+      "Leonard Chess",
+      "Ahmet Ertegun"
+    ],
+    "answer": "Sam Phillips",
+    "id": "music-324"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "Which record label released Nirvana's debut album Bleach in 1989?",
+    "options": [
+      "Sub Pop",
+      "DGC",
+      "Geffen",
+      "SST"
+    ],
+    "answer": "Sub Pop",
+    "id": "music-325"
+  },
+  {
+    "difficulty": "easy",
+    "category": "music",
+    "question": "Who was the lead singer and lyricist for The Doors?",
+    "options": [
+      "Jim Morrison",
+      "Ray Manzarek",
+      "John Densmore",
+      "Robby Krieger"
+    ],
+    "answer": "Jim Morrison",
+    "id": "music-326"
+  },
+  {
+    "difficulty": "easy",
+    "category": "music",
+    "question": "Who sang lead on The Ronettes' 1963 hit 'Be My Baby'?",
+    "options": [
+      "Ronnie Spector",
+      "Darlene Love",
+      "Diana Ross",
+      "Martha Reeves"
+    ],
+    "answer": "Ronnie Spector",
+    "id": "music-327"
+  },
+  {
+    "difficulty": "hard",
+    "category": "music",
+    "question": "Who choreographed the Sugar Plum Fairy variation for the original 1892 Nutcracker premiere?",
+    "options": [
+      "Marius Petipa",
+      "Lev Ivanov",
+      "Michel Fokine",
+      "George Balanchine"
+    ],
+    "answer": "Lev Ivanov",
+    "id": "music-328"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "What is Bono's real name?",
+    "options": [
+      "Paul Hewson",
+      "David Evans",
+      "Adam Clayton",
+      "Larry Mullen"
+    ],
+    "answer": "Paul Hewson",
+    "id": "music-329"
+  },
+  {
+    "difficulty": "easy",
+    "category": "music",
+    "question": "Who was the drummer for The Who's classic 1964-1978 lineup?",
+    "options": [
+      "Charlie Watts",
+      "Keith Moon",
+      "Ringo Starr",
+      "Nick Mason"
+    ],
+    "answer": "Keith Moon",
+    "id": "music-330"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "Which singer's 1974 hit 'I Will Always Love You' was later famously covered by Whitney Houston?",
+    "options": [
+      "Dolly Parton",
+      "Linda Ronstadt",
+      "Aretha Franklin",
+      "Carole King"
+    ],
+    "answer": "Dolly Parton",
+    "id": "music-331"
+  },
+  {
+    "difficulty": "easy",
+    "category": "music",
+    "question": "What is the title of Daft Punk's debut studio album?",
+    "options": [
+      "Random Access Memories",
+      "Discovery",
+      "Homework",
+      "Human After All"
+    ],
+    "answer": "Homework",
+    "id": "music-332"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "Who directed the 14-minute short film for Michael Jackson's 'Thriller'?",
+    "options": [
+      "John Landis",
+      "Steven Spielberg",
+      "David Fincher",
+      "Spike Lee"
+    ],
+    "answer": "John Landis",
+    "id": "music-333"
+  },
+  {
+    "difficulty": "easy",
+    "category": "music",
+    "question": "Which country duo originally wrote and performed 'Jolene' before it became a worldwide standard?",
+    "options": [
+      "Dolly Parton",
+      "Tammy Wynette",
+      "Loretta Lynn",
+      "Patsy Cline"
+    ],
+    "answer": "Dolly Parton",
+    "id": "music-334"
+  },
+  {
+    "difficulty": "easy",
+    "category": "music",
+    "question": "Who primarily composed and wrote The Who's rock opera 'Tommy' released in 1969?",
+    "options": [
+      "Roger Daltrey",
+      "John Entwistle",
+      "Pete Townshend",
+      "Keith Moon"
+    ],
+    "answer": "Pete Townshend",
+    "id": "music-335"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "Which legendary producer contributed to Nas's 1994 debut album Illmatic?",
+    "options": [
+      "Pete Rock",
+      "Metro Boomin",
+      "Dr. Luke",
+      "Timbaland"
+    ],
+    "answer": "Pete Rock",
+    "id": "music-336"
+  },
+  {
+    "difficulty": "easy",
+    "category": "music",
+    "question": "Which group released the breakthrough grunge single 'Smells Like Teen Spirit' in 1991?",
+    "options": [
+      "Soundgarden",
+      "Pearl Jam",
+      "Nirvana",
+      "Alice in Chains"
+    ],
+    "answer": "Nirvana",
+    "id": "music-337"
+  },
+  {
+    "difficulty": "easy",
+    "category": "music",
+    "question": "What shared stage surname did Joey, Johnny, Dee Dee and Tommy all use?",
+    "options": [
+      "Ramone",
+      "Ramones",
+      "Ramon",
+      "Ramirez"
+    ],
+    "answer": "Ramone",
+    "id": "music-338"
+  },
+  {
+    "difficulty": "easy",
+    "category": "music",
+    "question": "Who produced Led Zeppelin's untitled fourth album, commonly known as Led Zeppelin IV?",
+    "options": [
+      "Glyn Johns",
+      "Jimmy Page",
+      "Eddie Kramer",
+      "Robert Plant"
+    ],
+    "answer": "Jimmy Page",
+    "id": "music-339"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "Who produced Nirvana's raw final studio album In Utero?",
+    "options": [
+      "Steve Albini",
+      "Butch Vig",
+      "Jack Endino",
+      "Nigel Godrich"
+    ],
+    "answer": "Steve Albini",
+    "id": "music-340"
+  },
+  {
+    "difficulty": "easy",
+    "category": "music",
+    "question": "Who anchored Led Zeppelin's rhythm section on drums until 1980?",
+    "options": [
+      "John Bonham",
+      "Keith Moon",
+      "Mitch Mitchell",
+      "Ginger Baker"
+    ],
+    "answer": "John Bonham",
+    "id": "music-341"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "At which French Riviera estate did The Rolling Stones record much of 'Exile on Main St.' in a basement studio in 1971?",
+    "options": [
+      "Chateau Marmont",
+      "Villa Nellcote",
+      "Headley Grange",
+      "Bron-Yr-Aur"
+    ],
+    "answer": "Villa Nellcote",
+    "id": "music-342"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "In what year did Miles Davis's Kind of Blue originally get released?",
+    "options": [
+      "1961",
+      "1959",
+      "1963",
+      "1957"
+    ],
+    "answer": "1959",
+    "id": "music-343"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "Which band released the 1973 double album Goodbye Yellow Brick Road?",
+    "options": [
+      "Elton John",
+      "The Rolling Stones",
+      "Led Zeppelin",
+      "Pink Floyd"
+    ],
+    "answer": "Elton John",
+    "id": "music-344"
+  },
+  {
+    "difficulty": "easy",
+    "category": "music",
+    "question": "Who composed the score for the ballet The Nutcracker?",
+    "options": [
+      "Minkus",
+      "Prokofiev",
+      "Tchaikovsky",
+      "Stravinsky"
+    ],
+    "answer": "Tchaikovsky",
+    "id": "music-345"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "What was the nickname of Motown's in-house studio band that played on most hits from 1959 to 1972?",
+    "options": [
+      "The Funk Brothers",
+      "The Wrecking Crew",
+      "Booker T. & the M.G.'s",
+      "The Jordanaires"
+    ],
+    "answer": "The Funk Brothers",
+    "id": "music-346"
+  },
+  {
+    "difficulty": "hard",
+    "category": "music",
+    "question": "Which 1971 Rolling Stones single famously opens with a Charlie Watts drum fill followed by Keith Richards's iconic riff?",
+    "options": [
+      "Brown Sugar",
+      "Gimme Shelter",
+      "Jumpin' Jack Flash",
+      "Start Me Up"
+    ],
+    "answer": "Brown Sugar",
+    "id": "music-347"
+  },
+  {
+    "difficulty": "easy",
+    "category": "music",
+    "question": "Which bassist, nicknamed Thunderfingers, was a founding member of The Who?",
+    "options": [
+      "John Entwistle",
+      "John Paul Jones",
+      "Bill Wyman",
+      "Roger Waters"
+    ],
+    "answer": "John Entwistle",
+    "id": "music-348"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "Who was the original bass guitarist for The Jimi Hendrix Experience from 1966 to 1969?",
+    "options": [
+      "Billy Cox",
+      "Noel Redding",
+      "John Paul Jones",
+      "Bill Wyman"
+    ],
+    "answer": "Noel Redding",
+    "id": "music-349"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "Which number is Haydn's Farewell Symphony?",
+    "options": [
+      "No. 101",
+      "No. 45",
+      "No. 94",
+      "No. 88"
+    ],
+    "answer": "No. 45",
+    "id": "music-350"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "Which New Zealand singer provides the featured vocals on Gotye's 2011 hit 'Somebody That I Used to Know'?",
+    "options": [
+      "Sia",
+      "Kimbra",
+      "Lorde",
+      "Zara Larsson"
+    ],
+    "answer": "Kimbra",
+    "id": "music-351"
+  },
+  {
+    "difficulty": "hard",
+    "category": "music",
+    "question": "In which year did Metallica bassist Cliff Burton die in a tour bus accident?",
+    "options": [
+      "1985",
+      "1984",
+      "1988",
+      "1986"
+    ],
+    "answer": "1986",
+    "id": "music-352"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "Which 1973 Dolly Parton song tells of a bank clerk with auburn hair and ivory skin?",
+    "options": [
+      "I Will Always Love You",
+      "9 to 5",
+      "Jolene",
+      "Coat of Many Colors"
+    ],
+    "answer": "Jolene",
+    "id": "music-353"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "In what year did Tchaikovsky's Swan Lake premiere at the Bolshoi Theatre in Moscow?",
+    "options": [
+      "1892",
+      "1875",
+      "1895",
+      "1877"
+    ],
+    "answer": "1877",
+    "id": "music-354"
+  },
+  {
+    "difficulty": "easy",
+    "category": "music",
+    "question": "Which American rapper featured on the official remix of Doja Cat's 'Say So' that hit No.1 in 2020?",
+    "options": [
+      "Megan Thee Stallion",
+      "Cardi B",
+      "Nicki Minaj",
+      "Saweetie"
+    ],
+    "answer": "Nicki Minaj",
+    "id": "music-355"
+  },
+  {
+    "difficulty": "hard",
+    "category": "music",
+    "question": "Which role is sung by a coloratura soprano in Mozart's The Magic Flute?",
+    "options": [
+      "Papageno",
+      "Tamino",
+      "Queen of the Night",
+      "Sarastro"
+    ],
+    "answer": "Queen of the Night",
+    "id": "music-356"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "Which English country house, using the Rolling Stones Mobile Studio, was the main recording site for Led Zeppelin IV?",
+    "options": [
+      "Headley Grange",
+      "Abbey Road",
+      "Olympic Studios",
+      "Sunset Sound"
+    ],
+    "answer": "Headley Grange",
+    "id": "music-357"
+  },
+  {
+    "difficulty": "easy",
+    "category": "music",
+    "question": "Who is the lead singer of Radiohead?",
+    "options": [
+      "Thom Yorke",
+      "Jonny Greenwood",
+      "Ed O'Brien",
+      "Nigel Godrich"
+    ],
+    "answer": "Thom Yorke",
+    "id": "music-358"
+  },
+  {
+    "difficulty": "hard",
+    "category": "music",
+    "question": "What was the name of Woody Guthrie's most famous guitar, bearing a slogan about killing fascists?",
+    "options": [
+      "This Machine Kills Fascists",
+      "The Cannonball",
+      "Trigger",
+      "Old Black"
+    ],
+    "answer": "This Machine Kills Fascists",
+    "id": "music-359"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "Which album won Album of the Year at the 66th Grammy Awards held in February 2024?",
+    "options": [
+      "Harry's House",
+      "Midnights",
+      "Renaissance",
+      "SOS"
+    ],
+    "answer": "Midnights",
+    "id": "music-360"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "Who was the original drummer for The Jimi Hendrix Experience alongside Noel Redding?",
+    "options": [
+      "Mitch Mitchell",
+      "Keith Moon",
+      "John Bonham",
+      "Charlie Watts"
+    ],
+    "answer": "Mitch Mitchell",
+    "id": "music-361"
+  },
+  {
+    "difficulty": "easy",
+    "category": "music",
+    "question": "In which year did Guns N Roses release their debut album Appetite for Destruction?",
+    "options": [
+      "1985",
+      "1989",
+      "1987",
+      "1990"
+    ],
+    "answer": "1987",
+    "id": "music-362"
+  },
+  {
+    "difficulty": "hard",
+    "category": "music",
+    "question": "What is Guns N Roses singer Axl Rose's birth name?",
+    "options": [
+      "Jeffrey Rose",
+      "William Bailey",
+      "William Rose",
+      "William Bruce Rose"
+    ],
+    "answer": "William Bruce Rose",
+    "id": "music-363"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "Who was the original drummer of The Ramones from 1974 to 1978?",
+    "options": [
+      "Marky Ramone",
+      "Tommy Ramone",
+      "Richie Ramone",
+      "Topper Headon"
+    ],
+    "answer": "Tommy Ramone",
+    "id": "music-364"
+  },
+  {
+    "difficulty": "hard",
+    "category": "music",
+    "question": "Which 1977 double album by Stevie Wonder won Album of the Year at the Grammys?",
+    "options": [
+      "Innervisions",
+      "Songs in the Key of Life",
+      "Talking Book",
+      "Off the Wall"
+    ],
+    "answer": "Songs in the Key of Life",
+    "id": "music-365"
+  },
+  {
+    "difficulty": "easy",
+    "category": "music",
+    "question": "Which soul singer's 1967 original 'Respect' was famously covered by Aretha Franklin?",
+    "options": [
+      "Otis Redding",
+      "Marvin Gaye",
+      "Al Green",
+      "Sam Cooke"
+    ],
+    "answer": "Otis Redding",
+    "id": "music-366"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "Which singer-songwriter was awarded the Nobel Prize in Literature in 2016?",
+    "options": [
+      "Miles Davis",
+      "Dolly Parton",
+      "Bob Dylan",
+      "Woody Guthrie"
+    ],
+    "answer": "Bob Dylan",
+    "id": "music-367"
+  },
+  {
+    "difficulty": "hard",
+    "category": "music",
+    "question": "The squelchy sound of the TB-303 later defined which house subgenre?",
+    "options": [
+      "Ghetto house",
+      "Progressive house",
+      "Deep house",
+      "Acid house"
+    ],
+    "answer": "Acid house",
+    "id": "music-368"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "Who produced Nirvana's debut album Bleach recorded at Reciprocal Recording?",
+    "options": [
+      "Jack Endino",
+      "Butch Vig",
+      "Steve Albini",
+      "Nigel Godrich"
+    ],
+    "answer": "Jack Endino",
+    "id": "music-369"
+  },
+  {
+    "difficulty": "easy",
+    "category": "music",
+    "question": "What name did bluesman B.B. King give to all of his guitars?",
+    "options": [
+      "Betty",
+      "Eleanor",
+      "Lucille",
+      "Blackie"
+    ],
+    "answer": "Lucille",
+    "id": "music-370"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "Which 1930s blues guitarist was said to have sold his soul at the crossroads, influencing rock mythology?",
+    "options": [
+      "Robert Johnson",
+      "Son House",
+      "Lead Belly",
+      "Muddy Waters"
+    ],
+    "answer": "Robert Johnson",
+    "id": "music-371"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "Who originally wrote and recorded the folk standard 'This Land Is Your Land' in 1940?",
+    "options": [
+      "Woody Guthrie",
+      "Pete Seeger",
+      "Bob Dylan",
+      "Johnny Cash"
+    ],
+    "answer": "Woody Guthrie",
+    "id": "music-372"
+  },
+  {
+    "difficulty": "easy",
+    "category": "music",
+    "question": "Who composed the opera La bohème that premiered in Turin in 1896?",
+    "options": [
+      "Verdi",
+      "Puccini",
+      "Donizetti",
+      "Rossini"
+    ],
+    "answer": "Puccini",
+    "id": "music-373"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "In which city did Puccini's La bohème receive its world premiere on February 1, 1896?",
+    "options": [
+      "Milan",
+      "Turin",
+      "Rome",
+      "Naples"
+    ],
+    "answer": "Turin",
+    "id": "music-374"
+  },
+  {
+    "difficulty": "easy",
+    "category": "music",
+    "question": "Which disco-era group had a 1978 hit with 'Le Freak'?",
+    "options": [
+      "Chic",
+      "Village People",
+      "Bee Gees",
+      "Earth, Wind & Fire"
+    ],
+    "answer": "Chic",
+    "id": "music-375"
+  },
+  {
+    "difficulty": "hard",
+    "category": "music",
+    "question": "What is the birth name of Green Day drummer known as Tre Cool?",
+    "options": [
+      "Mike Pritchard",
+      "Billie Armstrong",
+      "John Kiffmeyer",
+      "Frank Edwin Wright III"
+    ],
+    "answer": "Frank Edwin Wright III",
+    "id": "music-376"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "Which instrument was the Roland TB-303 Bass Line originally designed to simulate when it launched in 1981?",
+    "options": [
+      "Drum kit",
+      "Bass guitar",
+      "Lead synth",
+      "Violin"
+    ],
+    "answer": "Bass guitar",
+    "id": "music-377"
+  },
+  {
+    "difficulty": "easy",
+    "category": "music",
+    "question": "In which year did Radiohead release OK Computer?",
+    "options": [
+      "1993",
+      "1997",
+      "1995",
+      "1999"
+    ],
+    "answer": "1997",
+    "id": "music-378"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "Which member of The Beatles primarily wrote 'Hey Jude'?",
+    "options": [
+      "John Lennon",
+      "Paul McCartney",
+      "George Harrison",
+      "Ringo Starr"
+    ],
+    "answer": "Paul McCartney",
+    "id": "music-379"
+  },
+  {
+    "difficulty": "easy",
+    "category": "music",
+    "question": "Who was the bassist and keyboardist for Led Zeppelin from 1968 to 1980?",
+    "options": [
+      "John Paul Jones",
+      "Bill Wyman",
+      "John Entwistle",
+      "Roger Waters"
+    ],
+    "answer": "John Paul Jones",
+    "id": "music-380"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "Which album by Beyoncé is credited as her debut solo studio album in 2003?",
+    "options": [
+      "B'Day",
+      "4",
+      "Dangerously in Love",
+      "I Am... Sasha Fierce"
+    ],
+    "answer": "Dangerously in Love",
+    "id": "music-381"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "Which rock band's untitled fourth studio album from 1971 — nicknamed 'Zoso' by fans after its four symbols — featured no band or album name on its cover?",
+    "options": [
+      "Led Zeppelin",
+      "Deep Purple",
+      "Black Sabbath",
+      "The Who"
+    ],
+    "answer": "Led Zeppelin",
+    "id": "music-382"
+  },
+  {
+    "difficulty": "easy",
+    "category": "music",
+    "question": "Which song opens Metallica's Black Album?",
+    "options": [
+      "Nothing Else Matters",
+      "Wherever I May Roam",
+      "Sad But True",
+      "Enter Sandman"
+    ],
+    "answer": "Enter Sandman",
+    "id": "music-383"
+  },
+  {
+    "difficulty": "hard",
+    "category": "music",
+    "question": "What was Clash frontman Joe Strummer's birth name?",
+    "options": [
+      "Paul Simonon",
+      "John Graham Mellor",
+      "John Simon",
+      "John Lydon"
+    ],
+    "answer": "John Graham Mellor",
+    "id": "music-384"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "Who produced The Doors' first five studio albums, including their 1967 debut?",
+    "options": [
+      "Bruce Botnick",
+      "Paul Rothchild",
+      "Jac Holzman",
+      "Jerry Hopkins"
+    ],
+    "answer": "Paul Rothchild",
+    "id": "music-385"
+  },
+  {
+    "difficulty": "easy",
+    "category": "music",
+    "question": "What is the birth name of British electronic musician Aphex Twin?",
+    "options": [
+      "Richard D. James",
+      "James Murphy",
+      "Tom Jenkinson",
+      "Chris Cunningham"
+    ],
+    "answer": "Richard D. James",
+    "id": "music-386"
+  },
+  {
+    "difficulty": "easy",
+    "category": "music",
+    "question": "Which keyboard instrument plays the famous bell-like solo in 'Dance of the Sugar Plum Fairy'?",
+    "options": [
+      "Harpsichord",
+      "Celesta",
+      "Glockenspiel",
+      "Harp"
+    ],
+    "answer": "Celesta",
+    "id": "music-387"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "In which year did Bob Marley and The Wailers release 'No Woman, No Cry' on the live album Natty Dread?",
+    "options": [
+      "1974",
+      "1975",
+      "1973",
+      "1976"
+    ],
+    "answer": "1975",
+    "id": "music-388"
+  },
+  {
+    "difficulty": "hard",
+    "category": "music",
+    "question": "What was the working title for The Beatles' 'Yesterday' before final lyrics were written?",
+    "options": [
+      "Scrambled Eggs",
+      "Sunny Side Up",
+      "Broken Shells",
+      "Fried Eggs"
+    ],
+    "answer": "Scrambled Eggs",
+    "id": "music-389"
+  },
+  {
+    "difficulty": "easy",
+    "category": "music",
+    "question": "Which rapper's legal name is Shawn Carter?",
+    "options": [
+      "Jay-Z",
+      "Nas",
+      "Snoop Dogg",
+      "Eminem"
+    ],
+    "answer": "Jay-Z",
+    "id": "music-390"
+  },
+  {
+    "difficulty": "easy",
+    "category": "music",
+    "question": "Who was the lead singer of the folk-rock band The Mamas & the Papas in the 1960s?",
+    "options": [
+      "Mama Cass Elliot",
+      "Janis Joplin",
+      "Grace Slick",
+      "Joni Mitchell"
+    ],
+    "answer": "Mama Cass Elliot",
+    "id": "music-391"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "Which trio is collectively known as The Belleville Three and credited with inventing Detroit techno?",
+    "options": [
+      "Carl Craig, Jeff Mills, Richie Hawtin",
+      "Moodymann, Theo Parrish, Kyle Hall",
+      "Juan Atkins, Derrick May, Kevin Saunderson",
+      "Dixon, Ame, Ricardo Villalobos"
+    ],
+    "answer": "Juan Atkins, Derrick May, Kevin Saunderson",
+    "id": "music-392"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "Who co-wrote Olivia Rodrigo's 'Drivers License' with her?",
+    "options": [
+      "Dan Nigro",
+      "Jack Antonoff",
+      "Finneas O'Connell",
+      "Joel Little"
+    ],
+    "answer": "Dan Nigro",
+    "id": "music-393"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "Who provided the spoken-word intro on The Rolling Stones' 'Gimme Shelter' backing vocals?",
+    "options": [
+      "Merry Clayton",
+      "Clare Torry",
+      "Lisa Fischer",
+      "Doris Troy"
+    ],
+    "answer": "Merry Clayton",
+    "id": "music-394"
+  },
+  {
+    "difficulty": "easy",
+    "category": "music",
+    "question": "Who is credited with founding Motown Records in Detroit on January 12, 1959?",
+    "options": [
+      "Smokey Robinson",
+      "Berry Gordy Jr.",
+      "Norman Whitfield",
+      "Holland-Dozier"
+    ],
+    "answer": "Berry Gordy Jr.",
+    "id": "music-395"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "Which alias did Juan Atkins use for his seminal early Detroit techno project?",
+    "options": [
+      "Model 500",
+      "Inner City",
+      "Phuture",
+      "Rhythim"
+    ],
+    "answer": "Model 500",
+    "id": "music-396"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "The famous 'Amen break' drum loop originates from which 1969 track?",
+    "options": [
+      "Amen, Brother by The Winstons",
+      "Funky Drummer by James Brown",
+      "Apache by Incredible Bongo Band",
+      "Synthetic Substitution by Melvin Bliss"
+    ],
+    "answer": "Amen, Brother by The Winstons",
+    "id": "music-397"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "Which 1993 rap duo released '93 'til Infinity'?",
+    "options": [
+      "Souls of Mischief",
+      "Wu-Tang Clan",
+      "A Tribe Called Quest",
+      "De La Soul"
+    ],
+    "answer": "Souls of Mischief",
+    "id": "music-398"
+  },
+  {
+    "difficulty": "easy",
+    "category": "music",
+    "question": "Which duo founded Kraftwerk in Düsseldorf in 1970?",
+    "options": [
+      "Richard James and Mike Paradinas",
+      "Ralf Hutter and Florian Schneider",
+      "Thomas Bangalter and Guy-Manuel de Homem-Christo",
+      "Juan Atkins and Derrick May"
+    ],
+    "answer": "Ralf Hutter and Florian Schneider",
+    "id": "music-399"
+  },
+  {
+    "difficulty": "medium",
+    "category": "music",
+    "question": "In which year did Johnny Cash's At Folsom Prison get released?",
+    "options": [
+      "1965",
+      "1970",
+      "1968",
+      "1966"
+    ],
+    "answer": "1968",
+    "id": "music-400"
   }
 ]

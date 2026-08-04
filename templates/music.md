@@ -19,6 +19,18 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Who invented the saxophone (Adolphe Sax, 1840s) / who invented the piano (Bartolomeo Cristofori, c. 1700)
 - The musical term for gradually getting louder (crescendo)
 - Watch for self-answering premises where the question states the answer as an aside instead of testing it (e.g. "Album X, according to modern scholarship dedicated to Y" or "Which album ... is titled Y" or "Studio X, located on Y street" where X already contains Y) — rework to test the fact via a genuine distinguishing detail instead of restating the title/name as given information
+- Who produced Nirvana's "Nevermind" (Butch Vig)
+- Which duo produced U2's "The Joshua Tree" (Brian Eno and Daniel Lanois)
+- Which 1975 Pink Floyd album is dedicated to Syd Barrett (Wish You Were Here)
+- Which city is the birthplace of house music (Chicago)
+- Who produced Michael Jackson's "Thriller" (Quincy Jones)
+- Who was Nirvana's drummer on their debut album "Bleach" (Chad Channing)
+- Louis Armstrong's nickname "Satchmo"
+- What year the Roland TR-808 drum machine launched (1980)
+- Which 1991 Metallica album is called "The Black Album" (self-titled Metallica)
+- Who is the "Godfather of Soul" (James Brown) — already asked in reverse ("which singer is nicknamed the Godfather of Soul") too; this pairing is a closed loop, avoid both directions
+- Who choreographed the original 1892 premiere of "The Nutcracker" (Marius Petipa)
+- Which female vocalist sang the guest vocals on The Rolling Stones' "Gimme Shelter" (Merry Clayton)
 
 Use web search to verify every fact — do not rely on memory alone. Prefer authoritative sources (encyclopedic sources, music databases) over guessing. For each question, actually find the fact via search rather than recalling it, especially for obscure details (specific dates, lesser-known artists/works).
 

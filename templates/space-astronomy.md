@@ -94,6 +94,29 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - The Kuiper Belt as the region beyond Neptune containing Pluto, Eris, and other icy bodies
 - Type Ia supernova mechanism (white dwarf in a binary exceeds the Chandrasekhar limit)
 - Redshift as the definition of light stretching to longer wavelengths from a receding object
+- Mercury's lobate scarps (cliffs formed by planetary cooling/contraction)
+- Mariner 10 as the first spacecraft to fly by Mercury (1974)
+- Sojourner as the first wheeled rover on Mars (1997, Mars Pathfinder)
+- The "sky crane" landing system used by Curiosity and Perseverance
+- Tombaugh Regio, Pluto's heart-shaped bright region
+- 16 Psyche as the metallic asteroid targeted by NASA's Psyche mission (launched 2023)
+- Canopus as the second-brightest star in the night sky (after Sirius)
+- The Hyades as the star cluster forming the "face" of Taurus
+- Helium's discovery in the Sun's spectrum before being found on Earth (its name origin)
+- John Glenn as the first American to orbit Earth (Friendship 7, 1962)
+- Columbia as the first Space Shuttle orbiter to fly, in 1981
+- Sally Ride as the first American woman in space (1983)
+- Jezero Crater as Perseverance's 2021 landing site
+- Gale Crater as Curiosity's 2012 landing site
+- Transit method as the technique Kepler used to detect exoplanets
+- Chariklo as the first minor planet/Centaur found to have rings (2013)
+- The Perseid meteor shower's parent comet (Swift-Tuttle)
+- The Geminid meteor shower's parent body (asteroid 3200 Phaethon)
+- Earth's escape velocity (~11.2 km/s)
+- Titania as the largest moon of Uranus
+- New Horizons as the spacecraft that photographed Arrokoth in 2019
+- X-ray telescopes as the instrument type used to observe black holes/neutron stars' hot accretion disks
+- Pioneer 10 as the first spacecraft to cross the asteroid belt and fly past Jupiter (1972-73)
 - Hawking radiation (black holes emitting thermal radiation, proposed 1974)
 - Olympus Mons as the tallest/largest volcano in the solar system (on Mars)
 - Valles Marineris as Mars's vast canyon system

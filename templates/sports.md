@@ -9,6 +9,19 @@ COUNT: 100 questions.
 
 AVOID THESE ANGLES — already well-covered in my question bank, so don't draft facts that overlap with these (pick different, more specific facts instead):
 - Which country won the first FIFA World Cup (Uruguay)
+- Which country has won the most FIFA World Cup titles (Brazil, 5)
+- Which country won the 2022 FIFA World Cup (Argentina)
+- Which golf major is always played at Augusta National (The Masters)
+- Term for one stroke under par in golf (birdie)
+- Men's 100m world record holder/time (Usain Bolt, 9.58 seconds, 2009)
+- Which city hosted the 2016 Summer Olympics (Rio de Janeiro)
+- Which country has won the most men's ODI Cricket World Cups (Australia)
+- Which country has won the most Rugby World Cups (South Africa, 4)
+- Muhammad Ali's "float like a butterfly, sting like a bee" phrase
+- Who holds the men's Grand Slam singles titles record (Novak Djokovic, 24)
+- How many periods in a standard ice hockey game (3)
+- How many players per side on a rugby union team on the field (15)
+- How many players per team are on the court in indoor volleyball (6) — beach volleyball's 2-per-team is a distinct, still-fair-game fact
 
 Use web search to verify every fact — do not rely on memory alone. Prefer authoritative sources (official league/federation sites, sports reference databases) over guessing. For each question, actually find the fact via search rather than recalling it, especially for obscure details (specific records, lesser-known athletes/events).
 
