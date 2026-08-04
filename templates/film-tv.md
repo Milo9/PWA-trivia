@@ -100,6 +100,24 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Name of Thor's hammer, Mjolnir — already saturated across Norse-mythology framing; don't reintroduce via an MCU framing
 - Walter White's teaching subject before "Breaking Bad" (chemistry) — don't ask from either the "which show" or "what subject" direction
 - Which Pennsylvania city "The Office" (US)/Dunder Mifflin's Scranton branch is set in
+- Who played Maximus in "Gladiator" (Russell Crowe)
+- Who directed "Platoon," "The Breakfast Club," or "Barbie" (2023) — director-identification questions for these three films specifically are saturated
+- Cole Sear's "I see dead people" line from "The Sixth Sense"
+- Who voiced Mufasa in "The Lion King" (1994) — James Earl Jones, already asked from multiple angles
+- Who voiced the Genie in Disney's "Aladdin" (1992) — Robin Williams
+- Charles Foster Kane's estate name in "Citizen Kane" (Xanadu)
+- The song Sam plays for Ilsa in "Casablanca" ("As Time Goes By") or the "letters of transit" that let the bearer leave Casablanca
+- Travis Bickle's "You talkin' to me?" mirror line in "Taxi Driver"
+- Which actor won Best Actor for Joker (2019) — Joaquin Phoenix, already asked from multiple angles
+- The name of Moana's rooster (Heihei) or the boy protagonist of Pixar's "Coco" (Miguel)
+- What the acronym WALL-E stands for
+- What fictional island Jurassic Park (1993) is built on (Isla Nublar)
+- In Game of Thrones: what "Hodor" is a slurred version of ("hold the door"), or which dragon is named after Khal Drogo (Drogon)
+- Cobb's totem object in "Inception" (a spinning top)
+- What fictional club Ted Lasso coaches (AFC Richmond)
+- What medical condition Chuck McGill claims in "Better Call Saul," what car Walter White drives in "Breaking Bad" (Pontiac Aztek), or Jimmy McGill's Cinnabon alias (Gene Takavic)
+- What candy Elliott uses to lure E.T. (Reese's Pieces)
+- Watch for an external agent submitting the same batch of facts twice under slightly reworded stems within a single draft — verify internal uniqueness across the whole file, not just against the existing corpus
 
 Also watch for a fact that's already given away as a premise inside an existing question's stem, even if the existing question's own answer is something else — e.g. an existing question about the horse's-head scene in "The Godfather" already names "Jack Woltz" in its own text, so a separate question asking "who is the executive who wakes up with the horse's head" is redundant even though the two questions test nominally different specific facts; likewise an existing "Back to the Future" question already names the town "Hill Valley" in its premise. If a fact is stated outright in another question's wording, don't draft a new question whose answer is that same stated fact.
 
