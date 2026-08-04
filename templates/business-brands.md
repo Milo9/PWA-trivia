@@ -162,6 +162,41 @@ AVOID THESE ANGLES (facts already asked, in some cases more than once — don't 
 - Trader Joe's founder Joe Coulombe's prior convenience-store chain, "Pronto Markets" (renamed 1967)
 - Toyota's pre-automotive business manufacturing automatic looms
 - Marriott's 1927 origin as an A&W Root Beer stand (J. Willard Marriott, Washington D.C.)
+- 7-Up's original name, Bib-Label Lithiated Lemon-Lime Soda
+- Dr Pepper being invented/first served in Waco, Texas
+- Mountain Dew's original purpose as a whiskey mixer/chaser
+- Fanta being invented in Germany during WWII due to a Coca-Cola syrup embargo
+- Grace Hopper popularizing the term "bug" after finding a moth
+- Nupedia as the peer-reviewed encyclopedia that preceded/inspired Wikipedia
+- The VW Beetle's original German name, KdF-Wagen
+- Crocs' original marketing as a boating shoe
+- Oakley's first product being motorcycle grips
+- New Balance's original 1906 product being arch supports
+- Skechers founder Robert Greenberg's prior company, L.A. Gear
+- Lululemon founder Chip Wilson's reasoning for the name (Japanese consumers struggling with the letter "L")
+- Dr. Martens being invented after Klaus Maertens injured his foot skiing
+- Ray-Ban Aviators being commissioned for U.S. Army Air Corps pilots
+- ASICS' name as an acronym for the Latin "a sound/healthy mind in a sound/healthy body"
+- Apple's bitten-logo design avoiding confusion with a cherry
+- The bear hidden in the Toblerone logo
+- Twitter's blue bird logo being named after Larry Bird
+- The IKEA acronym's letters standing for founder Ingvar Kamprad's name, farm, and hometown
+- Kmart's original corporate name, S.S. Kresge
+- 7-Eleven's original name, Tote'm Stores
+- De Beers' "A Diamond Is Forever" slogan being written by Frances Gerety
+- Wheaties as the cereal behind "Breakfast of Champions"
+- Nike's "Just Do It" slogan being inspired by death-row inmate Gary Gilmore's last words
+- Cisco being named after San Francisco
+- What "Sega" stands for (Service Games)
+- Adobe being named after Adobe Creek behind co-founder John Warnock's house
+- Fisher-Price's founders Herman Fisher and Irving Price
+- Crayola's name combining "craie" (chalk) with a suffix meaning oily/oleaginous
+- Slinky inventor Richard James's profession as a naval engineer
+- Etch A Sketch's original French name, L'Écran Magique ("The Magic Screen")
+- Scrabble's original name, Criss-Crosswords
+- Monopoly's predecessor (The Landlord's Game) being designed to teach the evils of monopolies
+- Baskin-Robbins' "31 flavors" meaning one flavor per day of the month
+- Jack in the Box's original name, Oscar's
 
 CAUTION — verify precise founding names/dates via web search rather than memory for corporate-history "original name" questions: a 2026-08-01 batch had to cut a Canon question that conflated its 1933 lab name ("Precision Optical Instruments Laboratory") with its differently-named 1937 incorporation, and had to fix an MSN Direct question that said the service "shut down in 2008" when only the SPOT watches were discontinued that year — the underlying data service actually ran until 2011/2012. Also watch for the same fact tested in both directions within one batch (e.g. "which company made Surge" and "what was Coca-Cola's anti-Mountain- Dew soda called" are the same fact, not two) and for a specific product name applied anachronistically to an earlier event (e.g. calling 1873's riveted jeans "Levi's 501" — the 501 lot number wasn't used until ~1890).
 
