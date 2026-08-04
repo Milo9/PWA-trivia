@@ -36,6 +36,27 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - The Māori hongi greeting (pressing noses/foreheads together)
 - Swedish fika (coffee-and-pastry social break)
 - The Turkish Nazar Boncuğu blue glass bead warding off the evil eye
+- Doljabi, the object-picking ritual at a Korean baby's first birthday (doljanchi)
+- Omiyage, Japanese souvenir gifts brought back for coworkers/family
+- The kotatsu, a low heated table with a blanket in Japanese homes
+- The Thai "wai" greeting (palms pressed together, bow)
+- Wearing orange on King's Day (Koningsdag) in the Netherlands
+- Hogmanay first-footing gifts of coal and whisky in Scotland
+- Smashing porcelain/ceramics the night before a wedding at a German Polterabend
+- The fève (charm) hidden inside a French Galette des Rois
+- The ceilidh as a Scottish/Irish social gathering with folk music and dancing
+- Navajo hogan doorways traditionally facing east
+- Hangul being commissioned by King Sejong the Great and promulgated in 1443
+- Braille being invented in 1824 by a young blind French student (Louis Braille)
+- The Cherokee syllabary invented by Sequoyah
+- Xhosa's click consonants represented by the letters c, q, and x
+- Maltese as the only Semitic language with EU official status
+- Rotokas (Bougainville) as one of the smallest alphabets, ~12 letters
+- Chiang Mai as the city most associated with Thailand's Yi Peng sky lantern festival
+- Up Helly Aa in Lerwick, Shetland ending with burning a replica Viking galley
+- Japan's Hadaka Matsuri ("Naked Festival") at Saidaiji Temple, Okayama — men in loincloths (fundoshi) competing for lucky sticks
+- Oktoberfest being hosted in Munich, Germany
+- The Kanamara Matsuri in Kawasaki celebrating a steel phallus/fertility symbol
 
 Use web search to verify every fact — do not rely on memory alone. Prefer authoritative sources (encyclopedic sources, cultural references) over guessing. For each question, actually find the fact via search rather than recalling it, especially for obscure details (lesser-known customs, specific terms).
 
