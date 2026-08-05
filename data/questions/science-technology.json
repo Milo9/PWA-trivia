@@ -10697,5 +10697,928 @@
       "Shippingport Reactor"
     ],
     "answer": "Chicago Pile-1"
+  },
+  {
+    "id": "science-technology-361",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What particle mediates the strong nuclear force?",
+    "options": [
+      "Photon",
+      "Gluon",
+      "Boson",
+      "Fermion"
+    ],
+    "answer": "Gluon"
+  },
+  {
+    "id": "science-technology-362",
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What is the medical term for the human shoulder blade?",
+    "options": [
+      "Clavicle",
+      "Sternum",
+      "Scapula",
+      "Patella"
+    ],
+    "answer": "Scapula"
+  },
+  {
+    "id": "science-technology-363",
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Which programming language was created by John McCarthy in 1958, making it one of the oldest high-level languages still in use?",
+    "options": [
+      "COBOL",
+      "Fortran",
+      "LISP",
+      "ALGOL"
+    ],
+    "answer": "LISP"
+  },
+  {
+    "id": "science-technology-364",
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "In particle physics, what flavor of quark is the heaviest?",
+    "options": [
+      "Top",
+      "Bottom",
+      "Charm",
+      "Strange"
+    ],
+    "answer": "Top"
+  },
+  {
+    "id": "science-technology-365",
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What process converts rubber into a more durable material by adding sulfur?",
+    "options": [
+      "Galvanization",
+      "Vulcanization",
+      "Polymerization",
+      "Oxidation"
+    ],
+    "answer": "Vulcanization"
+  },
+  {
+    "id": "science-technology-366",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which cranial nerve is primarily responsible for the sense of smell?",
+    "options": [
+      "Optic nerve",
+      "Vagus nerve",
+      "Trigeminal nerve",
+      "Olfactory nerve"
+    ],
+    "answer": "Olfactory nerve"
+  },
+  {
+    "id": "science-technology-367",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What is the SI unit of power?",
+    "options": [
+      "Watt",
+      "Joule",
+      "Volt",
+      "Coulomb"
+    ],
+    "answer": "Watt"
+  },
+  {
+    "id": "science-technology-368",
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Which element has the highest electronegativity on the Pauling scale?",
+    "options": [
+      "Oxygen",
+      "Fluorine",
+      "Chlorine",
+      "Nitrogen"
+    ],
+    "answer": "Fluorine"
+  },
+  {
+    "id": "science-technology-369",
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Which law of thermodynamics states that the entropy of a perfect crystal at absolute zero is exactly equal to zero?",
+    "options": [
+      "Zeroth Law",
+      "First Law",
+      "Second Law",
+      "Third Law"
+    ],
+    "answer": "Third Law"
+  },
+  {
+    "id": "science-technology-370",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What is the chemical name for the compound commonly known as 'fool's gold'?",
+    "options": [
+      "Copper sulfide",
+      "Iron pyrite",
+      "Lead sulfide",
+      "Bismuth glance"
+    ],
+    "answer": "Iron pyrite"
+  },
+  {
+    "id": "science-technology-371",
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "In the human eye, what photoreceptor cells are primarily responsible for color vision?",
+    "options": [
+      "Rods",
+      "Cones",
+      "Ganglion cells",
+      "Bipolar cells"
+    ],
+    "answer": "Cones"
+  },
+  {
+    "id": "science-technology-372",
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "What was the name of the first commercially successful mechanical calculator, invented by Blaise Pascal in 1642?",
+    "options": [
+      "Difference Engine",
+      "Arithmometer",
+      "Pascaline",
+      "Stepped Reckoner"
+    ],
+    "answer": "Pascaline"
+  },
+  {
+    "id": "science-technology-373",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What material did Wallace Carothers invent in 1935 while working at DuPont?",
+    "options": [
+      "Teflon",
+      "Kevlar",
+      "Nylon",
+      "Polyester"
+    ],
+    "answer": "Nylon"
+  },
+  {
+    "id": "science-technology-374",
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What organ stores and concentrates bile produced by the liver?",
+    "options": [
+      "Pancreas",
+      "Gallbladder",
+      "Spleen",
+      "Appendix"
+    ],
+    "answer": "Gallbladder"
+  },
+  {
+    "id": "science-technology-375",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What is the medical name for the jawbone, which is the largest and strongest bone in the human face?",
+    "options": [
+      "Maxilla",
+      "Mandible",
+      "Zygomatic bone",
+      "Sphenoid"
+    ],
+    "answer": "Mandible"
+  },
+  {
+    "id": "science-technology-376",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What type of data structure uses a LIFO (Last In, First Out) methodology?",
+    "options": [
+      "Queue",
+      "Array",
+      "Stack",
+      "Tree"
+    ],
+    "answer": "Stack"
+  },
+  {
+    "id": "science-technology-377",
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What is the main structural polysaccharide found in plant cell walls?",
+    "options": [
+      "Starch",
+      "Glycogen",
+      "Chitin",
+      "Cellulose"
+    ],
+    "answer": "Cellulose"
+  },
+  {
+    "id": "science-technology-378",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "In immunology, what type of white blood cell matures in the thymus?",
+    "options": [
+      "B cell",
+      "T cell",
+      "Macrophage",
+      "Neutrophil"
+    ],
+    "answer": "T cell"
+  },
+  {
+    "id": "science-technology-379",
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "What networking protocol dynamically assigns an IP address to a device on a network?",
+    "options": [
+      "DNS",
+      "FTP",
+      "DHCP",
+      "SMTP"
+    ],
+    "answer": "DHCP"
+  },
+  {
+    "id": "science-technology-380",
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Which physicist formulated the exclusion principle stating no two electrons can have identical quantum numbers?",
+    "options": [
+      "Niels Bohr",
+      "Erwin Schrödinger",
+      "Wolfgang Pauli",
+      "Max Planck"
+    ],
+    "answer": "Wolfgang Pauli"
+  },
+  {
+    "id": "science-technology-381",
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What is the only letter that does not appear anywhere on the periodic table of elements?",
+    "options": [
+      "J",
+      "Q",
+      "X",
+      "Z"
+    ],
+    "answer": "J"
+  },
+  {
+    "id": "science-technology-382",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which bone is located in the upper arm, extending from the shoulder to the elbow?",
+    "options": [
+      "Radius",
+      "Ulna",
+      "Humerus",
+      "Fibula"
+    ],
+    "answer": "Humerus"
+  },
+  {
+    "id": "science-technology-383",
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "In chemistry, what term describes molecules with the same molecular formula but a different arrangement of atoms?",
+    "options": [
+      "Isotopes",
+      "Isomers",
+      "Allotropes",
+      "Isobars"
+    ],
+    "answer": "Isomers"
+  },
+  {
+    "id": "science-technology-384",
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "In materials science, what allotrope of carbon consists of a single layer of atoms arranged in a two-dimensional honeycomb lattice?",
+    "options": [
+      "Fullerene",
+      "Graphene",
+      "Diamond",
+      "Graphite"
+    ],
+    "answer": "Graphene"
+  },
+  {
+    "id": "science-technology-385",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What medical imaging technology uses strong magnetic fields and radio waves to generate images of the organs in the body?",
+    "options": [
+      "Ultrasound",
+      "CT scan",
+      "MRI",
+      "PET scan"
+    ],
+    "answer": "MRI"
+  },
+  {
+    "id": "science-technology-386",
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What is the SI unit of force?",
+    "options": [
+      "Joule",
+      "Pascal",
+      "Newton",
+      "Watt"
+    ],
+    "answer": "Newton"
+  },
+  {
+    "id": "science-technology-387",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which of the following is an open-source relational database management system?",
+    "options": [
+      "MongoDB",
+      "Redis",
+      "PostgreSQL",
+      "Neo4j"
+    ],
+    "answer": "PostgreSQL"
+  },
+  {
+    "id": "science-technology-388",
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Who invented the modern air conditioning system in 1902?",
+    "options": [
+      "Willis Carrier",
+      "Thomas Midgley Jr.",
+      "Nicolaus Otto",
+      "Rudolf Diesel"
+    ],
+    "answer": "Willis Carrier"
+  },
+  {
+    "id": "science-technology-389",
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What is the name of the fluid that surrounds the brain and spinal cord?",
+    "options": [
+      "Synovial fluid",
+      "Amniotic fluid",
+      "Cerebrospinal fluid",
+      "Lymphatic fluid"
+    ],
+    "answer": "Cerebrospinal fluid"
+  },
+  {
+    "id": "science-technology-390",
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Which mathematical theorem states that in any right-angled triangle, the area of the square whose side is the hypotenuse is equal to the sum of the areas of the squares on the other two sides?",
+    "options": [
+      "Fermat's Last Theorem",
+      "Euler's Theorem",
+      "Pythagorean Theorem",
+      "Thales's Theorem"
+    ],
+    "answer": "Pythagorean Theorem"
+  },
+  {
+    "id": "science-technology-391",
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What biological process refers to the division of the cytoplasm of a parental cell into two daughter cells?",
+    "options": [
+      "Meiosis",
+      "Cytokinesis",
+      "Apoptosis",
+      "Phagocytosis"
+    ],
+    "answer": "Cytokinesis"
+  },
+  {
+    "id": "science-technology-392",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "In networking, what layer of the OSI model is responsible for routing packets to their destination?",
+    "options": [
+      "Data Link Layer",
+      "Transport Layer",
+      "Network Layer",
+      "Session Layer"
+    ],
+    "answer": "Network Layer"
+  },
+  {
+    "id": "science-technology-393",
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "What rare metal is commonly used in catalytic converters to reduce exhaust emissions?",
+    "options": [
+      "Titanium",
+      "Palladium",
+      "Zirconium",
+      "Vanadium"
+    ],
+    "answer": "Palladium"
+  },
+  {
+    "id": "science-technology-394",
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What part of the eye controls the amount of light that enters by adjusting the size of the pupil?",
+    "options": [
+      "Cornea",
+      "Lens",
+      "Retina",
+      "Iris"
+    ],
+    "answer": "Iris"
+  },
+  {
+    "id": "science-technology-395",
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "What is the name of the fundamental physical constant that relates the energy of a photon to its frequency?",
+    "options": [
+      "Boltzmann constant",
+      "Planck constant",
+      "Avogadro constant",
+      "Faraday constant"
+    ],
+    "answer": "Planck constant"
+  },
+  {
+    "id": "science-technology-396",
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What is the protective outer layer of a tooth called?",
+    "options": [
+      "Dentin",
+      "Pulp",
+      "Cementum",
+      "Enamel"
+    ],
+    "answer": "Enamel"
+  },
+  {
+    "id": "science-technology-397",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What open-source operating system was developed by Google primarily for mobile devices?",
+    "options": [
+      "Symbian",
+      "iOS",
+      "Android",
+      "Tizen"
+    ],
+    "answer": "Android"
+  },
+  {
+    "id": "science-technology-398",
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "In organic chemistry, what is the simplest alkene?",
+    "options": [
+      "Methane",
+      "Ethane",
+      "Ethene",
+      "Propene"
+    ],
+    "answer": "Ethene"
+  },
+  {
+    "id": "science-technology-399",
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What is the common term for the human body's tympanic membrane?",
+    "options": [
+      "Eardrum",
+      "Vocal cord",
+      "Retina",
+      "Nasal septum"
+    ],
+    "answer": "Eardrum"
+  },
+  {
+    "id": "science-technology-400",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which subatomic particles are found in the nucleus of an atom?",
+    "options": [
+      "Electrons and Protons",
+      "Protons and Neutrons",
+      "Neutrons and Electrons",
+      "Quarks and Leptons"
+    ],
+    "answer": "Protons and Neutrons"
+  },
+  {
+    "id": "science-technology-401",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What is the chemical process of breaking down complex molecules into simpler ones, releasing energy?",
+    "options": [
+      "Anabolism",
+      "Catabolism",
+      "Metabolism",
+      "Photosynthesis"
+    ],
+    "answer": "Catabolism"
+  },
+  {
+    "id": "science-technology-402",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What does the 'S' stand for in 'HTTPS'?",
+    "options": [
+      "Standard",
+      "Secure",
+      "System",
+      "Server"
+    ],
+    "answer": "Secure"
+  },
+  {
+    "id": "science-technology-403",
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "What element is added to steel to make it stainless?",
+    "options": [
+      "Zinc",
+      "Nickel",
+      "Chromium",
+      "Molybdenum"
+    ],
+    "answer": "Chromium"
+  },
+  {
+    "id": "science-technology-404",
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What is the primary function of white blood cells?",
+    "options": [
+      "Transporting oxygen",
+      "Clotting blood",
+      "Fighting infection",
+      "Carrying nutrients"
+    ],
+    "answer": "Fighting infection"
+  },
+  {
+    "id": "science-technology-405",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What type of electromagnetic radiation has wavelengths longer than visible light but shorter than microwaves?",
+    "options": [
+      "Ultraviolet",
+      "X-rays",
+      "Gamma rays",
+      "Infrared"
+    ],
+    "answer": "Infrared"
+  },
+  {
+    "id": "science-technology-406",
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Who developed the first working laser in 1960?",
+    "options": [
+      "Charles Townes",
+      "Theodore Maiman",
+      "Arthur Schawlow",
+      "Gordon Gould"
+    ],
+    "answer": "Theodore Maiman"
+  },
+  {
+    "id": "science-technology-407",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What is the name of the main artery that carries oxygenated blood away from the left ventricle of the heart?",
+    "options": [
+      "Pulmonary artery",
+      "Aorta",
+      "Carotid artery",
+      "Coronary artery"
+    ],
+    "answer": "Aorta"
+  },
+  {
+    "id": "science-technology-408",
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Which of these Noble gases is the lightest?",
+    "options": [
+      "Argon",
+      "Krypton",
+      "Helium",
+      "Neon"
+    ],
+    "answer": "Helium"
+  },
+  {
+    "id": "science-technology-409",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What type of chemical reaction releases heat into its surroundings?",
+    "options": [
+      "Endothermic",
+      "Exothermic",
+      "Isothermic",
+      "Adiabatic"
+    ],
+    "answer": "Exothermic"
+  },
+  {
+    "id": "science-technology-410",
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Which element, isolated by Marie and Pierre Curie, is named after the country of Marie's birth?",
+    "options": [
+      "Radium",
+      "Polonium",
+      "Francium",
+      "Gallium"
+    ],
+    "answer": "Polonium"
+  },
+  {
+    "id": "science-technology-411",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What computer component is responsible for storing data persistently, even when powered off?",
+    "options": [
+      "RAM",
+      "Cache",
+      "Hard drive",
+      "CPU registers"
+    ],
+    "answer": "Hard drive"
+  },
+  {
+    "id": "science-technology-412",
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What is the common name for the patella?",
+    "options": [
+      "Collarbone",
+      "Kneecap",
+      "Tailbone",
+      "Shinbone"
+    ],
+    "answer": "Kneecap"
+  },
+  {
+    "id": "science-technology-413",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "In botany, what is the male reproductive part of a flower called?",
+    "options": [
+      "Stamen",
+      "Pistil",
+      "Stigma",
+      "Sepal"
+    ],
+    "answer": "Stamen"
+  },
+  {
+    "id": "science-technology-414",
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "What is the chemical name for the explosive commonly known as TNT?",
+    "options": [
+      "Trinitrotoluene",
+      "Tetranitro-tetrazocine",
+      "Trinitrophenol",
+      "Tri-nitro-triazine"
+    ],
+    "answer": "Trinitrotoluene"
+  },
+  {
+    "id": "science-technology-415",
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What is the primary gas found in natural gas?",
+    "options": [
+      "Propane",
+      "Butane",
+      "Methane",
+      "Ethane"
+    ],
+    "answer": "Methane"
+  },
+  {
+    "id": "science-technology-416",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What blood vessels carry blood back to the heart?",
+    "options": [
+      "Arteries",
+      "Veins",
+      "Capillaries",
+      "Bronchioles"
+    ],
+    "answer": "Veins"
+  },
+  {
+    "id": "science-technology-417",
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "What principle in physics states that a change in pressure applied to an enclosed fluid is transmitted undiminished to all portions of the fluid?",
+    "options": [
+      "Archimedes' principle",
+      "Bernoulli's principle",
+      "Pascal's principle",
+      "Boyle's law"
+    ],
+    "answer": "Pascal's principle"
+  },
+  {
+    "id": "science-technology-418",
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What are the small structural units that make up proteins?",
+    "options": [
+      "Fatty acids",
+      "Nucleotides",
+      "Amino acids",
+      "Monosaccharides"
+    ],
+    "answer": "Amino acids"
+  },
+  {
+    "id": "science-technology-419",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which operating system uses a penguin named Tux as its official mascot?",
+    "options": [
+      "FreeBSD",
+      "Linux",
+      "Windows",
+      "macOS"
+    ],
+    "answer": "Linux"
+  },
+  {
+    "id": "science-technology-420",
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "What class of enzymes breaks down lipids and fats?",
+    "options": [
+      "Proteases",
+      "Amylases",
+      "Lipases",
+      "Nucleases"
+    ],
+    "answer": "Lipases"
+  },
+  {
+    "id": "science-technology-421",
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What is the largest part of the human brain, responsible for voluntary actions, learning, and memory?",
+    "options": [
+      "Cerebellum",
+      "Brainstem",
+      "Cerebrum",
+      "Thalamus"
+    ],
+    "answer": "Cerebrum"
+  },
+  {
+    "id": "science-technology-422",
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Who developed the first successful vulcanization process for rubber?",
+    "options": [
+      "Charles Goodyear",
+      "Harvey Firestone",
+      "John Boyd Dunlop",
+      "Édouard Michelin"
+    ],
+    "answer": "Charles Goodyear"
+  },
+  {
+    "id": "science-technology-423",
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What is the colored part of the eye called?",
+    "options": [
+      "Pupil",
+      "Cornea",
+      "Retina",
+      "Iris"
+    ],
+    "answer": "Iris"
+  },
+  {
+    "id": "science-technology-424",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which of these is NOT a fundamental state of matter?",
+    "options": [
+      "Solid",
+      "Liquid",
+      "Plasma",
+      "Aerosol"
+    ],
+    "answer": "Aerosol"
+  },
+  {
+    "id": "science-technology-425",
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "What component in a mechanical clock regulates the rate at which the clock ticks?",
+    "options": [
+      "Mainspring",
+      "Escapement",
+      "Gear train",
+      "Balance wheel"
+    ],
+    "answer": "Escapement"
+  },
+  {
+    "id": "science-technology-426",
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What is the chemical formula for ozone?",
+    "options": [
+      "O2",
+      "O3",
+      "O4",
+      "H2O2"
+    ],
+    "answer": "O3"
+  },
+  {
+    "id": "science-technology-427",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "In computer networking, what does 'MAC' stand for in MAC address?",
+    "options": [
+      "Media Access Control",
+      "Machine Authorization Code",
+      "Main Address Component",
+      "Memory Allocation Control"
+    ],
+    "answer": "Media Access Control"
+  },
+  {
+    "id": "science-technology-428",
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Which type of bridge is supported entirely from anchors at either end, with no towers in the middle?",
+    "options": [
+      "Suspension bridge",
+      "Cantilever bridge",
+      "Cable-stayed bridge",
+      "Arch bridge"
+    ],
+    "answer": "Arch bridge"
+  },
+  {
+    "id": "science-technology-429",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "In web development, what language is used to style HTML documents?",
+    "options": [
+      "JavaScript",
+      "Python",
+      "CSS",
+      "PHP"
+    ],
+    "answer": "CSS"
+  },
+  {
+    "id": "science-technology-430",
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "What is the term for the temperature at which a ferromagnetic material loses its permanent magnetic properties?",
+    "options": [
+      "Néel temperature",
+      "Curie temperature",
+      "Debye temperature",
+      "Critical temperature"
+    ],
+    "answer": "Curie temperature"
+  },
+  {
+    "id": "science-technology-431",
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What hormone is known as the 'stress hormone' and is produced by the adrenal glands?",
+    "options": [
+      "Serotonin",
+      "Dopamine",
+      "Cortisol",
+      "Melatonin"
+    ],
+    "answer": "Cortisol"
   }
 ]

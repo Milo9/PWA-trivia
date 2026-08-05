@@ -5,7 +5,7 @@ You are drafting trivia questions for a multiple-choice trivia app. You have no 
 
 TOPIC: Geography — countries, capitals, physical geography, borders, and related facts.
 
-COUNT: 100 questions.
+COUNT: 200 questions.
 
 AVOID THESE ANGLES — already well-covered in my question bank, so don't draft facts that overlap with these (pick different, more specific facts instead):
 - Capital-city lookups for major/well-known countries (China, Germany, Brazil, Egypt, Australia, Spain, Russia, India, Canada, France, Italy, Bhutan, Japan, Mongolia, etc.) — near-guaranteed collision territory, favor capitals of less-common countries instead
@@ -124,6 +124,19 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Djibouti's capital sharing its name with the country (fine to ask the capital, but don't lead with "shares its name with the country" — it gives away the answer)
 - Zanzibar City's country — don't state "off the coast of Tanzania" in the question stem, it gives away the answer
 - Watch for leaked meta-commentary in drafted question text (phrases like "banned," "avoid collision," "not framed as X," "in your bank") — these are prompt-reasoning artifacts that leaked into the output and make the question unusable; regenerate the fact cleanly instead of patching the wording
+- Capitals of Jordan, Thailand, the Philippines, South Sudan, Mauritius, Cyprus, Mauritania, Sierra Leone, Senegal, Djibouti, Guinea-Bissau, Malaysia, Lebanon, Kenya, Burundi, and Mozambique — now covered
+- Highest mountain in Antarctica (Vinson Massif)
+- Longest river entirely within Australia (Murray River) — already covered above, but also re-collided as "largest gulf in the world" (Gulf of Mexico) and "largest desert in Asia" (Gobi/Arabian, depending on framing) in the same batch
+- World's largest producer of a named commodity (coffee, tea, rubber, cocoa, sugar, maize, soybeans, etc.) — near-guaranteed collision regardless of which commodity; these get reused constantly across drafting passes
+- Country with the most official languages (Zimbabwe)
+- Country bordering both the Red Sea and the Persian Gulf (Saudi Arabia)
+- Country spanning the most time zones — this is France (due to overseas territories), not Russia; a drafted question got this factually wrong by naming Russia
+- Finland's "Land of a Thousand Lakes" nickname
+- World's largest salt flat / Salar de Uyuni (Bolivia)
+- Highest peak in the Alps (Mont Blanc)
+- Second-largest island in the Mediterranean after Sicily (Sardinia)
+- Largest island in the Indian Ocean (Madagascar) — same fact as the existing Madagascar entries above, just reworded
+- Longest coastline in Africa (Somalia)
 
 Also watch for a flag-shape trap: a drafted question claimed Vatican City is "the only country other than Nepal" with a non-rectangular flag, and a companion question claimed Nepal is "one of only two" non-rectangular flags — both wrong. Switzerland's flag is also square (non-oblong), so there are three unusual flags (Nepal, Switzerland, Vatican City), not two, and which ones count as "non-rectangular" depends on a contested definition (a square is technically still a rectangle). Cut rather than draft this angle unless you can phrase it without an "only X" claim.
 

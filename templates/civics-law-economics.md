@@ -25,6 +25,74 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Alimony as post-divorce spousal support payments
 - The World Economic Forum's annual Davos, Switzerland gathering
 - "Crowding out" as the effect where government borrowing/spending reduces private investment
+- Frictional unemployment (workers between jobs or searching for their first job)
+- Fixed/pegged exchange rate system
+- Presidential system (head of state and head of government combined, elected separately from the legislature for a fixed term)
+- Tragedy of the commons
+- Externality (cost/benefit imposed on an uninvolved third party)
+- Ex post facto law
+- Eminent domain
+- Gini coefficient (income inequality index, 0 to 1)
+- Caveat emptor ("let the buyer beware")
+- Opportunity cost
+- Quorum (minimum members present to conduct business)
+- Caucus (party meeting to select candidates/policy)
+- Regressive tax (takes a larger share from lower incomes)
+- Phillips curve (inverse unemployment/inflation relationship)
+- Fiscal deficit (spending exceeds revenue)
+- Mediation (neutral facilitator, non-binding, distinct from arbitration)
+- Dumping (exporting below cost to gain market share)
+- Amicus curiae ("friend of the court")
+- Res judicata (matter already judged, can't be relitigated)
+- Jus cogens (peremptory international-law norm)
+- Class action lawsuit
+- Preponderance of the evidence (civil standard of proof)
+- Copyright (protects literary/artistic/musical works)
+- Structural unemployment (skills-jobs mismatch)
+- Deposition (sworn out-of-court testimony) — note this is a different fact/answer from the science-technology category's "deposition" (gas-to-solid phase change); same word, unrelated meanings, not a cross-category duplicate
+- Checks and balances
+- Unicameral legislature
+- Laffer curve (tax rate vs. revenue)
+- Liquidity trap (near-zero interest rates, ineffective monetary policy)
+- Monopoly as a market structure (one seller) — distinct from the board game of the same name
+- Jus sanguinis (citizenship by blood descent)
+- ILO (International Labour Organization) headquarters, Geneva
+- Theocracy
+- Patent (protects inventions)
+- OPEC headquarters, Vienna
+- Stratocracy (rule by the military)
+- Separation of powers
+- Oligopoly (few large sellers dominate)
+- Tariff (tax on imports)
+- Civil law legal system (codified statutes, as in continental Europe)
+- Logrolling (legislators trading votes)
+- Defamation (libel/slander, false statements harming reputation)
+- Technocracy (rule by technical experts)
+- Legal standing (sufficient stake to bring a lawsuit)
+- Pro bono (free legal work for the public good)
+- Trademark (protects brand names/logos/slogans)
+- NATO headquarters, Brussels
+- Absolute monarchy
+- Jurisdiction (court's authority to hear a case)
+- Protectionism (tariffs/quotas shielding domestic industry)
+- Filibuster (US Senate delay tactic, cloture requires 60 votes)
+- Actus reus (the guilty act element of a crime)
+- Fiscal policy (government taxing/spending to influence the economy) — distinct from monetary policy
+- Gerrymandering
+- Progressive tax (higher rate on higher incomes)
+- Impeachment (formal process to remove an official)
+- Purchasing power parity
+- Constitutional monarchy
+- Statute of limitations
+- Diarchy (joint rule by two people/powers)
+- Judicial review
+- Perjury (lying under oath)
+- Price ceiling (government-imposed maximum price)
+- Naturalization (foreign-born person becoming a citizen)
+- Monetarism (Milton Friedman, controlling money supply)
+- Monopsony (single buyer market)
+- Deadweight loss (efficiency loss from market distortion)
+- Watch for a drafting agent looping and repeating the same ~100-150 topics multiple times with slightly reworded phrasing across a single large batch — always run an exact-question-text dedup pass on drafts from this category before check-draft, not just check-draft's own internal-duplicate detection
 
 Use web search to verify every fact — do not rely on memory alone. Prefer authoritative sources (reference databases, textbooks, official organization sites) over guessing. For each question, actually find or confirm the fact via search rather than recalling it, especially for specific figures, dates, and membership counts.
 

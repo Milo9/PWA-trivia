@@ -5,7 +5,7 @@ You are drafting trivia questions for a multiple-choice trivia app. You have no 
 
 TOPIC: Science & Technology — physics, chemistry, biology, human anatomy, computing, engineering, inventions. Not astronomy/space (separate category) and not animals/plants in the wild (separate category).
 
-COUNT: 100 questions.
+COUNT: 200 questions.
 
 AVOID THESE ANGLES — already well-covered in my question bank, so don't draft facts that overlap with these (pick different, more specific facts instead):
 - Chemical symbol for tungsten (W)
@@ -79,6 +79,33 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - ENIAC as the first general-purpose electronic computer
 - Grace Hopper popularizing the term "computer bug" after finding a moth — also avoid asking "what insect was found" directly, since the existing question's own premise already states it was a moth
 - The Haber-Bosch process (ammonia synthesis, first used industrially at BASF Oppau in 1913)
+- Organelle that packages/modifies proteins (Golgi apparatus)
+- Iron-containing protein that transports oxygen in red blood cells (Hemoglobin)
+- Which company developed Java (Sun Microsystems)
+- Hormone from pancreatic alpha cells that raises blood glucose (Glucagon)
+- Biological term for programmed cell death (Apoptosis)
+- SI unit of electrical conductance (Siemens)
+- Chemical symbol for bismuth (Bi)
+- Process by which plants convert light/sunlight into chemical energy (Photosynthesis)
+- First mammal cloned from an adult somatic cell (Dolly the sheep)
+- Chemical formula for table salt (NaCl)
+- Structural protein that is the main component of hair/nails (Keratin)
+- SI unit of pressure (Pascal)
+- Subatomic particle discovered by J.J. Thomson in 1897 (Electron)
+- Which organ produces insulin (Pancreas)
+- Bernoulli's principle (fluid speed increase = pressure decrease)
+- Who discovered X-rays (Wilhelm Röntgen, 1895)
+- Longest cranial nerve, extending into the abdomen (Vagus nerve)
+- Muscle primarily responsible for breathing (Diaphragm)
+- Ionic bond definition (electrostatic attraction between oppositely charged ions from electron transfer) — same underlying fact as "which bond forms by electron transfer," already covered above
+- Which structure connects the brain's two hemispheres (Corpus callosum)
+- Universal-donor blood type (O negative)
+- Force that opposes motion between two surfaces in contact (Friction)
+- Compound responsible for chili peppers' spicy heat (Capsaicin)
+- Earth's innermost layer (Inner core)
+- State of matter the Sun is mostly made of (Plasma)
+- First commercially available microprocessor, Intel 1971 (Intel 4004)
+- Solid-to-gas phase change term (Sublimation) is already covered above — also watch for its reverse, gas-to-solid (Deposition), which is a DIFFERENT term/answer, not a duplicate
 
 CAUTION — some pairs that look like duplicates by shared answer or surface wording are NOT: SI unit of magnetic flux (Weber) is a different quantity from SI unit of magnetic flux DENSITY (Tesla), already covered; "which company developed C#" (Microsoft) is a different fact from "which company developed C" (Bell Labs/AT&T) despite the near-identical question text. Don't skip a fact just because a similarly-worded question already exists — check whether it's actually the same underlying fact first.
 

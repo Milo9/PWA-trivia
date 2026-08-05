@@ -10476,5 +10476,551 @@
       "Tapajos River"
     ],
     "answer": "Madeira River"
+  },
+  {
+    "id": "geography-500",
+    "difficulty": "easy",
+    "category": "geography",
+    "question": "Which microstate's capital shares its name with the country itself?",
+    "options": [
+      "Monaco",
+      "Andorra",
+      "Luxembourg",
+      "Malta"
+    ],
+    "answer": "Monaco"
+  },
+  {
+    "id": "geography-501",
+    "difficulty": "easy",
+    "category": "geography",
+    "question": "What is the capital of Andorra?",
+    "options": [
+      "Andorra la Vella",
+      "Barcelona",
+      "Madrid",
+      "San Marino"
+    ],
+    "answer": "Andorra la Vella"
+  },
+  {
+    "id": "geography-502",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the capital of Kuwait?",
+    "options": [
+      "Kuwait City",
+      "Doha",
+      "Manama",
+      "Riyadh"
+    ],
+    "answer": "Kuwait City"
+  },
+  {
+    "id": "geography-503",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which city is the capital of Qatar?",
+    "options": [
+      "Doha",
+      "Abu Dhabi",
+      "Dubai",
+      "Muscat"
+    ],
+    "answer": "Doha"
+  },
+  {
+    "id": "geography-504",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the capital of the United Arab Emirates?",
+    "options": [
+      "Abu Dhabi",
+      "Dubai",
+      "Sharjah",
+      "Doha"
+    ],
+    "answer": "Abu Dhabi"
+  },
+  {
+    "id": "geography-505",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which city serves as the capital of Yemen?",
+    "options": [
+      "Sana'a",
+      "Aden",
+      "Taiz",
+      "Hodeidah"
+    ],
+    "answer": "Sana'a"
+  },
+  {
+    "id": "geography-506",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the capital of Syria?",
+    "options": [
+      "Damascus",
+      "Aleppo",
+      "Homs",
+      "Latakia"
+    ],
+    "answer": "Damascus"
+  },
+  {
+    "id": "geography-507",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which city is the capital of Iraq?",
+    "options": [
+      "Baghdad",
+      "Basra",
+      "Mosul",
+      "Erbil"
+    ],
+    "answer": "Baghdad"
+  },
+  {
+    "id": "geography-508",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the capital of Iran?",
+    "options": [
+      "Tehran",
+      "Isfahan",
+      "Shiraz",
+      "Tabriz"
+    ],
+    "answer": "Tehran"
+  },
+  {
+    "id": "geography-509",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which city serves as the capital of Afghanistan?",
+    "options": [
+      "Kabul",
+      "Herat",
+      "Kandahar",
+      "Mazar-i-Sharif"
+    ],
+    "answer": "Kabul"
+  },
+  {
+    "id": "geography-510",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the capital of Pakistan?",
+    "options": [
+      "Islamabad",
+      "Karachi",
+      "Lahore",
+      "Peshawar"
+    ],
+    "answer": "Islamabad"
+  },
+  {
+    "id": "geography-511",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which city is the capital of Bangladesh?",
+    "options": [
+      "Dhaka",
+      "Chittagong",
+      "Khulna",
+      "Rajshahi"
+    ],
+    "answer": "Dhaka"
+  },
+  {
+    "id": "geography-512",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which city serves as the capital of Vietnam?",
+    "options": [
+      "Hanoi",
+      "Ho Chi Minh City",
+      "Da Nang",
+      "Hue"
+    ],
+    "answer": "Hanoi"
+  },
+  {
+    "id": "geography-513",
+    "difficulty": "easy",
+    "category": "geography",
+    "question": "What is the capital of Singapore?",
+    "options": [
+      "Singapore",
+      "George Town",
+      "Malacca",
+      "Johor Bahru"
+    ],
+    "answer": "Singapore"
+  },
+  {
+    "id": "geography-514",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the capital of Uganda?",
+    "options": [
+      "Kampala",
+      "Entebbe",
+      "Jinja",
+      "Gulu"
+    ],
+    "answer": "Kampala"
+  },
+  {
+    "id": "geography-515",
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "What is the capital of the Republic of the Congo?",
+    "options": [
+      "Brazzaville",
+      "Pointe-Noire",
+      "Dolisie",
+      "Nkayi"
+    ],
+    "answer": "Brazzaville"
+  },
+  {
+    "id": "geography-516",
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "Which city serves as the capital of Somalia?",
+    "options": [
+      "Mogadishu",
+      "Hargeisa",
+      "Bosaso",
+      "Kismayo"
+    ],
+    "answer": "Mogadishu"
+  },
+  {
+    "id": "geography-517",
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "What is the capital of Zimbabwe?",
+    "options": [
+      "Harare",
+      "Bulawayo",
+      "Mutare",
+      "Gweru"
+    ],
+    "answer": "Harare"
+  },
+  {
+    "id": "geography-518",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the longest river in North America?",
+    "options": [
+      "Mississippi-Missouri River",
+      "Yukon River",
+      "Rio Grande",
+      "Colorado River"
+    ],
+    "answer": "Mississippi-Missouri River"
+  },
+  {
+    "id": "geography-519",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which lake is the largest in Europe by surface area?",
+    "options": [
+      "Lake Ladoga",
+      "Lake Onega",
+      "Lake Saimaa",
+      "Lake Vänern"
+    ],
+    "answer": "Lake Ladoga"
+  },
+  {
+    "id": "geography-520",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the longest river in the Middle East?",
+    "options": [
+      "Euphrates River",
+      "Tigris River",
+      "Jordan River",
+      "Nile River"
+    ],
+    "answer": "Euphrates River"
+  },
+  {
+    "id": "geography-521",
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "Which sea is the largest in the world by surface area?",
+    "options": [
+      "Philippine Sea",
+      "Arabian Sea",
+      "Coral Sea",
+      "South China Sea"
+    ],
+    "answer": "Philippine Sea"
+  },
+  {
+    "id": "geography-522",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the second-largest peninsula in the world?",
+    "options": [
+      "Deccan Peninsula",
+      "Indochina Peninsula",
+      "Iberian Peninsula",
+      "Scandinavian Peninsula"
+    ],
+    "answer": "Deccan Peninsula"
+  },
+  {
+    "id": "geography-523",
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "Which country has the most pyramids?",
+    "options": [
+      "Sudan",
+      "Egypt",
+      "Mexico",
+      "Peru"
+    ],
+    "answer": "Sudan"
+  },
+  {
+    "id": "geography-524",
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "Which country has the longest north-south extent?",
+    "options": [
+      "Chile",
+      "Argentina",
+      "Brazil",
+      "Canada"
+    ],
+    "answer": "Chile"
+  },
+  {
+    "id": "geography-525",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country is home to the tallest active volcano in the world?",
+    "options": [
+      "Argentina",
+      "Chile",
+      "Ecuador",
+      "Peru"
+    ],
+    "answer": "Argentina"
+  },
+  {
+    "id": "geography-526",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country spans the most time zones?",
+    "options": [
+      "Russia",
+      "France",
+      "United States",
+      "United Kingdom"
+    ],
+    "answer": "France"
+  },
+  {
+    "id": "geography-527",
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "Which country has the most official languages?",
+    "options": [
+      "Zimbabwe",
+      "South Africa",
+      "Singapore",
+      "Switzerland"
+    ],
+    "answer": "Zimbabwe"
+  },
+  {
+    "id": "geography-528",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the largest lake in South America by surface area?",
+    "options": [
+      "Lake Titicaca",
+      "Lake Maracaibo",
+      "Lake Argentina",
+      "Lake O'Higgins"
+    ],
+    "answer": "Lake Maracaibo"
+  },
+  {
+    "id": "geography-529",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the capital of Luxembourg?",
+    "options": [
+      "Luxembourg City",
+      "Esch-sur-Alzette",
+      "Differdange",
+      "Dudelange"
+    ],
+    "answer": "Luxembourg City"
+  },
+  {
+    "id": "geography-530",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the longest river in Asia?",
+    "options": [
+      "Yangtze River",
+      "Yellow River",
+      "Mekong River",
+      "Lena River"
+    ],
+    "answer": "Yangtze River"
+  },
+  {
+    "id": "geography-531",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country is known as the 'Land of the Midnight Sun'?",
+    "options": [
+      "Norway",
+      "Sweden",
+      "Finland",
+      "Iceland"
+    ],
+    "answer": "Norway"
+  },
+  {
+    "id": "geography-532",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the largest lake in Africa by volume?",
+    "options": [
+      "Lake Tanganyika",
+      "Lake Victoria",
+      "Lake Malawi",
+      "Lake Turkana"
+    ],
+    "answer": "Lake Tanganyika"
+  },
+  {
+    "id": "geography-533",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country is the world's largest producer of sugar?",
+    "options": [
+      "Brazil",
+      "India",
+      "China",
+      "Thailand"
+    ],
+    "answer": "Brazil"
+  },
+  {
+    "id": "geography-534",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country is the world's largest producer of bananas?",
+    "options": [
+      "India",
+      "China",
+      "Indonesia",
+      "Brazil"
+    ],
+    "answer": "India"
+  },
+  {
+    "id": "geography-535",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country is the world's largest producer of cotton?",
+    "options": [
+      "China",
+      "India",
+      "United States",
+      "Pakistan"
+    ],
+    "answer": "China"
+  },
+  {
+    "id": "geography-536",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country is the world's largest producer of rice?",
+    "options": [
+      "China",
+      "India",
+      "Indonesia",
+      "Bangladesh"
+    ],
+    "answer": "China"
+  },
+  {
+    "id": "geography-537",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the capital of Liberia?",
+    "options": [
+      "Monrovia",
+      "Buchanan",
+      "Gbarnga",
+      "Kakata"
+    ],
+    "answer": "Monrovia"
+  },
+  {
+    "id": "geography-538",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country is the world's largest producer of wheat?",
+    "options": [
+      "China",
+      "India",
+      "United States",
+      "Russia"
+    ],
+    "answer": "China"
+  },
+  {
+    "id": "geography-539",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the capital of the Gambia?",
+    "options": [
+      "Banjul",
+      "Serekunda",
+      "Brikama",
+      "Bakau"
+    ],
+    "answer": "Banjul"
+  },
+  {
+    "id": "geography-540",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country is the world's largest producer of maize?",
+    "options": [
+      "United States",
+      "China",
+      "Brazil",
+      "Mexico"
+    ],
+    "answer": "United States"
+  },
+  {
+    "id": "geography-541",
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country is the world's largest producer of soybeans?",
+    "options": [
+      "United States",
+      "Brazil",
+      "Argentina",
+      "China"
+    ],
+    "answer": "United States"
   }
 ]
