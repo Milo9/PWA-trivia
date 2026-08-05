@@ -92,6 +92,38 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Monetarism (Milton Friedman, controlling money supply)
 - Monopsony (single buyer market)
 - Deadweight loss (efficiency loss from market distortion)
+- Parliamentary system (executive drawn from and accountable to the legislature)
+- Meritocracy (advancement based on ability/achievement)
+- Unitary state (central government holds supreme authority over subnational units)
+- Confederation (sovereign states delegating only limited power to a weak central body)
+- Kleptocracy, gerontocracy, and plutocracy (rule by thieves/elders/the wealthy)
+- Coalition, minority, and caretaker government (different types of governing arrangements short of a single-party majority)
+- Shadow cabinet (Westminster opposition group mirroring ministerial portfolios)
+- Devolution (transfer of power from central to regional/local government)
+- Bicameral and unicameral legislature
+- Ranked-choice voting and referendum
+- Writ of certiorari, injunction, nolo contendere, and stare decisis
+- Strict liability (responsible regardless of fault/intent)
+- Statute of frauds (certain contracts must be in writing)
+- Due process and Miranda warnings
+- Plea bargain and indictment
+- Common law legal system
+- Beyond a reasonable doubt (criminal standard of proof)
+- Stagflation, deflation, hyperinflation, and disinflation
+- Gross National Product (GNP), distinct from GDP
+- Balance of payments and floating exchange rate
+- Comparative advantage and absolute advantage
+- Economies of scale
+- Price elasticity of demand
+- Quantitative easing and open market operations
+- Moral hazard and adverse selection
+- Supply-side economics
+- Value Added Tax (VAT), Pigouvian tax, and capital gains tax
+- Consumer Price Index (CPI) and Producer Price Index (PPI)
+- IMF/World Bank headquarters (Washington DC) and International Criminal Court headquarters (The Hague)
+- Pareto efficiency and Nash equilibrium
+- Seigniorage (government profit from issuing currency)
+- Public goods being non-excludable and non-rivalrous (e.g. national defense, a lighthouse)
 - Watch for a drafting agent looping and repeating the same ~100-150 topics multiple times with slightly reworded phrasing across a single large batch — always run an exact-question-text dedup pass on drafts from this category before check-draft, not just check-draft's own internal-duplicate detection
 
 Use web search to verify every fact — do not rely on memory alone. Prefer authoritative sources (reference databases, textbooks, official organization sites) over guessing. For each question, actually find or confirm the fact via search rather than recalling it, especially for specific figures, dates, and membership counts.

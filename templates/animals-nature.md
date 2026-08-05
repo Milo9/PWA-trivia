@@ -107,6 +107,9 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Anglerfish's lure glowing via symbiotic bioluminescent bacteria
 - How many eyes a honeybee has (five, compound + ocelli)
 - Plants absorbing carbon dioxide for photosynthesis
+- Octopus blood being blue due to the copper-based protein hemocyanin
+- Manatees having only six cervical vertebrae instead of the usual seven mammalian count
+- Tundra biome definition (permafrost, low-growing mosses/lichens/shrubs, no trees)
 
 Two facts that are premises already stated inside an existing question's stem, so drafting them as a separate standalone question is redundant even though the wording/answer differs: Rafflesia arnoldii being the world's largest individual flower (already stated as a premise in the existing "corpse flower" question), and a baobab's swollen trunk being for water storage (already implied by the existing "how many liters" question).
 

@@ -11,7 +11,7 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - The Nahuatl-derived name for the marigold flower used on Mexican Day of the Dead altars (Cempasúchil)
 - Which country/region the Ainu people traditionally inhabit (Hokkaido, Japan) — covered in either "which country is home to the Ainu" or "which region do the Ainu inhabit" framing
 - Diwali as "the Hindu festival of lights" (already asked 3+ times)
-- Which country's rugby team performs the haka before matches (New Zealand) — a different fact from the haka's modern ceremonial uses (weddings/funerals/welcoming guests), which is NOT yet covered
+- Which country's rugby team performs the haka before matches (New Zealand), and separately, the haka's modern ceremonial uses (weddings, funerals, welcoming guests) — both angles now covered
 - The Running of the Bulls in Pamplona, Spain
 - Songkran, Thailand's water-splashing New Year festival
 - Injera, the Ethiopian/Eritrean sour flatbread made from teff
@@ -79,6 +79,19 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Namaste, the Indian greeting made by pressing palms together
 - The cherry blossom as Japan's national flower, associated with transience
 - Hongbao, the red envelopes of money given during Chinese New Year
+- Proper meishi (Japanese business card) presentation/receiving etiquette
+- The Korean concept of jeong (deep emotional bond/attachment)
+- Irish slang word "craic" meaning fun/good times
+- The Finnish sauna vihta/vasta (leafy branch bundle used to gently beat the skin)
+- South Africa's braai as a social barbecue gathering
+- Harbin's Ice and Snow World sculptures being carved from Songhua River ice
+- Silbo Gomero, the whistled language of La Gomera in the Canary Islands
+- Blini as the pancake central to Russia's Maslenitsa butter week
+- Kahve falı, Turkish fortune-telling from coffee grounds
+- The Persian Haft-Sin/Haft-Seen table's seven items all starting with the letter S (Seen)
+- Korean nunchi (the social skill of reading the room/sensing others' moods)
+- The sporran, the pouch worn at the front of a Scottish kilt
+- Finnish (and Hungarian) belonging to the Uralic language family, unlike neighboring Indo-European languages
 
 Use web search to verify every fact — do not rely on memory alone. Prefer authoritative sources (encyclopedic sources, cultural references) over guessing. For each question, actually find the fact via search rather than recalling it, especially for obscure details (lesser-known customs, specific terms).
 

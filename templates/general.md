@@ -23,6 +23,15 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - The Rubik's Cube's original name, "Magic Cube," or Ernő Rubik's profession as an architecture professor
 - The QWERTY keyboard layout being designed to prevent typewriter key jams
 - Why SOS was chosen as the Morse code distress signal (simple, distinctive pattern)
+- "Saved by the bell" originating from boxing
+- Portmanteau definition (word blending two others, e.g. brunch, smog) and Lewis Carroll coining the term in Through the Looking-Glass (1871)
+- Idiom meanings: "spill the beans," "kick the bucket," "bite the bullet," "break a leg," "the whole nine yards"
+- Spoonerism, malapropism, and heteronym definitions
+- Baker's dozen (13), league (~3 miles), and furlong (220 yards) as traditional units
+- Card/board game counts: Uno deck size, Risk board territories, Clue/Cluedo suspects, Texas Hold'em hole cards dealt, opposite faces on a standard die summing to 7, Monopoly's passing-Go salary
+- Royal flush as poker's highest-ranking hand
+- The tittle (dot over a lowercase i or j)
+- How long a fortnight is (14 days)
 
 Use web search to verify every fact — do not rely on memory alone. Prefer authoritative sources (reference databases, almanacs) over guessing. For each question, actually find the fact via search rather than recalling it, especially for obscure details.
 
