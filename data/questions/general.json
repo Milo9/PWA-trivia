@@ -13,45 +13,6 @@
     "answer": "The Nobel Prize"
   },
   {
-    "id": "general-498",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "What is the term for a system of government in which power is divided between a central authority and constituent regions?",
-    "options": [
-      "Unitary state",
-      "Federation",
-      "Confederation",
-      "Monarchy"
-    ],
-    "answer": "Federation"
-  },
-  {
-    "id": "general-499",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "Which international organization, headquartered in Geneva, is responsible for coordinating global public health, notably during the COVID-19 pandemic?",
-    "options": [
-      "UNICEF",
-      "Red Cross",
-      "World Health Organization (WHO)",
-      "UNESCO"
-    ],
-    "answer": "World Health Organization (WHO)"
-  },
-  {
-    "id": "general-500",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "What is the term for the annual rate at which the general level of prices for goods and services rises?",
-    "options": [
-      "Deflation",
-      "Recession",
-      "Interest rate",
-      "Inflation"
-    ],
-    "answer": "Inflation"
-  },
-  {
     "id": "general-593",
     "category": "general",
     "difficulty": "easy",
@@ -91,19 +52,6 @@
     "answer": "To endure a painful situation with courage"
   },
   {
-    "id": "general-733",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "Which economic theory, associated with Adam Smith, describes markets self-regulating through an 'invisible hand'?",
-    "options": [
-      "Free market capitalism",
-      "Keynesian economics",
-      "Mercantilism",
-      "Socialism"
-    ],
-    "answer": "Free market capitalism"
-  },
-  {
     "id": "general-736",
     "category": "general",
     "difficulty": "hard",
@@ -128,32 +76,6 @@
       "Et alia"
     ],
     "answer": "Exempli gratia"
-  },
-  {
-    "id": "general-743",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "What is the term for regular payments made to a former employee after retirement?",
-    "options": [
-      "Salary",
-      "Dividend",
-      "Pension",
-      "Grant"
-    ],
-    "answer": "Pension"
-  },
-  {
-    "id": "general-745",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "What is the legal principle, fundamental to many justice systems, stating that a defendant is 'innocent until proven guilty'?",
-    "options": [
-      "Presumption of innocence",
-      "Habeas corpus",
-      "Double jeopardy",
-      "Due process"
-    ],
-    "answer": "Presumption of innocence"
   },
   {
     "id": "general-988",
@@ -182,32 +104,6 @@
     "answer": "Etymology"
   },
   {
-    "id": "general-991",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "What is the term for a government system in which citizens vote directly on laws and policies, rather than through elected representatives?",
-    "options": [
-      "Direct democracy",
-      "Representative democracy",
-      "Oligarchy",
-      "Theocracy"
-    ],
-    "answer": "Direct democracy"
-  },
-  {
-    "id": "general-992",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "What is the term for currency that a government declares to be legal tender, without being backed by a physical commodity like gold?",
-    "options": [
-      "Commodity money",
-      "Fiat currency",
-      "Cryptocurrency",
-      "Representative money"
-    ],
-    "answer": "Fiat currency"
-  },
-  {
     "id": "general-993",
     "category": "general",
     "difficulty": "medium",
@@ -219,45 +115,6 @@
       "The International Olympic Committee"
     ],
     "answer": "The Nobel Foundation"
-  },
-  {
-    "id": "general-994",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "What is the name for the annual gathering of world leaders and business executives held in Davos, Switzerland?",
-    "options": [
-      "The G7 Summit",
-      "The United Nations General Assembly",
-      "The Bilderberg Meeting",
-      "The World Economic Forum"
-    ],
-    "answer": "The World Economic Forum"
-  },
-  {
-    "id": "general-997",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "Which economic indicator measures the total monetary value of all finished goods and services produced within a country's borders in a given period?",
-    "options": [
-      "Consumer Price Index",
-      "Trade balance",
-      "Gross Domestic Product (GDP)",
-      "National debt"
-    ],
-    "answer": "Gross Domestic Product (GDP)"
-  },
-  {
-    "id": "general-1000",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "What is the term for the legal principle preventing a person from being tried twice for the same offense?",
-    "options": [
-      "Habeas corpus",
-      "Double jeopardy",
-      "Due process",
-      "Presumption of innocence"
-    ],
-    "answer": "Double jeopardy"
   },
   {
     "id": "general-1251",
@@ -375,71 +232,6 @@
       "Proverb"
     ],
     "answer": "Idiom"
-  },
-  {
-    "id": "general-1283",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "What is the term for an official currency that is not backed by a physical commodity like gold?",
-    "options": [
-      "Fiat currency",
-      "Cryptocurrency",
-      "Commodity currency",
-      "Reserve currency"
-    ],
-    "answer": "Fiat currency"
-  },
-  {
-    "id": "general-1289",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "What is the term for a leader who rules with absolute power, often oppressively?",
-    "options": [
-      "Dictator",
-      "Monarch",
-      "President",
-      "Chancellor"
-    ],
-    "answer": "Dictator"
-  },
-  {
-    "id": "general-1299",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "What is the name for a period of economic decline typically defined as two consecutive quarters of negative growth?",
-    "options": [
-      "Recession",
-      "Depression",
-      "Inflation",
-      "Stagnation"
-    ],
-    "answer": "Recession"
-  },
-  {
-    "id": "general-1399",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "What is the term for a government led by a small, powerful group of individuals?",
-    "options": [
-      "Oligarchy",
-      "Federalism",
-      "Theocracy",
-      "Anarchy"
-    ],
-    "answer": "Oligarchy"
-  },
-  {
-    "id": "general-1400",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "How many permanent members with veto power sit on the United Nations Security Council?",
-    "options": [
-      "5",
-      "6",
-      "4",
-      "10"
-    ],
-    "answer": "5"
   },
   {
     "id": "general-1751",
@@ -570,19 +362,6 @@
       "Capricorn"
     ],
     "answer": "Aries"
-  },
-  {
-    "id": "general-2530",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "What is the term for money paid to a divorced spouse for ongoing support?",
-    "options": [
-      "Alimony",
-      "Dowry",
-      "Annuity",
-      "Pension"
-    ],
-    "answer": "Alimony"
   },
   {
     "id": "general-2596",

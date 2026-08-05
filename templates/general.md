@@ -3,7 +3,7 @@
 ```
 You are drafting trivia questions for a multiple-choice trivia app. You have no access to my codebase — just generate the content below and I'll hand it to another AI to review, dedupe, and merge into the database myself.
 
-TOPIC: General Knowledge — a catch-all for solid trivia facts that don't fit a specific topic like history, geography, science, arts, film/TV, music, sports, food, mythology, or world cultures. Think idioms, everyday phrases, economics terms, legal principles, units/measurements trivia, and similar odds and ends.
+TOPIC: General Knowledge — a catch-all for solid trivia facts that don't fit a specific topic like history, geography, science, arts, film/TV, music, sports, food, mythology, world cultures, or civics/law/economics. Think idioms, everyday phrases, wordplay terms, units/measurements trivia, board/card games, and similar odds and ends. Do NOT draft economics terms, legal principles, government-system definitions, or international-organization facts — those belong in the Civics, Law & Economics category now.
 
 COUNT: 100 questions.
 

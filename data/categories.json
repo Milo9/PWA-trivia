@@ -91,5 +91,11 @@
     "id": "business-brands",
     "name": "Business & Brands",
     "file": "questions/business-brands.json"
+  },
+  {
+    "id": "civics-law-economics",
+    "name": "Civics, Law & Economics",
+    "file": "questions/civics-law-economics.json",
+    "dupeGroup": "general"
   }
 ]

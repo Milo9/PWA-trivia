@@ -26,5 +26,6 @@ between files or edit these by hand.
 - [world-cultures.md](world-cultures.md) — World Cultures & Languages
 - [general.md](general.md) — General Knowledge (catch-all)
 - [business-brands.md](business-brands.md) — Business & Brands
+- [civics-law-economics.md](civics-law-economics.md) — Civics, Law & Economics
 - [friends.md](friends.md) — Friends (TV show)
 - [big-bang-theory.md](big-bang-theory.md) — The Big Bang Theory (TV show)
