@@ -76,6 +76,38 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Monet's "Impression, Sunrise" giving the Impressionist movement its name — now covered
 - Keats's "Ode on a Grecian Urn" via its closing "beauty is truth" lines — now covered
 - Which book was published first in C.S. Lewis's "Chronicles of Narnia" (The Lion, the Witch and the Wardrobe) — now covered
+- Who sculpted "Apollo and Daphne" (Gian Lorenzo Bernini) — covered via a "Baroque marble group of a nymph turning into laurel" description; don't reask via a differently-worded version of the same description
+- Who painted "The Horse Fair" (Rosa Bonheur) — covered via both "scandalous subject's clothing" and "monumental canvas of Percherons in the Met" framings
+- Who painted "The Raft of the Medusa" (Théodore Géricault) — covered via both "1819 painting of a shipwreck's aftermath" and "survivors adrift on a raft" framings
+- Who sculpted the Statue of David, now in the Galleria dell'Accademia (Michelangelo) — now covered
+- Who painted "The Gleaners" (Jean-François Millet)
+- Who is the author of "Their Eyes Were Watching God" (Zora Neale Hurston) — covered via the Harlem Renaissance framing
+- Who wrote "The Color Purple," the epistolary novel narrated via letters from Celie to Nettie (Alice Walker) — now covered via two separate framings
+- Who wrote "Things Fall Apart," set in the fictional Igbo village of Umuofia (Chinua Achebe)
+- Who created the detective Hercule Poirot (Agatha Christie)
+- Which art movement is characterized by small visible brushstrokes and open composition capturing light, pioneered by Monet/Renoir (Impressionism) — already covered multiple times via near-identical definition framings
+- Who wrote "The Road Not Taken" (Robert Frost)
+- In Proust's "In Search of Lost Time," what food triggers the narrator's involuntary memory (a madeleine)
+- Which Frida Kahlo painting shows two seated self-portraits with exposed, vein-connected hearts ("The Two Fridas")
+- Who sculpted "The Burghers of Calais" (Auguste Rodin)
+- Which 20th-century movement, led by André Breton, sought to unlock the unconscious through dream imagery (Surrealism) — already covered multiple times via near-identical definition framings
+- In what city is James Joyce's "Ulysses" set (Dublin)
+- Who wrote "If—" (Rudyard Kipling)
+- Which dystopian Aldous Huxley novel depicts a genetically engineered "World State" (Brave New World)
+- Who painted "The Treachery of Images" / "Ceci n'est pas une pipe" (René Magritte)
+- Who wrote "Fahrenheit 451" (Ray Bradbury) — distinct from the already-covered "what is Guy Montag's profession" angle, but now also covered
+- Which art movement, pioneered by Picasso and Braque around 1907-08, depicts subjects from multiple viewpoints via fragmented geometric forms (Cubism) — already covered multiple times via near-identical definition framings
+- Which art movement, founded by Kazimir Malevich around 1913 and epitomized by "Black Square," reduces art to basic geometric shapes (Suprematism) — already covered multiple times; don't misattribute a co-founder (Malevich founded it alone, not with Kandinsky)
+- Which Dutch art movement, founded 1917 by Mondrian/van Doesburg, uses geometric shapes and primary colors (De Stijl)
+- Which ancient Greek playwright wrote both "Oedipus Rex" and "Antigone" (Sophocles) — already covered via near-identical framings
+- Which novel opens with "It was the best of times, it was the worst of times" (Dickens's "A Tale of Two Cities") — covered multiple times
+- Which novel opens with "In a hole in the ground there lived a hobbit" (Tolkien's "The Hobbit")
+- In Titian's "Venus of Urbino," note the painting is in the Uffizi Gallery, Florence — NOT the Galleria Borghese (that error slipped through once already)
+- What is the name of Louise Bourgeois's giant spider sculpture outside the Guggenheim Bilbao ("Maman")
+- Which novel begins with a train emerging from a tunnel into snow country (Kawabata's "Snow Country")
+- Which Lichtenstein pop-art painting depicts a fighter jet firing a rocket, titled after its comic-book sound effect ("Whaam!")
+- Which Dostoevsky novel features Prince Myshkin, nicknamed for his epileptic-driven innocence ("The Idiot")
+- Who created Sherlock Holmes (Arthur Conan Doyle) — already covered
 
 Avoid drafting a question whose only in-universe answer is a character's name (or an in-story quoted term) that's identical to the work's title — these self-answering questions get cut regardless of how obscure the underlying fact is. Confirmed examples already hit: Voltaire's "Candide" (protagonist is literally named Candide), Voltaire's "Zadig" (protagonist named Zadig), Neal Stephenson's "Snow Crash" (the in-story drug is named "Snow Crash"), and Gogol's "Dead Souls" (the question's own premise quotes the phrase "dead souls").
 

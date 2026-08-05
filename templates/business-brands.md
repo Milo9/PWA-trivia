@@ -197,6 +197,45 @@ AVOID THESE ANGLES (facts already asked, in some cases more than once — don't 
 - Monopoly's predecessor (The Landlord's Game) being designed to teach the evils of monopolies
 - Baskin-Robbins' "31 flavors" meaning one flavor per day of the month
 - Jack in the Box's original name, Oscar's
+- Justin Timberlake being paid ~$6 million to sing/perform McDonald's "I'm Lovin' It" jingle/falsetto hook (2003) — a drafting-agent loop asked this same fact 3 separate ways in one batch
+- McDonald's product/mascot history, now also covered: original 1963 mascot Speedee (a winking chef, predates Ronald), the 1962 Filet-O-Fish (aimed at Catholics abstaining from meat on Fridays), the 1972 Egg McMuffin (invented by franchisee Herb Peterson), and the 1967 Big Mac (created by franchisee Jim Delligatti in Uniontown, PA)
+- KFC founder Colonel Sanders starting to franchise at age 65, door-to-door
+- Domino's "30-minute delivery guarantee or it's free" (US, 1979-1993)
+- Chick-fil-A being closed on Sundays, founded 1967
+- Dunkin' Donuts dropping "Donuts" from its name/rebranding (announced Sept. 2018, rolled out Jan. 2019)
+- The Hermès Birkin bag's 1984 origin story (Jane Birkin on a flight)
+- Converse's first athlete endorsement, Chuck Taylor (1921)
+- Canada Goose's original name, Metro Sportswear
+- What "TOMS" (shoes) stands for/originates from
+- Adidas's trefoil logo debuting at the 1971 Munich Olympics (don't confuse with the later three-stripes-only logo)
+- UGG boots being trademarked in the US in 1985 despite older Australian surf-culture origins
+- Balenciaga's 1919 founding city (San Sebastián, Spain) by Cristóbal Balenciaga
+- Magic Leap's AR headset flop (raised $2.7B, ~$2,300 headset, shut down consumer business 2020)
+- Quibi, the short-form streaming flop (name from "Quick Bites," shut down Oct. 2020 after raising $1.75B)
+- Amazon's other hardware flops, now also covered: the Echo Look fashion camera (2017-2020) and Facebook/Meta's Portal smart display (2018, consumer sales ended 2022)
+- Twitter's Vine app shutting down in 2017 (six-second looping videos)
+- Google's Project Loon (high-altitude balloon internet, 2013-2021) and Google Allo (messaging app with an AI assistant feature, 2016-2019)
+- BlackBerry PlayBook tablet flop (April 2011, ~500,000 units sold) and Windows RT (2012 tablet OS restricted to Windows Store apps, doomed Surface RT)
+- Nokia N-Gage, the taco-shaped gaming phone hybrid (Oct. 2003, ~3 million sold)
+- The Segway's Dec. 2001 unveiling under code name "Ginger," invented by Dean Kamen
+- Pebble, the Kickstarter smartwatch (2012, $43M raised) acquired and shut down by Fitbit (Dec. 2016)
+- Kirkland Signature being named after Costco's original Kirkland, WA headquarters location
+- Walmart retiring "Always Low Prices, Always" for "Save Money. Live Better." and Walmart's 2016 Jet.com acquisition ($3.3B)
+- Amazon's smile-logo (an arrow from A to Z, introduced 2000)
+- P&G/Unilever personal-care brand origin facts, now also covered: Dove Beauty Bar (1957, one-quarter moisturizing cream), L'Oréal's "Because You're Worth It" slogan (coined 1971 by 23-year-old copywriter Ilon Specht — note the correct wording is "You're," not "I'm"), Maybelline's name (founder's sister Mabel + Vaseline) and its "Maybe she's born with it" slogan debut year, Pantene's name origin (from panthenol), Head & Shoulders' launch year, Old Spice's original target gender (1937) and its acquisition by P&G, Gillette's founding of the American Safety Razor Company and its "The Best a Man Can Get" slogan debuting during a 1989 sporting event, Oil of Olay's 1952 South African founding, Estée Lauder's 1946 founding, Nivea's name (Latin "niveus," meaning snowy-white) and its blue-tin packaging introduction, Revlon's name (Revson brothers + chemist Charles Lachman's "L"), and Pond's Cream's 1846 origin as "Golden Treasure"
+- Vaseline's 1859 origin: Robert Chesebrough noticing oil-rig workers using "rod wax" residue on wounds
+- Bic's 1989 perfume flop that smelled like its lighters
+- Under Armour's 1996 founding in Kevin Plank's grandmother's Washington D.C. basement
+- eBay's original name, AuctionWeb (Pierre Omidyar, 1995)
+- Pizza Hut's first location opening in Wichita, Kansas (1958, Dan and Frank Carney)
+- Google Wave, the 2009-2010 real-time collaboration platform killed after low adoption
+- The Atari 2600 "E.T. the Extra-Terrestrial" game cartridges buried in a New Mexico landfill (1983)
+- The Samsung Galaxy Note 7's 2016 battery-fire recall
+- Uber's original name at 2009 founding, UberCab
+- Shopify's 2006 origin as an online snowboard store
+- Porsche's rearing-horse logo being based on the Stuttgart coat of arms
+- Frito-Lay's WOW! chips (1998) containing the fat substitute olestra, which caused digestive issues
+- Juicero, the $400 Wi-Fi juicer mocked in 2017 after Bloomberg showed its packs could be hand-squeezed
 
 CAUTION — verify precise founding names/dates via web search rather than memory for corporate-history "original name" questions: a 2026-08-01 batch had to cut a Canon question that conflated its 1933 lab name ("Precision Optical Instruments Laboratory") with its differently-named 1937 incorporation, and had to fix an MSN Direct question that said the service "shut down in 2008" when only the SPOT watches were discontinued that year — the underlying data service actually ran until 2011/2012. Also watch for the same fact tested in both directions within one batch (e.g. "which company made Surge" and "what was Coca-Cola's anti-Mountain- Dew soda called" are the same fact, not two) and for a specific product name applied anachronistically to an earlier event (e.g. calling 1873's riveted jeans "Levi's 501" — the 501 lot number wasn't used until ~1890).
 

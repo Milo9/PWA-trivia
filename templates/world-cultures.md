@@ -57,6 +57,28 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Japan's Hadaka Matsuri ("Naked Festival") at Saidaiji Temple, Okayama — men in loincloths (fundoshi) competing for lucky sticks
 - Oktoberfest being hosted in Munich, Germany
 - The Kanamara Matsuri in Kawasaki celebrating a steel phallus/fertility symbol
+- The Zulu greeting "Sawubona" literally meaning "I see you"
+- The Filipino "mano" gesture (pressing an elder's hand to your forehead)
+- Songpyeon, the half-moon rice cakes made for Korea's Chuseok harvest festival
+- Bon Odori, the folk dance performed around a yagura tower at Japan's Obon festival
+- Löyly, the Finnish word for steam created by throwing water on hot sauna stones
+- Swahili "safari" originally meaning "journey"
+- Yiddish traditionally being written in Hebrew script
+- Moroccan mint tea being poured from a height to create foam/cool it
+- Origami as the Japanese art of paper folding
+- Jebena, the narrow-spouted clay pot used in Ethiopia's coffee ceremony
+- Finnish having no grammatical gender (the pronoun "hän" means both "he" and "she")
+- The right hand being preferred for eating/greeting in Middle Eastern/South Asian cultures (left hand considered unclean) — covered via both an India-specific framing and a broader regional framing
+- Hanbok as traditional Korean dress
+- Dancing around a maypole at Swedish Midsummer
+- The three scripts of Japanese writing: hiragana, katakana, and kanji
+- Amharic being written in Ge'ez script
+- Hungarian belonging to the Uralic language family (like Finnish)
+- Portuguese being Brazil's official/primary language
+- Mehndi, the henna hand designs used in South Asian celebrations
+- Namaste, the Indian greeting made by pressing palms together
+- The cherry blossom as Japan's national flower, associated with transience
+- Hongbao, the red envelopes of money given during Chinese New Year
 
 Use web search to verify every fact — do not rely on memory alone. Prefer authoritative sources (encyclopedic sources, cultural references) over guessing. For each question, actually find the fact via search rather than recalling it, especially for obscure details (lesser-known customs, specific terms).
 
