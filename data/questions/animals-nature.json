@@ -9722,5 +9722,83 @@
     ],
     "answer": "Ethylene",
     "id": "animals-nature-578"
+  },
+  {
+    "id": "animals-nature-579",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "What is the collective noun for a group of frogs?",
+    "options": [
+      "Herd",
+      "Pack",
+      "Flock",
+      "Army"
+    ],
+    "answer": "Army"
+  },
+  {
+    "id": "animals-nature-580",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "What is the traditional collective noun for a group of owls?",
+    "options": [
+      "Congress",
+      "Parliament",
+      "Court",
+      "Jury"
+    ],
+    "answer": "Parliament"
+  },
+  {
+    "id": "animals-nature-581",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "What is the evocative collective noun for a group of ravens?",
+    "options": [
+      "Mischief",
+      "Murder",
+      "Unkindness",
+      "Cackle"
+    ],
+    "answer": "Unkindness"
+  },
+  {
+    "id": "animals-nature-582",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "What is a common collective noun for a group of jellyfish?",
+    "options": [
+      "Smack",
+      "Sting",
+      "Slap",
+      "Splash"
+    ],
+    "answer": "Smack"
+  },
+  {
+    "id": "animals-nature-583",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "What is the whimsical collective noun for a group of pandas?",
+    "options": [
+      "Bamboo",
+      "Fluff",
+      "Cuddle",
+      "Embarrassment"
+    ],
+    "answer": "Embarrassment"
+  },
+  {
+    "id": "animals-nature-584",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What is the traditional collective noun for a group of domestic cats?",
+    "options": [
+      "Pride",
+      "Colony",
+      "Clowder",
+      "Pack"
+    ],
+    "answer": "Clowder"
   }
 ]

@@ -3,13 +3,26 @@
 ```
 You are drafting trivia questions for a multiple-choice trivia app. You have no access to my codebase — just generate the content below and I'll hand it to another AI to review, dedupe, and merge into the database myself.
 
-TOPIC: General Knowledge — a catch-all for solid trivia facts that don't fit a specific topic like history, geography, science, arts, film/TV, music, sports, food, mythology, world cultures, or civics/law/economics. Think idioms, everyday phrases, wordplay terms, units/measurements trivia, board/card games, and similar odds and ends. Do NOT draft economics terms, legal principles, government-system definitions, or international-organization facts — those belong in the Civics, Law & Economics category now.
+TOPIC: General Knowledge — a catch-all for solid trivia facts that don't fit a specific topic like history, geography, science, arts, film/TV, music, sports, food, mythology, world cultures, or civics/law/economics. Think idioms, everyday phrases, wordplay terms, units/measurements trivia, board/card games, and similar odds and ends. Do NOT draft economics terms, legal principles, government-system definitions, or international-organization facts — those belong in the Civics, Law & Economics category now. Do NOT draft collective-noun-for-a-group-of-animals questions — those belong in Animals & Nature.
 
 COUNT: 100 questions.
 
 AVOID THESE ANGLES — already well-covered in my question bank, so don't draft facts that overlap with these (pick different, more specific facts instead):
 - How many continents there are (Seven)
 - How many sides a hexagon has (Six)
+- Definition of a pangram (a sentence containing every letter of the alphabet)
+- Definition of an oxymoron (contradictory terms paired for effect, e.g. "jumbo shrimp")
+- Definition of a palindrome (reads the same forwards and backwards) — already asked 3+ times in the corpus
+- Definition of an anagram (word formed by rearranging another word's letters) — already asked 2+ times
+- Definition of a synonym / antonym / onomatopoeia
+- How many squares are on a standard chessboard (64)
+- Which chess piece moves only diagonally (bishop)
+- How many cards each player gets in bridge (13)
+- Collective noun for a group of flamingos (a flamboyance) — collective-noun questions belong in Animals & Nature, not here
+- Which letter doesn't appear in the name of any US state (Q)
+- The Rubik's Cube's original name, "Magic Cube," or Ernő Rubik's profession as an architecture professor
+- The QWERTY keyboard layout being designed to prevent typewriter key jams
+- Why SOS was chosen as the Morse code distress signal (simple, distinctive pattern)
 
 Use web search to verify every fact — do not rely on memory alone. Prefer authoritative sources (reference databases, almanacs) over guessing. For each question, actually find the fact via search rather than recalling it, especially for obscure details.
 

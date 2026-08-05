@@ -206,5 +206,2657 @@
       "The World Economic Forum"
     ],
     "answer": "The World Economic Forum"
+  },
+  {
+    "id": "civics-law-economics-001",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What is the term for a legislative body divided into two separate chambers, such as an upper and lower house?",
+    "options": [
+      "Bicameral legislature",
+      "Unicameral legislature",
+      "Confederation",
+      "Plutocracy"
+    ],
+    "answer": "Bicameral legislature"
+  },
+  {
+    "id": "civics-law-economics-002",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What is the term for a legislative body with only one chamber?",
+    "options": [
+      "Unicameral legislature",
+      "Bicameral legislature",
+      "Tricameral legislature",
+      "Diarchy"
+    ],
+    "answer": "Unicameral legislature"
+  },
+  {
+    "id": "civics-law-economics-003",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What is the term for a parliamentary tactic used in the U.S. Senate to delay a vote through prolonged debate, which can be ended by a cloture vote requiring 60 senators?",
+    "options": [
+      "Logrolling",
+      "Filibuster",
+      "Quorum call",
+      "Caucus"
+    ],
+    "answer": "Filibuster"
+  },
+  {
+    "id": "civics-law-economics-004",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What is the term for the procedure that ends debate in the U.S. Senate and requires three-fifths support, or 60 votes, for most legislation?",
+    "options": [
+      "Cloture",
+      "Censure",
+      "Veto",
+      "Adjournment"
+    ],
+    "answer": "Cloture"
+  },
+  {
+    "id": "civics-law-economics-005",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What doctrine holds that courts should adhere to precedent and stand by things decided in earlier cases?",
+    "options": [
+      "Stare decisis",
+      "Res judicata",
+      "Obiter dicta",
+      "Ratio decidendi"
+    ],
+    "answer": "Stare decisis"
+  },
+  {
+    "id": "civics-law-economics-006",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What legal writ is used to challenge unlawful detention and requires authorities to justify a person's confinement before a judge?",
+    "options": [
+      "Writ of certiorari",
+      "Writ of habeas corpus",
+      "Writ of mandamus",
+      "Writ of attachment"
+    ],
+    "answer": "Writ of habeas corpus"
+  },
+  {
+    "id": "civics-law-economics-007",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What principle allows courts to review and potentially invalidate actions of the executive and legislative branches that conflict with the constitution?",
+    "options": [
+      "Judicial review",
+      "Parliamentary sovereignty",
+      "Executive privilege",
+      "Legislative supremacy"
+    ],
+    "answer": "Judicial review"
+  },
+  {
+    "id": "civics-law-economics-008",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What term describes the division of government into separate executive, legislative, and judicial branches?",
+    "options": [
+      "Separation of powers",
+      "Federalism",
+      "Unitarism",
+      "Confederalism"
+    ],
+    "answer": "Separation of powers"
+  },
+  {
+    "id": "civics-law-economics-009",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What system of institutional restraints enables each branch of government to limit the powers of the other branches?",
+    "options": [
+      "Checks and balances",
+      "Judicial activism",
+      "Popular sovereignty",
+      "Devolution"
+    ],
+    "answer": "Checks and balances"
+  },
+  {
+    "id": "civics-law-economics-010",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What principle holds that government authority must be exercised according to established laws, not arbitrary decisions?",
+    "options": [
+      "Rule of law",
+      "Rule by decree",
+      "Divine right",
+      "Might makes right"
+    ],
+    "answer": "Rule of law"
+  },
+  {
+    "id": "civics-law-economics-011",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What is the government's power to take private property for public use, with just compensation to the owner?",
+    "options": [
+      "Eminent domain",
+      "Escheat",
+      "Adverse possession",
+      "Foreclosure"
+    ],
+    "answer": "Eminent domain"
+  },
+  {
+    "id": "civics-law-economics-012",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "What Latin term refers to a law that retroactively criminalizes an act that was legal when committed?",
+    "options": [
+      "Ex post facto law",
+      "Ex ante law",
+      "De facto law",
+      "De jure law"
+    ],
+    "answer": "Ex post facto law"
+  },
+  {
+    "id": "civics-law-economics-013",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What is a court order compelling a person to appear or produce documents?",
+    "options": [
+      "Subpoena",
+      "Affidavit",
+      "Deposition",
+      "Indictment"
+    ],
+    "answer": "Subpoena"
+  },
+  {
+    "id": "civics-law-economics-014",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What term describes a civil wrong that causes injury or harm, for which courts impose liability, distinct from a crime or contract breach?",
+    "options": [
+      "Tort",
+      "Felony",
+      "Misdemeanor",
+      "Novation"
+    ],
+    "answer": "Tort"
+  },
+  {
+    "id": "civics-law-economics-015",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What legal standard refers to failure to exercise the level of care that a reasonable person would have exercised?",
+    "options": [
+      "Strict liability",
+      "Negligence",
+      "Contributory negligence",
+      "Vicarious liability"
+    ],
+    "answer": "Negligence"
+  },
+  {
+    "id": "civics-law-economics-016",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What liability standard holds a defendant responsible regardless of intent or mental state when committing the action?",
+    "options": [
+      "Negligence",
+      "Strict liability",
+      "Comparative fault",
+      "Res ipsa loquitur"
+    ],
+    "answer": "Strict liability"
+  },
+  {
+    "id": "civics-law-economics-017",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "In criminal law, what term refers to the guilty mind or criminal intent required for conviction?",
+    "options": [
+      "Actus reus",
+      "Mens rea",
+      "Corpus delicti",
+      "Malum prohibitum"
+    ],
+    "answer": "Mens rea"
+  },
+  {
+    "id": "civics-law-economics-018",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "In criminal law, what term refers to the physical act or unlawful omission that forms the material element of a crime?",
+    "options": [
+      "Mens rea",
+      "Actus reus",
+      "Stare decisis",
+      "Habeas corpus"
+    ],
+    "answer": "Actus reus"
+  },
+  {
+    "id": "civics-law-economics-019",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What legal concept refers to which party has the responsibility to prove a claim in court?",
+    "options": [
+      "Burden of proof",
+      "Burden of persuasion",
+      "Preponderance",
+      "Probable cause"
+    ],
+    "answer": "Burden of proof"
+  },
+  {
+    "id": "civics-law-economics-020",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What standard of proof, meaning more likely than not, is used in most civil cases?",
+    "options": [
+      "Preponderance of the evidence",
+      "Beyond a reasonable doubt",
+      "Clear and convincing evidence",
+      "Probable cause"
+    ],
+    "answer": "Preponderance of the evidence"
+  },
+  {
+    "id": "civics-law-economics-021",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What is the highest standard of proof required to convict a defendant in a criminal trial?",
+    "options": [
+      "Preponderance of the evidence",
+      "Beyond a reasonable doubt",
+      "Reasonable suspicion",
+      "Probable cause"
+    ],
+    "answer": "Beyond a reasonable doubt"
+  },
+  {
+    "id": "civics-law-economics-022",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What are the warnings police must give to inform a person in custody of their right to remain silent and right to an attorney?",
+    "options": [
+      "Miranda warnings",
+      "Gideon warnings",
+      "Brady warnings",
+      "Mapp warnings"
+    ],
+    "answer": "Miranda warnings"
+  },
+  {
+    "id": "civics-law-economics-023",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What constitutional guarantee requires fair procedures and notice before the government deprives someone of life, liberty, or property?",
+    "options": [
+      "Due process",
+      "Eminent domain",
+      "Ex post facto",
+      "Bill of attainder"
+    ],
+    "answer": "Due process"
+  },
+  {
+    "id": "civics-law-economics-024",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What type of court order prohibits a party from taking a specific action or compels them to act?",
+    "options": [
+      "Injunction",
+      "Subpoena",
+      "Summons",
+      "Writ of habeas corpus"
+    ],
+    "answer": "Injunction"
+  },
+  {
+    "id": "civics-law-economics-025",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What type of lawsuit allows one or more plaintiffs to sue on behalf of a larger group with similar claims?",
+    "options": [
+      "Class action",
+      "Derivative suit",
+      "Counterclaim",
+      "Cross-claim"
+    ],
+    "answer": "Class action"
+  },
+  {
+    "id": "civics-law-economics-026",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What alternative dispute resolution method involves a neutral third party making a binding decision?",
+    "options": [
+      "Arbitration",
+      "Mediation",
+      "Conciliation",
+      "Negotiation"
+    ],
+    "answer": "Arbitration"
+  },
+  {
+    "id": "civics-law-economics-027",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What alternative dispute resolution method uses a neutral facilitator to help parties reach a voluntary agreement, without imposing a decision?",
+    "options": [
+      "Arbitration",
+      "Mediation",
+      "Litigation",
+      "Adjudication"
+    ],
+    "answer": "Mediation"
+  },
+  {
+    "id": "civics-law-economics-028",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What term refers to the time limit set by law for filing a lawsuit or prosecution?",
+    "options": [
+      "Statute of limitations",
+      "Statute of frauds",
+      "Sunset clause",
+      "Laches"
+    ],
+    "answer": "Statute of limitations"
+  },
+  {
+    "id": "civics-law-economics-029",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What intellectual property right protects original works of authorship such as books, music, and film?",
+    "options": [
+      "Copyright",
+      "Patent",
+      "Trademark",
+      "Trade secret"
+    ],
+    "answer": "Copyright"
+  },
+  {
+    "id": "civics-law-economics-030",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What intellectual property right protects new inventions and grants exclusive rights to make and sell the invention?",
+    "options": [
+      "Patent",
+      "Copyright",
+      "Trademark",
+      "Easement"
+    ],
+    "answer": "Patent"
+  },
+  {
+    "id": "civics-law-economics-031",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What intellectual property protection covers brand names, logos, and slogans that distinguish goods in commerce?",
+    "options": [
+      "Trademark",
+      "Copyright",
+      "Patent",
+      "Trade dress"
+    ],
+    "answer": "Trademark"
+  },
+  {
+    "id": "civics-law-economics-032",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What doctrine allows limited use of copyrighted material without permission for purposes like criticism, comment, or education?",
+    "options": [
+      "Fair use",
+      "Public domain",
+      "Fair dealing",
+      "First sale"
+    ],
+    "answer": "Fair use"
+  },
+  {
+    "id": "civics-law-economics-033",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What term covers both written libel and spoken slander as false statements harming reputation?",
+    "options": [
+      "Defamation",
+      "Perjury",
+      "Slander per se",
+      "Embezzlement"
+    ],
+    "answer": "Defamation"
+  },
+  {
+    "id": "civics-law-economics-034",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What crime involves knowingly making a false statement under oath?",
+    "options": [
+      "Perjury",
+      "Contempt",
+      "Obstruction",
+      "Defamation"
+    ],
+    "answer": "Perjury"
+  },
+  {
+    "id": "civics-law-economics-035",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What term describes behavior that disrespects or disobeys a court, punishable by fine or imprisonment?",
+    "options": [
+      "Contempt of court",
+      "Double jeopardy",
+      "Habeas corpus",
+      "Mistrial"
+    ],
+    "answer": "Contempt of court"
+  },
+  {
+    "id": "civics-law-economics-036",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What term describes an agreement where a defendant pleads guilty to a lesser charge to avoid trial?",
+    "options": [
+      "Plea bargain",
+      "Nolo contendere",
+      "Directed verdict",
+      "Summary judgment"
+    ],
+    "answer": "Plea bargain"
+  },
+  {
+    "id": "civics-law-economics-037",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What term refers to money or property posted to secure a defendant's release before trial?",
+    "options": [
+      "Bail",
+      "Bond",
+      "Fine",
+      "Restitution"
+    ],
+    "answer": "Bail"
+  },
+  {
+    "id": "civics-law-economics-038",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "Which term refers to court-ordered supervision served instead of prison time, as distinct from supervised release that follows time already served in prison?",
+    "options": [
+      "Probation",
+      "Parole",
+      "Bail",
+      "Clemency"
+    ],
+    "answer": "Probation"
+  },
+  {
+    "id": "civics-law-economics-039",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What legal process seals or erases a criminal record from public view after meeting certain criteria?",
+    "options": [
+      "Expungement",
+      "Extradition",
+      "Arraignment",
+      "Indictment"
+    ],
+    "answer": "Expungement"
+  },
+  {
+    "id": "civics-law-economics-040",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "What plea means 'no contest' in Latin, where the defendant does not admit guilt but accepts punishment?",
+    "options": [
+      "Nolo contendere",
+      "Pro se",
+      "Pro bono",
+      "Amicus curiae"
+    ],
+    "answer": "Nolo contendere"
+  },
+  {
+    "id": "civics-law-economics-041",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What term describes legal work performed without charge, for the public good?",
+    "options": [
+      "Pro bono",
+      "Pro se",
+      "Quid pro quo",
+      "De jure"
+    ],
+    "answer": "Pro bono"
+  },
+  {
+    "id": "civics-law-economics-042",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What term describes representing oneself in court without a lawyer?",
+    "options": [
+      "Pro se",
+      "Pro bono",
+      "In camera",
+      "En banc"
+    ],
+    "answer": "Pro se"
+  },
+  {
+    "id": "civics-law-economics-043",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What term describes a person or group not a party to a case who offers information to the court, literally 'friend of the court'?",
+    "options": [
+      "Amicus curiae",
+      "Intervenor",
+      "Deponent",
+      "Affiant"
+    ],
+    "answer": "Amicus curiae"
+  },
+  {
+    "id": "civics-law-economics-044",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "What writ does the U.S. Supreme Court issue to order a lower court to send up a case for review?",
+    "options": [
+      "Certiorari",
+      "Habeas corpus",
+      "Mandamus",
+      "Prohibition"
+    ],
+    "answer": "Certiorari"
+  },
+  {
+    "id": "civics-law-economics-045",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What term refers to the minimum number of members required to be present for a legislative body to conduct business?",
+    "options": [
+      "Quorum",
+      "Filibuster",
+      "Cloture",
+      "Caucus"
+    ],
+    "answer": "Quorum"
+  },
+  {
+    "id": "civics-law-economics-046",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What power allows a president or governor to reject a bill passed by the legislature?",
+    "options": [
+      "Veto",
+      "Pocket veto",
+      "Line-item veto",
+      "Filibuster"
+    ],
+    "answer": "Veto"
+  },
+  {
+    "id": "civics-law-economics-047",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What type of veto occurs when a president takes no action on a bill and Congress adjourns within ten days, preventing it from becoming law?",
+    "options": [
+      "Pocket veto",
+      "Absolute veto",
+      "Suspensive veto",
+      "Amendatory veto"
+    ],
+    "answer": "Pocket veto"
+  },
+  {
+    "id": "civics-law-economics-048",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What formal process allows a legislature to charge and try a public official for misconduct?",
+    "options": [
+      "Impeachment",
+      "Censure",
+      "Recall",
+      "Cloture"
+    ],
+    "answer": "Impeachment"
+  },
+  {
+    "id": "civics-law-economics-049",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What formal legislative statement of disapproval stops short of removal from office?",
+    "options": [
+      "Censure",
+      "Impeachment",
+      "Expulsion",
+      "Filibuster"
+    ],
+    "answer": "Censure"
+  },
+  {
+    "id": "civics-law-economics-050",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What term describes manipulating electoral district boundaries to favor a party or group?",
+    "options": [
+      "Gerrymandering",
+      "Apportionment",
+      "Redistricting",
+      "Canvassing"
+    ],
+    "answer": "Gerrymandering"
+  },
+  {
+    "id": "civics-law-economics-051",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What term describes organized efforts to influence legislators and government policy, often by professional advocates?",
+    "options": [
+      "Lobbying",
+      "Logrolling",
+      "Filibustering",
+      "Canvassing"
+    ],
+    "answer": "Lobbying"
+  },
+  {
+    "id": "civics-law-economics-052",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "Which trio describes direct citizen tools: a vote on a law referred by legislature, a citizen-proposed law placed on ballot, and a vote to remove an official?",
+    "options": [
+      "Referendum, initiative, and recall",
+      "Primary, caucus, and convention",
+      "Cloture, quorum, and veto",
+      "Pardon, commutation, and amnesty"
+    ],
+    "answer": "Referendum, initiative, and recall"
+  },
+  {
+    "id": "civics-law-economics-053",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What system does the U.S. use to indirectly elect the president, where electors are apportioned by state?",
+    "options": [
+      "Electoral College",
+      "Popular vote",
+      "Parliamentary vote",
+      "Direct democracy"
+    ],
+    "answer": "Electoral College"
+  },
+  {
+    "id": "civics-law-economics-054",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "In what system of government does the executive derive legitimacy from and remain accountable to the legislature, with a prime minister as head of government?",
+    "options": [
+      "Parliamentary system",
+      "Presidential system",
+      "Absolute monarchy",
+      "Theocracy"
+    ],
+    "answer": "Parliamentary system"
+  },
+  {
+    "id": "civics-law-economics-055",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "In what system is the president both head of state and head of government, elected separately from the legislature for a fixed term?",
+    "options": [
+      "Presidential system",
+      "Parliamentary system",
+      "Semi-presidential system",
+      "Confederal system"
+    ],
+    "answer": "Presidential system"
+  },
+  {
+    "id": "civics-law-economics-056",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What system features both a directly elected president and a prime minister accountable to parliament who share executive power?",
+    "options": [
+      "Semi-presidential system",
+      "Presidential system",
+      "Parliamentary system",
+      "Unitary system"
+    ],
+    "answer": "Semi-presidential system"
+  },
+  {
+    "id": "civics-law-economics-057",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What form of monarchy has a king or queen whose powers are limited by a constitution and laws?",
+    "options": [
+      "Constitutional monarchy",
+      "Absolute monarchy",
+      "Elective monarchy",
+      "Diarchy"
+    ],
+    "answer": "Constitutional monarchy"
+  },
+  {
+    "id": "civics-law-economics-058",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What form of monarchy vests unlimited power in the monarch, not constrained by constitution?",
+    "options": [
+      "Absolute monarchy",
+      "Constitutional monarchy",
+      "Parliamentary monarchy",
+      "Federal monarchy"
+    ],
+    "answer": "Absolute monarchy"
+  },
+  {
+    "id": "civics-law-economics-059",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What form of government is ruled by religious leaders or according to religious law?",
+    "options": [
+      "Theocracy",
+      "Technocracy",
+      "Plutocracy",
+      "Meritocracy"
+    ],
+    "answer": "Theocracy"
+  },
+  {
+    "id": "civics-law-economics-060",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What term describes government by technical experts based on specialized knowledge?",
+    "options": [
+      "Technocracy",
+      "Theocracy",
+      "Plutocracy",
+      "Kleptocracy"
+    ],
+    "answer": "Technocracy"
+  },
+  {
+    "id": "civics-law-economics-061",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What term describes a system where advancement is based on ability and achievement rather than wealth or class?",
+    "options": [
+      "Meritocracy",
+      "Aristocracy",
+      "Gerontocracy",
+      "Plutocracy"
+    ],
+    "answer": "Meritocracy"
+  },
+  {
+    "id": "civics-law-economics-062",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What term describes government by the wealthy, where power derives from wealth?",
+    "options": [
+      "Plutocracy",
+      "Theocracy",
+      "Democracy",
+      "Technocracy"
+    ],
+    "answer": "Plutocracy"
+  },
+  {
+    "id": "civics-law-economics-063",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What term describes a government whose leaders exploit office to steal national resources for personal gain?",
+    "options": [
+      "Kleptocracy",
+      "Meritocracy",
+      "Bureaucracy",
+      "Autocracy"
+    ],
+    "answer": "Kleptocracy"
+  },
+  {
+    "id": "civics-law-economics-064",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "What term describes government by the military?",
+    "options": [
+      "Stratocracy",
+      "Theocracy",
+      "Plutocracy",
+      "Kleptocracy"
+    ],
+    "answer": "Stratocracy"
+  },
+  {
+    "id": "civics-law-economics-065",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "What term describes joint rule by two people, such as two kings or two consuls?",
+    "options": [
+      "Diarchy",
+      "Oligarchy",
+      "Monarchy",
+      "Tetrarchy"
+    ],
+    "answer": "Diarchy"
+  },
+  {
+    "id": "civics-law-economics-066",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What term describes a system where power is concentrated in a central government with little or no power granted to subnational units?",
+    "options": [
+      "Unitary state",
+      "Confederation",
+      "Federation",
+      "Bicameral state"
+    ],
+    "answer": "Unitary state"
+  },
+  {
+    "id": "civics-law-economics-067",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What term describes a union of sovereign states that retain primary sovereignty but delegate limited powers to a central body, often for defense or trade?",
+    "options": [
+      "Confederation",
+      "Unitary state",
+      "Federation",
+      "Empire"
+    ],
+    "answer": "Confederation"
+  },
+  {
+    "id": "civics-law-economics-068",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What term describes a government formed by two or more parties that together hold a legislative majority?",
+    "options": [
+      "Coalition government",
+      "Minority government",
+      "Caretaker government",
+      "Shadow cabinet"
+    ],
+    "answer": "Coalition government"
+  },
+  {
+    "id": "civics-law-economics-069",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What term describes a government that does not hold a majority of seats and must rely on outside support to pass laws?",
+    "options": [
+      "Minority government",
+      "Coalition government",
+      "Caretaker government",
+      "National unity government"
+    ],
+    "answer": "Minority government"
+  },
+  {
+    "id": "civics-law-economics-070",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What term describes a temporary government that handles routine affairs after an election or collapse, without making major policy changes?",
+    "options": [
+      "Caretaker government",
+      "Shadow cabinet",
+      "Coalition government",
+      "Junta"
+    ],
+    "answer": "Caretaker government"
+  },
+  {
+    "id": "civics-law-economics-071",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "In Westminster systems, what term describes senior opposition spokespeople who mirror government ministers and would form a cabinet if in power?",
+    "options": [
+      "Shadow cabinet",
+      "Kitchen cabinet",
+      "War cabinet",
+      "Inner cabinet"
+    ],
+    "answer": "Shadow cabinet"
+  },
+  {
+    "id": "civics-law-economics-072",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What electoral system allocates seats in proportion to the share of votes each party receives?",
+    "options": [
+      "Proportional representation",
+      "First-past-the-post",
+      "Ranked-choice voting",
+      "Plurality voting"
+    ],
+    "answer": "Proportional representation"
+  },
+  {
+    "id": "civics-law-economics-073",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What electoral system awards victory to the candidate with the most votes, even without an absolute majority?",
+    "options": [
+      "First-past-the-post",
+      "Proportional representation",
+      "Two-round system",
+      "Mixed-member proportional"
+    ],
+    "answer": "First-past-the-post"
+  },
+  {
+    "id": "civics-law-economics-074",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "What legal doctrine prevents relitigating a claim that has already been finally decided by a competent court?",
+    "options": [
+      "Res judicata",
+      "Stare decisis",
+      "Res ipsa loquitur",
+      "Obiter dictum"
+    ],
+    "answer": "Res judicata"
+  },
+  {
+    "id": "civics-law-economics-075",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What contract clause excuses performance due to unforeseeable extraordinary events like natural disasters or war?",
+    "options": [
+      "Force majeure",
+      "Severability clause",
+      "Indemnity clause",
+      "Non-compete clause"
+    ],
+    "answer": "Force majeure"
+  },
+  {
+    "id": "civics-law-economics-076",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What economic concept refers to the value of the next-best alternative forgone when a choice is made?",
+    "options": [
+      "Opportunity cost",
+      "Sunk cost",
+      "Marginal cost",
+      "Fixed cost"
+    ],
+    "answer": "Opportunity cost"
+  },
+  {
+    "id": "civics-law-economics-077",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What term describes a country's ability to produce a good at a lower opportunity cost than another country?",
+    "options": [
+      "Comparative advantage",
+      "Absolute advantage",
+      "Competitive advantage",
+      "Monopolistic advantage"
+    ],
+    "answer": "Comparative advantage"
+  },
+  {
+    "id": "civics-law-economics-078",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What term describes the ability to produce more of a good with the same resources than another producer?",
+    "options": [
+      "Absolute advantage",
+      "Comparative advantage",
+      "Economies of scale",
+      "Economies of scope"
+    ],
+    "answer": "Absolute advantage"
+  },
+  {
+    "id": "civics-law-economics-079",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What term describes cost advantages from producing at larger scale, where average cost falls as output rises?",
+    "options": [
+      "Economies of scale",
+      "Diseconomies of scale",
+      "Law of diminishing returns",
+      "Economies of scope"
+    ],
+    "answer": "Economies of scale"
+  },
+  {
+    "id": "civics-law-economics-080",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What term describes a cost or benefit imposed on a third party not directly involved in an economic transaction?",
+    "options": [
+      "Externality",
+      "Subsidy",
+      "Tariff",
+      "Quota"
+    ],
+    "answer": "Externality"
+  },
+  {
+    "id": "civics-law-economics-081",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What term describes goods that are non-excludable and non-rivalrous, such as national defense or street lighting?",
+    "options": [
+      "Public goods",
+      "Private goods",
+      "Common goods",
+      "Club goods"
+    ],
+    "answer": "Public goods"
+  },
+  {
+    "id": "civics-law-economics-082",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What economic concept describes depletion of a shared resource because individuals act in self-interest, like overfishing?",
+    "options": [
+      "Tragedy of the commons",
+      "Free rider problem",
+      "Moral hazard",
+      "Adverse selection"
+    ],
+    "answer": "Tragedy of the commons"
+  },
+  {
+    "id": "civics-law-economics-083",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "Which policy type uses government taxing and spending to influence the economy, as distinct from central bank interest rate policy?",
+    "options": [
+      "Fiscal policy",
+      "Monetary policy",
+      "Trade policy",
+      "Industrial policy"
+    ],
+    "answer": "Fiscal policy"
+  },
+  {
+    "id": "civics-law-economics-084",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "Which policy type is conducted by a central bank through interest rates and money supply to achieve price stability and growth?",
+    "options": [
+      "Monetary policy",
+      "Fiscal federalism",
+      "Supply-side policy",
+      "Fiscal policy"
+    ],
+    "answer": "Monetary policy"
+  },
+  {
+    "id": "civics-law-economics-085",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What unconventional monetary policy involves a central bank purchasing large quantities of government bonds to increase money supply and lower long-term rates?",
+    "options": [
+      "Quantitative easing",
+      "Quantitative tightening",
+      "Open market sale",
+      "Discount window lending"
+    ],
+    "answer": "Quantitative easing"
+  },
+  {
+    "id": "civics-law-economics-086",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What term describes the simultaneous occurrence of high inflation, stagnant economic growth, and high unemployment?",
+    "options": [
+      "Stagflation",
+      "Deflation",
+      "Disinflation",
+      "Hyperinflation"
+    ],
+    "answer": "Stagflation"
+  },
+  {
+    "id": "civics-law-economics-087",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What term describes a general decrease in price levels over time, the opposite of inflation?",
+    "options": [
+      "Deflation",
+      "Disinflation",
+      "Stagflation",
+      "Reflation"
+    ],
+    "answer": "Deflation"
+  },
+  {
+    "id": "civics-law-economics-088",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What term describes a slowdown in the rate of inflation, where prices still rise but more slowly?",
+    "options": [
+      "Disinflation",
+      "Deflation",
+      "Stagflation",
+      "Devaluation"
+    ],
+    "answer": "Disinflation"
+  },
+  {
+    "id": "civics-law-economics-089",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "What curve shows the inverse relationship between unemployment and wage inflation in the short run?",
+    "options": [
+      "Phillips curve",
+      "Laffer curve",
+      "Lorenz curve",
+      "Kuznets curve"
+    ],
+    "answer": "Phillips curve"
+  },
+  {
+    "id": "civics-law-economics-090",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "What curve illustrates the idea that beyond a certain point, higher tax rates can reduce tax revenue by discouraging economic activity?",
+    "options": [
+      "Laffer curve",
+      "Phillips curve",
+      "Supply curve",
+      "Demand curve"
+    ],
+    "answer": "Laffer curve"
+  },
+  {
+    "id": "civics-law-economics-091",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What widely used index measures income inequality on a scale from 0 perfect equality to 1 perfect inequality?",
+    "options": [
+      "Gini coefficient",
+      "Consumer Price Index",
+      "Human Development Index",
+      "Purchasing Managers' Index"
+    ],
+    "answer": "Gini coefficient"
+  },
+  {
+    "id": "civics-law-economics-092",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What economic indicator tracks average change in prices paid by urban consumers for a basket of goods and services?",
+    "options": [
+      "Consumer Price Index",
+      "Producer Price Index",
+      "GDP deflator",
+      "Wholesale Price Index"
+    ],
+    "answer": "Consumer Price Index"
+  },
+  {
+    "id": "civics-law-economics-093",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What index measures average change over time in selling prices received by domestic producers?",
+    "options": [
+      "Producer Price Index",
+      "Consumer Price Index",
+      "Import Price Index",
+      "Retail Price Index"
+    ],
+    "answer": "Producer Price Index"
+  },
+  {
+    "id": "civics-law-economics-094",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What type of unemployment occurs when workers are between jobs or searching for their first job?",
+    "options": [
+      "Frictional unemployment",
+      "Structural unemployment",
+      "Cyclical unemployment",
+      "Seasonal unemployment"
+    ],
+    "answer": "Frictional unemployment"
+  },
+  {
+    "id": "civics-law-economics-095",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What type of unemployment results from a mismatch between workers' skills and available jobs due to technological change?",
+    "options": [
+      "Structural unemployment",
+      "Frictional unemployment",
+      "Cyclical unemployment",
+      "Classical unemployment"
+    ],
+    "answer": "Structural unemployment"
+  },
+  {
+    "id": "civics-law-economics-096",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What type of unemployment rises during economic downturns and falls during expansions?",
+    "options": [
+      "Cyclical unemployment",
+      "Frictional unemployment",
+      "Structural unemployment",
+      "Voluntary unemployment"
+    ],
+    "answer": "Cyclical unemployment"
+  },
+  {
+    "id": "civics-law-economics-097",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What school of economics advocates government intervention to boost demand during downturns, associated with John Maynard Keynes?",
+    "options": [
+      "Keynesian economics",
+      "Monetarism",
+      "Classical economics",
+      "Austrian economics"
+    ],
+    "answer": "Keynesian economics"
+  },
+  {
+    "id": "civics-law-economics-098",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What school of thought emphasizes control of money supply as the primary means of managing the economy, associated with Milton Friedman?",
+    "options": [
+      "Monetarism",
+      "Keynesianism",
+      "Marxism",
+      "Mercantilism"
+    ],
+    "answer": "Monetarism"
+  },
+  {
+    "id": "civics-law-economics-099",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What term describes government policy to shield domestic industries from foreign competition via tariffs and quotas?",
+    "options": [
+      "Protectionism",
+      "Free trade",
+      "Globalization",
+      "Deregulation"
+    ],
+    "answer": "Protectionism"
+  },
+  {
+    "id": "civics-law-economics-100",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What is a tax imposed on imported goods to make them more expensive?",
+    "options": [
+      "Tariff",
+      "Subsidy",
+      "Quota",
+      "Embargo"
+    ],
+    "answer": "Tariff"
+  },
+  {
+    "id": "civics-law-economics-101",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What term describes a quantitative limit on the amount of a good that can be imported?",
+    "options": [
+      "Import quota",
+      "Tariff",
+      "Subsidy",
+      "Duty"
+    ],
+    "answer": "Import quota"
+  },
+  {
+    "id": "civics-law-economics-102",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What term describes government financial support to producers to lower costs and encourage production?",
+    "options": [
+      "Subsidy",
+      "Tariff",
+      "Tax",
+      "Quota"
+    ],
+    "answer": "Subsidy"
+  },
+  {
+    "id": "civics-law-economics-103",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "In international trade, what practice involves exporting goods at a price below production cost to gain market share?",
+    "options": [
+      "Dumping",
+      "Smuggling",
+      "Arbitrage",
+      "Hedging"
+    ],
+    "answer": "Dumping"
+  },
+  {
+    "id": "civics-law-economics-104",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What term describes the difference between a country's exports and imports of goods?",
+    "options": [
+      "Balance of trade",
+      "Balance of payments",
+      "Current account",
+      "Capital account"
+    ],
+    "answer": "Balance of trade"
+  },
+  {
+    "id": "civics-law-economics-105",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What broad accounting record includes all transactions between a country and the rest of the world, including trade, investment, and transfers?",
+    "options": [
+      "Balance of payments",
+      "Balance of trade",
+      "Federal budget",
+      "National income"
+    ],
+    "answer": "Balance of payments"
+  },
+  {
+    "id": "civics-law-economics-106",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What exchange rate system lets a currency's value be determined by market supply and demand without government intervention?",
+    "options": [
+      "Floating exchange rate",
+      "Fixed exchange rate",
+      "Pegged exchange rate",
+      "Gold standard"
+    ],
+    "answer": "Floating exchange rate"
+  },
+  {
+    "id": "civics-law-economics-107",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What exchange rate system ties a currency's value to another currency or basket of currencies at a set rate?",
+    "options": [
+      "Fixed exchange rate",
+      "Floating exchange rate",
+      "Managed float",
+      "Free float"
+    ],
+    "answer": "Fixed exchange rate"
+  },
+  {
+    "id": "civics-law-economics-108",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What theory compares currencies by the cost of a common basket of goods, suggesting exchange rates should equalize purchasing power?",
+    "options": [
+      "Purchasing power parity",
+      "Interest rate parity",
+      "Quantity theory of money",
+      "Balance of payments theory"
+    ],
+    "answer": "Purchasing power parity"
+  },
+  {
+    "id": "civics-law-economics-109",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What term describes when government spending exceeds revenue in a given fiscal year?",
+    "options": [
+      "Fiscal deficit",
+      "Fiscal surplus",
+      "National debt",
+      "Trade deficit"
+    ],
+    "answer": "Fiscal deficit"
+  },
+  {
+    "id": "civics-law-economics-110",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What term describes the total accumulated amount a government owes from past deficits?",
+    "options": [
+      "National debt",
+      "Fiscal deficit",
+      "Budget surplus",
+      "Current account deficit"
+    ],
+    "answer": "National debt"
+  },
+  {
+    "id": "civics-law-economics-111",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What term describes government policies of deep spending cuts and tax increases to reduce deficits?",
+    "options": [
+      "Austerity",
+      "Stimulus",
+      "Quantitative easing",
+      "Protectionism"
+    ],
+    "answer": "Austerity"
+  },
+  {
+    "id": "civics-law-economics-112",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What type of tax takes a larger percentage of income from higher-income earners than from lower-income earners?",
+    "options": [
+      "Progressive tax",
+      "Regressive tax",
+      "Proportional tax",
+      "Lump-sum tax"
+    ],
+    "answer": "Progressive tax"
+  },
+  {
+    "id": "civics-law-economics-113",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What type of tax takes a larger share of income from low-income earners than from high-income earners?",
+    "options": [
+      "Regressive tax",
+      "Progressive tax",
+      "Proportional tax",
+      "Capital gains tax"
+    ],
+    "answer": "Regressive tax"
+  },
+  {
+    "id": "civics-law-economics-114",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What broad-based consumption tax is assessed on value added at each stage of production and is common in the EU?",
+    "options": [
+      "Value-added tax",
+      "Sales tax",
+      "Excise tax",
+      "Tariff"
+    ],
+    "answer": "Value-added tax"
+  },
+  {
+    "id": "civics-law-economics-115",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What tax is levied on profit from the sale of an asset like stocks or real estate?",
+    "options": [
+      "Capital gains tax",
+      "Inheritance tax",
+      "Payroll tax",
+      "Property tax"
+    ],
+    "answer": "Capital gains tax"
+  },
+  {
+    "id": "civics-law-economics-116",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What term describes loss of economic efficiency when market equilibrium is distorted by taxes, price controls, or other interventions?",
+    "options": [
+      "Deadweight loss",
+      "Opportunity cost",
+      "Sunk cost",
+      "Marginal cost"
+    ],
+    "answer": "Deadweight loss"
+  },
+  {
+    "id": "civics-law-economics-117",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What economic situation occurs when an actor takes more risk because someone else bears the cost, often due to insurance or bailouts?",
+    "options": [
+      "Moral hazard",
+      "Adverse selection",
+      "Free rider problem",
+      "Tragedy of the commons"
+    ],
+    "answer": "Moral hazard"
+  },
+  {
+    "id": "civics-law-economics-118",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What market failure occurs when one party has more information than the other, leading high-risk individuals to be more likely to seek insurance?",
+    "options": [
+      "Adverse selection",
+      "Moral hazard",
+      "Externality",
+      "Public good"
+    ],
+    "answer": "Adverse selection"
+  },
+  {
+    "id": "civics-law-economics-119",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What economic problem arises when a principal hires an agent whose interests may not align, such as shareholders and managers?",
+    "options": [
+      "Principal-agent problem",
+      "Collective action problem",
+      "Free rider problem",
+      "Prisoner's dilemma"
+    ],
+    "answer": "Principal-agent problem"
+  },
+  {
+    "id": "civics-law-economics-120",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What fundamental economic law states that price rises when demand exceeds supply and falls when supply exceeds demand, all else equal?",
+    "options": [
+      "Law of supply and demand",
+      "Law of diminishing returns",
+      "Say's law",
+      "Gresham's law"
+    ],
+    "answer": "Law of supply and demand"
+  },
+  {
+    "id": "civics-law-economics-121",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What economic measure describes how much quantity demanded responds to a change in price?",
+    "options": [
+      "Price elasticity",
+      "Income elasticity",
+      "Cross elasticity",
+      "Price inelasticity"
+    ],
+    "answer": "Price elasticity"
+  },
+  {
+    "id": "civics-law-economics-122",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What term describes the problem where individuals benefit from a public good without paying for it?",
+    "options": [
+      "Free rider problem",
+      "Moral hazard",
+      "Tragedy of the commons",
+      "Crowding out"
+    ],
+    "answer": "Free rider problem"
+  },
+  {
+    "id": "civics-law-economics-123",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "What concept describes a situation where no one can be made better off without making someone else worse off?",
+    "options": [
+      "Pareto efficiency",
+      "Kaldor efficiency",
+      "Allocative inefficiency",
+      "Productive inefficiency"
+    ],
+    "answer": "Pareto efficiency"
+  },
+  {
+    "id": "civics-law-economics-124",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "In game theory, what equilibrium occurs when no player can improve their outcome by unilaterally changing strategy?",
+    "options": [
+      "Nash equilibrium",
+      "Pareto optimum",
+      "Competitive equilibrium",
+      "General equilibrium"
+    ],
+    "answer": "Nash equilibrium"
+  },
+  {
+    "id": "civics-law-economics-125",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What term describes a market with only one seller dominating the entire industry?",
+    "options": [
+      "Monopoly",
+      "Oligopoly",
+      "Monopsony",
+      "Perfect competition"
+    ],
+    "answer": "Monopoly"
+  },
+  {
+    "id": "civics-law-economics-126",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What market structure is dominated by a small number of large firms, such as airlines or auto manufacturers?",
+    "options": [
+      "Oligopoly",
+      "Monopoly",
+      "Monopolistic competition",
+      "Perfect competition"
+    ],
+    "answer": "Oligopoly"
+  },
+  {
+    "id": "civics-law-economics-127",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What type of monopoly arises because of high infrastructure costs making a single provider most efficient, such as water utilities?",
+    "options": [
+      "Natural monopoly",
+      "Legal monopoly",
+      "Coercive monopoly",
+      "Temporary monopoly"
+    ],
+    "answer": "Natural monopoly"
+  },
+  {
+    "id": "civics-law-economics-128",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What term describes a group of firms that collude to restrict output and fix prices?",
+    "options": [
+      "Cartel",
+      "Syndicate",
+      "Trust",
+      "Conglomerate"
+    ],
+    "answer": "Cartel"
+  },
+  {
+    "id": "civics-law-economics-129",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What term describes a government-imposed minimum price above equilibrium, such as a minimum wage?",
+    "options": [
+      "Price floor",
+      "Price ceiling",
+      "Price gouging",
+      "Price fixing"
+    ],
+    "answer": "Price floor"
+  },
+  {
+    "id": "civics-law-economics-130",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What term describes a government-imposed maximum price below equilibrium, such as rent control?",
+    "options": [
+      "Price ceiling",
+      "Price floor",
+      "Price support",
+      "Tariff"
+    ],
+    "answer": "Price ceiling"
+  },
+  {
+    "id": "civics-law-economics-131",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "As of 2026, how many member states does NATO have following the accession of Finland and Sweden?",
+    "options": [
+      "30",
+      "31",
+      "32",
+      "33"
+    ],
+    "answer": "32"
+  },
+  {
+    "id": "civics-law-economics-132",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "As of 2026, where is the seat of the International Court of Justice, the principal judicial organ of the UN?",
+    "options": [
+      "Geneva, Switzerland",
+      "The Hague, Netherlands",
+      "New York, USA",
+      "Brussels, Belgium"
+    ],
+    "answer": "The Hague, Netherlands"
+  },
+  {
+    "id": "civics-law-economics-133",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "As of 2026, where is the headquarters of the World Trade Organization located?",
+    "options": [
+      "Geneva, Switzerland",
+      "Washington, D.C., USA",
+      "Paris, France",
+      "Brussels, Belgium"
+    ],
+    "answer": "Geneva, Switzerland"
+  },
+  {
+    "id": "civics-law-economics-134",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "As of 2026, where are the headquarters of both the International Monetary Fund and the World Bank Group located?",
+    "options": [
+      "Washington, D.C., USA",
+      "New York, USA",
+      "London, UK",
+      "Geneva, Switzerland"
+    ],
+    "answer": "Washington, D.C., USA"
+  },
+  {
+    "id": "civics-law-economics-135",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "As of 2026, how many member states does the European Union have after the United Kingdom's withdrawal?",
+    "options": [
+      "27",
+      "28",
+      "26",
+      "25"
+    ],
+    "answer": "27"
+  },
+  {
+    "id": "civics-law-economics-136",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "As of 2026, how many members does the Organisation for Economic Co-operation and Development have?",
+    "options": [
+      "38",
+      "30",
+      "27",
+      "32"
+    ],
+    "answer": "38"
+  },
+  {
+    "id": "civics-law-economics-137",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "As of 2026, where is the headquarters of the European Central Bank that manages monetary policy for the eurozone?",
+    "options": [
+      "Frankfurt, Germany",
+      "Brussels, Belgium",
+      "Paris, France",
+      "Luxembourg"
+    ],
+    "answer": "Frankfurt, Germany"
+  },
+  {
+    "id": "civics-law-economics-138",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "As of 2026, how many member states does the African Union include, covering the continent?",
+    "options": [
+      "55",
+      "54",
+      "53",
+      "48"
+    ],
+    "answer": "55"
+  },
+  {
+    "id": "civics-law-economics-139",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "As of 2026, how many member countries does OPEC have after Angola's withdrawal effective January 2024?",
+    "options": [
+      "12",
+      "13",
+      "14",
+      "15"
+    ],
+    "answer": "12"
+  },
+  {
+    "id": "civics-law-economics-140",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "As of 2026, where is Interpol, the International Criminal Police Organization, headquartered?",
+    "options": [
+      "Lyon, France",
+      "The Hague, Netherlands",
+      "Geneva, Switzerland",
+      "Brussels, Belgium"
+    ],
+    "answer": "Lyon, France"
+  },
+  {
+    "id": "civics-law-economics-141",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "As of 2026, where is the headquarters of UNESCO, the UN specialized agency for education, science and culture?",
+    "options": [
+      "Paris, France",
+      "Geneva, Switzerland",
+      "New York, USA",
+      "Vienna, Austria"
+    ],
+    "answer": "Paris, France"
+  },
+  {
+    "id": "civics-law-economics-142",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "Where is the headquarters of the International Criminal Court, which tries individuals for genocide and war crimes, as of 2026?",
+    "options": [
+      "The Hague, Netherlands",
+      "Geneva, Switzerland",
+      "Brussels, Belgium",
+      "Strasbourg, France"
+    ],
+    "answer": "The Hague, Netherlands"
+  },
+  {
+    "id": "civics-law-economics-143",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What term describes the legal authority of a court to hear and decide a case?",
+    "options": [
+      "Jurisdiction",
+      "Venue",
+      "Standing",
+      "Precedent"
+    ],
+    "answer": "Jurisdiction"
+  },
+  {
+    "id": "civics-law-economics-144",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What term describes whether a party has a sufficient connection to and harm from the matter to bring a lawsuit?",
+    "options": [
+      "Standing",
+      "Jurisdiction",
+      "Venue",
+      "Capacity"
+    ],
+    "answer": "Standing"
+  },
+  {
+    "id": "civics-law-economics-145",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What term describes the geographic location where a case should properly be tried?",
+    "options": [
+      "Venue",
+      "Jurisdiction",
+      "Forum",
+      "Docket"
+    ],
+    "answer": "Venue"
+  },
+  {
+    "id": "civics-law-economics-146",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What term describes the government taking ownership of private property or industry?",
+    "options": [
+      "Nationalization",
+      "Privatization",
+      "Deregulation",
+      "Monetization"
+    ],
+    "answer": "Nationalization"
+  },
+  {
+    "id": "civics-law-economics-147",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What term describes transferring ownership of a state-owned enterprise to private investors?",
+    "options": [
+      "Privatization",
+      "Nationalization",
+      "Expropriation",
+      "Confiscation"
+    ],
+    "answer": "Privatization"
+  },
+  {
+    "id": "civics-law-economics-148",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What term describes the removal of government regulations and restrictions on an industry?",
+    "options": [
+      "Deregulation",
+      "Nationalization",
+      "Protectionism",
+      "Subsidization"
+    ],
+    "answer": "Deregulation"
+  },
+  {
+    "id": "civics-law-economics-149",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What legal term refers to using reasonable care to avoid harm, often investigated after an accident or investment?",
+    "options": [
+      "Due diligence",
+      "Negligence per se",
+      "Strict liability",
+      "Contributory negligence"
+    ],
+    "answer": "Due diligence"
+  },
+  {
+    "id": "civics-law-economics-150",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "What form of illegal trading uses non-public material information about a company to buy or sell securities?",
+    "options": [
+      "Insider trading",
+      "Short selling",
+      "Arbitrage",
+      "Hedging"
+    ],
+    "answer": "Insider trading"
+  },
+  {
+    "id": "civics-law-economics-151",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What economic game describes a situation where total gains and losses sum to zero, so one party's gain is another's loss?",
+    "options": [
+      "Zero-sum game",
+      "Positive-sum game",
+      "Non-zero-sum game",
+      "Coordination game"
+    ],
+    "answer": "Zero-sum game"
+  },
+  {
+    "id": "civics-law-economics-152",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "As of 2026, how many member states does ASEAN have, after Timor-Leste joined in October 2025?",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "9"
+    ],
+    "answer": "11"
+  },
+  {
+    "id": "civics-law-economics-153",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What principle in international law holds that certain norms, like prohibitions on genocide, are peremptory and cannot be violated by treaty?",
+    "options": [
+      "Jus cogens",
+      "Jus soli",
+      "Jus sanguinis",
+      "Stare decisis"
+    ],
+    "answer": "Jus cogens"
+  },
+  {
+    "id": "civics-law-economics-154",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What term describes citizenship determined by place of birth within a country's territory?",
+    "options": [
+      "Jus soli",
+      "Jus sanguinis",
+      "Jus cogens",
+      "Naturalization"
+    ],
+    "answer": "Jus soli"
+  },
+  {
+    "id": "civics-law-economics-155",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What term describes citizenship determined by blood descent from a citizen parent?",
+    "options": [
+      "Jus sanguinis",
+      "Jus soli",
+      "Jus cogens",
+      "Domicile"
+    ],
+    "answer": "Jus sanguinis"
+  },
+  {
+    "id": "civics-law-economics-156",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What term describes an economic situation where borrowing becomes ineffective because interest rates are near zero and people hoard cash?",
+    "options": [
+      "Liquidity trap",
+      "Debt trap",
+      "Poverty trap",
+      "Middle-income trap"
+    ],
+    "answer": "Liquidity trap"
+  },
+  {
+    "id": "civics-law-economics-157",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "What effect occurs when government borrowing raises interest rates and reduces private investment?",
+    "options": [
+      "Crowding out",
+      "Crowding in",
+      "Multiplier effect",
+      "Accelerator effect"
+    ],
+    "answer": "Crowding out"
+  },
+  {
+    "id": "civics-law-economics-158",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What term describes a formal agreement between two or more countries concerning trade, peace, or other matters?",
+    "options": [
+      "Treaty",
+      "Statute",
+      "Ordinance",
+      "Executive order"
+    ],
+    "answer": "Treaty"
+  },
+  {
+    "id": "civics-law-economics-159",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What term describes money a government earns from issuing currency, the difference between face value and production cost?",
+    "options": [
+      "Seigniorage",
+      "Capital gains",
+      "Dividend",
+      "Royalty"
+    ],
+    "answer": "Seigniorage"
+  },
+  {
+    "id": "civics-law-economics-160",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What term describes the legal process of becoming a citizen of a country other than one's birth country?",
+    "options": [
+      "Naturalization",
+      "Denaturalization",
+      "Repatriation",
+      "Expatriation"
+    ],
+    "answer": "Naturalization"
+  },
+  {
+    "id": "civics-law-economics-161",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What antitrust law prohibits business practices that unreasonably restrain trade and monopolize markets in the United States?",
+    "options": [
+      "Sherman Antitrust Act",
+      "Clayton Act",
+      "Robinson-Patman Act",
+      "Federal Trade Commission Act"
+    ],
+    "answer": "Sherman Antitrust Act"
+  },
+  {
+    "id": "civics-law-economics-162",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What term describes the economic value of all final goods and services produced within a country's borders adjusted for inflation?",
+    "options": [
+      "Real GDP",
+      "Nominal GDP",
+      "GNP",
+      "NNP"
+    ],
+    "answer": "Real GDP"
+  },
+  {
+    "id": "civics-law-economics-163",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "What term describes extremely rapid, out-of-control price increases, often exceeding 50% per month?",
+    "options": [
+      "Hyperinflation",
+      "Stagflation",
+      "Disinflation",
+      "Deflation"
+    ],
+    "answer": "Hyperinflation"
+  },
+  {
+    "id": "civics-law-economics-164",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What term describes a market where buyers and sellers have full information and many participants, with no barriers to entry?",
+    "options": [
+      "Perfect competition",
+      "Monopoly",
+      "Oligopoly",
+      "Monopsony"
+    ],
+    "answer": "Perfect competition"
+  },
+  {
+    "id": "civics-law-economics-165",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What term describes a market with a single buyer, such as a company town that is the only employer?",
+    "options": [
+      "Monopsony",
+      "Monopoly",
+      "Oligopsony",
+      "Duopoly"
+    ],
+    "answer": "Monopsony"
+  },
+  {
+    "id": "civics-law-economics-166",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What international organization as of 2026 has 193 member states and was established in 1945 to maintain international peace and security?",
+    "options": [
+      "United Nations",
+      "League of Nations",
+      "NATO",
+      "European Union"
+    ],
+    "answer": "United Nations"
+  },
+  {
+    "id": "civics-law-economics-167",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "As of 2026, where is the European Parliament officially seated for most plenary sessions, with some sessions in Brussels?",
+    "options": [
+      "Strasbourg, France",
+      "Brussels, Belgium",
+      "Luxembourg City",
+      "Frankfurt, Germany"
+    ],
+    "answer": "Strasbourg, France"
+  },
+  {
+    "id": "civics-law-economics-168",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What legal term refers to money awarded to a plaintiff to compensate for actual losses, as opposed to punishing the defendant?",
+    "options": [
+      "Compensatory damages",
+      "Punitive damages",
+      "Nominal damages",
+      "Treble damages"
+    ],
+    "answer": "Compensatory damages"
+  },
+  {
+    "id": "civics-law-economics-169",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What legal term refers to extra damages awarded to punish egregious misconduct and deter future wrongdoing?",
+    "options": [
+      "Punitive damages",
+      "Compensatory damages",
+      "Liquidated damages",
+      "Consequential damages"
+    ],
+    "answer": "Punitive damages"
+  },
+  {
+    "id": "civics-law-economics-170",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What term describes the transfer of risk to an insurer in exchange for premium payments?",
+    "options": [
+      "Insurance",
+      "Hedging",
+      "Arbitrage",
+      "Diversification"
+    ],
+    "answer": "Insurance"
+  },
+  {
+    "id": "civics-law-economics-171",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "What economic concept describes a situation where one person's consumption reduces availability for others but exclusion is difficult, like fisheries?",
+    "options": [
+      "Common resource",
+      "Public good",
+      "Private good",
+      "Club good"
+    ],
+    "answer": "Common resource"
+  },
+  {
+    "id": "civics-law-economics-172",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What principle requires that laws be applied equally and not discriminate arbitrarily?",
+    "options": [
+      "Equal protection",
+      "Due process",
+      "Ex post facto",
+      "Habeas corpus"
+    ],
+    "answer": "Equal protection"
+  },
+  {
+    "id": "civics-law-economics-173",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What term describes a government's annual financial plan for revenue and spending?",
+    "options": [
+      "Budget",
+      "Balance sheet",
+      "Income statement",
+      "Ledger"
+    ],
+    "answer": "Budget"
+  },
+  {
+    "id": "civics-law-economics-174",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What term describes when a budget has more revenue than spending?",
+    "options": [
+      "Budget surplus",
+      "Budget deficit",
+      "Balanced budget",
+      "National debt"
+    ],
+    "answer": "Budget surplus"
+  },
+  {
+    "id": "civics-law-economics-175",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What type of law governs relationships between private individuals and includes contracts and torts?",
+    "options": [
+      "Civil law",
+      "Criminal law",
+      "Martial law",
+      "Constitutional law"
+    ],
+    "answer": "Civil law"
+  },
+  {
+    "id": "civics-law-economics-176",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What type of law involves prosecution by the state for acts considered harmful to society?",
+    "options": [
+      "Criminal law",
+      "Civil law",
+      "Administrative law",
+      "Contract law"
+    ],
+    "answer": "Criminal law"
+  },
+  {
+    "id": "civics-law-economics-177",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What term describes a law that requires contracts for certain important transactions to be in writing to be enforceable?",
+    "options": [
+      "Statute of Frauds",
+      "Statute of Limitations",
+      "Statute of Repose",
+      "Statute of Uses"
+    ],
+    "answer": "Statute of Frauds"
+  },
+  {
+    "id": "civics-law-economics-178",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "What economic indicator measures the total value of goods and services produced by a country's residents, regardless of location?",
+    "options": [
+      "Gross National Product",
+      "Gross Domestic Product",
+      "Net National Product",
+      "National Income"
+    ],
+    "answer": "Gross National Product"
+  },
+  {
+    "id": "civics-law-economics-179",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "As of 2026, which intergovernmental organization headquartered in Washington, D.C. provides loans and grants for development projects in middle- and low-income countries?",
+    "options": [
+      "World Bank",
+      "World Trade Organization",
+      "International Criminal Court",
+      "Interpol"
+    ],
+    "answer": "World Bank"
+  },
+  {
+    "id": "civics-law-economics-180",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "As of 2026, which organization headquartered in Geneva, Switzerland provides humanitarian aid and protection to refugees worldwide?",
+    "options": [
+      "UNHCR",
+      "UNESCO",
+      "UNICEF",
+      "WTO"
+    ],
+    "answer": "UNHCR"
+  },
+  {
+    "id": "civics-law-economics-181",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What term describes the exclusive authority of a state to govern itself without outside interference?",
+    "options": [
+      "Sovereignty",
+      "Hegemony",
+      "Suzerainty",
+      "Subsidiarity"
+    ],
+    "answer": "Sovereignty"
+  },
+  {
+    "id": "civics-law-economics-182",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What term describes the principle that decisions should be made at the most local level possible rather than centrally?",
+    "options": [
+      "Subsidiarity",
+      "Sovereignty",
+      "Federalism",
+      "Supremacy"
+    ],
+    "answer": "Subsidiarity"
+  },
+  {
+    "id": "civics-law-economics-183",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What term describes the process of drawing new boundaries for electoral districts, typically after a census?",
+    "options": [
+      "Redistricting",
+      "Gerrymandering",
+      "Apportionment",
+      "Canvassing"
+    ],
+    "answer": "Redistricting"
+  },
+  {
+    "id": "civics-law-economics-184",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What term describes allocating seats in a legislature among districts based on population?",
+    "options": [
+      "Apportionment",
+      "Gerrymandering",
+      "Redistricting",
+      "Proportional representation"
+    ],
+    "answer": "Apportionment"
+  },
+  {
+    "id": "civics-law-economics-185",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "What Latin term means 'let the buyer beware' and places responsibility on the buyer to examine goods?",
+    "options": [
+      "Caveat emptor",
+      "Caveat venditor",
+      "Quid pro quo",
+      "Pro bono"
+    ],
+    "answer": "Caveat emptor"
+  },
+  {
+    "id": "civics-law-economics-186",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What term describes an exchange of goods or favors where one thing is given for another, literally 'something for something'?",
+    "options": [
+      "Quid pro quo",
+      "Pro bono",
+      "De facto",
+      "De jure"
+    ],
+    "answer": "Quid pro quo"
+  },
+  {
+    "id": "civics-law-economics-187",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What term describes laws or practices that exist in reality, even if not officially recognized by law?",
+    "options": [
+      "De facto",
+      "De jure",
+      "De novo",
+      "De minimis"
+    ],
+    "answer": "De facto"
+  },
+  {
+    "id": "civics-law-economics-188",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What term describes what is lawful by law or right, even if not true in practice?",
+    "options": [
+      "De jure",
+      "De facto",
+      "De novo",
+      "Ad hoc"
+    ],
+    "answer": "De jure"
+  },
+  {
+    "id": "civics-law-economics-189",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What term describes a tax on the transfer of property at death?",
+    "options": [
+      "Estate tax",
+      "Income tax",
+      "Sales tax",
+      "Property tax"
+    ],
+    "answer": "Estate tax"
+  },
+  {
+    "id": "civics-law-economics-190",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What term describes the ability of a country to produce all needed goods without imports?",
+    "options": [
+      "Autarky",
+      "Autocracy",
+      "Anarchy",
+      "Oligarchy"
+    ],
+    "answer": "Autarky"
+  },
+  {
+    "id": "civics-law-economics-191",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "What term describes the situation where inflation is 100% accurate expectation and markets have fully adjusted?",
+    "options": [
+      "Fully anticipated inflation",
+      "Unanticipated inflation",
+      "Deflation",
+      "Disinflation"
+    ],
+    "answer": "Fully anticipated inflation"
+  },
+  {
+    "id": "civics-law-economics-192",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "As of 2026, which city hosts the International Labour Organization, a UN agency for labor standards?",
+    "options": [
+      "Geneva, Switzerland",
+      "New York, USA",
+      "Vienna, Austria",
+      "Paris, France"
+    ],
+    "answer": "Geneva, Switzerland"
+  },
+  {
+    "id": "civics-law-economics-193",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What term describes a system of government where citizens elect representatives to make decisions on their behalf?",
+    "options": [
+      "Republic",
+      "Direct democracy",
+      "Theocracy",
+      "Anarchy"
+    ],
+    "answer": "Republic"
+  },
+  {
+    "id": "civics-law-economics-194",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What legal principle states that agreements must be kept, forming the basis of contract law?",
+    "options": [
+      "Pacta sunt servanda",
+      "Stare decisis",
+      "Res judicata",
+      "Caveat emptor"
+    ],
+    "answer": "Pacta sunt servanda"
+  },
+  {
+    "id": "civics-law-economics-195",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What term describes a written order from a court directing a party to do or not do something?",
+    "options": [
+      "Court order",
+      "Subpoena",
+      "Affidavit",
+      "Deposition"
+    ],
+    "answer": "Court order"
+  },
+  {
+    "id": "civics-law-economics-196",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "What economic concept measures responsiveness of demand to a change in income?",
+    "options": [
+      "Income elasticity of demand",
+      "Price elasticity of demand",
+      "Cross-price elasticity",
+      "Supply elasticity"
+    ],
+    "answer": "Income elasticity of demand"
+  },
+  {
+    "id": "civics-law-economics-197",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "As of 2026, which organization of 35 member states in the Americas promotes democracy and human rights, headquartered in Washington, D.C.?",
+    "options": [
+      "Organization of American States",
+      "African Union",
+      "ASEAN",
+      "European Union"
+    ],
+    "answer": "Organization of American States"
+  },
+  {
+    "id": "civics-law-economics-198",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What term describes the practice of exchanging political favors, such as 'you vote for my bill, I'll vote for yours'?",
+    "options": [
+      "Logrolling",
+      "Lobbying",
+      "Filibustering",
+      "Gerrymandering"
+    ],
+    "answer": "Logrolling"
+  },
+  {
+    "id": "civics-law-economics-199",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "What term describes a legal system based on codified statutes and laws rather than judicial precedent, common in continental Europe?",
+    "options": [
+      "Civil law system",
+      "Common law system",
+      "Customary law",
+      "Religious law"
+    ],
+    "answer": "Civil law system"
+  },
+  {
+    "id": "civics-law-economics-200",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "What term describes a legal system based on judicial precedent and custom, originating in England?",
+    "options": [
+      "Common law system",
+      "Civil law system",
+      "Statutory law",
+      "Code law"
+    ],
+    "answer": "Common law system"
+  },
+  {
+    "id": "civics-law-economics-201",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What term describes the official count of votes after an election?",
+    "options": [
+      "Canvass",
+      "Caucus",
+      "Primary",
+      "Recount"
+    ],
+    "answer": "Canvass"
+  },
+  {
+    "id": "civics-law-economics-202",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What term describes a meeting of party members to select candidates or decide policy?",
+    "options": [
+      "Caucus",
+      "Canvass",
+      "Filibuster",
+      "Quorum"
+    ],
+    "answer": "Caucus"
+  },
+  {
+    "id": "civics-law-economics-203",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What economic policy emphasizes reducing taxes and regulation to encourage production?",
+    "options": [
+      "Supply-side economics",
+      "Demand-side economics",
+      "Keynesian economics",
+      "Monetarism"
+    ],
+    "answer": "Supply-side economics"
+  },
+  {
+    "id": "civics-law-economics-204",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "As of 2026, where is UNICEF, the UN agency focused on children, headquartered?",
+    "options": [
+      "New York, USA",
+      "Geneva, Switzerland",
+      "Paris, France",
+      "Rome, Italy"
+    ],
+    "answer": "New York, USA"
   }
 ]

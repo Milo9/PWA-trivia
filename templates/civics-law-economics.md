@@ -24,6 +24,7 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - The UN Security Council having 5 permanent veto-holding members
 - Alimony as post-divorce spousal support payments
 - The World Economic Forum's annual Davos, Switzerland gathering
+- "Crowding out" as the effect where government borrowing/spending reduces private investment
 
 Use web search to verify every fact — do not rely on memory alone. Prefer authoritative sources (reference databases, textbooks, official organization sites) over guessing. For each question, actually find or confirm the fact via search rather than recalling it, especially for specific figures, dates, and membership counts.
 

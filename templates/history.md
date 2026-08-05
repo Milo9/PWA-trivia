@@ -126,6 +126,34 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Battle of Isandlwana / Anglo-Zulu War year (1879)
 - Indian Rebellion / Sepoy Mutiny year (1857)
 - Fidel Castro's revolution triumphantly entering Havana (1959)
+- Eli Whitney inventing the cotton gin (1793)
+- William the Conqueror commissioning the Domesday Book (1086, either direction)
+- Justinian I codifying Roman law in the Corpus Juris Civilis (either direction)
+- Zheng He's treasure voyages ordered by the Yongle Emperor (either direction)
+- Minamoto no Yoritomo founding the Kamakura shogunate (1185/1192)
+- Battle of Sekigahara (1600) establishing Tokugawa Ieyasu's dominance
+- The Maya as the only pre-Columbian American civilization with a (largely) deciphered hieroglyphic writing system
+- Salem witch trials taking place in Salem, Massachusetts (1692)
+- Battle of the Alamo (1836, either direction — year to battle name or vice versa)
+- Operation Dynamo, the Dunkirk evacuation codename (1940)
+- Battle of Midway (June 1942) as the Pacific War turning point
+- The Enigma machine broken at Bletchley Park (any framing)
+- Yuri Gagarin as the first human in space / the year 1961 (either direction)
+- Alexei Leonov's first spacewalk (Voskhod 2, 1965)
+- Truman Doctrine (1947 US policy of aiding Greece/Turkey against communism)
+- William Harvey describing blood circulation in De Motu Cordis (1628, either direction)
+- Antonie van Leeuwenhoek first observing microorganisms/bacteria with a microscope
+- Voltaire's Candide (1759) satirizing optimism
+- Hammurabi's law code (any framing, including discovery/display details)
+- Howard Carter discovering Tutankhamun's nearly intact tomb (1922, either direction)
+- The Rosetta Stone discovered in 1799 during Napoleon's Egyptian campaign (either direction)
+- Alexander Graham Bell inventing the telephone (1876)
+- The Wright brothers' first powered flight at Kitty Hawk (1903)
+- 13th Amendment abolishing slavery in the US
+- Eisenhower signing the Federal-Aid Highway Act (1956)
+- The Soviet Union's formal dissolution (1991)
+- Suryavarman II commissioning Angkor Wat
+- Marshall Plan (1948 US aid to rebuild Western Europe)
 
 CAUTION — "first US President born in a log cabin" is commonly misattributed to Lincoln; Andrew Jackson was actually first (Jackson born 1767, decades before Lincoln). "The only US President to serve non-consecutive terms" (Grover Cleveland) stopped being true in 2025 when Donald Trump became the second — phrase any similar claim as "first," not "only," or pin it to a date.
 
