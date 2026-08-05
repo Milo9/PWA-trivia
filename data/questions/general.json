@@ -2936,5 +2936,2033 @@
       "Brown"
     ],
     "answer": "Pink"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "In Uno, which card type lets you declare a new color?",
+    "options": [
+      "Wild",
+      "Reverse",
+      "Skip",
+      "Draw Two"
+    ],
+    "answer": "Wild",
+    "id": "general-3159"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "A surveyor's chain equals how many yards?",
+    "options": [
+      "10 yards",
+      "22 yards",
+      "33 yards",
+      "66 yards"
+    ],
+    "answer": "22 yards",
+    "id": "general-3160"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "An ancient cubit was traditionally based on the distance from?",
+    "options": [
+      "Forearm to fingertip",
+      "Foot length",
+      "Hand span",
+      "Shoulder to fingertip"
+    ],
+    "answer": "Forearm to fingertip",
+    "id": "general-3161"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does 'burn the midnight oil' mean?",
+    "options": [
+      "Work late into the night",
+      "Waste fuel",
+      "Start a fire",
+      "Stay out partying"
+    ],
+    "answer": "Work late into the night",
+    "id": "general-3162"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "The humorous phrase 'a well-boiled icicle' was intended to mean what?",
+    "options": [
+      "well-oiled bicycle",
+      "well-soiled tricycle",
+      "well-boiled pickle",
+      "well-oiled icicle"
+    ],
+    "answer": "well-oiled bicycle",
+    "id": "general-3163"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many tiles does each player hold on their rack in Scrabble?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "5"
+    ],
+    "answer": "7",
+    "id": "general-3164"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many red hotels are included in a standard Monopoly set?",
+    "options": [
+      "8",
+      "12",
+      "16",
+      "6"
+    ],
+    "answer": "12",
+    "id": "general-3165"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "In Texas Hold'em, how many shared board cards are revealed overall?",
+    "options": [
+      "6",
+      "4",
+      "7",
+      "5"
+    ],
+    "answer": "5",
+    "id": "general-3166"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "Counting Jacks, Queens and Kings, how many face cards are in a standard deck?",
+    "options": [
+      "12",
+      "16",
+      "9",
+      "8"
+    ],
+    "answer": "12",
+    "id": "general-3167"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What is a name that humorously fits its owner's profession called?",
+    "options": [
+      "aptronym",
+      "eponym",
+      "mondegreen",
+      "tittle"
+    ],
+    "answer": "aptronym",
+    "id": "general-3168"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What are the dimensions of standard A4 paper under ISO 216?",
+    "options": [
+      "210 x 297 mm",
+      "216 x 279 mm",
+      "148 x 210 mm",
+      "297 x 420 mm"
+    ],
+    "answer": "210 x 297 mm",
+    "id": "general-3169"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many suits in a standard deck are colored red?",
+    "options": [
+      "3",
+      "1",
+      "2",
+      "4"
+    ],
+    "answer": "2",
+    "id": "general-3170"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "Vertical spacing between lines of type, once created with lead strips, is called?",
+    "options": [
+      "leading",
+      "kerning",
+      "tracking",
+      "pilcrowing"
+    ],
+    "answer": "leading",
+    "id": "general-3171"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What Latin phrase does 'etc.' abbreviate?",
+    "options": [
+      "et cetera",
+      "et centro",
+      "et circa",
+      "extra total"
+    ],
+    "answer": "et cetera",
+    "id": "general-3172"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "A word that has two opposite meanings, like 'dust' meaning to add or remove fine particles, is called what?",
+    "options": [
+      "contronym",
+      "eponym",
+      "tittle",
+      "caret"
+    ],
+    "answer": "contronym",
+    "id": "general-3173"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many playing pieces does each player start with in Checkers?",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "16"
+    ],
+    "answer": "12",
+    "id": "general-3174"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many spaces make up the full loop of a classic Monopoly board?",
+    "options": [
+      "40",
+      "36",
+      "50",
+      "28"
+    ],
+    "answer": "40",
+    "id": "general-3175"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "Which dash is longest and used for an abrupt break in thought—like this?",
+    "options": [
+      "em dash",
+      "en dash",
+      "hyphen",
+      "caret"
+    ],
+    "answer": "em dash",
+    "id": "general-3176"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many possible murder weapons are there in classic Clue?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "4"
+    ],
+    "answer": "6",
+    "id": "general-3177"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "Which of these is not considered a standard suit for playing cards?",
+    "options": [
+      "Stars",
+      "Clubs",
+      "Hearts",
+      "Diamonds"
+    ],
+    "answer": "Stars",
+    "id": "general-3178"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What term describes a new word created to distinguish an older version after a newer one appears?",
+    "options": [
+      "retronym",
+      "portmanteau",
+      "heteronym",
+      "eggcorn"
+    ],
+    "answer": "retronym",
+    "id": "general-3179"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "The A-series paper sizes are based on what aspect ratio?",
+    "options": [
+      "Golden ratio",
+      "Square root of 2",
+      "Pi",
+      "3 to 2"
+    ],
+    "answer": "Square root of 2",
+    "id": "general-3180"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "In the phrase 'four score and seven years ago,' how many years is a score?",
+    "options": [
+      "10 years",
+      "20 years",
+      "25 years",
+      "100 years"
+    ],
+    "answer": "20 years",
+    "id": "general-3181"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "In the popular color-matching card game, what must you shout when down to a single card left?",
+    "options": [
+      "Uno",
+      "Stop",
+      "Win",
+      "Last Card"
+    ],
+    "answer": "Uno",
+    "id": "general-3182"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What does 'let someone off the hook' mean?",
+    "options": [
+      "Free them from obligation",
+      "Catch fish",
+      "Hang up the phone",
+      "Punish severely"
+    ],
+    "answer": "Free them from obligation",
+    "id": "general-3183"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many cards are in the Chance deck in standard Monopoly?",
+    "options": [
+      "16",
+      "12",
+      "20",
+      "10"
+    ],
+    "answer": "16",
+    "id": "general-3184"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "A troy ounce is traditionally used to measure what?",
+    "options": [
+      "Gold and silver",
+      "Flour and sugar",
+      "Fabric length",
+      "Liquid volume"
+    ],
+    "answer": "Gold and silver",
+    "id": "general-3185"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "In what year was Pictionary first published?",
+    "options": [
+      "1975",
+      "1985",
+      "1990",
+      "1980"
+    ],
+    "answer": "1985",
+    "id": "general-3186"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "The term malapropism originates from a character in which 1775 comedy?",
+    "options": [
+      "The Rivals",
+      "The School for Scandal",
+      "The Alchemist",
+      "She Stoops to Conquer"
+    ],
+    "answer": "The Rivals",
+    "id": "general-3187"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What is the size of the Scrabble playing board grid?",
+    "options": [
+      "15x15",
+      "13x13",
+      "17x17",
+      "20x20"
+    ],
+    "answer": "15x15",
+    "id": "general-3188"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "Which of these tokens was part of the original 1935 Monopoly set?",
+    "options": [
+      "Rubber Duck",
+      "Top Hat",
+      "Cat",
+      "T-Rex"
+    ],
+    "answer": "Top Hat",
+    "id": "general-3189"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What does the idiom 'raining cats and dogs' mean?",
+    "options": [
+      "Raining very heavily",
+      "Raining lightly",
+      "Snowing",
+      "Windy and dry"
+    ],
+    "answer": "Raining very heavily",
+    "id": "general-3190"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What is the official term for a rebus-style word puzzle where words are arranged to suggest a phrase?",
+    "options": [
+      "Dingbat / Wacky Wordie",
+      "Acrostic",
+      "Palindrome",
+      "Anagram"
+    ],
+    "answer": "Dingbat / Wacky Wordie",
+    "id": "general-3191"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "In poker, which hand ranks immediately below four of a kind?",
+    "options": [
+      "Full House",
+      "Flush",
+      "Straight",
+      "Three of a Kind"
+    ],
+    "answer": "Full House",
+    "id": "general-3192"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "In classic Battleship, how many ships does each player hide?",
+    "options": [
+      "5",
+      "6",
+      "4",
+      "7"
+    ],
+    "answer": "5",
+    "id": "general-3193"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "In the classic wooden block-stacking game, which piece name is said to mean 'to build' in Swahili?",
+    "options": [
+      "Domino",
+      "Jenga",
+      "Uno",
+      "Yahtzee"
+    ],
+    "answer": "Jenga",
+    "id": "general-3194"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What term is used when a card game requires you to play a card of the same suit if possible?",
+    "options": [
+      "Following suit",
+      "Trumping",
+      "Melding",
+      "Discarding"
+    ],
+    "answer": "Following suit",
+    "id": "general-3195"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What does the idiom 'a piece of cake' mean?",
+    "options": [
+      "Something very easy",
+      "Something expensive",
+      "Something delicious",
+      "Something unfair"
+    ],
+    "answer": "Something very easy",
+    "id": "general-3196"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "In classic two-player Rummy, how many cards does each player start with?",
+    "options": [
+      "7",
+      "10",
+      "5",
+      "13"
+    ],
+    "answer": "10",
+    "id": "general-3197"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "A 'ream' of paper traditionally contains how many sheets?",
+    "options": [
+      "400",
+      "500",
+      "250",
+      "1,000"
+    ],
+    "answer": "500",
+    "id": "general-3198"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What phrase means to take on more responsibility than you can handle?",
+    "options": [
+      "Bite off more than you can chew",
+      "Spill the beans",
+      "Break the ice",
+      "Cost an arm and a leg"
+    ],
+    "answer": "Bite off more than you can chew",
+    "id": "general-3199"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many cards are in a standard French-suited deck without jokers?",
+    "options": [
+      "48",
+      "52",
+      "54",
+      "36"
+    ],
+    "answer": "52",
+    "id": "general-3200"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "In Scrabble, what is the term for using all seven tiles in one move?",
+    "options": [
+      "Bingo",
+      "Jackpot",
+      "Flush",
+      "Strike"
+    ],
+    "answer": "Bingo",
+    "id": "general-3201"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "In Hearts, which card carries 13 penalty points?",
+    "options": [
+      "Queen of Spades",
+      "King of Hearts",
+      "Ace of Spades",
+      "Jack of Diamonds"
+    ],
+    "answer": "Queen of Spades",
+    "id": "general-3202"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does the ampersand symbol '&' historically represent?",
+    "options": [
+      "The Latin word 'et' meaning 'and'",
+      "The word 'at'",
+      "The word 'or'",
+      "The word 'end'"
+    ],
+    "answer": "The Latin word 'et' meaning 'and'",
+    "id": "general-3203"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many dots are on the double-blank domino?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "12"
+    ],
+    "answer": "0",
+    "id": "general-3204"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many dice are normally rolled in a game of craps?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "2",
+    "id": "general-3205"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does 'cost an arm and a leg' mean?",
+    "options": [
+      "Very expensive",
+      "Physically painful",
+      "Requires sacrifice",
+      "Dangerous"
+    ],
+    "answer": "Very expensive",
+    "id": "general-3206"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What term describes a word that changes meaning when capitalized, like 'august' and 'August'?",
+    "options": [
+      "capitonym",
+      "contronym",
+      "eponym",
+      "eggcorn"
+    ],
+    "answer": "capitonym",
+    "id": "general-3207"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What does 'hit the sack' mean?",
+    "options": [
+      "Go to sleep",
+      "Start exercising",
+      "Become angry",
+      "Win a prize"
+    ],
+    "answer": "Go to sleep",
+    "id": "general-3208"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What is the highest-scoring possible play in Scrabble, as of 2026, worth 1,778 points?",
+    "options": [
+      "CAZIQUES",
+      "QUIXOTIC",
+      "MUZJIKS",
+      "OXYPHENBUTAZONE"
+    ],
+    "answer": "CAZIQUES",
+    "id": "general-3209"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many letters are in the modern English alphabet?",
+    "options": [
+      "24",
+      "26",
+      "27",
+      "28"
+    ],
+    "answer": "26",
+    "id": "general-3210"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "Which phrase means to reveal something by accident?",
+    "options": [
+      "Let the cat out of the bag",
+      "Take the bull by the horns",
+      "Beat around the bush",
+      "Break a leg"
+    ],
+    "answer": "Let the cat out of the bag",
+    "id": "general-3211"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "In Jenga, how many wooden blocks are in a standard set?",
+    "options": [
+      "48",
+      "54",
+      "60",
+      "36"
+    ],
+    "answer": "54",
+    "id": "general-3212"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "In Catan, how many hexagonal resource tiles make up the standard board?",
+    "options": [
+      "18",
+      "19",
+      "20",
+      "24"
+    ],
+    "answer": "19",
+    "id": "general-3213"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does the phrase 'barking up the wrong tree' mean?",
+    "options": [
+      "Pursuing a mistaken course",
+      "Making a dog angry",
+      "Climbing dangerously",
+      "Talking loudly"
+    ],
+    "answer": "Pursuing a mistaken course",
+    "id": "general-3214"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What color is the 50-point bullseye in standard darts?",
+    "options": [
+      "Red",
+      "Green",
+      "Black",
+      "Blue"
+    ],
+    "answer": "Red",
+    "id": "general-3215"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many points does a Yahtzee (five of a kind) score in Yahtzee?",
+    "options": [
+      "25",
+      "40",
+      "50",
+      "100"
+    ],
+    "answer": "50",
+    "id": "general-3216"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What does a 'gross' equal in counting?",
+    "options": [
+      "12 dozen",
+      "10 dozen",
+      "13",
+      "100"
+    ],
+    "answer": "12 dozen",
+    "id": "general-3217"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does the idiom 'break the ice' mean?",
+    "options": [
+      "To start a conversation",
+      "To shatter something",
+      "To become angry",
+      "To make a mistake"
+    ],
+    "answer": "To start a conversation",
+    "id": "general-3218"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "In the card game Hearts, how many points is each Heart worth?",
+    "options": [
+      "0 points",
+      "1 point",
+      "5 points",
+      "10 points"
+    ],
+    "answer": "1 point",
+    "id": "general-3219"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What does Uno mean in Spanish?",
+    "options": [
+      "One",
+      "Win",
+      "Color",
+      "Wild"
+    ],
+    "answer": "One",
+    "id": "general-3220"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What does the idiom 'under the weather' mean?",
+    "options": [
+      "Feeling ill",
+      "Feeling energetic",
+      "Being outdoors",
+      "Being lucky"
+    ],
+    "answer": "Feeling ill",
+    "id": "general-3221"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does 'mind your Ps and Qs' mean?",
+    "options": [
+      "Be on your best behavior",
+      "Watch your spelling",
+      "Count your money",
+      "Keep quiet"
+    ],
+    "answer": "Be on your best behavior",
+    "id": "general-3222"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What is the name for the domino that can be played on all four sides?",
+    "options": [
+      "Spinner",
+      "Blank",
+      "Double",
+      "Wild"
+    ],
+    "answer": "Spinner",
+    "id": "general-3223"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "Which word describes using a person's name as a word, like 'boycott' or 'sandwich'?",
+    "options": [
+      "eponym",
+      "aptronym",
+      "retronym",
+      "backronym"
+    ],
+    "answer": "eponym",
+    "id": "general-3224"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many resource types are there in classic Catan, not counting desert?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "3"
+    ],
+    "answer": "5",
+    "id": "general-3225"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does 'throw in the towel' mean?",
+    "options": [
+      "Give up",
+      "Start fighting",
+      "Clean up",
+      "Celebrate"
+    ],
+    "answer": "Give up",
+    "id": "general-3226"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "In Monopoly, which color group has only two properties in the American version?",
+    "options": [
+      "Brown and Dark Blue",
+      "Light Blue and Brown",
+      "Green and Yellow",
+      "Red and Orange"
+    ],
+    "answer": "Brown and Dark Blue",
+    "id": "general-3227"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What does it mean to 'steal someone's thunder'?",
+    "options": [
+      "Take credit for their idea",
+      "Make a loud noise",
+      "Win a race",
+      "Be struck by lightning"
+    ],
+    "answer": "Take credit for their idea",
+    "id": "general-3228"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does the phrase 'through thick and thin' mean?",
+    "options": [
+      "In good times and bad",
+      "Very quickly",
+      "Secretly",
+      "Carefully"
+    ],
+    "answer": "In good times and bad",
+    "id": "general-3229"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "A tautology is?",
+    "options": [
+      "Needlessly repeating the same idea in different words",
+      "Combining two words",
+      "A word that is its own opposite",
+      "A name that fits a job"
+    ],
+    "answer": "Needlessly repeating the same idea in different words",
+    "id": "general-3230"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many checkers does each player have in Backgammon?",
+    "options": [
+      "10",
+      "12",
+      "15",
+      "20"
+    ],
+    "answer": "15",
+    "id": "general-3231"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What term means a phrase invented to fit an existing acronym?",
+    "options": [
+      "backronym",
+      "retronym",
+      "aptronym",
+      "portmanteau"
+    ],
+    "answer": "backronym",
+    "id": "general-3232"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many sides does a standard six-sided die have?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "answer": "6",
+    "id": "general-3233"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does 'once in a blue moon' mean?",
+    "options": [
+      "Very rarely",
+      "Every month",
+      "At night",
+      "When sad"
+    ],
+    "answer": "Very rarely",
+    "id": "general-3234"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "Which playing card is known as the 'One-Eyed Jack' in a standard deck?",
+    "options": [
+      "Jack of Spades",
+      "Jack of Hearts",
+      "Jack of Clubs",
+      "Jack of Diamonds"
+    ],
+    "answer": "Jack of Hearts",
+    "id": "general-3235"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What does 'jump on the bandwagon' mean?",
+    "options": [
+      "Join a popular activity",
+      "Start a parade",
+      "Leave a group",
+      "Play music"
+    ],
+    "answer": "Join a popular activity",
+    "id": "general-3236"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many face cards are there in each suit?",
+    "options": [
+      "3",
+      "4",
+      "2",
+      "5"
+    ],
+    "answer": "3",
+    "id": "general-3237"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What is the term for the proofreading symbol that means 'insert here' shaped like an inverted V?",
+    "options": [
+      "caret",
+      "pilcrow",
+      "tittle",
+      "ampersand"
+    ],
+    "answer": "caret",
+    "id": "general-3238"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many points is the letter 'Z' worth in Scrabble?",
+    "options": [
+      "8",
+      "10",
+      "5",
+      "3"
+    ],
+    "answer": "10",
+    "id": "general-3239"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "Which idiom refers to saving money for the future?",
+    "options": [
+      "Save for a rainy day",
+      "Break the bank",
+      "Foot the bill",
+      "Spill the beans"
+    ],
+    "answer": "Save for a rainy day",
+    "id": "general-3240"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does the 'Draw Two' card do in Uno?",
+    "options": [
+      "Next player draws 2 and loses turn",
+      "You draw 2 extra",
+      "Everyone draws 2",
+      "Reverse direction and draw 2"
+    ],
+    "answer": "Next player draws 2 and loses turn",
+    "id": "general-3241"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What is the term for mishearing a lyric or phrase, like 'excuse me while I kiss this guy'?",
+    "options": [
+      "mondegreen",
+      "spoonerism",
+      "malapropism",
+      "eggcorn"
+    ],
+    "answer": "mondegreen",
+    "id": "general-3242"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "In Scrabble, what was the game first called in 1931 by Alfred Mosher Butts?",
+    "options": [
+      "Lexiko",
+      "Anagrams",
+      "Word Cross",
+      "Criss-Cross Words"
+    ],
+    "answer": "Lexiko",
+    "id": "general-3243"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "In classic Monopoly, what color is Boardwalk?",
+    "options": [
+      "Dark Blue",
+      "Green",
+      "Red",
+      "Yellow"
+    ],
+    "answer": "Dark Blue",
+    "id": "general-3244"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "A standard oil barrel contains how many US gallons?",
+    "options": [
+      "42 gallons",
+      "55 gallons",
+      "35 gallons",
+      "50 gallons"
+    ],
+    "answer": "42 gallons",
+    "id": "general-3245"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "In craps, what numbers result in an immediate loss on the first roll for the shooter?",
+    "options": [
+      "2, 3, 12",
+      "7, 11",
+      "2, 7, 12",
+      "3, 4, 11"
+    ],
+    "answer": "2, 3, 12",
+    "id": "general-3246"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "What is the name for the paragraph symbol ¶?",
+    "options": [
+      "pilcrow",
+      "caret",
+      "octothorpe",
+      "tittle"
+    ],
+    "answer": "pilcrow",
+    "id": "general-3247"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "In standard Battleship, which ship is three spaces long?",
+    "options": [
+      "Submarine",
+      "Destroyer",
+      "Battleship",
+      "Carrier"
+    ],
+    "answer": "Submarine",
+    "id": "general-3248"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many aces are in a standard deck of playing cards?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "answer": "4",
+    "id": "general-3249"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many properties have title deed cards in Monopoly (streets, railroads, utilities)?",
+    "options": [
+      "22",
+      "28",
+      "32",
+      "40"
+    ],
+    "answer": "28",
+    "id": "general-3250"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does 'hit the nail on the head' mean?",
+    "options": [
+      "Describe exactly right",
+      "Make a mistake",
+      "Be clumsy",
+      "Build something"
+    ],
+    "answer": "Describe exactly right",
+    "id": "general-3251"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does the phrase 'the ball is in your court' mean?",
+    "options": [
+      "It's your turn to act",
+      "You won the game",
+      "You made a mistake",
+      "You are being watched"
+    ],
+    "answer": "It's your turn to act",
+    "id": "general-3252"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does it mean to 'beat around the bush'?",
+    "options": [
+      "Avoid getting to the point",
+      "Win easily",
+      "Trim hedges",
+      "Be very direct"
+    ],
+    "answer": "Avoid getting to the point",
+    "id": "general-3253"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does the term 'eggcorn' refer to?",
+    "options": [
+      "Mishearing a phrase as similar-sounding words that still make sense",
+      "A type of sweet corn",
+      "A corn-based decoration",
+      "A spelling error"
+    ],
+    "answer": "Mishearing a phrase as similar-sounding words that still make sense",
+    "id": "general-3254"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What is the name for the typographic term for adjusting space between two specific letters?",
+    "options": [
+      "kerning",
+      "leading",
+      "tracking",
+      "pilcrowing"
+    ],
+    "answer": "kerning",
+    "id": "general-3255"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many squares are in each player's home area in Sorry!?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "3"
+    ],
+    "answer": "5",
+    "id": "general-3256"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "In poker, which hand beats a straight?",
+    "options": [
+      "Flush",
+      "Two Pair",
+      "One Pair",
+      "High Card"
+    ],
+    "answer": "Flush",
+    "id": "general-3257"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does the # symbol also called octothorpe refer to in modern usage?",
+    "options": [
+      "Hashtag / pound sign",
+      "At sign",
+      "Ampersand",
+      "Copyright"
+    ],
+    "answer": "Hashtag / pound sign",
+    "id": "general-3258"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "In Yahtzee, what is the requirement for a small straight?",
+    "options": [
+      "Four consecutive numbers",
+      "Five consecutive numbers",
+      "Three of a kind",
+      "Two pairs"
+    ],
+    "answer": "Four consecutive numbers",
+    "id": "general-3259"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "In Uno, what does the Wild Draw Four card allow you to do?",
+    "options": [
+      "Change color and make next player draw 4",
+      "Draw 4 for yourself",
+      "Skip all players",
+      "Reverse and draw 4"
+    ],
+    "answer": "Change color and make next player draw 4",
+    "id": "general-3260"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "Which type of card in Uno reverses the direction of play?",
+    "options": [
+      "Reverse",
+      "Skip",
+      "Draw Two",
+      "Wild"
+    ],
+    "answer": "Reverse",
+    "id": "general-3261"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does 'take something with a grain of salt' mean?",
+    "options": [
+      "Be skeptical about it",
+      "Cook it carefully",
+      "Preserve it",
+      "Enjoy it"
+    ],
+    "answer": "Be skeptical about it",
+    "id": "general-3262"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "Which Monopoly piece was added in 2017 replacing the thimble?",
+    "options": [
+      "Penguin",
+      "T-Rex",
+      "Duck",
+      "Cat"
+    ],
+    "answer": "T-Rex",
+    "id": "general-3263"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What is the common term for the game where you try to avoid taking tricks with hearts?",
+    "options": [
+      "Hearts",
+      "Spades",
+      "Clubs",
+      "Diamonds"
+    ],
+    "answer": "Hearts",
+    "id": "general-3264"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What is a lipogram?",
+    "options": [
+      "Text that avoids a particular letter",
+      "Text that repeats the same letter",
+      "Text that reads backwards",
+      "Text that uses all letters"
+    ],
+    "answer": "Text that avoids a particular letter",
+    "id": "general-3265"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "In standard dominoes, which tile is also called the spinner in some variants?",
+    "options": [
+      "Double-12",
+      "Double-blank",
+      "Double-6",
+      "Double-5"
+    ],
+    "answer": "Double-12",
+    "id": "general-3266"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What does it mean to 'let off steam'?",
+    "options": [
+      "Release pent-up energy",
+      "Cook something",
+      "Start an engine",
+      "Be lazy"
+    ],
+    "answer": "Release pent-up energy",
+    "id": "general-3267"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "Which of these is an example of a retronym?",
+    "options": [
+      "Acoustic guitar",
+      "Electric guitar",
+      "Guitar pick",
+      "Bass guitar"
+    ],
+    "answer": "Acoustic guitar",
+    "id": "general-3268"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "In the board game, what is the name of the victim in Clue?",
+    "options": [
+      "Mr. Boddy",
+      "Mr. Green",
+      "Colonel Mustard",
+      "Professor Plum"
+    ],
+    "answer": "Mr. Boddy",
+    "id": "general-3269"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What does a knot measure as a unit?",
+    "options": [
+      "One nautical mile per hour",
+      "One statute mile per hour",
+      "One kilometer per hour",
+      "One meter per second"
+    ],
+    "answer": "One nautical mile per hour",
+    "id": "general-3270"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does 'the best of both worlds' mean?",
+    "options": [
+      "Enjoying advantages of two different things",
+      "Being indecisive",
+      "Traveling widely",
+      "Having two homes"
+    ],
+    "answer": "Enjoying advantages of two different things",
+    "id": "general-3271"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many rooms are there in the classic Clue mansion?",
+    "options": [
+      "6",
+      "9",
+      "10",
+      "8"
+    ],
+    "answer": "9",
+    "id": "general-3272"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many points are required to win a standard game of Scrabble?",
+    "options": [
+      "No fixed target, highest score wins",
+      "300",
+      "500",
+      "100"
+    ],
+    "answer": "No fixed target, highest score wins",
+    "id": "general-3273"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does the phrase 'cut to the chase' mean?",
+    "options": [
+      "Get to the important part",
+      "Run away quickly",
+      "Edit a film",
+      "Stop talking"
+    ],
+    "answer": "Get to the important part",
+    "id": "general-3274"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many community cards are dealt in Texas Hold'em?",
+    "options": [
+      "3",
+      "5",
+      "4",
+      "6"
+    ],
+    "answer": "5",
+    "id": "general-3275"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "What is a googol equal to?",
+    "options": [
+      "10 to the 100th power",
+      "10 to the 10th power",
+      "10 to the 1,000th power",
+      "1 million"
+    ],
+    "answer": "10 to the 100th power",
+    "id": "general-3276"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many letters are on a classic Boggle 4x4 cube set?",
+    "options": [
+      "16",
+      "20",
+      "24",
+      "25"
+    ],
+    "answer": "16",
+    "id": "general-3277"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What is the name of the patient you operate on in Operation?",
+    "options": [
+      "Cavity Sam",
+      "Sick Sid",
+      "Ill Will",
+      "Aching Al"
+    ],
+    "answer": "Cavity Sam",
+    "id": "general-3278"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "In Uno, how many cards does a Draw Two force the next player to take?",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "3"
+    ],
+    "answer": "2",
+    "id": "general-3279"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "In Backgammon, what is the highest point on the doubling cube?",
+    "options": [
+      "32",
+      "64",
+      "128",
+      "100"
+    ],
+    "answer": "64",
+    "id": "general-3280"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What does 'pull someone's leg' mean?",
+    "options": [
+      "Tease them playfully",
+      "Hurt them",
+      "Help them walk",
+      "Trip them"
+    ],
+    "answer": "Tease them playfully",
+    "id": "general-3281"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "In Monopoly, what happens when you land on Free Parking in official rules?",
+    "options": [
+      "Nothing, it's a free space",
+      "Collect $200",
+      "Go to Jail",
+      "Pay $100"
+    ],
+    "answer": "Nothing, it's a free space",
+    "id": "general-3282"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What is a fathom used to measure?",
+    "options": [
+      "Water depth",
+      "Gold weight",
+      "Fabric length",
+      "Horse height"
+    ],
+    "answer": "Water depth",
+    "id": "general-3283"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does 'hit the books' mean?",
+    "options": [
+      "Study hard",
+      "Throw books",
+      "Buy books",
+      "Write a book"
+    ],
+    "answer": "Study hard",
+    "id": "general-3284"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "Which Scrabble tile can represent any letter the player chooses?",
+    "options": [
+      "Star",
+      "Blank",
+      "Wild",
+      "Zero"
+    ],
+    "answer": "Blank",
+    "id": "general-3285"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many green houses are included in a standard Monopoly set?",
+    "options": [
+      "32",
+      "22",
+      "40",
+      "12"
+    ],
+    "answer": "32",
+    "id": "general-3286"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "In most casino versions of that banking card game, the dealer must continue drawing up to at least what total?",
+    "options": [
+      "17",
+      "15",
+      "18",
+      "16"
+    ],
+    "answer": "17",
+    "id": "general-3287"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What punctuation mark combines a question mark and exclamation point into one glyph?",
+    "options": [
+      "interrobang",
+      "pilcrow",
+      "octothorpe",
+      "caret"
+    ],
+    "answer": "interrobang",
+    "id": "general-3288"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does 'close but no cigar' mean?",
+    "options": [
+      "Almost succeeded but didn't",
+      "Won a big prize",
+      "Smoked too much",
+      "Made a perfect guess"
+    ],
+    "answer": "Almost succeeded but didn't",
+    "id": "general-3289"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "Which description best fits a full house in poker?",
+    "options": [
+      "All same suit",
+      "Five in sequence",
+      "Three of a kind plus a pair",
+      "Two pairs plus a single"
+    ],
+    "answer": "Three of a kind plus a pair",
+    "id": "general-3290"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "What does a 'white elephant' refer to?",
+    "options": [
+      "A burdensome expensive possession",
+      "A rare good luck charm",
+      "A powerful leader",
+      "A secret message"
+    ],
+    "answer": "A burdensome expensive possession",
+    "id": "general-3291"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "One US liquid gallon equals approximately how many liters?",
+    "options": [
+      "1 liter",
+      "3.785 liters",
+      "4.546 liters",
+      "5 liters"
+    ],
+    "answer": "3.785 liters",
+    "id": "general-3292"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "In computing and electronics, a jiffy refers to?",
+    "options": [
+      "One second exactly",
+      "A very short time / system tick",
+      "One hour",
+      "One millisecond exactly"
+    ],
+    "answer": "A very short time / system tick",
+    "id": "general-3293"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many dice are used in a classic game of Yahtzee?",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "5"
+    ],
+    "answer": "5",
+    "id": "general-3294"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "The 1939 novel Gadsby, famous for constrained writing, avoids which letter entirely?",
+    "options": [
+      "E",
+      "Q",
+      "Z",
+      "X"
+    ],
+    "answer": "E",
+    "id": "general-3295"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "A great gross equals how many items?",
+    "options": [
+      "1,000",
+      "1,440",
+      "1,728",
+      "10,000"
+    ],
+    "answer": "1,728",
+    "id": "general-3296"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "The pilcrow evolved from early scribes marking 'capitulum' meaning what?",
+    "options": [
+      "little head",
+      "little tail",
+      "big dot",
+      "new leaf"
+    ],
+    "answer": "little head",
+    "id": "general-3297"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What two-card combo makes a natural in that banking game where face cards count ten?",
+    "options": [
+      "King plus Queen",
+      "Two Aces",
+      "Ten plus Nine",
+      "Ace plus 10-value card"
+    ],
+    "answer": "Ace plus 10-value card",
+    "id": "general-3298"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "In poker, what does the ranking known as quads actually contain?",
+    "options": [
+      "Four suited cards",
+      "Four cards of same rank",
+      "Four in sequence",
+      "Two pairs"
+    ],
+    "answer": "Four cards of same rank",
+    "id": "general-3299"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many colored wedges must you collect to win Trivial Pursuit?",
+    "options": [
+      "5",
+      "6",
+      "4",
+      "8"
+    ],
+    "answer": "6",
+    "id": "general-3300"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many railroads can be bought in classic Monopoly?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "answer": "4",
+    "id": "general-3301"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many letter tiles are in the English edition of Scrabble?",
+    "options": [
+      "100",
+      "98",
+      "102",
+      "120"
+    ],
+    "answer": "100",
+    "id": "general-3302"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does 'face the music' mean?",
+    "options": [
+      "Accept unpleasant consequences",
+      "Enjoy a concert",
+      "Learn an instrument",
+      "Dance poorly"
+    ],
+    "answer": "Accept unpleasant consequences",
+    "id": "general-3303"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "Who is credited with inventing the interrobang in 1962?",
+    "options": [
+      "Martin K. Speckter",
+      "Lewis Carroll",
+      "Benjamin Franklin",
+      "Noah Webster"
+    ],
+    "answer": "Martin K. Speckter",
+    "id": "general-3304"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What is the grid size for each player's ocean in Battleship?",
+    "options": [
+      "8x8",
+      "10x10",
+      "12x12",
+      "10x12"
+    ],
+    "answer": "10x10",
+    "id": "general-3305"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "Which pair illustrates a heteronym?",
+    "options": [
+      "lead to guide vs lead metal",
+      "Polish vs polish",
+      "brunch vs breakfast",
+      "i dot vs j dot"
+    ],
+    "answer": "lead to guide vs lead metal",
+    "id": "general-3306"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "A fathom, used to measure water depth, equals?",
+    "options": [
+      "3 feet",
+      "6 feet",
+      "10 feet",
+      "12 feet"
+    ],
+    "answer": "6 feet",
+    "id": "general-3307"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "Candy Land was designed in 1948 while its creator was recovering from which disease?",
+    "options": [
+      "Flu",
+      "Polio",
+      "Measles",
+      "Tuberculosis"
+    ],
+    "answer": "Polio",
+    "id": "general-3308"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many utility spaces are there on a Monopoly board?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "2",
+    "id": "general-3309"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "In the casino banking game where suits do not matter, what total are you trying to approach?",
+    "options": [
+      "21",
+      "19",
+      "22",
+      "20"
+    ],
+    "answer": "21",
+    "id": "general-3310"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What is the name for collecting all penalty cards in a single hand of Hearts?",
+    "options": [
+      "Sweep",
+      "Blackout",
+      "Shooting the moon",
+      "Clearing the board"
+    ],
+    "answer": "Shooting the moon",
+    "id": "general-3311"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "In Yahtzee's upper section, what subtotal earns the bonus reward?",
+    "options": [
+      "63",
+      "70",
+      "60",
+      "50"
+    ],
+    "answer": "63",
+    "id": "general-3312"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "One international nautical mile is defined as exactly?",
+    "options": [
+      "1,000 meters",
+      "1,609 meters",
+      "1,852 meters",
+      "2,000 meters"
+    ],
+    "answer": "1,852 meters",
+    "id": "general-3313"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "The Game of Life was first published by Milton Bradley in what year?",
+    "options": [
+      "1860",
+      "1901",
+      "1935",
+      "1885"
+    ],
+    "answer": "1860",
+    "id": "general-3314"
   }
 ]

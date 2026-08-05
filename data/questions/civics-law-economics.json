@@ -3573,5 +3573,1734 @@
       "OECD"
     ],
     "answer": "OPEC"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What is the Swiss-style collegial executive called, where a council of several members jointly serves as head of state and government?",
+    "options": [
+      "Shadow cabinet",
+      "Directorial system",
+      "Caretaker government",
+      "Minority government"
+    ],
+    "answer": "Directorial system",
+    "id": "civics-law-economics-260"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What is the British-derived parliamentary model characterized by fusion of executive and legislature, collective cabinet responsibility, and a loyal opposition?",
+    "options": [
+      "Kritarchy",
+      "Westminster system",
+      "Particracy",
+      "Noocracy"
+    ],
+    "answer": "Westminster system",
+    "id": "civics-law-economics-261"
+  },
+  {
+    "difficulty": "hard",
+    "category": "civics-law-economics",
+    "question": "What power-sharing democratic model is designed for deeply divided societies, using grand coalitions, mutual vetoes, and segmental autonomy?",
+    "options": [
+      "Consociational democracy",
+      "Delegative democracy",
+      "Illiberal democracy",
+      "Anocracy"
+    ],
+    "answer": "Consociational democracy",
+    "id": "civics-law-economics-262"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What term for a regime type describes a country that mixes democratic and autocratic features and is neither fully democratic nor fully autocratic?",
+    "options": [
+      "Gerontocracy",
+      "Meritocracy",
+      "Anocracy",
+      "Kritarchy"
+    ],
+    "answer": "Anocracy",
+    "id": "civics-law-economics-263"
+  },
+  {
+    "difficulty": "hard",
+    "category": "civics-law-economics",
+    "question": "What term means government by judges, where judicial figures hold dominant political power?",
+    "options": [
+      "Kritarchy",
+      "Gerontocracy",
+      "Plutocracy",
+      "Noocracy"
+    ],
+    "answer": "Kritarchy",
+    "id": "civics-law-economics-264"
+  },
+  {
+    "difficulty": "hard",
+    "category": "civics-law-economics",
+    "question": "In classical theory, what form of government bases power on property ownership and honor, ranking citizens by wealth class?",
+    "options": [
+      "Timocracy",
+      "Kleptocracy",
+      "Ethnocracy",
+      "Particracy"
+    ],
+    "answer": "Timocracy",
+    "id": "civics-law-economics-265"
+  },
+  {
+    "difficulty": "hard",
+    "category": "civics-law-economics",
+    "question": "What proposed system envisions rule by the wise or knowledgeable, where decisions rest with those possessing superior intellect?",
+    "options": [
+      "Noocracy",
+      "Plutocracy",
+      "Gerontocracy",
+      "Kleptocracy"
+    ],
+    "answer": "Noocracy",
+    "id": "civics-law-economics-266"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What term describes domination of a state by a specific ethnic group that uses power to advance its own interests?",
+    "options": [
+      "Meritocracy",
+      "Ethnocracy",
+      "Timocracy",
+      "Noocracy"
+    ],
+    "answer": "Ethnocracy",
+    "id": "civics-law-economics-267"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What term describes a political system where power is effectively monopolized by political parties rather than individual voters?",
+    "options": [
+      "Particracy",
+      "Plutocracy",
+      "Kritarchy",
+      "Meritocracy"
+    ],
+    "answer": "Particracy",
+    "id": "civics-law-economics-268"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What label describes a democracy where elections occur but civil liberties and institutional checks are substantially eroded?",
+    "options": [
+      "Illiberal democracy",
+      "Consociational democracy",
+      "Directorial system",
+      "Supranational union"
+    ],
+    "answer": "Illiberal democracy",
+    "id": "civics-law-economics-269"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "What extreme form of authoritarian control seeks to regulate every aspect of public and private life through ideology and mass mobilization?",
+    "options": [
+      "Totalitarianism",
+      "Devolution",
+      "Parliamentary sovereignty",
+      "Bicameralism"
+    ],
+    "answer": "Totalitarianism",
+    "id": "civics-law-economics-270"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "What term describes a state where a single legal party is permitted to hold power and opposition parties are banned?",
+    "options": [
+      "One-party state",
+      "Coalition government",
+      "Minority government",
+      "Caretaker government"
+    ],
+    "answer": "One-party state",
+    "id": "civics-law-economics-271"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What system features multiple parties but one party dominates election after election due to sustained electoral advantage, though opposition is legal?",
+    "options": [
+      "Dominant-party system",
+      "Two-party system",
+      "Directorial system",
+      "Anocracy"
+    ],
+    "answer": "Dominant-party system",
+    "id": "civics-law-economics-272"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "What parliamentary procedure allows the legislature to withdraw support from the government and force its resignation?",
+    "options": [
+      "Vote of no confidence",
+      "Executive order",
+      "Line-item veto",
+      "Pocket veto"
+    ],
+    "answer": "Vote of no confidence",
+    "id": "civics-law-economics-273"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What type of organization exercises authority beyond national borders, with member states ceding some sovereignty, like the European Union?",
+    "options": [
+      "Supranational union",
+      "Unitary state",
+      "Confederation",
+      "City-state"
+    ],
+    "answer": "Supranational union",
+    "id": "civics-law-economics-274"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "What principle holds that all adult citizens have the right to vote regardless of property, race, or gender?",
+    "options": [
+      "Universal suffrage",
+      "Parliamentary sovereignty",
+      "Devolution",
+      "Executive privilege"
+    ],
+    "answer": "Universal suffrage",
+    "id": "civics-law-economics-275"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What electoral process allows voters to remove an elected official from office before their term ends?",
+    "options": [
+      "Recall election",
+      "Referendum",
+      "Initiative",
+      "Arraignment"
+    ],
+    "answer": "Recall election",
+    "id": "civics-law-economics-276"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What citizen-driven procedure allows voters to propose a new statute or constitutional amendment for a ballot vote?",
+    "options": [
+      "Initiative",
+      "Referendum",
+      "Recall",
+      "Veto"
+    ],
+    "answer": "Initiative",
+    "id": "civics-law-economics-277"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What veto power allows an executive to reject only specific parts of a bill while signing the rest into law?",
+    "options": [
+      "Line-item veto",
+      "Pocket veto",
+      "Absolute veto",
+      "Suspensive veto"
+    ],
+    "answer": "Line-item veto",
+    "id": "civics-law-economics-278"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "What directive issued by a president or governor has the force of law without legislative action, though subject to judicial review?",
+    "options": [
+      "Executive order",
+      "Writ of certiorari",
+      "Writ of mandamus",
+      "Consent decree"
+    ],
+    "answer": "Executive order",
+    "id": "civics-law-economics-279"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "What Latin-named writ protects against unlawful detention by requiring a custodian to bring a detainee before a court?",
+    "options": [
+      "Habeas corpus",
+      "Corpus delicti",
+      "Prima facie",
+      "Res ipsa loquitur"
+    ],
+    "answer": "Habeas corpus",
+    "id": "civics-law-economics-280"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What court order commands a government official to perform a mandatory duty they have failed to perform?",
+    "options": [
+      "Writ of mandamus",
+      "Writ of certiorari",
+      "Summary judgment",
+      "Default judgment"
+    ],
+    "answer": "Writ of mandamus",
+    "id": "civics-law-economics-281"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What type of subpoena specifically compels a witness to bring documents or physical evidence to court?",
+    "options": [
+      "Subpoena duces tecum",
+      "Subpoena ad testificandum",
+      "Writ of certiorari",
+      "Writ of mandamus"
+    ],
+    "answer": "Subpoena duces tecum",
+    "id": "civics-law-economics-282"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "What written statement of facts is sworn under oath before a notary or officer authorized to administer oaths?",
+    "options": [
+      "Affidavit",
+      "Arraignment",
+      "Indictment",
+      "Plea bargain"
+    ],
+    "answer": "Affidavit",
+    "id": "civics-law-economics-283"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "What Latin phrase means 'at first sight' and describes evidence sufficient to establish a fact unless rebutted?",
+    "options": [
+      "Prima facie",
+      "Res ipsa loquitur",
+      "Corpus delicti",
+      "De jure"
+    ],
+    "answer": "Prima facie",
+    "id": "civics-law-economics-284"
+  },
+  {
+    "difficulty": "hard",
+    "category": "civics-law-economics",
+    "question": "What doctrine meaning 'the thing speaks for itself' allows negligence to be inferred from the nature of an accident?",
+    "options": [
+      "Res ipsa loquitur",
+      "Stare decisis",
+      "Nolo contendere",
+      "Nolle prosequi"
+    ],
+    "answer": "Res ipsa loquitur",
+    "id": "civics-law-economics-285"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What principle holds that there must be proof that a crime actually occurred, literally 'body of the crime'?",
+    "options": [
+      "Corpus delicti",
+      "Habeas corpus",
+      "Mens rea",
+      "Prima facie"
+    ],
+    "answer": "Corpus delicti",
+    "id": "civics-law-economics-286"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What term describes the preliminary examination of prospective jurors to determine bias and suitability?",
+    "options": [
+      "Voir dire",
+      "Recusal",
+      "Laches",
+      "Escheat"
+    ],
+    "answer": "Voir dire",
+    "id": "civics-law-economics-287"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "What action occurs when a judge removes themselves from a case due to conflict of interest or bias?",
+    "options": [
+      "Recusal",
+      "Garnishment",
+      "Novation",
+      "Escheat"
+    ],
+    "answer": "Recusal",
+    "id": "civics-law-economics-288"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "What category of civil wrong involves breach of a duty causing harm, distinct from breach of contract?",
+    "options": [
+      "Tort",
+      "Bailment",
+      "Lien",
+      "Easement"
+    ],
+    "answer": "Tort",
+    "id": "civics-law-economics-289"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "Which four elements must be proven for negligence: duty, breach, causation, and what fourth element?",
+    "options": [
+      "Damages",
+      "Consideration",
+      "Probate",
+      "Escheat"
+    ],
+    "answer": "Damages",
+    "id": "civics-law-economics-290"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What doctrine makes an employer liable for an employee's torts committed within the scope of employment, also called respondeat superior?",
+    "options": [
+      "Vicarious liability",
+      "Strict liability",
+      "Contingent liability",
+      "Absolute liability"
+    ],
+    "answer": "Vicarious liability",
+    "id": "civics-law-economics-291"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What negligence system allocates fault proportionally, allowing a plaintiff who is partly at fault to recover reduced damages?",
+    "options": [
+      "Comparative negligence",
+      "Contributory negligence",
+      "Strict liability",
+      "Assumption of risk"
+    ],
+    "answer": "Comparative negligence",
+    "id": "civics-law-economics-292"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What defense argues that a plaintiff knowingly and voluntarily encountered a known danger?",
+    "options": [
+      "Assumption of risk",
+      "Laches",
+      "Escheat",
+      "Novation"
+    ],
+    "answer": "Assumption of risk",
+    "id": "civics-law-economics-293"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What legal relationship exists when one person temporarily transfers possession of personal property to another for a specific purpose?",
+    "options": [
+      "Bailment",
+      "Easement",
+      "Garnishment",
+      "Lien"
+    ],
+    "answer": "Bailment",
+    "id": "civics-law-economics-294"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "What legal right allows a creditor to keep or sell a debtor's property as security for a debt?",
+    "options": [
+      "Lien",
+      "Bailment",
+      "Usufruct",
+      "Escheat"
+    ],
+    "answer": "Lien",
+    "id": "civics-law-economics-295"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "What nonpossessory interest gives someone the right to use another's land for a specific purpose, like crossing it?",
+    "options": [
+      "Easement",
+      "Fee simple",
+      "Lien",
+      "Bailment"
+    ],
+    "answer": "Easement",
+    "id": "civics-law-economics-296"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What is the most complete form of private land ownership, granting indefinite duration and full rights to sell or devise?",
+    "options": [
+      "Fee simple absolute",
+      "Usufruct",
+      "Easement",
+      "Bailment"
+    ],
+    "answer": "Fee simple absolute",
+    "id": "civics-law-economics-297"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What doctrine allows someone who openly occupies land without permission for a statutory period to claim legal title?",
+    "options": [
+      "Adverse possession",
+      "Escheat",
+      "Garnishment",
+      "Quiet title"
+    ],
+    "answer": "Adverse possession",
+    "id": "civics-law-economics-298"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "What court-supervised process validates a will and oversees distribution of a decedent's estate?",
+    "options": [
+      "Probate",
+      "Novation",
+      "Garnishment",
+      "Severance"
+    ],
+    "answer": "Probate",
+    "id": "civics-law-economics-299"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "What term describes dying without a valid will, causing estate distribution by statutory default rules?",
+    "options": [
+      "Intestate",
+      "Testate",
+      "Usufructuary",
+      "Fiduciary"
+    ],
+    "answer": "Intestate",
+    "id": "civics-law-economics-300"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "What legal document grants one person authority to act on behalf of another in financial or medical matters?",
+    "options": [
+      "Power of attorney",
+      "Affidavit",
+      "Subpoena",
+      "Indictment"
+    ],
+    "answer": "Power of attorney",
+    "id": "civics-law-economics-301"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "What legal arrangement appoints someone to care for a minor or incapacitated adult's person or property?",
+    "options": [
+      "Guardianship",
+      "Bailment",
+      "Lien",
+      "Easement"
+    ],
+    "answer": "Guardianship",
+    "id": "civics-law-economics-302"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What legal process frees a minor from parental control, granting adult legal status before the age of majority?",
+    "options": [
+      "Emancipation",
+      "Probation",
+      "Novation",
+      "Escheat"
+    ],
+    "answer": "Emancipation",
+    "id": "civics-law-economics-303"
+  },
+  {
+    "difficulty": "hard",
+    "category": "civics-law-economics",
+    "question": "What civil law concept grants the right to use and enjoy another's property and its fruits without destroying it?",
+    "options": [
+      "Usufruct",
+      "Fee simple",
+      "Easement",
+      "Lien"
+    ],
+    "answer": "Usufruct",
+    "id": "civics-law-economics-304"
+  },
+  {
+    "difficulty": "hard",
+    "category": "civics-law-economics",
+    "question": "What principle allows the state to take title to unclaimed or heirless property?",
+    "options": [
+      "Escheat",
+      "Garnishment",
+      "Novation",
+      "Laches"
+    ],
+    "answer": "Escheat",
+    "id": "civics-law-economics-305"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What court order directs a third party to withhold a debtor's wages or bank account to satisfy a judgment?",
+    "options": [
+      "Garnishment",
+      "Bailment",
+      "Easement",
+      "Usufruct"
+    ],
+    "answer": "Garnishment",
+    "id": "civics-law-economics-306"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What lawsuit asks a court to establish ownership of real property and remove any challenges to title?",
+    "options": [
+      "Quiet title action",
+      "Summary judgment",
+      "Default judgment",
+      "Consent decree"
+    ],
+    "answer": "Quiet title action",
+    "id": "civics-law-economics-307"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What equitable remedy compels a party to perform its contractual obligations when money damages are inadequate?",
+    "options": [
+      "Specific performance",
+      "Liquidated damages",
+      "Garnishment",
+      "Escheat"
+    ],
+    "answer": "Specific performance",
+    "id": "civics-law-economics-308"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What pre-agreed contract amount reasonably estimates damages for breach set in advance by the parties?",
+    "options": [
+      "Liquidated damages",
+      "Punitive damages",
+      "Nominal damages",
+      "Consequential damages"
+    ],
+    "answer": "Liquidated damages",
+    "id": "civics-law-economics-309"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What doctrine allows a court to void a contract that is extremely one-sided and shocks the conscience due to unfair bargaining?",
+    "options": [
+      "Unconscionability",
+      "Laches",
+      "Escheat",
+      "Novation"
+    ],
+    "answer": "Unconscionability",
+    "id": "civics-law-economics-310"
+  },
+  {
+    "difficulty": "hard",
+    "category": "civics-law-economics",
+    "question": "What contract law rule generally bars extrinsic evidence of prior oral agreements that contradict a final written contract?",
+    "options": [
+      "Parol evidence rule",
+      "Statute of frauds",
+      "Laches",
+      "Escheat"
+    ],
+    "answer": "Parol evidence rule",
+    "id": "civics-law-economics-311"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "What essential contract element refers to something of value exchanged between parties, such as money, services, or a promise?",
+    "options": [
+      "Consideration",
+      "Affidavit",
+      "Indictment",
+      "Subpoena"
+    ],
+    "answer": "Consideration",
+    "id": "civics-law-economics-312"
+  },
+  {
+    "difficulty": "hard",
+    "category": "civics-law-economics",
+    "question": "What equitable doctrine prevents injustice when one party reasonably relies on another's promise even without formal consideration?",
+    "options": [
+      "Promissory estoppel",
+      "Parol evidence rule",
+      "Statute of frauds",
+      "Force majeure"
+    ],
+    "answer": "Promissory estoppel",
+    "id": "civics-law-economics-313"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What agreement substitutes a new contract or party for an old one, extinguishing the original obligation?",
+    "options": [
+      "Novation",
+      "Garnishment",
+      "Bailment",
+      "Easement"
+    ],
+    "answer": "Novation",
+    "id": "civics-law-economics-314"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What contract clause excuses performance when extraordinary events like war, natural disaster, or pandemic make it impossible?",
+    "options": [
+      "Force majeure clause",
+      "Severability clause",
+      "Sunset clause",
+      "Liquidated damages clause"
+    ],
+    "answer": "Force majeure clause",
+    "id": "civics-law-economics-315"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "What clause ensures that if one part of a contract is invalid, the remaining parts stay enforceable?",
+    "options": [
+      "Severability clause",
+      "Sunset clause",
+      "Force majeure clause",
+      "Indemnity clause"
+    ],
+    "answer": "Severability clause",
+    "id": "civics-law-economics-316"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "What provision causes a law or regulation to automatically expire on a specified date unless renewed?",
+    "options": [
+      "Sunset clause",
+      "Severability clause",
+      "Force majeure clause",
+      "Arbitration clause"
+    ],
+    "answer": "Sunset clause",
+    "id": "civics-law-economics-317"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "What Fourteenth Amendment clause requires that similarly situated persons be treated alike by law?",
+    "options": [
+      "Equal protection clause",
+      "Due process clause",
+      "Supremacy clause",
+      "Commerce clause"
+    ],
+    "answer": "Equal protection clause",
+    "id": "civics-law-economics-318"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What criminal procedure rule generally bars use of evidence obtained in violation of constitutional rights?",
+    "options": [
+      "Exclusionary rule",
+      "Parol evidence rule",
+      "Statute of frauds",
+      "Laches"
+    ],
+    "answer": "Exclusionary rule",
+    "id": "civics-law-economics-319"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "What initial court hearing informs a defendant of charges and allows entry of a plea?",
+    "options": [
+      "Arraignment",
+      "Voir dire",
+      "Probate",
+      "Garnishment"
+    ],
+    "answer": "Arraignment",
+    "id": "civics-law-economics-320"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "What term describes money or conditions set to ensure a defendant appears for trial while remaining free?",
+    "options": [
+      "Bail",
+      "Lien",
+      "Escheat",
+      "Usufruct"
+    ],
+    "answer": "Bail",
+    "id": "civics-law-economics-321"
+  },
+  {
+    "difficulty": "hard",
+    "category": "civics-law-economics",
+    "question": "What Latin phrase describes a prosecutor's formal decision to drop criminal charges before trial?",
+    "options": [
+      "Nolle prosequi",
+      "Nolo contendere",
+      "Prima facie",
+      "Res ipsa loquitur"
+    ],
+    "answer": "Nolle prosequi",
+    "id": "civics-law-economics-322"
+  },
+  {
+    "difficulty": "hard",
+    "category": "civics-law-economics",
+    "question": "What equitable defense bars a claim due to unreasonable delay that prejudices the opposing party?",
+    "options": [
+      "Laches",
+      "Escheat",
+      "Novation",
+      "Bailment"
+    ],
+    "answer": "Laches",
+    "id": "civics-law-economics-323"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What pretrial ruling decides a case without trial because there is no genuine dispute of material fact?",
+    "options": [
+      "Summary judgment",
+      "Default judgment",
+      "Consent decree",
+      "Quiet title"
+    ],
+    "answer": "Summary judgment",
+    "id": "civics-law-economics-324"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What judgment is entered against a defendant who fails to respond or appear after proper service?",
+    "options": [
+      "Default judgment",
+      "Summary judgment",
+      "Consent decree",
+      "Advisory opinion"
+    ],
+    "answer": "Default judgment",
+    "id": "civics-law-economics-325"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What court-approved settlement requires a party to undertake or refrain from specific actions to resolve a dispute without admission of liability?",
+    "options": [
+      "Consent decree",
+      "Default judgment",
+      "Summary judgment",
+      "Writ of mandamus"
+    ],
+    "answer": "Consent decree",
+    "id": "civics-law-economics-326"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What trial system features two opposing parties presenting cases to a neutral judge or jury, contrasting with an inquisitorial system?",
+    "options": [
+      "Adversarial system",
+      "Inquisitorial system",
+      "Consociational system",
+      "Confederal system"
+    ],
+    "answer": "Adversarial system",
+    "id": "civics-law-economics-327"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What intermediate civil standard requires that a claim be highly and substantially more probable to be true than not?",
+    "options": [
+      "Clear and convincing evidence",
+      "Beyond a reasonable doubt",
+      "Probable cause",
+      "Reasonable suspicion"
+    ],
+    "answer": "Clear and convincing evidence",
+    "id": "civics-law-economics-328"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What Latin distinction contrasts what is true in law versus what is true in practice?",
+    "options": [
+      "De jure vs de facto",
+      "De novo vs de jure",
+      "Prima facie vs de facto",
+      "Ex ante vs ex post"
+    ],
+    "answer": "De jure vs de facto",
+    "id": "civics-law-economics-329"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What standard of appellate review means starting fresh, with no deference to the lower court's legal conclusions?",
+    "options": [
+      "De novo review",
+      "Clear error review",
+      "Abuse of discretion",
+      "En banc review"
+    ],
+    "answer": "De novo review",
+    "id": "civics-law-economics-330"
+  },
+  {
+    "difficulty": "hard",
+    "category": "civics-law-economics",
+    "question": "What term describes a hearing where all judges of an appellate court participate, rather than a smaller panel?",
+    "options": [
+      "En banc",
+      "Voir dire",
+      "Nolle prosequi",
+      "Nolo contendere"
+    ],
+    "answer": "En banc",
+    "id": "civics-law-economics-331"
+  },
+  {
+    "difficulty": "hard",
+    "category": "civics-law-economics",
+    "question": "What term for a judge's incidental remarks not essential to the decision and not binding as precedent?",
+    "options": [
+      "Obiter dicta",
+      "Ratio decidendi",
+      "Stare decisis",
+      "Corpus delicti"
+    ],
+    "answer": "Obiter dicta",
+    "id": "civics-law-economics-332"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What principle determines that only the binding reasoning necessary to a decision, not peripheral comments, creates precedent?",
+    "options": [
+      "Ratio decidendi",
+      "Obiter dicta",
+      "Prima facie",
+      "De jure"
+    ],
+    "answer": "Ratio decidendi",
+    "id": "civics-law-economics-333"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "What type of legal wrongdoer is a person who commits a tort?",
+    "options": [
+      "Tortfeasor",
+      "Bailee",
+      "Usufructuary",
+      "Garnishee"
+    ],
+    "answer": "Tortfeasor",
+    "id": "civics-law-economics-334"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What liability rule allows a plaintiff to collect the full judgment from any one of multiple defendants, who then sort contribution among themselves?",
+    "options": [
+      "Joint and several liability",
+      "Strict liability",
+      "Vicarious liability",
+      "Limited liability"
+    ],
+    "answer": "Joint and several liability",
+    "id": "civics-law-economics-335"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What measure equals GNP minus depreciation of capital stock, representing net new output?",
+    "options": [
+      "Net National Product",
+      "Gross Domestic Product",
+      "Personal Consumption",
+      "Gross Investment"
+    ],
+    "answer": "Net National Product",
+    "id": "civics-law-economics-336"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "Which component of balance of payments tracks trade in goods and services, income, and current transfers?",
+    "options": [
+      "Current account",
+      "Capital account",
+      "Financial account",
+      "Reserve account"
+    ],
+    "answer": "Current account",
+    "id": "civics-law-economics-337"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "Under floating rates, what term describes an increase in a currency's value relative to another currency?",
+    "options": [
+      "Appreciation",
+      "Devaluation",
+      "Revaluation",
+      "Amortization"
+    ],
+    "answer": "Appreciation",
+    "id": "civics-law-economics-338"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What term describes a deliberate government decision to lower the official value of its currency under a fixed-rate system?",
+    "options": [
+      "Devaluation",
+      "Appreciation",
+      "Depreciation",
+      "Disinflation"
+    ],
+    "answer": "Devaluation",
+    "id": "civics-law-economics-339"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What cost advantage arises when producing two products together is cheaper than producing them separately?",
+    "options": [
+      "Economies of scope",
+      "Economies of scale",
+      "Comparative advantage",
+      "Absolute advantage"
+    ],
+    "answer": "Economies of scope",
+    "id": "civics-law-economics-340"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "What term describes a cost already incurred and unrecoverable that should not affect rational future decisions?",
+    "options": [
+      "Sunk cost",
+      "Marginal cost",
+      "Variable cost",
+      "Fixed cost"
+    ],
+    "answer": "Sunk cost",
+    "id": "civics-law-economics-341"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "What cost represents the additional expense of producing one more unit of output?",
+    "options": [
+      "Marginal cost",
+      "Sunk cost",
+      "Average cost",
+      "Total cost"
+    ],
+    "answer": "Marginal cost",
+    "id": "civics-law-economics-342"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What principle states that additional satisfaction from each extra unit consumed tends to decline?",
+    "options": [
+      "Diminishing marginal utility",
+      "Increasing returns",
+      "Economies of scale",
+      "Comparative advantage"
+    ],
+    "answer": "Diminishing marginal utility",
+    "id": "civics-law-economics-343"
+  },
+  {
+    "difficulty": "hard",
+    "category": "civics-law-economics",
+    "question": "What empirical regularity states that the proportion of income spent on food falls as income rises?",
+    "options": [
+      "Engel's Law",
+      "Say's Law",
+      "Gresham's Law",
+      "Okun's Law"
+    ],
+    "answer": "Engel's Law",
+    "id": "civics-law-economics-344"
+  },
+  {
+    "difficulty": "hard",
+    "category": "civics-law-economics",
+    "question": "What classical proposition asserts that supply creates its own demand?",
+    "options": [
+      "Say's Law",
+      "Engel's Law",
+      "Gresham's Law",
+      "Okun's Law"
+    ],
+    "answer": "Say's Law",
+    "id": "civics-law-economics-345"
+  },
+  {
+    "difficulty": "hard",
+    "category": "civics-law-economics",
+    "question": "What law states that bad money drives out good money when both have same face value but different intrinsic value?",
+    "options": [
+      "Gresham's Law",
+      "Engel's Law",
+      "Say's Law",
+      "Pareto's Law"
+    ],
+    "answer": "Gresham's Law",
+    "id": "civics-law-economics-346"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What concept measures the total increase in national income resulting from an initial injection of spending?",
+    "options": [
+      "Keynesian multiplier",
+      "Velocity of money",
+      "Marginal propensity",
+      "Yield curve"
+    ],
+    "answer": "Keynesian multiplier",
+    "id": "civics-law-economics-347"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What term denotes the fraction of additional income that a household spends on consumption rather than saving?",
+    "options": [
+      "Marginal propensity to consume",
+      "Average propensity to save",
+      "Velocity of money",
+      "Marginal cost"
+    ],
+    "answer": "Marginal propensity to consume",
+    "id": "civics-law-economics-348"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "In the quantity theory of money, what variable represents how many times a unit of currency is used to buy final goods in a year?",
+    "options": [
+      "Velocity of money",
+      "Money supply",
+      "Price level",
+      "Real output"
+    ],
+    "answer": "Velocity of money",
+    "id": "civics-law-economics-349"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What good is excludable but non-rivalrous up to capacity, like a streaming service or toll road with spare capacity?",
+    "options": [
+      "Club good",
+      "Public good",
+      "Private good",
+      "Common-pool resource"
+    ],
+    "answer": "Club good",
+    "id": "civics-law-economics-350"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What resource is rivalrous but non-excludable, leading to overuse, such as fisheries or groundwater?",
+    "options": [
+      "Common-pool resource",
+      "Public good",
+      "Club good",
+      "Private good"
+    ],
+    "answer": "Common-pool resource",
+    "id": "civics-law-economics-351"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "What classic game theory scenario shows why two rational individuals might not cooperate even when cooperation yields better collective results?",
+    "options": [
+      "Prisoner's dilemma",
+      "Pareto efficiency",
+      "Nash equilibrium",
+      "Public goods game"
+    ],
+    "answer": "Prisoner's dilemma",
+    "id": "civics-law-economics-352"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What economic phenomenon describes how a booming natural resource sector can hurt manufacturing via currency appreciation?",
+    "options": [
+      "Dutch disease",
+      "Resource curse",
+      "Moral hazard",
+      "Adverse selection"
+    ],
+    "answer": "Dutch disease",
+    "id": "civics-law-economics-353"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What paradox notes that countries rich in natural resources often experience slower growth and worse development outcomes?",
+    "options": [
+      "Resource curse",
+      "Dutch disease",
+      "Tragedy of the commons",
+      "Paradox of thrift"
+    ],
+    "answer": "Resource curse",
+    "id": "civics-law-economics-354"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What fiscal features automatically dampen economic fluctuations without new legislation, like unemployment insurance?",
+    "options": [
+      "Automatic stabilizers",
+      "Discretionary spending",
+      "Sunset clauses",
+      "Severability clauses"
+    ],
+    "answer": "Automatic stabilizers",
+    "id": "civics-law-economics-355"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "What excise levied on goods like tobacco or alcohol aims to discourage consumption for health or moral reasons?",
+    "options": [
+      "Sin tax",
+      "Pigouvian tax",
+      "Value Added Tax",
+      "Seigniorage"
+    ],
+    "answer": "Sin tax",
+    "id": "civics-law-economics-356"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What market signal occurs when short-term government bond yields rise above long-term yields, often watched as a recession predictor?",
+    "options": [
+      "Yield curve inversion",
+      "Quantitative easing",
+      "Open market operation",
+      "Moral hazard"
+    ],
+    "answer": "Yield curve inversion",
+    "id": "civics-law-economics-357"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "What term describes prices or wages that adjust slowly to changes in supply and demand due to contracts or menu costs?",
+    "options": [
+      "Sticky prices",
+      "Flexible prices",
+      "Sunk costs",
+      "Marginal costs"
+    ],
+    "answer": "Sticky prices",
+    "id": "civics-law-economics-358"
+  },
+  {
+    "difficulty": "hard",
+    "category": "civics-law-economics",
+    "question": "What empirical relationship suggests that for every 1 percent rise in unemployment, GDP falls roughly 2 percent below trend?",
+    "options": [
+      "Okun's Law",
+      "Engel's Law",
+      "Say's Law",
+      "Gresham's Law"
+    ],
+    "answer": "Okun's Law",
+    "id": "civics-law-economics-359"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "What survey-based indicator gauges how optimistic households are about the economy and their finances?",
+    "options": [
+      "Consumer Confidence Index",
+      "Producer Price Index",
+      "Balance of payments",
+      "Velocity of money"
+    ],
+    "answer": "Consumer Confidence Index",
+    "id": "civics-law-economics-360"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "Where is the World Trade Organization headquartered?",
+    "options": [
+      "Geneva",
+      "Washington DC",
+      "Brussels",
+      "Vienna"
+    ],
+    "answer": "Geneva",
+    "id": "civics-law-economics-361"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "In which city is the International Court of Justice seated, at the Peace Palace?",
+    "options": [
+      "The Hague",
+      "Geneva",
+      "Brussels",
+      "Vienna"
+    ],
+    "answer": "The Hague",
+    "id": "civics-law-economics-362"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "Which city hosts UNESCO headquarters, known for its Y-shaped building at Place de Fontenoy?",
+    "options": [
+      "Paris",
+      "Rome",
+      "Geneva",
+      "Vienna"
+    ],
+    "answer": "Paris",
+    "id": "civics-law-economics-363"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "Where is UNICEF headquartered, located at the UN headquarters city?",
+    "options": [
+      "New York City",
+      "Geneva",
+      "Paris",
+      "Rome"
+    ],
+    "answer": "New York City",
+    "id": "civics-law-economics-364"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "Which city hosts the Food and Agriculture Organization headquarters, in a building originally built for Italian East Africa ministry?",
+    "options": [
+      "Rome",
+      "Paris",
+      "Geneva",
+      "Jakarta"
+    ],
+    "answer": "Rome",
+    "id": "civics-law-economics-365"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "Where is the International Civil Aviation Organization headquartered, in Canada?",
+    "options": [
+      "Montreal",
+      "Ottawa",
+      "Geneva",
+      "Washington DC"
+    ],
+    "answer": "Montreal",
+    "id": "civics-law-economics-366"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "Where is the Organisation for Economic Co-operation and Development headquartered?",
+    "options": [
+      "Paris",
+      "Brussels",
+      "Geneva",
+      "Washington DC"
+    ],
+    "answer": "Paris",
+    "id": "civics-law-economics-367"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "Where is the European Commission, the EU's executive arm, primarily headquartered?",
+    "options": [
+      "Brussels",
+      "Strasbourg",
+      "Luxembourg",
+      "Frankfurt"
+    ],
+    "answer": "Brussels",
+    "id": "civics-law-economics-368"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "Where does the European Parliament hold most of its official plenary sessions, despite working mainly in Brussels?",
+    "options": [
+      "Strasbourg",
+      "Brussels",
+      "Luxembourg",
+      "The Hague"
+    ],
+    "answer": "Strasbourg",
+    "id": "civics-law-economics-369"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "Where is the African Union headquartered, in Ethiopia's capital?",
+    "options": [
+      "Addis Ababa",
+      "Nairobi",
+      "Cairo",
+      "Johannesburg"
+    ],
+    "answer": "Addis Ababa",
+    "id": "civics-law-economics-370"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "Where is the ASEAN Secretariat located, in Indonesia's capital?",
+    "options": [
+      "Jakarta",
+      "Bangkok",
+      "Singapore",
+      "Manila"
+    ],
+    "answer": "Jakarta",
+    "id": "civics-law-economics-371"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "Where is the League of Arab States headquartered, in Egypt's capital?",
+    "options": [
+      "Cairo",
+      "Riyadh",
+      "Beirut",
+      "Doha"
+    ],
+    "answer": "Cairo",
+    "id": "civics-law-economics-372"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "In which French city is Interpol's General Secretariat headquartered, as of 2026?",
+    "options": [
+      "Lyon",
+      "Paris",
+      "Brussels",
+      "Geneva"
+    ],
+    "answer": "Lyon",
+    "id": "civics-law-economics-373"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "Where is the Asia-Pacific Economic Cooperation Secretariat located?",
+    "options": [
+      "Singapore",
+      "Tokyo",
+      "Sydney",
+      "Beijing"
+    ],
+    "answer": "Singapore",
+    "id": "civics-law-economics-374"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "Where is the Organization of American States headquartered?",
+    "options": [
+      "Washington DC",
+      "New York City",
+      "Geneva",
+      "Brussels"
+    ],
+    "answer": "Washington DC",
+    "id": "civics-law-economics-375"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "In the UN General Assembly, how are votes allocated among member states as of 2026?",
+    "options": [
+      "One country one vote",
+      "Weighted by population",
+      "Weighted by GDP",
+      "Five permanent vetoes"
+    ],
+    "answer": "One country one vote",
+    "id": "civics-law-economics-376"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "As of 2026, how many member states sit on the UN Human Rights Council?",
+    "options": [
+      "47",
+      "15",
+      "193",
+      "27"
+    ],
+    "answer": "47",
+    "id": "civics-law-economics-377"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "Where is the World Intellectual Property Organization headquartered?",
+    "options": [
+      "Geneva",
+      "Paris",
+      "Brussels",
+      "Washington DC"
+    ],
+    "answer": "Geneva",
+    "id": "civics-law-economics-378"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "Where is the International Maritime Organization headquartered, on the Thames?",
+    "options": [
+      "London",
+      "Geneva",
+      "Brussels",
+      "Rotterdam"
+    ],
+    "answer": "London",
+    "id": "civics-law-economics-379"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "As of 2026, how many members does the G20 include when counting 19 countries plus the European Union and African Union?",
+    "options": [
+      "21",
+      "20",
+      "19",
+      "22"
+    ],
+    "answer": "21",
+    "id": "civics-law-economics-380"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "Which five countries were the original BRICS members before its expansion in 2024?",
+    "options": [
+      "Brazil Russia India China South Africa",
+      "Brazil Russia Iran China Spain",
+      "Belgium Romania Italy Canada Sweden",
+      "Britain Russia Indonesia Chile Singapore"
+    ],
+    "answer": "Brazil Russia India China South Africa",
+    "id": "civics-law-economics-381"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "Where is the Mercosur Secretariat headquartered, in Uruguay's capital?",
+    "options": [
+      "Montevideo",
+      "Buenos Aires",
+      "Brasilia",
+      "Santiago"
+    ],
+    "answer": "Montevideo",
+    "id": "civics-law-economics-382"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "Where is the Council of Europe headquartered, in eastern France?",
+    "options": [
+      "Strasbourg",
+      "Brussels",
+      "Paris",
+      "Lyon"
+    ],
+    "answer": "Strasbourg",
+    "id": "civics-law-economics-383"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "How many judges serve on the International Court of Justice as of 2026?",
+    "options": [
+      "15",
+      "9",
+      "21",
+      "27"
+    ],
+    "answer": "15",
+    "id": "civics-law-economics-384"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "What agreement replaced NAFTA in 2020 to govern trade among the US, Mexico, and Canada?",
+    "options": [
+      "USMCA",
+      "CAFTA",
+      "Mercosur",
+      "ASEAN"
+    ],
+    "answer": "USMCA",
+    "id": "civics-law-economics-385"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "As of 2026, how many member states belong to the European Union after Brexit?",
+    "options": [
+      "27",
+      "28",
+      "26",
+      "30"
+    ],
+    "answer": "27",
+    "id": "civics-law-economics-386"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "What European border-free zone allows passport-free travel across most EU countries plus some non-EU states?",
+    "options": [
+      "Schengen Area",
+      "Eurozone",
+      "Customs Union",
+      "Single Market"
+    ],
+    "answer": "Schengen Area",
+    "id": "civics-law-economics-387"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "What term describes the subset of EU countries that have adopted the euro as currency?",
+    "options": [
+      "Eurozone",
+      "Schengen Area",
+      "European Council",
+      "EFTA"
+    ],
+    "answer": "Eurozone",
+    "id": "civics-law-economics-388"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "Where is the Commonwealth Secretariat headquartered, at Marlborough House?",
+    "options": [
+      "London",
+      "Geneva",
+      "New York City",
+      "Brussels"
+    ],
+    "answer": "London",
+    "id": "civics-law-economics-389"
+  },
+  {
+    "difficulty": "easy",
+    "category": "civics-law-economics",
+    "question": "Where is the UN Secretariat and General Assembly hall located?",
+    "options": [
+      "New York City",
+      "Geneva",
+      "The Hague",
+      "Vienna"
+    ],
+    "answer": "New York City",
+    "id": "civics-law-economics-390"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "As of 2026, how many members does the OECD have after recent expansions?",
+    "options": [
+      "38",
+      "27",
+      "47",
+      "21"
+    ],
+    "answer": "38",
+    "id": "civics-law-economics-391"
+  },
+  {
+    "difficulty": "medium",
+    "category": "civics-law-economics",
+    "question": "How many member economies does APEC have as of 2026, spanning Pacific Rim countries?",
+    "options": [
+      "21",
+      "27",
+      "38",
+      "47"
+    ],
+    "answer": "21",
+    "id": "civics-law-economics-392"
   }
 ]
