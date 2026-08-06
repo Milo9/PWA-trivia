@@ -65,19 +65,6 @@
     "answer": "George Orwell"
   },
   {
-    "id": "general-206",
-    "category": "arts-literature",
-    "difficulty": "easy",
-    "question": "Which Renaissance artist sculpted the statue of \"David\"?",
-    "options": [
-      "Donatello",
-      "Michelangelo",
-      "Bernini",
-      "Cellini"
-    ],
-    "answer": "Michelangelo"
-  },
-  {
     "id": "general-207",
     "category": "arts-literature",
     "difficulty": "easy",
@@ -143,19 +130,6 @@
     "answer": "Johannes Vermeer"
   },
   {
-    "id": "general-212",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who wrote \"Crime and Punishment\"?",
-    "options": [
-      "Leo Tolstoy",
-      "Anton Chekhov",
-      "Ivan Turgenev",
-      "Fyodor Dostoevsky"
-    ],
-    "answer": "Fyodor Dostoevsky"
-  },
-  {
     "id": "general-213",
     "category": "arts-literature",
     "difficulty": "medium",
@@ -169,19 +143,6 @@
     "answer": "Samuel Clemens"
   },
   {
-    "id": "general-214",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who painted \"Guernica\" in response to the bombing during the Spanish Civil War?",
-    "options": [
-      "Joan Miró",
-      "Pablo Picasso",
-      "Salvador Dalí",
-      "Diego Rivera"
-    ],
-    "answer": "Pablo Picasso"
-  },
-  {
     "id": "general-215",
     "category": "arts-literature",
     "difficulty": "medium",
@@ -193,19 +154,6 @@
       "Thomas Malory"
     ],
     "answer": "Geoffrey Chaucer"
-  },
-  {
-    "id": "general-216",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who wrote the epic novel \"War and Peace\"?",
-    "options": [
-      "Fyodor Dostoevsky",
-      "Anton Chekhov",
-      "Ivan Goncharov",
-      "Leo Tolstoy"
-    ],
-    "answer": "Leo Tolstoy"
   },
   {
     "id": "general-217",
@@ -258,19 +206,6 @@
       "Eudora Welty"
     ],
     "answer": "Harper Lee"
-  },
-  {
-    "id": "general-474",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Which Russian author wrote the novel 'War and Peace'?",
-    "options": [
-      "Fyodor Dostoevsky",
-      "Leo Tolstoy",
-      "Anton Chekhov",
-      "Ivan Turgenev"
-    ],
-    "answer": "Leo Tolstoy"
   },
   {
     "id": "general-475",
@@ -624,19 +559,6 @@
     "answer": "James Joyce"
   },
   {
-    "id": "general-681",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Which sculptor created the statue of 'David', housed in Florence, Italy?",
-    "options": [
-      "Michelangelo",
-      "Donatello",
-      "Bernini",
-      "Rodin"
-    ],
-    "answer": "Michelangelo"
-  },
-  {
     "id": "general-684",
     "category": "arts-literature",
     "difficulty": "medium",
@@ -715,19 +637,6 @@
     "answer": "Pablo Picasso"
   },
   {
-    "id": "general-941",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who wrote the classic Russian novel 'Crime and Punishment'?",
-    "options": [
-      "Leo Tolstoy",
-      "Anton Chekhov",
-      "Fyodor Dostoevsky",
-      "Nikolai Gogol"
-    ],
-    "answer": "Fyodor Dostoevsky"
-  },
-  {
     "id": "general-942",
     "category": "arts-literature",
     "difficulty": "easy",
@@ -765,19 +674,6 @@
       "Thomas Kyd"
     ],
     "answer": "William Shakespeare"
-  },
-  {
-    "id": "general-945",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Which sculptor created 'The Thinker', a bronze statue depicting a man in deep thought?",
-    "options": [
-      "Michelangelo",
-      "Donatello",
-      "Auguste Rodin",
-      "Constantin Brâncuși"
-    ],
-    "answer": "Auguste Rodin"
   },
   {
     "id": "general-947",
@@ -1053,19 +949,6 @@
     "answer": "Tennessee Williams"
   },
   {
-    "id": "general-1130",
-    "category": "arts-literature",
-    "difficulty": "hard",
-    "question": "What is the name of the fictional town in most of William Faulkner's novels?",
-    "options": [
-      "Yoknapatawpha County",
-      "Maycomb",
-      "Salem's Lot",
-      "Sleepy Hollow"
-    ],
-    "answer": "Yoknapatawpha County"
-  },
-  {
     "id": "general-1131",
     "category": "arts-literature",
     "difficulty": "medium",
@@ -1196,19 +1079,6 @@
     "answer": "Andy Warhol"
   },
   {
-    "id": "general-1143",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who sculpted the statue of David, now housed in Florence, Italy?",
-    "options": [
-      "Michelangelo",
-      "Donatello",
-      "Bernini",
-      "Cellini"
-    ],
-    "answer": "Michelangelo"
-  },
-  {
     "id": "general-1144",
     "category": "arts-literature",
     "difficulty": "easy",
@@ -1337,19 +1207,6 @@
       "Kurt Vonnegut"
     ],
     "answer": "Ray Bradbury"
-  },
-  {
-    "id": "general-1583",
-    "category": "arts-literature",
-    "difficulty": "hard",
-    "question": "Which ancient Mesopotamian epic, one of the earliest known works of literature, follows a king's quest for immortality?",
-    "options": [
-      "The Book of the Dead",
-      "The Epic of Gilgamesh",
-      "The Enuma Elish",
-      "The Iliad"
-    ],
-    "answer": "The Epic of Gilgamesh"
   },
   {
     "id": "general-1601",
@@ -1638,19 +1495,6 @@
     "answer": "Bram Stoker"
   },
   {
-    "id": "general-1625",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who painted 'Guernica', a response to the bombing of a Spanish town?",
-    "options": [
-      "Salvador Dali",
-      "Diego Rivera",
-      "Francisco Goya",
-      "Pablo Picasso"
-    ],
-    "answer": "Pablo Picasso"
-  },
-  {
     "id": "general-1626",
     "category": "arts-literature",
     "difficulty": "medium",
@@ -1805,19 +1649,6 @@
       "Virgil"
     ],
     "answer": "Homer"
-  },
-  {
-    "id": "general-1638",
-    "category": "arts-literature",
-    "difficulty": "hard",
-    "question": "Who wrote the novel 'Anna Karenina'?",
-    "options": [
-      "Anton Chekhov",
-      "Fyodor Dostoevsky",
-      "Leo Tolstoy",
-      "Ivan Turgenev"
-    ],
-    "answer": "Leo Tolstoy"
   },
   {
     "id": "general-1639",
@@ -1987,19 +1818,6 @@
       "The 2010s"
     ],
     "answer": "The 1990s"
-  },
-  {
-    "id": "general-1980",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who wrote the absurdist play 'Waiting for Godot'?",
-    "options": [
-      "Samuel Beckett",
-      "Eugene Ionesco",
-      "Harold Pinter",
-      "Jean-Paul Sartre"
-    ],
-    "answer": "Samuel Beckett"
   },
   {
     "id": "general-1981",
@@ -2197,19 +2015,6 @@
     "answer": "The Great Gatsby"
   },
   {
-    "id": "general-2007",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who wrote the modernist novel 'Ulysses,' set in Dublin?",
-    "options": [
-      "James Joyce",
-      "Samuel Beckett",
-      "W.B. Yeats",
-      "Flann O'Brien"
-    ],
-    "answer": "James Joyce"
-  },
-  {
     "id": "general-2009",
     "category": "arts-literature",
     "difficulty": "hard",
@@ -2340,19 +2145,6 @@
     "answer": "Claude Monet"
   },
   {
-    "id": "general-2123",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Which 20th-century art movement is Salvador Dali most closely associated with?",
-    "options": [
-      "Surrealism",
-      "Cubism",
-      "Impressionism",
-      "Expressionism"
-    ],
-    "answer": "Surrealism"
-  },
-  {
     "id": "general-2125",
     "category": "arts-literature",
     "difficulty": "easy",
@@ -2379,19 +2171,6 @@
     "answer": "Jackson Pollock"
   },
   {
-    "id": "general-2127",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Which Spanish artist co-founded the Cubist art movement?",
-    "options": [
-      "Pablo Picasso",
-      "Salvador Dali",
-      "Joan Miro",
-      "Diego Velazquez"
-    ],
-    "answer": "Pablo Picasso"
-  },
-  {
     "id": "general-2128",
     "category": "arts-literature",
     "difficulty": "easy",
@@ -2403,32 +2182,6 @@
       "Abstract"
     ],
     "answer": "Landscape"
-  },
-  {
-    "id": "general-2129",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Which Baroque artist painted 'The Night Watch'?",
-    "options": [
-      "Rembrandt van Rijn",
-      "Johannes Vermeer",
-      "Frans Hals",
-      "Peter Paul Rubens"
-    ],
-    "answer": "Rembrandt van Rijn"
-  },
-  {
-    "id": "general-2131",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who created the famous bronze sculpture 'The Thinker'?",
-    "options": [
-      "Auguste Rodin",
-      "Constantin Brancusi",
-      "Alberto Giacometti",
-      "Henry Moore"
-    ],
-    "answer": "Auguste Rodin"
   },
   {
     "id": "general-2132",
@@ -2457,19 +2210,6 @@
     "answer": "France"
   },
   {
-    "id": "general-2134",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who painted 'Guernica,' a mural depicting the horrors of war?",
-    "options": [
-      "Pablo Picasso",
-      "Francisco Goya",
-      "Diego Rivera",
-      "Salvador Dali"
-    ],
-    "answer": "Pablo Picasso"
-  },
-  {
     "id": "general-2135",
     "category": "arts-literature",
     "difficulty": "medium",
@@ -2481,32 +2221,6 @@
       "Neoclassical"
     ],
     "answer": "Gothic"
-  },
-  {
-    "id": "general-2136",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who painted the iconic work 'American Gothic'?",
-    "options": [
-      "Grant Wood",
-      "Edward Hopper",
-      "Norman Rockwell",
-      "Thomas Hart Benton"
-    ],
-    "answer": "Grant Wood"
-  },
-  {
-    "id": "general-2137",
-    "category": "arts-literature",
-    "difficulty": "hard",
-    "question": "Which French artist is closely associated with the Pointillism technique seen in 'A Sunday on La Grande Jatte'?",
-    "options": [
-      "Georges Seurat",
-      "Paul Signac",
-      "Henri de Toulouse-Lautrec",
-      "Paul Cezanne"
-    ],
-    "answer": "Georges Seurat"
   },
   {
     "id": "general-2138",
@@ -2559,32 +2273,6 @@
       "Omoo"
     ],
     "answer": "Moby-Dick"
-  },
-  {
-    "id": "general-2243",
-    "category": "arts-literature",
-    "difficulty": "hard",
-    "question": "Who wrote the play 'A Doll's House'?",
-    "options": [
-      "Henrik Ibsen",
-      "August Strindberg",
-      "Anton Chekhov",
-      "George Bernard Shaw"
-    ],
-    "answer": "Henrik Ibsen"
-  },
-  {
-    "id": "general-2245",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Which author wrote 'War and Peace'?",
-    "options": [
-      "Leo Tolstoy",
-      "Fyodor Dostoevsky",
-      "Ivan Turgenev",
-      "Anton Chekhov"
-    ],
-    "answer": "Leo Tolstoy"
   },
   {
     "id": "general-2246",
@@ -2808,32 +2496,6 @@
     "answer": "Sylvia Plath"
   },
   {
-    "id": "general-2475",
-    "category": "arts-literature",
-    "difficulty": "hard",
-    "question": "Which playwright wrote 'Waiting for Godot'?",
-    "options": [
-      "Samuel Beckett",
-      "Eugene Ionesco",
-      "Harold Pinter",
-      "Jean-Paul Sartre"
-    ],
-    "answer": "Samuel Beckett"
-  },
-  {
-    "id": "general-2476",
-    "category": "arts-literature",
-    "difficulty": "hard",
-    "question": "Who wrote the novel 'Middlemarch'?",
-    "options": [
-      "George Eliot",
-      "Charlotte Bronte",
-      "Elizabeth Gaskell",
-      "Virginia Woolf"
-    ],
-    "answer": "George Eliot"
-  },
-  {
     "id": "general-2477",
     "category": "arts-literature",
     "difficulty": "medium",
@@ -2860,19 +2522,6 @@
     "answer": "Impressionism"
   },
   {
-    "id": "general-2504",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who sculpted 'The Thinker'?",
-    "options": [
-      "Auguste Rodin",
-      "Constantin Brancusi",
-      "Camille Claudel",
-      "Antonio Canova"
-    ],
-    "answer": "Auguste Rodin"
-  },
-  {
     "id": "general-2505",
     "category": "arts-literature",
     "difficulty": "medium",
@@ -2884,19 +2533,6 @@
       "Maria Izquierdo"
     ],
     "answer": "Frida Kahlo"
-  },
-  {
-    "id": "general-2537",
-    "category": "arts-literature",
-    "difficulty": "hard",
-    "question": "Which philosopher wrote 'The Social Contract', influencing democratic theory?",
-    "options": [
-      "Jean-Jacques Rousseau",
-      "John Locke",
-      "Thomas Hobbes",
-      "Voltaire"
-    ],
-    "answer": "Jean-Jacques Rousseau"
   },
   {
     "id": "general-2556",
@@ -2977,19 +2613,6 @@
     "answer": "Maya Angelou"
   },
   {
-    "id": "general-2578",
-    "category": "arts-literature",
-    "difficulty": "hard",
-    "question": "Which sculptor created 'The Kiss', a marble sculpture of an embracing couple?",
-    "options": [
-      "Auguste Rodin",
-      "Antonio Canova",
-      "Constantin Brancusi",
-      "Camille Claudel"
-    ],
-    "answer": "Auguste Rodin"
-  },
-  {
     "id": "general-2642",
     "category": "arts-literature",
     "difficulty": "medium",
@@ -3027,19 +2650,6 @@
       "Lorenzo Ghiberti"
     ],
     "answer": "Michelangelo"
-  },
-  {
-    "id": "general-2647",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Which art movement, led by figures like Andre Breton, sought to unlock the unconscious mind through dreamlike imagery?",
-    "options": [
-      "Surrealism",
-      "Cubism",
-      "Dadaism",
-      "Futurism"
-    ],
-    "answer": "Surrealism"
   },
   {
     "id": "general-2649",
@@ -3302,19 +2912,6 @@
     "answer": "Unicorn hair"
   },
   {
-    "id": "arts-literature-006",
-    "category": "arts-literature",
-    "difficulty": "hard",
-    "question": "What is the title of the first book in 'The Lord of the Rings' trilogy?",
-    "options": [
-      "The Two Towers",
-      "The Return of the King",
-      "The Fellowship of the Ring",
-      "The Hobbit"
-    ],
-    "answer": "The Fellowship of the Ring"
-  },
-  {
     "id": "arts-literature-007",
     "category": "arts-literature",
     "difficulty": "hard",
@@ -3523,19 +3120,6 @@
     "answer": "Homer"
   },
   {
-    "id": "arts-literature-023",
-    "category": "arts-literature",
-    "difficulty": "hard",
-    "question": "Who is the author of 'The Great Gatsby'?",
-    "options": [
-      "Ernest Hemingway",
-      "F. Scott Fitzgerald",
-      "John Steinbeck",
-      "William Faulkner"
-    ],
-    "answer": "F. Scott Fitzgerald"
-  },
-  {
     "id": "arts-literature-024",
     "category": "arts-literature",
     "difficulty": "easy",
@@ -3586,32 +3170,6 @@
       "Nadine Gordimer"
     ],
     "answer": "Selma Lagerlöf"
-  },
-  {
-    "id": "arts-literature-028",
-    "category": "arts-literature",
-    "difficulty": "hard",
-    "question": "Who wrote the novel 'Ulysses'?",
-    "options": [
-      "Virginia Woolf",
-      "T.S. Eliot",
-      "Ezra Pound",
-      "James Joyce"
-    ],
-    "answer": "James Joyce"
-  },
-  {
-    "id": "arts-literature-029",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who painted 'The Persistence of Memory'?",
-    "options": [
-      "Salvador Dalí",
-      "Pablo Picasso",
-      "Vincent van Gogh",
-      "René Magritte"
-    ],
-    "answer": "Salvador Dalí"
   },
   {
     "id": "arts-literature-030",
@@ -3729,19 +3287,6 @@
       "Bellini"
     ],
     "answer": "van Eyck"
-  },
-  {
-    "id": "arts-literature-039",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "What is the name of the fictional town that serves as the setting for Gabriel García Márquez's \"One Hundred Years of Solitude\"?",
-    "options": [
-      "Macondo",
-      "Santa María",
-      "Comala",
-      "Luvina"
-    ],
-    "answer": "Macondo"
   },
   {
     "id": "arts-literature-040",
@@ -4368,19 +3913,6 @@
     "answer": "Thetis"
   },
   {
-    "id": "arts-literature-088",
-    "category": "arts-literature",
-    "difficulty": "hard",
-    "question": "Rodin's marble sculpture \"The Kiss\" was originally conceived as part of which monumental doorway?",
-    "options": [
-      "The Portal of Paradise",
-      "The Door of the Apocalypse",
-      "The Gates of Hell",
-      "The Gate of Ivory"
-    ],
-    "answer": "The Gates of Hell"
-  },
-  {
     "id": "arts-literature-089",
     "category": "arts-literature",
     "difficulty": "easy",
@@ -4392,19 +3924,6 @@
       "Teacher"
     ],
     "answer": "Fireman"
-  },
-  {
-    "id": "arts-literature-090",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "The American artist known for inventing the mobile sculpture is?",
-    "options": [
-      "David Smith",
-      "Henry Moore",
-      "Jean Tinguely",
-      "Alexander Calder"
-    ],
-    "answer": "Alexander Calder"
   },
   {
     "id": "arts-literature-091",
@@ -4509,19 +4028,6 @@
       "A book"
     ],
     "answer": "A petition letter"
-  },
-  {
-    "id": "arts-literature-099",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "\"The Master and Margarita,\" a satirical novel set in Moscow, was written by?",
-    "options": [
-      "Nikolai Gogol",
-      "Boris Pasternak",
-      "Vladimir Nabokov",
-      "Mikhail Bulgakov"
-    ],
-    "answer": "Mikhail Bulgakov"
   },
   {
     "id": "arts-literature-100",
@@ -4914,19 +4420,6 @@
     "answer": "Styx"
   },
   {
-    "id": "arts-literature-130",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "The Rococo painting \"The Swing,\" depicting a woman being pushed by a bishop, was created by which French painter?",
-    "options": [
-      "François Boucher",
-      "Antoine Watteau",
-      "Jean-Honoré Fragonard",
-      "Jean-Baptiste-Siméon Chardin"
-    ],
-    "answer": "Jean-Honoré Fragonard"
-  },
-  {
     "id": "arts-literature-131",
     "category": "arts-literature",
     "difficulty": "medium",
@@ -4938,19 +4431,6 @@
       "Ovid"
     ],
     "answer": "Ovid"
-  },
-  {
-    "id": "arts-literature-132",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who wrote 'The Decameron'?",
-    "options": [
-      "Dante Alighieri",
-      "Giovanni Boccaccio",
-      "Petrarch",
-      "Niccolò Machiavelli"
-    ],
-    "answer": "Giovanni Boccaccio"
   },
   {
     "id": "arts-literature-133",
@@ -5005,19 +4485,6 @@
     "answer": "Albert Camus"
   },
   {
-    "id": "arts-literature-137",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who wrote 'The Trial'?",
-    "options": [
-      "Franz Kafka",
-      "Thomas Mann",
-      "Hermann Hesse",
-      "Robert Musil"
-    ],
-    "answer": "Franz Kafka"
-  },
-  {
     "id": "arts-literature-138",
     "category": "arts-literature",
     "difficulty": "hard",
@@ -5027,19 +4494,6 @@
       "Hermann Hesse",
       "Robert Musil",
       "Franz Kafka"
-    ],
-    "answer": "Franz Kafka"
-  },
-  {
-    "id": "arts-literature-139",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who wrote 'The Metamorphosis'?",
-    "options": [
-      "Franz Kafka",
-      "Thomas Mann",
-      "Hermann Hesse",
-      "Robert Musil"
     ],
     "answer": "Franz Kafka"
   },
@@ -5590,19 +5044,6 @@
     "answer": "Hieronymus Bosch"
   },
   {
-    "id": "arts-literature-182",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Which American painter created \"Christina's World\", showing a woman crawling across a treeless, tawny field toward a farmhouse?",
-    "options": [
-      "Edward Hopper",
-      "Norman Rockwell",
-      "Andrew Wyeth",
-      "Winslow Homer"
-    ],
-    "answer": "Andrew Wyeth"
-  },
-  {
     "id": "arts-literature-183",
     "category": "arts-literature",
     "difficulty": "hard",
@@ -5900,19 +5341,6 @@
       "Possessing the Secret of Joy"
     ],
     "answer": "The Color Purple"
-  },
-  {
-    "id": "arts-literature-206",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Which Kurt Vonnegut novel features a protagonist named Billy Pilgrim who becomes \"unstuck in time\" and is abducted by Tralfamadorians?",
-    "options": [
-      "Cat's Cradle",
-      "Slaughterhouse-Five",
-      "Breakfast of Champions",
-      "Mother Night"
-    ],
-    "answer": "Slaughterhouse-Five"
   },
   {
     "id": "arts-literature-207",
@@ -6344,19 +5772,6 @@
     "answer": "Don Juan"
   },
   {
-    "id": "arts-literature-240",
-    "category": "arts-literature",
-    "difficulty": "hard",
-    "question": "Which pioneering 1857 volume of poetry by Charles Baudelaire scandalized France and led to his prosecution for offending public morals?",
-    "options": [
-      "A Season in Hell",
-      "The Flowers of Evil",
-      "Illuminations",
-      "The Spleen of Paris"
-    ],
-    "answer": "The Flowers of Evil"
-  },
-  {
     "id": "arts-literature-241",
     "category": "arts-literature",
     "difficulty": "hard",
@@ -6381,19 +5796,6 @@
       "The Real Thing"
     ],
     "answer": "Rosencrantz and Guildenstern Are Dead"
-  },
-  {
-    "id": "arts-literature-243",
-    "category": "arts-literature",
-    "difficulty": "hard",
-    "question": "Which Harold Pinter \"comedy of menace\" involves a boarding house resident named Stanley Webber who is subjected to an intimidating interrogation by two strangers?",
-    "options": [
-      "The Caretaker",
-      "The Homecoming",
-      "Betrayal",
-      "The Birthday Party"
-    ],
-    "answer": "The Birthday Party"
   },
   {
     "id": "arts-literature-244",
@@ -8177,19 +7579,6 @@
     "id": "arts-literature-380"
   },
   {
-    "difficulty": "hard",
-    "category": "arts-literature",
-    "question": "Who wrote \"The Awakening,\" the 1899 novel about Edna Pontellier's struggle for independence in Louisiana?",
-    "options": [
-      "Edith Wharton",
-      "Willa Cather",
-      "Kate Chopin",
-      "Sarah Orne Jewett"
-    ],
-    "answer": "Kate Chopin",
-    "id": "arts-literature-381"
-  },
-  {
     "difficulty": "medium",
     "category": "arts-literature",
     "question": "Which artist painted a famous series depicting Rouen Cathedral at different times of day and in different weather conditions?",
@@ -8240,19 +7629,6 @@
     ],
     "answer": "Van Gogh Museum",
     "id": "arts-literature-385"
-  },
-  {
-    "difficulty": "hard",
-    "category": "arts-literature",
-    "question": "Who wrote \"The Faerie Queene,\" an epic poem dedicated to Queen Elizabeth I?",
-    "options": [
-      "Philip Sidney",
-      "Edmund Spenser",
-      "Christopher Marlowe",
-      "Ben Jonson"
-    ],
-    "answer": "Edmund Spenser",
-    "id": "arts-literature-386"
   },
   {
     "difficulty": "hard",
@@ -8695,19 +8071,6 @@
     ],
     "answer": "Prospero",
     "id": "arts-literature-420"
-  },
-  {
-    "difficulty": "medium",
-    "category": "arts-literature",
-    "question": "Who wrote \"Middlemarch,\" the novel subtitled \"A Study of Provincial Life\"?",
-    "options": [
-      "George Eliot",
-      "Elizabeth Gaskell",
-      "Anthony Trollope",
-      "Thomas Hardy"
-    ],
-    "answer": "George Eliot",
-    "id": "arts-literature-421"
   },
   {
     "difficulty": "medium",
@@ -10166,19 +9529,6 @@
     "id": "arts-literature-533"
   },
   {
-    "difficulty": "easy",
-    "category": "arts-literature",
-    "question": "Which Anton Chekhov play centers on an aristocratic Russian family who return to their estate just before it is auctioned to pay the mortgage, ultimately losing their beloved orchard?",
-    "options": [
-      "The Cherry Orchard",
-      "The Seagull",
-      "Uncle Vanya",
-      "Three Sisters"
-    ],
-    "answer": "The Cherry Orchard",
-    "id": "arts-literature-534"
-  },
-  {
     "difficulty": "medium",
     "category": "arts-literature",
     "question": "Which Anton Chekhov play features the aspiring writer Konstantin Treplev, the aging actress Irina Arkadina, and a literal seagull brought onto the stage?",
@@ -10207,19 +9557,6 @@
   {
     "difficulty": "medium",
     "category": "arts-literature",
-    "question": "Which Eugène Ionesco play, considered a pioneer of the Theatre of the Absurd, features the Smiths and the Martins engaging in nonsensical, cliché-ridden dialogue?",
-    "options": [
-      "The Bald Soprano",
-      "The Chairs",
-      "Rhinoceros",
-      "The Lesson"
-    ],
-    "answer": "The Bald Soprano",
-    "id": "arts-literature-537"
-  },
-  {
-    "difficulty": "medium",
-    "category": "arts-literature",
     "question": "Which Eugène Ionesco play features a town where the inhabitants gradually transform into the title animal, representing the rise of fascism and mob mentality?",
     "options": [
       "Rhinoceros",
@@ -10229,19 +9566,6 @@
     ],
     "answer": "Rhinoceros",
     "id": "arts-literature-538"
-  },
-  {
-    "difficulty": "medium",
-    "category": "arts-literature",
-    "question": "Which W.B. Yeats poem contains the famous lines 'Things fall apart; the centre cannot hold; / Mere anarchy is loosed upon the world'?",
-    "options": [
-      "Sailing to Byzantium",
-      "The Second Coming",
-      "Easter, 1916",
-      "The Tower"
-    ],
-    "answer": "The Second Coming",
-    "id": "arts-literature-539"
   },
   {
     "difficulty": "medium",
@@ -10294,19 +9618,6 @@
     ],
     "answer": "Ozymandias",
     "id": "arts-literature-543"
-  },
-  {
-    "difficulty": "medium",
-    "category": "arts-literature",
-    "question": "Which satirical epic poem by Lord Byron follows the adventures of its titular character across Europe and the Ottoman Empire?",
-    "options": [
-      "Don Juan",
-      "Childe Harold's Pilgrimage",
-      "The Prisoner of Chillon",
-      "Manfred"
-    ],
-    "answer": "Don Juan",
-    "id": "arts-literature-544"
   },
   {
     "id": "arts-literature-545",

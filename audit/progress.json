@@ -1211,11 +1211,11 @@
         "general-2473",
         "general-2474"
       ],
-      "status": "in-progress",
+      "status": "done",
       "startedAt": "2026-08-06",
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "completedAt": "2026-08-06",
+      "issuesFound": 28,
+      "notes": "28 duplicate chestnuts cut: 4-way clusters on 'who sculpted The Thinker' and 'who sculpted David' and 'who painted Guernica' and 'who wrote War and Peace'; 3-way on 'Crime and Punishment', 'Ulysses', Dali/Surrealism; 2-way pairs on Anna Karenina, The Kiss, Cubism co-founder, Pointillism/Seurat, Calder mobile sculpture (also fixed a fragment-style non-question in the process), Macondo, Yoknapatawpha, Epic of Gilgamesh (cross-category dup with mythology-religion), American Gothic, A Doll's House. No factual-accuracy issues found among the 22 non-duplicate questions in this chunk."
     },
     {
       "chunkId": "arts-literature-p1-001",
@@ -1272,11 +1272,11 @@
         "arts-literature-127",
         "arts-literature-133"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-06",
+      "completedAt": "2026-08-06",
+      "issuesFound": 10,
+      "notes": "10 duplicate cuts: Waiting for Godot (3-way, kept arts-literature-384), Middlemarch (3-way incl. reversed-direction 'pen name' framing, kept arts-literature-004), Rousseau Social Contract (cross-category dup with history.json, kept general-705), Persistence of Memory/Dali (kept general-477), Great Gatsby (kept general-207), Fellowship of the Ring (kept arts-literature-380), Rodin's Gates of Hell (kept arts-literature-479, better distractors), Vonnegut/Billy Pilgrim unstuck-in-time (kept arts-literature-480). Spot-verified two obscure hard-difficulty claims via WebSearch (Redwall owl species, Night Watch sash color) -- both correct. Remaining ~35 non-duplicate questions checked for distractor correctness and factual accuracy -- no issues found."
     },
     {
       "chunkId": "arts-literature-p1-002",
@@ -1333,11 +1333,11 @@
         "arts-literature-295",
         "arts-literature-297"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-06",
+      "completedAt": "2026-08-06",
+      "issuesFound": 8,
+      "notes": "8 duplicate cuts, all same-work pairs (different quoted lines/descriptions of the identical work): Kafka's The Trial (kept 395), Metamorphosis (kept 373), Yeats's The Second Coming quoted via two different famous lines (kept 218), Chekhov's Cherry Orchard (kept 224), Spenser's Faerie Queene (kept 233), Byron's Don Juan (kept 239), Ionesco's Bald Soprano (kept 241), Pinter's Birthday Party (kept 518, has more specific correct detail). Kafka's other works (Castle, Trial, Metamorphosis) and Rodin's other sculptures (Gates of Hell, Thinker, Kiss, Burghers of Calais) correctly NOT flagged as dupes -- different named works by the same creator. Spot-verified via WebSearch: Love in the Time of Cholera's 'fifty-one years' framing detail -- correct. Remaining ~40 questions (mostly deep hard-difficulty literature/art facts) checked against memory -- all accurate, no distractor-correctness issues found."
     },
     {
       "chunkId": "arts-literature-p1-003",
@@ -1394,11 +1394,11 @@
         "arts-literature-434",
         "arts-literature-435"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-06",
+      "completedAt": "2026-08-06",
+      "issuesFound": 6,
+      "notes": "6 duplicate cuts: Rembrandt's Night Watch (kept general-479), Bulgakov's Master and Margarita (kept arts-literature-424), Fragonard's The Swing (kept arts-literature-414), Boccaccio's Decameron (kept arts-literature-408), Wyeth's Christina's World (kept arts-literature-393), and a cross-chunk reversed-direction duplicate on Kate Chopin's The Awakening -- arts-literature-381 (asks author given title+plot) vs. arts-literature-260 from an earlier-reviewed chunk (asks title given author+plot); cut 381, kept 260. Correctly did NOT flag same-artist/same-author clusters with different named works (Rodin x4, Renoir x2, Friedrich x2, O'Neill x2, Rembrandt x4 other works, Calvino x2). Remaining ~35 questions checked for factual accuracy -- all correct, no distractor issues found."
     },
     {
       "chunkId": "arts-literature-p1-004",
@@ -1455,11 +1455,11 @@
         "arts-literature-624",
         "arts-literature-629"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-06",
+      "completedAt": "2026-08-06",
+      "issuesFound": 1,
+      "notes": "1 cross-chunk reversed-direction duplicate cut: Baudelaire's Flowers of Evil (arts-literature-240 from an earlier chunk gave author+scandal and asked for title; arts-literature-456 in this chunk gives title+trial and asks for author -- same core fact, same answer once resolved to Baudelaire/Flowers of Evil) -- cut 240, kept 456. Checked two other superficially similar reversed-direction candidates (O'Connor's Misfit/Good Man Is Hard to Find; Mishima's Golden Pavilion novel/Kinkaku-ji) and correctly did NOT flag them -- their two directions test genuinely different specific facts with different correct answers (character nickname vs. story title; landmark name vs. novel title), unlike Middlemarch/pen-name or Flowers of Evil where the answer collapses to the same entity either way. Spot-verified two obscure hard-difficulty claims via WebSearch (Hopscotch's 155-chapter alternate reading order, Pinin Brambilla Barcilon's 1977-1999 Last Supper restoration) -- both correct. Remaining ~45 questions checked for factual accuracy and distractor correctness -- no other issues found; several same-artist clusters (Rembrandt x4, Friedrich x3, T.S. Eliot x3, Hopper x2) correctly left alone since each question targets a different named work."
     },
     {
       "chunkId": "arts-literature-p1-005",
