@@ -5,7 +5,7 @@ You are drafting trivia questions for a multiple-choice trivia app. You have no 
 
 TOPIC: Animals & Nature — wildlife, plants, ecosystems, animal biology and behavior. Human anatomy/physiology belongs in Science & Technology, not here.
 
-COUNT: 100 questions.
+COUNT: 200 questions.
 
 AVOID THESE ANGLES — already well-covered in my question bank, so don't draft facts that overlap with these (pick different, more specific facts instead):
 - How many legs a spider has (Eight)

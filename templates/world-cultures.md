@@ -5,7 +5,7 @@ You are drafting trivia questions for a multiple-choice trivia app. You have no 
 
 TOPIC: World Cultures & Languages — customs, traditions, festivals, languages, and everyday life across different cultures. Not history/dates (separate category) and not mythology/religion (separate category).
 
-COUNT: 100 questions.
+COUNT: 200 questions.
 
 AVOID THESE ANGLES — already well-covered in my question bank, so don't draft facts that overlap with these (pick different, more specific facts instead):
 - The Nahuatl-derived name for the marigold flower used on Mexican Day of the Dead altars (Cempasúchil)
@@ -92,6 +92,14 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Korean nunchi (the social skill of reading the room/sensing others' moods)
 - The sporran, the pouch worn at the front of a Scottish kilt
 - Finnish (and Hungarian) belonging to the Uralic language family, unlike neighboring Indo-European languages
+- Bulgaria's reversed head-nod convention (nodding means "no," shaking means "yes")
+- Kintsugi (Japanese art of repairing pottery with gold), wabi-sabi (aesthetic of imperfect/impermanent beauty), and shinrin-yoku/"forest bathing"
+- Mkhedruli, the name of the modern Georgian script
+- Sobremesa, the Spanish/Latin American custom of lingering at the table to chat after a meal
+- Hebrew as a revived-from-liturgical-only spoken language
+- China's Qingming Festival centering on tomb-sweeping/honoring ancestors
+- Madagascar's Famadihana ceremony (exhuming and rewrapping ancestors' remains) — also don't draft a new question just asking "what is Famadihana" when an existing question already states that definition as its own premise while asking for the country
+- Japanese food/dining terms already covered: kaiseki (multi-course haute cuisine), dashi (kelp/bonito broth), katsuobushi (dried fermented bonito flakes), wasabi (from a rhizome plant), takoyaki (octopus-filled batter balls), okonomiyaki ("as you like it" savory pancake), tonkatsu (breaded fried pork cutlet), miso (fermented soybean paste)
 
 Use web search to verify every fact — do not rely on memory alone. Prefer authoritative sources (encyclopedic sources, cultural references) over guessing. For each question, actually find the fact via search rather than recalling it, especially for obscure details (lesser-known customs, specific terms).
 

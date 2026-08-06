@@ -9410,5 +9410,2150 @@
       "Minus sign"
     ],
     "answer": "En dash"
+  },
+  {
+    "id": "general-3657",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What term describes a name for residents of a particular place, such as 'Vancouverite' or 'Parisian'?",
+    "options": [
+      "Toponym",
+      "Eponym",
+      "Patronym",
+      "Demonym"
+    ],
+    "answer": "Demonym"
+  },
+  {
+    "id": "general-3658",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What term describes a name for a place used by outsiders that differs from the local name, such as 'Vienna' for 'Wien'?",
+    "options": [
+      "Endonym",
+      "Demonym",
+      "Eponym",
+      "Exonym"
+    ],
+    "answer": "Exonym"
+  },
+  {
+    "id": "general-3659",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What term describes a person known by only one name, such as Plato or Beyonce?",
+    "options": [
+      "Eponym",
+      "Toponym",
+      "Mononym",
+      "Aptronym"
+    ],
+    "answer": "Mononym"
+  },
+  {
+    "id": "general-3660",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "In biological classification, what term describes a species whose genus and species names are identical, like Gorilla gorilla?",
+    "options": [
+      "Tautonym",
+      "Capitonym",
+      "Retronym",
+      "Homonym"
+    ],
+    "answer": "Tautonym"
+  },
+  {
+    "id": "general-3661",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What term describes a word with no repeating letters, such as 'subdermatoglyphic'?",
+    "options": [
+      "Univocalic",
+      "Isograph",
+      "Tautonym",
+      "Isogram"
+    ],
+    "answer": "Isogram"
+  },
+  {
+    "id": "general-3662",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What term describes a word or phrase that uses only one distinct vowel, such as 'strengths' using only E?",
+    "options": [
+      "Pleonasm",
+      "Monovocalic phrase",
+      "Isogram",
+      "Univocalic"
+    ],
+    "answer": "Univocalic"
+  },
+  {
+    "id": "general-3663",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which of these is a classic example of a contronym, meaning both to add and to remove fine particles?",
+    "options": [
+      "Sandwich",
+      "Polish",
+      "Dust",
+      "August"
+    ],
+    "answer": "Dust"
+  },
+  {
+    "id": "general-3664",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which pair is a classic capitonym where capitalization changes pronunciation and meaning?",
+    "options": [
+      "Cleave and cleave",
+      "Sandwich and sandwich",
+      "Dust and dust",
+      "Polish and polish"
+    ],
+    "answer": "Polish and polish"
+  },
+  {
+    "id": "general-3665",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'Demonym' literally refer to?",
+    "options": [
+      "Name for a place from a person",
+      "Name that is its own opposite",
+      "Name for a single-named person",
+      "Name for people from a place"
+    ],
+    "answer": "Name for people from a place"
+  },
+  {
+    "id": "general-3666",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is an 'endonym' in contrast to an exonym?",
+    "options": [
+      "Name used by foreigners for a place",
+      "Name with same spelling as genus",
+      "Name used by locals for their own place",
+      "Name derived from a person"
+    ],
+    "answer": "Name used by locals for their own place"
+  },
+  {
+    "id": "general-3667",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is a 'tautogram'?",
+    "options": [
+      "Word that changes meaning when capitalized",
+      "Word that is its own opposite",
+      "Word with no repeated letters",
+      "Sentence where all words start with the same letter"
+    ],
+    "answer": "Sentence where all words start with the same letter"
+  },
+  {
+    "id": "general-3668",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is an 'autological' word?",
+    "options": [
+      "Word that describes itself",
+      "Word that contradicts itself",
+      "Word derived from a place",
+      "Word with one vowel"
+    ],
+    "answer": "Word that describes itself"
+  },
+  {
+    "id": "general-3669",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In equestrian measurement, a 'hand' equals how many inches and is used to measure what animal's height?",
+    "options": [
+      "6 inches, horse",
+      "4 inches, horse",
+      "4 inches, dog",
+      "3 inches, cattle"
+    ],
+    "answer": "4 inches, horse"
+  },
+  {
+    "id": "general-3670",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "A standard barrel of crude oil in the US is defined as how many US gallons?",
+    "options": [
+      "35 US gallons",
+      "42 US gallons",
+      "31 US gallons",
+      "55 US gallons"
+    ],
+    "answer": "42 US gallons"
+  },
+  {
+    "id": "general-3671",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In counting, a 'score' traditionally equals how many?",
+    "options": [
+      "100",
+      "12",
+      "24",
+      "20"
+    ],
+    "answer": "20"
+  },
+  {
+    "id": "general-3672",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How many US pints are in a US quart?",
+    "options": [
+      "4 pints",
+      "2 pints",
+      "1.5 pints",
+      "3 pints"
+    ],
+    "answer": "2 pints"
+  },
+  {
+    "id": "general-3673",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How many US quarts are in a US gallon?",
+    "options": [
+      "8 quarts",
+      "4 quarts",
+      "6 quarts",
+      "2 quarts"
+    ],
+    "answer": "4 quarts"
+  },
+  {
+    "id": "general-3674",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How many US fluid ounces are in a standard US cup?",
+    "options": [
+      "12 fluid ounces",
+      "6 fluid ounces",
+      "8 fluid ounces",
+      "16 fluid ounces"
+    ],
+    "answer": "8 fluid ounces"
+  },
+  {
+    "id": "general-3675",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How many teaspoons are in one US tablespoon?",
+    "options": [
+      "4 teaspoons",
+      "3 teaspoons",
+      "6 teaspoons",
+      "2 teaspoons"
+    ],
+    "answer": "3 teaspoons"
+  },
+  {
+    "id": "general-3676",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "A standard jigger used for cocktails typically measures how much?",
+    "options": [
+      "2 fluid ounces",
+      "1 fluid ounce",
+      "0.75 fluid ounces",
+      "1.5 fluid ounces"
+    ],
+    "answer": "1.5 fluid ounces"
+  },
+  {
+    "id": "general-3677",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In the US system, alcohol 'proof' is defined as what in relation to ABV?",
+    "options": [
+      "ABV plus 10",
+      "Half the ABV",
+      "Twice the ABV",
+      "Equal to ABV"
+    ],
+    "answer": "Twice the ABV"
+  },
+  {
+    "id": "general-3678",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "A carat, used to measure gemstone weight, equals how many milligrams?",
+    "options": [
+      "100 milligrams",
+      "500 milligrams",
+      "200 milligrams",
+      "1000 milligrams"
+    ],
+    "answer": "200 milligrams"
+  },
+  {
+    "id": "general-3679",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "24-karat gold is defined as what?",
+    "options": [
+      "75% gold",
+      "50% gold",
+      "Pure gold",
+      "Gold mixed with silver"
+    ],
+    "answer": "Pure gold"
+  },
+  {
+    "id": "general-3680",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In dry measure, a peck equals how many dry quarts?",
+    "options": [
+      "4 dry quarts",
+      "8 dry quarts",
+      "2 dry quarts",
+      "16 dry quarts"
+    ],
+    "answer": "8 dry quarts"
+  },
+  {
+    "id": "general-3681",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "An acre-foot is a volume that would cover one acre to a depth of one foot; it is commonly used to measure what?",
+    "options": [
+      "Lumber",
+      "Large-scale water resources",
+      "Gold purity",
+      "Horse height"
+    ],
+    "answer": "Large-scale water resources"
+  },
+  {
+    "id": "general-3682",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "A fathom was historically based on what human span?",
+    "options": [
+      "Outstretched arms fingertip to fingertip",
+      "Thumb to pinky",
+      "Foot length",
+      "Elbow to fingertip"
+    ],
+    "answer": "Outstretched arms fingertip to fingertip"
+  },
+  {
+    "id": "general-3683",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "A firkin is a traditional small cask historically equal to roughly a quarter of a barrel; it is most associated today with what?",
+    "options": [
+      "Flour",
+      "Beer and ale",
+      "Gunpowder",
+      "Crude oil"
+    ],
+    "answer": "Beer and ale"
+  },
+  {
+    "id": "general-3684",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "In the US customary system, a bushel equals how many pecks?",
+    "options": [
+      "2 pecks",
+      "16 pecks",
+      "8 pecks",
+      "4 pecks"
+    ],
+    "answer": "4 pecks"
+  },
+  {
+    "id": "general-3685",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "The term 'bolt' as a unit of cloth traditionally measured about how many yards?",
+    "options": [
+      "20 yards",
+      "10 yards",
+      "100 yards",
+      "40 yards"
+    ],
+    "answer": "40 yards"
+  },
+  {
+    "id": "general-3686",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "A 'hogshead' is a large cask whose volume varies, but in the US for tobacco it was standardized to about what?",
+    "options": [
+      "Exactly 500 pounds",
+      "Large cask of about 63-140 gallons",
+      "Exactly 1 ton",
+      "Exactly 42 gallons"
+    ],
+    "answer": "Large cask of about 63-140 gallons"
+  },
+  {
+    "id": "general-3687",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "A 'dram' as a small unit of liquid is traditionally what fraction of a fluid ounce?",
+    "options": [
+      "1 fluid ounce",
+      "1/8 fluid ounce",
+      "1/16 fluid ounce",
+      "1/2 fluid ounce"
+    ],
+    "answer": "1/8 fluid ounce"
+  },
+  {
+    "id": "general-3688",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which unit is used to measure the fineness of yarn or fiber, defined as weight in grams of 9000 meters?",
+    "options": [
+      "Denier",
+      "Tex",
+      "Karat",
+      "Carat"
+    ],
+    "answer": "Denier"
+  },
+  {
+    "id": "general-3689",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "The 'hand' for horse height is subdivided into how many inches per hand?",
+    "options": [
+      "12 inches per hand",
+      "4 inches per hand",
+      "3 inches per hand",
+      "6 inches per hand"
+    ],
+    "answer": "4 inches per hand"
+  },
+  {
+    "id": "general-3690",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In chess, what is a stalemate?",
+    "options": [
+      "Loss when only king remains",
+      "Special knight maneuver",
+      "Win when opponent's king cannot move",
+      "Draw when player has no legal moves and is not in check"
+    ],
+    "answer": "Draw when player has no legal moves and is not in check"
+  },
+  {
+    "id": "general-3691",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "In chess, what does a player say to indicate they are adjusting a piece without intending to move it?",
+    "options": [
+      "Alea jacta est",
+      "En garde",
+      "J'adoube",
+      "Check"
+    ],
+    "answer": "J'adoube"
+  },
+  {
+    "id": "general-3692",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Under the 50-move rule in chess, a draw can be claimed if 50 moves occur with no what?",
+    "options": [
+      "Castling",
+      "Check",
+      "Pawn move or capture",
+      "Promotion"
+    ],
+    "answer": "Pawn move or capture"
+  },
+  {
+    "id": "general-3693",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In checkers, what happens when a piece reaches the opponent's back row?",
+    "options": [
+      "Game ends immediately",
+      "It is kinged or crowned",
+      "It is removed from board",
+      "It becomes a queen"
+    ],
+    "answer": "It is kinged or crowned"
+  },
+  {
+    "id": "general-3694",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In backgammon, what is the purpose of the doubling cube?",
+    "options": [
+      "To count captured pieces",
+      "To decide who moves first",
+      "To double the stakes of the game",
+      "To measure bearing off"
+    ],
+    "answer": "To double the stakes of the game"
+  },
+  {
+    "id": "general-3695",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In backgammon, where are hit checkers placed?",
+    "options": [
+      "Off the board permanently",
+      "In the home board",
+      "On the bar",
+      "On the doubling cube"
+    ],
+    "answer": "On the bar"
+  },
+  {
+    "id": "general-3696",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In Scrabble, what term is used for playing all seven tiles in one turn, earning a 50-point bonus?",
+    "options": [
+      "Yahtzee",
+      "Bingo",
+      "Flush",
+      "Triple"
+    ],
+    "answer": "Bingo"
+  },
+  {
+    "id": "general-3697",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In poker, what is the 'flop'?",
+    "options": [
+      "Final community card",
+      "Discard pile",
+      "First three community cards dealt face up",
+      "Two private cards"
+    ],
+    "answer": "First three community cards dealt face up"
+  },
+  {
+    "id": "general-3698",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In Texas Hold'em, what is the 'turn' also called?",
+    "options": [
+      "Fifth community card",
+      "Private hole card",
+      "First community card",
+      "Fourth community card"
+    ],
+    "answer": "Fourth community card"
+  },
+  {
+    "id": "general-3699",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In Texas Hold'em, what is the 'river'?",
+    "options": [
+      "Burn card",
+      "Fifth and final community card",
+      "First three cards",
+      "Discard"
+    ],
+    "answer": "Fifth and final community card"
+  },
+  {
+    "id": "general-3700",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In poker, what is a 'straight'?",
+    "options": [
+      "Five cards same suit",
+      "Two pairs",
+      "Five cards in sequential rank",
+      "Three of a kind"
+    ],
+    "answer": "Five cards in sequential rank"
+  },
+  {
+    "id": "general-3701",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In poker, what is a 'kicker'?",
+    "options": [
+      "First community card",
+      "Wild card",
+      "Side card used to break ties",
+      "Minimum bet"
+    ],
+    "answer": "Side card used to break ties"
+  },
+  {
+    "id": "general-3702",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In blackjack, what does 'bust' mean?",
+    "options": [
+      "Getting exactly 21",
+      "Exceeding 21",
+      "Doubling down",
+      "Splitting aces"
+    ],
+    "answer": "Exceeding 21"
+  },
+  {
+    "id": "general-3703",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In blackjack, what is a natural blackjack?",
+    "options": [
+      "Three sevens",
+      "Two aces",
+      "Five cards under 21",
+      "Ace plus a 10-value card as initial two cards"
+    ],
+    "answer": "Ace plus a 10-value card as initial two cards"
+  },
+  {
+    "id": "general-3704",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In bridge, what is the 'dummy'?",
+    "options": [
+      "The trump suit",
+      "Declarer's partner's hand laid face up",
+      "The deck of cards not dealt",
+      "The dealer"
+    ],
+    "answer": "Declarer's partner's hand laid face up"
+  },
+  {
+    "id": "general-3705",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In bridge, what does 'trump' mean?",
+    "options": [
+      "Double points",
+      "Passing without bidding",
+      "Exposed hand",
+      "Suit that outranks other suits"
+    ],
+    "answer": "Suit that outranks other suits"
+  },
+  {
+    "id": "general-3706",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "In euchre, what are the 'bowers'?",
+    "options": [
+      "Jacks of the trump suit and same-color suit",
+      "Jokers",
+      "Queens of trump",
+      "Two highest trumps"
+    ],
+    "answer": "Jacks of the trump suit and same-color suit"
+  },
+  {
+    "id": "general-3707",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In Monopoly, which space sends you directly to jail without passing Go?",
+    "options": [
+      "Free Parking",
+      "Go to Jail",
+      "Chance",
+      "Income Tax"
+    ],
+    "answer": "Go to Jail"
+  },
+  {
+    "id": "general-3708",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does a Get Out of Jail Free card allow in Monopoly?",
+    "options": [
+      "Avoid paying rent",
+      "Collect double rent",
+      "Leave jail without paying fee",
+      "Move to Go"
+    ],
+    "answer": "Leave jail without paying fee"
+  },
+  {
+    "id": "general-3709",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In Monopoly, what are the two utilities?",
+    "options": [
+      "Boardwalk and Park Place",
+      "Chance and Community Chest",
+      "Electric Company and Water Works",
+      "Reading Railroad and B&O"
+    ],
+    "answer": "Electric Company and Water Works"
+  },
+  {
+    "id": "general-3710",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In the classic board game Clue, which of these is a standard weapon?",
+    "options": [
+      "Bow and arrow",
+      "Candlestick",
+      "Poison",
+      "Hammer"
+    ],
+    "answer": "Candlestick"
+  },
+  {
+    "id": "general-3711",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In Trivial Pursuit, how many wedges does a player need to win?",
+    "options": [
+      "5",
+      "6",
+      "4",
+      "8"
+    ],
+    "answer": "6"
+  },
+  {
+    "id": "general-3712",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In Catan, what does the robber do when placed on a hex?",
+    "options": [
+      "Gives extra resources",
+      "Ends the game",
+      "Blocks resource production from that hex",
+      "Doubles longest road"
+    ],
+    "answer": "Blocks resource production from that hex"
+  },
+  {
+    "id": "general-3713",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In Catan, what do you need to claim the Longest Road bonus?",
+    "options": [
+      "5 or more continuous roads",
+      "Largest army",
+      "3 settlements",
+      "10 victory points"
+    ],
+    "answer": "5 or more continuous roads"
+  },
+  {
+    "id": "general-3714",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In dominoes, what is a 'double'?",
+    "options": [
+      "First tile played",
+      "Tile with same number of pips on both ends",
+      "Highest scoring tile",
+      "Tile with no pips"
+    ],
+    "answer": "Tile with same number of pips on both ends"
+  },
+  {
+    "id": "general-3715",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In Battleship, how are target squares called?",
+    "options": [
+      "Two numbers",
+      "Only letters",
+      "Letter plus number like B7",
+      "Color and number"
+    ],
+    "answer": "Letter plus number like B7"
+  },
+  {
+    "id": "general-3716",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In Dungeons & Dragons, a 4-sided die (d4) is shaped like what platonic solid?",
+    "options": [
+      "Tetrahedron",
+      "Icosahedron",
+      "Cube",
+      "Octahedron"
+    ],
+    "answer": "Tetrahedron"
+  },
+  {
+    "id": "general-3717",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In Dungeons & Dragons, a 20-sided die (d20) is shaped like what?",
+    "options": [
+      "Dodecahedron",
+      "Tetrahedron",
+      "Icosahedron",
+      "Cube"
+    ],
+    "answer": "Icosahedron"
+  },
+  {
+    "id": "general-3718",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In checkers, if you can capture an opponent's piece, what do most official rules require?",
+    "options": [
+      "You may ignore it",
+      "Game ends",
+      "You must take the capture",
+      "You lose your piece"
+    ],
+    "answer": "You must take the capture"
+  },
+  {
+    "id": "general-3719",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'ante' mean in poker?",
+    "options": [
+      "Winning hand",
+      "Discard",
+      "Final community card",
+      "Forced bet before cards dealt to seed pot"
+    ],
+    "answer": "Forced bet before cards dealt to seed pot"
+  },
+  {
+    "id": "general-3720",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In Monopoly, which card pile includes 'Advance to Go'?",
+    "options": [
+      "Utility",
+      "Chance",
+      "Railroad",
+      "Community Chest"
+    ],
+    "answer": "Chance"
+  },
+  {
+    "id": "general-3721",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "In the game of Go, what are 'liberties'?",
+    "options": [
+      "Captured stones",
+      "Corner territories",
+      "Handicap stones",
+      "Empty adjacent points next to a stone or group"
+    ],
+    "answer": "Empty adjacent points next to a stone or group"
+  },
+  {
+    "id": "general-3722",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In backgammon, what does 'bearing off' mean?",
+    "options": [
+      "Placing checkers on bar",
+      "Rolling doubles",
+      "Doubling stakes",
+      "Removing checkers from board to win"
+    ],
+    "answer": "Removing checkers from board to win"
+  },
+  {
+    "id": "general-3723",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In chess, what does 'check' mean?",
+    "options": [
+      "Pawn promotes",
+      "King cannot move",
+      "Game is drawn",
+      "King is under attack"
+    ],
+    "answer": "King is under attack"
+  },
+  {
+    "id": "general-3724",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In Uno, what does a Wild Draw Four card allow the next player to do unless they challenge?",
+    "options": [
+      "Reverse direction twice",
+      "Draw two cards",
+      "Draw four cards and lose turn",
+      "Skip to win"
+    ],
+    "answer": "Draw four cards and lose turn"
+  },
+  {
+    "id": "general-3725",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In standard playing cards, what are face cards?",
+    "options": [
+      "King only",
+      "10, Jack, Queen",
+      "Jack, Queen, King",
+      "Ace, King, Queen"
+    ],
+    "answer": "Jack, Queen, King"
+  },
+  {
+    "id": "general-3726",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In poker slang, what does 'on the button' mean?",
+    "options": [
+      "Player with best hand",
+      "Player who must fold",
+      "Player who is dealer for the hand",
+      "Player who won last pot"
+    ],
+    "answer": "Player who is dealer for the hand"
+  },
+  {
+    "id": "general-3727",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'deuce' mean in cards, dice, and tennis?",
+    "options": [
+      "Two",
+      "King",
+      "Three",
+      "Ace"
+    ],
+    "answer": "Two"
+  },
+  {
+    "id": "general-3728",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'bring home the bacon' mean?",
+    "options": [
+      "Win a prize pig",
+      "Be lazy",
+      "Cook dinner",
+      "Earn a living"
+    ],
+    "answer": "Earn a living"
+  },
+  {
+    "id": "general-3729",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does quitting 'cold turkey' mean?",
+    "options": [
+      "Quit slowly",
+      "Take a vacation",
+      "Eat less meat",
+      "Stop abruptly and completely"
+    ],
+    "answer": "Stop abruptly and completely"
+  },
+  {
+    "id": "general-3730",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Why were hatters historically called 'mad as a hatter'?",
+    "options": [
+      "Lead paint exposure",
+      "Wearing tight hats",
+      "Drinking while working",
+      "Mercury poisoning from hat making"
+    ],
+    "answer": "Mercury poisoning from hat making"
+  },
+  {
+    "id": "general-3731",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'throw in the towel' mean and where does it originate?",
+    "options": [
+      "Surrender in chess",
+      "Celebrate, from baseball",
+      "Give up, from boxing corner throwing towel to concede",
+      "Start cooking, from kitchens"
+    ],
+    "answer": "Give up, from boxing corner throwing towel to concede"
+  },
+  {
+    "id": "general-3732",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What does 'bury the hatchet' mean and where does the phrase come from?",
+    "options": [
+      "Hide evidence, from pirates",
+      "Make peace, from Native American custom of burying weapons",
+      "Quit job, from mining",
+      "Plant trees, from farming"
+    ],
+    "answer": "Make peace, from Native American custom of burying weapons"
+  },
+  {
+    "id": "general-3733",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does a 'red herring' mean in argument or storytelling?",
+    "options": [
+      "True statement",
+      "Misleading clue or distraction",
+      "Expensive gift",
+      "Rare fish"
+    ],
+    "answer": "Misleading clue or distraction"
+  },
+  {
+    "id": "general-3734",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'cut from the same cloth' mean?",
+    "options": [
+      "Tailored by same person",
+      "Made of cheap material",
+      "Opposite personalities",
+      "Very similar in nature"
+    ],
+    "answer": "Very similar in nature"
+  },
+  {
+    "id": "general-3735",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What does 'three sheets to the wind' mean?",
+    "options": [
+      "Very tired",
+      "Very drunk",
+      "Very angry",
+      "Very fast sailing"
+    ],
+    "answer": "Very drunk"
+  },
+  {
+    "id": "general-3736",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What does 'batten down the hatches' mean?",
+    "options": [
+      "Go to sleep",
+      "Open all windows",
+      "Prepare for trouble or storm",
+      "Celebrate"
+    ],
+    "answer": "Prepare for trouble or storm"
+  },
+  {
+    "id": "general-3737",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'know the ropes' mean, originally from sailing?",
+    "options": [
+      "Know how to climb",
+      "Know how a job or task works",
+      "Know how to tie knots only",
+      "Know how to swim"
+    ],
+    "answer": "Know how a job or task works"
+  },
+  {
+    "id": "general-3738",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'show your true colors' mean, originating from sailing ships flying flags?",
+    "options": [
+      "Dye your clothes",
+      "Be patriotic",
+      "Paint your ship",
+      "Reveal your real personality"
+    ],
+    "answer": "Reveal your real personality"
+  },
+  {
+    "id": "general-3739",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does giving someone the 'cold shoulder' mean?",
+    "options": [
+      "Offer them a coat",
+      "Deliberately act unfriendly",
+      "Hug them",
+      "Give them food"
+    ],
+    "answer": "Deliberately act unfriendly"
+  },
+  {
+    "id": "general-3740",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "The word 'deadline' originally referred to what?",
+    "options": [
+      "Time newspapers went to print",
+      "Line prisoners could not cross without being shot",
+      "Edge of a graveyard",
+      "Line for factory workers"
+    ],
+    "answer": "Line prisoners could not cross without being shot"
+  },
+  {
+    "id": "general-3741",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'sour grapes' mean, from Aesop's fable of the fox and grapes?",
+    "options": [
+      "Being jealous of wine",
+      "Pretending to despise what you cannot have",
+      "Complaining about fruit",
+      "Feeling sick"
+    ],
+    "answer": "Pretending to despise what you cannot have"
+  },
+  {
+    "id": "general-3742",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'wolf in sheep's clothing' mean?",
+    "options": [
+      "Farmer protecting flock",
+      "Costume party",
+      "Animal hybrid",
+      "Dangerous person pretending to be harmless"
+    ],
+    "answer": "Dangerous person pretending to be harmless"
+  },
+  {
+    "id": "general-3743",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What does 'crossing the Rubicon' mean, referencing Julius Caesar?",
+    "options": [
+      "Winning easily",
+      "Crossing a river safely",
+      "Passing a point of no return",
+      "Making a map"
+    ],
+    "answer": "Passing a point of no return"
+  },
+  {
+    "id": "general-3744",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What does 'the die is cast' mean?",
+    "options": [
+      "Game is over",
+      "Decision is irreversible",
+      "Vote is tied",
+      "Metal is melted"
+    ],
+    "answer": "Decision is irreversible"
+  },
+  {
+    "id": "general-3745",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'by hook or by crook' mean?",
+    "options": [
+      "With fishing tools",
+      "By any means necessary",
+      "With help",
+      "By stealing"
+    ],
+    "answer": "By any means necessary"
+  },
+  {
+    "id": "general-3746",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What does 'at loggerheads' mean?",
+    "options": [
+      "Building something",
+      "In strong disagreement",
+      "Cutting wood",
+      "Very tired"
+    ],
+    "answer": "In strong disagreement"
+  },
+  {
+    "id": "general-3747",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does being 'in the limelight' mean, from theater lighting?",
+    "options": [
+      "Very bright",
+      "On stage literally only",
+      "In danger",
+      "Center of attention"
+    ],
+    "answer": "Center of attention"
+  },
+  {
+    "id": "general-3748",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'gravy train' mean?",
+    "options": [
+      "Food delivery",
+      "Slow train",
+      "Easy source of money or success",
+      "Cooking competition"
+    ],
+    "answer": "Easy source of money or success"
+  },
+  {
+    "id": "general-3749",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'hit the ground running' mean?",
+    "options": [
+      "Fall down",
+      "Run away scared",
+      "Jog for exercise",
+      "Start with energy and immediate action"
+    ],
+    "answer": "Start with energy and immediate action"
+  },
+  {
+    "id": "general-3750",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What does 'keep at bay' mean? The 'bay' refers to hounds barking when prey is cornered.",
+    "options": [
+      "Keep near the ocean",
+      "Keep at a distance",
+      "Keep dogs quiet",
+      "Keep in a harbor"
+    ],
+    "answer": "Keep at a distance"
+  },
+  {
+    "id": "general-3751",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'let sleeping dogs lie' mean?",
+    "options": [
+      "Avoid walking at night",
+      "Don't stir up old trouble",
+      "Let pets rest",
+      "Ignore barking"
+    ],
+    "answer": "Don't stir up old trouble"
+  },
+  {
+    "id": "general-3752",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'make ends meet' mean?",
+    "options": [
+      "Tie knots",
+      "Manage to live within income",
+      "Finish a project",
+      "Sew clothing"
+    ],
+    "answer": "Manage to live within income"
+  },
+  {
+    "id": "general-3753",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'through the grapevine' mean, originating from Civil War telegraph wires?",
+    "options": [
+      "Heard in vineyard",
+      "Heard on radio",
+      "Heard via gossip or rumor",
+      "Heard from official source"
+    ],
+    "answer": "Heard via gossip or rumor"
+  },
+  {
+    "id": "general-3754",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'paint the town red' mean?",
+    "options": [
+      "Vandalize buildings",
+      "Be embarrassed",
+      "Celebrate wildly",
+      "Work as painter"
+    ],
+    "answer": "Celebrate wildly"
+  },
+  {
+    "id": "general-3755",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'ace up your sleeve' mean?",
+    "options": [
+      "Wearing fancy clothes",
+      "Having extra money",
+      "Hidden advantage",
+      "Cheating only"
+    ],
+    "answer": "Hidden advantage"
+  },
+  {
+    "id": "general-3756",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What does 'in spades' mean, from bridge where spades is highest suit?",
+    "options": [
+      "In trouble",
+      "In debt",
+      "In abundance or to a high degree",
+      "With shovels"
+    ],
+    "answer": "In abundance or to a high degree"
+  },
+  {
+    "id": "general-3757",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What does 'off the cuff' mean, from speakers making notes on shirt cuffs?",
+    "options": [
+      "Speaking quietly",
+      "Wearing casual clothes",
+      "Removing cuffs",
+      "Improvised without preparation"
+    ],
+    "answer": "Improvised without preparation"
+  },
+  {
+    "id": "general-3758",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'crocodile tears' mean?",
+    "options": [
+      "Tears from laughing",
+      "Insincere display of sadness",
+      "Real tears from reptiles",
+      "Tears from chopping onions"
+    ],
+    "answer": "Insincere display of sadness"
+  },
+  {
+    "id": "general-3759",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'burning the midnight oil' mean?",
+    "options": [
+      "Wasting oil",
+      "Working late into the night",
+      "Cooking late",
+      "Starting a fire"
+    ],
+    "answer": "Working late into the night"
+  },
+  {
+    "id": "general-3760",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'elbow grease' mean?",
+    "options": [
+      "Joint pain",
+      "Hard physical effort",
+      "Car grease",
+      "Cooking oil"
+    ],
+    "answer": "Hard physical effort"
+  },
+  {
+    "id": "general-3761",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does the phrase 'break the ice' mean?",
+    "options": [
+      "End a friendship",
+      "Win a race",
+      "Ease tension in a social situation",
+      "Shatter frozen water"
+    ],
+    "answer": "Ease tension in a social situation"
+  },
+  {
+    "id": "general-3762",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'burn your bridges' mean?",
+    "options": [
+      "Build new roads",
+      "Destroy chances of returning to previous situation",
+      "Light a fire for warmth",
+      "Cook food"
+    ],
+    "answer": "Destroy chances of returning to previous situation"
+  },
+  {
+    "id": "general-3763",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'cut corners' mean?",
+    "options": [
+      "Trim paper",
+      "Save money in bank",
+      "Take a shortcut literally",
+      "Do something in cheapest or easiest way, often at quality expense"
+    ],
+    "answer": "Do something in cheapest or easiest way, often at quality expense"
+  },
+  {
+    "id": "general-3764",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'jump ship' mean?",
+    "options": [
+      "Abandon a failing enterprise",
+      "Board a boat quickly",
+      "Celebrate",
+      "Learn to swim"
+    ],
+    "answer": "Abandon a failing enterprise"
+  },
+  {
+    "id": "general-3765",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'in hot water' mean?",
+    "options": [
+      "Cooking soup",
+      "Feeling warm",
+      "In trouble",
+      "Taking a bath"
+    ],
+    "answer": "In trouble"
+  },
+  {
+    "id": "general-3766",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'on thin ice' mean?",
+    "options": [
+      "Building an igloo",
+      "In a precarious situation",
+      "Very cold",
+      "Skating well"
+    ],
+    "answer": "In a precarious situation"
+  },
+  {
+    "id": "general-3767",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What does 'throw in the towel' actually involve in boxing history?",
+    "options": [
+      "Fighter waves towel",
+      "Cornerman throws towel into ring to stop fight",
+      "Referee drops towel",
+      "Audience throws towels"
+    ],
+    "answer": "Cornerman throws towel into ring to stop fight"
+  },
+  {
+    "id": "general-3768",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What does 'white elephant' gift originate from reportedly?",
+    "options": [
+      "British queen giving white horses",
+      "American tradition of re-gifting",
+      "Roman emperor giving marble statues",
+      "King of Siam giving burdensome sacred elephant as punishment"
+    ],
+    "answer": "King of Siam giving burdensome sacred elephant as punishment"
+  },
+  {
+    "id": "general-3769",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In poker, what are 'hole cards' generally called when face down?",
+    "options": [
+      "Community cards",
+      "Burn cards",
+      "Muck cards",
+      "Pocket cards"
+    ],
+    "answer": "Pocket cards"
+  },
+  {
+    "id": "general-3770",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In Monopoly, what does it mean to be 'Just Visiting' Jail?",
+    "options": [
+      "You must pay $50",
+      "You are stuck for three turns",
+      "You get free money",
+      "You are on the jail space but not incarcerated"
+    ],
+    "answer": "You are on the jail space but not incarcerated"
+  },
+  {
+    "id": "general-3771",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In Chess, what piece results from pawn promotion most commonly?",
+    "options": [
+      "King",
+      "Queen",
+      "Knight only",
+      "Bishop only"
+    ],
+    "answer": "Queen"
+  },
+  {
+    "id": "general-3772",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In Scrabble, what is a 'hook'?",
+    "options": [
+      "Fishing piece",
+      "Blank tile",
+      "Letter added to existing word to form new word",
+      "Bending board"
+    ],
+    "answer": "Letter added to existing word to form new word"
+  },
+  {
+    "id": "general-3773",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In card games, what does 'following suit' mean?",
+    "options": [
+      "Wearing matching clothes",
+      "Playing a card of same suit as led",
+      "Shuffling in order",
+      "Copying dealer"
+    ],
+    "answer": "Playing a card of same suit as led"
+  },
+  {
+    "id": "general-3774",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In trick-taking games like Spades, what is a 'trick'?",
+    "options": [
+      "Deceptive play",
+      "Shuffling technique",
+      "Winning whole game",
+      "One round where each player plays one card"
+    ],
+    "answer": "One round where each player plays one card"
+  },
+  {
+    "id": "general-3775",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What does the term 'renege' mean in card games?",
+    "options": [
+      "Shuffle incorrectly",
+      "Fail to follow suit when able",
+      "Deal extra card",
+      "Win all tricks"
+    ],
+    "answer": "Fail to follow suit when able"
+  },
+  {
+    "id": "general-3776",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In the game Battleship, how many spaces does the battleship occupy?",
+    "options": [
+      "5 spaces",
+      "2 spaces",
+      "4 spaces",
+      "3 spaces"
+    ],
+    "answer": "4 spaces"
+  },
+  {
+    "id": "general-3777",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In Monopoly, how many spaces are on the board total including Go?",
+    "options": [
+      "32 spaces",
+      "36 spaces",
+      "52 spaces",
+      "40 spaces"
+    ],
+    "answer": "40 spaces"
+  },
+  {
+    "id": "general-3778",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is a 'meeple' shape designed to resemble?",
+    "options": [
+      "A tree",
+      "A person",
+      "A house",
+      "A car"
+    ],
+    "answer": "A person"
+  },
+  {
+    "id": "general-3779",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In Dungeons & Dragons, what shape is a d8?",
+    "options": [
+      "Tetrahedron",
+      "Cube",
+      "Octahedron",
+      "Dodecahedron"
+    ],
+    "answer": "Octahedron"
+  },
+  {
+    "id": "general-3780",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In Dungeons & Dragons, what shape is a d12?",
+    "options": [
+      "Icosahedron",
+      "Dodecahedron",
+      "Cube",
+      "Octahedron"
+    ],
+    "answer": "Dodecahedron"
+  },
+  {
+    "id": "general-3781",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What does 'decimate' originally mean in Roman military practice?",
+    "options": [
+      "Kill half",
+      "Kill one in every ten",
+      "Kill all",
+      "Kill every ten"
+    ],
+    "answer": "Kill one in every ten"
+  },
+  {
+    "id": "general-3782",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does a pedometer measure?",
+    "options": [
+      "Steps taken",
+      "Speed",
+      "Altitude",
+      "Heart rate"
+    ],
+    "answer": "Steps taken"
+  },
+  {
+    "id": "general-3783",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What does a hygrometer measure?",
+    "options": [
+      "Pressure",
+      "Humidity",
+      "Height",
+      "Weight"
+    ],
+    "answer": "Humidity"
+  },
+  {
+    "id": "general-3784",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does an odometer measure?",
+    "options": [
+      "Engine temperature",
+      "Air pressure",
+      "Fuel level",
+      "Distance traveled by vehicle"
+    ],
+    "answer": "Distance traveled by vehicle"
+  },
+  {
+    "id": "general-3785",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In the NATO alphabet, what word is for letter Q?",
+    "options": [
+      "Queen",
+      "Quebec",
+      "Quincy",
+      "Quaker"
+    ],
+    "answer": "Quebec"
+  },
+  {
+    "id": "general-3786",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In the NATO alphabet, what word is for letter Y?",
+    "options": [
+      "Yonder",
+      "Yellow",
+      "Yacht",
+      "Yankee"
+    ],
+    "answer": "Yankee"
+  },
+  {
+    "id": "general-3787",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In the NATO alphabet, what word is for letter W?",
+    "options": [
+      "William",
+      "Windsor",
+      "Whiskey",
+      "Water"
+    ],
+    "answer": "Whiskey"
+  },
+  {
+    "id": "general-3788",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In the NATO alphabet, what word is for letter L?",
+    "options": [
+      "Lobster",
+      "Llama",
+      "Lima",
+      "London"
+    ],
+    "answer": "Lima"
+  },
+  {
+    "id": "general-3789",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What does 'pull out all the stops' mean, from organ playing?",
+    "options": [
+      "Close organ pipes",
+      "Stop working",
+      "Use every means available with full effort",
+      "Remove plugs"
+    ],
+    "answer": "Use every means available with full effort"
+  },
+  {
+    "id": "general-3790",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'pull the wool over someone's eyes' mean?",
+    "options": [
+      "Make them sleep",
+      "Give them a hat",
+      "Keep them warm",
+      "Deceive someone"
+    ],
+    "answer": "Deceive someone"
+  },
+  {
+    "id": "general-3791",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What does 'barking up the wrong tree' imagery come from?",
+    "options": [
+      "Squirrels",
+      "Lumberjacks",
+      "Cats in trees",
+      "Hunting dogs mistaking tree where prey hid"
+    ],
+    "answer": "Hunting dogs mistaking tree where prey hid"
+  },
+  {
+    "id": "general-3792",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What clothing item 'bloomers' is an eponym named after?",
+    "options": [
+      "Amelia Earhart",
+      "Amelia Bloomer, women's rights advocate",
+      "Bloom fabric company",
+      "Bloomfield town"
+    ],
+    "answer": "Amelia Bloomer, women's rights advocate"
+  },
+  {
+    "id": "general-3793",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In printing, what is kerning?",
+    "options": [
+      "Adding bold",
+      "Choosing font size",
+      "Adjusting space between individual letters",
+      "Aligning margins"
+    ],
+    "answer": "Adjusting space between individual letters"
+  },
+  {
+    "id": "general-3794",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'under the table' mean when referring to a payment?",
+    "options": [
+      "Paid with coins",
+      "Paid after work",
+      "Secret and illicit",
+      "Generous and public"
+    ],
+    "answer": "Secret and illicit"
+  },
+  {
+    "id": "general-3795",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'once bitten, twice shy' mean?",
+    "options": [
+      "After a bad experience you become more cautious",
+      "You always repeat mistakes",
+      "You should bite back",
+      "You learn to cook better"
+    ],
+    "answer": "After a bad experience you become more cautious"
+  },
+  {
+    "id": "general-3796",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'the early bird catches the worm' mean?",
+    "options": [
+      "Birds eat in morning only",
+      "Success comes to those who act early",
+      "Worms wake early",
+      "Early sleep is bad"
+    ],
+    "answer": "Success comes to those who act early"
+  },
+  {
+    "id": "general-3797",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'don't count your chickens before they hatch' mean?",
+    "options": [
+      "Don't assume success before it happens",
+      "Hatching is unpredictable only for chickens",
+      "Don't collect eggs",
+      "Count animals carefully"
+    ],
+    "answer": "Don't assume success before it happens"
+  },
+  {
+    "id": "general-3798",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'you can't have your cake and eat it too' mean?",
+    "options": [
+      "Cake is unhealthy",
+      "You must share dessert",
+      "You can't have two incompatible things at once",
+      "You should save food"
+    ],
+    "answer": "You can't have two incompatible things at once"
+  },
+  {
+    "id": "general-3799",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'a penny for your thoughts' mean?",
+    "options": [
+      "Invitation to share what you're thinking",
+      "Buying ideas",
+      "Asking for money",
+      "Comment on cheap thoughts"
+    ],
+    "answer": "Invitation to share what you're thinking"
+  },
+  {
+    "id": "general-3800",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What does 'let the chips fall where they may' mean?",
+    "options": [
+      "Play poker poorly",
+      "Drop food",
+      "Accept consequences however they turn out",
+      "Let children play"
+    ],
+    "answer": "Accept consequences however they turn out"
+  },
+  {
+    "id": "general-3801",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What does 'off the hook' originally mean from telephones?",
+    "options": [
+      "Fish escaped",
+      "Freed from obligation, like phone off hook can't receive calls",
+      "Clothes off hanger",
+      "Door unlocked"
+    ],
+    "answer": "Freed from obligation, like phone off hook can't receive calls"
+  },
+  {
+    "id": "general-3802",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'in the bag' mean?",
+    "options": [
+      "Groceries packed",
+      "Hiding something",
+      "Very drunk",
+      "Assured success"
+    ],
+    "answer": "Assured success"
+  },
+  {
+    "id": "general-3803",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'throw someone under the bus' mean?",
+    "options": [
+      "Drive badly",
+      "Push them literally",
+      "Betray them to save yourself",
+      "Help them board"
+    ],
+    "answer": "Betray them to save yourself"
+  },
+  {
+    "id": "general-3804",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'up in arms' mean?",
+    "options": [
+      "Angry and protesting",
+      "Exercising",
+      "Surrendering",
+      "Carrying weapons literally only"
+    ],
+    "answer": "Angry and protesting"
+  },
+  {
+    "id": "general-3805",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What does 'down to the wire' mean, from horse racing finish wire?",
+    "options": [
+      "Fencing issue",
+      "Last possible moment",
+      "Very thin",
+      "Electrical problem"
+    ],
+    "answer": "Last possible moment"
+  },
+  {
+    "id": "general-3806",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In Monopoly, what are the two brown properties closest to Go?",
+    "options": [
+      "Mediterranean Avenue and Baltic Avenue",
+      "St. Charles and States",
+      "Boardwalk and Park Place",
+      "Oriental and Vermont"
+    ],
+    "answer": "Mediterranean Avenue and Baltic Avenue"
+  },
+  {
+    "id": "general-3807",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In Monopoly, what color is the set containing St. James Place, Tennessee Avenue, and New York Avenue?",
+    "options": [
+      "Orange",
+      "Pink",
+      "Yellow",
+      "Red"
+    ],
+    "answer": "Orange"
+  },
+  {
+    "id": "general-3808",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In Clue, who is the victim whose murder players must solve?",
+    "options": [
+      "Professor Plum",
+      "Miss Scarlett",
+      "Colonel Mustard",
+      "Mr. Boddy or Dr. Black"
+    ],
+    "answer": "Mr. Boddy or Dr. Black"
+  },
+  {
+    "id": "general-3809",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In Scrabble, what does a double letter score square do?",
+    "options": [
+      "Doubles the value of a single letter placed on it",
+      "Doubles entire word",
+      "Doubles player's total",
+      "Gives extra turn"
+    ],
+    "answer": "Doubles the value of a single letter placed on it"
+  },
+  {
+    "id": "general-3810",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In poker, what does 'muck' mean?",
+    "options": [
+      "Shuffle deck",
+      "Fold or discard without showing",
+      "Raise aggressively",
+      "Cheat"
+    ],
+    "answer": "Fold or discard without showing"
+  },
+  {
+    "id": "general-3811",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "In chess, what does 'zugzwang' mean?",
+    "options": [
+      "Draw by repetition",
+      "Player must move but any move worsens position",
+      "Pawn promotion forced",
+      "King is in check"
+    ],
+    "answer": "Player must move but any move worsens position"
+  },
+  {
+    "id": "general-3812",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "In checkers, what is a 'flying king' in international draughts?",
+    "options": [
+      "King that can move any distance diagonally",
+      "King that jumps off board",
+      "King that moves like chess knight",
+      "Piece that cannot be captured"
+    ],
+    "answer": "King that can move any distance diagonally"
+  },
+  {
+    "id": "general-3813",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What does 'leotard' as an eponym come from?",
+    "options": [
+      "Jules Leotard, French acrobat",
+      "Leo the Lion",
+      "Leotard fabric company",
+      "Leonardo da Vinci"
+    ],
+    "answer": "Jules Leotard, French acrobat"
+  },
+  {
+    "id": "general-3814",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What does 'cardigan' as an eponym come from?",
+    "options": [
+      "Card game",
+      "Cardigan Bay",
+      "Earl of Cardigan, British officer",
+      "Wool town Cardigan"
+    ],
+    "answer": "Earl of Cardigan, British officer"
+  },
+  {
+    "id": "general-3815",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In the game Spades, what does 'breaking spades' mean?",
+    "options": [
+      "First spade is played because player couldn't follow suit",
+      "Shovel breaks",
+      "Spade suit removed",
+      "Deck is reshuffled"
+    ],
+    "answer": "First spade is played because player couldn't follow suit"
+  },
+  {
+    "id": "general-3816",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does a 'barometer' measure?",
+    "options": [
+      "Temperature",
+      "Wind speed",
+      "Humidity",
+      "Atmospheric pressure"
+    ],
+    "answer": "Atmospheric pressure"
+  },
+  {
+    "id": "general-3817",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What does a 'tachometer' measure?",
+    "options": [
+      "Tire pressure",
+      "Vehicle speed",
+      "Engine RPM",
+      "Fuel consumption"
+    ],
+    "answer": "Engine RPM"
+  },
+  {
+    "id": "general-3818",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In typography, what is a 'serif'?",
+    "options": [
+      "Italic slant",
+      "Small stroke at end of letterform",
+      "Space between words",
+      "Capital letter"
+    ],
+    "answer": "Small stroke at end of letterform"
+  },
+  {
+    "id": "general-3819",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What does 'humble pie' idiom mean, from medieval 'umble' deer entrails pie?",
+    "options": [
+      "Eat cheap food",
+      "Bake poorly",
+      "Forced to apologize humbly",
+      "Share dessert"
+    ],
+    "answer": "Forced to apologize humbly"
+  },
+  {
+    "id": "general-3820",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What does 'caught red-handed' originally refer to?",
+    "options": [
+      "Caught with blood on hands after crime",
+      "Caught stealing paint",
+      "Caught painting",
+      "Caught with dyed hands from printing"
+    ],
+    "answer": "Caught with blood on hands after crime"
+  },
+  {
+    "id": "general-3821",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'rule of thumb' generally mean today, regardless of disputed origin?",
+    "options": [
+      "Legal rule about hitting",
+      "Measurement with thumb",
+      "Carpentry rule",
+      "General practical principle not strictly precise"
+    ],
+    "answer": "General practical principle not strictly precise"
   }
 ]

@@ -11867,5 +11867,2241 @@
     ],
     "question": "In Back to the Future (1985), what is the name of the mall where Marty first tests the time machine?",
     "id": "film-tv-694"
+  },
+  {
+    "id": "film-tv-695",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "What high school do the characters attend in the cult classic series 'Freaks and Geeks'?",
+    "options": [
+      "Riverdale High",
+      "Bayside High",
+      "Sunnydale High",
+      "William McKinley High School"
+    ],
+    "answer": "William McKinley High School"
+  },
+  {
+    "id": "film-tv-696",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "What is the name of the restaurant located upstairs from the bar in the sitcom 'Cheers'?",
+    "options": [
+      "Monk's Cafe",
+      "Melville's",
+      "MacLaren's",
+      "Monk's Diner"
+    ],
+    "answer": "Melville's"
+  },
+  {
+    "id": "film-tv-697",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In the original UK version of 'The Office,' what is the name of the paper company where the characters work?",
+    "options": [
+      "Dunder Mifflin",
+      "Slough Merchants",
+      "Paper Chase",
+      "Wernham Hogg"
+    ],
+    "answer": "Wernham Hogg"
+  },
+  {
+    "id": "film-tv-698",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "What is the name of the fictional news network owned by the Roy family in 'Succession'?",
+    "options": [
+      "ATN",
+      "Waystar News",
+      "GNN",
+      "UBN"
+    ],
+    "answer": "ATN"
+  },
+  {
+    "id": "film-tv-699",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "What is the name of the rival ad agency that eventually merges with the main characters' firm in 'Mad Men'?",
+    "options": [
+      "McCann Erickson",
+      "Sterling Cooper Draper Pryce",
+      "Cutler, Gleason, and Chaough",
+      "Young & Rubicam"
+    ],
+    "answer": "Cutler, Gleason, and Chaough"
+  },
+  {
+    "id": "film-tv-700",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'Lost,' what is the name of the fictional airline whose Flight 815 crashes on the island?",
+    "options": [
+      "Ajira Airways",
+      "Trans-Oceanic",
+      "Oceanic Airlines",
+      "Pan Am"
+    ],
+    "answer": "Oceanic Airlines"
+  },
+  {
+    "id": "film-tv-701",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'Seinfeld,' what is the real-life name of the soup shop that inspired the 'Soup Nazi' episode?",
+    "options": [
+      "Al's Soup Kitchen",
+      "The Soup Station",
+      "Soup Kitchen International",
+      "Soup Nutsy"
+    ],
+    "answer": "Soup Kitchen International"
+  },
+  {
+    "id": "film-tv-702",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'Parks and Recreation,' what is the name of the wealthy neighboring town that serves as Pawnee's bitter rival?",
+    "options": [
+      "Pawnee Highlands",
+      "Ogdenville",
+      "Eagleton",
+      "Sweetums"
+    ],
+    "answer": "Eagleton"
+  },
+  {
+    "id": "film-tv-703",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'The Wire,' what is the name of the housing project where the Barksdale Organization initially operates?",
+    "options": [
+      "Somerset Courts",
+      "Murphy Homes",
+      "Perkins Homes",
+      "Franklin Terrace"
+    ],
+    "answer": "Franklin Terrace"
+  },
+  {
+    "id": "film-tv-704",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "What is the moniker of the primary antagonist who oversees the cover-ups in 'The X-Files'?",
+    "options": [
+      "The Ashtray Man",
+      "Cigarette Smoking Man",
+      "The Syndicate Man",
+      "The Smoking Gun"
+    ],
+    "answer": "Cigarette Smoking Man"
+  },
+  {
+    "id": "film-tv-705",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'Twin Peaks,' what is the name of the diner where characters frequently gather for coffee and cherry pie?",
+    "options": [
+      "The Great Northern",
+      "The Bang Bang Bar",
+      "Double R Diner",
+      "The Roadhouse"
+    ],
+    "answer": "Double R Diner"
+  },
+  {
+    "id": "film-tv-706",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "What is the name of the mysterious corporation where employees undergo the 'severance' procedure in the Apple TV+ series?",
+    "options": [
+      "Lumon Industries",
+      "Kier Industries",
+      "Optics and Design",
+      "Macrodata Refinement"
+    ],
+    "answer": "Lumon Industries"
+  },
+  {
+    "id": "film-tv-707",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'Game of Thrones,' what is the name of the mercenary company that Bronn eventually commands?",
+    "options": [
+      "The Brave Companions",
+      "The Unsullied",
+      "The Second Sons",
+      "The Golden Company"
+    ],
+    "answer": "The Second Sons"
+  },
+  {
+    "id": "film-tv-708",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "What is the name of the royal family's primary Scottish residence featured heavily in 'The Crown'?",
+    "options": [
+      "Balmoral Castle",
+      "Sandringham House",
+      "Holyrood Palace",
+      "Windsor Castle"
+    ],
+    "answer": "Balmoral Castle"
+  },
+  {
+    "id": "film-tv-709",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In the first season of 'The Mandalorian,' on what arid planet does the title character first encounter the Child?",
+    "options": [
+      "Sorgan",
+      "Tatooine",
+      "Nevarro",
+      "Arvala-7"
+    ],
+    "answer": "Arvala-7"
+  },
+  {
+    "id": "film-tv-710",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'Stranger Things,' what is the name of the video store where Steve Harrington and Dustin Henderson work?",
+    "options": [
+      "Family Video",
+      "Scoops Ahoy",
+      "Hawkins Post",
+      "Starcourt Mall"
+    ],
+    "answer": "Family Video"
+  },
+  {
+    "id": "film-tv-711",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "What is the name of the premier superhero team in the Amazon series 'The Boys'?",
+    "options": [
+      "The Defenders",
+      "The Seven",
+      "The Avengers",
+      "The Justice League"
+    ],
+    "answer": "The Seven"
+  },
+  {
+    "id": "film-tv-712",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'Peaky Blinders,' what is the name of the legitimate business the Shelby family forms to expand their operations?",
+    "options": [
+      "Arrowmaker",
+      "Small Heath",
+      "Shelby Company Limited",
+      "The Garrison"
+    ],
+    "answer": "Shelby Company Limited"
+  },
+  {
+    "id": "film-tv-713",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'Yellowstone,' what mundane name do the characters use to refer to the cliffside location where they dispose of bodies?",
+    "options": [
+      "The Edge",
+      "The Bunker",
+      "The Train Station",
+      "The River"
+    ],
+    "answer": "The Train Station"
+  },
+  {
+    "id": "film-tv-714",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'Ted Lasso,' what is the name of the local pub where the AFC Richmond team and coaches frequently gather?",
+    "options": [
+      "The Crown & Anchor",
+      "The Red Lion",
+      "The Prince's",
+      "The King's Head"
+    ],
+    "answer": "The Crown & Anchor"
+  },
+  {
+    "id": "film-tv-715",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "What is the name of the motel owned by the Rose family in the series 'Schitt's Creek'?",
+    "options": [
+      "The Rosebud Inn",
+      "The Creek Motel",
+      "Rosebud Motel",
+      "The Elmdale Inn"
+    ],
+    "answer": "Rosebud Motel"
+  },
+  {
+    "id": "film-tv-716",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'Brooklyn Nine-Nine,' what is the name of the bar where the detectives frequently hang out after work?",
+    "options": [
+      "The Tap",
+      "O'Sullivan's",
+      "Shaw's Bar",
+      "McGinley's"
+    ],
+    "answer": "Shaw's Bar"
+  },
+  {
+    "id": "film-tv-717",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "What is the name of the real estate development company at the center of the financial fraud in 'Arrested Development'?",
+    "options": [
+      "Lucille 2",
+      "Balboa Towers",
+      "The Bluth Company",
+      "The Bluth Foundation"
+    ],
+    "answer": "The Bluth Company"
+  },
+  {
+    "id": "film-tv-718",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'It's Always Sunny in Philadelphia,' what is the name of the gang's dog that tragically passes away?",
+    "options": [
+      "Rex",
+      "Poppins",
+      "Mac's Dog",
+      "Buster"
+    ],
+    "answer": "Poppins"
+  },
+  {
+    "id": "film-tv-719",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'The Office' (US), what is the name of the harsh manager who preceded Michael Scott?",
+    "options": [
+      "Todd Packer",
+      "Josh Porter",
+      "Ed Truck",
+      "Charles Miner"
+    ],
+    "answer": "Ed Truck"
+  },
+  {
+    "id": "film-tv-720",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'The Office' (US), what is the name of the small family-owned business that Dunder Mifflin acquires?",
+    "options": [
+      "Prince Family Paper",
+      "Michael Scott Paper Company",
+      "Vance Refrigeration",
+      "Staples"
+    ],
+    "answer": "Prince Family Paper"
+  },
+  {
+    "id": "film-tv-721",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'Dexter,' what is the name of the boat that Dexter Morgan uses for his fishing trips and illicit activities?",
+    "options": [
+      "Slice of Life",
+      "The Moser Slide",
+      "The Bay Harbor Butcher",
+      "The Dark Defender"
+    ],
+    "answer": "Slice of Life"
+  },
+  {
+    "id": "film-tv-722",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In the first season of 'True Detective,' what law enforcement agency do Rust Cohle and Marty Hart work for?",
+    "options": [
+      "FBI",
+      "Louisiana State Police",
+      "Texas Rangers",
+      "New Orleans PD"
+    ],
+    "answer": "Louisiana State Police"
+  },
+  {
+    "id": "film-tv-723",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In the second season of 'Fargo,' what criminal syndicate expands into the Midwest, causing a war with the Gerhardt family?",
+    "options": [
+      "Chicago Outfit",
+      "Irish Mob",
+      "Kansas City Mafia",
+      "New York Mafia"
+    ],
+    "answer": "Kansas City Mafia"
+  },
+  {
+    "id": "film-tv-724",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'Better Call Saul,' what is the name of the retirement home where Jimmy McGill's brother Chuck resides?",
+    "options": [
+      "Sun City",
+      "The Pines",
+      "Casa Tranquila",
+      "Sandpiper Crossing"
+    ],
+    "answer": "Sandpiper Crossing"
+  },
+  {
+    "id": "film-tv-725",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'House M.D.', what is the name of the teaching hospital where the diagnostic team works?",
+    "options": [
+      "Sacred Heart",
+      "Princeton-Plainsboro Teaching Hospital",
+      "County General",
+      "Seattle Grace"
+    ],
+    "answer": "Princeton-Plainsboro Teaching Hospital"
+  },
+  {
+    "id": "film-tv-726",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "What is the name of the hospital where the majority of 'Scrubs' takes place?",
+    "options": [
+      "Sacred Heart Hospital",
+      "Seattle Grace",
+      "St. Jude's",
+      "Princeton-Plainsboro"
+    ],
+    "answer": "Sacred Heart Hospital"
+  },
+  {
+    "id": "film-tv-727",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In the classic medical drama 'ER', what is the name of the Chicago hospital where the staff works?",
+    "options": [
+      "Cook County",
+      "County General Hospital",
+      "Seattle Grace",
+      "Sacred Heart"
+    ],
+    "answer": "County General Hospital"
+  },
+  {
+    "id": "film-tv-728",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "What is the name of the hospital where the surgical interns begin their residency in the early seasons of 'Grey's Anatomy'?",
+    "options": [
+      "County General",
+      "Princeton-Plainsboro",
+      "Sacred Heart",
+      "Seattle Grace Hospital"
+    ],
+    "answer": "Seattle Grace Hospital"
+  },
+  {
+    "id": "film-tv-729",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In the pilot episode of 'The Walking Dead,' what is the name of the CDC doctor who explains the nature of the virus to Rick?",
+    "options": [
+      "Ethan Jenner",
+      "Edwin Jenner",
+      "Eugene Porter",
+      "Elliot Edison"
+    ],
+    "answer": "Edwin Jenner"
+  },
+  {
+    "id": "film-tv-730",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'The Witcher,' what is the name of the witcher training keep where Geralt of Rivia was mutated?",
+    "options": [
+      "Aretuza",
+      "Kaer Morhen",
+      "Vengerberg",
+      "Cintra"
+    ],
+    "answer": "Kaer Morhen"
+  },
+  {
+    "id": "film-tv-731",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'The Shining,' what type of outdoor attraction does Danny Torrance ride his tricycle through, which later traps Jack?",
+    "options": [
+      "The Hedge Maze",
+      "The Ice Maze",
+      "The Topiary Maze",
+      "The Rose Garden"
+    ],
+    "answer": "The Hedge Maze"
+  },
+  {
+    "id": "film-tv-732",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'Jurassic Park,' what dinosaur spits black venom and expands a colorful neck frill to attack Dennis Nedry?",
+    "options": [
+      "Gallimimus",
+      "Triceratops",
+      "Velociraptor",
+      "Dilophosaurus"
+    ],
+    "answer": "Dilophosaurus"
+  },
+  {
+    "id": "film-tv-733",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'The Matrix Reloaded,' what is the name of the Merovingian's wife, who helps Neo in exchange for a kiss?",
+    "options": [
+      "Niobe",
+      "Trinity",
+      "The Oracle",
+      "Persephone"
+    ],
+    "answer": "Persephone"
+  },
+  {
+    "id": "film-tv-734",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'Fight Club,' what is the name of the business Tyler Durden starts using rendered human fat?",
+    "options": [
+      "Octagon Soap",
+      "Tyler's Lye",
+      "Paper Street Soap Company",
+      "Durden Soap Co."
+    ],
+    "answer": "Paper Street Soap Company"
+  },
+  {
+    "id": "film-tv-735",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'Inception,' what is the name of the 'architecture' student recruited to design the dream mazes?",
+    "options": [
+      "Yusuf",
+      "Saito",
+      "Eames",
+      "Ariadne"
+    ],
+    "answer": "Ariadne"
+  },
+  {
+    "id": "film-tv-736",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'Interstellar,' what is the designation of the sarcastic, rectangular robot that accompanies Cooper?",
+    "options": [
+      "TARS-2",
+      "TARS",
+      "KIPP",
+      "CASE"
+    ],
+    "answer": "TARS"
+  },
+  {
+    "id": "film-tv-737",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'The Dark Knight,' what is the name of the mob boss who puts a hit on the Joker but is later killed by him?",
+    "options": [
+      "The Chechen",
+      "Sal Maroni",
+      "Carmine Falcone",
+      "Gambol"
+    ],
+    "answer": "Sal Maroni"
+  },
+  {
+    "id": "film-tv-738",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'Star Wars: A New Hope,' what is the canonical name of the cantina in Mos Eisley where Luke meets Han Solo?",
+    "options": [
+      "Chalmun's Spaceport Cantina",
+      "Dex's Diner",
+      "Mos Eisley Cantina",
+      "Outlander Club"
+    ],
+    "answer": "Chalmun's Spaceport Cantina"
+  },
+  {
+    "id": "film-tv-739",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'The Lord of the Rings,' what is the name of the Elven outpost where Frodo is taken to be healed by Elrond?",
+    "options": [
+      "Lothlorien",
+      "Gondolin",
+      "Mirkwood",
+      "Rivendell"
+    ],
+    "answer": "Rivendell"
+  },
+  {
+    "id": "film-tv-740",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In the 'Harry Potter' films, what is the name of the scarlet steam engine that transports students to school?",
+    "options": [
+      "The Knight Bus",
+      "The Flying Ford Anglia",
+      "Hogwarts Express",
+      "The Thestral Carriage"
+    ],
+    "answer": "Hogwarts Express"
+  },
+  {
+    "id": "film-tv-741",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'The Goonies,' what is the name of the legendary pirate ship that the kids discover in the underground cavern?",
+    "options": [
+      "The Treasure Ship",
+      "The Inferno",
+      "The Fratelli",
+      "The Walrus"
+    ],
+    "answer": "The Inferno"
+  },
+  {
+    "id": "film-tv-742",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'E.T. the Extra-Terrestrial,' what is the name of Elliott's older brother who helps him hide the alien?",
+    "options": [
+      "Michael",
+      "Gertie",
+      "Tyler",
+      "Greg"
+    ],
+    "answer": "Michael"
+  },
+  {
+    "id": "film-tv-743",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'Raiders of the Lost Ark,' what biblical artifact is the primary object of Indiana Jones's quest?",
+    "options": [
+      "The Ark of the Covenant",
+      "The Sankara Stones",
+      "The Holy Grail",
+      "The Crystal Skull"
+    ],
+    "answer": "The Ark of the Covenant"
+  },
+  {
+    "id": "film-tv-744",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'Ghostbusters,' what is the nickname of the modified 1959 Cadillac ambulance used by the team?",
+    "options": [
+      "Ecto-3",
+      "The Slimer Mobile",
+      "Ecto-1",
+      "Ecto-2"
+    ],
+    "answer": "Ecto-1"
+  },
+  {
+    "id": "film-tv-745",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'The Terminator,' what is the model designation of the cyborg assassin sent back to 1984?",
+    "options": [
+      "T-800",
+      "T-3000",
+      "T-X",
+      "T-1000"
+    ],
+    "answer": "T-800"
+  },
+  {
+    "id": "film-tv-746",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'Aliens,' what is the name of the terraforming colony where Ripley and the marines investigate the xenomorph outbreak?",
+    "options": [
+      "Acheron",
+      "Fiorina",
+      "Hadley's Hope",
+      "LV-426"
+    ],
+    "answer": "Hadley's Hope"
+  },
+  {
+    "id": "film-tv-747",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'Blade Runner,' what origami figure does Gaff leave at Deckard's apartment, implying he knows about Rachael?",
+    "options": [
+      "Matchstick",
+      "Chicken",
+      "Dove",
+      "Unicorn"
+    ],
+    "answer": "Unicorn"
+  },
+  {
+    "id": "film-tv-748",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In John Carpenter's 'The Thing,' what is the numerical designation of the Norwegian research base?",
+    "options": [
+      "U.S. Outpost 31",
+      "Snow Drift",
+      "Outpost 31",
+      "Thule Station"
+    ],
+    "answer": "Outpost 31"
+  },
+  {
+    "id": "film-tv-749",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'Predator,' what is the name of Dutch's CIA contact who betrays the team in the jungle?",
+    "options": [
+      "Billy",
+      "Dillon",
+      "Mac",
+      "Blain"
+    ],
+    "answer": "Dillon"
+  },
+  {
+    "id": "film-tv-750",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'Rocky,' what is the name of the flamboyant heavyweight champion who gives Rocky a shot at the title?",
+    "options": [
+      "Ivan Drago",
+      "Clubber Lang",
+      "Apollo Creed",
+      "Tommy Gunn"
+    ],
+    "answer": "Apollo Creed"
+  },
+  {
+    "id": "film-tv-751",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'The Karate Kid,' what is the name of the rival dojo that teaches a ruthless, no-mercy style of karate?",
+    "options": [
+      "Shotokan",
+      "Cobra Kai",
+      "Kyokushin",
+      "Goju-Ryu"
+    ],
+    "answer": "Cobra Kai"
+  },
+  {
+    "id": "film-tv-752",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'The Breakfast Club,' what is the surname of the strict teacher who supervises the Saturday detention?",
+    "options": [
+      "Strickland",
+      "Vernon",
+      "Hand",
+      "Rooney"
+    ],
+    "answer": "Vernon"
+  },
+  {
+    "id": "film-tv-753",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'Ferris Bueller's Day Off,' what classic car does Cameron's father obsessively keep in pristine condition?",
+    "options": [
+      "1963 Corvette",
+      "1959 Porsche 356",
+      "1965 Mustang",
+      "1961 Ferrari 250 GT California"
+    ],
+    "answer": "1961 Ferrari 250 GT California"
+  },
+  {
+    "id": "film-tv-754",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'Home Alone,' what is the first name of the bumbling burglar played by Joe Pesci?",
+    "options": [
+      "Harry",
+      "Frank",
+      "Buzz",
+      "Marv"
+    ],
+    "answer": "Harry"
+  },
+  {
+    "id": "film-tv-755",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'The Sixth Sense,' what is the first name of Malcolm Crowe's wife, who he realizes is distant from him?",
+    "options": [
+      "Anna",
+      "Tommy",
+      "Kyra",
+      "Lynn"
+    ],
+    "answer": "Anna"
+  },
+  {
+    "id": "film-tv-756",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'Se7en,' which of the seven deadly sins is represented by the victim who was force-fed until his stomach burst?",
+    "options": [
+      "Sloth",
+      "Envy",
+      "Pride",
+      "Gluttony"
+    ],
+    "answer": "Gluttony"
+  },
+  {
+    "id": "film-tv-757",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'The Usual Suspects,' what is the alias of the mythical criminal mastermind who orchestrates the heist?",
+    "options": [
+      "Keyser Soze",
+      "Verbal Kint",
+      "Dean Keaton",
+      "Kobayashi"
+    ],
+    "answer": "Keyser Soze"
+  },
+  {
+    "id": "film-tv-758",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'Donnie Darko,' what is the name of the terrifying rabbit figure that appears to Donnie?",
+    "options": [
+      "Frank",
+      "Samantha",
+      "Roberta",
+      "Donnie"
+    ],
+    "answer": "Frank"
+  },
+  {
+    "id": "film-tv-759",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'Requiem for a Dream,' what color is the dress that Sara Goldfarb desperately wants to fit into for a TV appearance?",
+    "options": [
+      "Blue",
+      "Green",
+      "Yellow",
+      "Red"
+    ],
+    "answer": "Red"
+  },
+  {
+    "id": "film-tv-760",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'No Country for Old Men,' what is the full name of the aging sheriff investigating the desert shootout?",
+    "options": [
+      "Llewelyn Moss",
+      "Ed Tom Bell",
+      "Anton Chigurh",
+      "Carson Wells"
+    ],
+    "answer": "Ed Tom Bell"
+  },
+  {
+    "id": "film-tv-761",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'The Social Network,' what was the original name of the website Mark Zuckerberg launched before it became Facebook?",
+    "options": [
+      "ZuckNet",
+      "Harvard Connection",
+      "Facemash",
+      "Thefacebook"
+    ],
+    "answer": "Thefacebook"
+  },
+  {
+    "id": "film-tv-762",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'Parasite,' what fake identity does Ki-jung adopt to become the 'art therapist' for the Parks' son?",
+    "options": [
+      "Jessica",
+      "Sook",
+      "Yonsei",
+      "Min"
+    ],
+    "answer": "Jessica"
+  },
+  {
+    "id": "film-tv-763",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'La La Land,' what is the name of the jazz club that Sebastian finally opens at the end of the film?",
+    "options": [
+      "Seb's",
+      "Catalina Bar & Grill",
+      "The Lighthouse",
+      "The Viper Room"
+    ],
+    "answer": "Seb's"
+  },
+  {
+    "id": "film-tv-764",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'Birdman,' what Raymond Carver play is Riggan Thomson attempting to adapt and direct on Broadway?",
+    "options": [
+      "Waiting for Godot",
+      "Death of a Salesman",
+      "A Streetcar Named Desire",
+      "What We Talk About When We Talk About Love"
+    ],
+    "answer": "What We Talk About When We Talk About Love"
+  },
+  {
+    "id": "film-tv-765",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'The Revenant,' what large animal attacks Hugh Glass in the film's most visceral and famous sequence?",
+    "options": [
+      "Eagle",
+      "Bison",
+      "Wolf",
+      "Bear"
+    ],
+    "answer": "Bear"
+  },
+  {
+    "id": "film-tv-766",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'Mad Max: Fury Road,' what is the name of the massive, armored truck driven by Imperator Furiosa?",
+    "options": [
+      "The Gigahorse",
+      "The Peacemaker",
+      "The War Rig",
+      "The Doof Wagon"
+    ],
+    "answer": "The War Rig"
+  },
+  {
+    "id": "film-tv-767",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'John Wick,' what breed of puppy does John's late wife leave him as a final gift?",
+    "options": [
+      "Beagle",
+      "Pitbull",
+      "Greyhound",
+      "Rottweiler"
+    ],
+    "answer": "Beagle"
+  },
+  {
+    "id": "film-tv-768",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'Knives Out,' what is the first name of the eccentric, southern private detective played by Daniel Craig?",
+    "options": [
+      "Benoit",
+      "Marta",
+      "Ransom",
+      "Harlan"
+    ],
+    "answer": "Benoit"
+  },
+  {
+    "id": "film-tv-769",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'The Batman' (2022), which villain leaves a trail of riddles and bombs for Batman and Gordon to solve?",
+    "options": [
+      "The Penguin",
+      "The Joker",
+      "Carmine Falcone",
+      "The Riddler"
+    ],
+    "answer": "The Riddler"
+  },
+  {
+    "id": "film-tv-770",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'Top Gun,' what is the common acronym for the Navy Strike Fighter Tactics Instructor program?",
+    "options": [
+      "Navy SEALs",
+      "Miramar",
+      "Fallon",
+      "TOPGUN"
+    ],
+    "answer": "TOPGUN"
+  },
+  {
+    "id": "film-tv-771",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'Avatar,' what is the name of the lush, habitable moon where the Na'vi people live?",
+    "options": [
+      "Pandora",
+      "Helios",
+      "Polyphemus",
+      "Eywa"
+    ],
+    "answer": "Pandora"
+  },
+  {
+    "id": "film-tv-772",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'Forrest Gump,' what is the name of the seafood business Forrest starts with Lieutenant Dan?",
+    "options": [
+      "Alabama Shrimp",
+      "Lt. Dan's Catch",
+      "Jenny's Shrimp",
+      "Bubba Gump Shrimp Co."
+    ],
+    "answer": "Bubba Gump Shrimp Co."
+  },
+  {
+    "id": "film-tv-773",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'The Matrix,' what is the surname of the primary Agent who relentlessly pursues Neo?",
+    "options": [
+      "Brown",
+      "Jackson",
+      "Jones",
+      "Smith"
+    ],
+    "answer": "Smith"
+  },
+  {
+    "id": "film-tv-774",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'Star Trek: The Next Generation,' what is the name of the Klingon officer who serves as security chief?",
+    "options": [
+      "Martok",
+      "Worf",
+      "Gowron",
+      "Kor"
+    ],
+    "answer": "Worf"
+  },
+  {
+    "id": "film-tv-775",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In the BBC series 'Sherlock,' what is the famous street address of Sherlock Holmes's apartment?",
+    "options": [
+      "222 Baker Street",
+      "221C Baker Street",
+      "221A Baker Street",
+      "221B Baker Street"
+    ],
+    "answer": "221B Baker Street"
+  },
+  {
+    "id": "film-tv-776",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In the James Bond franchise, what specific model of Aston Martin is most famously associated with 007?",
+    "options": [
+      "Aston Martin DB5",
+      "Lotus Esprit",
+      "Toyota 2000GT",
+      "BMW Z8"
+    ],
+    "answer": "Aston Martin DB5"
+  },
+  {
+    "id": "film-tv-777",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'Mission: Impossible,' what does the acronym IMF stand for?",
+    "options": [
+      "Impossible Missions Force",
+      "Internal Missions Force",
+      "International Mission Force",
+      "Intelligence Mission Force"
+    ],
+    "answer": "Impossible Missions Force"
+  },
+  {
+    "id": "film-tv-778",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In the 'Jason Bourne' films, what is the name of the covert CIA program that created the original Treadstone assassins?",
+    "options": [
+      "Operation Treadstone",
+      "Operation Outcome",
+      "Operation Blackbriar",
+      "Operation Iron Hand"
+    ],
+    "answer": "Operation Treadstone"
+  },
+  {
+    "id": "film-tv-779",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'Divergent,' which faction values bravery, courage, and physical strength above all else?",
+    "options": [
+      "Dauntless",
+      "Erudite",
+      "Abnegation",
+      "Amity"
+    ],
+    "answer": "Dauntless"
+  },
+  {
+    "id": "film-tv-780",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'The Maze Runner,' what is the name of the safe haven where the Gladers live in the center of the maze?",
+    "options": [
+      "The Glade",
+      "The Griever Hole",
+      "The Maze",
+      "The Scorch"
+    ],
+    "answer": "The Glade"
+  },
+  {
+    "id": "film-tv-781",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In the 'Percy Jackson' films, what is the name of the summer camp for demigods?",
+    "options": [
+      "Camp Elysium",
+      "Camp Jupiter",
+      "Camp Mix",
+      "Camp Half-Blood"
+    ],
+    "answer": "Camp Half-Blood"
+  },
+  {
+    "id": "film-tv-782",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'The Chronicles of Narnia: The Lion, the Witch and the Wardrobe,' what is the name of the great lion who creates Narnia?",
+    "options": [
+      "Tumnus",
+      "Jadis",
+      "Reepicheep",
+      "Aslan"
+    ],
+    "answer": "Aslan"
+  },
+  {
+    "id": "film-tv-783",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'The Lord of the Rings,' what is the inscription on the One Ring written in?",
+    "options": [
+      "Common Tongue",
+      "Elvish",
+      "Black Speech",
+      "Dwarvish"
+    ],
+    "answer": "Black Speech"
+  },
+  {
+    "id": "film-tv-784",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'The Hunger Games,' what is Katniss Everdeen's primary weapon of choice?",
+    "options": [
+      "Knife",
+      "Spear",
+      "Bow and arrow",
+      "Trident"
+    ],
+    "answer": "Bow and arrow"
+  },
+  {
+    "id": "film-tv-785",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'The Maze Runner,' what are the biomechanical creatures that inhabit the maze and attack the Gladers called?",
+    "options": [
+      "Grievers",
+      "WICKED",
+      "Cranks",
+      "The Gladers"
+    ],
+    "answer": "Grievers"
+  },
+  {
+    "id": "film-tv-786",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'Divergent,' what is the name of the simulation-based test all 16-year-olds take to determine their faction?",
+    "options": [
+      "The Fear Landscape",
+      "The Choosing Ceremony",
+      "Aptitude Test",
+      "The Simulation"
+    ],
+    "answer": "Aptitude Test"
+  },
+  {
+    "id": "film-tv-787",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In the 'Percy Jackson' films, what is the name of Percy's magical sword that disguises itself as a ballpoint pen?",
+    "options": [
+      "Backbiter",
+      "The Master Bolt",
+      "Riptide",
+      "Anaklusmos"
+    ],
+    "answer": "Riptide"
+  },
+  {
+    "id": "film-tv-788",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'The Chronicles of Narnia,' what is the title of the primary antagonist who plunges Narnia into eternal winter?",
+    "options": [
+      "The White Witch",
+      "The Green Witch",
+      "The Lady of the Green Kirtle",
+      "Queen Jadis"
+    ],
+    "answer": "The White Witch"
+  },
+  {
+    "id": "film-tv-789",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'The Lord of the Rings,' what is the name of the Elven prince from the Woodland Realm who joins the Fellowship?",
+    "options": [
+      "Aragorn",
+      "Boromir",
+      "Legolas",
+      "Gimli"
+    ],
+    "answer": "Legolas"
+  },
+  {
+    "id": "film-tv-790",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'Harry Potter,' what is the true identity of the Heir of Slytherin who opens the Chamber of Secrets?",
+    "options": [
+      "The Dark Lord",
+      "Lord Voldemort",
+      "Tom Riddle",
+      "He-Who-Must-Not-Be-Named"
+    ],
+    "answer": "Tom Riddle"
+  },
+  {
+    "id": "film-tv-791",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'The Hunger Games,' what is the name of the bird that is a hybrid of a jabberjay and a mockingbird?",
+    "options": [
+      "Jabberjay",
+      "Tracker Jacker",
+      "Nightlock",
+      "Mockingjay"
+    ],
+    "answer": "Mockingjay"
+  },
+  {
+    "id": "film-tv-792",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'The Maze Runner,' what is the recurring phrase used by the organization WICKED to justify their cruel experiments?",
+    "options": [
+      "WCKD",
+      "The Right Arm",
+      "Janson",
+      "WICKED is good"
+    ],
+    "answer": "WICKED is good"
+  },
+  {
+    "id": "film-tv-793",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'Divergent,' what is the name of the Erudite leader who orchestrates the attack on the Abnegation?",
+    "options": [
+      "Cara",
+      "Tori Wu",
+      "Tris Prior",
+      "Jeanine Matthews"
+    ],
+    "answer": "Jeanine Matthews"
+  },
+  {
+    "id": "film-tv-794",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In the 'Percy Jackson' films, who is revealed to be Percy's divine father?",
+    "options": [
+      "Poseidon",
+      "Zeus",
+      "Ares",
+      "Hades"
+    ],
+    "answer": "Poseidon"
+  },
+  {
+    "id": "film-tv-795",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'The Chronicles of Narnia,' what is the name of the faun who befriends Lucy Pevensie in the snowy forest?",
+    "options": [
+      "Digory",
+      "Mr. Beaver",
+      "Mr. Tumnus",
+      "Aslan"
+    ],
+    "answer": "Mr. Tumnus"
+  },
+  {
+    "id": "film-tv-796",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'The Lord of the Rings,' what is the name of the dwarf who accompanies Aragorn and Legolas on their hunt for the Uruk-hai?",
+    "options": [
+      "Boromir",
+      "Legolas",
+      "Gimli",
+      "Aragorn"
+    ],
+    "answer": "Gimli"
+  },
+  {
+    "id": "film-tv-797",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'Harry Potter,' which ghost resides in Gryffindor Tower and is known for his nearly severed head?",
+    "options": [
+      "Nearly Headless Nick",
+      "The Fat Friar",
+      "The Bloody Baron",
+      "The Grey Lady"
+    ],
+    "answer": "Nearly Headless Nick"
+  },
+  {
+    "id": "film-tv-798",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'The Hunger Games,' who serves as the reluctant mentor to Katniss and Peeta?",
+    "options": [
+      "Peeta Mellark",
+      "Katniss Everdeen",
+      "Effie Trinket",
+      "Haymitch Abernathy"
+    ],
+    "answer": "Haymitch Abernathy"
+  },
+  {
+    "id": "film-tv-799",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'The Maze Runner,' what is the name of the leader of the Gladers before Thomas arrives?",
+    "options": [
+      "Thomas",
+      "Alby",
+      "Newt",
+      "Minho"
+    ],
+    "answer": "Alby"
+  },
+  {
+    "id": "film-tv-800",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'Divergent,' which Dauntless initiate betrays Tris during the final stages of training?",
+    "options": [
+      "Marcus",
+      "Caleb",
+      "Peter",
+      "Tobias"
+    ],
+    "answer": "Peter"
+  },
+  {
+    "id": "film-tv-801",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In the 'Percy Jackson' films, what is the name of the satyr who is Percy's best friend and protector?",
+    "options": [
+      "Chiron",
+      "Grover Underwood",
+      "Tyson",
+      "Clarisse"
+    ],
+    "answer": "Grover Underwood"
+  },
+  {
+    "id": "film-tv-802",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'The Chronicles of Narnia,' what is the name of the talking beaver who helps the Pevensie children?",
+    "options": [
+      "Mr. Beaver",
+      "Tumnus",
+      "Mrs. Beaver",
+      "Aslan"
+    ],
+    "answer": "Mr. Beaver"
+  },
+  {
+    "id": "film-tv-803",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'The Lord of the Rings,' what is the name of the wizard who falls in Moria fighting the Balrog?",
+    "options": [
+      "Gandalf",
+      "Saruman",
+      "Radagast",
+      "Sauron"
+    ],
+    "answer": "Gandalf"
+  },
+  {
+    "id": "film-tv-804",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'The Hunger Games,' what is the name of Katniss's younger sister, whose selection at the reaping prompts Katniss to volunteer?",
+    "options": [
+      "Thresh",
+      "Rue",
+      "Primrose",
+      "Peeta"
+    ],
+    "answer": "Primrose"
+  },
+  {
+    "id": "film-tv-805",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'The Maze Runner,' what is the first name of the boy who arrives in the Glade with no memory of his past?",
+    "options": [
+      "Alby",
+      "Newt",
+      "Minho",
+      "Thomas"
+    ],
+    "answer": "Thomas"
+  },
+  {
+    "id": "film-tv-806",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'Divergent,' what is the birth name of the protagonist who chooses to join the Dauntless faction?",
+    "options": [
+      "Christina",
+      "Beatrice",
+      "Tori",
+      "Cara"
+    ],
+    "answer": "Beatrice"
+  },
+  {
+    "id": "film-tv-807",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'The Chronicles of Narnia,' which Pevensie sibling becomes the High King of Narnia?",
+    "options": [
+      "Edmund",
+      "Peter",
+      "Tirian",
+      "Caspian"
+    ],
+    "answer": "Peter"
+  },
+  {
+    "id": "film-tv-808",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'The Lord of the Rings,' who is the primary antagonist seeking to reclaim the One Ring?",
+    "options": [
+      "The Witch-king of Angmar",
+      "Gollum",
+      "Saruman",
+      "Sauron"
+    ],
+    "answer": "Sauron"
+  },
+  {
+    "id": "film-tv-809",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'Harry Potter,' who is the headmaster of Hogwarts during Harry's first six years at the school?",
+    "options": [
+      "Severus Snape",
+      "Albus Dumbledore",
+      "Dolores Umbridge",
+      "Minerva McGonagall"
+    ],
+    "answer": "Albus Dumbledore"
+  },
+  {
+    "id": "film-tv-810",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'The Hunger Games,' what is the surname of the tyrannical President of Panem?",
+    "options": [
+      "Heavensbee",
+      "Crane",
+      "Coin",
+      "Snow"
+    ],
+    "answer": "Snow"
+  },
+  {
+    "id": "film-tv-811",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'The Maze Runner,' what is the name of the lead scientist and creator of the maze trials?",
+    "options": [
+      "Lawrence",
+      "Ava Paige",
+      "Janson",
+      "Rat Man"
+    ],
+    "answer": "Ava Paige"
+  },
+  {
+    "id": "film-tv-812",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "Who directed the 2014 film adaptation of the 'Divergent' series?",
+    "options": [
+      "J.K. Rowling",
+      "Veronica Roth",
+      "Neil Burger",
+      "Suzanne Collins"
+    ],
+    "answer": "Neil Burger"
+  },
+  {
+    "id": "film-tv-813",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "Which actor played the title role in the first 'Percy Jackson' film?",
+    "options": [
+      "Logan Lerman",
+      "Rick Riordan",
+      "Alexandra Daddario",
+      "Brandon T. Jackson"
+    ],
+    "answer": "Logan Lerman"
+  },
+  {
+    "id": "film-tv-814",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "Which actress played the young Lucy Pevensie in the 2005 film 'The Chronicles of Narnia'?",
+    "options": [
+      "Tilda Swinton",
+      "Georgie Henley",
+      "Anna Popplewell",
+      "Sophie Winkleman"
+    ],
+    "answer": "Georgie Henley"
+  },
+  {
+    "id": "film-tv-815",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'The Office' (US), what is the first name of the boom mic operator who has an affair with Pam?",
+    "options": [
+      "Charles",
+      "Josh",
+      "Ed",
+      "Brian"
+    ],
+    "answer": "Brian"
+  },
+  {
+    "id": "film-tv-816",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'The Office' (US), what is the full name of the foreman of the Dunder Mifflin warehouse?",
+    "options": [
+      "Val Johnson",
+      "Roy Anderson",
+      "Darryl Philbin",
+      "Nate Nickerson"
+    ],
+    "answer": "Darryl Philbin"
+  },
+  {
+    "id": "film-tv-817",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'The Office' (US), what is the last name of the mild-mannered human resources representative?",
+    "options": [
+      "Flenderson",
+      "Malone",
+      "Howard",
+      "Kapoor"
+    ],
+    "answer": "Flenderson"
+  },
+  {
+    "id": "film-tv-818",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'The Office' (US), what is the full name of the temp who later becomes the regional manager of the Scranton branch?",
+    "options": [
+      "Ryan Howard",
+      "Gabe Lewis",
+      "Erin Hannon",
+      "Kelly Kapoor"
+    ],
+    "answer": "Ryan Howard"
+  },
+  {
+    "id": "film-tv-819",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'The Office' (US), what is the full name of the strict, cat-loving head of accounting?",
+    "options": [
+      "Oscar Martinez",
+      "Angela Martin",
+      "Kevin Malone",
+      "Stanley Hudson"
+    ],
+    "answer": "Angela Martin"
+  },
+  {
+    "id": "film-tv-820",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'The Office' (US), what is the full name of the chatty customer service representative?",
+    "options": [
+      "Pam Beesly",
+      "Phyllis Vance",
+      "Kelly Kapoor",
+      "Meredith Palmer"
+    ],
+    "answer": "Kelly Kapoor"
+  },
+  {
+    "id": "film-tv-821",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'The Office' (US), what is the full name of the salesman who frequently plays pranks on Dwight?",
+    "options": [
+      "Todd Packer",
+      "Dwight Schrute",
+      "Andy Bernard",
+      "Jim Halpert"
+    ],
+    "answer": "Jim Halpert"
+  },
+  {
+    "id": "film-tv-822",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'The Office' (US), what is the full name of the regional manager who hosts 'Michael Scott's Dunder Mifflin Scranton Meredith Palmer Memorial Celebrity Rabies Awareness Pro-Am Fun Run Race for the Cure'?",
+    "options": [
+      "Jim Halpert",
+      "Andy Bernard",
+      "Michael Scott",
+      "Dwight Schrute"
+    ],
+    "answer": "Michael Scott"
+  },
+  {
+    "id": "film-tv-823",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'The Office' (US), what is the full name of the eccentric CEO of Sabre who buys Dunder Mifflin?",
+    "options": [
+      "Charles Miner",
+      "Jo Bennett",
+      "Ed Truck",
+      "David Wallace"
+    ],
+    "answer": "Jo Bennett"
+  },
+  {
+    "id": "film-tv-824",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'The Office' (US), what is the full name of the former CFO of Dunder Mifflin who leaves to start his own vacuum company?",
+    "options": [
+      "David Wallace",
+      "Josh Porter",
+      "Ed Truck",
+      "Charles Miner"
+    ],
+    "answer": "David Wallace"
+  },
+  {
+    "id": "film-tv-825",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'Breaking Bad,' what is the name of the morally flexible lawyer who helps Walt and Jesse launder their money?",
+    "options": [
+      "Jimmy McGill",
+      "Howard Hamlin",
+      "Saul Goodman",
+      "Chuck McGill"
+    ],
+    "answer": "Saul Goodman"
+  },
+  {
+    "id": "film-tv-826",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'Breaking Bad,' what is the first name of the former student who partners with Walter White to cook meth?",
+    "options": [
+      "Tuco",
+      "Mike",
+      "Jesse",
+      "Gus"
+    ],
+    "answer": "Jesse"
+  },
+  {
+    "id": "film-tv-827",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'Breaking Bad,' what is the first name of the no-nonsense 'cleaner' and fixer who works for Gus Fring?",
+    "options": [
+      "Victor",
+      "Lydia",
+      "Tyrus",
+      "Mike"
+    ],
+    "answer": "Mike"
+  },
+  {
+    "id": "film-tv-828",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'Breaking Bad,' what is the collective name of the silent, deadly twin assassins who work for the cartel?",
+    "options": [
+      "The Cousins",
+      "The Aryans",
+      "The Jacks",
+      "The Cartel"
+    ],
+    "answer": "The Cousins"
+  },
+  {
+    "id": "film-tv-829",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'Breaking Bad,' what is the affectionate name Jesse gives to their original RV used for cooking meth in the desert?",
+    "options": [
+      "The Bounder",
+      "The Fleetwood",
+      "The Chollo",
+      "The Krystal Ship"
+    ],
+    "answer": "The Krystal Ship"
+  },
+  {
+    "id": "film-tv-830",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'Breaking Bad,' what is the name of the commercial laundry that serves as the cover for Gus Fring's underground superlab?",
+    "options": [
+      "Los Pollos Hermanos",
+      "Madrigal Electromotive",
+      "Golden Moth",
+      "Lavanderia Brillante"
+    ],
+    "answer": "Lavanderia Brillante"
+  },
+  {
+    "id": "film-tv-831",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'Breaking Bad,' what book of poetry does Hank Schrader find in Walter White's bathroom, leading to his realization?",
+    "options": [
+      "Leaves of Grass",
+      "The Waste Land",
+      "Songs of Innocence",
+      "Ozymandias"
+    ],
+    "answer": "Leaves of Grass"
+  },
+  {
+    "id": "film-tv-832",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'Breaking Bad,' what plant does Walter White use to poison Brock Cantillo?",
+    "options": [
+      "Cyanide",
+      "Ricin",
+      "Foxglove",
+      "Lily of the Valley"
+    ],
+    "answer": "Lily of the Valley"
+  },
+  {
+    "id": "film-tv-833",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'Breaking Bad,' what is the first name of the volatile, machete-wielding drug distributor who kidnaps Walt and Jesse?",
+    "options": [
+      "Mike",
+      "Hector",
+      "Tuco",
+      "Gus"
+    ],
+    "answer": "Tuco"
+  },
+  {
+    "id": "film-tv-834",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'Game of Thrones,' what is the name of the direwolf adopted by Arya Stark?",
+    "options": [
+      "Ghost",
+      "Lady",
+      "Nymeria",
+      "Grey Wind"
+    ],
+    "answer": "Nymeria"
+  },
+  {
+    "id": "film-tv-835",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'Game of Thrones,' who is the cruel, illegitimate son of Robert Baratheon and Cersei Lannister who becomes king?",
+    "options": [
+      "Stannis Baratheon",
+      "Joffrey Baratheon",
+      "Renly Baratheon",
+      "Robb Stark"
+    ],
+    "answer": "Joffrey Baratheon"
+  },
+  {
+    "id": "film-tv-836",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'Game of Thrones,' what is the first name of the matriarch of House Lannister?",
+    "options": [
+      "Daenerys",
+      "Margaery",
+      "Sansa",
+      "Cersei"
+    ],
+    "answer": "Cersei"
+  },
+  {
+    "id": "film-tv-837",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'Game of Thrones,' which Lannister sibling serves as Hand of the King to multiple rulers?",
+    "options": [
+      "Tywin",
+      "Jaime",
+      "Cersei",
+      "Tyrion"
+    ],
+    "answer": "Tyrion"
+  },
+  {
+    "id": "film-tv-838",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'Game of Thrones,' what is the name of the massive ice structure that protects the Seven Kingdoms from the north?",
+    "options": [
+      "The Gate",
+      "The Wall",
+      "Eastwatch",
+      "The Shadow Tower"
+    ],
+    "answer": "The Wall"
+  },
+  {
+    "id": "film-tv-839",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'Game of Thrones,' what is the name of the body of water separating Westeros from Essos?",
+    "options": [
+      "The Sunset Sea",
+      "The Jade Sea",
+      "The Summer Sea",
+      "The Narrow Sea"
+    ],
+    "answer": "The Narrow Sea"
+  },
+  {
+    "id": "film-tv-840",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'Game of Thrones,' what is the name of the deity worshipped by Melisandre and Stannis Baratheon?",
+    "options": [
+      "The Drowned God",
+      "The Old Gods",
+      "The Lord of Light",
+      "The Seven"
+    ],
+    "answer": "The Lord of Light"
+  },
+  {
+    "id": "film-tv-841",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'Game of Thrones,' what is the name of the mysterious assassin who trains Arya Stark in Braavos?",
+    "options": [
+      "Thoros of Myr",
+      "The Hound",
+      "Beric Dondarrion",
+      "Jaqen H'ghar"
+    ],
+    "answer": "Jaqen H'ghar"
+  },
+  {
+    "id": "film-tv-842",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'Stranger Things,' what is the numerical designation of the girl with telekinetic powers?",
+    "options": [
+      "Kali",
+      "Eight",
+      "Ten",
+      "Eleven"
+    ],
+    "answer": "Eleven"
+  },
+  {
+    "id": "film-tv-843",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'Stranger Things,' what is the name of the faceless, humanoid monster that hunts by smelling blood in Season 1?",
+    "options": [
+      "Demogorgon",
+      "Demodog",
+      "Vecna",
+      "Mind Flayer"
+    ],
+    "answer": "Demogorgon"
+  },
+  {
+    "id": "film-tv-844",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'Stranger Things,' what is the name of the Soviet-built shopping mall that opens in Hawkins in Season 3?",
+    "options": [
+      "Hawkins Mall",
+      "Melvald's Mall",
+      "Starcourt Mall",
+      "Roane Mall"
+    ],
+    "answer": "Starcourt Mall"
+  },
+  {
+    "id": "film-tv-845",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'Stranger Things,' what is the first name of the curly-haired, tech-savvy member of the party?",
+    "options": [
+      "Dustin",
+      "Will",
+      "Mike",
+      "Lucas"
+    ],
+    "answer": "Dustin"
+  },
+  {
+    "id": "film-tv-846",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'Stranger Things,' what is the first name of Will Byers's older brother who takes photos for the local paper?",
+    "options": [
+      "Hopper",
+      "Steve",
+      "Jonathan",
+      "Will"
+    ],
+    "answer": "Jonathan"
+  },
+  {
+    "id": "film-tv-847",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'Stranger Things,' what is the surname of the cynical police chief who adopts Eleven?",
+    "options": [
+      "Callahan",
+      "Powell",
+      "Hopper",
+      "Flores"
+    ],
+    "answer": "Hopper"
+  },
+  {
+    "id": "film-tv-848",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'Stranger Things,' what is the surname of the lead scientist conducting experiments at Hawkins National Laboratory?",
+    "options": [
+      "Brenner",
+      "Martin",
+      "Owens",
+      "Alexei"
+    ],
+    "answer": "Brenner"
+  },
+  {
+    "id": "film-tv-849",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'Stranger Things,' what is the name of the local arcade where the kids frequently play Dig Dug and Dragon's Lair?",
+    "options": [
+      "Starcourt Arcade",
+      "Wizard's Arcade",
+      "Palace Arcade",
+      "Hawkins Arcade"
+    ],
+    "answer": "Palace Arcade"
+  },
+  {
+    "id": "film-tv-850",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'Stranger Things,' what 1985 Kate Bush song becomes a crucial plot device in Season 4?",
+    "options": [
+      "Army Dreamers",
+      "Running Up That Hill",
+      "Cloudbusting",
+      "Hounds of Love"
+    ],
+    "answer": "Running Up That Hill"
+  },
+  {
+    "id": "film-tv-851",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'The Mandalorian,' what is the true name of 'The Child' who accompanies Din Djarin?",
+    "options": [
+      "Din Djarin",
+      "Grogu",
+      "Boba Fett",
+      "Ahsoka"
+    ],
+    "answer": "Grogu"
+  },
+  {
+    "id": "film-tv-852",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'The Mandalorian,' what is the real name of the title character, a member of the Children of the Watch?",
+    "options": [
+      "Boba Fett",
+      "Din Djarin",
+      "Cobb Vanth",
+      "Fennec Shand"
+    ],
+    "answer": "Din Djarin"
+  },
+  {
+    "id": "film-tv-853",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'The Mandalorian,' what is the name of Din Djarin's heavily modified N-1 starfighter replacement ship?",
+    "options": [
+      "Ghost",
+      "Slave I",
+      "Razor Crest",
+      "N-1 Starfighter"
+    ],
+    "answer": "Razor Crest"
+  },
+  {
+    "id": "film-tv-854",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'The Mandalorian,' what is the designation of the reprogrammed assassin droid who sacrifices itself to save Grogu?",
+    "options": [
+      "IG-88",
+      "IG-11",
+      "C-3PO",
+      "R2-D2"
+    ],
+    "answer": "IG-11"
+  },
+  {
+    "id": "film-tv-855",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'The Mandalorian,' what is the name of the covert group of Mandalorians that Din Djarin belongs to?",
+    "options": [
+      "The Children of the Watch",
+      "The Foundlings",
+      "The Armorer",
+      "The Tribe"
+    ],
+    "answer": "The Tribe"
+  },
+  {
+    "id": "film-tv-856",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'The Mandalorian,' what is the name of the desert planet where the bounty guild is headquartered?",
+    "options": [
+      "Sorgan",
+      "Tatooine",
+      "Nevarro",
+      "Arvala-7"
+    ],
+    "answer": "Nevarro"
+  },
+  {
+    "id": "film-tv-857",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'The Mandalorian,' what is the name of the Imperial remnant leader who relentlessly hunts Grogu?",
+    "options": [
+      "The Magistrate",
+      "Moff Gideon",
+      "Dr. Pershing",
+      "The Client"
+    ],
+    "answer": "Moff Gideon"
+  },
+  {
+    "id": "film-tv-858",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'The Mandalorian,' what is the name of the ancient, black-bladed lightsaber that becomes a symbol of Mandalorian leadership?",
+    "options": [
+      "Vibro-knife",
+      "Blaster",
+      "Darksaber",
+      "Amban Sniper Rifle"
+    ],
+    "answer": "Darksaber"
+  },
+  {
+    "id": "film-tv-859",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "Who is the primary creator and showrunner of the Disney+ series 'The Mandalorian'?",
+    "options": [
+      "George Lucas",
+      "Jon Favreau",
+      "Kathleen Kennedy",
+      "Dave Filoni"
+    ],
+    "answer": "Jon Favreau"
+  },
+  {
+    "id": "film-tv-860",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'The Office' (US), what is the name of the branch that merges with Scranton after its closure?",
+    "options": [
+      "Utica",
+      "Nashua",
+      "Albany",
+      "Stamford"
+    ],
+    "answer": "Stamford"
+  },
+  {
+    "id": "film-tv-861",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'Breaking Bad,' what is the name of the company Walter White co-founded with Gretchen and Elliott before leaving?",
+    "options": [
+      "Lavanderia Brillante",
+      "Madrigal Electromotive",
+      "Sandpiper Crossing",
+      "Gray Matter Technologies"
+    ],
+    "answer": "Gray Matter Technologies"
+  },
+  {
+    "id": "film-tv-862",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'Game of Thrones,' what is the name of the elite city watch that guards King's Landing?",
+    "options": [
+      "The Kingsguard",
+      "The Gold Cloaks",
+      "The Sons of the Harpy",
+      "The Unsullied"
+    ],
+    "answer": "The Gold Cloaks"
+  },
+  {
+    "id": "film-tv-863",
+    "category": "film-tv",
+    "difficulty": "medium",
+    "question": "In 'Game of Thrones,' what is the name of the ancestral castle of House Tully?",
+    "options": [
+      "Riverrun",
+      "Casterly Rock",
+      "The Eyrie",
+      "The Twins"
+    ],
+    "answer": "Riverrun"
+  },
+  {
+    "id": "film-tv-864",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'Stranger Things,' what is the name of the young demo-dog that Dustin Henderson keeps hidden in his trash can?",
+    "options": [
+      "Dart",
+      "Eleven",
+      "Demi",
+      "Bart"
+    ],
+    "answer": "Dart"
+  },
+  {
+    "id": "film-tv-865",
+    "category": "film-tv",
+    "difficulty": "easy",
+    "question": "In 'The Mandalorian,' what is the name of the Ugnaught moisture farmer who helps Din Djarin repair the Razor Crest?",
+    "options": [
+      "Kuiil",
+      "Greef Karga",
+      "Migs Mayfeld",
+      "Boba Fett"
+    ],
+    "answer": "Kuiil"
+  },
+  {
+    "id": "film-tv-866",
+    "category": "film-tv",
+    "difficulty": "hard",
+    "question": "In 'The Mandalorian,' what is the name of the estuary planet where Din Djarin first meets Bo-Katan Kryze?",
+    "options": [
+      "Tatooine",
+      "Nevarro",
+      "Coruscant",
+      "Trask"
+    ],
+    "answer": "Trask"
   }
 ]

@@ -1,7 +1,7 @@
 // Stamped by scripts/stamp-version.js — do not edit by hand.
 // Changes automatically whenever app shell or question data changes,
 // which forces old cached data to be replaced next time we're online.
-const CACHE_VERSION = "v1-58a94157";
+const CACHE_VERSION = "v1-677cb73f";
 
 // Per-file content hashes for everything CACHE_VERSION covers. Lets
 // precache() tell which files actually changed and copy the rest forward
@@ -12,17 +12,17 @@ const FILE_HASHES = {
   "styles.css": "6bfaba5c340996e8",
   "app.js": "e534480079dd8062",
   "manifest.webmanifest": "de76ad5da1344100",
-  "version.json": "8c8eab4d0af689bb",
+  "version.json": "35e12658b94fb36a",
   "data/categories.json": "46577fab4088e580",
   "data/questions/animals-nature.json": "eef84aacaca809bd",
   "data/questions/arts-literature.json": "22e87c613c491ae7",
   "data/questions/big-bang-theory.json": "8e2fe2c9d2bc3649",
   "data/questions/business-brands.json": "12a1479d2549aa8a",
-  "data/questions/civics-law-economics.json": "1f52cb6ccae4cef4",
-  "data/questions/film-tv.json": "9ee0e7e49f7cb1b2",
+  "data/questions/civics-law-economics.json": "a49b9e88cce71b73",
+  "data/questions/film-tv.json": "ef2aa287352f81c3",
   "data/questions/food-drink.json": "57dd7b6c983a39db",
   "data/questions/friends.json": "047e3ec40b64353c",
-  "data/questions/general.json": "23cdc908eb42f4d7",
+  "data/questions/general.json": "92e184bea1c87158",
   "data/questions/geography.json": "c7f87757d5752f88",
   "data/questions/history.json": "b680a4a3356a3eb1",
   "data/questions/music.json": "bb5b35d463354dd8",
@@ -30,7 +30,7 @@ const FILE_HASHES = {
   "data/questions/science-technology.json": "3fb009fa2a398d51",
   "data/questions/space-astronomy.json": "61c1a2750a88ea42",
   "data/questions/sports.json": "49250767678504a9",
-  "data/questions/world-cultures.json": "d44428cb76a1947f",
+  "data/questions/world-cultures.json": "4718982cff809de4",
   "data/topics.json": "00c6219fb318d9de"
 };
 

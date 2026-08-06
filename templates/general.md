@@ -44,6 +44,10 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Monopoly's most expensive color set/properties (dark blue, Boardwalk & Park Place, $400); chess castling; Scrabble's two 8-point tiles (J and X); the game Hearts (avoiding the Queen of Spades) and "shooting the moon"; standard Mahjong tile count (144)
 - Pilcrow (¶), interrobang (‽), ampersand (&) etymology, ellipsis (...) as omission marks
 - This category is deeply saturated (500+ questions, much of it idioms/wordplay/game-trivia) — a recent batch had a ~23% duplicate rate that the default check-draft pass mostly missed (same definition/idiom, reworded); run --full-answer-audit and read every match by hand.
+- Wordplay-term definitions already covered: contronym/Janus word (a word that's its own opposite), retronym, capitonym, eponym (incl. "sandwich" from the Earl of Sandwich), aptronym, pleonasm ("free gift"), charade (word-puzzle sense)
+- Unit conversions already covered: a stone = 14 pounds, a fathom = 6 feet
+- Idiom meanings already covered (additional): let the cat out of the bag, barking up the wrong tree, get off on the wrong foot, a dime a dozen, on the ball, butter someone up, a white elephant, face the music
+- Game-rule chestnuts already covered: chess pawn promotion and en passant; Scrabble's center square (double word score), its 50-point bonus for playing all 7 tiles (bingo), and its blank/wild tile point value; poker's flush and full house definitions and the Dead Man's Hand (aces and eights); Monopoly's railroad count and Free Parking house rule; the printing term "leading"
 
 Use web search to verify every fact — do not rely on memory alone. Prefer authoritative sources (reference databases, almanacs) over guessing. For each question, actually find the fact via search rather than recalling it, especially for obscure details.
 
