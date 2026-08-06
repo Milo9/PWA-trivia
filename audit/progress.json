@@ -2386,11 +2386,11 @@
         "big-bang-theory-236",
         "big-bang-theory-244"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-06",
+      "completedAt": "2026-08-06",
+      "issuesFound": 5,
+      "notes": "Cut 1 hallucinated-fact question (Sheldon crashing Stephen Hawking's wheelchair - not corroborated by any episode recap; real wheelchair mishaps in 'The Hawking Excitation' involve Howard, not Sheldon), cut 3 confirmed same-fact-reworded duplicates within the chunk (078/214 Stuart moving into Howard's mother's house after the fire, 112/219 Kripke's DJ talent reveal, 121/236 actress playing Anu), fixed 1 factual error in 047 (Emily Sweeney is a dermatologist who 'likes to cut people,' not someone who 'works with cadavers' -- premise not supported by any source). Verified 279-episode series total, Bat Jar Conjecture outcome, and Beverly Hofstadter's book via WebSearch. No distractor-correctness bugs found among remaining 45 questions."
     },
     {
       "chunkId": "big-bang-theory-p1-001",
@@ -2447,11 +2447,11 @@
         "big-bang-theory-387",
         "big-bang-theory-389"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-06",
+      "completedAt": "2026-08-06",
+      "issuesFound": 19,
+      "notes": "Cut 19 confirmed same-fact-reworded duplicates surfaced via same-answer cross-refs, spanning this chunk and several not-yet-reached chunks (fixed corpus-wide since the duplicate pairs were visible): Katee Sackhoff/BSG guest spot (3 copies -> kept 150, cut 251+626), Emily Sweeney actress (4 copies -> kept 130, cut 255+576+641), Priya/Leonard breakup (kept 185, cut 261), Zoe Perry/Laurie Metcalf mother-daughter (kept 123, cut 266), Amy's neurobiology field (3 copies -> kept 009, cut 272+665), 279-episode total (kept 088, cut 289), Roommate Agreement (3 copies -> kept 038, cut 294+515), comic book store name (3 copies -> kept 300, cut 510+661), President Siebert actor (kept 326, cut 703), Stephanie Barnett actress (kept 328, cut 702), Brian Greene/Elegant Universe (kept 330, cut 631), Kevin Smith D&D Vortex (kept 368, cut 623), Howard's Expedition 31 (kept 385, cut 678). Verified via WebSearch a cluster of obscure real-world/show claims that checked out accurate: Terminator Decoupling train city (San Francisco), 2019 Warner Bros soundstage dedication (5th in studio history), Sheldon's college graduation age (14), Young Sheldon finale part 2 title (Memoir), Middle-Earth Paradigm costumes (Robin Hood mistaken for Peter Pan, Raj as Thor), series finale Pemberton plagiarism/Nobel storyline, Osment/Jordan real 11-year age gap, and confirmed the 2026 HBO Max spinoff Stuart Fails to Save the Universe is real (so Bert Kibbler cameo claim in 711 is accurate, not hallucinated). No distractor-correctness bugs found."
     },
     {
       "chunkId": "big-bang-theory-p1-002",
@@ -2508,11 +2508,11 @@
         "big-bang-theory-635",
         "big-bang-theory-639"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-06",
+      "completedAt": "2026-08-06",
+      "issuesFound": 12,
+      "notes": "Cut 10 confirmed same-fact-reworded duplicates (visible via same-answer cross-refs, fixed corpus-wide): Meemaw/June Squibb (3 copies -> kept 405, cut 592+706), Amy's neurobiology-adjacent Prader-Willi dissertation topic (kept 432, cut 684), Young Sheldon prequel-series name (3 copies -> kept 040, cut 528+262), Mary Cooper/Laurie Metcalf (kept 124, cut 532), Galecki+Gilbert/Roseanne sibling connection (reversed-direction dup of already-kept 164, cut 638), Mike Massimino ISS guest spot (kept 621, cut 675), Priya/Aarti Mann (kept 142, cut 639). Cut 1 misattributed/hallucinated fact (597: the 'fake earthquake to escape a surprise birthday party' bit belongs to Bernadette in a Season 9 subplot, not Sheldon, and isn't tied to any birthday-party episode -- no corroborating source found). Fixed 2 typos verified against episode-title/canon sources: 'The Monopolal Expedition' -> 'The Monopolar Expedition' (425), \"Mystic Warlords of Ka'ah\" -> \"Mystic Warlords of Ka'a\" (635). Verified via WebSearch a large cluster of obscure claims that checked out accurate (Tam Nguyen actor, Georgie & Mandy's Ruben Alvarez, Cooper Extraction plot, Wendie Malick/Hagemeyer, Neil Wolowitz naming, Spock Resonance/Adam Nimoy, Bialik's real dissertation, Leftover Thermalization cake, Raj's mother burning the Mercedes, Ramona Nowitzki/Riki Lindhome, Kripke's ~25-episode count, Mystic Warlords of Ka'a card game). No distractor-correctness bugs found."
     },
     {
       "chunkId": "big-bang-theory-p1-003",
