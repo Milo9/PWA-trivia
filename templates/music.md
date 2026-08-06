@@ -5,7 +5,7 @@ You are drafting trivia questions for a multiple-choice trivia app. You have no 
 
 TOPIC: Music — musicians, composers, genres, songs, albums, classical and popular music history.
 
-COUNT: 100 questions.
+COUNT: 200 questions.
 
 AVOID THESE ANGLES — already well-covered in my question bank, so don't draft facts that overlap with these (pick different, more specific facts instead):
 - Who composed "The Four Seasons" (Antonio Vivaldi)
@@ -31,6 +31,11 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Who is the "Godfather of Soul" (James Brown) — already asked in reverse ("which singer is nicknamed the Godfather of Soul") too; this pairing is a closed loop, avoid both directions
 - Who choreographed the original 1892 premiere of "The Nutcracker" (Marius Petipa)
 - Which female vocalist sang the guest vocals on The Rolling Stones' "Gimme Shelter" (Merry Clayton)
+- Composer identification for famous named works: Gustav Holst's "The Planets," Wagner's "Ride of the Valkyries"
+- Fleetwood Mac's "Rumours" (1977, "Go Your Own Way"); Queen's "A Night at the Opera" (1975, "Bohemian Rhapsody"); Pink Floyd's "The Dark Side of the Moon" holding the record for most cumulative weeks on the Billboard 200
+- Debut-album identification: The Notorious B.I.G.'s "Ready to Die" ("Juicy"), Daft Punk's "Homework," Beyoncé's "Dangerously in Love," Nick Drake's "Five Leaves Left"
+- Madonna's "Like a Virgin" as both her first Billboard #1 single and its title-track album
+- Pentatonic scale as the five-note-per-octave scale
 
 Use web search to verify every fact — do not rely on memory alone. Prefer authoritative sources (encyclopedic sources, music databases) over guessing. For each question, actually find the fact via search rather than recalling it, especially for obscure details (specific dates, lesser-known artists/works).
 

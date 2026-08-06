@@ -7083,5 +7083,2332 @@
       "Wearing earphones"
     ],
     "answer": "Listening attentively"
+  },
+  {
+    "id": "general-3478",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "In Old Norse and Old English poetry, what is the term for a compound metaphorical phrase like \"whale-road\" for the sea?",
+    "options": [
+      "Litotes",
+      "Kenning",
+      "Meiosis",
+      "Synecdoche"
+    ],
+    "answer": "Kenning"
+  },
+  {
+    "id": "general-3479",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which figure of speech features an unexpected ending to a sentence, forcing the reader to reinterpret the beginning, like \"I've had a perfectly wonderful evening, but this wasn't it\"?",
+    "options": [
+      "Paraprosdokian",
+      "Chiasmus",
+      "Apostrophe",
+      "Anapodoton"
+    ],
+    "answer": "Paraprosdokian"
+  },
+  {
+    "id": "general-3480",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the rhetorical term for inverting the order of repeated words, such as \"Ask not what your country can do for you; ask what you can do for your country\"?",
+    "options": [
+      "Anadiplosis",
+      "Chiasmus",
+      "Symploce",
+      "Epanalepsis"
+    ],
+    "answer": "Chiasmus"
+  },
+  {
+    "id": "general-3481",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which figure of speech uses an understatement created by a double negative, such as \"He is not the brightest bulb\"?",
+    "options": [
+      "Litotes",
+      "Meiosis",
+      "Hyperbole",
+      "Auxesis"
+    ],
+    "answer": "Litotes"
+  },
+  {
+    "id": "general-3482",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What rhetorical device involves a euphemistic understatement, like referring to the Atlantic Ocean as \"the pond\"?",
+    "options": [
+      "Meiosis",
+      "Litotes",
+      "Catachresis",
+      "Apophasis"
+    ],
+    "answer": "Meiosis"
+  },
+  {
+    "id": "general-3483",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the term for a sentence where the main clause is deliberately omitted, such as \"If only I had studied harder...\"?",
+    "options": [
+      "Anapodoton",
+      "Aposiopesis",
+      "Parataxis",
+      "Zeugma"
+    ],
+    "answer": "Anapodoton"
+  },
+  {
+    "id": "general-3484",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which rhetorical device involves repeating the first word of a clause at the end of that same clause, as in \"Blood hath bought blood, and blows have answer'd blows\"?",
+    "options": [
+      "Epanalepsis",
+      "Epizeuxis",
+      "Diacope",
+      "Anadiplosis"
+    ],
+    "answer": "Epanalepsis"
+  },
+  {
+    "id": "general-3485",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the term for the repetition of a word with one or more words in between, famously used in \"Bond, James Bond\"?",
+    "options": [
+      "Diacope",
+      "Epizeuxis",
+      "Anadiplosis",
+      "Epanalepsis"
+    ],
+    "answer": "Diacope"
+  },
+  {
+    "id": "general-3486",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which figure of speech features the immediate repetition of a word for emphasis, like \"Never, never, never give up\"?",
+    "options": [
+      "Epizeuxis",
+      "Anadiplosis",
+      "Diacope",
+      "Symploce"
+    ],
+    "answer": "Epizeuxis"
+  },
+  {
+    "id": "general-3487",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What rhetorical device repeats words at the beginning and end of successive clauses, such as \"Against darkness, we fight. Against fear, we fight\"?",
+    "options": [
+      "Symploce",
+      "Anadiplosis",
+      "Chiasmus",
+      "Epanalepsis"
+    ],
+    "answer": "Symploce"
+  },
+  {
+    "id": "general-3488",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which device involves ending a clause with a word and starting the next clause with the same word, like \"Fear leads to anger. Anger leads to hate\"?",
+    "options": [
+      "Anadiplosis",
+      "Epizeuxis",
+      "Diacope",
+      "Chiasmus"
+    ],
+    "answer": "Anadiplosis"
+  },
+  {
+    "id": "general-3489",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Originating from a biblical story, what linguistic term refers to a custom or word that distinguishes one group from another?",
+    "options": [
+      "Shibboleth",
+      "Solecism",
+      "Malapropism",
+      "Cant"
+    ],
+    "answer": "Shibboleth"
+  },
+  {
+    "id": "general-3490",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which rhetorical term describes the use of more words than necessary to express an idea, such as \"free gift\"?",
+    "options": [
+      "Pleonasm",
+      "Tautology",
+      "Litotes",
+      "Meiosis"
+    ],
+    "answer": "Pleonasm"
+  },
+  {
+    "id": "general-3491",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the term for a statement that repeats the same idea in different words, such as \"The end of the final chapter\"?",
+    "options": [
+      "Tautology",
+      "Pleonasm",
+      "Paradox",
+      "Oxymoron"
+    ],
+    "answer": "Tautology"
+  },
+  {
+    "id": "general-3492",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which figure of speech uses a part to represent the whole, such as saying \"wheels\" to refer to a car?",
+    "options": [
+      "Synecdoche",
+      "Metonymy",
+      "Metaphor",
+      "Simile"
+    ],
+    "answer": "Synecdoche"
+  },
+  {
+    "id": "general-3493",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the term for a figure of speech where an associated concept represents the whole, like referring to the monarchy as \"the Crown\"?",
+    "options": [
+      "Metonymy",
+      "Synecdoche",
+      "Litotes",
+      "Kenning"
+    ],
+    "answer": "Metonymy"
+  },
+  {
+    "id": "general-3494",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In traditional nautical measurement, how many feet are in a fathom?",
+    "options": [
+      "6",
+      "8",
+      "5",
+      "10"
+    ],
+    "answer": "6"
+  },
+  {
+    "id": "general-3495",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "How many square meters make up one hectare?",
+    "options": [
+      "10,000",
+      "1,000",
+      "100,000",
+      "1,000,000"
+    ],
+    "answer": "10,000"
+  },
+  {
+    "id": "general-3496",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "In nuclear physics, what informal unit of time is equal to 10 nanoseconds?",
+    "options": [
+      "A shake",
+      "A jiffy",
+      "A tick",
+      "A planck time"
+    ],
+    "answer": "A shake"
+  },
+  {
+    "id": "general-3497",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "In traditional British imperial measurement, what volume is a firkin equal to?",
+    "options": [
+      "9 imperial gallons",
+      "18 imperial gallons",
+      "36 imperial gallons",
+      "54 imperial gallons"
+    ],
+    "answer": "9 imperial gallons"
+  },
+  {
+    "id": "general-3498",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Historically used for wine and beer, how many imperial gallons are in a hogshead?",
+    "options": [
+      "63",
+      "54",
+      "100",
+      "108"
+    ],
+    "answer": "63"
+  },
+  {
+    "id": "general-3499",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In the imperial system of weights, how many pounds are in a stone?",
+    "options": [
+      "14",
+      "16",
+      "12",
+      "10"
+    ],
+    "answer": "14"
+  },
+  {
+    "id": "general-3500",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "In the apothecaries' system, how many grains are in one scruple?",
+    "options": [
+      "20",
+      "60",
+      "10",
+      "480"
+    ],
+    "answer": "20"
+  },
+  {
+    "id": "general-3501",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In dry volume measurement, how many dry quarts are in a peck?",
+    "options": [
+      "8",
+      "4",
+      "2",
+      "16"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": "general-3502",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "According to the traditional system, how many pecks are in a bushel?",
+    "options": [
+      "4",
+      "2",
+      "8",
+      "16"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": "general-3503",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "A nautical mile is based on the Earth's circumference and is equal to how many degrees of latitude?",
+    "options": [
+      "One minute",
+      "One second",
+      "One degree",
+      "Ten minutes"
+    ],
+    "answer": "One minute"
+  },
+  {
+    "id": "general-3504",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In nautical terms, what distance is traditionally defined as one-tenth of a nautical mile?",
+    "options": [
+      "A cable length",
+      "A league",
+      "A fathom",
+      "A chain"
+    ],
+    "answer": "A cable length"
+  },
+  {
+    "id": "general-3505",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Created as a prank at MIT in 1958, the \"smoot\" is a unit of length equal to the height of whom?",
+    "options": [
+      "Oliver R. Smoot",
+      "William Barton Rogers",
+      "Robert Taylor",
+      "Harold 'Doc' Edgerton"
+    ],
+    "answer": "Oliver R. Smoot"
+  },
+  {
+    "id": "general-3506",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In astronomy, what distance is defined as an Astronomical Unit (AU)?",
+    "options": [
+      "The average distance from Earth to the Sun",
+      "The distance light travels in a year",
+      "The distance from Earth to the Moon",
+      "The radius of the solar system"
+    ],
+    "answer": "The average distance from Earth to the Sun"
+  },
+  {
+    "id": "general-3507",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "In astronomy, a parsec is defined as the distance at which one astronomical unit subtends an angle of what?",
+    "options": [
+      "One arcsecond",
+      "One arcminute",
+      "One degree",
+      "One radian"
+    ],
+    "answer": "One arcsecond"
+  },
+  {
+    "id": "general-3508",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What distance does a light-year represent?",
+    "options": [
+      "The distance light travels in a vacuum in one Julian year",
+      "The distance from Earth to the nearest star",
+      "The time it takes light to reach Earth from the Sun",
+      "The distance light travels in one second"
+    ],
+    "answer": "The distance light travels in a vacuum in one Julian year"
+  },
+  {
+    "id": "general-3509",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Famously used by Abraham Lincoln in the Gettysburg Address, how many years are in a \"score\"?",
+    "options": [
+      "20",
+      "10",
+      "50",
+      "100"
+    ],
+    "answer": "20"
+  },
+  {
+    "id": "general-3510",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "In the apothecaries' system of mass, how many grains are in a dram?",
+    "options": [
+      "60",
+      "20",
+      "480",
+      "8"
+    ],
+    "answer": "60"
+  },
+  {
+    "id": "general-3511",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "In traditional British brewing, how many imperial gallons are in a kilderkin?",
+    "options": [
+      "18",
+      "9",
+      "36",
+      "54"
+    ],
+    "answer": "18"
+  },
+  {
+    "id": "general-3512",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Often used informally to mean a large amount, how many imperial gallons are in a traditional \"butt\" of wine?",
+    "options": [
+      "108",
+      "126",
+      "63",
+      "216"
+    ],
+    "answer": "108"
+  },
+  {
+    "id": "general-3513",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "In the US customary system, how many pounds are in a hundredweight (cwt)?",
+    "options": [
+      "100",
+      "112",
+      "50",
+      "120"
+    ],
+    "answer": "100"
+  },
+  {
+    "id": "general-3514",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In electronics and computing, how many milliseconds are traditionally in a \"jiffy\"?",
+    "options": [
+      "16.7",
+      "10",
+      "1",
+      "100"
+    ],
+    "answer": "16.7"
+  },
+  {
+    "id": "general-3515",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Proposed by Alexander Thom based on archaeological surveys, the \"megalithic yard\" is approximately how long?",
+    "options": [
+      "0.829 meters",
+      "1.056 meters",
+      "0.914 meters",
+      "1.143 meters"
+    ],
+    "answer": "0.829 meters"
+  },
+  {
+    "id": "general-3516",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "The phrase \"jump the shark,\" meaning the point where a TV show begins to decline in quality, originated from an episode of which show?",
+    "options": [
+      "Happy Days",
+      "The Fonz",
+      "Mork & Mindy",
+      "Laverne & Shirley"
+    ],
+    "answer": "Happy Days"
+  },
+  {
+    "id": "general-3517",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "The phrase \"the greatest thing since sliced bread\" was originally used as a marketing slogan for which company's product?",
+    "options": [
+      "Wonder Bread",
+      "Betty Crocker",
+      "Sara Lee",
+      "Oroweat"
+    ],
+    "answer": "Wonder Bread"
+  },
+  {
+    "id": "general-3518",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "The idiom \"read the riot act\" originates from a 1714 British law intended to do what?",
+    "options": [
+      "Disperse unruly crowds of 12 or more",
+      "Prevent newspaper publications",
+      "Stop violent sporting events",
+      "Limit public musical performances"
+    ],
+    "answer": "Disperse unruly crowds of 12 or more"
+  },
+  {
+    "id": "general-3519",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "The phrase \"get the sack,\" meaning to be fired, dates back to the medieval practice of what?",
+    "options": [
+      "Artisans carrying their tools in a sack",
+      "Thieves stealing sacks of grain",
+      "Sailors being rolled in a sack as punishment",
+      "Merchants paying debts with sacks of coins"
+    ],
+    "answer": "Artisans carrying their tools in a sack"
+  },
+  {
+    "id": "general-3520",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "The phrase \"caught red-handed\" originally referred specifically to being caught doing what?",
+    "options": [
+      "With blood on one's hands after a murder or poaching",
+      "Stealing a red garment",
+      "Reaching into a red container",
+      "Signing a document with red ink"
+    ],
+    "answer": "With blood on one's hands after a murder or poaching"
+  },
+  {
+    "id": "general-3521",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "The British idiom \"Bob's your uncle,\" meaning \"and there you have it,\" is widely believed to refer to the 1887 appointment of whom by his uncle?",
+    "options": [
+      "Arthur Balfour",
+      "Robert Gascoyne-Cecel",
+      "Winston Churchill",
+      "William Gladstone"
+    ],
+    "answer": "Arthur Balfour"
+  },
+  {
+    "id": "general-3522",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "The exclamation \"Gordon Bennett!\" is believed to be a euphemism for a swear word, referencing a famously eccentric 19th-century proprietor of which newspaper?",
+    "options": [
+      "New York Herald",
+      "The Times",
+      "New York Tribune",
+      "The Daily Telegraph"
+    ],
+    "answer": "New York Herald"
+  },
+  {
+    "id": "general-3523",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "The idiom \"hold the fort\" became popular after a telegraph message sent during the American Civil War by which general?",
+    "options": [
+      "William Tecumseh Sherman",
+      "Ulysses S. Grant",
+      "Robert E. Lee",
+      "Philip Sheridan"
+    ],
+    "answer": "William Tecumseh Sherman"
+  },
+  {
+    "id": "general-3524",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "The phrase \"pass the buck,\" meaning to shift responsibility, originates from what 19th-century card game?",
+    "options": [
+      "Poker",
+      "Bridge",
+      "Faro",
+      "Whist"
+    ],
+    "answer": "Poker"
+  },
+  {
+    "id": "general-3525",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "The phrase \"crocodile tears,\" meaning fake sadness, is based on an ancient belief that crocodiles do what while hunting?",
+    "options": [
+      "Weep to lure prey",
+      "Pretend to be dead",
+      "Change color",
+      "Sing to confuse birds"
+    ],
+    "answer": "Weep to lure prey"
+  },
+  {
+    "id": "general-3526",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "The phrase \"jump on the bandwagon\" originated from a practice associated with whom?",
+    "options": [
+      "P.T. Barnum's circus",
+      "19th-century politicians",
+      "Medieval minstrels",
+      "Wild West shows"
+    ],
+    "answer": "P.T. Barnum's circus"
+  },
+  {
+    "id": "general-3527",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "The phrase \"bury the hatchet,\" meaning to make peace, originates from a practice of which group?",
+    "options": [
+      "Native American tribes",
+      "Medieval knights",
+      "Early pioneers",
+      "Sailors"
+    ],
+    "answer": "Native American tribes"
+  },
+  {
+    "id": "general-3528",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "The phrase \"the dog days of summer\" refers to the period when the Dog Star, Sirius, does what?",
+    "options": [
+      "Rises with the sun",
+      "Sets at noon",
+      "Disappears completely",
+      "Reaches its brightest point"
+    ],
+    "answer": "Rises with the sun"
+  },
+  {
+    "id": "general-3529",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "The phrase \"the pen is mightier than the sword\" was coined by which author in his 1839 play *Richelieu*?",
+    "options": [
+      "Edward Bulwer-Lytton",
+      "William Shakespeare",
+      "Charles Dickens",
+      "Lord Byron"
+    ],
+    "answer": "Edward Bulwer-Lytton"
+  },
+  {
+    "id": "general-3530",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "The phrase \"throw in the towel,\" meaning to give up, originated in which sport?",
+    "options": [
+      "Boxing",
+      "Wrestling",
+      "Tennis",
+      "Rowing"
+    ],
+    "answer": "Boxing"
+  },
+  {
+    "id": "general-3531",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "The phrase \"fly off the handle\" originates from the behavior of what everyday tool when poorly maintained?",
+    "options": [
+      "An axe",
+      "A frying pan",
+      "A hammer",
+      "A saw"
+    ],
+    "answer": "An axe"
+  },
+  {
+    "id": "general-3532",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "The phrase \"let the cat out of the bag\" is widely believed to originate from a trick involving what?",
+    "options": [
+      "Selling a cat in a bag instead of a piglet",
+      "A cat hiding treasure",
+      "A naval punishment",
+      "A witch's familiar"
+    ],
+    "answer": "Selling a cat in a bag instead of a piglet"
+  },
+  {
+    "id": "general-3533",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "The phrase \"straight from the horse's mouth,\" meaning reliable information, comes from what practice?",
+    "options": [
+      "Judging a horse's age by its teeth",
+      "Listening to a horse breathe",
+      "A horse leading a cavalry charge",
+      "A blacksmith fitting a shoe"
+    ],
+    "answer": "Judging a horse's age by its teeth"
+  },
+  {
+    "id": "general-3534",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "The phrase \"take a rain check\" originated in the 1880s as a policy for what event?",
+    "options": [
+      "Rained-out baseball games",
+      "Delayed trains",
+      "Canceled theatrical plays",
+      "Postponed elections"
+    ],
+    "answer": "Rained-out baseball games"
+  },
+  {
+    "id": "general-3535",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "The phrase \"through thick and thin\" originally referred to travelers moving through what?",
+    "options": [
+      "Dense and sparse forests",
+      "Muddy and dry roads",
+      "Rain and snow",
+      "Hills and valleys"
+    ],
+    "answer": "Dense and sparse forests"
+  },
+  {
+    "id": "general-3536",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "The phrase \"when pigs fly\" has its earliest known printed equivalent in a 1616 play by which Scottish author?",
+    "options": [
+      "John Stewart",
+      "William Shakespeare",
+      "Robert Burns",
+      "Walter Scott"
+    ],
+    "answer": "John Stewart"
+  },
+  {
+    "id": "general-3537",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "The phrase \"barking up the wrong tree\" originates from the practice of what animals during a hunt?",
+    "options": [
+      "Hunting dogs",
+      "Foxes",
+      "Wolves",
+      "Bears"
+    ],
+    "answer": "Hunting dogs"
+  },
+  {
+    "id": "general-3538",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "The phrase \"burn the midnight oil\" refers to staying up late to work, originating from the use of what before electricity?",
+    "options": [
+      "Oil lamps",
+      "Candles",
+      "Torches",
+      "Fireplaces"
+    ],
+    "answer": "Oil lamps"
+  },
+  {
+    "id": "general-3539",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "The phrase \"can't hold a candle to,\" meaning inferior to, originates from the role of what in the dark?",
+    "options": [
+      "Apprentices holding candles for master craftsmen",
+      "Servants carrying torches",
+      "Scribes illuminating manuscripts",
+      "Actors holding stage lights"
+    ],
+    "answer": "Apprentices holding candles for master craftsmen"
+  },
+  {
+    "id": "general-3540",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "The phrase \"don't cry over spilled milk\" has its earliest known printed version in a 1658 collection of proverbs compiled by whom?",
+    "options": [
+      "James Howell",
+      "Benjamin Franklin",
+      "John Ray",
+      "Samuel Pepys"
+    ],
+    "answer": "James Howell"
+  },
+  {
+    "id": "general-3541",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "The phrase \"give the cold shoulder\" is popularly believed to originate from the practice of serving what to unwelcome guests?",
+    "options": [
+      "Cold mutton",
+      "Cold soup",
+      "Stale bread",
+      "Iced tea"
+    ],
+    "answer": "Cold mutton"
+  },
+  {
+    "id": "general-3542",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "The phrase \"a wild goose chase\" to mean a hopeless pursuit was coined by which playwright in *Romeo and Juliet*?",
+    "options": [
+      "William Shakespeare",
+      "Christopher Marlowe",
+      "Ben Jonson",
+      "John Webster"
+    ],
+    "answer": "William Shakespeare"
+  },
+  {
+    "id": "general-3543",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "The phrase \"let sleeping dogs lie\" traces back to a 14th-century proverb popularized by which English poet?",
+    "options": [
+      "Geoffrey Chaucer",
+      "John Milton",
+      "Edmund Spenser",
+      "William Langland"
+    ],
+    "answer": "Geoffrey Chaucer"
+  },
+  {
+    "id": "general-3544",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "The phrase \"resting on one's laurels\" refers to relying on past success, originating from the ancient Greek tradition of awarding wreaths made of what?",
+    "options": [
+      "Laurel leaves",
+      "Olive branches",
+      "Oak leaves",
+      "Ivy"
+    ],
+    "answer": "Laurel leaves"
+  },
+  {
+    "id": "general-3545",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "The phrase \"read between the lines\" originates from the practice of doing what?",
+    "options": [
+      "Writing secret messages in invisible ink between lines of text",
+      "Hiding money in books",
+      "Inserting blank lines in legal documents",
+      "Creating acrostic poems"
+    ],
+    "answer": "Writing secret messages in invisible ink between lines of text"
+  },
+  {
+    "id": "general-3546",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "The phrase \"sit on the fence\" to mean remaining neutral was popularized in the US during the financial panic of which year?",
+    "options": [
+      "1873",
+      "1929",
+      "1893",
+      "1907"
+    ],
+    "answer": "1873"
+  },
+  {
+    "id": "general-3547",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "The phrase \"the elephant in the room\" referring to an obvious problem people avoid was popularized by a 1980s counseling approach book by whom?",
+    "options": [
+      "Tyndall and Tyndall",
+      "John Bradshaw",
+      "Carl Rogers",
+      "Irvin Yalom"
+    ],
+    "answer": "Tyndall and Tyndall"
+  },
+  {
+    "id": "general-3548",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "The phrase \"the straw that broke the camel's back\" is an Arabic proverb referencing the concept of what?",
+    "options": [
+      "Cumulative effect",
+      "Animal cruelty",
+      "Desert travel",
+      "Agriculture"
+    ],
+    "answer": "Cumulative effect"
+  },
+  {
+    "id": "general-3549",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "The phrase \"throw caution to the wind\" means to take a risk, originating from the nautical concept of doing what?",
+    "options": [
+      "Releasing sails during a storm",
+      "Dropping heavy cargo",
+      "Disobeying the captain",
+      "Sailing without a compass"
+    ],
+    "answer": "Releasing sails during a storm"
+  },
+  {
+    "id": "general-3550",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "The phrase \"bite the dust,\" meaning to die or fail, has its origins in an English translation of which epic poem?",
+    "options": [
+      "The Iliad",
+      "The Odyssey",
+      "Beowulf",
+      "The Aeneid"
+    ],
+    "answer": "The Iliad"
+  },
+  {
+    "id": "general-3551",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "The phrase \"clear as mud\" is an example of which figure of speech?",
+    "options": [
+      "Irony",
+      "Hyperbole",
+      "Litotes",
+      "Meiosis"
+    ],
+    "answer": "Irony"
+  },
+  {
+    "id": "general-3552",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "The earliest variation of the phrase \"curiosity killed the cat\" appeared in a 1598 play by whom?",
+    "options": [
+      "Ben Jonson",
+      "William Shakespeare",
+      "Christopher Marlowe",
+      "John Webster"
+    ],
+    "answer": "Ben Jonson"
+  },
+  {
+    "id": "general-3553",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "The phrase \"a fish out of water\" to describe an uncomfortable person was popularized by which 14th-century author?",
+    "options": [
+      "Geoffrey Chaucer",
+      "John Wycliffe",
+      "William Langland",
+      "Thomas Malory"
+    ],
+    "answer": "Geoffrey Chaucer"
+  },
+  {
+    "id": "general-3554",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "The phrase \"ignorance is bliss\" comes from a 1742 poem titled *Ode on a Distant Prospect of Eton College* by whom?",
+    "options": [
+      "Thomas Gray",
+      "Alexander Pope",
+      "William Cowper",
+      "John Keats"
+    ],
+    "answer": "Thomas Gray"
+  },
+  {
+    "id": "general-3555",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "The concept of killing two birds with one stone can be traced back to a similar phrase in the works of which Roman poet?",
+    "options": [
+      "Ovid",
+      "Virgil",
+      "Horace",
+      "Juvenal"
+    ],
+    "answer": "Ovid"
+  },
+  {
+    "id": "general-3556",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "The phrase \"needle in a haystack\" to describe something hard to find was popularized in English by which author in 1605?",
+    "options": [
+      "Miguel de Cervantes",
+      "William Shakespeare",
+      "Thomas More",
+      "Francis Bacon"
+    ],
+    "answer": "Miguel de Cervantes"
+  },
+  {
+    "id": "general-3557",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "The phrase \"no pain, no gain\" is often attributed to which Founding Father's 1748 publication *Poor Richard's Almanack*?",
+    "options": [
+      "Benjamin Franklin",
+      "Thomas Jefferson",
+      "John Adams",
+      "George Washington"
+    ],
+    "answer": "Benjamin Franklin"
+  },
+  {
+    "id": "general-3558",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "The phrase \"out of the frying pan and into the fire\" appeared in English in a 1528 work by which statesman?",
+    "options": [
+      "Thomas More",
+      "William Tyndale",
+      "Thomas Cromwell",
+      "Francis Bacon"
+    ],
+    "answer": "Thomas More"
+  },
+  {
+    "id": "general-3559",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "The phrase \"play devil's advocate\" comes from the Catholic Church's canonization process, where the Advocatus Diaboli's job was to do what?",
+    "options": [
+      "Argue against sainthood",
+      "Defend the Pope",
+      "Cross-examine witnesses",
+      "Draft canonical law"
+    ],
+    "answer": "Argue against sainthood"
+  },
+  {
+    "id": "general-3560",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "The phrase \"put your best foot forward\" is traditionally believed to relate to the visual effect of doing what?",
+    "options": [
+      "Stepping forward to hide a deformed leg",
+      "Bowing to royalty",
+      "Starting a race",
+      "Dancing a waltz"
+    ],
+    "answer": "Stepping forward to hide a deformed leg"
+  },
+  {
+    "id": "general-3561",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "The phrase \"Rome wasn't built in a day\" was popularized in English by a 1545 collection of proverbs compiled by whom?",
+    "options": [
+      "John Heywood",
+      "Rabelais",
+      "Erasmus",
+      "William Caxton"
+    ],
+    "answer": "John Heywood"
+  },
+  {
+    "id": "general-3562",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "The phrase \"sick as a dog\" to describe being very ill dates back to a 1700s phrase comparing human illness to what canine behavior?",
+    "options": [
+      "A dog vomiting",
+      "A dog with rabies",
+      "A dog sleeping all day",
+      "A dog limping"
+    ],
+    "answer": "A dog vomiting"
+  },
+  {
+    "id": "general-3563",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "The phrase \"water under the bridge\" meaning something in the past originates from the flow of what?",
+    "options": [
+      "A river passing a fixed point",
+      "A moat around a castle",
+      "A mill stream",
+      "Rain in a gutter"
+    ],
+    "answer": "A river passing a fixed point"
+  },
+  {
+    "id": "general-3564",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "The phrase \"you reap what you sow\" meaning actions have consequences originates from a text in which religious tradition?",
+    "options": [
+      "The Bible",
+      "The Quran",
+      "The Vedas",
+      "The Tao Te Ching"
+    ],
+    "answer": "The Bible"
+  },
+  {
+    "id": "general-3565",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "How many cards are in a standard Tarot deck used for divination?",
+    "options": [
+      "78",
+      "52",
+      "54",
+      "72"
+    ],
+    "answer": "78"
+  },
+  {
+    "id": "general-3566",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In Scrabble, what is the term for playing all seven of your tiles in a single turn to earn a 50-point bonus?",
+    "options": [
+      "Bingo",
+      "A Yahtzee",
+      "A Royal Flush",
+      "A Slam"
+    ],
+    "answer": "Bingo"
+  },
+  {
+    "id": "general-3567",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "How many blank tiles are included in a standard English Scrabble set?",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "0"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": "general-3568",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the cheapest property to purchase on a standard Monopoly board?",
+    "options": [
+      "Mediterranean Avenue",
+      "Baltic Avenue",
+      "Oriental Avenue",
+      "Vermont Avenue"
+    ],
+    "answer": "Mediterranean Avenue"
+  },
+  {
+    "id": "general-3569",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In the board game Catan, what resource is produced by a \"mountain\" hex?",
+    "options": [
+      "Ore",
+      "Brick",
+      "Wood",
+      "Sheep"
+    ],
+    "answer": "Ore"
+  },
+  {
+    "id": "general-3570",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In the board game Catan, what resource is produced by a \"pasture\" hex?",
+    "options": [
+      "Sheep",
+      "Wheat",
+      "Ore",
+      "Brick"
+    ],
+    "answer": "Sheep"
+  },
+  {
+    "id": "general-3571",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In the board game Clue, who is the victim that has been murdered?",
+    "options": [
+      "Mr. Boddy",
+      "Mr. Burns",
+      "Dr. Black",
+      "Mr. Green"
+    ],
+    "answer": "Mr. Boddy"
+  },
+  {
+    "id": "general-3572",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In chess, what is the term for the move where a pawn reaches the eighth rank and is converted into another piece?",
+    "options": [
+      "Promotion",
+      "Ascension",
+      "Conversion",
+      "Transmutation"
+    ],
+    "answer": "Promotion"
+  },
+  {
+    "id": "general-3573",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "In chess, what is the French term for the special pawn capture that can occur if a pawn moves two squares forward and lands beside an enemy pawn?",
+    "options": [
+      "En passant",
+      "En garde",
+      "Coup de grâce",
+      "J'adoube"
+    ],
+    "answer": "En passant"
+  },
+  {
+    "id": "general-3574",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What German term, meaning \"compulsion to move,\" describes a chess situation where any move a player makes will worsen their position?",
+    "options": [
+      "Zugzwang",
+      "Zeitnot",
+      "Zwischenzug",
+      "Scheveningen"
+    ],
+    "answer": "Zugzwang"
+  },
+  {
+    "id": "general-3575",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In standard English Scrabble, which letter is worth 5 points?",
+    "options": [
+      "K",
+      "F",
+      "H",
+      "V"
+    ],
+    "answer": "K"
+  },
+  {
+    "id": "general-3576",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In backgammon, how many checkers does each player begin the game with?",
+    "options": [
+      "15",
+      "12",
+      "18",
+      "20"
+    ],
+    "answer": "15"
+  },
+  {
+    "id": "general-3577",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "In the traditional board game Go, how many intersections are on a standard 19x19 board?",
+    "options": [
+      "361",
+      "324",
+      "400",
+      "289"
+    ],
+    "answer": "361"
+  },
+  {
+    "id": "general-3578",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the name of the modern board game where players place tiles to build a medieval landscape and place wooden figures called \"meeples\"?",
+    "options": [
+      "Carcassonne",
+      "Catan",
+      "Agricola",
+      "Ticket to Ride"
+    ],
+    "answer": "Carcassonne"
+  },
+  {
+    "id": "general-3579",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In the cooperative board game Pandemic, players work together to treat diseases and find cures for how many different colors of diseases?",
+    "options": [
+      "Four",
+      "Three",
+      "Five",
+      "Two"
+    ],
+    "answer": "Four"
+  },
+  {
+    "id": "general-3580",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "In the board game Pandemic, how many disease cubes of each color are supplied in the standard game?",
+    "options": [
+      "24",
+      "20",
+      "25",
+      "30"
+    ],
+    "answer": "24"
+  },
+  {
+    "id": "general-3581",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In the board game Scotland Yard, one player takes on the role of a criminal hiding where?",
+    "options": [
+      "London",
+      "New York City",
+      "Paris",
+      "Edinburgh"
+    ],
+    "answer": "London"
+  },
+  {
+    "id": "general-3582",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In the classic board game Trivial Pursuit, what color wedge represents the \"Science & Nature\" category?",
+    "options": [
+      "Green",
+      "Orange",
+      "Blue",
+      "Brown"
+    ],
+    "answer": "Green"
+  },
+  {
+    "id": "general-3583",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In Trivial Pursuit, what color wedge represents the \"Sports & Leisure\" category?",
+    "options": [
+      "Orange",
+      "Yellow",
+      "Pink",
+      "Green"
+    ],
+    "answer": "Orange"
+  },
+  {
+    "id": "general-3584",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In Trivial Pursuit, what color wedge represents the \"Entertainment\" category in the classic Genus edition?",
+    "options": [
+      "Pink",
+      "Brown",
+      "Blue",
+      "Yellow"
+    ],
+    "answer": "Pink"
+  },
+  {
+    "id": "general-3585",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "In Trivial Pursuit, what color wedge represents the \"Arts & Literature\" category?",
+    "options": [
+      "Brown",
+      "Pink",
+      "Yellow",
+      "Blue"
+    ],
+    "answer": "Brown"
+  },
+  {
+    "id": "general-3586",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In Trivial Pursuit, what color wedge represents the \"Geography\" category?",
+    "options": [
+      "Blue",
+      "Green",
+      "Orange",
+      "Brown"
+    ],
+    "answer": "Blue"
+  },
+  {
+    "id": "general-3587",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In Trivial Pursuit, what color wedge represents the \"History\" category?",
+    "options": [
+      "Yellow",
+      "Orange",
+      "Pink",
+      "Green"
+    ],
+    "answer": "Yellow"
+  },
+  {
+    "id": "general-3588",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the name of the two-player board game where competitors drop colored discs into a vertically suspended grid to form a line of four?",
+    "options": [
+      "Connect Four",
+      "Sorry!",
+      "Trouble",
+      "Jenga"
+    ],
+    "answer": "Connect Four"
+  },
+  {
+    "id": "general-3589",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the name of the game where players take turns removing wooden blocks from a tower without making it fall?",
+    "options": [
+      "Jenga",
+      "Kerplunk",
+      "Pick Up Sticks",
+      "Tumble Tower"
+    ],
+    "answer": "Jenga"
+  },
+  {
+    "id": "general-3590",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In the card game Hearts, how many penalty points is the Queen of Spades worth?",
+    "options": [
+      "13",
+      "10",
+      "15",
+      "20"
+    ],
+    "answer": "13"
+  },
+  {
+    "id": "general-3591",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the name of the card game where players score points by forming combinations of cards into a \"crib\" that belongs to the dealer?",
+    "options": [
+      "Cribbage",
+      "Pinochle",
+      "Whist",
+      "Canasta"
+    ],
+    "answer": "Cribbage"
+  },
+  {
+    "id": "general-3592",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In the card game Cribbage, how many points is a pair of cards of the same rank worth?",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "5"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": "general-3593",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the name of the popular card game where partners try to take exactly the number of tricks they bid, with spades always as the trump suit?",
+    "options": [
+      "Spades",
+      "Hearts",
+      "Euchre",
+      "Bridge"
+    ],
+    "answer": "Spades"
+  },
+  {
+    "id": "general-3594",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In Blackjack, what is the term for being dealt an Ace and a ten-value card as the initial two cards?",
+    "options": [
+      "Natural",
+      "A Slam",
+      "A Bust",
+      "A Push"
+    ],
+    "answer": "Natural"
+  },
+  {
+    "id": "general-3595",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In the board game Risk, what is the maximum number of dice an attacker can roll in a single turn?",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "5"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": "general-3596",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In the board game Risk, what is the maximum number of dice a defender can roll in a single turn?",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": "general-3597",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the name of the board game where players spin a wheel to move around a track simulating life events like college, marriage, and retirement?",
+    "options": [
+      "The Game of Life",
+      "Monopoly",
+      "Payday",
+      "Careers"
+    ],
+    "answer": "The Game of Life"
+  },
+  {
+    "id": "general-3598",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the traditional Indian name for the game known in English as Snakes and Ladders?",
+    "options": [
+      "Moksha Patam",
+      "Pachisi",
+      "Chaupar",
+      "Kho Kho"
+    ],
+    "answer": "Moksha Patam"
+  },
+  {
+    "id": "general-3599",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the traditional Indian name for the board game Parcheesi?",
+    "options": [
+      "Pachisi",
+      "Ludo",
+      "Moksha Patam",
+      "Ashta Chamma"
+    ],
+    "answer": "Pachisi"
+  },
+  {
+    "id": "general-3600",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the name of the board game where players use cards to move pieces around a track, attempting to send opponents' pieces back to the start?",
+    "options": [
+      "Sorry!",
+      "Trouble",
+      "Ludo",
+      "Parcheesi"
+    ],
+    "answer": "Sorry!"
+  },
+  {
+    "id": "general-3601",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "In the card game Euchre, how many cards are dealt to each player?",
+    "options": [
+      "5",
+      "7",
+      "6",
+      "10"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": "general-3602",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "In Euchre, what is the name of the highest-ranking card in the trump suit?",
+    "options": [
+      "Right Bower",
+      "Left Bower",
+      "Ace of Trump",
+      "Jack of the same color"
+    ],
+    "answer": "Right Bower"
+  },
+  {
+    "id": "general-3603",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the name of the word game where players take turns adding letters to a growing word fragment, trying not to be the one to complete a valid word?",
+    "options": [
+      "Ghost",
+      "Boggle",
+      "Hangman",
+      "Upwords"
+    ],
+    "answer": "Ghost"
+  },
+  {
+    "id": "general-3604",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "How many lettered dice are shaken in a standard game of Boggle?",
+    "options": [
+      "16",
+      "12",
+      "20",
+      "25"
+    ],
+    "answer": "16"
+  },
+  {
+    "id": "general-3605",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the name of the classic deduction board game where one player creates a secret code of colored pegs and the other tries to guess it?",
+    "options": [
+      "Mastermind",
+      "Stratego",
+      "Clue",
+      "Battleship"
+    ],
+    "answer": "Mastermind"
+  },
+  {
+    "id": "general-3606",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the name of the board game played on a six-pointed star-shaped board where the goal is to move all your marbles to the opposite point?",
+    "options": [
+      "Chinese Checkers",
+      "Sorry!",
+      "Trouble",
+      "Aggravation"
+    ],
+    "answer": "Chinese Checkers"
+  },
+  {
+    "id": "general-3607",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In the casino game of roulette, how many numbered pockets are on a standard European wheel?",
+    "options": [
+      "37",
+      "36",
+      "38",
+      "40"
+    ],
+    "answer": "37"
+  },
+  {
+    "id": "general-3608",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In the casino game of roulette, how many numbered pockets are on a standard American wheel?",
+    "options": [
+      "38",
+      "37",
+      "36",
+      "39"
+    ],
+    "answer": "38"
+  },
+  {
+    "id": "general-3609",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In the dice game craps, what is the slang term for rolling a two?",
+    "options": [
+      "Snake eyes",
+      "Boxcars",
+      "Little Joe",
+      "Midnight"
+    ],
+    "answer": "Snake eyes"
+  },
+  {
+    "id": "general-3610",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In the dice game craps, what is the slang term for rolling a twelve?",
+    "options": [
+      "Boxcars",
+      "Snake eyes",
+      "Yo-leven",
+      "Little Joe"
+    ],
+    "answer": "Boxcars"
+  },
+  {
+    "id": "general-3611",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the name of the traditional Italian card game where players try to capture cards from a layout on the table by matching values?",
+    "options": [
+      "Scopa",
+      "Briscola",
+      "Tresette",
+      "Primiera"
+    ],
+    "answer": "Scopa"
+  },
+  {
+    "id": "general-3612",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In the board game Catan, what resource is produced by a \"hill\" hex?",
+    "options": [
+      "Brick",
+      "Wood",
+      "Ore",
+      "Wheat"
+    ],
+    "answer": "Brick"
+  },
+  {
+    "id": "general-3613",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In the board game Catan, what resource is produced by a \"forest\" hex?",
+    "options": [
+      "Wood",
+      "Brick",
+      "Sheep",
+      "Ore"
+    ],
+    "answer": "Wood"
+  },
+  {
+    "id": "general-3614",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In the board game Catan, what resource is produced by a \"field\" hex?",
+    "options": [
+      "Wheat",
+      "Sheep",
+      "Wood",
+      "Brick"
+    ],
+    "answer": "Wheat"
+  },
+  {
+    "id": "general-3615",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In the tile-based game of Mahjong, how many standard suits are there?",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "5"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": "general-3616",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the name of the popular party game where players split into two teams, and a clue-giver gives one-word clues to help their team guess words on a grid while avoiding the assassin?",
+    "options": [
+      "Codenames",
+      "Decrypto",
+      "Taboo",
+      "Catchphrase"
+    ],
+    "answer": "Codenames"
+  },
+  {
+    "id": "general-3617",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the name of the classic board game where players secretly place ships on a grid and call out coordinates to attack?",
+    "options": [
+      "Battleship",
+      "Stratego",
+      "Risk",
+      "Mastermind"
+    ],
+    "answer": "Battleship"
+  },
+  {
+    "id": "general-3618",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the name of the simple card game where players try to collect sets of four by asking opponents for specific ranks?",
+    "options": [
+      "Go Fish",
+      "Rummy",
+      "War",
+      "Crazy Eights"
+    ],
+    "answer": "Go Fish"
+  },
+  {
+    "id": "general-3619",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the name of the shedding-type card game where players try to get rid of their cards by matching the rank or suit of the top card on the discard pile?",
+    "options": [
+      "Crazy Eights",
+      "Spades",
+      "Hearts",
+      "Euchre"
+    ],
+    "answer": "Crazy Eights"
+  },
+  {
+    "id": "general-3620",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the name of the casino game where players bet on the outcome of a roll of two dice?",
+    "options": [
+      "Craps",
+      "Roulette",
+      "Baccarat",
+      "Keno"
+    ],
+    "answer": "Craps"
+  },
+  {
+    "id": "general-3621",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the name of the word game where players shake a grid of lettered dice and try to find as many connected words as possible in a time limit?",
+    "options": [
+      "Boggle",
+      "Scrabble",
+      "Upwords",
+      "Banangrams"
+    ],
+    "answer": "Boggle"
+  },
+  {
+    "id": "general-3622",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the name of the party game where a player tries to get their team to guess a word without saying a list of restricted words?",
+    "options": [
+      "Taboo",
+      "Pictionary",
+      "Charades",
+      "Catchphrase"
+    ],
+    "answer": "Taboo"
+  },
+  {
+    "id": "general-3623",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the name of the party game where players take turns drawing a word or phrase while their team tries to guess what it is?",
+    "options": [
+      "Pictionary",
+      "Charades",
+      "Taboo",
+      "Telestrations"
+    ],
+    "answer": "Pictionary"
+  },
+  {
+    "id": "general-3624",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the name of the fast-paced visual card game where players try to be the first to spot the single matching symbol between any two cards?",
+    "options": [
+      "Spot It!",
+      "SET",
+      "UNO",
+      "Phase 10"
+    ],
+    "answer": "Spot It!"
+  },
+  {
+    "id": "general-3625",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the name of the board game similar to Scrabble where players stack letter tiles on top of each other to change existing words?",
+    "options": [
+      "Upwords",
+      "Bananagrams",
+      "Boggle",
+      "Lexicon"
+    ],
+    "answer": "Upwords"
+  },
+  {
+    "id": "general-3626",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the name of the popular card game where players try to be the first to get rid of their cards and must slap the pile when certain combinations, like sandwiches or doubles, appear?",
+    "options": [
+      "Egyptian Ratscrew",
+      "Slapjack",
+      "Spit",
+      "War"
+    ],
+    "answer": "Egyptian Ratscrew"
+  },
+  {
+    "id": "general-3627",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "In the card game Spades, what is the term for a bid of zero tricks, which earns a bonus if successful but a penalty if even one trick is taken?",
+    "options": [
+      "Nil",
+      "Blind",
+      "Boston",
+      "Moon"
+    ],
+    "answer": "Nil"
+  },
+  {
+    "id": "general-3628",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the name of the children's board game where players move pieces up a grid and slide down chutes to reach the finish?",
+    "options": [
+      "Chutes and Ladders",
+      "Candy Land",
+      "Sorry!",
+      "Trouble"
+    ],
+    "answer": "Chutes and Ladders"
+  },
+  {
+    "id": "general-3629",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the name of the group of matching card games where the objective is to form melds of three or more cards of the same rank or sequence?",
+    "options": [
+      "Rummy",
+      "Poker",
+      "Hearts",
+      "Bridge"
+    ],
+    "answer": "Rummy"
+  },
+  {
+    "id": "general-3630",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In the board game Pandemic, how many cities are represented on the standard game board?",
+    "options": [
+      "48",
+      "36",
+      "50",
+      "24"
+    ],
+    "answer": "48"
+  },
+  {
+    "id": "general-3631",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which of the following is NOT one of the original six weapons in the classic board game Clue?",
+    "options": [
+      "Poison",
+      "Candlestick",
+      "Lead Pipe",
+      "Wrench"
+    ],
+    "answer": "Poison"
+  },
+  {
+    "id": "general-3632",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Which of the following properties is part of the \"Orange\" color group in standard US Monopoly?",
+    "options": [
+      "New York Avenue",
+      "Virginia Avenue",
+      "Kentucky Avenue",
+      "Redsylvania Avenue"
+    ],
+    "answer": "New York Avenue"
+  },
+  {
+    "id": "general-3633",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "In a standard deck of 52 playing cards, which is the only king without a mustache?",
+    "options": [
+      "King of Hearts",
+      "King of Spades",
+      "King of Diamonds",
+      "King of Clubs"
+    ],
+    "answer": "King of Hearts"
+  },
+  {
+    "id": "general-3634",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "Because he appears to be stabbing himself in the head with an axe, which playing card king is sometimes called the \"Suicide King\"?",
+    "options": [
+      "King of Hearts",
+      "King of Diamonds",
+      "King of Spades",
+      "King of Clubs"
+    ],
+    "answer": "King of Hearts"
+  },
+  {
+    "id": "general-3635",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "In a standard deck of playing cards, which two face cards are considered the \"one-eyed jacks,\" shown in profile with only one eye visible?",
+    "options": [
+      "Jack of Spades and Jack of Hearts",
+      "Jack of Clubs and Jack of Diamonds",
+      "Jack of Spades and Jack of Diamonds",
+      "Jack of Clubs and Jack of Hearts"
+    ],
+    "answer": "Jack of Spades and Jack of Hearts"
+  },
+  {
+    "id": "general-3636",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "In chess, what is the term for an opening in which a player sacrifices material to gain a positional or developmental advantage?",
+    "options": [
+      "Gambit",
+      "En passant",
+      "Fianchetto",
+      "Zwischenzug"
+    ],
+    "answer": "Gambit"
+  },
+  {
+    "id": "general-3637",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the official name of the symbol \"#\" often called a pound sign or hashtag?",
+    "options": [
+      "Octothorpe",
+      "Ampersand",
+      "Solidus",
+      "Asterisk"
+    ],
+    "answer": "Octothorpe"
+  },
+  {
+    "id": "general-3638",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the name of the punctuation mark \"/\" used to separate alternatives or represent a division?",
+    "options": [
+      "Solidus",
+      "Backslash",
+      "Caret",
+      "Virgule"
+    ],
+    "answer": "Solidus"
+  },
+  {
+    "id": "general-3639",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the name of the symbol \"\\\" commonly used in computing and programming?",
+    "options": [
+      "Backslash",
+      "Solidus",
+      "Tilde",
+      "Cedilla"
+    ],
+    "answer": "Backslash"
+  },
+  {
+    "id": "general-3640",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the name of the diacritic mark consisting of two dots placed over a vowel, as in \"naïve\" or \"Zoë\", to indicate they are pronounced separately?",
+    "options": [
+      "Diaeresis",
+      "Macron",
+      "Breve",
+      "Cedilla"
+    ],
+    "answer": "Diaeresis"
+  },
+  {
+    "id": "general-3641",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the name of the diacritic mark placed under the letter 'c' in French, as in \"façade\", to give it a soft sound?",
+    "options": [
+      "Cedilla",
+      "Ogonek",
+      "Breve",
+      "Hook"
+    ],
+    "answer": "Cedilla"
+  },
+  {
+    "id": "general-3642",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the name of the diacritic mark that slopes upward from left to right, as seen in the word \"café\"?",
+    "options": [
+      "Acute accent",
+      "Grave accent",
+      "Circumflex",
+      "Tilde"
+    ],
+    "answer": "Acute accent"
+  },
+  {
+    "id": "general-3643",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the name of the diacritic mark that slopes downward from left to right, as seen in the phrase \"à la mode\"?",
+    "options": [
+      "Grave accent",
+      "Acute accent",
+      "Circumflex",
+      "Breve"
+    ],
+    "answer": "Grave accent"
+  },
+  {
+    "id": "general-3644",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the name of the diacritic mark resembling a wavy line, used over the letter 'n' in Spanish to create the \"ny\" sound, as in \"piñata\"?",
+    "options": [
+      "Tilde",
+      "Macron",
+      "Cedilla",
+      "Caret"
+    ],
+    "answer": "Tilde"
+  },
+  {
+    "id": "general-3645",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the name of the diacritic mark placed as a straight line over a vowel to indicate a long sound, common in Latin transliteration?",
+    "options": [
+      "Macron",
+      "Breve",
+      "Diaeresis",
+      "Circumflex"
+    ],
+    "answer": "Macron"
+  },
+  {
+    "id": "general-3646",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the name of the diacritic mark shaped like a shallow 'u' placed over a vowel to indicate a short sound?",
+    "options": [
+      "Breve",
+      "Macron",
+      "Caron",
+      "Cedilla"
+    ],
+    "answer": "Breve"
+  },
+  {
+    "id": "general-3647",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In Spanish typography, what is the name for the punctuation mark \"¿\" placed at the start of a question?",
+    "options": [
+      "Inverted question mark",
+      "Spanish interrogative",
+      "Reverso mark",
+      "Anteflex"
+    ],
+    "answer": "Inverted question mark"
+  },
+  {
+    "id": "general-3648",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the name of the star-shaped symbol \"*\" commonly used to indicate a footnote?",
+    "options": [
+      "Asterisk",
+      "Dagger",
+      "Caret",
+      "Pilcrow"
+    ],
+    "answer": "Asterisk"
+  },
+  {
+    "id": "general-3649",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the name of the typographical mark \"†\" often used to indicate a second footnote after an asterisk?",
+    "options": [
+      "Dagger",
+      "Double dagger",
+      "Asterism",
+      "Caret"
+    ],
+    "answer": "Dagger"
+  },
+  {
+    "id": "general-3650",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the name of the typographical mark \"‡\" used to indicate a third footnote, after an asterisk and a dagger?",
+    "options": [
+      "Double dagger",
+      "Triple asterisk",
+      "Section sign",
+      "Pilcrow"
+    ],
+    "answer": "Double dagger"
+  },
+  {
+    "id": "general-3651",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the name of the typographical symbol \"§\" used to reference a specific section of a document?",
+    "options": [
+      "Section sign",
+      "Paragraph mark",
+      "Silcrow",
+      "Double S"
+    ],
+    "answer": "Section sign"
+  },
+  {
+    "id": "general-3652",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the formal name of the symbol \"@\" used in email addresses and social media handles?",
+    "options": [
+      "Commercial at",
+      "Ampersand",
+      "At mark",
+      "Monkey tail"
+    ],
+    "answer": "Commercial at"
+  },
+  {
+    "id": "general-3653",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the name of the symbol \"°\" used to represent degrees of temperature or an angle?",
+    "options": [
+      "Degree sign",
+      "Tilde",
+      "Caret",
+      "Macron"
+    ],
+    "answer": "Degree sign"
+  },
+  {
+    "id": "general-3654",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the name of the symbol \"%\" used to denote a proportion out of one hundred?",
+    "options": [
+      "Percent sign",
+      "Solidus",
+      "Ampersand",
+      "Octothorpe"
+    ],
+    "answer": "Percent sign"
+  },
+  {
+    "id": "general-3655",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the name of the symbol \"‰\" used to denote a proportion out of one thousand?",
+    "options": [
+      "Per mille sign",
+      "Basis point",
+      "Double percent",
+      "Kilo-sign"
+    ],
+    "answer": "Per mille sign"
+  },
+  {
+    "id": "general-3656",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the name of the punctuation mark \"–\" roughly the width of the letter 'n', commonly used to show ranges like 1990–1995?",
+    "options": [
+      "En dash",
+      "Em dash",
+      "Hyphen",
+      "Minus sign"
+    ],
+    "answer": "En dash"
   }
 ]

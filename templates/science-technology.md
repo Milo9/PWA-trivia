@@ -106,6 +106,12 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - State of matter the Sun is mostly made of (Plasma)
 - First commercially available microprocessor, Intel 1971 (Intel 4004)
 - Solid-to-gas phase change term (Sublimation) is already covered above — also watch for its reverse, gas-to-solid (Deposition), which is a DIFFERENT term/answer, not a duplicate
+- Most abundant element in Earth's crust (Oxygen); most electronegative element (Fluorine); the only halogen that's liquid at room temp (Bromine)
+- J.J. Thomson's "plum pudding" atomic model; the SI unit of radioactivity (Becquerel); absolute zero in Celsius; Gauss's law; the Tyndall effect
+- Human-anatomy chestnuts: the medulla oblongata's involuntary functions, the mitral valve (left atrium/ventricle), the aorta as the largest artery, B cells producing antibodies, helicase unwinding DNA, phagocytosis vs. pinocytosis, the humerus, synovial fluid, the patella's common name (kneecap), the Krebs cycle, translation (mRNA to protein)
+- Hormone identification: melatonin (sleep/pineal gland), cortisol (stress/adrenal), epinephrine (fight-or-flight/adrenal medulla), ethylene (plant fruit-ripening)
+- Inventor/credit chestnuts: Thomas Newcomen (steam engine), Eli Whitney (cotton gin), Alfred Nobel (dynamite), Bjarne Stroustrup (C++), Grace Hopper (first compiler), Daniel Gabriel Fahrenheit (mercury thermometer)
+- Otto cycle and Diesel cycle (engine thermodynamic cycles); the LASER acronym; transpiration (plant water vapor loss); the Mohs hardness scale; talc as the softest Mohs mineral; metamorphic rock formation
 
 CAUTION — some pairs that look like duplicates by shared answer or surface wording are NOT: SI unit of magnetic flux (Weber) is a different quantity from SI unit of magnetic flux DENSITY (Tesla), already covered; "which company developed C#" (Microsoft) is a different fact from "which company developed C" (Bell Labs/AT&T) despite the near-identical question text. Don't skip a fact just because a similarly-worded question already exists — check whether it's actually the same underlying fact first.
 

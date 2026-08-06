@@ -137,6 +137,23 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Second-largest island in the Mediterranean after Sicily (Sardinia)
 - Largest island in the Indian Ocean (Madagascar) — same fact as the existing Madagascar entries above, just reworded
 - Longest coastline in Africa (Somalia)
+- Capitals of Saint Lucia, Grenada, Dominica, Malta, Andorra, Seychelles, Luxembourg, Iceland, Cuba, The Gambia, Liberia, Togo, Central African Republic, Republic of the Congo, Tunisia, Uganda, Cameroon, Morocco, Algeria, Ethiopia, Zimbabwe, Yemen, and Somalia — now covered; a drafting agent converged on nearly this whole list of small/mid-size countries, so treat any "capital of [country]" idea as likely covered unless well outside every capitals list in this file
+- Khartoum sitting at the confluence of the Blue and White Nile (in addition to "what is the capital of Sudan" — both framings now covered)
+- Reykjavik as the world's northernmost national capital
+- River-identification chestnuts: the Thames through London, the Loire as France's longest river, the Tigris through Baghdad, the Amur forming the Russia–China border
+- Mount Whitney as the highest peak in the contiguous US; the Great Dividing Range along Australia's east coast; the Great Victoria Desert as Australia's largest desert; the Atlas Mountains across Morocco
+- Portugal as the only country bordering Spain / the other Iberian Peninsula country (both framings — they're the same fact)
+- Tierra del Fuego shared by Argentina and Chile, and the Argentina–Chile border as South America's longest international border (same underlying fact, don't reword either)
+- Cuba as the Caribbean's largest island; Luzon as the Philippines' largest island
+- The Bab-el-Mandeb strait connecting the Red Sea to the Gulf of Aden; the Strait of Messina separating Sicily from mainland Italy; the Isthmus of Panama connecting North and South America; the Kiel Canal linking the North Sea and Baltic in Germany
+- Andorra as the microstate between France and Spain (already listed above via Vaduz/Liechtenstein-style entries — Andorra itself is now saturated too); The Gambia as the country almost entirely surrounded by Senegal
+- The Scandinavian Peninsula containing Norway and Sweden; the English Channel/Strait of Dover as the narrowest UK–France crossing; the Aegean Sea between Greece and Turkey
+- The Drake Passage separating South America/Cape Horn from Antarctica
+- Stockholm built across an archipelago of islands where Lake Mälaren meets the Baltic
+- Africa as the continent with the most countries; the Arctic Ocean as the smallest ocean
+- Rwanda's "Land of a Thousand Hills" nickname
+- The Maldives as the world's flattest/lowest-lying country (any specific elevation figure — 1.5m, 2.4m, etc. — is still the same fact)
+- The 38th parallel as the Korean division line
 
 Also watch for a flag-shape trap: a drafted question claimed Vatican City is "the only country other than Nepal" with a non-rectangular flag, and a companion question claimed Nepal is "one of only two" non-rectangular flags — both wrong. Switzerland's flag is also square (non-oblong), so there are three unusual flags (Nepal, Switzerland, Vatican City), not two, and which ones count as "non-rectangular" depends on a contested definition (a square is technically still a rectangle). Cut rather than draft this angle unless you can phrase it without an "only X" claim.
 

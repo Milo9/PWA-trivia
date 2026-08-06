@@ -7460,5 +7460,2449 @@
     ],
     "answer": "1968",
     "id": "music-400"
+  },
+  {
+    "id": "music-401",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which symphony by Gustav Mahler is nicknamed the 'Symphony of a Thousand' due to the massive forces required to perform it?",
+    "options": [
+      "Symphony No. 8",
+      "Symphony No. 2",
+      "Symphony No. 3",
+      "Symphony No. 9"
+    ],
+    "answer": "Symphony No. 8"
+  },
+  {
+    "id": "music-402",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which composer completed Alexander Borodin's opera 'Prince Igor' after the composer's death?",
+    "options": [
+      "Alexander Glazunov",
+      "Nikolai Rimsky-Korsakov",
+      "Pyotr Ilyich Tchaikovsky",
+      "Modest Mussorgsky"
+    ],
+    "answer": "Alexander Glazunov"
+  },
+  {
+    "id": "music-403",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which movement of Gustav Holst's 'The Planets' is subtitled 'The Mystic'?",
+    "options": [
+      "Neptune",
+      "Pluto",
+      "Saturn",
+      "Uranus"
+    ],
+    "answer": "Neptune"
+  },
+  {
+    "id": "music-404",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 20th-century composer is famous for his silent piece '4 minutes 33 seconds'?",
+    "options": [
+      "John Cage",
+      "Karlheinz Stockhausen",
+      "Philip Glass",
+      "Steve Reich"
+    ],
+    "answer": "John Cage"
+  },
+  {
+    "id": "music-405",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "What non-traditional 'instruments' are famously featured in the climax of Tchaikovsky's '1812 Overture'?",
+    "options": [
+      "Cannons",
+      "Church bells",
+      "Anvils",
+      "Whip cracks"
+    ],
+    "answer": "Cannons"
+  },
+  {
+    "id": "music-406",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which composer wrote the extensive contrapuntal work 'The Art of Fugue'?",
+    "options": [
+      "Johann Sebastian Bach",
+      "George Frideric Handel",
+      "Antonio Vivaldi",
+      "Domenico Scarlatti"
+    ],
+    "answer": "Johann Sebastian Bach"
+  },
+  {
+    "id": "music-407",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "How many completed symphonies did Ludwig van Beethoven write?",
+    "options": [
+      "Nine",
+      "Seven",
+      "Eight",
+      "Ten"
+    ],
+    "answer": "Nine"
+  },
+  {
+    "id": "music-408",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which composer wrote the 'Trout Quintet'?",
+    "options": [
+      "Franz Schubert",
+      "Robert Schumann",
+      "Johannes Brahms",
+      "Felix Mendelssohn"
+    ],
+    "answer": "Franz Schubert"
+  },
+  {
+    "id": "music-409",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which 19th-century composer, known for 'Má vlast' (My Country), was born in Bohemia?",
+    "options": [
+      "Bedřich Smetana",
+      "Antonín Dvořák",
+      "Leoš Janáček",
+      "Frédéric Chopin"
+    ],
+    "answer": "Bedřich Smetana"
+  },
+  {
+    "id": "music-410",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which composer wrote the orchestral suite 'The Carnival of the Animals'?",
+    "options": [
+      "Camille Saint-Saëns",
+      "Georges Bizet",
+      "Claude Debussy",
+      "Maurice Ravel"
+    ],
+    "answer": "Camille Saint-Saëns"
+  },
+  {
+    "id": "music-411",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which French composer wrote the massive 'Turangalîla-Symphonie'?",
+    "options": [
+      "Olivier Messiaen",
+      "Pierre Boulez",
+      "Erik Satie",
+      "Darius Milhaud"
+    ],
+    "answer": "Olivier Messiaen"
+  },
+  {
+    "id": "music-412",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which composer is famous for his two sets of 'Hungarian Dances'?",
+    "options": [
+      "Johannes Brahms",
+      "Franz Liszt",
+      "Antonín Dvořák",
+      "Béla Bartók"
+    ],
+    "answer": "Johannes Brahms"
+  },
+  {
+    "id": "music-413",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which Czech composer wrote the 'Symphony No. 9', commonly known as the 'New World Symphony'?",
+    "options": [
+      "Antonín Dvořák",
+      "Bedřich Smetana",
+      "Gustav Mahler",
+      "Leoš Janáček"
+    ],
+    "answer": "Antonín Dvořák"
+  },
+  {
+    "id": "music-414",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which Russian composer wrote the children's story 'Peter and the Wolf'?",
+    "options": [
+      "Sergei Prokofiev",
+      "Igor Stravinsky",
+      "Dmitri Shostakovich",
+      "Sergei Rachmaninoff"
+    ],
+    "answer": "Sergei Prokofiev"
+  },
+  {
+    "id": "music-415",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "What woodwind instrument represents the bird in Prokofiev's 'Peter and the Wolf'?",
+    "options": [
+      "Flute",
+      "Oboe",
+      "Clarinet",
+      "Bassoon"
+    ],
+    "answer": "Flute"
+  },
+  {
+    "id": "music-416",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which German composer wrote the tone poem 'Also sprach Zarathustra', famous for its use in '2001: A Space Odyssey'?",
+    "options": [
+      "Richard Strauss",
+      "Richard Wagner",
+      "Gustav Mahler",
+      "Anton Bruckner"
+    ],
+    "answer": "Richard Strauss"
+  },
+  {
+    "id": "music-417",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which composer's Symphony No. 8 is famously known as the 'Unfinished Symphony'?",
+    "options": [
+      "Franz Schubert",
+      "Anton Bruckner",
+      "Robert Schumann",
+      "Felix Mendelssohn"
+    ],
+    "answer": "Franz Schubert"
+  },
+  {
+    "id": "music-418",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which Giuseppe Verdi opera features the famous 'Anvil Chorus'?",
+    "options": [
+      "Il trovatore",
+      "Aida",
+      "La traviata",
+      "Rigoletto"
+    ],
+    "answer": "Il trovatore"
+  },
+  {
+    "id": "music-419",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1959 Miles Davis album is widely credited with introducing modal jazz?",
+    "options": [
+      "Kind of Blue",
+      "Bitches Brew",
+      "Birth of the Cool",
+      "A Tribute to Jack Johnson"
+    ],
+    "answer": "Kind of Blue"
+  },
+  {
+    "id": "music-420",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which jazz pianist composed the standard 'Round Midnight'?",
+    "options": [
+      "Thelonious Monk",
+      "Bill Evans",
+      "Herbie Hancock",
+      "McCoy Tyner"
+    ],
+    "answer": "Thelonious Monk"
+  },
+  {
+    "id": "music-421",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which jazz saxophonist released the highly influential 1960 album 'Giant Steps'?",
+    "options": [
+      "John Coltrane",
+      "Sonny Rollins",
+      "Ornette Coleman",
+      "Charlie Parker"
+    ],
+    "answer": "John Coltrane"
+  },
+  {
+    "id": "music-422",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which jazz bassist and composer released the 1959 album 'Mingus Ah Um'?",
+    "options": [
+      "Charles Mingus",
+      "Ron Carter",
+      "Jaco Pastorius",
+      "Paul Chambers"
+    ],
+    "answer": "Charles Mingus"
+  },
+  {
+    "id": "music-423",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which jazz pianist composed and recorded the famous piece 'Take Five' with his quartet?",
+    "options": [
+      "Dave Brubeck",
+      "Vince Guaraldi",
+      "Oscar Peterson",
+      "Bill Evans"
+    ],
+    "answer": "Dave Brubeck"
+  },
+  {
+    "id": "music-424",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "What unusual time signature is the Dave Brubeck Quartet's 'Take Five' written in?",
+    "options": [
+      "5/4",
+      "7/8",
+      "9/8",
+      "3/4"
+    ],
+    "answer": "5/4"
+  },
+  {
+    "id": "music-425",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which trumpeter was a primary pioneer of the West Coast 'cool jazz' movement in the 1950s?",
+    "options": [
+      "Chet Baker",
+      "Dizzy Gillespie",
+      "Miles Davis",
+      "Clifford Brown"
+    ],
+    "answer": "Chet Baker"
+  },
+  {
+    "id": "music-426",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which jazz vocalist collaborated with Louis Armstrong on the classic 1956 album 'Ella and Louis'?",
+    "options": [
+      "Ella Fitzgerald",
+      "Sarah Vaughan",
+      "Billie Holiday",
+      "Nina Simone"
+    ],
+    "answer": "Ella Fitzgerald"
+  },
+  {
+    "id": "music-427",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which jazz bandleader and composer wrote the early jazz standard 'In a Sentimental Mood'?",
+    "options": [
+      "Duke Ellington",
+      "Count Basie",
+      "Benny Goodman",
+      "Glenn Miller"
+    ],
+    "answer": "Duke Ellington"
+  },
+  {
+    "id": "music-428",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which keyboardist released the groundbreaking 1973 jazz-funk fusion album 'Head Hunters'?",
+    "options": [
+      "Herbie Hancock",
+      "Miles Davis",
+      "Wayne Shorter",
+      "Chick Corea"
+    ],
+    "answer": "Herbie Hancock"
+  },
+  {
+    "id": "music-429",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which jazz fusion group released the 1977 album 'Heavy Weather', featuring the hit 'Birdland'?",
+    "options": [
+      "Weather Report",
+      "Return to Forever",
+      "Mahavishnu Orchestra",
+      "The Headhunters"
+    ],
+    "answer": "Weather Report"
+  },
+  {
+    "id": "music-430",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which jazz fusion band, led by Chick Corea, released the 1976 album 'Romantic Warrior'?",
+    "options": [
+      "Return to Forever",
+      "Mahavishnu Orchestra",
+      "Weather Report",
+      "Soft Machine"
+    ],
+    "answer": "Return to Forever"
+  },
+  {
+    "id": "music-431",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which tenor saxophonist released the classic 1957 hard bop album 'Saxophone Colossus'?",
+    "options": [
+      "Sonny Rollins",
+      "John Coltrane",
+      "Stan Getz",
+      "Wayne Shorter"
+    ],
+    "answer": "Sonny Rollins"
+  },
+  {
+    "id": "music-432",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which jazz drummer was a key member of the classic John Coltrane Quartet that recorded 'A Love Supreme'?",
+    "options": [
+      "Elvin Jones",
+      "Tony Williams",
+      "Art Blakey",
+      "Max Roach"
+    ],
+    "answer": "Elvin Jones"
+  },
+  {
+    "id": "music-433",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which jazz pianist composed the hard bop standard 'Blue Monk'?",
+    "options": [
+      "Thelonious Monk",
+      "Horace Silver",
+      "Bud Powell",
+      "Red Garland"
+    ],
+    "answer": "Thelonious Monk"
+  },
+  {
+    "id": "music-434",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which jazz composer wrote the ambitious extended work 'Black, Brown and Beige'?",
+    "options": [
+      "Duke Ellington",
+      "Charles Mingus",
+      "Wynton Marsalis",
+      "Sun Ra"
+    ],
+    "answer": "Duke Ellington"
+  },
+  {
+    "id": "music-435",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which Charles Mingus album is widely considered his masterpiece and features a 39-piece orchestra?",
+    "options": [
+      "The Black Saint and the Sinner Lady",
+      "Mingus Ah Um",
+      "Let My Children Hear Music",
+      "Mingus Dynasty"
+    ],
+    "answer": "The Black Saint and the Sinner Lady"
+  },
+  {
+    "id": "music-436",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which jazz singer released the final studio album of her career, 'Lady in Satin', in 1958?",
+    "options": [
+      "Billie Holiday",
+      "Sarah Vaughan",
+      "Ella Fitzgerald",
+      "Nina Simone"
+    ],
+    "answer": "Billie Holiday"
+  },
+  {
+    "id": "music-437",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which jazz pianist composed the hard bop standard 'Moanin'', famously played by Art Blakey's Jazz Messengers?",
+    "options": [
+      "Bobby Timmons",
+      "Horace Silver",
+      "Sonny Clark",
+      "Kenny Drew"
+    ],
+    "answer": "Bobby Timmons"
+  },
+  {
+    "id": "music-438",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which jazz vibraphonist was a founding member of the Modern Jazz Quartet?",
+    "options": [
+      "Milt Jackson",
+      "Lionel Hampton",
+      "Gary Burton",
+      "Bobby Hutcherson"
+    ],
+    "answer": "Milt Jackson"
+  },
+  {
+    "id": "music-439",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which 1971 Led Zeppelin album features no title or band name on its original vinyl cover?",
+    "options": [
+      "Led Zeppelin IV",
+      "Led Zeppelin III",
+      "Houses of the Holy",
+      "Physical Graffiti"
+    ],
+    "answer": "Led Zeppelin IV"
+  },
+  {
+    "id": "music-440",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1972 David Bowie concept album features the androgynous rock star character Ziggy Stardust?",
+    "options": [
+      "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
+      "Aladdin Sane",
+      "Hunky Dory",
+      "Diamond Dogs"
+    ],
+    "answer": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars"
+  },
+  {
+    "id": "music-441",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which 1975 Bruce Springsteen album features the title track and established him as a major rock star?",
+    "options": [
+      "Born to Run",
+      "The Wild, the Innocent & the E Street Shuffle",
+      "Darkness on the Edge of Town",
+      "The River"
+    ],
+    "answer": "Born to Run"
+  },
+  {
+    "id": "music-442",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1970 debut album by Black Sabbath is widely considered the birth of heavy metal?",
+    "options": [
+      "Black Sabbath",
+      "Paranoid",
+      "Master of Reality",
+      "Volume 4"
+    ],
+    "answer": "Black Sabbath"
+  },
+  {
+    "id": "music-443",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1969 album by The Who is widely considered one of the first successful rock operas?",
+    "options": [
+      "Tommy",
+      "Quadrophenia",
+      "Who's Next",
+      "The Who Sell Out"
+    ],
+    "answer": "Tommy"
+  },
+  {
+    "id": "music-444",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1971 Rolling Stones album features the controversial song 'Brown Sugar' and a working zipper on the original cover?",
+    "options": [
+      "Sticky Fingers",
+      "Let It Bleed",
+      "Exile on Main St.",
+      "Goats Head Soup"
+    ],
+    "answer": "Sticky Fingers"
+  },
+  {
+    "id": "music-445",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which 1969 Led Zeppelin album features the heavy blues-rock track 'Whole Lotta Love'?",
+    "options": [
+      "Led Zeppelin II",
+      "Led Zeppelin I",
+      "Led Zeppelin III",
+      "Led Zeppelin IV"
+    ],
+    "answer": "Led Zeppelin II"
+  },
+  {
+    "id": "music-446",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which 1967 debut album by The Doors features the breakout hit 'Light My Fire'?",
+    "options": [
+      "The Doors",
+      "Strange Days",
+      "Waiting for the Sun",
+      "L.A. Woman"
+    ],
+    "answer": "The Doors"
+  },
+  {
+    "id": "music-447",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1973 debut album by Lynyrd Skynyrd features the epic closing track 'Free Bird'?",
+    "options": [
+      "(Pronounced 'Lĕh-'nérd 'Skin-'nérd)",
+      "Second Helping",
+      "Gimme Back My Bullets",
+      "Street Survivors"
+    ],
+    "answer": "(Pronounced 'Lĕh-'nérd 'Skin-'nérd)"
+  },
+  {
+    "id": "music-448",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which 1976 Eagles album features the iconic title track about a luxurious but inescapable hotel?",
+    "options": [
+      "Hotel California",
+      "One of These Nights",
+      "Desperado",
+      "The Long Run"
+    ],
+    "answer": "Hotel California"
+  },
+  {
+    "id": "music-449",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1966 Beach Boys album was intended to follow 'Pet Sounds' but was famously shelved for decades?",
+    "options": [
+      "Smile",
+      "Smiley Smile",
+      "Wild Honey",
+      "Friends"
+    ],
+    "answer": "Smile"
+  },
+  {
+    "id": "music-450",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which 1971 Carole King album features the hits 'It's Too Late' and 'I Feel the Earth Move'?",
+    "options": [
+      "Tapestry",
+      "Writer",
+      "Music",
+      "Rhymes & Reasons"
+    ],
+    "answer": "Tapestry"
+  },
+  {
+    "id": "music-451",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1972 Deep Purple album features the track 'Smoke on the Water', inspired by a casino fire?",
+    "options": [
+      "Machine Head",
+      "Fireball",
+      "Who Do You Think We Are",
+      "Burn"
+    ],
+    "answer": "Machine Head"
+  },
+  {
+    "id": "music-452",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1974 Queen album features the hit single 'Killer Queen'?",
+    "options": [
+      "Sheer Heart Attack",
+      "Queen II",
+      "A Night at the Opera",
+      "A Day at the Races"
+    ],
+    "answer": "Sheer Heart Attack"
+  },
+  {
+    "id": "music-453",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1968 Jimi Hendrix Experience album is a double album featuring 'Voodoo Child (Slight Return)'?",
+    "options": [
+      "Electric Ladyland",
+      "Are You Experienced",
+      "Axis: Bold as Love",
+      "Band of Gypsys"
+    ],
+    "answer": "Electric Ladyland"
+  },
+  {
+    "id": "music-454",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1970 triple album by George Harrison was the first solo release by a member of The Beatles?",
+    "options": [
+      "All Things Must Pass",
+      "Wonderwall Music",
+      "Electronic Sound",
+      "Living in the Material World"
+    ],
+    "answer": "All Things Must Pass"
+  },
+  {
+    "id": "music-455",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which 1977 debut album by the Ramones features the anthem 'Blitzkrieg Bop'?",
+    "options": [
+      "Ramones",
+      "Leave Home",
+      "Rocket to Russia",
+      "Road to Ruin"
+    ],
+    "answer": "Ramones"
+  },
+  {
+    "id": "music-456",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1977 Sex Pistols album features 'Anarchy in the U.K.' and 'God Save the Queen'?",
+    "options": [
+      "Never Mind the Bollocks, Here's the Sex Pistols",
+      "The Great Rock 'n' Roll Swindle",
+      "Flogging a Dead Horse",
+      "Some Product: Carri on Sex Pistols"
+    ],
+    "answer": "Never Mind the Bollocks, Here's the Sex Pistols"
+  },
+  {
+    "id": "music-457",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which 1979 album by The Clash is frequently cited as one of the greatest punk rock albums of all time?",
+    "options": [
+      "London Calling",
+      "The Clash",
+      "Give 'Em Enough Rope",
+      "Sandinista!"
+    ],
+    "answer": "London Calling"
+  },
+  {
+    "id": "music-458",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which 1978 Blondie album features the disco-infused hit 'Heart of Glass'?",
+    "options": [
+      "Parallel Lines",
+      "Blondie",
+      "Plastic Letters",
+      "Eat to the Beat"
+    ],
+    "answer": "Parallel Lines"
+  },
+  {
+    "id": "music-459",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which 1979 Talking Heads album, produced by Brian Eno, features 'Life During Wartime'?",
+    "options": [
+      "Fear of Music",
+      "Talking Heads: 77",
+      "More Songs About Buildings and Food",
+      "Remain in Light"
+    ],
+    "answer": "Fear of Music"
+  },
+  {
+    "id": "music-460",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1980 Joy Division album features the post-punk classic 'Love Will Tear Us Apart'?",
+    "options": [
+      "Closer",
+      "Unknown Pleasures",
+      "Still",
+      "Substance"
+    ],
+    "answer": "Closer"
+  },
+  {
+    "id": "music-461",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1981 Depeche Mode debut album features the synth-pop hit 'Just Can't Get Enough'?",
+    "options": [
+      "Speak & Spell",
+      "A Broken Frame",
+      "Construction Time Again",
+      "Some Great Reward"
+    ],
+    "answer": "Speak & Spell"
+  },
+  {
+    "id": "music-462",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which 1982 The Cure album is known for its dark, oppressive atmosphere and the track 'The Hanging Garden'?",
+    "options": [
+      "Pornography",
+      "Seventeen Seconds",
+      "Faith",
+      "The Top"
+    ],
+    "answer": "Pornography"
+  },
+  {
+    "id": "music-463",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which 1980 Siouxsie and the Banshees album marks a shift to a more acoustic, psychedelic sound and features 'Christine'?",
+    "options": [
+      "Kaleidoscope",
+      "The Scream",
+      "Join Hands",
+      "Juju"
+    ],
+    "answer": "Kaleidoscope"
+  },
+  {
+    "id": "music-464",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1977 debut album by the band Wire is known for its extreme brevity and minimalist punk approach?",
+    "options": [
+      "Pink Flag",
+      "Chairs Missing",
+      "154",
+      "The Ideal Copy"
+    ],
+    "answer": "Pink Flag"
+  },
+  {
+    "id": "music-465",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which 1981 Orchestral Manoeuvres in the Dark album features the Cold War-themed hit 'Enola Gay'?",
+    "options": [
+      "Organisation",
+      "Orchestral Manoeuvres in the Dark",
+      "Architecture & Morality",
+      "Dazzle Ships"
+    ],
+    "answer": "Organisation"
+  },
+  {
+    "id": "music-466",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1981 Soft Cell album features their iconic cover of 'Tainted Love'?",
+    "options": [
+      "Non-Stop Erotic Cabaret",
+      "The Art of Falling Apart",
+      "This Last Night in Sodom",
+      "Cruelty Without Beauty"
+    ],
+    "answer": "Non-Stop Erotic Cabaret"
+  },
+  {
+    "id": "music-467",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which 1980 debut album by Echo & the Bunnymen features the single 'Rescue'?",
+    "options": [
+      "Crocodiles",
+      "Heaven Up Here",
+      "Porcupine",
+      "Ocean Rain"
+    ],
+    "answer": "Crocodiles"
+  },
+  {
+    "id": "music-468",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1983 New Order album features the groundbreaking 12-inch dance track 'Blue Monday'?",
+    "options": [
+      "Power, Corruption & Lies",
+      "Movement",
+      "Low-Life",
+      "Brotherhood"
+    ],
+    "answer": "Power, Corruption & Lies"
+  },
+  {
+    "id": "music-469",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which 1979 Buzzcocks album features the classic pop-punk song 'Ever Fallen in Love (With Someone You Shouldn't've)'?",
+    "options": [
+      "Love Bites",
+      "Another Music in a Different Kitchen",
+      "A Different Kind of Tension",
+      "Trade Test Transmissions"
+    ],
+    "answer": "Love Bites"
+  },
+  {
+    "id": "music-470",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1984 The Smiths album features the epic guitar track 'How Soon Is Now?'?",
+    "options": [
+      "Meat Is Murder",
+      "The Smiths",
+      "Hatful of Hollow",
+      "The Queen Is Dead"
+    ],
+    "answer": "Meat Is Murder"
+  },
+  {
+    "id": "music-471",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which 1980 debut album by the punk band X shares its name with their home city?",
+    "options": [
+      "Los Angeles",
+      "Wild Gift",
+      "Under the Big Black Sun",
+      "More Fun in the New World"
+    ],
+    "answer": "Los Angeles"
+  },
+  {
+    "id": "music-472",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1981 debut album by Black Flag features the hardcore punk anthem 'Rise Above'?",
+    "options": [
+      "Damaged",
+      "My War",
+      "Slip It In",
+      "In My Head"
+    ],
+    "answer": "Damaged"
+  },
+  {
+    "id": "music-473",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which 1979 debut album by The B-52's features the new wave party anthems 'Rock Lobster' and 'Planet Claire'?",
+    "options": [
+      "The B-52's",
+      "Wild Planet",
+      "Mesopotamia",
+      "Whammy!"
+    ],
+    "answer": "The B-52's"
+  },
+  {
+    "id": "music-474",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which 1982 Mission of Burma album is considered a landmark of American post-punk?",
+    "options": [
+      "Vs.",
+      "Signals, Calls, and Marches",
+      "The Horrible Truth About America",
+      "ONoffON"
+    ],
+    "answer": "Vs."
+  },
+  {
+    "id": "music-475",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which 1986 Run-DMC album features the rap-rock crossover hit 'Walk This Way' with Aerosmith?",
+    "options": [
+      "Raising Hell",
+      "Run-D.M.C.",
+      "King of Rock",
+      "Tougher Than Leather"
+    ],
+    "answer": "Raising Hell"
+  },
+  {
+    "id": "music-476",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1988 Public Enemy album features the politically charged anthem 'Fight the Power'?",
+    "options": [
+      "It Takes a Nation of Millions to Hold Us Back",
+      "Yo! Bum Rush the Show",
+      "Fear of a Black Planet",
+      "Apocalypse 91... The Enemy Strikes Black"
+    ],
+    "answer": "It Takes a Nation of Millions to Hold Us Back"
+  },
+  {
+    "id": "music-477",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1989 De La Soul album introduced their 'D.A.I.S.Y. Age' philosophy and features 'Me Myself and I'?",
+    "options": [
+      "3 Feet High and Rising",
+      "De La Soul Is Dead",
+      "Buhloone Mindstate",
+      "Stakes Is High"
+    ],
+    "answer": "3 Feet High and Rising"
+  },
+  {
+    "id": "music-478",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1991 A Tribe Called Quest album is famous for its jazz samples and features 'Check the Rhime'?",
+    "options": [
+      "The Low End Theory",
+      "People's Instinctive Travels and the Paths of Rhythm",
+      "Midnight Marauders",
+      "Beats, Rhymes and Life"
+    ],
+    "answer": "The Low End Theory"
+  },
+  {
+    "id": "music-479",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which 1992 Dr. Dre album is widely credited with popularizing G-funk and features 'Nuthin but a G Thang'?",
+    "options": [
+      "The Chronic",
+      "Doggystyle",
+      "2001",
+      "Compton"
+    ],
+    "answer": "The Chronic"
+  },
+  {
+    "id": "music-480",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which 1994 Nas debut album features the quintessential New York rap track 'N.Y. State of Mind'?",
+    "options": [
+      "Illmatic",
+      "It Was Written",
+      "I Am...",
+      "Stillmatic"
+    ],
+    "answer": "Illmatic"
+  },
+  {
+    "id": "music-481",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1996 Tupac Shakur double album was released just weeks before his death?",
+    "options": [
+      "All Eyez on Me",
+      "2Pacalypse Now",
+      "Strictly 4 My N.I.G.G.A.Z...",
+      "Me Against the World"
+    ],
+    "answer": "All Eyez on Me"
+  },
+  {
+    "id": "music-482",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1995 Mobb Deep album is considered a masterpiece of East Coast hardcore hip-hop and features 'Shook Ones, Pt. II'?",
+    "options": [
+      "The Infamous",
+      "Juvenile Hell",
+      "Hell on Earth",
+      "Murda Muzik"
+    ],
+    "answer": "The Infamous"
+  },
+  {
+    "id": "music-483",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1996 Fugees album features their Grammy-winning cover of 'Killing Me Softly with His Song'?",
+    "options": [
+      "The Score",
+      "Blunted on Reality",
+      "Bootleg Versions",
+      "Killing Me Softly"
+    ],
+    "answer": "The Score"
+  },
+  {
+    "id": "music-484",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which 1993 Wu-Tang Clan debut album features the iconic track 'C.R.E.A.M.'?",
+    "options": [
+      "Enter the Wu-Tang (36 Chambers)",
+      "Wu-Tang Forever",
+      "The W",
+      "Iron Flag"
+    ],
+    "answer": "Enter the Wu-Tang (36 Chambers)"
+  },
+  {
+    "id": "music-485",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which 1992 Arrested Development album features the socially conscious hit 'Tennessee'?",
+    "options": [
+      "3 Years, 5 Months and 2 Days in the Life Of...",
+      "Zingalamaduni",
+      "Strong Man",
+      "Among the Trees"
+    ],
+    "answer": "3 Years, 5 Months and 2 Days in the Life Of..."
+  },
+  {
+    "id": "music-486",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which 1988 N.W.A album is widely considered the foundational record of gangsta rap?",
+    "options": [
+      "Straight Outta Compton",
+      "N.W.A. and the Posse",
+      "Efil4zaggin",
+      "100 Miles and Runnin"
+    ],
+    "answer": "Straight Outta Compton"
+  },
+  {
+    "id": "music-487",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which 1990 LL Cool J album shares its title with its Grammy-winning hit single?",
+    "options": [
+      "Mama Said Knock You Out",
+      "Radio",
+      "Bigger and Deffer",
+      "Walking with a Panther"
+    ],
+    "answer": "Mama Said Knock You Out"
+  },
+  {
+    "id": "music-488",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1992 Ice Cube album features the laid-back West Coast track 'It Was a Good Day'?",
+    "options": [
+      "The Predator",
+      "AmeriKKKas Most Wanted",
+      "Death Certificate",
+      "Lethal Injection"
+    ],
+    "answer": "The Predator"
+  },
+  {
+    "id": "music-489",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1995 Raekwon album, heavily produced by RZA, is considered a landmark of Mafioso rap?",
+    "options": [
+      "Only Built 4 Cuban Linx...",
+      "Immobility",
+      "The Lexicon of Devils Tuning Fork",
+      "Built for Cuban Linx Pt. II"
+    ],
+    "answer": "Only Built 4 Cuban Linx..."
+  },
+  {
+    "id": "music-490",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1998 Outkast album features the harmonica-driven track 'Rosa Parks'?",
+    "options": [
+      "Aquemini",
+      "Southernplayalisticadillacmuzik",
+      "ATLiens",
+      "Stankonia"
+    ],
+    "answer": "Aquemini"
+  },
+  {
+    "id": "music-491",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which 1999 The Roots album marked their critical breakthrough and features 'The Next Movement'?",
+    "options": [
+      "Things Fall Apart",
+      "Organix!",
+      "From the Ground Up",
+      "Illadelph Halflife"
+    ],
+    "answer": "Things Fall Apart"
+  },
+  {
+    "id": "music-492",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1989 Beastie Boys album, heavily produced by the Dust Brothers, features 'Hey Ladies'?",
+    "options": [
+      "Pauls Boutique",
+      "Licensed to Ill",
+      "Check Your Head",
+      "Ill Communication"
+    ],
+    "answer": "Pauls Boutique"
+  },
+  {
+    "id": "music-493",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which 1993 Snoop Doggy Dogg debut album features the G-funk anthem 'Gin and Juice'?",
+    "options": [
+      "Doggystyle",
+      "Tha Doggfather",
+      "Da Game Is to Be Sold, Not to Be Told",
+      "No Limit Top Dogg"
+    ],
+    "answer": "Doggystyle"
+  },
+  {
+    "id": "music-494",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1992 Aphex Twin album is a landmark of ambient techno and features 'Xtal'?",
+    "options": [
+      "Selected Ambient Works 85-92",
+      "Selected Ambient Works Volume II",
+      "...I Care Because You Do",
+      "Richard D. James Album"
+    ],
+    "answer": "Selected Ambient Works 85-92"
+  },
+  {
+    "id": "music-495",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1998 Massive Attack album features the haunting Elizabeth Fraser vocal track 'Teardrop'?",
+    "options": [
+      "Mezzanine",
+      "Blue Lines",
+      "Protection",
+      "100th Window"
+    ],
+    "answer": "Mezzanine"
+  },
+  {
+    "id": "music-496",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which 1997 self-titled second album by Portishead features the melancholic trip-hop track 'Only You'?",
+    "options": [
+      "Portishead",
+      "Dummy",
+      "Third",
+      "Beth Gibbons"
+    ],
+    "answer": "Portishead"
+  },
+  {
+    "id": "music-497",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which 1994 Orbital album features the ambient house classic 'Halcyon On and On'?",
+    "options": [
+      "Snivilisation",
+      "Orbital",
+      "Orbital 2",
+      "In Sides"
+    ],
+    "answer": "Snivilisation"
+  },
+  {
+    "id": "music-498",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which 1999 Moby album famously sampled early American folk and blues recordings and features 'Natural Blues'?",
+    "options": [
+      "Play",
+      "18",
+      "Hotel",
+      "Last Night"
+    ],
+    "answer": "Play"
+  },
+  {
+    "id": "music-499",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which 1989 808 State album is considered a landmark of the UK acid house scene and features 'Pacific State'?",
+    "options": [
+      "Quadrastate",
+      "Newbuild",
+      "Ex:el",
+      "Gorgeous"
+    ],
+    "answer": "Quadrastate"
+  },
+  {
+    "id": "music-500",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which 1993 Leftfield album features the John Lydon vocal track 'Open Up'?",
+    "options": [
+      "Leftism",
+      "Rhythm and Stealth",
+      "Alternative Light Source",
+      "Nothing Here Now But the Recordings"
+    ],
+    "answer": "Leftism"
+  },
+  {
+    "id": "music-501",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1997 The Chemical Brothers album features the Noel Gallagher vocal track 'Setting Sun'?",
+    "options": [
+      "Dig Your Own Hole",
+      "Exit Planet Dust",
+      "Surrender",
+      "Come with Us"
+    ],
+    "answer": "Dig Your Own Hole"
+  },
+  {
+    "id": "music-502",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which 1997 Roni Size/Reprazent album won the prestigious Mercury Music Prize?",
+    "options": [
+      "New Forms",
+      "In the Mode",
+      "Return to V",
+      "Brown Paper"
+    ],
+    "answer": "New Forms"
+  },
+  {
+    "id": "music-503",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which 1999 Basement Jaxx debut album features the Latin-house track 'Rendez-Vu'?",
+    "options": [
+      "Remedy",
+      "Rooty",
+      "Kish Kash",
+      "Crazy Itch Radio"
+    ],
+    "answer": "Remedy"
+  },
+  {
+    "id": "music-504",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which 1991 LFO album is a classic of the UK bleep techno scene?",
+    "options": [
+      "Frequencies",
+      "Advance",
+      "Sheath",
+      "Life Is a Soundtrack"
+    ],
+    "answer": "Frequencies"
+  },
+  {
+    "id": "music-505",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which 1994 Underworld debut album features the sprawling electronic track 'Dark & Long'?",
+    "options": [
+      "Dubnobasswithmyheadman",
+      "Second Toughest in the Infants",
+      "Beaucoup Fish",
+      "Oblivion with Bells"
+    ],
+    "answer": "Dubnobasswithmyheadman"
+  },
+  {
+    "id": "music-506",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1995 Goldie album is a landmark of atmospheric drum and bass?",
+    "options": [
+      "Timeless",
+      "Saturnz Return",
+      "Return of V",
+      "Rufige Kru"
+    ],
+    "answer": "Timeless"
+  },
+  {
+    "id": "music-507",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1998 Fatboy Slim album features the Grammy-winning track 'Praise You'?",
+    "options": [
+      "Youve Come a Long Way Baby",
+      "Better Living Through Chemistry",
+      "Halfway Between the Gutter and the Stars",
+      "Palookaville"
+    ],
+    "answer": "Youve Come a Long Way Baby"
+  },
+  {
+    "id": "music-508",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which 1992 The Future Sound of London album features the rave anthem 'Papua New Guinea'?",
+    "options": [
+      "Accelerator",
+      "ISDN",
+      "Dead Cities",
+      "The Isness"
+    ],
+    "answer": "Accelerator"
+  },
+  {
+    "id": "music-509",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1995 Tricky debut album is considered a foundational trip-hop record?",
+    "options": [
+      "Maxinquaye",
+      "Nearly God",
+      "Pre-Millennium Tension",
+      "Angels with Dirty Faces"
+    ],
+    "answer": "Maxinquaye"
+  },
+  {
+    "id": "music-510",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which 1990 Black Dog Productions album is a pioneering work of British techno?",
+    "options": [
+      "Bytes",
+      "Spanners",
+      "Building the House",
+      "Book of Dogma"
+    ],
+    "answer": "Bytes"
+  },
+  {
+    "id": "music-511",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which 1991 KLF album is a conceptual ambient house work about a journey across America?",
+    "options": [
+      "Chill Out",
+      "1987 (What the Fuck Is Going On?)",
+      "The White Room",
+      "Justified and Ancient"
+    ],
+    "answer": "Chill Out"
+  },
+  {
+    "id": "music-512",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1998 Air album is a landmark of French downtempo electronica and features 'Sexy Boy'?",
+    "options": [
+      "Moon Safari",
+      "Premiers Symptômes",
+      "10 000 Hz Legend",
+      "Talkie Walkie"
+    ],
+    "answer": "Moon Safari"
+  },
+  {
+    "id": "music-513",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which 1986 Metallica album is widely considered the pinnacle of thrash metal and features the title track?",
+    "options": [
+      "Master of Puppets",
+      "Ride the Lightning",
+      "...And Justice for All",
+      "The 5.98 E.P. - Garage Days Re-Revisited"
+    ],
+    "answer": "Master of Puppets"
+  },
+  {
+    "id": "music-514",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1990 Megadeth album features the complex opening track 'Holy Wars... The Punishment Due'?",
+    "options": [
+      "Rust in Peace",
+      "Peace Sells... but Who's Buying?",
+      "So Far, So Good... So What!",
+      "Countdown to Extinction"
+    ],
+    "answer": "Rust in Peace"
+  },
+  {
+    "id": "music-515",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1986 Slayer album is famous for its extreme speed and features the controversial track 'Angel of Death'?",
+    "options": [
+      "Reign in Blood",
+      "Show No Mercy",
+      "Hell Awaits",
+      "South of Heaven"
+    ],
+    "answer": "Reign in Blood"
+  },
+  {
+    "id": "music-516",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1987 Anthrax album features the mosh-pit anthem 'Caught in a Mosh'?",
+    "options": [
+      "Among the Living",
+      "Spreading the Disease",
+      "State of Euphoria",
+      "Persistence of Time"
+    ],
+    "answer": "Among the Living"
+  },
+  {
+    "id": "music-517",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1992 Pantera album marked their transition to groove metal and features the track 'Walk'?",
+    "options": [
+      "Vulgar Display of Power",
+      "Cowboys from Hell",
+      "Far Beyond Driven",
+      "The Great Southern Trendkill"
+    ],
+    "answer": "Vulgar Display of Power"
+  },
+  {
+    "id": "music-518",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which 1991 Sepultura album features the Brazilian-themed track 'Dead Embryonic Cells'?",
+    "options": [
+      "Arise",
+      "Beneath the Remains",
+      "Chaos A.D.",
+      "Roots"
+    ],
+    "answer": "Arise"
+  },
+  {
+    "id": "music-519",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which 1998 Death album features the progressive death metal track 'Spirit Crusher'?",
+    "options": [
+      "The Sound of Perseverance",
+      "Symbolic",
+      "Individual Thought Patterns",
+      "Human"
+    ],
+    "answer": "The Sound of Perseverance"
+  },
+  {
+    "id": "music-520",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1992 Cannibal Corpse album features the infamous track 'Hammer Smashed Face'?",
+    "options": [
+      "Tomb of the Mutilated",
+      "Eaten Back to Life",
+      "Butchered at Birth",
+      "The Bleeding"
+    ],
+    "answer": "Tomb of the Mutilated"
+  },
+  {
+    "id": "music-521",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which 1991 Carcass album is considered a landmark of melodic death metal and goregrind?",
+    "options": [
+      "Necroticism - Descanting the Insalubrious",
+      "Reek of Putrefaction",
+      "Symphonies of Sickness",
+      "Heartwork"
+    ],
+    "answer": "Necroticism - Descanting the Insalubrious"
+  },
+  {
+    "id": "music-522",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which 1995 debut album by Opeth showcases their early blend of black metal and death metal?",
+    "options": [
+      "Orchid",
+      "Morningrise",
+      "My Arms, Your Hearse",
+      "Still Life"
+    ],
+    "answer": "Orchid"
+  },
+  {
+    "id": "music-523",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which 1994 Darkthrone album is considered a quintessential second-wave black metal release?",
+    "options": [
+      "Transilvanian Hunger",
+      "A Blaze in the Northern Sky",
+      "Under a Funeral Moon",
+      "Panzerfaust"
+    ],
+    "answer": "Transilvanian Hunger"
+  },
+  {
+    "id": "music-524",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which 1994 Mayhem album is the only studio album released before the death of vocalist Dead?",
+    "options": [
+      "De Mysteriis Dom Sathanas",
+      "Wolfs Lair Abyss",
+      "Grand Declaration of War",
+      "Chimera"
+    ],
+    "answer": "De Mysteriis Dom Sathanas"
+  },
+  {
+    "id": "music-525",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which 1994 Emperor album features the symphonic black metal classic 'I Am the Black Wizards'?",
+    "options": [
+      "In the Nightside Eclipse",
+      "Emperor",
+      "Anthems to the Welkin at Dusk",
+      "IX Equilibrium"
+    ],
+    "answer": "In the Nightside Eclipse"
+  },
+  {
+    "id": "music-526",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which 1991 Entombed album is a cornerstone of the Swedish death metal scene?",
+    "options": [
+      "Left Hand Path",
+      "Clandestine",
+      "Wolverine Blues",
+      "DCLXVI: To Ride, Shoot Straight, and Speak the Truth"
+    ],
+    "answer": "Left Hand Path"
+  },
+  {
+    "id": "music-527",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1989 Morbid Angel debut album features the death metal staple 'Immortal Rites'?",
+    "options": [
+      "Altars of Madness",
+      "Blessed Are the Sick",
+      "Covenant",
+      "Domination"
+    ],
+    "answer": "Altars of Madness"
+  },
+  {
+    "id": "music-528",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which 1991 Bolt Thrower album features the war-themed death metal track 'Cenotaph'?",
+    "options": [
+      "War Master",
+      "In Battle There Is No Law!",
+      "Realm of Chaos",
+      "The IVth Crusade"
+    ],
+    "answer": "War Master"
+  },
+  {
+    "id": "music-529",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which 1995 My Dying Bride album features the doom metal epic 'The Cry of Mankind'?",
+    "options": [
+      "The Angel and the Dark River",
+      "As the Flower Withers",
+      "Turn Loose the Swans",
+      "Like Gods of the Sun"
+    ],
+    "answer": "The Angel and the Dark River"
+  },
+  {
+    "id": "music-530",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1993 Tool debut album features the heavy track 'Sober'?",
+    "options": [
+      "Undertow",
+      "Opiate",
+      "Ænima",
+      "Lateralus"
+    ],
+    "answer": "Undertow"
+  },
+  {
+    "id": "music-531",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which 1992 self-titled debut album by Rage Against the Machine features 'Killing in the Name'?",
+    "options": [
+      "Rage Against the Machine",
+      "Evil Empire",
+      "The Battle of Los Angeles",
+      "Renegades"
+    ],
+    "answer": "Rage Against the Machine"
+  },
+  {
+    "id": "music-532",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which 1984 Prince album serves as the soundtrack to his film debut and features 'When Doves Cry'?",
+    "options": [
+      "Purple Rain",
+      "1999",
+      "Around the World in a Day",
+      "Parade"
+    ],
+    "answer": "Purple Rain"
+  },
+  {
+    "id": "music-533",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which 1987 Whitney Houston album features the upbeat pop anthem 'I Wanna Dance with Somebody (Who Loves Me)'?",
+    "options": [
+      "Whitney",
+      "Whitney Houston",
+      "Im Your Baby Tonight",
+      "The Bodyguard"
+    ],
+    "answer": "Whitney"
+  },
+  {
+    "id": "music-534",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1989 Janet Jackson album is a tightly produced, socially conscious pop-R&B record featuring 'Rhythm Nation'?",
+    "options": [
+      "Janet Jacksons Rhythm Nation 1814",
+      "Control",
+      "janet.",
+      "The Velvet Rope"
+    ],
+    "answer": "Janet Jacksons Rhythm Nation 1814"
+  },
+  {
+    "id": "music-535",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which 1998 Lauryn Hill album blends hip-hop, soul, and reggae and features 'Doo Wop (That Thing)'?",
+    "options": [
+      "The Miseducation of Lauryn Hill",
+      "The Score",
+      "MTV Unplugged No. 2.0",
+      "Lauryn Hill Live"
+    ],
+    "answer": "The Miseducation of Lauryn Hill"
+  },
+  {
+    "id": "music-536",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1995 Mariah Carey album features the Tom Tom Club-sampling hit 'Fantasy'?",
+    "options": [
+      "Daydream",
+      "Music Box",
+      "Butterfly",
+      "Heartbreaker"
+    ],
+    "answer": "Daydream"
+  },
+  {
+    "id": "music-537",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1996 Toni Braxton album features the Grammy-winning Diane Warren ballad 'Un-Break My Heart'?",
+    "options": [
+      "Secrets",
+      "Toni Braxton",
+      "The Heat",
+      "More Than a Woman"
+    ],
+    "answer": "Secrets"
+  },
+  {
+    "id": "music-538",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1997 debut album by Destiny's Child features their breakthrough hit 'No, No, No'?",
+    "options": [
+      "Destiny's Child",
+      "The Writings on the Wall",
+      "Survivor",
+      "Destiny Fulfilled"
+    ],
+    "answer": "Destiny's Child"
+  },
+  {
+    "id": "music-539",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 2001 Alicia Keys debut album features the neo-soul classic 'Fallin'?",
+    "options": [
+      "Songs in A Minor",
+      "The Diary of Alicia Keys",
+      "As I Am",
+      "Girl on Fire"
+    ],
+    "answer": "Songs in A Minor"
+  },
+  {
+    "id": "music-540",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which 2004 Usher album features the Lil Jon-produced crunk hit 'Yeah!'?",
+    "options": [
+      "Confessions",
+      "8701",
+      "Here I Stand",
+      "Raymond v. Raymond"
+    ],
+    "answer": "Confessions"
+  },
+  {
+    "id": "music-541",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1985 Tears for Fears album features the new wave classic 'Everybody Wants to Rule the World'?",
+    "options": [
+      "Songs from the Big Chair",
+      "The Hurting",
+      "The Seeds of Love",
+      "Elemental"
+    ],
+    "answer": "Songs from the Big Chair"
+  },
+  {
+    "id": "music-542",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which 1983 Eurythmics album marked their breakthrough with its synth-pop title track and Annie Lennox's androgynous image?",
+    "options": [
+      "Sweet Dreams (Are Made of This)",
+      "In the Garden",
+      "Touch",
+      "Be Yourself Tonight"
+    ],
+    "answer": "Sweet Dreams (Are Made of This)"
+  },
+  {
+    "id": "music-543",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1986 Peter Gabriel album features the horn-driven hit 'Sledgehammer'?",
+    "options": [
+      "So",
+      "Peter Gabriel (Melt)",
+      "Security",
+      "Us"
+    ],
+    "answer": "So"
+  },
+  {
+    "id": "music-544",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which 1985 a-ha album features the groundbreaking animated music video for 'Take On Me'?",
+    "options": [
+      "Hunting High and Low",
+      "Scoundrel Days",
+      "Stay on These Roads",
+      "East of the Sun, West of the Moon"
+    ],
+    "answer": "Hunting High and Low"
+  },
+  {
+    "id": "music-545",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1986 Beastie Boys debut album features the frat-rock parody '(You Gotta) Fight for Your Right (To Party!)'?",
+    "options": [
+      "Licensed to Ill",
+      "Pauls Boutique",
+      "Check Your Head",
+      "Ill Communication"
+    ],
+    "answer": "Licensed to Ill"
+  },
+  {
+    "id": "music-546",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which Van Halen album, featuring the synth-rock hit 'Jump', shares its title with the year it was released?",
+    "options": [
+      "1984",
+      "Van Halen",
+      "Women and Children First",
+      "Diver Down"
+    ],
+    "answer": "1984"
+  },
+  {
+    "id": "music-547",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which 1983 Cyndi Lauper debut album features the feminist anthem 'Girls Just Want to Have Fun'?",
+    "options": [
+      "Shes So Unusual",
+      "True Colors",
+      "A Night to Remember",
+      "Hat Full of Stars"
+    ],
+    "answer": "Shes So Unusual"
+  },
+  {
+    "id": "music-548",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1985 Dire Straits album features the MTV staple 'Money for Nothing'?",
+    "options": [
+      "Brothers in Arms",
+      "Dire Straits",
+      "Communiqué",
+      "Making Movies"
+    ],
+    "answer": "Brothers in Arms"
+  },
+  {
+    "id": "music-549",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1984 Tina Turner comeback album features the hit 'Whats Love Got to Do with It'?",
+    "options": [
+      "Private Dancer",
+      "Break Every Rule",
+      "Foreign Affair",
+      "Twenty Four Seven"
+    ],
+    "answer": "Private Dancer"
+  },
+  {
+    "id": "music-550",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1971 Joni Mitchell album features the deeply personal track 'Little Green'?",
+    "options": [
+      "Blue",
+      "Ladies of the Canyon",
+      "For the Roses",
+      "Court and Spark"
+    ],
+    "answer": "Blue"
+  },
+  {
+    "id": "music-551",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which 1968 Johnny Cash live album was recorded at a famous California state prison?",
+    "options": [
+      "At Folsom Prison",
+      "At San Quentin",
+      "A Concert Behind Prison Walls",
+      "The Survivors"
+    ],
+    "answer": "At Folsom Prison"
+  },
+  {
+    "id": "music-552",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which 1970 Simon & Garfunkel album features the gospel-influenced title track?",
+    "options": [
+      "Bridge over Troubled Water",
+      "Parsley, Sage, Rosemary and Thyme",
+      "Bookends",
+      "Simon and Garfunkels Greatest Hits"
+    ],
+    "answer": "Bridge over Troubled Water"
+  },
+  {
+    "id": "music-553",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which 1972 Neil Young album features the harmonica-driven hit 'Heart of Gold'?",
+    "options": [
+      "Harvest",
+      "After the Gold Rush",
+      "On the Beach",
+      "Zuma"
+    ],
+    "answer": "Harvest"
+  },
+  {
+    "id": "music-554",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1970 Crosby, Stills, Nash & Young album features the protest song 'Ohio'?",
+    "options": [
+      "Déjà Vu",
+      "Crosby, Stills & Nash",
+      "So Far",
+      "CSN"
+    ],
+    "answer": "Déjà Vu"
+  },
+  {
+    "id": "music-555",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which 1973 Paul Simon album features the nostalgic track 'Kodachrome'?",
+    "options": [
+      "There Goes Rhymin Simon",
+      "Paul Simon",
+      "Still Crazy After All These Years",
+      "Hearts and Bones"
+    ],
+    "answer": "There Goes Rhymin Simon"
+  },
+  {
+    "id": "music-556",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which 1986 Paul Simon album famously incorporated South African mbaqanga music?",
+    "options": [
+      "Graceland",
+      "Hearts and Bones",
+      "The Rhythm of the Saints",
+      "Youre the One"
+    ],
+    "answer": "Graceland"
+  },
+  {
+    "id": "music-557",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1967 debut album by Leonard Cohen features the classic song 'Suzanne'?",
+    "options": [
+      "Songs of Leonard Cohen",
+      "Songs from a Room",
+      "Songs of Love and Hate",
+      "New Skin for the Old Ceremony"
+    ],
+    "answer": "Songs of Leonard Cohen"
+  },
+  {
+    "id": "music-558",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which 1969 Fairport Convention album is considered a landmark of British folk rock and features 'A Sailors Life'?",
+    "options": [
+      "Unhalfbricking",
+      "Fairport Convention",
+      "What We Did on Our Holidays",
+      "Liege & Lief"
+    ],
+    "answer": "Unhalfbricking"
+  },
+  {
+    "id": "music-559",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1972 Nick Drake album consists entirely of his voice and acoustic guitar, plus one piano overdub?",
+    "options": [
+      "Pink Moon",
+      "Five Leaves Left",
+      "Bryter Layter",
+      "Made to Love Magic"
+    ],
+    "answer": "Pink Moon"
+  },
+  {
+    "id": "music-560",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which 1973 John Martyn album features the acoustic standard 'May You Never'?",
+    "options": [
+      "Solid Air",
+      "London Conversation",
+      "Stormbringer!",
+      "Inside Out"
+    ],
+    "answer": "Solid Air"
+  },
+  {
+    "id": "music-561",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which 1974 Steeleye Span album features their hit cover of the traditional ballad 'Thomas the Rhymer'?",
+    "options": [
+      "Now We Are Six",
+      "Hark! The Village Wait",
+      "Please to See the King",
+      "Ten Man Mop"
+    ],
+    "answer": "Now We Are Six"
+  },
+  {
+    "id": "music-562",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1975 Patti Smith debut album is considered a foundational punk rock record and features 'Gloria'?",
+    "options": [
+      "Horses",
+      "Radio Ethiopia",
+      "Easter",
+      "Wave"
+    ],
+    "answer": "Horses"
+  },
+  {
+    "id": "music-563",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1977 Ian Dury and the Blockheads album features the new wave anthem 'Sex & Drugs & Rock & Roll'?",
+    "options": [
+      "New Boots and Panties!!",
+      "Do It Yourself",
+      "Laughter",
+      "4,000 Weeks Holiday"
+    ],
+    "answer": "New Boots and Panties!!"
+  },
+  {
+    "id": "music-564",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which 1979 Linton Kwesi Johnson album is a landmark of British dub poetry?",
+    "options": [
+      "Forces of Victory",
+      "Dread Beat an Blood",
+      "Bass Culture",
+      "Making History"
+    ],
+    "answer": "Forces of Victory"
+  },
+  {
+    "id": "music-565",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1976 Fela Kuti album is a scathing 30-minute critique of the Nigerian military?",
+    "options": [
+      "Zombie",
+      "Gentleman",
+      "Confusion",
+      "Expensive Shit"
+    ],
+    "answer": "Zombie"
+  },
+  {
+    "id": "music-566",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which 1982 King Sunny Adé album helped popularize Nigerian jùjú music internationally?",
+    "options": [
+      "Juju Music",
+      "Syncro System",
+      "Aura",
+      "Odù"
+    ],
+    "answer": "Juju Music"
+  },
+  {
+    "id": "music-567",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which 1977 Bob Marley and the Wailers album features the epic title track about a spiritual journey?",
+    "options": [
+      "Exodus",
+      "Rastaman Vibration",
+      "Kaya",
+      "Survival"
+    ],
+    "answer": "Exodus"
+  },
+  {
+    "id": "music-568",
+    "category": "music",
+    "difficulty": "hard",
+    "question": "Which 1994 Ali Farka Touré album won a Grammy and showcases his unique blend of Malian folk and American blues?",
+    "options": [
+      "Talking Timbuktu",
+      "Ali Farka Touré",
+      "The River",
+      "The Source"
+    ],
+    "answer": "Talking Timbuktu"
+  },
+  {
+    "id": "music-569",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "What is the musical term for a sudden, heavy accent on a single note?",
+    "options": [
+      "Sforzando",
+      "Forte",
+      "Tenuto",
+      "Marcato"
+    ],
+    "answer": "Sforzando"
+  },
+  {
+    "id": "music-570",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "What is the musical term for gradually getting slower?",
+    "options": [
+      "Ritardando",
+      "Accelerando",
+      "Rallentando",
+      "Rubato"
+    ],
+    "answer": "Ritardando"
+  },
+  {
+    "id": "music-571",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "What is the musical term for playing notes smoothly and connected?",
+    "options": [
+      "Legato",
+      "Staccato",
+      "Portato",
+      "Spiccato"
+    ],
+    "answer": "Legato"
+  },
+  {
+    "id": "music-572",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "What is the musical term for playing notes short and detached?",
+    "options": [
+      "Staccato",
+      "Legato",
+      "Tenuto",
+      "Marcato"
+    ],
+    "answer": "Staccato"
+  },
+  {
+    "id": "music-573",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "What is the highest standard vocal range for a male singer singing in falsetto?",
+    "options": [
+      "Countertenor",
+      "Tenor",
+      "Baritone",
+      "Bass"
+    ],
+    "answer": "Countertenor"
+  },
+  {
+    "id": "music-574",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "What is the lowest standard female vocal range?",
+    "options": [
+      "Contralto",
+      "Soprano",
+      "Mezzo-soprano",
+      "Coloratura"
+    ],
+    "answer": "Contralto"
+  },
+  {
+    "id": "music-575",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "What clef is most commonly used for reading cello, trombone, and bassoon music?",
+    "options": [
+      "Bass clef",
+      "Treble clef",
+      "Alto clef",
+      "Tenor clef"
+    ],
+    "answer": "Bass clef"
+  },
+  {
+    "id": "music-576",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "What C-clef is primarily used by violists?",
+    "options": [
+      "Alto clef",
+      "Soprano clef",
+      "Mezzo-soprano clef",
+      "Tenor clef"
+    ],
+    "answer": "Alto clef"
+  },
+  {
+    "id": "music-577",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "The 'Cor anglais' is a double reed woodwind instrument more commonly known by what name?",
+    "options": [
+      "English horn",
+      "French horn",
+      "Basset horn",
+      "Alphorn"
+    ],
+    "answer": "English horn"
+  },
+  {
+    "id": "music-578",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "What family of instruments does the xylophone belong to?",
+    "options": [
+      "Percussion",
+      "Woodwind",
+      "Brass",
+      "String"
+    ],
+    "answer": "Percussion"
+  },
+  {
+    "id": "music-579",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "What animal hair is traditionally used to string the bows of violins, violas, and cellos?",
+    "options": [
+      "Horsehair",
+      "Cow hair",
+      "Goat hair",
+      "Camel hair"
+    ],
+    "answer": "Horsehair"
+  },
+  {
+    "id": "music-580",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "What is the standard tuning for a six-string guitar, from lowest pitch to highest?",
+    "options": [
+      "E-A-D-G-B-E",
+      "E-A-D-G-C-E",
+      "D-A-D-G-B-E",
+      "E-A-D-G-B-D"
+    ],
+    "answer": "E-A-D-G-B-E"
+  },
+  {
+    "id": "music-581",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "What is the standard tuning for a four-string electric bass guitar?",
+    "options": [
+      "E-A-D-G",
+      "A-D-G-C",
+      "D-G-C-F",
+      "B-E-A-D"
+    ],
+    "answer": "E-A-D-G"
+  },
+  {
+    "id": "music-582",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "What is the musical term for the speed or pace of a given piece?",
+    "options": [
+      "Tempo",
+      "Rhythm",
+      "Meter",
+      "Cadence"
+    ],
+    "answer": "Tempo"
+  },
+  {
+    "id": "music-583",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "What is the musical term for the relative highness or lowness of a sound?",
+    "options": [
+      "Pitch",
+      "Timbre",
+      "Amplitude",
+      "Resonance"
+    ],
+    "answer": "Pitch"
+  },
+  {
+    "id": "music-584",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "What musical term refers to the volume of a sound?",
+    "options": [
+      "Dynamics",
+      "Articulation",
+      "Timbre",
+      "Phrasing"
+    ],
+    "answer": "Dynamics"
+  },
+  {
+    "id": "music-585",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "What is a chord consisting of a root, a major third, and a perfect fifth called?",
+    "options": [
+      "Major triad",
+      "Minor triad",
+      "Diminished triad",
+      "Augmented triad"
+    ],
+    "answer": "Major triad"
+  },
+  {
+    "id": "music-586",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "What is a musical scale that includes all twelve notes of the octave called?",
+    "options": [
+      "Chromatic scale",
+      "Diatonic scale",
+      "Whole-tone scale",
+      "Blues scale"
+    ],
+    "answer": "Chromatic scale"
+  },
+  {
+    "id": "music-587",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "What are the five horizontal lines called on which musical notes are written?",
+    "options": [
+      "Staff",
+      "Clef",
+      "Measure",
+      "Barline"
+    ],
+    "answer": "Staff"
+  },
+  {
+    "id": "music-588",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which 1970 Derek and the Dominos album features the classic rock ballad 'Layla'?",
+    "options": [
+      "Layla and Other Assorted Love Songs",
+      "Eric Clapton",
+      "461 Ocean Boulevard",
+      "Slowhand"
+    ],
+    "answer": "Layla and Other Assorted Love Songs"
   }
 ]

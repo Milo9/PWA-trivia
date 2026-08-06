@@ -5,7 +5,7 @@ You are drafting trivia questions for a multiple-choice trivia app. You have no 
 
 TOPIC: Film & TV — movies and television shows in general (actors, directors, plots, awards). This is not about Friends or The Big Bang Theory specifically — those are separate categories with their own prompts. Avoid asking basic identification facts about Friends/Big Bang Theory characters (e.g. "who plays Sheldon Cooper") even under a film-tv framing — those already exist in the dedicated categories. Likewise avoid facts that belong to a different specific category (e.g. "what is King Arthur's sword called" belongs to mythology-religion, not film-tv, even when the clue is phrased around a film adaptation).
 
-COUNT: 100 questions.
+COUNT: 200 questions.
 
 AVOID THESE ANGLES — already well-covered in my question bank, so don't draft facts that overlap with these (pick different, more specific facts instead):
 - Who played the title role in "Forrest Gump" (Tom Hanks)

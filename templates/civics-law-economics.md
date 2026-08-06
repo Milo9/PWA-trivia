@@ -5,7 +5,7 @@ You are drafting trivia questions for a multiple-choice trivia app. You have no 
 
 TOPIC: Civics, Law & Economics — definitions and concepts covering systems of government, legal principles and terms, economic theory/indicators, and international governmental organizations. Think "what is the term for..." style questions about concepts, not questions about a specific dated historical event (that's a History question) or a specific company/product (that's a Business & Brands question).
 
-COUNT: 100 questions.
+COUNT: 200 questions.
 
 AVOID THESE ANGLES — already well-covered in my question bank, so don't draft facts that overlap with these (pick different, more specific facts instead):
 - Federation as the term for power divided between a central authority and constituent regions
@@ -134,6 +134,10 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Comparative negligence, subpoena, affidavit, voir dire, garnishment, estoppel
 - Cyclical unemployment; Engel's law, Gresham's law, Dutch disease, velocity of money, economies of scope
 - International-org headquarters: WTO (Geneva), OECD (Paris), Interpol (Lyon), APEC secretariat (Singapore), OAS (Washington DC), ASEAN Secretariat (Jakarta), African Union (Addis Ababa), Mercosur Secretariat (Montevideo)
+- Recall election, grand jury, totalitarianism, consociationalism, sunset clause, cloture, pocket veto, line-item veto, command economy
+- Mens rea, corpus delicti, habeas corpus, writ of mandamus, res ipsa loquitur, ratio decidendi, contributory negligence, arraignment, hung jury, acquittal, probation (vs. supervised release), pardon, extradition, diplomatic immunity
+- Consideration, quantum meruit, restitution, insider trading, summary judgment, mistrial (contract/civil-procedure terms)
+- Marginal propensity to consume, Keynesian economics, prisoner's dilemma, Okun's law, Giffen good, perfect competition, marginal cost, sunk cost, diminishing marginal utility
 - This category is now heavily saturated (500+ questions) — a recent batch had a ~58% duplicate rate even after the default check-draft pass came back clean, almost entirely "same definition, reworded" pairs only caught by --full-answer-audit. Always run --full-answer-audit for this category and read every match by hand, not just the default pass.
 
 Use web search to verify every fact — do not rely on memory alone. Prefer authoritative sources (reference databases, textbooks, official organization sites) over guessing. For each question, actually find or confirm the fact via search rather than recalling it, especially for specific figures, dates, and membership counts.

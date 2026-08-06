@@ -11022,5 +11022,1552 @@
       "China"
     ],
     "answer": "United States"
+  },
+  {
+    "id": "geography-542",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "What is the capital of Antigua and Barbuda?",
+    "options": [
+      "Castries",
+      "Bridgetown",
+      "Roseau",
+      "St. John's"
+    ],
+    "answer": "St. John's"
+  },
+  {
+    "id": "geography-543",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "What is the capital of Saint Kitts and Nevis?",
+    "options": [
+      "Nassau",
+      "St. George's",
+      "Kingstown",
+      "Basseterre"
+    ],
+    "answer": "Basseterre"
+  },
+  {
+    "id": "geography-544",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "What is the capital of Saint Vincent and the Grenadines?",
+    "options": [
+      "Kingstown",
+      "Basseterre",
+      "Roseau",
+      "St. George's"
+    ],
+    "answer": "Kingstown"
+  },
+  {
+    "id": "geography-545",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "What is the capital of Barbados?",
+    "options": [
+      "Nassau",
+      "St. John's",
+      "Roseau",
+      "Bridgetown"
+    ],
+    "answer": "Bridgetown"
+  },
+  {
+    "id": "geography-546",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "What is the de facto capital of Nauru?",
+    "options": [
+      "Funafuti",
+      "Majuro",
+      "Tarawa",
+      "Yaren"
+    ],
+    "answer": "Yaren"
+  },
+  {
+    "id": "geography-547",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "What is the capital of The Bahamas?",
+    "options": [
+      "Roseau",
+      "Bridgetown",
+      "Nassau",
+      "Belmopan"
+    ],
+    "answer": "Nassau"
+  },
+  {
+    "id": "geography-548",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "What is the capital of Trinidad and Tobago?",
+    "options": [
+      "St. John's",
+      "Bridgetown",
+      "Castries",
+      "Port of Spain"
+    ],
+    "answer": "Port of Spain"
+  },
+  {
+    "id": "geography-549",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "What is the capital of the Dominican Republic?",
+    "options": [
+      "Port-au-Prince",
+      "Havana",
+      "San Juan",
+      "Santo Domingo"
+    ],
+    "answer": "Santo Domingo"
+  },
+  {
+    "id": "geography-550",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "What is the capital of Haiti?",
+    "options": [
+      "Havana",
+      "Kingston",
+      "Santo Domingo",
+      "Port-au-Prince"
+    ],
+    "answer": "Port-au-Prince"
+  },
+  {
+    "id": "geography-551",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "What is the capital of Jamaica?",
+    "options": [
+      "Kingston",
+      "Port-au-Prince",
+      "Bridgetown",
+      "Nassau"
+    ],
+    "answer": "Kingston"
+  },
+  {
+    "id": "geography-552",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "What is the capital of Guinea?",
+    "options": [
+      "Conakry",
+      "Monrovia",
+      "Freetown",
+      "Banjul"
+    ],
+    "answer": "Conakry"
+  },
+  {
+    "id": "geography-553",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "What is the capital of Sudan?",
+    "options": [
+      "Khartoum",
+      "Cairo",
+      "Tripoli",
+      "Mogadishu"
+    ],
+    "answer": "Khartoum"
+  },
+  {
+    "id": "geography-554",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "What is the capital of Libya?",
+    "options": [
+      "Cairo",
+      "Algiers",
+      "Tunis",
+      "Tripoli"
+    ],
+    "answer": "Tripoli"
+  },
+  {
+    "id": "geography-555",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "What is the capital of the Democratic Republic of the Congo?",
+    "options": [
+      "Luanda",
+      "Kinshasa",
+      "Bangui",
+      "Brazzaville"
+    ],
+    "answer": "Kinshasa"
+  },
+  {
+    "id": "geography-556",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "What is the capital of Ghana?",
+    "options": [
+      "Accra",
+      "Lomé",
+      "Cotonou",
+      "Abidjan"
+    ],
+    "answer": "Accra"
+  },
+  {
+    "id": "geography-557",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "What is the capital of Tanzania's former capital and largest city?",
+    "options": [
+      "Zanzibar City",
+      "Dodoma",
+      "Arusha",
+      "Dar es Salaam"
+    ],
+    "answer": "Dar es Salaam"
+  },
+  {
+    "id": "geography-558",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Into which sea does the Rhine River empty?",
+    "options": [
+      "Baltic Sea",
+      "North Sea",
+      "Black Sea",
+      "Mediterranean Sea"
+    ],
+    "answer": "North Sea"
+  },
+  {
+    "id": "geography-559",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "The Niger River discharges into which gulf?",
+    "options": [
+      "Gulf of Aqaba",
+      "Gulf of Sidra",
+      "Gulf of Aden",
+      "Gulf of Guinea"
+    ],
+    "answer": "Gulf of Guinea"
+  },
+  {
+    "id": "geography-560",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "The Yenisei River empties into which sea, part of the Arctic Ocean?",
+    "options": [
+      "Beaufort Sea",
+      "Barents Sea",
+      "Kara Sea",
+      "Chukchi Sea"
+    ],
+    "answer": "Kara Sea"
+  },
+  {
+    "id": "geography-561",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which of the five Great Lakes is located entirely within the United States?",
+    "options": [
+      "Lake Superior",
+      "Lake Michigan",
+      "Lake Ontario",
+      "Lake Erie"
+    ],
+    "answer": "Lake Michigan"
+  },
+  {
+    "id": "geography-562",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "The Orinoco River empties into which ocean?",
+    "options": [
+      "Pacific Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Atlantic Ocean"
+    ],
+    "answer": "Atlantic Ocean"
+  },
+  {
+    "id": "geography-563",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "The Ob River in Siberia flows northward into which sea?",
+    "options": [
+      "Laptev Sea",
+      "White Sea",
+      "Barents Sea",
+      "Kara Sea"
+    ],
+    "answer": "Kara Sea"
+  },
+  {
+    "id": "geography-564",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "The Lena River in Siberia empties into which sea?",
+    "options": [
+      "Bering Sea",
+      "Kara Sea",
+      "East Siberian Sea",
+      "Laptev Sea"
+    ],
+    "answer": "Laptev Sea"
+  },
+  {
+    "id": "geography-565",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which river flows through Prague?",
+    "options": [
+      "Danube",
+      "Vltava",
+      "Elbe",
+      "Oder"
+    ],
+    "answer": "Vltava"
+  },
+  {
+    "id": "geography-566",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which river flows through Hamburg and empties into the North Sea?",
+    "options": [
+      "Rhine",
+      "Weser",
+      "Elbe",
+      "Oder"
+    ],
+    "answer": "Elbe"
+  },
+  {
+    "id": "geography-567",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which lake lies on the border of Tanzania and Zambia?",
+    "options": [
+      "Lake Victoria",
+      "Lake Tanganyika",
+      "Lake Turkana",
+      "Lake Malawi"
+    ],
+    "answer": "Lake Tanganyika"
+  },
+  {
+    "id": "geography-568",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which river forms part of the border between Laos and Thailand?",
+    "options": [
+      "Chao Phraya",
+      "Salween",
+      "Irrawaddy",
+      "Mekong"
+    ],
+    "answer": "Mekong"
+  },
+  {
+    "id": "geography-569",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "Which river flows from Lake Tana in Ethiopia to join the White Nile?",
+    "options": [
+      "Blue Nile",
+      "Sobat",
+      "White Nile",
+      "Atbara"
+    ],
+    "answer": "Blue Nile"
+  },
+  {
+    "id": "geography-570",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which Great Lake is the smallest by surface area?",
+    "options": [
+      "Lake Superior",
+      "Lake Michigan",
+      "Lake Erie",
+      "Lake Ontario"
+    ],
+    "answer": "Lake Ontario"
+  },
+  {
+    "id": "geography-571",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which volcano on Sicily is considered Europe's most active volcano?",
+    "options": [
+      "Mount Vesuvius",
+      "Vulcano",
+      "Mount Etna",
+      "Stromboli"
+    ],
+    "answer": "Mount Etna"
+  },
+  {
+    "id": "geography-572",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "The Atlas Mountains stretch across which three North African countries?",
+    "options": [
+      "Morocco, Mauritania, and Senegal",
+      "Morocco, Libya, and Egypt",
+      "Algeria, Mali, and Niger",
+      "Morocco, Algeria, and Tunisia"
+    ],
+    "answer": "Morocco, Algeria, and Tunisia"
+  },
+  {
+    "id": "geography-573",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "The Karakum Desert covers about 70% of which Central Asian country?",
+    "options": [
+      "Tajikistan",
+      "Turkmenistan",
+      "Uzbekistan",
+      "Kazakhstan"
+    ],
+    "answer": "Turkmenistan"
+  },
+  {
+    "id": "geography-574",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "The Kyzylkum Desert is divided among which countries?",
+    "options": [
+      "Kazakhstan, Uzbekistan and Turkmenistan",
+      "Mongolia and China",
+      "Turkey and Iran",
+      "India and Pakistan"
+    ],
+    "answer": "Kazakhstan, Uzbekistan and Turkmenistan"
+  },
+  {
+    "id": "geography-575",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which desert contains the Area 51 base at Groom Lake?",
+    "options": [
+      "Great Basin Desert",
+      "Mojave Desert",
+      "Chihuahuan Desert",
+      "Sonoran Desert"
+    ],
+    "answer": "Mojave Desert"
+  },
+  {
+    "id": "geography-576",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "What is the world's largest continuous sand desert, also called the Empty Quarter?",
+    "options": [
+      "Thar Desert",
+      "Karakum Desert",
+      "Rub' al Khali",
+      "Sonoran Desert"
+    ],
+    "answer": "Rub' al Khali"
+  },
+  {
+    "id": "geography-577",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which mountain range runs through central Italy?",
+    "options": [
+      "Dolomites",
+      "Apennines",
+      "Alps",
+      "Sicilian Mountains"
+    ],
+    "answer": "Apennines"
+  },
+  {
+    "id": "geography-578",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "What is the highest mountain in Spain located on Tenerife?",
+    "options": [
+      "Pico de Aneto",
+      "Mount Teide",
+      "Mulhacén",
+      "Mount Almanzor"
+    ],
+    "answer": "Mount Teide"
+  },
+  {
+    "id": "geography-579",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "What is the highest mountain in New Zealand?",
+    "options": [
+      "Mount Tasman",
+      "Aoraki / Mount Cook",
+      "Mount Ruapehu",
+      "Mount Aspiring"
+    ],
+    "answer": "Aoraki / Mount Cook"
+  },
+  {
+    "id": "geography-580",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which volcano destroyed the city of Pompeii in 79 AD?",
+    "options": [
+      "Mount Etna",
+      "Mount Stromboli",
+      "Mount Vulcano",
+      "Mount Vesuvius"
+    ],
+    "answer": "Mount Vesuvius"
+  },
+  {
+    "id": "geography-581",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which desert in China is known for its singing sand dunes?",
+    "options": [
+      "Lop Desert",
+      "Gurbantünggüt Desert",
+      "Badain Jaran Desert",
+      "Kumtag Desert"
+    ],
+    "answer": "Badain Jaran Desert"
+  },
+  {
+    "id": "geography-582",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which mountain is the highest in the Alps outside Mont Blanc?",
+    "options": [
+      "Matterhorn",
+      "Jungfrau",
+      "Monte Rosa",
+      "Eiger"
+    ],
+    "answer": "Monte Rosa"
+  },
+  {
+    "id": "geography-583",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "The Gambia forms a narrow semi-enclave almost entirely surrounded by which country?",
+    "options": [
+      "Mali",
+      "Senegal",
+      "Guinea-Bissau",
+      "Guinea"
+    ],
+    "answer": "Senegal"
+  },
+  {
+    "id": "geography-584",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "The Russian exclave of Kaliningrad is sandwiched between which two countries?",
+    "options": [
+      "Finland and Sweden",
+      "Latvia and Estonia",
+      "Poland and Lithuania",
+      "Belarus and Ukraine"
+    ],
+    "answer": "Poland and Lithuania"
+  },
+  {
+    "id": "geography-585",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Cabinda is an exclave of Angola separated from the rest of Angola by which country?",
+    "options": [
+      "Cameroon",
+      "Democratic Republic of the Congo",
+      "Zambia",
+      "Republic of the Congo"
+    ],
+    "answer": "Democratic Republic of the Congo"
+  },
+  {
+    "id": "geography-586",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "The landlocked principality of Andorra lies in the Pyrenees between which two countries?",
+    "options": [
+      "Spain and Portugal",
+      "France and Italy",
+      "France and Spain",
+      "Switzerland and Austria"
+    ],
+    "answer": "France and Spain"
+  },
+  {
+    "id": "geography-587",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "The world's shortest international land border, about 85 meters at Peñón de Vélez de la Gomera, is shared by which two countries?",
+    "options": [
+      "Portugal and Morocco",
+      "Italy and Slovenia",
+      "Spain and Morocco",
+      "France and Spain"
+    ],
+    "answer": "Spain and Morocco"
+  },
+  {
+    "id": "geography-588",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which country is almost entirely surrounded by South Africa but is not Lesotho?",
+    "options": [
+      "Zimbabwe",
+      "Namibia",
+      "Botswana",
+      "Eswatini"
+    ],
+    "answer": "Eswatini"
+  },
+  {
+    "id": "geography-589",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which river forms part of the border between the United States and Canada in the northeast?",
+    "options": [
+      "Detroit River",
+      "St. Lawrence River",
+      "St. Croix River",
+      "Niagara River"
+    ],
+    "answer": "St. Lawrence River"
+  },
+  {
+    "id": "geography-590",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which African country has an exclave called Cabinda?",
+    "options": [
+      "Republic of the Congo",
+      "Gabon",
+      "Democratic Republic of the Congo",
+      "Angola"
+    ],
+    "answer": "Angola"
+  },
+  {
+    "id": "geography-591",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which European country has the exclave of Büsingen surrounded by Switzerland?",
+    "options": [
+      "Italy",
+      "Germany",
+      "Austria",
+      "France"
+    ],
+    "answer": "Germany"
+  },
+  {
+    "id": "geography-592",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "Which country has the exclave of Nakhchivan separated by Armenia?",
+    "options": [
+      "Iran",
+      "Turkey",
+      "Georgia",
+      "Azerbaijan"
+    ],
+    "answer": "Azerbaijan"
+  },
+  {
+    "id": "geography-593",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which country borders both Austria and Switzerland?",
+    "options": [
+      "France",
+      "Czech Republic",
+      "Germany",
+      "Italy"
+    ],
+    "answer": "Italy"
+  },
+  {
+    "id": "geography-594",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which country borders both Norway and Finland?",
+    "options": [
+      "Sweden",
+      "Denmark",
+      "Russia",
+      "Estonia"
+    ],
+    "answer": "Sweden"
+  },
+  {
+    "id": "geography-595",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which country has no land borders at all?",
+    "options": [
+      "Portugal",
+      "Denmark",
+      "Iceland",
+      "South Korea"
+    ],
+    "answer": "Iceland"
+  },
+  {
+    "id": "geography-596",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which island is divided between Papua New Guinea and Indonesia?",
+    "options": [
+      "Seram",
+      "Timor",
+      "Borneo",
+      "New Guinea"
+    ],
+    "answer": "New Guinea"
+  },
+  {
+    "id": "geography-597",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which island nation lies in the Indian Ocean and is known for vanilla production?",
+    "options": [
+      "Seychelles",
+      "Comoros",
+      "Maldives",
+      "Mauritius"
+    ],
+    "answer": "Comoros"
+  },
+  {
+    "id": "geography-598",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which island is divided between Ireland and the United Kingdom?",
+    "options": [
+      "Isle of Man",
+      "Ireland",
+      "Isle of Wight",
+      "Great Britain"
+    ],
+    "answer": "Ireland"
+  },
+  {
+    "id": "geography-599",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which country owns Easter Island in the Pacific?",
+    "options": [
+      "Ecuador",
+      "Peru",
+      "Argentina",
+      "Chile"
+    ],
+    "answer": "Chile"
+  },
+  {
+    "id": "geography-600",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which island nation lies south of Sicily in the Mediterranean?",
+    "options": [
+      "Cyprus",
+      "Malta",
+      "Crete",
+      "Corsica"
+    ],
+    "answer": "Malta"
+  },
+  {
+    "id": "geography-601",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which island chain forms the U.S. state of Hawaii?",
+    "options": [
+      "Mariana Islands",
+      "Aleutian Islands",
+      "Hawaiian Islands",
+      "Virgin Islands"
+    ],
+    "answer": "Hawaiian Islands"
+  },
+  {
+    "id": "geography-602",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which island is the second-largest in Japan?",
+    "options": [
+      "Shikoku",
+      "Kyushu",
+      "Hokkaido",
+      "Okinawa"
+    ],
+    "answer": "Hokkaido"
+  },
+  {
+    "id": "geography-603",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which peninsula is home to Spain and Portugal?",
+    "options": [
+      "Italian Peninsula",
+      "Balkan Peninsula",
+      "Iberian Peninsula",
+      "Scandinavian Peninsula"
+    ],
+    "answer": "Iberian Peninsula"
+  },
+  {
+    "id": "geography-604",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which peninsula is shaped like a boot and contains Italy?",
+    "options": [
+      "Balkan Peninsula",
+      "Iberian Peninsula",
+      "Anatolian Peninsula",
+      "Italian Peninsula"
+    ],
+    "answer": "Italian Peninsula"
+  },
+  {
+    "id": "geography-605",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which island is the largest in the world located in a freshwater lake?",
+    "options": [
+      "Maui",
+      "Isle Royale",
+      "Manitoulin Island",
+      "Ometepe Island"
+    ],
+    "answer": "Manitoulin Island"
+  },
+  {
+    "id": "geography-606",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which island is the largest in the Great Lakes?",
+    "options": [
+      "Drummond Island",
+      "Mackinac Island",
+      "Isle Royale",
+      "Manitoulin Island"
+    ],
+    "answer": "Manitoulin Island"
+  },
+  {
+    "id": "geography-607",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which island lies at the southern tip of South America, shared by Argentina and Chile?",
+    "options": [
+      "Tierra del Fuego",
+      "Galápagos",
+      "Chiloé",
+      "Easter Island"
+    ],
+    "answer": "Tierra del Fuego"
+  },
+  {
+    "id": "geography-608",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which island nation in the South Pacific is known for its coral reefs and rugby team?",
+    "options": [
+      "Vanuatu",
+      "Samoa",
+      "Tonga",
+      "Fiji"
+    ],
+    "answer": "Fiji"
+  },
+  {
+    "id": "geography-609",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which island nation in the Indian Ocean was formerly called Ceylon and is known for tea?",
+    "options": [
+      "Maldives",
+      "Mauritius",
+      "Sri Lanka",
+      "Seychelles"
+    ],
+    "answer": "Sri Lanka"
+  },
+  {
+    "id": "geography-610",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which island nation in the North Atlantic is known as the Land of Fire and Ice?",
+    "options": [
+      "United Kingdom",
+      "Ireland",
+      "Iceland",
+      "Azores"
+    ],
+    "answer": "Iceland"
+  },
+  {
+    "id": "geography-611",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which island is located in the Bay of Bengal and is part of India?",
+    "options": [
+      "Lakshadweep",
+      "Andaman Islands",
+      "Sri Lanka",
+      "Maldives"
+    ],
+    "answer": "Andaman Islands"
+  },
+  {
+    "id": "geography-612",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "The Cook Strait separates which two major islands?",
+    "options": [
+      "Great Britain and Ireland",
+      "Tasmania and mainland Australia",
+      "North and South Islands of Japan",
+      "North and South Islands of New Zealand"
+    ],
+    "answer": "North and South Islands of New Zealand"
+  },
+  {
+    "id": "geography-613",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "The Bass Strait separates Tasmania from what?",
+    "options": [
+      "South Island of New Zealand",
+      "New Zealand",
+      "Australian mainland",
+      "New Guinea"
+    ],
+    "answer": "Australian mainland"
+  },
+  {
+    "id": "geography-614",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "The Torres Strait separates Australia from which island?",
+    "options": [
+      "Sumatra",
+      "New Guinea",
+      "Sri Lanka",
+      "Madagascar"
+    ],
+    "answer": "New Guinea"
+  },
+  {
+    "id": "geography-615",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "The Gulf of Bothnia is the northernmost arm of which sea?",
+    "options": [
+      "Barents Sea",
+      "Baltic Sea",
+      "Black Sea",
+      "North Sea"
+    ],
+    "answer": "Baltic Sea"
+  },
+  {
+    "id": "geography-616",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "The Strait of Magellan separates mainland South America from which archipelago?",
+    "options": [
+      "Tierra del Fuego",
+      "Svalbard",
+      "Falkland Islands",
+      "Galápagos"
+    ],
+    "answer": "Tierra del Fuego"
+  },
+  {
+    "id": "geography-617",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which sea lies between the west coast of Italy and the islands of Corsica and Sardinia?",
+    "options": [
+      "Adriatic Sea",
+      "Tyrrhenian Sea",
+      "Ionian Sea",
+      "Ligurian Sea"
+    ],
+    "answer": "Tyrrhenian Sea"
+  },
+  {
+    "id": "geography-618",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which sea is located south of the Black Sea and north of Turkey?",
+    "options": [
+      "Mediterranean Sea",
+      "Aegean Sea",
+      "Caspian Sea",
+      "Sea of Marmara"
+    ],
+    "answer": "Sea of Marmara"
+  },
+  {
+    "id": "geography-619",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which gulf lies between Saudi Arabia and Iran?",
+    "options": [
+      "Gulf of Aden",
+      "Gulf of Oman",
+      "Red Sea",
+      "Persian Gulf"
+    ],
+    "answer": "Persian Gulf"
+  },
+  {
+    "id": "geography-620",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which sea lies between the United Kingdom and Scandinavia?",
+    "options": [
+      "Norwegian Sea",
+      "Baltic Sea",
+      "North Sea",
+      "Irish Sea"
+    ],
+    "answer": "North Sea"
+  },
+  {
+    "id": "geography-621",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which ocean lies between the Americas and Europe/Africa?",
+    "options": [
+      "Atlantic Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean",
+      "Indian Ocean"
+    ],
+    "answer": "Atlantic Ocean"
+  },
+  {
+    "id": "geography-622",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which sea is located between Africa and Europe?",
+    "options": [
+      "Mediterranean Sea",
+      "Red Sea",
+      "Caspian Sea",
+      "Black Sea"
+    ],
+    "answer": "Mediterranean Sea"
+  },
+  {
+    "id": "geography-623",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which strait separates Greenland and Iceland?",
+    "options": [
+      "Denmark Strait",
+      "Davis Strait",
+      "Strait of Gibraltar",
+      "Bering Strait"
+    ],
+    "answer": "Denmark Strait"
+  },
+  {
+    "id": "geography-624",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which city is traditionally said to have been founded on seven hills?",
+    "options": [
+      "Athens",
+      "Lisbon",
+      "Rome",
+      "Madrid"
+    ],
+    "answer": "Rome"
+  },
+  {
+    "id": "geography-625",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which Italian city is built on an archipelago of 118 small islands in a lagoon?",
+    "options": [
+      "Bari",
+      "Genoa",
+      "Naples",
+      "Venice"
+    ],
+    "answer": "Venice"
+  },
+  {
+    "id": "geography-626",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which world capital lies about 28 meters below sea level, making it the lowest national capital?",
+    "options": [
+      "Reykjavik",
+      "Baku",
+      "Ashgabat",
+      "Amsterdam"
+    ],
+    "answer": "Baku"
+  },
+  {
+    "id": "geography-627",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which North American capital was built on an island in the former Lake Texcoco?",
+    "options": [
+      "Lima",
+      "Quito",
+      "Mexico City",
+      "Guatemala City"
+    ],
+    "answer": "Mexico City"
+  },
+  {
+    "id": "geography-628",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which South American capital sits in a coastal desert and receives only a few millimeters of rain per year?",
+    "options": [
+      "Montevideo",
+      "Santiago",
+      "Brasília",
+      "Lima"
+    ],
+    "answer": "Lima"
+  },
+  {
+    "id": "geography-629",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which city lies about 9 km west of Mount Vesuvius?",
+    "options": [
+      "Bari",
+      "Rome",
+      "Palermo",
+      "Naples"
+    ],
+    "answer": "Naples"
+  },
+  {
+    "id": "geography-630",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which city is located at the confluence of the Ohio and Mississippi Rivers?",
+    "options": [
+      "Memphis",
+      "Cairo, Illinois",
+      "St. Louis",
+      "Cairo, Egypt"
+    ],
+    "answer": "Cairo, Illinois"
+  },
+  {
+    "id": "geography-631",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which capital city is located on the banks of the Potomac River?",
+    "options": [
+      "Baltimore",
+      "Richmond",
+      "Washington, D.C.",
+      "Philadelphia"
+    ],
+    "answer": "Washington, D.C."
+  },
+  {
+    "id": "geography-632",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which Moroccan city is located near the Atlas Mountains and is known as the Red City?",
+    "options": [
+      "Rabat",
+      "Marrakech",
+      "Casablanca",
+      "Fes"
+    ],
+    "answer": "Marrakech"
+  },
+  {
+    "id": "geography-633",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which capital lies on the River Liffey?",
+    "options": [
+      "Belfast",
+      "Dublin",
+      "Cardiff",
+      "Edinburgh"
+    ],
+    "answer": "Dublin"
+  },
+  {
+    "id": "geography-634",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which capital lies on the River Danube and is known for its ruin bars?",
+    "options": [
+      "Bratislava",
+      "Budapest",
+      "Belgrade",
+      "Vienna"
+    ],
+    "answer": "Budapest"
+  },
+  {
+    "id": "geography-635",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which city is located on the island of Honshu and is Japan's capital?",
+    "options": [
+      "Sapporo",
+      "Tokyo",
+      "Kyoto",
+      "Osaka"
+    ],
+    "answer": "Tokyo"
+  },
+  {
+    "id": "geography-636",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which city is the largest located in the Arctic Circle?",
+    "options": [
+      "Tromsø",
+      "Murmansk",
+      "Nuuk",
+      "Reykjavik"
+    ],
+    "answer": "Murmansk"
+  },
+  {
+    "id": "geography-637",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which desert city is known as the Entertainment Capital of the World?",
+    "options": [
+      "Marrakech",
+      "Dubai",
+      "Las Vegas",
+      "Phoenix"
+    ],
+    "answer": "Las Vegas"
+  },
+  {
+    "id": "geography-638",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which is the largest country in the world that has no permanent rivers?",
+    "options": [
+      "Egypt",
+      "Mexico",
+      "Thailand",
+      "Saudi Arabia"
+    ],
+    "answer": "Saudi Arabia"
+  },
+  {
+    "id": "geography-639",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which country has the most pyramids in the world, with over 200 still standing?",
+    "options": [
+      "Peru",
+      "Sudan",
+      "Mexico",
+      "Egypt"
+    ],
+    "answer": "Sudan"
+  },
+  {
+    "id": "geography-640",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which North African country has coastlines on both the Atlantic Ocean and the Mediterranean Sea?",
+    "options": [
+      "Egypt",
+      "Libya",
+      "Morocco",
+      "Tunisia"
+    ],
+    "answer": "Morocco"
+  },
+  {
+    "id": "geography-641",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "What is the world's southernmost capital of a sovereign state?",
+    "options": [
+      "Buenos Aires",
+      "Santiago",
+      "Wellington",
+      "Canberra"
+    ],
+    "answer": "Wellington"
+  },
+  {
+    "id": "geography-642",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which desert is the largest in North America?",
+    "options": [
+      "Great Basin Desert",
+      "Sonoran Desert",
+      "Mojave Desert",
+      "Chihuahuan Desert"
+    ],
+    "answer": "Chihuahuan Desert"
+  },
+  {
+    "id": "geography-643",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which country is the smallest by land area in Central America?",
+    "options": [
+      "Costa Rica",
+      "Belize",
+      "Panama",
+      "El Salvador"
+    ],
+    "answer": "El Salvador"
+  },
+  {
+    "id": "geography-644",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which country has the most islands that are part of an archipelago in Europe?",
+    "options": [
+      "Spain",
+      "Greece",
+      "Croatia",
+      "Italy"
+    ],
+    "answer": "Greece"
+  },
+  {
+    "id": "geography-645",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which country contains the most landlocked enclaves?",
+    "options": [
+      "United States",
+      "Italy",
+      "Russia",
+      "South Africa"
+    ],
+    "answer": "South Africa"
+  },
+  {
+    "id": "geography-646",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which river is the longest entirely within the United States?",
+    "options": [
+      "Mississippi River",
+      "Colorado River",
+      "Missouri River",
+      "Yukon River"
+    ],
+    "answer": "Missouri River"
+  },
+  {
+    "id": "geography-647",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which lake is the second-largest by surface area in Africa?",
+    "options": [
+      "Lake Chad",
+      "Lake Malawi",
+      "Lake Tanganyika",
+      "Lake Victoria"
+    ],
+    "answer": "Lake Tanganyika"
+  },
+  {
+    "id": "geography-648",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which country is the largest island nation in the world by land area?",
+    "options": [
+      "Madagascar",
+      "Japan",
+      "Philippines",
+      "Indonesia"
+    ],
+    "answer": "Indonesia"
+  },
+  {
+    "id": "geography-649",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which river forms a large part of the border between Germany and Poland?",
+    "options": [
+      "Rhine River",
+      "Oder River",
+      "Vistula River",
+      "Elbe River"
+    ],
+    "answer": "Oder River"
+  },
+  {
+    "id": "geography-650",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which river flows through Vienna and Budapest?",
+    "options": [
+      "Sava",
+      "Rhine",
+      "Elbe",
+      "Danube"
+    ],
+    "answer": "Danube"
+  },
+  {
+    "id": "geography-651",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which country has a coastline on both the Red Sea and the Arabian Sea?",
+    "options": [
+      "Oman",
+      "Yemen",
+      "Egypt",
+      "Saudi Arabia"
+    ],
+    "answer": "Yemen"
+  },
+  {
+    "id": "geography-652",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which mountain is the highest in Morocco?",
+    "options": [
+      "M'Goun",
+      "Jebel Siroua",
+      "Mount Atlas",
+      "Toubkal"
+    ],
+    "answer": "Toubkal"
+  },
+  {
+    "id": "geography-653",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which reef system is the second-largest after the Great Barrier Reef?",
+    "options": [
+      "Florida Reef",
+      "New Caledonia Reef",
+      "Belize Barrier Reef",
+      "Andros Barrier Reef"
+    ],
+    "answer": "Belize Barrier Reef"
+  },
+  {
+    "id": "geography-654",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which desert in California is known for Joshua trees?",
+    "options": [
+      "Mojave Desert",
+      "Colorado Desert",
+      "Sonoran Desert",
+      "Great Basin Desert"
+    ],
+    "answer": "Mojave Desert"
+  },
+  {
+    "id": "geography-655",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which ocean is the second-largest?",
+    "options": [
+      "Atlantic Ocean",
+      "Arctic Ocean",
+      "Indian Ocean",
+      "Southern Ocean"
+    ],
+    "answer": "Atlantic Ocean"
+  },
+  {
+    "id": "geography-656",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which country has the second-longest coastline in the world as of 2026?",
+    "options": [
+      "United States",
+      "Australia",
+      "Russia",
+      "Indonesia"
+    ],
+    "answer": "Indonesia"
+  },
+  {
+    "id": "geography-657",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which landlocked country in South America has a navy that patrols Lake Titicaca and rivers?",
+    "options": [
+      "Nepal",
+      "Switzerland",
+      "Paraguay",
+      "Bolivia"
+    ],
+    "answer": "Bolivia"
+  },
+  {
+    "id": "geography-658",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which country is known as the Land of the Long White Cloud?",
+    "options": [
+      "Australia",
+      "Samoa",
+      "Fiji",
+      "New Zealand"
+    ],
+    "answer": "New Zealand"
+  },
+  {
+    "id": "geography-659",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which is the world's third-largest island?",
+    "options": [
+      "Madagascar",
+      "Sumatra",
+      "Baffin Island",
+      "Borneo"
+    ],
+    "answer": "Borneo"
+  },
+  {
+    "id": "geography-660",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which desert is located in the southwestern United States and known for Death Valley?",
+    "options": [
+      "Chihuahuan Desert",
+      "Great Basin Desert",
+      "Mojave Desert",
+      "Sonoran Desert"
+    ],
+    "answer": "Mojave Desert"
   }
 ]

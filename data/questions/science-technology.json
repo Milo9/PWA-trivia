@@ -11620,5 +11620,2085 @@
       "Melatonin"
     ],
     "answer": "Cortisol"
+  },
+  {
+    "id": "science-technology-432",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the formal name of the gold foil experiment that led to the discovery of the atomic nucleus?",
+    "options": [
+      "Rutherford gold foil experiment",
+      "Geiger–Marsden experiment",
+      "Bohr–Rutherford experiment",
+      "Thomson–Rutherford experiment"
+    ],
+    "answer": "Geiger–Marsden experiment"
+  },
+  {
+    "id": "science-technology-433",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the most abundant noble gas in Earth's atmosphere?",
+    "options": [
+      "Helium",
+      "Neon",
+      "Argon",
+      "Krypton"
+    ],
+    "answer": "Argon"
+  },
+  {
+    "id": "science-technology-434",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What is the chemical formula for sulfuric acid?",
+    "options": [
+      "H2SO4",
+      "H2SO3",
+      "HCl",
+      "HNO3"
+    ],
+    "answer": "H2SO4"
+  },
+  {
+    "id": "science-technology-435",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What are the four small glands located on the back of the thyroid gland that regulate calcium levels?",
+    "options": [
+      "Adrenal glands",
+      "Parathyroid glands",
+      "Pineal glands",
+      "Thymus glands"
+    ],
+    "answer": "Parathyroid glands"
+  },
+  {
+    "id": "science-technology-436",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Which heart valve prevents backflow of blood from the right ventricle into the right atrium?",
+    "options": [
+      "Mitral valve",
+      "Aortic valve",
+      "Tricuspid valve",
+      "Pulmonary valve"
+    ],
+    "answer": "Tricuspid valve"
+  },
+  {
+    "id": "science-technology-437",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "In which organ do T cells mature?",
+    "options": [
+      "Spleen",
+      "Tonsils",
+      "Thymus",
+      "Bone marrow"
+    ],
+    "answer": "Thymus"
+  },
+  {
+    "id": "science-technology-438",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the functional filtering unit of the kidney called?",
+    "options": [
+      "Nephron",
+      "Neuron",
+      "Alveolus",
+      "Glomerulus"
+    ],
+    "answer": "Nephron"
+  },
+  {
+    "id": "science-technology-439",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "Which type of connective tissue connects bone to bone?",
+    "options": [
+      "Tendon",
+      "Ligament",
+      "Cartilage",
+      "Fascia"
+    ],
+    "answer": "Ligament"
+  },
+  {
+    "id": "science-technology-440",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "Which type of joint is found in the shoulder and hip, allowing the widest range of motion?",
+    "options": [
+      "Hinge joint",
+      "Pivot joint",
+      "Ball-and-socket joint",
+      "Saddle joint"
+    ],
+    "answer": "Ball-and-socket joint"
+  },
+  {
+    "id": "science-technology-441",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the main end product of glycolysis?",
+    "options": [
+      "Glucose",
+      "Lactate",
+      "Pyruvate",
+      "Acetyl-CoA"
+    ],
+    "answer": "Pyruvate"
+  },
+  {
+    "id": "science-technology-442",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which enzyme adds nucleotides to a growing DNA strand during replication?",
+    "options": [
+      "Helicase",
+      "DNA polymerase",
+      "RNA polymerase",
+      "Ligase"
+    ],
+    "answer": "DNA polymerase"
+  },
+  {
+    "id": "science-technology-443",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the term for a sequence of three nucleotides in mRNA that specifies a particular amino acid?",
+    "options": [
+      "Anticodon",
+      "Codon",
+      "Exon",
+      "Intron"
+    ],
+    "answer": "Codon"
+  },
+  {
+    "id": "science-technology-444",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Who is credited with inventing the polymerase chain reaction (PCR) technique?",
+    "options": [
+      "Kary Mullis",
+      "Frederick Sanger",
+      "Norman Borlaug",
+      "Craig Venter"
+    ],
+    "answer": "Kary Mullis"
+  },
+  {
+    "id": "science-technology-445",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Who is credited with developing the alternating current (AC) electrical system?",
+    "options": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "George Westinghouse",
+      "Michael Faraday"
+    ],
+    "answer": "Nikola Tesla"
+  },
+  {
+    "id": "science-technology-446",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "Who is credited with inventing the diesel engine?",
+    "options": [
+      "Rudolf Diesel",
+      "Karl Benz",
+      "Henry Ford",
+      "Nikolaus Otto"
+    ],
+    "answer": "Rudolf Diesel"
+  },
+  {
+    "id": "science-technology-447",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Which three scientists shared the 1956 Nobel Prize in Physics for inventing the transistor?",
+    "options": [
+      "Bardeen, Brattain, and Shockley",
+      "Bethe, Feynman, and Schwinger",
+      "Lee and Yang",
+      "Bednorz and Müller"
+    ],
+    "answer": "Bardeen, Brattain, and Shockley"
+  },
+  {
+    "id": "science-technology-448",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Who are the two engineers credited with independently inventing the integrated circuit in the late 1950s?",
+    "options": [
+      "Jack Kilby and Robert Noyce",
+      "Gordon Moore and Andy Grove",
+      "William Shockley and Hans Queisser",
+      "Steve Wozniak and Steve Jobs"
+    ],
+    "answer": "Jack Kilby and Robert Noyce"
+  },
+  {
+    "id": "science-technology-449",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Which engineer is credited with leading the team that developed the first commercial microprocessor, the Intel 4004?",
+    "options": [
+      "Robert Noyce",
+      "Gordon Moore",
+      "Federico Faggin",
+      "Marcian Hoff"
+    ],
+    "answer": "Federico Faggin"
+  },
+  {
+    "id": "science-technology-450",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Who invented the hovercraft?",
+    "options": [
+      "Christopher Cockerell",
+      "John Snow",
+      "George Cayley",
+      "Frank Whittle"
+    ],
+    "answer": "Christopher Cockerell"
+  },
+  {
+    "id": "science-technology-451",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "Who is credited with inventing the modern ballpoint pen?",
+    "options": [
+      "László Bíró",
+      "John J. Loud",
+      "Lewis Waterman",
+      "Parker Pen"
+    ],
+    "answer": "László Bíró"
+  },
+  {
+    "id": "science-technology-452",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "Who is credited with inventing the process of pasteurization?",
+    "options": [
+      "Louis Pasteur",
+      "Alexander Fleming",
+      "Robert Koch",
+      "Joseph Lister"
+    ],
+    "answer": "Louis Pasteur"
+  },
+  {
+    "id": "science-technology-453",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Who invented the stethoscope in 1816?",
+    "options": [
+      "René Laennec",
+      "Willem Einthoven",
+      "Camille Golgi",
+      "Caleb Parry"
+    ],
+    "answer": "René Laennec"
+  },
+  {
+    "id": "science-technology-454",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Who invented the first practical electrocardiogram (ECG)?",
+    "options": [
+      "Willem Einthoven",
+      "Augustus Waller",
+      "Thomas Lewis",
+      "Paul Dudley White"
+    ],
+    "answer": "Willem Einthoven"
+  },
+  {
+    "id": "science-technology-455",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the SI derived unit of absorbed radiation dose?",
+    "options": [
+      "Sievert",
+      "Gray",
+      "Becquerel",
+      "Roentgen"
+    ],
+    "answer": "Gray"
+  },
+  {
+    "id": "science-technology-456",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the SI derived unit of equivalent radiation dose, used to assess biological effects?",
+    "options": [
+      "Gray",
+      "Becquerel",
+      "Sievert",
+      "Rutherford"
+    ],
+    "answer": "Sievert"
+  },
+  {
+    "id": "science-technology-457",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the name of the quantum mechanical phenomenon where a particle passes through a potential barrier that it classically cannot surmount?",
+    "options": [
+      "Quantum entanglement",
+      "Quantum tunneling",
+      "Quantum superposition",
+      "Quantum levitation"
+    ],
+    "answer": "Quantum tunneling"
+  },
+  {
+    "id": "science-technology-458",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which fundamental particle acts as the gauge boson for the strong nuclear force, mediating interactions between quarks?",
+    "options": [
+      "Photon",
+      "W boson",
+      "Z boson",
+      "Gluon"
+    ],
+    "answer": "Gluon"
+  },
+  {
+    "id": "science-technology-459",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the name of a hypothetical fermion that is its own antiparticle?",
+    "options": [
+      "Anyon",
+      "Majorana fermion",
+      "Tachyon",
+      "Goldstone boson"
+    ],
+    "answer": "Majorana fermion"
+  },
+  {
+    "id": "science-technology-460",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What was the name of the first commercially successful typewriter, which introduced the QWERTY keyboard layout?",
+    "options": [
+      "Sholes and Glidden Typewriter",
+      "Remington No. 1",
+      "Underwood No. 1",
+      "Oliver Typewriter"
+    ],
+    "answer": "Sholes and Glidden Typewriter"
+  },
+  {
+    "id": "science-technology-461",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which mathematical law describes the spectral density of electromagnetic radiation emitted by a black body in thermal equilibrium?",
+    "options": [
+      "Wien's displacement law",
+      "Stefan–Boltzmann law",
+      "Planck's law",
+      "Kirchhoff's law"
+    ],
+    "answer": "Planck's law"
+  },
+  {
+    "id": "science-technology-462",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "In computing, what is the term for a unit of information that consists of 4 bits?",
+    "options": [
+      "Byte",
+      "Nibble",
+      "Word",
+      "Octet"
+    ],
+    "answer": "Nibble"
+  },
+  {
+    "id": "science-technology-463",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the term for a network of private computers infected with malicious software and controlled as a group without the owners' knowledge?",
+    "options": [
+      "Zombie net",
+      "Botnet",
+      "Rootkit",
+      "Trojan army"
+    ],
+    "answer": "Botnet"
+  },
+  {
+    "id": "science-technology-464",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Which theorem establishes the theoretical maximum rate of error-free data transfer over a communication channel of a specified bandwidth and signal-to-noise ratio?",
+    "options": [
+      "Nyquist theorem",
+      "Shannon-Hartley theorem",
+      "Bayes' theorem",
+      "Fourier theorem"
+    ],
+    "answer": "Shannon-Hartley theorem"
+  },
+  {
+    "id": "science-technology-465",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which sorting algorithm divides an array into two halves, recursively sorts them, and then merges the sorted halves?",
+    "options": [
+      "Quick sort",
+      "Merge sort",
+      "Bubble sort",
+      "Insertion sort"
+    ],
+    "answer": "Merge sort"
+  },
+  {
+    "id": "science-technology-466",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the name of the phase of the cardiac cycle when the heart muscles relax and fill with blood?",
+    "options": [
+      "Systole",
+      "Diastole",
+      "Asystole",
+      "Tachycardia"
+    ],
+    "answer": "Diastole"
+  },
+  {
+    "id": "science-technology-467",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which organ in the human body is primarily responsible for filtering blood and recycling old red blood cells?",
+    "options": [
+      "Liver",
+      "Kidney",
+      "Spleen",
+      "Pancreas"
+    ],
+    "answer": "Spleen"
+  },
+  {
+    "id": "science-technology-468",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What are the tiny air sacs in the lungs where the exchange of oxygen and carbon dioxide takes place called?",
+    "options": [
+      "Bronchioles",
+      "Alveoli",
+      "Capillaries",
+      "Trachea"
+    ],
+    "answer": "Alveoli"
+  },
+  {
+    "id": "science-technology-469",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "Which bone is the smaller of the two bones in the lower leg?",
+    "options": [
+      "Tibia",
+      "Fibula",
+      "Patella",
+      "Femur"
+    ],
+    "answer": "Fibula"
+  },
+  {
+    "id": "science-technology-470",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which type of muscle tissue is found only in the heart?",
+    "options": [
+      "Skeletal muscle",
+      "Smooth muscle",
+      "Cardiac muscle",
+      "Voluntary muscle"
+    ],
+    "answer": "Cardiac muscle"
+  },
+  {
+    "id": "science-technology-471",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What are the short sequences of RNA nucleotides synthesized on the lagging strand during DNA replication called?",
+    "options": [
+      "Okazaki fragments",
+      "Primers",
+      "Poly-A tails",
+      "Introns"
+    ],
+    "answer": "Okazaki fragments"
+  },
+  {
+    "id": "science-technology-472",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "Which cellular structure is the primary site of protein synthesis?",
+    "options": [
+      "Nucleus",
+      "Mitochondrion",
+      "Ribosome",
+      "Golgi apparatus"
+    ],
+    "answer": "Ribosome"
+  },
+  {
+    "id": "science-technology-473",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What type of RNA molecule carries a specific amino acid to the ribosome during translation?",
+    "options": [
+      "mRNA",
+      "rRNA",
+      "tRNA",
+      "snRNA"
+    ],
+    "answer": "tRNA"
+  },
+  {
+    "id": "science-technology-474",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Which specific codon signals the start of translation in eukaryotic cells?",
+    "options": [
+      "UAA",
+      "AUG",
+      "UAG",
+      "UGA"
+    ],
+    "answer": "AUG"
+  },
+  {
+    "id": "science-technology-475",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the term for a genetic mutation that involves the change of a single nucleotide base in the DNA sequence?",
+    "options": [
+      "Frameshift mutation",
+      "Point mutation",
+      "Deletion mutation",
+      "Inversion mutation"
+    ],
+    "answer": "Point mutation"
+  },
+  {
+    "id": "science-technology-476",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the name of the laboratory technique used to separate DNA, RNA, or protein molecules based on their size and electrical charge?",
+    "options": [
+      "Centrifugation",
+      "Gel electrophoresis",
+      "Chromatography",
+      "Spectrophotometry"
+    ],
+    "answer": "Gel electrophoresis"
+  },
+  {
+    "id": "science-technology-477",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the name of the class of enzymes that recognize and cut DNA at specific nucleotide sequences?",
+    "options": [
+      "DNA ligases",
+      "Restriction enzymes",
+      "Polymerases",
+      "Helicases"
+    ],
+    "answer": "Restriction enzymes"
+  },
+  {
+    "id": "science-technology-478",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "Who is credited with inventing the modern safety razor with disposable blades?",
+    "options": [
+      "King Camp Gillette",
+      "Richardson Shaver",
+      "Jacob Schick",
+      "Jean-Jacques Perret"
+    ],
+    "answer": "King Camp Gillette"
+  },
+  {
+    "id": "science-technology-479",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Who is credited with inventing the revolver?",
+    "options": [
+      "Samuel Colt",
+      "John Browning",
+      "Richard Gatling",
+      "Smith & Wesson"
+    ],
+    "answer": "Samuel Colt"
+  },
+  {
+    "id": "science-technology-480",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Who developed the first successful vaccine for rabies?",
+    "options": [
+      "Edward Jenner",
+      "Louis Pasteur",
+      "Robert Koch",
+      "Albert Calmette"
+    ],
+    "answer": "Louis Pasteur"
+  },
+  {
+    "id": "science-technology-481",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Who is credited with inventing the first barcode reader and scanning system, first used commercially in 1974?",
+    "options": [
+      "Norman Woodland",
+      "George Laurer",
+      "David Collins",
+      "Paul McEnroe"
+    ],
+    "answer": "Norman Woodland"
+  },
+  {
+    "id": "science-technology-482",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Who led the team at Denso Wave that invented the QR code in 1994?",
+    "options": [
+      "Masahiro Hara",
+      "Junichi Murai",
+      "Fujio Masuoka",
+      "Takashi Mitani"
+    ],
+    "answer": "Masahiro Hara"
+  },
+  {
+    "id": "science-technology-483",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Who is credited with originating the concept of a programmable mechanical computer with his 'Difference Engine' design?",
+    "options": [
+      "Charles Babbage",
+      "Alan Turing",
+      "Blaise Pascal",
+      "Ada Lovelace"
+    ],
+    "answer": "Charles Babbage"
+  },
+  {
+    "id": "science-technology-484",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Who is the creator of the C programming language?",
+    "options": [
+      "Dennis Ritchie",
+      "Ken Thompson",
+      "Bjarne Stroustrup",
+      "Brian Kernighan"
+    ],
+    "answer": "Dennis Ritchie"
+  },
+  {
+    "id": "science-technology-485",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Who is known as the 'father of Java' and led the team that developed the language at Sun Microsystems?",
+    "options": [
+      "James Gosling",
+      "Patrick Naughton",
+      "Bill Joy",
+      "Mike Sheridan"
+    ],
+    "answer": "James Gosling"
+  },
+  {
+    "id": "science-technology-486",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Who led the team at IBM that developed the FORTRAN programming language?",
+    "options": [
+      "John Backus",
+      "Grace Hopper",
+      "Donald Knuth",
+      "Edsger Dijkstra"
+    ],
+    "answer": "John Backus"
+  },
+  {
+    "id": "science-technology-487",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Who is credited with inventing the Lisp programming language?",
+    "options": [
+      "John McCarthy",
+      "Marvin Minsky",
+      "Allen Newell",
+      "Herbert Simon"
+    ],
+    "answer": "John McCarthy"
+  },
+  {
+    "id": "science-technology-488",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Who designed the Pascal programming language?",
+    "options": [
+      "Niklaus Wirth",
+      "Donald Knuth",
+      "Tony Hoare",
+      "Edsger Dijkstra"
+    ],
+    "answer": "Niklaus Wirth"
+  },
+  {
+    "id": "science-technology-489",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the name of the instruction set architecture used by most modern desktop and laptop processors?",
+    "options": [
+      "ARM",
+      "RISC-V",
+      "x86",
+      "MIPS"
+    ],
+    "answer": "x86"
+  },
+  {
+    "id": "science-technology-490",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the name of the instruction set architecture used by most modern smartphones and tablets?",
+    "options": [
+      "x86",
+      "ARM",
+      "PowerPC",
+      "SPARC"
+    ],
+    "answer": "ARM"
+  },
+  {
+    "id": "science-technology-491",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What Intel trademarked technology allows a single physical CPU core to execute two threads simultaneously?",
+    "options": [
+      "Hyper-threading",
+      "Turbo Boost",
+      "Virtualization",
+      "Quick Sync"
+    ],
+    "answer": "Hyper-threading"
+  },
+  {
+    "id": "science-technology-492",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What is the name of the small, extremely fast memory located inside or close to the CPU?",
+    "options": [
+      "RAM",
+      "ROM",
+      "Cache",
+      "SSD"
+    ],
+    "answer": "Cache"
+  },
+  {
+    "id": "science-technology-493",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "Which computer component is primarily responsible for rendering images and outputting them to a display?",
+    "options": [
+      "CPU",
+      "GPU",
+      "RAM",
+      "Motherboard"
+    ],
+    "answer": "GPU"
+  },
+  {
+    "id": "science-technology-494",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which protocol is used to securely transfer files between a client and a server over a network?",
+    "options": [
+      "FTP",
+      "SFTP",
+      "HTTP",
+      "SMTP"
+    ],
+    "answer": "SFTP"
+  },
+  {
+    "id": "science-technology-495",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which network protocol is used to automatically assign IP addresses to devices on a local network?",
+    "options": [
+      "DNS",
+      "DHCP",
+      "FTP",
+      "SSH"
+    ],
+    "answer": "DHCP"
+  },
+  {
+    "id": "science-technology-496",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "Which protocol is used to translate human-readable domain names into IP addresses?",
+    "options": [
+      "DNS",
+      "DHCP",
+      "HTTP",
+      "TCP"
+    ],
+    "answer": "DNS"
+  },
+  {
+    "id": "science-technology-497",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which protocol is primarily used for sending emails between servers?",
+    "options": [
+      "IMAP",
+      "POP3",
+      "SMTP",
+      "HTTP"
+    ],
+    "answer": "SMTP"
+  },
+  {
+    "id": "science-technology-498",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which protocol is used by email clients to retrieve emails from a server, marking them as read but leaving them on the server?",
+    "options": [
+      "POP3",
+      "SMTP",
+      "IMAP",
+      "HTTP"
+    ],
+    "answer": "IMAP"
+  },
+  {
+    "id": "science-technology-499",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What is the name of the wireless technology standard used for exchanging data between devices over short distances using UHF radio waves?",
+    "options": [
+      "Wi-Fi",
+      "Bluetooth",
+      "NFC",
+      "Zigbee"
+    ],
+    "answer": "Bluetooth"
+  },
+  {
+    "id": "science-technology-500",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What is the common name for a wireless local area network technology based on the IEEE 802.11 standards?",
+    "options": [
+      "Bluetooth",
+      "Ethernet",
+      "Wi-Fi",
+      "LTE"
+    ],
+    "answer": "Wi-Fi"
+  },
+  {
+    "id": "science-technology-501",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "Which network device is used to forward data packets between different computer networks?",
+    "options": [
+      "Switch",
+      "Hub",
+      "Router",
+      "Modem"
+    ],
+    "answer": "Router"
+  },
+  {
+    "id": "science-technology-502",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "Which network device connects multiple devices within a single local area network (LAN) and uses MAC addresses to forward data?",
+    "options": [
+      "Router",
+      "Switch",
+      "Firewall",
+      "Repeater"
+    ],
+    "answer": "Switch"
+  },
+  {
+    "id": "science-technology-503",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which network security device monitors and filters incoming and outgoing network traffic based on an organization's security policies?",
+    "options": [
+      "Load balancer",
+      "Firewall",
+      "Proxy server",
+      "VPN"
+    ],
+    "answer": "Firewall"
+  },
+  {
+    "id": "science-technology-504",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What type of malicious software encrypts a victim's files and demands payment to restore access?",
+    "options": [
+      "Spyware",
+      "Ransomware",
+      "Adware",
+      "Trojan"
+    ],
+    "answer": "Ransomware"
+  },
+  {
+    "id": "science-technology-505",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What type of malware is disguised as a legitimate program to trick users into installing it?",
+    "options": [
+      "Worm",
+      "Virus",
+      "Trojan horse",
+      "Rootkit"
+    ],
+    "answer": "Trojan horse"
+  },
+  {
+    "id": "science-technology-506",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which type of malware can replicate itself and spread to other computers on a network without needing to attach to a host program?",
+    "options": [
+      "Virus",
+      "Worm",
+      "Trojan",
+      "Spyware"
+    ],
+    "answer": "Worm"
+  },
+  {
+    "id": "science-technology-507",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What type of malicious software records every keystroke made by a user, often to steal passwords and financial information?",
+    "options": [
+      "Keylogger",
+      "Screen scraper",
+      "Adware",
+      "Ransomware"
+    ],
+    "answer": "Keylogger"
+  },
+  {
+    "id": "science-technology-508",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the term for a cyberattack where an attacker floods a target server with superfluous requests to overload the system and prevent legitimate requests from being fulfilled?",
+    "options": [
+      "Phishing",
+      "Denial-of-service attack",
+      "Man-in-the-middle attack",
+      "SQL injection"
+    ],
+    "answer": "Denial-of-service attack"
+  },
+  {
+    "id": "science-technology-509",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What type of cyberattack involves sending fraudulent communications that appear to come from a reputable source to steal sensitive data?",
+    "options": [
+      "Phishing",
+      "Spoofing",
+      "Smishing",
+      "Vishing"
+    ],
+    "answer": "Phishing"
+  },
+  {
+    "id": "science-technology-510",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Which cryptographic technique is used to verify the integrity of a message by producing a fixed-size string of characters from the input data?",
+    "options": [
+      "Symmetric encryption",
+      "Hash function",
+      "Digital signature",
+      "Public-key infrastructure"
+    ],
+    "answer": "Hash function"
+  },
+  {
+    "id": "science-technology-511",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which cryptographic system uses a pair of keys—one public and one private—to encrypt and decrypt data?",
+    "options": [
+      "Symmetric-key cryptography",
+      "Public-key cryptography",
+      "Hash function",
+      "Block cipher"
+    ],
+    "answer": "Public-key cryptography"
+  },
+  {
+    "id": "science-technology-512",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the name of the symmetric block cipher selected by NIST in 2001 to replace DES as the federal standard for encrypting electronic data?",
+    "options": [
+      "Advanced Encryption Standard",
+      "Triple DES",
+      "Blowfish",
+      "Twofish"
+    ],
+    "answer": "Advanced Encryption Standard"
+  },
+  {
+    "id": "science-technology-513",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What was the name of the symmetric-key algorithm adopted as a federal standard for encrypting non-classified data in 1977?",
+    "options": [
+      "Data Encryption Standard",
+      "Rivest Cipher 4",
+      "Advanced Encryption Standard",
+      "International Data Encryption Algorithm"
+    ],
+    "answer": "Data Encryption Standard"
+  },
+  {
+    "id": "science-technology-514",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the name of the public-key cryptosystem widely used for secure data transmission, invented in 1977?",
+    "options": [
+      "Diffie-Hellman",
+      "RSA",
+      "Elliptic Curve Cryptography",
+      "DSA"
+    ],
+    "answer": "RSA"
+  },
+  {
+    "id": "science-technology-515",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "The security of the RSA cryptosystem relies on the computational difficulty of which mathematical problem?",
+    "options": [
+      "Integer factorization",
+      "Discrete logarithm",
+      "Prime gap problem",
+      "Traveling salesman problem"
+    ],
+    "answer": "Integer factorization"
+  },
+  {
+    "id": "science-technology-516",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the term for a secure communication method that uses quantum mechanical properties to distribute cryptographic keys?",
+    "options": [
+      "Quantum cryptography",
+      "Quantum key distribution",
+      "Post-quantum cryptography",
+      "Quantum teleportation"
+    ],
+    "answer": "Quantum key distribution"
+  },
+  {
+    "id": "science-technology-517",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the name of the first quantum key distribution protocol, published in 1984?",
+    "options": [
+      "E91 protocol",
+      "BB84 protocol",
+      "SARG04 protocol",
+      "B92 protocol"
+    ],
+    "answer": "BB84 protocol"
+  },
+  {
+    "id": "science-technology-518",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which quantum algorithm, published in 1994, can theoretically factor integers much faster than the best-known classical algorithms?",
+    "options": [
+      "Grover's algorithm",
+      "Shor's algorithm",
+      "Deutsch-Jozsa algorithm",
+      "Simon's algorithm"
+    ],
+    "answer": "Shor's algorithm"
+  },
+  {
+    "id": "science-technology-519",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which quantum algorithm provides a quadratic speedup for searching an unsorted database compared to classical algorithms?",
+    "options": [
+      "Shor's algorithm",
+      "Grover's algorithm",
+      "Bernstein-Vazirani algorithm",
+      "Quantum Fourier Transform"
+    ],
+    "answer": "Grover's algorithm"
+  },
+  {
+    "id": "science-technology-520",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "In quantum computing, what is the name of the single-qubit gate that acts as the quantum equivalent of the classical NOT gate?",
+    "options": [
+      "Hadamard gate",
+      "CNOT gate",
+      "Pauli-X gate",
+      "Toffoli gate"
+    ],
+    "answer": "Pauli-X gate"
+  },
+  {
+    "id": "science-technology-521",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Which quantum gate is used to put a qubit into a state of superposition of |0⟩ and |1⟩?",
+    "options": [
+      "Pauli-X gate",
+      "Hadamard gate",
+      "CNOT gate",
+      "Phase gate"
+    ],
+    "answer": "Hadamard gate"
+  },
+  {
+    "id": "science-technology-522",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the term for the quantum mechanical phenomenon where two or more particles become linked so that the state of one instantly influences the state of the other, regardless of distance?",
+    "options": [
+      "Quantum tunneling",
+      "Quantum superposition",
+      "Quantum entanglement",
+      "Quantum interference"
+    ],
+    "answer": "Quantum entanglement"
+  },
+  {
+    "id": "science-technology-523",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the biological term for the process by which a cell takes in external material by engulfing it with its cell membrane?",
+    "options": [
+      "Exocytosis",
+      "Endocytosis",
+      "Diffusion",
+      "Osmosis"
+    ],
+    "answer": "Endocytosis"
+  },
+  {
+    "id": "science-technology-524",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the biological term for the process by which a cell expels material to the outside by fusion of a vesicle with the cell membrane?",
+    "options": [
+      "Endocytosis",
+      "Exocytosis",
+      "Phagocytosis",
+      "Pinocytosis"
+    ],
+    "answer": "Exocytosis"
+  },
+  {
+    "id": "science-technology-525",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the name of the structure found inside the nucleus of eukaryotic cells, primarily responsible for synthesizing ribosomal RNA?",
+    "options": [
+      "Nucleolus",
+      "Nucleosome",
+      "Nucleoplasm",
+      "Nuclear envelope"
+    ],
+    "answer": "Nucleolus"
+  },
+  {
+    "id": "science-technology-526",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the name of the series of flattened membranous sacs in a cell that is involved in the synthesis and transport of lipids?",
+    "options": [
+      "Rough endoplasmic reticulum",
+      "Smooth endoplasmic reticulum",
+      "Golgi apparatus",
+      "Lysosome"
+    ],
+    "answer": "Smooth endoplasmic reticulum"
+  },
+  {
+    "id": "science-technology-527",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Which cellular organelle is studded with ribosomes and is the primary site of protein synthesis?",
+    "options": [
+      "Smooth endoplasmic reticulum",
+      "Rough endoplasmic reticulum",
+      "Golgi apparatus",
+      "Vacuole"
+    ],
+    "answer": "Rough endoplasmic reticulum"
+  },
+  {
+    "id": "science-technology-528",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the name of the organelles found in plant cells that are the site of photosynthesis?",
+    "options": [
+      "Mitochondria",
+      "Chloroplasts",
+      "Vacuoles",
+      "Ribosomes"
+    ],
+    "answer": "Chloroplasts"
+  },
+  {
+    "id": "science-technology-529",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the name of the central cavity of a mitochondrion, containing a fluid with a high concentration of enzymes?",
+    "options": [
+      "Cristae",
+      "Matrix",
+      "Intermembrane space",
+      "Thylakoid"
+    ],
+    "answer": "Matrix"
+  },
+  {
+    "id": "science-technology-530",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the name of the folds of the inner membrane of a mitochondrion, which increase the surface area for chemical reactions?",
+    "options": [
+      "Cristae",
+      "Matrix",
+      "Grana",
+      "Stroma"
+    ],
+    "answer": "Cristae"
+  },
+  {
+    "id": "science-technology-531",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the name of the molecule that serves as the primary energy currency of the cell?",
+    "options": [
+      "DNA",
+      "Glucose",
+      "ATP",
+      "RNA"
+    ],
+    "answer": "ATP"
+  },
+  {
+    "id": "science-technology-532",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the name of the process by which ATP is synthesized using the energy of a proton gradient across a membrane?",
+    "options": [
+      "Glycolysis",
+      "Chemiosmosis",
+      "Fermentation",
+      "Photophosphorylation"
+    ],
+    "answer": "Chemiosmosis"
+  },
+  {
+    "id": "science-technology-533",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the name of the enzyme complex that synthesizes ATP from ADP and inorganic phosphate in the mitochondria?",
+    "options": [
+      "ATP synthase",
+      "DNA polymerase",
+      "Hexokinase",
+      "Rubisco"
+    ],
+    "answer": "ATP synthase"
+  },
+  {
+    "id": "science-technology-534",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the name of the cycle that occurs in the stroma of chloroplasts and uses ATP and NADPH to fix carbon dioxide into glucose?",
+    "options": [
+      "Krebs cycle",
+      "Calvin cycle",
+      "Glycolysis",
+      "Cori cycle"
+    ],
+    "answer": "Calvin cycle"
+  },
+  {
+    "id": "science-technology-535",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the name of the pigment responsible for the orange color in carrots?",
+    "options": [
+      "Chlorophyll",
+      "Lycopene",
+      "Beta-carotene",
+      "Anthocyanin"
+    ],
+    "answer": "Beta-carotene"
+  },
+  {
+    "id": "science-technology-536",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the name of the pigment responsible for the red color in tomatoes?",
+    "options": [
+      "Lycopene",
+      "Beta-carotene",
+      "Xanthophyll",
+      "Carotene"
+    ],
+    "answer": "Lycopene"
+  },
+  {
+    "id": "science-technology-537",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the name of the class of pigments responsible for the red, orange, and yellow colors in many fruits and vegetables?",
+    "options": [
+      "Anthocyanins",
+      "Carotenoids",
+      "Chlorophylls",
+      "Flavonoids"
+    ],
+    "answer": "Carotenoids"
+  },
+  {
+    "id": "science-technology-538",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the name of the class of water-soluble pigments responsible for the red, purple, and blue colors in many fruits and flowers?",
+    "options": [
+      "Carotenoids",
+      "Anthocyanins",
+      "Betalains",
+      "Xanthophylls"
+    ],
+    "answer": "Anthocyanins"
+  },
+  {
+    "id": "science-technology-539",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the name of the plant vascular tissue responsible for transporting water and dissolved minerals from the roots to the rest of the plant?",
+    "options": [
+      "Phloem",
+      "Xylem",
+      "Epidermis",
+      "Cambium"
+    ],
+    "answer": "Xylem"
+  },
+  {
+    "id": "science-technology-540",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the name of the plant vascular tissue responsible for transporting sugars and other metabolic products from the leaves to the rest of the plant?",
+    "options": [
+      "Xylem",
+      "Phloem",
+      "Stomata",
+      "Cuticle"
+    ],
+    "answer": "Phloem"
+  },
+  {
+    "id": "science-technology-541",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What are the tiny pores found on the surface of leaves that allow for gas exchange called?",
+    "options": [
+      "Stomata",
+      "Guard cells",
+      "Cuticles",
+      "Lenticels"
+    ],
+    "answer": "Stomata"
+  },
+  {
+    "id": "science-technology-542",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the name of the waxy, water-resistant layer found on the outer surface of plant leaves and stems?",
+    "options": [
+      "Cuticle",
+      "Epidermis",
+      "Stomata",
+      "Mesophyll"
+    ],
+    "answer": "Cuticle"
+  },
+  {
+    "id": "science-technology-543",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Which plant hormone is primarily responsible for promoting stem elongation and root growth?",
+    "options": [
+      "Gibberellin",
+      "Auxin",
+      "Cytokinin",
+      "Ethylene"
+    ],
+    "answer": "Auxin"
+  },
+  {
+    "id": "science-technology-544",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Which plant hormone primarily promotes cell division and is often found in high concentrations in fruits and seeds?",
+    "options": [
+      "Cytokinin",
+      "Auxin",
+      "Ethylene",
+      "Abscisic acid"
+    ],
+    "answer": "Cytokinin"
+  },
+  {
+    "id": "science-technology-545",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Which plant hormone is known as the 'stress hormone' because it inhibits growth and promotes seed dormancy and closing of stomata?",
+    "options": [
+      "Abscisic acid",
+      "Gibberellin",
+      "Ethylene",
+      "Auxin"
+    ],
+    "answer": "Abscisic acid"
+  },
+  {
+    "id": "science-technology-546",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the term for the growth movement of a plant in response to the direction of light?",
+    "options": [
+      "Gravitropism",
+      "Phototropism",
+      "Thigmotropism",
+      "Hydrotropism"
+    ],
+    "answer": "Phototropism"
+  },
+  {
+    "id": "science-technology-547",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the term for the growth movement of a plant in response to gravity, causing roots to grow down and stems to grow up?",
+    "options": [
+      "Phototropism",
+      "Gravitropism",
+      "Thigmotropism",
+      "Chemotropism"
+    ],
+    "answer": "Gravitropism"
+  },
+  {
+    "id": "science-technology-548",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the term for the directional growth movement of a plant in response to touch or physical contact?",
+    "options": [
+      "Phototropism",
+      "Gravitropism",
+      "Thigmotropism",
+      "Heliotropism"
+    ],
+    "answer": "Thigmotropism"
+  },
+  {
+    "id": "science-technology-549",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What is the common name for the clavicle?",
+    "options": [
+      "Collarbone",
+      "Shoulder blade",
+      "Breastbone",
+      "Kneecap"
+    ],
+    "answer": "Collarbone"
+  },
+  {
+    "id": "science-technology-550",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What is the common name for the scapula?",
+    "options": [
+      "Collarbone",
+      "Shoulder blade",
+      "Breastbone",
+      "Kneecap"
+    ],
+    "answer": "Shoulder blade"
+  },
+  {
+    "id": "science-technology-551",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What is the common name for the sternum?",
+    "options": [
+      "Collarbone",
+      "Shoulder blade",
+      "Breastbone",
+      "Tailbone"
+    ],
+    "answer": "Breastbone"
+  },
+  {
+    "id": "science-technology-552",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the anatomical name for the heel bone, the largest bone in the foot?",
+    "options": [
+      "Talus",
+      "Calcaneus",
+      "Navicular",
+      "Cuboid"
+    ],
+    "answer": "Calcaneus"
+  },
+  {
+    "id": "science-technology-553",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the collective name for the eight small bones that make up the human wrist?",
+    "options": [
+      "Tarsals",
+      "Metatarsals",
+      "Carpals",
+      "Phalanges"
+    ],
+    "answer": "Carpals"
+  },
+  {
+    "id": "science-technology-554",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the collective name for the seven bones that make up the human ankle and the upper part of the foot?",
+    "options": [
+      "Carpals",
+      "Tarsals",
+      "Metacarpals",
+      "Phalanges"
+    ],
+    "answer": "Tarsals"
+  },
+  {
+    "id": "science-technology-555",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the name of the five long bones in the palm of the human hand?",
+    "options": [
+      "Carpals",
+      "Metacarpals",
+      "Phalanges",
+      "Metatarsals"
+    ],
+    "answer": "Metacarpals"
+  },
+  {
+    "id": "science-technology-556",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the name of the five long bones located in the human foot, between the tarsals and the phalanges?",
+    "options": [
+      "Metatarsals",
+      "Metacarpals",
+      "Phalanges",
+      "Carpals"
+    ],
+    "answer": "Metatarsals"
+  },
+  {
+    "id": "science-technology-557",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What is the name of the bones that make up the fingers and toes?",
+    "options": [
+      "Phalanges",
+      "Metacarpals",
+      "Metatarsals",
+      "Carpals"
+    ],
+    "answer": "Phalanges"
+  },
+  {
+    "id": "science-technology-558",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which cranial bone forms the sides and base of the skull, housing the structures of the inner ear?",
+    "options": [
+      "Frontal bone",
+      "Occipital bone",
+      "Temporal bone",
+      "Parietal bone"
+    ],
+    "answer": "Temporal bone"
+  },
+  {
+    "id": "science-technology-559",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which cranial bone forms the top and sides of the roof of the skull?",
+    "options": [
+      "Frontal bone",
+      "Parietal bone",
+      "Temporal bone",
+      "Sphenoid bone"
+    ],
+    "answer": "Parietal bone"
+  },
+  {
+    "id": "science-technology-560",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which bones meet to form the bridge of the nose?",
+    "options": [
+      "Nasal bones",
+      "Maxilla",
+      "Zygomatic bones",
+      "Frontal bone"
+    ],
+    "answer": "Nasal bones"
+  },
+  {
+    "id": "science-technology-561",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the anatomical name for the cheekbone?",
+    "options": [
+      "Maxilla",
+      "Mandible",
+      "Zygomatic bone",
+      "Temporal bone"
+    ],
+    "answer": "Zygomatic bone"
+  },
+  {
+    "id": "science-technology-562",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which facial bone forms the upper jaw and holds the upper teeth?",
+    "options": [
+      "Mandible",
+      "Maxilla",
+      "Zygomatic bone",
+      "Palatine bone"
+    ],
+    "answer": "Maxilla"
+  },
+  {
+    "id": "science-technology-563",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the name of the cup-shaped socket in the pelvis that articulates with the head of the femur?",
+    "options": [
+      "Obturator foramen",
+      "Acetabulum",
+      "Iliac crest",
+      "Ischium"
+    ],
+    "answer": "Acetabulum"
+  },
+  {
+    "id": "science-technology-564",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which layer of the Earth is composed primarily of liquid iron and nickel?",
+    "options": [
+      "Inner core",
+      "Outer core",
+      "Mantle",
+      "Asthenosphere"
+    ],
+    "answer": "Outer core"
+  },
+  {
+    "id": "science-technology-565",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the name of the highly viscous, ductile layer of the Earth's mantle that lies directly below the rigid lithosphere?",
+    "options": [
+      "Asthenosphere",
+      "Mesosphere",
+      "Outer core",
+      "Crust"
+    ],
+    "answer": "Asthenosphere"
+  },
+  {
+    "id": "science-technology-566",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What is the name of the supercontinent that existed during the late Paleozoic and early Mesozoic eras, before its components broke apart?",
+    "options": [
+      "Pangaea",
+      "Gondwana",
+      "Laurasia",
+      "Rodinia"
+    ],
+    "answer": "Pangaea"
+  },
+  {
+    "id": "science-technology-567",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the geological term for the process by which rocks are broken down into smaller pieces by physical or chemical means?",
+    "options": [
+      "Erosion",
+      "Weathering",
+      "Lithification",
+      "Subduction"
+    ],
+    "answer": "Weathering"
+  },
+  {
+    "id": "science-technology-568",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the geological process by which sediments are compacted and cemented together to form solid sedimentary rock?",
+    "options": [
+      "Metamorphism",
+      "Lithification",
+      "Diagenesis",
+      "Weathering"
+    ],
+    "answer": "Lithification"
+  },
+  {
+    "id": "science-technology-569",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the term for the point on the Earth's surface directly above the underground origin of an earthquake?",
+    "options": [
+      "Focus",
+      "Epicenter",
+      "Fault line",
+      "Seismic gap"
+    ],
+    "answer": "Epicenter"
+  },
+  {
+    "id": "science-technology-570",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the term for the actual underground point of origin of an earthquake, where seismic waves begin?",
+    "options": [
+      "Epicenter",
+      "Focus",
+      "Node",
+      "Seismic center"
+    ],
+    "answer": "Focus"
+  },
+  {
+    "id": "science-technology-571",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "In seismology, what is the name of the primary body wave that compresses and expands the rock it travels through, and is the fastest?",
+    "options": [
+      "S-wave",
+      "P-wave",
+      "Love wave",
+      "Rayleigh wave"
+    ],
+    "answer": "P-wave"
+  },
+  {
+    "id": "science-technology-572",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "In seismology, what is the name of the secondary body wave that moves rock up and down or side to side, and cannot travel through liquids?",
+    "options": [
+      "P-wave",
+      "S-wave",
+      "Surface wave",
+      "Rayleigh wave"
+    ],
+    "answer": "S-wave"
+  },
+  {
+    "id": "science-technology-573",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which Dutch physicist is credited with proposing the wave theory of light in the 17th century?",
+    "options": [
+      "Isaac Newton",
+      "Christiaan Huygens",
+      "Thomas Young",
+      "James Clerk Maxwell"
+    ],
+    "answer": "Christiaan Huygens"
+  },
+  {
+    "id": "science-technology-574",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Who is the Swedish astronomer credited with inventing the Celsius temperature scale?",
+    "options": [
+      "Anders Celsius",
+      "Daniel Gabriel Fahrenheit",
+      "William Thomson",
+      "Carl Linnaeus"
+    ],
+    "answer": "Anders Celsius"
+  },
+  {
+    "id": "science-technology-575",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which physicist is credited with developing the absolute temperature scale, where zero represents absolute zero?",
+    "options": [
+      "Lord Kelvin",
+      "Anders Celsius",
+      "Daniel Gabriel Fahrenheit",
+      "James Joule"
+    ],
+    "answer": "Lord Kelvin"
+  },
+  {
+    "id": "science-technology-576",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What is the freezing point of water on the Fahrenheit scale?",
+    "options": [
+      "0°F",
+      "32°F",
+      "100°F",
+      "212°F"
+    ],
+    "answer": "32°F"
+  },
+  {
+    "id": "science-technology-577",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What is the boiling point of water on the Fahrenheit scale at standard atmospheric pressure?",
+    "options": [
+      "100°F",
+      "180°F",
+      "212°F",
+      "273°F"
+    ],
+    "answer": "212°F"
+  },
+  {
+    "id": "science-technology-578",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "In mineralogy, what is the term for the color of a mineral in its powdered form, usually observed by rubbing it across a porcelain plate?",
+    "options": [
+      "Luster",
+      "Cleavage",
+      "Streak",
+      "Fracture"
+    ],
+    "answer": "Streak"
+  },
+  {
+    "id": "science-technology-579",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the geological term for the tendency of a mineral to break along flat, even surfaces along planes of weak atomic bonding?",
+    "options": [
+      "Fracture",
+      "Cleavage",
+      "Streak",
+      "Luster"
+    ],
+    "answer": "Cleavage"
+  },
+  {
+    "id": "science-technology-580",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What type of rock is formed by the accumulation and compression of mineral and organic particles over time?",
+    "options": [
+      "Igneous rock",
+      "Metamorphic rock",
+      "Sedimentary rock",
+      "Volcanic rock"
+    ],
+    "answer": "Sedimentary rock"
+  },
+  {
+    "id": "science-technology-581",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which physicist is credited with discovering the proton in 1919?",
+    "options": [
+      "J.J. Thomson",
+      "Ernest Rutherford",
+      "James Chadwick",
+      "Niels Bohr"
+    ],
+    "answer": "Ernest Rutherford"
+  },
+  {
+    "id": "science-technology-582",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which fundamental force is responsible for holding the protons and neutrons together in an atomic nucleus?",
+    "options": [
+      "Electromagnetic force",
+      "Gravitational force",
+      "Strong nuclear force",
+      "Weak nuclear force"
+    ],
+    "answer": "Strong nuclear force"
+  },
+  {
+    "id": "science-technology-583",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Which fundamental force is responsible for the radioactive decay of subatomic particles, such as beta decay?",
+    "options": [
+      "Strong nuclear force",
+      "Electromagnetic force",
+      "Weak nuclear force",
+      "Gravitational force"
+    ],
+    "answer": "Weak nuclear force"
+  },
+  {
+    "id": "science-technology-584",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What is the term for the physical property of a fluid that describes its resistance to flow or deformation?",
+    "options": [
+      "Density",
+      "Viscosity",
+      "Surface tension",
+      "Volatility"
+    ],
+    "answer": "Viscosity"
+  },
+  {
+    "id": "science-technology-585",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What is the name of the dimensionless physical constant that characterizes the strength of the electromagnetic interaction between elementary charged particles?",
+    "options": [
+      "Fine-structure constant",
+      "Gravitational constant",
+      "Planck constant",
+      "Boltzmann constant"
+    ],
+    "answer": "Fine-structure constant"
+  },
+  {
+    "id": "science-technology-586",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which hormone is responsible for stimulating uterine contractions during childbirth and facilitating lactation?",
+    "options": [
+      "Prolactin",
+      "Oxytocin",
+      "Estrogen",
+      "Progesterone"
+    ],
+    "answer": "Oxytocin"
+  },
+  {
+    "id": "science-technology-587",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which hormone is primarily responsible for milk production in the mammary glands?",
+    "options": [
+      "Oxytocin",
+      "Prolactin",
+      "Estrogen",
+      "Luteinizing hormone"
+    ],
+    "answer": "Prolactin"
+  },
+  {
+    "id": "science-technology-588",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which primary male sex hormone is responsible for the development of male reproductive tissues and secondary sexual characteristics?",
+    "options": [
+      "Estrogen",
+      "Progesterone",
+      "Testosterone",
+      "Luteinizing hormone"
+    ],
+    "answer": "Testosterone"
+  },
+  {
+    "id": "science-technology-589",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which female sex hormone is primarily responsible for the development and regulation of the female reproductive system and secondary sexual characteristics?",
+    "options": [
+      "Testosterone",
+      "Estrogen",
+      "Prolactin",
+      "Follicle-stimulating hormone"
+    ],
+    "answer": "Estrogen"
+  },
+  {
+    "id": "science-technology-590",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which hormone, produced by the anterior pituitary gland, stimulates growth, cell reproduction, and cell regeneration in humans?",
+    "options": [
+      "Growth hormone",
+      "Thyroid-stimulating hormone",
+      "Adrenocorticotropic hormone",
+      "Prolactin"
+    ],
+    "answer": "Growth hormone"
+  },
+  {
+    "id": "science-technology-591",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What is the chemical formula for methane, the simplest hydrocarbon and the main component of natural gas?",
+    "options": [
+      "CH4",
+      "C2H6",
+      "C3H8",
+      "CO2"
+    ],
+    "answer": "CH4"
   }
 ]

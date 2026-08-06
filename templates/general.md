@@ -5,7 +5,7 @@ You are drafting trivia questions for a multiple-choice trivia app. You have no 
 
 TOPIC: General Knowledge — a catch-all for solid trivia facts that don't fit a specific topic like history, geography, science, arts, film/TV, music, sports, food, mythology, world cultures, or civics/law/economics. Think idioms, everyday phrases, wordplay terms, units/measurements trivia, board/card games, and similar odds and ends. Do NOT draft economics terms, legal principles, government-system definitions, or international-organization facts — those belong in the Civics, Law & Economics category now. Do NOT draft collective-noun-for-a-group-of-animals questions — those belong in Animals & Nature.
 
-COUNT: 100 questions.
+COUNT: 200 questions.
 
 AVOID THESE ANGLES — already well-covered in my question bank, so don't draft facts that overlap with these (pick different, more specific facts instead):
 - How many continents there are (Seven)
@@ -40,6 +40,9 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Gunter's/surveying chain length (66 ft, also the length of a cricket pitch) and the cubit's origin (elbow to fingertip)
 - Admiral Horatio Nelson inspiring "turn a blind eye" at the Battle of Copenhagen (1801)
 - Official oche-to-dartboard throwing distance; "turkey" as three consecutive strikes in ten-pin bowling
+- Semordnilap, initialism, homograph, backronym definitions; a knot as one nautical mile per hour; a standard ream (500 sheets); a rod/pole/perch (16.5 ft)
+- Monopoly's most expensive color set/properties (dark blue, Boardwalk & Park Place, $400); chess castling; Scrabble's two 8-point tiles (J and X); the game Hearts (avoiding the Queen of Spades) and "shooting the moon"; standard Mahjong tile count (144)
+- Pilcrow (¶), interrobang (‽), ampersand (&) etymology, ellipsis (...) as omission marks
 - This category is deeply saturated (500+ questions, much of it idioms/wordplay/game-trivia) — a recent batch had a ~23% duplicate rate that the default check-draft pass mostly missed (same definition/idiom, reworded); run --full-answer-audit and read every match by hand.
 
 Use web search to verify every fact — do not rely on memory alone. Prefer authoritative sources (reference databases, almanacs) over guessing. For each question, actually find the fact via search rather than recalling it, especially for obscure details.

@@ -5,7 +5,7 @@ You are drafting trivia questions for a multiple-choice trivia app. You have no 
 
 TOPIC: Arts & Literature — books, authors, painting, sculpture, poetry, classic literature and fine art. Film/TV and music have their own categories — don't draft those here.
 
-COUNT: 100 questions.
+COUNT: 200 questions.
 
 AVOID THESE ANGLES — already well-covered in my question bank, so don't draft facts that overlap with these (pick different, more specific facts instead):
 - Who wrote "The Divine Comedy" (Dante Alighieri)

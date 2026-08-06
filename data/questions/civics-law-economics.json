@@ -6498,5 +6498,2111 @@
       "London"
     ],
     "answer": "Washington, D.C."
+  },
+  {
+    "id": "civics-law-economics-485",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "Which political system is characterized by strong central power that demands obedience but does not strictly control every aspect of daily life?",
+    "options": [
+      "Authoritarianism",
+      "Demarchy",
+      "Anarchism",
+      "Libertarianism"
+    ],
+    "answer": "Authoritarianism"
+  },
+  {
+    "id": "civics-law-economics-486",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What political philosophy advocates for self-governed societies based on voluntary institutions and rejects involuntary authority?",
+    "options": [
+      "Anarchism",
+      "Statism",
+      "Totalitarianism",
+      "Pluralism"
+    ],
+    "answer": "Anarchism"
+  },
+  {
+    "id": "civics-law-economics-487",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "Which political philosophy argues that the state's only legitimate function is protecting individuals from aggression, theft, and fraud?",
+    "options": [
+      "Minarchism",
+      "Syndicalism",
+      "Command economy",
+      "Welfare state"
+    ],
+    "answer": "Minarchism"
+  },
+  {
+    "id": "civics-law-economics-488",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "What is the term for a system of government where representatives are selected by random lottery rather than by election?",
+    "options": [
+      "Demarchy",
+      "Plutocracy",
+      "Stratocracy",
+      "Kleptocracy"
+    ],
+    "answer": "Demarchy"
+  },
+  {
+    "id": "civics-law-economics-489",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "What historical laws regulated consumption by dictating what specific classes of people could wear or eat?",
+    "options": [
+      "Sumptuary laws",
+      "Sunset clauses",
+      "Blue laws",
+      "Ex post facto laws"
+    ],
+    "answer": "Sumptuary laws"
+  },
+  {
+    "id": "civics-law-economics-490",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What is the term for a direct vote by the electorate on a specific proposal, often non-binding and used to gauge public opinion?",
+    "options": [
+      "Plebiscite",
+      "Cloture",
+      "Filibuster",
+      "Caucus"
+    ],
+    "answer": "Plebiscite"
+  },
+  {
+    "id": "civics-law-economics-491",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "Which type of primary election restricts voting to only those who are registered members of the political party?",
+    "options": [
+      "Closed primary",
+      "Open primary",
+      "Jungle primary",
+      "Caucus"
+    ],
+    "answer": "Closed primary"
+  },
+  {
+    "id": "civics-law-economics-492",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What is the term for a legislative provision that directs approved funds to be spent on specific projects?",
+    "options": [
+      "Earmark",
+      "Pork barrel spending",
+      "Iron triangle",
+      "Logrolling"
+    ],
+    "answer": "Earmark"
+  },
+  {
+    "id": "civics-law-economics-493",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "Which term describes government spending localized to a specific representative's district, often to gain political support?",
+    "options": [
+      "Pork barrel spending",
+      "Rent-seeking",
+      "Regulatory capture",
+      "Spoils system"
+    ],
+    "answer": "Pork barrel spending"
+  },
+  {
+    "id": "civics-law-economics-494",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What is the role of a party member in a legislature who is responsible for enforcing party discipline during votes?",
+    "options": [
+      "Whip",
+      "Speaker",
+      "Majority leader",
+      "President pro tempore"
+    ],
+    "answer": "Whip"
+  },
+  {
+    "id": "civics-law-economics-495",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "Which term describes an elected official who is nearing the end of their term, especially after a successor has been chosen?",
+    "options": [
+      "Lame duck",
+      "Dark horse",
+      "Spoils system",
+      "Caretaker government"
+    ],
+    "answer": "Lame duck"
+  },
+  {
+    "id": "civics-law-economics-496",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What is the practice of awarding government jobs to political supporters after an election victory?",
+    "options": [
+      "Spoils system",
+      "Merit system",
+      "Civil service",
+      "Bureaucracy"
+    ],
+    "answer": "Spoils system"
+  },
+  {
+    "id": "civics-law-economics-497",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "In political science, what term describes the tight, mutually beneficial relationship between a congressional committee, a bureaucratic agency, and an interest group?",
+    "options": [
+      "Iron triangle",
+      "Issue network",
+      "Shadow cabinet",
+      "Whip system"
+    ],
+    "answer": "Iron triangle"
+  },
+  {
+    "id": "civics-law-economics-498",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "Which phenomenon occurs when a regulatory agency acts in favor of the industry it is supposed to be regulating?",
+    "options": [
+      "Regulatory capture",
+      "Rent-seeking",
+      "Moral hazard",
+      "Adverse selection"
+    ],
+    "answer": "Regulatory capture"
+  },
+  {
+    "id": "civics-law-economics-499",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "What economic concept describes attempting to increase one's share of existing wealth without creating new wealth?",
+    "options": [
+      "Rent-seeking",
+      "Profit maximization",
+      "Arbitrage",
+      "Speculation"
+    ],
+    "answer": "Rent-seeking"
+  },
+  {
+    "id": "civics-law-economics-500",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "Which theorem proves that no ranked-voting electoral system can satisfy a specific set of fairness criteria simultaneously?",
+    "options": [
+      "Arrow's impossibility theorem",
+      "Duverger's law",
+      "Median voter theorem",
+      "Coase theorem"
+    ],
+    "answer": "Arrow's impossibility theorem"
+  },
+  {
+    "id": "civics-law-economics-501",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "Which political science principle states that plurality-vote systems tend to favor a two-party system?",
+    "options": [
+      "Duverger's law",
+      "Say's law",
+      "Gresham's law",
+      "Engel's law"
+    ],
+    "answer": "Duverger's law"
+  },
+  {
+    "id": "civics-law-economics-502",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "Which proposition states that majority rule voting will select the outcome most preferred by the median voter?",
+    "options": [
+      "Median voter theorem",
+      "Condorcet paradox",
+      "Arrow's impossibility theorem",
+      "Public choice theory"
+    ],
+    "answer": "Median voter theorem"
+  },
+  {
+    "id": "civics-law-economics-503",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "Which economic theory applies economic analysis to political behavior, treating politicians and bureaucrats as self-interested actors?",
+    "options": [
+      "Public choice theory",
+      "Keynesian economics",
+      "Behavioral economics",
+      "Austrian economics"
+    ],
+    "answer": "Public choice theory"
+  },
+  {
+    "id": "civics-law-economics-504",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "Which political movement advocates for worker ownership of the means of production, primarily through trade unions?",
+    "options": [
+      "Syndicalism",
+      "Social democracy",
+      "Minarchism",
+      "Communitarianism"
+    ],
+    "answer": "Syndicalism"
+  },
+  {
+    "id": "civics-law-economics-505",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "Which political ideology supports economic and social interventions to promote social justice within a capitalist framework?",
+    "options": [
+      "Social democracy",
+      "Syndicalism",
+      "Anarchism",
+      "Neoliberalism"
+    ],
+    "answer": "Social democracy"
+  },
+  {
+    "id": "civics-law-economics-506",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "Which economic system blends free market capitalism with significant government intervention?",
+    "options": [
+      "Mixed economy",
+      "Command economy",
+      "Traditional economy",
+      "Barter system"
+    ],
+    "answer": "Mixed economy"
+  },
+  {
+    "id": "civics-law-economics-507",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "Which economic system relies on customs, history, and time-honored beliefs to make decisions about production and distribution?",
+    "options": [
+      "Traditional economy",
+      "Market economy",
+      "Command economy",
+      "Mixed economy"
+    ],
+    "answer": "Traditional economy"
+  },
+  {
+    "id": "civics-law-economics-508",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "In which economic system are goods and services given without an explicit agreement for immediate or future rewards?",
+    "options": [
+      "Gift economy",
+      "Barter system",
+      "Market economy",
+      "Command economy"
+    ],
+    "answer": "Gift economy"
+  },
+  {
+    "id": "civics-law-economics-509",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What is the term for a system of exchange where goods and services are traded directly for other goods and services without money?",
+    "options": [
+      "Barter system",
+      "Fiat currency",
+      "Commodity money",
+      "Representative money"
+    ],
+    "answer": "Barter system"
+  },
+  {
+    "id": "civics-law-economics-510",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What is the term for a sovereign political entity whose citizens share a common culture, language, or history?",
+    "options": [
+      "Nation-state",
+      "City-state",
+      "Microstate",
+      "Protectorate"
+    ],
+    "answer": "Nation-state"
+  },
+  {
+    "id": "civics-law-economics-511",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "Which type of state is an independent sovereign city that serves as the center of political, economic, and cultural life for its surrounding territory?",
+    "options": [
+      "City-state",
+      "Nation-state",
+      "Buffer state",
+      "Satellite state"
+    ],
+    "answer": "City-state"
+  },
+  {
+    "id": "civics-law-economics-512",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What is the term for a state that is controlled and protected by another, stronger state?",
+    "options": [
+      "Protectorate",
+      "Microstate",
+      "Confederation",
+      "Federation"
+    ],
+    "answer": "Protectorate"
+  },
+  {
+    "id": "civics-law-economics-513",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "Which term describes a country that is officially independent but is heavily influenced or controlled by another, more powerful country?",
+    "options": [
+      "Satellite state",
+      "Buffer state",
+      "City-state",
+      "Microstate"
+    ],
+    "answer": "Satellite state"
+  },
+  {
+    "id": "civics-law-economics-514",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What is the term for a country situated between two larger, potentially hostile powers, serving to reduce the risk of conflict?",
+    "options": [
+      "Buffer state",
+      "Satellite state",
+      "Protectorate",
+      "Puppet state"
+    ],
+    "answer": "Buffer state"
+  },
+  {
+    "id": "civics-law-economics-515",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "Which term describes a sovereign state with a very small population or land area, such as Monaco or Nauru?",
+    "options": [
+      "Microstate",
+      "City-state",
+      "Nation-state",
+      "Autonomous region"
+    ],
+    "answer": "Microstate"
+  },
+  {
+    "id": "civics-law-economics-516",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What is the term for an area of a country that has a degree of self-governance, but is not fully independent?",
+    "options": [
+      "Autonomous region",
+      "Sovereign state",
+      "Protectorate",
+      "Confederation"
+    ],
+    "answer": "Autonomous region"
+  },
+  {
+    "id": "civics-law-economics-517",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "What is the legal term for the premeditated intent to kill or cause grievous bodily harm required for murder?",
+    "options": [
+      "Malice aforethought",
+      "Mens rea",
+      "Strict liability",
+      "Negligence"
+    ],
+    "answer": "Malice aforethought"
+  },
+  {
+    "id": "civics-law-economics-518",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "Which term describes acts that are inherently wrong or evil by nature, such as murder or theft?",
+    "options": [
+      "Mala in se",
+      "Mala prohibita",
+      "Strict liability",
+      "Actus reus"
+    ],
+    "answer": "Mala in se"
+  },
+  {
+    "id": "civics-law-economics-519",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "Which term describes acts that are wrong only because they are explicitly prohibited by law, such as jaywalking?",
+    "options": [
+      "Mala prohibita",
+      "Mala in se",
+      "Mens rea",
+      "Corpus delicti"
+    ],
+    "answer": "Mala prohibita"
+  },
+  {
+    "id": "civics-law-economics-520",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "In tort law, what is the term for an intentional act that causes a reasonable apprehension of harmful or offensive contact?",
+    "options": [
+      "Assault",
+      "Battery",
+      "False imprisonment",
+      "Conversion"
+    ],
+    "answer": "Assault"
+  },
+  {
+    "id": "civics-law-economics-521",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "Which tort involves intentional harmful or offensive physical contact with another person?",
+    "options": [
+      "Battery",
+      "Assault",
+      "Trespass",
+      "Nuisance"
+    ],
+    "answer": "Battery"
+  },
+  {
+    "id": "civics-law-economics-522",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What is the term for the intentional confinement of a person without legal authority or their consent?",
+    "options": [
+      "False imprisonment",
+      "Assault",
+      "Battery",
+      "Defamation"
+    ],
+    "answer": "False imprisonment"
+  },
+  {
+    "id": "civics-law-economics-523",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "Which tort involves an intentional interference with a person's property, denying them their right to possession?",
+    "options": [
+      "Conversion",
+      "Trespass",
+      "Nuisance",
+      "Bailment"
+    ],
+    "answer": "Conversion"
+  },
+  {
+    "id": "civics-law-economics-524",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "Which pre-trial phase allows parties to obtain evidence from each other through requests and subpoenas?",
+    "options": [
+      "Discovery",
+      "Voir dire",
+      "Arraignment",
+      "Sentencing"
+    ],
+    "answer": "Discovery"
+  },
+  {
+    "id": "civics-law-economics-525",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "What is the term for the trial jury that listens to evidence and decides the verdict in a legal case?",
+    "options": [
+      "Petit jury",
+      "Grand jury",
+      "Coroner's jury",
+      "Blue ribbon jury"
+    ],
+    "answer": "Petit jury"
+  },
+  {
+    "id": "civics-law-economics-526",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "Which term refers to the conditional release of a prisoner before they have completed their full sentence?",
+    "options": [
+      "Parole",
+      "Probation",
+      "Pardon",
+      "Commutation"
+    ],
+    "answer": "Parole"
+  },
+  {
+    "id": "civics-law-economics-527",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "Which legal doctrine holds that the government cannot be sued without its explicit consent?",
+    "options": [
+      "Sovereign immunity",
+      "Diplomatic immunity",
+      "Qualified immunity",
+      "Absolute immunity"
+    ],
+    "answer": "Sovereign immunity"
+  },
+  {
+    "id": "civics-law-economics-528",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "What is the term for a situation where a court appoints a receiver to manage a company's assets during bankruptcy or financial distress?",
+    "options": [
+      "Receivership",
+      "Liquidation",
+      "Reorganization",
+      "Foreclosure"
+    ],
+    "answer": "Receivership"
+  },
+  {
+    "id": "civics-law-economics-529",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "Which bankruptcy proceeding allows a business to restructure its debts while continuing to operate?",
+    "options": [
+      "Chapter 11 bankruptcy",
+      "Chapter 7 bankruptcy",
+      "Chapter 13 bankruptcy",
+      "Receivership"
+    ],
+    "answer": "Chapter 11 bankruptcy"
+  },
+  {
+    "id": "civics-law-economics-530",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What is the term for a legal right to keep possession of a property belonging to a debtor until a debt is discharged?",
+    "options": [
+      "Lien",
+      "Escrow",
+      "Mortgage",
+      "Easement"
+    ],
+    "answer": "Lien"
+  },
+  {
+    "id": "civics-law-economics-531",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What is the term for a financial instrument held by a third party on behalf of two other parties until specified conditions are met?",
+    "options": [
+      "Escrow",
+      "Lien",
+      "Trust",
+      "Annuity"
+    ],
+    "answer": "Escrow"
+  },
+  {
+    "id": "civics-law-economics-532",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "Which legal document transfers any interest a person has in a property without making any guarantees about the title?",
+    "options": [
+      "Quitclaim deed",
+      "Warranty deed",
+      "Title insurance",
+      "Mortgage"
+    ],
+    "answer": "Quitclaim deed"
+  },
+  {
+    "id": "civics-law-economics-533",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "What is the term for a right or interest in a property that diminishes its value or use but does not prevent its transfer?",
+    "options": [
+      "Encumbrance",
+      "Appraisal",
+      "Assessment",
+      "Easement"
+    ],
+    "answer": "Encumbrance"
+  },
+  {
+    "id": "civics-law-economics-534",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "Which legal concept describes the relationship between parties to a contract, giving them the right to sue each other?",
+    "options": [
+      "Privity of contract",
+      "Consideration",
+      "Novation",
+      "Assignment"
+    ],
+    "answer": "Privity of contract"
+  },
+  {
+    "id": "civics-law-economics-535",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "Which contract doctrine applies when unforeseen events destroy the primary reason for entering into a contract?",
+    "options": [
+      "Frustration of purpose",
+      "Impossibility",
+      "Force majeure",
+      "Breach of contract"
+    ],
+    "answer": "Frustration of purpose"
+  },
+  {
+    "id": "civics-law-economics-536",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "Which contract defense applies when performance becomes objectively impossible due to unforeseen events?",
+    "options": [
+      "Impossibility",
+      "Frustration of purpose",
+      "Quantum meruit",
+      "Novation"
+    ],
+    "answer": "Impossibility"
+  },
+  {
+    "id": "civics-law-economics-537",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "What is the term for a contractual obligation to compensate for harm or loss incurred by another party?",
+    "options": [
+      "Indemnity",
+      "Subrogation",
+      "Estoppel",
+      "Novation"
+    ],
+    "answer": "Indemnity"
+  },
+  {
+    "id": "civics-law-economics-538",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "Which legal obligation requires a person to act in the best interest of another party, such as a financial advisor and their client?",
+    "options": [
+      "Fiduciary duty",
+      "Duty of care",
+      "Good faith",
+      "Due diligence"
+    ],
+    "answer": "Fiduciary duty"
+  },
+  {
+    "id": "civics-law-economics-539",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "What is the term for a ruling by a judge taking the decision away from the jury because the evidence is legally insufficient?",
+    "options": [
+      "Directed verdict",
+      "Summary judgment",
+      "JNOV",
+      "Mistrial"
+    ],
+    "answer": "Directed verdict"
+  },
+  {
+    "id": "civics-law-economics-540",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What is the term for an appellate court action upholding the lower court's decision?",
+    "options": [
+      "Affirm",
+      "Reverse",
+      "Remand",
+      "Vacate"
+    ],
+    "answer": "Affirm"
+  },
+  {
+    "id": "civics-law-economics-541",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What is the term for an appellate court action overturning the lower court's decision?",
+    "options": [
+      "Reverse",
+      "Affirm",
+      "Remand",
+      "Certiorari"
+    ],
+    "answer": "Reverse"
+  },
+  {
+    "id": "civics-law-economics-542",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "Which appellate court action sends a case back to the lower court for further proceedings consistent with the appellate ruling?",
+    "options": [
+      "Remand",
+      "Affirm",
+      "Reverse",
+      "Vacate"
+    ],
+    "answer": "Remand"
+  },
+  {
+    "id": "civics-law-economics-543",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "Which appellate court action nullifies a lower court's judgment?",
+    "options": [
+      "Vacate",
+      "Affirm",
+      "Remand",
+      "Seal"
+    ],
+    "answer": "Vacate"
+  },
+  {
+    "id": "civics-law-economics-544",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "What is the term for a court's authority to hear a specific type of case, such as bankruptcy or family law?",
+    "options": [
+      "Subject matter jurisdiction",
+      "Personal jurisdiction",
+      "In rem jurisdiction",
+      "Concurrent jurisdiction"
+    ],
+    "answer": "Subject matter jurisdiction"
+  },
+  {
+    "id": "civics-law-economics-545",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "Which term describes a court's authority over the specific parties involved in a lawsuit?",
+    "options": [
+      "Personal jurisdiction",
+      "Subject matter jurisdiction",
+      "In rem jurisdiction",
+      "Appellate jurisdiction"
+    ],
+    "answer": "Personal jurisdiction"
+  },
+  {
+    "id": "civics-law-economics-546",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "What type of jurisdiction gives a court authority over the property itself rather than a person?",
+    "options": [
+      "In rem jurisdiction",
+      "Quasi in rem jurisdiction",
+      "Personal jurisdiction",
+      "Subject matter jurisdiction"
+    ],
+    "answer": "In rem jurisdiction"
+  },
+  {
+    "id": "civics-law-economics-547",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What is the situation called when multiple courts have the authority to hear the same type of case?",
+    "options": [
+      "Concurrent jurisdiction",
+      "Exclusive jurisdiction",
+      "Original jurisdiction",
+      "Appellate jurisdiction"
+    ],
+    "answer": "Concurrent jurisdiction"
+  },
+  {
+    "id": "civics-law-economics-548",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What is the term for a situation where only one specific court has the authority to hear a particular type of case?",
+    "options": [
+      "Exclusive jurisdiction",
+      "Concurrent jurisdiction",
+      "General jurisdiction",
+      "Limited jurisdiction"
+    ],
+    "answer": "Exclusive jurisdiction"
+  },
+  {
+    "id": "civics-law-economics-549",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "Which legal process involves seizing a defendant's property to secure a potential judgment before a trial?",
+    "options": [
+      "Attachment",
+      "Execution",
+      "Garnishment",
+      "Levy"
+    ],
+    "answer": "Attachment"
+  },
+  {
+    "id": "civics-law-economics-550",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "What is the legal seizure of property to satisfy a tax debt or court judgment?",
+    "options": [
+      "Levy",
+      "Lien",
+      "Escrow",
+      "Attachment"
+    ],
+    "answer": "Levy"
+  },
+  {
+    "id": "civics-law-economics-551",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "What is the enforcement of a court judgment by seizing a debtor's property called?",
+    "options": [
+      "Execution",
+      "Attachment",
+      "Discovery",
+      "Voir dire"
+    ],
+    "answer": "Execution"
+  },
+  {
+    "id": "civics-law-economics-552",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What is the term for a creditor taking back property used as collateral after the debtor defaults on the loan?",
+    "options": [
+      "Repossession",
+      "Foreclosure",
+      "Liquidation",
+      "Bankruptcy"
+    ],
+    "answer": "Repossession"
+  },
+  {
+    "id": "civics-law-economics-553",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What is the term for a loan where the creditor has a security interest in the debtor's collateral?",
+    "options": [
+      "Secured transaction",
+      "Unsecured transaction",
+      "Unilateral contract",
+      "Bilateral contract"
+    ],
+    "answer": "Secured transaction"
+  },
+  {
+    "id": "civics-law-economics-554",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "Which type of loan is not backed by any specific collateral?",
+    "options": [
+      "Unsecured transaction",
+      "Secured transaction",
+      "Mortgage",
+      "Indenture"
+    ],
+    "answer": "Unsecured transaction"
+  },
+  {
+    "id": "civics-law-economics-555",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "What is the property interest created by an agreement to secure payment or performance of an obligation called?",
+    "options": [
+      "Security interest",
+      "Lien",
+      "Easement",
+      "Fee simple"
+    ],
+    "answer": "Security interest"
+  },
+  {
+    "id": "civics-law-economics-556",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "Which legal step establishes a creditor's priority over collateral against other creditors?",
+    "options": [
+      "Perfection",
+      "Attachment",
+      "Execution",
+      "Novation"
+    ],
+    "answer": "Perfection"
+  },
+  {
+    "id": "civics-law-economics-557",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What is the interest rate that commercial banks charge their most creditworthy corporate customers?",
+    "options": [
+      "Prime rate",
+      "Discount rate",
+      "Federal funds rate",
+      "Libor"
+    ],
+    "answer": "Prime rate"
+  },
+  {
+    "id": "civics-law-economics-558",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "Which interest rate is charged to commercial banks for loans received from the Federal Reserve's discount window?",
+    "options": [
+      "Discount rate",
+      "Prime rate",
+      "Federal funds rate",
+      "SOFR"
+    ],
+    "answer": "Discount rate"
+  },
+  {
+    "id": "civics-law-economics-559",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What is the interest rate at which depository institutions lend reserve balances to other banks overnight?",
+    "options": [
+      "Federal funds rate",
+      "Discount rate",
+      "Prime rate",
+      "Usury rate"
+    ],
+    "answer": "Federal funds rate"
+  },
+  {
+    "id": "civics-law-economics-560",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "What benchmark interest rate is based on overnight repurchase agreement transactions in the U.S. Treasury market?",
+    "options": [
+      "SOFR",
+      "Federal funds rate",
+      "Prime rate",
+      "Discount rate"
+    ],
+    "answer": "SOFR"
+  },
+  {
+    "id": "civics-law-economics-561",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "Which unit of measurement is equal to one one-hundredth of a percent and is commonly used to describe changes in interest rates?",
+    "options": [
+      "Basis point",
+      "Tick",
+      "Pip",
+      "Point"
+    ],
+    "answer": "Basis point"
+  },
+  {
+    "id": "civics-law-economics-562",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What is the graphical representation showing the relationship between bond yields and their maturities?",
+    "options": [
+      "Yield curve",
+      "Laffer curve",
+      "Phillips curve",
+      "Beveridge curve"
+    ],
+    "answer": "Yield curve"
+  },
+  {
+    "id": "civics-law-economics-563",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "Which phenomenon occurs when short-term bonds have higher yields than long-term bonds and is often viewed as a predictor of recession?",
+    "options": [
+      "Inverted yield curve",
+      "Flat yield curve",
+      "Normal yield curve",
+      "Steep yield curve"
+    ],
+    "answer": "Inverted yield curve"
+  },
+  {
+    "id": "civics-law-economics-564",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What is the term for the failure to repay a debt according to the terms of the loan agreement?",
+    "options": [
+      "Default",
+      "Delinquency",
+      "Forbearance",
+      "Deferment"
+    ],
+    "answer": "Default"
+  },
+  {
+    "id": "civics-law-economics-565",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "Which term describes a missed payment on a loan that is past due but has not yet resulted in default?",
+    "options": [
+      "Delinquency",
+      "Default",
+      "Bankruptcy",
+      "Foreclosure"
+    ],
+    "answer": "Delinquency"
+  },
+  {
+    "id": "civics-law-economics-566",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What is the term for a temporary postponement of loan payments granted by a lender, often during financial hardship?",
+    "options": [
+      "Forbearance",
+      "Deferment",
+      "Amortization",
+      "Acceleration"
+    ],
+    "answer": "Forbearance"
+  },
+  {
+    "id": "civics-law-economics-567",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "Which term describes a temporary pause on loan payments, often for students, during which interest may not accrue?",
+    "options": [
+      "Deferment",
+      "Forbearance",
+      "Delinquency",
+      "Default"
+    ],
+    "answer": "Deferment"
+  },
+  {
+    "id": "civics-law-economics-568",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What is the process of spreading the repayment of a loan into a series of fixed installments over time?",
+    "options": [
+      "Amortization",
+      "Depreciation",
+      "Depletion",
+      "Accrual"
+    ],
+    "answer": "Amortization"
+  },
+  {
+    "id": "civics-law-economics-569",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "Which term describes a large, lump-sum payment due at the end of a loan term?",
+    "options": [
+      "Balloon payment",
+      "Annuity",
+      "Perpetuity",
+      "Coupon payment"
+    ],
+    "answer": "Balloon payment"
+  },
+  {
+    "id": "civics-law-economics-570",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What is the term for a financial product that pays out a fixed stream of payments to an individual over time?",
+    "options": [
+      "Annuity",
+      "Perpetuity",
+      "Bond",
+      "Mutual fund"
+    ],
+    "answer": "Annuity"
+  },
+  {
+    "id": "civics-law-economics-571",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "Which financial term describes an annuity that has no end and pays a stream of cash flow forever?",
+    "options": [
+      "Perpetuity",
+      "Annuity",
+      "Dividend",
+      "Yield"
+    ],
+    "answer": "Perpetuity"
+  },
+  {
+    "id": "civics-law-economics-572",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What is the current value of a future sum of money given a specified rate of return?",
+    "options": [
+      "Present value",
+      "Future value",
+      "Face value",
+      "Net present value"
+    ],
+    "answer": "Present value"
+  },
+  {
+    "id": "civics-law-economics-573",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "Which financial term represents the value of a current asset at a specified date in the future based on an assumed growth rate?",
+    "options": [
+      "Future value",
+      "Present value",
+      "Book value",
+      "Market value"
+    ],
+    "answer": "Future value"
+  },
+  {
+    "id": "civics-law-economics-574",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "Which metric calculates the difference between the present value of cash inflows and outflows over a period?",
+    "options": [
+      "Net present value",
+      "Internal rate of return",
+      "Return on investment",
+      "Earnings per share"
+    ],
+    "answer": "Net present value"
+  },
+  {
+    "id": "civics-law-economics-575",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "What is the discount rate that makes the net present value of an investment zero?",
+    "options": [
+      "Internal rate of return",
+      "Return on investment",
+      "Yield to maturity",
+      "Coupon rate"
+    ],
+    "answer": "Internal rate of return"
+  },
+  {
+    "id": "civics-law-economics-576",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "Which economic state occurs when those that benefit from a change could theoretically compensate those that lose, resulting in a net gain?",
+    "options": [
+      "Kaldor-Hicks efficiency",
+      "Pareto efficiency",
+      "Deadweight loss",
+      "Allocative efficiency"
+    ],
+    "answer": "Kaldor-Hicks efficiency"
+  },
+  {
+    "id": "civics-law-economics-577",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "Which economic proposition states that if trade is possible and property rights are clear, bargaining will lead to an efficient outcome?",
+    "options": [
+      "Coase theorem",
+      "Say's law",
+      "Okun's law",
+      "Law of one price"
+    ],
+    "answer": "Coase theorem"
+  },
+  {
+    "id": "civics-law-economics-578",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "What is the term for a situation in collective decision-making where majority preferences can be cyclic, even if individual preferences are not?",
+    "options": [
+      "Condorcet paradox",
+      "Arrow's impossibility theorem",
+      "Median voter theorem",
+      "Duverger's law"
+    ],
+    "answer": "Condorcet paradox"
+  },
+  {
+    "id": "civics-law-economics-579",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "Which economic term describes the proportion of additional income that a consumer saves rather than spends?",
+    "options": [
+      "Marginal propensity to save",
+      "Marginal propensity to consume",
+      "Elasticity of savings",
+      "Interest rate"
+    ],
+    "answer": "Marginal propensity to save"
+  },
+  {
+    "id": "civics-law-economics-580",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What is the term for an institution, usually a central bank, that provides credit to banks in financial distress?",
+    "options": [
+      "Lender of last resort",
+      "Discount window",
+      "Clearinghouse",
+      "Underwriter"
+    ],
+    "answer": "Lender of last resort"
+  },
+  {
+    "id": "civics-law-economics-581",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "What is the facility at a central bank where commercial banks can borrow funds to meet short-term liquidity needs?",
+    "options": [
+      "Discount window",
+      "Open market desk",
+      "Federal funds market",
+      "Reserve requirement"
+    ],
+    "answer": "Discount window"
+  },
+  {
+    "id": "civics-law-economics-582",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "Which term describes a medium of payment recognized by a legal system to be valid for meeting financial obligations?",
+    "options": [
+      "Legal tender",
+      "Commodity money",
+      "Representative money",
+      "Fiat money"
+    ],
+    "answer": "Legal tender"
+  },
+  {
+    "id": "civics-law-economics-583",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What type of money has intrinsic value because it is made of a physical commodity, such as gold or silver?",
+    "options": [
+      "Commodity money",
+      "Representative money",
+      "Fiat money",
+      "Fiduciary money"
+    ],
+    "answer": "Commodity money"
+  },
+  {
+    "id": "civics-law-economics-584",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "Which type of money is backed by a physical commodity held by the issuing authority but is not made of the commodity itself?",
+    "options": [
+      "Representative money",
+      "Commodity money",
+      "Fiat money",
+      "Token money"
+    ],
+    "answer": "Representative money"
+  },
+  {
+    "id": "civics-law-economics-585",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "Which school of economic thought emphasizes the spontaneous organizing power of the price mechanism and warns against government intervention?",
+    "options": [
+      "Austrian economics",
+      "Keynesian economics",
+      "Marxian economics",
+      "Neoclassical economics"
+    ],
+    "answer": "Austrian economics"
+  },
+  {
+    "id": "civics-law-economics-586",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "Which economic theory emphasizes supply and demand as the primary driving forces of production, pricing, and income distribution?",
+    "options": [
+      "Neoclassical economics",
+      "Behavioral economics",
+      "Keynesian economics",
+      "Institutional economics"
+    ],
+    "answer": "Neoclassical economics"
+  },
+  {
+    "id": "civics-law-economics-587",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "Which branch of economics studies the psychological, cognitive, and emotional factors that influence economic decisions?",
+    "options": [
+      "Behavioral economics",
+      "Neoclassical economics",
+      "Austrian economics",
+      "Monetarism"
+    ],
+    "answer": "Behavioral economics"
+  },
+  {
+    "id": "civics-law-economics-588",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What is the study of mathematical models of strategic interaction among rational decision-makers called?",
+    "options": [
+      "Game theory",
+      "Set theory",
+      "Chaos theory",
+      "Agency theory"
+    ],
+    "answer": "Game theory"
+  },
+  {
+    "id": "civics-law-economics-589",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "Which economic model describes an industry structure where companies compete by choosing output quantities simultaneously?",
+    "options": [
+      "Cournot competition",
+      "Bertrand competition",
+      "Stackelberg competition",
+      "Monopolistic competition"
+    ],
+    "answer": "Cournot competition"
+  },
+  {
+    "id": "civics-law-economics-590",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "Which economic model describes an industry structure where companies compete by setting prices simultaneously?",
+    "options": [
+      "Bertrand competition",
+      "Cournot competition",
+      "Perfect competition",
+      "Oligopoly"
+    ],
+    "answer": "Bertrand competition"
+  },
+  {
+    "id": "civics-law-economics-591",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "What is the graphical representation of a market with two participants trading two goods, showing all possible efficient allocations?",
+    "options": [
+      "Edgeworth box",
+      "Phillips curve",
+      "Laffer curve",
+      "Production possibility frontier"
+    ],
+    "answer": "Edgeworth box"
+  },
+  {
+    "id": "civics-law-economics-592",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "Which long-run economic growth model focuses on capital accumulation, labor growth, and technological progress?",
+    "options": [
+      "Solow growth model",
+      "IS-LM model",
+      "AD-AS model",
+      "Harrod-Domar model"
+    ],
+    "answer": "Solow growth model"
+  },
+  {
+    "id": "civics-law-economics-593",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "What is the specific functional form used in economics to represent the technological relationship between inputs and output?",
+    "options": [
+      "Cobb-Douglas production function",
+      "Production possibility frontier",
+      "Indifference curve",
+      "Budget constraint"
+    ],
+    "answer": "Cobb-Douglas production function"
+  },
+  {
+    "id": "civics-law-economics-594",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "What is the empirical relationship between job vacancies and unemployment, typically depicting the macroeconomic state?",
+    "options": [
+      "Beveridge curve",
+      "Phillips curve",
+      "Yield curve",
+      "J-curve"
+    ],
+    "answer": "Beveridge curve"
+  },
+  {
+    "id": "civics-law-economics-595",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "Which monetary policy guideline suggests how central banks should set interest rates based on inflation and output gaps?",
+    "options": [
+      "Taylor rule",
+      "Fisher equation",
+      "Friedman rule",
+      "Bagehot's dictum"
+    ],
+    "answer": "Taylor rule"
+  },
+  {
+    "id": "civics-law-economics-596",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "Which equation in economics describes the relationship between nominal and real interest rates under inflation?",
+    "options": [
+      "Fisher equation",
+      "Black-Scholes equation",
+      "CAPM equation",
+      "Quantity equation"
+    ],
+    "answer": "Fisher equation"
+  },
+  {
+    "id": "civics-law-economics-597",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "Which macroeconomic model shows the relationship between interest rates and real output in the goods and money markets?",
+    "options": [
+      "IS-LM model",
+      "Solow model",
+      "Heckscher-Ohlin model",
+      "Ricardian model"
+    ],
+    "answer": "IS-LM model"
+  },
+  {
+    "id": "civics-law-economics-598",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What is the total demand for final goods and services in an economy at a given time called?",
+    "options": [
+      "Aggregate demand",
+      "Aggregate supply",
+      "Gross domestic product",
+      "Net exports"
+    ],
+    "answer": "Aggregate demand"
+  },
+  {
+    "id": "civics-law-economics-599",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "Which term refers to the total supply of goods and services produced within an economy at a given overall price level?",
+    "options": [
+      "Aggregate supply",
+      "Aggregate demand",
+      "Money supply",
+      "Consumer surplus"
+    ],
+    "answer": "Aggregate supply"
+  },
+  {
+    "id": "civics-law-economics-600",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What is the proportional amount of increase in final income that results from an injection of spending?",
+    "options": [
+      "Multiplier effect",
+      "Accelerator effect",
+      "Wealth effect",
+      "Crowding out effect"
+    ],
+    "answer": "Multiplier effect"
+  },
+  {
+    "id": "civics-law-economics-601",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "Which economic effect describes how changes in GDP cause larger proportional changes in investment spending?",
+    "options": [
+      "Accelerator effect",
+      "Multiplier effect",
+      "Ripple effect",
+      "Halo effect"
+    ],
+    "answer": "Accelerator effect"
+  },
+  {
+    "id": "civics-law-economics-602",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "Which economic theory states that individuals make forecasts using all available information, making systematic errors unlikely?",
+    "options": [
+      "Rational expectations",
+      "Adaptive expectations",
+      "Animal spirits",
+      "Behavioral finance"
+    ],
+    "answer": "Rational expectations"
+  },
+  {
+    "id": "civics-law-economics-603",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "Which hypothesis suggests that people form their expectations of the future based on past events and trends?",
+    "options": [
+      "Adaptive expectations",
+      "Rational expectations",
+      "Perfect foresight",
+      "Static expectations"
+    ],
+    "answer": "Adaptive expectations"
+  },
+  {
+    "id": "civics-law-economics-604",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "What is the phenomenon called where demand for a good increases as its price increases, because of its conspicuous luxury status?",
+    "options": [
+      "Veblen effect",
+      "Giffen effect",
+      "Snob effect",
+      "Bandwagon effect"
+    ],
+    "answer": "Veblen effect"
+  },
+  {
+    "id": "civics-law-economics-605",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "Which economic phenomenon describes a preference for a good decreasing as more people buy it?",
+    "options": [
+      "Snob effect",
+      "Bandwagon effect",
+      "Veblen effect",
+      "Network effect"
+    ],
+    "answer": "Snob effect"
+  },
+  {
+    "id": "civics-law-economics-606",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What is the phenomenon where the preference for a good increases as the number of people buying it increases?",
+    "options": [
+      "Bandwagon effect",
+      "Snob effect",
+      "Giffen effect",
+      "Substitution effect"
+    ],
+    "answer": "Bandwagon effect"
+  },
+  {
+    "id": "civics-law-economics-607",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "What is the change in demand for a good resulting from a change in real income, holding prices constant?",
+    "options": [
+      "Income effect",
+      "Substitution effect",
+      "Wealth effect",
+      "Price effect"
+    ],
+    "answer": "Income effect"
+  },
+  {
+    "id": "civics-law-economics-608",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "Which economic effect describes the change in consumption due to a change in relative prices, holding utility constant?",
+    "options": [
+      "Substitution effect",
+      "Income effect",
+      "Liquidity effect",
+      "Wealth effect"
+    ],
+    "answer": "Substitution effect"
+  },
+  {
+    "id": "civics-law-economics-609",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What is the market structure called where many companies sell products that are similar but not perfect substitutes?",
+    "options": [
+      "Monopolistic competition",
+      "Perfect competition",
+      "Duopoly",
+      "Oligopsony"
+    ],
+    "answer": "Monopolistic competition"
+  },
+  {
+    "id": "civics-law-economics-610",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "Which market theory suggests that firms can enter and exit freely, keeping prices competitive even with only a few firms?",
+    "options": [
+      "Contestable market",
+      "Closed market",
+      "Captive market",
+      "Black market"
+    ],
+    "answer": "Contestable market"
+  },
+  {
+    "id": "civics-law-economics-611",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What is the additional revenue gained from selling one additional unit of output?",
+    "options": [
+      "Marginal revenue",
+      "Average revenue",
+      "Total revenue",
+      "Marginal profit"
+    ],
+    "answer": "Marginal revenue"
+  },
+  {
+    "id": "civics-law-economics-612",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "Which metric is calculated by dividing total variable costs by the quantity of output produced?",
+    "options": [
+      "Average variable cost",
+      "Marginal cost",
+      "Average fixed cost",
+      "Total cost"
+    ],
+    "answer": "Average variable cost"
+  },
+  {
+    "id": "civics-law-economics-613",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What is the additional satisfaction gained from consuming one more unit of a good or service?",
+    "options": [
+      "Marginal utility",
+      "Total utility",
+      "Average utility",
+      "Diminishing utility"
+    ],
+    "answer": "Marginal utility"
+  },
+  {
+    "id": "civics-law-economics-614",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "What is the graph showing combinations of two goods that give a consumer equal satisfaction and utility called?",
+    "options": [
+      "Indifference curve",
+      "Demand curve",
+      "Supply curve",
+      "Budget constraint"
+    ],
+    "answer": "Indifference curve"
+  },
+  {
+    "id": "civics-law-economics-615",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What is the limit on the consumption bundles a consumer can afford given their income and the prices of goods?",
+    "options": [
+      "Budget constraint",
+      "Indifference curve",
+      "Production possibility frontier",
+      "Cost curve"
+    ],
+    "answer": "Budget constraint"
+  },
+  {
+    "id": "civics-law-economics-616",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "Which economic theory states that identical goods sold in different markets will have the same price when expressed in the same currency?",
+    "options": [
+      "Law of one price",
+      "Purchasing power parity",
+      "Arbitrage pricing theory",
+      "Quantity theory of money"
+    ],
+    "answer": "Law of one price"
+  },
+  {
+    "id": "civics-law-economics-617",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "Which term describes the interest rate adjusted for the effects of inflation?",
+    "options": [
+      "Real interest rate",
+      "Nominal interest rate",
+      "Effective interest rate",
+      "Annual percentage rate"
+    ],
+    "answer": "Real interest rate"
+  },
+  {
+    "id": "civics-law-economics-618",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What is the interest rate before taking inflation into account?",
+    "options": [
+      "Nominal interest rate",
+      "Real interest rate",
+      "Risk-free rate",
+      "Discount rate"
+    ],
+    "answer": "Nominal interest rate"
+  },
+  {
+    "id": "civics-law-economics-619",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "Which interest rate takes into account the effect of compounding over a specific period?",
+    "options": [
+      "Effective interest rate",
+      "Nominal interest rate",
+      "Coupon rate",
+      "Face rate"
+    ],
+    "answer": "Effective interest rate"
+  },
+  {
+    "id": "civics-law-economics-620",
+    "category": "civics-law-economics",
+    "difficulty": "hard",
+    "question": "What is the total return anticipated on a bond if it is held until it matures?",
+    "options": [
+      "Yield to maturity",
+      "Coupon rate",
+      "Current yield",
+      "Dividend yield"
+    ],
+    "answer": "Yield to maturity"
+  },
+  {
+    "id": "civics-law-economics-621",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What is the annual interest rate paid on a bond, expressed as a percentage of its face value?",
+    "options": [
+      "Coupon rate",
+      "Yield to maturity",
+      "Default rate",
+      "Discount rate"
+    ],
+    "answer": "Coupon rate"
+  },
+  {
+    "id": "civics-law-economics-622",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What is the nominal value of a security as stated by the issuer, also known as par value?",
+    "options": [
+      "Face value",
+      "Market value",
+      "Book value",
+      "Intrinsic value"
+    ],
+    "answer": "Face value"
+  },
+  {
+    "id": "civics-law-economics-623",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What is the risk that a borrower will fail to make required payments on a debt obligation?",
+    "options": [
+      "Default risk",
+      "Liquidity risk",
+      "Market risk",
+      "Inflation risk"
+    ],
+    "answer": "Default risk"
+  },
+  {
+    "id": "civics-law-economics-624",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What is the assessment of the creditworthiness of a borrower, often assigned by agencies like Moody's or S&P?",
+    "options": [
+      "Credit rating",
+      "Bond rating",
+      "Risk premium",
+      "Credit spread"
+    ],
+    "answer": "Credit rating"
+  },
+  {
+    "id": "civics-law-economics-625",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "Which performance measure evaluates the efficiency of an investment by dividing net profit by the cost of the investment?",
+    "options": [
+      "Return on investment",
+      "Return on equity",
+      "Return on assets",
+      "Internal rate of return"
+    ],
+    "answer": "Return on investment"
+  },
+  {
+    "id": "civics-law-economics-626",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "Which financial metric measures a company's operating performance before deducting interest, taxes, depreciation, and amortization?",
+    "options": [
+      "EBITDA",
+      "EBIT",
+      "Net income",
+      "Gross profit"
+    ],
+    "answer": "EBITDA"
+  },
+  {
+    "id": "civics-law-economics-627",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What is the set of standardized accounting principles used in the United States called?",
+    "options": [
+      "GAAP",
+      "IFRS",
+      "FASB",
+      "SEC"
+    ],
+    "answer": "GAAP"
+  },
+  {
+    "id": "civics-law-economics-628",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "Which set of international accounting standards is used by most countries outside the United States?",
+    "options": [
+      "IFRS",
+      "GAAP",
+      "IASC",
+      "AICPA"
+    ],
+    "answer": "IFRS"
+  },
+  {
+    "id": "civics-law-economics-629",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "Which inventory accounting method assumes that the most recently purchased items are the first ones sold?",
+    "options": [
+      "LIFO",
+      "FIFO",
+      "Weighted average",
+      "Specific identification"
+    ],
+    "answer": "LIFO"
+  },
+  {
+    "id": "civics-law-economics-630",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "Which inventory accounting method assumes that the first items purchased are the first ones sold?",
+    "options": [
+      "FIFO",
+      "LIFO",
+      "Just-in-time",
+      "Lower of cost or market"
+    ],
+    "answer": "FIFO"
+  },
+  {
+    "id": "civics-law-economics-631",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "Which accounting method records revenues when they are earned and expenses when they are incurred, regardless of when cash changes hands?",
+    "options": [
+      "Accrual accounting",
+      "Cash accounting",
+      "Tax basis accounting",
+      "Forensic accounting"
+    ],
+    "answer": "Accrual accounting"
+  },
+  {
+    "id": "civics-law-economics-632",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "Which accounting method records revenues only when cash is received and expenses only when cash is paid?",
+    "options": [
+      "Cash accounting",
+      "Accrual accounting",
+      "Managerial accounting",
+      "Cost accounting"
+    ],
+    "answer": "Cash accounting"
+  },
+  {
+    "id": "civics-law-economics-633",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What is the independent examination of financial information of any entity to ensure accuracy and compliance called?",
+    "options": [
+      "Auditing",
+      "Accounting",
+      "Bookkeeping",
+      "Forecasting"
+    ],
+    "answer": "Auditing"
+  },
+  {
+    "id": "civics-law-economics-634",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What is the distribution of a portion of a company's earnings to its shareholders called?",
+    "options": [
+      "Dividend",
+      "Capital gain",
+      "Buyback",
+      "Yield"
+    ],
+    "answer": "Dividend"
+  },
+  {
+    "id": "civics-law-economics-635",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What is the profit realized from the sale of an asset, such as stock or real estate, for more than its purchase price?",
+    "options": [
+      "Capital gain",
+      "Dividend",
+      "Coupon payment",
+      "Premium"
+    ],
+    "answer": "Capital gain"
+  },
+  {
+    "id": "civics-law-economics-636",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What is the loss realized from the sale of an asset for less than its purchase price?",
+    "options": [
+      "Capital loss",
+      "Capital gain",
+      "Write-down",
+      "Impairment"
+    ],
+    "answer": "Capital loss"
+  },
+  {
+    "id": "civics-law-economics-637",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What is the financial transaction involving high risk in exchange for the potential of significant return?",
+    "options": [
+      "Speculation",
+      "Hedging",
+      "Arbitrage",
+      "Diversification"
+    ],
+    "answer": "Speculation"
+  },
+  {
+    "id": "civics-law-economics-638",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What is the practice of taking advantage of a price difference between two or more markets by buying and selling the same asset?",
+    "options": [
+      "Arbitrage",
+      "Speculation",
+      "Short selling",
+      "Margin trading"
+    ],
+    "answer": "Arbitrage"
+  },
+  {
+    "id": "civics-law-economics-639",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "Which investment strategy is used to offset potential losses or gains in another investment, acting as a form of insurance?",
+    "options": [
+      "Hedging",
+      "Arbitrage",
+      "Speculation",
+      "Leverage"
+    ],
+    "answer": "Hedging"
+  },
+  {
+    "id": "civics-law-economics-640",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What is the practice of selling borrowed shares of a stock, hoping to buy them back later at a lower price?",
+    "options": [
+      "Short selling",
+      "Margin trading",
+      "Insider trading",
+      "Limit order"
+    ],
+    "answer": "Short selling"
+  },
+  {
+    "id": "civics-law-economics-641",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What is the practice of borrowing money from a broker to purchase an investment called?",
+    "options": [
+      "Margin trading",
+      "Short selling",
+      "Day trading",
+      "Dollar-cost averaging"
+    ],
+    "answer": "Margin trading"
+  },
+  {
+    "id": "civics-law-economics-642",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "What is the use of borrowed capital to increase the potential return of an investment called?",
+    "options": [
+      "Leverage",
+      "Liquidity",
+      "Solvency",
+      "Collateral"
+    ],
+    "answer": "Leverage"
+  },
+  {
+    "id": "civics-law-economics-643",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What is the ease with which an asset can be converted into cash without affecting its market price?",
+    "options": [
+      "Liquidity",
+      "Solvency",
+      "Volatility",
+      "Yield"
+    ],
+    "answer": "Liquidity"
+  },
+  {
+    "id": "civics-law-economics-644",
+    "category": "civics-law-economics",
+    "difficulty": "medium",
+    "question": "Which term describes the ability of a company to meet its long-term debts and financial obligations?",
+    "options": [
+      "Solvency",
+      "Liquidity",
+      "Profitability",
+      "Efficiency"
+    ],
+    "answer": "Solvency"
+  },
+  {
+    "id": "civics-law-economics-645",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What is a resource owned by an individual or organization that is expected to provide future economic value?",
+    "options": [
+      "Asset",
+      "Liability",
+      "Equity",
+      "Revenue"
+    ],
+    "answer": "Asset"
+  },
+  {
+    "id": "civics-law-economics-646",
+    "category": "civics-law-economics",
+    "difficulty": "easy",
+    "question": "What is a financial obligation or debt owed by an individual or organization to another party?",
+    "options": [
+      "Liability",
+      "Asset",
+      "Equity",
+      "Dividend"
+    ],
+    "answer": "Liability"
   }
 ]
