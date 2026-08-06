@@ -102,6 +102,11 @@ AVOID THESE ANGLES (facts already asked, in some cases more than once — don't 
 - Chupa Chups' daisy logo, designed by Salvador Dalí in 1969
 - Costco's original 1976 name, Price Club
 - Walmart's first store (1962, Sam Walton, Arkansas)
+- The three dots on Domino's domino logo originally representing the company's first three stores (1965)
+- The hidden image in the Beats by Dre "b" logo (a side profile of a person wearing headphones)
+- Who created Coca-Cola's Spencerian script logo (bookkeeper Frank Mason Robinson, 1880s/1886)
+- Why Georges Vuitton created the LV monogram canvas in 1896 (anti-counterfeiting pattern inspired by Japanese mon emblems)
+- Supreme's red box logo/Futura Heavy Oblique text being inspired by artist Barbara Kruger
 - CVS's acronym standing for "Consumer Value Stores"
 - Victoria's Secret founder Roy Raymond's motivation (embarrassed buying lingerie for his wife)
 - Gap's name referencing "the generation gap"
