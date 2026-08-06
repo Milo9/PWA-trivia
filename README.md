@@ -249,11 +249,15 @@ patterns worth verifying" section — same checks used when vetting a new
 draft, just applied to content already in `data/`. Use judgment/memory
 first; reach for `WebSearch` only for genuinely uncertain or
 hard-difficulty specific claims, not every line. Fix anything wrong
-directly in `data/questions/<category>.json`, then `npm run validate`
-and `npm run ship -- "…"` as usual — **mark the chunk `complete` only
-after shipping**, so an interrupted session doesn't leave a chunk marked
-done with its fixes never actually committed. If a chunk is too large to
-finish in one sitting, just stop — it stays `in-progress` and the next
+directly in `data/questions/<category>.json`, run `npm run validate`,
+then call `audit.js complete` for that chunk and move on to the next one
+— **`ship` only once at the end of the session**, after however many
+chunks got reviewed, same "ship once per batch of work, not per edit"
+rule as everywhere else in this repo (see CLAUDE.md). `audit.js complete`
+only edits `audit/progress.json` locally, so nothing about it requires
+shipping immediately; one `ship -- "…"` at the end picks up every fixed
+question plus every chunk's progress update together. If a chunk is too
+large to finish in one sitting, just stop — it stays `in-progress` and the next
 `node scripts/audit.js next` call re-surfaces the same chunk instead of
 skipping ahead.
 

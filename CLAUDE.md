@@ -6,20 +6,31 @@ only covers what the README doesn't (behavioral rules and hard-won
 lessons, not documentation, and not a batch-by-batch changelog — that's
 what `git log` is for).
 
-## Always ship after making changes
+## Always ship after making changes — once per batch, not per edit
 
-After any edit to `data/` (new questions, category changes) or app code,
-run:
+Once a logical unit of work is done — a whole batch merge, a whole audit
+session covering however many chunks fit in one sitting — run:
 
 ```
 npm run ship -- "commit message"
 ```
 
-Do not leave changes staged/uncommitted and do not run `git add` /
-`git commit` / `git push` manually — `ship` bundles validate → bump
-version → stamp cache → add → commit → push in the right order, and
-skipping steps (e.g. committing without stamping) means phones won't
-pick up new content. Write the commit message yourself based on the
+**Ship once at the end of that unit of work, not after each individual
+file edit, fix, or chunk within it.** Shipping is not free (it bumps the
+build number and the offline cache version, and creates a commit+push)
+— running it multiple times for what's really one session of work
+creates version churn and commit noise the user explicitly doesn't want
+(confirmed 2026-08-05 after an audit session shipped once for a single
+question fix and again just to record chunk-completion bookkeeping —
+two commits for one chunk's worth of work). Accumulate changes — data
+fixes, `audit/progress.json` updates, whatever else — and let one `ship`
+call at the end pick up everything via its `git add -A`.
+
+Do not leave changes staged/uncommitted at the *end* of a session, and
+do not run `git add` / `git commit` / `git push` manually — `ship`
+bundles validate → bump version → stamp cache → add → commit → push in
+the right order, and skipping steps (e.g. committing without stamping)
+means phones won't pick up new content. Write the commit message yourself based on the
 actual diff; `ship` won't do that part for you.
 
 If `npm run validate` fails, fix the reported errors before shipping —
@@ -374,12 +385,17 @@ chunk:
   point — most questions are obviously fine on a read-through.
 - Fix directly in `data/questions/<category>.json` (or cut, per the
   existing "unfixable without changing the underlying fact" guidance).
-  Run `npm run validate`, then `npm run ship -- "…"` as usual.
-- **Mark a chunk `complete` only after shipping its fixes**, not before —
-  `audit.js complete` just edits `audit/progress.json`, it doesn't ship
-  anything itself, so marking complete first and shipping later risks an
-  interrupted session leaving fixes unshipped but the chunk already
-  recorded as done.
+  Run `npm run validate` after each chunk's fixes to catch problems
+  early, but **don't `ship` per chunk** — see "Always ship after making
+  changes" above. Call `audit.js complete <chunkId> --issues=N
+  --notes="…"` right after finishing each chunk (it only edits
+  `audit/progress.json` locally, no commit/push), then keep going to the
+  next chunk.
+- **Ship once at the end of the session**, after however many chunks got
+  reviewed — one `npm run ship -- "…"` picks up every fixed question
+  plus every chunk's `audit/progress.json` update in a single commit.
+  Summarize what the session covered (chunk ids, issue counts) in the
+  commit message.
 - If a chunk is too big to finish in one sitting, just stop mid-review —
   it stays `in-progress` and the next `next` call re-surfaces the same
   chunk rather than skipping ahead to a fresh one.
