@@ -65,32 +65,6 @@
     "answer": "Lizard"
   },
   {
-    "id": "general-135",
-    "category": "animals-nature",
-    "difficulty": "medium",
-    "question": "What is the name for a group of wolves?",
-    "options": [
-      "Herd",
-      "Flock",
-      "Pack",
-      "Pod"
-    ],
-    "answer": "Pack"
-  },
-  {
-    "id": "general-148",
-    "category": "animals-nature",
-    "difficulty": "easy",
-    "question": "What do you call an animal that is active mainly at night?",
-    "options": [
-      "Diurnal",
-      "Aquatic",
-      "Herbivorous",
-      "Nocturnal"
-    ],
-    "answer": "Nocturnal"
-  },
-  {
     "id": "general-151",
     "category": "animals-nature",
     "difficulty": "easy",
@@ -221,19 +195,6 @@
     "answer": "Joey"
   },
   {
-    "id": "general-425",
-    "category": "animals-nature",
-    "difficulty": "medium",
-    "question": "What is the only mammal capable of true, sustained flight?",
-    "options": [
-      "Bat",
-      "Flying squirrel",
-      "Sugar glider",
-      "Colugo"
-    ],
-    "answer": "Bat"
-  },
-  {
     "id": "general-435",
     "category": "animals-nature",
     "difficulty": "easy",
@@ -273,19 +234,6 @@
     "answer": "Photosynthesis"
   },
   {
-    "id": "general-620",
-    "category": "animals-nature",
-    "difficulty": "easy",
-    "question": "What is the largest mammal on Earth?",
-    "options": [
-      "African elephant",
-      "Giraffe",
-      "Sperm whale",
-      "Blue whale"
-    ],
-    "answer": "Blue whale"
-  },
-  {
     "id": "general-621",
     "category": "animals-nature",
     "difficulty": "easy",
@@ -297,45 +245,6 @@
       "Amphibian"
     ],
     "answer": "Mammal"
-  },
-  {
-    "id": "general-622",
-    "category": "animals-nature",
-    "difficulty": "hard",
-    "question": "What is the term for an animal that is primarily active at night?",
-    "options": [
-      "Diurnal",
-      "Nocturnal",
-      "Crepuscular",
-      "Hibernal"
-    ],
-    "answer": "Nocturnal"
-  },
-  {
-    "id": "general-627",
-    "category": "animals-nature",
-    "difficulty": "medium",
-    "question": "What is the name for a young kangaroo?",
-    "options": [
-      "Cub",
-      "Kid",
-      "Joey",
-      "Calf"
-    ],
-    "answer": "Joey"
-  },
-  {
-    "id": "general-629",
-    "category": "animals-nature",
-    "difficulty": "easy",
-    "question": "Which part of a plant is primarily responsible for photosynthesis?",
-    "options": [
-      "Leaves",
-      "Roots",
-      "Stem",
-      "Flowers"
-    ],
-    "answer": "Leaves"
   },
   {
     "id": "general-630",
@@ -390,19 +299,6 @@
     "answer": "Estivation"
   },
   {
-    "id": "general-879",
-    "category": "animals-nature",
-    "difficulty": "easy",
-    "question": "What is the name for a group of lions living together?",
-    "options": [
-      "A pride",
-      "A pack",
-      "A herd",
-      "A troop"
-    ],
-    "answer": "A pride"
-  },
-  {
     "id": "general-1081",
     "category": "animals-nature",
     "difficulty": "medium",
@@ -453,19 +349,6 @@
       "Leopard"
     ],
     "answer": "Lion"
-  },
-  {
-    "id": "general-1235",
-    "category": "animals-nature",
-    "difficulty": "medium",
-    "question": "What is a group of lions called?",
-    "options": [
-      "A pride",
-      "A pack",
-      "A herd",
-      "A troop"
-    ],
-    "answer": "A pride"
   },
   {
     "id": "general-1236",
@@ -557,19 +440,6 @@
       "Giraffe"
     ],
     "answer": "Camel"
-  },
-  {
-    "id": "general-1245",
-    "category": "animals-nature",
-    "difficulty": "medium",
-    "question": "What is a baby kangaroo called?",
-    "options": [
-      "Joey",
-      "Cub",
-      "Pup",
-      "Kit"
-    ],
-    "answer": "Joey"
   },
   {
     "id": "general-1247",
@@ -910,19 +780,6 @@
     "answer": "Carnivore"
   },
   {
-    "id": "general-1958",
-    "category": "animals-nature",
-    "difficulty": "easy",
-    "question": "What is the term for animals that are primarily active at night?",
-    "options": [
-      "Nocturnal",
-      "Diurnal",
-      "Crepuscular",
-      "Hibernal"
-    ],
-    "answer": "Nocturnal"
-  },
-  {
     "id": "general-1964",
     "category": "animals-nature",
     "difficulty": "medium",
@@ -975,19 +832,6 @@
     "answer": "Metamorphosis"
   },
   {
-    "id": "general-2319",
-    "category": "animals-nature",
-    "difficulty": "easy",
-    "question": "What is the term for a baby kangaroo?",
-    "options": [
-      "Joey",
-      "Cub",
-      "Kid",
-      "Pup"
-    ],
-    "answer": "Joey"
-  },
-  {
     "id": "general-2325",
     "category": "animals-nature",
     "difficulty": "medium",
@@ -999,19 +843,6 @@
       "Leopard"
     ],
     "answer": "Tiger"
-  },
-  {
-    "id": "general-2368",
-    "category": "animals-nature",
-    "difficulty": "easy",
-    "question": "What is the term for a young cat?",
-    "options": [
-      "Kitten",
-      "Cub",
-      "Pup",
-      "Kit"
-    ],
-    "answer": "Kitten"
   },
   {
     "id": "general-2378",
@@ -1038,19 +869,6 @@
       "Eucalyptus"
     ],
     "answer": "Coast redwood"
-  },
-  {
-    "id": "general-2400",
-    "category": "animals-nature",
-    "difficulty": "easy",
-    "question": "What is the term for a group of wolves?",
-    "options": [
-      "Pack",
-      "Pride",
-      "Herd",
-      "Flock"
-    ],
-    "answer": "Pack"
   },
   {
     "id": "general-2410",
@@ -1181,19 +999,6 @@
       "Reptiles"
     ],
     "answer": "Monotremes"
-  },
-  {
-    "id": "general-2590",
-    "category": "animals-nature",
-    "difficulty": "medium",
-    "question": "Which big cat is known for having the loudest roar, audible for miles?",
-    "options": [
-      "Lion",
-      "Tiger",
-      "Jaguar",
-      "Leopard"
-    ],
-    "answer": "Lion"
   },
   {
     "id": "general-2591",
@@ -1519,32 +1324,6 @@
       "Fin spine"
     ],
     "answer": "Tooth"
-  },
-  {
-    "id": "general-2884",
-    "category": "animals-nature",
-    "difficulty": "hard",
-    "question": "The tuatara possesses a light-sensitive \"third eye\" on top of its head. What is this organ called?",
-    "options": [
-      "Compound eye",
-      "Parietal eye",
-      "Nictitating eye",
-      "Occipital eye"
-    ],
-    "answer": "Parietal eye"
-  },
-  {
-    "id": "general-2885",
-    "category": "animals-nature",
-    "difficulty": "easy",
-    "question": "How many compartments make up a cow's stomach?",
-    "options": [
-      "Two",
-      "Three",
-      "Four",
-      "Five"
-    ],
-    "answer": "Four"
   },
   {
     "id": "general-2886",
@@ -2275,19 +2054,6 @@
     "answer": "Seaweed and algae"
   },
   {
-    "id": "animals-nature-033",
-    "category": "animals-nature",
-    "difficulty": "medium",
-    "question": "Which mammal is known to be the only one truly capable of sustained flight?",
-    "options": [
-      "Flying squirrel",
-      "Bat",
-      "Sugar glider",
-      "Lemur"
-    ],
-    "answer": "Bat"
-  },
-  {
     "id": "animals-nature-034",
     "category": "animals-nature",
     "difficulty": "hard",
@@ -2418,19 +2184,6 @@
     "answer": "The Etruscan shrew"
   },
   {
-    "id": "animals-nature-045",
-    "category": "animals-nature",
-    "difficulty": "easy",
-    "question": "What is the name of the long sleep some animals take in winter?",
-    "options": [
-      "Migration",
-      "Hibernation",
-      "Estivation",
-      "Stasis"
-    ],
-    "answer": "Hibernation"
-  },
-  {
     "id": "animals-nature-046",
     "category": "animals-nature",
     "difficulty": "easy",
@@ -2494,19 +2247,6 @@
       "Colossal squid"
     ],
     "answer": "Blue whale"
-  },
-  {
-    "id": "animals-nature-051",
-    "category": "animals-nature",
-    "difficulty": "medium",
-    "question": "How many compartments does a cow's stomach have?",
-    "options": [
-      "Two",
-      "Three",
-      "Four",
-      "Five"
-    ],
-    "answer": "Four"
   },
   {
     "id": "animals-nature-052",
@@ -2793,19 +2533,6 @@
       "Sloth"
     ],
     "answer": "Koala"
-  },
-  {
-    "id": "animals-nature-076",
-    "category": "animals-nature",
-    "difficulty": "easy",
-    "question": "What shape is the feces of a wombat?",
-    "options": [
-      "Sphere",
-      "Pyramid",
-      "Cube",
-      "Cylinder"
-    ],
-    "answer": "Cube"
   },
   {
     "id": "animals-nature-077",
@@ -3183,19 +2910,6 @@
       "It is held in place by a membrane on the roof of its mouth"
     ],
     "answer": "It is held in place by a membrane on the roof of its mouth"
-  },
-  {
-    "id": "animals-nature-107",
-    "category": "animals-nature",
-    "difficulty": "medium",
-    "question": "What intimidating sound does the shoebill stork make to communicate and ward off predators?",
-    "options": [
-      "A deep lion-like roar",
-      "A machine-gun-like bill clatter",
-      "A high-pitched human scream",
-      "A low-frequency rumble"
-    ],
-    "answer": "A machine-gun-like bill clatter"
   },
   {
     "id": "animals-nature-108",
@@ -3666,19 +3380,6 @@
     "answer": "Transparent and hollow"
   },
   {
-    "id": "animals-nature-148",
-    "category": "animals-nature",
-    "difficulty": "easy",
-    "question": "Hummingbirds are incredibly agile fliers and are the only known birds capable of doing what?",
-    "options": [
-      "Hovering completely motionless",
-      "Flying continuous for 48 hours",
-      "Reaching speeds over 100 mph",
-      "Flying backward indefinitely"
-    ],
-    "answer": "Flying backward indefinitely"
-  },
-  {
     "id": "animals-nature-149",
     "category": "animals-nature",
     "difficulty": "medium",
@@ -3716,32 +3417,6 @@
       "Passing train whistles"
     ],
     "answer": "Camera shutters and chainsaws"
-  },
-  {
-    "id": "animals-nature-152",
-    "category": "animals-nature",
-    "difficulty": "easy",
-    "question": "How many hearts does an octopus have to pump its copper-rich blood?",
-    "options": [
-      "Two",
-      "Four",
-      "One",
-      "Three"
-    ],
-    "answer": "Three"
-  },
-  {
-    "id": "animals-nature-153",
-    "category": "animals-nature",
-    "difficulty": "easy",
-    "question": "Due to the massive structure of their leg bones and the lack of a springing joint, elephants are the only mammals that cannot do what?",
-    "options": [
-      "Jump",
-      "Swim",
-      "Sneeze",
-      "Walk backwards"
-    ],
-    "answer": "Jump"
   },
   {
     "id": "animals-nature-154",
@@ -4422,19 +4097,6 @@
   {
     "difficulty": "medium",
     "category": "animals-nature",
-    "question": "Giant sequoia bark can grow up to approximately how thick, helping protect the tree from fire?",
-    "options": [
-      "18 inches (45 cm)",
-      "36 inches (90 cm)",
-      "3 inches (8 cm)",
-      "6 inches (15 cm)"
-    ],
-    "answer": "18 inches (45 cm)",
-    "id": "animals-nature-207"
-  },
-  {
-    "difficulty": "medium",
-    "category": "animals-nature",
     "question": "Mangrove tree roots can filter out approximately what percentage of salt from seawater?",
     "options": [
       "90%",
@@ -4940,19 +4602,6 @@
     "id": "animals-nature-246"
   },
   {
-    "difficulty": "easy",
-    "category": "animals-nature",
-    "question": "What gives the giraffe's prehensile tongue its dark blue-black coloration?",
-    "options": [
-      "Melanin pigment that may reduce sunburn",
-      "Bacteria living on its surface",
-      "High iron content",
-      "Dye from the acacia leaves it eats"
-    ],
-    "answer": "Melanin pigment that may reduce sunburn",
-    "id": "animals-nature-247"
-  },
-  {
     "difficulty": "medium",
     "category": "animals-nature",
     "question": "Despite being a big cat, the cheetah cannot do which of the following?",
@@ -5083,19 +4732,6 @@
     "id": "animals-nature-259"
   },
   {
-    "difficulty": "easy",
-    "category": "animals-nature",
-    "question": "Mammals that lay eggs rather than giving birth to live young are known by what term?",
-    "options": [
-      "Monotremes",
-      "Marsupials",
-      "Eutherians",
-      "Placentals"
-    ],
-    "answer": "Monotremes",
-    "id": "animals-nature-260"
-  },
-  {
     "difficulty": "medium",
     "category": "animals-nature",
     "question": "The titan arum, or \"corpse flower,\" earns its nickname from what characteristic?",
@@ -5107,19 +4743,6 @@
     ],
     "answer": "Its smell of rotting meat when it blooms",
     "id": "animals-nature-261"
-  },
-  {
-    "difficulty": "medium",
-    "category": "animals-nature",
-    "question": "The saguaro cactus, native to the Sonoran Desert, can typically live for about how long?",
-    "options": [
-      "150 to 200 years",
-      "30 to 50 years",
-      "About 75 years",
-      "Over 500 years"
-    ],
-    "answer": "150 to 200 years",
-    "id": "animals-nature-262"
   },
   {
     "difficulty": "hard",
@@ -5774,19 +5397,6 @@
   {
     "difficulty": "medium",
     "category": "animals-nature",
-    "question": "Although it resembles a lizard, the tuatara actually belongs to a separate reptilian order. What distinctive feature does it possess?",
-    "options": [
-      "A \"third eye\" with a rudimentary lens and retina",
-      "A fully warm-blooded metabolism",
-      "A pair of venomous fangs",
-      "External gills as an adult"
-    ],
-    "answer": "A \"third eye\" with a rudimentary lens and retina",
-    "id": "animals-nature-314"
-  },
-  {
-    "difficulty": "medium",
-    "category": "animals-nature",
     "question": "Contrary to popular belief, chameleons primarily change color for which purpose?",
     "options": [
       "Communication and temperature regulation",
@@ -5796,19 +5406,6 @@
     ],
     "answer": "Communication and temperature regulation",
     "id": "animals-nature-315"
-  },
-  {
-    "difficulty": "hard",
-    "category": "animals-nature",
-    "question": "The horned lizard defends itself against predators using what unusual method?",
-    "options": [
-      "Squirting blood from its eyes",
-      "Inflating itself to twice its size",
-      "Releasing a foul-smelling musk",
-      "Playing dead while secreting venom"
-    ],
-    "answer": "Squirting blood from its eyes",
-    "id": "animals-nature-316"
   },
   {
     "difficulty": "hard",
@@ -5954,19 +5551,6 @@
     "id": "animals-nature-328"
   },
   {
-    "difficulty": "medium",
-    "category": "animals-nature",
-    "question": "The axolotl exhibits neoteny, meaning it retains which larval feature throughout its adult life?",
-    "options": [
-      "External gills",
-      "Tail fin",
-      "Transparent skin",
-      "Larval teeth"
-    ],
-    "answer": "External gills",
-    "id": "animals-nature-329"
-  },
-  {
     "difficulty": "hard",
     "category": "animals-nature",
     "question": "The tuatara, a reptile endemic to New Zealand, possesses a parietal eye on the top of its head primarily used for what purpose?",
@@ -5991,19 +5575,6 @@
     ],
     "answer": "Tarsier",
     "id": "animals-nature-331"
-  },
-  {
-    "difficulty": "medium",
-    "category": "animals-nature",
-    "question": "When threatened, the horned lizard employs which unusual defense mechanism?",
-    "options": [
-      "Detaching its tail",
-      "Releasing toxic gas",
-      "Changing color instantly",
-      "Shooting blood from its eyes"
-    ],
-    "answer": "Shooting blood from its eyes",
-    "id": "animals-nature-332"
   },
   {
     "difficulty": "medium",
@@ -6212,19 +5783,6 @@
     ],
     "answer": "Acting as living storage tanks for nectar",
     "id": "animals-nature-348"
-  },
-  {
-    "difficulty": "medium",
-    "category": "animals-nature",
-    "question": "Which insect is the only one known to orient itself and navigate using the Milky Way galaxy?",
-    "options": [
-      "Monarch butterfly",
-      "Dung beetle",
-      "Honeybee",
-      "Locust"
-    ],
-    "answer": "Dung beetle",
-    "id": "animals-nature-349"
   },
   {
     "difficulty": "medium",
@@ -6892,19 +6450,6 @@
   {
     "difficulty": "medium",
     "category": "animals-nature",
-    "question": "The gharial, a crocodilian native to the Indian subcontinent, is easily distinguished by what anatomical feature?",
-    "options": [
-      "A massive, dome-shaped casque on its head",
-      "A highly flexible, prehensile tail",
-      "An extremely long, narrow snout adapted for catching fish",
-      "Brightly colored scales on its underbelly"
-    ],
-    "answer": "An extremely long, narrow snout adapted for catching fish",
-    "id": "animals-nature-403"
-  },
-  {
-    "difficulty": "medium",
-    "category": "animals-nature",
     "question": "Which living animal has the most powerful bite force ever measured?",
     "options": [
       "Great white shark",
@@ -7176,19 +6721,6 @@
     "answer": "Manatee"
   },
   {
-    "id": "animals-nature-428",
-    "category": "animals-nature",
-    "difficulty": "easy",
-    "question": "What does a camel actually store in its hump?",
-    "options": [
-      "Water",
-      "Fat",
-      "Milk",
-      "Air"
-    ],
-    "answer": "Fat"
-  },
-  {
     "id": "animals-nature-429",
     "category": "animals-nature",
     "difficulty": "medium",
@@ -7265,19 +6797,6 @@
       "Rhinophores"
     ],
     "answer": "Eimer's organs"
-  },
-  {
-    "id": "animals-nature-435",
-    "category": "animals-nature",
-    "difficulty": "easy",
-    "question": "Which part of an ostrich is larger than its brain?",
-    "options": [
-      "Its eyeball",
-      "Its kneecap",
-      "Its heart valve",
-      "Its tongue"
-    ],
-    "answer": "Its eyeball"
   },
   {
     "id": "animals-nature-436",
@@ -7475,19 +6994,6 @@
     "answer": "Residents eat fish, Transients eat marine mammals"
   },
   {
-    "id": "animals-nature-452",
-    "category": "animals-nature",
-    "difficulty": "easy",
-    "question": "At coral reefs, what does the bluestreak cleaner wrasse do at its cleaning station?",
-    "options": [
-      "Removes ectoparasites and dead skin from client fish",
-      "Lays eggs on larger fish",
-      "Provides electric shock defense",
-      "Guides fish to food"
-    ],
-    "answer": "Removes ectoparasites and dead skin from client fish"
-  },
-  {
     "id": "animals-nature-453",
     "category": "animals-nature",
     "difficulty": "hard",
@@ -7538,19 +7044,6 @@
       "Mosquito"
     ],
     "answer": "Dragonfly"
-  },
-  {
-    "id": "animals-nature-457",
-    "category": "animals-nature",
-    "difficulty": "medium",
-    "question": "Scorpions glow under ultraviolet light due to compounds in their cuticle called what?",
-    "options": [
-      "Chitin only",
-      "Fluorescent chemicals in the exoskeleton",
-      "Bioluminescent bacteria",
-      "Phosphorescent venom"
-    ],
-    "answer": "Fluorescent chemicals in the exoskeleton"
   },
   {
     "id": "animals-nature-458",
@@ -7696,19 +7189,6 @@
     "answer": "Salamanders"
   },
   {
-    "id": "animals-nature-469",
-    "category": "animals-nature",
-    "difficulty": "easy",
-    "question": "Frogs can absorb oxygen directly through their moist skin while underwater. What is this called?",
-    "options": [
-      "Cutaneous respiration",
-      "Buccal pumping",
-      "Pulmonary ventilation",
-      "Countercurrent exchange"
-    ],
-    "answer": "Cutaneous respiration"
-  },
-  {
     "id": "animals-nature-470",
     "category": "animals-nature",
     "difficulty": "hard",
@@ -7837,19 +7317,6 @@
       "70 meters"
     ],
     "answer": "115 meters"
-  },
-  {
-    "id": "animals-nature-481",
-    "category": "animals-nature",
-    "difficulty": "easy",
-    "question": "Coral bleaching occurs when stressed corals expel what symbiotic algae?",
-    "options": [
-      "Zooxanthellae",
-      "Kelp spores",
-      "Cyanobacteria",
-      "Diatoms"
-    ],
-    "answer": "Zooxanthellae"
   },
   {
     "id": "animals-nature-482",
@@ -8062,19 +7529,6 @@
   {
     "difficulty": "easy",
     "category": "animals-nature",
-    "question": "As of 2026, which bird family is the only one capable of true, sustained backward flight?",
-    "options": [
-      "Falcons",
-      "Swallows",
-      "Kingfishers",
-      "Hummingbirds"
-    ],
-    "answer": "Hummingbirds",
-    "id": "animals-nature-499"
-  },
-  {
-    "difficulty": "easy",
-    "category": "animals-nature",
     "question": "Male bowerbirds build elaborate structures decorated with sticks and colorful objects for what primary purpose?",
     "options": [
       "To incubate eggs",
@@ -8084,19 +7538,6 @@
     ],
     "answer": "To attract a mate",
     "id": "animals-nature-500"
-  },
-  {
-    "difficulty": "easy",
-    "category": "animals-nature",
-    "question": "The common cuckoo is famous for which reproductive strategy?",
-    "options": [
-      "Building communal nests",
-      "Incubating eggs with volcanic heat",
-      "Carrying eggs in a pouch",
-      "Laying eggs in other birds' nests"
-    ],
-    "answer": "Laying eggs in other birds' nests",
-    "id": "animals-nature-501"
   },
   {
     "difficulty": "hard",
@@ -8240,19 +7681,6 @@
     ],
     "answer": "Hemocyanin",
     "id": "animals-nature-514"
-  },
-  {
-    "difficulty": "medium",
-    "category": "animals-nature",
-    "question": "When the dominant breeding female dies in a clownfish group living in a sea anemone, what sex change occurs?",
-    "options": [
-      "Male to female",
-      "Female to male",
-      "Male to sterile juvenile",
-      "No change, group disbands"
-    ],
-    "answer": "Male to female",
-    "id": "animals-nature-515"
   },
   {
     "difficulty": "easy",
@@ -8905,19 +8333,6 @@
     "id": "animals-nature-566"
   },
   {
-    "difficulty": "medium",
-    "category": "animals-nature",
-    "question": "What color is the tongue of a giraffe, helping prevent sunburn while browsing?",
-    "options": [
-      "Yellow",
-      "Bright red",
-      "Pink",
-      "Bluish-black"
-    ],
-    "answer": "Bluish-black",
-    "id": "animals-nature-567"
-  },
-  {
     "difficulty": "hard",
     "category": "animals-nature",
     "question": "Which small African antelope can survive without drinking water, getting moisture from succulent plants?",
@@ -9141,19 +8556,6 @@
   {
     "difficulty": "easy",
     "category": "animals-nature",
-    "question": "Which land mammal has the longest gestation period as of 2026?",
-    "options": [
-      "African elephant at about 22 months",
-      "White rhinoceros at 16 months",
-      "Giraffe at 15 months",
-      "Hippopotamus at 8 months"
-    ],
-    "answer": "African elephant at about 22 months",
-    "id": "animals-nature-585"
-  },
-  {
-    "difficulty": "easy",
-    "category": "animals-nature",
     "question": "What fundamentally distinguishes antlers from horns in cervids and bovids?",
     "options": [
       "Horns are shed annually, antlers are permanent",
@@ -9189,19 +8591,6 @@
     ],
     "answer": "Reindeer / Caribou",
     "id": "animals-nature-589"
-  },
-  {
-    "difficulty": "medium",
-    "category": "animals-nature",
-    "question": "How thick can the fire-resistant bark of a giant sequoia grow?",
-    "options": [
-      "Up to 2 feet thick",
-      "Up to 2 inches thick",
-      "Up to 6 inches thick",
-      "Up to 6 feet thick"
-    ],
-    "answer": "Up to 2 feet thick",
-    "id": "animals-nature-592"
   },
   {
     "difficulty": "medium",
@@ -9410,19 +8799,6 @@
     ],
     "answer": "Oval-shaped red blood cells and ability to fluctuate body temperature",
     "id": "animals-nature-610"
-  },
-  {
-    "difficulty": "easy",
-    "category": "animals-nature",
-    "question": "Which rodent builds complex dam systems that create wetlands?",
-    "options": [
-      "Muskrat",
-      "North American beaver",
-      "Capybara",
-      "Porcupine"
-    ],
-    "answer": "North American beaver",
-    "id": "animals-nature-611"
   },
   {
     "difficulty": "medium",
@@ -10014,12 +9390,12 @@
     "category": "animals-nature",
     "question": "Which bird has lamellae comb-like structures in beak to filter food from water?",
     "options": [
-      "Flamingo and ducks have lamellae",
+      "Flamingo and ducks",
       "Eagle",
       "Hawk",
       "Owl"
     ],
-    "answer": "Flamingo and ducks have lamellae",
+    "answer": "Flamingo and ducks",
     "id": "animals-nature-658"
   },
   {
@@ -10047,19 +9423,6 @@
     ],
     "answer": "To control buoyancy and aid diving",
     "id": "animals-nature-660"
-  },
-  {
-    "difficulty": "easy",
-    "category": "animals-nature",
-    "question": "What unique life-history trait defines axolotls among salamanders?",
-    "options": [
-      "Neoteny, retaining external gills and staying aquatic while sexually mature",
-      "Developing lungs before hatching",
-      "Losing tail as adult",
-      "Changing sex with temperature"
-    ],
-    "answer": "Neoteny, retaining external gills and staying aquatic while sexually mature",
-    "id": "animals-nature-661"
   },
   {
     "difficulty": "medium",
@@ -10093,11 +9456,11 @@
     "question": "Which reptile has a third eye called a parietal eye on top of its head sensitive to light?",
     "options": [
       "Cobra",
-      "Tuatara and many lizards have parietal eye",
+      "Tuatara",
       "Sea turtle",
       "Crocodile"
     ],
-    "answer": "Tuatara and many lizards have parietal eye",
+    "answer": "Tuatara",
     "id": "animals-nature-664"
   },
   {
@@ -10287,12 +9650,12 @@
     "category": "animals-nature",
     "question": "Which turtle can breathe through its cloaca during underwater hibernation?",
     "options": [
-      "Eastern painted turtle and some aquatic turtles use cloacal respiration",
+      "Eastern painted turtle",
       "Sea turtle",
       "Box turtle",
       "Tortoise"
     ],
-    "answer": "Eastern painted turtle and some aquatic turtles use cloacal respiration",
+    "answer": "Eastern painted turtle",
     "id": "animals-nature-680"
   },
   {
@@ -10374,19 +9737,6 @@
     "id": "animals-nature-686"
   },
   {
-    "difficulty": "easy",
-    "category": "animals-nature",
-    "question": "Which ocean fish is the largest living fish as of 2026?",
-    "options": [
-      "Whale shark",
-      "Great white shark",
-      "Manta ray",
-      "Bluefin tuna"
-    ],
-    "answer": "Whale shark",
-    "id": "animals-nature-687"
-  },
-  {
     "difficulty": "medium",
     "category": "animals-nature",
     "question": "Which adaptation gives hammerhead sharks enhanced vision?",
@@ -10430,38 +9780,25 @@
     "category": "animals-nature",
     "question": "Which echinoderm moves using water vascular system with hydraulic tube feet?",
     "options": [
-      "Sea star and sea urchin use water vascular system",
+      "Sea star and sea urchin",
       "Jellyfish",
       "Octopus",
       "Squid"
     ],
-    "answer": "Sea star and sea urchin use water vascular system",
+    "answer": "Sea star and sea urchin",
     "id": "animals-nature-692"
-  },
-  {
-    "difficulty": "medium",
-    "category": "animals-nature",
-    "question": "Which coral bleaching event cause involves expelling symbiotic algae due to heat stress?",
-    "options": [
-      "Fish leaving coral",
-      "Zooxanthellae expelled when stressed",
-      "Coral eating its own tissue",
-      "Coral producing white pigment"
-    ],
-    "answer": "Zooxanthellae expelled when stressed",
-    "id": "animals-nature-693"
   },
   {
     "difficulty": "medium",
     "category": "animals-nature",
     "question": "Which fish can change sex from female to male based on social hierarchy?",
     "options": [
-      "Wrasse and parrotfish change female to male",
+      "Wrasse and parrotfish",
       "Shark",
       "Tuna",
       "Salmon"
     ],
-    "answer": "Wrasse and parrotfish change female to male",
+    "answer": "Wrasse and parrotfish",
     "id": "animals-nature-694"
   },
   {
@@ -10509,11 +9846,11 @@
     "question": "Which ant species herds aphids and transports them to new plants like livestock?",
     "options": [
       "Leafcutter ant",
-      "Black garden ant Lasius niger herds aphids",
+      "Black garden ant (Lasius niger)",
       "Bullet ant",
       "Fire ant"
     ],
-    "answer": "Black garden ant Lasius niger herds aphids",
+    "answer": "Black garden ant (Lasius niger)",
     "id": "animals-nature-698"
   },
   {
@@ -10521,12 +9858,12 @@
     "category": "animals-nature",
     "question": "Which insect's queen can live up to 30 years, the longest lifespan of any insect queen?",
     "options": [
-      "Termite queen in some species like Macrotermes",
+      "Termite queen",
       "Honeybee queen",
       "Ant queen",
       "Wasp queen"
     ],
-    "answer": "Termite queen in some species like Macrotermes",
+    "answer": "Termite queen",
     "id": "animals-nature-699"
   },
   {
@@ -10541,19 +9878,6 @@
     ],
     "answer": "About 200 times per second",
     "id": "animals-nature-700"
-  },
-  {
-    "difficulty": "easy",
-    "category": "animals-nature",
-    "question": "Which insect can survive without its head for weeks due to decentralized nerve ganglia?",
-    "options": [
-      "Cockroach",
-      "Butterfly",
-      "Bee",
-      "Ant"
-    ],
-    "answer": "Cockroach",
-    "id": "animals-nature-701"
   },
   {
     "difficulty": "medium",
@@ -10573,12 +9897,12 @@
     "category": "animals-nature",
     "question": "Which beetle's larvae are called glowworms and use bioluminescence to lure prey?",
     "options": [
-      "Firefly / Lampyrid beetle larvae are predatory glowworms",
+      "Firefly (Lampyrid beetle)",
       "Ladybug",
       "Stag beetle",
       "Weevil"
     ],
-    "answer": "Firefly / Lampyrid beetle larvae are predatory glowworms",
+    "answer": "Firefly (Lampyrid beetle)",
     "id": "animals-nature-703"
   },
   {
@@ -10658,19 +9982,6 @@
     ],
     "answer": "Jumping spider Salticidae",
     "id": "animals-nature-709"
-  },
-  {
-    "difficulty": "easy",
-    "category": "animals-nature",
-    "question": "Which insect can carry up to 50 times its body weight?",
-    "options": [
-      "Leafcutter ant and many ants carry many times weight",
-      "Butterfly",
-      "Mosquito",
-      "Housefly"
-    ],
-    "answer": "Leafcutter ant and many ants carry many times weight",
-    "id": "animals-nature-710"
   },
   {
     "difficulty": "easy",
@@ -10756,11 +10067,11 @@
     "question": "Which insect hears with tympanal organs located on its knees?",
     "options": [
       "Butterfly",
-      "Cricket and katydid hear with ears on legs",
+      "Cricket and katydid",
       "Bee",
       "Ant"
     ],
-    "answer": "Cricket and katydid hear with ears on legs",
+    "answer": "Cricket and katydid",
     "id": "animals-nature-717"
   },
   {
@@ -10868,19 +10179,6 @@
     "id": "animals-nature-725"
   },
   {
-    "difficulty": "medium",
-    "category": "animals-nature",
-    "question": "At what age does a saguaro cactus typically begin to grow its first arm in Saguaro National Park?",
-    "options": [
-      "50 to 70 years",
-      "5 to 10 years",
-      "15 to 20 years",
-      "150 to 200 years"
-    ],
-    "answer": "50 to 70 years",
-    "id": "animals-nature-726"
-  },
-  {
     "difficulty": "easy",
     "category": "animals-nature",
     "question": "What is the average lifespan of a saguaro cactus?",
@@ -10905,19 +10203,6 @@
     ],
     "answer": "Pleated ribs expand like accordion",
     "id": "animals-nature-728"
-  },
-  {
-    "difficulty": "medium",
-    "category": "animals-nature",
-    "question": "How does the giant sequoia's thick bark protect it from fire?",
-    "options": [
-      "Spongy fibrous bark up to 2 feet insulates cambium",
-      "Produces water from bark",
-      "Sheds bark during fire",
-      "Bark contains explosive oils"
-    ],
-    "answer": "Spongy fibrous bark up to 2 feet insulates cambium",
-    "id": "animals-nature-729"
   },
   {
     "difficulty": "medium",
@@ -11000,19 +10285,6 @@
   {
     "difficulty": "easy",
     "category": "animals-nature",
-    "question": "Which carnivorous plant uses a pitfall trap with slippery rim and digestive fluid?",
-    "options": [
-      "Pitcher plant Nepenthes and Sarracenia",
-      "Venus flytrap",
-      "Sundew",
-      "Moss"
-    ],
-    "answer": "Pitcher plant Nepenthes and Sarracenia",
-    "id": "animals-nature-736"
-  },
-  {
-    "difficulty": "easy",
-    "category": "animals-nature",
     "question": "Which carnivorous plant moves tentacles within minutes to trap insects on sticky droplets?",
     "options": [
       "Sundew Drosera",
@@ -11083,7 +10355,7 @@
       "Forest floor",
       "Canopy",
       "Emergent layer",
-      "Understory gets 5-10% but floor <2%"
+      "Understory"
     ],
     "answer": "Forest floor",
     "id": "animals-nature-742"
@@ -11145,12 +10417,12 @@
     "category": "animals-nature",
     "question": "Which tree produces serotinous cones that need fire heat to open and release seeds?",
     "options": [
-      "Lodgepole pine and giant sequoia have serotinous cones",
+      "Lodgepole pine and giant sequoia",
       "Oak",
       "Maple",
       "Willow"
     ],
-    "answer": "Lodgepole pine and giant sequoia have serotinous cones",
+    "answer": "Lodgepole pine and giant sequoia",
     "id": "animals-nature-747"
   },
   {
@@ -11195,7 +10467,7 @@
   {
     "difficulty": "medium",
     "category": "animals-nature",
-    "question": "Which desert shrub can lose 97% of water content and revive with rain, called resurrection plant?",
+    "question": "Which desert plant can lose 97% of water content and revive with rain, called resurrection plant?",
     "options": [
       "Cactus",
       "Rose of Jericho Selaginella lepidophylla",
@@ -11236,12 +10508,12 @@
     "category": "animals-nature",
     "question": "Which plant uses C4 photosynthesis to efficiently fix carbon in hot climates?",
     "options": [
-      "Maize and sugarcane use C4",
+      "Maize and sugarcane",
       "Oak",
       "Pine",
       "Moss"
     ],
-    "answer": "Maize and sugarcane use C4",
+    "answer": "Maize and sugarcane",
     "id": "animals-nature-754"
   },
   {
@@ -11252,7 +10524,7 @@
       "Watermeal Wolffia",
       "Water lily",
       "Lotus",
-      "Duckweed is Wolffia is duckweed family"
+      "Duckweed"
     ],
     "answer": "Watermeal Wolffia",
     "id": "animals-nature-755"
@@ -11275,12 +10547,12 @@
     "category": "animals-nature",
     "question": "Which ecosystem has the highest primary productivity per area as of 2026?",
     "options": [
-      "Coral reefs and estuaries among highest, but tropical rainforest high on land",
+      "Coral reefs and estuaries",
       "Desert",
       "Tundra",
       "Open ocean"
     ],
-    "answer": "Coral reefs and estuaries among highest, but tropical rainforest high on land",
+    "answer": "Coral reefs and estuaries",
     "id": "animals-nature-757"
   },
   {
@@ -11377,14 +10649,14 @@
   {
     "difficulty": "medium",
     "category": "animals-nature",
-    "question": "Which snake is immune to its own pit viper venom due to mutated receptors?",
+    "question": "Which snake preys on rattlesnakes and is immune to their venom due to mutated receptors?",
     "options": [
-      "Kingsnake is immune to rattlesnake venom",
+      "Kingsnake",
       "Garter snake",
       "Python",
       "Cobra"
     ],
-    "answer": "Kingsnake is immune to rattlesnake venom",
+    "answer": "Kingsnake",
     "id": "animals-nature-765"
   },
   {
@@ -11444,12 +10716,12 @@
     "category": "animals-nature",
     "question": "Which marine crustacean can regenerate lost limbs through molting?",
     "options": [
-      "Crab and lobster regenerate via molting",
+      "Crab and lobster",
       "Jellyfish",
       "Shark",
       "Dolphin"
     ],
-    "answer": "Crab and lobster regenerate via molting",
+    "answer": "Crab and lobster",
     "id": "animals-nature-770"
   },
   {
@@ -11555,19 +10827,6 @@
     ],
     "answer": "10 years",
     "id": "animals-nature-778"
-  },
-  {
-    "difficulty": "medium",
-    "category": "animals-nature",
-    "question": "The tuatara, a reptile endemic to New Zealand, possesses a light-sensing parietal eye on the top of its head. What is this commonly called?",
-    "options": [
-      "Pineal ocellus",
-      "Third eye",
-      "All of the above",
-      "Dorsal ocellus"
-    ],
-    "answer": "Third eye",
-    "id": "animals-nature-779"
   },
   {
     "difficulty": "medium",
@@ -13466,19 +12725,6 @@
     ],
     "answer": "Ears",
     "id": "animals-nature-925"
-  },
-  {
-    "difficulty": "medium",
-    "category": "animals-nature",
-    "question": "Unlike most marsupials, the pouch of a female wombat opens in what direction, preventing dirt from entering while she digs?",
-    "options": [
-      "Backward (towards the rear)",
-      "Forward",
-      "Downward",
-      "Sideways"
-    ],
-    "answer": "Backward (towards the rear)",
-    "id": "animals-nature-926"
   },
   {
     "difficulty": "medium",

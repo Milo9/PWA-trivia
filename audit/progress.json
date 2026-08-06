@@ -853,11 +853,11 @@
         "animals-nature-771",
         "general-111"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-06",
+      "completedAt": "2026-08-06",
+      "issuesFound": 13,
+      "notes": "Cut animals-nature-693 (dup of 745, same coral-bleaching/zooxanthellae fact). Fixed garbled distractor in 755 (Duckweed). Trimmed answer-leak full-sentence answers to match distractor brevity in 664,680,694,698,699,703,717,747,754,757,765 (per CLAUDE.md option-length pattern). Fixed 751 miscategorizing Selaginella lepidophylla (a spikemoss) as a shrub. Fixed 765's confused question wording (kingsnake isn't a pit viper, doesn't have 'its own' pit viper venom)."
     },
     {
       "chunkId": "animals-nature-p1-014",
@@ -914,11 +914,11 @@
         "general-2378",
         "general-2400"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-06",
+      "completedAt": "2026-08-06",
+      "issuesFound": 14,
+      "notes": "Cut 14 duplicate legacy general-* easy-fact questions after grepping the whole corpus for each shared topic (per CLAUDE.md's group-size-cap gap): nocturnal-animal term (148,622,1958 cut, kept 1101), largest mammal (620 cut, kept 421), baby kangaroo=joey (2319,627,1245 cut, kept 424 -- a genuine quadruplicate), group of lions=pride (879,1235 cut, kept 435 -- triplicate), group of wolves=pack (2400,135 cut, kept 1394 -- triplicate), baby/young cat=kitten (2368 cut, kept 746), leaf does photosynthesis (629 cut, kept 151), winter dormancy=hibernation (animals-nature-045 cut, kept general-1397). Rest of chunk (spider legs, manatee, cheetah, etc.) checked clean on distractor-correctness."
     },
     {
       "chunkId": "animals-nature-p1-015",
@@ -975,11 +975,11 @@
         "animals-nature-174",
         "animals-nature-176"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-06",
+      "completedAt": "2026-08-06",
+      "issuesFound": 11,
+      "notes": "Cut 11 duplicates, mostly convergent 'viral animal fact' chestnuts surfaced by grepping shared terms beyond just this chunk's questions: octopus-3-hearts (animals-nature-152 dup of general-1965), wombat-cube-feces (animals-nature-076 dup of general-2889), elephant-cant-jump (animals-nature-153 cut -- premise already revealed by animals-nature-602's stem), hummingbird-flies-backward (animals-nature-148 dup of animals-nature-636), cow-stomach-4-compartments triplicate (general-2885+animals-nature-051 cut, animals-nature-570 kept), giraffe-tongue-dark-color-for-sunburn cluster (animals-nature-247+animals-nature-567 cut as reversed/restated dupes of animals-nature-103, animals-nature-199 kept as distinct length+color fact), bat-only-mammal-sustained-flight triplicate (animals-nature-033+general-425 cut, animals-nature-133 kept for its more distinct distractor set), scorpion-UV-fluorescence reversed dupe (animals-nature-457 cut, animals-nature-708 kept). All other questions in chunk checked clean on distractor-correctness and factual accuracy."
     },
     {
       "chunkId": "animals-nature-p1-016",
@@ -1036,11 +1036,11 @@
         "animals-nature-504",
         "animals-nature-509"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-06",
+      "completedAt": "2026-08-06",
+      "issuesFound": 10,
+      "notes": "Cut 10 duplicates, again mostly convergent chestnuts found by grepping shared terms beyond the chunk itself (this category's easy-difficulty batch heavily overlaps an earlier fun-fact batch in the 400s-700s id range): ostrich-eye-bigger-than-brain (animals-nature-435 dup of animals-nature-256, both in this chunk), monotremes-egg-laying-mammals (animals-nature-260 dup of general-2589), hummingbird-sustained-backward-flight (animals-nature-499 cut, third instance of the fact already resolved in p1-015 by keeping animals-nature-636), camel-stores-fat-in-hump (animals-nature-428 cut -- general-1244's stem already states the fat-storage fact as premise), axolotl-neoteny-retains-external-gills cluster (animals-nature-329+animals-nature-661 cut as restatements, animals-nature-467 kept as the reversed-direction 'which amphibian' framing with best distractors), coral-bleaching-expels-zooxanthellae (animals-nature-481 cut, keeping animals-nature-745 which was already the established survivor from an earlier chunk's similar cut), cleaner-wrasse-removes-ectoparasites (animals-nature-452 cut, animals-nature-516 kept as more precise phrasing), pitcher-plant-pitfall-trap reversed dupe (animals-nature-736 cut, animals-nature-474 kept), leafcutter-ant-50x-bodyweight reversed dupe (animals-nature-710 cut -- its answer text was also grammatically malformed 'Leafcutter ant and many ants carry many times weight', animals-nature-465 kept). Rest of chunk checked clean on distractor-correctness and factual accuracy."
     },
     {
       "chunkId": "animals-nature-p1-017",
@@ -1097,11 +1097,11 @@
         "animals-nature-673",
         "animals-nature-675"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-06",
+      "completedAt": "2026-08-06",
+      "issuesFound": 15,
+      "notes": "Cut 14 duplicates plus 1 answer-leak format fix, again mostly convergent chestnuts found via corpus-wide grep beyond the chunk itself: sequoia-bark-thickness quadruplicate (207 conflicting '18in' figure cut, 592+729 also cut, animals-nature-531 kept as the one with best mechanism-type distractors -- also resolves the 18in-vs-2ft factual inconsistency between the cut/kept versions), horned-lizard-squirts-blood-from-eyes triplicate (316+332 cut as near-identical restatements, animals-nature-670 kept for its reversed-direction species-ID framing), shoebill-machine-gun-bill-clatter dupe (107 cut, 338 kept), beaver-dam-creates-wetlands reversed dupe (animals-nature-611 cut, general-2871's richer 'keystone species' framing kept), longest-gestation-elephant dupe (585 cut, already-established animals-nature-492 kept), wombat-backward-pouch reversed dupe (926 cut, animals-nature-607 kept), tuatara-parietal-eye cluster -- 5 entries found, 3 cut as redundant naming/description dupes (general-2884, animals-nature-314, and animals-nature-779 which also had a broken 'All of the above' distractor in a single-answer naming question), animals-nature-664 kept for species-ID framing and animals-nature-330 kept as a genuinely distinct 'purpose of the eye' fact, lion-roar-audible-for-miles dupe (general-2590 cut, animals-nature-620's more specific '5 miles' figure kept), common-cuckoo-brood-parasite reversed dupe (animals-nature-501 cut, animals-nature-624 kept). Also fixed an answer-leak in animals-nature-658: correct option 'Flamingo and ducks have lamellae' repeated the question's key term verbatim next to terse one-word distractors (Eagle/Hawk/Owl) -- trimmed to 'Flamingo and ducks' per CLAUDE.md's option-length pattern. Rest of chunk checked clean."
     },
     {
       "chunkId": "animals-nature-p1-018",
@@ -1150,11 +1150,11 @@
         "animals-nature-769",
         "animals-nature-770"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-06",
+      "completedAt": "2026-08-06",
+      "issuesFound": 11,
+      "notes": "Cut 8 duplicates (again mostly reversed-direction/premise-reveal chestnuts found via corpus-wide grep beyond the chunk) plus fixed 3 answer-leak format bugs: gharial-long-snout reversed dupe (animals-nature-403 cut, animals-nature-685 kept), whale-shark-largest-fish premise-reveal dupe (animals-nature-687 cut -- animals-nature-242's gill-rakers question already states 'the largest fish species' as its own premise, kept as the more substantive fact), clownfish-sequential-hermaphroditism reversed dupe (animals-nature-515 cut, animals-nature-689 kept for precise terminology), cockroach-survives-headless reversed dupe (animals-nature-701 cut -- also had a looser 'weeks' claim vs animals-nature-122's more standard 'up to a week', kept 122), dung-beetle-navigates-by-milky-way reversed dupe (animals-nature-349 cut, animals-nature-188 kept), saguaro-lifespan dupe (animals-nature-262's '150-200yr' cut, animals-nature-727's more nuanced '150-175yr, some over 200' kept), saguaro-first-arm-age dupe (animals-nature-726 cut -- also a minor number inconsistency, '50-70yr' vs animals-nature-476's '50-75yr', kept 476), frog-cutaneous-respiration-underwater reversed dupe (animals-nature-469 cut, animals-nature-766 kept for its extra hibernation-specific detail). Answer-leak fixes: animals-nature-692 ('Sea star and sea urchin use water vascular system' -> 'Sea star and sea urchin', restated the question's key phrase next to one-word distractors), animals-nature-770 ('Crab and lobster regenerate via molting' -> 'Crab and lobster', same pattern), animals-nature-742 (a wrong-labeled distractor 'Understory gets 5-10% but floor <2%' was literally stating the correct answer's fact under the wrong option -- trimmed to just 'Understory'). Rest of chunk checked clean."
     },
     {
       "chunkId": "arts-literature-p1-000",
@@ -1211,8 +1211,8 @@
         "general-2473",
         "general-2474"
       ],
-      "status": "pending",
-      "startedAt": null,
+      "status": "in-progress",
+      "startedAt": "2026-08-06",
       "completedAt": null,
       "issuesFound": null,
       "notes": null
