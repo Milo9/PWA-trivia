@@ -60,11 +60,11 @@
         "animals-nature-067",
         "animals-nature-069"
       ],
-      "status": "in-progress",
+      "status": "done",
       "startedAt": "2026-08-05",
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "completedAt": "2026-08-05",
+      "issuesFound": 1,
+      "notes": "general-2884: distractor 'Pineal eye' was a synonym of the correct answer 'Parietal eye' -> replaced with 'Compound eye'. Also considered general-1243 (Ecdysis vs Molting distractor) ambiguous but left as-is: Ecdysis is the precise scientific term, Molting is the broader umbrella term used across taxa, defensible as-is."
     },
     {
       "chunkId": "animals-nature-p1-001",
