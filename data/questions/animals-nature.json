@@ -65,19 +65,6 @@
     "answer": "Lizard"
   },
   {
-    "id": "general-134",
-    "category": "animals-nature",
-    "difficulty": "easy",
-    "question": "What is the process called when plants make their own food using sunlight?",
-    "options": [
-      "Respiration",
-      "Photosynthesis",
-      "Digestion",
-      "Fermentation"
-    ],
-    "answer": "Photosynthesis"
-  },
-  {
     "id": "general-135",
     "category": "animals-nature",
     "difficulty": "medium",
@@ -507,19 +494,6 @@
     "answer": "Cheetah"
   },
   {
-    "id": "general-1238",
-    "category": "animals-nature",
-    "difficulty": "medium",
-    "question": "Which marine animal is known to have three hearts?",
-    "options": [
-      "Octopus",
-      "Squid",
-      "Jellyfish",
-      "Starfish"
-    ],
-    "answer": "Octopus"
-  },
-  {
     "id": "general-1239",
     "category": "animals-nature",
     "difficulty": "easy",
@@ -627,7 +601,7 @@
     "id": "general-1284",
     "category": "animals-nature",
     "difficulty": "medium",
-    "question": "Which is the only mammal known to lay eggs rather than give live birth?",
+    "question": "Which mammal is known to lay eggs rather than give live birth?",
     "options": [
       "Platypus",
       "Kangaroo",
@@ -754,19 +728,6 @@
     "answer": "Omnivore"
   },
   {
-    "id": "general-1533",
-    "category": "animals-nature",
-    "difficulty": "easy",
-    "question": "What is the process by which plants use sunlight to produce their own food called?",
-    "options": [
-      "Photosynthesis",
-      "Fermentation",
-      "Transpiration",
-      "Respiration"
-    ],
-    "answer": "Photosynthesis"
-  },
-  {
     "id": "general-1538",
     "category": "animals-nature",
     "difficulty": "easy",
@@ -858,19 +819,6 @@
     "answer": "A herd"
   },
   {
-    "id": "general-1545",
-    "category": "animals-nature",
-    "difficulty": "medium",
-    "question": "Which is the only bird capable of flying backwards for sustained periods?",
-    "options": [
-      "The hummingbird",
-      "The swift",
-      "The swallow",
-      "The kingfisher"
-    ],
-    "answer": "The hummingbird"
-  },
-  {
     "id": "general-1546",
     "category": "animals-nature",
     "difficulty": "hard",
@@ -910,19 +858,6 @@
     "answer": "A lamb"
   },
   {
-    "id": "general-1787",
-    "category": "animals-nature",
-    "difficulty": "medium",
-    "question": "What is a group of crows called?",
-    "options": [
-      "A murder",
-      "A gaggle",
-      "A flock",
-      "A parliament"
-    ],
-    "answer": "A murder"
-  },
-  {
     "id": "general-1788",
     "category": "animals-nature",
     "difficulty": "easy",
@@ -947,19 +882,6 @@
       "A murder"
     ],
     "answer": "A skein"
-  },
-  {
-    "id": "general-1932",
-    "category": "animals-nature",
-    "difficulty": "easy",
-    "question": "What is the process by which plants convert sunlight into food called?",
-    "options": [
-      "Photosynthesis",
-      "Respiration",
-      "Transpiration",
-      "Fermentation"
-    ],
-    "answer": "Photosynthesis"
   },
   {
     "id": "general-1936",
@@ -1586,32 +1508,6 @@
     "answer": "Muskrat"
   },
   {
-    "id": "general-2881",
-    "category": "animals-nature",
-    "difficulty": "medium",
-    "question": "How many hearts does an octopus have?",
-    "options": [
-      "One",
-      "Two",
-      "Three",
-      "Four"
-    ],
-    "answer": "Three"
-  },
-  {
-    "id": "general-2882",
-    "category": "animals-nature",
-    "difficulty": "medium",
-    "question": "What is the collective noun for a group of flamingos?",
-    "options": [
-      "A flamboyance",
-      "A regiment",
-      "A parliament",
-      "A skein"
-    ],
-    "answer": "A flamboyance"
-  },
-  {
     "id": "general-2883",
     "category": "animals-nature",
     "difficulty": "medium",
@@ -1885,19 +1781,6 @@
     "answer": "Polyp"
   },
   {
-    "id": "general-2904",
-    "category": "animals-nature",
-    "difficulty": "medium",
-    "question": "A blue whale's tongue weighs roughly as much as which of the following?",
-    "options": [
-      "A small car",
-      "A horse",
-      "An elephant",
-      "A rhinoceros"
-    ],
-    "answer": "An elephant"
-  },
-  {
     "id": "general-2905",
     "category": "animals-nature",
     "difficulty": "hard",
@@ -1948,32 +1831,6 @@
       "Reproducing"
     ],
     "answer": "Eating"
-  },
-  {
-    "id": "general-2909",
-    "category": "animals-nature",
-    "difficulty": "medium",
-    "question": "Unlike most salamanders, the axolotl reaches adulthood without losing what juvenile feature?",
-    "options": [
-      "Its tail",
-      "Its gills",
-      "Its webbed feet",
-      "Its larval spots"
-    ],
-    "answer": "Its gills"
-  },
-  {
-    "id": "general-2910",
-    "category": "animals-nature",
-    "difficulty": "medium",
-    "question": "Under adverse conditions, a snail can enter dormancy and sleep for up to how long?",
-    "options": [
-      "3 months",
-      "1 year",
-      "3 years",
-      "10 years"
-    ],
-    "answer": "3 years"
   },
   {
     "id": "general-2911",
@@ -2155,7 +2012,7 @@
       "Humpback whale",
       "Sperm whale"
     ],
-    "answer": "Humpback whale"
+    "answer": "Gray whale"
   },
   {
     "id": "animals-nature-012",
@@ -2327,19 +2184,6 @@
     "answer": "Galápagos penguin"
   },
   {
-    "id": "animals-nature-025",
-    "category": "animals-nature",
-    "difficulty": "easy",
-    "question": "Which mammal, native to Africa and Asia, is covered in protective keratin scales?",
-    "options": [
-      "Pangolin",
-      "Armadillo",
-      "Aardvark",
-      "Porcupine"
-    ],
-    "answer": "Pangolin"
-  },
-  {
     "id": "animals-nature-026",
     "category": "animals-nature",
     "difficulty": "medium",
@@ -2481,19 +2325,6 @@
       "The Subterranean Switchboard"
     ],
     "answer": "The Wood Wide Web"
-  },
-  {
-    "id": "animals-nature-037",
-    "category": "animals-nature",
-    "difficulty": "easy",
-    "question": "What is the only bird capable of sustained backward flight?",
-    "options": [
-      "The hummingbird",
-      "The kingfisher",
-      "The swift",
-      "The falcon"
-    ],
-    "answer": "The hummingbird"
   },
   {
     "id": "animals-nature-038",
@@ -2730,19 +2561,6 @@
     "answer": "Five"
   },
   {
-    "id": "animals-nature-056",
-    "category": "animals-nature",
-    "difficulty": "medium",
-    "question": "How many legs does a lobster have in total?",
-    "options": [
-      "Six",
-      "Eight",
-      "Ten",
-      "Twelve"
-    ],
-    "answer": "Ten"
-  },
-  {
     "id": "animals-nature-057",
     "category": "animals-nature",
     "difficulty": "medium",
@@ -2845,19 +2663,6 @@
       "Papua New Guinea"
     ],
     "answer": "Australia"
-  },
-  {
-    "id": "animals-nature-065",
-    "category": "animals-nature",
-    "difficulty": "medium",
-    "question": "What is the name of the process by which green plants use sunlight to synthesize foods?",
-    "options": [
-      "Photosynthesis",
-      "Respiration",
-      "Fermentation",
-      "Transpiration"
-    ],
-    "answer": "Photosynthesis"
   },
   {
     "id": "animals-nature-066",
@@ -3781,19 +3586,6 @@
       "A shimmer"
     ],
     "answer": "A flamboyance"
-  },
-  {
-    "id": "animals-nature-141",
-    "category": "animals-nature",
-    "difficulty": "hard",
-    "question": "The okapi, which looks like a cross between a zebra and a deer, is actually the only living relative of what animal?",
-    "options": [
-      "The antelope",
-      "The horse",
-      "The camel",
-      "The giraffe"
-    ],
-    "answer": "The giraffe"
   },
   {
     "id": "animals-nature-142",
@@ -5239,19 +5031,6 @@
     "id": "animals-nature-254"
   },
   {
-    "difficulty": "medium",
-    "category": "animals-nature",
-    "question": "Certain land snails can enter a dormant state to survive unfavorable conditions for up to how long?",
-    "options": [
-      "About three years",
-      "About three months",
-      "About three weeks",
-      "About three days"
-    ],
-    "answer": "About three years",
-    "id": "animals-nature-255"
-  },
-  {
     "difficulty": "easy",
     "category": "animals-nature",
     "question": "An ostrich's eye is famously larger than which of its organs?",
@@ -5735,19 +5514,6 @@
   {
     "difficulty": "medium",
     "category": "animals-nature",
-    "question": "The great horned owl is able to pinpoint prey in darkness partly because of what anatomical feature?",
-    "options": [
-      "Asymmetrical ear openings",
-      "A reflective third eyelid",
-      "Two pairs of eardrums",
-      "Heat-sensing feathers"
-    ],
-    "answer": "Asymmetrical ear openings",
-    "id": "animals-nature-293"
-  },
-  {
-    "difficulty": "medium",
-    "category": "animals-nature",
     "question": "The harpy eagle is one of the largest and most powerful eagles, found primarily in which habitat?",
     "options": [
       "Tropical rainforests of Central and South America",
@@ -6002,7 +5768,7 @@
       "About 100 years",
       "Over 250 years"
     ],
-    "answer": "Over 150 years",
+    "answer": "About 100 years",
     "id": "animals-nature-313"
   },
   {
@@ -6121,19 +5887,6 @@
     ],
     "answer": "The gaboon viper",
     "id": "animals-nature-322"
-  },
-  {
-    "difficulty": "medium",
-    "category": "animals-nature",
-    "question": "The reticulated python is generally considered the world's longest snake, while which snake is the heaviest?",
-    "options": [
-      "The green anaconda",
-      "The African rock python",
-      "The Burmese python",
-      "The reticulated python"
-    ],
-    "answer": "The green anaconda",
-    "id": "animals-nature-323"
   },
   {
     "difficulty": "medium",
@@ -7334,19 +7087,6 @@
   {
     "difficulty": "medium",
     "category": "animals-nature",
-    "question": "Which venomous snake holds the record for having the longest fangs in the world, reaching up to 2 inches?",
-    "options": [
-      "Reticulated python",
-      "Gaboon viper",
-      "Bushmaster",
-      "King cobra"
-    ],
-    "answer": "Gaboon viper",
-    "id": "animals-nature-420"
-  },
-  {
-    "difficulty": "medium",
-    "category": "animals-nature",
     "question": "Pit vipers possess loreal pits between their eyes and nostrils that allow them to detect what?",
     "options": [
       "Pheromones",
@@ -7722,19 +7462,6 @@
     "answer": "Guanine nanocrystals"
   },
   {
-    "id": "animals-nature-450",
-    "category": "animals-nature",
-    "difficulty": "medium",
-    "question": "In humpback whale bubble-net feeding, what cooperative technique does a group use?",
-    "options": [
-      "Blowing spiral curtains of bubbles to corral fish",
-      "Slapping tails to create shockwaves",
-      "Singing to paralyze prey",
-      "Diving to push prey onto shore"
-    ],
-    "answer": "Blowing spiral curtains of bubbles to corral fish"
-  },
-  {
     "id": "animals-nature-451",
     "category": "animals-nature",
     "difficulty": "medium",
@@ -8047,19 +7774,6 @@
     "answer": "Pitfall trap"
   },
   {
-    "id": "animals-nature-475",
-    "category": "animals-nature",
-    "difficulty": "medium",
-    "question": "Strangler figs begin life as what, high in the canopy of a host tree?",
-    "options": [
-      "Epiphytes",
-      "Parasitic roots in soil",
-      "Aquatic seedlings",
-      "Carnivorous sprouts"
-    ],
-    "answer": "Epiphytes"
-  },
-  {
     "id": "animals-nature-476",
     "category": "animals-nature",
     "difficulty": "medium",
@@ -8322,19 +8036,6 @@
   {
     "difficulty": "medium",
     "category": "animals-nature",
-    "question": "An elephant's trunk contains roughly how many individual muscles, giving it extreme dexterity?",
-    "options": [
-      "Around 4,000",
-      "Around 400,000",
-      "Around 40,000",
-      "Around 400"
-    ],
-    "answer": "Around 40,000",
-    "id": "animals-nature-496"
-  },
-  {
-    "difficulty": "medium",
-    "category": "animals-nature",
     "question": "Which great ape builds a fresh nest of bent branches and leaves to sleep in each night?",
     "options": [
       "Orangutan",
@@ -8398,19 +8099,6 @@
     "id": "animals-nature-501"
   },
   {
-    "difficulty": "medium",
-    "category": "animals-nature",
-    "question": "Homing pigeons navigate long distances in part by detecting what using magnetite in their beaks?",
-    "options": [
-      "Earth's magnetic field",
-      "Infrared radiation",
-      "Ultraviolet light",
-      "Barometric pressure"
-    ],
-    "answer": "Earth's magnetic field",
-    "id": "animals-nature-502"
-  },
-  {
     "difficulty": "hard",
     "category": "animals-nature",
     "question": "Which bird can drink seawater thanks to supraorbital salt glands that excrete excess salt?",
@@ -8461,19 +8149,6 @@
     ],
     "answer": "Membrane anchors it to mouth floor",
     "id": "animals-nature-506"
-  },
-  {
-    "difficulty": "medium",
-    "category": "animals-nature",
-    "question": "What is the primary evolved function of rapid color change in chameleons?",
-    "options": [
-      "Communication with other chameleons",
-      "Matching background perfectly",
-      "Warning bats",
-      "Absorbing more sunlight"
-    ],
-    "answer": "Communication with other chameleons",
-    "id": "animals-nature-507"
   },
   {
     "difficulty": "medium",
@@ -8760,19 +8435,6 @@
     ],
     "answer": "Aphids",
     "id": "animals-nature-529"
-  },
-  {
-    "difficulty": "medium",
-    "category": "animals-nature",
-    "question": "As of 2026, what is the world-record daily growth rate recognized by Guinness World Records for the fastest-growing bamboo species?",
-    "options": [
-      "Up to 15 cm per day",
-      "Up to 30 cm per day",
-      "Up to 200 cm per day",
-      "Up to 91 cm per day"
-    ],
-    "answer": "Up to 91 cm per day",
-    "id": "animals-nature-530"
   },
   {
     "difficulty": "easy",
@@ -9531,32 +9193,6 @@
   {
     "difficulty": "medium",
     "category": "animals-nature",
-    "question": "Which adaptation allows reindeer to see better during the long Arctic winter?",
-    "options": [
-      "Pupils become vertical slits in winter",
-      "Tapetum lucidum shifts from golden in summer to deep blue in winter",
-      "Lens grows twice as thick in winter",
-      "Retina detaches and regrows seasonally"
-    ],
-    "answer": "Tapetum lucidum shifts from golden in summer to deep blue in winter",
-    "id": "animals-nature-590"
-  },
-  {
-    "difficulty": "medium",
-    "category": "animals-nature",
-    "question": "What type of communication do bottlenose dolphins use that functions similarly to individual human names?",
-    "options": [
-      "Signature whistles unique to each individual",
-      "Infrasonic rumbles below hearing range",
-      "Tail slaps in distinct rhythms",
-      "Bioluminescent skin flashes"
-    ],
-    "answer": "Signature whistles unique to each individual",
-    "id": "animals-nature-591"
-  },
-  {
-    "difficulty": "medium",
-    "category": "animals-nature",
     "question": "How thick can the fire-resistant bark of a giant sequoia grow?",
     "options": [
       "Up to 2 feet thick",
@@ -9713,19 +9349,6 @@
   {
     "difficulty": "medium",
     "category": "animals-nature",
-    "question": "How do African elephants communicate over several kilometers with sounds below human hearing?",
-    "options": [
-      "Infrasonic rumbles around 14-35 Hz",
-      "Ultrasonic squeaks above 20 kHz",
-      "Ground vibrations from stomping only",
-      "Whistles through their trunk nostrils"
-    ],
-    "answer": "Infrasonic rumbles around 14-35 Hz",
-    "id": "animals-nature-604"
-  },
-  {
-    "difficulty": "medium",
-    "category": "animals-nature",
     "question": "What is musth in male elephants?",
     "options": [
       "A seasonal shedding of trunk skin",
@@ -9735,19 +9358,6 @@
     ],
     "answer": "A periodic state of highly elevated testosterone and aggression",
     "id": "animals-nature-605"
-  },
-  {
-    "difficulty": "medium",
-    "category": "animals-nature",
-    "question": "Which adaptation gives dolphins the ability to sleep with one eye open?",
-    "options": [
-      "Unihemispheric slow-wave sleep",
-      "They have transparent eyelids",
-      "They hold their breath consciously",
-      "They have two separate brains"
-    ],
-    "answer": "Unihemispheric slow-wave sleep",
-    "id": "animals-nature-606"
   },
   {
     "difficulty": "easy",
@@ -9871,12 +9481,12 @@
     "category": "animals-nature",
     "question": "Which primate has ischial callosities, thickened sitting pads, on its buttocks?",
     "options": [
-      "Macaque / Baboon",
+      "Baboon",
       "Orangutan",
       "Gorilla",
       "Chimpanzee"
     ],
-    "answer": "Macaque / Baboon",
+    "answer": "Baboon",
     "id": "animals-nature-616"
   },
   {
@@ -10155,19 +9765,6 @@
   {
     "difficulty": "medium",
     "category": "animals-nature",
-    "question": "Which flightless bird has hair-like feathers and nostrils at the tip of its beak to smell underground?",
-    "options": [
-      "Ostrich",
-      "Kiwi",
-      "Emu",
-      "Penguin"
-    ],
-    "answer": "Kiwi",
-    "id": "animals-nature-638"
-  },
-  {
-    "difficulty": "medium",
-    "category": "animals-nature",
     "question": "Which penguin species has males incubate a single egg on top of their feet under a brood pouch through winter?",
     "options": [
       "Emperor penguin",
@@ -10209,12 +9806,12 @@
     "category": "animals-nature",
     "question": "Which seabird forms long-term pair bonds and performs a sky-pointing courtship display?",
     "options": [
-      "Gannet / Booby",
+      "Gannet",
       "Crow",
       "Sparrow",
       "Pigeon"
     ],
-    "answer": "Gannet / Booby",
+    "answer": "Gannet",
     "id": "animals-nature-642"
   },
   {
@@ -10274,12 +9871,12 @@
     "category": "animals-nature",
     "question": "Which bird uses anting, rubbing ants on feathers to obtain formic acid for parasite control?",
     "options": [
-      "Many songbirds like crows and jays use anting",
+      "Crow",
       "Penguin",
       "Duck",
       "Goose"
     ],
-    "answer": "Many songbirds like crows and jays use anting",
+    "answer": "Crow",
     "id": "animals-nature-647"
   },
   {
@@ -10300,12 +9897,12 @@
     "category": "animals-nature",
     "question": "Which parrot has a highly mobile upper beak attached via cranial kinesis?",
     "options": [
-      "All parrots have cranial kinesis, especially macaws",
+      "Macaw",
       "Eagle",
       "Owl",
       "Penguin"
     ],
-    "answer": "All parrots have cranial kinesis, especially macaws",
+    "answer": "Macaw",
     "id": "animals-nature-649"
   },
   {
@@ -10365,12 +9962,12 @@
     "category": "animals-nature",
     "question": "Which bird uses UV-reflective plumage patches invisible to humans to signal mates?",
     "options": [
-      "Blue tit and many passerines have UV signals",
+      "Blue tit",
       "Ostrich",
       "Emu",
       "Kiwi"
     ],
-    "answer": "Blue tit and many passerines have UV signals",
+    "answer": "Blue tit",
     "id": "animals-nature-654"
   },
   {

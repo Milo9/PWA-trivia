@@ -365,11 +365,11 @@
         "general-2896",
         "general-2898"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-05",
+      "completedAt": "2026-08-05",
+      "issuesFound": 9,
+      "notes": "Cut 8 duplicates: octopus-three-hearts triplicate (general-1238/general-2881 cut, general-1965 kept), hummingbird-backward-flight triplicate (general-1545/animals-nature-037 cut, animals-nature-636 kept), murder-of-crows pair (general-1787 cut), okapi-giraffe pair (animals-nature-141 cut), flamingo-flamboyance pair (general-2882 cut), pangolin-keratin-scales pair (animals-nature-025 cut). Fixed 1 factual error: general-1284 claimed platypus is 'the only mammal' to lay eggs, but echidnas also do -- reworded to drop the false exclusivity claim."
     },
     {
       "chunkId": "animals-nature-p1-006",
@@ -426,11 +426,11 @@
         "animals-nature-086",
         "animals-nature-089"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-05",
+      "completedAt": "2026-08-05",
+      "issuesFound": 8,
+      "notes": "Cut 7 duplicates: blue-whale-tongue-vs-elephant pair (general-2904 cut, animals-nature-142 kept), snail-3-year-dormancy pair (general-2910 cut, animals-nature-105 kept), lobster-10-legs pair (animals-nature-056 cut, general-2911 kept), and a 5-way 'what is photosynthesis' cluster within this file (general-134/1533/1932 and animals-nature-065 cut, general-616 kept as most precise wording; general-1092 in science-technology.json left untouched as out of scope for this chunk). Fixed 1 stale record-holder claim: animals-nature-011 named humpback whale as longest-migrating mammal, but gray whale broke that record in 2015 (per Live Science/CNN/NBC coverage of the tracked whale Varvara) -- updated answer to gray whale. Verified rockhopper-vs-macaroni penguin question (animals-nature-031) is NOT a distractor bug -- red eyes specifically distinguish rockhopper from macaroni's darker eyes."
     },
     {
       "chunkId": "animals-nature-p1-007",
@@ -487,11 +487,11 @@
         "animals-nature-204",
         "animals-nature-205"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-05",
+      "completedAt": "2026-08-05",
+      "issuesFound": 0,
+      "notes": "Reviewed all 50 questions (hard/obscure-fact heavy chunk: naked mole rat cancer resistance, wood frog freezing, horseshoe crab blue blood, electric eel record voltage, tardigrade cold tolerance, coelacanth rediscovery, etc.). All answers and distractors checked against known research/memory -- no factual errors, distractor-correctness bugs, or duplicates found. The dung-beetle-Milky-Way same-answer flag against general-153/2234/space-astronomy-025 is coincidental shared-entity reuse (different facts about the same galaxy), not a duplicate."
     },
     {
       "chunkId": "animals-nature-p1-008",
@@ -548,11 +548,11 @@
         "animals-nature-289",
         "animals-nature-292"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-05",
+      "completedAt": "2026-08-05",
+      "issuesFound": 2,
+      "notes": "Cut 2 cross-chunk duplicates found via same-fact recognition (not caught by same-answer tool since answer text differs): general-2909 ('axolotl reaches adulthood without losing what juvenile feature' -> gills) duplicates animals-nature-245's near-identical stem ('axolotl reaches adulthood without undergoing what process' -> metamorphosis) -- kept animals-nature-245. animals-nature-255 ('land snails dormant state up to three years') is a third instance of the snail-3-year-dormancy chestnut already deduped in chunk 006 (animals-nature-105 kept there) -- cut animals-nature-255. Rest of chunk (48 questions, mostly obscure/hard nature facts: sequoia bark thickness, spider silk strength, torpedo ray voltage, box jellyfish eyes, monarch migration, etc.) checked against memory -- all correct, no other issues found."
     },
     {
       "chunkId": "animals-nature-p1-009",
@@ -609,11 +609,11 @@
         "animals-nature-371",
         "animals-nature-373"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-05",
+      "completedAt": "2026-08-05",
+      "issuesFound": 3,
+      "notes": "Fixed animals-nature-313 Galapagos tortoise lifespan (Over 150 years -> About 100 years, better matches commonly-cited figure vs exceptional-individual outliers); cut animals-nature-420 as duplicate of animals-nature-322 (both: gaboon viper longest fangs, ~2in); cut animals-nature-323 as duplicate of animals-nature-667 (heaviest snake = green anaconda) and premise-leak of animals-nature-668 (longest snake = reticulated python, stated as 323's premise)"
     },
     {
       "chunkId": "animals-nature-p1-010",
@@ -670,11 +670,11 @@
         "animals-nature-471",
         "animals-nature-472"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-05",
+      "completedAt": "2026-08-05",
+      "issuesFound": 1,
+      "notes": "Cut animals-nature-450 as duplicate of animals-nature-311 (both describe humpback whale bubble-net feeding as blowing spiral bubbles/curtains to corral fish) -- caught by manual read, not the same-answer auto-check, since the two full-sentence answers didn't textually match closely enough to trip it. Verified animals-nature-410 (Nile monitor raids alligator nests in Florida) and 463 (kleptocnidae) against web sources, both hold up."
     },
     {
       "chunkId": "animals-nature-p1-011",
@@ -731,11 +731,11 @@
         "animals-nature-564",
         "animals-nature-565"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-05",
+      "completedAt": "2026-08-06",
+      "issuesFound": 5,
+      "notes": "Cut 5 duplicates found by manual read (none tripped the same-answer auto-check): animals-nature-496 (dup of 426, elephant trunk ~40,000 muscles); animals-nature-507 (dup of 315, chameleon color change is for communication, not camouflage); animals-nature-475 (dup of 534, strangler fig begins as canopy epiphyte -- kept 534, better/more relevant distractors); animals-nature-530 (reversed-direction dup of 471, bamboo grows up to 91cm/day, Guinness record); animals-nature-502 (dup of 441, homing pigeons navigate via Earth's magnetic field -- also carried a now-contested magnetite-in-beak mechanism claim, so cut rather than reworded). Verified animals-nature-553 (bar-headed goose altitude) and 483/478/etc against outside knowledge, hold up."
     },
     {
       "chunkId": "animals-nature-p1-012",
@@ -792,11 +792,11 @@
         "animals-nature-657",
         "animals-nature-659"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-06",
+      "completedAt": "2026-08-06",
+      "issuesFound": 11,
+      "notes": "6 duplicate cuts + 5 answer-leak format fixes. Dupes (all same fact restated, missed by the same-answer auto-check): cut 590 (dup of 429, reindeer tapetum color shift), 591 (dup of 539, dolphin signature whistle=identity), 606 (dup of 493, dolphin unihemispheric sleep), 604 (dup of 433, elephant infrasound), 638 (dup of 444, kiwi nostrils-at-beak-tip); also cut animals-nature-293 from the already-completed p1-009 chunk as a cross-chunk dup of this chunk's 641 (both: owl asymmetrical ears locate prey in dark) -- kept 641 (barn owl), the more scientifically canonical example, over 293 (great horned owl, weaker sourcing). Answer-leak fixes (same option-length/format pattern documented in CLAUDE.md, correct answer written as a long descriptive phrase next to short one-word distractors): trimmed 616 'Macaque / Baboon'->'Baboon', 642 'Gannet / Booby'->'Gannet', 647 'Many songbirds like crows and jays use anting'->'Crow', 649 'All parrots have cranial kinesis, especially macaws'->'Macaw', 654 'Blue tit and many passerines have UV signals'->'Blue tit' -- all remain factually correct, now matching distractor brevity."
     },
     {
       "chunkId": "animals-nature-p1-013",
