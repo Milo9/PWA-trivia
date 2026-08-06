@@ -25,6 +25,7 @@
 
 const fs = require("fs");
 const path = require("path");
+const { normalizeAnswer, MIN_ANSWER_DUPLICATE_LENGTH } = require("./validate.js");
 
 const ROOT = path.join(__dirname, "..");
 const DATA_DIR = path.join(ROOT, "data");
@@ -40,6 +41,10 @@ const DEFAULT_CHUNK_SIZE = 50;
 // that gets interrupted partway through still covered the highest-risk
 // material first.
 const DIFFICULTY_RANK = { hard: 0, medium: 1, easy: 2 };
+// Cap on how many same-answer corpus hits to print per question — protects
+// against a handful of genuinely generic answers (colors, round numbers)
+// flooding a chunk's output if the length floor alone doesn't filter them.
+const MAX_ANSWER_MATCHES_SHOWN = 5;
 
 function todayIso() {
   const d = new Date();
@@ -215,6 +220,51 @@ function formatQuestionLine(q) {
   return `${q.id} [${q.difficulty}] Q: ${q.question}  OPTIONS: ${opts}`;
 }
 
+// Whole-corpus index keyed by normalized answer, no group-size cap and no
+// text-overlap floor — deliberately looser than validate.js's own same-answer
+// check (MAX_ANSWER_GROUP_SIZE / SAME_ANSWER_MIN_OVERLAP), which is calibrated
+// to suppress noise across the WHOLE corpus and, as a documented side effect,
+// silently misses real duplicates once phrasing differs enough (confirmed
+// 2026-08-05: a real duplicate pair — "general-2907"/"animals-nature-163",
+// both answering "A .22 caliber bullet" for the same mantis-shrimp-punch fact
+// — scored only 0.22 question-text overlap, well under validate.js's 0.55
+// floor, so it was never flagged there). check-draft.js's --full-answer-audit
+// already takes this looser no-cap/no-floor approach for drafts; this mirrors
+// it for already-shipped content during an audit chunk. Still answer-text
+// matching only — it catches "identical answer, different phrasing" but NOT
+// reversed-direction or semantically-same-fact-different-wording duplicates
+// (e.g. "Radial sesamoid" vs "An enlarged wrist bone") — those need the
+// reviewing session's own judgment, same as always.
+function buildGlobalAnswerIndex() {
+  const categories = loadCategories();
+  const index = new Map();
+  for (const cat of categories) {
+    for (const q of loadCategoryQuestions(cat)) {
+      if (typeof q.answer !== "string") continue;
+      const key = normalizeAnswer(q.answer);
+      if (!key || key.length < MIN_ANSWER_DUPLICATE_LENGTH) continue;
+      if (!index.has(key)) index.set(key, []);
+      index.get(key).push(q);
+    }
+  }
+  return index;
+}
+
+function printAnswerMatches(q, answerIndex) {
+  if (!q || typeof q.answer !== "string") return;
+  const key = normalizeAnswer(q.answer);
+  if (!key || key.length < MIN_ANSWER_DUPLICATE_LENGTH) return;
+  const group = (answerIndex.get(key) || []).filter((other) => other.id !== q.id);
+  if (group.length === 0) return;
+  const shown = group.slice(0, MAX_ANSWER_MATCHES_SHOWN);
+  for (const other of shown) {
+    console.log(`    ^ same answer also used by ${other.id}: "${other.question}"`);
+  }
+  if (group.length > shown.length) {
+    console.log(`    ^ ...and ${group.length - shown.length} more with the same answer (likely a generic/common one).`);
+  }
+}
+
 function cmdNext(flags) {
   const progress = loadProgress();
   if (!progress) {
@@ -247,6 +297,7 @@ function cmdNext(flags) {
   const picked = candidates.slice(0, n);
   const categories = loadCategories();
   const questionsByCategory = new Map();
+  const answerIndex = buildGlobalAnswerIndex();
 
   for (const chunk of picked) {
     chunk.status = "in-progress";
@@ -262,9 +313,11 @@ function cmdNext(flags) {
     console.log(`\n=== ${chunk.chunkId} (category: ${chunk.category}, ${chunk.ids.length} questions) ===`);
     let missing = 0;
     for (const id of chunk.ids) {
-      const line = formatQuestionLine(byId.get(id));
+      const q = byId.get(id);
+      const line = formatQuestionLine(q);
       if (line) {
         console.log(line);
+        printAnswerMatches(q, answerIndex);
       } else {
         missing++;
       }

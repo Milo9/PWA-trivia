@@ -121,11 +121,11 @@
         "animals-nature-203",
         "animals-nature-210"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-05",
+      "completedAt": "2026-08-05",
+      "issuesFound": 6,
+      "notes": "Cut 6 cross-chunk/cross-category duplicates of viral animal-fact chestnuts that dodged validate.js's same-answer check (reversed-direction or too-generic-answer): animals-nature-097 (dup of general-2903, immortal jellyfish life stage), animals-nature-110 (dup of animals-nature-027, panda pseudothumb bone), animals-nature-118 (dup of general-2877, beaver teeth iron/orange, reversed direction), animals-nature-130 (dup of general-2905, aye-aye tapping), animals-nature-163 (dup of general-2907, mantis shrimp .22 bullet, near word-for-word), general-2874 (dup of food-drink-185, castoreum historical use, reversed direction). Verified via WebSearch: crocodile 8000-teeth lifetime claim and reindeer-lichen-antifreeze claim both check out, no fix needed."
     },
     {
       "chunkId": "animals-nature-p1-002",
@@ -182,8 +182,8 @@
         "animals-nature-368",
         "animals-nature-370"
       ],
-      "status": "pending",
-      "startedAt": null,
+      "status": "in-progress",
+      "startedAt": "2026-08-05",
       "completedAt": null,
       "issuesFound": null,
       "notes": null

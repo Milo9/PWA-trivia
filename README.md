@@ -246,9 +246,14 @@ To actually review a chunk: read every question `next` prints (each line
 is `id [difficulty] Q: … OPTIONS: A:… | B:… | C:… | D:…` with `*` marking
 the stored answer) against the checklist in CLAUDE.md's "Factual-error
 patterns worth verifying" section — same checks used when vetting a new
-draft, just applied to content already in `data/`. Use judgment/memory
-first; reach for `WebSearch` only for genuinely uncertain or
-hard-difficulty specific claims, not every line. Fix anything wrong
+draft, just applied to content already in `data/`. `next` also prints a
+`^ same answer also used by <id>: "…"` line under any question whose
+exact answer text also appears elsewhere in the corpus (no threshold —
+treat every hit as a lead to check, not a verdict; see CLAUDE.md for why
+it's deliberately looser than `validate.js`'s own same-answer check, and
+for what it can't catch). Use judgment/memory first; reach for
+`WebSearch` only for genuinely uncertain or hard-difficulty specific
+claims, not every line. Fix anything wrong
 directly in `data/questions/<category>.json`, run `npm run validate`,
 then call `audit.js complete` for that chunk and move on to the next one
 — **`ship` only once at the end of the session**, after however many

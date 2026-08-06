@@ -379,6 +379,52 @@ chunk:
   didn't go through `check-draft.js`) answer-leak and duplicate checks
   too — a chunk can surface things a pre-merge check would have caught
   if the batch predates that check being added.
+- **`next` auto-prints same-answer corpus matches under each question**
+  (`^ same answer also used by <id>: "…"`) — a whole-corpus, no-cap,
+  no-overlap-floor answer-text index (mirrors `check-draft.js`'s
+  `--full-answer-audit`, deliberately looser than `validate.js`'s own
+  same-answer check, which is calibrated to suppress noise and — as a
+  documented tradeoff — misses real duplicates once phrasing differs
+  enough; confirmed 2026-08-05 on a real pair, "general-2907"/
+  "animals-nature-163", both answering "A .22 caliber bullet" for the
+  same mantis-shrimp fact, that scored only 0.22 question-text overlap
+  against a 0.55 floor). Treat every line it prints as a lead to check,
+  not an automatic verdict — most will be coincidental reuse of a common
+  answer (a country, a number), and it only catches *identical* answer
+  text, not a reversed-direction or same-fact-different-wording
+  duplicate (e.g. "Radial sesamoid" vs "An enlarged wrist bone" for the
+  same panda pseudothumb fact) — those still need your own judgment,
+  same as always.
+- **When you confirm a duplicate, grep the whole corpus for the shared
+  distinctive term/entity before fixing, not just the pair you found.**
+  `validate.js`'s own same-answer check caps out at group size 2 and
+  skips anything bigger — a specific answer independently drafted 3+
+  times is invisible to every automated check, including the one above
+  (its per-question loop still only ever compares one question at a
+  time against the rest of the corpus, so it won't itself notice that
+  two of its own hits are ALSO duplicates of each other). Confirmed
+  2026-08-05: an incidental match while reviewing an unrelated question
+  turned up three separate near-identical "first country to grant women
+  the right to vote" questions (`general-061`, `general-1883`,
+  `history-056`), all answering "New Zealand" — a real triplicate that
+  had been sitting undetected. A plain grep for the shared term across
+  every category file is cheap (no LLM reasoning needed) and catches
+  this class of gap directly.
+- **Convergent-duplicate chestnuts aren't just a drafting-time risk
+  (see "External-agent drafting" above) — they show up between chunks
+  of the SAME already-shipped category too**, when two different
+  drafting sessions independently reached for the same viral/listicle
+  fact. `animals-nature` hit this hard in pass 1: "immortal jellyfish
+  reverts to a polyp," "aye-aye taps wood to find grubs," "panda's
+  pseudothumb is an enlarged wrist bone," "mantis shrimp punch ≈ a .22
+  bullet," and "beaver teeth are orange from iron" each showed up twice,
+  usually in reversed direction (cause↔effect) or with different
+  specificity, which is exactly what dodges both `validate.js`'s
+  same-answer check and the near-duplicate text check. Categories built
+  from "surprising/hard fact" style drafting (nature, science, space)
+  are the likeliest place to hit this again — extra vigilance there,
+  specifically for whether a question's core *fact* (not just its
+  wording) rings a bell from an earlier chunk in the same category.
 - Default to judgment/memory; reach for `WebSearch` only for genuinely
   uncertain or hard-difficulty specific claims. Verifying all ~14,000
   questions via search would be prohibitively expensive and isn't the
