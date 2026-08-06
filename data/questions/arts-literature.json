@@ -325,19 +325,6 @@
     "answer": "Cubism"
   },
   {
-    "id": "general-490",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Which ancient Greek playwright wrote the tragedy 'Oedipus Rex'?",
-    "options": [
-      "Euripides",
-      "Sophocles",
-      "Aeschylus",
-      "Aristophanes"
-    ],
-    "answer": "Sophocles"
-  },
-  {
     "id": "general-668",
     "category": "arts-literature",
     "difficulty": "easy",
@@ -1820,19 +1807,6 @@
     "answer": "The Louvre"
   },
   {
-    "id": "general-2126",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Which artist is known for the abstract 'drip painting' technique, as seen in works like 'No. 5, 1948'?",
-    "options": [
-      "Jackson Pollock",
-      "Willem de Kooning",
-      "Mark Rothko",
-      "Franz Kline"
-    ],
-    "answer": "Jackson Pollock"
-  },
-  {
     "id": "general-2128",
     "category": "arts-literature",
     "difficulty": "easy",
@@ -1961,19 +1935,6 @@
       "Eyeless in Gaza"
     ],
     "answer": "Brave New World"
-  },
-  {
-    "id": "general-2250",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Which author wrote 'Beloved' and 'Song of Solomon'?",
-    "options": [
-      "Toni Morrison",
-      "Alice Walker",
-      "Maya Angelou",
-      "Zora Neale Hurston"
-    ],
-    "answer": "Toni Morrison"
   },
   {
     "id": "general-2292",
@@ -3952,19 +3913,6 @@
     "answer": "Styx"
   },
   {
-    "id": "arts-literature-131",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who wrote 'Metamorphoses'?",
-    "options": [
-      "Virgil",
-      "Homer",
-      "Catullus",
-      "Ovid"
-    ],
-    "answer": "Ovid"
-  },
-  {
     "id": "arts-literature-133",
     "category": "arts-literature",
     "difficulty": "hard",
@@ -4067,19 +4015,6 @@
       "Ivan Klíma"
     ],
     "answer": "Milan Kundera"
-  },
-  {
-    "id": "arts-literature-143",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who wrote 'The Name of the Rose'?",
-    "options": [
-      "Italo Calvino",
-      "Umberto Eco",
-      "Primo Levi",
-      "Elsa Morante"
-    ],
-    "answer": "Umberto Eco"
   },
   {
     "id": "arts-literature-144",
@@ -4459,19 +4394,6 @@
     "answer": "Edward Hopper"
   },
   {
-    "id": "arts-literature-174",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who painted 'The Treachery of Images' (This is not a pipe)?",
-    "options": [
-      "Salvador Dalí",
-      "Pablo Picasso",
-      "Joan Miró",
-      "René Magritte"
-    ],
-    "answer": "René Magritte"
-  },
-  {
     "id": "arts-literature-175",
     "category": "arts-literature",
     "difficulty": "medium",
@@ -4743,19 +4665,6 @@
       "Père Goriot"
     ],
     "answer": "The Red and the Black"
-  },
-  {
-    "id": "arts-literature-197",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Which French author wrote the scandalous 1856 novel \"Madame Bovary\"?",
-    "options": [
-      "Gustave Flaubert",
-      "Guy de Maupassant",
-      "Stendhal",
-      "Émile Zola"
-    ],
-    "answer": "Gustave Flaubert"
   },
   {
     "id": "arts-literature-198",
@@ -5185,19 +5094,6 @@
       "The Prince"
     ],
     "answer": "The Prince"
-  },
-  {
-    "id": "arts-literature-232",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Which 1516 book by Sir Thomas More coined a word for an idealized, imaginary island society, which later became a generic term for any perfect world?",
-    "options": [
-      "Arcadia",
-      "Elysium",
-      "Utopia",
-      "Atlantis"
-    ],
-    "answer": "Utopia"
   },
   {
     "id": "arts-literature-233",
@@ -5785,19 +5681,6 @@
     "answer": "Seven"
   },
   {
-    "id": "arts-literature-280",
-    "difficulty": "easy",
-    "category": "arts-literature",
-    "question": "In Hemingway's \"The Old Man and the Sea,\" what kind of fish does Santiago battle for days?",
-    "options": [
-      "A marlin",
-      "A great white shark",
-      "A bluefin tuna",
-      "A swordfish"
-    ],
-    "answer": "A marlin"
-  },
-  {
     "id": "arts-literature-281",
     "difficulty": "medium",
     "category": "arts-literature",
@@ -5887,19 +5770,6 @@
       "November 11, 1918"
     ],
     "answer": "June 16, 1904"
-  },
-  {
-    "id": "arts-literature-288",
-    "difficulty": "medium",
-    "category": "arts-literature",
-    "question": "Virginia Woolf's \"Mrs Dalloway\" takes place over how much narrative time?",
-    "options": [
-      "A single day",
-      "A single weekend",
-      "A single year",
-      "A single week"
-    ],
-    "answer": "A single day"
   },
   {
     "id": "arts-literature-289",
@@ -6032,19 +5902,6 @@
     "answer": "Butler"
   },
   {
-    "id": "arts-literature-299",
-    "difficulty": "medium",
-    "category": "arts-literature",
-    "question": "Chinua Achebe's \"Things Fall Apart\" is set in which society in the late 19th century?",
-    "options": [
-      "Igbo society in Nigeria",
-      "Zulu society in South Africa",
-      "Asante society in Ghana",
-      "Kikuyu society in Kenya"
-    ],
-    "answer": "Igbo society in Nigeria"
-  },
-  {
     "id": "arts-literature-300",
     "difficulty": "medium",
     "category": "arts-literature",
@@ -6126,7 +5983,7 @@
     "id": "arts-literature-306",
     "difficulty": "medium",
     "category": "arts-literature",
-    "question": "Maxine Hong Kingston's 1976 memoir-novel blending Chinese folktales with autobiography is titled:",
+    "question": "What is the title of Maxine Hong Kingston's 1976 memoir-novel blending Chinese folktales with autobiography?",
     "options": [
       "The Woman Warrior",
       "Tripmaster Monkey",
@@ -6178,7 +6035,7 @@
     "id": "arts-literature-310",
     "difficulty": "medium",
     "category": "arts-literature",
-    "question": "Italo Calvino's novel in which Marco Polo describes fantastical cities to Kublai Khan is titled:",
+    "question": "What is the title of Italo Calvino's novel in which Marco Polo describes fantastical cities to Kublai Khan?",
     "options": [
       "Invisible Cities",
       "If on a winter's night a traveler",
@@ -6217,7 +6074,7 @@
     "id": "arts-literature-313",
     "difficulty": "medium",
     "category": "arts-literature",
-    "question": "Isabel Allende's debut novel, tracing the Trueba family across generations of Chilean history, is titled:",
+    "question": "What is the title of Isabel Allende's debut novel, which traces the Trueba family across generations of Chilean history?",
     "options": [
       "The House of the Spirits",
       "Of Love and Shadows",
@@ -6230,7 +6087,7 @@
     "id": "arts-literature-314",
     "difficulty": "medium",
     "category": "arts-literature",
-    "question": "J.M. Coetzee's Booker Prize-winning novel about a disgraced professor in post-apartheid South Africa is titled:",
+    "question": "What is the title of J.M. Coetzee's Booker Prize-winning novel about a disgraced professor in post-apartheid South Africa?",
     "options": [
       "Disgrace",
       "Waiting for the Barbarians",
@@ -6251,19 +6108,6 @@
       "The New Life"
     ],
     "answer": "My Name is Red"
-  },
-  {
-    "id": "arts-literature-316",
-    "difficulty": "medium",
-    "category": "arts-literature",
-    "question": "The opening line of Tolstoy's \"Anna Karenina\" reads: \"All happy families are alike; each unhappy family is...\"",
-    "options": [
-      "unhappy in its own way",
-      "destroyed by pride",
-      "haunted by secrets",
-      "broken at the seams"
-    ],
-    "answer": "unhappy in its own way"
   },
   {
     "id": "arts-literature-317",
@@ -6630,32 +6474,6 @@
     "answer": "Judith Slaying Holofernes"
   },
   {
-    "id": "arts-literature-345",
-    "difficulty": "medium",
-    "category": "arts-literature",
-    "question": "Francisco Goya's late mural, painted directly on the wall of his home, depicts a mythological titan devouring his child. What is its title?",
-    "options": [
-      "Saturn Devouring His Son",
-      "Cronus Eating His Children",
-      "The Cannibal God",
-      "Saturn and Jupiter"
-    ],
-    "answer": "Saturn Devouring His Son"
-  },
-  {
-    "id": "arts-literature-346",
-    "difficulty": "medium",
-    "category": "arts-literature",
-    "question": "John Constable's 1821 landscape of a horse-drawn wagon in the River Stour is titled:",
-    "options": [
-      "The Hay Wain",
-      "The White Horse",
-      "The Leaping Horse",
-      "Flatford Mill"
-    ],
-    "answer": "The Hay Wain"
-  },
-  {
     "id": "arts-literature-347",
     "difficulty": "easy",
     "category": "arts-literature",
@@ -6672,7 +6490,7 @@
     "id": "arts-literature-348",
     "difficulty": "medium",
     "category": "arts-literature",
-    "question": "Paul Cézanne's series of paintings depicting Provençal peasants smoking and playing cards is titled:",
+    "question": "What is the title of Paul Cézanne's series of paintings depicting Provençal peasants smoking and playing cards?",
     "options": [
       "The Card Players",
       "The Peasant Dance",
@@ -6698,7 +6516,7 @@
     "id": "arts-literature-350",
     "difficulty": "medium",
     "category": "arts-literature",
-    "question": "René Magritte's painting of a smoker's pipe inscribed \"Ceci n'est pas une pipe\" is titled:",
+    "question": "What is the title of René Magritte's painting of a smoker's pipe inscribed \"Ceci n'est pas une pipe\"?",
     "options": [
       "The Treachery of Images",
       "The Human Condition",
@@ -6724,7 +6542,7 @@
     "id": "arts-literature-352",
     "difficulty": "medium",
     "category": "arts-literature",
-    "question": "Mark Rothko is best known for paintings consisting of soft-edged rectangles of color, a style often called:",
+    "question": "What is the name of the style Mark Rothko is best known for, consisting of paintings with soft-edged rectangles of color?",
     "options": [
       "Color field painting",
       "Hard-edge painting",
@@ -6737,7 +6555,7 @@
     "id": "arts-literature-353",
     "difficulty": "medium",
     "category": "arts-literature",
-    "question": "Roy Lichtenstein's large 1963 diptych of a fighter jet being shot down is titled:",
+    "question": "What is the title of Roy Lichtenstein's large 1963 diptych of a fighter jet being shot down?",
     "options": [
       "Whaam!",
       "Torpedo...Los!",
@@ -6776,7 +6594,7 @@
     "id": "arts-literature-356",
     "difficulty": "medium",
     "category": "arts-literature",
-    "question": "Anish Kapoor's mirrored outdoor sculpture in Chicago's Millennium Park is popularly known as:",
+    "question": "What is Anish Kapoor's mirrored outdoor sculpture in Chicago's Millennium Park popularly known as?",
     "options": [
       "Cloud Gate",
       "The Bean",
@@ -6802,7 +6620,7 @@
     "id": "arts-literature-358",
     "difficulty": "medium",
     "category": "arts-literature",
-    "question": "Gian Lorenzo Bernini's marble sculpture depicting the moment a nymph transforms into a tree to escape Apollo is titled:",
+    "question": "What is the title of Gian Lorenzo Bernini's marble sculpture depicting the moment a nymph transforms into a tree to escape Apollo?",
     "options": [
       "Apollo and Daphne",
       "The Rape of Proserpina",
@@ -7044,19 +6862,6 @@
     ],
     "answer": "Love in the Time of Cholera",
     "id": "arts-literature-377"
-  },
-  {
-    "difficulty": "medium",
-    "category": "arts-literature",
-    "question": "Over what span of time do the events of James Joyce's \"Ulysses\" take place?",
-    "options": [
-      "Three days",
-      "One day",
-      "One week",
-      "One year"
-    ],
-    "answer": "One day",
-    "id": "arts-literature-378"
   },
   {
     "difficulty": "hard",
@@ -7551,19 +7356,6 @@
     ],
     "answer": "Caspar David Friedrich",
     "id": "arts-literature-419"
-  },
-  {
-    "difficulty": "easy",
-    "category": "arts-literature",
-    "question": "In Shakespeare's \"The Tempest,\" what is the name of the sorcerer who was the rightful Duke of Milan before being exiled to an island?",
-    "options": [
-      "Antonio",
-      "Alonso",
-      "Sebastian",
-      "Prospero"
-    ],
-    "answer": "Prospero",
-    "id": "arts-literature-420"
   },
   {
     "difficulty": "medium",
@@ -8190,19 +7982,6 @@
     "id": "arts-literature-469"
   },
   {
-    "difficulty": "easy",
-    "category": "arts-literature",
-    "question": "Which Alice Walker novel is written as a series of letters from the protagonist Celie to God and her sister Nettie?",
-    "options": [
-      "The Color Purple",
-      "Meridian",
-      "The Temple of My Familiar",
-      "Possessing the Secret of Joy"
-    ],
-    "answer": "The Color Purple",
-    "id": "arts-literature-470"
-  },
-  {
     "difficulty": "medium",
     "category": "arts-literature",
     "question": "Which Salman Rushdie novel won the Booker Prize in 1981 and follows children born at the exact moment of India's independence?",
@@ -8827,19 +8606,6 @@
     "id": "arts-literature-518"
   },
   {
-    "difficulty": "medium",
-    "category": "arts-literature",
-    "question": "Which Tom Stoppard tragicomedy focuses on two minor characters from Shakespeare's 'Hamlet' who are largely unaware of the broader context of the play?",
-    "options": [
-      "Rosencrantz and Guildenstern Are Dead",
-      "The Real Thing",
-      "Arcadia",
-      "Jumpers"
-    ],
-    "answer": "Rosencrantz and Guildenstern Are Dead",
-    "id": "arts-literature-519"
-  },
-  {
     "difficulty": "hard",
     "category": "arts-literature",
     "question": "Which Tom Stoppard play intertwines the lives of 19th-century intellectuals, including Lord Byron, with those of modern-day academics in an English country estate?",
@@ -8864,19 +8630,6 @@
     ],
     "answer": "Angels in America",
     "id": "arts-literature-521"
-  },
-  {
-    "difficulty": "medium",
-    "category": "arts-literature",
-    "question": "Which August Wilson play, part of his Pittsburgh Cycle, follows former baseball player Troy Maxson as he struggles with his past and his relationship with his son?",
-    "options": [
-      "Fences",
-      "The Piano Lesson",
-      "Ma Rainey's Black Bottom",
-      "Joe Turner's Come and Gone"
-    ],
-    "answer": "Fences",
-    "id": "arts-literature-522"
   },
   {
     "difficulty": "medium",
@@ -8929,19 +8682,6 @@
     ],
     "answer": "The Son of Man",
     "id": "arts-literature-526"
-  },
-  {
-    "difficulty": "medium",
-    "category": "arts-literature",
-    "question": "Which René Magritte painting features a realistic depiction of a pipe accompanied by the text 'Ceci n'est pas une pipe' (This is not a pipe)?",
-    "options": [
-      "The Treachery of Images",
-      "The Human Condition",
-      "The Empire of Light",
-      "Time Transfixed"
-    ],
-    "answer": "The Treachery of Images",
-    "id": "arts-literature-527"
   },
   {
     "difficulty": "hard",
@@ -9085,32 +8825,6 @@
     ],
     "answer": "Funeral Blues",
     "id": "arts-literature-541"
-  },
-  {
-    "difficulty": "medium",
-    "category": "arts-literature",
-    "question": "Which Emily Dickinson poem personifies mortality as a gentleman caller who takes the speaker on a carriage ride toward eternity?",
-    "options": [
-      "I heard a Fly buzz - when I died",
-      "Because I could not stop for Death",
-      "I felt a Funeral, in my Brain",
-      "This is my letter to the World"
-    ],
-    "answer": "Because I could not stop for Death",
-    "id": "arts-literature-542"
-  },
-  {
-    "difficulty": "easy",
-    "category": "arts-literature",
-    "question": "Which Percy Bysshe Shelley sonnet describes the ruined, colossal statue of an arrogant ancient king in the desert?",
-    "options": [
-      "Ozymandias",
-      "Ode to the West Wind",
-      "To a Skylark",
-      "Mont Blanc"
-    ],
-    "answer": "Ozymandias",
-    "id": "arts-literature-543"
   },
   {
     "id": "arts-literature-545",

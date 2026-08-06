@@ -1760,11 +1760,11 @@
         "arts-literature-191",
         "arts-literature-193"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-06",
+      "completedAt": "2026-08-06",
+      "issuesFound": 1,
+      "notes": "Cut 1 confirmed duplicate: arts-literature-143 (Who wrote The Name of the Rose) same fact as arts-literature-463 with more descriptive stem, kept 463. All other same-answer flags were different works/facts about the same figure, not duplicates. No factual errors found; all distractors checked."
     },
     {
       "chunkId": "arts-literature-p1-010",
@@ -1821,11 +1821,11 @@
         "arts-literature-299",
         "arts-literature-300"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-06",
+      "completedAt": "2026-08-06",
+      "issuesFound": 10,
+      "notes": "Cut 10 confirmed same-fact-reworded duplicates (unusually high count, this batch had many convergent redrafts): Madame Bovary (197/kept 451), Color Purple (470/kept 205), Old Man and the Sea marlin (280/kept 208), Utopia (232/kept 500), Ozymandias (543/kept 238), Rosencrantz and Guildenstern (519/kept 242), Fences/Troy Maxson (522/kept 245), Because I could not stop for Death (542/kept 248), Tempest/Prospero (420/kept 271), and a reversed-direction pair on Mrs Dalloway's single-day timespan (288/kept 209). All other same-answer flags were different works/facts. No factual errors found; all distractors checked."
     },
     {
       "chunkId": "arts-literature-p1-011",
@@ -1882,11 +1882,11 @@
         "arts-literature-400",
         "arts-literature-401"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-06",
+      "completedAt": "2026-08-06",
+      "issuesFound": 17,
+      "notes": "Cut 6 confirmed duplicates: Anna Karenina opening line (316, fill-in-blank format, dup of 365), Magritte pipe painting triplicate (174 + 527 cut, kept 350 as the reversed-direction survivor), Saturn Devouring His Son reversed-direction pair (345/kept 401), Beloved authorship (general-2250/kept 370), Ulysses one-day span (378, premise already revealed by 210's Bloomsday stem). Also fixed a systemic format issue: 11 questions in this chunk ended with a colon instead of '?' (306,310,313,314,346,348,350,352,353,356,358) — reformatted to direct interrogatives per corpus style rule, content unchanged. All other same-answer flags were different works/facts about the same figure. No factual errors found; all distractors checked."
     },
     {
       "chunkId": "arts-literature-p1-012",
@@ -1943,11 +1943,11 @@
         "arts-literature-507",
         "arts-literature-509"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-06",
+      "completedAt": "2026-08-06",
+      "issuesFound": 6,
+      "notes": "Cut 6 confirmed duplicates, including 3 that reached back into earlier already-completed chunks (same-fact reworded, not caught at the time since the answer text or phrasing direction differed): Oedipus Rex authorship (general-490/kept 412), Hay Wain reversed-direction pair (346 from p1-011/kept 422), drip painting technique (general-2126/kept 452), Wizard of Oz silver slippers cross-category dup with film-tv-137/kept arts-literature-458, Things Fall Apart Igbo-Nigeria reversed-direction pair (299 from p1-010/kept 473), Metamorphoses/Ovid (131 from p1-009/kept 507). Considered but did NOT cut: Lolita (407) vs 703 (different specific clues, not same fact), Midnight's Children (471) vs 203 (different awards referenced, not same fact), Do Androids Dream (487) vs film-tv general-2955 Blade Runner (different retrieval target: novel plot detail vs film-adaptation trivia). No factual errors found; all distractors checked."
     },
     {
       "chunkId": "arts-literature-p1-013",
