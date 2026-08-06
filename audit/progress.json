@@ -1516,11 +1516,11 @@
         "general-945",
         "general-952"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-06",
+      "completedAt": "2026-08-06",
+      "issuesFound": 14,
+      "notes": "Fixed hallucinated fact claims (Strappo mistranslated as 'uncovering' instead of 'tear'; Rosa Bonheur Horse Fair scandal misattributed to painting's subject clothing instead of Bonheur's own cross-dressing permit); cut arts-literature-686 (Bierstadt painting: wrong museum/date, unconfirmed river) and arts-literature-687 (Mousetrap/Murder of Gonzago self-contradicting stem) as unfixable; cut 10 confirmed same-fact-reworded duplicates found via corpus grep (Van Gogh Starry Night x2, Van Gogh ear-cutting x1, Michelangelo's David x2, Picasso/Braque Cubism x1, Mona Lisa x1, Dracula x1, The Scream x2)"
     },
     {
       "chunkId": "arts-literature-p1-006",
@@ -1577,11 +1577,11 @@
         "general-1650",
         "general-1980"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-06",
+      "completedAt": "2026-08-06",
+      "issuesFound": 24,
+      "notes": "Cut 24 confirmed same-fact-reworded duplicates found via corpus grep across the legacy general-split entries: Don Quixote authorship x2, 1984 Big Brother x1, Hamlet authorship x1, Macbeth identification x2, Sun Also Rises x1, Old Man and the Sea x1, The Crucible x1, Midsummer Night's Dream/Puck x1, Clockwork Orange x1, Night Watch x2, Impressionism/Monet x2, Warhol Soup Cans x1, The Raven authorship x2, Water Lilies/Giverny x3, Canterbury Tales x2, Persistence of Memory x1 — all no-issue on the surviving question, no factual errors found in remainder of chunk"
     },
     {
       "chunkId": "arts-literature-p1-007",
@@ -1638,11 +1638,11 @@
         "arts-literature-012",
         "arts-literature-013"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-06",
+      "completedAt": "2026-08-06",
+      "issuesFound": 6,
+      "notes": "Cut 6 confirmed same-fact-reworded duplicates: Beloved/Pulitzer x1 (kept arts-literature-370 over general-2010), Tale of Two Cities opening line x1 (kept general-2012 over arts-literature-399), 1984 authorship x3 (kept general-487 over general-205/general-2246/arts-literature-024), and an exact-duplicate Churchill/WWII PM question found in history.json (general-1036, kept general-013). No factual errors found; most same-answer chains in this chunk were legitimately distinct facts about prolific authors (Melville, Dickens, Austen, Tolstoy, etc.) and left alone."
     },
     {
       "chunkId": "arts-literature-p1-008",
@@ -1699,11 +1699,11 @@
         "arts-literature-112",
         "arts-literature-114"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-06",
+      "completedAt": "2026-08-06",
+      "issuesFound": 0,
+      "notes": "Clean chunk — reviewed all 46 present questions plus 3 wrong-option checks each; verified the one uncertain hard-literature claim (Uriel as regent of the sun standing guard over Eden in Paradise Lost) via web search, confirmed accurate. Same-answer chains were either generic country/entity reuse (France, Michelangelo, etc.) or legitimately distinct facts. No fixes needed."
     },
     {
       "chunkId": "arts-literature-p1-009",

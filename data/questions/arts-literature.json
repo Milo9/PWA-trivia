@@ -52,19 +52,6 @@
     "answer": "J.K. Rowling"
   },
   {
-    "id": "general-205",
-    "category": "arts-literature",
-    "difficulty": "easy",
-    "question": "Who wrote the dystopian novel \"1984\"?",
-    "options": [
-      "George Orwell",
-      "Aldous Huxley",
-      "Ray Bradbury",
-      "Kurt Vonnegut"
-    ],
-    "answer": "George Orwell"
-  },
-  {
     "id": "general-207",
     "category": "arts-literature",
     "difficulty": "easy",
@@ -141,19 +128,6 @@
       "Ambrose Bierce"
     ],
     "answer": "Samuel Clemens"
-  },
-  {
-    "id": "general-215",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who wrote \"The Canterbury Tales\"?",
-    "options": [
-      "John Milton",
-      "Edmund Spenser",
-      "Geoffrey Chaucer",
-      "Thomas Malory"
-    ],
-    "answer": "Geoffrey Chaucer"
   },
   {
     "id": "general-217",
@@ -260,19 +234,6 @@
     "answer": "Jane Austen"
   },
   {
-    "id": "general-479",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Which Dutch painter created 'The Night Watch'?",
-    "options": [
-      "Johannes Vermeer",
-      "Peter Paul Rubens",
-      "Rembrandt van Rijn",
-      "Frans Hals"
-    ],
-    "answer": "Rembrandt van Rijn"
-  },
-  {
     "id": "general-480",
     "category": "arts-literature",
     "difficulty": "medium",
@@ -284,19 +245,6 @@
       "The Odyssey"
     ],
     "answer": "The Odyssey"
-  },
-  {
-    "id": "general-482",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Which Renaissance artist sculpted the statue of 'David', now housed in Florence?",
-    "options": [
-      "Donatello",
-      "Michelangelo",
-      "Bernini",
-      "Cellini"
-    ],
-    "answer": "Michelangelo"
   },
   {
     "id": "general-483",
@@ -375,19 +323,6 @@
       "Cubism"
     ],
     "answer": "Cubism"
-  },
-  {
-    "id": "general-489",
-    "category": "arts-literature",
-    "difficulty": "easy",
-    "question": "Which French Impressionist painter is known for his series of 'Water Lilies' paintings?",
-    "options": [
-      "Claude Monet",
-      "Edgar Degas",
-      "Pierre-Auguste Renoir",
-      "Camille Pissarro"
-    ],
-    "answer": "Claude Monet"
   },
   {
     "id": "general-490",
@@ -494,19 +429,6 @@
     "answer": "C.S. Lewis"
   },
   {
-    "id": "general-675",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Which Dutch painter is famous for 'The Starry Night' and for cutting off part of his own ear?",
-    "options": [
-      "Claude Monet",
-      "Rembrandt",
-      "Vincent van Gogh",
-      "Paul Cézanne"
-    ],
-    "answer": "Vincent van Gogh"
-  },
-  {
     "id": "general-676",
     "category": "arts-literature",
     "difficulty": "hard",
@@ -531,19 +453,6 @@
       "Jane Austen"
     ],
     "answer": "Charlotte Brontë"
-  },
-  {
-    "id": "general-678",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Which art movement, pioneered by Pablo Picasso and Georges Braque, depicted subjects from multiple angles at once?",
-    "options": [
-      "Surrealism",
-      "Cubism",
-      "Fauvism",
-      "Futurism"
-    ],
-    "answer": "Cubism"
   },
   {
     "id": "general-679",
@@ -1040,19 +949,6 @@
     "answer": "Vincent van Gogh"
   },
   {
-    "id": "general-1139",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who painted 'The Persistence of Memory', featuring melting clocks?",
-    "options": [
-      "Salvador Dali",
-      "Rene Magritte",
-      "Joan Miro",
-      "Max Ernst"
-    ],
-    "answer": "Salvador Dali"
-  },
-  {
     "id": "general-1141",
     "category": "arts-literature",
     "difficulty": "hard",
@@ -1066,32 +962,6 @@
     "answer": "Wet plaster"
   },
   {
-    "id": "general-1142",
-    "category": "arts-literature",
-    "difficulty": "easy",
-    "question": "Which pop artist is known for his paintings of Campbell's Soup Cans?",
-    "options": [
-      "Andy Warhol",
-      "Roy Lichtenstein",
-      "Jasper Johns",
-      "Keith Haring"
-    ],
-    "answer": "Andy Warhol"
-  },
-  {
-    "id": "general-1144",
-    "category": "arts-literature",
-    "difficulty": "easy",
-    "question": "Which art movement, pioneered by Monet, focused on capturing light and its changing qualities?",
-    "options": [
-      "Impressionism",
-      "Cubism",
-      "Fauvism",
-      "Realism"
-    ],
-    "answer": "Impressionism"
-  },
-  {
     "id": "general-1349",
     "category": "arts-literature",
     "difficulty": "medium",
@@ -1103,19 +973,6 @@
       "F. Scott Fitzgerald"
     ],
     "answer": "J.D. Salinger"
-  },
-  {
-    "id": "general-1350",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who wrote the novel 'The Sun Also Rises'?",
-    "options": [
-      "Ernest Hemingway",
-      "F. Scott Fitzgerald",
-      "John Steinbeck",
-      "William Faulkner"
-    ],
-    "answer": "Ernest Hemingway"
   },
   {
     "id": "general-1351",
@@ -1142,32 +999,6 @@
       "Brandon Sanderson"
     ],
     "answer": "George R.R. Martin"
-  },
-  {
-    "id": "general-1353",
-    "category": "arts-literature",
-    "difficulty": "easy",
-    "question": "Which Italian Renaissance artist painted the 'Mona Lisa'?",
-    "options": [
-      "Leonardo da Vinci",
-      "Michelangelo",
-      "Raphael",
-      "Titian"
-    ],
-    "answer": "Leonardo da Vinci"
-  },
-  {
-    "id": "general-1354",
-    "category": "arts-literature",
-    "difficulty": "easy",
-    "question": "Who painted 'Starry Night'?",
-    "options": [
-      "Vincent van Gogh",
-      "Claude Monet",
-      "Paul Cezanne",
-      "Georges Seurat"
-    ],
-    "answer": "Vincent van Gogh"
   },
   {
     "id": "general-1355",
@@ -1261,19 +1092,6 @@
     "answer": "Harper Lee"
   },
   {
-    "id": "general-1605",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who wrote the novel 'The Old Man and the Sea'?",
-    "options": [
-      "Ernest Hemingway",
-      "F. Scott Fitzgerald",
-      "John Steinbeck",
-      "William Faulkner"
-    ],
-    "answer": "Ernest Hemingway"
-  },
-  {
     "id": "general-1606",
     "category": "arts-literature",
     "difficulty": "medium",
@@ -1313,19 +1131,6 @@
     "answer": "Rick Riordan"
   },
   {
-    "id": "general-1609",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who wrote the dystopian novel 'A Clockwork Orange'?",
-    "options": [
-      "Anthony Burgess",
-      "Aldous Huxley",
-      "George Orwell",
-      "J.G. Ballard"
-    ],
-    "answer": "Anthony Burgess"
-  },
-  {
     "id": "general-1610",
     "category": "arts-literature",
     "difficulty": "hard",
@@ -1339,19 +1144,6 @@
     "answer": "Mario Vargas Llosa"
   },
   {
-    "id": "general-1611",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who wrote the play 'Hamlet'?",
-    "options": [
-      "John Webster",
-      "William Shakespeare",
-      "Thomas Kyd",
-      "Christopher Marlowe"
-    ],
-    "answer": "William Shakespeare"
-  },
-  {
     "id": "general-1612",
     "category": "arts-literature",
     "difficulty": "medium",
@@ -1363,19 +1155,6 @@
       "King Lear"
     ],
     "answer": "Macbeth"
-  },
-  {
-    "id": "general-1613",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who wrote the novel 'Don Quixote'?",
-    "options": [
-      "Gabriel Garcia Marquez",
-      "Lope de Vega",
-      "Miguel de Cervantes",
-      "Federico Garcia Lorca"
-    ],
-    "answer": "Miguel de Cervantes"
   },
   {
     "id": "general-1614",
@@ -1482,19 +1261,6 @@
     "answer": "Mary Shelley"
   },
   {
-    "id": "general-1623",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who wrote the novel 'Dracula'?",
-    "options": [
-      "Mary Shelley",
-      "Sheridan Le Fanu",
-      "Bram Stoker",
-      "H.P. Lovecraft"
-    ],
-    "answer": "Bram Stoker"
-  },
-  {
     "id": "general-1626",
     "category": "arts-literature",
     "difficulty": "medium",
@@ -1508,32 +1274,6 @@
     "answer": "Cubism"
   },
   {
-    "id": "general-1627",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who painted 'The Scream'?",
-    "options": [
-      "Gustav Klimt",
-      "Vincent van Gogh",
-      "Edvard Munch",
-      "Egon Schiele"
-    ],
-    "answer": "Edvard Munch"
-  },
-  {
-    "id": "general-1628",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who sculpted the statue of 'David'?",
-    "options": [
-      "Bernini",
-      "Michelangelo",
-      "Leonardo da Vinci",
-      "Donatello"
-    ],
-    "answer": "Michelangelo"
-  },
-  {
     "id": "general-1629",
     "category": "arts-literature",
     "difficulty": "medium",
@@ -1545,19 +1285,6 @@
       "Raphael"
     ],
     "answer": "Michelangelo"
-  },
-  {
-    "id": "general-1630",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Which Dutch Golden Age painter is famous for 'The Night Watch'?",
-    "options": [
-      "Rembrandt",
-      "Johannes Vermeer",
-      "Frans Hals",
-      "Jan Steen"
-    ],
-    "answer": "Rembrandt"
   },
   {
     "id": "general-1631",
@@ -1597,19 +1324,6 @@
       "Keith Haring"
     ],
     "answer": "Andy Warhol"
-  },
-  {
-    "id": "general-1634",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who wrote the poem 'The Raven'?",
-    "options": [
-      "Edgar Allan Poe",
-      "Emily Dickinson",
-      "Walt Whitman",
-      "Henry Wadsworth Longfellow"
-    ],
-    "answer": "Edgar Allan Poe"
   },
   {
     "id": "general-1635",
@@ -1924,19 +1638,6 @@
     "answer": "1984"
   },
   {
-    "id": "general-1995",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Which author wrote the classic novel 'Don Quixote'?",
-    "options": [
-      "Miguel de Cervantes",
-      "Lope de Vega",
-      "Federico Garcia Lorca",
-      "Gabriel Garcia Marquez"
-    ],
-    "answer": "Miguel de Cervantes"
-  },
-  {
     "id": "general-1996",
     "category": "arts-literature",
     "difficulty": "medium",
@@ -2028,19 +1729,6 @@
     "answer": "William Faulkner"
   },
   {
-    "id": "general-2010",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Which author wrote 'Beloved,' a novel about the legacy of slavery?",
-    "options": [
-      "Toni Morrison",
-      "Alice Walker",
-      "Zora Neale Hurston",
-      "Maya Angelou"
-    ],
-    "answer": "Toni Morrison"
-  },
-  {
     "id": "general-2011",
     "category": "arts-literature",
     "difficulty": "easy",
@@ -2117,32 +1805,6 @@
       "John Irving"
     ],
     "answer": "Kurt Vonnegut"
-  },
-  {
-    "id": "general-2121",
-    "category": "arts-literature",
-    "difficulty": "easy",
-    "question": "Which post-impressionist artist famously cut off part of his own ear?",
-    "options": [
-      "Vincent van Gogh",
-      "Paul Gauguin",
-      "Paul Cezanne",
-      "Henri Matisse"
-    ],
-    "answer": "Vincent van Gogh"
-  },
-  {
-    "id": "general-2122",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Which artist painted the 'Water Lilies' series, inspired by his garden at Giverny?",
-    "options": [
-      "Claude Monet",
-      "Edgar Degas",
-      "Pierre-Auguste Renoir",
-      "Camille Pissarro"
-    ],
-    "answer": "Claude Monet"
   },
   {
     "id": "general-2125",
@@ -2249,19 +1911,6 @@
     "answer": "Eugene Delacroix"
   },
   {
-    "id": "general-2241",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Which Shakespeare play features the character Puck?",
-    "options": [
-      "A Midsummer Night's Dream",
-      "Twelfth Night",
-      "The Tempest",
-      "Much Ado About Nothing"
-    ],
-    "answer": "A Midsummer Night's Dream"
-  },
-  {
     "id": "general-2242",
     "category": "arts-literature",
     "difficulty": "medium",
@@ -2273,19 +1922,6 @@
       "Omoo"
     ],
     "answer": "Moby-Dick"
-  },
-  {
-    "id": "general-2246",
-    "category": "arts-literature",
-    "difficulty": "easy",
-    "question": "Who wrote '1984'?",
-    "options": [
-      "George Orwell",
-      "Aldous Huxley",
-      "Ray Bradbury",
-      "H.G. Wells"
-    ],
-    "answer": "George Orwell"
   },
   {
     "id": "general-2247",
@@ -2340,19 +1976,6 @@
     "answer": "Toni Morrison"
   },
   {
-    "id": "general-2291",
-    "category": "arts-literature",
-    "difficulty": "easy",
-    "question": "Which of Shakespeare's plays features the character Lady Macbeth?",
-    "options": [
-      "Macbeth",
-      "Hamlet",
-      "Othello",
-      "King Lear"
-    ],
-    "answer": "Macbeth"
-  },
-  {
     "id": "general-2292",
     "category": "arts-literature",
     "difficulty": "medium",
@@ -2364,19 +1987,6 @@
       "F. Scott Fitzgerald"
     ],
     "answer": "John Steinbeck"
-  },
-  {
-    "id": "general-2293",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Which poet wrote 'The Raven'?",
-    "options": [
-      "Edgar Allan Poe",
-      "Walt Whitman",
-      "Emily Dickinson",
-      "Henry Wadsworth Longfellow"
-    ],
-    "answer": "Edgar Allan Poe"
   },
   {
     "id": "general-2294",
@@ -2457,19 +2067,6 @@
     "answer": "To Kill a Mockingbird"
   },
   {
-    "id": "general-2472",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who wrote the epic poem 'The Canterbury Tales'?",
-    "options": [
-      "Geoffrey Chaucer",
-      "William Langland",
-      "John Gower",
-      "Thomas Malory"
-    ],
-    "answer": "Geoffrey Chaucer"
-  },
-  {
     "id": "general-2473",
     "category": "arts-literature",
     "difficulty": "hard",
@@ -2509,19 +2106,6 @@
     "answer": "The Road"
   },
   {
-    "id": "general-2502",
-    "category": "arts-literature",
-    "difficulty": "easy",
-    "question": "Which art movement, led by artists like Monet and Renoir, emphasized capturing light and momentary impressions?",
-    "options": [
-      "Impressionism",
-      "Expressionism",
-      "Cubism",
-      "Surrealism"
-    ],
-    "answer": "Impressionism"
-  },
-  {
     "id": "general-2505",
     "category": "arts-literature",
     "difficulty": "medium",
@@ -2533,19 +2117,6 @@
       "Maria Izquierdo"
     ],
     "answer": "Frida Kahlo"
-  },
-  {
-    "id": "general-2556",
-    "category": "arts-literature",
-    "difficulty": "easy",
-    "question": "Which Shakespeare tragedy features the Scottish general who murders King Duncan?",
-    "options": [
-      "Macbeth",
-      "Hamlet",
-      "King Lear",
-      "Othello"
-    ],
-    "answer": "Macbeth"
   },
   {
     "id": "general-2557",
@@ -2689,19 +2260,6 @@
       "Dancer"
     ],
     "answer": "Courtesan"
-  },
-  {
-    "id": "general-2666",
-    "category": "arts-literature",
-    "difficulty": "easy",
-    "question": "In George Orwell's \"1984,\" what is the name of the totalitarian party's supreme leader?",
-    "options": [
-      "Big Brother",
-      "O'Brien",
-      "Big Sister",
-      "The Inner Party"
-    ],
-    "answer": "Big Brother"
   },
   {
     "id": "general-2667",
@@ -3118,32 +2676,6 @@
       "Aristotle"
     ],
     "answer": "Homer"
-  },
-  {
-    "id": "arts-literature-024",
-    "category": "arts-literature",
-    "difficulty": "easy",
-    "question": "Who wrote the dystopian novel Nineteen Eighty-Four?",
-    "options": [
-      "Aldous Huxley",
-      "George Orwell",
-      "Ray Bradbury",
-      "H.G. Wells"
-    ],
-    "answer": "George Orwell"
-  },
-  {
-    "id": "arts-literature-025",
-    "category": "arts-literature",
-    "difficulty": "easy",
-    "question": "Who created the 1893 artwork The Scream?",
-    "options": [
-      "Edvard Munch",
-      "Gustav Klimt",
-      "Egon Schiele",
-      "Henri Matisse"
-    ],
-    "answer": "Edvard Munch"
   },
   {
     "id": "arts-literature-026",
@@ -4847,19 +4379,6 @@
       "Harold Pinter"
     ],
     "answer": "George Bernard Shaw"
-  },
-  {
-    "id": "arts-literature-167",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who wrote 'The Crucible'?",
-    "options": [
-      "Tennessee Williams",
-      "Eugene O'Neill",
-      "Arthur Miller",
-      "Edward Albee"
-    ],
-    "answer": "Arthur Miller"
   },
   {
     "id": "arts-literature-168",
@@ -7410,19 +6929,6 @@
     "id": "arts-literature-367"
   },
   {
-    "difficulty": "easy",
-    "category": "arts-literature",
-    "question": "Which artist is known for painting the \"Water Lilies\" series, depicting the garden at his home in Giverny?",
-    "options": [
-      "Edgar Degas",
-      "Claude Monet",
-      "Pierre-Auguste Renoir",
-      "Camille Pissarro"
-    ],
-    "answer": "Claude Monet",
-    "id": "arts-literature-368"
-  },
-  {
     "difficulty": "medium",
     "category": "arts-literature",
     "question": "In Shakespeare's \"Macbeth,\" immediately after encountering the witches, what title does Macbeth learn he has been granted?",
@@ -7785,19 +7291,6 @@
     ],
     "answer": "Hans Holbein the Younger",
     "id": "arts-literature-398"
-  },
-  {
-    "difficulty": "easy",
-    "category": "arts-literature",
-    "question": "Which novel by Charles Dickens begins with the famous line \"It was the best of times, it was the worst of times\"?",
-    "options": [
-      "Oliver Twist",
-      "Bleak House",
-      "A Tale of Two Cities",
-      "David Copperfield"
-    ],
-    "answer": "A Tale of Two Cities",
-    "id": "arts-literature-399"
   },
   {
     "difficulty": "medium",
@@ -11222,7 +10715,7 @@
     "id": "arts-literature-668",
     "difficulty": "hard",
     "category": "arts-literature",
-    "question": "Which French artist's painting 'The Horse Fair' was considered scandalous for its subject's clothing?",
+    "question": "Which French artist obtained a police permit to wear trousers so she could sketch horse markets for her painting 'The Horse Fair'?",
     "options": [
       "Rosa Bonheur",
       "Berthe Morisot",
@@ -11453,32 +10946,6 @@
     "answer": "Benjamin the donkey"
   },
   {
-    "id": "arts-literature-686",
-    "difficulty": "hard",
-    "category": "arts-literature",
-    "question": "Which 1859-70 Albert Bierstadt painting depicts a Sierra Nevada scene with Merced River, now in the National Gallery?",
-    "options": [
-      "Among the Sierra Nevada, California",
-      "Yosemite Valley",
-      "The Rocky Mountains",
-      "Donner Lake"
-    ],
-    "answer": "Among the Sierra Nevada, California"
-  },
-  {
-    "id": "arts-literature-687",
-    "difficulty": "hard",
-    "category": "arts-literature",
-    "question": "Which fictional play within Hamlet is used to catch the conscience of the king, also called The Murder of Gonzago?",
-    "options": [
-      "The Mousetrap",
-      "The Murder of Gonzago",
-      "The Play of Pyrrhus",
-      "The Dumb Show"
-    ],
-    "answer": "The Mousetrap"
-  },
-  {
     "id": "arts-literature-688",
     "difficulty": "medium",
     "category": "arts-literature",
@@ -11521,7 +10988,7 @@
     "id": "arts-literature-691",
     "difficulty": "hard",
     "category": "arts-literature",
-    "question": "Which Italian fresco restoration technique, meaning 'uncovering,' removes only the topmost paint layer from a wall?",
+    "question": "Which Italian fresco restoration technique, meaning 'tear,' removes only the topmost paint layer from a wall?",
     "options": [
       "Stacco a massello",
       "Strappo",
