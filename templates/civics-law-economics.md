@@ -125,6 +125,16 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Seigniorage (government profit from issuing currency)
 - Public goods being non-excludable and non-rivalrous (e.g. national defense, a lighthouse)
 - Watch for a drafting agent looping and repeating the same ~100-150 topics multiple times with slightly reworded phrasing across a single large batch — always run an exact-question-text dedup pass on drafts from this category before check-draft, not just check-draft's own internal-duplicate detection
+- Anocracy, illiberal democracy, semi-presidential system, and parliamentary sovereignty (regime-type/system terms)
+- Jus soli (citizenship by birthplace), distinct from jus sanguinis
+- Pro se representation, obiter dictum, force majeure, usufruct, vicarious liability, assumption-of-risk defense, and the four elements of negligence (duty, breach, causation, damages)
+- Say's law (supply creates its own demand) and nationalization (government taking private industry into public ownership)
+- Contract-law terms: novation, promissory estoppel, specific performance, liquidated damages, severability clause, unconscionability
+- Property-law terms: fee simple absolute, easement, adverse possession, bailment
+- Comparative negligence, subpoena, affidavit, voir dire, garnishment, estoppel
+- Cyclical unemployment; Engel's law, Gresham's law, Dutch disease, velocity of money, economies of scope
+- International-org headquarters: WTO (Geneva), OECD (Paris), Interpol (Lyon), APEC secretariat (Singapore), OAS (Washington DC), ASEAN Secretariat (Jakarta), African Union (Addis Ababa), Mercosur Secretariat (Montevideo)
+- This category is now heavily saturated (500+ questions) — a recent batch had a ~58% duplicate rate even after the default check-draft pass came back clean, almost entirely "same definition, reworded" pairs only caught by --full-answer-audit. Always run --full-answer-audit for this category and read every match by hand, not just the default pass.
 
 Use web search to verify every fact — do not rely on memory alone. Prefer authoritative sources (reference databases, textbooks, official organization sites) over guessing. For each question, actually find or confirm the fact via search rather than recalling it, especially for specific figures, dates, and membership counts.
 

@@ -4964,5 +4964,2124 @@
     ],
     "answer": "1860",
     "id": "general-3314"
+  },
+  {
+    "id": "general-3315",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is an isogram?",
+    "options": [
+      "A word with no repeating letters",
+      "A word that reads the same backwards",
+      "A word made from two blended words",
+      "A word with two opposite meanings"
+    ],
+    "answer": "A word with no repeating letters"
+  },
+  {
+    "id": "general-3316",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is a tautonym in biology?",
+    "options": [
+      "A species where genus and species names are identical",
+      "A species named after its discoverer",
+      "A species with no common name",
+      "A species that is extinct"
+    ],
+    "answer": "A species where genus and species names are identical"
+  },
+  {
+    "id": "general-3317",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is a retronym?",
+    "options": [
+      "A new term for an original thing after a newer version appears",
+      "A word that is spelled backwards",
+      "A word named after a person",
+      "A word that has no synonyms"
+    ],
+    "answer": "A new term for an original thing after a newer version appears"
+  },
+  {
+    "id": "general-3318",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is a contronym also called a Janus word?",
+    "options": [
+      "A word with two opposite meanings",
+      "A word with no repeating letters",
+      "A word that changes when capitalized",
+      "A word that sounds like another"
+    ],
+    "answer": "A word with two opposite meanings"
+  },
+  {
+    "id": "general-3319",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is an eponym?",
+    "options": [
+      "A word or thing named after a person",
+      "A word with two opposite meanings",
+      "A word that avoids a letter",
+      "A word that is an acronym"
+    ],
+    "answer": "A word or thing named after a person"
+  },
+  {
+    "id": "general-3320",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is a capitonym?",
+    "options": [
+      "A word that changes meaning when capitalized",
+      "A word that has no vowels",
+      "A word that reads the same upside down",
+      "A word made of only consonants"
+    ],
+    "answer": "A word that changes meaning when capitalized"
+  },
+  {
+    "id": "general-3321",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is an aptronym?",
+    "options": [
+      "A name that fittingly suits its owner's profession",
+      "A name that is impossible to pronounce",
+      "A name that is an anagram",
+      "A name with no surname"
+    ],
+    "answer": "A name that fittingly suits its owner's profession"
+  },
+  {
+    "id": "general-3322",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is a backronym?",
+    "options": [
+      "A phrase invented to fit an existing acronym",
+      "An acronym that spells a real word",
+      "A word formed from initials",
+      "A word that shortens a phrase"
+    ],
+    "answer": "A phrase invented to fit an existing acronym"
+  },
+  {
+    "id": "general-3323",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is an anacronym?",
+    "options": [
+      "An acronym whose original phrase is forgotten by most people",
+      "An acronym that is pronounced as a word",
+      "An acronym that uses lowercase letters",
+      "An acronym that changes yearly"
+    ],
+    "answer": "An acronym whose original phrase is forgotten by most people"
+  },
+  {
+    "id": "general-3324",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is a semordnilap?",
+    "options": [
+      "A word that forms a different word when spelled backwards",
+      "A word that reads the same backwards",
+      "A word with no repeating letters",
+      "A word that has two opposite meanings"
+    ],
+    "answer": "A word that forms a different word when spelled backwards"
+  },
+  {
+    "id": "general-3325",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is a charade in wordplay?",
+    "options": [
+      "A word puzzle where syllables are described as separate words",
+      "A puzzle with hidden numbers",
+      "A game with dice only",
+      "A word that is shouted"
+    ],
+    "answer": "A word puzzle where syllables are described as separate words"
+  },
+  {
+    "id": "general-3326",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is a tautology in rhetoric?",
+    "options": [
+      "Repeating the same idea using different words",
+      "Using a word that sounds like its meaning",
+      "A sentence that is false",
+      "A word that has no meaning"
+    ],
+    "answer": "Repeating the same idea using different words"
+  },
+  {
+    "id": "general-3327",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What term describes a word that looks the same upside down when stylized?",
+    "options": [
+      "Ambigram",
+      "Isogram",
+      "Tautonym",
+      "Retronym"
+    ],
+    "answer": "Ambigram"
+  },
+  {
+    "id": "general-3328",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is a holorime?",
+    "options": [
+      "Two lines that sound identical but have different meanings",
+      "A poem that uses only one vowel",
+      "A word with no consonants",
+      "A sentence containing every letter"
+    ],
+    "answer": "Two lines that sound identical but have different meanings"
+  },
+  {
+    "id": "general-3329",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is a univocalic?",
+    "options": [
+      "Text that uses only one vowel throughout",
+      "Text that uses no vowels",
+      "Text that rhymes every line",
+      "Text that uses all vowels equally"
+    ],
+    "answer": "Text that uses only one vowel throughout"
+  },
+  {
+    "id": "general-3330",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What does sesquipedalian refer to?",
+    "options": [
+      "A long word or someone who uses long words",
+      "A word with one syllable",
+      "A word that is misspelled",
+      "A word that is an insult"
+    ],
+    "answer": "A long word or someone who uses long words"
+  },
+  {
+    "id": "general-3331",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is a pangrammatic lipogram?",
+    "options": [
+      "A text that contains every letter except one",
+      "A text that contains every letter exactly once",
+      "A text that contains no repeating words",
+      "A text that is a palindrome"
+    ],
+    "answer": "A text that contains every letter except one"
+  },
+  {
+    "id": "general-3332",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is a heterogram?",
+    "options": [
+      "A word or sentence with no repeating letters",
+      "A word with two opposite meanings",
+      "A word that is spelled wrong",
+      "A sentence with all letters used"
+    ],
+    "answer": "A word or sentence with no repeating letters"
+  },
+  {
+    "id": "general-3333",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is an example of how cleave functions as a contronym?",
+    "options": [
+      "Both to split apart and to cling together",
+      "Both to run fast and to stand still",
+      "Both to give and to take",
+      "Both to open and to close"
+    ],
+    "answer": "Both to split apart and to cling together"
+  },
+  {
+    "id": "general-3334",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How many years are in a score?",
+    "options": [
+      "20",
+      "10",
+      "12",
+      "100"
+    ],
+    "answer": "20"
+  },
+  {
+    "id": "general-3335",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "How many feet are in a rod, pole, or perch?",
+    "options": [
+      "16.5",
+      "10",
+      "33",
+      "6"
+    ],
+    "answer": "16.5"
+  },
+  {
+    "id": "general-3336",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "How many rods are in one Gunter's chain?",
+    "options": [
+      "4",
+      "2",
+      "10",
+      "8"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": "general-3337",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "How many Gunter's chains are in a statute mile?",
+    "options": [
+      "80",
+      "40",
+      "100",
+      "10"
+    ],
+    "answer": "80"
+  },
+  {
+    "id": "general-3338",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How many square feet are in one acre?",
+    "options": [
+      "43,560",
+      "5,280",
+      "10,000",
+      "640"
+    ],
+    "answer": "43,560"
+  },
+  {
+    "id": "general-3339",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How many pounds are in a stone?",
+    "options": [
+      "14",
+      "10",
+      "12",
+      "16"
+    ],
+    "answer": "14"
+  },
+  {
+    "id": "general-3340",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How many inches are in a hand used to measure horses?",
+    "options": [
+      "4",
+      "3",
+      "6",
+      "12"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": "general-3341",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How many feet are in a fathom?",
+    "options": [
+      "6",
+      "3",
+      "10",
+      "12"
+    ],
+    "answer": "6"
+  },
+  {
+    "id": "general-3342",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "A knot is a unit of what?",
+    "options": [
+      "Speed",
+      "Distance",
+      "Depth",
+      "Weight"
+    ],
+    "answer": "Speed"
+  },
+  {
+    "id": "general-3343",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "A light-year is a unit of what?",
+    "options": [
+      "Distance",
+      "Time",
+      "Brightness",
+      "Speed"
+    ],
+    "answer": "Distance"
+  },
+  {
+    "id": "general-3344",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How many karats is pure gold?",
+    "options": [
+      "24",
+      "18",
+      "14",
+      "10"
+    ],
+    "answer": "24"
+  },
+  {
+    "id": "general-3345",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How many sheets are in a standard ream of paper as of 2026?",
+    "options": [
+      "500",
+      "480",
+      "250",
+      "1,000"
+    ],
+    "answer": "500"
+  },
+  {
+    "id": "general-3346",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "How many meters are in one international nautical mile?",
+    "options": [
+      "1,852",
+      "1,609",
+      "1,000",
+      "2,000"
+    ],
+    "answer": "1,852"
+  },
+  {
+    "id": "general-3347",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "How many square yards are in one acre?",
+    "options": [
+      "4,840",
+      "43,560",
+      "1,000",
+      "640"
+    ],
+    "answer": "4,840"
+  },
+  {
+    "id": "general-3348",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "How many acres are in one square mile?",
+    "options": [
+      "640",
+      "320",
+      "160",
+      "80"
+    ],
+    "answer": "640"
+  },
+  {
+    "id": "general-3349",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How many fluid ounces are in a US pint?",
+    "options": [
+      "16",
+      "8",
+      "20",
+      "32"
+    ],
+    "answer": "16"
+  },
+  {
+    "id": "general-3350",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How many tiles are in a standard English Scrabble set?",
+    "options": [
+      "100",
+      "98",
+      "102",
+      "120"
+    ],
+    "answer": "100"
+  },
+  {
+    "id": "general-3351",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How many blank tiles are in Scrabble?",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": "general-3352",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the term for playing all 7 tiles in one turn in Scrabble?",
+    "options": [
+      "Bingo",
+      "Bonus Blitz",
+      "Sweep",
+      "Scrabble"
+    ],
+    "answer": "Bingo"
+  },
+  {
+    "id": "general-3353",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which letter is the only tile worth 5 points in English Scrabble?",
+    "options": [
+      "K",
+      "J",
+      "X",
+      "Q"
+    ],
+    "answer": "K"
+  },
+  {
+    "id": "general-3354",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "How many Title Deed property cards are in classic Monopoly?",
+    "options": [
+      "28",
+      "40",
+      "22",
+      "32"
+    ],
+    "answer": "28"
+  },
+  {
+    "id": "general-3355",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How much does it cost to get out of Jail by paying a fine in Monopoly?",
+    "options": [
+      "$50",
+      "$100",
+      "$25",
+      "$200"
+    ],
+    "answer": "$50"
+  },
+  {
+    "id": "general-3356",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is en passant in chess?",
+    "options": [
+      "A pawn capture of a pawn that just moved two squares",
+      "King swapping with rook",
+      "Pawn promoting to queen",
+      "Knight checking the king"
+    ],
+    "answer": "A pawn capture of a pawn that just moved two squares"
+  },
+  {
+    "id": "general-3357",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Which chess move is the only one where the king moves two squares?",
+    "options": [
+      "Castling",
+      "En passant",
+      "Promotion",
+      "Check"
+    ],
+    "answer": "Castling"
+  },
+  {
+    "id": "general-3358",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does stalemate result in during chess?",
+    "options": [
+      "Draw",
+      "Win for player who cannot move",
+      "Loss for player who cannot move",
+      "Extra move"
+    ],
+    "answer": "Draw"
+  },
+  {
+    "id": "general-3359",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "From which Persian phrase does the term checkmate derive?",
+    "options": [
+      "Shah mat",
+      "Shah rukh",
+      "Mat shah",
+      "Shah check"
+    ],
+    "answer": "Shah mat"
+  },
+  {
+    "id": "general-3360",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How many pieces does each player start with in chess?",
+    "options": [
+      "16",
+      "12",
+      "20",
+      "15"
+    ],
+    "answer": "16"
+  },
+  {
+    "id": "general-3361",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How many pawns does each player start with in chess?",
+    "options": [
+      "8",
+      "6",
+      "10",
+      "4"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": "general-3362",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In Scrabble, what bonus points are awarded for using all 7 tiles?",
+    "options": [
+      "50",
+      "25",
+      "100",
+      "20"
+    ],
+    "answer": "50"
+  },
+  {
+    "id": "general-3363",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In Monopoly, how many spaces are on the board from Go to Go?",
+    "options": [
+      "40",
+      "32",
+      "36",
+      "42"
+    ],
+    "answer": "40"
+  },
+  {
+    "id": "general-3364",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In chess, what is promotion?",
+    "options": [
+      "Pawn reaching last rank becomes another piece",
+      "King reaching center becomes queen",
+      "Rook becoming bishop",
+      "Knight becoming rook"
+    ],
+    "answer": "Pawn reaching last rank becomes another piece"
+  },
+  {
+    "id": "general-3365",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What color are the two bishops each player starts with in chess?",
+    "options": [
+      "One light square, one dark square",
+      "Both light squares",
+      "Both dark squares",
+      "Both on same color"
+    ],
+    "answer": "One light square, one dark square"
+  },
+  {
+    "id": "general-3366",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In classic Monopoly, how many railroads are there?",
+    "options": [
+      "4",
+      "2",
+      "6",
+      "3"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": "general-3367",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In chess, can a pawn move backwards?",
+    "options": [
+      "No",
+      "Yes, one square",
+      "Yes, if capturing",
+      "Only after promotion"
+    ],
+    "answer": "No"
+  },
+  {
+    "id": "general-3368",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In Scrabble, how many points is the letter Q worth?",
+    "options": [
+      "10",
+      "8",
+      "5",
+      "1"
+    ],
+    "answer": "10"
+  },
+  {
+    "id": "general-3369",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How many cards are in a standard deck excluding jokers?",
+    "options": [
+      "52",
+      "54",
+      "48",
+      "50"
+    ],
+    "answer": "52"
+  },
+  {
+    "id": "general-3370",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How many suits are in a standard deck of cards?",
+    "options": [
+      "4",
+      "3",
+      "5",
+      "2"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": "general-3371",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How many ranks are in each suit of a standard deck?",
+    "options": [
+      "13",
+      "12",
+      "10",
+      "14"
+    ],
+    "answer": "13"
+  },
+  {
+    "id": "general-3372",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How many dominoes are in a standard double-six set?",
+    "options": [
+      "28",
+      "32",
+      "24",
+      "36"
+    ],
+    "answer": "28"
+  },
+  {
+    "id": "general-3373",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "How many tiles are in a standard Chinese mahjong set?",
+    "options": [
+      "144",
+      "136",
+      "160",
+      "108"
+    ],
+    "answer": "144"
+  },
+  {
+    "id": "general-3374",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How many total pips are on a single standard six-sided die?",
+    "options": [
+      "21",
+      "18",
+      "24",
+      "20"
+    ],
+    "answer": "21"
+  },
+  {
+    "id": "general-3375",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In poker, what are the first three community cards called?",
+    "options": [
+      "The flop",
+      "The turn",
+      "The river",
+      "The board"
+    ],
+    "answer": "The flop"
+  },
+  {
+    "id": "general-3376",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In poker Texas Hold'em, what is the fourth community card called?",
+    "options": [
+      "The turn",
+      "The flop",
+      "The river",
+      "The street"
+    ],
+    "answer": "The turn"
+  },
+  {
+    "id": "general-3377",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In poker Texas Hold'em, what is the fifth community card called?",
+    "options": [
+      "The river",
+      "The flop",
+      "The turn",
+      "The burn"
+    ],
+    "answer": "The river"
+  },
+  {
+    "id": "general-3378",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "How many cards are in a standard Pinochle deck?",
+    "options": [
+      "48",
+      "52",
+      "54",
+      "40"
+    ],
+    "answer": "48"
+  },
+  {
+    "id": "general-3379",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In blackjack, what does a natural blackjack typically pay at traditional tables?",
+    "options": [
+      "3 to 2",
+      "2 to 1",
+      "1 to 1",
+      "5 to 2"
+    ],
+    "answer": "3 to 2"
+  },
+  {
+    "id": "general-3380",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is a deuce in cards and dice?",
+    "options": [
+      "A two",
+      "An ace",
+      "A king",
+      "A joker"
+    ],
+    "answer": "A two"
+  },
+  {
+    "id": "general-3381",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In poker, what hand is three of a kind plus a pair?",
+    "options": [
+      "Full house",
+      "Straight",
+      "Flush",
+      "Two pair"
+    ],
+    "answer": "Full house"
+  },
+  {
+    "id": "general-3382",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the term for a hand with five consecutive ranks in poker?",
+    "options": [
+      "Straight",
+      "Flush",
+      "Full house",
+      "Set"
+    ],
+    "answer": "Straight"
+  },
+  {
+    "id": "general-3383",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is a flush in poker?",
+    "options": [
+      "Five cards of the same suit",
+      "Five consecutive cards",
+      "Four of a kind",
+      "Two pairs"
+    ],
+    "answer": "Five cards of the same suit"
+  },
+  {
+    "id": "general-3384",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "How many dominoes are in a double-nine set?",
+    "options": [
+      "55",
+      "28",
+      "36",
+      "45"
+    ],
+    "answer": "55"
+  },
+  {
+    "id": "general-3385",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In craps, what number wins on the come-out roll?",
+    "options": [
+      "7 or 11",
+      "2 or 3",
+      "6 or 8",
+      "12"
+    ],
+    "answer": "7 or 11"
+  },
+  {
+    "id": "general-3386",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In an American casino dice game, what is rolling a 2, 3, or 12 on the come-out roll called?",
+    "options": [
+      "Craps",
+      "Point",
+      "Natural",
+      "Seven out"
+    ],
+    "answer": "Craps"
+  },
+  {
+    "id": "general-3387",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "How many squares are on a standard Scrabble board?",
+    "options": [
+      "225",
+      "196",
+      "256",
+      "100"
+    ],
+    "answer": "225"
+  },
+  {
+    "id": "general-3388",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the center square on a Scrabble board worth?",
+    "options": [
+      "Double word score",
+      "Triple word score",
+      "Double letter",
+      "Center star"
+    ],
+    "answer": "Double word score"
+  },
+  {
+    "id": "general-3389",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In dominoes, what is the tile with the same number on both ends called?",
+    "options": [
+      "Double",
+      "Pair",
+      "Blank",
+      "Spinner"
+    ],
+    "answer": "Double"
+  },
+  {
+    "id": "general-3390",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "How many tiles does each player draw at start of Mexican Train dominoes with 4 players using double-12?",
+    "options": [
+      "15",
+      "12",
+      "10",
+      "7"
+    ],
+    "answer": "15"
+  },
+  {
+    "id": "general-3391",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In poker, what is four of a kind also called?",
+    "options": [
+      "Quads",
+      "Trips",
+      "Boat",
+      "Set"
+    ],
+    "answer": "Quads"
+  },
+  {
+    "id": "general-3392",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does a straight flush consist of?",
+    "options": [
+      "Five consecutive cards of same suit",
+      "Five same suit not consecutive",
+      "Four of a kind plus one",
+      "Three pairs"
+    ],
+    "answer": "Five consecutive cards of same suit"
+  },
+  {
+    "id": "general-3393",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "The ampersand symbol & originated as a ligature of which Latin word?",
+    "options": [
+      "et",
+      "at",
+      "and",
+      "ab"
+    ],
+    "answer": "et"
+  },
+  {
+    "id": "general-3394",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What does the pilcrow symbol indicate?",
+    "options": [
+      "Paragraph",
+      "Page break",
+      "Footnote",
+      "Currency"
+    ],
+    "answer": "Paragraph"
+  },
+  {
+    "id": "general-3395",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "The interrobang combines which two punctuation marks?",
+    "options": [
+      "Question mark and exclamation point",
+      "Question mark and period",
+      "Exclamation and comma",
+      "Colon and semicolon"
+    ],
+    "answer": "Question mark and exclamation point"
+  },
+  {
+    "id": "general-3396",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which symbol's official telecommunications name is octothorpe?",
+    "options": [
+      "#",
+      "*",
+      "&",
+      "@"
+    ],
+    "answer": "#"
+  },
+  {
+    "id": "general-3397",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "The word caret comes from Latin meaning what?",
+    "options": [
+      "It lacks",
+      "It points",
+      "It inserts",
+      "It joins"
+    ],
+    "answer": "It lacks"
+  },
+  {
+    "id": "general-3398",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does asterisk literally mean from Greek origin?",
+    "options": [
+      "Little star",
+      "Little note",
+      "Little cross",
+      "Little mark"
+    ],
+    "answer": "Little star"
+  },
+  {
+    "id": "general-3399",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In commerce, the @ symbol originally meant what?",
+    "options": [
+      "At the rate of",
+      "End of account",
+      "Paid in full",
+      "Per amphora weight"
+    ],
+    "answer": "At the rate of"
+  },
+  {
+    "id": "general-3400",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Why are manhole covers round?",
+    "options": [
+      "They cannot fall through their own opening",
+      "They are stronger",
+      "They are cheaper to cast",
+      "They roll easier only"
+    ],
+    "answer": "They cannot fall through their own opening"
+  },
+  {
+    "id": "general-3401",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In ISO 216 paper sizes, what area is A0 defined to have?",
+    "options": [
+      "1 square meter",
+      "1 square foot",
+      "0.5 square meter",
+      "2 square meters"
+    ],
+    "answer": "1 square meter"
+  },
+  {
+    "id": "general-3402",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "The phrase 'and per se and' became corrupted into what word?",
+    "options": [
+      "Ampersand",
+      "At sign",
+      "Hashtag",
+      "Pilcrow"
+    ],
+    "answer": "Ampersand"
+  },
+  {
+    "id": "general-3403",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What punctuation mark is also called a shriek?",
+    "options": [
+      "Exclamation point",
+      "Question mark",
+      "Colon",
+      "Semicolon"
+    ],
+    "answer": "Exclamation point"
+  },
+  {
+    "id": "general-3404",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the @ symbol called in Spanish and Portuguese traditions related to weight?",
+    "options": [
+      "Arroba",
+      "Ampersand",
+      "Pilcrow",
+      "Cedilla"
+    ],
+    "answer": "Arroba"
+  },
+  {
+    "id": "general-3405",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which punctuation mark is used to indicate an omission?",
+    "options": [
+      "Ellipsis",
+      "Dash",
+      "Asterisk",
+      "Caret"
+    ],
+    "answer": "Ellipsis"
+  },
+  {
+    "id": "general-3406",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the name for the # symbol when used in programming for comments?",
+    "options": [
+      "Hash",
+      "Pound",
+      "Number sign only",
+      "Sharp only"
+    ],
+    "answer": "Hash"
+  },
+  {
+    "id": "general-3407",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In printing, what is leading?",
+    "options": [
+      "Space between lines of text",
+      "Space between letters",
+      "Margin width",
+      "Ink density"
+    ],
+    "answer": "Space between lines of text"
+  },
+  {
+    "id": "general-3408",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What does kerning refer to in typography?",
+    "options": [
+      "Spacing between individual characters",
+      "Line height",
+      "Font weight",
+      "Paragraph indent"
+    ],
+    "answer": "Spacing between individual characters"
+  },
+  {
+    "id": "general-3409",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What does the abbreviation i.e. stand for?",
+    "options": [
+      "Id est",
+      "In example",
+      "Idem est",
+      "Inter alia"
+    ],
+    "answer": "Id est"
+  },
+  {
+    "id": "general-3410",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What does lb abbreviation come from?",
+    "options": [
+      "Libra",
+      "Limb",
+      "Lobe",
+      "Liberty"
+    ],
+    "answer": "Libra"
+  },
+  {
+    "id": "general-3411",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the term for a word that spells a different word when read backwards?",
+    "options": [
+      "Semordnilap",
+      "Palindrome",
+      "Anagram",
+      "Isogram"
+    ],
+    "answer": "Semordnilap"
+  },
+  {
+    "id": "general-3412",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the name for the feeling of having seen something before?",
+    "options": [
+      "Deja vu",
+      "Jamais vu",
+      "Presque vu",
+      "Deja entendu"
+    ],
+    "answer": "Deja vu"
+  },
+  {
+    "id": "general-3413",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In the NATO phonetic alphabet, what word represents the letter N?",
+    "options": [
+      "November",
+      "Nectar",
+      "Nancy",
+      "Norway"
+    ],
+    "answer": "November"
+  },
+  {
+    "id": "general-3414",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the origin of 'barking up the wrong tree'?",
+    "options": [
+      "Hunting dogs barking where prey isn't",
+      "Dogs barking at mailmen",
+      "Lumberjacks marking trees",
+      "Dogs confused by cats"
+    ],
+    "answer": "Hunting dogs barking where prey isn't"
+  },
+  {
+    "id": "general-3415",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'hear it through the grapevine' mean?",
+    "options": [
+      "Hear rumors via informal word of mouth",
+      "Hear news on radio",
+      "Learn from official telegram",
+      "Hear via farm workers"
+    ],
+    "answer": "Hear rumors via informal word of mouth"
+  },
+  {
+    "id": "general-3416",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What does 'don't throw the baby out with the bathwater' warn against?",
+    "options": [
+      "Discarding something valuable while getting rid of unwanted",
+      "Cleaning thoroughly",
+      "Saving water",
+      "Protecting children"
+    ],
+    "answer": "Discarding something valuable while getting rid of unwanted"
+  },
+  {
+    "id": "general-3417",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What did the original theatrical limelight consist of?",
+    "options": [
+      "Light made by heating quicklime calcium oxide",
+      "Lime-colored lens filter",
+      "Lemon juice burning lamp",
+      "Gas lamp with citrus oil"
+    ],
+    "answer": "Light made by heating quicklime calcium oxide"
+  },
+  {
+    "id": "general-3418",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Where did the word OK first appear in print?",
+    "options": [
+      "As a jocular abbreviation oll korrect in Boston Morning Post March 23 1839",
+      "As Choctaw word okeh meaning yes",
+      "As Zero Killed report",
+      "As Old Kinderhook initials"
+    ],
+    "answer": "As a jocular abbreviation oll korrect in Boston Morning Post March 23 1839"
+  },
+  {
+    "id": "general-3419",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Why does the phrase 'close, but no cigar' mention a cigar?",
+    "options": [
+      "Cigars were prizes for winning carnival games",
+      "Cigars celebrated second place",
+      "Churchill gave cigars after near misses",
+      "Cigar factories gave cigars for failing"
+    ],
+    "answer": "Cigars were prizes for winning carnival games"
+  },
+  {
+    "id": "general-3420",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'dressed to the nines' mean?",
+    "options": [
+      "Dressed very fashionably to perfection",
+      "Dressed in nine layers",
+      "Dressed at 9pm",
+      "Wearing nine colors"
+    ],
+    "answer": "Dressed very fashionably to perfection"
+  },
+  {
+    "id": "general-3421",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the true origin of 'rule of thumb'?",
+    "options": [
+      "Using thumb as rough measurement by craftsmen",
+      "Law allowing beating wife with stick no thicker than thumb",
+      "Farmers planting thumb deep",
+      "Shoemakers measuring width"
+    ],
+    "answer": "Using thumb as rough measurement by craftsmen"
+  },
+  {
+    "id": "general-3422",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'cold shoulder' mean?",
+    "options": [
+      "Deliberately ignore or be unwelcoming",
+      "A cold weather injury",
+      "Serve cold meat",
+      "A fashion style"
+    ],
+    "answer": "Deliberately ignore or be unwelcoming"
+  },
+  {
+    "id": "general-3423",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'let the cat out of the bag' mean?",
+    "options": [
+      "Reveal a secret",
+      "Free a pet",
+      "Cause chaos",
+      "Make a mistake"
+    ],
+    "answer": "Reveal a secret"
+  },
+  {
+    "id": "general-3424",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What does 'cut the mustard' mean?",
+    "options": [
+      "Meet the required standard",
+      "Slice condiments",
+      "Be very sharp",
+      "Cook well"
+    ],
+    "answer": "Meet the required standard"
+  },
+  {
+    "id": "general-3425",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'butter someone up' mean?",
+    "options": [
+      "Flatter someone to gain favor",
+      "Cook for someone",
+      "Make someone slippery",
+      "Bribe with food"
+    ],
+    "answer": "Flatter someone to gain favor"
+  },
+  {
+    "id": "general-3426",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'on the ball' mean?",
+    "options": [
+      "Alert and competent",
+      "Playing sports",
+      "Round shaped",
+      "Bouncing"
+    ],
+    "answer": "Alert and competent"
+  },
+  {
+    "id": "general-3427",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What does 'bark is worse than its bite' mean?",
+    "options": [
+      "Someone sounds more threatening than they are",
+      "Dogs are dangerous",
+      "Trees are rough",
+      "Loud noise hurts"
+    ],
+    "answer": "Someone sounds more threatening than they are"
+  },
+  {
+    "id": "general-3428",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What does 'by the skin of your teeth' mean?",
+    "options": [
+      "Narrowly escaped",
+      "Bitten hard",
+      "Very angry",
+      "Lying"
+    ],
+    "answer": "Narrowly escaped"
+  },
+  {
+    "id": "general-3429",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'it takes two to tango' mean?",
+    "options": [
+      "Both parties are responsible",
+      "Dancing requires partner",
+      "Two people must agree to dance",
+      "Argentina reference"
+    ],
+    "answer": "Both parties are responsible"
+  },
+  {
+    "id": "general-3430",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How many numbered segments are on a standard dartboard?",
+    "options": [
+      "20",
+      "12",
+      "24",
+      "18"
+    ],
+    "answer": "20"
+  },
+  {
+    "id": "general-3431",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the highest possible score with three darts?",
+    "options": [
+      "180",
+      "150",
+      "170",
+      "200"
+    ],
+    "answer": "180"
+  },
+  {
+    "id": "general-3432",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In darts, how many points is the inner bullseye worth?",
+    "options": [
+      "50",
+      "25",
+      "100",
+      "75"
+    ],
+    "answer": "50"
+  },
+  {
+    "id": "general-3433",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "How many consecutive strikes are needed for a perfect 300 game in bowling?",
+    "options": [
+      "12",
+      "10",
+      "11",
+      "13"
+    ],
+    "answer": "12"
+  },
+  {
+    "id": "general-3434",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How many pins are used in ten-pin bowling?",
+    "options": [
+      "10",
+      "9",
+      "12",
+      "15"
+    ],
+    "answer": "10"
+  },
+  {
+    "id": "general-3435",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "How long is a regulation ten-pin bowling lane from foul line to head pin?",
+    "options": [
+      "60 feet",
+      "50 feet",
+      "70 feet",
+      "45 feet"
+    ],
+    "answer": "60 feet"
+  },
+  {
+    "id": "general-3436",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How many balls are in a standard American pool set including cue ball?",
+    "options": [
+      "16",
+      "15",
+      "22",
+      "12"
+    ],
+    "answer": "16"
+  },
+  {
+    "id": "general-3437",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "How many red balls are at the start of a snooker frame?",
+    "options": [
+      "15",
+      "10",
+      "6",
+      "21"
+    ],
+    "answer": "15"
+  },
+  {
+    "id": "general-3438",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which month is named after the Roman god Janus?",
+    "options": [
+      "January",
+      "June",
+      "March",
+      "February"
+    ],
+    "answer": "January"
+  },
+  {
+    "id": "general-3439",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Which weekday is named after the Norse god Thor?",
+    "options": [
+      "Thursday",
+      "Tuesday",
+      "Wednesday",
+      "Friday"
+    ],
+    "answer": "Thursday"
+  },
+  {
+    "id": "general-3440",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "How many seconds are in a 24-hour day?",
+    "options": [
+      "86400",
+      "43200",
+      "8640",
+      "3600"
+    ],
+    "answer": "86400"
+  },
+  {
+    "id": "general-3441",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How many months have 31 days?",
+    "options": [
+      "7",
+      "5",
+      "6",
+      "8"
+    ],
+    "answer": "7"
+  },
+  {
+    "id": "general-3442",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does AM and PM stand for?",
+    "options": [
+      "Ante meridiem and post meridiem",
+      "After morning and past midday",
+      "Anti meridian and pro meridian",
+      "Am and pm are symbols"
+    ],
+    "answer": "Ante meridiem and post meridiem"
+  },
+  {
+    "id": "general-3443",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "How many dots are on a pair of standard six-sided dice at maximum?",
+    "options": [
+      "42",
+      "36",
+      "21",
+      "48"
+    ],
+    "answer": "42"
+  },
+  {
+    "id": "general-3444",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is a mondegreen?",
+    "options": [
+      "A misheard phrase that makes sense",
+      "A type of green color",
+      "A Monday morning feeling",
+      "A mythical creature"
+    ],
+    "answer": "A misheard phrase that makes sense"
+  },
+  {
+    "id": "general-3445",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is an eggcorn?",
+    "options": [
+      "A misheard phrase reinterpreted logically",
+      "A type of corn",
+      "A small egg",
+      "A chicken disease"
+    ],
+    "answer": "A misheard phrase reinterpreted logically"
+  },
+  {
+    "id": "general-3446",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How many players are needed for a standard game of bridge?",
+    "options": [
+      "4",
+      "2",
+      "3",
+      "6"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": "general-3447",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In Monopoly, which color set is the cheapest?",
+    "options": [
+      "Brown",
+      "Light Blue",
+      "Dark Blue",
+      "Green"
+    ],
+    "answer": "Brown"
+  },
+  {
+    "id": "general-3448",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In Monopoly, which color set is the most expensive?",
+    "options": [
+      "Dark Blue",
+      "Green",
+      "Red",
+      "Yellow"
+    ],
+    "answer": "Dark Blue"
+  },
+  {
+    "id": "general-3449",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the rarest number to roll with two six-sided dice?",
+    "options": [
+      "2 and 12",
+      "7",
+      "6 and 8",
+      "5 and 9"
+    ],
+    "answer": "2 and 12"
+  },
+  {
+    "id": "general-3450",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the most common number to roll with two six-sided dice?",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "2"
+    ],
+    "answer": "7"
+  },
+  {
+    "id": "general-3451",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the term for a phrase that is overused and lacks originality?",
+    "options": [
+      "Cliche",
+      "Idiom",
+      "Proverb",
+      "Metaphor"
+    ],
+    "answer": "Cliche"
+  },
+  {
+    "id": "general-3452",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How many letters are in the English alphabet as of 2026?",
+    "options": [
+      "26",
+      "24",
+      "28",
+      "27"
+    ],
+    "answer": "26"
+  },
+  {
+    "id": "general-3453",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In which board game do players collect Victory Points by building settlements and roads?",
+    "options": [
+      "Catan",
+      "Monopoly",
+      "Risk",
+      "Clue"
+    ],
+    "answer": "Catan"
+  },
+  {
+    "id": "general-3454",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How many letters are in a standard English Scrabble rack at any time?",
+    "options": [
+      "7",
+      "5",
+      "8",
+      "6"
+    ],
+    "answer": "7"
+  },
+  {
+    "id": "general-3455",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the term for a book that lists words alphabetically with definitions?",
+    "options": [
+      "Dictionary",
+      "Thesaurus",
+      "Encyclopedia",
+      "Atlas"
+    ],
+    "answer": "Dictionary"
+  },
+  {
+    "id": "general-3456",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is a lexicon?",
+    "options": [
+      "A dictionary or vocabulary of a language",
+      "A law code",
+      "A type of poem",
+      "A musical instrument"
+    ],
+    "answer": "A dictionary or vocabulary of a language"
+  },
+  {
+    "id": "general-3457",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In checkers, which color moves first?",
+    "options": [
+      "Black",
+      "Red",
+      "White",
+      "Either"
+    ],
+    "answer": "Black"
+  },
+  {
+    "id": "general-3458",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the term for a word that has the same spelling but different meaning?",
+    "options": [
+      "Homograph",
+      "Homophone",
+      "Synonym",
+      "Antonym"
+    ],
+    "answer": "Homograph"
+  },
+  {
+    "id": "general-3459",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does the idiom 'a dime a dozen' mean?",
+    "options": [
+      "Very common and cheap",
+      "Expensive",
+      "Rare",
+      "Ten for a dollar"
+    ],
+    "answer": "Very common and cheap"
+  },
+  {
+    "id": "general-3460",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'in the limelight' mean today?",
+    "options": [
+      "Being center of public attention",
+      "Being in bright light",
+      "Working in theater",
+      "Being lime colored"
+    ],
+    "answer": "Being center of public attention"
+  },
+  {
+    "id": "general-3461",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How many sides does a standard pencil have if it's hexagonal?",
+    "options": [
+      "6",
+      "5",
+      "8",
+      "4"
+    ],
+    "answer": "6"
+  },
+  {
+    "id": "general-3462",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does the phrase 'third time's a charm' imply?",
+    "options": [
+      "Success on the third attempt after two failures",
+      "Three charms needed",
+      "Magic number three",
+      "Charm bracelet"
+    ],
+    "answer": "Success on the third attempt after two failures"
+  },
+  {
+    "id": "general-3463",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What does 'know the ropes' originally refer to?",
+    "options": [
+      "Sailors learning rigging on ships",
+      "Cowboys learning lassos",
+      "Climbers learning knots",
+      "Boxers learning ring ropes"
+    ],
+    "answer": "Sailors learning rigging on ships"
+  },
+  {
+    "id": "general-3464",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What does 'taken aback' originally refer to?",
+    "options": [
+      "Sailing - wind pushing sails back",
+      "Surprised by a bag",
+      "Stepping backwards",
+      "Being robbed"
+    ],
+    "answer": "Sailing - wind pushing sails back"
+  },
+  {
+    "id": "general-3465",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What does 'show your true colors' originate from?",
+    "options": [
+      "Ships revealing their flag",
+      "Chameleons changing",
+      "Painting",
+      "Fashion"
+    ],
+    "answer": "Ships revealing their flag"
+  },
+  {
+    "id": "general-3466",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'bitten off more than you can chew' mean?",
+    "options": [
+      "Taken on too much",
+      "Eaten too fast",
+      "Been greedy",
+      "Chewing gum"
+    ],
+    "answer": "Taken on too much"
+  },
+  {
+    "id": "general-3467",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the term for a word that becomes another word when you remove first letter?",
+    "options": [
+      "Beheadment or decapitation in wordplay",
+      "Palindrome",
+      "Anagram",
+      "Isogram"
+    ],
+    "answer": "Beheadment or decapitation in wordplay"
+  },
+  {
+    "id": "general-3468",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In Scrabble, what is the Q without U rule?",
+    "options": [
+      "Q can be played without U using words like qi",
+      "Q must always have U",
+      "Q is worthless without U",
+      "Q cannot be played alone"
+    ],
+    "answer": "Q can be played without U using words like qi"
+  },
+  {
+    "id": "general-3469",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the highest scoring bingo in Scrabble theory using triple-triple?",
+    "options": [
+      "Caziques or similar high 300+ point play",
+      "Cat",
+      "Dog",
+      "Quiz"
+    ],
+    "answer": "Caziques or similar high 300+ point play"
+  },
+  {
+    "id": "general-3470",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How many dots are on a standard domino set's highest double-six tile?",
+    "options": [
+      "12",
+      "6",
+      "10",
+      "18"
+    ],
+    "answer": "12"
+  },
+  {
+    "id": "general-3471",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What does the phrase 'under the gun' originally refer to?",
+    "options": [
+      "Military pressure or being threatened",
+      "Being short",
+      "Gunpowder",
+      "Hunting"
+    ],
+    "answer": "Military pressure or being threatened"
+  },
+  {
+    "id": "general-3472",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What does 'plain sailing' originally refer to?",
+    "options": [
+      "Sailing using plane charts easy navigation",
+      "Flat seas",
+      "No wind",
+      "Simple boats"
+    ],
+    "answer": "Sailing using plane charts easy navigation"
+  },
+  {
+    "id": "general-3473",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What does 'get off on the wrong foot' mean?",
+    "options": [
+      "Start badly",
+      "Injure foot",
+      "Wear wrong shoes",
+      "Dance poorly"
+    ],
+    "answer": "Start badly"
+  },
+  {
+    "id": "general-3474",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is a malapropism intentionally called when humorous?",
+    "options": [
+      "Dogberryism",
+      "Spoonerism",
+      "Eggcorn",
+      "Mondegreen"
+    ],
+    "answer": "Dogberryism"
+  },
+  {
+    "id": "general-3475",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "In bowling, what is four strikes in a row called?",
+    "options": [
+      "Hambone",
+      "Turkey",
+      "Double",
+      "Yahtzee"
+    ],
+    "answer": "Hambone"
+  },
+  {
+    "id": "general-3476",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In Scrabble, which two letters share the value of 8 points?",
+    "options": [
+      "J and X",
+      "Q and Z",
+      "K and J",
+      "X and Q"
+    ],
+    "answer": "J and X"
+  },
+  {
+    "id": "general-3477",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What does 'all ears' mean?",
+    "options": [
+      "Listening attentively",
+      "Having big ears",
+      "Hearing everything",
+      "Wearing earphones"
+    ],
+    "answer": "Listening attentively"
   }
 ]

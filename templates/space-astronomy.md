@@ -5,7 +5,7 @@ You are drafting trivia questions for a multiple-choice trivia app. You have no 
 
 TOPIC: Space & Astronomy — planets, stars, moons, space missions and exploration, cosmology.
 
-COUNT: 100 questions.
+COUNT: 200 questions.
 
 AVOID THESE ANGLES — already well-covered in my question bank, so don't draft facts that overlap with these (pick different, more specific facts instead):
 - Smallest planet in the solar system (Mercury)
@@ -127,6 +127,17 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Betelgeuse as the red supergiant marking Orion's shoulder
 - Sagittarius A* as the Milky Way's central supermassive black hole
 - Age of the universe (~13.8 billion years)
+- Venus's clouds being made of sulfuric acid; Van Allen belts as Earth's trapped-particle zones; the Carrington Event (1859 geomagnetic storm)
+- Asaph Hall discovering Phobos and Deimos (1877); Mars's ~24h39m solar day (a "sol"); RTGs powering Curiosity/Perseverance at night; Viking 1 and 2 as the first successful US Mars landers (1976); Mariner 4 as the first Mars flyby (1965)
+- Itokawa as the asteroid Hayabusa sampled (2010); Rheasilvia, the huge impact basin on Vesta; asteroid Vesta as the brightest asteroid, sometimes naked-eye visible
+- The astronomical unit (Earth-Sun distance) and the parsec (~3.26 light-years) as units; Uranus's magnetic axis tilted ~59° from its rotation axis; Uranus's rings discovered via stellar occultation (1977)
+- Luna 9 as the first Moon soft-landing (1966); regolith as the loose lunar dust/rock layer; Surveyor 3 as the probe Apollo 12 landed near; Apollo 13's oxygen tank explosion; the ISS's ~400 km orbital altitude; ISS's first module, Zarya (1998); Salyut 1 as the first space station (1971)
+- The OBAFGKM stellar spectral classification scale, with O-type hottest and M-type coolest; comet tails always pointing away from the Sun; tidal locking as why the Moon shows only one face to Earth
+- Perseverance's February 2021 Mars landing; Cassiopeia's W shape; brown dwarfs as failed stars between planet and star mass; radial velocity as the "stellar wobble" exoplanet-detection method; Cepheid variable stars used to measure cosmic distances; binary stars orbiting a common center of mass; a habitable zone as where liquid water could exist
+- The Mercury program as the first American crewed orbital-flight program; the Space Shuttle Discovery deploying Hubble (1990); the Artemis program's goal of returning humans to the Moon
+- Galileo Galilei discovering Jupiter's four largest moons in 1610, collectively the "Galilean moons"; the Pleiades/Messier 45/"Seven Sisters" open cluster; the 1995 Hubble Deep Field image; Explorer 1 as the first American satellite (1958); neutron stars as collapsed, city-sized stellar remnants
+- Ed White's first American spacewalk (Gemini 4, June 1965); Apollo 15 as the first mission to use the Lunar Roving Vehicle (1971); Mariner 2 as the first spacecraft to fly by Venus (1962); the speed of light in a vacuum; Johannes Kepler and the laws of planetary motion; asteroids as small rocky bodies mostly orbiting between Mars and Jupiter
+- This category is deeply saturated (800+ questions) — a recent batch had a ~25% duplicate rate the default check-draft pass mostly missed (same mission/fact, reworded or reframed with a different clue); run --full-answer-audit and read every match by hand.
 - The Oort Cloud (source of long-period comets)
 - Parker Solar Probe as the first spacecraft to fly through the Sun's corona (2018/2021)
 - The Kármán line (100 km) as the boundary of space

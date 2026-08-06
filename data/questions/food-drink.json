@@ -9683,5 +9683,2358 @@
     ],
     "answer": "Tadka",
     "id": "food-drink-597"
+  },
+  {
+    "id": "food-drink-598",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What type of dough is traditionally used to make Spanish churros?",
+    "options": [
+      "Choux pastry",
+      "Shortcrust pastry",
+      "Puff pastry",
+      "Phyllo dough"
+    ],
+    "answer": "Choux pastry"
+  },
+  {
+    "id": "food-drink-599",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What fat is traditionally used to fry potatoes for authentic Belgian fries?",
+    "options": [
+      "Beef tallow",
+      "Vegetable oil",
+      "Lard",
+      "Duck fat"
+    ],
+    "answer": "Beef tallow"
+  },
+  {
+    "id": "food-drink-600",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "In Egypt, what legume is traditionally used to make ta'ameya, the Egyptian version of falafel?",
+    "options": [
+      "Fava beans",
+      "Chickpeas",
+      "Lentils",
+      "Split peas"
+    ],
+    "answer": "Fava beans"
+  },
+  {
+    "id": "food-drink-601",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What starchy vegetable forms the base of the Peruvian dish causa?",
+    "options": [
+      "Potato",
+      "Corn",
+      "Cassava",
+      "Plantain"
+    ],
+    "answer": "Potato"
+  },
+  {
+    "id": "food-drink-602",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What is the traditional wrapping used for making tamales in Mexico?",
+    "options": [
+      "Corn husks",
+      "Banana leaves",
+      "Grape leaves",
+      "Bamboo leaves"
+    ],
+    "answer": "Corn husks"
+  },
+  {
+    "id": "food-drink-603",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the main ingredient in the traditional Mongolian fermented beverage airag?",
+    "options": [
+      "Mare's milk",
+      "Cow's milk",
+      "Yak's milk",
+      "Goat's milk"
+    ],
+    "answer": "Mare's milk"
+  },
+  {
+    "id": "food-drink-604",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the Japanese term for a dish consisting of dashi broth poured over cooked rice?",
+    "options": [
+      "Chazuke",
+      "Ochazake",
+      "Zosui",
+      "Okayu"
+    ],
+    "answer": "Chazuke"
+  },
+  {
+    "id": "food-drink-605",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What short-grain rice is traditionally used in authentic Spanish paella?",
+    "options": [
+      "Bomba rice",
+      "Arborio rice",
+      "Jasmine rice",
+      "Basmati rice"
+    ],
+    "answer": "Bomba rice"
+  },
+  {
+    "id": "food-drink-606",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the name of the Japanese fermented rice seasoning made from rice, salt, and koji?",
+    "options": [
+      "Shio koji",
+      "Mirin",
+      "Sake kasu",
+      "Miso"
+    ],
+    "answer": "Shio koji"
+  },
+  {
+    "id": "food-drink-607",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What is the traditional French culinary term for a mixture of flour and fat cooked together to thicken sauces?",
+    "options": [
+      "Roux",
+      "Liaison",
+      "Slurry",
+      "Beurre manié"
+    ],
+    "answer": "Roux"
+  },
+  {
+    "id": "food-drink-608",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What type of wine is traditionally used to soak the ladyfingers in authentic tiramisu?",
+    "options": [
+      "Marsala",
+      "Amaretto",
+      "Vin Santo",
+      "Port"
+    ],
+    "answer": "Marsala"
+  },
+  {
+    "id": "food-drink-609",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What meat is traditionally used in a classic Viennese Wiener Schnitzel?",
+    "options": [
+      "Veal",
+      "Pork",
+      "Chicken",
+      "Turkey"
+    ],
+    "answer": "Veal"
+  },
+  {
+    "id": "food-drink-610",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the primary grain used in traditional Scottish oatcakes?",
+    "options": [
+      "Oats",
+      "Barley",
+      "Rye",
+      "Wheat"
+    ],
+    "answer": "Oats"
+  },
+  {
+    "id": "food-drink-611",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What type of glass is an Old Fashioned cocktail traditionally served in?",
+    "options": [
+      "Rocks glass",
+      "Coupe",
+      "Highball",
+      "Martini glass"
+    ],
+    "answer": "Rocks glass"
+  },
+  {
+    "id": "food-drink-612",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What is the traditional garnish for a classic Manhattan cocktail?",
+    "options": [
+      "Brandied cherry",
+      "Lemon twist",
+      "Olive",
+      "Pearl onion"
+    ],
+    "answer": "Brandied cherry"
+  },
+  {
+    "id": "food-drink-613",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What specific substance is traditionally used to grease the molds for baking French canelés, giving them their dark crust?",
+    "options": [
+      "Beeswax and butter",
+      "Pork lard",
+      "Vegetable oil",
+      "Beef tallow"
+    ],
+    "answer": "Beeswax and butter"
+  },
+  {
+    "id": "food-drink-614",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "Though often thought to be almond, what stone fruit pit is actually the primary flavor base of Amaretto liqueur?",
+    "options": [
+      "Apricot kernels",
+      "Peach pits",
+      "Cherry pits",
+      "Plum pits"
+    ],
+    "answer": "Apricot kernels"
+  },
+  {
+    "id": "food-drink-615",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the name of the French dessert consisting of a light, airy sponge cake baked in a ring mold and soaked in rum syrup?",
+    "options": [
+      "Savarin",
+      "Baba au rhum",
+      "Pavlova",
+      "Genoise"
+    ],
+    "answer": "Savarin"
+  },
+  {
+    "id": "food-drink-616",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "The French culinary term 'brunoise' refers to what specific preparation?",
+    "options": [
+      "Finely diced vegetables",
+      "A light fish stock",
+      "A mixture of herbs tied together",
+      "Meat cooked in its own fat"
+    ],
+    "answer": "Finely diced vegetables"
+  },
+  {
+    "id": "food-drink-617",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What is the name of the French dessert consisting of layers of crisp caramelized puff pastry and pastry cream?",
+    "options": [
+      "Mille-feuille",
+      "Croquembouche",
+      "Éclair",
+      "Paris-Brest"
+    ],
+    "answer": "Mille-feuille"
+  },
+  {
+    "id": "food-drink-618",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the traditional garnish for a classic Gibson cocktail?",
+    "options": [
+      "Pickled onion",
+      "Cocktail onion",
+      "Olive",
+      "Lemon twist"
+    ],
+    "answer": "Pickled onion"
+  },
+  {
+    "id": "food-drink-619",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the primary grain used in the Mexican chocolate-based drink champurrado?",
+    "options": [
+      "Masa",
+      "Rice",
+      "Oats",
+      "Cornmeal"
+    ],
+    "answer": "Masa"
+  },
+  {
+    "id": "food-drink-620",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What are the traditional flavorings of a French canelé?",
+    "options": [
+      "Vanilla and rum",
+      "Chocolate and espresso",
+      "Almond and orange",
+      "Lemon and poppy seed"
+    ],
+    "answer": "Vanilla and rum"
+  },
+  {
+    "id": "food-drink-621",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What nut flour is traditionally used to make a French financier pastry?",
+    "options": [
+      "Almond flour",
+      "Hazelnut flour",
+      "Pistachio flour",
+      "Walnut flour"
+    ],
+    "answer": "Almond flour"
+  },
+  {
+    "id": "food-drink-622",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What is the name of the traditional Mexican soup made with hominy and meat?",
+    "options": [
+      "Pozole",
+      "Menudo",
+      "Birria",
+      "Caldillo"
+    ],
+    "answer": "Pozole"
+  },
+  {
+    "id": "food-drink-623",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the French culinary term for the process of folding butter into dough to create multiple layers?",
+    "options": [
+      "Lamination",
+      "Emulsion",
+      "Incorporation",
+      "Detrempe"
+    ],
+    "answer": "Lamination"
+  },
+  {
+    "id": "food-drink-624",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What is the traditional Indian rice pudding made by boiling rice with milk and sugar called?",
+    "options": [
+      "Kheer",
+      "Payasam",
+      "Rasmalai",
+      "Phirni"
+    ],
+    "answer": "Kheer"
+  },
+  {
+    "id": "food-drink-625",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What is the main ingredient in the fresh Mexican dip known as pico de gallo?",
+    "options": [
+      "Tomato",
+      "Avocado",
+      "Tomatillo",
+      "Mango"
+    ],
+    "answer": "Tomato"
+  },
+  {
+    "id": "food-drink-626",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the traditional Japanese New Year's soup that contains mochi rice cakes?",
+    "options": [
+      "Ozoni",
+      "Miso soup",
+      "Suimono",
+      "Osumashi"
+    ],
+    "answer": "Ozoni"
+  },
+  {
+    "id": "food-drink-627",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What is the French name for the traditional log-shaped sponge cake served at Christmas?",
+    "options": [
+      "Bûche de Noël",
+      "Galette des rois",
+      "Pain d'épices",
+      "Kouglof"
+    ],
+    "answer": "Bûche de Noël"
+  },
+  {
+    "id": "food-drink-628",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What type of noodle is traditionally used in the Korean dish japchae?",
+    "options": [
+      "Sweet potato starch noodles",
+      "Rice noodles",
+      "Buckwheat noodles",
+      "Wheat noodles"
+    ],
+    "answer": "Sweet potato starch noodles"
+  },
+  {
+    "id": "food-drink-629",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the traditional leavening agent in authentic Neapolitan pizza dough?",
+    "options": [
+      "Brewer's yeast",
+      "Sourdough starter",
+      "Baking powder",
+      "Baking soda"
+    ],
+    "answer": "Brewer's yeast"
+  },
+  {
+    "id": "food-drink-630",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the traditional Mexican sauce thickened and flavored with toasted pumpkin seeds?",
+    "options": [
+      "Pipian",
+      "Mole verde",
+      "Salsa macha",
+      "Recado"
+    ],
+    "answer": "Pipian"
+  },
+  {
+    "id": "food-drink-631",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the French dessert consisting of cream puffs stacked into a tower and bound with caramel?",
+    "options": [
+      "Croquembouche",
+      "Saint-Honoré",
+      "Paris-Brest",
+      "Profiterole"
+    ],
+    "answer": "Croquembouche"
+  },
+  {
+    "id": "food-drink-632",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What dried ingredient is sprinkled on top of okonomiyaki that appears to 'dance' in the heat?",
+    "options": [
+      "Bonito flakes",
+      "Nori flakes",
+      "Sesame seeds",
+      "Dried shrimp"
+    ],
+    "answer": "Bonito flakes"
+  },
+  {
+    "id": "food-drink-633",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What is the name of the traditional Italian Christmas cake from Milan, known for its dome shape and candied fruits?",
+    "options": [
+      "Panettone",
+      "Pandoro",
+      "Stollen",
+      "Pannetone"
+    ],
+    "answer": "Panettone"
+  },
+  {
+    "id": "food-drink-634",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What two ingredients form the fermented batter for the South Indian crepe dosa?",
+    "options": [
+      "Rice and lentils",
+      "Rice and chickpeas",
+      "Wheat and lentils",
+      "Rice and millet"
+    ],
+    "answer": "Rice and lentils"
+  },
+  {
+    "id": "food-drink-635",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the name of the traditional Japanese dry condiment made of crushed sesame seeds and salt?",
+    "options": [
+      "Gomashio",
+      "Furikake",
+      "Shichimi togarashi",
+      "Sansho"
+    ],
+    "answer": "Gomashio"
+  },
+  {
+    "id": "food-drink-636",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the French pastry consisting of a baked apple wrapped in puff pastry?",
+    "options": [
+      "Chausson aux pommes",
+      "Tarte Tatin",
+      "Pomme dauphine",
+      "Mille-feuille"
+    ],
+    "answer": "Chausson aux pommes"
+  },
+  {
+    "id": "food-drink-637",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What fat is traditionally used to fry the onions for authentic Hungarian goulash?",
+    "options": [
+      "Lard",
+      "Butter",
+      "Vegetable oil",
+      "Beef tallow"
+    ],
+    "answer": "Lard"
+  },
+  {
+    "id": "food-drink-638",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the Italian dessert made of fried dough ribbons dusted with powdered sugar, commonly eaten during Carnival?",
+    "options": [
+      "Chiacchiere",
+      "Cannoli",
+      "Zeppole",
+      "Sfinge"
+    ],
+    "answer": "Chiacchiere"
+  },
+  {
+    "id": "food-drink-639",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the savory French pancake traditionally made with buckwheat flour originating in Brittany?",
+    "options": [
+      "Galette",
+      "Crêpe",
+      "Blini",
+      "Dosa"
+    ],
+    "answer": "Galette"
+  },
+  {
+    "id": "food-drink-640",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "Besides tequila and lime, what orange-flavored liqueur is traditionally used in a Margarita?",
+    "options": [
+      "Triple sec",
+      "Campari",
+      "Aperol",
+      "Amaretto"
+    ],
+    "answer": "Triple sec"
+  },
+  {
+    "id": "food-drink-641",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the traditional Italian sweet bread from Verona, star-shaped and dusted with powdered sugar?",
+    "options": [
+      "Pandoro",
+      "Panettone",
+      "Cassata",
+      "Pandolce"
+    ],
+    "answer": "Pandoro"
+  },
+  {
+    "id": "food-drink-642",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the name of the traditional Korean cold noodle dish served in a tangy iced broth?",
+    "options": [
+      "Naengmyeon",
+      "Japchae",
+      "Bibim guksu",
+      "Kalguksu"
+    ],
+    "answer": "Naengmyeon"
+  },
+  {
+    "id": "food-drink-643",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the Persian term for the crispy golden crust of rice formed at the bottom of the pot?",
+    "options": [
+      "Tahdig",
+      "Tahchin",
+      "Chelow",
+      "Polo"
+    ],
+    "answer": "Tahdig"
+  },
+  {
+    "id": "food-drink-644",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the traditional French anise-flavored spirit associated with the South of France?",
+    "options": [
+      "Pastis",
+      "Absinthe",
+      "Ouzo",
+      "Ricard"
+    ],
+    "answer": "Pastis"
+  },
+  {
+    "id": "food-drink-645",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the Japanese term for a bowl of sushi rice topped with a variety of raw fish and garnishes?",
+    "options": [
+      "Chirashizushi",
+      "Temaki",
+      "Nigiri",
+      "Gunkan"
+    ],
+    "answer": "Chirashizushi"
+  },
+  {
+    "id": "food-drink-646",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the Vietnamese crispy crepe made from rice flour, turmeric, and water?",
+    "options": [
+      "Banh xeo",
+      "Banh mi",
+      "Banh cuon",
+      "Banh bao"
+    ],
+    "answer": "Banh xeo"
+  },
+  {
+    "id": "food-drink-647",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What is the name of the French pastry made of laminated dough shaped into a spiral with raisins?",
+    "options": [
+      "Pain aux raisins",
+      "Croissant",
+      "Kouign-amann",
+      "Chausson aux pommes"
+    ],
+    "answer": "Pain aux raisins"
+  },
+  {
+    "id": "food-drink-648",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the Indian dessert made by deep-frying a sweetened batter into a pretzel or spiral shape and soaking it in syrup?",
+    "options": [
+      "Jalebi",
+      "Gulab jamun",
+      "Imarti",
+      "Chenna gaja"
+    ],
+    "answer": "Jalebi"
+  },
+  {
+    "id": "food-drink-649",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the traditional Mexican soup made with tripe and hominy, often served as a hangover cure?",
+    "options": [
+      "Menudo",
+      "Pozole",
+      "Birria",
+      "Caldillo de res"
+    ],
+    "answer": "Menudo"
+  },
+  {
+    "id": "food-drink-650",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the Puerto Rican dish made from mashed plantains mixed with broth and stuffed with meat?",
+    "options": [
+      "Mofongo",
+      "Tostones",
+      "Alcapurrias",
+      "Arañitas"
+    ],
+    "answer": "Mofongo"
+  },
+  {
+    "id": "food-drink-651",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What is the name of the traditional Italian frozen dessert made by freezing liquid ingredients without stirring, resulting in a coarse texture?",
+    "options": [
+      "Granita",
+      "Gelato",
+      "Semifreddo",
+      "Affogato"
+    ],
+    "answer": "Granita"
+  },
+  {
+    "id": "food-drink-652",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the name of the Korean soft tofu stew often served in a hot stone bowl?",
+    "options": [
+      "Sundubu-jjigae",
+      "Kimchi-jjigae",
+      "Doenjang-jjigae",
+      "Budae-jjigae"
+    ],
+    "answer": "Sundubu-jjigae"
+  },
+  {
+    "id": "food-drink-653",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the name of the Hungarian stew made with pork, sauerkraut, and sour cream?",
+    "options": [
+      "Székelygulyás",
+      "Pörkölt",
+      "Tokány",
+      "Halászlé"
+    ],
+    "answer": "Székelygulyás"
+  },
+  {
+    "id": "food-drink-654",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What is the name of the Mexican dish consisting of a corn tortilla rolled around a filling and covered with chili sauce?",
+    "options": [
+      "Enchilada",
+      "Burrito",
+      "Chimichanga",
+      "Flauta"
+    ],
+    "answer": "Enchilada"
+  },
+  {
+    "id": "food-drink-655",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the traditional French apple tart from Normandy baked with a custard filling?",
+    "options": [
+      "Tarte Normande",
+      "Tarte Tatin",
+      "Galette des rois",
+      "Clafoutis"
+    ],
+    "answer": "Tarte Normande"
+  },
+  {
+    "id": "food-drink-656",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What is the name of the Japanese breaded and deep-fried pork cutlet?",
+    "options": [
+      "Tonkatsu",
+      "Katsudon",
+      "Karaage",
+      "Tempura"
+    ],
+    "answer": "Tonkatsu"
+  },
+  {
+    "id": "food-drink-657",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the bourbon-based cocktail traditionally associated with the Kentucky Derby?",
+    "options": [
+      "Mint Julep",
+      "Old Fashioned",
+      "Whiskey Sour",
+      "Manhattan"
+    ],
+    "answer": "Mint Julep"
+  },
+  {
+    "id": "food-drink-658",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the name of the traditional Neapolitan Easter dessert made with cooked wheat berries, ricotta, and citrus?",
+    "options": [
+      "Pastiera",
+      "Cassata",
+      "Sfogliatella",
+      "Babà"
+    ],
+    "answer": "Pastiera"
+  },
+  {
+    "id": "food-drink-659",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the Japanese term for grilled eel glazed in a sweet soy-based sauce?",
+    "options": [
+      "Unagi no kabayaki",
+      "Teriyaki",
+      "Yakitori",
+      "Tsukune"
+    ],
+    "answer": "Unagi no kabayaki"
+  },
+  {
+    "id": "food-drink-660",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the Vietnamese dish consisting of grilled pork served over rice vermicelli with herbs and a sweet sauce?",
+    "options": [
+      "Bun cha",
+      "Banh mi",
+      "Pho",
+      "Com tam"
+    ],
+    "answer": "Bun cha"
+  },
+  {
+    "id": "food-drink-661",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the name of the traditional Indian flatbread stuffed with a sweet lentil filling, popular in Maharashtra?",
+    "options": [
+      "Puran poli",
+      "Obbattu",
+      "Bobbattu",
+      "Holige"
+    ],
+    "answer": "Puran poli"
+  },
+  {
+    "id": "food-drink-662",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the name of the traditional Mexican fermented beverage made from pineapple peel and rind?",
+    "options": [
+      "Tepache",
+      "Pulque",
+      "Tuba",
+      "Tejuino"
+    ],
+    "answer": "Tepache"
+  },
+  {
+    "id": "food-drink-663",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the Japanese sushi made by stuffing sweet vinegared rice into a deep-fried tofu pouch?",
+    "options": [
+      "Inari",
+      "Onigiri",
+      "Temaki",
+      "Nigiri"
+    ],
+    "answer": "Inari"
+  },
+  {
+    "id": "food-drink-664",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the traditional Puerto Rican rice dish made with pigeon peas and pork?",
+    "options": [
+      "Arroz con gandules",
+      "Arroz con pollo",
+      "Arroz moro",
+      "Asopao"
+    ],
+    "answer": "Arroz con gandules"
+  },
+  {
+    "id": "food-drink-665",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the name of the traditional Italian flourless chocolate and almond cake from Capri?",
+    "options": [
+      "Torta caprese",
+      "Sachertorte",
+      "Cassata",
+      "Tiramisu"
+    ],
+    "answer": "Torta caprese"
+  },
+  {
+    "id": "food-drink-666",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the primary filling of the Chinese dim sum dumpling har gow?",
+    "options": [
+      "Shrimp",
+      "Pork",
+      "Chicken",
+      "Beef"
+    ],
+    "answer": "Shrimp"
+  },
+  {
+    "id": "food-drink-667",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the Indian bread made by deep-frying a leavened yogurt dough?",
+    "options": [
+      "Bhatura",
+      "Naan",
+      "Roti",
+      "Paratha"
+    ],
+    "answer": "Bhatura"
+  },
+  {
+    "id": "food-drink-668",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What is the name of the traditional Mexican soup made with a clear broth, fried tortilla strips, and chicken?",
+    "options": [
+      "Tortilla soup",
+      "Pozole",
+      "Menudo",
+      "Birria"
+    ],
+    "answer": "Tortilla soup"
+  },
+  {
+    "id": "food-drink-669",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the main ingredient in the Korean pancake bindaetteok?",
+    "options": [
+      "Mung beans",
+      "Rice flour",
+      "Wheat flour",
+      "Buckwheat"
+    ],
+    "answer": "Mung beans"
+  },
+  {
+    "id": "food-drink-670",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the French frozen dessert made by layering ice cream in a mold, similar to a semifreddo?",
+    "options": [
+      "Parfait",
+      "Semifreddo",
+      "Granita",
+      "Vacherin"
+    ],
+    "answer": "Parfait"
+  },
+  {
+    "id": "food-drink-671",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the primary grain used in the traditional Ethiopian home-brewed beer known as tella?",
+    "options": [
+      "Sorghum",
+      "Barley",
+      "Teff",
+      "Wheat"
+    ],
+    "answer": "Sorghum"
+  },
+  {
+    "id": "food-drink-672",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the name of the traditional Japanese vegetable knife with a rectangular blade and flat edge?",
+    "options": [
+      "Usuba",
+      "Deba",
+      "Yanagiba",
+      "Santoku"
+    ],
+    "answer": "Usuba"
+  },
+  {
+    "id": "food-drink-673",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the French term for the browned butter used to flavor traditional madeleines?",
+    "options": [
+      "Beurre noisette",
+      "Beurre blanc",
+      "Beurre composé",
+      "Beurre fondu"
+    ],
+    "answer": "Beurre noisette"
+  },
+  {
+    "id": "food-drink-674",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the Yucatecan dish of pork marinated in citrus and annatto, wrapped in banana leaves and slow-roasted?",
+    "options": [
+      "Cochinita pibil",
+      "Lechon",
+      "Barbacoa",
+      "Carnitas"
+    ],
+    "answer": "Cochinita pibil"
+  },
+  {
+    "id": "food-drink-675",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the primary spirit in a Penicillin cocktail?",
+    "options": [
+      "Scotch whisky",
+      "Bourbon",
+      "Rye whiskey",
+      "Irish whiskey"
+    ],
+    "answer": "Scotch whisky"
+  },
+  {
+    "id": "food-drink-676",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the name of the traditional Japanese dish of whole sea bream salted and grilled, often served at celebrations?",
+    "options": [
+      "Tai no shioyaki",
+      "Saba shioyaki",
+      "Sanma shioyaki",
+      "Aji no tataki"
+    ],
+    "answer": "Tai no shioyaki"
+  },
+  {
+    "id": "food-drink-677",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the traditional German bread made from coarsely ground rye flour and a sourdough starter, known for its dark color?",
+    "options": [
+      "Pumpernickel",
+      "Vollkornbrot",
+      "Roggenbrot",
+      "Schwarzbrot"
+    ],
+    "answer": "Pumpernickel"
+  },
+  {
+    "id": "food-drink-678",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the primary dairy ingredient in the Indian dessert gulab jamun?",
+    "options": [
+      "Milk solids",
+      "Ricotta cheese",
+      "Yogurt",
+      "Condensed milk"
+    ],
+    "answer": "Milk solids"
+  },
+  {
+    "id": "food-drink-679",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What is the primary spirit in a classic Sazerac cocktail?",
+    "options": [
+      "Rye whiskey",
+      "Bourbon",
+      "Cognac",
+      "Gin"
+    ],
+    "answer": "Rye whiskey"
+  },
+  {
+    "id": "food-drink-680",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the Japanese rolled omelette made by layering thin layers of cooked egg?",
+    "options": [
+      "Tamagoyaki",
+      "Chawanmushi",
+      "Okonomiyaki",
+      "Oyakodon"
+    ],
+    "answer": "Tamagoyaki"
+  },
+  {
+    "id": "food-drink-681",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What is the primary base ingredient in traditional Mexican horchata?",
+    "options": [
+      "Rice",
+      "Almonds",
+      "Sesame seeds",
+      "Oats"
+    ],
+    "answer": "Rice"
+  },
+  {
+    "id": "food-drink-682",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the Italian dessert made by thickening sweetened cream with gelatin and molding it?",
+    "options": [
+      "Panna cotta",
+      "Zabaione",
+      "Tiramisu",
+      "Cassata"
+    ],
+    "answer": "Panna cotta"
+  },
+  {
+    "id": "food-drink-683",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What is the name of the traditional Mexican sauce made from chocolate and chili peppers?",
+    "options": [
+      "Mole",
+      "Salsa roja",
+      "Pipian",
+      "Adobo"
+    ],
+    "answer": "Mole"
+  },
+  {
+    "id": "food-drink-684",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the main ingredient in the traditional Peruvian drink chicha morada?",
+    "options": [
+      "Purple corn",
+      "Blackberries",
+      "Blueberries",
+      "Plums"
+    ],
+    "answer": "Purple corn"
+  },
+  {
+    "id": "food-drink-685",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the French culinary term for a bundle of herbs tied together and used to flavor stocks and stews?",
+    "options": [
+      "Bouquet garni",
+      "Sachet d'épices",
+      "Mirepoix",
+      "Brunoise"
+    ],
+    "answer": "Bouquet garni"
+  },
+  {
+    "id": "food-drink-686",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What is the base grain in the Korean dish bibimbap?",
+    "options": [
+      "Rice",
+      "Barley",
+      "Quinoa",
+      "Millet"
+    ],
+    "answer": "Rice"
+  },
+  {
+    "id": "food-drink-687",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What is the Japanese term for thinly sliced raw fish served without rice?",
+    "options": [
+      "Sashimi",
+      "Sushi",
+      "Nigiri",
+      "Poke"
+    ],
+    "answer": "Sashimi"
+  },
+  {
+    "id": "food-drink-688",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the primary ingredient in the Indian dish paneer tikka?",
+    "options": [
+      "Cheese",
+      "Chicken",
+      "Lentils",
+      "Cauliflower"
+    ],
+    "answer": "Cheese"
+  },
+  {
+    "id": "food-drink-689",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What is the name of the French dessert consisting of a custard base topped with a hard caramel layer?",
+    "options": [
+      "Crème brûlée",
+      "Flan",
+      "Pot de crème",
+      "Crème caramel"
+    ],
+    "answer": "Crème brûlée"
+  },
+  {
+    "id": "food-drink-690",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What type of pepper is traditionally used to make the Mexican dish chiles rellenos?",
+    "options": [
+      "Poblano peppers",
+      "Jalapeños",
+      "Anaheims",
+      "Serranos"
+    ],
+    "answer": "Poblano peppers"
+  },
+  {
+    "id": "food-drink-691",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What fortified wine is traditionally mixed with gin to make a classic Martini?",
+    "options": [
+      "Vermouth",
+      "Sherry",
+      "Port",
+      "Lillet"
+    ],
+    "answer": "Vermouth"
+  },
+  {
+    "id": "food-drink-692",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the main ingredient in the Korean street food dish tteokbokki?",
+    "options": [
+      "Rice cakes",
+      "Glass noodles",
+      "Tofu",
+      "Cabbage"
+    ],
+    "answer": "Rice cakes"
+  },
+  {
+    "id": "food-drink-693",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What is the name of the French dessert made of a thin pancake folded around a filling?",
+    "options": [
+      "Crêpe",
+      "Galette",
+      "Blintz",
+      "Clafoutis"
+    ],
+    "answer": "Crêpe"
+  },
+  {
+    "id": "food-drink-694",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the traditional filling for the Indian snack samosa?",
+    "options": [
+      "Potatoes and peas",
+      "Minced meat",
+      "Lentils",
+      "Paneer"
+    ],
+    "answer": "Potatoes and peas"
+  },
+  {
+    "id": "food-drink-695",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "Which country is the origin of the spirit Cachaça?",
+    "options": [
+      "Brazil",
+      "Portugal",
+      "Mexico",
+      "Colombia"
+    ],
+    "answer": "Brazil"
+  },
+  {
+    "id": "food-drink-696",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the name of the traditional Yucatecan soup made with turkey or chicken, lime, and fried tortilla strips?",
+    "options": [
+      "Sopa de lima",
+      "Sopa de fideo",
+      "Pozole",
+      "Menudo"
+    ],
+    "answer": "Sopa de lima"
+  },
+  {
+    "id": "food-drink-697",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What orange-flavored liqueur is traditionally used in a Cosmopolitan cocktail besides vodka and cranberry juice?",
+    "options": [
+      "Triple sec",
+      "Campari",
+      "Aperol",
+      "Grand Marnier"
+    ],
+    "answer": "Triple sec"
+  },
+  {
+    "id": "food-drink-698",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the French dessert made of a sweetened chestnut puree shaped like a nest and topped with cream?",
+    "options": [
+      "Mont Blanc",
+      "Maron glacé",
+      "Creme de marrons",
+      "Tarte tropézienne"
+    ],
+    "answer": "Mont Blanc"
+  },
+  {
+    "id": "food-drink-699",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What type of vinegar is traditionally used to braise the meat in Filipino adobo?",
+    "options": [
+      "Cane vinegar",
+      "Rice vinegar",
+      "Apple cider vinegar",
+      "White vinegar"
+    ],
+    "answer": "Cane vinegar"
+  },
+  {
+    "id": "food-drink-700",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What type of noodles are used in the Vietnamese dish bun cha?",
+    "options": [
+      "Rice vermicelli",
+      "Egg noodles",
+      "Wheat noodles",
+      "Mung bean threads"
+    ],
+    "answer": "Rice vermicelli"
+  },
+  {
+    "id": "food-drink-701",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the traditional French baked custard tart often flavored with vanilla or almond?",
+    "options": [
+      "Flan pâtissier",
+      "Crème brûlée",
+      "Tarte Tatin",
+      "Clafoutis"
+    ],
+    "answer": "Flan pâtissier"
+  },
+  {
+    "id": "food-drink-702",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the name of the traditional Mexican fermented beverage made from corn dough and water?",
+    "options": [
+      "Pozol",
+      "Pulque",
+      "Tepache",
+      "Atole"
+    ],
+    "answer": "Pozol"
+  },
+  {
+    "id": "food-drink-703",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What is the primary spirit in a classic French 75 cocktail?",
+    "options": [
+      "Gin",
+      "Champagne",
+      "Cognac",
+      "Vodka"
+    ],
+    "answer": "Gin"
+  },
+  {
+    "id": "food-drink-704",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the name of the traditional Italian chestnut flour cake from Tuscany?",
+    "options": [
+      "Castagnaccio",
+      "Torta caprese",
+      "Sbrisolona",
+      "Cassata"
+    ],
+    "answer": "Castagnaccio"
+  },
+  {
+    "id": "food-drink-705",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the traditional filling for Japanese gyoza?",
+    "options": [
+      "Pork",
+      "Shrimp",
+      "Beef",
+      "Chicken"
+    ],
+    "answer": "Pork"
+  },
+  {
+    "id": "food-drink-706",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "Which country is the origin of the spirit Cognac?",
+    "options": [
+      "France",
+      "Spain",
+      "Italy",
+      "Portugal"
+    ],
+    "answer": "France"
+  },
+  {
+    "id": "food-drink-707",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the name of the traditional Indian cooling drink made with tamarind, jaggery, and spices?",
+    "options": [
+      "Jaljeera",
+      "Thandai",
+      "Aam panna",
+      "Sattu sharbat"
+    ],
+    "answer": "Jaljeera"
+  },
+  {
+    "id": "food-drink-708",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the primary spirit in a classic Aviation cocktail?",
+    "options": [
+      "Gin",
+      "Vodka",
+      "Rum",
+      "Bourbon"
+    ],
+    "answer": "Gin"
+  },
+  {
+    "id": "food-drink-709",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the name of the French pastry consisting of a deep-fried choux paste ball sprinkled with sugar?",
+    "options": [
+      "Pets de nonne",
+      "Beignet",
+      "Profiterole",
+      "Religieuse"
+    ],
+    "answer": "Pets de nonne"
+  },
+  {
+    "id": "food-drink-710",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What are the two primary ingredients in the Korean seafood pancake haemul pajeon?",
+    "options": [
+      "Seafood and green onion",
+      "Kimchi and pork",
+      "Tofu and mushroom",
+      "Buckwheat and cabbage"
+    ],
+    "answer": "Seafood and green onion"
+  },
+  {
+    "id": "food-drink-711",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the name of the traditional Italian crumbly semolina cake from Lombardy?",
+    "options": [
+      "Sbrisolona",
+      "Torta caprese",
+      "Cassata",
+      "Panforte"
+    ],
+    "answer": "Sbrisolona"
+  },
+  {
+    "id": "food-drink-712",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What type of flour is traditionally used to make Japanese udon noodles?",
+    "options": [
+      "Wheat flour",
+      "Rice flour",
+      "Buckwheat flour",
+      "Tapioca flour"
+    ],
+    "answer": "Wheat flour"
+  },
+  {
+    "id": "food-drink-713",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the traditional French name for a dish of brioche bread soaked in milk and egg, then fried and dusted with sugar?",
+    "options": [
+      "Pain perdu",
+      "Croque monsieur",
+      "French toast",
+      "Tartine"
+    ],
+    "answer": "Pain perdu"
+  },
+  {
+    "id": "food-drink-714",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What ingredient gives traditional Mexican mole its characteristic dark color and rich flavor?",
+    "options": [
+      "Chocolate",
+      "Coffee",
+      "Dark beer",
+      "Molasses"
+    ],
+    "answer": "Chocolate"
+  },
+  {
+    "id": "food-drink-715",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What anise-flavored spirit is traditionally used to rinse the glass for a classic Sazerac?",
+    "options": [
+      "Absinthe",
+      "Pastis",
+      "Herbsaint",
+      "Ouzo"
+    ],
+    "answer": "Absinthe"
+  },
+  {
+    "id": "food-drink-716",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the main ingredient in the South Indian savory donut snack vada?",
+    "options": [
+      "Lentils",
+      "Rice flour",
+      "Chickpeas",
+      "Potato"
+    ],
+    "answer": "Lentils"
+  },
+  {
+    "id": "food-drink-717",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "Which country is the origin of the spirit Mezcal?",
+    "options": [
+      "Mexico",
+      "Spain",
+      "Guatemala",
+      "Peru"
+    ],
+    "answer": "Mexico"
+  },
+  {
+    "id": "food-drink-718",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What is the Japanese food product made by coagulating soy milk and pressing the curds into blocks?",
+    "options": [
+      "Tofu",
+      "Tempeh",
+      "Edamame",
+      "Yuba"
+    ],
+    "answer": "Tofu"
+  },
+  {
+    "id": "food-drink-719",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the Korean dish made of marinated beef short ribs grilled over charcoal?",
+    "options": [
+      "Galbi",
+      "Bulgogi",
+      "Samgyeopsal",
+      "Dak galbi"
+    ],
+    "answer": "Galbi"
+  },
+  {
+    "id": "food-drink-720",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What is the name of the traditional Japanese soup made from a dashi stock and miso paste?",
+    "options": [
+      "Miso soup",
+      "Udon",
+      "Ramen",
+      "Ozoni"
+    ],
+    "answer": "Miso soup"
+  },
+  {
+    "id": "food-drink-721",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What is the primary spirit in a classic Daiquiri cocktail?",
+    "options": [
+      "Rum",
+      "Vodka",
+      "Gin",
+      "Tequila"
+    ],
+    "answer": "Rum"
+  },
+  {
+    "id": "food-drink-722",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the name of the traditional Cuban espresso drink cut with steamed milk?",
+    "options": [
+      "Cortadito",
+      "Café con leche",
+      "Colada",
+      "Café cubano"
+    ],
+    "answer": "Cortadito"
+  },
+  {
+    "id": "food-drink-723",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the name of the traditional Italian dessert made of sponge cake soaked in rum and coffee, layered with chocolate and vanilla custard?",
+    "options": [
+      "Zuppa Inglese",
+      "Tiramisu",
+      "Cassata",
+      "Mille-feuille"
+    ],
+    "answer": "Zuppa Inglese"
+  },
+  {
+    "id": "food-drink-724",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the main ingredient in the Japanese dish tempura?",
+    "options": [
+      "Seafood or vegetables",
+      "Pork cutlet",
+      "Tofu",
+      "Chicken"
+    ],
+    "answer": "Seafood or vegetables"
+  },
+  {
+    "id": "food-drink-725",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What is the name of the French pastry made of an oblong choux shell filled with cream and topped with chocolate icing?",
+    "options": [
+      "Éclair",
+      "Profiterole",
+      "Religieuse",
+      "Paris-Brest"
+    ],
+    "answer": "Éclair"
+  },
+  {
+    "id": "food-drink-726",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What is the primary meat used in the Korean dish bulgogi?",
+    "options": [
+      "Beef",
+      "Pork",
+      "Chicken",
+      "Lamb"
+    ],
+    "answer": "Beef"
+  },
+  {
+    "id": "food-drink-727",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What is the primary spirit in a classic Piña Colada?",
+    "options": [
+      "Rum",
+      "Vodka",
+      "Tequila",
+      "Gin"
+    ],
+    "answer": "Rum"
+  },
+  {
+    "id": "food-drink-728",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the traditional Neapolitan pastry eaten on St. Joseph's Day, consisting of a fried dough tube filled with cream?",
+    "options": [
+      "Zeppole",
+      "Sfogliatella",
+      "Cannoli",
+      "Bignè"
+    ],
+    "answer": "Zeppole"
+  },
+  {
+    "id": "food-drink-729",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the French dessert consisting of a ring of choux pastry filled with praline cream and topped with sliced almonds?",
+    "options": [
+      "Paris-Brest",
+      "Saint-Honoré",
+      "Croquembouche",
+      "Religieuse"
+    ],
+    "answer": "Paris-Brest"
+  },
+  {
+    "id": "food-drink-730",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the traditional Indian dessert made of cheese dumplings soaked in a thickened, sweetened milk syrup?",
+    "options": [
+      "Rasmalai",
+      "Gulab jamun",
+      "Kheer",
+      "Sandesh"
+    ],
+    "answer": "Rasmalai"
+  },
+  {
+    "id": "food-drink-731",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the name of the traditional Mexican herbal liqueur made from a flowering shrub native to Central America?",
+    "options": [
+      "Damiana",
+      "Kahlúa",
+      "Charanda",
+      "Pox"
+    ],
+    "answer": "Damiana"
+  },
+  {
+    "id": "food-drink-732",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What is the name of the traditional Indian flatbread typically cooked on a tava griddle?",
+    "options": [
+      "Roti",
+      "Naan",
+      "Baguette",
+      "Lavash"
+    ],
+    "answer": "Roti"
+  },
+  {
+    "id": "food-drink-733",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the primary ingredient in the Brazilian side dish farofa?",
+    "options": [
+      "Cassava flour",
+      "Cornmeal",
+      "Rice",
+      "Bread crumbs"
+    ],
+    "answer": "Cassava flour"
+  },
+  {
+    "id": "food-drink-734",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What nut is traditionally used to make the Italian cookie known as pignoli?",
+    "options": [
+      "Pine nuts",
+      "Almonds",
+      "Walnuts",
+      "Pistachios"
+    ],
+    "answer": "Pine nuts"
+  },
+  {
+    "id": "food-drink-735",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What is the name of the thick, rich cream traditionally served with scones in an English cream tea?",
+    "options": [
+      "Clotted cream",
+      "Double cream",
+      "Whipped cream",
+      "Crème fraîche"
+    ],
+    "answer": "Clotted cream"
+  },
+  {
+    "id": "food-drink-736",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the traditional English baked pastry consisting of a savory filling in a half-moon shaped crust?",
+    "options": [
+      "Cornish pasty",
+      "Pork pie",
+      "Sausage roll",
+      "Scotch egg"
+    ],
+    "answer": "Cornish pasty"
+  },
+  {
+    "id": "food-drink-737",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the name of the Italian cured pork fat obtained from the back of the pig, often cured in marble troughs?",
+    "options": [
+      "Lardo di Colonnata",
+      "Pancetta",
+      "Guanciale",
+      "Speck"
+    ],
+    "answer": "Lardo di Colonnata"
+  },
+  {
+    "id": "food-drink-738",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the name of the traditional French boat-shaped almond paste candy from Aix-en-Provence?",
+    "options": [
+      "Calisson",
+      "Macaron",
+      "Nougat",
+      "Praline"
+    ],
+    "answer": "Calisson"
+  },
+  {
+    "id": "food-drink-739",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the traditional French confection made from honey, sugar, and roasted nuts?",
+    "options": [
+      "Nougat",
+      "Praline",
+      "Brittle",
+      "Marzipan"
+    ],
+    "answer": "Nougat"
+  },
+  {
+    "id": "food-drink-740",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the Spanish cold tomato soup originating from Cordoba, thicker than gazpacho?",
+    "options": [
+      "Salmorejo",
+      "Gazpacho",
+      "Ajo blanco",
+      "Vichyssoise"
+    ],
+    "answer": "Salmorejo"
+  },
+  {
+    "id": "food-drink-741",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the Spanish pasta dish similar to paella, but made with short noodles instead of rice?",
+    "options": [
+      "Fideuà",
+      "Arroz a banda",
+      "Paella negra",
+      "Catalana"
+    ],
+    "answer": "Fideuà"
+  },
+  {
+    "id": "food-drink-742",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the Portuguese term for salted, dried cod, a staple of their cuisine?",
+    "options": [
+      "Bacalao",
+      "Lingcod",
+      "Pollock",
+      "Brandade"
+    ],
+    "answer": "Bacalao"
+  },
+  {
+    "id": "food-drink-743",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What is the name of the Spanish pork sausage seasoned with smoked paprika?",
+    "options": [
+      "Chorizo",
+      "Salchichón",
+      "Sobrasada",
+      "Morcilla"
+    ],
+    "answer": "Chorizo"
+  },
+  {
+    "id": "food-drink-744",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the traditional Spanish blood sausage often made with onions and rice?",
+    "options": [
+      "Morcilla",
+      "Chorizo",
+      "Botifarra",
+      "Llonganissa"
+    ],
+    "answer": "Morcilla"
+  },
+  {
+    "id": "food-drink-745",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What is the name of the Spanish tapas dish consisting of fried potatoes served with a spicy tomato sauce?",
+    "options": [
+      "Patatas bravas",
+      "Patatas fritas",
+      "Tortilla española",
+      "Croquetas"
+    ],
+    "answer": "Patatas bravas"
+  },
+  {
+    "id": "food-drink-746",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What is the name of the traditional Spanish omelette made with potatoes and eggs?",
+    "options": [
+      "Tortilla española",
+      "Frittata",
+      "Omelette du fromage",
+      "Crespéou"
+    ],
+    "answer": "Tortilla española"
+  },
+  {
+    "id": "food-drink-747",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the Galician dish of octopus boiled and served on a wooden board with paprika and olive oil?",
+    "options": [
+      "Pulpo a la gallega",
+      "Caldo gallego",
+      "Empanada gallega",
+      "Pimientos de Padrón"
+    ],
+    "answer": "Pulpo a la gallega"
+  },
+  {
+    "id": "food-drink-748",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the Spanish tapa consisting of small green peppers fried in olive oil and sprinkled with salt?",
+    "options": [
+      "Pimientos de Padrón",
+      "Piquillos rellenos",
+      "Patatas bravas",
+      "Boquerones"
+    ],
+    "answer": "Pimientos de Padrón"
+  },
+  {
+    "id": "food-drink-749",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the Spanish tapa consisting of breaded and fried cylinders of béchamel sauce?",
+    "options": [
+      "Croquetas",
+      "Churros",
+      "Buñuelos",
+      "Tortillitas"
+    ],
+    "answer": "Croquetas"
+  },
+  {
+    "id": "food-drink-750",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the Spanish term for meatballs, often served in a tomato or almond sauce as a tapa?",
+    "options": [
+      "Albóndigas",
+      "Picadillo",
+      "Ropa vieja",
+      "Albondiguillas"
+    ],
+    "answer": "Albóndigas"
+  },
+  {
+    "id": "food-drink-751",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the Spanish tapa consisting of garlic shrimp cooked in olive oil?",
+    "options": [
+      "Gambas al ajillo",
+      "Gambas a la plancha",
+      "Boquerones en vinagre",
+      "Paella"
+    ],
+    "answer": "Gambas al ajillo"
+  },
+  {
+    "id": "food-drink-752",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the Spanish dish of anchovies marinated in vinegar and seasoned with garlic and parsley?",
+    "options": [
+      "Boquerones en vinagre",
+      "Gambas al ajillo",
+      "Pulpo a la gallega",
+      " Bacalao"
+    ],
+    "answer": "Boquerones en vinagre"
+  },
+  {
+    "id": "food-drink-753",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the Spanish fried squid rings often served as a tapa or with lemon?",
+    "options": [
+      "Calamares a la romana",
+      "Gambas al ajillo",
+      "Pulpo a la gallega",
+      "Fideuà"
+    ],
+    "answer": "Calamares a la romana"
+  },
+  {
+    "id": "food-drink-754",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the traditional Spanish breakfast consisting of long fried dough sticks dipped in thick hot chocolate?",
+    "options": [
+      "Churros con chocolate",
+      "Tortilla española",
+      "Pan con tomate",
+      "Tostada con aceite"
+    ],
+    "answer": "Churros con chocolate"
+  },
+  {
+    "id": "food-drink-755",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the traditional Spanish nougat made with honey, sugar, egg whites, and nuts, commonly eaten at Christmas?",
+    "options": [
+      "Turrón",
+      "Polvorón",
+      "Mantecado",
+      "Marzipan"
+    ],
+    "answer": "Turrón"
+  },
+  {
+    "id": "food-drink-756",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the Spanish crumbly shortbread cookie traditionally eaten at Christmas?",
+    "options": [
+      "Polvorón",
+      "Turrón",
+      "Churro",
+      "Ensaimada"
+    ],
+    "answer": "Polvorón"
+  },
+  {
+    "id": "food-drink-757",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the traditional Spanish ring-shaped sweet bread eaten on Epiphany?",
+    "options": [
+      "Roscón de reyes",
+      "Panettone",
+      "Rosquilla",
+      "Ensaimada"
+    ],
+    "answer": "Roscón de reyes"
+  },
+  {
+    "id": "food-drink-758",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the name of the Catalan almond-based sweets traditionally eaten on All Saints' Day?",
+    "options": [
+      "Panellets",
+      "Turrón",
+      "Polvorones",
+      "Ensaimadas"
+    ],
+    "answer": "Panellets"
+  },
+  {
+    "id": "food-drink-759",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the name of the Catalan sweet bread traditionally eaten for the festival of Saint John?",
+    "options": [
+      "Coca de Sant Joan",
+      "Roscón de reyes",
+      "Panellets",
+      "Ensaimada"
+    ],
+    "answer": "Coca de Sant Joan"
+  },
+  {
+    "id": "food-drink-760",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the name of the Catalan dish made from roasted eggplant, peppers, onions, and tomatoes?",
+    "options": [
+      "Escalivada",
+      "Esqueixada",
+      "Calçotada",
+      "Trinxat"
+    ],
+    "answer": "Escalivada"
+  },
+  {
+    "id": "food-drink-761",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the name of the Catalan variety of onion traditionally grilled and served with romesco sauce?",
+    "options": [
+      "Calçot",
+      "Cebolla",
+      "Puerro",
+      "Ajo"
+    ],
+    "answer": "Calçot"
+  },
+  {
+    "id": "food-drink-762",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the Catalan custard dessert similar to crème brûlée, traditionally flavored with lemon and cinnamon?",
+    "options": [
+      "Crema catalana",
+      "Flan",
+      "Natillas",
+      "Arroz con leche"
+    ],
+    "answer": "Crema catalana"
+  },
+  {
+    "id": "food-drink-763",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the name of the traditional Catalan fish stew made with potatoes, tomatoes, and garlic?",
+    "options": [
+      "Suquet de peix",
+      "Bacalao a la vizcaina",
+      "Caldeirada",
+      "Zarzuela"
+    ],
+    "answer": "Suquet de peix"
+  },
+  {
+    "id": "food-drink-764",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the name of the traditional Catalan stew made with various meats and vegetables?",
+    "options": [
+      "Escudella i carn d'olla",
+      "Ollada",
+      "Cocido madrileño",
+      "Pote asturiano"
+    ],
+    "answer": "Escudella i carn d'olla"
+  },
+  {
+    "id": "food-drink-765",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the name of the Catalan cannelloni dish often made with leftover meat from Christmas meals?",
+    "options": [
+      "Canelons",
+      "Caneloni",
+      "Manicotti",
+      "Pastitsio"
+    ],
+    "answer": "Canelons"
+  },
+  {
+    "id": "food-drink-766",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the name of the traditional Catalan fresh pork sausage often grilled or eaten with white beans?",
+    "options": [
+      "Botifarra",
+      "Chorizo",
+      "Sobrasada",
+      "Morcilla"
+    ],
+    "answer": "Botifarra"
+  },
+  {
+    "id": "food-drink-767",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What is the name of the traditional Catalan dish consisting of bread rubbed with ripe tomato, olive oil, and salt?",
+    "options": [
+      "Pa amb tomàquet",
+      "Pan con tomate",
+      "Tostada con tomate",
+      "Bruschetta"
+    ],
+    "answer": "Pa amb tomàquet"
+  },
+  {
+    "id": "food-drink-768",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the name of the Finnish traditional salty licorice flavored with ammonium chloride?",
+    "options": [
+      "Salmiakki",
+      "Tyrkisk Peber",
+      "Lakritsi",
+      "Pastilli"
+    ],
+    "answer": "Salmiakki"
+  },
+  {
+    "id": "food-drink-769",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the traditional Swedish spiced bun flavored with cardamom and cinnamon?",
+    "options": [
+      "Kanelbullar",
+      "Lussekatter",
+      "Semla",
+      "Skillingsbollar"
+    ],
+    "answer": "Kanelbullar"
+  },
+  {
+    "id": "food-drink-770",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the traditional Swedish sweet bun filled with almond paste and whipped cream, eaten before Lent?",
+    "options": [
+      "Semla",
+      "Kanelbullar",
+      "Lussekatter",
+      "Prinsesstårta"
+    ],
+    "answer": "Semla"
+  },
+  {
+    "id": "food-drink-771",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the name of the traditional Swedish layer cake consisting of sponge, pastry cream, and a green marzipan dome?",
+    "options": [
+      "Prinsesstårta",
+      "Kladdkaka",
+      "Tosca cake",
+      "Budapestkräm"
+    ],
+    "answer": "Prinsesstårta"
+  },
+  {
+    "id": "food-drink-772",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the name of the traditional Swedish potato pancake often served with fried pork and lingonberries?",
+    "options": [
+      "Raggmunk",
+      "Kroppkakor",
+      "Palt",
+      "Pyttipanna"
+    ],
+    "answer": "Raggmunk"
+  },
+  {
+    "id": "food-drink-773",
+    "category": "food-drink",
+    "difficulty": "easy",
+    "question": "What is the traditional name for Swedish meatballs, often served with gravy and lingonberry jam?",
+    "options": [
+      "Köttbullar",
+      "Frikadeller",
+      "Kuulet",
+      "Boulettes"
+    ],
+    "answer": "Köttbullar"
+  },
+  {
+    "id": "food-drink-774",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the Scandinavian dish of raw salmon cured in sugar, salt, and dill?",
+    "options": [
+      "Gravlax",
+      "Lox",
+      "Smoked salmon",
+      "Rakfisk"
+    ],
+    "answer": "Gravlax"
+  },
+  {
+    "id": "food-drink-775",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the traditional Norwegian flatbread made from rye flour and water?",
+    "options": [
+      "Flatbrød",
+      "Lefse",
+      "Knäckebröd",
+      "Rugbrød"
+    ],
+    "answer": "Flatbrød"
+  },
+  {
+    "id": "food-drink-776",
+    "category": "food-drink",
+    "difficulty": "hard",
+    "question": "What is the name of the traditional Icelandic yogurt-like dairy product made from skim milk?",
+    "options": [
+      "Skyr",
+      "Filmjölk",
+      "Långfil",
+      "Viili"
+    ],
+    "answer": "Skyr"
+  },
+  {
+    "id": "food-drink-777",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the primary spirit in the Brazilian national cocktail Caipirinha?",
+    "options": [
+      "Cachaça",
+      "Rum",
+      "Vodka",
+      "Pisco"
+    ],
+    "answer": "Cachaça"
+  },
+  {
+    "id": "food-drink-778",
+    "category": "food-drink",
+    "difficulty": "medium",
+    "question": "What is the name of the Japanese noodle soup made with Chinese-style wheat noodles in a meat-based broth?",
+    "options": [
+      "Ramen",
+      "Udon",
+      "Soba",
+      "Pho"
+    ],
+    "answer": "Ramen"
   }
 ]

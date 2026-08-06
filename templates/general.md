@@ -32,6 +32,15 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Royal flush as poker's highest-ranking hand
 - The tittle (dot over a lowercase i or j)
 - How long a fortnight is (14 days)
+- Wordplay term definitions: lipogram, acronym, homophone, etymology
+- Counting chestnuts: a gross (144) and great gross (1,728); Monopoly's standard house (32) and hotel (12) counts; dice in Yahtzee (5); jokers in a standard 54-card deck (2); faces/sides on a six-sided die (6); Scrabble's two 10-point tiles (Q and Z)
+- Latin abbreviation meanings: e.g. (exempli gratia), etc. (et cetera), carpe diem ("seize the day")
+- Idiom meanings already covered: under the weather, piece of cake, steal someone's thunder, the ball is in your court, beat around the bush, cut to the chase, once in a blue moon, hit the sack, hit the books, on cloud nine, raining cats and dogs, cost an arm and a leg, mind your Ps and Qs
+- NATO phonetic alphabet letters A (Alfa) and Z (Zulu) — other letters are still open
+- Gunter's/surveying chain length (66 ft, also the length of a cricket pitch) and the cubit's origin (elbow to fingertip)
+- Admiral Horatio Nelson inspiring "turn a blind eye" at the Battle of Copenhagen (1801)
+- Official oche-to-dartboard throwing distance; "turkey" as three consecutive strikes in ten-pin bowling
+- This category is deeply saturated (500+ questions, much of it idioms/wordplay/game-trivia) — a recent batch had a ~23% duplicate rate that the default check-draft pass mostly missed (same definition/idiom, reworded); run --full-answer-audit and read every match by hand.
 
 Use web search to verify every fact — do not rely on memory alone. Prefer authoritative sources (reference databases, almanacs) over guessing. For each question, actually find the fact via search rather than recalling it, especially for obscure details.
 

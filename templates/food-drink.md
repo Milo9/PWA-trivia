@@ -5,7 +5,7 @@ You are drafting trivia questions for a multiple-choice trivia app. You have no 
 
 TOPIC: Food & Drink — cuisine, ingredients, cooking, beverages, culinary history and traditions.
 
-COUNT: 100 questions.
+COUNT: 200 questions.
 
 Use web search to verify every fact — do not rely on memory alone. Prefer authoritative sources (culinary references, encyclopedic sources) over guessing. For each question, actually find the fact via search rather than recalling it, especially for obscure details (specific origins, lesser- known dishes/ingredients).
 
@@ -101,6 +101,10 @@ AVOID THESE ANGLES (facts already asked, in some cases more than once — don't 
 - Naming hollandaise from an "egg yolk, lemon, clarified butter" description
 - What cheese is fried in Greek saganaki (kefalotyri)
 - Naming doenjang from a "Korean fermented soybean paste" description
+- Wormwood as absinthe's defining botanical; caraway as aquavit's dominant flavoring
+- Surströmming as Sweden's pungent fermented herring; Lussekatter as Sweden's saffron Lucia-Day buns; brunost as Norway's caramelized-whey brown cheese
+- Chimichurri (Argentine parsley-garlic-vinegar sauce); tomatillos as salsa verde's base; goulash's origin (Hungary); pho's origin (Vietnam) and its rice-noodle base
+- Shabu-shabu as Japan's swished-in-broth hot pot; okonomiyaki as Japan's savory "as you like it" pancake; kouign-amann as the butter-laminated Breton pastry
 - Main/centerpiece vegetable of ratatouille (eggplant)
 - What spice gives paella its yellow color (saffron) — already asked in both directions
 - What spirit is the base of a Mojito (rum)
