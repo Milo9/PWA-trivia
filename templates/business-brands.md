@@ -5,7 +5,7 @@ You are drafting trivia questions for a multiple-choice trivia app. You have no 
 
 TOPIC: Business & Brands — company logos, slogans, founders/founding stories, and famous product flops. Focus on consumer brands most people interact with regularly (retail, food, tech, cars, apparel, etc.), not obscure B2B companies or finance/economics theory.
 
-COUNT: 100 questions.
+COUNT: 200 questions.
 
 Use web search to verify every fact — do not rely on memory alone. Prefer authoritative sources (company histories, business/news archives, design retrospectives) over guessing. For each question, actually find the fact via search rather than recalling it, especially for founding dates, specific dollar figures, and designer names.
 
