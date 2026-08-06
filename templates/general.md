@@ -36,7 +36,7 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Counting chestnuts: a gross (144) and great gross (1,728); Monopoly's standard house (32) and hotel (12) counts; dice in Yahtzee (5); jokers in a standard 54-card deck (2); faces/sides on a six-sided die (6); Scrabble's two 10-point tiles (Q and Z)
 - Latin abbreviation meanings: e.g. (exempli gratia), etc. (et cetera), carpe diem ("seize the day")
 - Idiom meanings already covered: under the weather, piece of cake, steal someone's thunder, the ball is in your court, beat around the bush, cut to the chase, once in a blue moon, hit the sack, hit the books, on cloud nine, raining cats and dogs, cost an arm and a leg, mind your Ps and Qs
-- NATO phonetic alphabet letters A (Alfa) and Z (Zulu) — other letters are still open
+- NATO phonetic alphabet letters A (Alfa), B (Bravo), C (Charlie), D (Delta), E (Echo), and Z (Zulu) — other letters are still open
 - Gunter's/surveying chain length (66 ft, also the length of a cricket pitch) and the cubit's origin (elbow to fingertip)
 - Admiral Horatio Nelson inspiring "turn a blind eye" at the Battle of Copenhagen (1801)
 - Official oche-to-dartboard throwing distance; "turkey" as three consecutive strikes in ten-pin bowling
@@ -46,6 +46,11 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - This category is deeply saturated (500+ questions, much of it idioms/wordplay/game-trivia) — a recent batch had a ~23% duplicate rate that the default check-draft pass mostly missed (same definition/idiom, reworded); run --full-answer-audit and read every match by hand.
 - Wordplay-term definitions already covered: contronym/Janus word (a word that's its own opposite), retronym, capitonym, eponym (incl. "sandwich" from the Earl of Sandwich), aptronym, pleonasm ("free gift"), charade (word-puzzle sense)
 - Unit conversions already covered: a stone = 14 pounds, a fathom = 6 feet
+- Idiom meanings/origins already covered (additional, confirmed 2026-08-06): break the ice (ship-clearing-ice origin), through the grapevine (Civil War telegraph-wire origin), let sleeping dogs lie, bury the hatchet, the early bird catches the worm, sour grapes (both its meaning and its Aesop fox-and-grapes origin), cold shoulder (both its meaning and its serving-cold-mutton origin), scot-free (scot = a tax/payment), barking up the wrong tree (both its meaning and its hunting-dogs origin — 5+ existing entries already cover this one from multiple angles)
+- Asterisk deriving its name from Greek for "little star" (already asked both directions: name→meaning and meaning→name)
+- Em dash/en dash widths relative to capital M/N (both directions now covered)
+- Morse code single-symbol letters: E (single dot) and T (single dash)
+- Total spaces on a standard Monopoly board (40, including Go) — the *railroad*-space count (4) is a different, still-open fact
 - Idiom meanings already covered (additional): let the cat out of the bag, barking up the wrong tree, get off on the wrong foot, a dime a dozen, on the ball, butter someone up, a white elephant, face the music
 - Game-rule chestnuts already covered: chess pawn promotion and en passant; Scrabble's center square (double word score), its 50-point bonus for playing all 7 tiles (bingo), and its blank/wild tile point value; poker's flush and full house definitions and the Dead Man's Hand (aces and eights); Monopoly's railroad count and Free Parking house rule; the printing term "leading"
 

@@ -110,6 +110,12 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Octopus blood being blue due to the copper-based protein hemocyanin
 - Manatees having only six cervical vertebrae instead of the usual seven mammalian count
 - Tundra biome definition (permafrost, low-growing mosses/lichens/shrubs, no trees)
+- Binturong's urine smelling like buttered popcorn (2-acetyl-1-pyrroline)
+- Star-nosed mole's snout appendages/tentacles and their sensory receptors (Eimer's organs)
+- Axolotl retaining its external gills into adulthood (neoteny/paedomorphosis) — already asked twice
+- Gaboon viper having the longest fangs of any snake species
+- Oilbird using echolocation to navigate caves, the only nocturnal fruit-eating bird known to do so
+- Platypus using electroreceptors in its bill to hunt underwater
 
 Two facts that are premises already stated inside an existing question's stem, so drafting them as a separate standalone question is redundant even though the wording/answer differs: Rafflesia arnoldii being the world's largest individual flower (already stated as a premise in the existing "corpse flower" question), and a baobab's swollen trunk being for water storage (already implied by the existing "how many liters" question).
 
