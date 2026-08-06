@@ -2004,11 +2004,11 @@
         "arts-literature-582",
         "arts-literature-583"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-06",
+      "completedAt": "2026-08-06",
+      "issuesFound": 7,
+      "notes": "Cut 7 confirmed same-fact/reversed-direction duplicates: arts-literature-523 (Raisin in the Sun, dup of -246), arts-literature-558+111 (Discobolus/Myron triplicate, kept -194), arts-literature-563 (East of Eden families, reversed-direction dup of -609), arts-literature-531 (Broadway Boogie Woogie, reversed-direction dup of -663), arts-literature-526 (Son of Man, reversed-direction dup of -175), general-2468 (Emma Woodhouse novel, dup of general-1602 found via corpus grep). No factual errors found; verified An Ideal Husband bracelet-blackmail detail and other plot/attribution specifics against memory."
     },
     {
       "chunkId": "arts-literature-p1-014",
@@ -2065,11 +2065,11 @@
         "arts-literature-658",
         "arts-literature-659"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-06",
+      "completedAt": "2026-08-06",
+      "issuesFound": 10,
+      "notes": "Cut 10 confirmed reversed-direction/same-fact duplicates found via corpus grep: arts-literature-596 (Gleaners, dup of -121), -599 (Birth of Venus, dup of general-1646), -620 (Jasper Johns Flag/encaustic, dup of -641), -627 (Whaam!, dup of -353), -634 (Rodin's Kiss, dup of general-1648), -645 (Walking Man, dup of -354), -655 (Calling of Saint Matthew, dup of -343), -656 (Scarlet Letter, dup of -383), -635 (Tell-Tale Heart vulture eye, dup of -423), and cross-category film-tv-648 (Dune/Arrakis, dup of arts-literature-586). No factual errors found; verified Prufrock quote context, Annabel Lee/Dracula/Ulysses/Catcher in the Rye and painting-attribution specifics against memory, none flagged as wrong."
     },
     {
       "chunkId": "arts-literature-p1-015",
@@ -2126,11 +2126,11 @@
         "general-1135",
         "general-1137"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-06",
+      "completedAt": "2026-08-06",
+      "issuesFound": 8,
+      "notes": "Fixed 2 hallucinated/wrong-medium facts: arts-literature-662 (Whitman tombstone does not actually read 'I contain multitudes' - verified via web search his tomb marker quotes Song of Myself sec.52 'I depart as air...' instead; reworded stem to the true, still-famous 'I contain multitudes' line/poem attribution without the false tombstone claim), arts-literature-675 (Duccio's Maestà mislabeled 'sculpture' - it's a painted altarpiece; fixed to 'painting'). Cut 6 confirmed same-fact-reworded duplicates: general-478 (Pride and Prejudice, dup of general-202), general-948+general-1604 (To Kill a Mockingbird triplicate, kept general-473), general-1650 (Van Gogh cut off ear, dup of general-1137), general-1608 (Percy Jackson series author, dup of general-1135), general-2247 (1984/Winston Smith creator, dup of general-487). Verified remaining same-answer clusters (Shakespeare/Michelangelo/Van Gogh/Melville/Poe chestnuts) are genuinely different facts about the same person/work, not duplicates, per existing known-backlog guidance."
     },
     {
       "chunkId": "arts-literature-p1-016",
@@ -2187,11 +2187,11 @@
         "arts-literature-051",
         "arts-literature-057"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-06",
+      "completedAt": "2026-08-06",
+      "issuesFound": 6,
+      "notes": "Cut 6 confirmed same-fact-reworded duplicates: general-2011 (A Song of Ice and Fire author, dup of general-1352), general-2017 (The Hobbit author, dup of general-1356), general-2294 (LOTR author, dup of general-1645), general-1989+general-2471 (identify-the-novel-from-Atticus-Finch cluster, kept general-2672), general-1633 (Warhol/soup cans, dup of general-2132). Kept distinct Hobbit-vs-LOTR and other same-author-different-work pairs per existing precedent (different specific works aren't duplicates). No factual errors found; verified Homer's dog Argos, Donatello's bronze David, Odyssey/Penelope, and other legacy chestnut facts, all correct."
     },
     {
       "chunkId": "arts-literature-p1-017",
@@ -2248,11 +2248,11 @@
         "arts-literature-320",
         "arts-literature-325"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-06",
+      "completedAt": "2026-08-06",
+      "issuesFound": 4,
+      "notes": "Cut 4 confirmed duplicates: arts-literature-294 (Brave New World Soma, dup of -066), arts-literature-325 (Wordsworth daffodils, dup of -106), arts-literature-149 (Road Not Taken author, reversed-direction dup of -217 which IDs the poem from its famous closing line), and cross-category general-2144 in mythology-religion.json (Sphinx lion-body/human-head description, dup of general-067, found via corpus grep off arts-literature-075's riddle-of-Oedipus flag). Verified 'Something is rotten in the state of Denmark' is correctly attributed to Marcellus (not Hamlet) per the text. No other factual errors found across this chestnut-heavy easy-difficulty chunk."
     },
     {
       "chunkId": "arts-literature-p1-018",
@@ -2309,11 +2309,11 @@
         "arts-literature-641",
         "arts-literature-644"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-06",
+      "completedAt": "2026-08-06",
+      "issuesFound": 3,
+      "notes": "Cut 3 confirmed duplicates found via cross-chunk grep: arts-literature-413 (Iago manipulates Othello, dup of -593), arts-literature-585 (Dr. Seuss pen name, reversed-direction dup of -684), arts-literature-483 (Dune/Arrakis, reversed-direction dup of -586). No factual errors found; verified Julius Caesar 'Et tu, Brute?', Hokusai/Great Wave vs Thirty-six Views distinction, and other sci-fi/classics attributions, all correct and non-duplicative."
     },
     {
       "chunkId": "arts-literature-p1-019",
@@ -2325,11 +2325,11 @@
         "arts-literature-698",
         "arts-literature-706"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-06",
+      "completedAt": "2026-08-06",
+      "issuesFound": 1,
+      "notes": "Cut 1 confirmed reversed-direction duplicate: arts-literature-695 (Treachery of Images caption, dup of -350). No factual errors found in remaining 4 questions. This completes arts-literature pass 1 (20/20 chunks)."
     },
     {
       "chunkId": "big-bang-theory-p1-000",

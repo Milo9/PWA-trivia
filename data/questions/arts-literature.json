@@ -221,19 +221,6 @@
     "answer": "Salvador Dalí"
   },
   {
-    "id": "general-478",
-    "category": "arts-literature",
-    "difficulty": "easy",
-    "question": "Which 19th-century English novelist wrote 'Pride and Prejudice'?",
-    "options": [
-      "Charlotte Brontë",
-      "Jane Austen",
-      "George Eliot",
-      "Emily Brontë"
-    ],
-    "answer": "Jane Austen"
-  },
-  {
     "id": "general-480",
     "category": "arts-literature",
     "difficulty": "medium",
@@ -583,19 +570,6 @@
       "Henri Rousseau"
     ],
     "answer": "Marc Chagall"
-  },
-  {
-    "id": "general-948",
-    "category": "arts-literature",
-    "difficulty": "easy",
-    "question": "Who wrote the American novel 'To Kill a Mockingbird'?",
-    "options": [
-      "Toni Morrison",
-      "Harper Lee",
-      "Flannery O'Connor",
-      "Carson McCullers"
-    ],
-    "answer": "Harper Lee"
   },
   {
     "id": "general-949",
@@ -1066,19 +1040,6 @@
     "answer": "Robert Louis Stevenson"
   },
   {
-    "id": "general-1604",
-    "category": "arts-literature",
-    "difficulty": "easy",
-    "question": "Who wrote 'To Kill a Mockingbird'?",
-    "options": [
-      "Harper Lee",
-      "Flannery O'Connor",
-      "Carson McCullers",
-      "Toni Morrison"
-    ],
-    "answer": "Harper Lee"
-  },
-  {
     "id": "general-1606",
     "category": "arts-literature",
     "difficulty": "medium",
@@ -1103,19 +1064,6 @@
       "Notes from Underground"
     ],
     "answer": "The Brothers Karamazov"
-  },
-  {
-    "id": "general-1608",
-    "category": "arts-literature",
-    "difficulty": "easy",
-    "question": "Who wrote the 'Percy Jackson' book series?",
-    "options": [
-      "Rick Riordan",
-      "Suzanne Collins",
-      "Cassandra Clare",
-      "Veronica Roth"
-    ],
-    "answer": "Rick Riordan"
   },
   {
     "id": "general-1610",
@@ -1300,19 +1248,6 @@
     "answer": "Grant Wood"
   },
   {
-    "id": "general-1633",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Which artist, famous for soup can and celebrity silkscreen prints, was a leading figure of the Pop Art movement?",
-    "options": [
-      "Roy Lichtenstein",
-      "Andy Warhol",
-      "Jasper Johns",
-      "Keith Haring"
-    ],
-    "answer": "Andy Warhol"
-  },
-  {
     "id": "general-1635",
     "category": "arts-literature",
     "difficulty": "medium",
@@ -1495,19 +1430,6 @@
     "answer": "Geoffrey Chaucer"
   },
   {
-    "id": "general-1650",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Which Dutch Post-Impressionist artist cut off part of his own ear and painted 'Sunflowers'?",
-    "options": [
-      "Georges Seurat",
-      "Henri Matisse",
-      "Paul Gauguin",
-      "Vincent van Gogh"
-    ],
-    "answer": "Vincent van Gogh"
-  },
-  {
     "id": "general-1655",
     "category": "arts-literature",
     "difficulty": "easy",
@@ -1571,19 +1493,6 @@
       "Gondor"
     ],
     "answer": "The Shire"
-  },
-  {
-    "id": "general-1989",
-    "category": "arts-literature",
-    "difficulty": "easy",
-    "question": "Which Harper Lee novel features the lawyer Atticus Finch?",
-    "options": [
-      "To Kill a Mockingbird",
-      "Go Set a Watchman",
-      "The Help",
-      "A Time to Kill"
-    ],
-    "answer": "To Kill a Mockingbird"
   },
   {
     "id": "general-1990",
@@ -1716,19 +1625,6 @@
     "answer": "William Faulkner"
   },
   {
-    "id": "general-2011",
-    "category": "arts-literature",
-    "difficulty": "easy",
-    "question": "Which author created the fantasy series 'A Song of Ice and Fire'?",
-    "options": [
-      "George R.R. Martin",
-      "Robert Jordan",
-      "Brandon Sanderson",
-      "Patrick Rothfuss"
-    ],
-    "answer": "George R.R. Martin"
-  },
-  {
     "id": "general-2012",
     "category": "arts-literature",
     "difficulty": "medium",
@@ -1753,19 +1649,6 @@
       "Emile Zola"
     ],
     "answer": "Victor Hugo"
-  },
-  {
-    "id": "general-2017",
-    "category": "arts-literature",
-    "difficulty": "easy",
-    "question": "Who wrote 'The Hobbit'?",
-    "options": [
-      "J.R.R. Tolkien",
-      "C.S. Lewis",
-      "Ursula K. Le Guin",
-      "Terry Pratchett"
-    ],
-    "answer": "J.R.R. Tolkien"
   },
   {
     "id": "general-2018",
@@ -1898,19 +1781,6 @@
     "answer": "Moby-Dick"
   },
   {
-    "id": "general-2247",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Which author created the character Winston Smith?",
-    "options": [
-      "George Orwell",
-      "Kurt Vonnegut",
-      "Philip K. Dick",
-      "Anthony Burgess"
-    ],
-    "answer": "George Orwell"
-  },
-  {
     "id": "general-2248",
     "category": "arts-literature",
     "difficulty": "medium",
@@ -1950,19 +1820,6 @@
     "answer": "John Steinbeck"
   },
   {
-    "id": "general-2294",
-    "category": "arts-literature",
-    "difficulty": "easy",
-    "question": "Who wrote the fantasy series beginning with 'The Fellowship of the Ring'?",
-    "options": [
-      "J.R.R. Tolkien",
-      "C.S. Lewis",
-      "Terry Pratchett",
-      "Ursula K. Le Guin"
-    ],
-    "answer": "J.R.R. Tolkien"
-  },
-  {
     "id": "general-2315",
     "category": "arts-literature",
     "difficulty": "easy",
@@ -1974,19 +1831,6 @@
       "Rapunzel"
     ],
     "answer": "Cinderella"
-  },
-  {
-    "id": "general-2468",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Which novel by Jane Austen features the character Emma Woodhouse?",
-    "options": [
-      "Emma",
-      "Sense and Sensibility",
-      "Persuasion",
-      "Mansfield Park"
-    ],
-    "answer": "Emma"
   },
   {
     "id": "general-2469",
@@ -2013,19 +1857,6 @@
       "Sean O'Casey"
     ],
     "answer": "James Joyce"
-  },
-  {
-    "id": "general-2471",
-    "category": "arts-literature",
-    "difficulty": "easy",
-    "question": "Which novel tells the story of Atticus Finch defending a Black man in the segregated South?",
-    "options": [
-      "To Kill a Mockingbird",
-      "The Help",
-      "Native Son",
-      "Invisible Man"
-    ],
-    "answer": "To Kill a Mockingbird"
   },
   {
     "id": "general-2473",
@@ -3666,19 +3497,6 @@
     "answer": "Santiago"
   },
   {
-    "id": "arts-literature-111",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "The classical Greek sculpture \"Discobolus\" (Discus Thrower) was created by?",
-    "options": [
-      "Polykleitos",
-      "Phidias",
-      "Praxiteles",
-      "Myron"
-    ],
-    "answer": "Myron"
-  },
-  {
     "id": "arts-literature-112",
     "category": "arts-literature",
     "difficulty": "medium",
@@ -4080,19 +3898,6 @@
       "William Wordsworth"
     ],
     "answer": "John Keats"
-  },
-  {
-    "id": "arts-literature-149",
-    "category": "arts-literature",
-    "difficulty": "easy",
-    "question": "Who wrote 'The Road Not Taken'?",
-    "options": [
-      "Walt Whitman",
-      "Robert Frost",
-      "Emily Dickinson",
-      "Henry David Thoreau"
-    ],
-    "answer": "Robert Frost"
   },
   {
     "id": "arts-literature-150",
@@ -5837,19 +5642,6 @@
     "answer": "Napoleon"
   },
   {
-    "id": "arts-literature-294",
-    "difficulty": "easy",
-    "category": "arts-literature",
-    "question": "In Huxley's \"Brave New World,\" what drug do citizens take to stay docile and content?",
-    "options": [
-      "Soma",
-      "Mescaline",
-      "Laudanum",
-      "Veridical"
-    ],
-    "answer": "Soma"
-  },
-  {
     "id": "arts-literature-295",
     "difficulty": "hard",
     "category": "arts-literature",
@@ -6212,19 +6004,6 @@
       "John Keats"
     ],
     "answer": "Robert Burns"
-  },
-  {
-    "id": "arts-literature-325",
-    "difficulty": "easy",
-    "category": "arts-literature",
-    "question": "In William Wordsworth's poem about wandering \"lonely as a cloud,\" the speaker encounters \"a host, of golden\" what?",
-    "options": [
-      "Daffodils",
-      "Buttercups",
-      "Marigolds",
-      "Sunflowers"
-    ],
-    "answer": "Daffodils"
   },
   {
     "id": "arts-literature-326",
@@ -7267,19 +7046,6 @@
     "id": "arts-literature-412"
   },
   {
-    "difficulty": "easy",
-    "category": "arts-literature",
-    "question": "In Shakespeare's \"Othello,\" what is the name of the villain who manipulates Othello into murdering his wife Desdemona?",
-    "options": [
-      "Cassio",
-      "Roderigo",
-      "Iago",
-      "Brabantio"
-    ],
-    "answer": "Iago",
-    "id": "arts-literature-413"
-  },
-  {
     "difficulty": "hard",
     "category": "arts-literature",
     "question": "Who painted \"The Swing\" (1767), a celebrated Rococo painting of a young woman on a swing with her lover hidden in the bushes below?",
@@ -8138,19 +7904,6 @@
     "id": "arts-literature-482"
   },
   {
-    "difficulty": "easy",
-    "category": "arts-literature",
-    "question": "Which Frank Herbert science fiction novel follows Paul Atreides on the desert planet Arrakis?",
-    "options": [
-      "Foundation",
-      "Dune",
-      "Neuromancer",
-      "Hyperion"
-    ],
-    "answer": "Dune",
-    "id": "arts-literature-483"
-  },
-  {
     "difficulty": "medium",
     "category": "arts-literature",
     "question": "Which William Gibson novel is widely considered the seminal work of the cyberpunk genre and coined the term 'cyberspace'?",
@@ -8632,19 +8385,6 @@
     "id": "arts-literature-521"
   },
   {
-    "difficulty": "medium",
-    "category": "arts-literature",
-    "question": "Which Lorraine Hansberry play centers on the Younger family's decision on how to spend a $10,000 life insurance check in 1950s Chicago?",
-    "options": [
-      "A Raisin in the Sun",
-      "The Sign in Sidney Brustein's Window",
-      "Les Blancs",
-      "The Drinking Gourd"
-    ],
-    "answer": "A Raisin in the Sun",
-    "id": "arts-literature-523"
-  },
-  {
     "difficulty": "hard",
     "category": "arts-literature",
     "question": "Which Henri Rousseau painting features a nude woman reclining on a sofa in a jungle surrounded by wild animals and a snake charmer?",
@@ -8669,19 +8409,6 @@
     ],
     "answer": "I and the Village",
     "id": "arts-literature-525"
-  },
-  {
-    "difficulty": "medium",
-    "category": "arts-literature",
-    "question": "Which René Magritte painting depicts a man in a bowler hat and overcoat whose face is obscured by a floating green apple?",
-    "options": [
-      "The Son of Man",
-      "The Lovers",
-      "Golconda",
-      "The False Mirror"
-    ],
-    "answer": "The Son of Man",
-    "id": "arts-literature-526"
   },
   {
     "difficulty": "hard",
@@ -8721,19 +8448,6 @@
     ],
     "answer": "Composition VIII",
     "id": "arts-literature-530"
-  },
-  {
-    "difficulty": "medium",
-    "category": "arts-literature",
-    "question": "Which Piet Mondrian painting, completed in 1943, abandons his usual black grid lines in favor of intersecting red, yellow, and blue lines, reflecting the rhythm of New York City?",
-    "options": [
-      "Broadway Boogie Woogie",
-      "Composition with Red, Blue and Yellow",
-      "Victory Boogie Woogie",
-      "Tableau I"
-    ],
-    "answer": "Broadway Boogie Woogie",
-    "id": "arts-literature-531"
   },
   {
     "difficulty": "medium",
@@ -8996,19 +8710,6 @@
     "answer": "Barnett Newman"
   },
   {
-    "id": "arts-literature-558",
-    "difficulty": "medium",
-    "category": "arts-literature",
-    "question": "Who was the original Greek sculptor of the Discobolus (Discus Thrower) around 460–450 BC?",
-    "options": [
-      "Myron",
-      "Praxiteles",
-      "Phidias",
-      "Polykleitos"
-    ],
-    "answer": "Myron"
-  },
-  {
     "id": "arts-literature-559",
     "difficulty": "medium",
     "category": "arts-literature",
@@ -9059,19 +8760,6 @@
       "Synchromism"
     ],
     "answer": "Vorticism"
-  },
-  {
-    "id": "arts-literature-563",
-    "difficulty": "medium",
-    "category": "arts-literature",
-    "question": "In John Steinbeck's East of Eden, which two families' intertwined story unfolds in California's Salinas Valley?",
-    "options": [
-      "Trask and Hamilton",
-      "Joad and Wilson",
-      "Ames and Hawley",
-      "Tiflin and Garcia"
-    ],
-    "answer": "Trask and Hamilton"
   },
   {
     "id": "arts-literature-564",
@@ -9347,19 +9035,6 @@
     "answer": "Paradiso"
   },
   {
-    "id": "arts-literature-585",
-    "difficulty": "easy",
-    "category": "arts-literature",
-    "question": "Which children's book author wrote under the pen name Dr. Seuss?",
-    "options": [
-      "Theodor Seuss Geisel",
-      "Roald Dahl",
-      "Maurice Sendak",
-      "Shel Silverstein"
-    ],
-    "answer": "Theodor Seuss Geisel"
-  },
-  {
     "id": "arts-literature-586",
     "difficulty": "medium",
     "category": "arts-literature",
@@ -9490,19 +9165,6 @@
     "answer": "Castle Dracula"
   },
   {
-    "id": "arts-literature-596",
-    "difficulty": "medium",
-    "category": "arts-literature",
-    "question": "Which 1857 painting by Jean-François Millet shows three peasant women gleaning leftover grains after the harvest?",
-    "options": [
-      "The Gleaners",
-      "The Angelus",
-      "The Sower",
-      "Shepherdess with Flock"
-    ],
-    "answer": "The Gleaners"
-  },
-  {
     "id": "arts-literature-597",
     "difficulty": "hard",
     "category": "arts-literature",
@@ -9527,19 +9189,6 @@
       "Dr. Gibbs"
     ],
     "answer": "Stage Manager"
-  },
-  {
-    "id": "arts-literature-599",
-    "difficulty": "medium",
-    "category": "arts-literature",
-    "question": "Which painting by Sandro Botticelli shows the goddess Venus emerging from the sea on a scallop shell?",
-    "options": [
-      "Primavera",
-      "The Birth of Venus",
-      "Venus and Mars",
-      "Pallas and the Centaur"
-    ],
-    "answer": "The Birth of Venus"
   },
   {
     "id": "arts-literature-600",
@@ -9802,19 +9451,6 @@
     "answer": "Jean-Auguste-Dominique Ingres"
   },
   {
-    "id": "arts-literature-620",
-    "difficulty": "medium",
-    "category": "arts-literature",
-    "question": "Which American artist began his Flag series in 1954-55 using encaustic over collage, depicting the Stars and Stripes?",
-    "options": [
-      "Jasper Johns",
-      "Robert Rauschenberg",
-      "Frank Stella",
-      "Jackson Pollock"
-    ],
-    "answer": "Jasper Johns"
-  },
-  {
     "id": "arts-literature-621",
     "difficulty": "medium",
     "category": "arts-literature",
@@ -9893,19 +9529,6 @@
     "answer": "Blue eyes"
   },
   {
-    "id": "arts-literature-627",
-    "difficulty": "medium",
-    "category": "arts-literature",
-    "question": "Which 1963 Roy Lichtenstein pop art painting, rendered in his signature Ben-Day dot style, depicts a fighter jet firing a rocket into an enemy plane alongside a large comic-book sound-effect word?",
-    "options": [
-      "Whaam!",
-      "Drowning Girl",
-      "Look Mickey",
-      "Crying Girl"
-    ],
-    "answer": "Whaam!"
-  },
-  {
     "id": "arts-literature-628",
     "difficulty": "medium",
     "category": "arts-literature",
@@ -9982,32 +9605,6 @@
       "Paul Cézanne"
     ],
     "answer": "Vincent van Gogh"
-  },
-  {
-    "id": "arts-literature-634",
-    "difficulty": "medium",
-    "category": "arts-literature",
-    "question": "Which sculpture by Auguste Rodin depicts Paolo and Francesca from Dante's Inferno in an eternal embrace?",
-    "options": [
-      "The Kiss",
-      "The Thinker",
-      "The Burghers of Calais",
-      "Eternal Spring"
-    ],
-    "answer": "The Kiss"
-  },
-  {
-    "id": "arts-literature-635",
-    "difficulty": "medium",
-    "category": "arts-literature",
-    "question": "Which short story by Edgar Allan Poe features a narrator who murders an old man because of his 'vulture eye'?",
-    "options": [
-      "The Tell-Tale Heart",
-      "The Fall of the House of Usher",
-      "The Pit and the Pendulum",
-      "The Cask of Amontillado"
-    ],
-    "answer": "The Tell-Tale Heart"
   },
   {
     "id": "arts-literature-636",
@@ -10127,19 +9724,6 @@
     "answer": "Desdemona"
   },
   {
-    "id": "arts-literature-645",
-    "difficulty": "medium",
-    "category": "arts-literature",
-    "question": "Which artist created Walking Man I (1960), a tall, thin bronze existential figure striding forward?",
-    "options": [
-      "Alberto Giacometti",
-      "Henry Moore",
-      "Constantin Brancusi",
-      "Alexander Calder"
-    ],
-    "answer": "Alberto Giacometti"
-  },
-  {
     "id": "arts-literature-646",
     "difficulty": "medium",
     "category": "arts-literature",
@@ -10257,32 +9841,6 @@
     "answer": "The Castle of Crossed Destinies"
   },
   {
-    "id": "arts-literature-655",
-    "difficulty": "medium",
-    "category": "arts-literature",
-    "question": "Which painting by Caravaggio, in San Luigi dei Francesi in Rome, shows Christ calling Matthew in a dim tavern?",
-    "options": [
-      "The Calling of Saint Matthew",
-      "The Conversion of Saint Paul",
-      "The Crucifixion of Saint Peter",
-      "Saint Matthew and the Angel"
-    ],
-    "answer": "The Calling of Saint Matthew"
-  },
-  {
-    "id": "arts-literature-656",
-    "difficulty": "medium",
-    "category": "arts-literature",
-    "question": "Which novel by Nathaniel Hawthorne features Hester Prynne forced to wear a scarlet 'A'?",
-    "options": [
-      "The Scarlet Letter",
-      "The House of the Seven Gables",
-      "The Blithedale Romance",
-      "The Marble Faun"
-    ],
-    "answer": "The Scarlet Letter"
-  },
-  {
     "id": "arts-literature-657",
     "difficulty": "medium",
     "category": "arts-literature",
@@ -10351,7 +9909,7 @@
     "id": "arts-literature-662",
     "difficulty": "medium",
     "category": "arts-literature",
-    "question": "Which American poet's tombstone reads 'I contain multitudes' from his work?",
+    "question": "Which American poet wrote the line 'I am large, I contain multitudes' in the poem 'Song of Myself'?",
     "options": [
       "Walt Whitman",
       "Emily Dickinson",
@@ -10520,7 +10078,7 @@
     "id": "arts-literature-675",
     "difficulty": "medium",
     "category": "arts-literature",
-    "question": "Which sculpture by Duccio di Buoninsegna was originally the high altarpiece of Siena Cathedral?",
+    "question": "Which painting by Duccio di Buoninsegna was originally the high altarpiece of Siena Cathedral?",
     "options": [
       "Maestà",
       "Rucellai Madonna",
@@ -10749,19 +10307,6 @@
       "Palazzo Reale"
     ],
     "answer": "Museo Capodimonte"
-  },
-  {
-    "id": "arts-literature-695",
-    "difficulty": "easy",
-    "category": "arts-literature",
-    "question": "Rene Magritte's 1929 painting 'The Treachery of Images' shows a pipe with what French caption beneath it?",
-    "options": [
-      "Ceci est une pipe",
-      "Ceci n'est pas une pipe",
-      "Ceci n'est pas un art",
-      "Ceci est un rêve"
-    ],
-    "answer": "Ceci n'est pas une pipe"
   },
   {
     "id": "arts-literature-696",
