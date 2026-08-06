@@ -12907,5 +12907,1266 @@
     ],
     "answer": "Minutes",
     "id": "general-3925"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "The phrase 'don't count your chickens before they hatch' warns against what?",
+    "options": [
+      "Wasting food",
+      "Assuming success before it happens",
+      "Investing in poultry",
+      "Counting too quickly"
+    ],
+    "answer": "Assuming success before it happens",
+    "id": "general-3926"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What does 'keep your nose to the grindstone' mean?",
+    "options": [
+      "Keep working hard",
+      "Avoid danger",
+      "Sharpen your sense of smell",
+      "Be nosy"
+    ],
+    "answer": "Keep working hard",
+    "id": "general-3927"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does 'get cold feet' mean?",
+    "options": [
+      "Become nervous and back out",
+      "Walk barefoot",
+      "Be excited",
+      "Get frostbite"
+    ],
+    "answer": "Become nervous and back out",
+    "id": "general-3928"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What is a Tom Swifty in wordplay?",
+    "options": [
+      "whole for part figure",
+      "pun linking quote to adverb by wordplay",
+      "word reading same upside down",
+      "word with identical halves"
+    ],
+    "answer": "pun linking quote to adverb by wordplay",
+    "id": "general-3929"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What does 'a piece of the pie' mean?",
+    "options": [
+      "A share of something",
+      "Baking",
+      "Dessert",
+      "Being hungry"
+    ],
+    "answer": "A share of something",
+    "id": "general-3930"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "The phrase 'son of a gun' originally referred to what?",
+    "options": [
+      "A soldier's nickname",
+      "A firearms inventor's son",
+      "A child born on a naval warship",
+      "A cannon operator"
+    ],
+    "answer": "A child born on a naval warship",
+    "id": "general-3931"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does 'throw caution to the wind' mean?",
+    "options": [
+      "Take a risk",
+      "Be cold",
+      "Be careful",
+      "Fly a kite"
+    ],
+    "answer": "Take a risk",
+    "id": "general-3932"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many cards are in a standard 4-player Euchre deck?",
+    "options": [
+      "32",
+      "20",
+      "36",
+      "24"
+    ],
+    "answer": "24",
+    "id": "general-3933"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "A US wine hogshead holds about how many US gallons?",
+    "options": [
+      "31.5 gallons",
+      "63 gallons",
+      "42 gallons",
+      "84 gallons"
+    ],
+    "answer": "63 gallons",
+    "id": "general-3934"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "An acre-foot is volume of water covering what?",
+    "options": [
+      "1 hectare 1 foot deep",
+      "1 acre 1 yard deep",
+      "1 mile 1 foot deep",
+      "1 acre 1 foot deep"
+    ],
+    "answer": "1 acre 1 foot deep",
+    "id": "general-3935"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What does 'on the same page' mean?",
+    "options": [
+      "On a website",
+      "In a book",
+      "In agreement",
+      "Reading together"
+    ],
+    "answer": "In agreement",
+    "id": "general-3936"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "One US gallon holds how many US fluid ounces?",
+    "options": [
+      "128 fl oz",
+      "64 fl oz",
+      "100 fl oz",
+      "160 fl oz"
+    ],
+    "answer": "128 fl oz",
+    "id": "general-3937"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What is the formal name for the symbol # often called hash?",
+    "options": [
+      "octothorpe",
+      "tilde",
+      "at sign",
+      "caret"
+    ],
+    "answer": "octothorpe",
+    "id": "general-3938"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many categories are in classic Trivial Pursuit?",
+    "options": [
+      "5",
+      "4",
+      "6",
+      "8"
+    ],
+    "answer": "6",
+    "id": "general-3939"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What does 'give the green light' mean?",
+    "options": [
+      "Show envy",
+      "Start a race",
+      "Signal to stop",
+      "Give permission to proceed"
+    ],
+    "answer": "Give permission to proceed",
+    "id": "general-3940"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "What is anadiplosis?",
+    "options": [
+      "part stands for whole",
+      "repetition of last word of clause at beginning of next",
+      "repetition in immediate succession",
+      "broader category term"
+    ],
+    "answer": "repetition of last word of clause at beginning of next",
+    "id": "general-3941"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What is a hypernym?",
+    "options": [
+      "broader category term",
+      "part of a whole",
+      "more specific term",
+      "word with identical halves"
+    ],
+    "answer": "broader category term",
+    "id": "general-3942"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does 'take the bull by the horns' mean?",
+    "options": [
+      "Farm",
+      "Confront a problem directly",
+      "Be strong",
+      "Be a rodeo clown"
+    ],
+    "answer": "Confront a problem directly",
+    "id": "general-3943"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "Which gallon is larger by volume?",
+    "options": [
+      "US dry gallon",
+      "US gallon",
+      "They are equal",
+      "Imperial gallon"
+    ],
+    "answer": "Imperial gallon",
+    "id": "general-3944"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "In bartending, a standard jigger holds how much?",
+    "options": [
+      "0.5 fl oz",
+      "1 fl oz",
+      "2 fl oz",
+      "1.5 fl oz"
+    ],
+    "answer": "1.5 fl oz",
+    "id": "general-3945"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What does 'back to square one' mean?",
+    "options": [
+      "Back to the beginning",
+      "Playing board games",
+      "Doing math",
+      "Returning home"
+    ],
+    "answer": "Back to the beginning",
+    "id": "general-3946"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "What was the historical accounting use of the at sign @?",
+    "options": [
+      "number sign",
+      "and per se",
+      "at a rate of",
+      "pound weight"
+    ],
+    "answer": "at a rate of",
+    "id": "general-3947"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "Saying 'nice wheels' to mean nice car is an example of what?",
+    "options": [
+      "metonymy",
+      "epizeuxis",
+      "kenning",
+      "synecdoche"
+    ],
+    "answer": "synecdoche",
+    "id": "general-3948"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "The saying 'every cloud has a silver lining' means what?",
+    "options": [
+      "There is hope in every bad situation",
+      "Clouds are valuable",
+      "Silver is found near storms",
+      "Weather changes quickly"
+    ],
+    "answer": "There is hope in every bad situation",
+    "id": "general-3949"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "In old counting, how many units are in a score?",
+    "options": [
+      "10",
+      "20",
+      "100",
+      "12"
+    ],
+    "answer": "20",
+    "id": "general-3950"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "A UK beer firkin holds how many imperial gallons?",
+    "options": [
+      "9 imperial gallons",
+      "36 imperial gallons",
+      "63 imperial gallons",
+      "18 imperial gallons"
+    ],
+    "answer": "9 imperial gallons",
+    "id": "general-3951"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "A board foot is what lumber volume?",
+    "options": [
+      "10x10x1 inch",
+      "12x12x12 inch",
+      "12x12x1 inch",
+      "24x12x1 inch"
+    ],
+    "answer": "12x12x1 inch",
+    "id": "general-3952"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What does 'fit as a fiddle' mean?",
+    "options": [
+      "In excellent health",
+      "Very expensive",
+      "Good at music",
+      "Perfectly tuned"
+    ],
+    "answer": "In excellent health",
+    "id": "general-3953"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "Which government practice gave rise to 'red tape'?",
+    "options": [
+      "Marking tax debts with red ink",
+      "Wearing red armbands in parliament",
+      "Sealing letters with red wax",
+      "Tying official documents with red ribbon"
+    ],
+    "answer": "Tying official documents with red ribbon",
+    "id": "general-3954"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "One parsec is about how many light-years?",
+    "options": [
+      "10 light-years",
+      "3.26 light-years",
+      "1.5 light-years",
+      "26 light-years"
+    ],
+    "answer": "3.26 light-years",
+    "id": "general-3955"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What is a holonym?",
+    "options": [
+      "whole containing parts",
+      "part of a whole",
+      "broader category term",
+      "more specific term"
+    ],
+    "answer": "whole containing parts",
+    "id": "general-3956"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What is the symbol ^ called?",
+    "options": [
+      "tilde",
+      "caret",
+      "asterisk",
+      "dagger"
+    ],
+    "answer": "caret",
+    "id": "general-3957"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What does 'bite the dust' mean?",
+    "options": [
+      "To be angry",
+      "To clean the floor",
+      "To eat quickly",
+      "To die or fail"
+    ],
+    "answer": "To die or fail",
+    "id": "general-3958"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "The phrase 'paint the town red' is said to come from what kind of rowdy behavior?",
+    "options": [
+      "Political campaigning",
+      "House painting",
+      "War celebration",
+      "Drunken revelry and vandalism"
+    ],
+    "answer": "Drunken revelry and vandalism",
+    "id": "general-3959"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many standard game pieces does each player start with in American checkers?",
+    "options": [
+      "8",
+      "10",
+      "16",
+      "12"
+    ],
+    "answer": "12",
+    "id": "general-3960"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many properties on a Monopoly board are streets that can have houses?",
+    "options": [
+      "28",
+      "40",
+      "32",
+      "22"
+    ],
+    "answer": "22",
+    "id": "general-3961"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "One astronomical unit (AU), average Earth-Sun distance, is about what?",
+    "options": [
+      "93 million miles",
+      "238,900 miles",
+      "365 million miles",
+      "1 million miles"
+    ],
+    "answer": "93 million miles",
+    "id": "general-3962"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What is the common term for a word like 'bonbon' made of two identical parts?",
+    "options": [
+      "tautonym",
+      "isogram",
+      "capitonym",
+      "contronym"
+    ],
+    "answer": "tautonym",
+    "id": "general-3963"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What does 'in a nutshell' mean?",
+    "options": [
+      "In brief",
+      "Confused",
+      "With nuts",
+      "In a small house"
+    ],
+    "answer": "In brief",
+    "id": "general-3964"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "Which game introduced the term 'meeple' in 2000?",
+    "options": [
+      "Carcassonne",
+      "Catan",
+      "Pandemic",
+      "Ticket to Ride"
+    ],
+    "answer": "Carcassonne",
+    "id": "general-3965"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What does 'a blessing in disguise' mean?",
+    "options": [
+      "A hidden gift",
+      "Something good that seemed bad at first",
+      "A lucky charm",
+      "A religious costume"
+    ],
+    "answer": "Something good that seemed bad at first",
+    "id": "general-3966"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does 'spitting image' mean?",
+    "options": [
+      "An exact likeness",
+      "A blurry photo",
+      "A messy painting",
+      "A rude gesture"
+    ],
+    "answer": "An exact likeness",
+    "id": "general-3967"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "In classic Monopoly, how many Community Chest cards are there?",
+    "options": [
+      "14",
+      "20",
+      "18",
+      "16"
+    ],
+    "answer": "16",
+    "id": "general-3968"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What does 'up to scratch' mean?",
+    "options": [
+      "Up to the required standard",
+      "Writing",
+      "Itchy",
+      "Having claws"
+    ],
+    "answer": "Up to the required standard",
+    "id": "general-3969"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does 'cry wolf' mean, from Aesop's fable?",
+    "options": [
+      "Protect sheep",
+      "Raise a false alarm",
+      "Howl at the moon",
+      "Be afraid of dogs"
+    ],
+    "answer": "Raise a false alarm",
+    "id": "general-3970"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What does 'apple of my eye' mean?",
+    "options": [
+      "A round eye",
+      "Favorite fruit",
+      "Good vision",
+      "Someone cherished above all"
+    ],
+    "answer": "Someone cherished above all",
+    "id": "general-3971"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does 'at the drop of a hat' mean?",
+    "options": [
+      "After losing a hat",
+      "Immediately, without hesitation",
+      "When surprised",
+      "When it rains"
+    ],
+    "answer": "Immediately, without hesitation",
+    "id": "general-3972"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What is a meronym?",
+    "options": [
+      "part of a whole",
+      "whole containing parts",
+      "more specific term",
+      "broader category term"
+    ],
+    "answer": "part of a whole",
+    "id": "general-3973"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "Which scientific name is a well-known tautonym where genus and species are identical?",
+    "options": [
+      "Canis lupus",
+      "Bison bison",
+      "Homo sapiens",
+      "Felis catus"
+    ],
+    "answer": "Bison bison",
+    "id": "general-3974"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many units are in a dozen?",
+    "options": [
+      "12",
+      "15",
+      "20",
+      "10"
+    ],
+    "answer": "12",
+    "id": "general-3975"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "Which adverb makes the Tom Swifty pun 'I see,' said Tom ___?",
+    "options": [
+      "warmly",
+      "softly",
+      "icily",
+      "loudly"
+    ],
+    "answer": "icily",
+    "id": "general-3976"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What does 'go with the flow' mean?",
+    "options": [
+      "Accept what happens",
+      "Be lazy",
+      "Swim",
+      "Follow water"
+    ],
+    "answer": "Accept what happens",
+    "id": "general-3977"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What does 'a drop in the bucket' mean?",
+    "options": [
+      "A leak",
+      "Water",
+      "A small amount",
+      "Cleaning"
+    ],
+    "answer": "A small amount",
+    "id": "general-3978"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does 'tip of the iceberg' refer to?",
+    "options": [
+      "The top of a mountain",
+      "A cold person",
+      "Only a small visible part of a larger problem",
+      "A luxury cruise"
+    ],
+    "answer": "Only a small visible part of a larger problem",
+    "id": "general-3979"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many years are in a decade?",
+    "options": [
+      "10 years",
+      "50 years",
+      "5 years",
+      "20 years"
+    ],
+    "answer": "10 years",
+    "id": "general-3980"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "In classic Monopoly, how many purchasable properties are there including streets, railroads, and utilities?",
+    "options": [
+      "28",
+      "26",
+      "22",
+      "32"
+    ],
+    "answer": "28",
+    "id": "general-3981"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What does 'jump the shark' mean about a TV show?",
+    "options": [
+      "It was canceled",
+      "It has passed its peak and declined",
+      "It changed networks",
+      "It became very popular"
+    ],
+    "answer": "It has passed its peak and declined",
+    "id": "general-3982"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does 'the last straw' refer to?",
+    "options": [
+      "A drink straw",
+      "A farm tool",
+      "The final annoyance that causes a reaction",
+      "A scarecrow"
+    ],
+    "answer": "The final annoyance that causes a reaction",
+    "id": "general-3983"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "In classic Battleship, how many squares does the Aircraft Carrier occupy?",
+    "options": [
+      "3",
+      "6",
+      "5",
+      "4"
+    ],
+    "answer": "5",
+    "id": "general-3984"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How long is one hand when measuring horse height?",
+    "options": [
+      "4 inches",
+      "6 inches",
+      "8 inches",
+      "3 inches"
+    ],
+    "answer": "4 inches",
+    "id": "general-3985"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "Which health hazard for 18th and 19th century milliners inspired 'mad as a hatter'?",
+    "options": [
+      "Solvent glue fumes",
+      "Exposure to mercury",
+      "Lead paint fumes",
+      "Inhaling wool dust"
+    ],
+    "answer": "Exposure to mercury",
+    "id": "general-3986"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "In the origin of 'pull out all the stops', what instrument's stops are being pulled?",
+    "options": [
+      "Accordion bellows",
+      "Pipe organ",
+      "Church organ console",
+      "Train whistle"
+    ],
+    "answer": "Pipe organ",
+    "id": "general-3987"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What does 'third time's a charm' suggest?",
+    "options": [
+      "it will likely succeed",
+      "it should be skipped",
+      "it will be unlucky",
+      "it costs more"
+    ],
+    "answer": "it will likely succeed",
+    "id": "general-3988"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many Chance cards are in classic Monopoly?",
+    "options": [
+      "14",
+      "16",
+      "20",
+      "12"
+    ],
+    "answer": "16",
+    "id": "general-3989"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "What is an ambigram?",
+    "options": [
+      "word design that retains meaning when viewed differently like rotated",
+      "word that reads same backward",
+      "word made from two others blended",
+      "word with no repeating letters"
+    ],
+    "answer": "word design that retains meaning when viewed differently like rotated",
+    "id": "general-3990"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does 'a feather in your cap' mean?",
+    "options": [
+      "A fashion statement",
+      "A light hat",
+      "A bird's gift",
+      "An achievement to be proud of"
+    ],
+    "answer": "An achievement to be proud of",
+    "id": "general-3991"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What does 'break a sweat' imply?",
+    "options": [
+      "Feel cold",
+      "Exert effort",
+      "Break a bone",
+      "Dance"
+    ],
+    "answer": "Exert effort",
+    "id": "general-3992"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does 'to have an axe to grind' mean?",
+    "options": [
+      "To have a selfish motive",
+      "To be a lumberjack",
+      "To be angry",
+      "To sharpen tools"
+    ],
+    "answer": "To have a selfish motive",
+    "id": "general-3993"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What does 'sitting on the fence' mean?",
+    "options": [
+      "Gardening",
+      "Unwilling to choose a side",
+      "Resting",
+      "Balancing"
+    ],
+    "answer": "Unwilling to choose a side",
+    "id": "general-3994"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does 'add fuel to the fire' mean?",
+    "options": [
+      "Make a bad situation worse",
+      "Be helpful",
+      "Cook",
+      "Start a campfire"
+    ],
+    "answer": "Make a bad situation worse",
+    "id": "general-3995"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does 'beat a dead horse' mean?",
+    "options": [
+      "Be cruel to animals",
+      "Waste effort on something already decided",
+      "Win a race",
+      "Be angry"
+    ],
+    "answer": "Waste effort on something already decided",
+    "id": "general-3996"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does 'have a bone to pick' mean?",
+    "options": [
+      "Have a complaint to discuss",
+      "Need to clean",
+      "Have a dog",
+      "Be hungry"
+    ],
+    "answer": "Have a complaint to discuss",
+    "id": "general-3997"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does 'dot your Is and cross your Ts' mean?",
+    "options": [
+      "Be meticulous",
+      "Learn to write",
+      "Do math",
+      "Be artistic"
+    ],
+    "answer": "Be meticulous",
+    "id": "general-3998"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does 'let off the hook' originally refer to?",
+    "options": [
+      "Hanging up a coat",
+      "Releasing a fish",
+      "Untying a rope",
+      "Escaping a pirate"
+    ],
+    "answer": "Releasing a fish",
+    "id": "general-3999"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What does 'down to earth' mean?",
+    "options": [
+      "Falling",
+      "Practical and realistic",
+      "Sad",
+      "Buried"
+    ],
+    "answer": "Practical and realistic",
+    "id": "general-4000"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What does 'out of the blue' mean?",
+    "options": [
+      "From the sky",
+      "Wearing blue",
+      "Unexpectedly",
+      "Feeling sad"
+    ],
+    "answer": "Unexpectedly",
+    "id": "general-4001"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does 'put your foot in your mouth' mean?",
+    "options": [
+      "Taste your foot",
+      "Do yoga",
+      "Say something embarrassing",
+      "Be clumsy"
+    ],
+    "answer": "Say something embarrassing",
+    "id": "general-4002"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does 'kill two birds with one stone' mean?",
+    "options": [
+      "Hunt birds",
+      "Throw stones",
+      "Be cruel",
+      "Accomplish two things at once"
+    ],
+    "answer": "Accomplish two things at once",
+    "id": "general-4003"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does 'under the table' mean when talking about money?",
+    "options": [
+      "Lost",
+      "Secretly and unofficially",
+      "Cheap",
+      "On the floor"
+    ],
+    "answer": "Secretly and unofficially",
+    "id": "general-4004"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does 'make a mountain out of a molehill' mean?",
+    "options": [
+      "Build hills",
+      "Garden",
+      "Exaggerate a minor problem",
+      "Climb"
+    ],
+    "answer": "Exaggerate a minor problem",
+    "id": "general-4005"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "In the Civil War, Andersonville prison used a line beyond which prisoners would be shot, giving rise to which term?",
+    "options": [
+      "Deadline",
+      "Guideline",
+      "Lifeline",
+      "Borderline"
+    ],
+    "answer": "Deadline",
+    "id": "general-4006"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What does a 'bottleneck' describe in everyday speech?",
+    "options": [
+      "A point where progress is held up",
+      "A broken bottle",
+      "A narrow wine glass",
+      "A secret message"
+    ],
+    "answer": "A point where progress is held up",
+    "id": "general-4007"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What is a 'turncoat'?",
+    "options": [
+      "A coat that is reversible",
+      "Someone who switches allegiance",
+      "A tailor",
+      "A scarecrow"
+    ],
+    "answer": "Someone who switches allegiance",
+    "id": "general-4008"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "The phrase 'the writing on the wall' comes from which biblical story?",
+    "options": [
+      "Noah's Ark",
+      "Belshazzar's feast in Daniel",
+      "Moses and the Ten Commandments",
+      "The walls of Jericho"
+    ],
+    "answer": "Belshazzar's feast in Daniel",
+    "id": "general-4009"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "A 'flash in the pan' originally described what failing to do?",
+    "options": [
+      "A camera flash failing",
+      "A pan catching fire",
+      "Gunpowder flashing without firing in a flintlock",
+      "A gold panning failure"
+    ],
+    "answer": "Gunpowder flashing without firing in a flintlock",
+    "id": "general-4010"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What does 'cut from the same cloth' imply about two people?",
+    "options": [
+      "They are very similar",
+      "They are tailors",
+      "They are wealthy",
+      "They dislike each other"
+    ],
+    "answer": "They are very similar",
+    "id": "general-4011"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What does 'burning the candle at both ends' suggest?",
+    "options": [
+      "Overworking by staying up late and waking early",
+      "Lighting a room brightly",
+      "Celebrating twice",
+      "Being wasteful with wax"
+    ],
+    "answer": "Overworking by staying up late and waking early",
+    "id": "general-4012"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "Which literary work popularized 'a silver lining' in its current hopeful sense?",
+    "options": [
+      "Shakespeare's Hamlet",
+      "Austen's Pride and Prejudice",
+      "Dickens' Oliver Twist",
+      "Milton's Comus (1634)"
+    ],
+    "answer": "Milton's Comus (1634)",
+    "id": "general-4013"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does 'off the cuff' originally refer to?",
+    "options": [
+      "Speaking without notes, as if from a shirt cuff",
+      "A tailor's mistake",
+      "Police handcuffs",
+      "A type of shirt"
+    ],
+    "answer": "Speaking without notes, as if from a shirt cuff",
+    "id": "general-4014"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does 'the whole ball of wax' mean?",
+    "options": [
+      "Everything",
+      "A candle shop",
+      "A small portion",
+      "A messy situation"
+    ],
+    "answer": "Everything",
+    "id": "general-4015"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does 'in the limelight' refer to historically?",
+    "options": [
+      "A type of citrus spotlight",
+      "A famous theater in London",
+      "Being in a green room",
+      "An early stage lighting using quicklime"
+    ],
+    "answer": "An early stage lighting using quicklime",
+    "id": "general-4016"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What does 'cry over spilt milk' advise?",
+    "options": [
+      "Be careful",
+      "Don't worry about what can't be undone",
+      "Clean up quickly",
+      "Avoid dairy"
+    ],
+    "answer": "Don't worry about what can't be undone",
+    "id": "general-4017"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "The phrase 'steer clear of' originally came from what activity?",
+    "options": [
+      "Herding cattle",
+      "Driving cars",
+      "Sailing and avoiding hazards",
+      "Flying planes"
+    ],
+    "answer": "Sailing and avoiding hazards",
+    "id": "general-4018"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What does 'a leopard can't change its spots' mean?",
+    "options": [
+      "Spots are permanent",
+      "Leopards are dangerous",
+      "People can't change their basic nature",
+      "Animals are hard to paint"
+    ],
+    "answer": "People can't change their basic nature",
+    "id": "general-4019"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does 'go the extra mile' mean?",
+    "options": [
+      "Travel abroad",
+      "Walk far",
+      "Run a marathon",
+      "Do more than is required"
+    ],
+    "answer": "Do more than is required",
+    "id": "general-4020"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does 'leave no stone unturned' mean?",
+    "options": [
+      "Search thoroughly",
+      "Build a wall",
+      "Be lazy",
+      "Clean a garden"
+    ],
+    "answer": "Search thoroughly",
+    "id": "general-4021"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "The phrase 'caught red-handed' originally referred to what?",
+    "options": [
+      "Having blood on hands after a crime",
+      "Stealing apples",
+      "Wearing red gloves",
+      "Painting"
+    ],
+    "answer": "Having blood on hands after a crime",
+    "id": "general-4022"
   }
 ]
