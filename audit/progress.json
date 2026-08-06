@@ -2569,11 +2569,11 @@
         "big-bang-theory-045",
         "big-bang-theory-046"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-06",
+      "completedAt": "2026-08-06",
+      "issuesFound": 12,
+      "notes": "Cut 8 confirmed same-fact-reworded duplicates (Alfred Hofstadter actor dup of bbt-325; Junior Professor Solution dup of bbt-427; Barry Kripke actor triplicate bbt-114/578/633 -> kept 633; Denise actress dup bbt-166/695 -> kept 695; Sheldon's wife dup bbt-015/506 -> kept 506; comic store owner dup bbt-017/511 -> kept 511; Wil Wheaton nemesis dup bbt-018/583 -> kept 583; Raj needs alcohol dup bbt-020/283 -> kept 283; Bernadette microbiology dup bbt-010/273 -> kept 273); fixed 2 factual errors (Bob Newhart's Emmy nomination count was 'Eight' but multiple sources confirm 6 prior losses before his 7th-nomination win -> corrected to Six; 'The D&D Vortex' stem wrongly listed Mark Hamill as a guest star, actual cast is Shatner/Kevin Smith/Abdul-Jabbar/Manganiello -> corrected to Kevin Smith). Verified the 2026 'Stuart Fails to Save the Universe' HBO Max spinoff cluster (bbt-669/670/671/711) and ~15 other hard-difficulty specific claims via WebSearch -- all held up accurate (Sean Astin as Pemberton, RPSLS invented by Sam Kass, RISD/Stuart Bloom, Griffith Observatory, Christopher Lloyd as Theodore, Terminator Decoupling phone-break gag, etc.)."
     },
     {
       "chunkId": "big-bang-theory-p1-004",
@@ -2630,11 +2630,11 @@
         "big-bang-theory-141",
         "big-bang-theory-143"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-06",
+      "completedAt": "2026-08-06",
+      "issuesFound": 17,
+      "notes": "Cut 16 confirmed same-fact-reworded duplicates: Fun with Flags title triplicate (bbt-052/293/514 -> kept 052), Stephen Hawking bests Sheldon dup (059/247 -> kept 059), Neil deGrasse Tyson dup (060/616 -> kept 060), Penny's pharma-sales career dup (066/280 -> kept 066), Jim Parsons narrates Young Sheldon dup (070/165 -> kept 070), show creators dup (071/287 -> kept 071), New Comic Book Day = Wednesday dup (077/509 -> kept 077), Vegas elopement dup (092/556 -> kept 092), Kevin Sussman plays Stuart dup (106/580 -> kept 106), Beverly Hofstadter profession dup (125/226 -> kept 125), Christine Baranski plays Beverly triplicate (127/531/643 -> kept 127), Carol Ann Susi voices Debbie Wolowitz triplicate (137/244/648 -> kept 137), plus Emily Sweeney profession dup pair (128/253, both cut -- both wrongly said 'Forensic pathologist', duplicating and contradicting the already-correct bbt-642 'Dermatology'). Fixed 1 unfixable-as-worded factual error (bbt-104: store's season-7 crisis was actually a hotplate fire per 'The Status Quo Combustion', not bankruptcy -- no bankruptcy storyline exists; reworded stem+answer to 'fire'). Fixed 1 date error (bbt-139: Carol Ann Susi died in Nov 2014, not 2013). Verified ~15 other claims via WebSearch/memory (Arctic expedition, Kripke's plasma-physics/string-theory specialty, Bernadette's father as police officer, etc.) -- all held up accurate."
     },
     {
       "chunkId": "big-bang-theory-p1-005",

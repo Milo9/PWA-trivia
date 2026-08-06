@@ -117,19 +117,6 @@
     "answer": "Neurobiology"
   },
   {
-    "id": "big-bang-theory-010",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "What is Bernadette Rostenkowski's field of study before she moves into pharmaceutical research?",
-    "options": [
-      "Microbiology",
-      "Neurobiology",
-      "Astrophysics",
-      "Engineering"
-    ],
-    "answer": "Microbiology"
-  },
-  {
     "id": "big-bang-theory-011",
     "category": "big-bang-theory",
     "difficulty": "easy",
@@ -169,19 +156,6 @@
     "answer": "His usual spot on the couch"
   },
   {
-    "id": "big-bang-theory-015",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "Who does Sheldon eventually marry?",
-    "options": [
-      "Amy Farrah Fowler",
-      "Penny",
-      "Bernadette",
-      "Missy"
-    ],
-    "answer": "Amy Farrah Fowler"
-  },
-  {
     "id": "big-bang-theory-016",
     "category": "big-bang-theory",
     "difficulty": "easy",
@@ -195,32 +169,6 @@
     "answer": "Penny"
   },
   {
-    "id": "big-bang-theory-017",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "What is the name of the guys' friend who owns the comic book store?",
-    "options": [
-      "Stuart Bloom",
-      "Wil Wheaton",
-      "Barry Kripke",
-      "Zack Johnson"
-    ],
-    "answer": "Stuart Bloom"
-  },
-  {
-    "id": "big-bang-theory-018",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "Which actor plays a semi-fictionalized, often antagonistic version of himself as Sheldon and Leonard's rival?",
-    "options": [
-      "Wil Wheaton",
-      "Leonard Nimoy",
-      "George Takei",
-      "Bob Newhart"
-    ],
-    "answer": "Wil Wheaton"
-  },
-  {
     "id": "big-bang-theory-019",
     "category": "big-bang-theory",
     "difficulty": "hard",
@@ -232,19 +180,6 @@
       "Nutmeg"
     ],
     "answer": "Cinnamon"
-  },
-  {
-    "id": "big-bang-theory-020",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "In early seasons, what does Raj need in order to work up the courage to speak to women?",
-    "options": [
-      "Alcohol",
-      "Coffee",
-      "Sheldon's encouragement",
-      "A wingman"
-    ],
-    "answer": "Alcohol"
   },
   {
     "id": "big-bang-theory-021",
@@ -1277,14 +1212,14 @@
     "id": "big-bang-theory-104",
     "category": "big-bang-theory",
     "difficulty": "medium",
-    "question": "What financial trouble threatens to close Stuart's comic book store in season 7?",
+    "question": "What disaster badly damages Stuart's comic book store in the season 7 finale?",
     "options": [
+      "A fire",
       "A robbery wipes out inventory",
-      "Bankruptcy",
       "A lawsuit from a customer",
       "A rent increase forces relocation"
     ],
-    "answer": "Bankruptcy"
+    "answer": "A fire"
   },
   {
     "id": "big-bang-theory-105",
@@ -1402,19 +1337,6 @@
       "Microbiologist"
     ],
     "answer": "Theoretical physicist"
-  },
-  {
-    "id": "big-bang-theory-114",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "Which actor plays Barry Kripke?",
-    "options": [
-      "Kevin Sussman",
-      "John Ross Bowie",
-      "Brian Posehn",
-      "Wil Wheaton"
-    ],
-    "answer": "John Ross Bowie"
   },
   {
     "id": "big-bang-theory-115",
@@ -1586,19 +1508,6 @@
     "answer": "Christine Baranski"
   },
   {
-    "id": "big-bang-theory-128",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "What is Emily Sweeney's profession, fitting her interest in dark topics?",
-    "options": [
-      "Veterinarian",
-      "Forensic pathologist",
-      "Dentist",
-      "Microbiologist"
-    ],
-    "answer": "Forensic pathologist"
-  },
-  {
     "id": "big-bang-theory-129",
     "category": "big-bang-theory",
     "difficulty": "hard",
@@ -1732,7 +1641,7 @@
     "id": "big-bang-theory-139",
     "category": "big-bang-theory",
     "difficulty": "medium",
-    "question": "What real-world event in 2013 led the show's writers to give Debbie Wolowitz a written-in death?",
+    "question": "What real-world event in 2014 led the show's writers to give Debbie Wolowitz a written-in death?",
     "options": [
       "A network scheduling change",
       "A contract dispute",
@@ -2065,32 +1974,6 @@
       "Melissa Rauch and Mayim Bialik"
     ],
     "answer": "Johnny Galecki and Sara Gilbert"
-  },
-  {
-    "id": "big-bang-theory-165",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "Which Big Bang Theory actor is also an executive producer of Young Sheldon and narrates it?",
-    "options": [
-      "Johnny Galecki",
-      "Kunal Nayyar",
-      "Jim Parsons",
-      "Simon Helberg"
-    ],
-    "answer": "Jim Parsons"
-  },
-  {
-    "id": "big-bang-theory-166",
-    "category": "big-bang-theory",
-    "difficulty": "hard",
-    "question": "Which actress plays Denise, Stuart's comic-store love interest in later seasons?",
-    "options": [
-      "Riki Lindhome",
-      "Kate Micucci",
-      "Lauren Lapkus",
-      "Yvette Nicole Brown"
-    ],
-    "answer": "Lauren Lapkus"
   },
   {
     "id": "big-bang-theory-167",
@@ -2834,19 +2717,6 @@
     "answer": "Three"
   },
   {
-    "id": "big-bang-theory-226",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "What is Beverly Hofstadter's professional background, matching her cold, clinical parenting style?",
-    "options": [
-      "Corporate attorney",
-      "Theoretical physicist",
-      "Psychiatrist and neuroscientist",
-      "Cardiac surgeon"
-    ],
-    "answer": "Psychiatrist and neuroscientist"
-  },
-  {
     "id": "big-bang-theory-227",
     "category": "big-bang-theory",
     "difficulty": "hard",
@@ -3042,19 +2912,6 @@
     "answer": "Heard shouting off-screen, rarely shown clearly"
   },
   {
-    "id": "big-bang-theory-244",
-    "category": "big-bang-theory",
-    "difficulty": "hard",
-    "question": "Who voiced Debbie Wolowitz for most of the show's run?",
-    "options": [
-      "Christine Baranski",
-      "Judith Light",
-      "Carol Ann Susi",
-      "Estelle Harris"
-    ],
-    "answer": "Carol Ann Susi"
-  },
-  {
     "id": "big-bang-theory-246",
     "category": "big-bang-theory",
     "difficulty": "easy",
@@ -3066,19 +2923,6 @@
       "A moped shaped like a spaceship"
     ],
     "answer": "A Vespa scooter"
-  },
-  {
-    "id": "big-bang-theory-247",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "Which renowned physicist appears as himself and bests Sheldon in a wheelchair race/debate storyline?",
-    "options": [
-      "Brian Greene",
-      "Michio Kaku",
-      "Roger Penrose",
-      "Stephen Hawking"
-    ],
-    "answer": "Stephen Hawking"
   },
   {
     "id": "big-bang-theory-248",
@@ -3131,19 +2975,6 @@
       "Batgirl"
     ],
     "answer": "Harley Quinn"
-  },
-  {
-    "id": "big-bang-theory-253",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "What is Emily Sweeney's profession, fitting her fascination with the macabre?",
-    "options": [
-      "Veterinarian",
-      "Funeral director",
-      "Crime novelist",
-      "Forensic pathologist"
-    ],
-    "answer": "Forensic pathologist"
   },
   {
     "id": "big-bang-theory-254",
@@ -3406,19 +3237,6 @@
     "answer": "Zack Johnson"
   },
   {
-    "id": "big-bang-theory-280",
-    "category": "big-bang-theory",
-    "difficulty": "easy",
-    "question": "What career does Penny eventually settle into instead of acting?",
-    "options": [
-      "Talent agent",
-      "Pharmaceutical sales representative",
-      "Screenwriter",
-      "Nurse"
-    ],
-    "answer": "Pharmaceutical sales representative"
-  },
-  {
     "id": "big-bang-theory-281",
     "category": "big-bang-theory",
     "difficulty": "easy",
@@ -3497,19 +3315,6 @@
     "answer": "Season 11"
   },
   {
-    "id": "big-bang-theory-287",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "Who are the two creators credited with developing The Big Bang Theory?",
-    "options": [
-      "Chuck Lorre and Bill Lawrence",
-      "Greg Daniels and Chuck Lorre",
-      "Chuck Lorre and Bill Prady",
-      "Bill Prady and Steven Molaro"
-    ],
-    "answer": "Chuck Lorre and Bill Prady"
-  },
-  {
     "id": "big-bang-theory-288",
     "category": "big-bang-theory",
     "difficulty": "easy",
@@ -3560,19 +3365,6 @@
       "He insists on giving cash only"
     ],
     "answer": "He requires gifts to be of precisely equal value, given in advance"
-  },
-  {
-    "id": "big-bang-theory-293",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "What is the title of Sheldon's amateur web series about flags, which Amy later co-hosts?",
-    "options": [
-      "Flag Facts Weekly",
-      "Sheldon Says",
-      "Vexillology Corner",
-      "Fun with Flags"
-    ],
-    "answer": "Fun with Flags"
   },
   {
     "id": "big-bang-theory-295",
@@ -6331,19 +6123,6 @@
     "answer": "The Flash"
   },
   {
-    "id": "big-bang-theory-509",
-    "category": "big-bang-theory",
-    "difficulty": "easy",
-    "question": "What day of the week is 'New Comic Book Day,' a ritual outing for the guys?",
-    "options": [
-      "Wednesday",
-      "Friday",
-      "Monday",
-      "Saturday"
-    ],
-    "answer": "Wednesday"
-  },
-  {
     "id": "big-bang-theory-511",
     "category": "big-bang-theory",
     "difficulty": "easy",
@@ -6381,19 +6160,6 @@
       "He waits exactly one minute before knocking"
     ],
     "answer": "He knocks three times and says the person's name three times"
-  },
-  {
-    "id": "big-bang-theory-514",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "What is the title of the web series Sheldon co-hosts with Amy, dedicated to a niche hobby?",
-    "options": [
-      "Fun with Flags",
-      "Sheldon's Corner",
-      "Vexillology Weekly",
-      "The Cooper Show"
-    ],
-    "answer": "Fun with Flags"
   },
   {
     "id": "big-bang-theory-516",
@@ -6576,19 +6342,6 @@
       "Dr. Susan Hofstadter"
     ],
     "answer": "Dr. Beverly Hofstadter"
-  },
-  {
-    "id": "big-bang-theory-531",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "Who plays Leonard's mother, Dr. Beverly Hofstadter?",
-    "options": [
-      "Christine Baranski",
-      "Laurie Metcalf",
-      "Judy Greer",
-      "Susan Sarandon"
-    ],
-    "answer": "Christine Baranski"
   },
   {
     "id": "big-bang-theory-533",
@@ -6864,19 +6617,6 @@
     "answer": "It is never revealed on screen"
   },
   {
-    "id": "big-bang-theory-556",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "Where do Leonard and Penny spontaneously elope, upsetting their friends by not inviting them?",
-    "options": [
-      "Las Vegas",
-      "Reno",
-      "Atlantic City",
-      "Niagara Falls"
-    ],
-    "answer": "Las Vegas"
-  },
-  {
     "id": "big-bang-theory-557",
     "category": "big-bang-theory",
     "difficulty": "medium",
@@ -7137,19 +6877,6 @@
     "answer": "Dermatologist"
   },
   {
-    "id": "big-bang-theory-578",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "What actor plays the recurring role of Barry Kripke, a rival physicist with a distinct speech pattern?",
-    "options": [
-      "John Ross Bowie",
-      "Brian Posehn",
-      "Kevin Sussman",
-      "Wil Wheaton"
-    ],
-    "answer": "John Ross Bowie"
-  },
-  {
     "id": "big-bang-theory-579",
     "category": "big-bang-theory",
     "difficulty": "medium",
@@ -7161,19 +6888,6 @@
       "He speaks unusually fast"
     ],
     "answer": "He has a rhotacism, replacing certain consonant sounds"
-  },
-  {
-    "id": "big-bang-theory-580",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "Which actor plays the recurring nerdy comic-loving character Stuart Bloom?",
-    "options": [
-      "Kevin Sussman",
-      "John Ross Bowie",
-      "Brian Posehn",
-      "Josh Sussman"
-    ],
-    "answer": "Kevin Sussman"
   },
   {
     "id": "big-bang-theory-581",
@@ -7592,19 +7306,6 @@
     "answer": "Stephen Hawking"
   },
   {
-    "id": "big-bang-theory-616",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "Which astrophysicist and Hayden Planetarium director guest-stars as himself, frequently sparring intellectually with Sheldon?",
-    "options": [
-      "Neil deGrasse Tyson",
-      "Brian Greene",
-      "Kip Thorne",
-      "Bill Nye"
-    ],
-    "answer": "Neil deGrasse Tyson"
-  },
-  {
     "id": "big-bang-theory-618",
     "category": "big-bang-theory",
     "difficulty": "medium",
@@ -7852,19 +7553,6 @@
     "answer": "Dermatology"
   },
   {
-    "id": "big-bang-theory-643",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "Which actress plays Beverly Hofstadter, Leonard's cold and clinical psychiatrist mother?",
-    "options": [
-      "Christine Baranski",
-      "Laurie Metcalf",
-      "Meryl Streep",
-      "Judith Light"
-    ],
-    "answer": "Christine Baranski"
-  },
-  {
     "id": "big-bang-theory-644",
     "category": "big-bang-theory",
     "difficulty": "medium",
@@ -7878,19 +7566,6 @@
     "answer": "The Good Wife"
   },
   {
-    "id": "big-bang-theory-645",
-    "category": "big-bang-theory",
-    "difficulty": "hard",
-    "question": "Which actor plays Alfred Hofstadter, Leonard's emotionally distant father?",
-    "options": [
-      "Judd Hirsch",
-      "Christopher Lloyd",
-      "Ed Begley Jr.",
-      "Bob Newhart"
-    ],
-    "answer": "Judd Hirsch"
-  },
-  {
     "id": "big-bang-theory-646",
     "category": "big-bang-theory",
     "difficulty": "medium",
@@ -7902,19 +7577,6 @@
       "Alice"
     ],
     "answer": "Taxi"
-  },
-  {
-    "id": "big-bang-theory-648",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "Which actress voiced Mrs. Wolowitz, Howard's mother, who was heard but rarely seen clearly on-screen?",
-    "options": [
-      "Carol Ann Susi",
-      "Christine Baranski",
-      "June Squibb",
-      "Doris Roberts"
-    ],
-    "answer": "Carol Ann Susi"
   },
   {
     "id": "big-bang-theory-649",
@@ -8026,12 +7688,12 @@
     "difficulty": "hard",
     "question": "Bob Newhart won his first-ever competitive Emmy for playing Professor Proton, after how many prior nominations without a win?",
     "options": [
-      "Eight",
+      "Six",
       "Three",
       "Twelve",
       "Five"
     ],
-    "answer": "Eight"
+    "answer": "Six"
   },
   {
     "id": "big-bang-theory-658",
@@ -8372,19 +8034,6 @@
     "answer": "A master's degree in engineering"
   },
   {
-    "id": "big-bang-theory-689",
-    "category": "big-bang-theory",
-    "difficulty": "hard",
-    "question": "In \"The Junior Professor Solution,\" Howard enrolls in a graduate program taught by which friend, aiming to finally earn his PhD?",
-    "options": [
-      "Sheldon",
-      "Leonard",
-      "Raj",
-      "Amy"
-    ],
-    "answer": "Sheldon"
-  },
-  {
     "id": "big-bang-theory-690",
     "category": "big-bang-theory",
     "difficulty": "medium",
@@ -8583,7 +8232,7 @@
     "id": "big-bang-theory-708",
     "category": "big-bang-theory",
     "difficulty": "hard",
-    "question": "\"The D&D Vortex,\" featuring Shatner, Hamill, Kareem Abdul-Jabbar, and Joe Manganiello, aired as part of which season?",
+    "question": "\"The D&D Vortex,\" featuring Shatner, Kevin Smith, Kareem Abdul-Jabbar, and Joe Manganiello, aired as part of which season?",
     "options": [
       "Season 12",
       "Season 10",
