@@ -182,11 +182,11 @@
         "animals-nature-368",
         "animals-nature-370"
       ],
-      "status": "in-progress",
+      "status": "done",
       "startedAt": "2026-08-05",
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "completedAt": "2026-08-05",
+      "issuesFound": 1,
+      "notes": "Cut animals-nature-251, duplicate of animals-nature-225 (same pistol-shrimp cavitation-bubble-temperature fact, reworded as a comparison instead of a number)."
     },
     {
       "chunkId": "animals-nature-p1-003",
@@ -243,11 +243,11 @@
         "animals-nature-554",
         "animals-nature-557"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-05",
+      "completedAt": "2026-08-05",
+      "issuesFound": 5,
+      "notes": "Cut 5 duplicates found via cross-chunk/corpus checks: animals-nature-376 (dup of -274, manta ray brain-to-body ratio; also had an overstated 'passed mirror self-recognition test' claim), animals-nature-406 (dup of -317, thorny devil capillary-channel water-gathering), animals-nature-414 (dup of -321, inland taipan most-toxic-venom LD50 fact), animals-nature-586 (dup of -495, armadillo monozygotic quadruplets), animals-nature-378 (dup of general-867, lungfish estivation term)."
     },
     {
       "chunkId": "animals-nature-p1-004",
@@ -304,11 +304,11 @@
         "general-1081",
         "general-1235"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-05",
+      "completedAt": "2026-08-05",
+      "issuesFound": 28,
+      "notes": "Large chunk, many findings. Cut 2 reversed-direction duplicates: animals-nature-676 (dup of -400, Darwin's frog vocal-sac tadpoles), animals-nature-690 (dup of -277, pufferfish mandala circles). Cut 15 entries across 7 general-category chestnut-answer clusters independently drafted 3-5x each (group-size-cap gap, same pattern as the known Magellan cluster): tadpole (-167 kept; -1537,-2328 cut), caterpillar metamorphosis (-2318 kept; -169,-1103 cut), autotroph (-422 kept; -1099,-2235 cut), chlorophyll (-1081 kept; -426,-623 cut), omnivore (-1532 kept; -196,-633,-1241 cut), largest-shark/whale-shark (animals-nature-687 kept; general-865,-1246,-2519 cut), elephant->60yr-lifespan (-2520 kept; -876 cut). Fixed 2 factual errors: animals-nature-653 dive-depth number was wrong (60m; Guinness/literature says ~210m for thick-billed murre) - corrected; animals-nature-645 mismatched an owl-like head-rotation claim to northern harrier (that's an owl trait, not a documented harrier one) with its real, correct trait (owl-like facial disk for acoustic hunting) - rewrote question to test the real fact instead of cutting. Fixed 9 answer-leak-via-formatting bugs where the correct option was a full explanatory sentence while distractors were single words/short names, making the answer visually obvious regardless of content knowledge (animals-nature-614, -640, -695, -697, -720, -734, -752, -756, -763) - trimmed each correct option to match distractor brevity/style."
     },
     {
       "chunkId": "animals-nature-p1-005",

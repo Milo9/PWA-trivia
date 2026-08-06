@@ -257,6 +257,37 @@ trusting recall, especially for "hard"-difficulty/obscure specifics
   Every question in this corpus is phrased as a direct interrogative
   ending in `?` — reformat rather than ship or cut a batch that uses a
   different style.
+- **Answer-leak via option-length/format, not text.** The correct
+  option is a full explanatory sentence while the distractors are short
+  names/phrases (e.g. answer "Northern harrier uses facial disk like
+  owl" next to distractors "Bald eagle" | "Vulture" | "Kite") — the
+  answer is visually identifiable from formatting alone, without any
+  content knowledge. Neither `validate.js` nor `check-draft.js` checks
+  option-length balance. Fix by trimming the correct option down to the
+  same style/brevity as the distractors (move any extra explanatory
+  detail into nothing — just cut it, don't relocate it into the
+  question stem unless the stem was actually wrong, per the animals-nature
+  case below). Confirmed 2026-08-05 in animals-nature (9 instances,
+  IDs 6xx-7xx, one drafting batch) during an audit chunk; a corpus-wide
+  length-ratio grep afterward found ~100+ more candidates spread across
+  world-cultures, big-bang-theory, friends, business-brands, and
+  general, meaning this isn't isolated to one batch — it's a systemic,
+  never-checked pattern worth a dedicated pass. Rough finder (tune the
+  ratio/length cutoffs — noisy at default settings, needs a manual read
+  per hit since a long correct answer isn't inherently wrong, only a
+  long answer next to conspicuously short distractors is):
+  ```
+  node -e "
+  const fs=require('fs'),path='data/questions';
+  for(const f of fs.readdirSync(path)){
+    const qs=JSON.parse(fs.readFileSync(path+'/'+f));
+    for(const q of qs){
+      if(!q.options) continue;
+      const a=q.answer.length, others=q.options.filter(o=>o!==q.answer).map(o=>o.length);
+      if(others.length && Math.max(...others)<=22 && a>=45) console.log(f, q.id, '|', q.answer);
+    }
+  }"
+  ```
 
 After merging, **always re-run `npm run validate` before shipping**,
 even after a careful manual review pass — it's free, and it catches

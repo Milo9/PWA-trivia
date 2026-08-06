@@ -143,19 +143,6 @@
     "answer": "Tadpole"
   },
   {
-    "id": "general-169",
-    "category": "animals-nature",
-    "difficulty": "medium",
-    "question": "What is the name of the process by which a caterpillar transforms into a butterfly?",
-    "options": [
-      "Metamorphosis",
-      "Photosynthesis",
-      "Germination",
-      "Pollination"
-    ],
-    "answer": "Metamorphosis"
-  },
-  {
     "id": "general-175",
     "category": "animals-nature",
     "difficulty": "medium",
@@ -208,19 +195,6 @@
     "answer": "Root"
   },
   {
-    "id": "general-196",
-    "category": "animals-nature",
-    "difficulty": "easy",
-    "question": "What do we call an animal that eats both plants and other animals?",
-    "options": [
-      "Herbivore",
-      "Carnivore",
-      "Decomposer",
-      "Omnivore"
-    ],
-    "answer": "Omnivore"
-  },
-  {
     "id": "general-421",
     "category": "animals-nature",
     "difficulty": "easy",
@@ -271,19 +245,6 @@
       "Colugo"
     ],
     "answer": "Bat"
-  },
-  {
-    "id": "general-426",
-    "category": "animals-nature",
-    "difficulty": "easy",
-    "question": "What is the term for the green pigment in plants that absorbs sunlight for photosynthesis?",
-    "options": [
-      "Carotene",
-      "Chlorophyll",
-      "Melanin",
-      "Xanthophyll"
-    ],
-    "answer": "Chlorophyll"
   },
   {
     "id": "general-435",
@@ -364,19 +325,6 @@
     "answer": "Nocturnal"
   },
   {
-    "id": "general-623",
-    "category": "animals-nature",
-    "difficulty": "medium",
-    "question": "What is the primary pigment that gives plants their green color and enables photosynthesis?",
-    "options": [
-      "Carotene",
-      "Melanin",
-      "Chlorophyll",
-      "Xanthophyll"
-    ],
-    "answer": "Chlorophyll"
-  },
-  {
     "id": "general-627",
     "category": "animals-nature",
     "difficulty": "medium",
@@ -416,19 +364,6 @@
     "answer": "Mycology"
   },
   {
-    "id": "general-633",
-    "category": "animals-nature",
-    "difficulty": "medium",
-    "question": "What is the term for animals that eat both plants and meat?",
-    "options": [
-      "Omnivore",
-      "Herbivore",
-      "Carnivore",
-      "Detritivore"
-    ],
-    "answer": "Omnivore"
-  },
-  {
     "id": "general-746",
     "category": "animals-nature",
     "difficulty": "easy",
@@ -455,19 +390,6 @@
     "answer": "Molting"
   },
   {
-    "id": "general-865",
-    "category": "animals-nature",
-    "difficulty": "medium",
-    "question": "Which is the largest species of shark, feeding mainly on plankton?",
-    "options": [
-      "Great white shark",
-      "Tiger shark",
-      "Whale shark",
-      "Hammerhead shark"
-    ],
-    "answer": "Whale shark"
-  },
-  {
     "id": "general-867",
     "category": "animals-nature",
     "difficulty": "hard",
@@ -479,19 +401,6 @@
       "Brumation"
     ],
     "answer": "Estivation"
-  },
-  {
-    "id": "general-876",
-    "category": "animals-nature",
-    "difficulty": "medium",
-    "question": "Excluding humans, which land mammal has one of the longest lifespans, often living over 60 years?",
-    "options": [
-      "Tortoise",
-      "Elephant",
-      "Whale",
-      "Rhinoceros"
-    ],
-    "answer": "Elephant"
   },
   {
     "id": "general-879",
@@ -531,19 +440,6 @@
       "Nomadic"
     ],
     "answer": "Nocturnal"
-  },
-  {
-    "id": "general-1103",
-    "category": "animals-nature",
-    "difficulty": "easy",
-    "question": "What is the process called when a caterpillar transforms into a butterfly?",
-    "options": [
-      "Metamorphosis",
-      "Photosynthesis",
-      "Pollination",
-      "Germination"
-    ],
-    "answer": "Metamorphosis"
   },
   {
     "id": "general-1233",
@@ -650,19 +546,6 @@
     "answer": "Honeybee"
   },
   {
-    "id": "general-1241",
-    "category": "animals-nature",
-    "difficulty": "easy",
-    "question": "What do you call an animal that eats both plants and meat?",
-    "options": [
-      "Omnivore",
-      "Herbivore",
-      "Carnivore",
-      "Detritivore"
-    ],
-    "answer": "Omnivore"
-  },
-  {
     "id": "general-1242",
     "category": "animals-nature",
     "difficulty": "medium",
@@ -713,19 +596,6 @@
       "Kit"
     ],
     "answer": "Joey"
-  },
-  {
-    "id": "general-1246",
-    "category": "animals-nature",
-    "difficulty": "medium",
-    "question": "Which shark species is the largest fish in the world?",
-    "options": [
-      "Whale shark",
-      "Great white shark",
-      "Basking shark",
-      "Tiger shark"
-    ],
-    "answer": "Whale shark"
   },
   {
     "id": "general-1247",
@@ -895,19 +765,6 @@
       "Respiration"
     ],
     "answer": "Photosynthesis"
-  },
-  {
-    "id": "general-1537",
-    "category": "animals-nature",
-    "difficulty": "medium",
-    "question": "What is the name for a young frog before it develops legs and loses its tail?",
-    "options": [
-      "A pollywog nymph",
-      "A tadpole",
-      "A froglet",
-      "A larva"
-    ],
-    "answer": "A tadpole"
   },
   {
     "id": "general-1538",
@@ -1170,19 +1027,6 @@
     "answer": "Octopus"
   },
   {
-    "id": "general-2235",
-    "category": "animals-nature",
-    "difficulty": "medium",
-    "question": "What is the term for an organism that can produce its own food?",
-    "options": [
-      "Autotroph",
-      "Heterotroph",
-      "Decomposer",
-      "Parasite"
-    ],
-    "answer": "Autotroph"
-  },
-  {
     "id": "general-2286",
     "category": "animals-nature",
     "difficulty": "hard",
@@ -1233,19 +1077,6 @@
       "Leopard"
     ],
     "answer": "Tiger"
-  },
-  {
-    "id": "general-2328",
-    "category": "animals-nature",
-    "difficulty": "easy",
-    "question": "What is the name given to a baby frog?",
-    "options": [
-      "Tadpole",
-      "Froglet",
-      "Pollywog larva",
-      "Nymph"
-    ],
-    "answer": "Tadpole"
   },
   {
     "id": "general-2368",
@@ -1363,19 +1194,6 @@
       "Crocodile"
     ],
     "answer": "Lizard"
-  },
-  {
-    "id": "general-2519",
-    "category": "animals-nature",
-    "difficulty": "medium",
-    "question": "What is the name of the largest species of shark, which is a filter feeder?",
-    "options": [
-      "Whale shark",
-      "Great white shark",
-      "Basking shark",
-      "Megamouth shark"
-    ],
-    "answer": "Whale shark"
   },
   {
     "id": "general-2520",
@@ -5382,19 +5200,6 @@
     "id": "animals-nature-250"
   },
   {
-    "difficulty": "hard",
-    "category": "animals-nature",
-    "question": "The snapping claw of a pistol shrimp creates a cavitation bubble that, for a brief instant, reaches temperatures comparable to what?",
-    "options": [
-      "The surface of the Sun",
-      "Liquid nitrogen",
-      "A candle flame",
-      "Molten lava"
-    ],
-    "answer": "The surface of the Sun",
-    "id": "animals-nature-251"
-  },
-  {
     "difficulty": "medium",
     "category": "animals-nature",
     "question": "Dolphins are able to sleep without drowning by using what mechanism?",
@@ -7007,19 +6812,6 @@
     "id": "animals-nature-375"
   },
   {
-    "difficulty": "hard",
-    "category": "animals-nature",
-    "question": "Which ray has the largest brain-to-body ratio of all cold-blooded fish and has been observed passing the mirror self-recognition test?",
-    "options": [
-      "Eagle ray",
-      "Manta ray",
-      "Stingray",
-      "Cowtail stingray"
-    ],
-    "answer": "Manta ray",
-    "id": "animals-nature-376"
-  },
-  {
     "difficulty": "medium",
     "category": "animals-nature",
     "question": "The coelacanth was thought to be extinct for 66 million years until a living specimen was found in 1938 off the coast of which continent?",
@@ -7031,19 +6823,6 @@
     ],
     "answer": "Africa",
     "id": "animals-nature-377"
-  },
-  {
-    "difficulty": "hard",
-    "category": "animals-nature",
-    "question": "The lungfish can survive severe droughts by burrowing into the mud and entering a state of what?",
-    "options": [
-      "Brumation",
-      "Torpor",
-      "Hibernation",
-      "Estivation"
-    ],
-    "answer": "Estivation",
-    "id": "animals-nature-378"
   },
   {
     "difficulty": "medium",
@@ -7397,19 +7176,6 @@
     "id": "animals-nature-405"
   },
   {
-    "difficulty": "hard",
-    "category": "animals-nature",
-    "question": "The thorny devil, an Australian lizard, has capillary channels between its scales that serve what function?",
-    "options": [
-      "Excreting excess salt",
-      "Dissipating extreme desert heat",
-      "Drawing water up to its mouth from anywhere on its body",
-      "Changing color for camouflage"
-    ],
-    "answer": "Drawing water up to its mouth from anywhere on its body",
-    "id": "animals-nature-406"
-  },
-  {
     "difficulty": "medium",
     "category": "animals-nature",
     "question": "The flying lizard (Draco) can glide between trees using 'patagia,' which are gliding membranes supported by what?",
@@ -7499,19 +7265,6 @@
     ],
     "answer": "A brille (spectacle)",
     "id": "animals-nature-413"
-  },
-  {
-    "difficulty": "hard",
-    "category": "animals-nature",
-    "question": "Based on LD50 tests in mice, which snake possesses the most toxic venom in the world?",
-    "options": [
-      "Eastern brown snake",
-      "King cobra",
-      "Black mamba",
-      "Inland taipan"
-    ],
-    "answer": "Inland taipan",
-    "id": "animals-nature-414"
   },
   {
     "difficulty": "medium",
@@ -9737,19 +9490,6 @@
     "id": "animals-nature-585"
   },
   {
-    "difficulty": "medium",
-    "category": "animals-nature",
-    "question": "Which mammal routinely gives birth to genetically identical quadruplets through monozygotic polyembryony?",
-    "options": [
-      "Nine-banded armadillo",
-      "Meerkat",
-      "Aardvark",
-      "European hedgehog"
-    ],
-    "answer": "Nine-banded armadillo",
-    "id": "animals-nature-586"
-  },
-  {
     "difficulty": "easy",
     "category": "animals-nature",
     "question": "What fundamentally distinguishes antlers from horns in cervids and bovids?",
@@ -10105,12 +9845,12 @@
     "category": "animals-nature",
     "question": "Which marsupial was thought to have 13 nipples in its pouch with varying counts?",
     "options": [
-      "Virginia opossum has 13 nipples in a circle",
-      "Kangaroo has 13 nipples",
-      "Koala has 13 nipples",
-      "Wombat has 13 nipples"
+      "Virginia opossum",
+      "Kangaroo",
+      "Koala",
+      "Wombat"
     ],
-    "answer": "Virginia opossum has 13 nipples in a circle",
+    "answer": "Virginia opossum",
     "id": "animals-nature-614"
   },
   {
@@ -10443,12 +10183,12 @@
     "category": "animals-nature",
     "question": "Which bird is known to intentionally spread wildfires by carrying burning sticks to flush prey?",
     "options": [
-      "Black kite and whistling kite firehawks",
+      "Black kite and whistling kite",
       "Bald eagle",
       "Crow",
       "Pigeon"
     ],
-    "answer": "Black kite and whistling kite firehawks",
+    "answer": "Black kite and whistling kite",
     "id": "animals-nature-640"
   },
   {
@@ -10506,14 +10246,14 @@
   {
     "difficulty": "hard",
     "category": "animals-nature",
-    "question": "Which raptor can rotate its head to see behind while keeping body still to hunt?",
+    "question": "Which raptor has an owl-like facial disk that lets it hunt partly by sound?",
     "options": [
-      "Northern harrier uses facial disk like owl",
+      "Northern harrier",
       "Bald eagle",
       "Vulture",
       "Kite"
     ],
-    "answer": "Northern harrier uses facial disk like owl",
+    "answer": "Northern harrier",
     "id": "animals-nature-645"
   },
   {
@@ -10610,14 +10350,14 @@
   {
     "difficulty": "hard",
     "category": "animals-nature",
-    "question": "Which seabird has the deepest recorded dive for a flying bird at about 60 meters?",
+    "question": "Which seabird has the deepest recorded dive for a flying bird, at about 210 meters?",
     "options": [
-      "Thick-billed murre / Brunnich's guillemot",
+      "Thick-billed murre",
       "Albatross",
       "Pelican",
       "Gull"
     ],
-    "answer": "Thick-billed murre / Brunnich's guillemot",
+    "answer": "Thick-billed murre",
     "id": "animals-nature-653"
   },
   {
@@ -10907,19 +10647,6 @@
     "id": "animals-nature-675"
   },
   {
-    "difficulty": "hard",
-    "category": "animals-nature",
-    "question": "Which frog's males carry tadpoles in their vocal sacs until metamorphosis?",
-    "options": [
-      "Darwin's frog",
-      "Poison dart frog",
-      "Bullfrog",
-      "Tree frog"
-    ],
-    "answer": "Darwin's frog",
-    "id": "animals-nature-676"
-  },
-  {
     "difficulty": "easy",
     "category": "animals-nature",
     "question": "Which amphibian is the largest salamander in North America, reaching over 2 feet long?",
@@ -11089,19 +10816,6 @@
     "id": "animals-nature-689"
   },
   {
-    "difficulty": "hard",
-    "category": "animals-nature",
-    "question": "Which fish's males build elaborate circular nests in sand to attract females, called mandala art?",
-    "options": [
-      "White-spotted pufferfish",
-      "Clownfish",
-      "Goldfish",
-      "Tuna"
-    ],
-    "answer": "White-spotted pufferfish",
-    "id": "animals-nature-690"
-  },
-  {
     "difficulty": "easy",
     "category": "animals-nature",
     "question": "Which cleaning symbiosis involves a small wrasse removing parasites at cleaning stations?",
@@ -11158,12 +10872,12 @@
     "category": "animals-nature",
     "question": "Which shark can reproduce via parthenogenesis without males in captivity as of 2026?",
     "options": [
-      "Hammerhead shark and zebra shark have documented parthenogenesis",
+      "Hammerhead shark and zebra shark",
       "Great white shark",
       "Whale shark",
       "Tiger shark"
     ],
-    "answer": "Hammerhead shark and zebra shark have documented parthenogenesis",
+    "answer": "Hammerhead shark and zebra shark",
     "id": "animals-nature-695"
   },
   {
@@ -11182,14 +10896,14 @@
   {
     "difficulty": "hard",
     "category": "animals-nature",
-    "question": "Which deep-sea squid has bioluminescent photophores that can adjust brightness to match moonlight?",
+    "question": "Which squid uses light-producing bacteria in a belly organ to match moonlight and erase its shadow from predators below?",
     "options": [
-      "Hawaiian bobtail squid uses counter-illumination with Vibrio bacteria",
+      "Hawaiian bobtail squid",
       "Giant squid",
       "Colossal squid",
       "Common squid"
     ],
-    "answer": "Hawaiian bobtail squid uses counter-illumination with Vibrio bacteria",
+    "answer": "Hawaiian bobtail squid",
     "id": "animals-nature-697"
   },
   {
@@ -11483,12 +11197,12 @@
     "category": "animals-nature",
     "question": "Which ant uses its head as a living door plug to block nest entrance, called phragmosis?",
     "options": [
-      "Turtle ant Cephalotes",
+      "Turtle ant",
       "Leafcutter ant",
       "Bullet ant",
       "Fire ant"
     ],
-    "answer": "Turtle ant Cephalotes",
+    "answer": "Turtle ant",
     "id": "animals-nature-720"
   },
   {
@@ -11665,12 +11379,12 @@
     "category": "animals-nature",
     "question": "Which plant heats its inflorescence via thermogenesis to volatilize odor and attract pollinators?",
     "options": [
-      "Titan arum Amorphophallus titanum and skunk cabbage",
+      "Titan arum",
       "Oak tree",
       "Maple tree",
       "Cactus"
     ],
-    "answer": "Titan arum Amorphophallus titanum and skunk cabbage",
+    "answer": "Titan arum",
     "id": "animals-nature-734"
   },
   {
@@ -11899,12 +11613,12 @@
     "category": "animals-nature",
     "question": "Which plant's seeds can remain viable for over 1,000 years as of 2026?",
     "options": [
-      "Date palm seeds from archaeological sites germinated after 2,000 years",
+      "Date palm",
       "Tomato",
       "Lettuce",
       "Corn"
     ],
-    "answer": "Date palm seeds from archaeological sites germinated after 2,000 years",
+    "answer": "Date palm",
     "id": "animals-nature-752"
   },
   {
@@ -11951,12 +11665,12 @@
     "category": "animals-nature",
     "question": "Which carnivorous fungus traps nematodes using constricting hyphal rings?",
     "options": [
-      "Arthrobotrys and other nematode-trapping fungi",
+      "Arthrobotrys",
       "Mushroom",
       "Yeast",
       "Mold that doesn't trap"
     ],
-    "answer": "Arthrobotrys and other nematode-trapping fungi",
+    "answer": "Arthrobotrys",
     "id": "animals-nature-756"
   },
   {
@@ -12042,12 +11756,12 @@
     "category": "animals-nature",
     "question": "Which mammal's pregnancy involves delayed implantation where embryo pauses for months to time birth with favorable season?",
     "options": [
-      "Nine-banded armadillo and many mustelids like badgers have delayed implantation",
+      "Nine-banded armadillo",
       "Elephant",
       "Giraffe",
       "Hippopotamus"
     ],
-    "answer": "Nine-banded armadillo and many mustelids like badgers have delayed implantation",
+    "answer": "Nine-banded armadillo",
     "id": "animals-nature-763"
   },
   {
