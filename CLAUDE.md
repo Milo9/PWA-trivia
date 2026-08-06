@@ -334,6 +334,62 @@ advisories caught (3) — budget for a full manual read on every
 multi-file merge, not just single-file batches leaning on iconic
 subjects.
 
+## Auditing existing questions for accuracy
+
+Separate from dedup (covered above): a resumable, chunked pass over the
+*whole shipped corpus* checking for hallucinated facts, wrong distractors,
+answer-leaks, and the other patterns in "Factual-error patterns worth
+verifying, not just deduping" above — nothing in the normal add-a-batch
+flow ever re-checks a question's factual correctness once it's merged.
+Tracked by `scripts/audit.js` (see README's "Auditing existing questions
+for accuracy" for the command reference). Rules specific to running a
+chunk:
+
+- **Always pull work via `node scripts/audit.js next`, not by picking
+  questions yourself.** The tracking state is only meaningful if it's the
+  single source of truth for what's been reviewed.
+- **Review every question in the chunk, including ones that look
+  obviously fine.** The entire value of this system is exhaustive
+  coverage over many sessions — spot-checking defeats the point and
+  produces a false sense of a "clean" pass.
+- **For every question, explicitly check the three wrong options, not
+  just the marked answer.** Confirming "yes, the stored answer is
+  correct" is the cheap 80% of a read-through and will happen by
+  default; confirming "and none of the three distractors are *also*
+  defensible" takes deliberately asking the question per option and
+  won't happen unless you make it its own step. This is the single
+  highest-value check per CLAUDE.md's "Factual-error patterns worth
+  verifying" list (distractor-correctness bugs) precisely because it's
+  the one a passive read skips.
+- Beyond that, apply the rest of the same checklist a pre-merge draft
+  gets ("Factual-error patterns worth verifying, not just deduping"
+  above): named-thing confusion, stale record-holder claims,
+  self-answering stems, plus (new for already-shipped content, since it
+  didn't go through `check-draft.js`) answer-leak and duplicate checks
+  too — a chunk can surface things a pre-merge check would have caught
+  if the batch predates that check being added.
+- Default to judgment/memory; reach for `WebSearch` only for genuinely
+  uncertain or hard-difficulty specific claims. Verifying all ~14,000
+  questions via search would be prohibitively expensive and isn't the
+  point — most questions are obviously fine on a read-through.
+- Fix directly in `data/questions/<category>.json` (or cut, per the
+  existing "unfixable without changing the underlying fact" guidance).
+  Run `npm run validate`, then `npm run ship -- "…"` as usual.
+- **Mark a chunk `complete` only after shipping its fixes**, not before —
+  `audit.js complete` just edits `audit/progress.json`, it doesn't ship
+  anything itself, so marking complete first and shipping later risks an
+  interrupted session leaving fixes unshipped but the chunk already
+  recorded as done.
+- If a chunk is too big to finish in one sitting, just stop mid-review —
+  it stays `in-progress` and the next `next` call re-surfaces the same
+  chunk rather than skipping ahead to a fresh one.
+- A pass's chunk membership is frozen at `init`/`new-pass` time (sorted
+  hard-difficulty-first per category, then split into fixed-size
+  chunks). Don't try to "rebalance" chunks mid-pass by hand-editing
+  `audit/progress.json` — if chunk size turns out wrong for a category,
+  fix it going forward via `--chunk-size` on the *next* pass rather than
+  reshaping the current one.
+
 ## Known backlog / do-not-re-flag
 
 Settled judgment calls — don't re-litigate these as bugs if they

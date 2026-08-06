@@ -35,6 +35,7 @@ scripts/validate.js              — schema + duplicate + quality checks
 scripts/check-draft.js           — pre-merge check for a not-yet-added batch
 scripts/analyze.js               — difficulty/answer-position/topic coverage report
 scripts/find-gaps.js             — topics used only as a wrong answer, never correct
+scripts/audit.js                 — chunked accuracy-audit progress tracker
 scripts/stamp-version.js         — updates the offline cache version
 scripts/serve.js                 — local dev server
 scripts/generate-icons.ps1       — regenerates icons/ (Windows/PowerShell)
@@ -43,6 +44,8 @@ questions_inbox/                 — gitignored; drop external-agent draft
 questions_inbox/processed/       — merged draft files get moved here
                                     (not deleted) once shipped, as a record
                                     of what's already been processed
+audit/progress.json              — current accuracy-audit pass state
+audit/history/                   — archived completed audit passes
 ```
 
 ## Question schema
@@ -205,6 +208,54 @@ Highest-yield page types, in order:
 This fixes accuracy (facts come from a source instead of a guess), not
 duplication — still run `check-draft.js` against the full corpus for every
 candidate fact regardless of where it came from.
+
+## Auditing existing questions for accuracy
+
+`validate.js` and `check-draft.js` only catch schema problems and
+duplication — nothing checks whether an already-shipped question is
+actually *correct* (hallucinated fact, wrong distractor, answer that
+leaks from the question stem, a stale superlative). With 14,000+
+questions merged from many external-agent drafting sessions, a full
+manual re-read in one sitting isn't practical, so this is a resumable,
+chunked audit tracked in `audit/`:
+
+```
+node scripts/audit.js status                                    # progress so far
+node scripts/audit.js next [--category=<id>] [--n=1]             # pull the next chunk(s) to review
+node scripts/audit.js complete <chunkId> --issues=N --notes="…"  # record what you found
+node scripts/audit.js new-pass                                   # once every chunk is done, start a fresh pass
+```
+
+Each chunk is ~50 questions (configurable via `--chunk-size` at `init`/
+`new-pass` time). Within each category, hard-difficulty questions are
+sorted to the front of the pass, since they rest on more specific/obscure
+claims than easy ones and are more likely to hide an error — the
+tradeoff is that an interrupted pass leaves *all* easy questions across
+*every* category unreviewed, not an even slice of the whole corpus, so
+"we got through N% of a pass" means the riskiest N%, not a random N%.
+Progress is
+tracked in `audit/progress.json` (git-committed, so it persists across
+sessions/machines) — a chunk marked `done` in the current pass won't be
+handed out again by `next` until every other chunk finishes and `new-pass`
+starts a fresh cycle against the current corpus (which also sweeps in
+anything merged in since the last pass started). `audit/` lives outside
+`data/` deliberately, so updating it doesn't bump the offline cache
+version the way editing anything under `data/` does.
+
+To actually review a chunk: read every question `next` prints (each line
+is `id [difficulty] Q: … OPTIONS: A:… | B:… | C:… | D:…` with `*` marking
+the stored answer) against the checklist in CLAUDE.md's "Factual-error
+patterns worth verifying" section — same checks used when vetting a new
+draft, just applied to content already in `data/`. Use judgment/memory
+first; reach for `WebSearch` only for genuinely uncertain or
+hard-difficulty specific claims, not every line. Fix anything wrong
+directly in `data/questions/<category>.json`, then `npm run validate`
+and `npm run ship -- "…"` as usual — **mark the chunk `complete` only
+after shipping**, so an interrupted session doesn't leave a chunk marked
+done with its fixes never actually committed. If a chunk is too large to
+finish in one sitting, just stop — it stays `in-progress` and the next
+`node scripts/audit.js next` call re-surfaces the same chunk instead of
+skipping ahead.
 
 ## Adding a new category
 
