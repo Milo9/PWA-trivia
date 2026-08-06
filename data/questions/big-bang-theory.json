@@ -585,19 +585,6 @@
     "answer": "Amy Farrah Fowler"
   },
   {
-    "id": "big-bang-theory-054",
-    "category": "big-bang-theory",
-    "difficulty": "easy",
-    "question": "What is the name of the comforting song Sheldon has sung to him, and later sings to others, when sick?",
-    "options": [
-      "Soft Kitty",
-      "Twinkle Twinkle",
-      "Hush Little Baby",
-      "You Are My Sunshine"
-    ],
-    "answer": "Soft Kitty"
-  },
-  {
     "id": "big-bang-theory-055",
     "category": "big-bang-theory",
     "difficulty": "medium",
@@ -726,19 +713,6 @@
       "Werner Heisenberg"
     ],
     "answer": "Richard Feynman"
-  },
-  {
-    "id": "big-bang-theory-066",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "What career does Penny transition to after leaving her waitressing job at the Cheesecake Factory?",
-    "options": [
-      "Pharmaceutical sales representative",
-      "Actress",
-      "Teacher",
-      "Nurse"
-    ],
-    "answer": "Pharmaceutical sales representative"
   },
   {
     "id": "big-bang-theory-067",
@@ -1220,19 +1194,6 @@
       "A rent increase forces relocation"
     ],
     "answer": "A fire"
-  },
-  {
-    "id": "big-bang-theory-105",
-    "category": "big-bang-theory",
-    "difficulty": "hard",
-    "question": "Which comic-store employee does Stuart Bloom eventually start dating?",
-    "options": [
-      "Emily",
-      "Denise",
-      "Anu",
-      "Priya"
-    ],
-    "answer": "Denise"
   },
   {
     "id": "big-bang-theory-106",
@@ -2561,19 +2522,6 @@
     "answer": "Two"
   },
   {
-    "id": "big-bang-theory-212",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "What financial crisis does Stuart Bloom face regarding his comic book store in season 7?",
-    "options": [
-      "It burns down completely",
-      "He has to file for bankruptcy",
-      "It gets robbed of all its inventory",
-      "The landlord triples his rent overnight"
-    ],
-    "answer": "He has to file for bankruptcy"
-  },
-  {
     "id": "big-bang-theory-213",
     "category": "big-bang-theory",
     "difficulty": "easy",
@@ -2821,19 +2769,6 @@
     "answer": "He becomes a U.S. citizen"
   },
   {
-    "id": "big-bang-theory-237",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "What does Anu ask Raj to change about his home before their wedding, causing him some anxiety?",
-    "options": [
-      "Move out of Pasadena entirely",
-      "Sell his beloved dog's old belongings and redecorate",
-      "Give up his career",
-      "Cut ties with his friend group"
-    ],
-    "answer": "Sell his beloved dog's old belongings and redecorate"
-  },
-  {
     "id": "big-bang-theory-238",
     "category": "big-bang-theory",
     "difficulty": "medium",
@@ -2858,19 +2793,6 @@
       "As living with Howard and Bernadette"
     ],
     "answer": "Rarely seen or mentioned on screen"
-  },
-  {
-    "id": "big-bang-theory-240",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "How is Mike Rostenkowski's attitude toward Howard generally portrayed, especially early on?",
-    "options": [
-      "Warm and affectionate from day one",
-      "Completely indifferent",
-      "Openly supportive and proud",
-      "Disapproving and hard to please"
-    ],
-    "answer": "Disapproving and hard to please"
   },
   {
     "id": "big-bang-theory-241",
@@ -3092,19 +3014,6 @@
       "Arkansas"
     ],
     "answer": "Texas"
-  },
-  {
-    "id": "big-bang-theory-267",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "In Young Sheldon, which of Sheldon's siblings is portrayed as most resentful of the attention his genius brings the family?",
-    "options": [
-      "Georgie",
-      "Missy",
-      "Both equally",
-      "Neither; they're both supportive"
-    ],
-    "answer": "Georgie"
   },
   {
     "id": "big-bang-theory-268",
@@ -3411,12 +3320,12 @@
     "difficulty": "medium",
     "question": "Leonard is shown to feel inadequate compared to his own siblings, who are portrayed as what?",
     "options": [
-      "Impressive overachievers, like a genius doctor and a Nobel-caliber sibling",
+      "Impressive overachievers, like a Harvard law professor and a cutting-edge medical researcher",
       "Complete failures who rely on him",
       "Non-existent; he's an only child",
       "Uninterested in academics entirely"
     ],
-    "answer": "Impressive overachievers, like a genius doctor and a Nobel-caliber sibling"
+    "answer": "Impressive overachievers, like a Harvard law professor and a cutting-edge medical researcher"
   },
   {
     "id": "big-bang-theory-300",
@@ -6578,32 +6487,6 @@
     "answer": "Waitress at The Cheesecake Factory"
   },
   {
-    "id": "big-bang-theory-553",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "What career does Penny originally aspire to before giving it up later in the series?",
-    "options": [
-      "Acting",
-      "Singing",
-      "Modeling",
-      "Directing"
-    ],
-    "answer": "Acting"
-  },
-  {
-    "id": "big-bang-theory-554",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "What new career path does Penny pursue after giving up acting, tied to Bernadette's company connections?",
-    "options": [
-      "Pharmaceutical sales",
-      "Marketing executive",
-      "Lab technician",
-      "Nurse"
-    ],
-    "answer": "Pharmaceutical sales"
-  },
-  {
     "id": "big-bang-theory-555",
     "category": "big-bang-theory",
     "difficulty": "medium",
@@ -6799,19 +6682,6 @@
     "answer": "Roseanne"
   },
   {
-    "id": "big-bang-theory-571",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "What sitcom did Kaley Cuoco, who plays Penny, star in earlier in her career, in the mid-2000s?",
-    "options": [
-      "8 Simple Rules",
-      "Full House",
-      "Boy Meets World",
-      "Sabrina the Teenage Witch"
-    ],
-    "answer": "8 Simple Rules"
-  },
-  {
     "id": "big-bang-theory-572",
     "category": "big-bang-theory",
     "difficulty": "hard",
@@ -6903,19 +6773,6 @@
     "answer": "It struggles and nearly closes before Howard's family/friends help save it"
   },
   {
-    "id": "big-bang-theory-582",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "What is the name of the comic book store employee Stuart Bloom becomes romantically involved with?",
-    "options": [
-      "Denise",
-      "Emily",
-      "Anu",
-      "Priya"
-    ],
-    "answer": "Denise"
-  },
-  {
     "id": "big-bang-theory-583",
     "category": "big-bang-theory",
     "difficulty": "medium",
@@ -7005,19 +6862,6 @@
       "He goes to the hospital immediately for minor illnesses"
     ],
     "answer": "He insists on being sung to and cared for exactly as his mother did"
-  },
-  {
-    "id": "big-bang-theory-590",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "What lullaby-style song does Sheldon want sung to him when he's sick?",
-    "options": [
-      "Soft Kitty",
-      "Twinkle Twinkle Little Star",
-      "You Are My Sunshine",
-      "Hush Little Baby"
-    ],
-    "answer": "Soft Kitty"
   },
   {
     "id": "big-bang-theory-593",
@@ -7254,19 +7098,6 @@
     "answer": "Neil Gaiman"
   },
   {
-    "id": "big-bang-theory-612",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "Which actor, famous for playing Geordi La Forge on Star Trek: The Next Generation, guest-stars as himself on The Big Bang Theory?",
-    "options": [
-      "LeVar Burton",
-      "Wil Wheaton",
-      "George Takei",
-      "William Shatner"
-    ],
-    "answer": "LeVar Burton"
-  },
-  {
     "id": "big-bang-theory-613",
     "category": "big-bang-theory",
     "difficulty": "easy",
@@ -7319,32 +7150,6 @@
     "answer": "Steve Wozniak"
   },
   {
-    "id": "big-bang-theory-619",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "Which Microsoft co-founder appears as himself in a Season 11 episode of The Big Bang Theory?",
-    "options": [
-      "Bill Gates",
-      "Steve Wozniak",
-      "Elon Musk",
-      "Mark Zuckerberg"
-    ],
-    "answer": "Bill Gates"
-  },
-  {
-    "id": "big-bang-theory-620",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "Which billionaire entrepreneur behind Tesla and SpaceX guest-stars as himself on The Big Bang Theory?",
-    "options": [
-      "Elon Musk",
-      "Bill Gates",
-      "Steve Wozniak",
-      "Jeff Bezos"
-    ],
-    "answer": "Elon Musk"
-  },
-  {
     "id": "big-bang-theory-621",
     "category": "big-bang-theory",
     "difficulty": "hard",
@@ -7356,32 +7161,6 @@
       "John Glenn"
     ],
     "answer": "Mike Massimino"
-  },
-  {
-    "id": "big-bang-theory-622",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "Which NBA Hall-of-Famer guest-stars as himself in the same Big Bang Theory episode as Kevin Smith and William Shatner?",
-    "options": [
-      "Kareem Abdul-Jabbar",
-      "Magic Johnson",
-      "LeBron James",
-      "Michael Jordan"
-    ],
-    "answer": "Kareem Abdul-Jabbar"
-  },
-  {
-    "id": "big-bang-theory-624",
-    "category": "big-bang-theory",
-    "difficulty": "easy",
-    "question": "Which actor, best known for playing Captain Kirk on Star Trek, guest-stars as himself in \"The D&D Vortex\"?",
-    "options": [
-      "William Shatner",
-      "Mark Hamill",
-      "Patrick Stewart",
-      "Leonard Nimoy"
-    ],
-    "answer": "William Shatner"
   },
   {
     "id": "big-bang-theory-625",
@@ -7436,19 +7215,6 @@
     "answer": "Stan Lee"
   },
   {
-    "id": "big-bang-theory-630",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "Which actor, known for playing Captain Malcolm Reynolds on Firefly, guest-stars as himself on The Big Bang Theory?",
-    "options": [
-      "Nathan Fillion",
-      "Adam Baldwin",
-      "Sean Maher",
-      "Alan Tudyk"
-    ],
-    "answer": "Nathan Fillion"
-  },
-  {
     "id": "big-bang-theory-632",
     "category": "big-bang-theory",
     "difficulty": "hard",
@@ -7486,19 +7252,6 @@
       "Forty"
     ],
     "answer": "Twenty-five"
-  },
-  {
-    "id": "big-bang-theory-635",
-    "category": "big-bang-theory",
-    "difficulty": "hard",
-    "question": "What game do Sheldon and Raj lose a match of after Wil Wheaton distracts them during a feud storyline?",
-    "options": [
-      "Mystic Warlords of Ka'a",
-      "Age of Conan",
-      "Magic: The Gathering",
-      "Warhammer 40,000"
-    ],
-    "answer": "Mystic Warlords of Ka'a"
   },
   {
     "id": "big-bang-theory-636",
@@ -7644,19 +7397,6 @@
     "answer": "Samwise Gamgee"
   },
   {
-    "id": "big-bang-theory-654",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "Which actress plays Mrs. Fowler, Amy's disapproving and devoutly religious mother?",
-    "options": [
-      "Kathy Bates",
-      "Christine Baranski",
-      "Susan Sarandon",
-      "Sissy Spacek"
-    ],
-    "answer": "Kathy Bates"
-  },
-  {
     "id": "big-bang-theory-655",
     "category": "big-bang-theory",
     "difficulty": "easy",
@@ -7668,19 +7408,6 @@
       "Dolores Claiborne"
     ],
     "answer": "Misery"
-  },
-  {
-    "id": "big-bang-theory-656",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "Which veteran comedian plays Arthur Jeffries, better known to Sheldon and Leonard as childhood TV idol \"Professor Proton\"?",
-    "options": [
-      "Bob Newhart",
-      "Don Rickles",
-      "Carl Reiner",
-      "Mel Brooks"
-    ],
-    "answer": "Bob Newhart"
   },
   {
     "id": "big-bang-theory-657",
@@ -7995,19 +7722,6 @@
     "answer": "UCLA"
   },
   {
-    "id": "big-bang-theory-686",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "Which actor, famous for playing Batman in the 1960s TV series, attends Sheldon's birthday party as a guest star?",
-    "options": [
-      "Adam West",
-      "Burt Ward",
-      "Cesar Romero",
-      "Frank Gorshin"
-    ],
-    "answer": "Adam West"
-  },
-  {
     "id": "big-bang-theory-687",
     "category": "big-bang-theory",
     "difficulty": "hard",
@@ -8216,19 +7930,6 @@
     "answer": "She breaks his phone"
   },
   {
-    "id": "big-bang-theory-707",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "Which actor, known for playing Alcide Herveaux on True Blood, guest-stars in \"The D&D Vortex\" alongside William Shatner and Mark Hamill?",
-    "options": [
-      "Joe Manganiello",
-      "Stephen Amell",
-      "Ryan Kwanten",
-      "Alexander Skarsgard"
-    ],
-    "answer": "Joe Manganiello"
-  },
-  {
     "id": "big-bang-theory-708",
     "category": "big-bang-theory",
     "difficulty": "hard",
@@ -8240,19 +7941,6 @@
       "Season 11"
     ],
     "answer": "Season 12"
-  },
-  {
-    "id": "big-bang-theory-709",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "Melissa Rauch, who plays Bernadette, stars as a washed-up former Olympic medalist in which 2015 comedy film?",
-    "options": [
-      "The Bronze",
-      "Bridesmaids",
-      "Trainwreck",
-      "Whip It"
-    ],
-    "answer": "The Bronze"
   },
   {
     "id": "big-bang-theory-710",
