@@ -143,19 +143,6 @@
     "answer": "Spock from Star Trek"
   },
   {
-    "id": "big-bang-theory-013",
-    "category": "big-bang-theory",
-    "difficulty": "easy",
-    "question": "Where does Sheldon insist on sitting whenever he's in the living room?",
-    "options": [
-      "His usual spot on the couch",
-      "The recliner",
-      "The floor",
-      "The kitchen counter"
-    ],
-    "answer": "His usual spot on the couch"
-  },
-  {
     "id": "big-bang-theory-016",
     "category": "big-bang-theory",
     "difficulty": "easy",
@@ -5941,32 +5928,6 @@
     "answer": "Vaporizes it"
   },
   {
-    "id": "big-bang-theory-501",
-    "category": "big-bang-theory",
-    "difficulty": "easy",
-    "question": "What is Sheldon Cooper's field of scientific specialty?",
-    "options": [
-      "Theoretical physics",
-      "Experimental physics",
-      "Chemistry",
-      "Astronomy"
-    ],
-    "answer": "Theoretical physics"
-  },
-  {
-    "id": "big-bang-theory-503",
-    "category": "big-bang-theory",
-    "difficulty": "easy",
-    "question": "What is the name of Sheldon and Leonard's neighbor across the hall, whom Leonard falls for?",
-    "options": [
-      "Penny",
-      "Bernadette",
-      "Amy",
-      "Emily"
-    ],
-    "answer": "Penny"
-  },
-  {
     "id": "big-bang-theory-504",
     "category": "big-bang-theory",
     "difficulty": "medium",
@@ -6019,32 +5980,6 @@
     "answer": "Bernadette Rostenkowski"
   },
   {
-    "id": "big-bang-theory-508",
-    "category": "big-bang-theory",
-    "difficulty": "easy",
-    "question": "What superhero is Sheldon's favorite, whose merchandise fills his apartment?",
-    "options": [
-      "The Flash",
-      "Superman",
-      "Batman",
-      "Green Lantern"
-    ],
-    "answer": "The Flash"
-  },
-  {
-    "id": "big-bang-theory-511",
-    "category": "big-bang-theory",
-    "difficulty": "easy",
-    "question": "What is the name of the comic book store owner who becomes a recurring character?",
-    "options": [
-      "Stuart Bloom",
-      "Barry Kripke",
-      "Zack Johnson",
-      "Wil Wheaton"
-    ],
-    "answer": "Stuart Bloom"
-  },
-  {
     "id": "big-bang-theory-512",
     "category": "big-bang-theory",
     "difficulty": "medium",
@@ -6058,19 +5993,6 @@
     "answer": "Birds"
   },
   {
-    "id": "big-bang-theory-513",
-    "category": "big-bang-theory",
-    "difficulty": "easy",
-    "question": "What ritual does Sheldon perform when knocking on someone's door?",
-    "options": [
-      "He knocks three times and says the person's name three times",
-      "He knocks twice only",
-      "He rings a bell instead",
-      "He waits exactly one minute before knocking"
-    ],
-    "answer": "He knocks three times and says the person's name three times"
-  },
-  {
     "id": "big-bang-theory-516",
     "category": "big-bang-theory",
     "difficulty": "medium",
@@ -6082,19 +6004,6 @@
       "There is no such clause"
     ],
     "answer": "It specifies survival duties and responsibilities between the two"
-  },
-  {
-    "id": "big-bang-theory-517",
-    "category": "big-bang-theory",
-    "difficulty": "easy",
-    "question": "What academic credential does Howard lack compared to his physicist friends, a running source of insecurity?",
-    "options": [
-      "A PhD",
-      "A bachelor's degree",
-      "Any college degree",
-      "A teaching license"
-    ],
-    "answer": "A PhD"
   },
   {
     "id": "big-bang-theory-518",
@@ -6240,19 +6149,6 @@
     "answer": "\"Ha. Ha. Ha.\""
   },
   {
-    "id": "big-bang-theory-536",
-    "category": "big-bang-theory",
-    "difficulty": "easy",
-    "question": "What word does Sheldon shout when he successfully pranks someone?",
-    "options": [
-      "Bazinga!",
-      "Gotcha!",
-      "Zing!",
-      "Ta-da!"
-    ],
-    "answer": "Bazinga!"
-  },
-  {
     "id": "big-bang-theory-538",
     "category": "big-bang-theory",
     "difficulty": "medium",
@@ -6394,19 +6290,6 @@
       "Wichita, Kansas"
     ],
     "answer": "Omaha, Nebraska"
-  },
-  {
-    "id": "big-bang-theory-552",
-    "category": "big-bang-theory",
-    "difficulty": "easy",
-    "question": "What is Penny's profession when the series begins?",
-    "options": [
-      "Waitress at The Cheesecake Factory",
-      "Actress",
-      "Bartender",
-      "Retail sales associate"
-    ],
-    "answer": "Waitress at The Cheesecake Factory"
   },
   {
     "id": "big-bang-theory-555",
@@ -7098,19 +6981,6 @@
     "answer": "Geology"
   },
   {
-    "id": "big-bang-theory-637",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "Which actress plays Leslie Winkle, one of Leonard's early love interests and a fellow physicist?",
-    "options": [
-      "Sara Gilbert",
-      "Kate Micucci",
-      "Riki Lindhome",
-      "Judy Greer"
-    ],
-    "answer": "Sara Gilbert"
-  },
-  {
     "id": "big-bang-theory-642",
     "category": "big-bang-theory",
     "difficulty": "hard",
@@ -7629,32 +7499,6 @@
       "Nine"
     ],
     "answer": "Eleven"
-  },
-  {
-    "id": "big-bang-theory-695",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "Which actress plays Denise, the comic-book employee at Stuart's store who later dates Stuart?",
-    "options": [
-      "Lauren Lapkus",
-      "Riki Lindhome",
-      "Kate Micucci",
-      "Judy Greer"
-    ],
-    "answer": "Lauren Lapkus"
-  },
-  {
-    "id": "big-bang-theory-696",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "For roughly the first six seasons, what condition prevents Raj from speaking to women unless he has been drinking alcohol?",
-    "options": [
-      "Selective mutism",
-      "Social phobia",
-      "Agoraphobia",
-      "Aphasia"
-    ],
-    "answer": "Selective mutism"
   },
   {
     "id": "big-bang-theory-697",

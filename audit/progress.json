@@ -3057,11 +3057,11 @@
         "big-bang-theory-013",
         "big-bang-theory-016"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 6,
+      "notes": "Cut 6 duplicates found via full read-through (none flagged by validate's group-size-capped same-answer check): big-bang-theory-637 vs -097 (Sara Gilbert/Leslie Winkle, premise-reveals-answer pattern), -695 vs -671 (Lauren Lapkus/Denise, both reference the 2026 spinoff Stuart Fails to Save the Universe -- verified via WebSearch that this spinoff and its cast (John Ross Bowie, Brian Posehn, Lauren Lapkus, Kevin Sussman reprising roles) are real, not hallucinated), -696 vs -085 (Raj's selective mutism), -501 vs -004 (Sheldon's field of study, near-identical question+options), -536 vs -001 (Bazinga catchphrase, pranking-context framing was same underlying fact), and -013 (tautological non-answer 'his usual spot on the couch' duplicating -680's properly-specific 'the left side'). Verified several hard-difficulty specifics via WebSearch: Mrs. Wolowitz's death (Florida, in her sleep), Neha Kapur's pageant title and degree, Summer Glau's Terminator Decoupling appearance -- all confirmed accurate."
     },
     {
       "chunkId": "big-bang-theory-p1-012",
@@ -3118,11 +3118,11 @@
         "big-bang-theory-199",
         "big-bang-theory-200"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 1,
+      "notes": "49 easy foundational questions (cast/actor ID, setting, basic character facts) all checked and confirmed accurate, including verifying Debbie Wolowitz's name reveal via WebSearch. Found and fixed 1 factual error incidentally: general-1175 (now film-tv.json) claimed The Big Bang Theory is 'set in a New York City apartment building' -- wrong, it's set in Pasadena, California; corrected the question text. Same-answer clusters (Jim Parsons x4, theoretical physics x4, California x3, etc.) are all coincidental reuse of common answers across genuinely different facts, not real duplicates."
     },
     {
       "chunkId": "big-bang-theory-p1-013",
@@ -3176,11 +3176,11 @@
         "big-bang-theory-665",
         "big-bang-theory-679"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 6,
+      "notes": "Cut 6 duplicates found via manual read: -503 vs -197 (Penny as the across-the-hall neighbor), -508 vs -082 (Flash as Sheldon's favorite superhero), -511 vs -213 (Stuart Bloom/comic store owner, reversed-direction pair -- both in this same chunk), -513 vs -029 (Sheldon's three-knock ritual, near-verbatim), -517 vs -084 (Howard lacking a PhD, reversed-direction pair), -552 vs -008 (Penny's Cheesecake Factory job). Rest of the 41 questions (character traits, cast/actor trivia, celebrity guest-star facts) checked and confirmed accurate."
     },
     {
       "chunkId": "business-brands-p1-000",
@@ -3237,11 +3237,11 @@
         "business-brands-179",
         "business-brands-180"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 2,
+      "notes": "First business-brands audit chunk, 50 hard-difficulty corporate/brand-origin trivia facts. Verified ~15 of the most doubtful-sounding claims via WebSearch given the hard-difficulty obscure-specifics profile; found and fixed 2 factual errors: business-brands-057 gave 1985 as TaB Clear's introduction year, corrected to 1992 (its actual launch, a response to Crystal Pepsi); business-brands-180 credited Prada's 1913 founding product as 'leather trunks and bags for the Italian royal family', but the royal warrant was granted in 1919, six years after founding -- dropped the anachronistic royal-family qualifier, kept 'leather trunks and bags'. Nearly caught a false positive: business-brands-075's correct answer is Suzuki (founded 1909 as Suzuki Loom Works, verified accurate), not Toyota -- read the options/answer marker carefully before assuming. No duplicates found within the chunk (each question tests a distinct company/fact)."
     },
     {
       "chunkId": "business-brands-p1-001",
@@ -3298,11 +3298,11 @@
         "business-brands-391",
         "business-brands-394"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 2,
+      "notes": "50 hard-difficulty brand/company-origin trivia facts. Verified the two least-certain-sounding claims via WebSearch: business-brands-270 gave 1994 as the year Harley-Davidson launched its failed Hot Road cologne, corrected to 1996 (confirmed via multiple brand-failure retrospectives); business-brands-365's Etch A Sketch French-name claim ('The Magic Screen') was confirmed accurate (L'Écran Magique, an alternate name alongside the better-known Télécran). Cut 1 duplicate: business-brands-1048 (Satisfries launch/discontinuation, oddly tagged 'easy' despite packing in exact percentages/months) duplicated -308's same Satisfries fact already in this chunk. Remaining ~45 facts (Square/Stripe/PayPal origin stories, toy/candy/car company trivia, etc.) matched well-established knowledge, no changes needed."
     },
     {
       "chunkId": "business-brands-p1-002",
