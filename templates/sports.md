@@ -5,7 +5,7 @@ You are drafting trivia questions for a multiple-choice trivia app. You have no 
 
 TOPIC: Sports — athletes, teams, rules, records, and major competitions across all sports.
 
-COUNT: 100 questions.
+COUNT: 200 questions.
 
 AVOID THESE ANGLES — already well-covered in my question bank, so don't draft facts that overlap with these (pick different, more specific facts instead):
 - Which country won the first FIFA World Cup (Uruguay)
@@ -22,6 +22,15 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - How many periods in a standard ice hockey game (3)
 - How many players per side on a rugby union team on the field (15)
 - How many players per team are on the court in indoor volleyball (6) — beach volleyball's 2-per-team is a distinct, still-fair-game fact
+- NBA single-game assists record (30, 1990)
+- Soccer's penalty-spot-to-goal-line distance (12 yards)
+- MLB career no-hitters record (Nolan Ryan, 7)
+- NFL longest field goal record (Justin Tucker, 66 yards, 2021)
+- NFL career receiving touchdowns record (Jerry Rice)
+- The Open Championship as the oldest golf major (first played 1860)
+- Most UEFA Champions League titles (Real Madrid, 15)
+- Women's 100m world record (Florence Griffith-Joyner, 10.49 seconds)
+- Note: an inbox draft was received truncated mid-file on 2026-08-06 (only 129 of a planned ~200 entries survived) — if this template is re-run, the missing back half of that batch was never drafted and its topics are unknown, so don't assume anything beyond what's listed above is covered
 
 Use web search to verify every fact — do not rely on memory alone. Prefer authoritative sources (official league/federation sites, sports reference databases) over guessing. For each question, actually find the fact via search rather than recalling it, especially for obscure details (specific records, lesser-known athletes/events).
 

@@ -118,6 +118,15 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - What medical condition Chuck McGill claims in "Better Call Saul," what car Walter White drives in "Breaking Bad" (Pontiac Aztek), or Jimmy McGill's Cinnabon alias (Gene Takavic)
 - What candy Elliott uses to lure E.T. (Reese's Pieces)
 - Watch for an external agent submitting the same batch of facts twice under slightly reworded stems within a single draft — verify internal uniqueness across the whole file, not just against the existing corpus
+- "Clueless" (1995) as a modern adaptation of Jane Austen's "Emma"
+- What the acronym CODA stands for (2021 Best Picture winner)
+- Michael Myers's "Halloween" (1978) mask made from a modified William Shatner mask
+- Don Draper's birth name (Dick Whitman) in "Mad Men"
+- Roger Deakins winning his first Oscar for "Blade Runner 2049" after 13 prior nominations
+- "Gone with the Wind" (1939) as the first color film to win Best Picture
+- Olivia Colman playing Queen Elizabeth II in Seasons 3-4 of "The Crown"
+- Dante the dog's breed (Xoloitzcuintli) in Pixar's "Coco"
+- Episode count of HBO's "Chernobyl" miniseries (5)
 - Named-prop/location chestnuts: Breaking Bad's car wash used to launder money (A1A Car Wash) or the street name for the blue meth (Blue Sky), Pulp Fiction's Jack Rabbit Slim's restaurant, Doctor Who's TARDIS acronym, The Hunger Games' District 12, Harry Potter's owl Hedwig or the sport Quidditch, The Lord of the Rings' Frodo actor (Elijah Wood), Game of Thrones' Winterfell (Stark castle) or Arya's sword Needle, The Sopranos' Bada Bing strip club, Community's Greendale Community College, The West Wing's President Bartlet's first name (Josiah), Die Hard's Nakatomi Plaza, Back to the Future's Twin Pines Mall, The Princess Bride's giant Fezzik, The Silence of the Lambs' Death's-head Hawkmoth, Memento's anterograde amnesia, Eternal Sunshine's Lacuna Inc. clinic, There Will Be Blood's "I drink your milkshake" line, Whiplash's conductor Terence Fletcher, Get Out's Sunken Place, Dune's spice Melange, Titanic's necklace Heart of the Ocean, Stranger Things' Upside Down
 - Answer-leaking stems worth double-checking before drafting: don't restate the answer as a descriptor inside the question itself (e.g. naming a dog "the alien pug" when the breed being asked for is pug; asking a character's first name when the film franchise's own title already states it, as with "Percy Jackson"; describing a material as "X-like" when X is the answer, as with Mandalorian "beskar-like iron")
 

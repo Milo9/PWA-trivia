@@ -36,6 +36,10 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Debut-album identification: The Notorious B.I.G.'s "Ready to Die" ("Juicy"), Daft Punk's "Homework," Beyoncé's "Dangerously in Love," Nick Drake's "Five Leaves Left"
 - Madonna's "Like a Virgin" as both her first Billboard #1 single and its title-track album
 - Pentatonic scale as the five-note-per-octave scale
+- Charles Mingus's 1959 album "Mingus Ah Um"
+- "Tempo" as the term for a musical piece's speed/pace
+- Dolly Parton's "9 to 5" (1980) written for her movie of the same name
+- Woodstock (1969) as the festival held on Max Yasgur's farm/near Bethel, NY — already asked 3+ times, treat as fully exhausted
 
 Use web search to verify every fact — do not rely on memory alone. Prefer authoritative sources (encyclopedic sources, music databases) over guessing. For each question, actually find the fact via search rather than recalling it, especially for obscure details (specific dates, lesser-known artists/works).
 

@@ -108,10 +108,17 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Which Lichtenstein pop-art painting depicts a fighter jet firing a rocket, titled after its comic-book sound effect ("Whaam!")
 - Which Dostoevsky novel features Prince Myshkin, nicknamed for his epileptic-driven innocence ("The Idiot")
 - Who created Sherlock Holmes (Arthur Conan Doyle) — already covered
+- "Who wrote/painted [famous named work]" for: The Crucible, The Glass Menagerie, Annabel Lee, Heart of Darkness, Of Mice and Men, Dr Jekyll and Mr Hyde, Huckleberry Finn, Slaughterhouse-Five, The Old Man and the Sea, Alice's Adventures in Wonderland, Jane Austen's Emma, The Castle (Kafka), The Plague (Camus), Ode to a Nightingale (Keats), The Unbearable Lightness of Being (Kundera), The Sun Also Rises (Hemingway), The Little Prince, The Brothers Karamazov — all now covered
+- Monet's Water Lilies series, and separately his Rouen Cathedral series
+- Da Vinci's The Last Supper
+- Rembrandt's The Anatomy Lesson of Dr. Nicolaes Tulp, and separately his Christ in the Storm on the Sea of Galilee
+- Eliot's "The Love Song of J. Alfred Prufrock"
+- Whitman's "O Captain! My Captain!"
+- Rodin's The Gates of Hell
 
 Avoid drafting a question whose only in-universe answer is a character's name (or an in-story quoted term) that's identical to the work's title — these self-answering questions get cut regardless of how obscure the underlying fact is. Confirmed examples already hit: Voltaire's "Candide" (protagonist is literally named Candide), Voltaire's "Zadig" (protagonist named Zadig), Neal Stephenson's "Snow Crash" (the in-story drug is named "Snow Crash"), and Gogol's "Dead Souls" (the question's own premise quotes the phrase "dead souls").
 
-CAUTION — a same-author reuse isn't automatically a duplicate: e.g. Arthur Miller wrote both "Death of a Salesman" (covered above) and "The Crucible" (not covered, a genuinely different question); Tennessee Williams wrote both "A Streetcar Named Desire" (covered) and "The Glass Menagerie" (not); Michelangelo, Picasso, and Rodin especially have many genuinely distinct works each — only treat it as a duplicate when the *specific work* matches one already listed above, not just the artist/author.
+CAUTION — a same-author reuse isn't automatically a duplicate: e.g. Arthur Miller wrote both "Death of a Salesman" (covered above) and "The Crucible" (now also covered, see list above); Michelangelo, Picasso, and Rodin especially have many genuinely distinct works each — only treat it as a duplicate when the *specific work* matches one already listed above, not just the artist/author.
 
 Use web search to verify every fact — do not rely on memory alone. Prefer authoritative sources (encyclopedic sources, literary references) over guessing. For each question, actually find the fact via search rather than recalling it, especially for obscure details (lesser-known works, specific dates).
 

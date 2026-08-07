@@ -169,6 +169,19 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 
 CAUTION — Rigel is Orion's *left* foot, not right (Betelgeuse is the right shoulder, Bellatrix the left shoulder, Saiph the right foot) — commonly flipped.
 
+Additional confirmed duplicates from a later batch (this category runs very chestnut-heavy on planet/moon superlatives — expect a high collision rate on "which planet/moon is the X-est" framings regardless of specific wording):
+- Jupiter: strongest magnetic field; largest planet; largest magnetosphere by volume; ~10-hour fastest rotation day
+- Pluto: known moon count (5); Charon as its largest moon (~half its size); heart-shaped region Tombaugh Regio; Eris as the more-massive dwarf planet that dethroned it
+- Earth: 23.5-degree axial tilt causing seasons; escape velocity (~11.2 km/s)
+- Saturn: hexagonal cloud/jet-stream pattern at north pole (asked 2x already); Cassini Division ring gap; Mimas's "Death Star" nickname from Herschel Crater — this last one is already duplicated 5+ times in the corpus, treat as fully exhausted
+- Venus: hottest planet via runaway greenhouse effect; often called Earth's "twin" in size/mass (already a triplicate)
+- Titan: lakes/seas of liquid methane and ethane; nitrogen-dominated atmosphere thicker than Earth's
+- Mars: ~95% CO2 atmosphere; Olympus Mons as tallest solar-system volcano; Perseverance rover + Ingenuity helicopter (Feb 2021 landing)
+- Stars: Sirius as brightest in night sky; Canopus as second-brightest; Polaris as current North Star (and its constellation, Ursa Minor); Orion as the constellation containing Betelgeuse and Rigel
+- Apollo/human spaceflight: only professional geologist on the Moon (Harrison Schmitt, Apollo 17); Eugene Cernan as last man on the Moon; Buzz Aldrin as second man on the Moon; Ed White's first American spacewalk (Gemini 4, 1965); Apollo 15 as first mission with the Lunar Roving Vehicle
+- Missions: Voyager/Galileo as first to orbit Jupiter; Dawn as first to orbit two extraterrestrial bodies (Vesta and Ceres, already a triplicate); Huygens probe as first Titan landing (2005); Mars 3 as first spacecraft to survive a Mars landing (1971); Discovery as the shuttle that deployed Hubble (1990); Sojourner/Pathfinder as first wheeled Mars rover with airbag landing (1997); Mariner 10 as first Mercury flyby (1974); Chandrayaan-3 as first mission near the Moon's south pole (Aug 2023)
+- Misc: Salyut 1 as first space station (1971, Soviet); Zarya as first ISS module (Nov 1998); ISS orbital altitude (~400 km); Sagittarius A* as the Milky Way's central black hole; Type Ia supernovae and the Chandrasekhar limit (watch for this being asked "backwards" — limit named vs. supernova type named); Crab Nebula's 1054 AD supernova; Halley's Comet's 76-year cycle; heliopause as the solar-wind boundary; Galilean moons named by Galileo in 1610; singularity as a black hole's central point; Cepheid/period-luminosity variable stars as standard candles; one parsec in light-years (~3.26)
+
 Use web search to verify every fact — do not rely on memory alone. Prefer authoritative sources (space agency sites, encyclopedic sources) over guessing. For each question, actually find the fact via search rather than recalling it, especially for obscure details (specific missions, numbers, records).
 
 If any fact involves a "current record," "most," "latest," or similar superlative, pin it to a specific time (e.g. "as of 2026") rather than stating it as a timeless fact, since these claims go stale.

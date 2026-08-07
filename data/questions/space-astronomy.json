@@ -12595,5 +12595,2735 @@
       "Falcon 9"
     ],
     "answer": "Space Shuttle"
+  },
+  {
+    "id": "space-astronomy-807",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "The atmospheric pressure at the surface of which planet is about 92 times that of Earth?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Mercury",
+      "Titan"
+    ],
+    "answer": "Venus"
+  },
+  {
+    "id": "space-astronomy-808",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Deep inside Jupiter, hydrogen becomes an electrically conductive fluid known as what?",
+    "options": [
+      "Metallic hydrogen",
+      "Liquid helium",
+      "Plasma quartz",
+      "Ionized ammonia"
+    ],
+    "answer": "Metallic hydrogen"
+  },
+  {
+    "id": "space-astronomy-809",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Despite being closest to the Sun, which planet harbors water ice in permanently shadowed polar craters?",
+    "options": [
+      "Mercury",
+      "Venus",
+      "Mars",
+      "Earth"
+    ],
+    "answer": "Mercury"
+  },
+  {
+    "id": "space-astronomy-810",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which Soviet probe in 1959 returned the first images of the far side of the Moon?",
+    "options": [
+      "Luna 3",
+      "Luna 2",
+      "Luna 9",
+      "Luna 16"
+    ],
+    "answer": "Luna 3"
+  },
+  {
+    "id": "space-astronomy-811",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which spacecraft made the first successful soft landing on another planet, Venus, on December 15, 1970?",
+    "options": [
+      "Venera 7",
+      "Mariner 2",
+      "Venera 4",
+      "Pioneer Venus"
+    ],
+    "answer": "Venera 7"
+  },
+  {
+    "id": "space-astronomy-812",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What type of weather event can engulf the entire planet Mars for months?",
+    "options": [
+      "Global dust storms",
+      "Methane blizzards",
+      "Acid rain",
+      "Solar tornadoes"
+    ],
+    "answer": "Global dust storms"
+  },
+  {
+    "id": "space-astronomy-813",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Uranus's 27 named moons are named after characters from Shakespeare and which English poet?",
+    "options": [
+      "Alexander Pope",
+      "John Milton",
+      "Geoffrey Chaucer",
+      "Lord Byron"
+    ],
+    "answer": "Alexander Pope"
+  },
+  {
+    "id": "space-astronomy-814",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Neptune's Great Dark Spot, an Earth-sized anticyclonic storm, was first observed by which spacecraft in 1989?",
+    "options": [
+      "Voyager 2",
+      "Voyager 1",
+      "Cassini",
+      "Pioneer 10"
+    ],
+    "answer": "Voyager 2"
+  },
+  {
+    "id": "space-astronomy-815",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the approximate temperature at the core of the Sun?",
+    "options": [
+      "15 million °C",
+      "1.5 million °C",
+      "150,000 °C",
+      "5,500 °C"
+    ],
+    "answer": "15 million °C"
+  },
+  {
+    "id": "space-astronomy-816",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "In 1970, which Soviet mission became the first robotic probe to land on the Moon and return soil to Earth?",
+    "options": [
+      "Luna 16",
+      "Luna 3",
+      "Luna 2",
+      "Zond 5"
+    ],
+    "answer": "Luna 16"
+  },
+  {
+    "id": "space-astronomy-817",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What is the name of the large crater on Mimas that covers about one-third of its diameter?",
+    "options": [
+      "Herschel",
+      "Cassini",
+      "Huygens",
+      "Newton"
+    ],
+    "answer": "Herschel"
+  },
+  {
+    "id": "space-astronomy-818",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Pluto and its largest moon Charon are unique because their barycenter lies where?",
+    "options": [
+      "Outside Pluto's surface",
+      "Inside Pluto's core",
+      "At Charon's south pole",
+      "Inside the Sun"
+    ],
+    "answer": "Outside Pluto's surface"
+  },
+  {
+    "id": "space-astronomy-819",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "The total mass of all objects in the asteroid belt is less than the mass of which Solar System body?",
+    "options": [
+      "Earth's Moon",
+      "Mars",
+      "Mercury",
+      "Pluto"
+    ],
+    "answer": "Earth's Moon"
+  },
+  {
+    "id": "space-astronomy-820",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Trojan asteroids of Jupiter cluster at which Lagrange points?",
+    "options": [
+      "L4 and L5",
+      "L1 and L2",
+      "L2 and L3",
+      "L1 and L3"
+    ],
+    "answer": "L4 and L5"
+  },
+  {
+    "id": "space-astronomy-821",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Kirkwood gaps in the asteroid belt are caused by orbital resonances with which planet?",
+    "options": [
+      "Jupiter",
+      "Saturn",
+      "Mars",
+      "Earth"
+    ],
+    "answer": "Jupiter"
+  },
+  {
+    "id": "space-astronomy-822",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which class of near-Earth asteroids has orbits that cross Earth's orbit with a semi-major axis smaller than Earth's?",
+    "options": [
+      "Aten",
+      "Amor",
+      "Apollo",
+      "Trojan"
+    ],
+    "answer": "Aten"
+  },
+  {
+    "id": "space-astronomy-823",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "The nucleus of a comet is often described as what?",
+    "options": [
+      "Dirty snowball",
+      "Molten iron",
+      "Solid methane",
+      "Hollow rock"
+    ],
+    "answer": "Dirty snowball"
+  },
+  {
+    "id": "space-astronomy-824",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What glows around a comet's nucleus when it nears the Sun, made of gas and dust?",
+    "options": [
+      "Coma",
+      "Corona",
+      "Chromosphere",
+      "Magnetosphere"
+    ],
+    "answer": "Coma"
+  },
+  {
+    "id": "space-astronomy-825",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "The Leonid meteor shower originates from comet Tempel-Tuttle and peaks in which month?",
+    "options": [
+      "November",
+      "August",
+      "December",
+      "January"
+    ],
+    "answer": "November"
+  },
+  {
+    "id": "space-astronomy-826",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Zodiacal light is sunlight scattered by what?",
+    "options": [
+      "Interplanetary dust",
+      "Lunar regolith",
+      "Auroral particles",
+      "Oort Cloud ice"
+    ],
+    "answer": "Interplanetary dust"
+  },
+  {
+    "id": "space-astronomy-827",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "The plane of Earth's orbit around the Sun is called the what?",
+    "options": [
+      "Ecliptic",
+      "Equator",
+      "Meridian",
+      "Horizon"
+    ],
+    "answer": "Ecliptic"
+  },
+  {
+    "id": "space-astronomy-828",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Precession of Earth's axis completes a cycle in roughly how many years?",
+    "options": [
+      "26,000 years",
+      "11 years",
+      "100,000 years",
+      "4,000 years"
+    ],
+    "answer": "26,000 years"
+  },
+  {
+    "id": "space-astronomy-829",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "A sidereal day, Earth's rotation relative to distant stars, is approximately how long?",
+    "options": [
+      "23 hours 56 minutes",
+      "24 hours 39 minutes",
+      "24 hours exactly",
+      "23 hours 30 minutes"
+    ],
+    "answer": "23 hours 56 minutes"
+  },
+  {
+    "id": "space-astronomy-830",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "The synodic month, from new moon to new moon, averages about how many days?",
+    "options": [
+      "29.5 days",
+      "27.3 days",
+      "31 days",
+      "24.5 days"
+    ],
+    "answer": "29.5 days"
+  },
+  {
+    "id": "space-astronomy-831",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which space observatory operated at Sun-Earth L1 to continuously watch the Sun?",
+    "options": [
+      "SOHO",
+      "Kepler",
+      "Chandra",
+      "Spitzer"
+    ],
+    "answer": "SOHO"
+  },
+  {
+    "id": "space-astronomy-832",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Which Martian moon rises in the west and sets in the east due to its extremely fast orbit?",
+    "options": [
+      "Phobos",
+      "Deimos",
+      "Charon",
+      "Titan"
+    ],
+    "answer": "Phobos"
+  },
+  {
+    "id": "space-astronomy-833",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Which planet has no moons and no intrinsic magnetic field?",
+    "options": [
+      "Venus",
+      "Earth",
+      "Mars",
+      "Jupiter"
+    ],
+    "answer": "Venus"
+  },
+  {
+    "id": "space-astronomy-834",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Mars's thin atmosphere has a surface pressure less than 1% of Earth's and is how thick in terms of Earth sea level?",
+    "options": [
+      "Less than 1 percent",
+      "About 50 percent",
+      "About 10 percent",
+      "About 92 times"
+    ],
+    "answer": "Less than 1 percent"
+  },
+  {
+    "id": "space-astronomy-835",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Saturn's rings are composed primarily of what material?",
+    "options": [
+      "Water ice",
+      "Liquid methane",
+      "Basalt rock",
+      "Carbon dioxide ice"
+    ],
+    "answer": "Water ice"
+  },
+  {
+    "id": "space-astronomy-836",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What is the name of the quasi-satellite asteroid of Earth discovered in 2016 that orbits the Sun but stays near Earth?",
+    "options": [
+      "Kamo'oalewa",
+      "Bennu",
+      "Ryugu",
+      "Apophis"
+    ],
+    "answer": "Kamo'oalewa"
+  },
+  {
+    "id": "space-astronomy-837",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "The dark, smooth plains on the Moon formed by ancient volcanic eruptions are called what?",
+    "options": [
+      "Maria",
+      "Highlands",
+      "Rilles",
+      "Regolith"
+    ],
+    "answer": "Maria"
+  },
+  {
+    "id": "space-astronomy-838",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "During a total solar eclipse, what part of the Sun becomes visible?",
+    "options": [
+      "Corona",
+      "Photosphere",
+      "Core",
+      "Chromosphere only"
+    ],
+    "answer": "Corona"
+  },
+  {
+    "id": "space-astronomy-839",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "During an annular solar eclipse, the Moon appears too small to cover the Sun and leaves a bright what?",
+    "options": [
+      "Ring of fire",
+      "Diamond ring",
+      "Shadow band",
+      "Baily's bead"
+    ],
+    "answer": "Ring of fire"
+  },
+  {
+    "id": "space-astronomy-840",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "A lunar eclipse occurs when what passes into Earth's shadow?",
+    "options": [
+      "The Moon",
+      "The Sun",
+      "Venus",
+      "A comet"
+    ],
+    "answer": "The Moon"
+  },
+  {
+    "id": "space-astronomy-841",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Which planet in our Solar System has no natural satellites?",
+    "options": [
+      "Mercury",
+      "Mars",
+      "Earth",
+      "Neptune"
+    ],
+    "answer": "Mercury"
+  },
+  {
+    "id": "space-astronomy-842",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "The Sun's surface temperature is about 5,500°C, but its outer atmosphere, the corona, is over how hot?",
+    "options": [
+      "1 million °C",
+      "10,000 °C",
+      "15,000 °C",
+      "100,000 °C"
+    ],
+    "answer": "1 million °C"
+  },
+  {
+    "id": "space-astronomy-843",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Solar flares are classified by strength into classes C, M, and what is the strongest class?",
+    "options": [
+      "X",
+      "Z",
+      "A",
+      "G"
+    ],
+    "answer": "X"
+  },
+  {
+    "id": "space-astronomy-844",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which spacecraft in 1970 deployed the first successful lunar rover, Lunokhod 1?",
+    "options": [
+      "Luna 17",
+      "Luna 16",
+      "Apollo 15",
+      "Surveyor 1"
+    ],
+    "answer": "Luna 17"
+  },
+  {
+    "id": "space-astronomy-845",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Which Apollo 14 astronaut famously hit golf balls on the lunar surface?",
+    "options": [
+      "Alan Shepard",
+      "Edgar Mitchell",
+      "Neil Armstrong",
+      "Buzz Aldrin"
+    ],
+    "answer": "Alan Shepard"
+  },
+  {
+    "id": "space-astronomy-846",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which Gemini mission in 1965 achieved the first space rendezvous with another spacecraft, Gemini 7?",
+    "options": [
+      "Gemini 6A",
+      "Gemini 4",
+      "Gemini 8",
+      "Gemini 5"
+    ],
+    "answer": "Gemini 6A"
+  },
+  {
+    "id": "space-astronomy-847",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which space station, launched by the Soviet Union in 1986, was the first modular space station?",
+    "options": [
+      "Mir",
+      "Salyut 1",
+      "Skylab",
+      "Tiangong-1"
+    ],
+    "answer": "Mir"
+  },
+  {
+    "id": "space-astronomy-848",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "The Space Shuttle Challenger disaster that killed seven astronauts occurred in which year?",
+    "options": [
+      "1986",
+      "2003",
+      "1991",
+      "1981"
+    ],
+    "answer": "1986"
+  },
+  {
+    "id": "space-astronomy-849",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "The Space Shuttle Columbia disaster during re-entry occurred in which year?",
+    "options": [
+      "2003",
+      "1986",
+      "1995",
+      "2011"
+    ],
+    "answer": "2003"
+  },
+  {
+    "id": "space-astronomy-850",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which SpaceX mission in 2020 was the first crewed orbital launch from US soil since the Shuttle retirement?",
+    "options": [
+      "Crew Dragon Demo-2",
+      "Crew-1",
+      "Inspiration4",
+      "Falcon Heavy Test"
+    ],
+    "answer": "Crew Dragon Demo-2"
+  },
+  {
+    "id": "space-astronomy-851",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which NASA spacecraft was the first to orbit and then land on an asteroid, 433 Eros, in 2001?",
+    "options": [
+      "NEAR Shoemaker",
+      "Dawn",
+      "Hayabusa",
+      "OSIRIS-REx"
+    ],
+    "answer": "NEAR Shoemaker"
+  },
+  {
+    "id": "space-astronomy-852",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "NASA's Stardust mission returned samples from which comet in 2006?",
+    "options": [
+      "Wild 2",
+      "Halley",
+      "Tempel 1",
+      "67P"
+    ],
+    "answer": "Wild 2"
+  },
+  {
+    "id": "space-astronomy-853",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which NASA mission intentionally crashed an impactor into comet Tempel 1 in 2005?",
+    "options": [
+      "Deep Impact",
+      "Stardust",
+      "Rosetta",
+      "DART"
+    ],
+    "answer": "Deep Impact"
+  },
+  {
+    "id": "space-astronomy-854",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which NASA mission in 2009 crashed into the Moon and confirmed water ice in Cabeus Crater?",
+    "options": [
+      "LCROSS",
+      "LADEE",
+      "LRO",
+      "Clementine"
+    ],
+    "answer": "LCROSS"
+  },
+  {
+    "id": "space-astronomy-855",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Which NASA telescope launched in 2018 searches for exoplanets using the transit method across most of the sky?",
+    "options": [
+      "TESS",
+      "Kepler",
+      "Spitzer",
+      "Chandra"
+    ],
+    "answer": "TESS"
+  },
+  {
+    "id": "space-astronomy-856",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "ESA's Gaia mission, launched in 2013, is creating a 3D map of how many stars in the Milky Way?",
+    "options": [
+      "About 2 billion",
+      "About 2 million",
+      "About 100,000",
+      "About 10,000"
+    ],
+    "answer": "About 2 billion"
+  },
+  {
+    "id": "space-astronomy-857",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Mercury's orbit is the most eccentric of all planets, with an eccentricity of about what?",
+    "options": [
+      "0.21",
+      "0.07",
+      "0.01",
+      "0.93"
+    ],
+    "answer": "0.21"
+  },
+  {
+    "id": "space-astronomy-858",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What color are sunspots compared to the surrounding photosphere because they are cooler?",
+    "options": [
+      "Darker",
+      "Brighter",
+      "Bluer",
+      "Green"
+    ],
+    "answer": "Darker"
+  },
+  {
+    "id": "space-astronomy-859",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "The solar wind is a continuous flow of charged particles, mainly protons and electrons, from which layer of the Sun?",
+    "options": [
+      "Corona",
+      "Photosphere",
+      "Core",
+      "Chromosphere"
+    ],
+    "answer": "Corona"
+  },
+  {
+    "id": "space-astronomy-860",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which two planets in our Solar System have no moons at all?",
+    "options": [
+      "Mercury and Venus",
+      "Mercury and Mars",
+      "Venus and Earth",
+      "Earth and Mars"
+    ],
+    "answer": "Mercury and Venus"
+  },
+  {
+    "id": "space-astronomy-861",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Phobos orbits Mars so fast that it does what from the Martian surface perspective?",
+    "options": [
+      "Rises in west, sets in east",
+      "Never moves",
+      "Rises once per year",
+      "Is always eclipsed"
+    ],
+    "answer": "Rises in west, sets in east"
+  },
+  {
+    "id": "space-astronomy-862",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Which planet's north pole is currently tilted away from the Sun experiencing winter as of 2026?",
+    "options": [
+      "Saturn",
+      "Uranus",
+      "Earth",
+      "Jupiter"
+    ],
+    "answer": "Saturn"
+  },
+  {
+    "id": "space-astronomy-863",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Saturn's moon Titan has lakes, but Earth's moon has none. What is Titan's surface pressure compared to Earth?",
+    "options": [
+      "About 1.5 times Earth's",
+      "About 90 times Earth's",
+      "About 0.01 times Earth's",
+      "About 0.6 times Earth's"
+    ],
+    "answer": "About 1.5 times Earth's"
+  },
+  {
+    "id": "space-astronomy-864",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which planet has the largest magnetosphere in the Solar System by volume?",
+    "options": [
+      "Jupiter",
+      "Saturn",
+      "Earth",
+      "Neptune"
+    ],
+    "answer": "Jupiter"
+  },
+  {
+    "id": "space-astronomy-865",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What type of star is the Sun classified as on the main sequence?",
+    "options": [
+      "G-type yellow dwarf",
+      "M-type red dwarf",
+      "O-type blue giant",
+      "K-type orange dwarf"
+    ],
+    "answer": "G-type yellow dwarf"
+  },
+  {
+    "id": "space-astronomy-866",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What is the most common type of star in the Milky Way galaxy?",
+    "options": [
+      "Red dwarf",
+      "Yellow dwarf",
+      "Blue giant",
+      "Red supergiant"
+    ],
+    "answer": "Red dwarf"
+  },
+  {
+    "id": "space-astronomy-867",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "A Type II supernova is caused by the core collapse of what kind of star?",
+    "options": [
+      "Massive star over 8 solar masses",
+      "White dwarf",
+      "Red dwarf",
+      "Brown dwarf"
+    ],
+    "answer": "Massive star over 8 solar masses"
+  },
+  {
+    "id": "space-astronomy-868",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Type Ia supernovae are important in cosmology because they serve as what?",
+    "options": [
+      "Standard candles",
+      "Black hole factories",
+      "Gamma-ray bursts",
+      "Pulsar generators"
+    ],
+    "answer": "Standard candles"
+  },
+  {
+    "id": "space-astronomy-869",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What method measures nearby star distances by observing apparent shift against background stars as Earth orbits?",
+    "options": [
+      "Parallax",
+      "Redshift",
+      "Transit",
+      "Microlensing"
+    ],
+    "answer": "Parallax"
+  },
+  {
+    "id": "space-astronomy-870",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which irregular moon of Saturn was discovered in 2000 and named after an Inuit giant, and is thought to be a captured Kuiper Belt object?",
+    "options": [
+      "Siarnaq",
+      "Titan",
+      "Mimas",
+      "Enceladus"
+    ],
+    "answer": "Siarnaq"
+  },
+  {
+    "id": "space-astronomy-871",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "The Pillars of Creation, towering columns of gas and dust where stars are forming, are located in which nebula?",
+    "options": [
+      "Eagle Nebula",
+      "Orion Nebula",
+      "Crab Nebula",
+      "Horsehead Nebula"
+    ],
+    "answer": "Eagle Nebula"
+  },
+  {
+    "id": "space-astronomy-872",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "The Beehive Cluster, an open cluster visible to the naked eye, lies in which zodiac constellation?",
+    "options": [
+      "Cancer",
+      "Taurus",
+      "Scorpius",
+      "Gemini"
+    ],
+    "answer": "Cancer"
+  },
+  {
+    "id": "space-astronomy-873",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Which three bright stars make up the Summer Triangle asterism?",
+    "options": [
+      "Vega, Deneb, Altair",
+      "Sirius, Betelgeuse, Rigel",
+      "Polaris, Vega, Capella",
+      "Antares, Spica, Regulus"
+    ],
+    "answer": "Vega, Deneb, Altair"
+  },
+  {
+    "id": "space-astronomy-874",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which nearby star is known for having the highest proper motion across the sky, moving 10.3 arcseconds per year?",
+    "options": [
+      "Barnard's Star",
+      "Proxima Centauri",
+      "Sirius",
+      "Vega"
+    ],
+    "answer": "Barnard's Star"
+  },
+  {
+    "id": "space-astronomy-875",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the approximate number of stars estimated to be in the Milky Way as of 2026?",
+    "options": [
+      "100 to 400 billion",
+      "1 to 10 billion",
+      "1 trillion",
+      "10 million"
+    ],
+    "answer": "100 to 400 billion"
+  },
+  {
+    "id": "space-astronomy-876",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which satellite galaxy of the Milky Way is visible from the Southern Hemisphere and contains the Tarantula Nebula?",
+    "options": [
+      "Large Magellanic Cloud",
+      "Andromeda Galaxy",
+      "Triangulum Galaxy",
+      "Whirlpool Galaxy"
+    ],
+    "answer": "Large Magellanic Cloud"
+  },
+  {
+    "id": "space-astronomy-877",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the third-largest galaxy in the Local Group after Andromeda and the Milky Way?",
+    "options": [
+      "Triangulum Galaxy",
+      "Large Magellanic Cloud",
+      "Bode's Galaxy",
+      "Pinwheel Galaxy"
+    ],
+    "answer": "Triangulum Galaxy"
+  },
+  {
+    "id": "space-astronomy-878",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Globular clusters differ from open clusters because they contain what?",
+    "options": [
+      "Very old stars tightly bound",
+      "Young hot blue stars loosely bound",
+      "Only brown dwarfs",
+      "Only binary stars"
+    ],
+    "answer": "Very old stars tightly bound"
+  },
+  {
+    "id": "space-astronomy-879",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "The Orion Nebula, a stellar nursery visible to the naked eye, is located in which part of Orion?",
+    "options": [
+      "Sword",
+      "Belt",
+      "Shoulder",
+      "Foot"
+    ],
+    "answer": "Sword"
+  },
+  {
+    "id": "space-astronomy-880",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which spacecraft first flew past Saturn in 1979, paving the way for Voyager?",
+    "options": [
+      "Pioneer 11",
+      "Pioneer 10",
+      "Voyager 1",
+      "Cassini"
+    ],
+    "answer": "Pioneer 11"
+  },
+  {
+    "id": "space-astronomy-881",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What powers an active galactic nucleus like a quasar?",
+    "options": [
+      "Supermassive black hole accretion",
+      "Nuclear fusion of hydrogen",
+      "Dark matter annihilation",
+      "Neutron star collision"
+    ],
+    "answer": "Supermassive black hole accretion"
+  },
+  {
+    "id": "space-astronomy-882",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "The photon sphere, where light can orbit a black hole, is located at what multiple of the Schwarzschild radius?",
+    "options": [
+      "1.5 times",
+      "2 times",
+      "3 times",
+      "0.5 times"
+    ],
+    "answer": "1.5 times"
+  },
+  {
+    "id": "space-astronomy-883",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which quasar, discovered in 1963, was the first to be identified and is one of the brightest in the sky?",
+    "options": [
+      "3C 273",
+      "3C 48",
+      "TON 618",
+      "Sagittarius A*"
+    ],
+    "answer": "3C 273"
+  },
+  {
+    "id": "space-astronomy-884",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What type of galaxy has a bright central bulge and no discernible spiral arms, mostly old stars?",
+    "options": [
+      "Elliptical",
+      "Spiral",
+      "Irregular",
+      "Lenticular"
+    ],
+    "answer": "Elliptical"
+  },
+  {
+    "id": "space-astronomy-885",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which NASA rover found evidence of an ancient streambed in Gale Crater with rounded pebbles in 2012?",
+    "options": [
+      "Curiosity",
+      "Opportunity",
+      "Spirit",
+      "Perseverance"
+    ],
+    "answer": "Curiosity"
+  },
+  {
+    "id": "space-astronomy-886",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which instrument on the Perseverance rover successfully produced oxygen from the Martian atmosphere in 2021?",
+    "options": [
+      "MOXIE",
+      "SHERLOC",
+      "PIXL",
+      "SuperCam"
+    ],
+    "answer": "MOXIE"
+  },
+  {
+    "id": "space-astronomy-887",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Opportunity rover discovered small spherical hematite concretions nicknamed what at Meridiani Planum?",
+    "options": [
+      "Blueberries",
+      "Raspberries",
+      "Marbles",
+      "Peas"
+    ],
+    "answer": "Blueberries"
+  },
+  {
+    "id": "space-astronomy-888",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which Mars rover landed in Gusev Crater in 2004, a site thought to once hold a lake?",
+    "options": [
+      "Spirit",
+      "Opportunity",
+      "Curiosity",
+      "Sojourner"
+    ],
+    "answer": "Spirit"
+  },
+  {
+    "id": "space-astronomy-889",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which method of exoplanet detection uses the bending of light by a foreground star's gravity to magnify a background star?",
+    "options": [
+      "Gravitational microlensing",
+      "Radial velocity",
+      "Transit",
+      "Direct imaging"
+    ],
+    "answer": "Gravitational microlensing"
+  },
+  {
+    "id": "space-astronomy-890",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which space telescope launched in 2003 observed the universe in infrared light until 2020?",
+    "options": [
+      "Spitzer Space Telescope",
+      "Hubble Space Telescope",
+      "Chandra",
+      "Kepler"
+    ],
+    "answer": "Spitzer Space Telescope"
+  },
+  {
+    "id": "space-astronomy-891",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "The Hubble Space Telescope orbits Earth at an altitude of about how many kilometers, allowing it to avoid atmospheric distortion?",
+    "options": [
+      "About 540 km",
+      "About 36,000 km",
+      "About 1,500,000 km",
+      "About 100 km"
+    ],
+    "answer": "About 540 km"
+  },
+  {
+    "id": "space-astronomy-892",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which two planets exhibit a phenomenon called differential rotation where the equator rotates faster than the poles because they are gas giants?",
+    "options": [
+      "Jupiter and Saturn",
+      "Mercury and Venus",
+      "Earth and Mars",
+      "Uranus and Neptune only"
+    ],
+    "answer": "Jupiter and Saturn"
+  },
+  {
+    "id": "space-astronomy-893",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What is the name of the first artificial satellite launched by the United States in 1958 after Explorer 1?",
+    "options": [
+      "Vanguard 1",
+      "Explorer 2",
+      "Telstar 1",
+      "Sputnik 2"
+    ],
+    "answer": "Vanguard 1"
+  },
+  {
+    "id": "space-astronomy-894",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which Apollo mission was the first to carry a Lunar Roving Vehicle and explore Hadley-Apennine?",
+    "options": [
+      "Apollo 15",
+      "Apollo 14",
+      "Apollo 16",
+      "Apollo 17"
+    ],
+    "answer": "Apollo 15"
+  },
+  {
+    "id": "space-astronomy-895",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What was the name of the European Space Agency's Huygens probe's mothership that carried it to Saturn?",
+    "options": [
+      "Cassini",
+      "Voyager 2",
+      "Galileo",
+      "Pioneer 11"
+    ],
+    "answer": "Cassini"
+  },
+  {
+    "id": "space-astronomy-896",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "The Sun's differential rotation causes its magnetic field lines to become twisted, leading to sunspots. How long does the Sun take to rotate at its equator versus its poles?",
+    "options": [
+      "25 days at equator, 35 days at poles",
+      "24 hours everywhere",
+      "11 years everywhere",
+      "365 days at equator, 400 at poles"
+    ],
+    "answer": "25 days at equator, 35 days at poles"
+  },
+  {
+    "id": "space-astronomy-897",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the name of the gap in Saturn's rings between the A and B rings, discovered by Giovanni Cassini?",
+    "options": [
+      "Cassini Division",
+      "Encke Gap",
+      "Keeler Gap",
+      "Roche Gap"
+    ],
+    "answer": "Cassini Division"
+  },
+  {
+    "id": "space-astronomy-898",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which of these is NOT a Galilean moon of Jupiter?",
+    "options": [
+      "Amalthea",
+      "Io",
+      "Europa",
+      "Callisto"
+    ],
+    "answer": "Amalthea"
+  },
+  {
+    "id": "space-astronomy-899",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which moon of Saturn has a density so low and is so porous that it might be a rubble pile?",
+    "options": [
+      "Hyperion",
+      "Titan",
+      "Mimas",
+      "Enceladus"
+    ],
+    "answer": "Hyperion"
+  },
+  {
+    "id": "space-astronomy-900",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which NASA mission in 1996 discovered that asteroid Mathilde has an extremely low density, suggesting it is a rubble pile?",
+    "options": [
+      "NEAR Shoemaker",
+      "Galileo",
+      "Dawn",
+      "Hayabusa"
+    ],
+    "answer": "NEAR Shoemaker"
+  },
+  {
+    "id": "space-astronomy-901",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What is the term for two stars that orbit a common center of mass, bound by gravity?",
+    "options": [
+      "Binary star",
+      "Double planet",
+      "Quasar pair",
+      "Optical double"
+    ],
+    "answer": "Binary star"
+  },
+  {
+    "id": "space-astronomy-902",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "The Sun makes up about what percentage of the total mass of the entire Solar System?",
+    "options": [
+      "99.8%",
+      "50%",
+      "90%",
+      "75%"
+    ],
+    "answer": "99.8%"
+  },
+  {
+    "id": "space-astronomy-903",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which lunar mare was the landing site for Luna 16's sample return?",
+    "options": [
+      "Mare Fecunditatis",
+      "Mare Tranquillitatis",
+      "Mare Imbrium",
+      "Mare Serenitatis"
+    ],
+    "answer": "Mare Fecunditatis"
+  },
+  {
+    "id": "space-astronomy-904",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which comet in 1994 was observed to break apart and collide with Jupiter, a first-time observation?",
+    "options": [
+      "Shoemaker-Levy 9",
+      "Hale-Bopp",
+      "Hyakutake",
+      "Halley"
+    ],
+    "answer": "Shoemaker-Levy 9"
+  },
+  {
+    "id": "space-astronomy-905",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the name of the first interstellar comet discovered in 2019, after ʻOumuamua?",
+    "options": [
+      "2I/Borisov",
+      "C/2020 F3 NEOWISE",
+      "67P/Churyumov-Gerasimenko",
+      "Hale-Bopp"
+    ],
+    "answer": "2I/Borisov"
+  },
+  {
+    "id": "space-astronomy-906",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which asteroid is believed to be the source of the HED meteorites that fall to Earth, studied by Dawn?",
+    "options": [
+      "Vesta",
+      "Ceres",
+      "Eros",
+      "Itokawa"
+    ],
+    "answer": "Vesta"
+  },
+  {
+    "id": "space-astronomy-907",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What is the name of Earth's largest ocean tide caused by the Moon's gravitational pull?",
+    "options": [
+      "Spring tide",
+      "Neap tide",
+      "King tide",
+      "Solar tide"
+    ],
+    "answer": "Spring tide"
+  },
+  {
+    "id": "space-astronomy-908",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which planet's atmosphere has a prominent layer of haze that gives Titan its orange color, made of tholins?",
+    "options": [
+      "Titan's",
+      "Mars's",
+      "Venus's",
+      "Triton's thin"
+    ],
+    "answer": "Titan's"
+  },
+  {
+    "id": "space-astronomy-909",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which NASA mission measured the cosmic microwave background with high precision from 2001 to 2010, successor to COBE?",
+    "options": [
+      "WMAP",
+      "Planck",
+      "Hubble",
+      "Chandra"
+    ],
+    "answer": "WMAP"
+  },
+  {
+    "id": "space-astronomy-910",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "The Great Attractor is a gravitational anomaly that pulls the Milky Way and other galaxies toward which constellation?",
+    "options": [
+      "Centaurus",
+      "Orion",
+      "Ursa Major",
+      "Scorpius"
+    ],
+    "answer": "Centaurus"
+  },
+  {
+    "id": "space-astronomy-911",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which type of variable star pulsates and is used as a standard candle to measure distances to nearby galaxies?",
+    "options": [
+      "Cepheid variable",
+      "RR Lyrae",
+      "Mira variable",
+      "Flare star"
+    ],
+    "answer": "Cepheid variable"
+  },
+  {
+    "id": "space-astronomy-912",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Rigel, the blue supergiant in Orion, marks which part of Orion in traditional depictions?",
+    "options": [
+      "Left foot",
+      "Right shoulder",
+      "Belt",
+      "Head"
+    ],
+    "answer": "Left foot"
+  },
+  {
+    "id": "space-astronomy-913",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which star in Orion is a red supergiant that may go supernova within the next 100,000 years?",
+    "options": [
+      "Betelgeuse",
+      "Rigel",
+      "Bellatrix",
+      "Saiph"
+    ],
+    "answer": "Betelgeuse"
+  },
+  {
+    "id": "space-astronomy-914",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What is the term for a system where a planet orbits two stars?",
+    "options": [
+      "Circumbinary planet",
+      "Rogue planet",
+      "Hot Jupiter",
+      "Super-Earth"
+    ],
+    "answer": "Circumbinary planet"
+  },
+  {
+    "id": "space-astronomy-915",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which exoplanet discovery method looks for tiny dips in starlight when a planet passes in front of its star?",
+    "options": [
+      "Transit",
+      "Direct imaging",
+      "Astrometry",
+      "Pulsar timing"
+    ],
+    "answer": "Transit"
+  },
+  {
+    "id": "space-astronomy-916",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which moon of Jupiter was discovered by Galileo in 1610 and is slightly smaller than Mercury but larger than our Moon?",
+    "options": [
+      "Io",
+      "Europa",
+      "Ganymede",
+      "Callisto"
+    ],
+    "answer": "Io"
+  },
+  {
+    "id": "space-astronomy-917",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which mission first flew by Mercury in 1974, taking the first close-up images?",
+    "options": [
+      "Mariner 10",
+      "MESSENGER",
+      "BepiColombo",
+      "Pioneer 10"
+    ],
+    "answer": "Mariner 10"
+  },
+  {
+    "id": "space-astronomy-918",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which asteroid sample return mission by JAXA returned samples from asteroid Ryugu in 2020?",
+    "options": [
+      "Hayabusa2",
+      "Hayabusa",
+      "OSIRIS-REx",
+      "Dawn"
+    ],
+    "answer": "Hayabusa2"
+  },
+  {
+    "id": "space-astronomy-919",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the name of the region beyond Neptune populated by icy bodies including Pluto, as of current classification?",
+    "options": [
+      "Kuiper Belt",
+      "Asteroid Belt",
+      "Oort Cloud",
+      "Van Allen Belt"
+    ],
+    "answer": "Kuiper Belt"
+  },
+  {
+    "id": "space-astronomy-920",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What was the name of NASA's first Mars rover to use airbags for landing, in 1997?",
+    "options": [
+      "Sojourner",
+      "Spirit",
+      "Opportunity",
+      "Curiosity"
+    ],
+    "answer": "Sojourner"
+  },
+  {
+    "id": "space-astronomy-921",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Which galaxy is often called our twin and will collide with the Milky Way in about 4.5 billion years?",
+    "options": [
+      "Andromeda",
+      "Triangulum",
+      "Whirlpool",
+      "Sombrero"
+    ],
+    "answer": "Andromeda"
+  },
+  {
+    "id": "space-astronomy-922",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "The cosmic microwave background radiation was discovered accidentally in 1965 by Penzias and Wilson at what institution?",
+    "options": [
+      "Bell Labs",
+      "NASA",
+      "Caltech",
+      "MIT"
+    ],
+    "answer": "Bell Labs"
+  },
+  {
+    "id": "space-astronomy-923",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What is the Chandrasekhar limit, approximately 1.4 solar masses, the maximum mass for what stellar remnant?",
+    "options": [
+      "White dwarf",
+      "Neutron star",
+      "Black hole",
+      "Red giant"
+    ],
+    "answer": "White dwarf"
+  },
+  {
+    "id": "space-astronomy-924",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which moon of Saturn has plumes of water vapor erupting from its south pole, discovered by Cassini?",
+    "options": [
+      "Enceladus",
+      "Titan",
+      "Mimas",
+      "Dione"
+    ],
+    "answer": "Enceladus"
+  },
+  {
+    "id": "space-astronomy-925",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which telescope, launched in 1990, had its spherical aberration corrected by astronauts in 1993?",
+    "options": [
+      "Hubble Space Telescope",
+      "James Webb Space Telescope",
+      "Spitzer",
+      "Kepler"
+    ],
+    "answer": "Hubble Space Telescope"
+  },
+  {
+    "id": "space-astronomy-926",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What is the name of the bright star in Scorpius that is a red supergiant, often mistaken for Mars?",
+    "options": [
+      "Antares",
+      "Rigel",
+      "Vega",
+      "Aldebaran"
+    ],
+    "answer": "Antares"
+  },
+  {
+    "id": "space-astronomy-927",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which supercluster of galaxies contains the Milky Way, discovered in 2014?",
+    "options": [
+      "Laniakea",
+      "Virgo",
+      "Coma",
+      "Hercules"
+    ],
+    "answer": "Laniakea"
+  },
+  {
+    "id": "space-astronomy-928",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "The Event Horizon Telescope image released in 2019 showed the shadow of the supermassive black hole in which galaxy?",
+    "options": [
+      "Messier 87",
+      "Andromeda",
+      "Milky Way",
+      "Triangulum"
+    ],
+    "answer": "Messier 87"
+  },
+  {
+    "id": "space-astronomy-929",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which Galilean moon is the most heavily cratered and outermost of the four?",
+    "options": [
+      "Callisto",
+      "Io",
+      "Europa",
+      "Ganymede"
+    ],
+    "answer": "Callisto"
+  },
+  {
+    "id": "space-astronomy-930",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the Roche limit?",
+    "options": [
+      "Distance within which tidal forces break up a satellite",
+      "Maximum mass of white dwarf",
+      "Edge of observable universe",
+      "Boundary of black hole"
+    ],
+    "answer": "Distance within which tidal forces break up a satellite"
+  },
+  {
+    "id": "space-astronomy-931",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Who discovered the first pulsar in 1967, initially nicknamed LGM-1?",
+    "options": [
+      "Jocelyn Bell Burnell",
+      "Vera Rubin",
+      "Marie Curie",
+      "Caroline Herschel"
+    ],
+    "answer": "Jocelyn Bell Burnell"
+  },
+  {
+    "id": "space-astronomy-932",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What was the final fate of the Cassini spacecraft in 2017?",
+    "options": [
+      "Plunged into Saturn",
+      "Landed on Titan",
+      "Flew to Uranus",
+      "Returned to Earth"
+    ],
+    "answer": "Plunged into Saturn"
+  },
+  {
+    "id": "space-astronomy-933",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Vera Rubin's observations of galaxy rotation curves provided evidence for what?",
+    "options": [
+      "Dark matter",
+      "Dark energy",
+      "Black holes",
+      "Big Bang"
+    ],
+    "answer": "Dark matter"
+  },
+  {
+    "id": "space-astronomy-934",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "The first direct detection of gravitational waves in 2015, GW150914, came from what event?",
+    "options": [
+      "Black hole merger",
+      "Supernova",
+      "Neutron star merger",
+      "Big Bang"
+    ],
+    "answer": "Black hole merger"
+  },
+  {
+    "id": "space-astronomy-935",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which star was considered the largest known by radius, over 2,000 times the Sun's radius, located in constellation Scutum?",
+    "options": [
+      "Stephenson 2-18",
+      "Betelgeuse",
+      "VY Canis Majoris",
+      "UY Scuti"
+    ],
+    "answer": "Stephenson 2-18"
+  },
+  {
+    "id": "space-astronomy-936",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the dense remnant of a Sun-like star after it sheds its outer layers called?",
+    "options": [
+      "White dwarf",
+      "Neutron star",
+      "Red giant",
+      "Black hole"
+    ],
+    "answer": "White dwarf"
+  },
+  {
+    "id": "space-astronomy-937",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Which mission was the first to orbit the Moon with humans aboard in 1968?",
+    "options": [
+      "Apollo 8",
+      "Apollo 11",
+      "Gemini 4",
+      "Apollo 13"
+    ],
+    "answer": "Apollo 8"
+  },
+  {
+    "id": "space-astronomy-938",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which spacecraft was the first to orbit Mercury in 2011?",
+    "options": [
+      "MESSENGER",
+      "Mariner 10",
+      "BepiColombo",
+      "Pioneer 11"
+    ],
+    "answer": "MESSENGER"
+  },
+  {
+    "id": "space-astronomy-939",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Approximately how long is the Sun's sunspot activity cycle?",
+    "options": [
+      "11 years",
+      "1 year",
+      "100 years",
+      "24 hours"
+    ],
+    "answer": "11 years"
+  },
+  {
+    "id": "space-astronomy-940",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which space telescope discovered thousands of exoplanets using the transit method from 2009 to 2018?",
+    "options": [
+      "Kepler",
+      "Hubble",
+      "Spitzer",
+      "Chandra"
+    ],
+    "answer": "Kepler"
+  },
+  {
+    "id": "space-astronomy-941",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Who coined the term 'Big Bang' in 1949 to mock the idea, though it stuck?",
+    "options": [
+      "Fred Hoyle",
+      "Albert Einstein",
+      "Edwin Hubble",
+      "Carl Sagan"
+    ],
+    "answer": "Fred Hoyle"
+  },
+  {
+    "id": "space-astronomy-942",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Where is the Kuiper Belt located?",
+    "options": [
+      "Beyond Neptune",
+      "Between Mars and Jupiter",
+      "Around Saturn",
+      "Inside Mercury's orbit"
+    ],
+    "answer": "Beyond Neptune"
+  },
+  {
+    "id": "space-astronomy-943",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What is redshift?",
+    "options": [
+      "Light stretched to longer wavelengths from receding object",
+      "Light compressed to shorter wavelengths",
+      "Planet appearing red",
+      "Star cooling down"
+    ],
+    "answer": "Light stretched to longer wavelengths from receding object"
+  },
+  {
+    "id": "space-astronomy-944",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Mercury has long cliffs called lobate scarps formed by what process?",
+    "options": [
+      "Planetary cooling and shrinking",
+      "Plate tectonics",
+      "Volcanic eruptions",
+      "Wind erosion"
+    ],
+    "answer": "Planetary cooling and shrinking"
+  },
+  {
+    "id": "space-astronomy-945",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "The sky crane landing system was famously used by which Mars rovers?",
+    "options": [
+      "Curiosity and Perseverance",
+      "Spirit and Opportunity",
+      "Sojourner and Viking",
+      "Pathfinder and Phoenix"
+    ],
+    "answer": "Curiosity and Perseverance"
+  },
+  {
+    "id": "space-astronomy-946",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "16 Psyche is a large asteroid thought to be mostly metal, targeted by NASA's Psyche mission launched in which year?",
+    "options": [
+      "2023",
+      "2015",
+      "2019",
+      "2021"
+    ],
+    "answer": "2023"
+  },
+  {
+    "id": "space-astronomy-947",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "The Hyades star cluster forms the face of which zodiac constellation?",
+    "options": [
+      "Taurus",
+      "Gemini",
+      "Cancer",
+      "Leo"
+    ],
+    "answer": "Taurus"
+  },
+  {
+    "id": "space-astronomy-948",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Helium was first discovered in the spectrum of the Sun before being found on Earth. What is helium named after?",
+    "options": [
+      "Sun",
+      "Moon",
+      "Earth",
+      "Stars"
+    ],
+    "answer": "Sun"
+  },
+  {
+    "id": "space-astronomy-949",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Who was the first American to orbit Earth in 1962 aboard Friendship 7?",
+    "options": [
+      "John Glenn",
+      "Alan Shepard",
+      "Neil Armstrong",
+      "Buzz Aldrin"
+    ],
+    "answer": "John Glenn"
+  },
+  {
+    "id": "space-astronomy-950",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Which was the first Space Shuttle orbiter to fly into space in 1981?",
+    "options": [
+      "Columbia",
+      "Challenger",
+      "Discovery",
+      "Atlantis"
+    ],
+    "answer": "Columbia"
+  },
+  {
+    "id": "space-astronomy-951",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "NASA's Curiosity rover has been exploring which crater since 2012?",
+    "options": [
+      "Gale Crater",
+      "Jezero Crater",
+      "Victoria Crater",
+      "Endeavour Crater"
+    ],
+    "answer": "Gale Crater"
+  },
+  {
+    "id": "space-astronomy-952",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Which method detects exoplanets by measuring the dimming of a star as a planet passes in front of it?",
+    "options": [
+      "Transit method",
+      "Radial velocity",
+      "Direct imaging",
+      "Microlensing"
+    ],
+    "answer": "Transit method"
+  },
+  {
+    "id": "space-astronomy-953",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which minor planet was the first found to have a ring system, discovered in 2013?",
+    "options": [
+      "Chariklo",
+      "Chiron",
+      "Haumea",
+      "Quaoar"
+    ],
+    "answer": "Chariklo"
+  },
+  {
+    "id": "space-astronomy-954",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "The Perseid meteor shower's parent comet is which one?",
+    "options": [
+      "Swift-Tuttle",
+      "Tempel-Tuttle",
+      "Halley",
+      "Encke"
+    ],
+    "answer": "Swift-Tuttle"
+  },
+  {
+    "id": "space-astronomy-955",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "The Geminid meteor shower's parent body is not a comet but which asteroid?",
+    "options": [
+      "3200 Phaethon",
+      "433 Eros",
+      "4 Vesta",
+      "10199 Chariklo"
+    ],
+    "answer": "3200 Phaethon"
+  },
+  {
+    "id": "space-astronomy-956",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which is the largest moon of Uranus?",
+    "options": [
+      "Titania",
+      "Oberon",
+      "Ariel",
+      "Miranda"
+    ],
+    "answer": "Titania"
+  },
+  {
+    "id": "space-astronomy-957",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which spacecraft flew past the Kuiper Belt object Arrokoth on January 1, 2019?",
+    "options": [
+      "New Horizons",
+      "Voyager 1",
+      "Pioneer 10",
+      "Cassini"
+    ],
+    "answer": "New Horizons"
+  },
+  {
+    "id": "space-astronomy-958",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which spacecraft was the first to cross the asteroid belt and fly past Jupiter in 1973?",
+    "options": [
+      "Pioneer 10",
+      "Pioneer 11",
+      "Voyager 1",
+      "Galileo"
+    ],
+    "answer": "Pioneer 10"
+  },
+  {
+    "id": "space-astronomy-959",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What theoretical radiation, proposed by Stephen Hawking in 1974, suggests black holes can emit thermal radiation?",
+    "options": [
+      "Hawking radiation",
+      "Cosmic radiation",
+      "Cherenkov radiation",
+      "Synchrotron radiation"
+    ],
+    "answer": "Hawking radiation"
+  },
+  {
+    "id": "space-astronomy-960",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What is the vast canyon system on Mars that stretches over 4,000 km?",
+    "options": [
+      "Valles Marineris",
+      "Grand Canyon",
+      "Mariner Valley",
+      "Olympus Chasma"
+    ],
+    "answer": "Valles Marineris"
+  },
+  {
+    "id": "space-astronomy-961",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is happening to Mars's moon Phobos over millions of years?",
+    "options": [
+      "Slowly spiraling inward toward Mars",
+      "Slowly spiraling outward away",
+      "Breaking into a ring",
+      "Gaining atmosphere"
+    ],
+    "answer": "Slowly spiraling inward toward Mars"
+  },
+  {
+    "id": "space-astronomy-962",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Verona Rupes, the tallest known cliff in the Solar System at about 20 km high, is on which Uranian moon?",
+    "options": [
+      "Miranda",
+      "Ariel",
+      "Titania",
+      "Oberon"
+    ],
+    "answer": "Miranda"
+  },
+  {
+    "id": "space-astronomy-963",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Betelgeuse is a red supergiant marking which part of Orion?",
+    "options": [
+      "Right shoulder",
+      "Left foot",
+      "Belt",
+      "Head"
+    ],
+    "answer": "Right shoulder"
+  },
+  {
+    "id": "space-astronomy-964",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Approximately how old is the universe?",
+    "options": [
+      "13.8 billion years",
+      "4.5 billion years",
+      "100 billion years",
+      "10 million years"
+    ],
+    "answer": "13.8 billion years"
+  },
+  {
+    "id": "space-astronomy-965",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Venus's thick clouds are primarily made of what acid?",
+    "options": [
+      "Sulfuric acid",
+      "Hydrochloric acid",
+      "Nitric acid",
+      "Carbonic acid"
+    ],
+    "answer": "Sulfuric acid"
+  },
+  {
+    "id": "space-astronomy-966",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "The Van Allen belts are zones of trapped charged particles around which planet?",
+    "options": [
+      "Earth",
+      "Jupiter",
+      "Saturn",
+      "Venus"
+    ],
+    "answer": "Earth"
+  },
+  {
+    "id": "space-astronomy-967",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "The Carrington Event of 1859 was a massive what?",
+    "options": [
+      "Geomagnetic storm",
+      "Asteroid impact",
+      "Lunar eclipse",
+      "Comet flyby"
+    ],
+    "answer": "Geomagnetic storm"
+  },
+  {
+    "id": "space-astronomy-968",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "A sol, the solar day on Mars, is how long?",
+    "options": [
+      "24 hours 39 minutes",
+      "24 hours exactly",
+      "23 hours 56 minutes",
+      "25 hours"
+    ],
+    "answer": "24 hours 39 minutes"
+  },
+  {
+    "id": "space-astronomy-969",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What powers NASA's Curiosity and Perseverance rovers at night and during dust storms?",
+    "options": [
+      "Radioisotope Thermoelectric Generator",
+      "Solar panels only",
+      "Lithium batteries",
+      "Fuel cells"
+    ],
+    "answer": "Radioisotope Thermoelectric Generator"
+  },
+  {
+    "id": "space-astronomy-970",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which NASA missions in 1976 were the first successful US landers on Mars?",
+    "options": [
+      "Viking 1 and 2",
+      "Mariner 4 and 5",
+      "Pathfinder and Sojourner",
+      "Phoenix and InSight"
+    ],
+    "answer": "Viking 1 and 2"
+  },
+  {
+    "id": "space-astronomy-971",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which spacecraft was the first to fly by Mars in 1965, returning 21 grainy images?",
+    "options": [
+      "Mariner 4",
+      "Mariner 9",
+      "Viking 1",
+      "Mars 3"
+    ],
+    "answer": "Mariner 4"
+  },
+  {
+    "id": "space-astronomy-972",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which near-Earth asteroid was visited and sampled by Japan's Hayabusa mission in 2005 and returned in 2010?",
+    "options": [
+      "Itokawa",
+      "Ryugu",
+      "Bennu",
+      "Eros"
+    ],
+    "answer": "Itokawa"
+  },
+  {
+    "id": "space-astronomy-973",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Rheasilvia is a huge impact basin located on which asteroid?",
+    "options": [
+      "Vesta",
+      "Ceres",
+      "Pallas",
+      "Eros"
+    ],
+    "answer": "Vesta"
+  },
+  {
+    "id": "space-astronomy-974",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "The astronomical unit is defined as the average distance between Earth and what?",
+    "options": [
+      "The Sun",
+      "The Moon",
+      "Mars",
+      "Jupiter"
+    ],
+    "answer": "The Sun"
+  },
+  {
+    "id": "space-astronomy-975",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Uranus's magnetic axis is tilted by about 59 degrees from its rotation axis, and is offset from its center by about what fraction of its radius?",
+    "options": [
+      "One third",
+      "One tenth",
+      "One half",
+      "Nearly zero"
+    ],
+    "answer": "One third"
+  },
+  {
+    "id": "space-astronomy-976",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Uranus's rings were discovered in 1977 during what astronomical event?",
+    "options": [
+      "Stellar occultation",
+      "Solar eclipse",
+      "Transit of Venus",
+      "Lunar eclipse"
+    ],
+    "answer": "Stellar occultation"
+  },
+  {
+    "id": "space-astronomy-977",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which Soviet probe achieved the first soft landing on the Moon in 1966?",
+    "options": [
+      "Luna 9",
+      "Luna 2",
+      "Luna 3",
+      "Luna 16"
+    ],
+    "answer": "Luna 9"
+  },
+  {
+    "id": "space-astronomy-978",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What term describes the loose layer of dust and broken rock covering the Moon's surface?",
+    "options": [
+      "Regolith",
+      "Magma",
+      "Permafrost",
+      "Mantle"
+    ],
+    "answer": "Regolith"
+  },
+  {
+    "id": "space-astronomy-979",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Apollo 12 landed near which uncrewed Surveyor probe in 1969, retrieving parts of it?",
+    "options": [
+      "Surveyor 3",
+      "Surveyor 1",
+      "Surveyor 5",
+      "Surveyor 7"
+    ],
+    "answer": "Surveyor 3"
+  },
+  {
+    "id": "space-astronomy-980",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Apollo 13's mission to the Moon failed due to what critical failure?",
+    "options": [
+      "Oxygen tank explosion",
+      "Computer crash",
+      "Parachute failure",
+      "Fuel leak"
+    ],
+    "answer": "Oxygen tank explosion"
+  },
+  {
+    "id": "space-astronomy-981",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "The stellar spectral classification OBAFGKM has which type hottest?",
+    "options": [
+      "O-type",
+      "M-type",
+      "G-type",
+      "K-type"
+    ],
+    "answer": "O-type"
+  },
+  {
+    "id": "space-astronomy-982",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Why do comet tails always point away from the Sun?",
+    "options": [
+      "Solar wind and radiation pressure push them",
+      "Gravity pulls them",
+      "Magnetic fields repel them",
+      "They trail behind like smoke"
+    ],
+    "answer": "Solar wind and radiation pressure push them"
+  },
+  {
+    "id": "space-astronomy-983",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Which constellation has a distinctive W shape in the northern sky, representing a queen?",
+    "options": [
+      "Cassiopeia",
+      "Orion",
+      "Ursa Major",
+      "Scorpius"
+    ],
+    "answer": "Cassiopeia"
+  },
+  {
+    "id": "space-astronomy-984",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Brown dwarfs are often called failed stars because they lack mass to sustain what?",
+    "options": [
+      "Core hydrogen fusion",
+      "Helium fusion",
+      "Supernova explosion",
+      "Planet formation"
+    ],
+    "answer": "Core hydrogen fusion"
+  },
+  {
+    "id": "space-astronomy-985",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "The radial velocity method detects exoplanets by measuring what?",
+    "options": [
+      "Stellar wobble from gravitational tug",
+      "Dimming of starlight",
+      "Direct light from planet",
+      "Gravitational lensing"
+    ],
+    "answer": "Stellar wobble from gravitational tug"
+  },
+  {
+    "id": "space-astronomy-986",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "A binary star system is defined as what?",
+    "options": [
+      "Two stars orbiting a common center of mass",
+      "One star with two planets",
+      "Two galaxies colliding",
+      "Star with a black hole"
+    ],
+    "answer": "Two stars orbiting a common center of mass"
+  },
+  {
+    "id": "space-astronomy-987",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the habitable zone around a star often called?",
+    "options": [
+      "Goldilocks zone",
+      "Kuiper Belt",
+      "Asteroid belt",
+      "Roche zone"
+    ],
+    "answer": "Goldilocks zone"
+  },
+  {
+    "id": "space-astronomy-988",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which NASA program was the first American program to send humans into orbit, before Gemini?",
+    "options": [
+      "Mercury",
+      "Apollo",
+      "Skylab",
+      "Shuttle"
+    ],
+    "answer": "Mercury"
+  },
+  {
+    "id": "space-astronomy-989",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What is the name of NASA's program to return humans to the Moon in the 2020s?",
+    "options": [
+      "Artemis",
+      "Apollo",
+      "Gemini",
+      "Orion"
+    ],
+    "answer": "Artemis"
+  },
+  {
+    "id": "space-astronomy-990",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "The Pleiades cluster, also known as the Seven Sisters, is in which constellation?",
+    "options": [
+      "Taurus",
+      "Orion",
+      "Gemini",
+      "Pleiades is a constellation itself"
+    ],
+    "answer": "Taurus"
+  },
+  {
+    "id": "space-astronomy-991",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "The Hubble Deep Field image in 1995 showed thousands of galaxies in a tiny patch of what constellation?",
+    "options": [
+      "Ursa Major",
+      "Orion",
+      "Scorpius",
+      "Crux"
+    ],
+    "answer": "Ursa Major"
+  },
+  {
+    "id": "space-astronomy-992",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What was the name of the first American satellite launched in 1958?",
+    "options": [
+      "Explorer 1",
+      "Sputnik 1",
+      "Vanguard 1",
+      "Telstar"
+    ],
+    "answer": "Explorer 1"
+  },
+  {
+    "id": "space-astronomy-993",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What are neutron stars?",
+    "options": [
+      "City-sized collapsed stellar remnants",
+      "Stars made of helium",
+      "Planets made of neutrons",
+      "Black holes with light"
+    ],
+    "answer": "City-sized collapsed stellar remnants"
+  },
+  {
+    "id": "space-astronomy-994",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which spacecraft first flew by Venus in 1962, measuring its scorching temperature?",
+    "options": [
+      "Mariner 2",
+      "Mariner 4",
+      "Venera 7",
+      "Pioneer Venus"
+    ],
+    "answer": "Mariner 2"
+  },
+  {
+    "id": "space-astronomy-995",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Who formulated the laws of planetary motion describing elliptical orbits?",
+    "options": [
+      "Johannes Kepler",
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Copernicus"
+    ],
+    "answer": "Johannes Kepler"
+  },
+  {
+    "id": "space-astronomy-996",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Where are most asteroids in our Solar System located?",
+    "options": [
+      "Between Mars and Jupiter",
+      "Beyond Neptune",
+      "Around Earth",
+      "Between Venus and Earth"
+    ],
+    "answer": "Between Mars and Jupiter"
+  },
+  {
+    "id": "space-astronomy-997",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "The Oort Cloud is hypothesized to be the source of which type of comets?",
+    "options": [
+      "Long-period comets",
+      "Short-period comets",
+      "Sun-grazing comets",
+      "Interstellar comets"
+    ],
+    "answer": "Long-period comets"
+  },
+  {
+    "id": "space-astronomy-998",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which spacecraft became the first to fly through the Sun's corona in 2021?",
+    "options": [
+      "Parker Solar Probe",
+      "Solar Orbiter",
+      "SOHO",
+      "Pioneer 10"
+    ],
+    "answer": "Parker Solar Probe"
+  },
+  {
+    "id": "space-astronomy-999",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "The Kármán line, often defined as the boundary of space, is at what altitude?",
+    "options": [
+      "100 km",
+      "50 km",
+      "400 km",
+      "1,000 km"
+    ],
+    "answer": "100 km"
+  },
+  {
+    "id": "space-astronomy-1000",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What phase is a star in when it fuses hydrogen in its core for most of its life?",
+    "options": [
+      "Main sequence",
+      "Red giant",
+      "White dwarf",
+      "Supernova"
+    ],
+    "answer": "Main sequence"
+  },
+  {
+    "id": "space-astronomy-1001",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "NASA's DART mission in 2022 successfully changed the orbit of which asteroid moon?",
+    "options": [
+      "Dimorphos",
+      "Phobos",
+      "Charon",
+      "Deimos"
+    ],
+    "answer": "Dimorphos"
+  },
+  {
+    "id": "space-astronomy-1002",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What was the first confirmed interstellar object detected passing through the Solar System in 2017?",
+    "options": [
+      "ʻOumuamua",
+      "Borisov",
+      "Arrokoth",
+      "Apophis"
+    ],
+    "answer": "ʻOumuamua"
+  },
+  {
+    "id": "space-astronomy-1003",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Halley's Comet returns to the inner Solar System approximately every how many years?",
+    "options": [
+      "76 years",
+      "11 years",
+      "100 years",
+      "365 years"
+    ],
+    "answer": "76 years"
+  },
+  {
+    "id": "space-astronomy-1004",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "In what year was Pluto reclassified from planet to dwarf planet by the IAU?",
+    "options": [
+      "2006",
+      "1995",
+      "2015",
+      "2000"
+    ],
+    "answer": "2006"
+  },
+  {
+    "id": "space-astronomy-1005",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "The James Webb Space Telescope operates at which Lagrange point?",
+    "options": [
+      "Sun-Earth L2",
+      "Sun-Earth L1",
+      "Earth-Moon L1",
+      "Sun-Earth L3"
+    ],
+    "answer": "Sun-Earth L2"
+  },
+  {
+    "id": "space-astronomy-1006",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What was the name of the small helicopter that flew on Mars from 2021 to 2024?",
+    "options": [
+      "Ingenuity",
+      "Curiosity",
+      "Perseverance",
+      "Opportunity"
+    ],
+    "answer": "Ingenuity"
+  },
+  {
+    "id": "space-astronomy-1007",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "NASA's OSIRIS-REx mission collected samples from which near-Earth asteroid?",
+    "options": [
+      "Bennu",
+      "Ryugu",
+      "Itokawa",
+      "Eros"
+    ],
+    "answer": "Bennu"
+  },
+  {
+    "id": "space-astronomy-1008",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which spacecraft was the first human-made object to reach the surface of the Moon in 1959?",
+    "options": [
+      "Luna 2",
+      "Luna 9",
+      "Apollo 11",
+      "Ranger 7"
+    ],
+    "answer": "Luna 2"
+  },
+  {
+    "id": "space-astronomy-1009",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What optical flaw was discovered in Hubble's primary mirror after its 1990 launch?",
+    "options": [
+      "Spherical aberration",
+      "Chromatic aberration",
+      "Astigmatism",
+      "Cracked mirror"
+    ],
+    "answer": "Spherical aberration"
+  },
+  {
+    "id": "space-astronomy-1010",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Comet Shoemaker-Levy 9 famously did what in July 1994?",
+    "options": [
+      "Collided with Jupiter",
+      "Collided with Earth",
+      "Passed closest to Sun",
+      "Was discovered by Hubble"
+    ],
+    "answer": "Collided with Jupiter"
+  },
+  {
+    "id": "space-astronomy-1011",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Who was the first American in space on May 5, 1961?",
+    "options": [
+      "Alan Shepard",
+      "John Glenn",
+      "Neil Armstrong",
+      "Yuri Gagarin"
+    ],
+    "answer": "Alan Shepard"
+  },
+  {
+    "id": "space-astronomy-1012",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "How many roughly Earth-sized planets orbit the ultra-cool dwarf star TRAPPIST-1, discovered in 2017?",
+    "options": [
+      "Seven",
+      "Three",
+      "Two",
+      "One"
+    ],
+    "answer": "Seven"
+  },
+  {
+    "id": "space-astronomy-1013",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which Chinese mission in 2019 was the first to land on the far side of the Moon?",
+    "options": [
+      "Chang'e 4",
+      "Chang'e 3",
+      "Chang'e 5",
+      "Tianwen-1"
+    ],
+    "answer": "Chang'e 4"
+  },
+  {
+    "id": "space-astronomy-1014",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "The Local Void is a vast region of space with few galaxies adjacent to which supercluster?",
+    "options": [
+      "Laniakea",
+      "Virgo",
+      "Coma",
+      "Hercules"
+    ],
+    "answer": "Laniakea"
+  },
+  {
+    "id": "space-astronomy-1015",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "What is considered the largest known structure in the observable universe, a massive collection of galaxies?",
+    "options": [
+      "Hercules-Corona Borealis Great Wall",
+      "Sloan Great Wall",
+      "Laniakea Supercluster",
+      "Boötes Void"
+    ],
+    "answer": "Hercules-Corona Borealis Great Wall"
+  },
+  {
+    "id": "space-astronomy-1016",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which ESA mission from 2009 to 2013 mapped the cosmic microwave background with higher resolution than WMAP?",
+    "options": [
+      "Planck",
+      "Herschel",
+      "Gaia",
+      "XMM-Newton"
+    ],
+    "answer": "Planck"
   }
 ]

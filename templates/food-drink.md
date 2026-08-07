@@ -108,6 +108,11 @@ AVOID THESE ANGLES (facts already asked, in some cases more than once — don't 
 - Main/centerpiece vegetable of ratatouille (eggplant)
 - What spice gives paella its yellow color (saffron) — already asked in both directions
 - What spirit is the base of a Mojito (rum)
+- Parmigiano Reggiano's minimum PDO aging requirement (12 months)
+- Poutine's origin in Quebec
+- What "al dente" means for pasta (firm to the bite)
+- Bouquet garni as the French term for a tied herb bundle used to flavor stocks
+- Labneh as strained yogurt
 
 Avoid drafting a question whose dish name already contains the answer (e.g. asking what tuber "pounded yam" is pounded from, when the answer is literally "yam"; or what grain "farro salad" is made from, when the answer is "farro") — these are self-answering and get cut regardless of whether the underlying fact is otherwise fresh.
 

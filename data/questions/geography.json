@@ -14740,5 +14740,1188 @@
     ],
     "answer": "2,060 km² (795 sq mi)",
     "id": "geography-827"
+  },
+  {
+    "id": "geography-828",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "What is the capital of Afghanistan?",
+    "options": [
+      "Kabul",
+      "Kandahar",
+      "Herat",
+      "Mazar-i-Sharif"
+    ],
+    "answer": "Kabul"
+  },
+  {
+    "id": "geography-829",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "What is the capital of Bulgaria?",
+    "options": [
+      "Plovdiv",
+      "Varna",
+      "Sofia",
+      "Burgas"
+    ],
+    "answer": "Sofia"
+  },
+  {
+    "id": "geography-830",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "What is the capital of Monaco?",
+    "options": [
+      "Monte Carlo",
+      "La Condamine",
+      "Monaco",
+      "Fontvieille"
+    ],
+    "answer": "Monaco"
+  },
+  {
+    "id": "geography-831",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "What is the capital of North Korea?",
+    "options": [
+      "Hamhung",
+      "Pyongyang",
+      "Chongjin",
+      "Nampo"
+    ],
+    "answer": "Pyongyang"
+  },
+  {
+    "id": "geography-832",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "What is the capital of Qatar?",
+    "options": [
+      "Al Rayyan",
+      "Doha",
+      "Al Wakrah",
+      "Lusail"
+    ],
+    "answer": "Doha"
+  },
+  {
+    "id": "geography-833",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "As of 2026, which two countries share the second longest international land border in the world?",
+    "options": [
+      "Russia and Kazakhstan",
+      "China and Mongolia",
+      "Argentina and Chile",
+      "India and Bangladesh"
+    ],
+    "answer": "Russia and Kazakhstan"
+  },
+  {
+    "id": "geography-834",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which two countries share one of the shortest international land borders in the world, at about 150 meters?",
+    "options": [
+      "Botswana and Zambia",
+      "Morocco and Spain",
+      "Egypt and Sudan",
+      "Senegal and Gambia"
+    ],
+    "answer": "Botswana and Zambia"
+  },
+  {
+    "id": "geography-835",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which landlocked Himalayan country is bordered on three sides by India and to the north by China?",
+    "options": [
+      "Nepal",
+      "Laos",
+      "Mongolia",
+      "Bhutan"
+    ],
+    "answer": "Nepal"
+  },
+  {
+    "id": "geography-836",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which South American country borders only Colombia and Peru?",
+    "options": [
+      "Ecuador",
+      "Bolivia",
+      "Venezuela",
+      "Guyana"
+    ],
+    "answer": "Ecuador"
+  },
+  {
+    "id": "geography-837",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which country shares its only land border with the United Kingdom?",
+    "options": [
+      "France",
+      "Ireland",
+      "Netherlands",
+      "Belgium"
+    ],
+    "answer": "Ireland"
+  },
+  {
+    "id": "geography-838",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which landlocked Asian country shares borders with six countries including Iran and China?",
+    "options": [
+      "Turkmenistan",
+      "Afghanistan",
+      "Kazakhstan",
+      "Uzbekistan"
+    ],
+    "answer": "Afghanistan"
+  },
+  {
+    "id": "geography-839",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which country separates the contiguous United States from Alaska by land?",
+    "options": [
+      "Russia",
+      "Canada",
+      "Greenland",
+      "Mexico"
+    ],
+    "answer": "Canada"
+  },
+  {
+    "id": "geography-840",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which small European country borders both France and Germany?",
+    "options": [
+      "Luxembourg",
+      "Andorra",
+      "Monaco",
+      "Liechtenstein"
+    ],
+    "answer": "Luxembourg"
+  },
+  {
+    "id": "geography-841",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which landlocked European country borders eight other countries including Germany and Italy?",
+    "options": [
+      "Switzerland",
+      "Austria",
+      "Hungary",
+      "Czech Republic"
+    ],
+    "answer": "Austria"
+  },
+  {
+    "id": "geography-842",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which West African country borders seven countries including Algeria and Nigeria?",
+    "options": [
+      "Mali",
+      "Niger",
+      "Chad",
+      "Burkina Faso"
+    ],
+    "answer": "Niger"
+  },
+  {
+    "id": "geography-843",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which South Asian country borders only India and Myanmar?",
+    "options": [
+      "Nepal",
+      "Bangladesh",
+      "Bhutan",
+      "Laos"
+    ],
+    "answer": "Bangladesh"
+  },
+  {
+    "id": "geography-844",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which two countries are tied for bordering the most other countries with 14 neighbors each as of 2026?",
+    "options": [
+      "China and Russia",
+      "Brazil and Germany",
+      "India and France",
+      "United States and Canada"
+    ],
+    "answer": "China and Russia"
+  },
+  {
+    "id": "geography-845",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which country in Central America borders both the Pacific Ocean and the Caribbean Sea?",
+    "options": [
+      "Costa Rica",
+      "El Salvador",
+      "Belize",
+      "Guatemala"
+    ],
+    "answer": "Costa Rica"
+  },
+  {
+    "id": "geography-846",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which country borders both the Black Sea and the Caspian Sea?",
+    "options": [
+      "Turkey",
+      "Russia",
+      "Iran",
+      "Georgia"
+    ],
+    "answer": "Russia"
+  },
+  {
+    "id": "geography-847",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which country borders both the Caspian Sea and the Persian Gulf?",
+    "options": [
+      "Saudi Arabia",
+      "Iran",
+      "Iraq",
+      "Kuwait"
+    ],
+    "answer": "Iran"
+  },
+  {
+    "id": "geography-848",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "Which Antarctic desert valleys are considered the driest place on Earth with almost no precipitation?",
+    "options": [
+      "McMurdo Dry Valleys",
+      "Wright Valley",
+      "Taylor Valley",
+      "Victoria Valley"
+    ],
+    "answer": "McMurdo Dry Valleys"
+  },
+  {
+    "id": "geography-849",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which desert is considered the driest non-polar desert on Earth as of 2026?",
+    "options": [
+      "Sahara Desert",
+      "Atacama Desert",
+      "Gobi Desert",
+      "Kalahari Desert"
+    ],
+    "answer": "Atacama Desert"
+  },
+  {
+    "id": "geography-850",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "What is the highest mountain in Canada?",
+    "options": [
+      "Mount Logan",
+      "Mount Robson",
+      "Mount Columbia",
+      "Mount Saint Elias"
+    ],
+    "answer": "Mount Logan"
+  },
+  {
+    "id": "geography-851",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "What is the highest summit of the Rocky Mountains of North America?",
+    "options": [
+      "Mount Whitney",
+      "Mount Elbert",
+      "Mount Massive",
+      "Longs Peak"
+    ],
+    "answer": "Mount Elbert"
+  },
+  {
+    "id": "geography-852",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which Pacific island nation is the only country to lie in all four hemispheres as of 2026?",
+    "options": [
+      "Fiji",
+      "Kiribati",
+      "Tuvalu",
+      "Samoa"
+    ],
+    "answer": "Kiribati"
+  },
+  {
+    "id": "geography-853",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which desert known for saguaro cactus spans Arizona, California, and northwestern Mexico?",
+    "options": [
+      "Mojave Desert",
+      "Sonoran Desert",
+      "Chihuahuan Desert",
+      "Colorado Desert"
+    ],
+    "answer": "Sonoran Desert"
+  },
+  {
+    "id": "geography-854",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which semi-arid desert covers much of southern Argentina?",
+    "options": [
+      "Atacama Desert",
+      "Patagonian Desert",
+      "Monte Desert",
+      "Sechura Desert"
+    ],
+    "answer": "Patagonian Desert"
+  },
+  {
+    "id": "geography-855",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which mountain range stretches along western Iran for about 1,500 km?",
+    "options": [
+      "Zagros Mountains",
+      "Alborz Mountains",
+      "Caucasus Mountains",
+      "Hindu Kush"
+    ],
+    "answer": "Zagros Mountains"
+  },
+  {
+    "id": "geography-856",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which mountain range lies between the Black Sea and the Caspian Sea?",
+    "options": [
+      "Ural Mountains",
+      "Caucasus Mountains",
+      "Carpathian Mountains",
+      "Zagros Mountains"
+    ],
+    "answer": "Caucasus Mountains"
+  },
+  {
+    "id": "geography-857",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which mountain range runs along the eastern United States from Maine to Georgia?",
+    "options": [
+      "Rocky Mountains",
+      "Appalachian Mountains",
+      "Sierra Nevada",
+      "Cascade Range"
+    ],
+    "answer": "Appalachian Mountains"
+  },
+  {
+    "id": "geography-858",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which mountain range runs along eastern California and includes the highest peak in the contiguous US?",
+    "options": [
+      "Rocky Mountains",
+      "Sierra Nevada",
+      "Cascade Range",
+      "Coast Range"
+    ],
+    "answer": "Sierra Nevada"
+  },
+  {
+    "id": "geography-859",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which is the deepest lake in the United States?",
+    "options": [
+      "Lake Superior",
+      "Crater Lake",
+      "Lake Tahoe",
+      "Great Slave Lake"
+    ],
+    "answer": "Crater Lake"
+  },
+  {
+    "id": "geography-860",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "Which is the deepest lake in North America as of 2026?",
+    "options": [
+      "Great Bear Lake",
+      "Great Slave Lake",
+      "Crater Lake",
+      "Lake Superior"
+    ],
+    "answer": "Great Slave Lake"
+  },
+  {
+    "id": "geography-861",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "Which subglacial lake in Antarctica lies buried under nearly 4 km of ice?",
+    "options": [
+      "Lake Vostok",
+      "Lake Mercer",
+      "Lake Whillans",
+      "Lake Enigma"
+    ],
+    "answer": "Lake Vostok"
+  },
+  {
+    "id": "geography-862",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which river is the longest in South America as of 2026?",
+    "options": [
+      "Orinoco River",
+      "Parana River",
+      "Amazon River",
+      "Madeira River"
+    ],
+    "answer": "Amazon River"
+  },
+  {
+    "id": "geography-863",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which is the longest river system in North America as of 2026?",
+    "options": [
+      "Mississippi River",
+      "Missouri-Mississippi System",
+      "Yukon River",
+      "Rio Grande"
+    ],
+    "answer": "Missouri-Mississippi System"
+  },
+  {
+    "id": "geography-864",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which strait connects the Adriatic Sea to the Ionian Sea?",
+    "options": [
+      "Strait of Otranto",
+      "Strait of Messina",
+      "Strait of Bonifacio",
+      "Strait of Sicily"
+    ],
+    "answer": "Strait of Otranto"
+  },
+  {
+    "id": "geography-865",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which strait separates Greenland and Baffin Island?",
+    "options": [
+      "Hudson Strait",
+      "Davis Strait",
+      "Nares Strait",
+      "Denmark Strait"
+    ],
+    "answer": "Davis Strait"
+  },
+  {
+    "id": "geography-866",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which strait connects the Black Sea to the Sea of Marmara?",
+    "options": [
+      "Dardanelles",
+      "Bosporus Strait",
+      "Kerch Strait",
+      "Strait of Otranto"
+    ],
+    "answer": "Bosporus Strait"
+  },
+  {
+    "id": "geography-867",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which is the largest sand desert in the world as of 2026?",
+    "options": [
+      "Sahara Desert",
+      "Rub' al Khali",
+      "Great Sandy Desert",
+      "Taklamakan Desert"
+    ],
+    "answer": "Rub' al Khali"
+  },
+  {
+    "id": "geography-868",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which sea is the world's largest inland body of water that is actually a lake as of 2026?",
+    "options": [
+      "Lake Superior",
+      "Caspian Sea",
+      "Lake Victoria",
+      "Aral Sea"
+    ],
+    "answer": "Caspian Sea"
+  },
+  {
+    "id": "geography-869",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which country has no permanent rivers and relies heavily on desalination for water as of 2026?",
+    "options": [
+      "Qatar",
+      "Maldives",
+      "Vatican City",
+      "Monaco"
+    ],
+    "answer": "Qatar"
+  },
+  {
+    "id": "geography-870",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "Which landlocked country in South Asia is home to eight of the world's ten highest mountains?",
+    "options": [
+      "Bhutan",
+      "Nepal",
+      "Laos",
+      "Mongolia"
+    ],
+    "answer": "Nepal"
+  },
+  {
+    "id": "geography-871",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which African lake is shared by four countries: Tanzania, DRC, Burundi, and Zambia?",
+    "options": [
+      "Lake Victoria",
+      "Lake Malawi",
+      "Lake Tanganyika",
+      "Lake Kivu"
+    ],
+    "answer": "Lake Tanganyika"
+  },
+  {
+    "id": "geography-872",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which country is located on the Horn of Africa and borders Djibouti, Eritrea, and Somalia?",
+    "options": [
+      "Kenya",
+      "Ethiopia",
+      "Sudan",
+      "South Sudan"
+    ],
+    "answer": "Ethiopia"
+  },
+  {
+    "id": "geography-873",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which mountain is the highest peak in the state of Alaska and is not Denali?",
+    "options": [
+      "Mount Saint Elias",
+      "Mount Foraker",
+      "Mount Logan",
+      "Mount Blackburn"
+    ],
+    "answer": "Mount Saint Elias"
+  },
+  {
+    "id": "geography-874",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which country is the largest island nation in the Pacific by land area as of 2026?",
+    "options": [
+      "New Zealand",
+      "Papua New Guinea",
+      "Fiji",
+      "Solomon Islands"
+    ],
+    "answer": "Papua New Guinea"
+  },
+  {
+    "id": "geography-875",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which line of latitude is located at approximately 23.5 degrees south?",
+    "options": [
+      "Tropic of Cancer",
+      "Tropic of Capricorn",
+      "Arctic Circle",
+      "Antarctic Circle"
+    ],
+    "answer": "Tropic of Capricorn"
+  },
+  {
+    "id": "geography-876",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which sea lies between the Arabian Peninsula and the Horn of Africa?",
+    "options": [
+      "Red Sea",
+      "Arabian Sea",
+      "Gulf of Aden",
+      "Persian Gulf"
+    ],
+    "answer": "Arabian Sea"
+  },
+  {
+    "id": "geography-877",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which US state has the most active volcanoes as of 2026?",
+    "options": [
+      "Hawaii",
+      "Alaska",
+      "California",
+      "Washington"
+    ],
+    "answer": "Alaska"
+  },
+  {
+    "id": "geography-878",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which continent is home to the Atacama Desert?",
+    "options": [
+      "Africa",
+      "South America",
+      "Asia",
+      "Australia"
+    ],
+    "answer": "South America"
+  },
+  {
+    "id": "geography-879",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which country is home to the city of Petra carved into sandstone cliffs?",
+    "options": [
+      "Jordan",
+      "Lebanon",
+      "Syria",
+      "Israel"
+    ],
+    "answer": "Jordan"
+  },
+  {
+    "id": "geography-880",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which African country is known as the Rainbow Nation due to its diversity?",
+    "options": [
+      "Kenya",
+      "South Africa",
+      "Nigeria",
+      "Ghana"
+    ],
+    "answer": "South Africa"
+  },
+  {
+    "id": "geography-881",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which river flows through the city of Rome?",
+    "options": [
+      "Po River",
+      "Tiber River",
+      "Arno River",
+      "Adige River"
+    ],
+    "answer": "Tiber River"
+  },
+  {
+    "id": "geography-882",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which desert is located in eastern California and is the hottest place in North America?",
+    "options": [
+      "Mojave Desert",
+      "Death Valley",
+      "Sonoran Desert",
+      "Great Basin Desert"
+    ],
+    "answer": "Death Valley"
+  },
+  {
+    "id": "geography-883",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which country has three exclaves within the Netherlands as of 2026?",
+    "options": [
+      "Belgium",
+      "Germany",
+      "Luxembourg",
+      "France"
+    ],
+    "answer": "Belgium"
+  },
+  {
+    "id": "geography-884",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which country is the largest by land area in the Middle East as of 2026?",
+    "options": [
+      "Iran",
+      "Saudi Arabia",
+      "Turkey",
+      "Egypt"
+    ],
+    "answer": "Saudi Arabia"
+  },
+  {
+    "id": "geography-885",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which sea borders Greece, Turkey, and Italy?",
+    "options": [
+      "Mediterranean Sea",
+      "Aegean Sea",
+      "Ionian Sea",
+      "Adriatic Sea"
+    ],
+    "answer": "Mediterranean Sea"
+  },
+  {
+    "id": "geography-886",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which country has the longest coastline in South America as of 2026?",
+    "options": [
+      "Chile",
+      "Brazil",
+      "Argentina",
+      "Peru"
+    ],
+    "answer": "Chile"
+  },
+  {
+    "id": "geography-887",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which country is located on both the Atlantic and Pacific coasts of Central America?",
+    "options": [
+      "Honduras",
+      "Nicaragua",
+      "Costa Rica",
+      "Panama"
+    ],
+    "answer": "Honduras"
+  },
+  {
+    "id": "geography-888",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which river is the longest in France as of 2026?",
+    "options": [
+      "Seine River",
+      "Loire River",
+      "Rhone River",
+      "Garonne River"
+    ],
+    "answer": "Loire River"
+  },
+  {
+    "id": "geography-889",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which desert lies between the Sierra Nevada and the Wasatch Mountains in the US?",
+    "options": [
+      "Mojave Desert",
+      "Great Basin Desert",
+      "Chihuahuan Desert",
+      "Sonoran Desert"
+    ],
+    "answer": "Great Basin Desert"
+  },
+  {
+    "id": "geography-890",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which country is the largest landlocked country in Africa as of 2026?",
+    "options": [
+      "Chad",
+      "Niger",
+      "Mali",
+      "Ethiopia"
+    ],
+    "answer": "Chad"
+  },
+  {
+    "id": "geography-891",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which continent has the most freshwater as of 2026?",
+    "options": [
+      "Asia",
+      "Antarctica",
+      "North America",
+      "South America"
+    ],
+    "answer": "Antarctica"
+  },
+  {
+    "id": "geography-892",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which mountain range is the longest in North America?",
+    "options": [
+      "Rocky Mountains",
+      "Appalachian Mountains",
+      "Sierra Nevada",
+      "Cascade Range"
+    ],
+    "answer": "Rocky Mountains"
+  },
+  {
+    "id": "geography-893",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which sea is located between Italy and Croatia?",
+    "options": [
+      "Adriatic Sea",
+      "Tyrrhenian Sea",
+      "Ionian Sea",
+      "Ligurian Sea"
+    ],
+    "answer": "Adriatic Sea"
+  },
+  {
+    "id": "geography-894",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which strait connects the Mediterranean Sea to the Black Sea via the Sea of Marmara?",
+    "options": [
+      "Strait of Gibraltar",
+      "Dardanelles",
+      "Bosporus Strait",
+      "Kerch Strait"
+    ],
+    "answer": "Dardanelles"
+  },
+  {
+    "id": "geography-895",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which country has its northernmost point at Cape Nordkinn?",
+    "options": [
+      "Norway",
+      "Sweden",
+      "Finland",
+      "Russia"
+    ],
+    "answer": "Norway"
+  },
+  {
+    "id": "geography-896",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "Which island in the Indian Ocean is known as the Spice Island for cloves and nutmeg?",
+    "options": [
+      "Zanzibar",
+      "Mauritius",
+      "Comoros",
+      "Seychelles"
+    ],
+    "answer": "Zanzibar"
+  },
+  {
+    "id": "geography-897",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which country is home to the Wadi Rum desert valley also called Valley of the Moon?",
+    "options": [
+      "Jordan",
+      "Saudi Arabia",
+      "Oman",
+      "United Arab Emirates"
+    ],
+    "answer": "Jordan"
+  },
+  {
+    "id": "geography-898",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which US state is an archipelago in the Pacific with no land borders?",
+    "options": [
+      "Florida",
+      "Hawaii",
+      "Alaska",
+      "California"
+    ],
+    "answer": "Hawaii"
+  },
+  {
+    "id": "geography-899",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which country has the most islands in the Caribbean as of 2026?",
+    "options": [
+      "Cuba",
+      "Bahamas",
+      "Jamaica",
+      "Haiti"
+    ],
+    "answer": "Bahamas"
+  },
+  {
+    "id": "geography-900",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which sea separates Europe and Africa at its narrowest point of about 14 km?",
+    "options": [
+      "Mediterranean Sea",
+      "Strait of Gibraltar",
+      "Strait of Sicily",
+      "Aegean Sea"
+    ],
+    "answer": "Strait of Gibraltar"
+  },
+  {
+    "id": "geography-901",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which country has a panhandle that extends to the Arctic Ocean?",
+    "options": [
+      "United States",
+      "Canada",
+      "Russia",
+      "Norway"
+    ],
+    "answer": "United States"
+  },
+  {
+    "id": "geography-902",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which desert is located on the border of California and Arizona and includes the Imperial Sand Dunes?",
+    "options": [
+      "Mojave Desert",
+      "Sonoran Desert",
+      "Colorado Desert",
+      "Great Basin Desert"
+    ],
+    "answer": "Colorado Desert"
+  },
+  {
+    "id": "geography-903",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which sea is located between Africa and the Arabian Peninsula?",
+    "options": [
+      "Red Sea",
+      "Black Sea",
+      "Caspian Sea",
+      "Mediterranean Sea"
+    ],
+    "answer": "Red Sea"
+  },
+  {
+    "id": "geography-904",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which country is home to the city of Samarkand on the Silk Road?",
+    "options": [
+      "Uzbekistan",
+      "Turkmenistan",
+      "Kazakhstan",
+      "Kyrgyzstan"
+    ],
+    "answer": "Uzbekistan"
+  },
+  {
+    "id": "geography-905",
+    "category": "geography",
+    "difficulty": "hard",
+    "question": "Which two countries are the only doubly landlocked countries in the world as of 2026?",
+    "options": [
+      "Liechtenstein and Uzbekistan",
+      "Andorra and San Marino",
+      "Nepal and Bhutan",
+      "Chad and Niger"
+    ],
+    "answer": "Liechtenstein and Uzbekistan"
+  },
+  {
+    "id": "geography-906",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which country is the largest landlocked country in the world as of 2026?",
+    "options": [
+      "Mongolia",
+      "Kazakhstan",
+      "Chad",
+      "Bolivia"
+    ],
+    "answer": "Kazakhstan"
+  },
+  {
+    "id": "geography-907",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which is the largest ocean in the world as of 2026?",
+    "options": [
+      "Atlantic Ocean",
+      "Pacific Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "answer": "Pacific Ocean"
+  },
+  {
+    "id": "geography-908",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which is the smallest country in the world by land area as of 2026?",
+    "options": [
+      "Monaco",
+      "Vatican City",
+      "San Marino",
+      "Liechtenstein"
+    ],
+    "answer": "Vatican City"
+  },
+  {
+    "id": "geography-909",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which is the longest river in the world as of 2026?",
+    "options": [
+      "Amazon River",
+      "Nile River",
+      "Yangtze River",
+      "Mississippi River"
+    ],
+    "answer": "Nile River"
+  },
+  {
+    "id": "geography-910",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "What is the official currency of Japan as of 2026?",
+    "options": [
+      "Yen",
+      "Won",
+      "Yuan",
+      "Ringgit"
+    ],
+    "answer": "Yen"
+  },
+  {
+    "id": "geography-911",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which is the world's longest continental mountain range as of 2026?",
+    "options": [
+      "Rocky Mountains",
+      "Andes Mountains",
+      "Himalayas",
+      "Alps"
+    ],
+    "answer": "Andes Mountains"
+  },
+  {
+    "id": "geography-912",
+    "category": "geography",
+    "difficulty": "easy",
+    "question": "Which is the world's largest hot desert as of 2026?",
+    "options": [
+      "Sahara Desert",
+      "Gobi Desert",
+      "Kalahari Desert",
+      "Arabian Desert"
+    ],
+    "answer": "Sahara Desert"
+  },
+  {
+    "id": "geography-913",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which two countries share the longest international land border as of 2026?",
+    "options": [
+      "United States and Canada",
+      "Russia and China",
+      "Argentina and Chile",
+      "India and Bangladesh"
+    ],
+    "answer": "United States and Canada"
+  },
+  {
+    "id": "geography-914",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which is the world's largest island as of 2026?",
+    "options": [
+      "Greenland",
+      "New Guinea",
+      "Borneo",
+      "Madagascar"
+    ],
+    "answer": "Greenland"
+  },
+  {
+    "id": "geography-915",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which mountain is the highest in South America as of 2026?",
+    "options": [
+      "Aconcagua",
+      "Ojos del Salado",
+      "Huascaran",
+      "Chimborazo"
+    ],
+    "answer": "Aconcagua"
+  },
+  {
+    "id": "geography-916",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which mountain is the highest in North America as of 2026?",
+    "options": [
+      "Mount Logan",
+      "Denali",
+      "Mount Saint Elias",
+      "Mount Foraker"
+    ],
+    "answer": "Denali"
+  },
+  {
+    "id": "geography-917",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which is the longest river in Europe as of 2026?",
+    "options": [
+      "Danube River",
+      "Volga River",
+      "Rhine River",
+      "Dnieper River"
+    ],
+    "answer": "Volga River"
+  },
+  {
+    "id": "geography-918",
+    "category": "geography",
+    "difficulty": "medium",
+    "question": "Which river is the longest entirely within China as of 2026?",
+    "options": [
+      "Yellow River",
+      "Yangtze River",
+      "Pearl River",
+      "Mekong River"
+    ],
+    "answer": "Yangtze River"
   }
 ]

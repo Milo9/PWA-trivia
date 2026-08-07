@@ -151,6 +151,9 @@ Use web search to verify every fact — do not rely on memory alone. Prefer auth
 
 If any fact involves a "current record," membership count, headquarters location, or similar detail that can change over time, pin it to a specific time (e.g. "as of 2026") rather than stating it as a timeless fact, since these claims go stale.
 
+- Additional org headquarters confirmed duplicate in a later batch: Organization of Islamic Cooperation (Jeddah), OSCE (Vienna), Bank for International Settlements (Basel — already asked 3x under different phrasings, treat as fully exhausted), ITU (Geneva)
+- Named economic-model/theory terms confirmed duplicate: kakistocracy, secession (as "formal withdrawal from a federation"), Solow growth model, IS-LM model, impossible trinity/trilemma, Condorcet paradox — watch for these being asked "backwards" (model named, described property asked, or vice versa) since that dodges text-overlap dedup even though it's the same fact
+
 OUTPUT FORMAT: A single JavaScript file, CommonJS style, like this:
 
 module.exports = [

@@ -51,6 +51,15 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Total spaces on a standard Monopoly board (40, including Go) — the *railroad*-space count (4) is a different, still-open fact
 - Game-rule chestnuts already covered: chess pawn promotion and en passant; Scrabble's center square (double word score), its 50-point bonus for playing all 7 tiles (bingo), its blank/wild tile point value, and its total letter-tile count (100); poker's flush and full house definitions and the Dead Man's Hand (aces and eights); Monopoly's railroad count and Free Parking house rule; the printing term "leading"; how many ships each player hides in classic Battleship (5); cards in a standard Pinochle deck (48); tiles in a standard double-six domino set (28); Carcassonne as the game that introduced the term "meeple" (2000)
 - Measurement/science chestnuts already covered: US fluid ounces in a cup (8) and in a pint (16), US quarts in a gallon (4), one parsec in light-years (~3.26), and the definition of an isogram (a word with no repeating letters)
+- SI derived unit names already covered: siemens (conductance), tesla (magnetic flux density), newton (force), pascal (pressure), joule (energy), watt (power), hertz (frequency), candela (luminous intensity), ampere (current) — treat any "SI unit of X" question as high collision risk regardless of phrasing direction
+- "A shake" as the informal nuclear-physics unit equal to 10 nanoseconds; US gallons in an oil barrel (42); square feet in an acre (43,560) and acres in a square mile (640); apothecaries' grains-to-scruple (20) and grains-to-dram (60) conversions
+- The Celsius/Fahrenheit numeric crossover point (-40 degrees)
+- Kenning and paraprosdokian as literary/linguistic term definitions
+- Monopoly's jail-fine amount ($50), Boardwalk-with-hotel rent ($2000), backgammon checker count (15 per player), and American-checkers starting piece count (12 per player)
+- Domino tile counts for double-nine sets (55) — the double-six (28), double-twelve (91), double-fifteen (136), and double-eighteen (190) variants are still distinct/open facts, don't treat the whole family as covered
+- Catan's resource-type count (5, not counting desert)
+- Standard American roulette wheel's numbered-pocket count (38) — the European wheel's count (37) is a different, still-open fact
+- Note: "Land of a Thousand Lakes" (Finland) and "Land of a Thousand Hills" (Rwanda) are two genuinely different country nicknames, not a duplicate pair — don't skip one just because the phrasing template matches the other
 
 Use web search to verify every fact — do not rely on memory alone. Prefer authoritative sources (reference databases, almanacs) over guessing. For each question, actually find the fact via search rather than recalling it, especially for obscure details.
 

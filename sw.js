@@ -1,7 +1,7 @@
 // Stamped by scripts/stamp-version.js — do not edit by hand.
 // Changes automatically whenever app shell or question data changes,
 // which forces old cached data to be replaced next time we're online.
-const CACHE_VERSION = "v1-705e0249";
+const CACHE_VERSION = "v1-f2f60f3f";
 
 // Per-file content hashes for everything CACHE_VERSION covers. Lets
 // precache() tell which files actually changed and copy the rest forward
@@ -12,25 +12,25 @@ const FILE_HASHES = {
   "styles.css": "6bfaba5c340996e8",
   "app.js": "e534480079dd8062",
   "manifest.webmanifest": "de76ad5da1344100",
-  "version.json": "c9b6ebfc7b19b7c6",
+  "version.json": "b8f9feb42b806ac2",
   "data/categories.json": "46577fab4088e580",
   "data/questions/animals-nature.json": "a4b5b45ced01ea3c",
-  "data/questions/arts-literature.json": "bfb67aed9ed793bf",
+  "data/questions/arts-literature.json": "f38b6005618de212",
   "data/questions/big-bang-theory.json": "ce3e2cec725b5ba3",
   "data/questions/business-brands.json": "64bc49025e6e4d30",
-  "data/questions/civics-law-economics.json": "25d30dfdaa1c1888",
-  "data/questions/film-tv.json": "97f00030d87b5dcd",
-  "data/questions/food-drink.json": "57dd7b6c983a39db",
+  "data/questions/civics-law-economics.json": "6fbb3f2f7298a7d2",
+  "data/questions/film-tv.json": "3a9652c0b8ff789b",
+  "data/questions/food-drink.json": "5113eec0ab460e0d",
   "data/questions/friends.json": "047e3ec40b64353c",
-  "data/questions/general.json": "878e5812d08ee6d3",
-  "data/questions/geography.json": "32f815e9f3439b49",
+  "data/questions/general.json": "bc23ec67efedb242",
+  "data/questions/geography.json": "aa68745e0afa25ae",
   "data/questions/history.json": "829c111bbe5240a8",
-  "data/questions/music.json": "bb5b35d463354dd8",
+  "data/questions/music.json": "eeee11571272e2d7",
   "data/questions/mythology-religion.json": "1c05470993dad457",
   "data/questions/science-technology.json": "d262b3c0001f178d",
-  "data/questions/space-astronomy.json": "61c1a2750a88ea42",
-  "data/questions/sports.json": "49250767678504a9",
-  "data/questions/world-cultures.json": "4718982cff809de4",
+  "data/questions/space-astronomy.json": "401f330de2320757",
+  "data/questions/sports.json": "94896a350a32dfde",
+  "data/questions/world-cultures.json": "d0800f9b8a1ade53",
   "data/topics.json": "00c6219fb318d9de"
 };
 

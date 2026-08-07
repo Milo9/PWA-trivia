@@ -100,6 +100,10 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - China's Qingming Festival centering on tomb-sweeping/honoring ancestors
 - Madagascar's Famadihana ceremony (exhuming and rewrapping ancestors' remains) — also don't draft a new question just asking "what is Famadihana" when an existing question already states that definition as its own premise while asking for the country
 - Japanese food/dining terms already covered: kaiseki (multi-course haute cuisine), dashi (kelp/bonito broth), katsuobushi (dried fermented bonito flakes), wasabi (from a rhizome plant), takoyaki (octopus-filled batter balls), okonomiyaki ("as you like it" savory pancake), tonkatsu (breaded fried pork cutlet), miso (fermented soybean paste)
+- The Philippines' "pagpag" superstition (mourners shouldn't go straight home after a funeral) — also watch for an external agent drafting this exact fact twice within one batch
+- Himba women's "otjize" paste (butterfat and red ochre) in Namibia
+- Rice as the fermentation base of Japanese sake — already asked 3+ times, treat as fully exhausted
+- Spain as the origin of tapas
 
 Use web search to verify every fact — do not rely on memory alone. Prefer authoritative sources (encyclopedic sources, cultural references) over guessing. For each question, actually find the fact via search rather than recalling it, especially for obscure details (lesser-known customs, specific terms).
 

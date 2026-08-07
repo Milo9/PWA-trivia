@@ -77,6 +77,31 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Which country the Taklamakan Desert is in (China)
 - Which three countries share the Kalahari Desert (Botswana, Namibia, South Africa) — already asked with each of the three as the "blank" country in turn, so treat any framing of this fact as covered
 - Which country the Atacama Desert is primarily in (Chile)
+- Capital cities of Bangladesh, Ghana, Guinea, Hungary, Iran, Kuwait, Latvia, Libya, New Zealand, Nigeria, Norway, Pakistan, Peru, Poland, Romania, Serbia, Singapore, South Korea, Switzerland, Syria, Turkey, Ukraine, UAE, Venezuela, Vietnam, Belgium, Chile, Colombia, Croatia, Czech Republic, Denmark, DR Congo, Finland, and Nauru's de facto capital — now covered; treat "capital of [country]" as high collision risk generally, not just for the largest/best-known countries
+- Danube as Europe's second-longest river (after Volga), and separately as the river flowing through Vienna and Budapest — both framings covered, treat as the same fact
+- Oder River forming part of the Germany/Poland border
+- Tigris River flowing through Baghdad
+- Morocco as the North African country with coastlines on both the Atlantic and Mediterranean
+- Lake Tanganyika as the world's longest freshwater lake and second-deepest (after Baikal)
+- Iceland having no land borders at all
+- Sweden bordering only Norway and Finland
+- Sudan having the most pyramids in the world (200+, more than Egypt)
+- Chihuahuan Desert as the largest desert in North America, incl. the Mojave/Joshua Tree National Park connection
+- Atlantic as the second-largest ocean (Pacific is largest, already listed above)
+- Australia as the driest inhabited continent
+- New Zealand consisting of North Island and South Island with capital Wellington
+- United States/Alaska having the most volcanoes (when Indonesia is excluded, or "active/potentially active" framing)
+- Canada having the most lakes of any country
+- Ethiopia's Danakil Depression as one of the hottest/lowest places on Earth
+- Mali's Timbuktu on the southern edge of the Sahara
+- Arctic Ocean as the smallest ocean
+- Finland nicknamed the "Land of a Thousand Lakes"
+- Uruguay River forming part of the Uruguay/Argentina border
+- Lake Titicaca as South America's largest freshwater lake
+- Ben Nevis as the UK's highest point
+- Botswana/Zambia as one of the world's shortest international land borders (~150m)
+- Germany bordering nine countries (second-most in Europe after Russia)
+- Russia/Kazakhstan as the world's second-longest international land border
 - Which two countries share Lake Titicaca (Peru and Bolivia) — already asked with either as the "other" country
 - Which city/capital the Seine flows through (Paris) — already asked in both directions
 - What body of water the Strait of Hormuz connects the Persian Gulf to (Gulf of Oman) — already stated as a premise in an existing question about the strait's name

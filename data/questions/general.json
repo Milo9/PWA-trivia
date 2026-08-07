@@ -14168,5 +14168,2267 @@
     ],
     "answer": "Having blood on hands after a crime",
     "id": "general-4022"
+  },
+  {
+    "id": "general-4023",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What unit is used to measure the optical power of a lens?",
+    "options": [
+      "Diopter",
+      "Lumen",
+      "Lux",
+      "Tesla"
+    ],
+    "answer": "Diopter"
+  },
+  {
+    "id": "general-4024",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the SI derived unit of electrical charge?",
+    "options": [
+      "Farad",
+      "Ohm",
+      "Volt",
+      "Coulomb"
+    ],
+    "answer": "Coulomb"
+  },
+  {
+    "id": "general-4025",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the SI derived unit of capacitance?",
+    "options": [
+      "Henry",
+      "Ohm",
+      "Farad",
+      "Siemens"
+    ],
+    "answer": "Farad"
+  },
+  {
+    "id": "general-4026",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "In nuclear physics, what humorous unit of area is equal to 10^-28 square meters?",
+    "options": [
+      "Barn",
+      "Smoot",
+      "Shake",
+      "Micromort"
+    ],
+    "answer": "Barn"
+  },
+  {
+    "id": "general-4027",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What unit of length, equal to 5 feet 7 inches, was named after an MIT fraternity pledge?",
+    "options": [
+      "Barn",
+      "Smoot",
+      "Morgen",
+      "Stere"
+    ],
+    "answer": "Smoot"
+  },
+  {
+    "id": "general-4028",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What unit of risk represents a one-in-a-million probability of death?",
+    "options": [
+      "Microsievert",
+      "Microlife",
+      "Becquerel",
+      "Micromort"
+    ],
+    "answer": "Micromort"
+  },
+  {
+    "id": "general-4029",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What unit of measurement is used to describe the volume transport of ocean currents?",
+    "options": [
+      "Dobson",
+      "Langley",
+      "Sverdrup",
+      "Svedberg"
+    ],
+    "answer": "Sverdrup"
+  },
+  {
+    "id": "general-4030",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What obsolete unit of power, roughly equal to 250 watts, was defined as a fraction of a horsepower?",
+    "options": [
+      "Pony power",
+      "Ox power",
+      "Mule power",
+      "Donkey power"
+    ],
+    "answer": "Donkey power"
+  },
+  {
+    "id": "general-4031",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What unit of volume for stacked firewood is equal to exactly one cubic meter?",
+    "options": [
+      "Cord",
+      "Fathom",
+      "Stere",
+      "Morgen"
+    ],
+    "answer": "Stere"
+  },
+  {
+    "id": "general-4032",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What Dutch and South African unit of land area is roughly equivalent to 0.856 hectares?",
+    "options": [
+      "Bunder",
+      "Rood",
+      "Perch",
+      "Morgen"
+    ],
+    "answer": "Morgen"
+  },
+  {
+    "id": "general-4033",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What unit of absorbed radiation dose is represented by the symbol 'Gy'?",
+    "options": [
+      "Gray",
+      "Sievert",
+      "Becquerel",
+      "Curie"
+    ],
+    "answer": "Gray"
+  },
+  {
+    "id": "general-4034",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What unit of dose equivalent, representing the biological effect of radiation, is represented by 'Sv'?",
+    "options": [
+      "Roentgen",
+      "Rutherford",
+      "Sievert",
+      "Gray"
+    ],
+    "answer": "Sievert"
+  },
+  {
+    "id": "general-4035",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How many pounds are in a US 'short ton'?",
+    "options": [
+      "1000 pounds",
+      "2240 pounds",
+      "2000 pounds",
+      "2400 pounds"
+    ],
+    "answer": "2000 pounds"
+  },
+  {
+    "id": "general-4036",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "How many pounds are in a British 'long ton'?",
+    "options": [
+      "2000 pounds",
+      "1000 pounds",
+      "2400 pounds",
+      "2240 pounds"
+    ],
+    "answer": "2240 pounds"
+  },
+  {
+    "id": "general-4037",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In the United States, how many pounds make up a hundredweight (cwt)?",
+    "options": [
+      "100 pounds",
+      "112 pounds",
+      "120 pounds",
+      "80 pounds"
+    ],
+    "answer": "100 pounds"
+  },
+  {
+    "id": "general-4038",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In the United Kingdom, how many pounds make up a hundredweight (cwt)?",
+    "options": [
+      "80 pounds",
+      "100 pounds",
+      "120 pounds",
+      "112 pounds"
+    ],
+    "answer": "112 pounds"
+  },
+  {
+    "id": "general-4039",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How many feet are in a statute mile?",
+    "options": [
+      "5000 feet",
+      "6080 feet",
+      "5280 feet",
+      "6000 feet"
+    ],
+    "answer": "5280 feet"
+  },
+  {
+    "id": "general-4040",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How many inches are in a 'hand', a unit commonly used to measure horse height?",
+    "options": [
+      "6 inches",
+      "5 inches",
+      "3 inches",
+      "4 inches"
+    ],
+    "answer": "4 inches"
+  },
+  {
+    "id": "general-4041",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "How many pecks are in a bushel?",
+    "options": [
+      "2 pecks",
+      "8 pecks",
+      "6 pecks",
+      "4 pecks"
+    ],
+    "answer": "4 pecks"
+  },
+  {
+    "id": "general-4042",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How many standard 750ml bottles of wine are in a Magnum?",
+    "options": [
+      "3 bottles",
+      "4 bottles",
+      "6 bottles",
+      "2 bottles"
+    ],
+    "answer": "2 bottles"
+  },
+  {
+    "id": "general-4043",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "How many standard bottles of wine are in a Jeroboam?",
+    "options": [
+      "6 bottles",
+      "8 bottles",
+      "2 bottles",
+      "4 bottles"
+    ],
+    "answer": "4 bottles"
+  },
+  {
+    "id": "general-4044",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "How many standard bottles of wine are in a Rehoboam?",
+    "options": [
+      "8 bottles",
+      "4 bottles",
+      "12 bottles",
+      "6 bottles"
+    ],
+    "answer": "6 bottles"
+  },
+  {
+    "id": "general-4045",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "How many standard bottles of wine are in a Methuselah?",
+    "options": [
+      "6 bottles",
+      "12 bottles",
+      "16 bottles",
+      "8 bottles"
+    ],
+    "answer": "8 bottles"
+  },
+  {
+    "id": "general-4046",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "How many standard bottles of wine are in a Salmanazar?",
+    "options": [
+      "8 bottles",
+      "16 bottles",
+      "20 bottles",
+      "12 bottles"
+    ],
+    "answer": "12 bottles"
+  },
+  {
+    "id": "general-4047",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "How many standard bottles of wine are in a Balthazar?",
+    "options": [
+      "12 bottles",
+      "20 bottles",
+      "24 bottles",
+      "16 bottles"
+    ],
+    "answer": "16 bottles"
+  },
+  {
+    "id": "general-4048",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "How many standard bottles of wine are in a Nebuchadnezzar?",
+    "options": [
+      "16 bottles",
+      "24 bottles",
+      "12 bottles",
+      "20 bottles"
+    ],
+    "answer": "20 bottles"
+  },
+  {
+    "id": "general-4049",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "How many standard bottles of wine are in a Melchior?",
+    "options": [
+      "20 bottles",
+      "30 bottles",
+      "16 bottles",
+      "24 bottles"
+    ],
+    "answer": "24 bottles"
+  },
+  {
+    "id": "general-4050",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "How many imperial gallons are in a 'hogshead'?",
+    "options": [
+      "54 gallons",
+      "31.5 gallons",
+      "100 gallons",
+      "63 gallons"
+    ],
+    "answer": "63 gallons"
+  },
+  {
+    "id": "general-4051",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "How many imperial gallons are in a 'firkin'?",
+    "options": [
+      "18 gallons",
+      "4.5 gallons",
+      "10 gallons",
+      "9 gallons"
+    ],
+    "answer": "9 gallons"
+  },
+  {
+    "id": "general-4052",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "How many grains are in a troy pennyweight?",
+    "options": [
+      "20 grains",
+      "480 grains",
+      "12 grains",
+      "24 grains"
+    ],
+    "answer": "24 grains"
+  },
+  {
+    "id": "general-4053",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "How many grains are in a troy ounce?",
+    "options": [
+      "437.5 grains",
+      "7000 grains",
+      "360 grains",
+      "480 grains"
+    ],
+    "answer": "480 grains"
+  },
+  {
+    "id": "general-4054",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "How many troy ounces are in a troy pound?",
+    "options": [
+      "16 troy ounces",
+      "14 troy ounces",
+      "20 troy ounces",
+      "12 troy ounces"
+    ],
+    "answer": "12 troy ounces"
+  },
+  {
+    "id": "general-4055",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "How many milligrams are in a metric carat, used for weighing gemstones?",
+    "options": [
+      "100 milligrams",
+      "250 milligrams",
+      "500 milligrams",
+      "200 milligrams"
+    ],
+    "answer": "200 milligrams"
+  },
+  {
+    "id": "general-4056",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In gold purity, what percentage of pure gold is represented by 24 carats?",
+    "options": [
+      "99.9%",
+      "96.5%",
+      "75%",
+      "100%"
+    ],
+    "answer": "100%"
+  },
+  {
+    "id": "general-4057",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the traditional unit of volume for spirits, equivalent to 1/4 of a gill?",
+    "options": [
+      "Jigger",
+      "Shot",
+      "Snifter",
+      "Pony"
+    ],
+    "answer": "Pony"
+  },
+  {
+    "id": "general-4058",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What culinary measurement is roughly equivalent to 1/8 of a teaspoon?",
+    "options": [
+      "Pinch",
+      "Smidgen",
+      "Drop",
+      "Dash"
+    ],
+    "answer": "Dash"
+  },
+  {
+    "id": "general-4059",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What culinary measurement is roughly equivalent to 1/16 of a teaspoon?",
+    "options": [
+      "Dash",
+      "Smidgen",
+      "Drop",
+      "Pinch"
+    ],
+    "answer": "Pinch"
+  },
+  {
+    "id": "general-4060",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is absolute zero in degrees Celsius?",
+    "options": [
+      "-459.67 degrees",
+      "-200 degrees",
+      "-300 degrees",
+      "-273.15 degrees"
+    ],
+    "answer": "-273.15 degrees"
+  },
+  {
+    "id": "general-4061",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What absolute temperature scale uses Fahrenheit degrees?",
+    "options": [
+      "Kelvin scale",
+      "Celsius scale",
+      "Rankine scale",
+      "Réaumur scale"
+    ],
+    "answer": "Rankine scale"
+  },
+  {
+    "id": "general-4062",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "Who is the Celsius temperature scale named after?",
+    "options": [
+      "William Celsius",
+      "Carl Celsius",
+      "Anders Celsius",
+      "Louis Celsius"
+    ],
+    "answer": "Anders Celsius"
+  },
+  {
+    "id": "general-4063",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Who is the Fahrenheit temperature scale named after?",
+    "options": [
+      "Gabriel Fahrenheit",
+      "Daniel Fahrenheit",
+      "David Fahrenheit",
+      "Daniel Gabriel Fahrenheit"
+    ],
+    "answer": "Daniel Gabriel Fahrenheit"
+  },
+  {
+    "id": "general-4064",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "Who is the Kelvin scale named after?",
+    "options": [
+      "Lord William Kelvin",
+      "John Kelvin",
+      "Thomas Kelvin",
+      "William Thomson, 1st Baron Kelvin"
+    ],
+    "answer": "William Thomson, 1st Baron Kelvin"
+  },
+  {
+    "id": "general-4065",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What unit of pressure is defined as exactly 1/760 of a standard atmosphere?",
+    "options": [
+      "Bar",
+      "Torr",
+      "Pascal",
+      "PSI"
+    ],
+    "answer": "Torr"
+  },
+  {
+    "id": "general-4066",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What unit of pressure is equal to 100,000 pascals?",
+    "options": [
+      "Atmosphere",
+      "Millibar",
+      "Bar",
+      "Torr"
+    ],
+    "answer": "Bar"
+  },
+  {
+    "id": "general-4067",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "How many pascals are in one standard atmosphere?",
+    "options": [
+      "100,000 pascals",
+      "14.7 pascals",
+      "760 pascals",
+      "101,325 pascals"
+    ],
+    "answer": "101,325 pascals"
+  },
+  {
+    "id": "general-4068",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What scale of temperature, named after a French astronomer, sets the freezing point of water at 0 and boiling at 80?",
+    "options": [
+      "Delisle scale",
+      "Rømer scale",
+      "Newton scale",
+      "Réaumur scale"
+    ],
+    "answer": "Réaumur scale"
+  },
+  {
+    "id": "general-4069",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the typographical symbol '§' called?",
+    "options": [
+      "Silcrow",
+      "Paragraph mark",
+      "Pilcrow",
+      "Section sign"
+    ],
+    "answer": "Section sign"
+  },
+  {
+    "id": "general-4070",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the typographical symbol †, a single cross-like mark used for footnotes, commonly called?",
+    "options": [
+      "Obelisk",
+      "Cross",
+      "Asterisk",
+      "Dagger"
+    ],
+    "answer": "Dagger"
+  },
+  {
+    "id": "general-4071",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the typographical symbol ‡, a double cross-like mark used for a second footnote, commonly called?",
+    "options": [
+      "Diesis",
+      "Double cross",
+      "Double asterisk",
+      "Double dagger"
+    ],
+    "answer": "Double dagger"
+  },
+  {
+    "id": "general-4072",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the typographical copyright symbol © called?",
+    "options": [
+      "Copyleft",
+      "Trademark",
+      "Registered mark",
+      "Copyright symbol"
+    ],
+    "answer": "Copyright symbol"
+  },
+  {
+    "id": "general-4073",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the typographical registered trademark symbol ® called?",
+    "options": [
+      "Copyright symbol",
+      "Restricted mark",
+      "Patent symbol",
+      "Registered trademark symbol"
+    ],
+    "answer": "Registered trademark symbol"
+  },
+  {
+    "id": "general-4074",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the typographical trademark symbol ™ called?",
+    "options": [
+      "Trade mark",
+      "Copyright symbol",
+      "Trademark symbol",
+      "Service mark"
+    ],
+    "answer": "Trademark symbol"
+  },
+  {
+    "id": "general-4075",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the typographical service mark symbol ℠ called?",
+    "options": [
+      "Standard mark",
+      "Trademark",
+      "Service symbol",
+      "Service mark symbol"
+    ],
+    "answer": "Service mark symbol"
+  },
+  {
+    "id": "general-4076",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the typographical sound recording copyright symbol ℗ called?",
+    "options": [
+      "Phonogram symbol",
+      "Producer mark",
+      "Publishing mark",
+      "Sound recording copyright symbol"
+    ],
+    "answer": "Sound recording copyright symbol"
+  },
+  {
+    "id": "general-4077",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What typographical symbol, consisting of three asterisks arranged in a triangle, is used to indicate a section break?",
+    "options": [
+      "Dinkus",
+      "Section sign",
+      "Pilcrow",
+      "Asterism"
+    ],
+    "answer": "Asterism"
+  },
+  {
+    "id": "general-4078",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the typographical numero sign symbol № called?",
+    "options": [
+      "Hash mark",
+      "Pound sign",
+      "Numero sign",
+      "Octothorpe"
+    ],
+    "answer": "Numero sign"
+  },
+  {
+    "id": "general-4079",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In typography, what is a space equal to the width of the letter 'n' called?",
+    "options": [
+      "Em space",
+      "Hair space",
+      "Thin space",
+      "En space"
+    ],
+    "answer": "En space"
+  },
+  {
+    "id": "general-4080",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In typography, what is a space equal to the width of the letter 'm' called?",
+    "options": [
+      "En space",
+      "Quad space",
+      "Thick space",
+      "Em space"
+    ],
+    "answer": "Em space"
+  },
+  {
+    "id": "general-4081",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the narrowest typographical space, used for very fine adjustments?",
+    "options": [
+      "Thin space",
+      "Micro space",
+      "Pixel space",
+      "Hair space"
+    ],
+    "answer": "Hair space"
+  },
+  {
+    "id": "general-4082",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the slash character '/' formally called in typography?",
+    "options": [
+      "Virgule",
+      "Backslash",
+      "Fraction slash",
+      "Solidus"
+    ],
+    "answer": "Solidus"
+  },
+  {
+    "id": "general-4083",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the slash character used in fractions, such as 1/2, called?",
+    "options": [
+      "Solidus",
+      "Virgule",
+      "Division slash",
+      "Fraction slash"
+    ],
+    "answer": "Fraction slash"
+  },
+  {
+    "id": "general-4084",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the backslash symbol, written \\, called?",
+    "options": [
+      "Reverse solidus",
+      "Virgule",
+      "Backslant",
+      "Backslash"
+    ],
+    "answer": "Backslash"
+  },
+  {
+    "id": "general-4085",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the commercial minus sign symbol, written ⁒, called?",
+    "options": [
+      "Business dash",
+      "Trade hyphen",
+      "Commercial minus sign",
+      "Accounting minus"
+    ],
+    "answer": "Commercial minus sign"
+  },
+  {
+    "id": "general-4086",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the telephone sign symbol, written ℡, called?",
+    "options": [
+      "Telecom mark",
+      "Call symbol",
+      "Phone glyph",
+      "Telephone sign"
+    ],
+    "answer": "Telephone sign"
+  },
+  {
+    "id": "general-4087",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the degree Celsius symbol, written ℃, called?",
+    "options": [
+      "Centigrade symbol",
+      "Celsius mark",
+      "Temperature degree",
+      "Degree Celsius"
+    ],
+    "answer": "Degree Celsius"
+  },
+  {
+    "id": "general-4088",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the degree Fahrenheit symbol, written ℉, called?",
+    "options": [
+      "Fahrenheit mark",
+      "Thermometer symbol",
+      "Degree Fahrenheit",
+      "Degree F"
+    ],
+    "answer": "Degree Fahrenheit"
+  },
+  {
+    "id": "general-4089",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the term for a mishearing or misinterpretation of a phrase that gives it a new meaning, like 'excuse me while I kiss the sky'?",
+    "options": [
+      "Eggcorn",
+      "Malaphor",
+      "Spoonerism",
+      "Mondegreen"
+    ],
+    "answer": "Mondegreen"
+  },
+  {
+    "id": "general-4090",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the term for a phrase that is misheard and spelled in a way that makes sense in context, like 'old wise tale' for 'old wives' tale'?",
+    "options": [
+      "Mondegreen",
+      "Catachresis",
+      "Malapropism",
+      "Eggcorn"
+    ],
+    "answer": "Eggcorn"
+  },
+  {
+    "id": "general-4091",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the term for an error in which two idioms are blended, like 'we'll burn that bridge when we come to it'?",
+    "options": [
+      "Mondegreen",
+      "Mixed metaphor",
+      "Idiom blend",
+      "Malaphor"
+    ],
+    "answer": "Malaphor"
+  },
+  {
+    "id": "general-4092",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the term for a word that contains a smaller synonym, like 'masculine' containing 'male'?",
+    "options": [
+      "Pocket word",
+      "Nested word",
+      "Joey word",
+      "Kangaroo word"
+    ],
+    "answer": "Kangaroo word"
+  },
+  {
+    "id": "general-4093",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the term for a word or phrase composed of two identical parts, like 'murmur' or 'tartar'?",
+    "options": [
+      "Reduplication",
+      "Echo word",
+      "Palindrome",
+      "Tautonym"
+    ],
+    "answer": "Tautonym"
+  },
+  {
+    "id": "general-4094",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the term for a custom, phrase, or pronunciation that distinguishes one group of people from another?",
+    "options": [
+      "Catchword",
+      "Watchword",
+      "Shibboleth",
+      "Password"
+    ],
+    "answer": "Shibboleth"
+  },
+  {
+    "id": "general-4095",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the term for a grammatical mistake or a breach of etiquette?",
+    "options": [
+      "Catachresis",
+      "Pleonasm",
+      "Barbarism",
+      "Solecism"
+    ],
+    "answer": "Solecism"
+  },
+  {
+    "id": "general-4096",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the figure of speech that uses understatement to affirm something by negating its opposite, such as 'not bad'?",
+    "options": [
+      "Meiosis",
+      "Hyperbole",
+      "Paralipsis",
+      "Litotes"
+    ],
+    "answer": "Litotes"
+  },
+  {
+    "id": "general-4097",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the figure of speech that reverses grammatical structures, like 'Ask not what your country can do for you'?",
+    "options": [
+      "Antimetabole",
+      "Zeugma",
+      "Anadiplosis",
+      "Chiasmus"
+    ],
+    "answer": "Chiasmus"
+  },
+  {
+    "id": "general-4098",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the figure of speech where a single word applies to two others in different senses, like 'She broke his car and his heart'?",
+    "options": [
+      "Syllepsis",
+      "Hendiadys",
+      "Catachresis",
+      "Zeugma"
+    ],
+    "answer": "Zeugma"
+  },
+  {
+    "id": "general-4099",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the term for the incorrect use of a word in place of another, such as 'moot point' for 'mute point'?",
+    "options": [
+      "Malapropism",
+      "Eggcorn",
+      "Mixed metaphor",
+      "Catachresis"
+    ],
+    "answer": "Catachresis"
+  },
+  {
+    "id": "general-4100",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the linguistic term for the alteration of foreign words to fit the phonology and sound patterns of a native language?",
+    "options": [
+      "Anglicization",
+      "Loanword",
+      "Calque",
+      "Hobson-Jobson"
+    ],
+    "answer": "Hobson-Jobson"
+  },
+  {
+    "id": "general-4101",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the linguistic term for the loss of one or more sounds from the beginning of a word, like 'squire' from 'esquire'?",
+    "options": [
+      "Apocope",
+      "Syncope",
+      "Elision",
+      "Apheresis"
+    ],
+    "answer": "Apheresis"
+  },
+  {
+    "id": "general-4102",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the linguistic term for the loss of one or more sounds from the end of a word, like 'ad' from 'advertisement'?",
+    "options": [
+      "Apheresis",
+      "Syncope",
+      "Epenthesis",
+      "Apocope"
+    ],
+    "answer": "Apocope"
+  },
+  {
+    "id": "general-4103",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the linguistic term for the loss of sounds from the middle of a word, like 'ne'er' from 'never'?",
+    "options": [
+      "Apheresis",
+      "Apocope",
+      "Syncope",
+      "Epenthesis"
+    ],
+    "answer": "Syncope"
+  },
+  {
+    "id": "general-4104",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the term for two or more letters joined together as a single character, such as 'æ'?",
+    "options": [
+      "Digraph",
+      "Monogram",
+      "Diphthong",
+      "Ligature"
+    ],
+    "answer": "Ligature"
+  },
+  {
+    "id": "general-4105",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the term for a consonant articulated with the back of the tongue against the soft palate, like 'k' or 'g'?",
+    "options": [
+      "Alveolar",
+      "Dental",
+      "Bilabial",
+      "Velar"
+    ],
+    "answer": "Velar"
+  },
+  {
+    "id": "general-4106",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the term for a consonant articulated with the tongue against the gum ridge behind the upper teeth, like 't' or 'd'?",
+    "options": [
+      "Velar",
+      "Palatal",
+      "Labiodental",
+      "Alveolar"
+    ],
+    "answer": "Alveolar"
+  },
+  {
+    "id": "general-4107",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In a standard game of Scrabble, how many 'E' tiles are included?",
+    "options": [
+      "10",
+      "8",
+      "15",
+      "12"
+    ],
+    "answer": "12"
+  },
+  {
+    "id": "general-4108",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In a standard game of Scrabble, how many 'A' tiles are included?",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "9"
+    ],
+    "answer": "9"
+  },
+  {
+    "id": "general-4109",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In a standard game of Scrabble, how many 'O' tiles are included?",
+    "options": [
+      "6",
+      "10",
+      "12",
+      "8"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": "general-4110",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In a standard game of Scrabble, how many 'G' tiles are included?",
+    "options": [
+      "2",
+      "4",
+      "5",
+      "3"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": "general-4111",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In a standard game of Scrabble, how many 'L' tiles are included?",
+    "options": [
+      "3",
+      "6",
+      "2",
+      "4"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": "general-4112",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In algebraic chess notation, what letter represents the Knight?",
+    "options": [
+      "K",
+      "Kn",
+      "T",
+      "N"
+    ],
+    "answer": "N"
+  },
+  {
+    "id": "general-4113",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What symbol indicates a check in algebraic chess notation?",
+    "options": [
+      "#",
+      "x",
+      "++",
+      "+"
+    ],
+    "answer": "+"
+  },
+  {
+    "id": "general-4114",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In algebraic chess notation, what symbol represents checkmate?",
+    "options": [
+      "+",
+      "x",
+      "!",
+      "#"
+    ],
+    "answer": "#"
+  },
+  {
+    "id": "general-4115",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In algebraic chess notation, what does the symbol 'O-O' represent?",
+    "options": [
+      "Queenside castling",
+      "Knight fork",
+      "En passant",
+      "Kingside castling"
+    ],
+    "answer": "Kingside castling"
+  },
+  {
+    "id": "general-4116",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In algebraic chess notation, what does the symbol 'O-O-O' represent?",
+    "options": [
+      "Kingside castling",
+      "Rook lift",
+      "Triple attack",
+      "Queenside castling"
+    ],
+    "answer": "Queenside castling"
+  },
+  {
+    "id": "general-4117",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the term for a draw in chess where the player to move has no legal moves and is not in check?",
+    "options": [
+      "Checkmate",
+      "Zugzwang",
+      "Perpetual check",
+      "Stalemate"
+    ],
+    "answer": "Stalemate"
+  },
+  {
+    "id": "general-4118",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What does the term 'checkmate' literally translate to from Persian?",
+    "options": [
+      "The king is dead",
+      "The king is trapped",
+      "The king has fallen",
+      "The king is helpless"
+    ],
+    "answer": "The king is helpless"
+  },
+  {
+    "id": "general-4119",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "How many possible first moves does White have in chess?",
+    "options": [
+      "16",
+      "18",
+      "24",
+      "20"
+    ],
+    "answer": "20"
+  },
+  {
+    "id": "general-4120",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In Monopoly, how much money does each player start with in the standard US version?",
+    "options": [
+      "$1000",
+      "$2000",
+      "$1200",
+      "$1500"
+    ],
+    "answer": "$1500"
+  },
+  {
+    "id": "general-4121",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In Monopoly, what are the two utility spaces?",
+    "options": [
+      "Gas Company and Phone Company",
+      "Power Plant and Water Works",
+      "Electric Company and Sewer",
+      "Electric Company and Water Works"
+    ],
+    "answer": "Electric Company and Water Works"
+  },
+  {
+    "id": "general-4122",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "According to probability, what is the most landed-on property in Monopoly?",
+    "options": [
+      "Boardwalk",
+      "New York Avenue",
+      "B&O Railroad",
+      "Illinois Avenue"
+    ],
+    "answer": "Illinois Avenue"
+  },
+  {
+    "id": "general-4123",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In Monopoly, how much does it cost to buy a hotel for the Boardwalk property?",
+    "options": [
+      "$100",
+      "$150",
+      "$250",
+      "$200"
+    ],
+    "answer": "$200"
+  },
+  {
+    "id": "general-4124",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "How many Chance spaces are on a standard Monopoly board?",
+    "options": [
+      "2",
+      "4",
+      "5",
+      "3"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": "general-4125",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "In Yahtzee, what is the maximum possible score in a single game?",
+    "options": [
+      "375",
+      "1200",
+      "2000",
+      "1575"
+    ],
+    "answer": "1575"
+  },
+  {
+    "id": "general-4126",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "How many tiles are in a standard double-twelve domino set?",
+    "options": [
+      "55",
+      "136",
+      "78",
+      "91"
+    ],
+    "answer": "91"
+  },
+  {
+    "id": "general-4127",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "How many tiles are in a standard double-fifteen domino set?",
+    "options": [
+      "91",
+      "190",
+      "120",
+      "136"
+    ],
+    "answer": "136"
+  },
+  {
+    "id": "general-4128",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "How many tiles are in a standard double-eighteen domino set?",
+    "options": [
+      "136",
+      "210",
+      "171",
+      "190"
+    ],
+    "answer": "190"
+  },
+  {
+    "id": "general-4129",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In standard Poker, what is the term for a straight consisting of A-2-3-4-5?",
+    "options": [
+      "Bicycle",
+      "Small straight",
+      "Baby straight",
+      "Wheel"
+    ],
+    "answer": "Wheel"
+  },
+  {
+    "id": "general-4130",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In standard Poker, what is the term for the first three community cards dealt face-up?",
+    "options": [
+      "Turn",
+      "River",
+      "Board",
+      "Flop"
+    ],
+    "answer": "Flop"
+  },
+  {
+    "id": "general-4131",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In standard Poker, what is the term for the fourth community card dealt face-up?",
+    "options": [
+      "Flop",
+      "River",
+      "Fifth street",
+      "Turn"
+    ],
+    "answer": "Turn"
+  },
+  {
+    "id": "general-4132",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In standard Poker, what is the term for the fifth and final community card?",
+    "options": [
+      "Turn",
+      "Flop",
+      "Showdown",
+      "River"
+    ],
+    "answer": "River"
+  },
+  {
+    "id": "general-4133",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "In Blackjack, what is the goal number to get as close to without going over?",
+    "options": [
+      "20",
+      "31",
+      "15",
+      "21"
+    ],
+    "answer": "21"
+  },
+  {
+    "id": "general-4134",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "How many numbers are on a standard European roulette wheel?",
+    "options": [
+      "36",
+      "38",
+      "40",
+      "37"
+    ],
+    "answer": "37"
+  },
+  {
+    "id": "general-4135",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What color is the zero (0) pocket on a European roulette wheel?",
+    "options": [
+      "Red",
+      "Black",
+      "Blue",
+      "Green"
+    ],
+    "answer": "Green"
+  },
+  {
+    "id": "general-4136",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In the card game Bridge, what is the highest-ranking suit in the bidding phase?",
+    "options": [
+      "Clubs",
+      "Hearts",
+      "Diamonds",
+      "Spades"
+    ],
+    "answer": "Spades"
+  },
+  {
+    "id": "general-4137",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In the card game Bridge, how many high-card points is an Ace worth?",
+    "options": [
+      "3",
+      "2",
+      "1",
+      "4"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": "general-4138",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In the card game Bridge, how many high-card points is a King worth?",
+    "options": [
+      "4",
+      "2",
+      "1",
+      "3"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": "general-4139",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "In the card game Bridge, how many high-card points is a Queen worth?",
+    "options": [
+      "1",
+      "3",
+      "4",
+      "2"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": "general-4140",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the Scottish and Northern English term for counter-clockwise, meaning contrary to the sun's course?",
+    "options": [
+      "Deasil",
+      "Sunwise",
+      "Anticlockwise",
+      "Widdershins"
+    ],
+    "answer": "Widdershins"
+  },
+  {
+    "id": "general-4141",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the term for clockwise, meaning in the direction of the sun's apparent course?",
+    "options": [
+      "Widdershins",
+      "Sunward",
+      "Dextral",
+      "Deasil"
+    ],
+    "answer": "Deasil"
+  },
+  {
+    "id": "general-4142",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the term for an arrangement of five objects, with four at the corners of a square and one in the center?",
+    "options": [
+      "Cinquefoil",
+      "Pentagram",
+      "Quincunx",
+      "Pentagon"
+    ],
+    "answer": "Quincunx"
+  },
+  {
+    "id": "general-4143",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What archaic or literary term refers to the north or northern regions?",
+    "options": [
+      "Meridian",
+      "Occident",
+      "Orient",
+      "Septentrion"
+    ],
+    "answer": "Septentrion"
+  },
+  {
+    "id": "general-4144",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the term for a shrewd, unprincipled person, especially a politician?",
+    "options": [
+      "Carpetbagger",
+      "Poltroon",
+      "Mugwump",
+      "Snollygoster"
+    ],
+    "answer": "Snollygoster"
+  },
+  {
+    "id": "general-4145",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the term for a frivolous, flighty, or excessively talkative person?",
+    "options": [
+      "Gossip",
+      "Prattle",
+      "Chatterbox",
+      "Flibbertigibbet"
+    ],
+    "answer": "Flibbertigibbet"
+  },
+  {
+    "id": "general-4146",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the term for language that is meaningless or made unintelligible by excessive use of abstruse technical terms?",
+    "options": [
+      "Mumbo jumbo",
+      "Jargon",
+      "Bafflegab",
+      "Gobbledygook"
+    ],
+    "answer": "Gobbledygook"
+  },
+  {
+    "id": "general-4147",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the British slang term for nonsense or rubbish?",
+    "options": [
+      "Balderdash",
+      "Poppycock",
+      "Tommyrot",
+      "Codswallop"
+    ],
+    "answer": "Codswallop"
+  },
+  {
+    "id": "general-4148",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the term for a fuss or commotion?",
+    "options": [
+      "Brouhaha",
+      "Hullabaloo",
+      "Donnybrook",
+      "Kerfuffle"
+    ],
+    "answer": "Kerfuffle"
+  },
+  {
+    "id": "general-4149",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the term for spending time aimlessly or dawdling?",
+    "options": [
+      "Dillydally",
+      "Shilly-shally",
+      "Loiter",
+      "Lollygag"
+    ],
+    "answer": "Lollygag"
+  },
+  {
+    "id": "general-4150",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What type of cookie is characterized by being rolled in cinnamon sugar before baking?",
+    "options": [
+      "Gingersnap",
+      "Biscotti",
+      "Macaroon",
+      "Snickerdoodle"
+    ],
+    "answer": "Snickerdoodle"
+  },
+  {
+    "id": "general-4151",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the common name for the larva of the antlion, known for digging conical pits in sand?",
+    "options": [
+      "Sand trap spider",
+      "Ant bear",
+      "Hellbug",
+      "Doodlebug"
+    ],
+    "answer": "Doodlebug"
+  },
+  {
+    "id": "general-4152",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the term for a deceptive or dipping movement, often used in football?",
+    "options": [
+      "Juke",
+      "Stutter step",
+      "Zigzag",
+      "Dipsy-doodle"
+    ],
+    "answer": "Dipsy-doodle"
+  },
+  {
+    "id": "general-4153",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the name of the unit of measurement used in printing to specify the size of fonts, equal to 1/72 of an inch?",
+    "options": [
+      "Pica",
+      "Pixel",
+      "Em",
+      "Point"
+    ],
+    "answer": "Point"
+  },
+  {
+    "id": "general-4154",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the printing unit equal to 12 points, or 1/6 of an inch?",
+    "options": [
+      "Point",
+      "Em",
+      "Agate",
+      "Pica"
+    ],
+    "answer": "Pica"
+  },
+  {
+    "id": "general-4155",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the unit of measurement for the thickness of paper, often measured in mils or points?",
+    "options": [
+      "Weight",
+      "GSM",
+      "Ream",
+      "Caliper"
+    ],
+    "answer": "Caliper"
+  },
+  {
+    "id": "general-4156",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the metric unit of mass equal to 1000 kilograms?",
+    "options": [
+      "Metric pound",
+      "Megaton",
+      "Kiloton",
+      "Tonne"
+    ],
+    "answer": "Tonne"
+  },
+  {
+    "id": "general-4157",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the SI base unit of amount of substance?",
+    "options": [
+      "Gram",
+      "Molecule",
+      "Atom",
+      "Mole"
+    ],
+    "answer": "Mole"
+  },
+  {
+    "id": "general-4158",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the SI base unit of thermodynamic temperature?",
+    "options": [
+      "Celsius",
+      "Fahrenheit",
+      "Rankine",
+      "Kelvin"
+    ],
+    "answer": "Kelvin"
+  },
+  {
+    "id": "general-4159",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the unit of magnetic flux, represented by the symbol 'Wb'?",
+    "options": [
+      "Tesla",
+      "Gauss",
+      "Maxwell",
+      "Weber"
+    ],
+    "answer": "Weber"
+  },
+  {
+    "id": "general-4160",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the cgs unit of magnetic flux density, equivalent to 10^-4 tesla?",
+    "options": [
+      "Maxwell",
+      "Gauss",
+      "Oersted",
+      "Weber"
+    ],
+    "answer": "Gauss"
+  },
+  {
+    "id": "general-4161",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the unit of illuminance in the SI system, equal to one lumen per square meter?",
+    "options": [
+      "Foot-candle",
+      "Nit",
+      "Lumen",
+      "Lux"
+    ],
+    "answer": "Lux"
+  },
+  {
+    "id": "general-4162",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the unit of luminous flux, representing the total quantity of light emitted by a source?",
+    "options": [
+      "Lux",
+      "Candela",
+      "Foot-lambert",
+      "Lumen"
+    ],
+    "answer": "Lumen"
+  },
+  {
+    "id": "general-4163",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the unit of catalytic activity in the SI system, representing one mole of substrate converted per second?",
+    "options": [
+      "Enzyme unit",
+      "Mole",
+      "Molality",
+      "Katal"
+    ],
+    "answer": "Katal"
+  },
+  {
+    "id": "general-4164",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the unit of radioactivity, equivalent to one decay per second?",
+    "options": [
+      "Curie",
+      "Gray",
+      "Sievert",
+      "Becquerel"
+    ],
+    "answer": "Becquerel"
+  },
+  {
+    "id": "general-4165",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the non-SI unit of radioactivity, equivalent to 3.7 × 10^10 decays per second?",
+    "options": [
+      "Becquerel",
+      "Rutherford",
+      "Gray",
+      "Curie"
+    ],
+    "answer": "Curie"
+  },
+  {
+    "id": "general-4166",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What obsolete unit of radioactivity is defined as one million decays per second?",
+    "options": [
+      "Becquerel",
+      "Curie",
+      "Gray",
+      "Rutherford"
+    ],
+    "answer": "Rutherford"
+  },
+  {
+    "id": "general-4167",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the unit of electrical resistance, represented by the Greek letter omega (Ω)?",
+    "options": [
+      "Volt",
+      "Ampere",
+      "Siemens",
+      "Ohm"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": "general-4168",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the unit of inductance, named after an American scientist?",
+    "options": [
+      "Farad",
+      "Tesla",
+      "Weber",
+      "Henry"
+    ],
+    "answer": "Henry"
+  },
+  {
+    "id": "general-4169",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the unit of electric potential difference, representing one joule per coulomb?",
+    "options": [
+      "Watt",
+      "Ampere",
+      "Ohm",
+      "Volt"
+    ],
+    "answer": "Volt"
+  },
+  {
+    "id": "general-4170",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the unit of electrical capacitance, equal to one coulomb per volt?",
+    "options": [
+      "Henry",
+      "Ohm",
+      "Farad",
+      "Siemens"
+    ],
+    "answer": "Farad"
+  },
+  {
+    "id": "general-4171",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What unit of distance is defined as exactly 1852 meters?",
+    "options": [
+      "Statute mile",
+      "League",
+      "Furlong",
+      "Nautical mile"
+    ],
+    "answer": "Nautical mile"
+  },
+  {
+    "id": "general-4172",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What unit of astronomical distance is based on the average distance from Earth to the Sun?",
+    "options": [
+      "Light-year",
+      "Parsec",
+      "Megaparsec",
+      "Astronomical unit"
+    ],
+    "answer": "Astronomical unit"
+  },
+  {
+    "id": "general-4173",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What unit of distance is equal to exactly 1,000 meters?",
+    "options": [
+      "Hectometer",
+      "Decameter",
+      "Megameter",
+      "Kilometer"
+    ],
+    "answer": "Kilometer"
+  },
+  {
+    "id": "general-4174",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the unit of time equal to 10^-15 seconds?",
+    "options": [
+      "Picosecond",
+      "Nanosecond",
+      "Attosecond",
+      "Femtosecond"
+    ],
+    "answer": "Femtosecond"
+  },
+  {
+    "id": "general-4175",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the unit of time equal to 10^-18 seconds?",
+    "options": [
+      "Femtosecond",
+      "Zeptosecond",
+      "Picosecond",
+      "Attosecond"
+    ],
+    "answer": "Attosecond"
+  },
+  {
+    "id": "general-4176",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the SI prefix for 10^24?",
+    "options": [
+      "Zetta",
+      "Exa",
+      "Peta",
+      "Yotta"
+    ],
+    "answer": "Yotta"
+  },
+  {
+    "id": "general-4177",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the SI prefix for 10^21?",
+    "options": [
+      "Yotta",
+      "Exa",
+      "Tera",
+      "Zetta"
+    ],
+    "answer": "Zetta"
+  },
+  {
+    "id": "general-4178",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the SI prefix for 10^18?",
+    "options": [
+      "Peta",
+      "Zetta",
+      "Giga",
+      "Exa"
+    ],
+    "answer": "Exa"
+  },
+  {
+    "id": "general-4179",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the SI prefix for 10^15?",
+    "options": [
+      "Tera",
+      "Exa",
+      "Mega",
+      "Peta"
+    ],
+    "answer": "Peta"
+  },
+  {
+    "id": "general-4180",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the SI prefix for 10^12?",
+    "options": [
+      "Giga",
+      "Peta",
+      "Micro",
+      "Tera"
+    ],
+    "answer": "Tera"
+  },
+  {
+    "id": "general-4181",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the SI prefix for 10 raised to the power of negative 12?",
+    "options": [
+      "Nano",
+      "Femto",
+      "Micro",
+      "Pico"
+    ],
+    "answer": "Pico"
+  },
+  {
+    "id": "general-4182",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the SI prefix for 10 raised to the power of negative 15?",
+    "options": [
+      "Atto",
+      "Pico",
+      "Nano",
+      "Femto"
+    ],
+    "answer": "Femto"
+  },
+  {
+    "id": "general-4183",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the SI prefix for 10 raised to the power of negative 18?",
+    "options": [
+      "Zepto",
+      "Femto",
+      "Yocto",
+      "Atto"
+    ],
+    "answer": "Atto"
+  },
+  {
+    "id": "general-4184",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the SI prefix for 10 raised to the power of negative 21?",
+    "options": [
+      "Yocto",
+      "Atto",
+      "Zetta",
+      "Zepto"
+    ],
+    "answer": "Zepto"
+  },
+  {
+    "id": "general-4185",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the SI prefix for 10 raised to the power of negative 24?",
+    "options": [
+      "Zepto",
+      "Atto",
+      "Yotta",
+      "Yocto"
+    ],
+    "answer": "Yocto"
+  },
+  {
+    "id": "general-4186",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the name for a 10-sided polygon?",
+    "options": [
+      "Hexagon",
+      "Octagon",
+      "Dodecagon",
+      "Decagon"
+    ],
+    "answer": "Decagon"
+  },
+  {
+    "id": "general-4187",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the name for a 12-sided polygon?",
+    "options": [
+      "Decagon",
+      "Icosagon",
+      "Octagon",
+      "Dodecagon"
+    ],
+    "answer": "Dodecagon"
+  },
+  {
+    "id": "general-4188",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the name for a 20-sided polygon?",
+    "options": [
+      "Dodecagon",
+      "Decagon",
+      "Tetradecagon",
+      "Icosagon"
+    ],
+    "answer": "Icosagon"
+  },
+  {
+    "id": "general-4189",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the name for a polygon with 11 sides?",
+    "options": [
+      "Decagon",
+      "Dodecagon",
+      "Nonagon",
+      "Hendecagon"
+    ],
+    "answer": "Hendecagon"
+  },
+  {
+    "id": "general-4190",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the name for a polygon with 9 sides?",
+    "options": [
+      "Octagon",
+      "Decagon",
+      "Hendecagon",
+      "Nonagon"
+    ],
+    "answer": "Nonagon"
+  },
+  {
+    "id": "general-4191",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the name of the mathematical constant approximately equal to 2.71828?",
+    "options": [
+      "Pi",
+      "Golden ratio",
+      "Phi",
+      "Euler's number"
+    ],
+    "answer": "Euler's number"
+  },
+  {
+    "id": "general-4192",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the name of the mathematical constant, approximately equal to 1.61803, often found in art and architecture?",
+    "options": [
+      "Euler's number",
+      "Pi",
+      "Pythagoras' constant",
+      "Golden ratio"
+    ],
+    "answer": "Golden ratio"
+  },
+  {
+    "id": "general-4193",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "What is the term for a number that is equal to the sum of its proper divisors, like 6 or 28?",
+    "options": [
+      "Prime number",
+      "Amicable number",
+      "Triangular number",
+      "Perfect number"
+    ],
+    "answer": "Perfect number"
+  },
+  {
+    "id": "general-4194",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "What is the term for a pair of numbers where each is the sum of the proper divisors of the other?",
+    "options": [
+      "Perfect numbers",
+      "Twin primes",
+      "Friendly numbers",
+      "Amicable numbers"
+    ],
+    "answer": "Amicable numbers"
+  },
+  {
+    "id": "general-4195",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the term for a natural number greater than 1 that has no positive divisors other than 1 and itself?",
+    "options": [
+      "Composite number",
+      "Perfect number",
+      "Rational number",
+      "Prime number"
+    ],
+    "answer": "Prime number"
+  },
+  {
+    "id": "general-4196",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "What is the term for a number that can be formed by multiplying two smaller natural numbers?",
+    "options": [
+      "Prime number",
+      "Integer",
+      "Irrational number",
+      "Composite number"
+    ],
+    "answer": "Composite number"
   }
 ]
