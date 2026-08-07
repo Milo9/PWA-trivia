@@ -3969,11 +3969,11 @@
         "business-brands-777",
         "business-brands-778"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 5,
+      "notes": "5 issues found in another quirky/precise-trivia batch, all WebSearch-verified: (1) business-brands-578 cut as a duplicate of -725, both asking what the Mercedes three-pointed star represents (land/water/air vs land/sea/air) -- kept -725 since it carries the extra verified 1909 trademark date. (2) business-brands-727 fixed -- TOMS was founded in 2006, not 2012 as the question stated (confirmed via multiple sources including TOMS's own site). (3) business-brands-763 cut -- premise self-contradicted (credits 'Marquis Converse' with inventing plimsolls 'in the late 1800s' but Marquis Mills Converse actually founded the Converse Rubber Shoe Company in 1908, and initially made galoshes, not plimsolls specifically). (4) business-brands-774 cut -- couldn't verify the claimed Dave Thomas gravestone epitaph 'He fed everyone' in any source, the '300 commercials' figure looks low versus the commonly-cited 800+, and separately the option set duplicated the same real person as two distinct options (Colonel Sanders and Harland Sanders are the same individual). Verified via WebSearch and kept as-is: TOMS/Mycoskie one-for-one model, Chaco founder as a river/rafting guide, original PlayStation logo designer (Manabu Sakamoto), Mobley Hotel's 40 rooms, and Toys R Us's Geoffrey/Dr. G. Raffe mascot history. Remaining ~45 questions verified accurate on read-through."
     },
     {
       "chunkId": "business-brands-p1-013",
@@ -4030,11 +4030,11 @@
         "business-brands-857",
         "business-brands-858"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 2,
+      "notes": "2 issues found and cut in another date/detail-heavy batch (extensively WebSearch-verified given the precision-claim risk pattern): (1) business-brands-784 cut as a reversed-direction duplicate of business-brands-1046 -- both are the same Pepsi Blue launch/discontinuation fact (784 asks 'which soda', 1046 asks 'what soda sold 17M cases...pulled by May 2004'); kept 1046 for its more specific verified stats. (2) business-brands-829 cut -- claimed Canada Goose's original name 'Metro Sportswear' referred to 'Toronto transit uniforms 1957', but no source corroborates this; the company's actual 1957 output was wool vests/raincoats/snowmobile suits, and 'Metro' most plausibly just referenced Toronto's Metropolitan government era, not transit-uniform contracts -- looked like a fabricated specific detail. WebSearch-verified and kept as accurate: Mountain Dew 'Do the Dew' (1993), KFC 'finger lickin' good' origin story (Dave Harman/Ken Harbough, exact enough to match), Amazon Echo Look discontinuation (July 24 2020), BlackBerry PlayBook launch date/sales, and KitKat's 1958 TV debut of 'Have a break' (slogan itself written 1957, first used on air 1958). Remaining ~46 questions verified accurate on read-through."
     },
     {
       "chunkId": "business-brands-p1-014",
