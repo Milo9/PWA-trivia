@@ -299,19 +299,6 @@
     "answer": "Game of Thrones"
   },
   {
-    "id": "general-402",
-    "category": "film-tv",
-    "difficulty": "easy",
-    "question": "Which actor voices the character Woody in Pixar's 'Toy Story' franchise?",
-    "options": [
-      "Tim Allen",
-      "Tom Hanks",
-      "John Ratzenberger",
-      "Billy Crystal"
-    ],
-    "answer": "Tom Hanks"
-  },
-  {
     "id": "general-403",
     "category": "film-tv",
     "difficulty": "medium",
@@ -908,32 +895,6 @@
       "Shutter Island"
     ],
     "answer": "Titanic"
-  },
-  {
-    "id": "general-1171",
-    "category": "film-tv",
-    "difficulty": "easy",
-    "question": "Which actor voiced Woody in the 'Toy Story' franchise?",
-    "options": [
-      "Tom Hanks",
-      "Tim Allen",
-      "Billy Crystal",
-      "Robin Williams"
-    ],
-    "answer": "Tom Hanks"
-  },
-  {
-    "id": "general-1173",
-    "category": "film-tv",
-    "difficulty": "easy",
-    "question": "Which TV series follows chemistry teacher Walter White as he turns to manufacturing meth?",
-    "options": [
-      "Breaking Bad",
-      "Better Call Saul",
-      "The Wire",
-      "Ozark"
-    ],
-    "answer": "Breaking Bad"
   },
   {
     "id": "general-1174",
@@ -1573,19 +1534,6 @@
     "answer": "RMS Titanic"
   },
   {
-    "id": "general-2086",
-    "category": "film-tv",
-    "difficulty": "medium",
-    "question": "Which horror film features the fictional Overlook Hotel?",
-    "options": [
-      "The Shining",
-      "1408",
-      "Psycho",
-      "Hostel"
-    ],
-    "answer": "The Shining"
-  },
-  {
     "id": "general-2087",
     "category": "film-tv",
     "difficulty": "medium",
@@ -1623,19 +1571,6 @@
       "Djimon Hounsou"
     ],
     "answer": "Russell Crowe"
-  },
-  {
-    "id": "general-2252",
-    "category": "film-tv",
-    "difficulty": "easy",
-    "question": "Who directed the movie 'Jaws'?",
-    "options": [
-      "Steven Spielberg",
-      "George Lucas",
-      "Martin Scorsese",
-      "Francis Ford Coppola"
-    ],
-    "answer": "Steven Spielberg"
   },
   {
     "id": "general-2253",
@@ -1677,19 +1612,6 @@
     "answer": "The Lord of the Rings"
   },
   {
-    "id": "general-2259",
-    "category": "film-tv",
-    "difficulty": "medium",
-    "question": "Which movie features a hotel called the Overlook, haunted by dark forces?",
-    "options": [
-      "The Shining",
-      "Psycho",
-      "The Others",
-      "Poltergeist"
-    ],
-    "answer": "The Shining"
-  },
-  {
     "id": "general-2261",
     "category": "film-tv",
     "difficulty": "hard",
@@ -1714,19 +1636,6 @@
       "Tomb Raider"
     ],
     "answer": "Indiana Jones"
-  },
-  {
-    "id": "general-2296",
-    "category": "film-tv",
-    "difficulty": "medium",
-    "question": "Which director is known for films like 'Inception' and 'Interstellar'?",
-    "options": [
-      "Christopher Nolan",
-      "Denis Villeneuve",
-      "David Fincher",
-      "Ridley Scott"
-    ],
-    "answer": "Christopher Nolan"
   },
   {
     "id": "general-2297",
@@ -1807,19 +1716,6 @@
     "answer": "Casablanca"
   },
   {
-    "id": "general-2481",
-    "category": "film-tv",
-    "difficulty": "medium",
-    "question": "Who directed 'Schindler's List'?",
-    "options": [
-      "Steven Spielberg",
-      "Roman Polanski",
-      "Oliver Stone",
-      "Sydney Pollack"
-    ],
-    "answer": "Steven Spielberg"
-  },
-  {
     "id": "general-2482",
     "category": "film-tv",
     "difficulty": "easy",
@@ -1831,19 +1727,6 @@
       "Encanto"
     ],
     "answer": "Frozen"
-  },
-  {
-    "id": "general-2483",
-    "category": "film-tv",
-    "difficulty": "easy",
-    "question": "Which show is set in the fictional Dunder Mifflin paper company?",
-    "options": [
-      "The Office",
-      "Parks and Recreation",
-      "Superstore",
-      "Brooklyn Nine-Nine"
-    ],
-    "answer": "The Office"
   },
   {
     "id": "general-2484",
@@ -1885,19 +1768,6 @@
     "answer": "Tom Hanks"
   },
   {
-    "id": "general-2487",
-    "category": "film-tv",
-    "difficulty": "easy",
-    "question": "Which HBO series follows a chemistry teacher who becomes a methamphetamine manufacturer?",
-    "options": [
-      "Breaking Bad",
-      "The Wire",
-      "Better Call Saul",
-      "Ozark"
-    ],
-    "answer": "Breaking Bad"
-  },
-  {
     "id": "general-2488",
     "category": "film-tv",
     "difficulty": "hard",
@@ -1922,19 +1792,6 @@
       "Hairspray"
     ],
     "answer": "West Side Story"
-  },
-  {
-    "id": "general-2562",
-    "category": "film-tv",
-    "difficulty": "medium",
-    "question": "Which 1994 crime film directed by Quentin Tarantino intertwines multiple non-linear storylines?",
-    "options": [
-      "Pulp Fiction",
-      "Reservoir Dogs",
-      "Jackie Brown",
-      "Kill Bill"
-    ],
-    "answer": "Pulp Fiction"
   },
   {
     "id": "general-2563",

@@ -5594,11 +5594,11 @@
         "general-2489",
         "general-2562"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 12,
+      "notes": "Cut 12 duplicates: Woody-voice-actor triplicate (general-402/1171/2080, kept 2080 for its cast-accurate distractors), Breaking-Bad chemistry-teacher triplicate (general-1662/1173/2487, kept 1662; 2487 also had a factual error mislabeling it an HBO series when it aired on AMC), Jaws-director triplicate (general-221/2252/2478, kept 221 and 2478 for distinct framing/detail, cut plain 2252), Schindler's-List-director pair (general-2087/2481, kept 2087), Overlook-Hotel reversed-direction triplicate (general-1165 names the hotel, general-2086/2259 both ask which film has it - kept 1165 for its production-trivia distractors), Nolan-generic pair (general-2296 redundant with general-2078 Inception + film-tv-272 Interstellar), Office/Dunder-Mifflin pair (general-1661/2483, kept 1661), Wicked/Defying-Gravity pair (general-2297 film-tv vs general-1360 music, kept 2297), Pulp-Fiction-identify-the-film pair (general-394/2562, kept 394's dance-scene clue). Reviewed remaining ~26 questions (Sherlock, Handmaid's Tale, Pirates of the Caribbean, Forrest Gump Oscar, Alien, Avatar box office, Simpsons, GoT, Back to the Future, Goodfellas, Dark Knight Joker, EEAAO, Casablanca 3-way (quote/setting/song - distinct facts, kept all), SNL pair (Weekend Update vs Emmy record - distinct, kept both), Godfather, Matrix bullet-time vs Matrix premise (distinct, kept both), The Wire, Inside Out, Gladiator, Greatest Showman, Halloween, Kill Bill vs Pulp Fiction director pair (different films, kept both), West Side Story) for factual accuracy and distractor correctness - all confirmed correct, no other issues found."
     },
     {
       "chunkId": "film-tv-p1-006",
