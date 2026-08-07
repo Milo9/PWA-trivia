@@ -4822,11 +4822,11 @@
         "civics-law-economics-573",
         "civics-law-economics-580"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 3,
+      "notes": "Cut 3 confirmed duplicates found via same-answer index: civics-law-economics-1035 (satellite state, dup of -513), -1034 (buffer state, dup of -514), -1049 (parole, dup of -526) - all same fact reworded with matching option sets. Remaining 47 questions (UN/IO headquarters, economics/finance terminology, tort law, appellate court actions, loan/bankruptcy terms) verified factually accurate with correct distractors; multiple same-answer flags for Geneva/Vienna/etc were genuine distinct-org headquarters questions, not duplicates."
     },
     {
       "chunkId": "civics-law-economics-p1-009",
@@ -4883,11 +4883,11 @@
         "civics-law-economics-685",
         "civics-law-economics-687"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 2,
+      "notes": "Cut 2 confirmed duplicates via same-answer index: civics-law-economics-1190 (bandwagon effect, dup of -606) and -1154 (intrusion upon seclusion tort, dup of -673) - both same fact reworded with matching answer. Remaining 48 questions (money types, macro/micro econ terms, accounting standards/methods, investment/trading terminology, political science terms, campaign finance, tort law doctrines, legal maxims) verified factually accurate with correct distractors."
     },
     {
       "chunkId": "civics-law-economics-p1-010",
@@ -4944,11 +4944,11 @@
         "general-1289",
         "civics-law-economics-001"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 2,
+      "notes": "Cut 2 confirmed duplicates via same-answer index: civics-law-economics-1188 (Veblen good, dup of -726) and -1178 (loss aversion, dup of -747) - both same fact reworded. Remaining 48 questions (constitutional law doctrines, property/contract law terms, UCC concepts, IP law, microeconomics terms, economic indicators, IO/international-org headquarters, plus a few general-derived and civics-001 easy questions) verified factually accurate with correct distractors; multiple same-answer flags for Geneva/other capitals were genuine distinct-fact headquarters/capital questions, not duplicates."
     },
     {
       "chunkId": "civics-law-economics-p1-011",
@@ -5005,11 +5005,11 @@
         "civics-law-economics-113",
         "civics-law-economics-114"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 0,
+      "notes": "Reviewed 50 foundational easy-difficulty civics/law/economics terms (separation of powers, checks and balances, legal writs/standards of proof, IP types, monarchy/government-system classifications, trade policy tools, tax types, price indices). No same-answer flags surfaced by the tool for this chunk. All definitions and distractor sets verified factually accurate on read-through - clean chunk, no issues found."
     },
     {
       "chunkId": "civics-law-economics-p1-012",
@@ -5066,11 +5066,11 @@
         "civics-law-economics-247",
         "civics-law-economics-248"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 22,
+      "notes": "Cut 22 confirmed duplicates. Chunk-local pairs: -217 (monopoly, dup of -125), -247 (IMF/World Bank HQ, dup of -134), -1120 (quid pro quo, dup of -186), -1053 (plaintiff, dup of -225). Corpus-wide grep for answer-groups of 3+ (dodging validate.js's group-size-2 cap) surfaced a systemic IO-headquarters + generic-legal-term duplication problem spanning many already-reviewed chunks: Tort defined 3x (-014/-213/-289, kept -014), Bail defined 3x (-037/-231/-321, kept -037), Miranda warning(s) 2x singular/plural mismatch (-022/-233, kept -022), ICJ-at-The-Hague 4x (-132/-362/-475/-897, kept -362 for its distinctive Peace Palace detail), OECD-in-Paris 2x (-246/-367, kept -246), UNESCO-in-Paris 6x (-141/-257/-363/-472/-748/-895, kept -363 for its distinctive Y-shaped-building detail), Arab League-in-Cairo 4x (-248/-372/-476/-757, kept -248), Lien defined 3x (-295/-427/-530, kept -530), FAO-in-Rome 3x (-365/-473/-749, kept -365 for its distinctive former-ministry-building detail), BIS-in-Basel 3x (-753/-896/-1008, kept -1008 for its distinctive 'central bank for central banks' detail). Confirmed remaining Geneva(7)/Vienna(4)/Strasbourg(3)/Hague(3) answer clusters are genuinely distinct organizations, not duplicates. Documenting this IO-headquarters/generic-legal-term convergent-duplication pattern in CLAUDE.md as a new known gap."
     },
     {
       "chunkId": "civics-law-economics-p1-013",
@@ -5127,11 +5127,11 @@
         "civics-law-economics-387",
         "civics-law-economics-388"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 3,
+      "notes": "Cut 3 confirmed duplicates: -1106 (prima facie, dup of -284), -364 and -479 (UNICEF-in-NYC, dup of -204, three total copies of the same fact). Remaining ~44 questions (legal writs/procedure terms, estate/property law, contract clauses, tort/game-theory terms, IO/regional-body headquarters, EU/trade facts) verified factually accurate with correct distractors; confirmed several same-city flags (WTO/WIPO/ICJ/UNESCO/FAO/EU-Commission/African-Union/ASEAN/APEC/OAS headquarters) are genuinely distinct organizations, not duplicates, consistent with the p1-012 cleanup."
     },
     {
       "chunkId": "civics-law-economics-p1-014",
@@ -5188,11 +5188,11 @@
         "civics-law-economics-634",
         "civics-law-economics-635"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 3,
+      "notes": "Cut 3 confirmed duplicates: -1088 (autocracy, dup of -393), -1089 (anarchism, dup of -486), -483 (bicameral legislature, dup of -001 - dodged detection since 'Bicameral' vs 'Bicameral legislature' differ slightly in normalized answer text). Remaining ~43 questions (government-system classifications, criminal law/inchoate offenses, trial/jury terminology, contract/property terms, IO headquarters, finance/accounting/investment terms) verified factually accurate with correct distractors; same-city flags for IAEA/ECB/UN-Secretariat were genuinely distinct facts, not duplicates."
     },
     {
       "chunkId": "civics-law-economics-p1-015",
@@ -5228,11 +5228,11 @@
         "civics-law-economics-756",
         "civics-law-economics-757"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 5,
+      "notes": "Cut 5 confirmed duplicates via same-answer index: -1045 (primary election, dup of -657), -1150 (nuisance, dup of -672), -1146 (duty of care, dup of -674), -1134 (mirror image rule, dup of -701), -1135 (mailbox rule, dup of -702). Remaining ~24 questions (finance/accounting basics, tort law, constitutional rights, contract law doctrines, microeconomics fundamentals, business cycle terms, AIIB headquarters) verified factually accurate with correct distractors. This completes civics-law-economics pass 1 (16/16 chunks)."
     },
     {
       "chunkId": "film-tv-p1-000",

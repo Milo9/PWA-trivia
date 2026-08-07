@@ -387,6 +387,44 @@ grepping only for `error(s)`.
   drafted singular in one pass and plural in another (goods/services,
   effects, laws, etc.), since this class of near-miss won't show up in
   `validate`'s or `check-draft.js`'s output at all.
+- **"Where is [org] headquartered?" questions are a concentrated,
+  recurring instance of the group-size-cap gap above, specific to
+  civics-law-economics.** A city that hosts many international
+  organizations (Geneva, Vienna, Paris, Brussels) legitimately racks up
+  a large same-answer group of genuinely distinct questions — but the
+  same real-world clustering also means the *same* organization's
+  headquarters gets independently redrafted 2-6 times across different
+  sessions/chunks, and each redraft's group lands well past
+  `MAX_ANSWER_GROUP_SIZE = 2` (so `validate` never flags it) while also
+  varying enough in phrasing/option-order to dodge the near-duplicate
+  text check. Confirmed 2026-08-07 in audit chunk p1-012: a single
+  corpus-wide grep grouping by exact answer text (see snippet below)
+  turned up UNESCO-in-Paris asked 6 separate times, Arab League-in-Cairo
+  4 times, ICJ-at-The-Hague 4 times, FAO-in-Rome and BIS-in-Basel 3
+  times each, OECD-in-Paris twice — an 18-question cluster nobody had
+  caught across several already-completed audit chunks. The same
+  grouping also caught a handful of generic legal-term duplicates by the
+  same mechanism (Tort defined 3x, Bail defined 3x). When keeping one
+  survivor from a cluster like this, prefer the version with a genuinely
+  distinctive extra detail (e.g. "at the Peace Palace," "the Y-shaped
+  building at Place de Fontenoy") over the plainest phrasing — it's
+  better trivia, not just a tie-break. Any chunk in this category that
+  touches an IO-headquarters or common-noun-legal-term question is worth
+  a proactive full-corpus regroup, not just a same-chunk check:
+  ```
+  node -e "
+  const qs = require('./data/questions/civics-law-economics.json');
+  const map = {};
+  for (const q of qs) (map[q.answer.trim().toLowerCase()] ??= []).push(q);
+  for (const k in map) if (map[k].length >= 3) {
+    console.log('===', k, '('+map[k].length+')');
+    map[k].forEach(q => console.log(' ', q.id, '|', q.question));
+  }"
+  ```
+  Read every group's questions before cutting — a shared city/answer is
+  only a duplicate when it's also the *same organization or concept*
+  (Geneva hosting seven different named agencies is not a duplicate
+  cluster; Paris hosting UNESCO six separate times is).
 - **`dupeGroup` (in `categories.json`) widens the same-answer check
   beyond a single category.** Every `general`-derived category carries
   `"dupeGroup": "general"`, so the whole former-`general` bucket is

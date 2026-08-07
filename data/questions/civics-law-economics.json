@@ -1911,19 +1911,6 @@
     "answer": "32"
   },
   {
-    "id": "civics-law-economics-132",
-    "category": "civics-law-economics",
-    "difficulty": "easy",
-    "question": "As of 2026, where is the seat of the International Court of Justice, the principal judicial organ of the UN?",
-    "options": [
-      "Geneva, Switzerland",
-      "The Hague, Netherlands",
-      "New York, USA",
-      "Brussels, Belgium"
-    ],
-    "answer": "The Hague, Netherlands"
-  },
-  {
     "id": "civics-law-economics-133",
     "category": "civics-law-economics",
     "difficulty": "easy",
@@ -2026,19 +2013,6 @@
       "Brussels, Belgium"
     ],
     "answer": "Lyon, France"
-  },
-  {
-    "id": "civics-law-economics-141",
-    "category": "civics-law-economics",
-    "difficulty": "easy",
-    "question": "As of 2026, where is the headquarters of UNESCO, the UN specialized agency for education, science and culture?",
-    "options": [
-      "Paris, France",
-      "Geneva, Switzerland",
-      "New York, USA",
-      "Vienna, Austria"
-    ],
-    "answer": "Paris, France"
   },
   {
     "id": "civics-law-economics-142",
@@ -2964,19 +2938,6 @@
     "answer": "Deposition"
   },
   {
-    "id": "civics-law-economics-213",
-    "difficulty": "easy",
-    "category": "civics-law-economics",
-    "question": "What is a civil wrong that causes harm or injury, leading to legal liability, called?",
-    "options": [
-      "Indictment",
-      "Felony",
-      "Misdemeanor",
-      "Tort"
-    ],
-    "answer": "Tort"
-  },
-  {
     "id": "civics-law-economics-214",
     "difficulty": "medium",
     "category": "civics-law-economics",
@@ -3001,19 +2962,6 @@
       "Grand jury"
     ],
     "answer": "Grand jury"
-  },
-  {
-    "id": "civics-law-economics-217",
-    "difficulty": "easy",
-    "category": "civics-law-economics",
-    "question": "What market structure has only one seller dominating the market?",
-    "options": [
-      "Perfect competition",
-      "Monopoly",
-      "Monopsony",
-      "Oligopoly"
-    ],
-    "answer": "Monopoly"
   },
   {
     "id": "civics-law-economics-218",
@@ -3185,19 +3133,6 @@
     "answer": "Concurring opinion"
   },
   {
-    "id": "civics-law-economics-231",
-    "difficulty": "easy",
-    "category": "civics-law-economics",
-    "question": "What is money or property given to secure a defendant's release before trial called?",
-    "options": [
-      "Fine",
-      "Restitution",
-      "Bond",
-      "Bail"
-    ],
-    "answer": "Bail"
-  },
-  {
     "id": "civics-law-economics-232",
     "difficulty": "hard",
     "category": "civics-law-economics",
@@ -3209,19 +3144,6 @@
       "Jury nullification"
     ],
     "answer": "Jury nullification"
-  },
-  {
-    "id": "civics-law-economics-233",
-    "difficulty": "easy",
-    "category": "civics-law-economics",
-    "question": "What warnings must police give about the right to remain silent and right to an attorney upon arrest in the US?",
-    "options": [
-      "Gideon warning",
-      "Brady disclosure",
-      "Escobedo warning",
-      "Miranda warning"
-    ],
-    "answer": "Miranda warning"
   },
   {
     "id": "civics-law-economics-234",
@@ -3393,19 +3315,6 @@
     "answer": "Paris"
   },
   {
-    "id": "civics-law-economics-247",
-    "difficulty": "easy",
-    "category": "civics-law-economics",
-    "question": "Where is the headquarters of the IMF and World Bank located?",
-    "options": [
-      "New York",
-      "Geneva",
-      "London",
-      "Washington DC"
-    ],
-    "answer": "Washington DC"
-  },
-  {
     "id": "civics-law-economics-248",
     "difficulty": "easy",
     "category": "civics-law-economics",
@@ -3521,19 +3430,6 @@
       "Inferior good"
     ],
     "answer": "Giffen good"
-  },
-  {
-    "id": "civics-law-economics-257",
-    "difficulty": "easy",
-    "category": "civics-law-economics",
-    "question": "Where is UNESCO's headquarters located?",
-    "options": [
-      "New York",
-      "Geneva",
-      "Vienna",
-      "Paris"
-    ],
-    "answer": "Paris"
   },
   {
     "id": "civics-law-economics-258",
@@ -3939,19 +3835,6 @@
     "id": "civics-law-economics-288"
   },
   {
-    "difficulty": "easy",
-    "category": "civics-law-economics",
-    "question": "What category of civil wrong involves breach of a duty causing harm, distinct from breach of contract?",
-    "options": [
-      "Tort",
-      "Bailment",
-      "Lien",
-      "Easement"
-    ],
-    "answer": "Tort",
-    "id": "civics-law-economics-289"
-  },
-  {
     "difficulty": "medium",
     "category": "civics-law-economics",
     "question": "Which four elements must be proven for negligence: duty, breach, causation, and what fourth element?",
@@ -4015,19 +3898,6 @@
     ],
     "answer": "Bailment",
     "id": "civics-law-economics-294"
-  },
-  {
-    "difficulty": "easy",
-    "category": "civics-law-economics",
-    "question": "What legal right allows a creditor to keep or sell a debtor's property as security for a debt?",
-    "options": [
-      "Lien",
-      "Bailment",
-      "Usufruct",
-      "Escheat"
-    ],
-    "answer": "Lien",
-    "id": "civics-law-economics-295"
   },
   {
     "difficulty": "easy",
@@ -4340,19 +4210,6 @@
     ],
     "answer": "Arraignment",
     "id": "civics-law-economics-320"
-  },
-  {
-    "difficulty": "easy",
-    "category": "civics-law-economics",
-    "question": "What term describes money or conditions set to ensure a defendant appears for trial while remaining free?",
-    "options": [
-      "Bail",
-      "Lien",
-      "Escheat",
-      "Usufruct"
-    ],
-    "answer": "Bail",
-    "id": "civics-law-economics-321"
   },
   {
     "difficulty": "hard",
@@ -4864,19 +4721,6 @@
   {
     "difficulty": "easy",
     "category": "civics-law-economics",
-    "question": "Where is UNICEF headquartered, located at the UN headquarters city?",
-    "options": [
-      "New York City",
-      "Geneva",
-      "Paris",
-      "Rome"
-    ],
-    "answer": "New York City",
-    "id": "civics-law-economics-364"
-  },
-  {
-    "difficulty": "easy",
-    "category": "civics-law-economics",
     "question": "Which city hosts the Food and Agriculture Organization headquarters, in a building originally built for Italian East Africa ministry?",
     "options": [
       "Rome",
@@ -4899,19 +4743,6 @@
     ],
     "answer": "Montreal",
     "id": "civics-law-economics-366"
-  },
-  {
-    "difficulty": "easy",
-    "category": "civics-law-economics",
-    "question": "Where is the Organisation for Economic Co-operation and Development headquartered?",
-    "options": [
-      "Paris",
-      "Brussels",
-      "Geneva",
-      "Washington DC"
-    ],
-    "answer": "Paris",
-    "id": "civics-law-economics-367"
   },
   {
     "difficulty": "easy",
@@ -4964,19 +4795,6 @@
     ],
     "answer": "Jakarta",
     "id": "civics-law-economics-371"
-  },
-  {
-    "difficulty": "easy",
-    "category": "civics-law-economics",
-    "question": "Where is the League of Arab States headquartered, in Egypt's capital?",
-    "options": [
-      "Cairo",
-      "Riyadh",
-      "Beirut",
-      "Doha"
-    ],
-    "answer": "Cairo",
-    "id": "civics-law-economics-372"
   },
   {
     "difficulty": "medium",
@@ -5681,19 +5499,6 @@
     "answer": "Life estate"
   },
   {
-    "id": "civics-law-economics-427",
-    "category": "civics-law-economics",
-    "difficulty": "easy",
-    "question": "What term describes a legal claim against property as security for a debt or obligation?",
-    "options": [
-      "Lien",
-      "Easement",
-      "Bailment",
-      "Usufruct"
-    ],
-    "answer": "Lien"
-  },
-  {
     "id": "civics-law-economics-428",
     "category": "civics-law-economics",
     "difficulty": "medium",
@@ -6266,32 +6071,6 @@
     "answer": "Ad valorem tax"
   },
   {
-    "id": "civics-law-economics-472",
-    "category": "civics-law-economics",
-    "difficulty": "easy",
-    "question": "As of 2026, where is UNESCO, the UN Educational, Scientific and Cultural Organization, headquartered?",
-    "options": [
-      "Paris",
-      "Rome",
-      "Vienna",
-      "New York"
-    ],
-    "answer": "Paris"
-  },
-  {
-    "id": "civics-law-economics-473",
-    "category": "civics-law-economics",
-    "difficulty": "easy",
-    "question": "As of 2026, where is the Food and Agriculture Organization of the UN headquartered?",
-    "options": [
-      "Rome",
-      "Geneva",
-      "Paris",
-      "Nairobi"
-    ],
-    "answer": "Rome"
-  },
-  {
     "id": "civics-law-economics-474",
     "category": "civics-law-economics",
     "difficulty": "easy",
@@ -6303,32 +6082,6 @@
       "Rome"
     ],
     "answer": "Vienna"
-  },
-  {
-    "id": "civics-law-economics-475",
-    "category": "civics-law-economics",
-    "difficulty": "medium",
-    "question": "As of 2026, where is the International Court of Justice, the UN's principal judicial organ, seated?",
-    "options": [
-      "The Hague",
-      "Geneva",
-      "Brussels",
-      "Paris"
-    ],
-    "answer": "The Hague"
-  },
-  {
-    "id": "civics-law-economics-476",
-    "category": "civics-law-economics",
-    "difficulty": "easy",
-    "question": "As of 2026, where is the League of Arab States, the Arab League, headquartered?",
-    "options": [
-      "Cairo",
-      "Riyadh",
-      "Doha",
-      "Beirut"
-    ],
-    "answer": "Cairo"
   },
   {
     "id": "civics-law-economics-477",
@@ -6355,19 +6108,6 @@
       "Rome"
     ],
     "answer": "Geneva"
-  },
-  {
-    "id": "civics-law-economics-479",
-    "category": "civics-law-economics",
-    "difficulty": "medium",
-    "question": "As of 2026, where is UNICEF headquartered?",
-    "options": [
-      "New York",
-      "Geneva",
-      "Paris",
-      "Copenhagen"
-    ],
-    "answer": "New York"
   },
   {
     "id": "civics-law-economics-480",
@@ -6407,19 +6147,6 @@
       "Ripeness"
     ],
     "answer": "Legal standing"
-  },
-  {
-    "id": "civics-law-economics-483",
-    "category": "civics-law-economics",
-    "difficulty": "easy",
-    "question": "What term describes a legislature with two separate chambers?",
-    "options": [
-      "Bicameral",
-      "Unicameral",
-      "Tricameral",
-      "Multicameral"
-    ],
-    "answer": "Bicameral"
   },
   {
     "id": "civics-law-economics-484",
@@ -9854,32 +9581,6 @@
     "answer": "Loss aversion"
   },
   {
-    "id": "civics-law-economics-748",
-    "category": "civics-law-economics",
-    "difficulty": "easy",
-    "question": "As of 2026, what city hosts the headquarters of UNESCO?",
-    "options": [
-      "Paris",
-      "Geneva",
-      "New York",
-      "Rome"
-    ],
-    "answer": "Paris"
-  },
-  {
-    "id": "civics-law-economics-749",
-    "category": "civics-law-economics",
-    "difficulty": "easy",
-    "question": "As of 2026, what city hosts the headquarters of the Food and Agriculture Organization (FAO)?",
-    "options": [
-      "Madrid",
-      "Rome",
-      "Bonn",
-      "Geneva"
-    ],
-    "answer": "Rome"
-  },
-  {
     "id": "civics-law-economics-750",
     "category": "civics-law-economics",
     "difficulty": "medium",
@@ -9919,19 +9620,6 @@
     "answer": "Nairobi"
   },
   {
-    "id": "civics-law-economics-753",
-    "category": "civics-law-economics",
-    "difficulty": "hard",
-    "question": "As of 2026, what city hosts the headquarters of the Bank for International Settlements (BIS)?",
-    "options": [
-      "Zurich",
-      "Basel",
-      "Geneva",
-      "Frankfurt"
-    ],
-    "answer": "Basel"
-  },
-  {
     "id": "civics-law-economics-754",
     "category": "civics-law-economics",
     "difficulty": "medium",
@@ -9969,19 +9657,6 @@
       "Manila"
     ],
     "answer": "Beijing"
-  },
-  {
-    "id": "civics-law-economics-757",
-    "category": "civics-law-economics",
-    "difficulty": "easy",
-    "question": "As of 2026, what city hosts the headquarters of the League of Arab States (Arab League)?",
-    "options": [
-      "Riyadh",
-      "Cairo",
-      "Doha",
-      "Tunis"
-    ],
-    "answer": "Cairo"
   },
   {
     "id": "civics-law-economics-758",
@@ -11765,45 +11440,6 @@
     "answer": "Hotelling's rule"
   },
   {
-    "id": "civics-law-economics-895",
-    "difficulty": "easy",
-    "category": "civics-law-economics",
-    "question": "Where is the United Nations Educational, Scientific and Cultural Organization headquartered as of 2026?",
-    "options": [
-      "Geneva",
-      "Rome",
-      "Vienna",
-      "Paris"
-    ],
-    "answer": "Paris"
-  },
-  {
-    "id": "civics-law-economics-896",
-    "difficulty": "medium",
-    "category": "civics-law-economics",
-    "question": "Where is the Bank for International Settlements headquartered as of 2026?",
-    "options": [
-      "Geneva",
-      "Frankfurt",
-      "Brussels",
-      "Basel"
-    ],
-    "answer": "Basel"
-  },
-  {
-    "id": "civics-law-economics-897",
-    "difficulty": "medium",
-    "category": "civics-law-economics",
-    "question": "Where is the International Court of Justice headquartered as of 2026?",
-    "options": [
-      "Brussels",
-      "Vienna",
-      "The Hague",
-      "Geneva"
-    ],
-    "answer": "The Hague"
-  },
-  {
     "id": "civics-law-economics-898",
     "difficulty": "hard",
     "category": "civics-law-economics",
@@ -13533,32 +13169,6 @@
     "answer": "Cosmopolitanism"
   },
   {
-    "id": "civics-law-economics-1034",
-    "category": "civics-law-economics",
-    "difficulty": "easy",
-    "question": "What is the term for a neutral state lying between two larger, potentially hostile powers, intended to diminish the likelihood of conflict?",
-    "options": [
-      "Buffer state",
-      "Satellite state",
-      "Puppet state",
-      "Banana republic"
-    ],
-    "answer": "Buffer state"
-  },
-  {
-    "id": "civics-law-economics-1035",
-    "category": "civics-law-economics",
-    "difficulty": "easy",
-    "question": "What is the term for a country that is formally independent but under heavy political, economic, and military influence from another country?",
-    "options": [
-      "Satellite state",
-      "Buffer state",
-      "Tributary state",
-      "Condominium"
-    ],
-    "answer": "Satellite state"
-  },
-  {
     "id": "civics-law-economics-1036",
     "category": "civics-law-economics",
     "difficulty": "easy",
@@ -13676,19 +13286,6 @@
     "answer": "Open primary"
   },
   {
-    "id": "civics-law-economics-1045",
-    "category": "civics-law-economics",
-    "difficulty": "easy",
-    "question": "What is the term for an election held to select candidates for a subsequent general election?",
-    "options": [
-      "Primary election",
-      "General election",
-      "Midterm election",
-      "By-election"
-    ],
-    "answer": "Primary election"
-  },
-  {
     "id": "civics-law-economics-1046",
     "category": "civics-law-economics",
     "difficulty": "medium",
@@ -13728,19 +13325,6 @@
     "answer": "Veto"
   },
   {
-    "id": "civics-law-economics-1049",
-    "category": "civics-law-economics",
-    "difficulty": "medium",
-    "question": "What is the term for the conditional release of a prisoner before the completion of their sentence, subject to supervision and good behavior?",
-    "options": [
-      "Parole",
-      "Probation",
-      "Pardon",
-      "Commutation"
-    ],
-    "answer": "Parole"
-  },
-  {
     "id": "civics-law-economics-1050",
     "category": "civics-law-economics",
     "difficulty": "medium",
@@ -13778,19 +13362,6 @@
       "Impracticability"
     ],
     "answer": "Impossibility of performance"
-  },
-  {
-    "id": "civics-law-economics-1053",
-    "category": "civics-law-economics",
-    "difficulty": "easy",
-    "question": "What is the legal term for the party who initiates a civil lawsuit?",
-    "options": [
-      "Plaintiff",
-      "Defendant",
-      "Prosecutor",
-      "Appellant"
-    ],
-    "answer": "Plaintiff"
   },
   {
     "id": "civics-law-economics-1054",
@@ -14222,32 +13793,6 @@
     "answer": "Preamble"
   },
   {
-    "id": "civics-law-economics-1088",
-    "category": "civics-law-economics",
-    "difficulty": "easy",
-    "question": "What is the term for a system of government where supreme power is concentrated in the hands of one person?",
-    "options": [
-      "Autocracy",
-      "Oligarchy",
-      "Democracy",
-      "Republic"
-    ],
-    "answer": "Autocracy"
-  },
-  {
-    "id": "civics-law-economics-1089",
-    "category": "civics-law-economics",
-    "difficulty": "medium",
-    "question": "What is the political philosophy advocating for the abolition of the state and all forms of coercive hierarchy?",
-    "options": [
-      "Anarchism",
-      "Minarchism",
-      "Statism",
-      "Totalitarianism"
-    ],
-    "answer": "Anarchism"
-  },
-  {
     "id": "civics-law-economics-1090",
     "category": "civics-law-economics",
     "difficulty": "medium",
@@ -14430,19 +13975,6 @@
     "answer": "Sua sponte"
   },
   {
-    "id": "civics-law-economics-1106",
-    "category": "civics-law-economics",
-    "difficulty": "easy",
-    "question": "What is the Latin term for evidence that is sufficient to establish a fact or raise a presumption unless disproved?",
-    "options": [
-      "Prima facie",
-      "Res ipsa loquitur",
-      "Quid pro quo",
-      "Status quo ante"
-    ],
-    "answer": "Prima facie"
-  },
-  {
     "id": "civics-law-economics-1107",
     "category": "civics-law-economics",
     "difficulty": "medium",
@@ -14612,19 +14144,6 @@
     "answer": "Ex turpi causa non oritur actio"
   },
   {
-    "id": "civics-law-economics-1120",
-    "category": "civics-law-economics",
-    "difficulty": "easy",
-    "question": "What is the Latin phrase describing a favor or advantage granted in return for something else?",
-    "options": [
-      "Quid pro quo",
-      "Pro bono",
-      "Pro rata",
-      "Sine qua non"
-    ],
-    "answer": "Quid pro quo"
-  },
-  {
     "id": "civics-law-economics-1121",
     "category": "civics-law-economics",
     "difficulty": "easy",
@@ -14781,32 +14300,6 @@
     "answer": "Meeting of the minds"
   },
   {
-    "id": "civics-law-economics-1134",
-    "category": "civics-law-economics",
-    "difficulty": "medium",
-    "question": "What is the contract law principle stating that an acceptance must exactly match the terms of the offer to create a binding contract?",
-    "options": [
-      "Mirror image rule",
-      "Mailbox rule",
-      "Parol evidence rule",
-      "Statute of frauds"
-    ],
-    "answer": "Mirror image rule"
-  },
-  {
-    "id": "civics-law-economics-1135",
-    "category": "civics-law-economics",
-    "difficulty": "medium",
-    "question": "What is the contract law principle stating that acceptance of an offer is effective upon dispatch, rather than upon receipt?",
-    "options": [
-      "Mailbox rule",
-      "Mirror image rule",
-      "Parol evidence rule",
-      "Rule against perpetuities"
-    ],
-    "answer": "Mailbox rule"
-  },
-  {
     "id": "civics-law-economics-1136",
     "category": "civics-law-economics",
     "difficulty": "medium",
@@ -14911,19 +14404,6 @@
     "answer": "Predatory pricing"
   },
   {
-    "id": "civics-law-economics-1146",
-    "category": "civics-law-economics",
-    "difficulty": "medium",
-    "question": "What is the tort law term for the legal obligation requiring a person to conform to a specific standard of conduct to protect others from unreasonable risks?",
-    "options": [
-      "Duty of care",
-      "Duty of loyalty",
-      "Breach of duty",
-      "Proximate cause"
-    ],
-    "answer": "Duty of care"
-  },
-  {
     "id": "civics-law-economics-1147",
     "category": "civics-law-economics",
     "difficulty": "medium",
@@ -14963,19 +14443,6 @@
     "answer": "Last clear chance"
   },
   {
-    "id": "civics-law-economics-1150",
-    "category": "civics-law-economics",
-    "difficulty": "medium",
-    "question": "What is the tort law term for an unreasonable interference with a person's use and enjoyment of their land?",
-    "options": [
-      "Nuisance",
-      "Trespass",
-      "Conversion",
-      "Battery"
-    ],
-    "answer": "Nuisance"
-  },
-  {
     "id": "civics-law-economics-1151",
     "category": "civics-law-economics",
     "difficulty": "medium",
@@ -15013,19 +14480,6 @@
       "Appropriation"
     ],
     "answer": "Public disclosure of private facts"
-  },
-  {
-    "id": "civics-law-economics-1154",
-    "category": "civics-law-economics",
-    "difficulty": "medium",
-    "question": "What is the tort of privacy invasion involving physically or otherwise intruding into a person's private space?",
-    "options": [
-      "Intrusion upon seclusion",
-      "False light",
-      "Public disclosure of private facts",
-      "Appropriation"
-    ],
-    "answer": "Intrusion upon seclusion"
   },
   {
     "id": "civics-law-economics-1155",
@@ -15275,19 +14729,6 @@
     "answer": "Prospect theory"
   },
   {
-    "id": "civics-law-economics-1178",
-    "category": "civics-law-economics",
-    "difficulty": "medium",
-    "question": "What is the behavioral economics principle stating that people prefer avoiding losses to acquiring equivalent gains?",
-    "options": [
-      "Loss aversion",
-      "Risk aversion",
-      "Endowment effect",
-      "Framing effect"
-    ],
-    "answer": "Loss aversion"
-  },
-  {
     "id": "civics-law-economics-1179",
     "category": "civics-law-economics",
     "difficulty": "medium",
@@ -15390,32 +14831,6 @@
       "Shephard's lemma"
     ],
     "answer": "Slutsky equation"
-  },
-  {
-    "id": "civics-law-economics-1188",
-    "category": "civics-law-economics",
-    "difficulty": "medium",
-    "question": "What is the economic term for a luxury good for which demand increases as price increases, because of its exclusive status symbol appeal?",
-    "options": [
-      "Veblen good",
-      "Giffen good",
-      "Inferior good",
-      "Normal good"
-    ],
-    "answer": "Veblen good"
-  },
-  {
-    "id": "civics-law-economics-1190",
-    "category": "civics-law-economics",
-    "difficulty": "medium",
-    "question": "What is the economic term for the phenomenon where demand for a product increases simply because other people are buying it?",
-    "options": [
-      "Bandwagon effect",
-      "Snob effect",
-      "Veblen effect",
-      "Network effect"
-    ],
-    "answer": "Bandwagon effect"
   },
   {
     "id": "civics-law-economics-1193",
