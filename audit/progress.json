@@ -2996,11 +2996,11 @@
         "big-bang-theory-622",
         "big-bang-theory-623"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-06",
+      "completedAt": "2026-08-06",
+      "issuesFound": 9,
+      "notes": "Fixed 3 factual errors: big-bang-theory-581's comic-store storyline wrongly credited 'Howard's family/friends' for saving Stuart's store from closing -- corrected to the actual cause, Neil Gaiman's tweet recommending the store (S11E21 'The Comet Polarization', verified via WebSearch); big-bang-theory-599/600 had the Leonard Nimoy napkin gift-direction backwards (Sheldon giving Penny the napkin, when canonically Penny gives Sheldon the signed napkin in 'The Bath Item Gift Hypothesis' S2E11) -- cut -599 as a now-duplicate of existing big-bang-theory-063 (same fact: who signed Penny's napkin gift to Sheldon) and fixed -600's direction/wording to correctly describe Sheldon's DNA-cloning joke about the napkin Penny gives him; big-bang-theory-603 wrongly described Simon Helberg's 'A Serious Man' role as a lawyer -- corrected to junior rabbi (the real role, Rabbi Scott), verified via WebSearch. Cut 1 likely-hallucinated question (big-bang-theory-608, Kunal Nayyar playing 'Ravi Shah' in Suits' final season -- WebSearch found no corroboration across multiple searches of his filmography, which is otherwise well-documented). Fixed 1 imprecision (big-bang-theory-558's North Sea expedition mischaracterized as happening 'early in the series' when it's actually the Season 7 premiere, roughly two-thirds through the show's run). Cut 5 confirmed same-fact duplicates: -594 and -596 both duplicate already-shipped big-bang-theory-680 (Sheldon's spot / left couch cushion); -568 duplicates big-bang-theory-023 (theme song band); -601 duplicates big-bang-theory-146 (Buzz Aldrin guest appearance); -587 duplicates big-bang-theory-191 (Zack Johnson's actor) -- while investigating -587 also found -640 was ALREADY an undetected duplicate of -191 sitting in the corpus from an earlier session, so cut -640 too despite being outside this chunk."
     },
     {
       "chunkId": "big-bang-theory-p1-011",
