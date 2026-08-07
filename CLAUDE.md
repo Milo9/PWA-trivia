@@ -172,7 +172,20 @@ arts-literature have all hit this hardest). Watch for:
   question-text overlap and answer-text overlap just under the
   automatic cutoffs. A targeted corpus grep for the draft's distinctive
   nouns (species names, work titles, place names) catches these when
-  `--full-answer-audit` doesn't.
+  `--full-answer-audit` doesn't. **This isn't just an entity-heavy-category
+  problem** (film-tv, arts-literature, mythology) — a plain "general
+  facts" category (unit conversions, board-/card-game rules, scale
+  definitions) hits it just as hard, often worse, since these facts have
+  no distinctive proper noun for `--full-answer-audit`'s answer-matching
+  to key off and default to near-zero question-text overlap purely from
+  short, generic phrasing ("How many X are in a Y?"). Confirmed
+  2026-08-07: a `general` batch's own check-draft pass flagged ~30
+  likely/near-duplicates, but a follow-up grep for distinctive terms
+  (firkin, hogshead, jigger, troy ounce, smoot, Boggle, doubling cube,
+  mondegreen, ...) surfaced ~20 *additional* confirmed duplicates that
+  check-draft never flagged at all — for a category this saturated,
+  budget for a manual grep pass even after a clean-looking check-draft
+  run, not just for categories built on famous names/titles.
 - **Same fact restated with a different specific number or unit**
   (e.g. "over 240 mph" vs. "320 km/h / 200 mph" for the same "fastest
   diving bird" record) — still one duplicate, not two complementary
@@ -239,6 +252,31 @@ trusting recall, especially for "hard"-difficulty/obscure specifics
   two options that are both currently-active/both-true at once, like two
   "current" Mars rovers or two spacecraft that both returned asteroid
   samples).
+- **Genuine real-world ambiguity, not just obscurity** — a sub-flavor of
+  the above worth checking for separately, since it isn't about digging
+  harder into one suspicious option: some questions have more than one
+  common-knowledge-correct answer among their own options, and different
+  drafting sessions independently pick different ones as "the" answer.
+  Confirmed 2026-08-07: a drafted "which small country borders both
+  France and Germany?" marked Switzerland correct with Luxembourg as a
+  distractor — but Luxembourg *also* genuinely borders both, and the
+  already-shipped corpus has a nearly identical question with Luxembourg
+  marked correct instead. Neither question is "wrong" in isolation; the
+  bug is that the option set doesn't uniquely determine an answer. Cut
+  rather than pick a side, unless the option set can be narrowed to
+  exclude all-but-one true answer.
+- **Malformed options carrying leaked drafting reasoning, not a hedge.**
+  Distinct from the hedge/meta-answer pattern check-draft.js's regex
+  already catches (`not (a|given|shown|part of|really|actually)`) — this
+  is the drafting agent's own self-correction or chain-of-thought ending
+  up verbatim in an option string instead of a clean answer, e.g.
+  `"Diminished fifth is same but answer is Augmented fourth"` or
+  `"Alto is not lowest? Contralto is lower than alto in classical"` used
+  as a distractor. Confirmed 2026-08-07 (3 instances in one `music`
+  batch, none caught by check-draft's hedge regex). A quick signal: an
+  option containing " but ", "trick:", "is same", or a `?` is almost
+  always this pattern, not a real answer — fix by replacing it with a
+  clean wrong option (don't try to salvage the leaked reasoning).
 - **Named-thing confusion**: probe vs. mission name, one entity's
   attribute wrongly generalized to a whole category (e.g. calling a
   layer "outermost" when a further layer exists), or an anachronistic
@@ -292,7 +330,28 @@ trusting recall, especially for "hard"-difficulty/obscure specifics
 After merging, **always re-run `npm run validate` before shipping**,
 even after a careful manual review pass — it's free, and it catches
 cases where a planned cut didn't actually make it into the executed
-merge.
+merge. **This includes after rewording a question to fix an answer-leak
+or malformed option** — a rewrite is new text that has never been
+checked against the corpus, and can coincidentally collide with existing
+phrasing even though the original leaky draft didn't. Confirmed
+2026-08-07: a leak-fix rewording ("What key is Mozart's Symphony No. 40
+written in?") landed as a near-verbatim duplicate of an existing
+question ("...K. 550, composed in?") that the original draft's check
+never flagged, because the leaky original was phrased differently.
+
+**When scanning `validate`'s output, don't just grep for the error
+count and stop** — `0 error(s)` only means nothing is schema-broken.
+The `! Same answer (...), low word-overlap` and `! Possible
+near-duplicate` warning lines are real signal for exactly the
+same-fact-reworded pattern this whole section is about, and a
+freshly-introduced one is easy to miss inside a few hundred pre-existing
+warnings if you only check the summary line. The Mozart duplicate above
+was actually printed by `validate` (at 0.56 overlap) on the same run
+that reported `0 error(s)` — it surfaced only because the full output
+happened to get read anyway, not because the workflow called for
+reading it. Prefer grepping the fresh warning output for your batch's
+new ID range (or the specific answer/entity you just touched) over
+grepping only for `error(s)`.
 
 ## Duplicate detection: what the tools catch and what they miss
 
@@ -375,6 +434,21 @@ alone accounted for more cuts (8) than the union check's own same-answer
 advisories caught (3) — budget for a full manual read on every
 multi-file merge, not just single-file batches leaning on iconic
 subjects.
+
+**This union-pass requirement is specifically for multiple files landing
+in the *same* category.** A batch of multiple inbox files for
+*different* categories doesn't need a union draft — process them
+sequentially, one file fully checked-and-merged into `data/` before the
+next file's `check-draft` run starts. `check-draft.js` always reads the
+live on-disk corpus, so merging file N before checking file N+1 is what
+makes `dupeGroup`-scoped cross-category duplication (see below) get
+caught correctly; checking all N files against the corpus in parallel
+first and merging after would miss duplicates *between* those inbox
+files the same way a same-category union problem would. Confirmed
+2026-08-07 processing 5 different-category inbox files (arts-literature,
+general, geography, music, mythology-religion, all sharing
+`dupeGroup: "general"`) sequentially this way — no cross-file leakage
+found on the final `validate` pass.
 
 ## Auditing existing questions for accuracy
 
