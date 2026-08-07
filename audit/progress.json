@@ -6082,11 +6082,11 @@
         "film-tv-821",
         "film-tv-825"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 6,
+      "notes": "Fixed film-tv-720 (Office/Prince Family Paper: reworded from 'acquires' since DM only stole the client list and put them out of business, not a literal acquisition), film-tv-748 (The Thing: 'Norwegian research base' had the numerical designation Outpost 31, which is actually the American station's designation, not the Norwegian camp's - reworded to ask about the American station; also fixed a same-answer-different-wording option pair, 'U.S. Outpost 31' vs 'Outpost 31'), film-tv-787 (Percy Jackson: distractor 'Anaklusmos' is literally the Greek name for the correct answer 'Riptide' - same sword, not a wrong answer - replaced with 'Poseidon's Trident'). Cut film-tv-724 (Better Call Saul: false premise - Chuck McGill never lives in a retirement home in the show; Sandpiper Crossing is the unrelated elder-care facility at the center of the class-action lawsuit) and film-tv-747 (duplicate of film-tv-891, both asking about Gaff's origami unicorn outside Deckard's apartment; kept 891 since 747's own stem also mischaracterized the unicorn as 'implying he knows about Rachael' when it's actually tied to Deckard's own dream/replicant-identity ambiguity). All other 44 questions verified factually accurate with correct distractors."
     },
     {
       "chunkId": "film-tv-p1-014",
@@ -6143,11 +6143,11 @@
         "general-1164",
         "general-1167"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 6,
+      "notes": "All 14 dedicated film-tv questions in this chunk (Breaking Bad, GoT, Stranger Things, Mandalorian, Office) verified factually accurate, including film-tv-830's Lavanderia Brillante laundry-front detail (web-verified). Remaining chunk entries were general-derived film-tv questions surfaced via same-answer cross-referencing, mostly false positives (different films/roles by the same director/actor). Found and cut 6 genuine duplicates: a Finding Nemo/Marlin triplicate (general-224/1164/1658, kept 224), a Woody-voice-actor pair (general-2080/2486, kept 2080), a Luke-Skywalker's-father pair (general-1160/2064, kept 1160), a DiCaprio/Winslet-Titanic-film pair (general-1169/2057, kept 1169, since 2057's box-office angle was already redundant with general-914), and the real-ship Titanic-sinking pair (general-1052/2304, kept 2304 for its more specific iceberg/North-Atlantic detail). Also cut general-2482 (bare 'Frozen has the song Let It Go') as a strict subset of general-398 (same clue plus character names); kept general-596 since its year+source-material angle is genuinely distinct. All other same-answer flags in this chunk were legitimate distinct facts sharing a common director/actor (Spielberg, Tom Hanks, Star Wars-franchise reuse, etc.) per existing backlog precedent."
     },
     {
       "chunkId": "film-tv-p1-015",
@@ -6204,11 +6204,11 @@
         "general-2298",
         "general-2337"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 2,
+      "notes": "Chunk was almost entirely general-derived easy film-tv chestnuts (Wizard of Oz, Toy Story, Titanic, Star Wars, Harry Potter, Breaking Bad, etc.), all verified factually accurate. Found and cut a triplicate: general-226/general-1287/general-2337 all ask 'what is the annual film awards ceremony known as the Oscars' - hidden from validate's same-answer check by a singular/plural mismatch (general-226 answered 'Academy Award', the other two 'Academy Awards'), same pattern as the civics-law-economics 'Public good(s)' gap documented in CLAUDE.md. Kept general-1287, cut the other two. All other same-answer flags (Titanic cluster resurfacing, Star Wars/Force, Friends/Central-Perk 3-way, director/actor reuse) were legitimate distinct facts or already-adjudicated clusters from prior chunks/commits, not new duplicates."
     },
     {
       "chunkId": "film-tv-p1-016",
@@ -6265,11 +6265,11 @@
         "film-tv-224",
         "film-tv-230"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 1,
+      "notes": "All 44 reviewed questions verified factually accurate (Oscar records, MCU kickoff film, Cannes Palme d'Or, Rosebud sled, Isla Nublar, Duffer Brothers, etc.) with correct distractors. Cut one duplicate: general-2485 ('1980s film features a DeLorean modified into a time machine') restates general-920 ('1985 Robert Zemeckis film features a time-traveling DeLorean car') - same core fact, kept the more specific 920. Other same-answer flags (South Park orange color reused generically, Friends/Central-Perk 3-way, director/actor reuse across different films) were false positives or already-adjudicated clusters."
     },
     {
       "chunkId": "film-tv-p1-017",
@@ -6326,11 +6326,11 @@
         "film-tv-419",
         "film-tv-424"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 1,
+      "notes": "All 44 questions verified factually accurate (GoT, LOTR cast, Star Trek, Ratatouille, Barbie, Oppenheimer/Los Alamos, Chernobyl's 5 episodes, etc.). Found and cut one synonym-hidden duplicate: film-tv-277 ('what is Newman's occupation?' -> Postal worker) and film-tv-387 ('what is Newman's job that makes him Jerry's nemesis?' -> Mail carrier) are the same Seinfeld fact, invisible to validate's same-answer check because 'Postal worker' and 'Mail carrier' don't match as text. Kept 277, cut 387. Other same-answer flags (Sicily/geography, LA/city reuse, James Cameron director reuse, etc.) were legitimate distinct facts."
     },
     {
       "chunkId": "film-tv-p1-018",

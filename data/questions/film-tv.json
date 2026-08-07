@@ -65,19 +65,6 @@
     "answer": "Star Wars"
   },
   {
-    "id": "general-226",
-    "category": "film-tv",
-    "difficulty": "easy",
-    "question": "What is the name of the annual film award given by the Academy of Motion Picture Arts and Sciences?",
-    "options": [
-      "Golden Globe",
-      "Academy Award",
-      "BAFTA",
-      "Emmy"
-    ],
-    "answer": "Academy Award"
-  },
-  {
     "id": "general-229",
     "category": "film-tv",
     "difficulty": "medium",
@@ -832,19 +819,6 @@
     "answer": "Tom Hanks"
   },
   {
-    "id": "general-1164",
-    "category": "film-tv",
-    "difficulty": "easy",
-    "question": "Which animated film features a clownfish named Marlin searching for his son?",
-    "options": [
-      "Finding Nemo",
-      "Shark Tale",
-      "The Little Mermaid",
-      "Finding Dory"
-    ],
-    "answer": "Finding Nemo"
-  },
-  {
     "id": "general-1165",
     "category": "film-tv",
     "difficulty": "medium",
@@ -1092,19 +1066,6 @@
     "answer": "Everything Everywhere All at Once"
   },
   {
-    "id": "general-1658",
-    "category": "film-tv",
-    "difficulty": "easy",
-    "question": "Which Pixar animated film follows a clownfish searching the ocean for his missing son?",
-    "options": [
-      "Finding Nemo",
-      "Moana",
-      "The Little Mermaid",
-      "Shark Tale"
-    ],
-    "answer": "Finding Nemo"
-  },
-  {
     "id": "general-1661",
     "category": "film-tv",
     "difficulty": "medium",
@@ -1326,19 +1287,6 @@
     "answer": "Ice Age"
   },
   {
-    "id": "general-2057",
-    "category": "film-tv",
-    "difficulty": "easy",
-    "question": "Which 1997 film starring Leonardo DiCaprio and Kate Winslet became a massive box-office hit about a doomed ocean liner?",
-    "options": [
-      "Titanic",
-      "The Beach",
-      "Revolutionary Road",
-      "Australia"
-    ],
-    "answer": "Titanic"
-  },
-  {
     "id": "general-2058",
     "category": "film-tv",
     "difficulty": "easy",
@@ -1376,19 +1324,6 @@
       "The Duffer Brothers"
     ],
     "answer": "The Wachowskis"
-  },
-  {
-    "id": "general-2064",
-    "category": "film-tv",
-    "difficulty": "easy",
-    "question": "In the original 'Star Wars' trilogy, who is revealed to be Luke Skywalker's father?",
-    "options": [
-      "Darth Vader",
-      "Obi-Wan Kenobi",
-      "Emperor Palpatine",
-      "Han Solo"
-    ],
-    "answer": "Darth Vader"
   },
   {
     "id": "general-2065",
@@ -1664,19 +1599,6 @@
     "answer": "Friends"
   },
   {
-    "id": "general-2337",
-    "category": "film-tv",
-    "difficulty": "easy",
-    "question": "What is the name of the annual film awards ceremony held in Hollywood, also known as the Oscars?",
-    "options": [
-      "Academy Awards",
-      "Golden Globe Awards",
-      "Emmy Awards",
-      "BAFTA Awards"
-    ],
-    "answer": "Academy Awards"
-  },
-  {
     "id": "general-2478",
     "category": "film-tv",
     "difficulty": "medium",
@@ -1716,19 +1638,6 @@
     "answer": "Casablanca"
   },
   {
-    "id": "general-2482",
-    "category": "film-tv",
-    "difficulty": "easy",
-    "question": "Which animated Disney film features the song 'Let It Go'?",
-    "options": [
-      "Frozen",
-      "Tangled",
-      "Moana",
-      "Encanto"
-    ],
-    "answer": "Frozen"
-  },
-  {
     "id": "general-2484",
     "category": "film-tv",
     "difficulty": "medium",
@@ -1740,32 +1649,6 @@
       "David Fincher"
     ],
     "answer": "Quentin Tarantino"
-  },
-  {
-    "id": "general-2485",
-    "category": "film-tv",
-    "difficulty": "easy",
-    "question": "Which 1980s film features a DeLorean modified into a time machine?",
-    "options": [
-      "Back to the Future",
-      "The Terminator",
-      "Blade Runner",
-      "Tron"
-    ],
-    "answer": "Back to the Future"
-  },
-  {
-    "id": "general-2486",
-    "category": "film-tv",
-    "difficulty": "easy",
-    "question": "Which actor voices Woody in the 'Toy Story' films?",
-    "options": [
-      "Tom Hanks",
-      "Tim Allen",
-      "Billy Crystal",
-      "Robin Williams"
-    ],
-    "answer": "Tom Hanks"
   },
   {
     "id": "general-2488",
@@ -7007,19 +6890,6 @@
     "answer": "Jane Margolis"
   },
   {
-    "id": "film-tv-387",
-    "category": "film-tv",
-    "difficulty": "easy",
-    "question": "On 'Seinfeld', what is Newman's job that makes him Jerry's nemesis?",
-    "options": [
-      "Mail carrier",
-      "Dentist",
-      "Police officer",
-      "Soup vendor"
-    ],
-    "answer": "Mail carrier"
-  },
-  {
     "id": "film-tv-388",
     "category": "film-tv",
     "difficulty": "easy",
@@ -11248,7 +11118,7 @@
     "id": "film-tv-720",
     "category": "film-tv",
     "difficulty": "medium",
-    "question": "In 'The Office' (US), what is the name of the small family-owned business that Dunder Mifflin acquires?",
+    "question": "In 'The Office' (US), Michael and Dwight go undercover to steal the client list of what small family-owned paper company, driving it out of business?",
     "options": [
       "Prince Family Paper",
       "Michael Scott Paper Company",
@@ -11295,19 +11165,6 @@
       "New York Mafia"
     ],
     "answer": "Kansas City Mafia"
-  },
-  {
-    "id": "film-tv-724",
-    "category": "film-tv",
-    "difficulty": "medium",
-    "question": "In 'Better Call Saul,' what is the name of the retirement home where Jimmy McGill's brother Chuck resides?",
-    "options": [
-      "Sun City",
-      "The Pines",
-      "Casa Tranquila",
-      "Sandpiper Crossing"
-    ],
-    "answer": "Sandpiper Crossing"
   },
   {
     "id": "film-tv-725",
@@ -11596,25 +11453,12 @@
     "answer": "Hadley's Hope"
   },
   {
-    "id": "film-tv-747",
-    "category": "film-tv",
-    "difficulty": "medium",
-    "question": "In 'Blade Runner,' what origami figure does Gaff leave at Deckard's apartment, implying he knows about Rachael?",
-    "options": [
-      "Matchstick",
-      "Chicken",
-      "Dove",
-      "Unicorn"
-    ],
-    "answer": "Unicorn"
-  },
-  {
     "id": "film-tv-748",
     "category": "film-tv",
     "difficulty": "medium",
-    "question": "In John Carpenter's 'The Thing,' what is the numerical designation of the Norwegian research base?",
+    "question": "In John Carpenter's 'The Thing,' what is the numerical designation of the American research station where the film is set?",
     "options": [
-      "U.S. Outpost 31",
+      "McMurdo Station",
       "Snow Drift",
       "Outpost 31",
       "Thule Station"
@@ -12111,7 +11955,7 @@
       "Backbiter",
       "The Master Bolt",
       "Riptide",
-      "Anaklusmos"
+      "Poseidon's Trident"
     ],
     "answer": "Riptide"
   },
