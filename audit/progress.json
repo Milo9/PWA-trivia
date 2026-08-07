@@ -5899,11 +5899,11 @@
         "film-tv-472",
         "film-tv-473"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 3,
+      "notes": "Fixed 3 issues: film-tv-406 wrongly had 'Gamgee' as both the surname and the answer to what it's short for (self-referential/wrong; Tolkien's in-universe etymology is Gamgee<-Gammidge<-Gamwich), reworded question and corrected answer to Gammidge. film-tv-422 (No Country for Old Men bolt-gun weapon) had two distractors ('Cattle gun', 'Bolt pistol') that are real-world synonyms for the correct answer 'Captive bolt stunner', not actually wrong; replaced with Nail gun/Tranquilizer gun. film-tv-429 was self-answering (question stem said Jim transferred to Stamford, then asked which branch he works at, answer Stamford branch) - cut. All other 47 questions in chunk (GoT, Breaking Bad, The Bear, Stranger Things, Oppenheimer, EEAAO, Interstellar, Inception, Whiplash, Get Out, The Departed, Star Wars, LOTR, Sopranos, Barbie, Pulp Fiction, Kill Bill, Grand Budapest Hotel, classic-Oscar/Hitchcock/noir titles, Pixar films, Succession, Seinfeld, Jurassic Park, etc.) verified factually accurate with correct distractors, including web-verified specifics (savewalterwhite.com domain, cattle-gun terminology)."
     },
     {
       "chunkId": "film-tv-p1-011",
@@ -5960,11 +5960,11 @@
         "film-tv-567",
         "film-tv-568"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 4,
+      "notes": "Fixed/cut 4 issues: film-tv-927 was a duplicate of film-tv-476 (both ask Skynet's Judgment Day date, Aug 29 1997) and additionally misattributed the date to the original 1984 Terminator film when it was only established in T2 (1991) - cut, kept film-tv-476. film-tv-500 (Office 'Dinner Party' plasma TV measuring '55 inches diagonally') is fabricated - checked the episode transcript/quotes and no such measurement is ever stated on-screen (the actual joke is the TV turning out comically tiny, with no inches given) - cut. film-tv-976 was a nonsensical self-referential question ('Who is the fashion critic who reviews Anton Ego in Ratatouille?' answer: Anton Ego) - Anton Ego is himself the food critic, not someone reviewed by a separate fashion critic - cut. film-tv-553 was a reversed-direction duplicate of film-tv-435 (both about Joe Gillis's body floating in the swimming pool at the start of Sunset Boulevard, one asking who/one asking where) - cut, kept film-tv-435. All other 46 questions (Terminator, Jaws, Pulp Fiction, Inception, Dune, Star Wars, Shawshank, Big Lebowski, Fargo, Better Call Saul, Game of Thrones, Se7en, Goodfellas, Parks and Rec, No Country for Old Men, Titanic, Willy Wonka, Chernobyl, MCU, Mean Girls, Shrek, multiple Best Picture/Oscar-history questions, Incredibles, Ratatouille, Bourne Identity, T2, Clueless, Unforgiven, Usual Suspects, and a run of classic-noir/golden-age titles - Casablanca, Roman Holiday, Vertigo, Breakfast at Tiffany's, Some Like It Hot, Double Indemnity, To Kill a Mockingbird, Maltese Falcon, Bonnie and Clyde) verified factually accurate with correct distractors, including web-verified specifics (Skynet date, Office TV transcript check)."
     },
     {
       "chunkId": "film-tv-p1-012",
@@ -6021,11 +6021,11 @@
         "film-tv-690",
         "film-tv-692"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 7,
+      "notes": "Fixed/cut 7 issues: film-tv-594 ('highest-grossing animated film of all time, as of 2026' -> Inside Out 2) was stale - web-verified that Ne Zha 2 (2025) surpassed both Inside Out 2 and Zootopia 2 to become the actual record holder as of 2026; swapped Frozen II option for Ne Zha 2 and corrected the answer. film-tv-1024 was a duplicate of film-tv-587 (both ask which RRR song won Best Original Song at the 2023 Oscars, Naatu Naatu) - cut. film-tv-933 was a duplicate of film-tv-619 (both ask who the original Friday the 13th (1980) killer was before Jason, Pamela Voorhees) - cut. film-tv-941 was a same-fact duplicate of film-tv-639 (both about Bilbo/Frodo's mithril shirt in LOTR) - cut. film-tv-682 (Don Draper's real identity) had a garbled, self-contradictory question stem ('...Season 3's The Carousel is not it, but earlier...') that also misattributed the reveal to Season 3 (it's Season 1) - reworded to a clean question, kept the correct answer (Dick Whitman). film-tv-692 (a 'rap song title' supposedly written by a crew member of Method Man's Wire character Cheese Wagstaff, 'L to the OG') could not be verified via web search as a real element of the show and appears fabricated - cut. All other 43 questions (Oscar history from Patton through the 97th Academy Awards, Close Encounters, Raging Bull, Rain Man, When Harry Met Sally, Top Gun: Maverick, CODA, Dune Part Two, Pixar films (Coco/Soul/Encanto), How to Train Your Dragon, Tangled, Little Mermaid, horror classics (Halloween, Friday the 13th, Scream, The Conjuring, Hereditary, Bates Motel, Hannibal), LOTR (Sting), Game of Thrones, Terminator, Avatar, Dune, Emmy/Oscar-hosting records, Elton John EGOT, MASH finale, The Wire, Sopranos, Succession, Mad Men) verified factually accurate with correct distractors, including web-verified specifics (Ne Zha 2 record, Wire song fabrication check)."
     },
     {
       "chunkId": "film-tv-p1-013",
