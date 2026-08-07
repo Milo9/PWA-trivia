@@ -4091,11 +4091,11 @@
         "business-brands-095",
         "business-brands-111"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 5,
+      "notes": "Fixed Arch Deluxe launch year (1996, not 1992); disambiguated Heinz EZ Squirt color question (green was first, purple also real) by specifying 'first'; rewrote garbled Revlon name-origin question/options (was internally incoherent, correct fact is Rev+Lachman->Revlon); fixed Satisfries stat mismatch (30% less fat/20% fewer calories vs BK's own fries, not the 40%/30% figure which was actually vs McDonald's); cut business-brands-052 as a reversed-direction duplicate of -884 (both the Domino's Noid mascot fact)."
     },
     {
       "chunkId": "business-brands-p1-015",
@@ -4152,11 +4152,11 @@
         "business-brands-329",
         "business-brands-332"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 1,
+      "notes": "Fixed business-brands-287: Poo-Chi (Sega Toys, 2000) was a robotic dog toy, not a 'wearable Tamagotchi-like watch,' and WebSearch found no evidence it 'flopped' (2-year run typical for the fad-toy category) — reworded to the verified facts."
     },
     {
       "chunkId": "business-brands-p1-016",
@@ -4213,11 +4213,11 @@
         "business-brands-732",
         "business-brands-742"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 2,
+      "notes": "Fixed business-brands-506: hotel name was 'Mobberly Hotel', WebSearch confirms it's actually the Mobley Hotel (Cisco, TX, 1919). Cut business-brands-473 as a duplicate of -377 (both test the same 'Baskin-Robbins 31 = one flavor per day of month' fact, just framed as logo vs. slogan)."
     },
     {
       "chunkId": "business-brands-p1-017",
@@ -4273,11 +4273,11 @@
         "business-brands-895",
         "business-brands-896"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 7,
+      "notes": "Fixed business-brands-793 (Snapple slogan): cut the unverifiable/false 'written by Howard Stern's writer' claim (WebSearch credits marketer Jane Cavalier). Fixed business-brands-830: TOMS answer was flipped to the wrong distractor ('Shoes for Tomorrow' instead of 'Tomorrow's Shoes', the WebSearch-verified actual origin). Fixed business-brands-752: replaced a malformed KLM distractor that was a leaked explanatory sentence ('KLM is Dutch for Royal Aviation Company') with a normal airline name (Air France). Cut business-brands-795 (Red Bull 'gives you wiiings' animated-ad year): sources conflict (1987 product/slogan launch in Austria vs. 1997 animated-campaign launch per one source) and neither matches the stored '1992' answer or any clearly-correct option. Cut 3 duplicate pairs found via manual read: -762 (Timberland yellow boot) as a premise-reveals-answer duplicate of -896 (both the 1973 Timberland Original Yellow boot fact); -780 as a near-verbatim duplicate of -729 (both 'Betcha can't eat just one', Lay's, 1963); and -454 and -877 as reversed-direction/near-duplicates of already-shipped -199 (all three testing the same Amazon logo 'A to Z + smile' fact) — kept -199, cut the other two."
     },
     {
       "chunkId": "civics-law-economics-p1-000",
@@ -4334,11 +4334,11 @@
         "civics-law-economics-331",
         "civics-law-economics-332"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 3,
+      "notes": "Fixed civics-law-economics-139: OPEC's count had gone stale — WebSearch confirms the UAE also left OPEC in May 2026 (after Angola in Jan 2024), dropping membership to 11, not the stored 12; updated question and answer to reflect both withdrawals as of mid-2026. Cut civics-law-economics-322 as a duplicate of -1101 (both define 'nolle prosequi' as a prosecutor dropping charges). Cut civics-law-economics-331 as a duplicate of -250 (both define an 'en banc' hearing as all appellate judges sitting together, not just a panel)."
     },
     {
       "chunkId": "civics-law-economics-p1-001",
