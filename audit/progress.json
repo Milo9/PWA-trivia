@@ -5655,11 +5655,11 @@
         "film-tv-070",
         "film-tv-072"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 7,
+      "notes": "Fixed 3 factual errors: general-2942 wrongly gave Eleven's birth name as Jane Hopper (her adoptive/legal name) instead of Jane Ives (her actual birth name per Terry Ives); general-2947 wrongly gave Mr. Burns' first name as Montgomery (his middle name) instead of Charles; film-tv-019 had ambiguous options for The Fifth Element diva question where both 'Plavalaguna' and 'Diva Plavalaguna' were defensible correct answers, replaced the redundant option with Zorg. Cut 4 duplicates: general-2944/friends-286 (Ross's monkey Marcel), general-2945/film-tv-129 (Gus Fring's Los Pollos Hermanos), general-2963/film-tv-963 (Pixar's Luxo Jr. short), film-tv-063/film-tv-881 (Peter Finch's posthumous Oscar). Verified via WebSearch: Cabaret's 8-Oscars-without-Best-Picture record and Jack Nicholson's 12-nomination record both still stand. All other reviewed questions verified factually accurate with correct distractors."
     },
     {
       "chunkId": "film-tv-p1-007",
@@ -5716,11 +5716,11 @@
         "film-tv-190",
         "film-tv-193"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 4,
+      "notes": "Fixed 1 factual error: film-tv-173 claimed Russell Crowe won an Oscar for A Beautiful Mind (2001) when he was only nominated -- Denzel Washington won Best Actor that year for Training Day; reworded to 'was Oscar-nominated for' rather than 'won an Oscar for'. Cut 3 duplicates: film-tv-074/film-tv-1032 (Sundance Film Festival held in Park City), film-tv-091/general-238 (Snow White and the Seven Dwarfs as first feature-length animated film), and film-tv-664/film-tv-084 (Julia Louis-Dreyfus Emmy record for playing Selina Meyer in Veep) -- film-tv-664 also independently had a factual error, claiming '7 wins for Veep and Seinfeld' for the Lead Actress Comedy category when her Seinfeld win was for Supporting Actress and her real record is 6 consecutive wins for Veep alone, so cut rather than fixed since it fully restated film-tv-084's already-correct fact. Verified via WebSearch: Julia Louis-Dreyfus's actual Emmy history, Squid Game's still-standing 28-day Netflix viewership record as of 2026, and Hugh Jackman's 9-film count within the Fox X-Men universe specifically (correctly excludes the 2024 MCU film Deadpool & Wolverine). All other reviewed questions verified factually accurate with correct distractors."
     },
     {
       "chunkId": "film-tv-p1-008",
@@ -5777,11 +5777,11 @@
         "film-tv-296",
         "film-tv-301"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 2,
+      "notes": "Fixed 1 accuracy issue: film-tv-250 asked for Indiana Jones's fictional university with no film specified, but he's shown teaching at both Marshall College (Raiders, Crystal Skull) and Barnett College (Last Crusade) across the franchise, making 'Barnett College' also defensible -- pinned the question to 'Raiders of the Lost Ark' to resolve the ambiguity. Cut 1 duplicate: film-tv-289/film-tv-225, both asking for West Wing President Bartlet's first name (Josiah) -- kept film-tv-225 since its distractors are actual in-universe West Wing characters (Matthew Santos, Glenallen Walken, Robert Ritchie) vs film-tv-289's generic first names, one of which (Selina) confusingly borrowed from Veep. All other reviewed questions (heavy on 'who directed X' chestnuts) verified factually accurate; the many same-answer flags in this chunk were directors/actors with multiple distinct-film questions, not real duplicates."
     },
     {
       "chunkId": "film-tv-p1-009",
@@ -5838,11 +5838,11 @@
         "film-tv-380",
         "film-tv-384"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 3,
+      "notes": "Cut 3 duplicates: film-tv-302/film-tv-105 (Seinfeld's diner is Monk's Café), film-tv-375/film-tv-986 (Margaret Sixel edited Mad Max: Fury Road from 480+ hours of footage -- kept film-tv-986 since it adds the Oscar-win detail), film-tv-358/film-tv-931 (Aragorn's reforged sword Andúril -- kept film-tv-358, which is the in-chunk version but has more distinctive 'shards of Narsil' detail). Verified via WebSearch that The Turning Point/The Color Purple's tied 11-nomination-no-wins Oscar record (film-tv-373) still stands after the 2026 ceremony (Sinners' record 16 nominations still won 4 awards, so it didn't break the record). All other reviewed questions verified factually accurate with correct distractors."
     },
     {
       "chunkId": "film-tv-p1-010",

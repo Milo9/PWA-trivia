@@ -1877,12 +1877,12 @@
     "difficulty": "medium",
     "question": "In \"Stranger Things,\" what is Eleven's given birth name?",
     "options": [
-      "Joyce Hopper",
+      "Jane Ives",
       "Jane Hopper",
       "Sarah Byers",
       "Nancy Wheeler"
     ],
-    "answer": "Jane Hopper"
+    "answer": "Jane Ives"
   },
   {
     "id": "general-2943",
@@ -1896,32 +1896,6 @@
       "Cornelius"
     ],
     "answer": "Cosmo"
-  },
-  {
-    "id": "general-2944",
-    "category": "film-tv",
-    "difficulty": "medium",
-    "question": "On \"Friends,\" what is the name of Ross Geller's pet capuchin monkey?",
-    "options": [
-      "Marcel",
-      "Maurice",
-      "Mr. Mittens",
-      "Milo"
-    ],
-    "answer": "Marcel"
-  },
-  {
-    "id": "general-2945",
-    "category": "film-tv",
-    "difficulty": "medium",
-    "question": "In \"Breaking Bad,\" what is the name of the fast-food chain fronted by Gus Fring?",
-    "options": [
-      "Twisters",
-      "Los Pollos Hermanos",
-      "Burger-Matic",
-      "Chicken Brothers"
-    ],
-    "answer": "Los Pollos Hermanos"
   },
   {
     "id": "general-2946",
@@ -1942,12 +1916,12 @@
     "difficulty": "medium",
     "question": "In \"The Simpsons,\" what is the first name of the villainous Mr. Burns?",
     "options": [
+      "Charles",
       "Montgomery",
       "Mortimer",
-      "Matthew",
       "Maxwell"
     ],
-    "answer": "Montgomery"
+    "answer": "Charles"
   },
   {
     "id": "general-2948",
@@ -2117,19 +2091,6 @@
       "David Lynch"
     ],
     "answer": "Stanley Kubrick"
-  },
-  {
-    "id": "general-2963",
-    "category": "film-tv",
-    "difficulty": "medium",
-    "question": "The hopping lamp that serves as Pixar's mascot debuted in a 1986 short film with what title?",
-    "options": [
-      "\"Luxo Jr.\"",
-      "\"Red's Dream\"",
-      "\"Tin Toy\"",
-      "\"Knick Knack\""
-    ],
-    "answer": "\"Luxo Jr.\""
   },
   {
     "id": "general-2964",
@@ -2452,7 +2413,7 @@
       "Leeloo",
       "Ruby Rhod",
       "Plavalaguna",
-      "Diva Plavalaguna"
+      "Zorg"
     ],
     "answer": "Plavalaguna"
   },
@@ -2964,19 +2925,6 @@
     "answer": "James Dean"
   },
   {
-    "id": "film-tv-063",
-    "category": "film-tv",
-    "difficulty": "medium",
-    "question": "Who became the first actor to win a posthumous Academy Award for acting?",
-    "options": [
-      "Heath Ledger",
-      "Massimo Troisi",
-      "James Dean",
-      "Peter Finch"
-    ],
-    "answer": "Peter Finch"
-  },
-  {
     "id": "film-tv-064",
     "category": "film-tv",
     "difficulty": "hard",
@@ -3105,19 +3053,6 @@
       "Crystal Globe"
     ],
     "answer": "Golden Bear"
-  },
-  {
-    "id": "film-tv-074",
-    "category": "film-tv",
-    "difficulty": "medium",
-    "question": "In which US city does the Sundance Film Festival primarily take place?",
-    "options": [
-      "Telluride",
-      "Austin",
-      "Park City",
-      "Aspen"
-    ],
-    "answer": "Park City"
   },
   {
     "id": "film-tv-075",
@@ -3326,19 +3261,6 @@
       "Shrek"
     ],
     "answer": "Toy Story"
-  },
-  {
-    "id": "film-tv-091",
-    "category": "film-tv",
-    "difficulty": "medium",
-    "question": "What was the first feature-length traditional cel-animated film in cinema history?",
-    "options": [
-      "Pinocchio",
-      "Gulliver's Travels",
-      "Fantasia",
-      "Snow White and the Seven Dwarfs"
-    ],
-    "answer": "Snow White and the Seven Dwarfs"
   },
   {
     "id": "film-tv-092",
@@ -4371,7 +4293,7 @@
     "id": "film-tv-173",
     "category": "film-tv",
     "difficulty": "medium",
-    "question": "Which acclaimed actor won an Oscar for playing a brilliant mathematician struggling with schizophrenia in the 2001 film 'A Beautiful Mind'?",
+    "question": "Which acclaimed actor was Oscar-nominated for playing a brilliant mathematician struggling with schizophrenia in the 2001 film 'A Beautiful Mind'?",
     "options": [
       "Russell Crowe",
       "Tom Hanks",
@@ -5358,7 +5280,7 @@
   {
     "difficulty": "medium",
     "category": "film-tv",
-    "question": "What is the name of the fictional university where Indiana Jones teaches archaeology?",
+    "question": "In 'Raiders of the Lost Ark', what is the name of the fictional university where Indiana Jones teaches archaeology?",
     "options": [
       "Marshall College",
       "Barnett College",
@@ -5850,19 +5772,6 @@
     "answer": "Lacuna Inc."
   },
   {
-    "id": "film-tv-289",
-    "category": "film-tv",
-    "difficulty": "medium",
-    "question": "In 'The West Wing,' what is the first name of U.S. President Bartlet?",
-    "options": [
-      "Andrew",
-      "Frank",
-      "Selina",
-      "Josiah"
-    ],
-    "answer": "Josiah"
-  },
-  {
     "id": "film-tv-290",
     "category": "film-tv",
     "difficulty": "hard",
@@ -6017,19 +5926,6 @@
       "Bryan Fuller"
     ],
     "answer": "Joss Whedon"
-  },
-  {
-    "id": "film-tv-302",
-    "category": "film-tv",
-    "difficulty": "medium",
-    "question": "In 'Seinfeld,' what is the name of the diner the characters frequent throughout the series?",
-    "options": [
-      "Tom's Restaurant",
-      "Monk's Café",
-      "Reggie's",
-      "Mendy's"
-    ],
-    "answer": "Monk's Café"
   },
   {
     "id": "film-tv-303",
@@ -6966,19 +6862,6 @@
       "Lee Smith"
     ],
     "answer": "Thelma Schoonmaker"
-  },
-  {
-    "id": "film-tv-375",
-    "category": "film-tv",
-    "difficulty": "medium",
-    "question": "Which editor was given over 480 hours of footage to shape 'Mad Max: Fury Road' (2015) into a two-hour film?",
-    "options": [
-      "Paul Hirsch",
-      "Margaret Sixel",
-      "Jennifer Lame",
-      "Joe Walker"
-    ],
-    "answer": "Margaret Sixel"
   },
   {
     "id": "film-tv-376",
@@ -10699,19 +10582,6 @@
     "id": "film-tv-663"
   },
   {
-    "answer": "Julia Louis-Dreyfus",
-    "category": "film-tv",
-    "difficulty": "medium",
-    "options": [
-      "Julia Louis-Dreyfus",
-      "Tina Fey",
-      "Jean Smart",
-      "Lena Dunham"
-    ],
-    "question": "Who holds the record for most Emmy wins for Outstanding Lead Actress in a Comedy Series, with 7 wins for Veep and Seinfeld?",
-    "id": "film-tv-664"
-  },
-  {
     "answer": "Bob Hope",
     "category": "film-tv",
     "difficulty": "medium",
@@ -14129,19 +13999,6 @@
       "Their true form"
     ],
     "answer": "Their deepest desire"
-  },
-  {
-    "id": "film-tv-931",
-    "category": "film-tv",
-    "difficulty": "medium",
-    "question": "What is the name of Aragorn's reforged sword in The Lord of the Rings: Return of the King?",
-    "options": [
-      "Narsil",
-      "Andúril",
-      "Glamdring",
-      "Sting"
-    ],
-    "answer": "Andúril"
   },
   {
     "id": "film-tv-932",
