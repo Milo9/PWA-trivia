@@ -3003,19 +3003,6 @@
     "answer": "Grand jury"
   },
   {
-    "id": "civics-law-economics-216",
-    "difficulty": "medium",
-    "category": "civics-law-economics",
-    "question": "What type of good is both non-excludable and non-rivalrous, such as national defense?",
-    "options": [
-      "Private good",
-      "Public good",
-      "Common good",
-      "Club good"
-    ],
-    "answer": "Public good"
-  },
-  {
     "id": "civics-law-economics-217",
     "difficulty": "easy",
     "category": "civics-law-economics",
@@ -4290,19 +4277,6 @@
     "id": "civics-law-economics-314"
   },
   {
-    "difficulty": "medium",
-    "category": "civics-law-economics",
-    "question": "What contract clause excuses performance when extraordinary events like war, natural disaster, or pandemic make it impossible?",
-    "options": [
-      "Force majeure clause",
-      "Severability clause",
-      "Sunset clause",
-      "Liquidated damages clause"
-    ],
-    "answer": "Force majeure clause",
-    "id": "civics-law-economics-315"
-  },
-  {
     "difficulty": "easy",
     "category": "civics-law-economics",
     "question": "What clause ensures that if one part of a contract is invalid, the remaining parts stay enforceable?",
@@ -4808,19 +4782,6 @@
     ],
     "answer": "Sin tax",
     "id": "civics-law-economics-356"
-  },
-  {
-    "difficulty": "medium",
-    "category": "civics-law-economics",
-    "question": "What market signal occurs when short-term government bond yields rise above long-term yields, often watched as a recession predictor?",
-    "options": [
-      "Yield curve inversion",
-      "Quantitative easing",
-      "Open market operation",
-      "Moral hazard"
-    ],
-    "answer": "Yield curve inversion",
-    "id": "civics-law-economics-357"
   },
   {
     "difficulty": "medium",
@@ -13533,32 +13494,6 @@
     "answer": "Corporatism"
   },
   {
-    "id": "civics-law-economics-1028",
-    "category": "civics-law-economics",
-    "difficulty": "medium",
-    "question": "What is the political theory advocating for worker ownership and control of industry through trade unions?",
-    "options": [
-      "Syndicalism",
-      "Corporatism",
-      "Unionism",
-      "Collectivism"
-    ],
-    "answer": "Syndicalism"
-  },
-  {
-    "id": "civics-law-economics-1029",
-    "category": "civics-law-economics",
-    "difficulty": "medium",
-    "question": "What is the term for a political philosophy advocating for a state limited to protecting individuals from aggression, theft, and breach of contract?",
-    "options": [
-      "Minarchism",
-      "Anarchism",
-      "Statism",
-      "Totalitarianism"
-    ],
-    "answer": "Minarchism"
-  },
-  {
     "id": "civics-law-economics-1030",
     "category": "civics-law-economics",
     "difficulty": "medium",
@@ -13596,19 +13531,6 @@
       "Populism"
     ],
     "answer": "Cosmopolitanism"
-  },
-  {
-    "id": "civics-law-economics-1033",
-    "category": "civics-law-economics",
-    "difficulty": "medium",
-    "question": "What is the term for the political, economic, or military predominance of one state over other states?",
-    "options": [
-      "Hegemony",
-      "Autarky",
-      "Détente",
-      "Containment"
-    ],
-    "answer": "Hegemony"
   },
   {
     "id": "civics-law-economics-1034",
@@ -13908,19 +13830,6 @@
       "Pleading"
     ],
     "answer": "Motion"
-  },
-  {
-    "id": "civics-law-economics-1057",
-    "category": "civics-law-economics",
-    "difficulty": "medium",
-    "question": "What is the term for damages awarded in a civil lawsuit to punish the defendant for particularly egregious conduct?",
-    "options": [
-      "Punitive damages",
-      "Compensatory damages",
-      "Nominal damages",
-      "Liquidated damages"
-    ],
-    "answer": "Punitive damages"
   },
   {
     "id": "civics-law-economics-1058",
@@ -14508,32 +14417,6 @@
     "answer": "Coram nobis"
   },
   {
-    "id": "civics-law-economics-1103",
-    "category": "civics-law-economics",
-    "difficulty": "medium",
-    "question": "What is the legal term for a proceeding brought by one party in the absence of the opposing party, often for emergency relief?",
-    "options": [
-      "Ex parte",
-      "In camera",
-      "Amicus curiae",
-      "Inter partes"
-    ],
-    "answer": "Ex parte"
-  },
-  {
-    "id": "civics-law-economics-1104",
-    "category": "civics-law-economics",
-    "difficulty": "medium",
-    "question": "What is the legal term for a proceeding conducted in private, often in a judge's chambers, rather than in open court?",
-    "options": [
-      "In camera",
-      "Ex parte",
-      "En banc",
-      "Sua sponte"
-    ],
-    "answer": "In camera"
-  },
-  {
     "id": "civics-law-economics-1105",
     "category": "civics-law-economics",
     "difficulty": "medium",
@@ -14859,19 +14742,6 @@
     "answer": "Equitable servitude"
   },
   {
-    "id": "civics-law-economics-1130",
-    "category": "civics-law-economics",
-    "difficulty": "medium",
-    "question": "What is the property law term for any right or interest in real property that diminishes its value or burden, such as a lien or easement?",
-    "options": [
-      "Encumbrance",
-      "Appurtenance",
-      "Hereditament",
-      "Chattel"
-    ],
-    "answer": "Encumbrance"
-  },
-  {
     "id": "civics-law-economics-1131",
     "category": "civics-law-economics",
     "difficulty": "medium",
@@ -14961,32 +14831,6 @@
       "Vicarious liability"
     ],
     "answer": "Limited liability"
-  },
-  {
-    "id": "civics-law-economics-1138",
-    "category": "civics-law-economics",
-    "difficulty": "hard",
-    "question": "What is the legal term for the equitable remedy where a court disregards the corporate entity and holds shareholders personally liable?",
-    "options": [
-      "Piercing the corporate veil",
-      "Ultra vires",
-      "Capitalization",
-      "Shareholder derivative suit"
-    ],
-    "answer": "Piercing the corporate veil"
-  },
-  {
-    "id": "civics-law-economics-1139",
-    "category": "civics-law-economics",
-    "difficulty": "medium",
-    "question": "What is the legal term for acts attempted by a corporation that are beyond the scope of its stated powers or charter?",
-    "options": [
-      "Ultra vires",
-      "Intra vires",
-      "Quo warranto",
-      "Mandamus"
-    ],
-    "answer": "Ultra vires"
   },
   {
     "id": "civics-law-economics-1140",
@@ -15234,19 +15078,6 @@
       "Phillips curve"
     ],
     "answer": "AD-AS model"
-  },
-  {
-    "id": "civics-law-economics-1161",
-    "category": "civics-law-economics",
-    "difficulty": "hard",
-    "question": "What is the economic formula representing the relationship between inputs (labor and capital) and the maximum output that can be produced?",
-    "options": [
-      "Cobb-Douglas production function",
-      "Leontief production function",
-      "CES production function",
-      "Solow growth model"
-    ],
-    "answer": "Cobb-Douglas production function"
   },
   {
     "id": "civics-law-economics-1162",
@@ -15548,19 +15379,6 @@
     "answer": "Production possibility frontier"
   },
   {
-    "id": "civics-law-economics-1186",
-    "category": "civics-law-economics",
-    "difficulty": "hard",
-    "question": "What is the economic term for a graphical representation of a two-person, two-good exchange economy, showing possible allocations of goods?",
-    "options": [
-      "Edgeworth box",
-      "Production possibility frontier",
-      "Indifference curve",
-      "Supply and demand diagram"
-    ],
-    "answer": "Edgeworth box"
-  },
-  {
     "id": "civics-law-economics-1187",
     "category": "civics-law-economics",
     "difficulty": "hard",
@@ -15587,19 +15405,6 @@
     "answer": "Veblen good"
   },
   {
-    "id": "civics-law-economics-1189",
-    "category": "civics-law-economics",
-    "difficulty": "medium",
-    "question": "What is the economic term for the phenomenon where demand for a product decreases because too many other people are buying it, driven by a desire for exclusivity?",
-    "options": [
-      "Snob effect",
-      "Bandwagon effect",
-      "Veblen effect",
-      "Network effect"
-    ],
-    "answer": "Snob effect"
-  },
-  {
     "id": "civics-law-economics-1190",
     "category": "civics-law-economics",
     "difficulty": "medium",
@@ -15611,32 +15416,6 @@
       "Network effect"
     ],
     "answer": "Bandwagon effect"
-  },
-  {
-    "id": "civics-law-economics-1191",
-    "category": "civics-law-economics",
-    "difficulty": "hard",
-    "question": "What is the economic model describing an oligopoly where firms compete by setting quantities simultaneously?",
-    "options": [
-      "Cournot competition",
-      "Bertrand competition",
-      "Stackelberg competition",
-      "Perfect competition"
-    ],
-    "answer": "Cournot competition"
-  },
-  {
-    "id": "civics-law-economics-1192",
-    "category": "civics-law-economics",
-    "difficulty": "hard",
-    "question": "What is the economic model describing an oligopoly where firms compete by setting prices simultaneously?",
-    "options": [
-      "Bertrand competition",
-      "Cournot competition",
-      "Stackelberg competition",
-      "Monopolistic competition"
-    ],
-    "answer": "Bertrand competition"
   },
   {
     "id": "civics-law-economics-1193",
@@ -15741,19 +15520,6 @@
       "Laffer curve"
     ],
     "answer": "Henry George theorem"
-  },
-  {
-    "id": "civics-law-economics-1201",
-    "category": "civics-law-economics",
-    "difficulty": "medium",
-    "question": "What is the field of economics that applies economic theory and methods to political behavior and government decision-making?",
-    "options": [
-      "Public choice theory",
-      "Social choice theory",
-      "Welfare economics",
-      "Political economy"
-    ],
-    "answer": "Public choice theory"
   },
   {
     "id": "civics-law-economics-1203",

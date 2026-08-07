@@ -4395,11 +4395,11 @@
         "civics-law-economics-546",
         "civics-law-economics-549"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 5,
+      "notes": "Cut 5 cross-chunk duplicates surfaced by same-answer matches: -1103 (ex parte, dup of -418), -1029 (minarchism, dup of -487), -1201 (public choice theory, dup of -503), -1028 (syndicalism, dup of -504), -1130 (encumbrance, dup of -533). All 50 questions in the chunk (legal writs/doctrines, jurisdiction types, eponymous economic laws, political science terms) verified factually accurate with correct distractors."
     },
     {
       "chunkId": "civics-law-economics-p1-002",
@@ -4456,11 +4456,11 @@
         "civics-law-economics-678",
         "civics-law-economics-682"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 6,
+      "notes": "Cut 6 cross-chunk duplicates surfaced by same-answer matches: -1191 (Cournot competition, dup of -589), -1192 (Bertrand competition, dup of -590), -1186 (Edgeworth box, dup of -591), -1161 (Cobb-Douglas production function, dup of -593), -1189 (snob effect, dup of -605), -1033 (hegemony, dup of -653). All 50 questions in the chunk (finance/economics theory, monetary policy, IR theory, tort/criminal law doctrines) verified factually accurate with correct distractors."
     },
     {
       "chunkId": "civics-law-economics-p1-003",
@@ -4517,11 +4517,11 @@
         "civics-law-economics-068",
         "civics-law-economics-069"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 1,
+      "notes": "Cut 1 cross-chunk duplicate: -1138 (piercing the corporate veil, dup of -718). Rest of chunk (criminal/civil procedure terms, government/political system terms, IO headquarters facts, tort doctrines) verified factually accurate with correct distractors. The world-cultures-1133 same-answer flag on -761 (Shanghai) is coincidental city-name reuse, not a real duplicate."
     },
     {
       "chunkId": "civics-law-economics-p1-004",
@@ -4578,11 +4578,11 @@
         "civics-law-economics-161",
         "civics-law-economics-162"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 0,
+      "notes": "Reviewed 50 questions (economics theory, unemployment types, exchange rate systems, IO headquarters/membership counts, legal jurisdiction terms, citizenship law). All facts, figures, and distractors verified accurate. No same-answer cross-references flagged; no issues found."
     },
     {
       "chunkId": "civics-law-economics-p1-005",
@@ -4639,11 +4639,11 @@
         "civics-law-economics-268",
         "civics-law-economics-269"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 2,
+      "notes": "Cut 2 duplicates: -1057 (punitive damages, exact dup of -169, flagged by same-answer index); -216 (public good/national defense, dup of -081 in an earlier chunk — missed by the automated same-answer index because of a singular/plural mismatch, 'Public good' vs 'Public goods'). Rest of chunk (market structures, IO headquarters, legal writs/procedure, government-system terms) verified accurate. Coincidental same-answer flags on -192 (Geneva, ILO vs WTO) and -212 (deposition vs the unrelated phase-change term) are not real duplicates."
     },
     {
       "chunkId": "civics-law-economics-p1-006",
@@ -4700,11 +4700,11 @@
         "civics-law-economics-358",
         "civics-law-economics-366"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 2,
+      "notes": "Cut 2 duplicates missed by the automated same-answer index due to noun-form mismatch (same pattern as p1-005's public-good/public-goods find): -357 ('Yield curve inversion', dup of -563 'Inverted yield curve'); -315 ('Force majeure clause', dup of -075 'Force majeure', both same war/natural-disaster example). Rest of chunk (tort/contract/property doctrines, civil procedure terms, macro/trade concepts) verified factually accurate."
     },
     {
       "chunkId": "civics-law-economics-p1-007",
@@ -4761,11 +4761,11 @@
         "civics-law-economics-458",
         "civics-law-economics-461"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 2,
+      "notes": "Cut 2 duplicates: -1104 (in camera, dup of -419), -1139 (ultra vires, narrower corporate-charter framing of the same doctrine as -421). Verified via WebSearch that -413's 'collective security' answer (vs distractor 'collective defense') is defensible despite surface ambiguity — both terms are genuinely described with 'attack on one is attack on all' phrasing in real usage, not an error. The Strasbourg/London same-answer flags on -369/-383/-1013 and -379/-389 are not duplicates: each names a different real institution genuinely headquartered in that city (European Parliament, Council of Europe, European Court of Human Rights all sit in Strasbourg; IMO and the Commonwealth Secretariat both sit in London). Rest of chunk (IO membership counts/headquarters, IR theory terms, property/tort/contract/criminal law doctrines, macro indices) verified accurate."
     },
     {
       "chunkId": "civics-law-economics-p1-008",

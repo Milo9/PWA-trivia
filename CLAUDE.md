@@ -372,6 +372,21 @@ grepping only for `error(s)`.
   cap (that would reintroduce generic-entity noise). Treat a
   suspiciously popular specific answer as worth a manual grep regardless
   of what `validate` reports.
+- **The same-answer grouping keys off exact normalized answer text, so a
+  trivial singular/plural (or other superficial wording) mismatch
+  between two otherwise-identical answers hides the pair from the check
+  entirely** — not just an edge case of the group-size-cap gap above,
+  but a separate, more basic miss. Confirmed 2026-08-07 in
+  civics-law-economics audit pass 1: `civics-law-economics-081`
+  ("non-excludable and non-rivalrous... national defense or street
+  lighting" → "Public goods") and `civics-law-economics-216`
+  ("non-excludable and non-rivalrous... national defense" → "Public
+  good") are the same fact with the same example, but "Public goods" vs
+  "Public good" never matched as the same answer. Worth a manual eye
+  whenever a question's answer is a common noun that could plausibly be
+  drafted singular in one pass and plural in another (goods/services,
+  effects, laws, etc.), since this class of near-miss won't show up in
+  `validate`'s or `check-draft.js`'s output at all.
 - **`dupeGroup` (in `categories.json`) widens the same-answer check
   beyond a single category.** Every `general`-derived category carries
   `"dupeGroup": "general"`, so the whole former-`general` bucket is
