@@ -5289,11 +5289,11 @@
         "film-tv-040",
         "film-tv-044"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 20,
+      "notes": "Fixed 2 factual errors (general-2488 wrongly credited Henry Selick with directing ParaNorman, which Sam Fell/Chris Butler actually directed - swapped to James and the Giant Peach; film-tv-010 wrongly said Chandler accidentally revealed Ginger's wooden leg to the group, when it was actually Joey who confessed to burning it in a fire). Cut 18 duplicates surfaced via same-answer cross-referencing: a 3-instance Forrest-Gump-Best-Picture near-duplicate cluster (general-2069/2077/2251, kept 4 other genuinely distinct angles - competitors beaten, plot/quote, director+plot, Oscar+Hanks), plus single duplicate pairs on Chaplin/Little Tramp, Hitchcock/Psycho+Birds, Sopranos/Tony-Soprano, Sunset-Boulevard-narrator, Seinfeld-diner, Silence-of-the-Lambs/Clarice-Starling, Chandler's-job (cross-category vs dedicated friends-176), Black-Panther/Wakanda, Breaking-Bad/Heisenberg (3-way), Mad-Men/Sterling-Cooper, and a 6-way Central-Perk cluster spanning film-tv and friends categories (cut general-1178, film-tv-032, friends-295, friends-551; kept friends-001 and the distinct series-finale friends-062)."
     },
     {
       "chunkId": "film-tv-p1-001",

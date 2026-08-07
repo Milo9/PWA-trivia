@@ -637,19 +637,6 @@
     "answer": "Peter Jackson"
   },
   {
-    "id": "general-598",
-    "category": "film-tv",
-    "difficulty": "hard",
-    "question": "Which silent film star was known worldwide as 'The Little Tramp'?",
-    "options": [
-      "Buster Keaton",
-      "Charlie Chaplin",
-      "Harold Lloyd",
-      "Stan Laurel"
-    ],
-    "answer": "Charlie Chaplin"
-  },
-  {
     "id": "general-680",
     "category": "film-tv",
     "difficulty": "easy",
@@ -1170,32 +1157,6 @@
     "answer": "Springfield"
   },
   {
-    "id": "general-1177",
-    "category": "film-tv",
-    "difficulty": "medium",
-    "question": "Which HBO series depicts organized crime through the eyes of mob boss Tony Soprano?",
-    "options": [
-      "The Sopranos",
-      "Boardwalk Empire",
-      "Ray Donovan",
-      "The Wire"
-    ],
-    "answer": "The Sopranos"
-  },
-  {
-    "id": "general-1178",
-    "category": "film-tv",
-    "difficulty": "easy",
-    "question": "What is the name of the coffee shop frequented by the characters in 'Friends'?",
-    "options": [
-      "Central Perk",
-      "The Grind",
-      "Java Joe's",
-      "Common Grounds"
-    ],
-    "answer": "Central Perk"
-  },
-  {
     "id": "general-1179",
     "category": "film-tv",
     "difficulty": "medium",
@@ -1534,19 +1495,6 @@
     "answer": "Rupert Grint"
   },
   {
-    "id": "general-1686",
-    "category": "film-tv",
-    "difficulty": "medium",
-    "question": "Which director is known for suspense films such as 'Psycho' and 'The Birds'?",
-    "options": [
-      "Orson Welles",
-      "Billy Wilder",
-      "Stanley Kubrick",
-      "Alfred Hitchcock"
-    ],
-    "answer": "Alfred Hitchcock"
-  },
-  {
     "id": "general-1687",
     "category": "film-tv",
     "difficulty": "easy",
@@ -1649,19 +1597,6 @@
       "Friday the 13th"
     ],
     "answer": "Halloween"
-  },
-  {
-    "id": "general-1698",
-    "category": "film-tv",
-    "difficulty": "hard",
-    "question": "Which 1950s film noir classic, directed by Billy Wilder, stars William Holden as a screenwriter narrating from beyond the grave?",
-    "options": [
-      "Sunset Boulevard",
-      "Double Indemnity",
-      "The Big Sleep",
-      "Chinatown"
-    ],
-    "answer": "Sunset Boulevard"
   },
   {
     "id": "general-1699",
@@ -1807,19 +1742,6 @@
     "answer": "Friends"
   },
   {
-    "id": "general-2069",
-    "category": "film-tv",
-    "difficulty": "easy",
-    "question": "Which film follows a slow-witted but kind-hearted man who unwittingly influences major historical events?",
-    "options": [
-      "Forrest Gump",
-      "Big Fish",
-      "The Green Mile",
-      "Cast Away"
-    ],
-    "answer": "Forrest Gump"
-  },
-  {
     "id": "general-2070",
     "category": "film-tv",
     "difficulty": "medium",
@@ -1870,32 +1792,6 @@
       "The Wheel of Time"
     ],
     "answer": "Game of Thrones"
-  },
-  {
-    "id": "general-2076",
-    "category": "film-tv",
-    "difficulty": "hard",
-    "question": "What is the name of the diner frequently visited by the characters in the sitcom 'Seinfeld'?",
-    "options": [
-      "Monk's Cafe",
-      "Central Perk",
-      "MacLaren's Pub",
-      "Paddy's Pub"
-    ],
-    "answer": "Monk's Cafe"
-  },
-  {
-    "id": "general-2077",
-    "category": "film-tv",
-    "difficulty": "medium",
-    "question": "Which 1994 film starring Tom Hanks won the Academy Award for Best Picture?",
-    "options": [
-      "Forrest Gump",
-      "Pulp Fiction",
-      "The Shawshank Redemption",
-      "Braveheart"
-    ],
-    "answer": "Forrest Gump"
   },
   {
     "id": "general-2078",
@@ -2041,19 +1937,6 @@
     "answer": "Russell Crowe"
   },
   {
-    "id": "general-2251",
-    "category": "film-tv",
-    "difficulty": "easy",
-    "question": "Which film won the Academy Award for Best Picture in 1994, featuring Tom Hanks as a slow-witted but kind-hearted man?",
-    "options": [
-      "Forrest Gump",
-      "Pulp Fiction",
-      "The Shawshank Redemption",
-      "Braveheart"
-    ],
-    "answer": "Forrest Gump"
-  },
-  {
     "id": "general-2252",
     "category": "film-tv",
     "difficulty": "easy",
@@ -2145,19 +2028,6 @@
     "answer": "The Shining"
   },
   {
-    "id": "general-2260",
-    "category": "film-tv",
-    "difficulty": "medium",
-    "question": "In 'Breaking Bad', what is the name of Walter White's alias?",
-    "options": [
-      "Heisenberg",
-      "Saul",
-      "Gus",
-      "Jesse"
-    ],
-    "answer": "Heisenberg"
-  },
-  {
     "id": "general-2261",
     "category": "film-tv",
     "difficulty": "hard",
@@ -2169,19 +2039,6 @@
       "Cabot Cove"
     ],
     "answer": "Twin Peaks"
-  },
-  {
-    "id": "general-2262",
-    "category": "film-tv",
-    "difficulty": "medium",
-    "question": "Which show follows the character Don Draper at a New York advertising agency?",
-    "options": [
-      "Mad Men",
-      "Suits",
-      "Billions",
-      "House of Cards"
-    ],
-    "answer": "Mad Men"
   },
   {
     "id": "general-2295",
@@ -2382,7 +2239,7 @@
     "id": "general-2488",
     "category": "film-tv",
     "difficulty": "hard",
-    "question": "Which director is known for stop-motion films like 'Coraline' and 'ParaNorman'?",
+    "question": "Which director is known for stop-motion films like 'Coraline' and 'James and the Giant Peach'?",
     "options": [
       "Henry Selick",
       "Tim Burton",
@@ -2507,19 +2364,6 @@
       "Los Pollos Hermanos"
     ],
     "answer": "Gray Matter"
-  },
-  {
-    "id": "general-2941",
-    "category": "film-tv",
-    "difficulty": "hard",
-    "question": "On \"Friends,\" what is Chandler Bing's oft-mocked job title?",
-    "options": [
-      "Statistical analysis and data reconfiguration",
-      "Insurance actuary",
-      "IT procurement specialist",
-      "Data entry supervisor"
-    ],
-    "answer": "Statistical analysis and data reconfiguration"
   },
   {
     "id": "general-2942",
@@ -2980,7 +2824,7 @@
     "id": "film-tv-010",
     "category": "film-tv",
     "difficulty": "hard",
-    "question": "What is the name of the woman with a wooden leg that Chandler accidentally reveals to everyone in Friends?",
+    "question": "What is the name of the woman with a wooden leg that Joey accidentally throws into a fire in Friends?",
     "options": [
       "Kathy",
       "Janice",
@@ -3198,19 +3042,6 @@
     "answer": "Red"
   },
   {
-    "id": "film-tv-027",
-    "category": "film-tv",
-    "difficulty": "hard",
-    "question": "Which actress played the lead role of FBI trainee Clarice Starling in 'The Silence of the Lambs'?",
-    "options": [
-      "Julianne Moore",
-      "Sigourney Weaver",
-      "Jodie Foster",
-      "Michelle Pfeiffer"
-    ],
-    "answer": "Jodie Foster"
-  },
-  {
     "id": "film-tv-028",
     "category": "film-tv",
     "difficulty": "medium",
@@ -3224,19 +3055,6 @@
     "answer": "Hans Zimmer"
   },
   {
-    "id": "film-tv-029",
-    "category": "film-tv",
-    "difficulty": "hard",
-    "question": "What is the name of the fictional African country in the movie 'Black Panther'?",
-    "options": [
-      "Zamunda",
-      "Genovia",
-      "Krakozhia",
-      "Wakanda"
-    ],
-    "answer": "Wakanda"
-  },
-  {
     "id": "film-tv-030",
     "category": "film-tv",
     "difficulty": "medium",
@@ -3248,32 +3066,6 @@
       "The Cugine"
     ],
     "answer": "The Stugots"
-  },
-  {
-    "id": "film-tv-031",
-    "category": "film-tv",
-    "difficulty": "hard",
-    "question": "In 'Breaking Bad', what is the street name used by Walter White?",
-    "options": [
-      "Pinkman",
-      "Tuco",
-      "Heisenberg",
-      "Gus"
-    ],
-    "answer": "Heisenberg"
-  },
-  {
-    "id": "film-tv-032",
-    "category": "film-tv",
-    "difficulty": "hard",
-    "question": "What is the name of the coffee shop where the main characters frequently gather in 'Friends'?",
-    "options": [
-      "Monk's Diner",
-      "MacLaren's Pub",
-      "The Peach Pit",
-      "Central Perk"
-    ],
-    "answer": "Central Perk"
   },
   {
     "id": "film-tv-033",
