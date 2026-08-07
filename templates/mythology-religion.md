@@ -5,10 +5,18 @@ You are drafting trivia questions for a multiple-choice trivia app. You have no 
 
 TOPIC: Mythology & Religion — gods, myths, and legends from any culture (Greek, Norse, Egyptian, Hindu, etc.), plus world religions, their figures, texts, and practices.
 
-COUNT: 100 questions.
+COUNT: 200 questions.
 
 AVOID THESE ANGLES — already well-covered in my question bank, so don't draft facts that overlap with these (pick different, more specific facts instead):
 - Name of Thor's hammer in Norse mythology (Mjölnir)
+- Icarus flying too close to the sun on wax-and-feather wings
+- Egyptian sun god depicted with a falcon head (Ra); Egyptian god of wisdom/writing/moon with an ibis head (Thoth)
+- Which bodhisattva/goddess is Avalokiteshvara/Guanyin — this equivalence fact gets tested from both the Sanskrit-name and Chinese-name direction, treat as a closed pair (the "1,000 arms" iconography detail is still a distinct, open fact)
+- Islamic month of fasting from dawn to sunset (Ramadan) — including the "precedes Shawwal" phrasing, same fact
+- Which Greek goddess sprang fully armed from Zeus's head (Athena)
+- Christian holiday commemorating the resurrection of Jesus (Easter)
+- Which Yoruba orisha is the trickster/messenger — avoid phrasing this as "syncretized with Eshu" while the answer IS Eshu, that's self-contradictory
+- Odin's hall Valhalla having 540 doors — don't frame this as "name of Odin's hall in Valhalla," Valhalla IS the hall, not a container of another hall
 
 Use web search to verify every fact — do not rely on memory alone. Prefer authoritative sources (encyclopedic sources, religious/mythological references) over guessing. For each question, actually find the fact via search rather than recalling it, especially for obscure details (lesser- known figures, specific texts).
 

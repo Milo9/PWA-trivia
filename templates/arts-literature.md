@@ -115,6 +115,18 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Eliot's "The Love Song of J. Alfred Prufrock"
 - Whitman's "O Captain! My Captain!"
 - Rodin's The Gates of Hell
+- "Who wrote [famous named work]" for: Midnight's Children (Rushdie), Dune (Frank Herbert), the Harry Potter book series (J.K. Rowling), Lord of the Flies (Golding), Go Set a Watchman (Harper Lee), The Name of the Rose (Umberto Eco) — all now covered
+- Name of the fictional wizarding school in Harry Potter (Hogwarts)
+- Which Shakespeare play features Rosencrantz and Guildenstern (Hamlet)
+- Who painted "The Hay Wain" (Constable)
+- Mark Twain as Samuel Clemens's pen name
+- Literal translation of "carpe diem"
+- Definition of a sonnet (14-line poem in iambic pentameter)
+- Who painted "The Haywain Triptych" (Hieronymus Bosch)
+- Who designed the Solomon R. Guggenheim Museum (Frank Lloyd Wright)
+- First winner of the Nobel Prize in Literature, 1901 (Sully Prudhomme)
+- First sub-Saharan African writer to win the Nobel Prize in Literature, 1986 (Wole Soyinka)
+- Who designed the glass pyramid entrance to the Louvre (I.M. Pei)
 
 Avoid drafting a question whose only in-universe answer is a character's name (or an in-story quoted term) that's identical to the work's title — these self-answering questions get cut regardless of how obscure the underlying fact is. Confirmed examples already hit: Voltaire's "Candide" (protagonist is literally named Candide), Voltaire's "Zadig" (protagonist named Zadig), Neal Stephenson's "Snow Crash" (the in-story drug is named "Snow Crash"), and Gogol's "Dead Souls" (the question's own premise quotes the phrase "dead souls").
 

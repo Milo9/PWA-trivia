@@ -183,6 +183,14 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Rwanda's "Land of a Thousand Hills" nickname
 - The Maldives as the world's flattest/lowest-lying country (any specific elevation figure — 1.5m, 2.4m, etc. — is still the same fact)
 - The 38th parallel as the Korean division line
+- Capital-city "what is the capital of X" for: Afghanistan, Bulgaria, Ecuador, Georgia (the country), Iraq, Portugal, Qatar, Ireland, Austria, Greece, Sweden, North Korea, Monaco (city and country share the same name) — all now covered
+- Which small European country borders both France and Germany (Luxembourg) — note Switzerland ALSO genuinely borders both, so don't draft this with Switzerland as the marked answer if Luxembourg is a distractor option (or vice versa) — it's a genuine two-correct-answer trap unless the option set excludes one of them
+- Which country shares its only land border with the UK (Ireland), or with Germany alone on the Jutland Peninsula (Denmark)
+- Which river flows through Prague (Vltava); longest river entirely within Spain (Tagus/Ebro — check which is marked); highest mountain in Spain on Tenerife (Teide); mountain range containing Mount Everest (Himalayas)
+- Deepest lake in North America (Crater Lake, 614m); largest lake entirely within Canada (Great Bear Lake); largest saltwater lake in the Western Hemisphere (Great Salt Lake); desert known for saguaro cactus spanning Arizona/California/Mexico (Sonoran); desert covering southern Argentina (Patagonian)
+- Strait separating Greenland and Iceland (Denmark Strait), Greenland and Baffin Island (Nares Strait), Sri Lanka and India (Palk Strait), New Zealand's North and South Islands (Cook Strait)
+- Which island chain forms Hawaii; the sea between Saudi Arabia and Egypt (Red Sea)
+- Which two islands make up Trinidad and Tobago — this is self-answering (the country name literally states both island names), avoid entirely regardless of phrasing
 
 Also watch for a flag-shape trap: a drafted question claimed Vatican City is "the only country other than Nepal" with a non-rectangular flag, and a companion question claimed Nepal is "one of only two" non-rectangular flags — both wrong. Switzerland's flag is also square (non-oblong), so there are three unusual flags (Nepal, Switzerland, Vatican City), not two, and which ones count as "non-rectangular" depends on a contested definition (a square is technically still a rectangle). Cut rather than draft this angle unless you can phrase it without an "only X" claim.
 

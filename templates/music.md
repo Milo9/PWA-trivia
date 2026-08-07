@@ -40,6 +40,13 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - "Tempo" as the term for a musical piece's speed/pace
 - Dolly Parton's "9 to 5" (1980) written for her movie of the same name
 - Woodstock (1969) as the festival held on Max Yasgur's farm/near Bethel, NY — already asked 3+ times, treat as fully exhausted
+- Miles Davis's "Kind of Blue" release year (1959); which piano suite Debussy's "Clair de Lune" comes from (Suite bergamasque); a cappella as the term for unaccompanied singing
+- Eminem's real name (Marshall Mathers) and his "Slim Shady" alter ego — both now covered, treat as a closed pair
+- Which 2015 Kendrick Lamar album won the 2018 Pulitzer Prize for Music (DAMN.); N.W.A's "Straight Outta Compton" as the foundational gangsta-rap album
+- Michael Jackson as the "King of Pop"; Kraftwerk's 1974 "Autobahn" as a pioneering electronic album; Woody Guthrie's 1940 "This Land Is Your Land"
+- Britney Spears' "...Baby One More Time" — both "who performed it" and "who wrote/produced it" (Max Martin) test the same fact from opposite directions, avoid either framing
+- "Which studio album by The Clash includes 'London Calling' as its title track" — self-answering (the album and title track share the name), avoid entirely
+- Mozart's Symphony No. 40's key (G minor) — don't include the nickname "Great G minor Symphony" in the question stem, it leaks the answer
 
 Use web search to verify every fact — do not rely on memory alone. Prefer authoritative sources (encyclopedic sources, music databases) over guessing. For each question, actually find the fact via search rather than recalling it, especially for obscure details (specific dates, lesser-known artists/works).
 

@@ -12712,5 +12712,2371 @@
       "Rohinton Mistry"
     ],
     "answer": "Salman Rushdie"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which fixed poetic form consists of 19 lines with two refrains that repeat alternately?",
+    "options": [
+      "Sestina",
+      "Villanelle",
+      "Pantoum",
+      "Ballade"
+    ],
+    "answer": "Villanelle",
+    "id": "arts-literature-881"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Which 39-line poetic form is built from six sestets and an envoi, rotating the same six end-words?",
+    "options": [
+      "Sestina",
+      "Villanelle",
+      "Ghazal",
+      "Rondeau"
+    ],
+    "answer": "Sestina",
+    "id": "arts-literature-882"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "What is the traditional syllable pattern of a Japanese haiku?",
+    "options": [
+      "7-5-7",
+      "5-5-7",
+      "5-7-5",
+      "7-7-5"
+    ],
+    "answer": "5-7-5",
+    "id": "arts-literature-883"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "What is the traditional syllable pattern of a Japanese tanka?",
+    "options": [
+      "5-7-5",
+      "5-7-5-7-7",
+      "7-5-7-5-7",
+      "5-7-5-7-5"
+    ],
+    "answer": "5-7-5-7-7",
+    "id": "arts-literature-884"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "What five-line light verse form typically rhymes AABBA and uses anapestic meter?",
+    "options": [
+      "Haiku",
+      "Cinquain",
+      "Limerick",
+      "Clerihew"
+    ],
+    "answer": "Limerick",
+    "id": "arts-literature-885"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "What term describes a novel told entirely through letters, diary entries, or other documents?",
+    "options": [
+      "Epistolary novel",
+      "Picaresque novel",
+      "Künstlerroman",
+      "Roman à clef"
+    ],
+    "answer": "Epistolary novel",
+    "id": "arts-literature-886"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "What German term denotes a coming-of-age novel focusing on psychological and moral growth?",
+    "options": [
+      "Zeitroman",
+      "Bildungsroman",
+      "Schlüsselroman",
+      "Heimatroman"
+    ],
+    "answer": "Bildungsroman",
+    "id": "arts-literature-887"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "What term denotes a novel in which real people appear under fictitious names?",
+    "options": [
+      "Bildungsroman",
+      "Epistolary novel",
+      "Roman à clef",
+      "Saga"
+    ],
+    "answer": "Roman à clef",
+    "id": "arts-literature-888"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Who coined the term 'unreliable narrator' in The Rhetoric of Fiction in 1961?",
+    "options": [
+      "Northrop Frye",
+      "Mikhail Bakhtin",
+      "Roland Barthes",
+      "Wayne C. Booth"
+    ],
+    "answer": "Wayne C. Booth",
+    "id": "arts-literature-889"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Who first used the phrase 'stream of consciousness' in a literary context in a 1918 review of Dorothy Richardson's Pilgrimage?",
+    "options": [
+      "Virginia Woolf",
+      "May Sinclair",
+      "T. S. Eliot",
+      "Dorothy Richardson"
+    ],
+    "answer": "May Sinclair",
+    "id": "arts-literature-890"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "What Latin term means starting a narrative in the middle of the action?",
+    "options": [
+      "In medias res",
+      "Ab initio",
+      "In situ",
+      "Deus ex machina"
+    ],
+    "answer": "In medias res",
+    "id": "arts-literature-891"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who coined the term 'pathetic fallacy' in Modern Painters in 1856?",
+    "options": [
+      "Matthew Arnold",
+      "William Hazlitt",
+      "John Ruskin",
+      "Walter Pater"
+    ],
+    "answer": "John Ruskin",
+    "id": "arts-literature-892"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "What is the term for the rhetorical turn or shift that occurs near the end of a sonnet?",
+    "options": [
+      "Caesura",
+      "Enjambment",
+      "Anaphora",
+      "Volta"
+    ],
+    "answer": "Volta",
+    "id": "arts-literature-893"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "What Old English and Norse poetic device calls the sea a 'whale-road'?",
+    "options": [
+      "Epithet",
+      "Kenning",
+      "Litotes",
+      "Meiosis"
+    ],
+    "answer": "Kenning",
+    "id": "arts-literature-894"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "What term denotes a manuscript that has been scraped clean and reused, leaving layered ghost text?",
+    "options": [
+      "Palimpsest",
+      "Codex",
+      "Incunabulum",
+      "Vellum"
+    ],
+    "answer": "Palimpsest",
+    "id": "arts-literature-895"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "What term for comic misuse of similar-sounding words is named after Sheridan's character Mrs. Malaprop?",
+    "options": [
+      "Spoonerism",
+      "Bowdlerism",
+      "Malapropism",
+      "Euphemism"
+    ],
+    "answer": "Malapropism",
+    "id": "arts-literature-896"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "What term for swapping initial sounds of words is named after Oxford don William Archibald Spooner?",
+    "options": [
+      "Mondegreen",
+      "Spoonerism",
+      "Solecism",
+      "Pleonasm"
+    ],
+    "answer": "Spoonerism",
+    "id": "arts-literature-897"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Which rhetorical device repeats the same words in reverse order, as in 'Eat to live, not live to eat'?",
+    "options": [
+      "Chiasmus",
+      "Zeugma",
+      "Anadiplosis",
+      "Antimetabole"
+    ],
+    "answer": "Antimetabole",
+    "id": "arts-literature-898"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "What French term denotes a story within a story that mirrors the outer work?",
+    "options": [
+      "Mise en abyme",
+      "Déjà vu",
+      "Roman à clef",
+      "Trompe-l'oeil"
+    ],
+    "answer": "Mise en abyme",
+    "id": "arts-literature-899"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "In Bram Stoker's Dracula, what is Jonathan Harker's profession when he travels to Transylvania?",
+    "options": [
+      "Solicitor",
+      "Physician",
+      "Priest",
+      "Journalist"
+    ],
+    "answer": "Solicitor",
+    "id": "arts-literature-900"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "In Alexandre Dumas's The Count of Monte Cristo, what was Edmond Dantès's occupation before his imprisonment?",
+    "options": [
+      "Lawyer",
+      "Blacksmith",
+      "Sailor",
+      "Soldier"
+    ],
+    "answer": "Sailor",
+    "id": "arts-literature-901"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "In Charles Dickens's Oliver Twist, what food does Oliver famously ask for more of in the workhouse?",
+    "options": [
+      "Bread",
+      "Gruel",
+      "Milk",
+      "Meat"
+    ],
+    "answer": "Gruel",
+    "id": "arts-literature-902"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "In Charles Dickens's A Christmas Carol, what is the name of Ebenezer Scrooge's underpaid clerk?",
+    "options": [
+      "Tim Hawkins",
+      "Samuel Wilkins",
+      "John Browne",
+      "Bob Cratchit"
+    ],
+    "answer": "Bob Cratchit",
+    "id": "arts-literature-903"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "In Mark Twain's The Adventures of Tom Sawyer, what does Tom trick his friends into whitewashing?",
+    "options": [
+      "Fence",
+      "Barn",
+      "Bridge",
+      "House"
+    ],
+    "answer": "Fence",
+    "id": "arts-literature-904"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "In Jane Austen's Persuasion, what hereditary title does Anne Elliot's father Sir Walter hold?",
+    "options": [
+      "Duke",
+      "Earl",
+      "Baronet",
+      "Viscount"
+    ],
+    "answer": "Baronet",
+    "id": "arts-literature-905"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "In Louisa May Alcott's Little Women, how many March sisters are there?",
+    "options": [
+      "Three",
+      "Four",
+      "Five",
+      "Six"
+    ],
+    "answer": "Four",
+    "id": "arts-literature-906"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "In Gustave Flaubert's Madame Bovary, what is Madame Bovary's first name?",
+    "options": [
+      "Marie",
+      "Emma",
+      "Louise",
+      "Sophie"
+    ],
+    "answer": "Emma",
+    "id": "arts-literature-907"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "In Nathaniel Hawthorne's The Scarlet Letter, what is the name of Hester Prynne's daughter?",
+    "options": [
+      "Grace",
+      "Hope",
+      "Pearl",
+      "Charity"
+    ],
+    "answer": "Pearl",
+    "id": "arts-literature-908"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "In Jonathan Swift's Gulliver's Travels, what is the name of the land of tiny inhabitants Gulliver visits first?",
+    "options": [
+      "Brobdingnag",
+      "Lilliput",
+      "Laputa",
+      "Balnibarbi"
+    ],
+    "answer": "Lilliput",
+    "id": "arts-literature-909"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "In Daniel Defoe's Robinson Crusoe, how many years does Crusoe famously spend on the desert island?",
+    "options": [
+      "12 years",
+      "15 years",
+      "28 years",
+      "20 years"
+    ],
+    "answer": "28 years",
+    "id": "arts-literature-910"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "In Jules Verne's Twenty Thousand Leagues Under the Seas, what is the name of Captain Nemo's submarine?",
+    "options": [
+      "Nautilus",
+      "Pequod",
+      "Albatross",
+      "Orion"
+    ],
+    "answer": "Nautilus",
+    "id": "arts-literature-911"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "In Jules Verne's Around the World in Eighty Days, what is the number of days in Phileas Fogg's wager?",
+    "options": [
+      "60 days",
+      "100 days",
+      "40 days",
+      "80 days"
+    ],
+    "answer": "80 days",
+    "id": "arts-literature-912"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "In George Eliot's Silas Marner, what is Silas's trade?",
+    "options": [
+      "Weaver",
+      "Miller",
+      "Blacksmith",
+      "Baker"
+    ],
+    "answer": "Weaver",
+    "id": "arts-literature-913"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "In George Orwell's Animal Farm, which phrase is Boxer's personal motto?",
+    "options": [
+      "Four legs good",
+      "All animals equal",
+      "I will work harder",
+      "Long live Napoleon"
+    ],
+    "answer": "I will work harder",
+    "id": "arts-literature-914"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which poet wrote the villanelle containing the line 'Do not go gentle into that good night'?",
+    "options": [
+      "Dylan Thomas",
+      "W. H. Auden",
+      "Seamus Heaney",
+      "Philip Larkin"
+    ],
+    "answer": "Dylan Thomas",
+    "id": "arts-literature-915"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "How many total lines does a traditional villanelle contain?",
+    "options": [
+      "14",
+      "19",
+      "21",
+      "16"
+    ],
+    "answer": "19",
+    "id": "arts-literature-916"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who wrote the Beat Generation long poem 'Howl' first published in 1956?",
+    "options": [
+      "Jack Kerouac",
+      "Gary Snyder",
+      "Allen Ginsberg",
+      "Lawrence Ferlinghetti"
+    ],
+    "answer": "Allen Ginsberg",
+    "id": "arts-literature-917"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Who wrote the poem 'Annabel Lee' set 'in a kingdom by the sea'?",
+    "options": [
+      "Walt Whitman",
+      "Emily Dickinson",
+      "Edgar Allan Poe",
+      "Ralph Waldo Emerson"
+    ],
+    "answer": "Edgar Allan Poe",
+    "id": "arts-literature-918"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who wrote the narrative ballad 'The Highwayman' opening 'The wind was a torrent of darkness'?",
+    "options": [
+      "Alfred Noyes",
+      "Rudyard Kipling",
+      "Alfred Tennyson",
+      "Walter Scott"
+    ],
+    "answer": "Alfred Noyes",
+    "id": "arts-literature-919"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Langston Hughes's poem beginning 'What happens to a dream deferred?' is formally titled what?",
+    "options": [
+      "The Weary Blues",
+      "Harlem",
+      "Montage",
+      "Lenox Avenue"
+    ],
+    "answer": "Harlem",
+    "id": "arts-literature-920"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Who wrote the poem 'Still I Rise'?",
+    "options": [
+      "Nikki Giovanni",
+      "Audre Lorde",
+      "Maya Angelou",
+      "Toni Morrison"
+    ],
+    "answer": "Maya Angelou",
+    "id": "arts-literature-921"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who wrote the sonnet 'Ozymandias' beginning 'I met a traveller from an antique land'?",
+    "options": [
+      "Percy Bysshe Shelley",
+      "John Keats",
+      "Lord Byron",
+      "Samuel Coleridge"
+    ],
+    "answer": "Percy Bysshe Shelley",
+    "id": "arts-literature-922"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "In which Lewis Carroll novel does the nonsense poem 'Jabberwocky' first appear?",
+    "options": [
+      "Alice's Adventures in Wonderland",
+      "Through the Looking-Glass",
+      "Sylvie and Bruno",
+      "The Hunting of the Snark"
+    ],
+    "answer": "Through the Looking-Glass",
+    "id": "arts-literature-923"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Who wrote 'The Tyger' — 'Tyger Tyger, burning bright'?",
+    "options": [
+      "William Wordsworth",
+      "Thomas Gray",
+      "John Clare",
+      "William Blake"
+    ],
+    "answer": "William Blake",
+    "id": "arts-literature-924"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which poetry collection by Sylvia Plath includes the poem 'Daddy'?",
+    "options": [
+      "The Colossus",
+      "Crossing the Water",
+      "Winter Trees",
+      "Ariel"
+    ],
+    "answer": "Ariel",
+    "id": "arts-literature-925"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who wrote 'Invictus' containing 'I am the master of my fate, I am the captain of my soul'?",
+    "options": [
+      "Rudyard Kipling",
+      "William Ernest Henley",
+      "A. E. Housman",
+      "Rupert Brooke"
+    ],
+    "answer": "William Ernest Henley",
+    "id": "arts-literature-926"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who wrote the fragmentary dream poem 'Kubla Khan'?",
+    "options": [
+      "Samuel Taylor Coleridge",
+      "William Wordsworth",
+      "John Keats",
+      "Percy Shelley"
+    ],
+    "answer": "Samuel Taylor Coleridge",
+    "id": "arts-literature-927"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Who wrote 'I wandered lonely as a cloud,' commonly known as 'Daffodils'?",
+    "options": [
+      "John Clare",
+      "Robert Southey",
+      "William Wordsworth",
+      "Samuel Coleridge"
+    ],
+    "answer": "William Wordsworth",
+    "id": "arts-literature-928"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who wrote the poem 'Caged Bird' beginning 'A free bird leaps on the back of the wind'?",
+    "options": [
+      "Langston Hughes",
+      "Gwendolyn Brooks",
+      "Maya Angelou",
+      "Alice Walker"
+    ],
+    "answer": "Maya Angelou",
+    "id": "arts-literature-929"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Who wrote the 1973 National Book Award-winning poem 'Diving into the Wreck'?",
+    "options": [
+      "Sylvia Plath",
+      "Adrienne Rich",
+      "Anne Sexton",
+      "Denise Levertov"
+    ],
+    "answer": "Adrienne Rich",
+    "id": "arts-literature-930"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which Renaissance painting technique involves soft blending of tones to eliminate harsh outlines, creating a smoky hazy effect?",
+    "options": [
+      "Sfumato",
+      "Impasto",
+      "Gouache",
+      "Fresco"
+    ],
+    "answer": "Sfumato",
+    "id": "arts-literature-931"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "What is the name of the technique that uses strong contrasts between light and dark to create volume?",
+    "options": [
+      "Grisaille",
+      "Chiaroscuro",
+      "Tempera",
+      "Encaustic"
+    ],
+    "answer": "Chiaroscuro",
+    "id": "arts-literature-932"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Which mural technique involves applying water-based pigments to wet plaster so the color becomes part of the wall?",
+    "options": [
+      "Tempera",
+      "Fresco",
+      "Gesso",
+      "Alla prima"
+    ],
+    "answer": "Fresco",
+    "id": "arts-literature-933"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which painting medium traditionally binds pigments with egg yolk?",
+    "options": [
+      "Encaustic",
+      "Tempera",
+      "Gouache",
+      "Impasto"
+    ],
+    "answer": "Tempera",
+    "id": "arts-literature-934"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which paint is described as opaque watercolor with high pigment concentration and a matte finish?",
+    "options": [
+      "Fresco",
+      "Grisaille",
+      "Gouache",
+      "Glazing"
+    ],
+    "answer": "Gouache",
+    "id": "arts-literature-935"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Which ancient painting method mixes pigments with heated beeswax and fuses them with heat?",
+    "options": [
+      "Tempera",
+      "Encaustic",
+      "Scumbling",
+      "Sfumato"
+    ],
+    "answer": "Encaustic",
+    "id": "arts-literature-936"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Which technique applies paint so thickly that brush and palette knife marks remain visible and sculptural?",
+    "options": [
+      "Sfumato",
+      "Grisaille",
+      "Impasto",
+      "Gesso"
+    ],
+    "answer": "Impasto",
+    "id": "arts-literature-937"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who painted the cityscape 'View of Delft' around 1660-1661?",
+    "options": [
+      "Johannes Vermeer",
+      "Rembrandt",
+      "Frans Hals",
+      "Pieter de Hooch"
+    ],
+    "answer": "Johannes Vermeer",
+    "id": "arts-literature-938"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Who painted the series of 'Sunflowers' in Arles to decorate the Yellow House?",
+    "options": [
+      "Paul Gauguin",
+      "Vincent van Gogh",
+      "Paul Cezanne",
+      "Claude Monet"
+    ],
+    "answer": "Vincent van Gogh",
+    "id": "arts-literature-939"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who painted 'Primavera', the large tempera panel of an allegory of Spring from the late 1470s?",
+    "options": [
+      "Titian",
+      "Sandro Botticelli",
+      "Raphael",
+      "Giovanni Bellini"
+    ],
+    "answer": "Sandro Botticelli",
+    "id": "arts-literature-940"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Who painted 'The Slave Ship', originally titled 'Slavers Throwing Overboard the Dead and Dying, Typhoon Coming On' in 1840?",
+    "options": [
+      "John Constable",
+      "J. M. W. Turner",
+      "Thomas Gainsborough",
+      "William Blake"
+    ],
+    "answer": "J. M. W. Turner",
+    "id": "arts-literature-941"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who painted 'The Tower of Babel', surviving in large and small versions from 1563?",
+    "options": [
+      "Hieronymus Bosch",
+      "Pieter Bruegel the Elder",
+      "Albrecht Durer",
+      "Jan Brueghel"
+    ],
+    "answer": "Pieter Bruegel the Elder",
+    "id": "arts-literature-942"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who painted 'Saturn Devouring His Son', one of the Black Paintings done on the walls of his house?",
+    "options": [
+      "Diego Velazquez",
+      "Francisco Goya",
+      "El Greco",
+      "Jusepe de Ribera"
+    ],
+    "answer": "Francisco Goya",
+    "id": "arts-literature-943"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who painted 'Portrait of Adele Bloch-Bauer I', also called The Woman in Gold, completed in 1907?",
+    "options": [
+      "Gustav Klimt",
+      "Egon Schiele",
+      "Oskar Kokoschka",
+      "Gustav Moreau"
+    ],
+    "answer": "Gustav Klimt",
+    "id": "arts-literature-944"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who painted the 'Ghent Altarpiece' of 1432 in St Bavo's Cathedral?",
+    "options": [
+      "Jan van Eyck",
+      "Rogier van der Weyden",
+      "Robert Campin",
+      "Hugo van der Goes"
+    ],
+    "answer": "Jan van Eyck",
+    "id": "arts-literature-945"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Who painted the 'Haystacks' series of about 25 canvases begun in Giverny in 1890?",
+    "options": [
+      "Camille Pissarro",
+      "Alfred Sisley",
+      "Claude Monet",
+      "Pierre-Auguste Renoir"
+    ],
+    "answer": "Claude Monet",
+    "id": "arts-literature-946"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Who painted 'The Surrender of Breda' also known as Las Lanzas, completed 1634-35?",
+    "options": [
+      "Zurbaran",
+      "Murillo",
+      "Diego Velazquez",
+      "Ribera"
+    ],
+    "answer": "Diego Velazquez",
+    "id": "arts-literature-947"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which monochrome technique uses only shades of grey to imitate sculpture in relief?",
+    "options": [
+      "Impasto",
+      "Grisaille",
+      "Alla prima",
+      "Scumbling"
+    ],
+    "answer": "Grisaille",
+    "id": "arts-literature-948"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Which dry-brush technique lightly drags a thin opaque layer of lighter paint over a dry darker layer for a hazy effect?",
+    "options": [
+      "Sfumato",
+      "Scumbling",
+      "Fresco",
+      "Gesso"
+    ],
+    "answer": "Scumbling",
+    "id": "arts-literature-949"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Which architect designed the Pennsylvania house Fallingwater built over a waterfall?",
+    "options": [
+      "Frank Lloyd Wright",
+      "Le Corbusier",
+      "Mies van der Rohe",
+      "Walter Gropius"
+    ],
+    "answer": "Frank Lloyd Wright",
+    "id": "arts-literature-950"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "The Venus de Milo is now attributed to which Hellenistic sculptor?",
+    "options": [
+      "Praxiteles",
+      "Phidias",
+      "Alexandros of Antioch",
+      "Myron"
+    ],
+    "answer": "Alexandros of Antioch",
+    "id": "arts-literature-951"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Since 1884, the Winged Victory of Samothrace has been prominently displayed in which museum?",
+    "options": [
+      "British Museum",
+      "Vatican Museums",
+      "Archaeological Museum of Naples",
+      "Louvre"
+    ],
+    "answer": "Louvre",
+    "id": "arts-literature-952"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "What material makeup is the famous Bust of Nefertiti noted for?",
+    "options": [
+      "Limestone and stucco",
+      "Solid gold",
+      "Bronze",
+      "Carrara marble"
+    ],
+    "answer": "Limestone and stucco",
+    "id": "arts-literature-953"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which Swiss-French architect designed Villa Savoye in Poissy?",
+    "options": [
+      "Alvar Aalto",
+      "Le Corbusier",
+      "Eero Saarinen",
+      "Oscar Niemeyer"
+    ],
+    "answer": "Le Corbusier",
+    "id": "arts-literature-954"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who won the 1957 competition to design the Sydney Opera House?",
+    "options": [
+      "Otto von Spreckelsen",
+      "Santiago Calatrava",
+      "Jørn Utzon",
+      "Eero Saarinen"
+    ],
+    "answer": "Jørn Utzon",
+    "id": "arts-literature-955"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Which Catalan architect dramatically transformed the design of Barcelona's Sagrada Família starting in 1883?",
+    "options": [
+      "Lluís Domènech i Montaner",
+      "Josep Lluís Sert",
+      "Enric Miralles",
+      "Antoni Gaudí"
+    ],
+    "answer": "Antoni Gaudí",
+    "id": "arts-literature-956"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who was the chief sculptor commissioned to carve Mount Rushmore?",
+    "options": [
+      "Gutzon Borglum",
+      "Augustus Saint-Gaudens",
+      "Daniel Chester French",
+      "Henry Shrady"
+    ],
+    "answer": "Gutzon Borglum",
+    "id": "arts-literature-957"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Which classical architectural order is characterized by capitals decorated with acanthus leaves?",
+    "options": [
+      "Doric",
+      "Corinthian",
+      "Ionic",
+      "Tuscan"
+    ],
+    "answer": "Corinthian",
+    "id": "arts-literature-958"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Who designed the Glass House in New Canaan, Connecticut as his own weekend retreat?",
+    "options": [
+      "Mies van der Rohe",
+      "Charles Eames",
+      "Philip Johnson",
+      "I.M. Pei"
+    ],
+    "answer": "Philip Johnson",
+    "id": "arts-literature-959"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "The Hellenistic sculpture Laocoön and His Sons depicts what mythic punishment?",
+    "options": [
+      "Sisyphus pushing boulder",
+      "Atlas holding sky",
+      "Trojan priest and sons strangled by sea serpents",
+      "Prometheus bound by chains"
+    ],
+    "answer": "Trojan priest and sons strangled by sea serpents",
+    "id": "arts-literature-960"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who sculpted the original bronze Discobolus around 460-450 BCE?",
+    "options": [
+      "Myron",
+      "Polykleitos",
+      "Phidias",
+      "Lysippos"
+    ],
+    "answer": "Myron",
+    "id": "arts-literature-961"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Which German-American modernist designed the Seagram Building in Manhattan?",
+    "options": [
+      "Walter Gropius",
+      "Ludwig Mies van der Rohe",
+      "Marcel Breuer",
+      "Richard Neutra"
+    ],
+    "answer": "Ludwig Mies van der Rohe",
+    "id": "arts-literature-962"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Which pair of scholar-architects were commissioned by Justinian I to design Hagia Sophia?",
+    "options": [
+      "Vitruvius and Apollodorus",
+      "Ictinus and Callicrates",
+      "Anthemius of Tralles and Isidore of Miletus",
+      "Brunelleschi and Alberti"
+    ],
+    "answer": "Anthemius of Tralles and Isidore of Miletus",
+    "id": "arts-literature-963"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "The thousands of life-size Terracotta Army warriors guard a necropolis near which Chinese city?",
+    "options": [
+      "Beijing",
+      "Luoyang",
+      "Chengdu",
+      "Xi'an"
+    ],
+    "answer": "Xi'an",
+    "id": "arts-literature-964"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "The exterior columns of the Parthenon in Athens belong to which order?",
+    "options": [
+      "Doric",
+      "Ionic",
+      "Corinthian",
+      "Composite"
+    ],
+    "answer": "Doric",
+    "id": "arts-literature-965"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "In sculpture, what does the term contrapposto describe?",
+    "options": [
+      "Carving from a single block",
+      "Weight shifted onto one leg creating S-curve",
+      "Polished bronze finish",
+      "Use of mixed materials"
+    ],
+    "answer": "Weight shifted onto one leg creating S-curve",
+    "id": "arts-literature-966"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Lost-wax casting is historically most associated with producing what?",
+    "options": [
+      "Fresco murals",
+      "Stained glass panels",
+      "Hollow bronze sculptures",
+      "Woodcut prints"
+    ],
+    "answer": "Hollow bronze sculptures",
+    "id": "arts-literature-967"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "The colossal Farnese Hercules, a Roman marble copy found in the Baths of Caracalla, is signed by which Athenian sculptor?",
+    "options": [
+      "Agesander",
+      "Niceratus",
+      "Praxiteles",
+      "Glykon"
+    ],
+    "answer": "Glykon",
+    "id": "arts-literature-968"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "In E. B. White's Charlotte's Web, what kind of animal is Wilbur?",
+    "options": [
+      "Pig",
+      "Lamb",
+      "Goat",
+      "Calf"
+    ],
+    "answer": "Pig",
+    "id": "arts-literature-969"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who wrote the children's classic Madeline, first published in 1939?",
+    "options": [
+      "Hergé",
+      "Ludwig Bemelmans",
+      "Maurice Sendak",
+      "Ezra Jack Keats"
+    ],
+    "answer": "Ludwig Bemelmans",
+    "id": "arts-literature-970"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "British illustrator Quentin Blake is best known for illustrating the books of which author?",
+    "options": [
+      "C.S. Lewis",
+      "A.A. Milne",
+      "Roald Dahl",
+      "J.K. Rowling"
+    ],
+    "answer": "Roald Dahl",
+    "id": "arts-literature-971"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "What is Dr. Seuss's real name?",
+    "options": [
+      "Theodor Geisel",
+      "Theodore Roosevelt",
+      "Theodor Herzl",
+      "Theodore Dreiser"
+    ],
+    "answer": "Theodor Geisel",
+    "id": "arts-literature-972"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Who wrote and illustrated Where the Wild Things Are?",
+    "options": [
+      "Eric Carle",
+      "Maurice Sendak",
+      "Shel Silverstein",
+      "Dr. Seuss"
+    ],
+    "answer": "Maurice Sendak",
+    "id": "arts-literature-973"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Who wrote the bedtime classic Goodnight Moon?",
+    "options": [
+      "Margaret Atwood",
+      "Clement Hurd",
+      "Margaret Wise Brown",
+      "Margaret Mitchell"
+    ],
+    "answer": "Margaret Wise Brown",
+    "id": "arts-literature-974"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "What is the name of the boy protagonist in Ezra Jack Keats's The Snowy Day?",
+    "options": [
+      "Peter",
+      "Tommy",
+      "Jamal",
+      "Bobby"
+    ],
+    "answer": "Peter",
+    "id": "arts-literature-975"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "On his first day of eating, what fruit does Eric Carle's Very Hungry Caterpillar eat?",
+    "options": [
+      "Pear",
+      "Apple",
+      "Plum",
+      "Strawberry"
+    ],
+    "answer": "Apple",
+    "id": "arts-literature-976"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "In Don Freeman's Corduroy, what is missing from the bear's green overalls?",
+    "options": [
+      "Shoe",
+      "Button",
+      "Patch",
+      "Bow tie"
+    ],
+    "answer": "Button",
+    "id": "arts-literature-977"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "What is the name of the tiger villain in Rudyard Kipling's The Jungle Book?",
+    "options": [
+      "Bagheera",
+      "Shere Khan",
+      "Rajah",
+      "Tigger"
+    ],
+    "answer": "Shere Khan",
+    "id": "arts-literature-978"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "In Ian Falconer's children's series, what kind of animal is Olivia?",
+    "options": [
+      "Cat",
+      "Pig",
+      "Mouse",
+      "Elephant"
+    ],
+    "answer": "Pig",
+    "id": "arts-literature-979"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "In If You Give a Mouse a Cookie, after getting a cookie, what does the mouse ask for next?",
+    "options": [
+      "Napkin",
+      "Glass of milk",
+      "Straw",
+      "Mirror"
+    ],
+    "answer": "Glass of milk",
+    "id": "arts-literature-980"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "In Kay Thompson's Eloise books, at which New York hotel does Eloise live?",
+    "options": [
+      "The Savoy",
+      "The Ritz",
+      "The Plaza Hotel",
+      "The Waldorf"
+    ],
+    "answer": "The Plaza Hotel",
+    "id": "arts-literature-981"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who was the original illustrator of A. A. Milne's Winnie-the-Pooh books?",
+    "options": [
+      "Quentin Blake",
+      "Garth Williams",
+      "E. H. Shepard",
+      "John Tenniel"
+    ],
+    "answer": "E. H. Shepard",
+    "id": "arts-literature-982"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who wrote and illustrated the Christmas classic The Polar Express?",
+    "options": [
+      "Eric Carle",
+      "Chris Van Allsburg",
+      "Tom Hanks",
+      "Ezra Jack Keats"
+    ],
+    "answer": "Chris Van Allsburg",
+    "id": "arts-literature-983"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Who wrote the children's novel Matilda about a girl with telekinetic powers?",
+    "options": [
+      "Roald Dahl",
+      "Beverly Cleary",
+      "Enid Blyton",
+      "J.K. Rowling"
+    ],
+    "answer": "Roald Dahl",
+    "id": "arts-literature-984"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Which persistent character keeps asking someone to try green eggs and ham?",
+    "options": [
+      "Sam-I-am",
+      "Horton",
+      "The Grinch",
+      "The Lorax"
+    ],
+    "answer": "Sam-I-am",
+    "id": "arts-literature-985"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "In Charlotte's Web, what is the first message Charlotte weaves to save Wilbur?",
+    "options": [
+      "Terrific",
+      "Radiant",
+      "Humble",
+      "Some Pig"
+    ],
+    "answer": "Some Pig",
+    "id": "arts-literature-986"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "What color are Pete the Cat's shoes before they change color multiple times over the course of his walk?",
+    "options": [
+      "White",
+      "Red",
+      "Blue",
+      "Brown"
+    ],
+    "answer": "White",
+    "id": "arts-literature-987"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "What type of animal is Curious George in the books by Margret and H.A. Rey?",
+    "options": [
+      "Lemur",
+      "Sloth",
+      "Monkey",
+      "Ape"
+    ],
+    "answer": "Monkey",
+    "id": "arts-literature-988"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "What is recognized as the oldest surviving epic poem in world literature?",
+    "options": [
+      "Epic of Gilgamesh",
+      "Epic of Beowulf",
+      "Epic of Sundiata",
+      "Enuma Elish"
+    ],
+    "answer": "Epic of Gilgamesh",
+    "id": "arts-literature-989"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "What was the name of the open-air theatre built in 1599 for Shakespeare's playing company, the Lord Chamberlain's Men?",
+    "options": [
+      "The Rose",
+      "The Swan",
+      "The Globe",
+      "The Curtain"
+    ],
+    "answer": "The Globe",
+    "id": "arts-literature-990"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "In what year was the Gutenberg Bible first printed, marking the first major book printed with movable type in Europe?",
+    "options": [
+      "1455",
+      "1320",
+      "1517",
+      "1611"
+    ],
+    "answer": "1455",
+    "id": "arts-literature-991"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "In what year was the Dewey Decimal Classification system first published by Melvil Dewey?",
+    "options": [
+      "1889",
+      "1901",
+      "1923",
+      "1876"
+    ],
+    "answer": "1876",
+    "id": "arts-literature-992"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "In what year was the U.S. Library of Congress established by an act signed by President John Adams?",
+    "options": [
+      "1776",
+      "1800",
+      "1812",
+      "1865"
+    ],
+    "answer": "1800",
+    "id": "arts-literature-993"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "In what year were the first Pulitzer Prizes awarded?",
+    "options": [
+      "1917",
+      "1922",
+      "1905",
+      "1930"
+    ],
+    "answer": "1917",
+    "id": "arts-literature-994"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "In what year was the Booker Prize for Fiction first awarded?",
+    "options": [
+      "1975",
+      "1961",
+      "1969",
+      "1982"
+    ],
+    "answer": "1969",
+    "id": "arts-literature-995"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "When was the International Standard Book Number (ISBN) system introduced internationally?",
+    "options": [
+      "1965",
+      "1955",
+      "1985",
+      "1970"
+    ],
+    "answer": "1970",
+    "id": "arts-literature-996"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "What is considered the world's first copyright statute, enacted in 1710?",
+    "options": [
+      "Statute of Anne",
+      "Berne Convention",
+      "Copyright Act of 1790",
+      "Stationers' Charter"
+    ],
+    "answer": "Statute of Anne",
+    "id": "arts-literature-997"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Which institution is the largest library in the world by collection size?",
+    "options": [
+      "Bodleian Library",
+      "British Library",
+      "Library of Congress",
+      "Bibliotheca Alexandrina"
+    ],
+    "answer": "Library of Congress",
+    "id": "arts-literature-998"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Which library founded in 859 CE in Fez is considered the world's oldest continuously operating library?",
+    "options": [
+      "Abbey Library of Saint Gall",
+      "Library of Ashurbanipal",
+      "Al-Azhar Library",
+      "Al-Qarawiyyin Library"
+    ],
+    "answer": "Al-Qarawiyyin Library",
+    "id": "arts-literature-999"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Which British publishing house, famous for pioneering inexpensive paperbacks, was co-founded in 1935 by Allen Lane?",
+    "options": [
+      "Faber and Faber",
+      "Penguin Books",
+      "Bantam Books",
+      "Virago Press"
+    ],
+    "answer": "Penguin Books",
+    "id": "arts-literature-1000"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "What term is used for European books printed before 1501, during the infancy of printing?",
+    "options": [
+      "Incunabula",
+      "Chapbooks",
+      "Codices",
+      "Broadsides"
+    ],
+    "answer": "Incunabula",
+    "id": "arts-literature-1001"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "The historic Bodleian Library is the main research library of which university?",
+    "options": [
+      "University of Cambridge",
+      "University of Edinburgh",
+      "University of Oxford",
+      "University College London"
+    ],
+    "answer": "University of Oxford",
+    "id": "arts-literature-1002"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "What is generally considered the first book printed in the English language, around 1473-74?",
+    "options": [
+      "The Game and Playe of the Chesse",
+      "Dictes and Sayings of the Philosophers",
+      "Polychronicon",
+      "Recuyell of the Historyes of Troye"
+    ],
+    "answer": "Recuyell of the Historyes of Troye",
+    "id": "arts-literature-1003"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "In the Dewey Decimal System, which hundred-block covers Literature?",
+    "options": [
+      "700s",
+      "800s",
+      "900s",
+      "400s"
+    ],
+    "answer": "800s",
+    "id": "arts-literature-1004"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which prestigious French literary prize was established in 1903 by the will of Edmond de Goncourt?",
+    "options": [
+      "Prix Femina",
+      "Prix Renaudot",
+      "Prix Goncourt",
+      "Prix Médicis"
+    ],
+    "answer": "Prix Goncourt",
+    "id": "arts-literature-1005"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "In which modern country was the ancient Library of Alexandria located?",
+    "options": [
+      "Greece",
+      "Egypt",
+      "Turkey",
+      "Iraq"
+    ],
+    "answer": "Egypt",
+    "id": "arts-literature-1006"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "What Buddhist text printed in 868 CE is considered the world's earliest dated printed book?",
+    "options": [
+      "Heart Sutra",
+      "Lotus Sutra",
+      "Pali Canon",
+      "Diamond Sutra"
+    ],
+    "answer": "Diamond Sutra",
+    "id": "arts-literature-1007"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Which French nickname meaning 'wild beasts' gave its name to the early 1900s color movement?",
+    "options": [
+      "Les Fauves",
+      "Les Nabis",
+      "Les Bleus",
+      "Les Brutes"
+    ],
+    "answer": "Les Fauves",
+    "id": "arts-literature-1008"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which artists' group founded in Dresden on June 7, 1905 is recognized as the birth of Expressionism?",
+    "options": [
+      "Der Blaue Reiter",
+      "Die Brücke",
+      "Die Neue Sachlichkeit",
+      "Bauhaus"
+    ],
+    "answer": "Die Brücke",
+    "id": "arts-literature-1009"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Which critic coined the term 'Action Painting' in 1952 to describe Abstract Expressionism?",
+    "options": [
+      "Clement Greenberg",
+      "Robert Coates",
+      "Harold Rosenberg",
+      "Leo Steinberg"
+    ],
+    "answer": "Harold Rosenberg",
+    "id": "arts-literature-1010"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Which 1950s-60s movement made fine art out of consumer culture, comics and celebrity imagery?",
+    "options": [
+      "Op Art",
+      "Pop Art",
+      "Minimalism",
+      "Fluxus"
+    ],
+    "answer": "Pop Art",
+    "id": "arts-literature-1011"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Which influential design school was founded by Walter Gropius in Weimar in April 1919?",
+    "options": [
+      "Werkbund",
+      "Bauhaus",
+      "De Stijl",
+      "Ulm School"
+    ],
+    "answer": "Bauhaus",
+    "id": "arts-literature-1012"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which 1784 Jacques-Louis David painting of three brothers pledging to fight is a landmark of Neoclassicism?",
+    "options": [
+      "Death of Socrates",
+      "Oath of the Horatii",
+      "Coronation of Napoleon",
+      "Intervention of the Sabine Women"
+    ],
+    "answer": "Oath of the Horatii",
+    "id": "arts-literature-1013"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which avant-garde movement celebrating speed and machinery was launched by Marinetti's 1909 manifesto?",
+    "options": [
+      "Futurism",
+      "Vorticism",
+      "Rayonism",
+      "Constructivism"
+    ],
+    "answer": "Futurism",
+    "id": "arts-literature-1014"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Caravaggio's The Calling of Saint Matthew (1599-1600) was painted for and still hangs in which Roman chapel?",
+    "options": [
+      "Sistine Chapel",
+      "Cerasi Chapel",
+      "Contarelli Chapel",
+      "Borghese Chapel"
+    ],
+    "answer": "Contarelli Chapel",
+    "id": "arts-literature-1015"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which Baroque artist completed Judith Slaying Holofernes in 1612-13 now in Naples?",
+    "options": [
+      "Sofonisba Anguissola",
+      "Artemisia Gentileschi",
+      "Lavinia Fontana",
+      "Elisabetta Sirani"
+    ],
+    "answer": "Artemisia Gentileschi",
+    "id": "arts-literature-1016"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Which Georgia O'Keeffe flower painting sold for $44.4 million in 2014, a record for a female artist?",
+    "options": [
+      "Black Iris",
+      "Jimson Weed/White Flower No.1",
+      "White Calla Lily",
+      "Oriental Poppies"
+    ],
+    "answer": "Jimson Weed/White Flower No.1",
+    "id": "arts-literature-1017"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Jackson Pollock's wall-sized One: Number 31, 1950 exemplifies which pouring technique?",
+    "options": [
+      "Impasto",
+      "Sgraffito",
+      "Frottage",
+      "Drip painting"
+    ],
+    "answer": "Drip painting",
+    "id": "arts-literature-1018"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "In which year did Andy Warhol create his silkscreen Marilyn Diptych?",
+    "options": [
+      "1964",
+      "1967",
+      "1962",
+      "1970"
+    ],
+    "answer": "1962",
+    "id": "arts-literature-1019"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "What new title did Banksy give Girl with Balloon after it shredded itself at Sotheby's in 2018?",
+    "options": [
+      "Balloon Girl Shredded",
+      "Exit Through the Frame",
+      "Love is in the Bin",
+      "Laugh Now Cry Later"
+    ],
+    "answer": "Love is in the Bin",
+    "id": "arts-literature-1020"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Minimalist Donald Judd is famous for vertical wall installations of ten equally sized?",
+    "options": [
+      "Fluorescent tubes",
+      "Stacked boxes",
+      "Plywood cubes",
+      "Steel plates"
+    ],
+    "answer": "Stacked boxes",
+    "id": "arts-literature-1021"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "In what year was Isabel Allende's The House of the Spirits first published in Spanish?",
+    "options": [
+      "1982",
+      "1975",
+      "1990",
+      "1968"
+    ],
+    "answer": "1982",
+    "id": "arts-literature-1022"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "In what year was Haruki Murakami's novel Norwegian Wood first published in Japan?",
+    "options": [
+      "1987",
+      "1995",
+      "1979",
+      "2001"
+    ],
+    "answer": "1987",
+    "id": "arts-literature-1023"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Chimamanda Ngozi Adichie's novel Half of a Yellow Sun was first published in which year?",
+    "options": [
+      "1998",
+      "2006",
+      "2012",
+      "2003"
+    ],
+    "answer": "2006",
+    "id": "arts-literature-1024"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which Salman Rushdie novel won the Booker Prize in 1981?",
+    "options": [
+      "Shame",
+      "Midnight's Children",
+      "The Satanic Verses",
+      "Haroun and the Sea of Stories"
+    ],
+    "answer": "Midnight's Children",
+    "id": "arts-literature-1025"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Kazuo Ishiguro's dystopian novel Never Let Me Go was first published in which year?",
+    "options": [
+      "2005",
+      "2010",
+      "1999",
+      "2015"
+    ],
+    "answer": "2005",
+    "id": "arts-literature-1026"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Who wrote the international bestseller The Alchemist?",
+    "options": [
+      "Paulo Coelho",
+      "Jorge Amado",
+      "Isabel Allende",
+      "Gabriel García Márquez"
+    ],
+    "answer": "Paulo Coelho",
+    "id": "arts-literature-1027"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "What is the name of the shepherd boy protagonist in Paulo Coelho's The Alchemist?",
+    "options": [
+      "Santiago",
+      "Miguel",
+      "Paulo",
+      "Joaquin"
+    ],
+    "answer": "Santiago",
+    "id": "arts-literature-1028"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "What is the name of the Bengal tiger in Yann Martel's Life of Pi?",
+    "options": [
+      "Shere Khan",
+      "Richard Parker",
+      "Rajah",
+      "Tigger"
+    ],
+    "answer": "Richard Parker",
+    "id": "arts-literature-1029"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Yann Martel's novel Life of Pi was first published in which year?",
+    "options": [
+      "2001",
+      "1996",
+      "2008",
+      "2012"
+    ],
+    "answer": "2001",
+    "id": "arts-literature-1030"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "In what year was Frank Herbert's Dune first published?",
+    "options": [
+      "1965",
+      "1958",
+      "1972",
+      "1969"
+    ],
+    "answer": "1965",
+    "id": "arts-literature-1031"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "In which year was John Constable's The Hay Wain completed?",
+    "options": [
+      "1821",
+      "1805",
+      "1835",
+      "1799"
+    ],
+    "answer": "1821",
+    "id": "arts-literature-1032"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "In The Hunger Games by Suzanne Collins, which district is Katniss Everdeen from?",
+    "options": [
+      "District 11",
+      "District 12",
+      "District 4",
+      "District 8"
+    ],
+    "answer": "District 12",
+    "id": "arts-literature-1033"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who wrote the gothic mystery The Shadow of the Wind?",
+    "options": [
+      "Carlos Ruiz Zafón",
+      "Arturo Pérez-Reverte",
+      "Javier Marías",
+      "Roberto Bolaño"
+    ],
+    "answer": "Carlos Ruiz Zafón",
+    "id": "arts-literature-1034"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Who wrote the bestseller The Kite Runner?",
+    "options": [
+      "Khaled Hosseini",
+      "Orhan Pamuk",
+      "Salman Rushdie",
+      "Mohsin Hamid"
+    ],
+    "answer": "Khaled Hosseini",
+    "id": "arts-literature-1035"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who wrote the novel Atonement?",
+    "options": [
+      "Ian McEwan",
+      "Julian Barnes",
+      "Martin Amis",
+      "Kazuo Ishiguro"
+    ],
+    "answer": "Ian McEwan",
+    "id": "arts-literature-1036"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Who wrote the post-apocalyptic novel The Road?",
+    "options": [
+      "Cormac McCarthy",
+      "Cormac O'Brien",
+      "Larry McMurtry",
+      "John Steinbeck"
+    ],
+    "answer": "Cormac McCarthy",
+    "id": "arts-literature-1037"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "In what year was Cormac McCarthy's The Road first published?",
+    "options": [
+      "2006",
+      "1998",
+      "2010",
+      "2001"
+    ],
+    "answer": "2006",
+    "id": "arts-literature-1038"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Who wrote Life of Pi?",
+    "options": [
+      "Yann Martel",
+      "Margaret Atwood",
+      "Michael Ondaatje",
+      "Rohinton Mistry"
+    ],
+    "answer": "Yann Martel",
+    "id": "arts-literature-1039"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which novel opens with 'The boy with fair hair lowered himself down the last few feet of rock'?",
+    "options": [
+      "Lord of the Flies",
+      "The Coral Island",
+      "Hatchet",
+      "Life of Pi"
+    ],
+    "answer": "Lord of the Flies",
+    "id": "arts-literature-1040"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Who painted The Starry Night Over the Rhone in 1888?",
+    "options": [
+      "Vincent van Gogh",
+      "Paul Gauguin",
+      "Georges Seurat",
+      "Henri de Toulouse-Lautrec"
+    ],
+    "answer": "Vincent van Gogh",
+    "id": "arts-literature-1041"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who wrote the poem 'I, too, am America'?",
+    "options": [
+      "Langston Hughes",
+      "Claude McKay",
+      "Countee Cullen",
+      "James Baldwin"
+    ],
+    "answer": "Langston Hughes",
+    "id": "arts-literature-1042"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Haruki Murakami's Norwegian Wood title references which Beatles song?",
+    "options": [
+      "Norwegian Wood (This Bird Has Flown)",
+      "Hey Jude",
+      "Let It Be",
+      "Yesterday"
+    ],
+    "answer": "Norwegian Wood (This Bird Has Flown)",
+    "id": "arts-literature-1043"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Which author wrote The Very Hungry Caterpillar?",
+    "options": [
+      "Eric Carle",
+      "Maurice Sendak",
+      "Leo Lionni",
+      "Bill Martin Jr."
+    ],
+    "answer": "Eric Carle",
+    "id": "arts-literature-1044"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "What year did the first Harry Potter book, Philosopher's Stone, appear in the UK?",
+    "options": [
+      "1997",
+      "1990",
+      "2001",
+      "1993"
+    ],
+    "answer": "1997",
+    "id": "arts-literature-1045"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who wrote Song of Solomon?",
+    "options": [
+      "Toni Morrison",
+      "Alice Walker",
+      "Maya Angelou",
+      "Zora Neale Hurston"
+    ],
+    "answer": "Toni Morrison",
+    "id": "arts-literature-1046"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "In George Orwell's Animal Farm, what species of farm animal is Snowball?",
+    "options": [
+      "Horse",
+      "Pig",
+      "Dog",
+      "Sheep"
+    ],
+    "answer": "Pig",
+    "id": "arts-literature-1047"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who sculpted the marble work The Kiss in 1882, now in the Musée Rodin?",
+    "options": [
+      "Auguste Rodin",
+      "Antonio Canova",
+      "Jean-Baptiste Carpeaux",
+      "Gian Lorenzo Bernini"
+    ],
+    "answer": "Auguste Rodin",
+    "id": "arts-literature-1048"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Which author created the fictional detective Philip Marlowe?",
+    "options": [
+      "Dashiell Hammett",
+      "Raymond Chandler",
+      "James M. Cain",
+      "Mickey Spillane"
+    ],
+    "answer": "Raymond Chandler",
+    "id": "arts-literature-1049"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Which children's book author created The Cat in the Hat?",
+    "options": [
+      "Dr. Seuss",
+      "Maurice Sendak",
+      "Eric Carle",
+      "P.D. Eastman"
+    ],
+    "answer": "Dr. Seuss",
+    "id": "arts-literature-1050"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who wrote the fantasy novel American Gods?",
+    "options": [
+      "Neil Gaiman",
+      "Terry Pratchett",
+      "J.K. Rowling",
+      "George R.R. Martin"
+    ],
+    "answer": "Neil Gaiman",
+    "id": "arts-literature-1051"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "In J.R.R. Tolkien's legendarium, what is the One Ring's inscription language?",
+    "options": [
+      "Elvish",
+      "Black Speech",
+      "Dwarvish",
+      "Old English"
+    ],
+    "answer": "Black Speech",
+    "id": "arts-literature-1052"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "What art term describes a painting done in a single session while paint is still wet?",
+    "options": [
+      "Alla prima",
+      "Grisaille",
+      "Fresco secco",
+      "Tempera"
+    ],
+    "answer": "Alla prima",
+    "id": "arts-literature-1053"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who wrote the novel The Remains of the Day?",
+    "options": [
+      "Kazuo Ishiguro",
+      "Ian McEwan",
+      "Julian Barnes",
+      "Graham Swift"
+    ],
+    "answer": "Kazuo Ishiguro",
+    "id": "arts-literature-1054"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "What is the name of Sherlock Holmes's older brother?",
+    "options": [
+      "Mycroft",
+      "Sherrinford",
+      "Lestrade",
+      "Moriarty"
+    ],
+    "answer": "Mycroft",
+    "id": "arts-literature-1055"
+  },
+  {
+    "difficulty": "hard",
+    "category": "arts-literature",
+    "question": "Which poet wrote 'The Second Coming' with 'Things fall apart; the centre cannot hold'?",
+    "options": [
+      "W.B. Yeats",
+      "T.S. Eliot",
+      "W.H. Auden",
+      "Seamus Heaney"
+    ],
+    "answer": "W.B. Yeats",
+    "id": "arts-literature-1056"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Who wrote The Tale of Peter Rabbit?",
+    "options": [
+      "Beatrix Potter",
+      "A.A. Milne",
+      "Lewis Carroll",
+      "Enid Blyton"
+    ],
+    "answer": "Beatrix Potter",
+    "id": "arts-literature-1057"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Who wrote Charlie and the Chocolate Factory?",
+    "options": [
+      "Roald Dahl",
+      "J.K. Rowling",
+      "Dr. Seuss",
+      "C.S. Lewis"
+    ],
+    "answer": "Roald Dahl",
+    "id": "arts-literature-1058"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "Who painted The Son of Man, the 1964 surrealist work showing a man in a bowler hat with an apple obscuring his face?",
+    "options": [
+      "René Magritte",
+      "Salvador Dalí",
+      "Max Ernst",
+      "Joan Miró"
+    ],
+    "answer": "René Magritte",
+    "id": "arts-literature-1059"
+  },
+  {
+    "difficulty": "medium",
+    "category": "arts-literature",
+    "question": "In which Italian city has Michelangelo's original David statue been housed since 1873?",
+    "options": [
+      "Florence",
+      "Rome",
+      "Venice",
+      "Milan"
+    ],
+    "answer": "Florence",
+    "id": "arts-literature-1060"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "In George Orwell's Animal Farm, which animal represents the working class and repeats 'I will work harder'?",
+    "options": [
+      "Boxer the horse",
+      "Benjamin the donkey",
+      "Napoleon the pig",
+      "Snowball the pig"
+    ],
+    "answer": "Boxer the horse",
+    "id": "arts-literature-1061"
+  },
+  {
+    "difficulty": "easy",
+    "category": "arts-literature",
+    "question": "Who wrote James and the Giant Peach?",
+    "options": [
+      "Roald Dahl",
+      "J.K. Rowling",
+      "Dr. Seuss",
+      "C.S. Lewis"
+    ],
+    "answer": "Roald Dahl",
+    "id": "arts-literature-1062"
   }
 ]

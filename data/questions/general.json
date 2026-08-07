@@ -16430,5 +16430,1786 @@
       "Composite number"
     ],
     "answer": "Composite number"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What volume did the classic American 'fifth' of liquor originally represent?",
+    "options": [
+      "1/8 U.S. gallon",
+      "1/5 U.S. gallon",
+      "1/4 U.S. gallon",
+      "1/6 U.S. gallon"
+    ],
+    "answer": "1/5 U.S. gallon",
+    "id": "general-4197"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How much wine does a standard magnum bottle hold?",
+    "options": [
+      "3 liters",
+      "1.5 liters",
+      "750 milliliters",
+      "2 liters"
+    ],
+    "answer": "1.5 liters",
+    "id": "general-4198"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "In Champagne, how much does a Jeroboam bottle hold?",
+    "options": [
+      "4.5 liters",
+      "6 liters",
+      "3 liters",
+      "1.5 liters"
+    ],
+    "answer": "3 liters",
+    "id": "general-4199"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "In Bordeaux, how much does a Jeroboam bottle hold?",
+    "options": [
+      "1.5 liters",
+      "4.5 liters",
+      "6 liters",
+      "3 liters"
+    ],
+    "answer": "4.5 liters",
+    "id": "general-4200"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many dry quarts are in a U.S. bushel?",
+    "options": [
+      "32 dry quarts",
+      "16 dry quarts",
+      "8 dry quarts",
+      "64 dry quarts"
+    ],
+    "answer": "32 dry quarts",
+    "id": "general-4201"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many U.S. fluid ounces are in a standard U.S. gill?",
+    "options": [
+      "4 fluid ounces",
+      "2 fluid ounces",
+      "8 fluid ounces",
+      "5 fluid ounces"
+    ],
+    "answer": "4 fluid ounces",
+    "id": "general-4202"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many Imperial fluid ounces are in an Imperial gill?",
+    "options": [
+      "10 Imperial fluid ounces",
+      "4 Imperial fluid ounces",
+      "5 Imperial fluid ounces",
+      "8 Imperial fluid ounces"
+    ],
+    "answer": "5 Imperial fluid ounces",
+    "id": "general-4203"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many cubic feet are in one acre-foot?",
+    "options": [
+      "43,560 cubic feet",
+      "5,280 cubic feet",
+      "27,000 cubic feet",
+      "640 cubic feet"
+    ],
+    "answer": "43,560 cubic feet",
+    "id": "general-4204"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many fluid ounces are in a standard U.S. tablespoon?",
+    "options": [
+      "0.5 fluid ounces",
+      "0.25 fluid ounces",
+      "1 fluid ounce",
+      "0.75 fluid ounces"
+    ],
+    "answer": "0.5 fluid ounces",
+    "id": "general-4205"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many milliliters are in a standard U.S. teaspoon, approximately?",
+    "options": [
+      "4.9 milliliters",
+      "10 milliliters",
+      "2.5 milliliters",
+      "15 milliliters"
+    ],
+    "answer": "4.9 milliliters",
+    "id": "general-4206"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many Imperial fluid ounces are in an Imperial gallon?",
+    "options": [
+      "160 fluid ounces",
+      "128 fluid ounces",
+      "100 fluid ounces",
+      "200 fluid ounces"
+    ],
+    "answer": "160 fluid ounces",
+    "id": "general-4207"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many liters are in an Imperial gallon?",
+    "options": [
+      "4.546 liters",
+      "3.785 liters",
+      "5 liters",
+      "3 liters"
+    ],
+    "answer": "4.546 liters",
+    "id": "general-4208"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many U.S. gallons are in a standard U.S. beer barrel?",
+    "options": [
+      "42 U.S. gallons",
+      "31 U.S. gallons",
+      "55 U.S. gallons",
+      "15.5 U.S. gallons"
+    ],
+    "answer": "31 U.S. gallons",
+    "id": "general-4209"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "How many wine gallons are in a traditional wine tun?",
+    "options": [
+      "84 wine gallons",
+      "252 wine gallons",
+      "63 wine gallons",
+      "126 wine gallons"
+    ],
+    "answer": "252 wine gallons",
+    "id": "general-4210"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "How many wine gallons are in a pipe or butt, equal to two hogsheads?",
+    "options": [
+      "63 wine gallons",
+      "42 wine gallons",
+      "126 wine gallons",
+      "252 wine gallons"
+    ],
+    "answer": "126 wine gallons",
+    "id": "general-4211"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many pounds are in a British long hundredweight?",
+    "options": [
+      "2240 pounds",
+      "100 pounds",
+      "112 pounds",
+      "120 pounds"
+    ],
+    "answer": "112 pounds",
+    "id": "general-4212"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many pounds are in a U.S. short ton?",
+    "options": [
+      "2,000 pounds",
+      "2,240 pounds",
+      "2,500 pounds",
+      "1,000 pounds"
+    ],
+    "answer": "2,000 pounds",
+    "id": "general-4213"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many inches are in a traditional span, from thumb to pinky?",
+    "options": [
+      "9 inches",
+      "12 inches",
+      "6 inches",
+      "8 inches"
+    ],
+    "answer": "9 inches",
+    "id": "general-4214"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What is one angstrom equal to?",
+    "options": [
+      "10^-6 meter",
+      "10^-12 meter",
+      "10^-9 meter",
+      "10^-10 meter"
+    ],
+    "answer": "10^-10 meter",
+    "id": "general-4215"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "What is one barn, the nuclear cross-section unit, equal to?",
+    "options": [
+      "10^-24 square meters",
+      "10^-15 square meters",
+      "10^-28 square meters",
+      "10^-30 square meters"
+    ],
+    "answer": "10^-28 square meters",
+    "id": "general-4216"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "Approximately how many miles are in one light-year?",
+    "options": [
+      "93 million miles",
+      "5.88 trillion miles",
+      "1 billion miles",
+      "3.26 trillion miles"
+    ],
+    "answer": "5.88 trillion miles",
+    "id": "general-4217"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "Approximately how many miles are in one astronomical unit?",
+    "options": [
+      "93 million miles",
+      "238,000 miles",
+      "5.88 trillion miles",
+      "1 million miles"
+    ],
+    "answer": "93 million miles",
+    "id": "general-4218"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many meters are in one nautical mile, by modern definition?",
+    "options": [
+      "1,609 meters",
+      "3,600 meters",
+      "1,000 meters",
+      "1,852 meters"
+    ],
+    "answer": "1,852 meters",
+    "id": "general-4219"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many feet are in one nautical mile, approximately?",
+    "options": [
+      "6,076 feet",
+      "6,600 feet",
+      "3,280 feet",
+      "5,280 feet"
+    ],
+    "answer": "6,076 feet",
+    "id": "general-4220"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How long is one light-second, the distance light travels in one second?",
+    "options": [
+      "93 million miles",
+      "186,282 miles",
+      "3,000 miles",
+      "5.88 trillion miles"
+    ],
+    "answer": "186,282 miles",
+    "id": "general-4221"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How long is one micron, also called a micrometer?",
+    "options": [
+      "0.001 millimeter",
+      "0.01 millimeter",
+      "0.1 millimeter",
+      "0.000001 millimeter"
+    ],
+    "answer": "0.001 millimeter",
+    "id": "general-4222"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many nanometers are in one micron?",
+    "options": [
+      "100 nanometers",
+      "1,000,000 nanometers",
+      "10 nanometers",
+      "1,000 nanometers"
+    ],
+    "answer": "1,000 nanometers",
+    "id": "general-4223"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "What is a fermi, now called a femtometer, equal to?",
+    "options": [
+      "10^-15 meter",
+      "10^-10 meter",
+      "10^-9 meter",
+      "10^-12 meter"
+    ],
+    "answer": "10^-15 meter",
+    "id": "general-4224"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "Approximately how many astronomical units are in one parsec, as a distinct fact from light-year conversion?",
+    "options": [
+      "3.26 AU",
+      "206,265 AU",
+      "63,360 AU",
+      "93 million AU"
+    ],
+    "answer": "206,265 AU",
+    "id": "general-4225"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "What does a jansky measure in radio astronomy?",
+    "options": [
+      "Temperature",
+      "Flux density",
+      "Magnetic field",
+      "Distance"
+    ],
+    "answer": "Flux density",
+    "id": "general-4226"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many millimeters are in one point, the typographic unit?",
+    "options": [
+      "2 mm",
+      "1 mm",
+      "0.353 mm",
+      "0.1 mm"
+    ],
+    "answer": "0.353 mm",
+    "id": "general-4227"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How large is one pica in inches, approximately?",
+    "options": [
+      "1/12 inch",
+      "1/72 inch",
+      "1/6 inch",
+      "1 inch"
+    ],
+    "answer": "1/6 inch",
+    "id": "general-4228"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many points are in one inch, by PostScript definition?",
+    "options": [
+      "12 points",
+      "100 points",
+      "6 points",
+      "72 points"
+    ],
+    "answer": "72 points",
+    "id": "general-4229"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many sheets of paper are in one quire?",
+    "options": [
+      "20 sheets",
+      "500 sheets",
+      "100 sheets",
+      "25 sheets"
+    ],
+    "answer": "25 sheets",
+    "id": "general-4230"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many sheets are in one bale of paper, commonly?",
+    "options": [
+      "5,000 sheets",
+      "10,000 sheets",
+      "500 sheets",
+      "1,000 sheets"
+    ],
+    "answer": "5,000 sheets",
+    "id": "general-4231"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many reams are in one bale of paper?",
+    "options": [
+      "50 reams",
+      "20 reams",
+      "5 reams",
+      "10 reams"
+    ],
+    "answer": "10 reams",
+    "id": "general-4232"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "In Lincoln's Gettysburg Address, how many years is 'four score and seven'?",
+    "options": [
+      "67 years",
+      "87 years",
+      "107 years",
+      "77 years"
+    ],
+    "answer": "87 years",
+    "id": "general-4233"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many units are in a long hundred, the old Germanic count?",
+    "options": [
+      "120",
+      "100",
+      "144",
+      "110"
+    ],
+    "answer": "120",
+    "id": "general-4234"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many grams are in one troy ounce?",
+    "options": [
+      "28.35 grams",
+      "50 grams",
+      "20 grams",
+      "31.103 grams"
+    ],
+    "answer": "31.103 grams",
+    "id": "general-4235"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many milligrams are in one carat, the gemstone weight unit?",
+    "options": [
+      "1000 milligrams",
+      "100 milligrams",
+      "500 milligrams",
+      "200 milligrams"
+    ],
+    "answer": "200 milligrams",
+    "id": "general-4236"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "How many grains are in one avoirdupois ounce?",
+    "options": [
+      "500 grains",
+      "480 grains",
+      "400 grains",
+      "437.5 grains"
+    ],
+    "answer": "437.5 grains",
+    "id": "general-4237"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "In Go, how many black stones and white stones are in a full set for 19x19?",
+    "options": [
+      "200 black, 180 white",
+      "181 black, 180 white",
+      "181 each",
+      "180 each"
+    ],
+    "answer": "181 black, 180 white",
+    "id": "general-4238"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "On a 9x9 beginner Go board, how many intersections are there?",
+    "options": [
+      "121",
+      "81",
+      "100",
+      "64"
+    ],
+    "answer": "81",
+    "id": "general-4239"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "On a 13x13 intermediate Go board, how many intersections are there?",
+    "options": [
+      "196",
+      "169",
+      "121",
+      "144"
+    ],
+    "answer": "169",
+    "id": "general-4240"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many E tiles are in an English-language Scrabble set?",
+    "options": [
+      "6",
+      "8",
+      "12",
+      "9"
+    ],
+    "answer": "12",
+    "id": "general-4241"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many letter cubes are in 5x5 Big Boggle?",
+    "options": [
+      "16 cubes",
+      "30 cubes",
+      "20 cubes",
+      "25 cubes"
+    ],
+    "answer": "25 cubes",
+    "id": "general-4242"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "In Clue/Cluedo, how many weapon tokens are there?",
+    "options": [
+      "5 weapons",
+      "9 weapons",
+      "6 weapons",
+      "8 weapons"
+    ],
+    "answer": "6 weapons",
+    "id": "general-4243"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "In Clue/Cluedo, how many rooms are on the board?",
+    "options": [
+      "6 rooms",
+      "10 rooms",
+      "9 rooms",
+      "8 rooms"
+    ],
+    "answer": "9 rooms",
+    "id": "general-4244"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "In Monopoly, how many properties can be owned in total including railroads and utilities?",
+    "options": [
+      "40 properties",
+      "32 properties",
+      "28 properties",
+      "22 properties"
+    ],
+    "answer": "28 properties",
+    "id": "general-4245"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "In Monopoly, how much does the cheapest property, Mediterranean Avenue, cost?",
+    "options": [
+      "$80",
+      "$40",
+      "$100",
+      "$60"
+    ],
+    "answer": "$60",
+    "id": "general-4246"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "In Monopoly, how many utilities are there?",
+    "options": [
+      "2 utilities",
+      "3 utilities",
+      "4 utilities",
+      "1 utility"
+    ],
+    "answer": "2 utilities",
+    "id": "general-4247"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "In Catan, how many development cards are in the deck?",
+    "options": [
+      "14 development cards",
+      "25 development cards",
+      "20 development cards",
+      "30 development cards"
+    ],
+    "answer": "25 development cards",
+    "id": "general-4248"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "In Catan, how many points is the Longest Road bonus worth?",
+    "options": [
+      "3 points",
+      "2 points",
+      "5 points",
+      "1 point"
+    ],
+    "answer": "2 points",
+    "id": "general-4249"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "In Catan, how many points is the Largest Army bonus worth?",
+    "options": [
+      "5 points",
+      "1 point",
+      "3 points",
+      "2 points"
+    ],
+    "answer": "2 points",
+    "id": "general-4250"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many dominoes are in a double-twelve set?",
+    "options": [
+      "91 dominoes",
+      "55 dominoes",
+      "136 dominoes",
+      "28 dominoes"
+    ],
+    "answer": "91 dominoes",
+    "id": "general-4251"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many dominoes are in a double-fifteen set?",
+    "options": [
+      "165 dominoes",
+      "190 dominoes",
+      "91 dominoes",
+      "136 dominoes"
+    ],
+    "answer": "136 dominoes",
+    "id": "general-4252"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "How many dominoes are in a double-eighteen set?",
+    "options": [
+      "231 dominoes",
+      "136 dominoes",
+      "190 dominoes",
+      "91 dominoes"
+    ],
+    "answer": "190 dominoes",
+    "id": "general-4253"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "In International draughts on a 10x10 board, how many pieces per player at start?",
+    "options": [
+      "12 pieces",
+      "20 pieces",
+      "30 pieces",
+      "15 pieces"
+    ],
+    "answer": "20 pieces",
+    "id": "general-4254"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "In Mahjong, how many wind tiles types are there?",
+    "options": [
+      "8 winds",
+      "3 winds",
+      "5 winds",
+      "4 winds"
+    ],
+    "answer": "4 winds",
+    "id": "general-4255"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "In Mahjong, how many dragon types are there?",
+    "options": [
+      "4 dragons",
+      "3 dragons",
+      "2 dragons",
+      "5 dragons"
+    ],
+    "answer": "3 dragons",
+    "id": "general-4256"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many points on a cribbage board must be scored to win a standard game, counting 121st hole?",
+    "options": [
+      "100 points",
+      "61 points",
+      "120 points",
+      "121 points"
+    ],
+    "answer": "121 points",
+    "id": "general-4257"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many holes per scoring track are on a standard cribbage board before the final game hole?",
+    "options": [
+      "60 holes",
+      "121 holes",
+      "120 holes",
+      "100 holes"
+    ],
+    "answer": "120 holes",
+    "id": "general-4258"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "In cribbage, how many points does a 15 count score?",
+    "options": [
+      "2 points",
+      "5 points",
+      "3 points",
+      "1 point"
+    ],
+    "answer": "2 points",
+    "id": "general-4259"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many triple-word squares are on a Scrabble board?",
+    "options": [
+      "4 squares",
+      "12 squares",
+      "8 squares",
+      "16 squares"
+    ],
+    "answer": "8 squares",
+    "id": "general-4260"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "How many double-word squares are on a Scrabble board including center?",
+    "options": [
+      "12 squares",
+      "8 squares",
+      "17 squares",
+      "24 squares"
+    ],
+    "answer": "17 squares",
+    "id": "general-4261"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What is the standard Boggle time limit per round with a sand timer?",
+    "options": [
+      "1 minute",
+      "2 minutes",
+      "5 minutes",
+      "3 minutes"
+    ],
+    "answer": "3 minutes",
+    "id": "general-4262"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "How many possible 5-card poker hands exist from a 52-card deck?",
+    "options": [
+      "3,162,510",
+      "2,598,960",
+      "1,302,540",
+      "259,896"
+    ],
+    "answer": "2,598,960",
+    "id": "general-4263"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "In casino blackjack, at what hand value must the dealer stand on all totals?",
+    "options": [
+      "16",
+      "17",
+      "15",
+      "18"
+    ],
+    "answer": "17",
+    "id": "general-4264"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What mineral is rated 10, hardest on the Mohs hardness scale?",
+    "options": [
+      "Quartz",
+      "Topaz",
+      "Diamond",
+      "Corundum"
+    ],
+    "answer": "Diamond",
+    "id": "general-4265"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What mineral is rated 7 on the Mohs scale and is used to scratch glass in field tests?",
+    "options": [
+      "Apatite",
+      "Feldspar",
+      "Fluorite",
+      "Quartz"
+    ],
+    "answer": "Quartz",
+    "id": "general-4266"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What number on the Beaufort wind scale represents calm air?",
+    "options": [
+      "3",
+      "12",
+      "0",
+      "1"
+    ],
+    "answer": "0",
+    "id": "general-4267"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What number on the Beaufort scale is hurricane force, 64+ knots?",
+    "options": [
+      "10",
+      "12",
+      "8",
+      "15"
+    ],
+    "answer": "12",
+    "id": "general-4268"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "Approximately how many Scoville Heat Units is pure capsaicin?",
+    "options": [
+      "1 million",
+      "16 million",
+      "100,000",
+      "100 million"
+    ],
+    "answer": "16 million",
+    "id": "general-4269"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many categories are in the Saffir-Simpson hurricane wind scale?",
+    "options": [
+      "5 categories",
+      "3 categories",
+      "7 categories",
+      "6 categories"
+    ],
+    "answer": "5 categories",
+    "id": "general-4270"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "At what sustained wind speed does Category 5 begin on the Saffir-Simpson scale, as of 2026?",
+    "options": [
+      "130 mph",
+      "111 mph",
+      "157 mph",
+      "185 mph"
+    ],
+    "answer": "157 mph",
+    "id": "general-4271"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How much more energy does each whole number increase represent on the Richter scale, approximately?",
+    "options": [
+      "10 times more energy",
+      "32 times more energy",
+      "2 times more energy",
+      "100 times more energy"
+    ],
+    "answer": "32 times more energy",
+    "id": "general-4272"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "At what temperature does water freeze in Fahrenheit at sea level?",
+    "options": [
+      "32 degrees F",
+      "0 degrees F",
+      "212 degrees F",
+      "100 degrees F"
+    ],
+    "answer": "32 degrees F",
+    "id": "general-4273"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "At what value is absolute zero on the Rankine scale?",
+    "options": [
+      "32 Rankine",
+      "0 Rankine",
+      "273.15 Rankine",
+      "-459.67 Rankine"
+    ],
+    "answer": "0 Rankine",
+    "id": "general-4274"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many decibels increase represents roughly a tenfold increase in sound intensity?",
+    "options": [
+      "10 decibels",
+      "1 decibel",
+      "3 decibels",
+      "20 decibels"
+    ],
+    "answer": "10 decibels",
+    "id": "general-4275"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What does Mach 1 represent?",
+    "options": [
+      "Speed of Earth orbit",
+      "Speed of sound",
+      "Speed of light",
+      "100 mph"
+    ],
+    "answer": "Speed of sound",
+    "id": "general-4276"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "Approximately how fast is Mach 1 at sea level in dry air?",
+    "options": [
+      "767 mph",
+      "1,000 mph",
+      "500 mph",
+      "340 mph"
+    ],
+    "answer": "767 mph",
+    "id": "general-4277"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What word represents letter F in the NATO phonetic alphabet?",
+    "options": [
+      "Frank",
+      "Fox",
+      "Florida",
+      "Foxtrot"
+    ],
+    "answer": "Foxtrot",
+    "id": "general-4278"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What word represents letter G in the NATO phonetic alphabet?",
+    "options": [
+      "Germany",
+      "Gator",
+      "Golf",
+      "George"
+    ],
+    "answer": "Golf",
+    "id": "general-4279"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What word represents letter H in the NATO phonetic alphabet?",
+    "options": [
+      "Henry",
+      "Harbor",
+      "Havana",
+      "Hotel"
+    ],
+    "answer": "Hotel",
+    "id": "general-4280"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What word represents letter I in the NATO phonetic alphabet?",
+    "options": [
+      "Indigo",
+      "Italy",
+      "Ice",
+      "India"
+    ],
+    "answer": "India",
+    "id": "general-4281"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What word represents letter J in NATO phonetic, spelled with double-t?",
+    "options": [
+      "Juliet",
+      "Juliett",
+      "Jack",
+      "Jupiter"
+    ],
+    "answer": "Juliett",
+    "id": "general-4282"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What word represents letter K in the NATO phonetic alphabet?",
+    "options": [
+      "King",
+      "Kitchen",
+      "Kilo",
+      "Kansas"
+    ],
+    "answer": "Kilo",
+    "id": "general-4283"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What word represents letter L in the NATO phonetic alphabet?",
+    "options": [
+      "Larry",
+      "Lima",
+      "Lemon",
+      "London"
+    ],
+    "answer": "Lima",
+    "id": "general-4284"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What word represents letter M in the NATO phonetic alphabet?",
+    "options": [
+      "Mango",
+      "Mike",
+      "Metro",
+      "Mary"
+    ],
+    "answer": "Mike",
+    "id": "general-4285"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What word represents letter O in the NATO phonetic alphabet?",
+    "options": [
+      "Ocean",
+      "Orange",
+      "Oscar",
+      "Oliver"
+    ],
+    "answer": "Oscar",
+    "id": "general-4286"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What word represents letter P in the NATO phonetic alphabet?",
+    "options": [
+      "Paul",
+      "Peter",
+      "Papa",
+      "Pumpkin"
+    ],
+    "answer": "Papa",
+    "id": "general-4287"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What word represents letter Q in the NATO phonetic alphabet?",
+    "options": [
+      "Queen",
+      "Quail",
+      "Quincy",
+      "Quebec"
+    ],
+    "answer": "Quebec",
+    "id": "general-4288"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What word represents letter R in the NATO phonetic alphabet?",
+    "options": [
+      "Roger",
+      "Robert",
+      "Romeo",
+      "Rainbow"
+    ],
+    "answer": "Romeo",
+    "id": "general-4289"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What word represents letter S in the NATO phonetic alphabet?",
+    "options": [
+      "Sam",
+      "Sugar",
+      "Sierra",
+      "Seattle"
+    ],
+    "answer": "Sierra",
+    "id": "general-4290"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What word represents letter T in the NATO phonetic alphabet?",
+    "options": [
+      "Thomas",
+      "Tiger",
+      "Texas",
+      "Tango"
+    ],
+    "answer": "Tango",
+    "id": "general-4291"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What word represents letter U in the NATO phonetic alphabet?",
+    "options": [
+      "Umbrella",
+      "Uncle",
+      "Uniform",
+      "Utah"
+    ],
+    "answer": "Uniform",
+    "id": "general-4292"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What word represents letter V in the NATO phonetic alphabet?",
+    "options": [
+      "Vincent",
+      "Victor",
+      "Violet",
+      "Virginia"
+    ],
+    "answer": "Victor",
+    "id": "general-4293"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What word represents letter W in the NATO phonetic alphabet?",
+    "options": [
+      "Water",
+      "Washington",
+      "William",
+      "Whiskey"
+    ],
+    "answer": "Whiskey",
+    "id": "general-4294"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What word represents letter X in the NATO phonetic alphabet?",
+    "options": [
+      "Xenon",
+      "Xylophone",
+      "X-ray",
+      "Xavier"
+    ],
+    "answer": "X-ray",
+    "id": "general-4295"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What word represents letter Y in the NATO phonetic alphabet?",
+    "options": [
+      "Yellow",
+      "York",
+      "Yankee",
+      "Yoga"
+    ],
+    "answer": "Yankee",
+    "id": "general-4296"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "In Morse code, how is letter S represented?",
+    "options": [
+      "Three dashes",
+      "One dot",
+      "Two dots",
+      "Three dots"
+    ],
+    "answer": "Three dots",
+    "id": "general-4297"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "In Morse code, how is letter O represented?",
+    "options": [
+      "One dash",
+      "Three dashes",
+      "Two dashes",
+      "Three dots"
+    ],
+    "answer": "Three dashes",
+    "id": "general-4298"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "In Morse code, how is letter A represented?",
+    "options": [
+      "Dash-dot-dash",
+      "Two dots",
+      "Dot-dash",
+      "Dash-dot"
+    ],
+    "answer": "Dot-dash",
+    "id": "general-4299"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "In Morse code, how is letter B represented?",
+    "options": [
+      "Dash-three dots",
+      "Dash-dot-dot",
+      "Two dashes",
+      "Three dots-dash"
+    ],
+    "answer": "Dash-three dots",
+    "id": "general-4300"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "In Morse code, how is letter C represented?",
+    "options": [
+      "Dash-dot-dot-dot",
+      "Dot-dash-dot",
+      "Dash-dot-dash-dot",
+      "Dash-dash-dot"
+    ],
+    "answer": "Dash-dot-dash-dot",
+    "id": "general-4301"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What shape is a standard U.S. stop sign?",
+    "options": [
+      "Heptagon",
+      "Hexagon",
+      "Decagon",
+      "Octagon"
+    ],
+    "answer": "Octagon",
+    "id": "general-4302"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many dimples are typically on a regulation golf ball, in the common range?",
+    "options": [
+      "50 to 100 dimples",
+      "300 to 500 dimples",
+      "800 to 1000 dimples",
+      "100 to 150 dimples"
+    ],
+    "answer": "300 to 500 dimples",
+    "id": "general-4303"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How tall is a standard basketball hoop above the floor?",
+    "options": [
+      "12 feet",
+      "9 feet",
+      "10 feet",
+      "11 feet"
+    ],
+    "answer": "10 feet",
+    "id": "general-4304"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How far apart are baseball bases, in feet?",
+    "options": [
+      "100 feet",
+      "90 feet",
+      "75 feet",
+      "60 feet"
+    ],
+    "answer": "90 feet",
+    "id": "general-4305"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many panels does a traditional 32-panel soccer ball have?",
+    "options": [
+      "18 panels",
+      "26 panels",
+      "20 panels",
+      "32 panels"
+    ],
+    "answer": "32 panels",
+    "id": "general-4306"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What are the dimensions of U.S. Letter paper?",
+    "options": [
+      "5.5 x 8.5 inches",
+      "11 x 17 inches",
+      "8.5 x 11 inches",
+      "8.5 x 14 inches"
+    ],
+    "answer": "8.5 x 11 inches",
+    "id": "general-4307"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What are the dimensions of U.S. Legal paper?",
+    "options": [
+      "11 x 17 inches",
+      "8.5 x 13 inches",
+      "8.5 x 14 inches",
+      "8.5 x 11 inches"
+    ],
+    "answer": "8.5 x 14 inches",
+    "id": "general-4308"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "In pencil grading, what does HB stand for in the middle of the scale?",
+    "options": [
+      "High brilliance",
+      "Middle hardness and blackness",
+      "Heavy bold",
+      "Hard black"
+    ],
+    "answer": "Middle hardness and blackness",
+    "id": "general-4309"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "Which pencil grade is hardest, leaving the lightest mark?",
+    "options": [
+      "9H",
+      "HB",
+      "2B",
+      "9B"
+    ],
+    "answer": "9H",
+    "id": "general-4310"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "Which pencil grade is softest, leaving the darkest mark?",
+    "options": [
+      "9B",
+      "HB",
+      "2H",
+      "9H"
+    ],
+    "answer": "9B",
+    "id": "general-4311"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What symbol marks a spare in ten-pin bowling score notation?",
+    "options": [
+      "-",
+      "*",
+      "/ slash",
+      "X"
+    ],
+    "answer": "/ slash",
+    "id": "general-4312"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "In bowling, what symbol marks a strike?",
+    "options": [
+      "/",
+      "-",
+      "S",
+      "X"
+    ],
+    "answer": "X",
+    "id": "general-4313"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many holes per side on a standard 18-hole golf course front and back?",
+    "options": [
+      "18 holes",
+      "9 holes",
+      "6 holes",
+      "10 holes"
+    ],
+    "answer": "9 holes",
+    "id": "general-4314"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What does Dvorak, the keyboard layout alternative to QWERTY, claim to improve?",
+    "options": [
+      "Gaming performance",
+      "Typing speed and ergonomics",
+      "Screen brightness",
+      "Battery life"
+    ],
+    "answer": "Typing speed and ergonomics",
+    "id": "general-4315"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "What is the term for a sentence that describes itself?",
+    "options": [
+      "Anagram",
+      "Autogram",
+      "Pangram",
+      "Palindome"
+    ],
+    "answer": "Autogram",
+    "id": "general-4316"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many points win a standard game of table tennis to 11, needing 2-point lead?",
+    "options": [
+      "15 points",
+      "11 points",
+      "7 points",
+      "21 points"
+    ],
+    "answer": "11 points",
+    "id": "general-4317"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many minutes are in a regulation NBA basketball quarter?",
+    "options": [
+      "15 minutes",
+      "10 minutes",
+      "12 minutes",
+      "20 minutes"
+    ],
+    "answer": "12 minutes",
+    "id": "general-4318"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What is the standard USGA minimum diameter for a golf ball?",
+    "options": [
+      "1.68 inches",
+      "1.5 inches",
+      "2 inches",
+      "1.75 inches"
+    ],
+    "answer": "1.68 inches",
+    "id": "general-4319"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many balls are in British 90-ball bingo?",
+    "options": [
+      "90 balls",
+      "75 balls",
+      "100 balls",
+      "80 balls"
+    ],
+    "answer": "90 balls",
+    "id": "general-4320"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many pips total are on two standard six-sided dice?",
+    "options": [
+      "42 pips",
+      "36 pips",
+      "21 pips",
+      "48 pips"
+    ],
+    "answer": "42 pips",
+    "id": "general-4321"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many dice are used in standard craps?",
+    "options": [
+      "2 dice",
+      "1 die",
+      "3 dice",
+      "5 dice"
+    ],
+    "answer": "2 dice",
+    "id": "general-4322"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "In Yahtzee, what is the bonus for scoring at least 63 in the upper section?",
+    "options": [
+      "25 points",
+      "50 points",
+      "35 points",
+      "100 points"
+    ],
+    "answer": "35 points",
+    "id": "general-4323"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "What is the standard height of a tennis net at the posts?",
+    "options": [
+      "3.5 feet",
+      "3 feet",
+      "4 feet",
+      "5 feet"
+    ],
+    "answer": "3.5 feet",
+    "id": "general-4324"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many centimeters are in one inch, exactly?",
+    "options": [
+      "1.5 cm",
+      "3 cm",
+      "2.5 cm",
+      "2.54 cm"
+    ],
+    "answer": "2.54 cm",
+    "id": "general-4325"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many millimeters are in one meter?",
+    "options": [
+      "1000 mm",
+      "100 mm",
+      "10 mm",
+      "10000 mm"
+    ],
+    "answer": "1000 mm",
+    "id": "general-4326"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "How many seconds are in one fortnight? (14 days)",
+    "options": [
+      "1,000,000 seconds",
+      "604,800 seconds",
+      "2,419,200 seconds",
+      "1,209,600 seconds"
+    ],
+    "answer": "1,209,600 seconds",
+    "id": "general-4327"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many inches are in one yard?",
+    "options": [
+      "24 inches",
+      "48 inches",
+      "36 inches",
+      "12 inches"
+    ],
+    "answer": "36 inches",
+    "id": "general-4328"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many seconds are in one hour?",
+    "options": [
+      "3,600 seconds",
+      "60 seconds",
+      "6,000 seconds",
+      "1,800 seconds"
+    ],
+    "answer": "3,600 seconds",
+    "id": "general-4329"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many degrees are in a straight angle?",
+    "options": [
+      "360 degrees",
+      "270 degrees",
+      "180 degrees",
+      "90 degrees"
+    ],
+    "answer": "180 degrees",
+    "id": "general-4330"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many milliliters are in one liter?",
+    "options": [
+      "10,000 milliliters",
+      "1000 microliters",
+      "100 milliliters",
+      "1,000 milliliters"
+    ],
+    "answer": "1,000 milliliters",
+    "id": "general-4331"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many grams are in one kilogram?",
+    "options": [
+      "500 grams",
+      "100 grams",
+      "1,000 grams",
+      "10,000 grams"
+    ],
+    "answer": "1,000 grams",
+    "id": "general-4332"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many bytes are in one binary kilobyte as used in computing?",
+    "options": [
+      "512 bytes",
+      "1,000 bytes",
+      "1,024 bytes",
+      "2,048 bytes"
+    ],
+    "answer": "1,024 bytes",
+    "id": "general-4333"
   }
 ]

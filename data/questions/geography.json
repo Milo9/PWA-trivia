@@ -15923,5 +15923,2111 @@
       "Mekong River"
     ],
     "answer": "Yangtze River"
+  },
+  {
+    "difficulty": "easy",
+    "category": "geography",
+    "question": "What is the capital of Saudi Arabia?",
+    "options": [
+      "Jeddah",
+      "Mecca",
+      "Riyadh",
+      "Medina"
+    ],
+    "answer": "Riyadh",
+    "id": "geography-919"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the capital of the Maldives?",
+    "options": [
+      "Addu City",
+      "Fuvahmulah",
+      "Hulhumale",
+      "Male"
+    ],
+    "answer": "Male",
+    "id": "geography-920"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is considered the capital of Israel?",
+    "options": [
+      "Eilat",
+      "Tel Aviv",
+      "Jerusalem",
+      "Haifa"
+    ],
+    "answer": "Jerusalem",
+    "id": "geography-921"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country borders both China and Vietnam?",
+    "options": [
+      "Laos",
+      "Cambodia",
+      "Thailand",
+      "Mongolia"
+    ],
+    "answer": "Laos",
+    "id": "geography-922"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country borders both India and Thailand?",
+    "options": [
+      "Myanmar",
+      "Bhutan",
+      "Bangladesh",
+      "Laos"
+    ],
+    "answer": "Myanmar",
+    "id": "geography-923"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country borders both Brazil and Peru?",
+    "options": [
+      "Guyana",
+      "Ecuador",
+      "Colombia",
+      "Venezuela"
+    ],
+    "answer": "Colombia",
+    "id": "geography-924"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country borders both Poland and Hungary?",
+    "options": [
+      "Czech Republic",
+      "Austria",
+      "Romania",
+      "Slovakia"
+    ],
+    "answer": "Slovakia",
+    "id": "geography-925"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country borders both Turkey and Iran?",
+    "options": [
+      "Syria",
+      "Georgia",
+      "Armenia",
+      "Iraq"
+    ],
+    "answer": "Iraq",
+    "id": "geography-926"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country borders both Iraq and Saudi Arabia?",
+    "options": [
+      "Qatar",
+      "Oman",
+      "Bahrain",
+      "Kuwait"
+    ],
+    "answer": "Kuwait",
+    "id": "geography-927"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country borders both Kenya and Ethiopia?",
+    "options": [
+      "Uganda",
+      "Rwanda",
+      "Tanzania",
+      "South Sudan"
+    ],
+    "answer": "South Sudan",
+    "id": "geography-928"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country borders both Norway and Russia?",
+    "options": [
+      "Latvia",
+      "Estonia",
+      "Finland",
+      "Sweden"
+    ],
+    "answer": "Finland",
+    "id": "geography-929"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country borders both Austria and Italy?",
+    "options": [
+      "Hungary",
+      "Germany",
+      "Slovenia",
+      "Croatia"
+    ],
+    "answer": "Slovenia",
+    "id": "geography-930"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country borders both Argentina and Brazil?",
+    "options": [
+      "Peru",
+      "Paraguay",
+      "Chile",
+      "Uruguay"
+    ],
+    "answer": "Paraguay",
+    "id": "geography-931"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country borders both Chile and Peru?",
+    "options": [
+      "Argentina",
+      "Bolivia",
+      "Ecuador",
+      "Paraguay"
+    ],
+    "answer": "Bolivia",
+    "id": "geography-932"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country borders both Colombia and Venezuela?",
+    "options": [
+      "Panama",
+      "Ecuador",
+      "Peru",
+      "Brazil"
+    ],
+    "answer": "Brazil",
+    "id": "geography-933"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country borders both Egypt and Sudan?",
+    "options": [
+      "Libya",
+      "Israel",
+      "Eritrea",
+      "Chad"
+    ],
+    "answer": "Libya",
+    "id": "geography-934"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country borders both Afghanistan and China?",
+    "options": [
+      "Iran",
+      "Pakistan",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "answer": "Pakistan",
+    "id": "geography-935"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country borders both China and Mongolia?",
+    "options": [
+      "Russia",
+      "Tajikistan",
+      "Kazakhstan",
+      "Kyrgyzstan"
+    ],
+    "answer": "Russia",
+    "id": "geography-936"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country borders both Lithuania and Poland?",
+    "options": [
+      "Belarus",
+      "Ukraine",
+      "Latvia",
+      "Estonia"
+    ],
+    "answer": "Belarus",
+    "id": "geography-937"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country borders both Latvia and Poland?",
+    "options": [
+      "Lithuania",
+      "Belarus",
+      "Ukraine",
+      "Estonia"
+    ],
+    "answer": "Lithuania",
+    "id": "geography-938"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country borders both Austria and Czech Republic?",
+    "options": [
+      "Slovakia",
+      "Poland",
+      "Hungary",
+      "Germany"
+    ],
+    "answer": "Poland",
+    "id": "geography-939"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country borders both Jordan and Lebanon?",
+    "options": [
+      "Israel",
+      "Syria",
+      "Iraq",
+      "Turkey"
+    ],
+    "answer": "Syria",
+    "id": "geography-940"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country borders both Oman and Saudi Arabia?",
+    "options": [
+      "Yemen",
+      "Qatar",
+      "Bahrain",
+      "Kuwait"
+    ],
+    "answer": "Yemen",
+    "id": "geography-941"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country borders both Cambodia and Laos?",
+    "options": [
+      "Myanmar",
+      "Vietnam",
+      "Thailand",
+      "Malaysia"
+    ],
+    "answer": "Vietnam",
+    "id": "geography-942"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country borders both Niger and Nigeria?",
+    "options": [
+      "Mali",
+      "Benin",
+      "Burkina Faso",
+      "Chad"
+    ],
+    "answer": "Benin",
+    "id": "geography-943"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country borders both Angola and Zambia?",
+    "options": [
+      "Namibia",
+      "Democratic Republic of the Congo",
+      "Botswana",
+      "Tanzania"
+    ],
+    "answer": "Democratic Republic of the Congo",
+    "id": "geography-944"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country borders both Uganda and Rwanda?",
+    "options": [
+      "Kenya",
+      "Burundi",
+      "Tanzania",
+      "South Sudan"
+    ],
+    "answer": "Burundi",
+    "id": "geography-945"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country borders both Tanzania and Mozambique?",
+    "options": [
+      "Zambia",
+      "Malawi",
+      "Zimbabwe",
+      "Kenya"
+    ],
+    "answer": "Malawi",
+    "id": "geography-946"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country borders both Senegal and Guinea?",
+    "options": [
+      "Mali",
+      "Guinea-Bissau",
+      "Sierra Leone",
+      "Liberia"
+    ],
+    "answer": "Guinea-Bissau",
+    "id": "geography-947"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country borders both Mexico and Guatemala?",
+    "options": [
+      "Honduras",
+      "Belize",
+      "El Salvador",
+      "Nicaragua"
+    ],
+    "answer": "Belize",
+    "id": "geography-948"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country borders both Guatemala and El Salvador?",
+    "options": [
+      "Belize",
+      "Honduras",
+      "Nicaragua",
+      "Mexico"
+    ],
+    "answer": "Honduras",
+    "id": "geography-949"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country borders both Ecuador and Colombia?",
+    "options": [
+      "Venezuela",
+      "Peru",
+      "Brazil",
+      "Guyana"
+    ],
+    "answer": "Peru",
+    "id": "geography-950"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country borders both France and Italy?",
+    "options": [
+      "Monaco",
+      "Switzerland",
+      "Luxembourg",
+      "Belgium"
+    ],
+    "answer": "Switzerland",
+    "id": "geography-951"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country borders both China and Kyrgyzstan?",
+    "options": [
+      "Mongolia",
+      "Kazakhstan",
+      "Tajikistan",
+      "Uzbekistan"
+    ],
+    "answer": "Kazakhstan",
+    "id": "geography-952"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country borders both Turkmenistan and Uzbekistan?",
+    "options": [
+      "Kazakhstan",
+      "Iran",
+      "Afghanistan",
+      "Tajikistan"
+    ],
+    "answer": "Kazakhstan",
+    "id": "geography-953"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country borders both Kenya and Tanzania?",
+    "options": [
+      "Uganda",
+      "Rwanda",
+      "Burundi",
+      "Mozambique"
+    ],
+    "answer": "Uganda",
+    "id": "geography-954"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country borders Afghanistan, Pakistan and China?",
+    "options": [
+      "Tajikistan",
+      "Iran",
+      "Turkmenistan",
+      "Uzbekistan"
+    ],
+    "answer": "Tajikistan",
+    "id": "geography-955"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country borders both Brazil and Guyana?",
+    "options": [
+      "Suriname",
+      "Venezuela",
+      "Colombia",
+      "French Guiana"
+    ],
+    "answer": "Venezuela",
+    "id": "geography-956"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country borders both Iran and Azerbaijan?",
+    "options": [
+      "Turkey",
+      "Armenia",
+      "Georgia",
+      "Russia"
+    ],
+    "answer": "Armenia",
+    "id": "geography-957"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which country borders both Thailand and Cambodia?",
+    "options": [
+      "Laos",
+      "Vietnam",
+      "Myanmar",
+      "Malaysia"
+    ],
+    "answer": "Laos",
+    "id": "geography-958"
+  },
+  {
+    "difficulty": "easy",
+    "category": "geography",
+    "question": "Which river flows through Rome, Italy?",
+    "options": [
+      "Po",
+      "Arno",
+      "Tiber",
+      "Adige"
+    ],
+    "answer": "Tiber",
+    "id": "geography-959"
+  },
+  {
+    "difficulty": "easy",
+    "category": "geography",
+    "question": "Which river flows through Florence?",
+    "options": [
+      "Tiber",
+      "Arno",
+      "Po",
+      "Brenta"
+    ],
+    "answer": "Arno",
+    "id": "geography-960"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which river flows through Warsaw?",
+    "options": [
+      "Oder",
+      "Vistula",
+      "Warta",
+      "Bug"
+    ],
+    "answer": "Vistula",
+    "id": "geography-961"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which river is the longest in the Iberian Peninsula and flows through Lisbon?",
+    "options": [
+      "Douro",
+      "Tagus",
+      "Guadiana",
+      "Ebro"
+    ],
+    "answer": "Tagus",
+    "id": "geography-962"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which river flows through Seville, Spain?",
+    "options": [
+      "Ebro",
+      "Douro",
+      "Guadalquivir",
+      "Tagus"
+    ],
+    "answer": "Guadalquivir",
+    "id": "geography-963"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which river flows through Cologne and forms part of the border between France and Germany?",
+    "options": [
+      "Elbe",
+      "Rhine",
+      "Weser",
+      "Ems"
+    ],
+    "answer": "Rhine",
+    "id": "geography-964"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which river flows through Hamburg, Germany?",
+    "options": [
+      "Rhine",
+      "Elbe",
+      "Weser",
+      "Ems"
+    ],
+    "answer": "Elbe",
+    "id": "geography-965"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "What is the longest river entirely within Italy?",
+    "options": [
+      "Arno",
+      "Tiber",
+      "Po",
+      "Adige"
+    ],
+    "answer": "Po",
+    "id": "geography-966"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which river flows through St. Petersburg, Russia?",
+    "options": [
+      "Neva",
+      "Moskva",
+      "Don",
+      "Volkhov"
+    ],
+    "answer": "Neva",
+    "id": "geography-967"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which river flows through central Berlin?",
+    "options": [
+      "Spree",
+      "Havel",
+      "Elbe",
+      "Rhine"
+    ],
+    "answer": "Spree",
+    "id": "geography-968"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which river flows through Porto, Portugal?",
+    "options": [
+      "Tagus",
+      "Douro",
+      "Minho",
+      "Mondego"
+    ],
+    "answer": "Douro",
+    "id": "geography-969"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which river flows through Toulouse and Bordeaux in France?",
+    "options": [
+      "Garonne",
+      "Rhone",
+      "Dordogne",
+      "Loire"
+    ],
+    "answer": "Garonne",
+    "id": "geography-970"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which river flows through Lyon, France, joining the Saone?",
+    "options": [
+      "Garonne",
+      "Rhone",
+      "Meuse",
+      "Dordogne"
+    ],
+    "answer": "Rhone",
+    "id": "geography-971"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which river flows through Kyiv, Ukraine?",
+    "options": [
+      "Dnieper",
+      "Dniester",
+      "Don",
+      "Bug"
+    ],
+    "answer": "Dnieper",
+    "id": "geography-972"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which river is the longest in Ireland?",
+    "options": [
+      "Liffey",
+      "Shannon",
+      "Boyne",
+      "Suir"
+    ],
+    "answer": "Shannon",
+    "id": "geography-973"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which river flows through Zaragoza, Spain?",
+    "options": [
+      "Tagus",
+      "Ebro",
+      "Douro",
+      "Jucar"
+    ],
+    "answer": "Ebro",
+    "id": "geography-974"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which river flows through Dublin, Ireland?",
+    "options": [
+      "Shannon",
+      "Liffey",
+      "Boyne",
+      "Lee"
+    ],
+    "answer": "Liffey",
+    "id": "geography-975"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which river flows through Munich, Germany?",
+    "options": [
+      "Rhine",
+      "Isar",
+      "Elbe",
+      "Weser"
+    ],
+    "answer": "Isar",
+    "id": "geography-976"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which river flows through Krakow, Poland?",
+    "options": [
+      "Vistula",
+      "Oder",
+      "Warta",
+      "Bug"
+    ],
+    "answer": "Vistula",
+    "id": "geography-977"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which river flows through Bucharest, Romania?",
+    "options": [
+      "Siret",
+      "Prut",
+      "Dambovita",
+      "Olt"
+    ],
+    "answer": "Dambovita",
+    "id": "geography-978"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which river flows through Riga, Latvia?",
+    "options": [
+      "Daugava",
+      "Gauja",
+      "Lielupe",
+      "Venta"
+    ],
+    "answer": "Daugava",
+    "id": "geography-979"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which river flows through Belgrade, Serbia, joining the Danube?",
+    "options": [
+      "Sava",
+      "Drava",
+      "Morava",
+      "Tisza"
+    ],
+    "answer": "Sava",
+    "id": "geography-980"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which river flows through Cork, Ireland?",
+    "options": [
+      "Shannon",
+      "Lee",
+      "Blackwater",
+      "Suir"
+    ],
+    "answer": "Lee",
+    "id": "geography-981"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which river flows through Stockholm, Sweden?",
+    "options": [
+      "Gota",
+      "Norrstrom",
+      "Motala",
+      "Dalalven"
+    ],
+    "answer": "Norrstrom",
+    "id": "geography-982"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which river flows through Oslo, Norway?",
+    "options": [
+      "Glomma",
+      "Akerselva",
+      "Drammenselva",
+      "Numedalslagen"
+    ],
+    "answer": "Akerselva",
+    "id": "geography-983"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which river forms the border between Namibia and South Africa for part of its course?",
+    "options": [
+      "Orange",
+      "Zambezi",
+      "Limpopo",
+      "Okavango"
+    ],
+    "answer": "Orange",
+    "id": "geography-984"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which river flows through Damascus, Syria?",
+    "options": [
+      "Orontes",
+      "Barada",
+      "Euphrates",
+      "Jordan"
+    ],
+    "answer": "Barada",
+    "id": "geography-985"
+  },
+  {
+    "difficulty": "easy",
+    "category": "geography",
+    "question": "Which mountain is the highest in Japan?",
+    "options": [
+      "Fuji",
+      "Asahi",
+      "Kita",
+      "Hotaka"
+    ],
+    "answer": "Fuji",
+    "id": "geography-986"
+  },
+  {
+    "difficulty": "easy",
+    "category": "geography",
+    "question": "Which volcano near Naples destroyed Pompeii in 79 AD?",
+    "options": [
+      "Etna",
+      "Vesuvius",
+      "Stromboli",
+      "Vulcano"
+    ],
+    "answer": "Vesuvius",
+    "id": "geography-987"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which mountain is the highest in Greece?",
+    "options": [
+      "Parnassus",
+      "Olympus",
+      "Smolikas",
+      "Giona"
+    ],
+    "answer": "Olympus",
+    "id": "geography-988"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which mountain is the highest in Iran?",
+    "options": [
+      "Sabalan",
+      "Damavand",
+      "Zard Kuh",
+      "Taftan"
+    ],
+    "answer": "Damavand",
+    "id": "geography-989"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which pyramid-shaped peak lies on the border between Switzerland and Italy?",
+    "options": [
+      "Eiger",
+      "Matterhorn",
+      "Jungfrau",
+      "Monte Rosa"
+    ],
+    "answer": "Matterhorn",
+    "id": "geography-990"
+  },
+  {
+    "difficulty": "easy",
+    "category": "geography",
+    "question": "Which mountain range forms the backbone of Italy?",
+    "options": [
+      "Alps",
+      "Apennines",
+      "Dinaric Alps",
+      "Pyrenees"
+    ],
+    "answer": "Apennines",
+    "id": "geography-991"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which mountain range stretches along much of western North America from Canada to New Mexico?",
+    "options": [
+      "Appalachians",
+      "Rocky Mountains",
+      "Sierra Nevada",
+      "Cascades"
+    ],
+    "answer": "Rocky Mountains",
+    "id": "geography-992"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which mountain range runs along the eastern side of North America?",
+    "options": [
+      "Rockies",
+      "Appalachian Mountains",
+      "Sierra Nevada",
+      "Andes"
+    ],
+    "answer": "Appalachian Mountains",
+    "id": "geography-993"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which mountain range separates the Black Sea from the Caspian Sea?",
+    "options": [
+      "Zagros",
+      "Caucasus",
+      "Carpathians",
+      "Ural"
+    ],
+    "answer": "Caucasus",
+    "id": "geography-994"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which mountain range runs through central Iran?",
+    "options": [
+      "Alborz",
+      "Zagros",
+      "Caucasus",
+      "Elburz"
+    ],
+    "answer": "Zagros",
+    "id": "geography-995"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which mountain is the highest in Portugal, located in the Azores?",
+    "options": [
+      "Pico",
+      "Torre",
+      "Foil",
+      "Estrela"
+    ],
+    "answer": "Pico",
+    "id": "geography-996"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which mountain is the highest in Sweden?",
+    "options": [
+      "Kebnekaise",
+      "Sarektjokka",
+      "Kaskasatjakka",
+      "Akka"
+    ],
+    "answer": "Kebnekaise",
+    "id": "geography-997"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which mountain is the highest in Norway?",
+    "options": [
+      "Glittertind",
+      "Galdhopiggen",
+      "Store Skagastolstind",
+      "Snohetta"
+    ],
+    "answer": "Galdhopiggen",
+    "id": "geography-998"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which mountain is the highest in Finland?",
+    "options": [
+      "Halti",
+      "Saana",
+      "Koli",
+      "Pyhatunturi"
+    ],
+    "answer": "Halti",
+    "id": "geography-999"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which mountain range runs in an arc through Poland, Slovakia, Romania and Ukraine?",
+    "options": [
+      "Carpathians",
+      "Alps",
+      "Dinarides",
+      "Balkans"
+    ],
+    "answer": "Carpathians",
+    "id": "geography-1000"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which mountain range runs along the border between France and Italy, containing many famous ski resorts?",
+    "options": [
+      "Apennines",
+      "Alps",
+      "Jura",
+      "Vosges"
+    ],
+    "answer": "Alps",
+    "id": "geography-1001"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which mountain is the highest peak on mainland Spain?",
+    "options": [
+      "Teide",
+      "Mulhacen",
+      "Aneto",
+      "Veleta"
+    ],
+    "answer": "Mulhacen",
+    "id": "geography-1002"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which mountain range forms the natural border between Poland and Slovakia?",
+    "options": [
+      "Sudetes",
+      "Carpathians",
+      "Tatra Mountains",
+      "Beskids"
+    ],
+    "answer": "Tatra Mountains",
+    "id": "geography-1003"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which mountain is the highest in the Black Forest region of Germany?",
+    "options": [
+      "Feldberg",
+      "Zugspitze",
+      "Brocken",
+      "Schauinsland"
+    ],
+    "answer": "Feldberg",
+    "id": "geography-1004"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which mountain is the highest on the island of Crete?",
+    "options": [
+      "Psiloritis",
+      "Lefka Ori",
+      "Dikti",
+      "Thrypti"
+    ],
+    "answer": "Psiloritis",
+    "id": "geography-1005"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which peak is the highest in the Apennines?",
+    "options": [
+      "Corno Grande",
+      "Monte Amaro",
+      "Monte Vettore",
+      "Gran Sasso"
+    ],
+    "answer": "Corno Grande",
+    "id": "geography-1006"
+  },
+  {
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "Which mountain range runs along the western coast of India?",
+    "options": [
+      "Eastern Ghats",
+      "Western Ghats",
+      "Aravalli",
+      "Vindhya"
+    ],
+    "answer": "Western Ghats",
+    "id": "geography-1007"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which mountain is sacred in Armenia and located in Turkey near the border?",
+    "options": [
+      "Ararat",
+      "Damavand",
+      "Kazbek",
+      "Aragats"
+    ],
+    "answer": "Ararat",
+    "id": "geography-1008"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which range lies between the Aegean and Black Seas in northern Turkey?",
+    "options": [
+      "Pontic Mountains",
+      "Taurus Mountains",
+      "Zagros",
+      "Caucasus"
+    ],
+    "answer": "Pontic Mountains",
+    "id": "geography-1009"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which mountain range forms the border between Italy and Slovenia?",
+    "options": [
+      "Julian Alps",
+      "Carnic Alps",
+      "Dolomites",
+      "Ligurian Alps"
+    ],
+    "answer": "Julian Alps",
+    "id": "geography-1010"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which peak is the highest in the Rocky Mountains of the USA?",
+    "options": [
+      "Mount Elbert",
+      "Pikes Peak",
+      "Mount Rainier",
+      "Mount Shasta"
+    ],
+    "answer": "Mount Elbert",
+    "id": "geography-1011"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which volcano is the highest active volcano in Europe, located on Sicily?",
+    "options": [
+      "Vesuvius",
+      "Etna",
+      "Stromboli",
+      "Vulcano"
+    ],
+    "answer": "Etna",
+    "id": "geography-1012"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which desert spans Arizona, California and northern Mexico and is known for saguaro cactus?",
+    "options": [
+      "Mojave",
+      "Sonoran",
+      "Great Basin",
+      "Colorado Desert"
+    ],
+    "answer": "Sonoran",
+    "id": "geography-1013"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which desert in southeastern California contains Death Valley?",
+    "options": [
+      "Sonoran",
+      "Mojave",
+      "Great Basin",
+      "Colorado Desert"
+    ],
+    "answer": "Mojave",
+    "id": "geography-1014"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which desert is the largest in Iran, known as Kavir?",
+    "options": [
+      "Dasht-e Lut",
+      "Dasht-e Kavir",
+      "Dasht-e Kharan",
+      "Kyzylkum"
+    ],
+    "answer": "Dasht-e Kavir",
+    "id": "geography-1015"
+  },
+  {
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "Which desert is known as the Desert of Death in Iran and is a UNESCO World Heritage site?",
+    "options": [
+      "Dasht-e Kavir",
+      "Dasht-e Lut",
+      "Dasht-e Kharan",
+      "Kyzylkum"
+    ],
+    "answer": "Dasht-e Lut",
+    "id": "geography-1016"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which desert occupies most of Turkmenistan and means Black Sand?",
+    "options": [
+      "Karakum",
+      "Kyzylkum",
+      "Aral Karakum",
+      "Moyynkum"
+    ],
+    "answer": "Karakum",
+    "id": "geography-1017"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which desert straddles the border of Kazakhstan and Uzbekistan?",
+    "options": [
+      "Karakum",
+      "Kyzylkum",
+      "Moyynkum",
+      "Betpak-Dala"
+    ],
+    "answer": "Kyzylkum",
+    "id": "geography-1018"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which desert region in Israel contains Makhtesh Ramon crater?",
+    "options": [
+      "Judean Desert",
+      "Negev",
+      "Arava",
+      "Syrian Desert"
+    ],
+    "answer": "Negev",
+    "id": "geography-1019"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which high plateau is often called the Roof of the World?",
+    "options": [
+      "Altiplano",
+      "Tibetan Plateau",
+      "Colorado Plateau",
+      "Deccan Plateau"
+    ],
+    "answer": "Tibetan Plateau",
+    "id": "geography-1020"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which vast plain covers much of northern France, Belgium and the Netherlands?",
+    "options": [
+      "Great Hungarian Plain",
+      "North European Plain",
+      "East European Plain",
+      "Pannonian Plain"
+    ],
+    "answer": "North European Plain",
+    "id": "geography-1021"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which central plateau covers much of central Spain?",
+    "options": [
+      "Meseta Central",
+      "Altiplano",
+      "Massif Central",
+      "Anatolian Plateau"
+    ],
+    "answer": "Meseta Central",
+    "id": "geography-1022"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which desert covers much of northern Kenya near Lake Turkana?",
+    "options": [
+      "Chalbi Desert",
+      "Nyiri Desert",
+      "Danakil Desert",
+      "Ogaden Desert"
+    ],
+    "answer": "Chalbi Desert",
+    "id": "geography-1023"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which desert lies in eastern Jordan and southern Syria?",
+    "options": [
+      "Negev",
+      "Syrian Desert",
+      "Nafud Desert",
+      "Rub al Khali"
+    ],
+    "answer": "Syrian Desert",
+    "id": "geography-1024"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which semi-arid plateau region covers much of southern India?",
+    "options": [
+      "Deccan Plateau",
+      "Tibetan Plateau",
+      "Chota Nagpur Plateau",
+      "Malwa Plateau"
+    ],
+    "answer": "Deccan Plateau",
+    "id": "geography-1025"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which large grassland plain covers much of central Argentina?",
+    "options": [
+      "Pampas",
+      "Llanos",
+      "Patagonia",
+      "Gran Chaco"
+    ],
+    "answer": "Pampas",
+    "id": "geography-1026"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which desert in Australia is known for its red sand and opal mining town Coober Pedy nearby?",
+    "options": [
+      "Great Victoria Desert",
+      "Simpson Desert",
+      "Great Sandy Desert",
+      "Gibson Desert"
+    ],
+    "answer": "Great Sandy Desert",
+    "id": "geography-1027"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which high desert in the western United States covers most of Nevada?",
+    "options": [
+      "Mojave",
+      "Great Basin Desert",
+      "Sonoran",
+      "Painted Desert"
+    ],
+    "answer": "Great Basin Desert",
+    "id": "geography-1028"
+  },
+  {
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "Which cold desert region lies in the high Arctic of Russia, above the Arctic Circle?",
+    "options": [
+      "Arctic Desert",
+      "Taymyr Desert",
+      "Karakum",
+      "Kyzylkum"
+    ],
+    "answer": "Arctic Desert",
+    "id": "geography-1029"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which desert in northwestern Argentina is known for Monte shrubland?",
+    "options": [
+      "Patagonian",
+      "Monte Desert",
+      "Sechura",
+      "Puna"
+    ],
+    "answer": "Monte Desert",
+    "id": "geography-1030"
+  },
+  {
+    "difficulty": "hard",
+    "category": "geography",
+    "question": "Which subglacial lake is the largest in Antarctica, buried under about 4 km of ice?",
+    "options": [
+      "Vostok",
+      "Enigma",
+      "Mercer",
+      "Whillans"
+    ],
+    "answer": "Vostok",
+    "id": "geography-1031"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which ephemeral salt lake is the largest in Australia when filled, also known as Kati Thanda?",
+    "options": [
+      "Lake Torrens",
+      "Lake Eyre",
+      "Lake Gairdner",
+      "Lake Amadeus"
+    ],
+    "answer": "Lake Eyre",
+    "id": "geography-1032"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which lake is shared by Chad, Cameroon, Niger and Nigeria?",
+    "options": [
+      "Lake Turkana",
+      "Lake Chad",
+      "Lake Albert",
+      "Lake Kivu"
+    ],
+    "answer": "Lake Chad",
+    "id": "geography-1033"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which lake is the largest desert lake in the world, located in Kenya and Ethiopia?",
+    "options": [
+      "Lake Turkana",
+      "Lake Baringo",
+      "Lake Bogoria",
+      "Lake Nakuru"
+    ],
+    "answer": "Lake Turkana",
+    "id": "geography-1034"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which lake is the largest in Florida, USA?",
+    "options": [
+      "Lake George",
+      "Lake Okeechobee",
+      "Lake Kissimmee",
+      "Lake Apopka"
+    ],
+    "answer": "Lake Okeechobee",
+    "id": "geography-1035"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which lake is the largest in Central America, located in Nicaragua?",
+    "options": [
+      "Lake Managua",
+      "Lake Nicaragua",
+      "Lake Izabal",
+      "Lake Atitlan"
+    ],
+    "answer": "Lake Nicaragua",
+    "id": "geography-1036"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which sea lies between Sweden and Finland, connected via the Gulf of Bothnia?",
+    "options": [
+      "North Sea",
+      "Baltic Sea",
+      "Norwegian Sea",
+      "Barents Sea"
+    ],
+    "answer": "Baltic Sea",
+    "id": "geography-1037"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which gulf lies between Yemen and Somalia?",
+    "options": [
+      "Gulf of Aden",
+      "Gulf of Oman",
+      "Persian Gulf",
+      "Gulf of Suez"
+    ],
+    "answer": "Gulf of Aden",
+    "id": "geography-1038"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which gulf lies southeast of the Arabian Peninsula, between Iran and Oman?",
+    "options": [
+      "Gulf of Aden",
+      "Gulf of Oman",
+      "Gulf of Suez",
+      "Gulf of Aqaba"
+    ],
+    "answer": "Gulf of Oman",
+    "id": "geography-1039"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which bay lies between France and northern Spain?",
+    "options": [
+      "Bay of Biscay",
+      "Gulf of Lion",
+      "Bay of Bengal",
+      "Gulf of Cadiz"
+    ],
+    "answer": "Bay of Biscay",
+    "id": "geography-1040"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which large bay in northern Canada is known for polar bears and belugas?",
+    "options": [
+      "Baffin Bay",
+      "Hudson Bay",
+      "James Bay",
+      "Ungava Bay"
+    ],
+    "answer": "Hudson Bay",
+    "id": "geography-1041"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which sea is enclosed by Russia, Ukraine, Georgia, Turkey, Bulgaria and Romania?",
+    "options": [
+      "Caspian Sea",
+      "Black Sea",
+      "Azov Sea",
+      "Mediterranean Sea"
+    ],
+    "answer": "Black Sea",
+    "id": "geography-1042"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which sea lies between Italy and Greece?",
+    "options": [
+      "Tyrrhenian Sea",
+      "Ionian Sea",
+      "Adriatic Sea",
+      "Ligurian Sea"
+    ],
+    "answer": "Ionian Sea",
+    "id": "geography-1043"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which lake lies on the border of Tanzania and Malawi, also known as Lake Nyasa?",
+    "options": [
+      "Lake Tanganyika",
+      "Lake Malawi",
+      "Lake Turkana",
+      "Lake Albert"
+    ],
+    "answer": "Lake Malawi",
+    "id": "geography-1044"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which lake is the largest in the United Kingdom by area, located in Northern Ireland?",
+    "options": [
+      "Loch Lomond",
+      "Lough Neagh",
+      "Loch Ness",
+      "Windermere"
+    ],
+    "answer": "Lough Neagh",
+    "id": "geography-1045"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which freshwater lake is the largest in Western Europe, located on the border of Switzerland and France?",
+    "options": [
+      "Lake Constance",
+      "Lake Geneva",
+      "Lake Neuchatel",
+      "Lake Zurich"
+    ],
+    "answer": "Lake Geneva",
+    "id": "geography-1046"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which strait separates mainland Australia from Papua New Guinea?",
+    "options": [
+      "Bass Strait",
+      "Torres Strait",
+      "Cook Strait",
+      "Palk Strait"
+    ],
+    "answer": "Torres Strait",
+    "id": "geography-1047"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which strait separates Bali and Lombok in Indonesia?",
+    "options": [
+      "Sunda Strait",
+      "Lombok Strait",
+      "Makassar Strait",
+      "Malacca Strait"
+    ],
+    "answer": "Lombok Strait",
+    "id": "geography-1048"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which strait connects the Java Sea and the Indian Ocean, between Sumatra and Java?",
+    "options": [
+      "Malacca Strait",
+      "Sunda Strait",
+      "Lombok Strait",
+      "Makassar Strait"
+    ],
+    "answer": "Sunda Strait",
+    "id": "geography-1049"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which strait separates Corsica and Sardinia?",
+    "options": [
+      "Strait of Bonifacio",
+      "Strait of Otranto",
+      "Strait of Sicily",
+      "Strait of Messina"
+    ],
+    "answer": "Strait of Bonifacio",
+    "id": "geography-1050"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which strait separates Borneo from Sulawesi?",
+    "options": [
+      "Makassar Strait",
+      "Sunda Strait",
+      "Lombok Strait",
+      "Karimata Strait"
+    ],
+    "answer": "Makassar Strait",
+    "id": "geography-1051"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which channel separates Ireland and Great Britain at its narrowest central part?",
+    "options": [
+      "St George's Channel",
+      "North Channel",
+      "Irish Sea",
+      "Bristol Channel"
+    ],
+    "answer": "St George's Channel",
+    "id": "geography-1052"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which isthmus connects the Malay Peninsula to mainland Asia?",
+    "options": [
+      "Isthmus of Kra",
+      "Isthmus of Suez",
+      "Isthmus of Corinth",
+      "Isthmus of Tehuantepec"
+    ],
+    "answer": "Isthmus of Kra",
+    "id": "geography-1053"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which isthmus in Greece connects the Peloponnese to mainland Greece?",
+    "options": [
+      "Isthmus of Corinth",
+      "Isthmus of Kra",
+      "Isthmus of Suez",
+      "Isthmus of Panama"
+    ],
+    "answer": "Isthmus of Corinth",
+    "id": "geography-1054"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which historic canal in southern France connects the Atlantic to the Mediterranean?",
+    "options": [
+      "Canal du Midi",
+      "Canal de Bourgogne",
+      "Rhone-Rhine Canal",
+      "Erie Canal"
+    ],
+    "answer": "Canal du Midi",
+    "id": "geography-1055"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which strait separates Honshu and Hokkaido in Japan?",
+    "options": [
+      "Tsugaru Strait",
+      "Kanmon Strait",
+      "Korea Strait",
+      "La Perouse Strait"
+    ],
+    "answer": "Tsugaru Strait",
+    "id": "geography-1056"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which strait separates Honshu and Shikoku in Japan via the Akashi Kaikyo Bridge?",
+    "options": [
+      "Korea Strait",
+      "Tsugaru Strait",
+      "Kanmon Strait",
+      "Akashi Strait"
+    ],
+    "answer": "Akashi Strait",
+    "id": "geography-1057"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which strait separates Italy and Tunisia?",
+    "options": [
+      "Strait of Sicily",
+      "Strait of Bonifacio",
+      "Strait of Messina",
+      "Strait of Otranto"
+    ],
+    "answer": "Strait of Sicily",
+    "id": "geography-1058"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which strait separates the Korean Peninsula from Japan's Honshu?",
+    "options": [
+      "Tsugaru Strait",
+      "Korea Strait",
+      "Kanmon Strait",
+      "La Perouse Strait"
+    ],
+    "answer": "Korea Strait",
+    "id": "geography-1059"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which strait connects the Sea of Marmara to the Aegean Sea?",
+    "options": [
+      "Strait of Otranto",
+      "Kerch Strait",
+      "Bosporus",
+      "Dardanelles"
+    ],
+    "answer": "Dardanelles",
+    "id": "geography-1060"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which waterway separates Vancouver Island from mainland British Columbia?",
+    "options": [
+      "Strait of Georgia",
+      "Johnstone Strait",
+      "Strait of Juan de Fuca",
+      "Discovery Passage"
+    ],
+    "answer": "Strait of Georgia",
+    "id": "geography-1061"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which strait separates the island of Hokkaido from Sakhalin?",
+    "options": [
+      "Tartary Strait",
+      "Korea Strait",
+      "La Perouse Strait",
+      "Tsugaru Strait"
+    ],
+    "answer": "La Perouse Strait",
+    "id": "geography-1062"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which island in Indonesia is known for Komodo dragons?",
+    "options": [
+      "Java",
+      "Sumatra",
+      "Komodo",
+      "Bali"
+    ],
+    "answer": "Komodo",
+    "id": "geography-1063"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which island is the largest in the state of Hawaii?",
+    "options": [
+      "Maui",
+      "Hawaii Island",
+      "Oahu",
+      "Kauai"
+    ],
+    "answer": "Hawaii Island",
+    "id": "geography-1064"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which archipelago lies between Iceland and Norway, belonging to Denmark?",
+    "options": [
+      "Orkney",
+      "Shetland",
+      "Faroe Islands",
+      "Lofoten"
+    ],
+    "answer": "Faroe Islands",
+    "id": "geography-1065"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which island group includes Mallorca, Menorca and Ibiza?",
+    "options": [
+      "Canary Islands",
+      "Cyclades",
+      "Balearic Islands",
+      "Azores"
+    ],
+    "answer": "Balearic Islands",
+    "id": "geography-1066"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which island is the largest in the Canary Islands?",
+    "options": [
+      "Tenerife",
+      "Gran Canaria",
+      "Lanzarote",
+      "Fuerteventura"
+    ],
+    "answer": "Tenerife",
+    "id": "geography-1067"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which island is the largest in the Azores archipelago?",
+    "options": [
+      "Faial",
+      "Sao Miguel",
+      "Terceira",
+      "Pico"
+    ],
+    "answer": "Sao Miguel",
+    "id": "geography-1068"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which island nation lies east of Madagascar and was once home to dodos?",
+    "options": [
+      "Comoros",
+      "Seychelles",
+      "Mauritius",
+      "Reunion"
+    ],
+    "answer": "Mauritius",
+    "id": "geography-1069"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which island in the Mediterranean is known for the Minoan civilization?",
+    "options": [
+      "Sicily",
+      "Sardinia",
+      "Crete",
+      "Cyprus"
+    ],
+    "answer": "Crete",
+    "id": "geography-1070"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which Pacific island nation consists of two main islands, Upolu and Savai'i?",
+    "options": [
+      "Tonga",
+      "Fiji",
+      "Vanuatu",
+      "Samoa"
+    ],
+    "answer": "Samoa",
+    "id": "geography-1071"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which island is shared by Indonesia and Papua New Guinea?",
+    "options": [
+      "Timor",
+      "Sulawesi",
+      "New Guinea",
+      "Borneo"
+    ],
+    "answer": "New Guinea",
+    "id": "geography-1072"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which island group lies off the northwest coast of Africa and belongs to Spain?",
+    "options": [
+      "Madeira",
+      "Canary Islands",
+      "Azores",
+      "Balearic Islands"
+    ],
+    "answer": "Canary Islands",
+    "id": "geography-1073"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which island lies off the southern coast of Chile, known for its churches and mythology?",
+    "options": [
+      "Navarino Island",
+      "Chiloe Island",
+      "Hoste Island",
+      "Wellington Island"
+    ],
+    "answer": "Chiloe Island",
+    "id": "geography-1074"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which island in Japan is known for the city of Hiroshima?",
+    "options": [
+      "Hokkaido",
+      "Shikoku",
+      "Kyushu",
+      "Honshu"
+    ],
+    "answer": "Honshu",
+    "id": "geography-1075"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which archipelago includes Victoria Island in northern Canada?",
+    "options": [
+      "Svalbard",
+      "Alexander Archipelago",
+      "Canadian Arctic Archipelago",
+      "Aleutian Islands"
+    ],
+    "answer": "Canadian Arctic Archipelago",
+    "id": "geography-1076"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which island is the largest in Lake Superior?",
+    "options": [
+      "Isle Royale",
+      "Mackinac Island",
+      "Michipicoten Island",
+      "Grand Island"
+    ],
+    "answer": "Isle Royale",
+    "id": "geography-1077"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which island is the largest in the Andaman and Nicobar archipelago by area?",
+    "options": [
+      "South Andaman",
+      "North Andaman",
+      "Middle Andaman",
+      "Great Nicobar"
+    ],
+    "answer": "Middle Andaman",
+    "id": "geography-1078"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which island is located at the mouth of the Amazon River, belonging to Brazil?",
+    "options": [
+      "Ilha Grande",
+      "Fernando de Noronha",
+      "Bananal Island",
+      "Marajo Island"
+    ],
+    "answer": "Marajo Island",
+    "id": "geography-1079"
+  },
+  {
+    "difficulty": "medium",
+    "category": "geography",
+    "question": "Which island is the largest in the British Isles after Great Britain and Ireland?",
+    "options": [
+      "Isle of Man",
+      "Lewis and Harris",
+      "Isle of Skye",
+      "Isle of Wight"
+    ],
+    "answer": "Isle of Man",
+    "id": "geography-1080"
   }
 ]
