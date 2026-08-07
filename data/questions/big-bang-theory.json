@@ -2116,7 +2116,7 @@
       "Raj",
       "Howard"
     ],
-    "answer": "Howard"
+    "answer": "Sheldon"
   },
   {
     "id": "big-bang-theory-181",
@@ -6214,32 +6214,6 @@
     "answer": "George Cooper Jr."
   },
   {
-    "id": "big-bang-theory-527",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "At what young age did Sheldon graduate high school, reflecting his prodigy status?",
-    "options": [
-      "Eleven",
-      "Thirteen",
-      "Fifteen",
-      "Nine"
-    ],
-    "answer": "Eleven"
-  },
-  {
-    "id": "big-bang-theory-529",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "What is Leonard's field of specialty within physics?",
-    "options": [
-      "Experimental physics",
-      "Theoretical physics",
-      "Astrophysics",
-      "Particle physics theory"
-    ],
-    "answer": "Experimental physics"
-  },
-  {
     "id": "big-bang-theory-530",
     "category": "big-bang-theory",
     "difficulty": "medium",
@@ -6253,32 +6227,6 @@
     "answer": "Dr. Beverly Hofstadter"
   },
   {
-    "id": "big-bang-theory-533",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "What game do the guys play involving physics that Sheldon invents to replace rock-paper-scissors ties?",
-    "options": [
-      "Rock-Paper-Scissors-Lizard-Spock",
-      "Quantum Duel",
-      "Schrodinger's Choice",
-      "Photon Match"
-    ],
-    "answer": "Rock-Paper-Scissors-Lizard-Spock"
-  },
-  {
-    "id": "big-bang-theory-534",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "In Sheldon's expanded game, what does Spock do to Rock?",
-    "options": [
-      "Vaporizes it",
-      "Crushes it",
-      "Disproves it",
-      "Poisons it"
-    ],
-    "answer": "Vaporizes it"
-  },
-  {
     "id": "big-bang-theory-535",
     "category": "big-bang-theory",
     "difficulty": "medium",
@@ -6289,7 +6237,7 @@
       "\"That's a joke.\"",
       "\"Funny.\""
     ],
-    "answer": "\"Bazinga!\""
+    "answer": "\"Ha. Ha. Ha.\""
   },
   {
     "id": "big-bang-theory-536",
@@ -6303,19 +6251,6 @@
       "Ta-da!"
     ],
     "answer": "Bazinga!"
-  },
-  {
-    "id": "big-bang-theory-537",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "What childhood hobby does Sheldon maintain into adulthood, involving a miniature railway he keeps at his mother's house?",
-    "options": [
-      "Model trains",
-      "Model airplanes",
-      "Model rockets",
-      "Model ships"
-    ],
-    "answer": "Model trains"
   },
   {
     "id": "big-bang-theory-538",
@@ -6383,19 +6318,6 @@
     "answer": "Selective mutism triggered by social anxiety around women"
   },
   {
-    "id": "big-bang-theory-545",
-    "category": "big-bang-theory",
-    "difficulty": "medium",
-    "question": "What is the name of Raj's dog, a small white companion?",
-    "options": [
-      "Cinnamon",
-      "Ginger",
-      "Pepper",
-      "Sugar"
-    ],
-    "answer": "Cinnamon"
-  },
-  {
     "id": "big-bang-theory-546",
     "category": "big-bang-theory",
     "difficulty": "medium",
@@ -6453,12 +6375,12 @@
     "difficulty": "medium",
     "question": "What breaks up Raj's engagement to Anu near the end of the series?",
     "options": [
-      "He realizes he isn't ready to give up his life in Pasadena for her career demands",
+      "He decides she isn't right for him",
       "She cheats on him",
       "Their families feud",
       "He falls for someone else"
     ],
-    "answer": "He realizes he isn't ready to give up his life in Pasadena for her career demands"
+    "answer": "He decides she isn't right for him"
   },
   {
     "id": "big-bang-theory-551",

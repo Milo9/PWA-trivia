@@ -2935,11 +2935,11 @@
         "big-bang-theory-555",
         "big-bang-theory-556"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-06",
+      "completedAt": "2026-08-06",
+      "issuesFound": 9,
+      "notes": "Fixed 1 factual error found incidentally in an earlier-chunk question (big-bang-theory-180 wrongly credited Howard with the running bird-phobia gag; WebSearch on the S5 episode 'The Ornithophobia Diffusion' confirms it's Sheldon). Fixed 1 factual error in this chunk (big-bang-theory-535 marked Bazinga! as Sheldon's deadpan instead-of-laughing phrase, but that's his prank-catchphrase per big-bang-theory-536 -- the actual deadpan non-laugh is his flat 'Ha. Ha. Ha.', confirmed via WebSearch). Reworded big-bang-theory-550 (Raj/Anu breakup cause): WebSearch found the show's actual reason is Raj realizing, after a talk with Howard, that she wasn't right for him -- not reluctance to relocate for her career -- and the old wording was also an answer-length leak (85-char answer next to <=26-char distractors). Cut 6 confirmed same-fact duplicates against already-shipped questions: big-bang-theory-527 (Sheldon's high-school graduation age, dup of -694), -529 (Leonard's field of specialty, dup of -005), -533 (RPS-Lizard-Spock invention, dup of -011), -534 (what Spock does to Rock, dup of -500 in same chunk), -537 (Sheldon's model-train hobby, dup of -170), -545 (Raj's dog Cinnamon, dup of -019). Remaining ~35 questions in chunk verified accurate against distractors and general knowledge/WebSearch (Howard's MIT degree, ISS waste-disposal device, marriage-order facts, Raj/Anu/Priya family details, etc.)."
     },
     {
       "chunkId": "big-bang-theory-p1-010",
