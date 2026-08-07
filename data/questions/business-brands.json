@@ -1950,19 +1950,6 @@
     "answer": "Thomas J. Watson"
   },
   {
-    "id": "business-brands-151",
-    "difficulty": "medium",
-    "category": "business-brands",
-    "question": "What does the name 'Intel' stand for?",
-    "options": [
-      "Integrated Electronics",
-      "Intelligent Electronics",
-      "International Electronics",
-      "Internal Logic"
-    ],
-    "answer": "Integrated Electronics"
-  },
-  {
     "id": "business-brands-152",
     "difficulty": "hard",
     "category": "business-brands",
@@ -5301,7 +5288,7 @@
       "Boot soles",
       "Denim jackets"
     ],
-    "answer": "Work pants"
+    "answer": "Overalls"
   },
   {
     "id": "business-brands-409",
@@ -6100,14 +6087,14 @@
     "id": "business-brands-470",
     "category": "business-brands",
     "difficulty": "hard",
-    "question": "When the Formula 1 racing league unveiled a new logo in 2017 designed by Wieden+Kennedy, the design famously removed a hidden letter that had existed in negative space since 1993. What letter was removed?",
+    "question": "When the Formula 1 racing league unveiled a new logo in 2017 designed by Wieden+Kennedy, the design famously removed a hidden character that had existed in negative space since 1993. What was it?",
     "options": [
       "1",
       "F",
       "R",
       "S"
     ],
-    "answer": "F"
+    "answer": "1"
   },
   {
     "id": "business-brands-471",
@@ -7757,7 +7744,7 @@
       "Wieden+Kennedy",
       "DDB"
     ],
-    "answer": "Goodby Silverstein",
+    "answer": "Wieden+Kennedy",
     "id": "business-brands-597"
   },
   {
@@ -7772,19 +7759,6 @@
     ],
     "answer": "Clear fruit flavors",
     "id": "business-brands-598"
-  },
-  {
-    "difficulty": "hard",
-    "category": "business-brands",
-    "question": "What unexpected product did Altoids attempt to release?",
-    "options": [
-      "Mouthwash",
-      "Lip balm",
-      "Chewing gum",
-      "Ice cream"
-    ],
-    "answer": "Ice cream",
-    "id": "business-brands-599"
   },
   {
     "difficulty": "hard",
@@ -7854,14 +7828,14 @@
   {
     "difficulty": "hard",
     "category": "business-brands",
-    "question": "What color was the Green Giant originally in 1928?",
+    "question": "What color was the Green Giant originally, before being changed to green in 1928?",
     "options": [
       "Red",
       "Yellow",
-      "Brown",
+      "White",
       "Blue"
     ],
-    "answer": "Blue",
+    "answer": "White",
     "id": "business-brands-605"
   },
   {
@@ -8223,9 +8197,9 @@
       "Rite's Pharmacy",
       "Aid Mart",
       "Corner Drug",
-      "Thrift Dime Discount Drugs"
+      "Thrift D Discount Center"
     ],
-    "answer": "Thrift Dime Discount Drugs",
+    "answer": "Thrift D Discount Center",
     "id": "business-brands-633"
   },
   {
@@ -8925,9 +8899,9 @@
       "Running a marathon",
       "Quitting smoking",
       "Vegetarianism",
-      "Weight loss and health"
+      "Managing his own food allergies"
     ],
-    "answer": "Weight loss and health",
+    "answer": "Managing his own food allergies",
     "id": "business-brands-687"
   },
   {
@@ -8981,19 +8955,6 @@
     ],
     "answer": "Connected stationary bike",
     "id": "business-brands-691"
-  },
-  {
-    "difficulty": "hard",
-    "category": "business-brands",
-    "question": "What publication did Lululemon's founder place an ad in to sell his first yoga pants?",
-    "options": [
-      "Yoga Journal",
-      "Runner's World",
-      "Vogue",
-      "Fitness Magazine"
-    ],
-    "answer": "Yoga Journal",
-    "id": "business-brands-692"
   },
   {
     "difficulty": "medium",
@@ -10117,7 +10078,7 @@
     "id": "business-brands-779",
     "difficulty": "hard",
     "category": "business-brands",
-    "question": "Which fast-food chain's original mascot in 1963 was a winking chef named Speedee?",
+    "question": "Which fast-food chain's original mascot, used from 1948 until being retired in the early 1960s, was a winking chef named Speedee?",
     "options": [
       "McDonald's",
       "Burger King",

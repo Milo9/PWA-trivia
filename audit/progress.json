@@ -3359,11 +3359,11 @@
         "business-brands-544",
         "business-brands-545"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 2,
+      "notes": "Fixed 2 factual errors: business-brands-408 wrongly named 'work pants' as Dickies' first product, corrected to 'overalls' (bib overalls, per company history); business-brands-470 had the F1 2017 logo redesign backwards, marking 'F' as the hidden character removed from the negative-space logo when it was actually the numeral '1' (also reworded the question from 'letter' to 'character' since 1 isn't a letter). No duplicates found against corpus; all same-answer matches were generic country/entity reuse, not real dupes."
     },
     {
       "chunkId": "business-brands-p1-003",
@@ -3420,11 +3420,11 @@
         "business-brands-706",
         "business-brands-709"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 7,
+      "notes": "Verified all 50 via WebSearch where uncertain. Fixed 4 factual errors: business-brands-597 (OK Soda's cynical marketing was created by Wieden+Kennedy, not Goodby Silverstein), business-brands-605 (Green Giant's pre-1928 color was white, not blue -- reworded question and swapped a distractor to White), business-brands-633 (Rite Aid's original 1962 name was 'Thrift D Discount Center', not 'Thrift Dime Discount Drugs'), business-brands-687 (Smoothie King founder Steve Kuhnau's motivation was managing his own food allergies, not weight loss -- reworded the correct option). Cut 2 likely-hallucinated/unverifiable questions: business-brands-599 (no source confirms Altoids ever attempted an ice cream product) and business-brands-692 (no source confirms a Yoga Journal ad selling Lululemon's first yoga pants -- the only real Yoga Journal/Lululemon ad found was an unrelated 2005 controversy ad). Confirmed business-brands-550's 'Fruit Scone' Pop-Tarts test name and -709's Sony MZ-1 50 launch price were correct despite initial uncertainty. No duplicates found; same-answer matches were coincidental generic reuse."
     },
     {
       "chunkId": "business-brands-p1-004",
@@ -3481,11 +3481,11 @@
         "business-brands-056",
         "business-brands-061"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 1,
+      "notes": "Verified uncertain facts via WebSearch: Buick tri-shield (Electra/Invicta/LeSabre) and Gillette's Super Bowl XXIII debut both confirmed correct. Fixed 1 factual imprecision: business-brands-779 dated Speedee as McDonald's mascot 'in 1963', but he was actually retired in the early 1960s, the same year Ronald McDonald debuted (1963) -- reworded to the accurate 1948-early 1960s range instead of misleadingly implying he was still active in 1963. No duplicates found; all same-answer matches were coincidental generic reuse (countries, McDonald's-branded questions, Isaac Newton, etc.)."
     },
     {
       "chunkId": "business-brands-p1-005",
@@ -3542,11 +3542,11 @@
         "business-brands-150",
         "business-brands-151"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 1,
+      "notes": "All 50 facts checked against memory, no factual errors found (well-trodden tech/brand-origin chestnuts: Commodore 64, Xbox, PalmPilot, BackRub, Burbn, Bubble Wrap, Fanta, Mountain Dew, etc., all confirmed correct). Cut 1 confirmed duplicate: business-brands-151 ('What does Intel stand for?') vs already-shipped business-brands-1027 (same 'Integrated Electronics' fact, richer question with founding context) -- kept -1027, cut -151."
     },
     {
       "chunkId": "business-brands-p1-006",
