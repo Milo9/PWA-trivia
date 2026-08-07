@@ -78,19 +78,6 @@
     "answer": "Academy Award"
   },
   {
-    "id": "general-228",
-    "category": "film-tv",
-    "difficulty": "medium",
-    "question": "Who directed \"Pulp Fiction\" and \"Kill Bill\"?",
-    "options": [
-      "Robert Rodriguez",
-      "Guy Ritchie",
-      "David Fincher",
-      "Quentin Tarantino"
-    ],
-    "answer": "Quentin Tarantino"
-  },
-  {
     "id": "general-229",
     "category": "film-tv",
     "difficulty": "medium",
@@ -115,32 +102,6 @@
       "The Birds"
     ],
     "answer": "Psycho"
-  },
-  {
-    "id": "general-231",
-    "category": "film-tv",
-    "difficulty": "medium",
-    "question": "Which actor is best known for playing Captain Jack Sparrow?",
-    "options": [
-      "Orlando Bloom",
-      "Geoffrey Rush",
-      "Johnny Depp",
-      "Jack Davenport"
-    ],
-    "answer": "Johnny Depp"
-  },
-  {
-    "id": "general-232",
-    "category": "film-tv",
-    "difficulty": "medium",
-    "question": "Which long-running animated sitcom is set in the fictional town of Springfield?",
-    "options": [
-      "Family Guy",
-      "South Park",
-      "King of the Hill",
-      "The Simpsons"
-    ],
-    "answer": "The Simpsons"
   },
   {
     "id": "general-233",
@@ -286,19 +247,6 @@
     "answer": "Daniel Radcliffe"
   },
   {
-    "id": "general-397",
-    "category": "film-tv",
-    "difficulty": "medium",
-    "question": "Which 1997 James Cameron film became the first movie to gross over $1 billion worldwide?",
-    "options": [
-      "Titanic",
-      "Jurassic Park",
-      "Independence Day",
-      "The Lost World"
-    ],
-    "answer": "Titanic"
-  },
-  {
     "id": "general-398",
     "category": "film-tv",
     "difficulty": "easy",
@@ -429,19 +377,6 @@
     "answer": "Wes Anderson"
   },
   {
-    "id": "general-408",
-    "category": "film-tv",
-    "difficulty": "easy",
-    "question": "Which British science fiction series features a time-traveling alien known as the Doctor, who periodically 'regenerates'?",
-    "options": [
-      "Red Dwarf",
-      "Blake's 7",
-      "Torchwood",
-      "Doctor Who"
-    ],
-    "answer": "Doctor Who"
-  },
-  {
     "id": "general-581",
     "category": "film-tv",
     "difficulty": "easy",
@@ -492,19 +427,6 @@
       "Tatooine"
     ],
     "answer": "Tatooine"
-  },
-  {
-    "id": "general-585",
-    "category": "film-tv",
-    "difficulty": "medium",
-    "question": "Which actor played the Joker in the 2008 film 'The Dark Knight'?",
-    "options": [
-      "Heath Ledger",
-      "Jack Nicholson",
-      "Joaquin Phoenix",
-      "Jared Leto"
-    ],
-    "answer": "Heath Ledger"
   },
   {
     "id": "general-586",
@@ -570,19 +492,6 @@
       "Evanna Lynch"
     ],
     "answer": "Emma Watson"
-  },
-  {
-    "id": "general-591",
-    "category": "film-tv",
-    "difficulty": "medium",
-    "question": "Which HBO series depicted the fictional Seven Kingdoms of Westeros?",
-    "options": [
-      "The Wire",
-      "Rome",
-      "Game of Thrones",
-      "Boardwalk Empire"
-    ],
-    "answer": "Game of Thrones"
   },
   {
     "id": "general-592",
@@ -663,19 +572,6 @@
     "answer": "The Godfather"
   },
   {
-    "id": "general-903",
-    "category": "film-tv",
-    "difficulty": "medium",
-    "question": "Who directed the science fiction film 'Inception' (2010)?",
-    "options": [
-      "Christopher Nolan",
-      "Denis Villeneuve",
-      "James Cameron",
-      "Ridley Scott"
-    ],
-    "answer": "Christopher Nolan"
-  },
-  {
     "id": "general-904",
     "category": "film-tv",
     "difficulty": "easy",
@@ -700,19 +596,6 @@
       "Jurassic Park"
     ],
     "answer": "Jaws"
-  },
-  {
-    "id": "general-906",
-    "category": "film-tv",
-    "difficulty": "easy",
-    "question": "Which long-running British science fiction TV series features a time-traveling alien known as 'the Doctor'?",
-    "options": [
-      "Star Trek",
-      "Red Dwarf",
-      "Blake's 7",
-      "Doctor Who"
-    ],
-    "answer": "Doctor Who"
   },
   {
     "id": "general-907",
@@ -778,19 +661,6 @@
       "The Thirteenth Floor"
     ],
     "answer": "The Matrix"
-  },
-  {
-    "id": "general-912",
-    "category": "film-tv",
-    "difficulty": "medium",
-    "question": "Who directed the epic historical drama 'Schindler's List' (1993)?",
-    "options": [
-      "Martin Scorsese",
-      "Steven Spielberg",
-      "Oliver Stone",
-      "Roman Polanski"
-    ],
-    "answer": "Steven Spielberg"
   },
   {
     "id": "general-913",
@@ -923,19 +793,6 @@
     "answer": "Cast Away"
   },
   {
-    "id": "general-1158",
-    "category": "film-tv",
-    "difficulty": "easy",
-    "question": "Who directed the 1975 film 'Jaws'?",
-    "options": [
-      "Steven Spielberg",
-      "George Lucas",
-      "Martin Scorsese",
-      "Francis Ford Coppola"
-    ],
-    "answer": "Steven Spielberg"
-  },
-  {
     "id": "general-1159",
     "category": "film-tv",
     "difficulty": "easy",
@@ -988,19 +845,6 @@
     "answer": "Tom Hanks"
   },
   {
-    "id": "general-1163",
-    "category": "film-tv",
-    "difficulty": "medium",
-    "question": "Which actor won an Academy Award for playing the Joker in 2019's 'Joker', separate from the Nolan trilogy?",
-    "options": [
-      "Joaquin Phoenix",
-      "Heath Ledger",
-      "Jared Leto",
-      "Jack Nicholson"
-    ],
-    "answer": "Joaquin Phoenix"
-  },
-  {
     "id": "general-1164",
     "category": "film-tv",
     "difficulty": "easy",
@@ -1040,19 +884,6 @@
     "answer": "Alien"
   },
   {
-    "id": "general-1167",
-    "category": "film-tv",
-    "difficulty": "easy",
-    "question": "Who directed the film 'Inception'?",
-    "options": [
-      "Christopher Nolan",
-      "James Cameron",
-      "Ridley Scott",
-      "Denis Villeneuve"
-    ],
-    "answer": "Christopher Nolan"
-  },
-  {
     "id": "general-1168",
     "category": "film-tv",
     "difficulty": "medium",
@@ -1090,19 +921,6 @@
       "Robin Williams"
     ],
     "answer": "Tom Hanks"
-  },
-  {
-    "id": "general-1172",
-    "category": "film-tv",
-    "difficulty": "medium",
-    "question": "Which director is known for films such as 'Pulp Fiction' and 'Kill Bill'?",
-    "options": [
-      "Quentin Tarantino",
-      "Martin Scorsese",
-      "David Fincher",
-      "Guy Ritchie"
-    ],
-    "answer": "Quentin Tarantino"
   },
   {
     "id": "general-1173",
@@ -1155,19 +973,6 @@
       "Arlen"
     ],
     "answer": "Springfield"
-  },
-  {
-    "id": "general-1179",
-    "category": "film-tv",
-    "difficulty": "medium",
-    "question": "Which British sci-fi series features a time-traveling alien known as the Doctor?",
-    "options": [
-      "Doctor Who",
-      "Torchwood",
-      "Red Dwarf",
-      "Black Mirror"
-    ],
-    "answer": "Doctor Who"
   },
   {
     "id": "general-1180",
@@ -1339,32 +1144,6 @@
     "answer": "Finding Nemo"
   },
   {
-    "id": "general-1659",
-    "category": "film-tv",
-    "difficulty": "easy",
-    "question": "Which director is known for the 'Dark Knight' trilogy and 'Inception'?",
-    "options": [
-      "Christopher Nolan",
-      "Steven Spielberg",
-      "Ridley Scott",
-      "Denis Villeneuve"
-    ],
-    "answer": "Christopher Nolan"
-  },
-  {
-    "id": "general-1660",
-    "category": "film-tv",
-    "difficulty": "medium",
-    "question": "Which HBO fantasy series, based on George R.R. Martin's novels, features a competition for the Iron Throne?",
-    "options": [
-      "Game of Thrones",
-      "House of the Dragon",
-      "Vikings",
-      "The Witcher"
-    ],
-    "answer": "Game of Thrones"
-  },
-  {
     "id": "general-1661",
     "category": "film-tv",
     "difficulty": "medium",
@@ -1428,32 +1207,6 @@
       "HBO Max"
     ],
     "answer": "Netflix"
-  },
-  {
-    "id": "general-1681",
-    "category": "film-tv",
-    "difficulty": "easy",
-    "question": "Which long-running animated sitcom follows the Simpson family living in the fictional town of Springfield?",
-    "options": [
-      "Bob's Burgers",
-      "The Simpsons",
-      "Family Guy",
-      "King of the Hill"
-    ],
-    "answer": "The Simpsons"
-  },
-  {
-    "id": "general-1682",
-    "category": "film-tv",
-    "difficulty": "medium",
-    "question": "Which long-running animated sitcom follows the dysfunctional Griffin family?",
-    "options": [
-      "Family Guy",
-      "The Simpsons",
-      "American Dad!",
-      "South Park"
-    ],
-    "answer": "Family Guy"
   },
   {
     "id": "general-1683",
@@ -1599,19 +1352,6 @@
     "answer": "Halloween"
   },
   {
-    "id": "general-1699",
-    "category": "film-tv",
-    "difficulty": "easy",
-    "question": "Which actor is known for playing Jack Sparrow in the 'Pirates of the Caribbean' film series?",
-    "options": [
-      "Geoffrey Rush",
-      "Javier Bardem",
-      "Orlando Bloom",
-      "Johnny Depp"
-    ],
-    "answer": "Johnny Depp"
-  },
-  {
     "id": "general-1700",
     "category": "film-tv",
     "difficulty": "easy",
@@ -1623,32 +1363,6 @@
       "Sing"
     ],
     "answer": "Ice Age"
-  },
-  {
-    "id": "general-2055",
-    "category": "film-tv",
-    "difficulty": "easy",
-    "question": "Which movie features the famous line 'I'll be back'?",
-    "options": [
-      "The Terminator",
-      "RoboCop",
-      "Predator",
-      "Total Recall"
-    ],
-    "answer": "The Terminator"
-  },
-  {
-    "id": "general-2056",
-    "category": "film-tv",
-    "difficulty": "easy",
-    "question": "Who directed the 1975 thriller 'Jaws'?",
-    "options": [
-      "Steven Spielberg",
-      "George Lucas",
-      "Martin Scorsese",
-      "Francis Ford Coppola"
-    ],
-    "answer": "Steven Spielberg"
   },
   {
     "id": "general-2057",
@@ -1701,19 +1415,6 @@
       "The Duffer Brothers"
     ],
     "answer": "The Wachowskis"
-  },
-  {
-    "id": "general-2061",
-    "category": "film-tv",
-    "difficulty": "easy",
-    "question": "Which animated TV series is set in the fictional town of Springfield?",
-    "options": [
-      "The Simpsons",
-      "Family Guy",
-      "King of the Hill",
-      "Bob's Burgers"
-    ],
-    "answer": "The Simpsons"
   },
   {
     "id": "general-2064",
@@ -1779,19 +1480,6 @@
       "Dolph Lundgren"
     ],
     "answer": "Arnold Schwarzenegger"
-  },
-  {
-    "id": "general-2075",
-    "category": "film-tv",
-    "difficulty": "easy",
-    "question": "Which HBO fantasy series is based on George R.R. Martin's novels?",
-    "options": [
-      "Game of Thrones",
-      "The Witcher",
-      "House of the Dragon",
-      "The Wheel of Time"
-    ],
-    "answer": "Game of Thrones"
   },
   {
     "id": "general-2078",
@@ -1976,19 +1664,6 @@
     "answer": "Toto"
   },
   {
-    "id": "general-2255",
-    "category": "film-tv",
-    "difficulty": "medium",
-    "question": "Who directed 'Pulp Fiction'?",
-    "options": [
-      "Quentin Tarantino",
-      "David Fincher",
-      "Oliver Stone",
-      "Michael Mann"
-    ],
-    "answer": "Quentin Tarantino"
-  },
-  {
     "id": "general-2256",
     "category": "film-tv",
     "difficulty": "easy",
@@ -2000,19 +1675,6 @@
       "The Hobbit"
     ],
     "answer": "The Lord of the Rings"
-  },
-  {
-    "id": "general-2257",
-    "category": "film-tv",
-    "difficulty": "medium",
-    "question": "Which film features the line 'I'll be back'?",
-    "options": [
-      "The Terminator",
-      "RoboCop",
-      "Predator",
-      "Total Recall"
-    ],
-    "answer": "The Terminator"
   },
   {
     "id": "general-2259",
@@ -2286,19 +1948,6 @@
       "Cool Hand Luke"
     ],
     "answer": "One Flew Over the Cuckoo's Nest"
-  },
-  {
-    "id": "general-2564",
-    "category": "film-tv",
-    "difficulty": "easy",
-    "question": "Which animated series follows the Simpson family in the fictional town of Springfield?",
-    "options": [
-      "The Simpsons",
-      "Family Guy",
-      "King of the Hill",
-      "Bob's Burgers"
-    ],
-    "answer": "The Simpsons"
   },
   {
     "id": "general-2565",
@@ -4680,19 +4329,6 @@
     "answer": "Frodo Baggins"
   },
   {
-    "id": "film-tv-158",
-    "category": "film-tv",
-    "difficulty": "hard",
-    "question": "What is the name of the fictional corrupt corporation that serves as a primary antagonist in the 'Alien' film franchise?",
-    "options": [
-      "Weyland-Yutani",
-      "Cyberdyne Systems",
-      "Tyrell Corporation",
-      "Omni Consumer Products"
-    ],
-    "answer": "Weyland-Yutani"
-  },
-  {
     "id": "film-tv-159",
     "category": "film-tv",
     "difficulty": "easy",
@@ -4995,7 +4631,7 @@
     "id": "film-tv-182",
     "category": "film-tv",
     "difficulty": "hard",
-    "question": "What specific item is famously smuggled across prison walls via a miniature parcel inside a baseball glove in 'The Shawshank Redemption'?",
+    "question": "In 'The Shawshank Redemption', what item does Andy Dufresne have Red smuggle in, which he later hides inside a hollowed-out Bible?",
     "options": [
       "A tiny rock hammer",
       "A forged passport",
@@ -5759,19 +5395,6 @@
     "id": "film-tv-240"
   },
   {
-    "difficulty": "hard",
-    "category": "film-tv",
-    "question": "What is the name of the remote planet that serves as the primary setting for the first act of 'Star Wars: A New Hope'?",
-    "options": [
-      "Tatooine",
-      "Naboo",
-      "Jakku",
-      "Geonosis"
-    ],
-    "answer": "Tatooine",
-    "id": "film-tv-241"
-  },
-  {
     "difficulty": "medium",
     "category": "film-tv",
     "question": "Who directed the 2017 horror film 'Get Out'?",
@@ -6342,19 +5965,6 @@
       "Sideshow Sam"
     ],
     "answer": "Sideshow Mel"
-  },
-  {
-    "id": "film-tv-286",
-    "category": "film-tv",
-    "difficulty": "hard",
-    "question": "Who provides the voice of the superhero costume designer Edna Mode in 'The Incredibles'?",
-    "options": [
-      "John Ratzenberger",
-      "Wallace Shawn",
-      "Billy West",
-      "Brad Bird"
-    ],
-    "answer": "Brad Bird"
   },
   {
     "id": "film-tv-287",
@@ -12389,19 +11999,6 @@
     "answer": "Vernon"
   },
   {
-    "id": "film-tv-753",
-    "category": "film-tv",
-    "difficulty": "hard",
-    "question": "In 'Ferris Bueller's Day Off,' what classic car does Cameron's father obsessively keep in pristine condition?",
-    "options": [
-      "1963 Corvette",
-      "1959 Porsche 356",
-      "1965 Mustang",
-      "1961 Ferrari 250 GT California"
-    ],
-    "answer": "1961 Ferrari 250 GT California"
-  },
-  {
     "id": "film-tv-754",
     "category": "film-tv",
     "difficulty": "hard",
@@ -13289,7 +12886,7 @@
     "id": "film-tv-822",
     "category": "film-tv",
     "difficulty": "hard",
-    "question": "In 'The Office' (US), what is the full name of the regional manager who hosts 'Michael Scott's Dunder Mifflin Scranton Meredith Palmer Memorial Celebrity Rabies Awareness Pro-Am Fun Run Race for the Cure'?",
+    "question": "In 'The Office' (US), what is the full name of the regional manager who organizes the 'Meredith Palmer Memorial Celebrity Rabies Awareness Pro-Am Fun Run Race for the Cure'?",
     "options": [
       "Jim Halpert",
       "Andy Bernard",
@@ -13491,7 +13088,7 @@
       "Cersei",
       "Tyrion"
     ],
-    "answer": "Tyrion"
+    "answer": "Tywin"
   },
   {
     "id": "film-tv-838",
@@ -13910,19 +13507,6 @@
     "answer": "Ben-Hur"
   },
   {
-    "id": "film-tv-870",
-    "category": "film-tv",
-    "difficulty": "medium",
-    "question": "Which actor declined his Best Actor Oscar for playing the title role in 1970's Patton?",
-    "options": [
-      "Marlon Brando",
-      "George C. Scott",
-      "Steve McQueen",
-      "Paul Newman"
-    ],
-    "answer": "George C. Scott"
-  },
-  {
     "id": "film-tv-871",
     "category": "film-tv",
     "difficulty": "easy",
@@ -14220,19 +13804,6 @@
       "Acetone"
     ],
     "answer": "The Dip"
-  },
-  {
-    "id": "film-tv-894",
-    "category": "film-tv",
-    "difficulty": "easy",
-    "question": "In 'Back to the Future' (1985), what does Doc Brown originally use to power the time machine's 1.21 gigawatts?",
-    "options": [
-      "Gasoline",
-      "Lightning",
-      "Uranium",
-      "Plutonium"
-    ],
-    "answer": "Plutonium"
   },
   {
     "id": "film-tv-895",

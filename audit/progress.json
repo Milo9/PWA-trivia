@@ -5350,11 +5350,11 @@
         "film-tv-170",
         "film-tv-172"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 6,
+      "notes": "Verified all 50 questions. Cut 6 duplicates: film-tv-870 (dup of film-tv-067, George C. Scott declining Patton Oscar), film-tv-894 (dup of film-tv-146, plutonium powering DeLorean), film-tv-158 (dup of film-tv-925, Weyland-Yutani), world-cultures-988 (dup of film-tv-139, Klingon/Marc Okrand), film-tv-241 (dup of general-584, Tatooine/Luke's home planet), plus incidentally found a 5-way music.json cluster on John Williams composing Star Wars/Jaws scores (general-362/2066/2258/2967 cut, general-1364 kept as richest). Verified obscure E.T. voice-actress fact (Pat Welsh, housewife) via WebSearch. All other questions and distractors checked accurate."
     },
     {
       "chunkId": "film-tv-p1-002",
@@ -5411,11 +5411,11 @@
         "film-tv-303",
         "film-tv-312"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 2,
+      "notes": "Verified all 49 questions (1 already removed by earlier dedup). Fixed film-tv-182: premise falsely claimed the Shawshank rock hammer was smuggled 'inside a baseball glove' -- verified via WebSearch it was actually delivered by Red and later hidden in a hollowed-out Bible; reworded the question to remove the fabricated detail while keeping the correct answer (rock hammer). Cut film-tv-286 as a duplicate of film-tv-958 (both ask who voiced Edna Mode in The Incredibles), keeping -958 for its stronger distractor set. All other questions and distractors verified accurate."
     },
     {
       "chunkId": "film-tv-p1-003",
@@ -5472,11 +5472,11 @@
         "film-tv-770",
         "film-tv-772"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 1,
+      "notes": "Verified all 50 questions, including targeted WebSearch checks on The Wire's Franklin Terrace and The Goonies' ship Inferno (both confirmed accurate). Cut film-tv-753 as a duplicate of film-tv-116 (already-shipped chunk p1-000) -- both ask about Cameron's father's 1961 Ferrari 250 GT California in Ferris Bueller's Day Off, kept -116 for its fuller model name. All other questions and distractors verified accurate."
     },
     {
       "chunkId": "film-tv-p1-004",
@@ -5533,11 +5533,11 @@
         "general-908",
         "general-912"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 29,
+      "notes": "Verified all 50 questions. Fixed 2 factual errors: film-tv-837 wrongly credited Tyrion with serving as Hand of the King to multiple rulers (verified via WebSearch: Tywin served three kings -- Aerys II, Joffrey, Tommen -- while Tyrion only briefly acted as Hand once); film-tv-822 was self-answering (the event name it asked about literally began with 'Michael Scott's...', giving away the answer in the question stem) -- reworded to drop the leading name. This chunk's medium/easy-difficulty tail was almost entirely legacy general-prefixed film-tv questions (kept from before the 2026-08-01 general split) that had never been deduped against each other -- found and cut a large convergent-duplicate set: Tarantino/Pulp-Fiction-Kill-Bill (3 cut), Jack Sparrow/Depp (2), Simpsons/Springfield (4), Terminator 'I'll be back' (2), Doctor Who (3), Titanic (1), Joker-2019/Phoenix (1), Joker-2008/Ledger (1), Family Guy (1), Game of Thrones (3), Inception/Nolan (3), and a Spielberg/Jaws/Schindler's List cluster including a reversed-direction dup (3) -- 27 cuts total. Left a genuinely-distinct-angles Forrest Gump cluster (4 entries) and Parasite Best-Picture pair alone per established precedent since each question tests different specific knowledge. All other questions and distractors verified accurate."
     },
     {
       "chunkId": "film-tv-p1-005",
