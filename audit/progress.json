@@ -3603,11 +3603,11 @@
         "business-brands-250",
         "business-brands-253"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 7,
+      "notes": "Cut 3 confirmed duplicates: business-brands-191 (Krating Daeng/Red Bull, dup of 1004), -208 (Apple logo designer Rob Janoff, dup of 1093), -225 (Avis 'We Try Harder' agency DDB, dup of 958). Fixed 4 factual errors found via WebSearch: -168 Kresge/Kmart founding year 1897->1899 (company formed 1899, first store opened 1897); -190 GoPro's first mount was a rubber-band+surfboard-leash wrist mount, not a 'surfboard strap'; -195 Dove's original formula was a 1940s WWII burn-wound cleanser for soldiers, not a 1950s sand/saltwater soap; -234 Dos Equis question was self-answering (named the brand in its own premise), reworded to ask which brand the campaign was for."
     },
     {
       "chunkId": "business-brands-p1-007",
@@ -3664,11 +3664,11 @@
         "business-brands-348",
         "business-brands-349"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 8,
+      "notes": "Cut 6 confirmed duplicates/unverifiable facts: -277 (Facebook Home/HTC First, dup of 1044), -289 (Samsung's 1938 grocery/noodle business, dup of 256), -313 (Kellogg's Breakfast Mates flop, dup of 1061), -284 (Netflix Qwikster, reversed-direction dup of 302, found incidentally while editing nearby entries), -283 (Mattel 'My Twin' doll pulled 1991 for scaring children — could not verify via WebSearch, likely fabricated), -285 (Lincoln/Jaguar 1999 perfume cross-promotion — could not verify via WebSearch, likely fabricated). Fixed 1 factual error: -288 VW Barbie-themed New Beetle partnership dated to the 1990s, but confirmed products only exist from 2000 onward (New Beetle itself launched 1998) — removed the false decade claim."
     },
     {
       "chunkId": "business-brands-p1-008",
@@ -3725,11 +3725,11 @@
         "business-brands-456",
         "business-brands-457"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 3,
+      "notes": "Cut 2 reversed-direction duplicates found via corpus grep: -368 (Fanta/Coca-Cola-syrup embargo, dup of -304 which asks the same WWII Fanta fact from the other direction) and -456 (Bic disposable underwear/pantyhose 1998, dup of -271 reviewed in the prior chunk, same fact asked in reverse). Fixed 1 factual error: -372 claimed Pepsi's 1970 2-liter bottle was introduced 'to corner the Soviet Union market' — WebSearch confirmed the bottle predates the 1972 Pepsi-Stolichnaya barter deal by 2 years and was actually John Sculley's US domestic strategy to out-sell Coca-Cola's smaller bottles; reworded question and answer accordingly."
     },
     {
       "chunkId": "business-brands-p1-009",
