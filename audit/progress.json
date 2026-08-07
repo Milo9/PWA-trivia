@@ -3786,11 +3786,11 @@
         "business-brands-532",
         "business-brands-533"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 1,
+      "notes": "Found and cut a 4-way duplicate cluster on the Ben & Jerry's $5 correspondence course from Penn State fact (business-brands-250, -546, -996 cut; -490 kept as best-worded survivor, spotted via a corpus grep after -490/-996 flagged as same-answer). All other 49 questions in chunk verified accurate on read-through, all distractors checked as non-defensible."
     },
     {
       "chunkId": "business-brands-p1-010",
@@ -3847,11 +3847,11 @@
         "business-brands-620",
         "business-brands-622"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 1,
+      "notes": "Cut business-brands-604 (Mr. Peanut 'monocle added later' claim) after WebSearch verification found sources conflict with the premise: monocle, top hat, and cane were all added together by commercial artist Andrew Wallach shortly after Antonio Gentile's 1916 sketch (appearing in ads by 1918), not the monocle alone added later while hat/cane were part of the original design -- making two of three distractors arguably also correct. All other 49 questions verified accurate (spot-verified DeLorean stainless-steel panels, Bic disposable underwear, and Sprite Remix via WebSearch given the batch's quirky/flop-trivia framing); no new duplicates found."
     },
     {
       "chunkId": "business-brands-p1-011",
@@ -3908,11 +3908,11 @@
         "business-brands-695",
         "business-brands-698"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 4,
+      "notes": "4 factual errors found and fixed/cut, verified via WebSearch given this chunk's quirky-trivia framing (high hallucination risk): (1) business-brands-674 cut -- claimed Sonic's original name was 'Tops', but it was actually 'Top Hat Drive-In' (already correctly covered by business-brands-522), so the marked answer was simply wrong and the topic was a dupe once corrected. (2) business-brands-677 fixed -- Arby's 'R.B.' was marked as standing for 'Roast Beef', but Arby's has publicly corrected this myth for years; it actually stands for 'Raffel Brothers' (the founders); swapped the answer with the Roast Beef distractor. (3) business-brands-678 fixed -- premise wrongly called Carl Karcher 'Hardee's founder' (Wilber Hardee founded Hardee's per business-brands-519; Karcher founded Carl's Jr., and his CKE Restaurants acquired Hardee's in 1997); reworded the question stem to state the true relationship instead of a false founder attribution. (4) business-brands-693 cut -- claimed Athleta's original focus was 'yoga clothing for women', but sourcing shows it launched as a multi-sport women's activewear catalog (inspired by a bike trip, per founder Scott Kerslake) with no single-sport focus matching any offered option. Remaining ~46 questions verified accurate, including spot-checks of Swatch/Target/KFC-China/Sonic name-origin trivia."
     },
     {
       "chunkId": "business-brands-p1-012",
