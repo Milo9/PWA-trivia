@@ -7409,11 +7409,11 @@
         "general-817",
         "general-818"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-08",
+      "completedAt": "2026-08-08",
+      "issuesFound": 3,
+      "notes": "Fixed Portuguese bacalhau/bacalao naming error (food-drink-742), fixed Norwegian flatbrød grain error rye->barley (food-drink-775), cut general-376 as duplicate of general-2698 (both ask which agave spirit is Mexican-only)"
     },
     {
       "chunkId": "food-drink-p1-014",
@@ -7470,11 +7470,11 @@
         "food-drink-059",
         "food-drink-062"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-08",
+      "completedAt": "2026-08-08",
+      "issuesFound": 20,
+      "notes": "Cut 20 duplicate questions found via corpus-wide grep on shared facts: pizza-origin-Italy x2, sushi-origin-Japan x4, champagne-region-France, mojito-rum (cross-chunk dup of general-804), hummus-chickpeas (reversed direction), gazpacho-tomato, cinnamon-from-bark, paella-origin-Spain, tapas-origin-Spain, miso-soybean-paste (reversed direction), greek-salad-feta x2 total, sake-made-from-rice x3 (incl. cross-category world-cultures-894), sake-served-warm-or-chilled, margherita-pizza-mozzarella. Also fixed prior-chunk item: none additional."
     },
     {
       "chunkId": "food-drink-p1-015",
@@ -7531,11 +7531,11 @@
         "food-drink-377",
         "food-drink-379"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-08",
+      "completedAt": "2026-08-08",
+      "issuesFound": 3,
+      "notes": "Verified pasta-shapes (600+) and 14,400yr-bread claims via WebSearch, both accurate. Cut 3 duplicates: food-drink-250 (M&M blue 1995, dup of food-drink-213), general-2698 (tequila/blue-agave, reversed-direction dup of food-drink-097), food-drink-284 (gravlax/salmon, reversed-direction dup of food-drink-774)."
     },
     {
       "chunkId": "food-drink-p1-016",
@@ -7592,11 +7592,11 @@
         "food-drink-513",
         "food-drink-515"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-08",
+      "completedAt": "2026-08-08",
+      "issuesFound": 9,
+      "notes": "Cut 9 duplicates found via corpus grep: general-518/food-drink-407 tiramisu translation (reversed direction), general-1779/food-drink-419 pesto pine nut, food-drink-451+985/food-drink-365 bagel-boiled-before-baking (3-way), food-drink-947/food-drink-464 Irish soda bread leavener, food-drink-830/food-drink-984 bialy-vs-bagel, food-drink-942/food-drink-490 mochi glutinous rice. Also fixed 2 incidental world-cultures dups found during mochi grep: world-cultures-546/1439 mochitsuki (reversed direction), world-cultures-545/1197 kagami mochi."
     },
     {
       "chunkId": "food-drink-p1-017",

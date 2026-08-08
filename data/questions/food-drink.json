@@ -1,18 +1,5 @@
 [
   {
-    "id": "general-060",
-    "category": "food-drink",
-    "difficulty": "easy",
-    "question": "Which country is known for the traditional dish sushi?",
-    "options": [
-      "China",
-      "Thailand",
-      "Vietnam",
-      "Japan"
-    ],
-    "answer": "Japan"
-  },
-  {
     "id": "general-281",
     "category": "food-drink",
     "difficulty": "easy",
@@ -65,19 +52,6 @@
     "answer": "Sushi"
   },
   {
-    "id": "general-286",
-    "category": "food-drink",
-    "difficulty": "easy",
-    "question": "Chickpeas are the main ingredient in which popular Middle Eastern dip?",
-    "options": [
-      "Baba ghanoush",
-      "Hummus",
-      "Tahini",
-      "Tzatziki"
-    ],
-    "answer": "Hummus"
-  },
-  {
     "id": "general-287",
     "category": "food-drink",
     "difficulty": "easy",
@@ -102,19 +76,6 @@
       "Boiled in oil"
     ],
     "answer": "Steamed"
-  },
-  {
-    "id": "general-290",
-    "category": "food-drink",
-    "difficulty": "medium",
-    "question": "Which salty, crumbly cheese is traditionally used in a Greek salad?",
-    "options": [
-      "Halloumi",
-      "Feta",
-      "Ricotta",
-      "Mozzarella"
-    ],
-    "answer": "Feta"
   },
   {
     "id": "general-291",
@@ -234,19 +195,6 @@
     "answer": "Orzo"
   },
   {
-    "id": "general-372",
-    "category": "food-drink",
-    "difficulty": "easy",
-    "question": "What is the main grain used to make traditional Japanese sake?",
-    "options": [
-      "Barley",
-      "Wheat",
-      "Corn",
-      "Rice"
-    ],
-    "answer": "Rice"
-  },
-  {
     "id": "general-373",
     "category": "food-drink",
     "difficulty": "hard",
@@ -284,19 +232,6 @@
       "Plum"
     ],
     "answer": "Grape"
-  },
-  {
-    "id": "general-376",
-    "category": "food-drink",
-    "difficulty": "easy",
-    "question": "Which Mexican spirit is distilled from the blue agave plant?",
-    "options": [
-      "Rum",
-      "Vodka",
-      "Whiskey",
-      "Tequila"
-    ],
-    "answer": "Tequila"
   },
   {
     "id": "general-377",
@@ -518,19 +453,6 @@
       "Kale"
     ],
     "answer": "Cabbage"
-  },
-  {
-    "id": "general-518",
-    "category": "food-drink",
-    "difficulty": "hard",
-    "question": "Which Italian dessert's name literally translates to 'pick me up'?",
-    "options": [
-      "Panna cotta",
-      "Tiramisu",
-      "Cannoli",
-      "Gelato"
-    ],
-    "answer": "Tiramisu"
   },
   {
     "id": "general-519",
@@ -871,19 +793,6 @@
     "answer": "Champagne"
   },
   {
-    "id": "general-1209",
-    "category": "food-drink",
-    "difficulty": "easy",
-    "question": "Which country is credited with inventing pizza in its modern form?",
-    "options": [
-      "Italy",
-      "Greece",
-      "France",
-      "Spain"
-    ],
-    "answer": "Italy"
-  },
-  {
     "id": "general-1210",
     "category": "food-drink",
     "difficulty": "medium",
@@ -947,19 +856,6 @@
       "Umeshu"
     ],
     "answer": "Sake"
-  },
-  {
-    "id": "general-1217",
-    "category": "food-drink",
-    "difficulty": "easy",
-    "question": "Which country is famous for originating the dish sushi?",
-    "options": [
-      "Japan",
-      "China",
-      "Korea",
-      "Thailand"
-    ],
-    "answer": "Japan"
   },
   {
     "id": "general-1218",
@@ -1040,58 +936,6 @@
     "answer": "Apples"
   },
   {
-    "id": "general-1772",
-    "category": "food-drink",
-    "difficulty": "medium",
-    "question": "What is the main ingredient in traditional Spanish gazpacho soup?",
-    "options": [
-      "Tomatoes",
-      "Cucumbers",
-      "Peppers",
-      "Onions"
-    ],
-    "answer": "Tomatoes"
-  },
-  {
-    "id": "general-1774",
-    "category": "food-drink",
-    "difficulty": "medium",
-    "question": "Which country is credited with originating the dish paella?",
-    "options": [
-      "Spain",
-      "Portugal",
-      "Italy",
-      "Greece"
-    ],
-    "answer": "Spain"
-  },
-  {
-    "id": "general-1775",
-    "category": "food-drink",
-    "difficulty": "easy",
-    "question": "Which spice is derived from the dried bark of a tropical evergreen tree and is commonly used in baking?",
-    "options": [
-      "Cinnamon",
-      "Nutmeg",
-      "Clove",
-      "Allspice"
-    ],
-    "answer": "Cinnamon"
-  },
-  {
-    "id": "general-1776",
-    "category": "food-drink",
-    "difficulty": "easy",
-    "question": "Sushi originated as a dish in which country?",
-    "options": [
-      "Japan",
-      "South Korea",
-      "Thailand",
-      "China"
-    ],
-    "answer": "Japan"
-  },
-  {
     "id": "general-1777",
     "category": "food-drink",
     "difficulty": "hard",
@@ -1116,19 +960,6 @@
       "Lime"
     ],
     "answer": "Lemon"
-  },
-  {
-    "id": "general-1779",
-    "category": "food-drink",
-    "difficulty": "medium",
-    "question": "Which nuts are traditionally used, along with basil, to make Italian pesto sauce?",
-    "options": [
-      "Pine nuts",
-      "Cashews",
-      "Almonds",
-      "Walnuts"
-    ],
-    "answer": "Pine nuts"
   },
   {
     "id": "general-1780",
@@ -1170,32 +1001,6 @@
     "answer": "Onions"
   },
   {
-    "id": "general-1784",
-    "category": "food-drink",
-    "difficulty": "easy",
-    "question": "Which spirit is the primary alcoholic ingredient in a traditional mojito cocktail?",
-    "options": [
-      "Vodka",
-      "Gin",
-      "Rum",
-      "Tequila"
-    ],
-    "answer": "Rum"
-  },
-  {
-    "id": "general-2155",
-    "category": "food-drink",
-    "difficulty": "easy",
-    "question": "Which country is widely credited as the birthplace of pizza?",
-    "options": [
-      "Italy",
-      "France",
-      "Greece",
-      "Spain"
-    ],
-    "answer": "Italy"
-  },
-  {
     "id": "general-2157",
     "category": "food-drink",
     "difficulty": "medium",
@@ -1207,32 +1012,6 @@
       "Juniper berries"
     ],
     "answer": "Cloves"
-  },
-  {
-    "id": "general-2159",
-    "category": "food-drink",
-    "difficulty": "easy",
-    "question": "Which country is the origin of sushi?",
-    "options": [
-      "Japan",
-      "China",
-      "Korea",
-      "Thailand"
-    ],
-    "answer": "Japan"
-  },
-  {
-    "id": "general-2160",
-    "category": "food-drink",
-    "difficulty": "easy",
-    "question": "What is the primary grain used to make Japanese sake?",
-    "options": [
-      "Rice",
-      "Barley",
-      "Wheat",
-      "Corn"
-    ],
-    "answer": "Rice"
   },
   {
     "id": "general-2161",
@@ -1259,32 +1038,6 @@
       "Kidney beans"
     ],
     "answer": "Lentils"
-  },
-  {
-    "id": "general-2163",
-    "category": "food-drink",
-    "difficulty": "easy",
-    "question": "Which cheese is traditionally used on a classic Margherita pizza?",
-    "options": [
-      "Mozzarella",
-      "Parmesan",
-      "Cheddar",
-      "Gouda"
-    ],
-    "answer": "Mozzarella"
-  },
-  {
-    "id": "general-2164",
-    "category": "food-drink",
-    "difficulty": "easy",
-    "question": "What is the Japanese rice wine commonly served warm or chilled called?",
-    "options": [
-      "Sake",
-      "Shochu",
-      "Umeshu",
-      "Mirin"
-    ],
-    "answer": "Sake"
   },
   {
     "id": "general-2165",
@@ -1430,19 +1183,6 @@
     "answer": "Poland"
   },
   {
-    "id": "general-2271",
-    "category": "food-drink",
-    "difficulty": "medium",
-    "question": "Which country is the origin of the tapas dining tradition?",
-    "options": [
-      "Spain",
-      "Italy",
-      "Portugal",
-      "Greece"
-    ],
-    "answer": "Spain"
-  },
-  {
     "id": "general-2390",
     "category": "food-drink",
     "difficulty": "hard",
@@ -1586,19 +1326,6 @@
     "answer": "Feta"
   },
   {
-    "id": "general-2693",
-    "category": "food-drink",
-    "difficulty": "easy",
-    "question": "Champagne must legally come from a specific region of which country to bear that name?",
-    "options": [
-      "France",
-      "Italy",
-      "Spain",
-      "Germany"
-    ],
-    "answer": "France"
-  },
-  {
     "id": "general-2694",
     "category": "food-drink",
     "difficulty": "easy",
@@ -1636,32 +1363,6 @@
       "Ayran"
     ],
     "answer": "Kumis"
-  },
-  {
-    "id": "general-2697",
-    "category": "food-drink",
-    "difficulty": "easy",
-    "question": "Which fermented Japanese soybean paste is used as the base for a traditional breakfast soup?",
-    "options": [
-      "Miso",
-      "Natto",
-      "Tofu",
-      "Tamari"
-    ],
-    "answer": "Miso"
-  },
-  {
-    "id": "general-2698",
-    "category": "food-drink",
-    "difficulty": "easy",
-    "question": "Which alcoholic spirit is distilled from fermented blue agave and must legally originate in Mexico?",
-    "options": [
-      "Tequila",
-      "Mezcal",
-      "Rum",
-      "Cachaca"
-    ],
-    "answer": "Tequila"
   },
   {
     "id": "general-2699",
@@ -4836,19 +4537,6 @@
     "answer": "1908"
   },
   {
-    "id": "food-drink-250",
-    "category": "food-drink",
-    "difficulty": "easy",
-    "question": "Which color of M&M was introduced in 1995 after a public vote?",
-    "options": [
-      "Blue",
-      "Purple",
-      "Pink",
-      "Green"
-    ],
-    "answer": "Blue"
-  },
-  {
     "id": "food-drink-253",
     "category": "food-drink",
     "difficulty": "hard",
@@ -5237,19 +4925,6 @@
     ],
     "answer": "Okonomiyaki",
     "id": "food-drink-283"
-  },
-  {
-    "difficulty": "easy",
-    "category": "food-drink",
-    "question": "What fish is cured with salt, sugar, and dill to make the Nordic dish gravlax?",
-    "options": [
-      "Trout",
-      "Herring",
-      "Salmon",
-      "Mackerel"
-    ],
-    "answer": "Salmon",
-    "id": "food-drink-284"
   },
   {
     "difficulty": "easy",
@@ -7356,19 +7031,6 @@
     ],
     "answer": "Liguria",
     "id": "food-drink-450"
-  },
-  {
-    "difficulty": "easy",
-    "category": "food-drink",
-    "question": "What crucial step must authentic bagels undergo before they are baked?",
-    "options": [
-      "Freezing",
-      "Boiling",
-      "Steaming",
-      "Frying"
-    ],
-    "answer": "Boiling",
-    "id": "food-drink-451"
   },
   {
     "difficulty": "medium",
@@ -11042,12 +10704,12 @@
     "difficulty": "medium",
     "question": "What is the Portuguese term for salted, dried cod, a staple of their cuisine?",
     "options": [
-      "Bacalao",
+      "Bacalhau",
       "Lingcod",
       "Pollock",
       "Brandade"
     ],
-    "answer": "Bacalao"
+    "answer": "Bacalhau"
   },
   {
     "id": "food-drink-743",
@@ -11175,7 +10837,7 @@
       "Boquerones en vinagre",
       "Gambas al ajillo",
       "Pulpo a la gallega",
-      " Bacalao"
+      "Bacalao"
     ],
     "answer": "Boquerones en vinagre"
   },
@@ -11469,7 +11131,7 @@
     "id": "food-drink-775",
     "category": "food-drink",
     "difficulty": "medium",
-    "question": "What is the name of the traditional Norwegian flatbread made from rye flour and water?",
+    "question": "What is the name of the traditional Norwegian flatbread made from barley flour and water?",
     "options": [
       "Flatbrød",
       "Lefse",
@@ -12127,19 +11789,6 @@
       "Spice"
     ],
     "answer": "Tea"
-  },
-  {
-    "id": "food-drink-830",
-    "category": "food-drink",
-    "difficulty": "hard",
-    "question": "Unlike a bagel, a bialy from Poland has what instead of a hole?",
-    "options": [
-      "No crust",
-      "A chocolate filling",
-      "A depressed center with onion",
-      "A square shape"
-    ],
-    "answer": "A depressed center with onion"
   },
   {
     "id": "food-drink-831",
@@ -13494,19 +13143,6 @@
     "answer": "Christmas"
   },
   {
-    "id": "food-drink-942",
-    "category": "food-drink",
-    "difficulty": "easy",
-    "question": "Mochi is made by pounding what type of Japanese rice?",
-    "options": [
-      "Brown rice",
-      "Basmati rice",
-      "Wild rice",
-      "Glutinous rice"
-    ],
-    "answer": "Glutinous rice"
-  },
-  {
     "id": "food-drink-943",
     "category": "food-drink",
     "difficulty": "medium",
@@ -13557,19 +13193,6 @@
       "Vinegar addition"
     ],
     "answer": "Lactic acid bacteria"
-  },
-  {
-    "id": "food-drink-947",
-    "category": "food-drink",
-    "difficulty": "easy",
-    "question": "Which leavening agent gives Irish soda bread its rise without yeast?",
-    "options": [
-      "Eggs",
-      "Baking powder",
-      "Beer",
-      "Baking soda"
-    ],
-    "answer": "Baking soda"
   },
   {
     "id": "food-drink-949",
@@ -14038,19 +13661,6 @@
       "Made with 100% rye flour"
     ],
     "answer": "Baked without boiling and has a depressed center filled with onions"
-  },
-  {
-    "id": "food-drink-985",
-    "category": "food-drink",
-    "difficulty": "easy",
-    "question": "What gives a bagel its chewy crust before baking?",
-    "options": [
-      "Frying in oil",
-      "Freezing overnight",
-      "Steaming with milk",
-      "Brief boiling in water"
-    ],
-    "answer": "Brief boiling in water"
   },
   {
     "id": "food-drink-986",
