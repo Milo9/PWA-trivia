@@ -6318,19 +6318,6 @@
     "answer": "He becomes the face of a VD (venereal disease) awareness poster"
   },
   {
-    "id": "friends-541",
-    "category": "friends",
-    "difficulty": "medium",
-    "question": "In the single-location episode 'The One Where No One's Ready,' what game does an increasingly frustrated Ross invent, keeping score by holding up fingers?",
-    "options": [
-      "'Just How Mad Am I'",
-      "'Guess the Grudge'",
-      "'Rate My Rage'",
-      "'Angry Ross'"
-    ],
-    "answer": "'Just How Mad Am I'"
-  },
-  {
     "id": "friends-542",
     "category": "friends",
     "difficulty": "medium",
@@ -6357,19 +6344,6 @@
     "answer": "A hairdresser"
   },
   {
-    "id": "friends-544",
-    "category": "friends",
-    "difficulty": "medium",
-    "question": "In the series finale, who ends up keeping Monica and Chandler's old apartment after they move to the suburbs?",
-    "options": [
-      "Joey",
-      "Rachel",
-      "No one; it's sold to strangers",
-      "Ross"
-    ],
-    "answer": "Joey"
-  },
-  {
     "id": "friends-545",
     "category": "friends",
     "difficulty": "medium",
@@ -6394,45 +6368,6 @@
       "Writing a tell-all book"
     ],
     "answer": "Divorcing Rachel's father"
-  },
-  {
-    "id": "friends-547",
-    "category": "friends",
-    "difficulty": "medium",
-    "question": "What does Rachel's mother do during her visit that embarrasses Rachel, involving Rachel's old high school reputation?",
-    "options": [
-      "She reveals Rachel was actually unpopular, contradicting Rachel's claims",
-      "She shows Ross embarrassing baby photos",
-      "She tells Ross about Rachel's past boyfriends",
-      "She admits she never liked Ross"
-    ],
-    "answer": "She reveals Rachel was actually unpopular, contradicting Rachel's claims"
-  },
-  {
-    "id": "friends-548",
-    "category": "friends",
-    "difficulty": "medium",
-    "question": "What does Monica discover about her own birth that surprises her, involving a story her parents kept from her?",
-    "options": [
-      "She was almost named a different name at the last minute",
-      "She was actually born a twin",
-      "She was born prematurely and nearly didn't survive",
-      "She was adopted"
-    ],
-    "answer": "She was almost named a different name at the last minute"
-  },
-  {
-    "id": "friends-549",
-    "category": "friends",
-    "difficulty": "medium",
-    "question": "What is the profession of Monica's on-and-off boyfriend Pete Becker before he becomes a dot-com millionaire?",
-    "options": [
-      "He owns a chain of restaurants, including one where Monica works",
-      "He is a stockbroker",
-      "He is a software engineer",
-      "He is a real estate developer"
-    ],
-    "answer": "He owns a chain of restaurants, including one where Monica works"
   },
   {
     "id": "friends-550",
@@ -6498,19 +6433,6 @@
       "Violin"
     ],
     "answer": "Guitar"
-  },
-  {
-    "id": "friends-559",
-    "category": "friends",
-    "difficulty": "medium",
-    "question": "What does Phoebe's twin sister Ursula work as, causing strangers to mistake Phoebe for her?",
-    "options": [
-      "A waitress at a diner",
-      "A flight attendant",
-      "A department store clerk",
-      "A hotel receptionist"
-    ],
-    "answer": "A waitress at a diner"
   },
   {
     "id": "friends-560",
@@ -7072,19 +6994,6 @@
     "answer": "Joey's girlfriend, whom Chandler secretly falls for"
   },
   {
-    "id": "friends-610",
-    "category": "friends",
-    "difficulty": "medium",
-    "question": "What does Chandler do that reveals his feelings for Kathy to Joey?",
-    "options": [
-      "He kisses her",
-      "He writes her a letter",
-      "He tells Ross who tells Joey",
-      "He buys her a gift"
-    ],
-    "answer": "He kisses her"
-  },
-  {
     "id": "friends-611",
     "category": "friends",
     "difficulty": "medium",
@@ -7306,19 +7215,6 @@
     "answer": "He turns orange from overexposure to spray tan"
   },
   {
-    "id": "friends-629",
-    "category": "friends",
-    "difficulty": "medium",
-    "question": "What ultimatum does Emily give Ross regarding Rachel that he refuses to accept?",
-    "options": [
-      "To cut off all contact with Rachel entirely",
-      "To move away from New York",
-      "To stop seeing his friend group",
-      "To change jobs"
-    ],
-    "answer": "To cut off all contact with Rachel entirely"
-  },
-  {
     "id": "friends-630",
     "category": "friends",
     "difficulty": "medium",
@@ -7467,12 +7363,12 @@
     "difficulty": "medium",
     "question": "What incident gets Monica fired from a high-end restaurant early in her career?",
     "options": [
-      "She is caught taking bribes from a food critic to serve better food",
+      "She accepts a kickback (steaks and an eggplant) from a food supplier",
       "She is caught stealing",
       "She insults a customer",
       "She burns down the kitchen"
     ],
-    "answer": "She is caught taking bribes from a food critic to serve better food"
+    "answer": "She accepts a kickback (steaks and an eggplant) from a food supplier"
   },
   {
     "id": "friends-643",
@@ -7545,12 +7441,12 @@
     "difficulty": "medium",
     "question": "Where does Chandler propose to Monica?",
     "options": [
-      "In her apartment, with candles and rose petals",
+      "In her apartment, filled with candles",
       "At a fancy restaurant",
       "On a beach vacation",
       "At Central Perk"
     ],
-    "answer": "In her apartment, with candles and rose petals"
+    "answer": "In her apartment, filled with candles"
   },
   {
     "id": "friends-649",

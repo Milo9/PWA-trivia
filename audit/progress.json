@@ -8361,11 +8361,11 @@
         "friends-622",
         "friends-623"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-08",
+      "completedAt": "2026-08-08",
+      "issuesFound": 7,
+      "notes": "Cut 7 fabricated/incorrect/duplicate questions: friends-541 (invented 'Just How Mad Am I' finger-counting game, no matching episode plot), friends-544 (fabricated finale detail - no one is shown taking over Monica/Chandler's apartment), friends-547 (fabricated/conflated - real embarrassing-high-school-reputation reveal is Will Colbert's rumor in 'The One with the Rumor', not Rachel's mother), friends-548 (unverifiable Monica-almost-named-differently premise, no matching episode found), friends-549 (backwards premise - Pete Becker was already a software millionaire before opening a restaurant for Monica, not a restaurant chain owner before wealth), friends-559 (cross-chunk duplicate of already-fixed friends-115/friends-226, Ursula's waitress job), friends-610 (cross-chunk duplicate of already-fixed friends-514, Chandler kissing Kathy). Logged two new same-answer clusters to CLAUDE.md backlog: friends-603/friends-050 (Fat Monica nickname, both unreviewed) and friends-583/584 vs out-of-pass friends-900/901 (Nora Bing / Morgan Fairchild, the latter pair outside current pass scope)."
     },
     {
       "chunkId": "friends-p1-011",
@@ -8422,11 +8422,11 @@
         "friends-694",
         "friends-697"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-08",
+      "completedAt": "2026-08-08",
+      "issuesFound": 3,
+      "notes": "Cut friends-629 as a cross-chunk duplicate of already-fixed friends-160 (Emily's ultimatum to cut off contact with Rachel). Fixed friends-642 (real reason Monica is fired is accepting a kickback of steaks/eggplant from a food supplier, not 'bribes from a food critic to serve better food' - verified via 'The One with Five Steaks and an Eggplant') and friends-648 (Chandler's proposal is in the candle-filled apartment, no rose petals - verified via 'The One with the Proposal: Part 2', consistent with the earlier friends-195 fix removing the same rose-petals fabrication). Rest of chunk (behind-the-scenes/actor trivia and plot facts, ids 624-697) verified clean; several already-documented cross-chunk duplicate clusters (Charlie Wheeler actress, Richard's profession, Tag Jones) reconfirmed and left uncut per existing backlog policy."
     },
     {
       "chunkId": "friends-p1-012",

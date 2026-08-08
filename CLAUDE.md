@@ -807,6 +807,37 @@ Open items for a future dedicated pass:
   WebSearch verification there rather than defaulting to judgment/
   memory** — this range appears to come from a drafting pass with
   noticeably weaker factual grounding than the rest of the corpus.
+- **Chunks `friends-p1-010`/`friends-p1-011` (2026-08-08, IDs friends-539
+  through friends-697)**: cut `friends-541` (invented "Just How Mad Am I"
+  finger-counting game — no matching scene in 'The One Where No One's
+  Ready'), `friends-544` (fabricated finale detail — no one is shown
+  taking over Monica/Chandler's apartment after they move out),
+  `friends-547` (fabricated/conflated — the real embarrassing
+  high-school-reputation reveal is Will Colbert's rumor in 'The One
+  with the Rumor', not something Rachel's mother does), `friends-548`
+  (unverifiable Monica-almost-named-differently premise, no matching
+  episode found), and `friends-549` (backwards premise — Pete Becker
+  was already a software millionaire *before* opening a restaurant for
+  Monica, not a restaurant-chain owner before his wealth). Also cut as
+  cross-chunk duplicates of already-fixed originals (per the
+  already-reviewed-sibling policy above): `friends-559` (dup of
+  `friends-115`/`friends-226`, Ursula's waitress job), `friends-610`
+  (dup of `friends-514`, Chandler kissing Kathy), `friends-629` (dup of
+  `friends-160`, Emily's ultimatum to cut off contact with Rachel).
+  Fixed in place: `friends-642` (real reason Monica is fired is
+  accepting a kickback of steaks/an eggplant from a food supplier, not
+  "bribes from a food critic to serve better food" — verified via 'The
+  One with Five Steaks and an Eggplant') and `friends-648` (Chandler
+  proposes in the candle-filled apartment, no rose petals — verified via
+  'The One with the Proposal: Part 2', the same fabrication already
+  removed from `friends-195`). Two new same-answer duplicate pairs
+  surfaced and were left uncut per the standard both-unreviewed policy:
+  `friends-050`/`friends-603` (Fat Monica nickname) and
+  `friends-583`/`friends-584` vs `friends-900`/`friends-901` (Nora Bing
+  / Morgan Fairchild) — the latter pair falls inside the 179
+  out-of-pass questions noted below, so it will need the same fresh
+  pass/appended chunks that block covers, not just a normal future
+  audit chunk.
 
 ## Memory-only drafting exhausts per category
 
