@@ -8178,11 +8178,11 @@
         "friends-409",
         "friends-410"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-08",
+      "completedAt": "2026-08-08",
+      "issuesFound": 3,
+      "notes": "Fixed friends-354 (distractor-correctness bug: correct answer 'Ross and Phoebe' was already sitting in the options as a distractor while 'Phoebe and Rachel' was wrongly marked correct - verified via episode plot that Ross and Phoebe are the ones who track down Chandler on his wedding day). Cut friends-404 (cross-chunk duplicate of already-fixed friends-224, Rachel's parents' divorce). Cut friends-402 (unverifiable/likely-fabricated Joey 'mascot handing out flyers' job - not found in any exhaustive list of Joey's odd jobs)."
     },
     {
       "chunkId": "friends-p1-008",

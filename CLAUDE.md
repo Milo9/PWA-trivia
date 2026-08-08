@@ -742,6 +742,24 @@ Open items for a future dedicated pass:
   skates) — her chef jobs are Iridium (seasons 1-2, earlier) and later
   Alessandro's/Javu — reworded to "waitress" rather than picking a
   different (unlisted) restaurant.
+- **Chunk `friends-p1-007` (2026-08-08)**: `friends-354` was a
+  distractor-correctness bug, not a duplicate — "Which two friends track
+  down Chandler and talk him out of his wedding-day panic?" had "Phoebe
+  and Rachel" marked correct while the actually-correct "Ross and
+  Phoebe" was sitting right there as one of the other three options.
+  Verified via the episode plot (S7's "The One with Monica and
+  Chandler's Wedding"): Rachel stays behind to stall Monica; it's Ross
+  and Phoebe who search for and find runaway Chandler. Note this is a
+  distinct event from `friends-289`'s "nearly runs away" moment — that
+  one is Chandler's *proposal*-night panic (S6), a separate incident
+  from his actual wedding-day panic a season later; don't merge them if
+  either resurfaces. `friends-404` (Rachel's parents' divorce) was cut
+  as a cross-chunk duplicate of already-fixed `friends-224`, per the
+  p1-006 policy above. `friends-402` ("mascot handing out advertising
+  flyers" as one of Joey's odd jobs) was cut as apparently fabricated —
+  several searches for exhaustive lists of Joey's temp jobs (cologne
+  spritzer, Christmas tree seller, museum tour guide, sperm donor,
+  acting teacher, etc.) never surfaced a flyer-mascot job.
 - **179 of `friends.json`'s 920 questions (as of 2026-08-08) belong to
   no chunk in the current audit pass at all**, discovered while
   investigating why `friends-938` (used in the duplicate pair above)
