@@ -7226,11 +7226,11 @@
         "food-drink-500",
         "food-drink-501"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-08",
+      "completedAt": "2026-08-08",
+      "issuesFound": 3,
+      "notes": "Cut 2 dup pairs (white-chocolate cocoa-solids food-drink-933 vs 411; pozole/hominy food-drink-845 vs 420); fixed culantro/cilantro naming-confusion error in food-drink-498 (culantro is actually the sawtooth-herb plant, not another name for cilantro)"
     },
     {
       "chunkId": "food-drink-p1-011",
@@ -7287,11 +7287,11 @@
         "food-drink-623",
         "food-drink-626"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-08",
+      "completedAt": "2026-08-08",
+      "issuesFound": 4,
+      "notes": "Fixed duplicate-meaning distractor pairs (Tagine/Tajine in 512, Pickled onion/Cocktail onion in 618); fixed tiramisu wine question implying wine alone soaks ladyfingers (608, coffee is primary); cut food-drink-927 (duplicate of 585's cassava/tapioca fact, plus its own answer 'Tapioca' was wrong for 'what starchy root' - tapioca is the starch, not the root)"
     },
     {
       "chunkId": "food-drink-p1-012",
@@ -7348,11 +7348,11 @@
         "food-drink-724",
         "food-drink-728"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-08",
+      "completedAt": "2026-08-08",
+      "issuesFound": 3,
+      "notes": "Cut 3 duplicate/reworded pairs: 948 (Breton buckwheat galette, dup of 639), 666 (har gow shrimp filling, reversed-direction dup of 500), 839 (udon=wheat flour, dup of 712)"
     },
     {
       "chunkId": "food-drink-p1-013",

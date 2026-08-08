@@ -7958,7 +7958,7 @@
   {
     "difficulty": "medium",
     "category": "food-drink",
-    "question": "Which Vietnamese herb, also called culantro, is essential in pho garnish?",
+    "question": "Which herb, also called Chinese parsley, is essential in Vietnamese pho garnish?",
     "options": [
       "Thai basil",
       "Cilantro",
@@ -8145,7 +8145,7 @@
       "Doro wat",
       "Shakshuka",
       "Tagine",
-      "Tajine"
+      "Kitfo"
     ],
     "answer": "Doro wat",
     "id": "food-drink-512"
@@ -9350,7 +9350,7 @@
     "id": "food-drink-608",
     "category": "food-drink",
     "difficulty": "medium",
-    "question": "What type of wine is traditionally used to soak the ladyfingers in authentic tiramisu?",
+    "question": "What type of wine is traditionally added to the coffee for soaking the ladyfingers in authentic tiramisu?",
     "options": [
       "Marsala",
       "Amaretto",
@@ -9483,7 +9483,7 @@
     "question": "What is the traditional garnish for a classic Gibson cocktail?",
     "options": [
       "Pickled onion",
-      "Cocktail onion",
+      "Maraschino cherry",
       "Olive",
       "Lemon twist"
     ],
@@ -10086,19 +10086,6 @@
       "Tiramisu"
     ],
     "answer": "Torta caprese"
-  },
-  {
-    "id": "food-drink-666",
-    "category": "food-drink",
-    "difficulty": "medium",
-    "question": "What is the primary filling of the Chinese dim sum dumpling har gow?",
-    "options": [
-      "Shrimp",
-      "Pork",
-      "Chicken",
-      "Beef"
-    ],
-    "answer": "Shrimp"
   },
   {
     "id": "food-drink-667",
@@ -12259,19 +12246,6 @@
     "answer": "Kansui"
   },
   {
-    "id": "food-drink-839",
-    "category": "food-drink",
-    "difficulty": "easy",
-    "question": "Udon noodles are made primarily from which flour?",
-    "options": [
-      "Mung bean starch",
-      "Wheat flour",
-      "Rice flour",
-      "Buckwheat flour"
-    ],
-    "answer": "Wheat flour"
-  },
-  {
     "id": "food-drink-840",
     "category": "food-drink",
     "difficulty": "medium",
@@ -12335,19 +12309,6 @@
       "Chocolate"
     ],
     "answer": "Chocolate"
-  },
-  {
-    "id": "food-drink-845",
-    "category": "food-drink",
-    "difficulty": "medium",
-    "question": "Mexican pozole is a hearty soup defined by which starchy corn product?",
-    "options": [
-      "Tortilla chips",
-      "Cornstarch",
-      "Hominy",
-      "Corn on cob"
-    ],
-    "answer": "Hominy"
   },
   {
     "id": "food-drink-847",
@@ -13364,19 +13325,6 @@
     "answer": "SCOBY"
   },
   {
-    "id": "food-drink-927",
-    "category": "food-drink",
-    "difficulty": "easy",
-    "question": "Boba pearls in bubble tea are made from what starchy root?",
-    "options": [
-      "Tapioca",
-      "Potato",
-      "Corn",
-      "Rice"
-    ],
-    "answer": "Tapioca"
-  },
-  {
     "id": "food-drink-928",
     "category": "food-drink",
     "difficulty": "medium",
@@ -13440,19 +13388,6 @@
       "Brown seed"
     ],
     "answer": "Food of the gods"
-  },
-  {
-    "id": "food-drink-933",
-    "category": "food-drink",
-    "difficulty": "medium",
-    "question": "White chocolate technically contains cocoa butter but no what?",
-    "options": [
-      "Cocoa solids",
-      "Milk",
-      "Vanilla",
-      "Sugar"
-    ],
-    "answer": "Cocoa solids"
   },
   {
     "id": "food-drink-934",
@@ -13635,19 +13570,6 @@
       "Baking soda"
     ],
     "answer": "Baking soda"
-  },
-  {
-    "id": "food-drink-948",
-    "category": "food-drink",
-    "difficulty": "medium",
-    "question": "What is the French term for the paper-thin savory buckwheat crêpes from Brittany?",
-    "options": [
-      "Galette",
-      "Madeleine",
-      "Gaufre",
-      "Financier"
-    ],
-    "answer": "Galette"
   },
   {
     "id": "food-drink-949",
