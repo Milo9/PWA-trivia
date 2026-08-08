@@ -130,19 +130,6 @@
     "answer": "Emma"
   },
   {
-    "id": "friends-012",
-    "category": "friends",
-    "difficulty": "medium",
-    "question": "What city do Ross and Emily get married in?",
-    "options": [
-      "London",
-      "Paris",
-      "New York",
-      "Las Vegas"
-    ],
-    "answer": "London"
-  },
-  {
     "id": "friends-013",
     "category": "friends",
     "difficulty": "medium",
@@ -1160,7 +1147,7 @@
     "id": "friends-092",
     "category": "friends",
     "difficulty": "hard",
-    "question": "What is the apartment number shown on Monica and Rachel's door throughout the series?",
+    "question": "What is the apartment number shown on Monica and Rachel's door for most of the series?",
     "options": [
       "20",
       "5",
@@ -1363,19 +1350,6 @@
       "He takes a job in another state"
     ],
     "answer": "He doesn't want to have any more children, already having grown kids"
-  },
-  {
-    "id": "friends-108",
-    "category": "friends",
-    "difficulty": "hard",
-    "question": "What detail about Richard Burke's family makes him hesitant about starting over with Monica?",
-    "options": [
-      "Richard has no other children",
-      "Richard has three young children from a second marriage",
-      "Richard has two adult children from his first marriage",
-      "Richard has an adult daughter who dates Ross"
-    ],
-    "answer": "Richard has two adult children from his first marriage"
   },
   {
     "id": "friends-109",
@@ -1696,11 +1670,11 @@
     "question": "How does Charlie's relationship with Joey ultimately end?",
     "options": [
       "She marries someone else",
-      "She moves in with Ross permanently",
+      "She breaks up with him and starts dating Ross",
       "She takes a fellowship or teaching position elsewhere",
       "She becomes Ross's co-author on a book"
     ],
-    "answer": "She takes a fellowship or teaching position elsewhere"
+    "answer": "She breaks up with him and starts dating Ross"
   },
   {
     "id": "friends-135",
@@ -2191,7 +2165,7 @@
     "options": [
       "Central Perk",
       "The Living Room",
-      "Insomnia Cafe",
+      "Coffee and Conversation",
       "Friends Like Us"
     ],
     "answer": "Friends Like Us"
@@ -2415,7 +2389,7 @@
       "Ross",
       "Rachel"
     ],
-    "answer": "Rachel"
+    "answer": "Ross"
   },
   {
     "id": "friends-190",
@@ -2678,19 +2652,6 @@
     "answer": "He is overjoyed and fully approves"
   },
   {
-    "id": "friends-210",
-    "category": "friends",
-    "difficulty": "hard",
-    "question": "What hobby of Jack Geller's becomes an embarrassing running joke on the show?",
-    "options": [
-      "Woodworking in the garage",
-      "Competitive bird watching",
-      "Collecting adult magazines",
-      "Restoring vintage cars"
-    ],
-    "answer": "Collecting adult magazines"
-  },
-  {
     "id": "friends-211",
     "category": "friends",
     "difficulty": "medium",
@@ -2795,19 +2756,6 @@
     "answer": "Shut the party down or call the police"
   },
   {
-    "id": "friends-219",
-    "category": "friends",
-    "difficulty": "hard",
-    "question": "What does Mr. Treeger reveal about his military background?",
-    "options": [
-      "That he served in the Gulf War",
-      "That he served in Vietnam",
-      "That he was a Marine drill instructor",
-      "That he served in Korea"
-    ],
-    "answer": "That he served in Vietnam"
-  },
-  {
     "id": "friends-220",
     "category": "friends",
     "difficulty": "medium",
@@ -2845,19 +2793,6 @@
       "Carol"
     ],
     "answer": "Amy"
-  },
-  {
-    "id": "friends-223",
-    "category": "friends",
-    "difficulty": "hard",
-    "question": "Which of Rachel's younger sisters briefly and awkwardly pursues Ross romantically during a visit?",
-    "options": [
-      "Amy",
-      "Judy",
-      "Jill",
-      "Ursula"
-    ],
-    "answer": "Jill"
   },
   {
     "id": "friends-224",
@@ -2910,19 +2845,6 @@
       "Mike"
     ],
     "answer": "Ross"
-  },
-  {
-    "id": "friends-228",
-    "category": "friends",
-    "difficulty": "hard",
-    "question": "What does Ursula do professionally at one point that embarrasses Phoebe deeply?",
-    "options": [
-      "Writes a tell-all book about Phoebe",
-      "Stars in a daytime talk show",
-      "Appears in nude photos and adult films",
-      "Signs a modeling contract using Phoebe's name"
-    ],
-    "answer": "Appears in nude photos and adult films"
   },
   {
     "id": "friends-229",
@@ -2990,32 +2912,6 @@
     "answer": "Chandler, named after Chandler Bing"
   },
   {
-    "id": "friends-234",
-    "category": "friends",
-    "difficulty": "hard",
-    "question": "What does Gunther reveal about his linguistic ability that surprises the friends?",
-    "options": [
-      "He can only speak English",
-      "He speaks several languages fluently",
-      "He is completely mute for a season",
-      "He speaks in code as a hobby"
-    ],
-    "answer": "He speaks several languages fluently"
-  },
-  {
-    "id": "friends-235",
-    "category": "friends",
-    "difficulty": "hard",
-    "question": "What claim does Gunther make about a small role he once had in show business?",
-    "options": [
-      "A minor role on a soap opera",
-      "A lead role in a Broadway musical",
-      "A recurring villain in a film franchise",
-      "A voice actor for cartoons"
-    ],
-    "answer": "A minor role on a soap opera"
-  },
-  {
     "id": "friends-236",
     "category": "friends",
     "difficulty": "easy",
@@ -3081,19 +2977,6 @@
     "answer": "Jack Geller"
   },
   {
-    "id": "friends-241",
-    "category": "friends",
-    "difficulty": "hard",
-    "question": "How is Ben Geller portrayed as he grows up across the series?",
-    "options": [
-      "By the same actor for the entire run",
-      "He is only ever shown as an infant",
-      "He is never shown on screen",
-      "By several different child actors as he ages"
-    ],
-    "answer": "By several different child actors as he ages"
-  },
-  {
     "id": "friends-242",
     "category": "friends",
     "difficulty": "medium",
@@ -3144,19 +3027,6 @@
       "Monica tells him directly"
     ],
     "answer": "Carol tells him she's pregnant and gay"
-  },
-  {
-    "id": "friends-246",
-    "category": "friends",
-    "difficulty": "hard",
-    "question": "What is the general dynamic between Ross and Susan throughout the series?",
-    "options": [
-      "A close, easygoing friendship",
-      "A comedic rivalry over co-parenting Ben",
-      "Total avoidance of one another",
-      "A brief romantic history"
-    ],
-    "answer": "A comedic rivalry over co-parenting Ben"
   },
   {
     "id": "friends-247",
@@ -3211,19 +3081,6 @@
     "answer": "It ends shortly afterward"
   },
   {
-    "id": "friends-251",
-    "category": "friends",
-    "difficulty": "hard",
-    "question": "Where does Ross and Emily's wedding take place?",
-    "options": [
-      "New York",
-      "Paris",
-      "Los Angeles",
-      "London"
-    ],
-    "answer": "London"
-  },
-  {
     "id": "friends-252",
     "category": "friends",
     "difficulty": "medium",
@@ -3248,19 +3105,6 @@
       "He becomes a stand-up comedian"
     ],
     "answer": "He becomes a bar pianist"
-  },
-  {
-    "id": "friends-254",
-    "category": "friends",
-    "difficulty": "hard",
-    "question": "What stance does Mike initially take on marriage, creating early tension with Phoebe?",
-    "options": [
-      "He proposes to Phoebe almost immediately",
-      "He insists he never wants to get married",
-      "He is secretly already married",
-      "He refuses to date anyone seriously"
-    ],
-    "answer": "He insists he never wants to get married"
   },
   {
     "id": "friends-255",
@@ -3468,7 +3312,7 @@
       "\"We were on a break\"",
       "\"Could this BE any more...\""
     ],
-    "answer": "\"We were on a break\""
+    "answer": "\"How you doin'?\""
   },
   {
     "id": "friends-271",
@@ -3718,19 +3562,6 @@
     "answer": "A hurtful joke he made about her weight"
   },
   {
-    "id": "friends-292",
-    "category": "friends",
-    "difficulty": "hard",
-    "question": "What happened to Phoebe's biological mother, Lily?",
-    "options": [
-      "She died by suicide when Phoebe was a child",
-      "She abandoned Phoebe but is still alive",
-      "She died of natural causes when Phoebe was an adult",
-      "She was never mentioned on the show"
-    ],
-    "answer": "She died by suicide when Phoebe was a child"
-  },
-  {
     "id": "friends-293",
     "category": "friends",
     "difficulty": "medium",
@@ -3861,45 +3692,6 @@
     "answer": "A shaved bald head"
   },
   {
-    "id": "friends-305",
-    "category": "friends",
-    "difficulty": "hard",
-    "question": "During a mix-up at a hotel, what fake name does Chandler accidentally give a woman he sleeps with?",
-    "options": [
-      "Ken Adams",
-      "Bob Franklin",
-      "Mike Hannigan",
-      "Jack Geller"
-    ],
-    "answer": "Ken Adams"
-  },
-  {
-    "id": "friends-306",
-    "category": "friends",
-    "difficulty": "hard",
-    "question": "What ridiculous 'real name' does Phoebe jokingly claim was hidden from her in a later-season storyline?",
-    "options": [
-      "Princess Consuela Banana-Hammock",
-      "Regina Phalange",
-      "Bicky Boo",
-      "Valerie Sanders"
-    ],
-    "answer": "Princess Consuela Banana-Hammock"
-  },
-  {
-    "id": "friends-307",
-    "category": "friends",
-    "difficulty": "hard",
-    "question": "In the same storyline, what joke name does Mike Hannigan legally adopt to match Phoebe's antics?",
-    "options": [
-      "Crap Bag",
-      "Bicky Boo",
-      "Ken Adams",
-      "Duck Face"
-    ],
-    "answer": "Crap Bag"
-  },
-  {
     "id": "friends-308",
     "category": "friends",
     "difficulty": "medium",
@@ -3950,32 +3742,6 @@
       "Jean-Claude Van Damme"
     ],
     "answer": "Brad Pitt"
-  },
-  {
-    "id": "friends-312",
-    "category": "friends",
-    "difficulty": "medium",
-    "question": "Which actress plays Jill Green, Rachel's younger sister who briefly pursues Ross?",
-    "options": [
-      "Reese Witherspoon",
-      "Christina Applegate",
-      "Winona Ryder",
-      "Elle Macpherson"
-    ],
-    "answer": "Reese Witherspoon"
-  },
-  {
-    "id": "friends-313",
-    "category": "friends",
-    "difficulty": "medium",
-    "question": "Which actress plays Amy Green, Rachel's self-absorbed younger sister?",
-    "options": [
-      "Christina Applegate",
-      "Reese Witherspoon",
-      "Julia Roberts",
-      "Susan Sarandon"
-    ],
-    "answer": "Christina Applegate"
   },
   {
     "id": "friends-314",
@@ -4750,12 +4516,12 @@
     "difficulty": "hard",
     "question": "What is the retitled name of the Friends pilot episode as it appears in syndication?",
     "options": [
-      "The One Where It All Began",
+      "The One Where Monica Gets a Roommate",
       "The One Where Rachel Finds Out",
       "The One with the Sonogram at the End",
       "The One After the Pilot"
     ],
-    "answer": "The One Where It All Began"
+    "answer": "The One Where Monica Gets a Roommate"
   },
   {
     "id": "friends-374",
@@ -4821,19 +4587,6 @@
       "Yes, she adopts a son"
     ],
     "answer": "No, the triplets she carried were her brother's, not her own"
-  },
-  {
-    "id": "friends-379",
-    "category": "friends",
-    "difficulty": "hard",
-    "question": "Which two famous actors make an uncredited cameo as strangers arguing in a Central Perk coffee line?",
-    "options": [
-      "Robin Williams and Billy Crystal",
-      "Tom Hanks and Steve Martin",
-      "Sean Penn and Kevin Spacey",
-      "Bruce Willis and Danny DeVito"
-    ],
-    "answer": "Robin Williams and Billy Crystal"
   },
   {
     "id": "friends-380",
@@ -5333,14 +5086,14 @@
     "id": "friends-418",
     "category": "friends",
     "difficulty": "hard",
-    "question": "Susan Sarandon guest-stars as Cecilia Monroe, a celebrity chef Monica idolizes. What shocking secret does Monica later discover about her?",
+    "question": "Susan Sarandon guest-stars as Cecilia Monroe, a soap actress whose Days of Our Lives role Joey takes over. What unexpectedly happens between them?",
     "options": [
-      "She's having an affair with a married man",
-      "She's not really a chef",
-      "She stole Monica's recipes",
-      "She's actually Chandler's aunt"
+      "They begin having an affair",
+      "They become bitter enemies",
+      "She gets Joey fired from the role",
+      "She becomes his acting coach"
     ],
-    "answer": "She's having an affair with a married man"
+    "answer": "They begin having an affair"
   },
   {
     "id": "friends-419",
@@ -5614,19 +5367,6 @@
       "A birthmark shaped like a state"
     ],
     "answer": "A third nipple"
-  },
-  {
-    "id": "friends-440",
-    "category": "friends",
-    "difficulty": "hard",
-    "question": "What is the title of the campy sci-fi film Joey stars in, playing opposite a robot sidekick?",
-    "options": [
-      "Mac and C.H.E.E.S.E.",
-      "RoboDoc",
-      "Android Detective",
-      "Metal Justice"
-    ],
-    "answer": "Mac and C.H.E.E.S.E."
   },
   {
     "id": "friends-441",
@@ -6004,19 +5744,6 @@
       "Tag"
     ],
     "answer": "Mark"
-  },
-  {
-    "id": "friends-470",
-    "category": "friends",
-    "difficulty": "hard",
-    "question": "Which Ralph Lauren coworker becomes Rachel's replacement while she's on maternity leave, and later competes with her for a promotion?",
-    "options": [
-      "Gavin Mitchell",
-      "Mark Robinson",
-      "Joshua Bergin",
-      "Tag Jones"
-    ],
-    "answer": "Gavin Mitchell"
   },
   {
     "id": "friends-471",
@@ -6459,19 +6186,6 @@
       "Paolo"
     ],
     "answer": "Ugly Naked Guy"
-  },
-  {
-    "id": "friends-505",
-    "category": "friends",
-    "difficulty": "easy",
-    "question": "What is Chandler's father's stage name as a Las Vegas drag performer?",
-    "options": [
-      "Helena Handbasket",
-      "Bianca Del Rio",
-      "Chandelier",
-      "Lola Diamond"
-    ],
-    "answer": "Helena Handbasket"
   },
   {
     "id": "friends-506",
@@ -7397,19 +7111,6 @@
     "answer": "A drag queen performer"
   },
   {
-    "id": "friends-582",
-    "category": "friends",
-    "difficulty": "hard",
-    "question": "What stage name does Chandler's father perform under in Las Vegas?",
-    "options": [
-      "Helena Handbasket",
-      "Miss Chandler",
-      "Helen Highwater",
-      "Bianca DelRio"
-    ],
-    "answer": "Helena Handbasket"
-  },
-  {
     "id": "friends-583",
     "category": "friends",
     "difficulty": "medium",
@@ -7525,32 +7226,6 @@
       "Susan"
     ],
     "answer": "Alice"
-  },
-  {
-    "id": "friends-593",
-    "category": "friends",
-    "difficulty": "easy",
-    "question": "What eccentric neighbor lives below Monica and complains that everything in the building actually belongs to him?",
-    "options": [
-      "Mr. Heckles",
-      "Mr. Treeger",
-      "Mr. Zelner",
-      "Mr. Bowmont"
-    ],
-    "answer": "Mr. Heckles"
-  },
-  {
-    "id": "friends-594",
-    "category": "friends",
-    "difficulty": "medium",
-    "question": "What is the name of the building superintendent who occasionally appears to handle maintenance issues?",
-    "options": [
-      "Mr. Treeger",
-      "Gunther",
-      "Mr. Heckles",
-      "Mr. Zelner"
-    ],
-    "answer": "Mr. Treeger"
   },
   {
     "id": "friends-595",
@@ -7813,19 +7488,6 @@
     "answer": "Phoebe and Rachel"
   },
   {
-    "id": "friends-615",
-    "category": "friends",
-    "difficulty": "hard",
-    "question": "What large piece of furniture does Chandler have to give up after losing a bet to Rachel and Monica?",
-    "options": [
-      "His entertainment center",
-      "His couch",
-      "His TV",
-      "His recliner"
-    ],
-    "answer": "His entertainment center"
-  },
-  {
     "id": "friends-616",
     "category": "friends",
     "difficulty": "medium",
@@ -8032,19 +7694,6 @@
       "His neighbor"
     ],
     "answer": "A student he dates, causing controversy since he is her professor"
-  },
-  {
-    "id": "friends-632",
-    "category": "friends",
-    "difficulty": "medium",
-    "question": "Who is Elizabeth's father, who confronts Ross about their age-gap relationship?",
-    "options": [
-      "Paul Stevens",
-      "Robert Stevens",
-      "David Stevens",
-      "Mr. Waltham"
-    ],
-    "answer": "Paul Stevens"
   },
   {
     "id": "friends-633",
@@ -9633,19 +9282,6 @@
     "answer": "\"Shiny Happy People\""
   },
   {
-    "id": "friends-756",
-    "category": "friends",
-    "difficulty": "medium",
-    "question": "Which actor plays Frank Buffay Sr., Phoebe's estranged father, in his only physical appearance on the show?",
-    "options": [
-      "Bob Balaban",
-      "Elliott Gould",
-      "Larry Hankin",
-      "Michael G. Hagerty"
-    ],
-    "answer": "Bob Balaban"
-  },
-  {
     "id": "friends-757",
     "category": "friends",
     "difficulty": "hard",
@@ -9657,19 +9293,6 @@
       "Christina Applegate"
     ],
     "answer": "Lisa Kudrow"
-  },
-  {
-    "id": "friends-758",
-    "category": "friends",
-    "difficulty": "medium",
-    "question": "Which actress plays Phoebe Abbott, Phoebe and Ursula's biological mother, first appearing in the Season 3 finale?",
-    "options": [
-      "Teri Garr",
-      "Christina Pickles",
-      "Marlo Thomas",
-      "Debra Jo Rupp"
-    ],
-    "answer": "Teri Garr"
   },
   {
     "id": "friends-759",
@@ -10218,19 +9841,6 @@
     "answer": "Rachel Green"
   },
   {
-    "id": "friends-801",
-    "difficulty": "medium",
-    "category": "friends",
-    "question": "Who plays Joey's agent Estelle Leonard?",
-    "options": [
-      "Christina Pickles",
-      "June Diane Raphael",
-      "June Gable",
-      "June Lockhart"
-    ],
-    "answer": "June Gable"
-  },
-  {
     "id": "friends-802",
     "difficulty": "hard",
     "category": "friends",
@@ -10465,19 +10075,6 @@
     "answer": "Tried to cut her out of friend group"
   },
   {
-    "id": "friends-820",
-    "difficulty": "easy",
-    "category": "friends",
-    "question": "Who plays Frank Buffay Jr?",
-    "options": [
-      "Paul Rudd",
-      "Eddie Cahill",
-      "Giovanni Ribisi",
-      "Cole Sprouse"
-    ],
-    "answer": "Giovanni Ribisi"
-  },
-  {
     "id": "friends-821",
     "difficulty": "medium",
     "category": "friends",
@@ -10515,19 +10112,6 @@
       "Jasmine"
     ],
     "answer": "Alice Knight"
-  },
-  {
-    "id": "friends-824",
-    "difficulty": "hard",
-    "category": "friends",
-    "question": "Who plays Alice Knight?",
-    "options": [
-      "Christina Pickles",
-      "June Gable",
-      "Debra Jo Rupp",
-      "Maggie Wheeler"
-    ],
-    "answer": "Debra Jo Rupp"
   },
   {
     "id": "friends-825",
@@ -10957,32 +10541,6 @@
       "The Pretenders"
     ],
     "answer": "The Pretenders"
-  },
-  {
-    "id": "friends-858",
-    "difficulty": "easy",
-    "category": "friends",
-    "question": "Where is Central Perk located in show?",
-    "options": [
-      "Greenwich Village",
-      "Upper East Side",
-      "Brooklyn",
-      "Queens"
-    ],
-    "answer": "Greenwich Village"
-  },
-  {
-    "id": "friends-859",
-    "difficulty": "medium",
-    "category": "friends",
-    "question": "Who plays Mr. Heckles?",
-    "options": [
-      "Max Wright",
-      "Larry Hankin",
-      "Elliott Gould",
-      "James Michael Tyler"
-    ],
-    "answer": "Larry Hankin"
   },
   {
     "id": "friends-860",
@@ -11466,32 +11024,6 @@
     "answer": "Monica Geller"
   },
   {
-    "id": "friends-897",
-    "difficulty": "easy",
-    "category": "friends",
-    "question": "What is Chandler's father's drag stage name?",
-    "options": [
-      "Miss Chandler",
-      "Helena Handbasket",
-      "Helena Hand",
-      "Charlesina"
-    ],
-    "answer": "Helena Handbasket"
-  },
-  {
-    "id": "friends-898",
-    "difficulty": "hard",
-    "category": "friends",
-    "question": "What is name of Chandler's father's Las Vegas show?",
-    "options": [
-      "Viva Las Vegas",
-      "Helena's Show",
-      "Gaygas Extravaganza",
-      "Viva Las Gaygas"
-    ],
-    "answer": "Viva Las Gaygas"
-  },
-  {
     "id": "friends-899",
     "difficulty": "easy",
     "category": "friends",
@@ -11529,19 +11061,6 @@
       "Maggie Wheeler"
     ],
     "answer": "Morgan Fairchild"
-  },
-  {
-    "id": "friends-902",
-    "difficulty": "easy",
-    "category": "friends",
-    "question": "What is Nora Bing's profession?",
-    "options": [
-      "Chef",
-      "Doctor",
-      "Actress",
-      "Romance novelist"
-    ],
-    "answer": "Romance novelist"
   },
   {
     "id": "friends-903",
@@ -11633,19 +11152,6 @@
       "Rachel"
     ],
     "answer": "Rachel"
-  },
-  {
-    "id": "friends-910",
-    "difficulty": "easy",
-    "category": "friends",
-    "question": "What show was Helen Baxendale known for before Friends in UK?",
-    "options": [
-      "Cold Feet",
-      "Doctor Who",
-      "Sherlock",
-      "EastEnders"
-    ],
-    "answer": "Cold Feet"
   },
   {
     "id": "friends-911",
@@ -12064,45 +11570,6 @@
     "answer": "5"
   },
   {
-    "id": "friends-943",
-    "difficulty": "medium",
-    "category": "friends",
-    "question": "Who plays Sandra Green, Rachel's mother?",
-    "options": [
-      "Marlo Thomas",
-      "Christina Pickles",
-      "Morgan Fairchild",
-      "June Gable"
-    ],
-    "answer": "Marlo Thomas"
-  },
-  {
-    "id": "friends-944",
-    "difficulty": "hard",
-    "category": "friends",
-    "question": "Who plays Amy Greene, Rachel's sister?",
-    "options": [
-      "Reese Witherspoon",
-      "Christina Applegate",
-      "Jennifer Coolidge",
-      "Anna Faris"
-    ],
-    "answer": "Christina Applegate"
-  },
-  {
-    "id": "friends-945",
-    "difficulty": "medium",
-    "category": "friends",
-    "question": "Who plays Jill Greene, Rachel's youngest sister?",
-    "options": [
-      "Christina Applegate",
-      "Jennifer Coolidge",
-      "Reese Witherspoon",
-      "Anna Faris"
-    ],
-    "answer": "Reese Witherspoon"
-  },
-  {
     "id": "friends-946",
     "difficulty": "easy",
     "category": "friends",
@@ -12350,19 +11817,6 @@
     "answer": "So he could get green card"
   },
   {
-    "id": "friends-965",
-    "difficulty": "easy",
-    "category": "friends",
-    "question": "Who is Gary, Phoebe's police boyfriend played by?",
-    "options": [
-      "Bruce Willis",
-      "Paul Rudd",
-      "Eddie Cahill",
-      "Michael Rapaport"
-    ],
-    "answer": "Michael Rapaport"
-  },
-  {
     "id": "friends-966",
     "difficulty": "medium",
     "category": "friends",
@@ -12545,19 +11999,6 @@
     "answer": "Susan Bunch"
   },
   {
-    "id": "friends-980",
-    "difficulty": "hard",
-    "category": "friends",
-    "question": "Who plays Susan Bunch?",
-    "options": [
-      "June Gable",
-      "Christina Pickles",
-      "Jessica Hecht",
-      "Morgan Fairchild"
-    ],
-    "answer": "Jessica Hecht"
-  },
-  {
     "id": "friends-981",
     "difficulty": "medium",
     "category": "friends",
@@ -12595,19 +12036,6 @@
       "Bunch"
     ],
     "answer": "Geller-Willick-Bunch"
-  },
-  {
-    "id": "friends-984",
-    "difficulty": "hard",
-    "category": "friends",
-    "question": "Who is Joshua, Rachel's client she dates played by?",
-    "options": [
-      "Bruce Willis",
-      "Paul Rudd",
-      "Tate Donovan",
-      "Eddie Cahill"
-    ],
-    "answer": "Tate Donovan"
   },
   {
     "id": "friends-985",

@@ -7653,11 +7653,11 @@
         "food-drink-656",
         "food-drink-668"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-08",
+      "completedAt": "2026-08-08",
+      "issuesFound": 6,
+      "notes": "Cut 5 duplicates found via corpus grep (banana-true-berry vs food-drink-807, tonkatsu vs food-drink-972, roux vs food-drink-971, pesto-basil vs food-drink-078, sake-made-from-fermented-rice general-1216 vs food-drink-003); fixed panettone question's misspelled-duplicate distractor (Pannetone -> Panforte)"
     },
     {
       "chunkId": "food-drink-p1-018",
@@ -7690,11 +7690,11 @@
         "food-drink-767",
         "food-drink-773"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-08",
+      "completedAt": "2026-08-08",
+      "issuesFound": 3,
+      "notes": "Cut duplicate mole/chocolate question (food-drink-714, kept more distinctive food-drink-844); fixed tofu question's inaccurate 'Japanese food product' framing (tofu originated in China) to a neutral phrasing; fixed pa amb tomàquet question where 2 of 3 distractors (Pan con tomate, Tostada con tomate) were just translations/synonyms of the correct answer rather than distinct dishes, replaced with Focaccia and Escalivada"
     },
     {
       "chunkId": "friends-p1-000",
@@ -7751,11 +7751,11 @@
         "friends-189",
         "friends-193"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-08",
+      "completedAt": "2026-08-08",
+      "issuesFound": 14,
+      "notes": "Cut 11 duplicates (Nora Bing's profession, Mr. Heckles identity x1 + actor x1, Mr. Treeger identity, Estelle Leonard actress, Gunther's languages, Central Perk location, Frank Buffay Sr. actor, Elizabeth's father Paul Stevens, Ken Adams fake-name plot with fabricated hotel premise, and a premise-reveal dupe on Richard/Monica breakup detail). Fixed 3 factual errors: friends-189 wrongly named Rachel as last to find out about Monica/Chandler (verified via WebSearch it's Ross), friends-134 wrongly attributed Charlie's later Ross breakup reason (fellowship elsewhere) to her actual Joey breakup (she left him for Ross at a conference), friends-172 had two genuinely-true working titles as options (Insomnia Cafe and Friends Like Us) causing answer ambiguity, replaced Insomnia Cafe with a fabricated title. Also softened friends-092's apartment-number claim from 'throughout the series' to 'for most of the series' since it started as apartment 5 before changing to 20."
     },
     {
       "chunkId": "friends-p1-001",
@@ -7812,11 +7812,11 @@
         "friends-381",
         "friends-382"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-08",
+      "completedAt": "2026-08-08",
+      "issuesFound": 16,
+      "notes": "Cut 14 duplicates found against previously-audited friends-p1-000 chunk (Jack Geller's magazines, Treeger's Vietnam service, Jill/Ross, Ursula's films, Gunther's soap opera claim, Ben's actors, Ross/Susan rivalry, Mike's marriage stance, Lily's suicide, Phoebe's Princess Consuela name, Mike's Crap Bag name, Robin Williams/Billy Crystal cameo) plus a same-chunk triplicate on Ross/Emily's London wedding (cut friends-012 and friends-251, kept friends-908). Fixed 2 factual errors verified via WebSearch: friends-270 wrongly credited 'We were on a break' as the Friends phrase added to major dictionaries when it's actually 'How you doin'?' (confirmed via Dictionary.com and Oxford Advanced Learner's Dictionary entries); friends-373 named the pilot's syndication retitle as 'The One Where It All Began' when current syndication/streaming platforms use 'The One Where Monica Gets a Roommate'."
     },
     {
       "chunkId": "friends-p1-002",
@@ -7873,11 +7873,11 @@
         "friends-691",
         "friends-692"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-08",
+      "completedAt": "2026-08-08",
+      "issuesFound": 20,
+      "notes": "Cut 18 duplicates: heavy actor/character-casting overlap with earlier-audited chunks and within this chunk (Joshua's actor, Chandler's dad's Vegas show name, a 4-way duplicate cluster on Chandler's dad's stage name Helena Handbasket, Jill Green's actress x2, Amy Green's actress x2, Phoebe Abbott's actress, Sandra Green's actress, Alice's actress, Frank Jr.'s actor, Susan Bunch's actress, Gary's actor, Helen Baxendale's pre-Friends UK show, Gavin Mitchell's role dup of an earlier chunk) plus a Mac and C.H.E.E.S.E. duplicate pair where the cut copy (friends-440) also mislabeled it as a 'sci-fi film' when it's actually a TV pilot (kept friends-453's accurate framing). Fixed 2 factual errors verified via WebSearch: friends-418 conflated Susan Sarandon's real character Cecilia Monroe (a soap actress Joey has an affair with after taking her Days of Our Lives role) with a fabricated 'celebrity chef Monica idolizes' premise; friends-615 invented an 'entertainment center' bet stake that doesn't match the actual Embryos-episode apartment-swap bet, which turned out to already be covered by 3 other existing questions (friends-084, friends-616, plus one more) so it was cut entirely rather than rewritten into a new duplicate. Kept friends-729 despite sharing an answer with the Jill-actress cluster since it tests distinct casting-history trivia (Reese Witherspoon's unavailability leading to Amy Green's creation), verified true via WebSearch."
     },
     {
       "chunkId": "friends-p1-003",

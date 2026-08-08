@@ -845,19 +845,6 @@
     "answer": "Malted barley"
   },
   {
-    "id": "general-1216",
-    "category": "food-drink",
-    "difficulty": "medium",
-    "question": "What is the name of the Japanese rice wine made by fermenting rice?",
-    "options": [
-      "Sake",
-      "Shochu",
-      "Mirin",
-      "Umeshu"
-    ],
-    "answer": "Sake"
-  },
-  {
     "id": "general-1218",
     "category": "food-drink",
     "difficulty": "medium",
@@ -2325,19 +2312,6 @@
       "Green chilies"
     ],
     "answer": "Tomatillos"
-  },
-  {
-    "id": "food-drink-078",
-    "category": "food-drink",
-    "difficulty": "easy",
-    "question": "What fresh herb is blended with pine nuts, garlic, and Parmesan to make traditional Italian pesto?",
-    "options": [
-      "Oregano",
-      "Thyme",
-      "Basil",
-      "Rosemary"
-    ],
-    "answer": "Basil"
   },
   {
     "id": "food-drink-079",
@@ -9342,7 +9316,7 @@
       "Panettone",
       "Pandoro",
       "Stollen",
-      "Pannetone"
+      "Panforte"
     ],
     "answer": "Panettone"
   },
@@ -10348,19 +10322,6 @@
     "answer": "Pain perdu"
   },
   {
-    "id": "food-drink-714",
-    "category": "food-drink",
-    "difficulty": "easy",
-    "question": "What ingredient gives traditional Mexican mole its characteristic dark color and rich flavor?",
-    "options": [
-      "Chocolate",
-      "Coffee",
-      "Dark beer",
-      "Molasses"
-    ],
-    "answer": "Chocolate"
-  },
-  {
     "id": "food-drink-715",
     "category": "food-drink",
     "difficulty": "medium",
@@ -10403,7 +10364,7 @@
     "id": "food-drink-718",
     "category": "food-drink",
     "difficulty": "easy",
-    "question": "What is the Japanese food product made by coagulating soy milk and pressing the curds into blocks?",
+    "question": "What food product is made by coagulating soy milk and pressing the curds into blocks?",
     "options": [
       "Tofu",
       "Tempeh",
@@ -11030,9 +10991,9 @@
     "question": "What is the name of the traditional Catalan dish consisting of bread rubbed with ripe tomato, olive oil, and salt?",
     "options": [
       "Pa amb tomàquet",
-      "Pan con tomate",
-      "Tostada con tomate",
-      "Bruschetta"
+      "Bruschetta",
+      "Focaccia",
+      "Escalivada"
     ],
     "answer": "Pa amb tomàquet"
   },
@@ -11529,19 +11490,6 @@
       "Drupe"
     ],
     "answer": "Drupe"
-  },
-  {
-    "id": "food-drink-807",
-    "category": "food-drink",
-    "difficulty": "medium",
-    "question": "Which grocery item is a true botanical berry, while strawberries are not?",
-    "options": [
-      "Banana",
-      "Strawberry",
-      "Raspberry",
-      "Blackberry"
-    ],
-    "answer": "Banana"
   },
   {
     "id": "food-drink-809",
@@ -13479,32 +13427,6 @@
       "Mitmita"
     ],
     "answer": "Mekelesha"
-  },
-  {
-    "id": "food-drink-971",
-    "category": "food-drink",
-    "difficulty": "easy",
-    "question": "What is the French term for a thickener made from equal parts flour and fat cooked together?",
-    "options": [
-      "Beurre manie",
-      "Roux",
-      "Slurry",
-      "Liaison"
-    ],
-    "answer": "Roux"
-  },
-  {
-    "id": "food-drink-972",
-    "category": "food-drink",
-    "difficulty": "easy",
-    "question": "What Japanese dish is made of battered and fried pork cutlet?",
-    "options": [
-      "Tonkatsu",
-      "Yakitori",
-      "Tempura",
-      "Karaage"
-    ],
-    "answer": "Tonkatsu"
   },
   {
     "id": "food-drink-973",
