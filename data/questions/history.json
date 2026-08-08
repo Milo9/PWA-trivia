@@ -13011,5 +13011,2098 @@
       "Battle of Kadesh"
     ],
     "answer": "Battle of Kadesh"
+  },
+  {
+    "difficulty": "easy",
+    "category": "history",
+    "question": "Which pharaoh built the Great Pyramid of Giza?",
+    "options": [
+      "Menkaure",
+      "Djoser",
+      "Khafre",
+      "Khufu"
+    ],
+    "answer": "Khufu",
+    "id": "history-670"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which Egyptian pharaoh fought the Hittite king Muwatalli II at the Battle of Kadesh?",
+    "options": [
+      "Amenhotep II",
+      "Thutmose I",
+      "Ramesses II",
+      "Seti I"
+    ],
+    "answer": "Ramesses II",
+    "id": "history-671"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Who founded the Akkadian Empire around 2334 BCE?",
+    "options": [
+      "Ur-Nammu",
+      "Lugalzagesi",
+      "Sargon of Akkad",
+      "Naram-Sin"
+    ],
+    "answer": "Sargon of Akkad",
+    "id": "history-672"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which Neo-Babylonian king built the Ishtar Gate and beautified Babylon?",
+    "options": [
+      "Belshazzar",
+      "Nabopolassar",
+      "Nebuchadnezzar II",
+      "Nabonidus"
+    ],
+    "answer": "Nebuchadnezzar II",
+    "id": "history-673"
+  },
+  {
+    "difficulty": "hard",
+    "category": "history",
+    "question": "In which year was Nineveh sacked by a coalition of Medes and Babylonians, ending the Assyrian Empire?",
+    "options": [
+      "612 BCE",
+      "539 BCE",
+      "626 BCE",
+      "586 BCE"
+    ],
+    "answer": "612 BCE",
+    "id": "history-674"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which Persian king created the Royal Road and divided the empire into satrapies?",
+    "options": [
+      "Cyrus II",
+      "Darius I",
+      "Xerxes I",
+      "Cambyses II"
+    ],
+    "answer": "Darius I",
+    "id": "history-675"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which Persian king was defeated by Alexander at Gaugamela in 331 BCE?",
+    "options": [
+      "Artaxerxes II",
+      "Darius I",
+      "Darius III",
+      "Xerxes I"
+    ],
+    "answer": "Darius III",
+    "id": "history-676"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Who led Athenian forces to victory at Marathon in 490 BCE?",
+    "options": [
+      "Leonidas",
+      "Miltiades",
+      "Themistocles",
+      "Pericles"
+    ],
+    "answer": "Miltiades",
+    "id": "history-677"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which Roman general lost three legions at Teutoburg Forest in 9 AD?",
+    "options": [
+      "Publius Quinctilius Varus",
+      "Marcus Agrippa",
+      "Germanicus",
+      "Gaius Marius"
+    ],
+    "answer": "Publius Quinctilius Varus",
+    "id": "history-678"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which tactical maneuver did Hannibal famously use at Cannae in 216 BCE?",
+    "options": [
+      "Echelon attack",
+      "Testudo formation",
+      "Fabian withdrawal",
+      "Double envelopment"
+    ],
+    "answer": "Double envelopment",
+    "id": "history-679"
+  },
+  {
+    "difficulty": "easy",
+    "category": "history",
+    "question": "Which Roman general defeated Hannibal at Zama in 202 BCE?",
+    "options": [
+      "Lucius Sulla",
+      "Gaius Marius",
+      "Julius Caesar",
+      "Scipio Africanus"
+    ],
+    "answer": "Scipio Africanus",
+    "id": "history-680"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "On what Roman calendar date was Julius Caesar assassinated in 44 BCE?",
+    "options": [
+      "Ides of March",
+      "Kalends of January",
+      "Nones of May",
+      "Ides of November"
+    ],
+    "answer": "Ides of March",
+    "id": "history-681"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which Carthaginian explorer is reported to have sailed beyond the Pillars of Hercules around 500 BCE?",
+    "options": [
+      "Mago",
+      "Hasdrubal",
+      "Hanno the Navigator",
+      "Hamilcar Barca"
+    ],
+    "answer": "Hanno the Navigator",
+    "id": "history-682"
+  },
+  {
+    "difficulty": "hard",
+    "category": "history",
+    "question": "Which historian wrote the History of the Peloponnesian War?",
+    "options": [
+      "Xenophon",
+      "Thucydides",
+      "Herodotus",
+      "Polybius"
+    ],
+    "answer": "Thucydides",
+    "id": "history-683"
+  },
+  {
+    "difficulty": "easy",
+    "category": "history",
+    "question": "In what year did the Fourth Crusade sack Constantinople?",
+    "options": [
+      "1099",
+      "1187",
+      "1204",
+      "1261"
+    ],
+    "answer": "1204",
+    "id": "history-684"
+  },
+  {
+    "difficulty": "easy",
+    "category": "history",
+    "question": "Which Norse explorer led the first European settlement at Vinland around 1000 AD?",
+    "options": [
+      "Leif Erikson",
+      "Erik the Red",
+      "Harald Hardrada",
+      "Thorfinn Karlsefni"
+    ],
+    "answer": "Leif Erikson",
+    "id": "history-685"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "In which year did Otto I defeat the Magyars at the Battle of Lechfeld?",
+    "options": [
+      "955",
+      "962",
+      "983",
+      "936"
+    ],
+    "answer": "955",
+    "id": "history-686"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Who was crowned the first King of Norman Sicily in 1130?",
+    "options": [
+      "William I",
+      "Roger II",
+      "Robert Guiscard",
+      "Tancred"
+    ],
+    "answer": "Roger II",
+    "id": "history-687"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which French king won the Battle of Bouvines in 1214 against Otto IV and King John?",
+    "options": [
+      "Philip IV",
+      "Philip II Augustus",
+      "Louis VII",
+      "Charles V"
+    ],
+    "answer": "Philip II Augustus",
+    "id": "history-688"
+  },
+  {
+    "difficulty": "easy",
+    "category": "history",
+    "question": "In what year was the Icelandic Althing traditionally founded at Thingvellir?",
+    "options": [
+      "985",
+      "930",
+      "874",
+      "1000"
+    ],
+    "answer": "930",
+    "id": "history-689"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which Byzantine emperor initiated Iconoclasm by banning religious icons in 726?",
+    "options": [
+      "Leo III",
+      "Justinian II",
+      "Constantine V",
+      "Basil I"
+    ],
+    "answer": "Leo III",
+    "id": "history-690"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "In what year did the Nika Riots erupt in Constantinople against Justinian's rule?",
+    "options": [
+      "455",
+      "532",
+      "602",
+      "726"
+    ],
+    "answer": "532",
+    "id": "history-691"
+  },
+  {
+    "difficulty": "hard",
+    "category": "history",
+    "question": "Which Bulgarian khan defeated Byzantine Emperor Nicephorus I in 811 and made his skull into a drinking cup?",
+    "options": [
+      "Krum",
+      "Omurtag",
+      "Boris I",
+      "Asparukh"
+    ],
+    "answer": "Krum",
+    "id": "history-692"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which 1066 battle saw Harold Godwinson defeat Harald Hardrada before Hastings?",
+    "options": [
+      "Battle of Brunanburh",
+      "Battle of Maldon",
+      "Battle of Fulford",
+      "Battle of Stamford Bridge"
+    ],
+    "answer": "Battle of Stamford Bridge",
+    "id": "history-693"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which Venetian doge led the Fourth Crusade at age 90 while blind?",
+    "options": [
+      "Sebastiano Ziani",
+      "Pietro Orseolo",
+      "Enrico Dandolo",
+      "Domenico Selvo"
+    ],
+    "answer": "Enrico Dandolo",
+    "id": "history-694"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which English king established the Court of Star Chamber in 1487?",
+    "options": [
+      "Edward IV",
+      "Henry VIII",
+      "Henry VII",
+      "Richard III"
+    ],
+    "answer": "Henry VII",
+    "id": "history-695"
+  },
+  {
+    "difficulty": "hard",
+    "category": "history",
+    "question": "Which 12th-century English scholar wrote Historia Regum Britanniae that popularized King Arthur?",
+    "options": [
+      "Bede",
+      "Geoffrey of Monmouth",
+      "William of Malmesbury",
+      "Matthew Paris"
+    ],
+    "answer": "Geoffrey of Monmouth",
+    "id": "history-696"
+  },
+  {
+    "difficulty": "easy",
+    "category": "history",
+    "question": "Which Byzantine empress influenced Justinian I and rose from humble origins as an actress?",
+    "options": [
+      "Zoe",
+      "Theodora",
+      "Eudocia",
+      "Irene"
+    ],
+    "answer": "Theodora",
+    "id": "history-697"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which 10th-century Byzantine emperor wrote De Administrando Imperio?",
+    "options": [
+      "Leo VI",
+      "Basil II",
+      "Romanos I",
+      "Constantine VII"
+    ],
+    "answer": "Constantine VII",
+    "id": "history-698"
+  },
+  {
+    "difficulty": "hard",
+    "category": "history",
+    "question": "In which year does tradition place the founding of the University of Bologna as the oldest university in Europe?",
+    "options": [
+      "1050",
+      "1150",
+      "1100",
+      "1088"
+    ],
+    "answer": "1088",
+    "id": "history-699"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "In what year did Isaac Newton publish Principia Mathematica?",
+    "options": [
+      "1687",
+      "1666",
+      "1704",
+      "1726"
+    ],
+    "answer": "1687",
+    "id": "history-700"
+  },
+  {
+    "difficulty": "easy",
+    "category": "history",
+    "question": "Which French king issued the Edict of Nantes in 1598?",
+    "options": [
+      "Louis XIII",
+      "Charles IX",
+      "Henry IV",
+      "Francis I"
+    ],
+    "answer": "Henry IV",
+    "id": "history-701"
+  },
+  {
+    "difficulty": "easy",
+    "category": "history",
+    "question": "Which city was founded by Peter the Great in 1703 as Russia's new capital on the Baltic?",
+    "options": [
+      "Kazan",
+      "St. Petersburg",
+      "Arkhangelsk",
+      "Odessa"
+    ],
+    "answer": "St. Petersburg",
+    "id": "history-702"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which 1555 settlement established cuius regio, eius religio in the Holy Roman Empire?",
+    "options": [
+      "Schmalkaldic League",
+      "Diet of Worms",
+      "Peace of Augsburg",
+      "Edict of Nantes"
+    ],
+    "answer": "Peace of Augsburg",
+    "id": "history-703"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which English queen's 1553-1558 reign is remembered as a brief Catholic restoration?",
+    "options": [
+      "Mary II",
+      "Mary I",
+      "Elizabeth I",
+      "Anne"
+    ],
+    "answer": "Mary I",
+    "id": "history-704"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Who led the Protestant Swedish army that intervened in the Thirty Years' War in 1630?",
+    "options": [
+      "Frederick V",
+      "Charles X",
+      "Christian IV",
+      "Gustavus Adolphus"
+    ],
+    "answer": "Gustavus Adolphus",
+    "id": "history-705"
+  },
+  {
+    "difficulty": "easy",
+    "category": "history",
+    "question": "In what year did Portugal restore independence from Spain after the Iberian Union?",
+    "options": [
+      "1706",
+      "1668",
+      "1580",
+      "1640"
+    ],
+    "answer": "1640",
+    "id": "history-706"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which Russian ruler took the title Imperator in 1721 after defeating Sweden?",
+    "options": [
+      "Catherine I",
+      "Ivan III",
+      "Alexis I",
+      "Peter I"
+    ],
+    "answer": "Peter I",
+    "id": "history-707"
+  },
+  {
+    "difficulty": "hard",
+    "category": "history",
+    "question": "Which French financial scheme collapsed in 1720 involving John Law and the Mississippi Company?",
+    "options": [
+      "Tulip Mania",
+      "Mississippi Bubble",
+      "South Sea Bubble",
+      "Railway Mania"
+    ],
+    "answer": "Mississippi Bubble",
+    "id": "history-708"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which 1648 treaties ended the Eighty Years' War between Spain and the Dutch Republic?",
+    "options": [
+      "Peace of Augsburg",
+      "Peace of Münster",
+      "Peace of Utrecht",
+      "Peace of Cateau-Cambrésis"
+    ],
+    "answer": "Peace of Münster",
+    "id": "history-709"
+  },
+  {
+    "difficulty": "easy",
+    "category": "history",
+    "question": "Which palace near Paris was expanded by Louis XIV and became the center of French court life?",
+    "options": [
+      "Tuileries",
+      "Versailles",
+      "Louvre",
+      "Fontainebleau"
+    ],
+    "answer": "Versailles",
+    "id": "history-710"
+  },
+  {
+    "difficulty": "hard",
+    "category": "history",
+    "question": "Which English law in 1689 established parliamentary supremacy and a Bill of Rights?",
+    "options": [
+      "Triennial Act",
+      "Act of Settlement",
+      "Toleration Act",
+      "Bill of Rights 1689"
+    ],
+    "answer": "Bill of Rights 1689",
+    "id": "history-711"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which 1683 battle saw Jan III Sobieski break the Ottoman siege of Vienna?",
+    "options": [
+      "Battle of Mohács",
+      "Battle of Zenta",
+      "Battle of Lepanto",
+      "Battle of Vienna"
+    ],
+    "answer": "Battle of Vienna",
+    "id": "history-712"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which Tewa religious leader organized the 1680 Pueblo Revolt expelling Spanish from New Mexico?",
+    "options": [
+      "Pontiac",
+      "Tecumseh",
+      "Metacomet",
+      "Popé"
+    ],
+    "answer": "Popé",
+    "id": "history-713"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which colonial governor was target of Bacon's Rebellion in Virginia in 1676?",
+    "options": [
+      "John Winthrop",
+      "William Berkeley",
+      "William Penn",
+      "Lord Baltimore"
+    ],
+    "answer": "William Berkeley",
+    "id": "history-714"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "In which colony did the Stono Rebellion of 1739 occur?",
+    "options": [
+      "Virginia",
+      "South Carolina",
+      "Massachusetts",
+      "Pennsylvania"
+    ],
+    "answer": "South Carolina",
+    "id": "history-715"
+  },
+  {
+    "difficulty": "easy",
+    "category": "history",
+    "question": "What did the Royal Proclamation of 1763 forbid after the Seven Years' War?",
+    "options": [
+      "Electing colonial assemblies",
+      "Settling west of the Appalachian Mountains",
+      "Importing molasses",
+      "Trading with France"
+    ],
+    "answer": "Settling west of the Appalachian Mountains",
+    "id": "history-716"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "What was the purpose of the Olive Branch Petition adopted by Second Continental Congress in July 1775?",
+    "options": [
+      "Protest against Stamp Act",
+      "Request for French aid",
+      "Final attempt to avoid war with Britain",
+      "Declaration of independence"
+    ],
+    "answer": "Final attempt to avoid war with Britain",
+    "id": "history-717"
+  },
+  {
+    "difficulty": "easy",
+    "category": "history",
+    "question": "Why was the American victory at Saratoga in 1777 a turning point?",
+    "options": [
+      "It persuaded France to ally with the US",
+      "It ended fighting in New England",
+      "It captured King George III",
+      "It forced evacuation of Boston"
+    ],
+    "answer": "It persuaded France to ally with the US",
+    "id": "history-718"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which 1794 revolt in western Pennsylvania was suppressed by Washington calling up militia?",
+    "options": [
+      "Pontiac's War",
+      "Shays' Rebellion",
+      "Whiskey Rebellion",
+      "Bacon's Rebellion"
+    ],
+    "answer": "Whiskey Rebellion",
+    "id": "history-719"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which 1803 Supreme Court case established judicial review?",
+    "options": [
+      "Marbury v. Madison",
+      "Dred Scott v. Sandford",
+      "Gibbons v. Ogden",
+      "McCulloch v. Maryland"
+    ],
+    "answer": "Marbury v. Madison",
+    "id": "history-720"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which trail used by settlers to reach Oregon in the 1840s started in Independence, Missouri?",
+    "options": [
+      "California Trail",
+      "Santa Fe Trail",
+      "Oregon Trail",
+      "Mormon Trail"
+    ],
+    "answer": "Oregon Trail",
+    "id": "history-721"
+  },
+  {
+    "difficulty": "hard",
+    "category": "history",
+    "question": "Which 1846 event saw 87 pioneers stranded in the Sierra Nevada?",
+    "options": [
+      "Mountain Meadows Massacre",
+      "Donner Party",
+      "Whitman Massacre",
+      "Bear Flag Revolt"
+    ],
+    "answer": "Donner Party",
+    "id": "history-722"
+  },
+  {
+    "difficulty": "easy",
+    "category": "history",
+    "question": "Which battle is remembered as the bloodiest single day in American history?",
+    "options": [
+      "Second Bull Run",
+      "Fredericksburg",
+      "Antietam",
+      "Chancellorsville"
+    ],
+    "answer": "Antietam",
+    "id": "history-723"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which 1862 act offered 160 acres of free land to settlers willing to farm it for five years?",
+    "options": [
+      "Pacific Railway Act",
+      "Dawes Act",
+      "Homestead Act",
+      "Morrill Act"
+    ],
+    "answer": "Homestead Act",
+    "id": "history-724"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which 1890 massacre marked the end of the American Indian Wars on the northern plains?",
+    "options": [
+      "Wounded Knee",
+      "Little Bighorn",
+      "Sand Creek",
+      "Washita River"
+    ],
+    "answer": "Wounded Knee",
+    "id": "history-725"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "In what year did the US purchase Alaska from Russia?",
+    "options": [
+      "1854",
+      "1867",
+      "1871",
+      "1880"
+    ],
+    "answer": "1867",
+    "id": "history-726"
+  },
+  {
+    "difficulty": "easy",
+    "category": "history",
+    "question": "Which 1906 disaster destroyed 80 percent of San Francisco?",
+    "options": [
+      "Tornado",
+      "Hurricane",
+      "Flood",
+      "Earthquake and fire"
+    ],
+    "answer": "Earthquake and fire",
+    "id": "history-727"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which 1911 disaster in New York led to improved factory safety laws after 146 garment workers died?",
+    "options": [
+      "General Slocum fire",
+      "Triangle Shirtwaist Factory fire",
+      "Hog Island fire",
+      "Iroquois Theatre fire"
+    ],
+    "answer": "Triangle Shirtwaist Factory fire",
+    "id": "history-728"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which 1932 veterans' protest march on Washington demanded early bonus payment?",
+    "options": [
+      "Bonus Army",
+      "March on Washington Movement",
+      "Hoovervilles",
+      "Coxey's Army"
+    ],
+    "answer": "Bonus Army",
+    "id": "history-729"
+  },
+  {
+    "difficulty": "easy",
+    "category": "history",
+    "question": "Which priest rang the church bell in Dolores on September 16, 1810 launching Mexican War of Independence?",
+    "options": [
+      "José María Morelos",
+      "Miguel Hidalgo y Costilla",
+      "Benito Juárez",
+      "Emiliano Zapata"
+    ],
+    "answer": "Miguel Hidalgo y Costilla",
+    "id": "history-730"
+  },
+  {
+    "difficulty": "easy",
+    "category": "history",
+    "question": "Which battle on May 5, 1862 saw Mexican forces defeat invading French?",
+    "options": [
+      "Battle of Veracruz",
+      "Battle of Cerro Gordo",
+      "Battle of Puebla",
+      "Battle of Chapultepec"
+    ],
+    "answer": "Battle of Puebla",
+    "id": "history-731"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which law signed by Princess Isabel on May 13, 1888 abolished slavery completely in Brazil?",
+    "options": [
+      "Eusébio de Queirós Law",
+      "Sexagenarian Law",
+      "Law of the Free Womb",
+      "Lei Áurea"
+    ],
+    "answer": "Lei Áurea",
+    "id": "history-732"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which war from 1864 to 1870 pitted Paraguay alone against Brazil, Argentina and Uruguay?",
+    "options": [
+      "Chaco War",
+      "War of the Pacific",
+      "Cisplatine War",
+      "War of the Triple Alliance"
+    ],
+    "answer": "War of the Triple Alliance",
+    "id": "history-733"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which dictator ruled the Dominican Republic from 1930 until his assassination in 1961?",
+    "options": [
+      "Fulgencio Batista",
+      "Rafael Trujillo",
+      "Manuel Noriega",
+      "Anastasio Somoza"
+    ],
+    "answer": "Rafael Trujillo",
+    "id": "history-734"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which 1968 treaty established that Latin America would remain a nuclear-weapon-free zone?",
+    "options": [
+      "Treaty of Pelindaba",
+      "Treaty of Tlatelolco",
+      "Treaty of Rarotonga",
+      "Treaty of Bangkok"
+    ],
+    "answer": "Treaty of Tlatelolco",
+    "id": "history-735"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which country fought the brief Football War against El Salvador in July 1969?",
+    "options": [
+      "Costa Rica",
+      "Honduras",
+      "Nicaragua",
+      "Guatemala"
+    ],
+    "answer": "Honduras",
+    "id": "history-736"
+  },
+  {
+    "difficulty": "hard",
+    "category": "history",
+    "question": "Which city was the capital of Gran Colombia before its dissolution in 1830?",
+    "options": [
+      "Lima",
+      "Quito",
+      "Caracas",
+      "Bogotá"
+    ],
+    "answer": "Bogotá",
+    "id": "history-737"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which 1973 military coup overthrew Salvador Allende in Chile?",
+    "options": [
+      "Coup led by Jorge Videla",
+      "Coup led by Juan Perón",
+      "Coup led by Hugo Banzer",
+      "Coup led by Augusto Pinochet"
+    ],
+    "answer": "Coup led by Augusto Pinochet",
+    "id": "history-738"
+  },
+  {
+    "difficulty": "easy",
+    "category": "history",
+    "question": "Which Central American nation gained independence from Colombia in 1903 with US support to build a canal?",
+    "options": [
+      "Costa Rica",
+      "Honduras",
+      "Panama",
+      "Nicaragua"
+    ],
+    "answer": "Panama",
+    "id": "history-739"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which 1954 CIA operation overthrew Guatemalan President Jacobo Árbenz?",
+    "options": [
+      "Operation PBSuccess",
+      "Operation Mongoose",
+      "Operation Condor",
+      "Operation Ajax"
+    ],
+    "answer": "Operation PBSuccess",
+    "id": "history-740"
+  },
+  {
+    "difficulty": "hard",
+    "category": "history",
+    "question": "In which year did Brazil move its capital from Rio de Janeiro to Brasília?",
+    "options": [
+      "1970",
+      "1965",
+      "1956",
+      "1960"
+    ],
+    "answer": "1960",
+    "id": "history-741"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which Mexican emperor installed by French intervention was executed in 1867?",
+    "options": [
+      "Maximilian I",
+      "Porfirio Díaz",
+      "Agustín I",
+      "Napoleon III"
+    ],
+    "answer": "Maximilian I",
+    "id": "history-742"
+  },
+  {
+    "difficulty": "easy",
+    "category": "history",
+    "question": "Which South American country lost its coastline to Chile in the War of the Pacific 1879-1884?",
+    "options": [
+      "Peru",
+      "Bolivia",
+      "Ecuador",
+      "Paraguay"
+    ],
+    "answer": "Bolivia",
+    "id": "history-743"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which 1804 event made Haiti the first Black republic?",
+    "options": [
+      "Haitian independence declaration",
+      "Louisiana Purchase",
+      "Battle of Vertières",
+      "Abolition of slavery in Jamaica"
+    ],
+    "answer": "Haitian independence declaration",
+    "id": "history-744"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which Caribbean island was the site of the 1961 Bay of Pigs invasion attempt?",
+    "options": [
+      "Cuba",
+      "Haiti",
+      "Dominican Republic",
+      "Puerto Rico"
+    ],
+    "answer": "Cuba",
+    "id": "history-745"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which country completed its separation from Gran Colombia in 1830 under José Antonio Páez?",
+    "options": [
+      "Colombia",
+      "Ecuador",
+      "Panama",
+      "Venezuela"
+    ],
+    "answer": "Venezuela",
+    "id": "history-746"
+  },
+  {
+    "difficulty": "hard",
+    "category": "history",
+    "question": "Which pre-Columbian city in Mexico was larger than any European city of its time in the 6th century?",
+    "options": [
+      "Monte Albán",
+      "El Tajín",
+      "Tula",
+      "Teotihuacan"
+    ],
+    "answer": "Teotihuacan",
+    "id": "history-747"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which city became the capital of the Kingdom of Kush after the sack of Napata?",
+    "options": [
+      "Axum",
+      "Meroe",
+      "Amara",
+      "Thebes"
+    ],
+    "answer": "Meroe",
+    "id": "history-748"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which ruler of Aksum is credited with making Christianity the state religion in the 4th century?",
+    "options": [
+      "King Ezana",
+      "King Kashta",
+      "King Lalibela",
+      "King Piye"
+    ],
+    "answer": "King Ezana",
+    "id": "history-749"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "The massive stone city of Great Zimbabwe was built by ancestors of which modern ethnic group?",
+    "options": [
+      "Tuareg",
+      "Zulu",
+      "Berber",
+      "Shona"
+    ],
+    "answer": "Shona",
+    "id": "history-750"
+  },
+  {
+    "difficulty": "easy",
+    "category": "history",
+    "question": "Which 1884-1885 conference established rules for European colonization and trade in Africa?",
+    "options": [
+      "Brussels Conference",
+      "London Conference",
+      "Paris Conference",
+      "Berlin Conference"
+    ],
+    "answer": "Berlin Conference",
+    "id": "history-751"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which accords signed in March 1962 paved the way for Algeria's independence from France?",
+    "options": [
+      "Evian Accords",
+      "Fez Accords",
+      "Casablanca Accords",
+      "Lusaka Accords"
+    ],
+    "answer": "Evian Accords",
+    "id": "history-752"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which Kenyan anti-colonial leader was executed in 1957 after leading the Mau Mau's Kenya Land and Freedom Army?",
+    "options": [
+      "Tom Mboya",
+      "Oginga Odinga",
+      "Jomo Kenyatta",
+      "Dedan Kimathi"
+    ],
+    "answer": "Dedan Kimathi",
+    "id": "history-753"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which Ethiopian emperor restored Solomonic rule in 1270 and founded a dynasty lasting until 1974?",
+    "options": [
+      "Yekuno Amlak",
+      "Tewodros II",
+      "Amda Seyon I",
+      "Zara Yaqob"
+    ],
+    "answer": "Yekuno Amlak",
+    "id": "history-754"
+  },
+  {
+    "difficulty": "hard",
+    "category": "history",
+    "question": "Which 19th-century West African jihadist founded the Sokoto Caliphate in 1804?",
+    "options": [
+      "Mohammed Bello",
+      "El Hadj Umar Tall",
+      "Samori Touré",
+      "Usman dan Fodio"
+    ],
+    "answer": "Usman dan Fodio",
+    "id": "history-755"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which ancient Nubian kingdom flourished at Kerma around 2500-1500 BCE?",
+    "options": [
+      "Kingdom of Kush",
+      "Kingdom of Punt",
+      "Kingdom of Kerma",
+      "Kingdom of Axum"
+    ],
+    "answer": "Kingdom of Kerma",
+    "id": "history-756"
+  },
+  {
+    "difficulty": "hard",
+    "category": "history",
+    "question": "In which year did Libya gain independence from Italy after UN trusteeship?",
+    "options": [
+      "1949",
+      "1945",
+      "1955",
+      "1951"
+    ],
+    "answer": "1951",
+    "id": "history-757"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which year is known as the Year of Africa when 17 African nations gained independence?",
+    "options": [
+      "1957",
+      "1958",
+      "1960",
+      "1963"
+    ],
+    "answer": "1960",
+    "id": "history-758"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Who is recognized as the only woman to rule China as emperor in her own right?",
+    "options": [
+      "Empress Dowager Cixi",
+      "Empress Liu",
+      "Yang Guifei",
+      "Wu Zetian"
+    ],
+    "answer": "Wu Zetian",
+    "id": "history-759"
+  },
+  {
+    "difficulty": "hard",
+    "category": "history",
+    "question": "Which decisive 208 CE river battle saw allied forces of Sun Quan and Liu Bei defeat Cao Cao?",
+    "options": [
+      "Battle of Guandu",
+      "Battle of Red Cliffs",
+      "Battle of Baekgang",
+      "Battle of Fei River"
+    ],
+    "answer": "Battle of Red Cliffs",
+    "id": "history-760"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which Japanese emperor moved the capital to Heian-kyo in 794?",
+    "options": [
+      "Emperor Shomu",
+      "Emperor Kanmu",
+      "Emperor Go-Daigo",
+      "Emperor Jimmu"
+    ],
+    "answer": "Emperor Kanmu",
+    "id": "history-761"
+  },
+  {
+    "difficulty": "hard",
+    "category": "history",
+    "question": "Which rebellion from 755 to 763 severely weakened the Tang dynasty after a frontier general captured Chang'an?",
+    "options": [
+      "An Lushan Rebellion",
+      "Wushe Rebellion",
+      "Li Zicheng Rebellion",
+      "Huang Chao Rebellion"
+    ],
+    "answer": "An Lushan Rebellion",
+    "id": "history-762"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which Song dynasty artisan invented ceramic movable type printing around 1040 CE?",
+    "options": [
+      "Su Song",
+      "Shen Kuo",
+      "Bi Sheng",
+      "Cai Lun"
+    ],
+    "answer": "Bi Sheng",
+    "id": "history-763"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which Japanese author wrote The Pillow Book around 1000 CE?",
+    "options": [
+      "Sei Shonagon",
+      "Izumi Shikibu",
+      "Murasaki Shikibu",
+      "Ono no Komachi"
+    ],
+    "answer": "Sei Shonagon",
+    "id": "history-764"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which Korean kingdom unified the peninsula in 676 after allying with Tang China?",
+    "options": [
+      "Silla",
+      "Baekje",
+      "Goguryeo",
+      "Joseon"
+    ],
+    "answer": "Silla",
+    "id": "history-765"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "In which year did the Mongols complete conquest of the Southern Song, ending Song dynasty?",
+    "options": [
+      "1215",
+      "1281",
+      "1279",
+      "1234"
+    ],
+    "answer": "1279",
+    "id": "history-766"
+  },
+  {
+    "difficulty": "easy",
+    "category": "history",
+    "question": "Which city was the capital of the Ming dynasty after 1421 and home to the Forbidden City?",
+    "options": [
+      "Chang'an",
+      "Beijing",
+      "Luoyang",
+      "Nanjing"
+    ],
+    "answer": "Beijing",
+    "id": "history-767"
+  },
+  {
+    "difficulty": "hard",
+    "category": "history",
+    "question": "Which Korean admiral invented the turtle ship and defeated Japanese at Hansan Island in 1592?",
+    "options": [
+      "Jang Bogo",
+      "Kim Yushin",
+      "Gwon Yul",
+      "Yi Sun-sin"
+    ],
+    "answer": "Yi Sun-sin",
+    "id": "history-768"
+  },
+  {
+    "difficulty": "easy",
+    "category": "history",
+    "question": "Which island nation was invaded by Mongols in 1274 and 1281 but both invasions failed due to typhoons?",
+    "options": [
+      "Java",
+      "Vietnam",
+      "Japan",
+      "Korea"
+    ],
+    "answer": "Japan",
+    "id": "history-769"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which treaty in 1854 opened two Japanese ports to US ships after Perry's expedition?",
+    "options": [
+      "Treaty of Shimoda",
+      "Treaty of Shimonoseki",
+      "Treaty of Amity and Commerce",
+      "Treaty of Kanagawa"
+    ],
+    "answer": "Treaty of Kanagawa",
+    "id": "history-770"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which year did the First Sino-Japanese War begin over Korea?",
+    "options": [
+      "1895",
+      "1894",
+      "1937",
+      "1904"
+    ],
+    "answer": "1894",
+    "id": "history-771"
+  },
+  {
+    "difficulty": "hard",
+    "category": "history",
+    "question": "Which Chinese dynasty invented gunpowder in the 9th century during its rule?",
+    "options": [
+      "Han Dynasty",
+      "Tang Dynasty",
+      "Song Dynasty",
+      "Ming Dynasty"
+    ],
+    "answer": "Tang Dynasty",
+    "id": "history-772"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Who was the founder of the Joseon dynasty in Korea in 1392?",
+    "options": [
+      "Wang Geon",
+      "Gwanggaeto",
+      "Sejong",
+      "Yi Seong-gye"
+    ],
+    "answer": "Yi Seong-gye",
+    "id": "history-773"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Who was the first and only female ruler of the Delhi Sultanate?",
+    "options": [
+      "Chand Bibi",
+      "Rani Rudrama Devi",
+      "Razia Sultan",
+      "Noor Jahan"
+    ],
+    "answer": "Razia Sultan",
+    "id": "history-774"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which brothers founded the Vijayanagara Empire in 1336?",
+    "options": [
+      "Harihara and Bukka",
+      "Bukka and Deva Raya II",
+      "Bukka and Virupaksha",
+      "Harihara and Krishnadevaraya"
+    ],
+    "answer": "Harihara and Bukka",
+    "id": "history-775"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which Delhi Sultan moved his capital from Delhi to Daulatabad in 1327?",
+    "options": [
+      "Alauddin Khalji",
+      "Muhammad bin Tughlaq",
+      "Ghiyas-ud-din Tughlaq",
+      "Firuz Shah Tughlaq"
+    ],
+    "answer": "Muhammad bin Tughlaq",
+    "id": "history-776"
+  },
+  {
+    "difficulty": "hard",
+    "category": "history",
+    "question": "In which year was the Battle of Talikota that led to the sack of Vijayanagara fought?",
+    "options": [
+      "1526",
+      "1576",
+      "1565",
+      "1600"
+    ],
+    "answer": "1565",
+    "id": "history-777"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which Central Asian conqueror sacked Delhi in December 1398?",
+    "options": [
+      "Timur",
+      "Genghis Khan",
+      "Hulagu Khan",
+      "Chagatai Khan"
+    ],
+    "answer": "Timur",
+    "id": "history-778"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Who founded the Safavid dynasty of Iran in 1501?",
+    "options": [
+      "Nadir Shah",
+      "Ismail I",
+      "Abbas I",
+      "Tahmasp I"
+    ],
+    "answer": "Ismail I",
+    "id": "history-779"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "In what year did the Abbasid Revolution overthrow the Umayyad Caliphate?",
+    "options": [
+      "762",
+      "750",
+      "661",
+      "680"
+    ],
+    "answer": "750",
+    "id": "history-780"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which Ottoman sultan conquered the Mamluk Sultanate of Egypt in 1517?",
+    "options": [
+      "Murad II",
+      "Bayezid I",
+      "Selim I",
+      "Bayezid II"
+    ],
+    "answer": "Selim I",
+    "id": "history-781"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which city became the Abbasid capital in 762?",
+    "options": [
+      "Cairo",
+      "Samarkand",
+      "Damascus",
+      "Baghdad"
+    ],
+    "answer": "Baghdad",
+    "id": "history-782"
+  },
+  {
+    "difficulty": "hard",
+    "category": "history",
+    "question": "Which 13th-century Persian poet wrote the Masnavi and founded the Mevlevi Sufi order?",
+    "options": [
+      "Omar Khayyam",
+      "Rumi",
+      "Hafez",
+      "Saadi"
+    ],
+    "answer": "Rumi",
+    "id": "history-783"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Who built the Alhambra palace's earliest major sections in Granada as a Nasrid ruler?",
+    "options": [
+      "Yusuf I",
+      "Muhammad I of Granada",
+      "Boabdil",
+      "Abd al-Rahman III"
+    ],
+    "answer": "Muhammad I of Granada",
+    "id": "history-784"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which empire built the city of Persepolis as its ceremonial capital?",
+    "options": [
+      "Parthian Empire",
+      "Seleucid Empire",
+      "Achaemenid Empire",
+      "Sassanid Empire"
+    ],
+    "answer": "Achaemenid Empire",
+    "id": "history-785"
+  },
+  {
+    "difficulty": "easy",
+    "category": "history",
+    "question": "Which 1979 event saw students seize the US Embassy in Tehran for 444 days?",
+    "options": [
+      "Iranian Revolution",
+      "Gulf War",
+      "Iran hostage crisis",
+      "Six-Day War"
+    ],
+    "answer": "Iran hostage crisis",
+    "id": "history-786"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which country was known as Persia until 1935?",
+    "options": [
+      "Iran",
+      "Turkey",
+      "Iraq",
+      "Syria"
+    ],
+    "answer": "Iran",
+    "id": "history-787"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which Indian emperor built the Iron Pillar of Delhi in the 4th century CE?",
+    "options": [
+      "Ashoka",
+      "Samudragupta",
+      "Chandragupta I",
+      "Chandragupta II"
+    ],
+    "answer": "Chandragupta II",
+    "id": "history-788"
+  },
+  {
+    "difficulty": "hard",
+    "category": "history",
+    "question": "Which Mughal emperor codified the Din-i Ilahi syncretic faith?",
+    "options": [
+      "Aurangzeb",
+      "Shah Jahan",
+      "Akbar",
+      "Jahangir"
+    ],
+    "answer": "Akbar",
+    "id": "history-789"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which 18th-century Afghan ruler founded the Durrani Empire in 1747?",
+    "options": [
+      "Ahmad Shah Durrani",
+      "Nadir Shah",
+      "Mahmud Shah",
+      "Zaman Shah"
+    ],
+    "answer": "Ahmad Shah Durrani",
+    "id": "history-790"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which culture built the rock-cut city of Petra in modern Jordan?",
+    "options": [
+      "Edomites",
+      "Phoenicians",
+      "Nabataeans",
+      "Moabites"
+    ],
+    "answer": "Nabataeans",
+    "id": "history-791"
+  },
+  {
+    "difficulty": "hard",
+    "category": "history",
+    "question": "Which 628 treaty between Muhammad and the Quraysh allowed pilgrimage to Mecca the next year?",
+    "options": [
+      "Pact of Umar",
+      "Constitution of Medina",
+      "Treaty of Aqaba",
+      "Treaty of Hudaybiyyah"
+    ],
+    "answer": "Treaty of Hudaybiyyah",
+    "id": "history-792"
+  },
+  {
+    "difficulty": "easy",
+    "category": "history",
+    "question": "In what year was the Treaty of Paris signed that ended the Crimean War?",
+    "options": [
+      "1853",
+      "1856",
+      "1860",
+      "1858"
+    ],
+    "answer": "1856",
+    "id": "history-793"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "In what year did Henry Bessemer patent his process for mass-producing steel?",
+    "options": [
+      "1856",
+      "1861",
+      "1870",
+      "1848"
+    ],
+    "answer": "1856",
+    "id": "history-794"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which treaty formally ended the Franco-Prussian War in May 1871?",
+    "options": [
+      "Treaty of Frankfurt",
+      "Treaty of Prague",
+      "Treaty of Paris",
+      "Treaty of Berlin"
+    ],
+    "answer": "Treaty of Frankfurt",
+    "id": "history-795"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which French king abdicated on 24 February 1848 during the February Revolution?",
+    "options": [
+      "Louis XVIII",
+      "Louis-Philippe I",
+      "Charles X",
+      "Napoleon III"
+    ],
+    "answer": "Louis-Philippe I",
+    "id": "history-796"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which agreement signed on 7 September 1901 officially ended the Boxer Rebellion?",
+    "options": [
+      "Treaty of Shimonoseki",
+      "Boxer Protocol",
+      "Peking Convention",
+      "Treaty of Tianjin"
+    ],
+    "answer": "Boxer Protocol",
+    "id": "history-797"
+  },
+  {
+    "difficulty": "hard",
+    "category": "history",
+    "question": "Which decisive 1905 naval battle saw Japan annihilate the Russian Baltic Fleet?",
+    "options": [
+      "Battle of Tsushima",
+      "Battle of Yellow Sea",
+      "Battle of Port Arthur",
+      "Battle of Mukden"
+    ],
+    "answer": "Battle of Tsushima",
+    "id": "history-798"
+  },
+  {
+    "difficulty": "easy",
+    "category": "history",
+    "question": "Which Civil War naval battle in March 1862 was the first meeting of ironclad warships?",
+    "options": [
+      "Battle of Mobile Bay",
+      "Battle of Vicksburg",
+      "Battle of Hampton Roads",
+      "Battle of Shiloh"
+    ],
+    "answer": "Battle of Hampton Roads",
+    "id": "history-799"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which 1867 law required the US President to get Senate approval to remove cabinet members and led to Johnson's impeachment?",
+    "options": [
+      "Civil Rights Act of 1866",
+      "Tenure of Office Act",
+      "Reconstruction Act",
+      "Command of the Army Act"
+    ],
+    "answer": "Tenure of Office Act",
+    "id": "history-800"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which 1904-1905 war featured the siege of Port Arthur?",
+    "options": [
+      "Russo-Japanese War",
+      "Crimean War",
+      "Sino-Japanese War",
+      "Balkan War"
+    ],
+    "answer": "Russo-Japanese War",
+    "id": "history-801"
+  },
+  {
+    "difficulty": "hard",
+    "category": "history",
+    "question": "Which 1912 expedition reached the South Pole one month after Amundsen?",
+    "options": [
+      "Discovery Expedition",
+      "Fram Expedition",
+      "Endurance Expedition",
+      "Terra Nova Expedition"
+    ],
+    "answer": "Terra Nova Expedition",
+    "id": "history-802"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which 1916 Easter uprising occurred in Dublin against British rule?",
+    "options": [
+      "Young Irelander Rebellion",
+      "Easter Rising",
+      "Fenian Rising",
+      "United Irishmen Rebellion"
+    ],
+    "answer": "Easter Rising",
+    "id": "history-803"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which 1935-1936 war saw Italy invade Ethiopia for the second time?",
+    "options": [
+      "Greco-Italian War",
+      "Chaco War",
+      "Second Italo-Ethiopian War",
+      "Rif War"
+    ],
+    "answer": "Second Italo-Ethiopian War",
+    "id": "history-804"
+  },
+  {
+    "difficulty": "hard",
+    "category": "history",
+    "question": "Which operation in 1940 evacuated over 300,000 Allied troops from Dunkirk beaches?",
+    "options": [
+      "Operation Torch",
+      "Dunkirk evacuation",
+      "St. Nazaire Raid",
+      "Dieppe Raid"
+    ],
+    "answer": "Dunkirk evacuation",
+    "id": "history-805"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which 1942 campaign is considered the turning point in the Pacific after Midway, with US Marines landing in August?",
+    "options": [
+      "Battle of Guadalcanal",
+      "Battle of Iwo Jima",
+      "Battle of Coral Sea",
+      "Battle of Leyte Gulf"
+    ],
+    "answer": "Battle of Guadalcanal",
+    "id": "history-806"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which 1945 battle saw the US flag raised on Mount Suribachi?",
+    "options": [
+      "Battle of Peleliu",
+      "Battle of Okinawa",
+      "Battle of Iwo Jima",
+      "Battle of Saipan"
+    ],
+    "answer": "Battle of Iwo Jima",
+    "id": "history-807"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which 1919 uprising in Egypt led to nominal independence in 1922?",
+    "options": [
+      "1919 Egyptian Revolution",
+      "Free Officers Movement",
+      "Arab Spring",
+      "Urabi Revolt"
+    ],
+    "answer": "1919 Egyptian Revolution",
+    "id": "history-808"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "In what year did Algeria gain independence from France?",
+    "options": [
+      "1965",
+      "1958",
+      "1962",
+      "1960"
+    ],
+    "answer": "1962",
+    "id": "history-809"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which Southeast Asian nation proclaimed independence on 17 August 1945, leading to war against Dutch?",
+    "options": [
+      "Malaysia",
+      "Philippines",
+      "Indonesia",
+      "Vietnam"
+    ],
+    "answer": "Indonesia",
+    "id": "history-810"
+  },
+  {
+    "difficulty": "easy",
+    "category": "history",
+    "question": "In what year did Kenya achieve full independence from Britain?",
+    "options": [
+      "1960",
+      "1961",
+      "1963",
+      "1965"
+    ],
+    "answer": "1963",
+    "id": "history-811"
+  },
+  {
+    "difficulty": "easy",
+    "category": "history",
+    "question": "In what year was the Hungarian Uprising against Soviet domination crushed?",
+    "options": [
+      "1953",
+      "1961",
+      "1956",
+      "1968"
+    ],
+    "answer": "1956",
+    "id": "history-812"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "In what year was CIA pilot Francis Gary Powers shot down in U-2 over Soviet Union?",
+    "options": [
+      "1961",
+      "1960",
+      "1962",
+      "1958"
+    ],
+    "answer": "1960",
+    "id": "history-813"
+  },
+  {
+    "difficulty": "easy",
+    "category": "history",
+    "question": "In what year did the failed Bay of Pigs invasion attempt to overthrow Cuban government?",
+    "options": [
+      "1960",
+      "1961",
+      "1959",
+      "1963"
+    ],
+    "answer": "1961",
+    "id": "history-814"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "In what year did Warsaw Pact forces invade Czechoslovakia to end Prague Spring?",
+    "options": [
+      "1968",
+      "1967",
+      "1969",
+      "1966"
+    ],
+    "answer": "1968",
+    "id": "history-815"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which Mesoamerican civilization carved colossal basalt heads at San Lorenzo and La Venta?",
+    "options": [
+      "Zapotec",
+      "Mixtec",
+      "Olmec",
+      "Toltec"
+    ],
+    "answer": "Olmec",
+    "id": "history-816"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which UNESCO site in Illinois contains Monk's Mound, largest pre-Columbian earthwork north of Mexico?",
+    "options": [
+      "Poverty Point",
+      "Moundville",
+      "Etowah Mounds",
+      "Cahokia Mounds"
+    ],
+    "answer": "Cahokia Mounds",
+    "id": "history-817"
+  },
+  {
+    "difficulty": "hard",
+    "category": "history",
+    "question": "Which canyon in northwestern New Mexico contains Pueblo Bonito, center of ancestral Pueblo world 850-1150 CE?",
+    "options": [
+      "Canyon de Chelly",
+      "Grand Canyon",
+      "Chaco Canyon",
+      "Antelope Canyon"
+    ],
+    "answer": "Chaco Canyon",
+    "id": "history-818"
+  },
+  {
+    "difficulty": "easy",
+    "category": "history",
+    "question": "In which US national park is Cliff Palace, largest cliff dwelling in North America, located?",
+    "options": [
+      "Bryce Canyon National Park",
+      "Mesa Verde National Park",
+      "Zion National Park",
+      "Grand Canyon National Park"
+    ],
+    "answer": "Mesa Verde National Park",
+    "id": "history-819"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which island group was the last large habitable landmass settled by Polynesians, around 1280-1350 CE?",
+    "options": [
+      "Samoa",
+      "Tonga",
+      "New Zealand",
+      "Fiji"
+    ],
+    "answer": "New Zealand",
+    "id": "history-820"
+  },
+  {
+    "difficulty": "hard",
+    "category": "history",
+    "question": "Which archaeological culture known for dentate-stamped pottery is ancestral to Polynesians?",
+    "options": [
+      "Jomon",
+      "Folsom",
+      "Lapita",
+      "Clovis"
+    ],
+    "answer": "Lapita",
+    "id": "history-821"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which ancient Greek scholar first calculated Earth's circumference around 240 BCE?",
+    "options": [
+      "Pythagoras",
+      "Eratosthenes",
+      "Archimedes",
+      "Ptolemy"
+    ],
+    "answer": "Eratosthenes",
+    "id": "history-822"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "In what year did James Watt patent his improved steam engine with separate condenser?",
+    "options": [
+      "1800",
+      "1769",
+      "1781",
+      "1712"
+    ],
+    "answer": "1769",
+    "id": "history-823"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Who invented the spinning jenny in 1764?",
+    "options": [
+      "James Hargreaves",
+      "Richard Arkwright",
+      "Samuel Crompton",
+      "Edmund Cartwright"
+    ],
+    "answer": "James Hargreaves",
+    "id": "history-824"
+  },
+  {
+    "difficulty": "hard",
+    "category": "history",
+    "question": "How long did the Anglo-Zanzibar War on 27 August 1896 last, the shortest recorded war?",
+    "options": [
+      "38 minutes",
+      "2 hours",
+      "6 hours",
+      "3 days"
+    ],
+    "answer": "38 minutes",
+    "id": "history-825"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "In which year was Brasília officially inaugurated as the capital of Brazil?",
+    "options": [
+      "1956",
+      "1965",
+      "1960",
+      "1970"
+    ],
+    "answer": "1960",
+    "id": "history-826"
+  },
+  {
+    "difficulty": "hard",
+    "category": "history",
+    "question": "In which year did the Abbasid Caliphate and Tang Dynasty clash at the Battle of Talas?",
+    "options": [
+      "751",
+      "761",
+      "741",
+      "711"
+    ],
+    "answer": "751",
+    "id": "history-827"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which two countries fought the brief Football War in July 1969?",
+    "options": [
+      "Nicaragua and Costa Rica",
+      "Colombia and Peru",
+      "El Salvador and Honduras",
+      "Chile and Argentina"
+    ],
+    "answer": "El Salvador and Honduras",
+    "id": "history-828"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which ancient law code from circa 2100 BCE is considered the oldest extant law code?",
+    "options": [
+      "Code of Ur-Nammu",
+      "Code of Lipit-Ishtar",
+      "Laws of Eshnunna",
+      "Twelve Tables"
+    ],
+    "answer": "Code of Ur-Nammu",
+    "id": "history-829"
+  },
+  {
+    "difficulty": "medium",
+    "category": "history",
+    "question": "Which 1775 battle saw colonial militia hold Breed's Hill against British troops?",
+    "options": [
+      "Battle of Lexington",
+      "Battle of Long Island",
+      "Battle of Bunker Hill",
+      "Battle of Concord"
+    ],
+    "answer": "Battle of Bunker Hill",
+    "id": "history-830"
   }
 ]

@@ -5,7 +5,7 @@ You are drafting trivia questions for a multiple-choice trivia app. You have no 
 
 TOPIC: Friends (the TV show, 1994-2004) — characters, episodes, plot points, and cast.
 
-COUNT: 100 questions.
+COUNT: 200 questions.
 
 This category already has hundreds of questions covering all the well-known plot points and character facts — memory-only drafting has a very high duplicate rate here. Use web search against a fan wiki (e.g. the Friends Wiki on Fandom) and pull facts from these page types, in order of yield:
 1. Per-episode guest-cast credit lists and minor-character list pages — consistently the best-yielding source (obscure actor names for one-off characters).
