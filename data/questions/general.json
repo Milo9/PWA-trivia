@@ -18211,5 +18211,1929 @@
     ],
     "answer": "1,024 bytes",
     "id": "general-4333"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "A traditional wine butt or pipe equals how many US wine gallons?",
+    "options": [
+      "84 US gallons",
+      "63 US gallons",
+      "126 US gallons",
+      "105 US gallons"
+    ],
+    "answer": "126 US gallons",
+    "id": "general-4334"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "A tun of wine, equal to two butts, contains how many US wine gallons?",
+    "options": [
+      "126 US gallons",
+      "300 US gallons",
+      "210 US gallons",
+      "252 US gallons"
+    ],
+    "answer": "252 US gallons",
+    "id": "general-4335"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "In US Navy usage, one cable length equals how many feet?",
+    "options": [
+      "608 feet",
+      "600 feet",
+      "720 feet",
+      "500 feet"
+    ],
+    "answer": "720 feet",
+    "id": "general-4336"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "In British Admiralty usage, one cable length equals about how many feet?",
+    "options": [
+      "720 feet",
+      "600 feet",
+      "500 feet",
+      "608 feet"
+    ],
+    "answer": "608 feet",
+    "id": "general-4337"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "A Gunter's surveyor's chain contains how many links?",
+    "options": [
+      "66 links",
+      "50 links",
+      "80 links",
+      "100 links"
+    ],
+    "answer": "100 links",
+    "id": "general-4338"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "How long is a single link on a Gunter's chain?",
+    "options": [
+      "12 inches",
+      "6.6 inches",
+      "7.92 inches",
+      "10 inches"
+    ],
+    "answer": "7.92 inches",
+    "id": "general-4339"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "The old English barleycorn, basis for shoe sizes, equals what fraction of an inch?",
+    "options": [
+      "1/4 inch",
+      "1/8 inch",
+      "1/3 inch",
+      "1/2 inch"
+    ],
+    "answer": "1/3 inch",
+    "id": "general-4340"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "A standard modern bale of paper contains how many sheets?",
+    "options": [
+      "1000 sheets",
+      "4800 sheets",
+      "5000 sheets",
+      "2500 sheets"
+    ],
+    "answer": "5000 sheets",
+    "id": "general-4341"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How long is an engineer's or Ramsden's chain?",
+    "options": [
+      "33 feet",
+      "66 feet",
+      "50 feet",
+      "100 feet"
+    ],
+    "answer": "100 feet",
+    "id": "general-4342"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many one-foot links are in a 100-foot engineer's chain?",
+    "options": [
+      "80 links",
+      "50 links",
+      "66 links",
+      "100 links"
+    ],
+    "answer": "100 links",
+    "id": "general-4343"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "In bartending slang, a pony equals how many US fluid ounces?",
+    "options": [
+      "2 fluid ounces",
+      "1.5 fluid ounces",
+      "0.5 fluid ounce",
+      "1 fluid ounce"
+    ],
+    "answer": "1 fluid ounce",
+    "id": "general-4344"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "A lustrum in Roman calendar was a period of how many years?",
+    "options": [
+      "10 years",
+      "15 years",
+      "4 years",
+      "5 years"
+    ],
+    "answer": "5 years",
+    "id": "general-4345"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "In modern paper quantities, how many sheets are in a bundle?",
+    "options": [
+      "500 sheets",
+      "250 sheets",
+      "1000 sheets",
+      "2000 sheets"
+    ],
+    "answer": "1000 sheets",
+    "id": "general-4346"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "The traditional unit called a palm is traditionally about how many inches?",
+    "options": [
+      "9 inches",
+      "6 inches",
+      "4 inches",
+      "3 inches"
+    ],
+    "answer": "3 inches",
+    "id": "general-4347"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "A medieval nail unit equals how many inches?",
+    "options": [
+      "2.25 inches",
+      "3 inches",
+      "1.5 inches",
+      "4 inches"
+    ],
+    "answer": "2.25 inches",
+    "id": "general-4348"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "An English ell, an old cloth measure, was how many inches?",
+    "options": [
+      "45 inches",
+      "54 inches",
+      "27 inches",
+      "36 inches"
+    ],
+    "answer": "45 inches",
+    "id": "general-4349"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "In US measure, a gill is what fraction of a US pint?",
+    "options": [
+      "1/2 pint",
+      "1/8 pint",
+      "1/3 pint",
+      "1/4 pint"
+    ],
+    "answer": "1/4 pint",
+    "id": "general-4350"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "In typography, how many picas are in one inch?",
+    "options": [
+      "12 picas",
+      "10 picas",
+      "72 picas",
+      "6 picas"
+    ],
+    "answer": "6 picas",
+    "id": "general-4351"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "How many twips are in one inch?",
+    "options": [
+      "720 twips",
+      "144 twips",
+      "1440 twips",
+      "72 twips"
+    ],
+    "answer": "1440 twips",
+    "id": "general-4352"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many microns are in one millimeter?",
+    "options": [
+      "100 microns",
+      "1000 microns",
+      "10000 microns",
+      "10 microns"
+    ],
+    "answer": "1000 microns",
+    "id": "general-4353"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "A nautical league is how many nautical miles?",
+    "options": [
+      "1 nautical mile",
+      "3 nautical miles",
+      "5 nautical miles",
+      "3.5 nautical miles"
+    ],
+    "answer": "3 nautical miles",
+    "id": "general-4354"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "One cable is what fraction of a nautical mile?",
+    "options": [
+      "1/12 nautical mile",
+      "1/10 nautical mile",
+      "1/8 nautical mile",
+      "1/5 nautical mile"
+    ],
+    "answer": "1/10 nautical mile",
+    "id": "general-4355"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "A medieval moment was considered how long?",
+    "options": [
+      "90 seconds",
+      "45 seconds",
+      "120 seconds",
+      "60 seconds"
+    ],
+    "answer": "90 seconds",
+    "id": "general-4356"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "In computing, a jiffy is often defined as what fraction of a second?",
+    "options": [
+      "1/60 second",
+      "1/1000 second",
+      "1/10 second",
+      "1/100 second"
+    ],
+    "answer": "1/100 second",
+    "id": "general-4357"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "US Letter paper size is 8.5 by how many inches?",
+    "options": [
+      "17 inches",
+      "14 inches",
+      "13 inches",
+      "11 inches"
+    ],
+    "answer": "11 inches",
+    "id": "general-4358"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "US Legal paper size is 8.5 by how many inches?",
+    "options": [
+      "17 inches",
+      "11 inches",
+      "13 inches",
+      "14 inches"
+    ],
+    "answer": "14 inches",
+    "id": "general-4359"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "A US tabloid or ledger size sheet is 11 by how many inches?",
+    "options": [
+      "14 inches",
+      "11 inches",
+      "22 inches",
+      "17 inches"
+    ],
+    "answer": "17 inches",
+    "id": "general-4360"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many sheets are in a short quire, still used for some artisan papers?",
+    "options": [
+      "24 sheets",
+      "12 sheets",
+      "25 sheets",
+      "20 sheets"
+    ],
+    "answer": "24 sheets",
+    "id": "general-4361"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "A US fluid ounce contains how many US fluid drams?",
+    "options": [
+      "8 fluid drams",
+      "16 fluid drams",
+      "6 fluid drams",
+      "4 fluid drams"
+    ],
+    "answer": "8 fluid drams",
+    "id": "general-4362"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "An indiction in late Roman timekeeping was a cycle of how many years?",
+    "options": [
+      "15 years",
+      "5 years",
+      "19 years",
+      "10 years"
+    ],
+    "answer": "15 years",
+    "id": "general-4363"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many seconds are in one mean solar day?",
+    "options": [
+      "43200 seconds",
+      "86400 seconds",
+      "3600 seconds",
+      "8640 seconds"
+    ],
+    "answer": "86400 seconds",
+    "id": "general-4364"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "A US cup contains how many US fluid drams?",
+    "options": [
+      "48 fluid drams",
+      "64 fluid drams",
+      "32 fluid drams",
+      "16 fluid drams"
+    ],
+    "answer": "64 fluid drams",
+    "id": "general-4365"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many barleycorns are in one inch?",
+    "options": [
+      "4 barleycorns",
+      "12 barleycorns",
+      "8 barleycorns",
+      "3 barleycorns"
+    ],
+    "answer": "3 barleycorns",
+    "id": "general-4366"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "How many poppyseeds were traditionally said to be in one barleycorn?",
+    "options": [
+      "8 poppyseeds",
+      "2 poppyseeds",
+      "4 poppyseeds",
+      "3 poppyseeds"
+    ],
+    "answer": "4 poppyseeds",
+    "id": "general-4367"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many picas are in one foot?",
+    "options": [
+      "60 picas",
+      "12 picas",
+      "6 picas",
+      "72 picas"
+    ],
+    "answer": "72 picas",
+    "id": "general-4368"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many twips are in one typographic point?",
+    "options": [
+      "1440 twips",
+      "20 twips",
+      "12 twips",
+      "72 twips"
+    ],
+    "answer": "20 twips",
+    "id": "general-4369"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "In standard Canasta, how many cards are in the combined deck including jokers?",
+    "options": [
+      "108 cards",
+      "104 cards",
+      "112 cards",
+      "110 cards"
+    ],
+    "answer": "108 cards",
+    "id": "general-4370"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "Including the Rook Bird card, how many cards are in a standard Rook deck?",
+    "options": [
+      "57 cards",
+      "52 cards",
+      "55 cards",
+      "60 cards"
+    ],
+    "answer": "57 cards",
+    "id": "general-4371"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many tiles are in a standard Rummikub set, including jokers?",
+    "options": [
+      "106 tiles",
+      "108 tiles",
+      "104 tiles",
+      "100 tiles"
+    ],
+    "answer": "106 tiles",
+    "id": "general-4372"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "In Blokus, how many pieces does each player have in their color?",
+    "options": [
+      "19 pieces",
+      "12 pieces",
+      "24 pieces",
+      "21 pieces"
+    ],
+    "answer": "21 pieces",
+    "id": "general-4373"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many vertical columns does a standard Connect Four board have?",
+    "options": [
+      "6 columns",
+      "8 columns",
+      "5 columns",
+      "7 columns"
+    ],
+    "answer": "7 columns",
+    "id": "general-4374"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many horizontal rows does a standard Connect Four board have?",
+    "options": [
+      "7 rows",
+      "5 rows",
+      "6 rows",
+      "8 rows"
+    ],
+    "answer": "6 rows",
+    "id": "general-4375"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many total playing pieces are in a standard Connect Four game, 21 per player?",
+    "options": [
+      "49 pieces",
+      "42 pieces",
+      "36 pieces",
+      "56 pieces"
+    ],
+    "answer": "42 pieces",
+    "id": "general-4376"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many letter cubes are used in standard 4x4 Boggle?",
+    "options": [
+      "12 cubes",
+      "25 cubes",
+      "16 cubes",
+      "20 cubes"
+    ],
+    "answer": "16 cubes",
+    "id": "general-4377"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many cards are in a UNO Flip deck?",
+    "options": [
+      "110 cards",
+      "108 cards",
+      "112 cards",
+      "116 cards"
+    ],
+    "answer": "112 cards",
+    "id": "general-4378"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "A classic competition cribbage board has how many holes per scoring track including the game hole?",
+    "options": [
+      "121 holes",
+      "61 holes",
+      "181 holes",
+      "120 holes"
+    ],
+    "answer": "121 holes",
+    "id": "general-4379"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "In a standard 52-card deck, how many one-eyed Jacks are there?",
+    "options": [
+      "3 one-eyed Jacks",
+      "2 one-eyed Jacks",
+      "1 one-eyed Jack",
+      "4 one-eyed Jacks"
+    ],
+    "answer": "2 one-eyed Jacks",
+    "id": "general-4380"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "In a standard deck, how many one-eyed royals are there including the King of Diamonds?",
+    "options": [
+      "2 one-eyed royals",
+      "1 one-eyed royal",
+      "4 one-eyed royals",
+      "3 one-eyed royals"
+    ],
+    "answer": "3 one-eyed royals",
+    "id": "general-4381"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "In American pool, how many object balls are used plus the cue ball?",
+    "options": [
+      "15 object balls",
+      "16 object balls",
+      "9 object balls",
+      "10 object balls"
+    ],
+    "answer": "15 object balls",
+    "id": "general-4382"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many pockets does a standard pool table have?",
+    "options": [
+      "6 pockets",
+      "8 pockets",
+      "4 pockets",
+      "12 pockets"
+    ],
+    "answer": "6 pockets",
+    "id": "general-4383"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many finger holes does a standard tenpin bowling ball have?",
+    "options": [
+      "3 holes",
+      "2 holes",
+      "5 holes",
+      "4 holes"
+    ],
+    "answer": "3 holes",
+    "id": "general-4384"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "On average, how many dimples does a regulation golf ball have, often cited as 336?",
+    "options": [
+      "336 dimples",
+      "500 dimples",
+      "108 dimples",
+      "200 dimples"
+    ],
+    "answer": "336 dimples",
+    "id": "general-4385"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many feathers are in a regulation badminton shuttlecock?",
+    "options": [
+      "16 feathers",
+      "20 feathers",
+      "12 feathers",
+      "14 feathers"
+    ],
+    "answer": "16 feathers",
+    "id": "general-4386"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many double stitches are on an official Major League Baseball?",
+    "options": [
+      "108 double stitches",
+      "100 double stitches",
+      "96 double stitches",
+      "216 double stitches"
+    ],
+    "answer": "108 double stitches",
+    "id": "general-4387"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many distinct tetromino shapes are used in Tetris?",
+    "options": [
+      "5 shapes",
+      "6 shapes",
+      "8 shapes",
+      "7 shapes"
+    ],
+    "answer": "7 shapes",
+    "id": "general-4388"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many free pentominoes are there?",
+    "options": [
+      "7 pentominoes",
+      "5 pentominoes",
+      "12 pentominoes",
+      "18 pentominoes"
+    ],
+    "answer": "12 pentominoes",
+    "id": "general-4389"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many wooden blocks are in a standard Jenga tower at the start?",
+    "options": [
+      "52 blocks",
+      "48 blocks",
+      "54 blocks",
+      "60 blocks"
+    ],
+    "answer": "54 blocks",
+    "id": "general-4390"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many cards are in a standard Skip-Bo deck?",
+    "options": [
+      "112 cards",
+      "108 cards",
+      "162 cards",
+      "144 cards"
+    ],
+    "answer": "162 cards",
+    "id": "general-4391"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many cards are in a standard Phase 10 deck?",
+    "options": [
+      "108 cards",
+      "112 cards",
+      "104 cards",
+      "162 cards"
+    ],
+    "answer": "108 cards",
+    "id": "general-4392"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many cards are in a standard 32-card Piquet pack?",
+    "options": [
+      "32 cards",
+      "24 cards",
+      "20 cards",
+      "36 cards"
+    ],
+    "answer": "32 cards",
+    "id": "general-4393"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "In cribbage, how many cards are dealt to each player in a two-player game?",
+    "options": [
+      "5 cards",
+      "7 cards",
+      "4 cards",
+      "6 cards"
+    ],
+    "answer": "6 cards",
+    "id": "general-4394"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "In Canasta, how many jokers are included in the 108-card deck?",
+    "options": [
+      "8 jokers",
+      "6 jokers",
+      "4 jokers",
+      "2 jokers"
+    ],
+    "answer": "4 jokers",
+    "id": "general-4395"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "In dominoes, what is the total number of pips on all tiles in a double-six set?",
+    "options": [
+      "168 pips",
+      "126 pips",
+      "84 pips",
+      "210 pips"
+    ],
+    "answer": "168 pips",
+    "id": "general-4396"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many colors are on a classic Twister mat?",
+    "options": [
+      "6 colors",
+      "3 colors",
+      "4 colors",
+      "5 colors"
+    ],
+    "answer": "4 colors",
+    "id": "general-4397"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many sides does a standard wooden pencil have?",
+    "options": [
+      "8 sides",
+      "6 sides",
+      "3 sides",
+      "4 sides"
+    ],
+    "answer": "6 sides",
+    "id": "general-4398"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "How many cards are in a double 32-card Bezique deck?",
+    "options": [
+      "32 cards",
+      "48 cards",
+      "64 cards",
+      "52 cards"
+    ],
+    "answer": "64 cards",
+    "id": "general-4399"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many cards are in a standard Dobble or Spot It! deck?",
+    "options": [
+      "57 cards",
+      "60 cards",
+      "55 cards",
+      "50 cards"
+    ],
+    "answer": "55 cards",
+    "id": "general-4400"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many symbols are on each card in Dobble or Spot It!?",
+    "options": [
+      "10 symbols",
+      "8 symbols",
+      "6 symbols",
+      "5 symbols"
+    ],
+    "answer": "8 symbols",
+    "id": "general-4401"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many letter tiles are in a standard Bananagrams pouch?",
+    "options": [
+      "98 tiles",
+      "144 tiles",
+      "100 tiles",
+      "106 tiles"
+    ],
+    "answer": "144 tiles",
+    "id": "general-4402"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many dice are used in the push-your-luck game Farkle?",
+    "options": [
+      "3 dice",
+      "6 dice",
+      "2 dice",
+      "5 dice"
+    ],
+    "answer": "6 dice",
+    "id": "general-4403"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many cards are in the original Exploding Kittens base game?",
+    "options": [
+      "108 cards",
+      "56 cards",
+      "48 cards",
+      "52 cards"
+    ],
+    "answer": "56 cards",
+    "id": "general-4404"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "How many tiles are in American Mahjong including jokers and blanks, versus 144 in Chinese?",
+    "options": [
+      "144 tiles",
+      "136 tiles",
+      "152 tiles",
+      "160 tiles"
+    ],
+    "answer": "152 tiles",
+    "id": "general-4405"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "In the game Candy Land, how many colored spaces plus special picture spaces approximately make up the board track?",
+    "options": [
+      "100 spaces",
+      "134 spaces",
+      "200 spaces",
+      "64 spaces"
+    ],
+    "answer": "134 spaces",
+    "id": "general-4406"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "In proofreading, a caret ^ indicates what action?",
+    "options": [
+      "Insert",
+      "Delete",
+      "New paragraph",
+      "Transpose"
+    ],
+    "answer": "Insert",
+    "id": "general-4407"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "The tilde ~ originally indicated what in medieval manuscripts?",
+    "options": [
+      "Deletion",
+      "Emphasis",
+      "Question",
+      "Nasalization or omitted letter"
+    ],
+    "answer": "Nasalization or omitted letter",
+    "id": "general-4408"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "The @ symbol is commonly called commercial at or what?",
+    "options": [
+      "Atmark",
+      "Ampersat",
+      "At sign",
+      "Each"
+    ],
+    "answer": "At sign",
+    "id": "general-4409"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What is the section mark (§) used to denote in documents and legal citations?",
+    "options": [
+      "Section",
+      "Sentence",
+      "Chapter",
+      "Paragraph"
+    ],
+    "answer": "Section",
+    "id": "general-4410"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "The dagger † is also known as what?",
+    "options": [
+      "Obelisk",
+      "Dagger",
+      "Obelus",
+      "Both Obelisk and Dagger"
+    ],
+    "answer": "Obelisk",
+    "id": "general-4411"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "The double dagger ‡ is also called what?",
+    "options": [
+      "Double obelisk",
+      "Double dagger",
+      "Ditrigraph",
+      "Diesis"
+    ],
+    "answer": "Diesis",
+    "id": "general-4412"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "The cedilla under ç originated as a small what letter?",
+    "options": [
+      "E",
+      "C",
+      "Z",
+      "S"
+    ],
+    "answer": "Z",
+    "id": "general-4413"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "A text where the first letters of each line spell a word is called what?",
+    "options": [
+      "Abecedarian",
+      "Anthology",
+      "Acrostic",
+      "Anagram"
+    ],
+    "answer": "Acrostic",
+    "id": "general-4414"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "A text arranged in alphabetical order is called what?",
+    "options": [
+      "Acrostic",
+      "Alphabetical",
+      "Abecedarian",
+      "Anthology"
+    ],
+    "answer": "Abecedarian",
+    "id": "general-4415"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "Verse where each successive word is one letter longer than the last is called what?",
+    "options": [
+      "Step verse",
+      "Rhopalic",
+      "Incremental",
+      "Ladder verse"
+    ],
+    "answer": "Rhopalic",
+    "id": "general-4416"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "Insertion of a sound inside a word, like ath-e-lete for athlete, is called what?",
+    "options": [
+      "Elision",
+      "Epenthesis",
+      "Haplology",
+      "Metathesis"
+    ],
+    "answer": "Epenthesis",
+    "id": "general-4417"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "Transposition of sounds, like aks for ask, is called what?",
+    "options": [
+      "Apheresis",
+      "Metathesis",
+      "Epenthesis",
+      "Syncope"
+    ],
+    "answer": "Metathesis",
+    "id": "general-4418"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "Omission of a repeated syllable, like probly for probably, is called what?",
+    "options": [
+      "Haplology",
+      "Elision",
+      "Epenthesis",
+      "Metathesis"
+    ],
+    "answer": "Haplology",
+    "id": "general-4419"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "General omission of a sound or syllable is called what?",
+    "options": [
+      "Haplology",
+      "Apheresis",
+      "Elision",
+      "Apocope"
+    ],
+    "answer": "Elision",
+    "id": "general-4420"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "A phrase that sounds like another phrase, like ice cream and I scream, is called what?",
+    "options": [
+      "Holorime",
+      "Orphan phrase",
+      "Homophone",
+      "Oronym"
+    ],
+    "answer": "Oronym",
+    "id": "general-4421"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "A line where entire lines are homophonic is called what?",
+    "options": [
+      "Homophone line",
+      "Oronym",
+      "Holorime",
+      "Rime riche"
+    ],
+    "answer": "Holorime",
+    "id": "general-4422"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "A puzzle where pictures represent words or phrases is called what?",
+    "options": [
+      "Riddle",
+      "Logogriph",
+      "Rebus",
+      "Charade"
+    ],
+    "answer": "Rebus",
+    "id": "general-4423"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What is the name of the diacritic mark above the letter in Å?",
+    "options": [
+      "Angstrom",
+      "Ring",
+      "Circle",
+      "Halo"
+    ],
+    "answer": "Ring",
+    "id": "general-4424"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "The breve ˘ indicates what kind of vowel?",
+    "options": [
+      "Nasal",
+      "Long",
+      "Stressed",
+      "Short"
+    ],
+    "answer": "Short",
+    "id": "general-4425"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "The macron ¯ indicates what kind of vowel?",
+    "options": [
+      "Nasal",
+      "Stressed",
+      "Long",
+      "Short"
+    ],
+    "answer": "Long",
+    "id": "general-4426"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "The typographic term widow refers to what?",
+    "options": [
+      "Single line at bottom",
+      "Orphan",
+      "Single word or short line at top of page",
+      "Extra space"
+    ],
+    "answer": "Single word or short line at top of page",
+    "id": "general-4427"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "The typographic term orphan refers to what?",
+    "options": [
+      "Extra indent",
+      "Single word at top",
+      "Lone letter",
+      "Single line at bottom of page"
+    ],
+    "answer": "Single line at bottom of page",
+    "id": "general-4428"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "In printing, the term kerning refers to adjustment of space between what?",
+    "options": [
+      "Lines",
+      "Pages",
+      "Words",
+      "Pairs of letters"
+    ],
+    "answer": "Pairs of letters",
+    "id": "general-4429"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "In printing, leading refers to space between what?",
+    "options": [
+      "Words",
+      "Lines",
+      "Letters",
+      "Margins"
+    ],
+    "answer": "Lines",
+    "id": "general-4430"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "The term tracking in typography refers to uniform adjustment of space between what?",
+    "options": [
+      "Pairs of letters",
+      "Paragraphs",
+      "All letters in a block",
+      "Lines"
+    ],
+    "answer": "All letters in a block",
+    "id": "general-4431"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What term describes a sentence where each word starts with the same letter, like Peter Piper picked?",
+    "options": [
+      "Acrostic",
+      "Assonance",
+      "Alliteration",
+      "Anagram"
+    ],
+    "answer": "Alliteration",
+    "id": "general-4432"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "The name for a word formed by combining the start of one word and end of another, like motel from motor and hotel, is what?",
+    "options": [
+      "Blend",
+      "Compound",
+      "Contraction",
+      "Portmanteau"
+    ],
+    "answer": "Blend",
+    "id": "general-4433"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "The @ symbol's formal name in some contexts, arobase, comes from which language?",
+    "options": [
+      "Spanish",
+      "Italian",
+      "Portuguese",
+      "French"
+    ],
+    "answer": "French",
+    "id": "general-4434"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many white keys are on a standard 88-key piano?",
+    "options": [
+      "48 white keys",
+      "56 white keys",
+      "52 white keys",
+      "60 white keys"
+    ],
+    "answer": "52 white keys",
+    "id": "general-4435"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many black keys are on a standard 88-key piano?",
+    "options": [
+      "36 black keys",
+      "32 black keys",
+      "40 black keys",
+      "30 black keys"
+    ],
+    "answer": "36 black keys",
+    "id": "general-4436"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many strings does a standard 6-string guitar have?",
+    "options": [
+      "4 strings",
+      "6 strings",
+      "12 strings",
+      "7 strings"
+    ],
+    "answer": "6 strings",
+    "id": "general-4437"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many valves does a standard trumpet have?",
+    "options": [
+      "4 valves",
+      "3 valves",
+      "5 valves",
+      "2 valves"
+    ],
+    "answer": "3 valves",
+    "id": "general-4438"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "How many strings does a standard concert pedal harp have?",
+    "options": [
+      "48 strings",
+      "47 strings",
+      "46 strings",
+      "36 strings"
+    ],
+    "answer": "47 strings",
+    "id": "general-4439"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many lines does a traditional limerick have?",
+    "options": [
+      "4 lines",
+      "3 lines",
+      "5 lines",
+      "6 lines"
+    ],
+    "answer": "5 lines",
+    "id": "general-4440"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many lines does a haiku have?",
+    "options": [
+      "5 lines",
+      "4 lines",
+      "3 lines",
+      "2 lines"
+    ],
+    "answer": "3 lines",
+    "id": "general-4441"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What is the total number of syllables in a traditional English 5-7-5 haiku?",
+    "options": [
+      "17 syllables",
+      "19 syllables",
+      "15 syllables",
+      "14 syllables"
+    ],
+    "answer": "17 syllables",
+    "id": "general-4442"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many dots are used in extended 8-dot Braille for additional characters?",
+    "options": [
+      "10 dots",
+      "6 dots",
+      "8 dots",
+      "12 dots"
+    ],
+    "answer": "8 dots",
+    "id": "general-4443"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many points does the Star of David have?",
+    "options": [
+      "5 points",
+      "7 points",
+      "6 points",
+      "8 points"
+    ],
+    "answer": "6 points",
+    "id": "general-4444"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What shape is a standard yield traffic sign?",
+    "options": [
+      "Diamond",
+      "Circle",
+      "Octagon",
+      "Inverted triangle"
+    ],
+    "answer": "Inverted triangle",
+    "id": "general-4445"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many colors are commonly distinguished in a rainbow, per Newton?",
+    "options": [
+      "5 colors",
+      "6 colors",
+      "8 colors",
+      "7 colors"
+    ],
+    "answer": "7 colors",
+    "id": "general-4446"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many letters are in the modern Greek alphabet?",
+    "options": [
+      "26 letters",
+      "28 letters",
+      "22 letters",
+      "24 letters"
+    ],
+    "answer": "24 letters",
+    "id": "general-4447"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many letters are in the Hebrew alphabet?",
+    "options": [
+      "24 letters",
+      "26 letters",
+      "22 letters",
+      "28 letters"
+    ],
+    "answer": "22 letters",
+    "id": "general-4448"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many letters are in the standard Arabic alphabet?",
+    "options": [
+      "28 letters",
+      "22 letters",
+      "24 letters",
+      "32 letters"
+    ],
+    "answer": "28 letters",
+    "id": "general-4449"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many Olympic rings are there?",
+    "options": [
+      "4 rings",
+      "5 rings",
+      "7 rings",
+      "6 rings"
+    ],
+    "answer": "5 rings",
+    "id": "general-4450"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many spaces are on a standard 5-line musical staff?",
+    "options": [
+      "6 spaces",
+      "3 spaces",
+      "4 spaces",
+      "5 spaces"
+    ],
+    "answer": "4 spaces",
+    "id": "general-4451"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many strings are on a standard 12-string guitar, in 6 doubled courses?",
+    "options": [
+      "10 strings",
+      "12 strings",
+      "6 strings",
+      "8 strings"
+    ],
+    "answer": "12 strings",
+    "id": "general-4452"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many sides does a standard yield sign have?",
+    "options": [
+      "8 sides",
+      "4 sides",
+      "3 sides",
+      "6 sides"
+    ],
+    "answer": "3 sides",
+    "id": "general-4453"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many panels make up a standard baseball cover, sewn in a figure-eight pattern?",
+    "options": [
+      "2 panels",
+      "8 panels",
+      "4 panels",
+      "1 panel"
+    ],
+    "answer": "2 panels",
+    "id": "general-4454"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many major arcana cards are in a Tarot deck?",
+    "options": [
+      "20 cards",
+      "24 cards",
+      "22 cards",
+      "21 cards"
+    ],
+    "answer": "22 cards",
+    "id": "general-4455"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many minor arcana suits are in a Tarot deck?",
+    "options": [
+      "6 suits",
+      "5 suits",
+      "4 suits",
+      "3 suits"
+    ],
+    "answer": "4 suits",
+    "id": "general-4456"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "How many cards are in each minor suit of a Tarot deck?",
+    "options": [
+      "10 cards",
+      "12 cards",
+      "14 cards",
+      "13 cards"
+    ],
+    "answer": "14 cards",
+    "id": "general-4457"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many frames are in a standard tenpin bowling game?",
+    "options": [
+      "9 frames",
+      "11 frames",
+      "12 frames",
+      "10 frames"
+    ],
+    "answer": "10 frames",
+    "id": "general-4458"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many squares are black on a standard 8x8 chess or checkers board?",
+    "options": [
+      "64 black squares",
+      "28 black squares",
+      "16 black squares",
+      "32 black squares"
+    ],
+    "answer": "32 black squares",
+    "id": "general-4459"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many strings does a standard ukulele have?",
+    "options": [
+      "3 strings",
+      "6 strings",
+      "5 strings",
+      "4 strings"
+    ],
+    "answer": "4 strings",
+    "id": "general-4460"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "In Bananagrams, how many tiles does each player draw to start a 2-4 player game?",
+    "options": [
+      "7 tiles",
+      "11 tiles",
+      "15 tiles",
+      "21 tiles"
+    ],
+    "answer": "21 tiles",
+    "id": "general-4461"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many dice does each player get in standard Liar's Dice?",
+    "options": [
+      "2 dice",
+      "3 dice",
+      "6 dice",
+      "5 dice"
+    ],
+    "answer": "5 dice",
+    "id": "general-4462"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many cards are in the word game Codenames original edition word deck?",
+    "options": [
+      "200 cards",
+      "100 cards",
+      "400 cards",
+      "150 cards"
+    ],
+    "answer": "200 cards",
+    "id": "general-4463"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many marbles does each player have in Chinese Checkers?",
+    "options": [
+      "15 marbles",
+      "12 marbles",
+      "10 marbles",
+      "6 marbles"
+    ],
+    "answer": "10 marbles",
+    "id": "general-4464"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many spaces are on a standard Chinese Checkers board including all points?",
+    "options": [
+      "91 holes",
+      "121 holes",
+      "81 holes",
+      "100 holes"
+    ],
+    "answer": "121 holes",
+    "id": "general-4465"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many distinct symbols are there in total in a Dobble deck of 55 cards?",
+    "options": [
+      "49 symbols",
+      "55 symbols",
+      "50 symbols",
+      "57 symbols"
+    ],
+    "answer": "50 symbols",
+    "id": "general-4466"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many cards are in the original Love Letter game?",
+    "options": [
+      "12 cards",
+      "18 cards",
+      "16 cards",
+      "20 cards"
+    ],
+    "answer": "16 cards",
+    "id": "general-4467"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many cards are in a standard Hanabi deck?",
+    "options": [
+      "40 cards",
+      "55 cards",
+      "50 cards",
+      "60 cards"
+    ],
+    "answer": "50 cards",
+    "id": "general-4468"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many suits are in a standard Hanabi deck?",
+    "options": [
+      "5 suits",
+      "3 suits",
+      "4 suits",
+      "6 suits"
+    ],
+    "answer": "5 suits",
+    "id": "general-4469"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many cards are in the social deduction game Coup?",
+    "options": [
+      "10 cards",
+      "15 cards",
+      "12 cards",
+      "20 cards"
+    ],
+    "answer": "15 cards",
+    "id": "general-4470"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "How many letters are in the longest common English word without repeating any letter, like uncopyrightable?",
+    "options": [
+      "16 letters",
+      "13 letters",
+      "15 letters",
+      "14 letters"
+    ],
+    "answer": "15 letters",
+    "id": "general-4471"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "In Scrabble, how many premium squares are there in total on the board?",
+    "options": [
+      "40 squares",
+      "50 squares",
+      "61 squares",
+      "72 squares"
+    ],
+    "answer": "61 squares",
+    "id": "general-4472"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "In the game Risk, how many continents are on the classic board?",
+    "options": [
+      "5 continents",
+      "4 continents",
+      "7 continents",
+      "6 continents"
+    ],
+    "answer": "6 continents",
+    "id": "general-4473"
+  },
+  {
+    "difficulty": "hard",
+    "category": "general",
+    "question": "How many armies does each player get at start in a 3-player standard Risk game?",
+    "options": [
+      "25 armies",
+      "35 armies",
+      "30 armies",
+      "40 armies"
+    ],
+    "answer": "35 armies",
+    "id": "general-4474"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many cards are in a double Pinochle deck?",
+    "options": [
+      "64 cards",
+      "80 cards",
+      "48 cards",
+      "96 cards"
+    ],
+    "answer": "80 cards",
+    "id": "general-4475"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many cards are in a standard deck of Old Maid after removing one queen?",
+    "options": [
+      "51 cards",
+      "49 cards",
+      "52 cards",
+      "50 cards"
+    ],
+    "answer": "51 cards",
+    "id": "general-4476"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many tricks are in a single Bridge hand?",
+    "options": [
+      "12 tricks",
+      "13 tricks",
+      "10 tricks",
+      "15 tricks"
+    ],
+    "answer": "13 tricks",
+    "id": "general-4477"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "How many letters are in the Greek word alphabet comes from alpha and beta?",
+    "options": [
+      "4 letters",
+      "2 letters",
+      "1 letter",
+      "3 letters"
+    ],
+    "answer": "2 letters",
+    "id": "general-4478"
+  },
+  {
+    "difficulty": "easy",
+    "category": "general",
+    "question": "What shape is a typical highway warning sign for a curve or hazard?",
+    "options": [
+      "Octagon",
+      "Triangle",
+      "Circle",
+      "Diamond"
+    ],
+    "answer": "Diamond",
+    "id": "general-4479"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "In typography, what is the common name for the symbol &?",
+    "options": [
+      "Et mark",
+      "Ampersand",
+      "Ligature and",
+      "And sign"
+    ],
+    "answer": "Ampersand",
+    "id": "general-4480"
+  },
+  {
+    "difficulty": "medium",
+    "category": "general",
+    "question": "How many holes does a standard 3-track cribbage board have in total if each track is 121 holes?",
+    "options": [
+      "360 holes",
+      "242 holes",
+      "121 holes",
+      "363 holes"
+    ],
+    "answer": "363 holes",
+    "id": "general-4481"
   }
 ]

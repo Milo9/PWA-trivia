@@ -127,6 +127,23 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - First winner of the Nobel Prize in Literature, 1901 (Sully Prudhomme)
 - First sub-Saharan African writer to win the Nobel Prize in Literature, 1986 (Wole Soyinka)
 - Who designed the glass pyramid entrance to the Louvre (I.M. Pei)
+- Formal/actual title of "Whistler's Mother" (Arrangement in Grey and Black No. 1)
+- Contrapposto pose in classical sculpture (Doryphoros/Augustus of Prima Porta)
+- Which museum houses Vermeer's "The Milkmaid" (Rijksmuseum)
+- Bartleby the Scrivener's repeated refusal phrase ("I would prefer not to")
+- Narrator/pseudonym of Nabokov's "Lolita" (Humbert Humbert)
+- Name of the bombardier protagonist in Heller's "Catch-22" (Yossarian)
+- Definition of chiaroscuro (light/dark contrast technique)
+- Definition of sfumato (Leonardo's soft-blending technique)
+- Definition of bildungsroman (coming-of-age novel)
+- Definition of villanelle (19-line poem, two refrains)
+- Roman church housing Michelangelo's "Moses" (San Pietro in Vincoli)
+- Rodin's "The Kiss" as part of "The Gates of Hell"
+- Definition of impasto (thickly applied paint)
+- Who invented the movable-type printing press (Gutenberg, ~1440)
+- Name of the endless lawsuit in Dickens's "Bleak House" (Jarndyce and Jarndyce)
+- Names of the two sisters in Austen's "Sense and Sensibility" (Elinor and Marianne)
+- Which Roman church houses Caravaggio's "The Calling of Saint Matthew" (San Luigi dei Francesi)
 
 Avoid drafting a question whose only in-universe answer is a character's name (or an in-story quoted term) that's identical to the work's title — these self-answering questions get cut regardless of how obscure the underlying fact is. Confirmed examples already hit: Voltaire's "Candide" (protagonist is literally named Candide), Voltaire's "Zadig" (protagonist named Zadig), Neal Stephenson's "Snow Crash" (the in-story drug is named "Snow Crash"), and Gogol's "Dead Souls" (the question's own premise quotes the phrase "dead souls").
 

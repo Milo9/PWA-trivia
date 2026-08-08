@@ -15325,5 +15325,2332 @@
       "XMM-Newton"
     ],
     "answer": "Planck"
+  },
+  {
+    "id": "space-astronomy-1017",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Venus's atmosphere is composed of what percentage of carbon dioxide by volume?",
+    "options": [
+      "96.5%",
+      "78%",
+      "50%",
+      "20%"
+    ],
+    "answer": "96.5%"
+  },
+  {
+    "id": "space-astronomy-1018",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Mercury is locked in what spin-orbit resonance, rotating three times for every two orbits?",
+    "options": [
+      "1:1 tidal lock",
+      "3:2 spin-orbit resonance",
+      "2:3 spin-orbit resonance",
+      "1:2 resonance"
+    ],
+    "answer": "3:2 spin-orbit resonance"
+  },
+  {
+    "id": "space-astronomy-1019",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Pluto avoids collision with Neptune because it is in what mean-motion resonance with Neptune?",
+    "options": [
+      "1:1",
+      "3:2",
+      "2:3",
+      "4:3"
+    ],
+    "answer": "2:3"
+  },
+  {
+    "id": "space-astronomy-1020",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Io, Europa and Ganymede are locked in a Laplace resonance with orbital period ratios of what?",
+    "options": [
+      "1:2:4",
+      "2:3:4",
+      "1:3:9",
+      "4:2:1"
+    ],
+    "answer": "1:2:4"
+  },
+  {
+    "id": "space-astronomy-1021",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Jupiter's Trojan asteroids librate around its L4 and L5 Lagrange points how many degrees ahead and behind the planet?",
+    "options": [
+      "30 degrees",
+      "60 degrees",
+      "90 degrees",
+      "120 degrees"
+    ],
+    "answer": "60 degrees"
+  },
+  {
+    "id": "space-astronomy-1022",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "As measured by Cassini, Saturn's magnetic dipole tilt is less than what angle to its rotation axis?",
+    "options": [
+      "0.5 degrees",
+      "5 degrees",
+      "10 degrees",
+      "23.5 degrees"
+    ],
+    "answer": "0.5 degrees"
+  },
+  {
+    "id": "space-astronomy-1023",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Mercury's magnetic equator is offset northward by about what fraction of its radius?",
+    "options": [
+      "5%",
+      "10%",
+      "20%",
+      "40%"
+    ],
+    "answer": "20%"
+  },
+  {
+    "id": "space-astronomy-1024",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the approximate diameter of Mercury's largest impact basin, Caloris Planitia?",
+    "options": [
+      "1,550 km",
+      "900 km",
+      "2,200 km",
+      "300 km"
+    ],
+    "answer": "1,550 km"
+  },
+  {
+    "id": "space-astronomy-1025",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Saturn's co-orbital moons Janus and Epimetheus swap orbits approximately every how long?",
+    "options": [
+      "4 years",
+      "1 year",
+      "11 years",
+      "30 days"
+    ],
+    "answer": "4 years"
+  },
+  {
+    "id": "space-astronomy-1026",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Jupiter's inner moon Amalthea has a density of about 0.86 g/cm³, suggesting what internal structure?",
+    "options": [
+      "Porous rubble pile",
+      "Solid iron",
+      "Pure water ice",
+      "Liquid core"
+    ],
+    "answer": "Porous rubble pile"
+  },
+  {
+    "id": "space-astronomy-1027",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "How long did the Soviet Venera 13 lander survive on Venus's surface in March 1982 while transmitting panoramas?",
+    "options": [
+      "127 minutes",
+      "23 minutes",
+      "57 minutes",
+      "14 seconds"
+    ],
+    "answer": "127 minutes"
+  },
+  {
+    "id": "space-astronomy-1028",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What percentage of Venus's surface did NASA's Magellan radar map from 1990 to 1994?",
+    "options": [
+      "98%",
+      "84%",
+      "100%",
+      "65%"
+    ],
+    "answer": "98%"
+  },
+  {
+    "id": "space-astronomy-1029",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "NASA's exoplanet surveyor TESS launched on what date in 2018 aboard a Falcon 9?",
+    "options": [
+      "April 18, 2018",
+      "June 18, 2009",
+      "July 1, 2023",
+      "October 16, 2021"
+    ],
+    "answer": "April 18, 2018"
+  },
+  {
+    "id": "space-astronomy-1030",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "ESA's billion-star astrometry mission Gaia launched on what date in 2013?",
+    "options": [
+      "December 19, 2013",
+      "May 14, 2009",
+      "December 25, 2021",
+      "July 1, 2013"
+    ],
+    "answer": "December 19, 2013"
+  },
+  {
+    "id": "space-astronomy-1031",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which asterism is formed by Vega, Altair and Deneb?",
+    "options": [
+      "Summer Triangle",
+      "Winter Hexagon",
+      "Great Square",
+      "Teapot"
+    ],
+    "answer": "Summer Triangle"
+  },
+  {
+    "id": "space-astronomy-1032",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Vega was historically defined as magnitude what in the photometric system at optical wavelengths?",
+    "options": [
+      "0.0",
+      "1.0",
+      "-1.46",
+      "0.03"
+    ],
+    "answer": "0.0"
+  },
+  {
+    "id": "space-astronomy-1033",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which infrared satellite discovered Vega's debris disk in 1983 from an excess beyond its photosphere?",
+    "options": [
+      "IRAS",
+      "Hubble",
+      "Spitzer",
+      "ISO"
+    ],
+    "answer": "IRAS"
+  },
+  {
+    "id": "space-astronomy-1034",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Due to axial precession, which star will be the North Star again in about 12,000 years?",
+    "options": [
+      "Vega",
+      "Thuban",
+      "Aldebaran",
+      "Deneb"
+    ],
+    "answer": "Vega"
+  },
+  {
+    "id": "space-astronomy-1035",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Altair's highly flattened shape measured by interferometry is due to what?",
+    "options": [
+      "Rapid rotation",
+      "Strong magnetic field",
+      "Binary companion",
+      "High metallicity"
+    ],
+    "answer": "Rapid rotation"
+  },
+  {
+    "id": "space-astronomy-1036",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Barnard's Star is famous for having what record astrometric property?",
+    "options": [
+      "Highest proper motion",
+      "Lowest luminosity",
+      "Largest parallax",
+      "Fastest radial velocity"
+    ],
+    "answer": "Highest proper motion"
+  },
+  {
+    "id": "space-astronomy-1037",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Barnard's Star is located in which constellation?",
+    "options": [
+      "Ophiuchus",
+      "Aquila",
+      "Cygnus",
+      "Ursa Major"
+    ],
+    "answer": "Ophiuchus"
+  },
+  {
+    "id": "space-astronomy-1038",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the name of KIC 8462852, famous for irregular, deep dimming events observed by Kepler?",
+    "options": [
+      "Tabby's Star",
+      "Luhman 16",
+      "Teegarden's Star",
+      "Kapteyn's Star"
+    ],
+    "answer": "Tabby's Star"
+  },
+  {
+    "id": "space-astronomy-1039",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Which nearby red dwarf at 7.9 light-years was the setting for a famous battle in Star Trek lore?",
+    "options": [
+      "Wolf 359",
+      "Ross 128",
+      "Lalande 21185",
+      "YZ Ceti"
+    ],
+    "answer": "Wolf 359"
+  },
+  {
+    "id": "space-astronomy-1040",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "On what date did Gemini 6A and Gemini 7 achieve the first crewed spacecraft rendezvous, flying feet apart?",
+    "options": [
+      "December 15, 1965",
+      "October 25, 1965",
+      "December 4, 1965",
+      "July 17, 1975"
+    ],
+    "answer": "December 15, 1965"
+  },
+  {
+    "id": "space-astronomy-1041",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "How much lunar soil did Soviet Luna 16 return in September 1970 from Mare Fecunditatis?",
+    "options": [
+      "101 grams",
+      "55 grams",
+      "170 grams",
+      "382 kilograms"
+    ],
+    "answer": "101 grams"
+  },
+  {
+    "id": "space-astronomy-1042",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the surface pressure on Venus in Earth atmospheres?",
+    "options": [
+      "92 bar",
+      "1 bar",
+      "10 bar",
+      "0.006 bar"
+    ],
+    "answer": "92 bar"
+  },
+  {
+    "id": "space-astronomy-1043",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Mercury's core is estimated to occupy about what percentage of its planetary radius?",
+    "options": [
+      "75%",
+      "50%",
+      "30%",
+      "15%"
+    ],
+    "answer": "75%"
+  },
+  {
+    "id": "space-astronomy-1044",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the atmospheric pressure at Mars's surface on average compared to Earth's?",
+    "options": [
+      "0.6% of Earth's",
+      "10% of Earth's",
+      "50% of Earth's",
+      "150% of Earth's"
+    ],
+    "answer": "0.6% of Earth's"
+  },
+  {
+    "id": "space-astronomy-1045",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Jupiter's interior transitions to metallic hydrogen at roughly what pressure regime?",
+    "options": [
+      "~1.4 million bar",
+      "~1,000 bar",
+      "~10 bar",
+      "~100 million bar"
+    ],
+    "answer": "~1.4 million bar"
+  },
+  {
+    "id": "space-astronomy-1046",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Saturn's interior is theorized to have helium rain falling through metallic hydrogen starting at about what depth?",
+    "options": [
+      "10,000 km deep",
+      "100 km deep",
+      "500 km deep",
+      "100,000 km deep"
+    ],
+    "answer": "10,000 km deep"
+  },
+  {
+    "id": "space-astronomy-1047",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What is the orbital inclination of Pluto relative to the ecliptic plane?",
+    "options": [
+      "17 degrees",
+      "2 degrees",
+      "0 degrees",
+      "45 degrees"
+    ],
+    "answer": "17 degrees"
+  },
+  {
+    "id": "space-astronomy-1048",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Who discovered Pluto's largest moon Charon in 1978?",
+    "options": [
+      "James Christy",
+      "Clyde Tombaugh",
+      "Gerard Kuiper",
+      "David Jewitt"
+    ],
+    "answer": "James Christy"
+  },
+  {
+    "id": "space-astronomy-1049",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Neptune's moon Proteus is notable as the second-largest Neptunian moon despite being what shape?",
+    "options": [
+      "Irregular polyhedral",
+      "Perfectly spherical",
+      "Highly elongated",
+      "Ring-shaped"
+    ],
+    "answer": "Irregular polyhedral"
+  },
+  {
+    "id": "space-astronomy-1050",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Neptune's moon Nereid has one of the most eccentric orbits of any moon, with eccentricity about?",
+    "options": [
+      "0.75",
+      "0.1",
+      "0.02",
+      "0.99"
+    ],
+    "answer": "0.75"
+  },
+  {
+    "id": "space-astronomy-1051",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Which crater is the largest on Phobos, spanning about 9 km?",
+    "options": [
+      "Stickney",
+      "Tycho",
+      "Shakespeare",
+      "Herschel"
+    ],
+    "answer": "Stickney"
+  },
+  {
+    "id": "space-astronomy-1052",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which two moons of Saturn are co-orbital with Dione at its L4 and L5 points?",
+    "options": [
+      "Helene and Polydeuces",
+      "Telesto and Calypso",
+      "Janus and Epimetheus",
+      "Atlas and Prometheus"
+    ],
+    "answer": "Helene and Polydeuces"
+  },
+  {
+    "id": "space-astronomy-1053",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Saturn's moon Dione has wispy streaks later revealed to be what?",
+    "options": [
+      "Ice cliffs",
+      "Cryovolcanic deposits",
+      "Impact ejecta",
+      "Methane rivers"
+    ],
+    "answer": "Ice cliffs"
+  },
+  {
+    "id": "space-astronomy-1054",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Which asteroid was visited by Rosetta in 2008 and shows two distinct terrain types?",
+    "options": [
+      "21 Lutetia",
+      "4 Vesta",
+      "951 Gaspra",
+      "253 Mathilde"
+    ],
+    "answer": "21 Lutetia"
+  },
+  {
+    "id": "space-astronomy-1055",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "NASA's Deep Impact mission in 2005 fired an impactor into which comet?",
+    "options": [
+      "9P/Tempel 1",
+      "1P/Halley",
+      "19P/Borrelly",
+      "81P/Wild 2"
+    ],
+    "answer": "9P/Tempel 1"
+  },
+  {
+    "id": "space-astronomy-1056",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Comet 81P/Wild 2 was sampled by which NASA mission in 2004, returning particles in aerogel?",
+    "options": [
+      "Stardust",
+      "Deep Impact",
+      "Rosetta",
+      "Giotto"
+    ],
+    "answer": "Stardust"
+  },
+  {
+    "id": "space-astronomy-1057",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "ESA's Giotto spacecraft made the first close flyby of Halley's Comet in what year?",
+    "options": [
+      "1986",
+      "1983",
+      "1991",
+      "1976"
+    ],
+    "answer": "1986"
+  },
+  {
+    "id": "space-astronomy-1058",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What type of asteroid is Ryugu classified as, sampled by Hayabusa2 in 2019?",
+    "options": [
+      "Cb-type carbonaceous",
+      "S-type stony",
+      "M-type metallic",
+      "V-type basaltic"
+    ],
+    "answer": "Cb-type carbonaceous"
+  },
+  {
+    "id": "space-astronomy-1059",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "As of 2026, which triple asteroid system has two small moons named Romulus and Remus?",
+    "options": [
+      "87 Sylvia",
+      "243 Ida",
+      "216 Kleopatra",
+      "4 Vesta"
+    ],
+    "answer": "87 Sylvia"
+  },
+  {
+    "id": "space-astronomy-1060",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the approximate rotation period of asteroid 216 Kleopatra, known for its dog-bone shape?",
+    "options": [
+      "5.4 hours",
+      "24 hours",
+      "2.1 hours",
+      "16 hours"
+    ],
+    "answer": "5.4 hours"
+  },
+  {
+    "id": "space-astronomy-1061",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "The Summer Triangle's brightest star Deneb marks what part of Cygnus the Swan?",
+    "options": [
+      "Tail",
+      "Beak",
+      "Wing",
+      "Foot"
+    ],
+    "answer": "Tail"
+  },
+  {
+    "id": "space-astronomy-1062",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which star is the brightest in the constellation Aquila and forms the Summer Triangle?",
+    "options": [
+      "Altair",
+      "Vega",
+      "Deneb",
+      "Aldebaran"
+    ],
+    "answer": "Altair"
+  },
+  {
+    "id": "space-astronomy-1063",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What spectral type is Vega?",
+    "options": [
+      "A0V",
+      "M2V",
+      "G2V",
+      "O5V"
+    ],
+    "answer": "A0V"
+  },
+  {
+    "id": "space-astronomy-1064",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which nearby binary system at 11.4 light-years consists of a K-type orange dwarf and a faint red dwarf?",
+    "options": [
+      "70 Ophiuchi",
+      "Sirius",
+      "Alpha Centauri",
+      "Procyon"
+    ],
+    "answer": "70 Ophiuchi"
+  },
+  {
+    "id": "space-astronomy-1065",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which star's proper motion was famously mistaken for a planet in the 1960s by Peter van de Kamp?",
+    "options": [
+      "Barnard's Star",
+      "61 Cygni",
+      "Lalande 21185",
+      "Wolf 359"
+    ],
+    "answer": "Barnard's Star"
+  },
+  {
+    "id": "space-astronomy-1066",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the approximate distance to Vega in light-years?",
+    "options": [
+      "25 light-years",
+      "4.3 light-years",
+      "640 light-years",
+      "1,000 light-years"
+    ],
+    "answer": "25 light-years"
+  },
+  {
+    "id": "space-astronomy-1067",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "A temperate exoplanet discovered in 2017, about 11 light-years away, orbits which red dwarf star?",
+    "options": [
+      "Ross 128",
+      "Wolf 359",
+      "Barnard's Star",
+      "Luhman 16"
+    ],
+    "answer": "Ross 128"
+  },
+  {
+    "id": "space-astronomy-1068",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What type of star is Tabby's Star (KIC 8462852) formally classified as?",
+    "options": [
+      "F3V main-sequence",
+      "M-type flare",
+      "White dwarf",
+      "Red giant"
+    ],
+    "answer": "F3V main-sequence"
+  },
+  {
+    "id": "space-astronomy-1069",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Which constellation contains the bright star Altair?",
+    "options": [
+      "Aquila",
+      "Lyra",
+      "Cygnus",
+      "Scorpius"
+    ],
+    "answer": "Aquila"
+  },
+  {
+    "id": "space-astronomy-1070",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is Mercury's orbital eccentricity, the highest of any planet?",
+    "options": [
+      "0.206",
+      "0.05",
+      "0.09",
+      "0.24"
+    ],
+    "answer": "0.206"
+  },
+  {
+    "id": "space-astronomy-1071",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What percentage of Earth's atmosphere is nitrogen?",
+    "options": [
+      "78%",
+      "21%",
+      "0.9%",
+      "0.04%"
+    ],
+    "answer": "78%"
+  },
+  {
+    "id": "space-astronomy-1072",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Earth's magnetopause on the sunward side is typically how many Earth radii away?",
+    "options": [
+      "10 Earth radii",
+      "1 Earth radius",
+      "100 Earth radii",
+      "60 Earth radii"
+    ],
+    "answer": "10 Earth radii"
+  },
+  {
+    "id": "space-astronomy-1073",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Uranus has how many known moons as of 2026?",
+    "options": [
+      "28",
+      "14",
+      "5",
+      "95"
+    ],
+    "answer": "28"
+  },
+  {
+    "id": "space-astronomy-1074",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the shortest-period comet, Encke's Comet, with period about 3.3 years?",
+    "options": [
+      "2P/Encke",
+      "1P/Halley",
+      "9P/Tempel 1",
+      "67P/Churyumov-Gerasimenko"
+    ],
+    "answer": "2P/Encke"
+  },
+  {
+    "id": "space-astronomy-1075",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Aldebaran is the brightest star in which zodiacal constellation?",
+    "options": [
+      "Taurus",
+      "Gemini",
+      "Scorpius",
+      "Leo"
+    ],
+    "answer": "Taurus"
+  },
+  {
+    "id": "space-astronomy-1076",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the approximate distance to Deneb in light-years?",
+    "options": [
+      "2,600 light-years",
+      "25 light-years",
+      "640 light-years",
+      "8 light-years"
+    ],
+    "answer": "2,600 light-years"
+  },
+  {
+    "id": "space-astronomy-1077",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Cygnus X-1 was the first widely accepted what type of object?",
+    "options": [
+      "Black hole",
+      "Neutron star",
+      "White dwarf",
+      "Quasar"
+    ],
+    "answer": "Black hole"
+  },
+  {
+    "id": "space-astronomy-1078",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "A Type II supernova is the collapse of what type of star?",
+    "options": [
+      "Massive star >8 solar masses",
+      "White dwarf in binary",
+      "Neutron star merger",
+      "Brown dwarf"
+    ],
+    "answer": "Massive star >8 solar masses"
+  },
+  {
+    "id": "space-astronomy-1079",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "The Hubble Ultra Deep Field image of 2003-2004 looked at a tiny patch in which constellation?",
+    "options": [
+      "Fornax",
+      "Ursa Major",
+      "Orion",
+      "Scorpius"
+    ],
+    "answer": "Fornax"
+  },
+  {
+    "id": "space-astronomy-1080",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "The second gravitational wave detection GW151226 in December 2015 came from what merger?",
+    "options": [
+      "Black hole merger",
+      "Neutron star merger",
+      "White dwarf merger",
+      "Supernova"
+    ],
+    "answer": "Black hole merger"
+  },
+  {
+    "id": "space-astronomy-1081",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "A Hohmann transfer is most efficient between two coplanar circular orbits, requiring how many engine burns?",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": "space-astronomy-1082",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the Kessler Syndrome concern in Low Earth Orbit?",
+    "options": [
+      "Cascade of space debris collisions",
+      "Loss of atmosphere",
+      "Solar flare blackout",
+      "Magnetic field reversal"
+    ],
+    "answer": "Cascade of space debris collisions"
+  },
+  {
+    "id": "space-astronomy-1083",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "When was the Mir space station deorbited over the Pacific Ocean?",
+    "options": [
+      "2001",
+      "1991",
+      "1986",
+      "2011"
+    ],
+    "answer": "2001"
+  },
+  {
+    "id": "space-astronomy-1084",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "The Apollo-Soyuz Test Project in 1975 was the first international crewed docking between which two countries?",
+    "options": [
+      "USA and USSR",
+      "USA and ESA",
+      "USSR and France",
+      "USA and China"
+    ],
+    "answer": "USA and USSR"
+  },
+  {
+    "id": "space-astronomy-1085",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "How many primary mirror segments does JWST have, made of beryllium coated in gold?",
+    "options": [
+      "18",
+      "6",
+      "12",
+      "24"
+    ],
+    "answer": "18"
+  },
+  {
+    "id": "space-astronomy-1086",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What powers the Sun's energy via fusion in its core?",
+    "options": [
+      "Hydrogen to helium",
+      "Helium to carbon",
+      "Carbon to iron",
+      "Uranium fission"
+    ],
+    "answer": "Hydrogen to helium"
+  },
+  {
+    "id": "space-astronomy-1087",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the temperature of the Sun's core approximately?",
+    "options": [
+      "15 million K",
+      "5,800 K",
+      "1 million K",
+      "100,000 K"
+    ],
+    "answer": "15 million K"
+  },
+  {
+    "id": "space-astronomy-1088",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "The Sun's corona is heated to about what temperature?",
+    "options": [
+      "1-3 million K",
+      "5,800 K",
+      "15 million K",
+      "10,000 K"
+    ],
+    "answer": "1-3 million K"
+  },
+  {
+    "id": "space-astronomy-1089",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which dwarf planet was discovered in 2005 and named after the Rapa Nui god of fertility?",
+    "options": [
+      "Makemake",
+      "Eris",
+      "Haumea",
+      "Ceres"
+    ],
+    "answer": "Makemake"
+  },
+  {
+    "id": "space-astronomy-1090",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Haumea's ring was discovered during a stellar occultation in what year?",
+    "options": [
+      "2017",
+      "2013",
+      "2009",
+      "2020"
+    ],
+    "answer": "2017"
+  },
+  {
+    "id": "space-astronomy-1091",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the approximate equatorial rotation period of the Sun as seen from Earth?",
+    "options": [
+      "25 days",
+      "11 years",
+      "88 days",
+      "365 days"
+    ],
+    "answer": "25 days"
+  },
+  {
+    "id": "space-astronomy-1092",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which NASA mission launched in 2018 to study the interior of Mars with a seismometer?",
+    "options": [
+      "InSight",
+      "Phoenix",
+      "Curiosity",
+      "Perseverance"
+    ],
+    "answer": "InSight"
+  },
+  {
+    "id": "space-astronomy-1093",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the name of the rover that carried the first microphone to successfully record sounds on Mars?",
+    "options": [
+      "Perseverance",
+      "Curiosity",
+      "Opportunity",
+      "Sojourner"
+    ],
+    "answer": "Perseverance"
+  },
+  {
+    "id": "space-astronomy-1094",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which Martian meteorite, found in Antarctica in 1984, was claimed to contain possible fossilized bacteria?",
+    "options": [
+      "ALH84001",
+      "NWA 7034",
+      "Zagami",
+      "Shergotty"
+    ],
+    "answer": "ALH84001"
+  },
+  {
+    "id": "space-astronomy-1095",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the average surface temperature on Titan?",
+    "options": [
+      "-179°C",
+      "-63°C",
+      "-120°C",
+      "15°C"
+    ],
+    "answer": "-179°C"
+  },
+  {
+    "id": "space-astronomy-1096",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What is the name of the proposed ninth planet beyond Neptune based on Kuiper Belt object clustering?",
+    "options": [
+      "Planet Nine",
+      "Nibiru",
+      "Tyche",
+      "Nemesis"
+    ],
+    "answer": "Planet Nine"
+  },
+  {
+    "id": "space-astronomy-1097",
+    "category": "space-astronomy",
+    "difficulty": "hard",
+    "question": "Which galaxy survey, completed in 2003, mapped over 220,000 galaxies and measured large-scale structure?",
+    "options": [
+      "2dF Galaxy Redshift Survey",
+      "SDSS",
+      "Hubble Deep Field",
+      "2MASS"
+    ],
+    "answer": "2dF Galaxy Redshift Survey"
+  },
+  {
+    "id": "space-astronomy-1098",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the orbital period of Jupiter's moon Europa?",
+    "options": [
+      "3.5 days",
+      "1.8 days",
+      "7.2 days",
+      "16.7 days"
+    ],
+    "answer": "3.5 days"
+  },
+  {
+    "id": "space-astronomy-1099",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the orbital period of Jupiter's moon Io?",
+    "options": [
+      "1.8 days",
+      "3.5 days",
+      "7.2 days",
+      "16.7 days"
+    ],
+    "answer": "1.8 days"
+  },
+  {
+    "id": "space-astronomy-1100",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the orbital period of Saturn's moon Enceladus?",
+    "options": [
+      "1.37 days",
+      "0.9 days",
+      "15.9 days",
+      "4.5 days"
+    ],
+    "answer": "1.37 days"
+  },
+  {
+    "id": "space-astronomy-1101",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the orbital period of Saturn's moon Rhea?",
+    "options": [
+      "4.5 days",
+      "0.9 days",
+      "15.9 days",
+      "1.37 days"
+    ],
+    "answer": "4.5 days"
+  },
+  {
+    "id": "space-astronomy-1102",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the diameter of Saturn's moon Mimas?",
+    "options": [
+      "396 km",
+      "1,522 km",
+      "5,149 km",
+      "1,066 km"
+    ],
+    "answer": "396 km"
+  },
+  {
+    "id": "space-astronomy-1103",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the orbital period of Saturn's moon Titan around Saturn?",
+    "options": [
+      "15.9 days",
+      "1.9 days",
+      "4.5 days",
+      "79 days"
+    ],
+    "answer": "15.9 days"
+  },
+  {
+    "id": "space-astronomy-1104",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the orbital period of Saturn's moon Mimas?",
+    "options": [
+      "0.9 days",
+      "15.9 days",
+      "4.5 days",
+      "79 days"
+    ],
+    "answer": "0.9 days"
+  },
+  {
+    "id": "space-astronomy-1105",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the name of the large dark region on Pluto's encounter hemisphere west of Tombaugh Regio?",
+    "options": [
+      "Cthulhu Macula",
+      "Mordor Macula",
+      "Balrog Macula",
+      "Vader Macula"
+    ],
+    "answer": "Cthulhu Macula"
+  },
+  {
+    "id": "space-astronomy-1106",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which dwarf planet has a thin nitrogen atmosphere that freezes onto its surface as it moves away from the Sun?",
+    "options": [
+      "Pluto",
+      "Ceres",
+      "Eris",
+      "Haumea"
+    ],
+    "answer": "Pluto"
+  },
+  {
+    "id": "space-astronomy-1107",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the name of the mission that will bring Martian soil samples back to Earth, caching samples with Perseverance?",
+    "options": [
+      "Mars Sample Return",
+      "Mars 2020",
+      "ExoMars",
+      "Mars Odyssey"
+    ],
+    "answer": "Mars Sample Return"
+  },
+  {
+    "id": "space-astronomy-1108",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the name of the European rover planned for the ExoMars mission to search for biosignatures?",
+    "options": [
+      "Rosalind Franklin",
+      "Curiosity",
+      "Perseverance",
+      "Zhurong"
+    ],
+    "answer": "Rosalind Franklin"
+  },
+  {
+    "id": "space-astronomy-1109",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "Which country successfully landed the Zhurong rover on Mars in 2021?",
+    "options": [
+      "China",
+      "USA",
+      "Russia",
+      "India"
+    ],
+    "answer": "China"
+  },
+  {
+    "id": "space-astronomy-1110",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the name of India's first Mars orbiter, which arrived in 2014?",
+    "options": [
+      "Mangalyaan",
+      "Chandrayaan",
+      "Gaganyaan",
+      "Aditya"
+    ],
+    "answer": "Mangalyaan"
+  },
+  {
+    "id": "space-astronomy-1111",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the name of the first space telescope to detect the cosmic microwave background in 1989?",
+    "options": [
+      "COBE",
+      "WMAP",
+      "Planck",
+      "IRAS"
+    ],
+    "answer": "COBE"
+  },
+  {
+    "id": "space-astronomy-1112",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the main component of the Sun's solar wind?",
+    "options": [
+      "Protons and electrons",
+      "Neutrons",
+      "Helium nuclei only",
+      "Dust"
+    ],
+    "answer": "Protons and electrons"
+  },
+  {
+    "id": "space-astronomy-1113",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the approximate age of Saturn's rings as of 2026, thought to be relatively young?",
+    "options": [
+      "10-100 million years",
+      "4.5 billion years",
+      "1 billion years",
+      "1 million years"
+    ],
+    "answer": "10-100 million years"
+  },
+  {
+    "id": "space-astronomy-1114",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the orbital period of Jupiter's moon Callisto?",
+    "options": [
+      "16.7 days",
+      "3.5 days",
+      "1.8 days",
+      "7.2 days"
+    ],
+    "answer": "16.7 days"
+  },
+  {
+    "id": "space-astronomy-1115",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is Mercury's perihelion precession that required general relativity to explain, in arcseconds per century?",
+    "options": [
+      "43 arcseconds",
+      "12 arcseconds",
+      "88 arcseconds",
+      "100 arcseconds"
+    ],
+    "answer": "43 arcseconds"
+  },
+  {
+    "id": "space-astronomy-1116",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the surface gravity on Venus compared to Earth?",
+    "options": [
+      "90% of Earth's",
+      "38% of Earth's",
+      "16% of Earth's",
+      "100% of Earth's"
+    ],
+    "answer": "90% of Earth's"
+  },
+  {
+    "id": "space-astronomy-1117",
+    "category": "space-astronomy",
+    "difficulty": "easy",
+    "question": "What percentage of Earth's atmosphere is oxygen?",
+    "options": [
+      "21%",
+      "78%",
+      "0.9%",
+      "0.04%"
+    ],
+    "answer": "21%"
+  },
+  {
+    "id": "space-astronomy-1118",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is Earth's atmospheric pressure at sea level approximately?",
+    "options": [
+      "1013 hPa",
+      "92 bar",
+      "0.6% of Earth",
+      "10 bar"
+    ],
+    "answer": "1013 hPa"
+  },
+  {
+    "id": "space-astronomy-1119",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Jupiter's atmosphere is primarily composed of what two gases?",
+    "options": [
+      "Hydrogen and helium",
+      "Nitrogen and oxygen",
+      "Carbon dioxide and nitrogen",
+      "Methane and ammonia"
+    ],
+    "answer": "Hydrogen and helium"
+  },
+  {
+    "id": "space-astronomy-1120",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which dwarf planet was discovered in 2005 and is named after the Hawaiian goddess of childbirth?",
+    "options": [
+      "Haumea",
+      "Makemake",
+      "Eris",
+      "Ceres"
+    ],
+    "answer": "Haumea"
+  },
+  {
+    "id": "space-astronomy-1121",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which Kuiper Belt object discovered in 2002 has a ring system discovered in 2023?",
+    "options": [
+      "Quaoar",
+      "Chariklo",
+      "Haumea",
+      "Chiron"
+    ],
+    "answer": "Quaoar"
+  },
+  {
+    "id": "space-astronomy-1122",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which Centaur was the first to be discovered in 1977, orbiting between Saturn and Uranus?",
+    "options": [
+      "2060 Chiron",
+      "10199 Chariklo",
+      "5145 Pholus",
+      "8405 Asbolus"
+    ],
+    "answer": "2060 Chiron"
+  },
+  {
+    "id": "space-astronomy-1123",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is Saturn's ring mass compared to Mimas as measured by Cassini?",
+    "options": [
+      "0.4 times Mimas mass",
+      "10 times Earth mass",
+      "Equal to Earth's Moon",
+      "100 times Mimas"
+    ],
+    "answer": "0.4 times Mimas mass"
+  },
+  {
+    "id": "space-astronomy-1124",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which Jovian moon has an induced magnetic field suggesting a salty ocean?",
+    "options": [
+      "Callisto",
+      "Europa",
+      "Io",
+      "Amalthea"
+    ],
+    "answer": "Callisto"
+  },
+  {
+    "id": "space-astronomy-1125",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which orbiter discovered subsurface water ice at Mars south pole using MARSIS in 2018?",
+    "options": [
+      "Mars Express",
+      "Mars Odyssey",
+      "Mars Reconnaissance Orbiter",
+      "MAVEN"
+    ],
+    "answer": "Mars Express"
+  },
+  {
+    "id": "space-astronomy-1126",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What was the first successful Mars rover landing system using airbags in 1997?",
+    "options": [
+      "Mars Pathfinder",
+      "Viking",
+      "Mars Exploration Rover",
+      "Mars Science Laboratory"
+    ],
+    "answer": "Mars Pathfinder"
+  },
+  {
+    "id": "space-astronomy-1127",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the orbital period of Jupiter's moon Ganymede?",
+    "options": [
+      "7.2 days",
+      "1.8 days",
+      "3.5 days",
+      "16.7 days"
+    ],
+    "answer": "7.2 days"
+  },
+  {
+    "id": "space-astronomy-1128",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the diameter of Jupiter's moon Europa?",
+    "options": [
+      "3,121 km",
+      "3,643 km",
+      "5,268 km",
+      "4,821 km"
+    ],
+    "answer": "3,121 km"
+  },
+  {
+    "id": "space-astronomy-1129",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the diameter of Saturn's moon Titan?",
+    "options": [
+      "5,149 km",
+      "3,121 km",
+      "396 km",
+      "1,522 km"
+    ],
+    "answer": "5,149 km"
+  },
+  {
+    "id": "space-astronomy-1130",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the orbital period of Neptune's moon Triton?",
+    "options": [
+      "-5.9 days retrograde",
+      "15.9 days",
+      "0.9 days",
+      "1.37 days"
+    ],
+    "answer": "-5.9 days retrograde"
+  },
+  {
+    "id": "space-astronomy-1131",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the orbital period of Earth's Moon around Earth?",
+    "options": [
+      "27.3 days",
+      "365 days",
+      "88 days",
+      "225 days"
+    ],
+    "answer": "27.3 days"
+  },
+  {
+    "id": "space-astronomy-1132",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the orbital period of Mars's moon Phobos?",
+    "options": [
+      "0.32 days",
+      "1.26 days",
+      "15.9 days",
+      "0.9 days"
+    ],
+    "answer": "0.32 days"
+  },
+  {
+    "id": "space-astronomy-1133",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the orbital period of Mars's moon Deimos?",
+    "options": [
+      "1.26 days",
+      "0.32 days",
+      "15.9 days",
+      "0.9 days"
+    ],
+    "answer": "1.26 days"
+  },
+  {
+    "id": "space-astronomy-1134",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the approximate mass of Jupiter's moon Europa compared to Earth's Moon?",
+    "options": [
+      "65% of Earth's Moon",
+      "100% of Earth's Moon",
+      "200% of Earth's Moon",
+      "10% of Earth's Moon"
+    ],
+    "answer": "65% of Earth's Moon"
+  },
+  {
+    "id": "space-astronomy-1135",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the orbital period of asteroid 4 Vesta?",
+    "options": [
+      "3.6 years",
+      "1.5 years",
+      "11.9 years",
+      "29 years"
+    ],
+    "answer": "3.6 years"
+  },
+  {
+    "id": "space-astronomy-1136",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the orbital period of dwarf planet Ceres?",
+    "options": [
+      "4.6 years",
+      "3.6 years",
+      "1.5 years",
+      "11.9 years"
+    ],
+    "answer": "4.6 years"
+  },
+  {
+    "id": "space-astronomy-1137",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the orbital period of Pluto?",
+    "options": [
+      "248 years",
+      "165 years",
+      "84 years",
+      "29 years"
+    ],
+    "answer": "248 years"
+  },
+  {
+    "id": "space-astronomy-1138",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the orbital period of Eris?",
+    "options": [
+      "558 years",
+      "248 years",
+      "165 years",
+      "84 years"
+    ],
+    "answer": "558 years"
+  },
+  {
+    "id": "space-astronomy-1139",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the orbital period of Haumea?",
+    "options": [
+      "283 years",
+      "248 years",
+      "558 years",
+      "165 years"
+    ],
+    "answer": "283 years"
+  },
+  {
+    "id": "space-astronomy-1140",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the orbital period of Makemake?",
+    "options": [
+      "306 years",
+      "283 years",
+      "248 years",
+      "558 years"
+    ],
+    "answer": "306 years"
+  },
+  {
+    "id": "space-astronomy-1141",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the diameter of dwarf planet Eris?",
+    "options": [
+      "2,326 km",
+      "2,374 km",
+      "1,632 km",
+      "1,430 km"
+    ],
+    "answer": "2,326 km"
+  },
+  {
+    "id": "space-astronomy-1142",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the diameter of dwarf planet Pluto?",
+    "options": [
+      "2,374 km",
+      "2,326 km",
+      "1,632 km",
+      "1,430 km"
+    ],
+    "answer": "2,374 km"
+  },
+  {
+    "id": "space-astronomy-1143",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the diameter of dwarf planet Haumea's longest axis?",
+    "options": [
+      "2,322 km",
+      "1,430 km",
+      "1,632 km",
+      "2,374 km"
+    ],
+    "answer": "2,322 km"
+  },
+  {
+    "id": "space-astronomy-1144",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the diameter of dwarf planet Makemake?",
+    "options": [
+      "1,430 km",
+      "2,374 km",
+      "2,326 km",
+      "1,632 km"
+    ],
+    "answer": "1,430 km"
+  },
+  {
+    "id": "space-astronomy-1145",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the orbital inclination of Eris relative to the ecliptic?",
+    "options": [
+      "44 degrees",
+      "17 degrees",
+      "28 degrees",
+      "2 degrees"
+    ],
+    "answer": "44 degrees"
+  },
+  {
+    "id": "space-astronomy-1146",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which dwarf planet has a highly reflective surface with albedo about 0.8?",
+    "options": [
+      "Eris",
+      "Pluto",
+      "Ceres",
+      "Haumea"
+    ],
+    "answer": "Eris"
+  },
+  {
+    "id": "space-astronomy-1147",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the approximate albedo of Pluto?",
+    "options": [
+      "0.5-0.7",
+      "0.1",
+      "0.9",
+      "0.05"
+    ],
+    "answer": "0.5-0.7"
+  },
+  {
+    "id": "space-astronomy-1148",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the orbital eccentricity of Pluto?",
+    "options": [
+      "0.244",
+      "0.206",
+      "0.09",
+      "0.01"
+    ],
+    "answer": "0.244"
+  },
+  {
+    "id": "space-astronomy-1149",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the orbital eccentricity of Eris?",
+    "options": [
+      "0.44",
+      "0.244",
+      "0.206",
+      "0.09"
+    ],
+    "answer": "0.44"
+  },
+  {
+    "id": "space-astronomy-1150",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the semi-major axis of Pluto in AU?",
+    "options": [
+      "39.5 AU",
+      "30.1 AU",
+      "19.2 AU",
+      "9.5 AU"
+    ],
+    "answer": "39.5 AU"
+  },
+  {
+    "id": "space-astronomy-1151",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the semi-major axis of Eris in AU?",
+    "options": [
+      "67.9 AU",
+      "39.5 AU",
+      "30.1 AU",
+      "19.2 AU"
+    ],
+    "answer": "67.9 AU"
+  },
+  {
+    "id": "space-astronomy-1152",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which mission discovered Eris in 2005?",
+    "options": [
+      "Palomar Observatory survey",
+      "Hubble",
+      "Kepler",
+      "Catalina Sky Survey"
+    ],
+    "answer": "Palomar Observatory survey"
+  },
+  {
+    "id": "space-astronomy-1153",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which mission discovered Haumea in 2004?",
+    "options": [
+      "Palomar Observatory",
+      "Lowell Observatory",
+      "Keck",
+      "Catalina"
+    ],
+    "answer": "Palomar Observatory"
+  },
+  {
+    "id": "space-astronomy-1154",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "Which mission discovered Makemake in 2005?",
+    "options": [
+      "Palomar Observatory",
+      "Hubble",
+      "Keck",
+      "Subaru"
+    ],
+    "answer": "Palomar Observatory"
+  },
+  {
+    "id": "space-astronomy-1155",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the name of the large moon of Pluto that is tidally locked with Pluto?",
+    "options": [
+      "Charon",
+      "Styx",
+      "Nix",
+      "Hydra"
+    ],
+    "answer": "Charon"
+  },
+  {
+    "id": "space-astronomy-1156",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the diameter of Pluto's moon Charon?",
+    "options": [
+      "1,212 km",
+      "2,374 km",
+      "1,430 km",
+      "396 km"
+    ],
+    "answer": "1,212 km"
+  },
+  {
+    "id": "space-astronomy-1157",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the orbital period of Charon around Pluto?",
+    "options": [
+      "6.4 days",
+      "15.9 days",
+      "0.9 days",
+      "1.37 days"
+    ],
+    "answer": "6.4 days"
+  },
+  {
+    "id": "space-astronomy-1158",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the name of the small moon of Pluto discovered in 2005, named after the river of night?",
+    "options": [
+      "Nix",
+      "Styx",
+      "Charon",
+      "Hydra"
+    ],
+    "answer": "Nix"
+  },
+  {
+    "id": "space-astronomy-1159",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the name of the small moon of Pluto discovered in 2005, named after the nine-headed serpent?",
+    "options": [
+      "Hydra",
+      "Nix",
+      "Styx",
+      "Kerberos"
+    ],
+    "answer": "Hydra"
+  },
+  {
+    "id": "space-astronomy-1160",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the name of the small moon of Pluto discovered in 2011, named after the river of the underworld?",
+    "options": [
+      "Styx",
+      "Nix",
+      "Hydra",
+      "Charon"
+    ],
+    "answer": "Styx"
+  },
+  {
+    "id": "space-astronomy-1161",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the name of the small moon of Pluto discovered in 2011, named after the three-headed dog?",
+    "options": [
+      "Kerberos",
+      "Styx",
+      "Nix",
+      "Hydra"
+    ],
+    "answer": "Kerberos"
+  },
+  {
+    "id": "space-astronomy-1162",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the orbital period of Saturn's moon Iapetus?",
+    "options": [
+      "79.3 days",
+      "15.9 days",
+      "4.5 days",
+      "0.9 days"
+    ],
+    "answer": "79.3 days"
+  },
+  {
+    "id": "space-astronomy-1163",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the diameter of Saturn's moon Iapetus?",
+    "options": [
+      "1,469 km",
+      "1,522 km",
+      "5,149 km",
+      "396 km"
+    ],
+    "answer": "1,469 km"
+  },
+  {
+    "id": "space-astronomy-1164",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the orbital period of Saturn's moon Dione?",
+    "options": [
+      "2.7 days",
+      "0.9 days",
+      "15.9 days",
+      "4.5 days"
+    ],
+    "answer": "2.7 days"
+  },
+  {
+    "id": "space-astronomy-1165",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the diameter of Saturn's moon Dione?",
+    "options": [
+      "1,123 km",
+      "1,522 km",
+      "5,149 km",
+      "396 km"
+    ],
+    "answer": "1,123 km"
+  },
+  {
+    "id": "space-astronomy-1166",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the orbital period of Saturn's moon Tethys?",
+    "options": [
+      "1.9 days",
+      "0.9 days",
+      "15.9 days",
+      "2.7 days"
+    ],
+    "answer": "1.9 days"
+  },
+  {
+    "id": "space-astronomy-1167",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the diameter of Saturn's moon Tethys?",
+    "options": [
+      "1,062 km",
+      "1,522 km",
+      "5,149 km",
+      "396 km"
+    ],
+    "answer": "1,062 km"
+  },
+  {
+    "id": "space-astronomy-1168",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the orbital period of Uranus's moon Titania?",
+    "options": [
+      "8.7 days",
+      "2.5 days",
+      "4.1 days",
+      "13.5 days"
+    ],
+    "answer": "8.7 days"
+  },
+  {
+    "id": "space-astronomy-1169",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the diameter of Uranus's moon Titania?",
+    "options": [
+      "1,578 km",
+      "1,169 km",
+      "1,522 km",
+      "5,149 km"
+    ],
+    "answer": "1,578 km"
+  },
+  {
+    "id": "space-astronomy-1170",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the orbital period of Uranus's moon Oberon?",
+    "options": [
+      "13.5 days",
+      "8.7 days",
+      "4.1 days",
+      "2.5 days"
+    ],
+    "answer": "13.5 days"
+  },
+  {
+    "id": "space-astronomy-1171",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the diameter of Uranus's moon Oberon?",
+    "options": [
+      "1,522 km",
+      "1,578 km",
+      "1,062 km",
+      "396 km"
+    ],
+    "answer": "1,522 km"
+  },
+  {
+    "id": "space-astronomy-1172",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the orbital period of Neptune's moon Proteus?",
+    "options": [
+      "1.12 days",
+      "0.32 days",
+      "1.26 days",
+      "5.9 days"
+    ],
+    "answer": "1.12 days"
+  },
+  {
+    "id": "space-astronomy-1173",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the diameter of Neptune's moon Proteus?",
+    "options": [
+      "420 km",
+      "1,212 km",
+      "2,374 km",
+      "396 km"
+    ],
+    "answer": "420 km"
+  },
+  {
+    "id": "space-astronomy-1174",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the orbital period of Jupiter's moon Amalthea?",
+    "options": [
+      "0.5 days",
+      "1.8 days",
+      "3.5 days",
+      "7.2 days"
+    ],
+    "answer": "0.5 days"
+  },
+  {
+    "id": "space-astronomy-1175",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the diameter of Jupiter's moon Amalthea?",
+    "options": [
+      "250 km",
+      "3,121 km",
+      "5,268 km",
+      "3,643 km"
+    ],
+    "answer": "250 km"
+  },
+  {
+    "id": "space-astronomy-1176",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the orbital period of Saturn's moon Hyperion?",
+    "options": [
+      "21.3 days",
+      "15.9 days",
+      "4.5 days",
+      "0.9 days"
+    ],
+    "answer": "21.3 days"
+  },
+  {
+    "id": "space-astronomy-1177",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the diameter of Saturn's moon Hyperion?",
+    "options": [
+      "270 km",
+      "1,522 km",
+      "5,149 km",
+      "396 km"
+    ],
+    "answer": "270 km"
+  },
+  {
+    "id": "space-astronomy-1178",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the orbital period of Saturn's moon Phoebe?",
+    "options": [
+      "550 days retrograde",
+      "79.3 days",
+      "15.9 days",
+      "4.5 days"
+    ],
+    "answer": "550 days retrograde"
+  },
+  {
+    "id": "space-astronomy-1179",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the diameter of Saturn's moon Phoebe?",
+    "options": [
+      "213 km",
+      "1,522 km",
+      "5,149 km",
+      "396 km"
+    ],
+    "answer": "213 km"
+  },
+  {
+    "id": "space-astronomy-1180",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the orbital period of asteroid 243 Ida?",
+    "options": [
+      "4.8 years",
+      "3.6 years",
+      "4.6 years",
+      "11.9 years"
+    ],
+    "answer": "4.8 years"
+  },
+  {
+    "id": "space-astronomy-1181",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the diameter of asteroid 243 Ida?",
+    "options": [
+      "31 km",
+      "10 km",
+      "100 km",
+      "500 km"
+    ],
+    "answer": "31 km"
+  },
+  {
+    "id": "space-astronomy-1182",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the orbital period of asteroid 951 Gaspra?",
+    "options": [
+      "3.3 years",
+      "4.8 years",
+      "3.6 years",
+      "4.6 years"
+    ],
+    "answer": "3.3 years"
+  },
+  {
+    "id": "space-astronomy-1183",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the diameter of asteroid 951 Gaspra?",
+    "options": [
+      "12 km",
+      "31 km",
+      "10 km",
+      "100 km"
+    ],
+    "answer": "12 km"
+  },
+  {
+    "id": "space-astronomy-1184",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the orbital period of asteroid 21 Lutetia?",
+    "options": [
+      "3.8 years",
+      "3.3 years",
+      "4.8 years",
+      "3.6 years"
+    ],
+    "answer": "3.8 years"
+  },
+  {
+    "id": "space-astronomy-1185",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the diameter of asteroid 21 Lutetia?",
+    "options": [
+      "100 km",
+      "12 km",
+      "31 km",
+      "500 km"
+    ],
+    "answer": "100 km"
+  },
+  {
+    "id": "space-astronomy-1186",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the orbital period of comet 2P/Encke?",
+    "options": [
+      "3.3 years",
+      "76 years",
+      "6.5 years",
+      "133 years"
+    ],
+    "answer": "3.3 years"
+  },
+  {
+    "id": "space-astronomy-1187",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the orbital period of comet 9P/Tempel 1?",
+    "options": [
+      "5.5 years",
+      "3.3 years",
+      "76 years",
+      "6.5 years"
+    ],
+    "answer": "5.5 years"
+  },
+  {
+    "id": "space-astronomy-1188",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the orbital period of comet 81P/Wild 2?",
+    "options": [
+      "6.4 years",
+      "5.5 years",
+      "3.3 years",
+      "76 years"
+    ],
+    "answer": "6.4 years"
+  },
+  {
+    "id": "space-astronomy-1189",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the diameter of comet 81P/Wild 2's nucleus?",
+    "options": [
+      "5 km",
+      "10 km",
+      "1 km",
+      "20 km"
+    ],
+    "answer": "5 km"
+  },
+  {
+    "id": "space-astronomy-1190",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the diameter of comet 9P/Tempel 1's nucleus?",
+    "options": [
+      "7.6 km",
+      "5 km",
+      "10 km",
+      "1 km"
+    ],
+    "answer": "7.6 km"
+  },
+  {
+    "id": "space-astronomy-1191",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the orbital period of asteroid 433 Eros?",
+    "options": [
+      "1.76 years",
+      "3.3 years",
+      "4.8 years",
+      "3.6 years"
+    ],
+    "answer": "1.76 years"
+  },
+  {
+    "id": "space-astronomy-1192",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the diameter of asteroid 433 Eros?",
+    "options": [
+      "16.8 km",
+      "31 km",
+      "12 km",
+      "100 km"
+    ],
+    "answer": "16.8 km"
+  },
+  {
+    "id": "space-astronomy-1193",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the orbital period of asteroid 87 Sylvia?",
+    "options": [
+      "6.5 years",
+      "4.8 years",
+      "3.6 years",
+      "1.76 years"
+    ],
+    "answer": "6.5 years"
+  },
+  {
+    "id": "space-astronomy-1194",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the diameter of asteroid 87 Sylvia?",
+    "options": [
+      "286 km",
+      "100 km",
+      "31 km",
+      "16.8 km"
+    ],
+    "answer": "286 km"
+  },
+  {
+    "id": "space-astronomy-1195",
+    "category": "space-astronomy",
+    "difficulty": "medium",
+    "question": "What is the orbital period of asteroid 216 Kleopatra?",
+    "options": [
+      "4.7 years",
+      "6.5 years",
+      "4.8 years",
+      "3.6 years"
+    ],
+    "answer": "4.7 years"
   }
 ]

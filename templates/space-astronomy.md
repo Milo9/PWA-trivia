@@ -182,6 +182,25 @@ Additional confirmed duplicates from a later batch (this category runs very ches
 - Missions: Voyager/Galileo as first to orbit Jupiter; Dawn as first to orbit two extraterrestrial bodies (Vesta and Ceres, already a triplicate); Huygens probe as first Titan landing (2005); Mars 3 as first spacecraft to survive a Mars landing (1971); Discovery as the shuttle that deployed Hubble (1990); Sojourner/Pathfinder as first wheeled Mars rover with airbag landing (1997); Mariner 10 as first Mercury flyby (1974); Chandrayaan-3 as first mission near the Moon's south pole (Aug 2023)
 - Misc: Salyut 1 as first space station (1971, Soviet); Zarya as first ISS module (Nov 1998); ISS orbital altitude (~400 km); Sagittarius A* as the Milky Way's central black hole; Type Ia supernovae and the Chandrasekhar limit (watch for this being asked "backwards" — limit named vs. supernova type named); Crab Nebula's 1054 AD supernova; Halley's Comet's 76-year cycle; heliopause as the solar-wind boundary; Galilean moons named by Galileo in 1610; singularity as a black hole's central point; Cepheid/period-luminosity variable stars as standard candles; one parsec in light-years (~3.26)
 
+Additional confirmed duplicates from a later batch:
+- Asteroid moon Dactyl, first confirmed asteroid moon (243 Ida, imaged by Galileo 1993)
+- 433 Eros as first asteroid orbited by a spacecraft (NEAR Shoemaker, 2000) and first asteroid visited by any spacecraft (951 Gaspra flyby, 1991)
+- Curiosity rover's ancient streambed discovery with rounded pebbles at Gale Crater (2012)
+- Saturn's rings composed primarily of water ice
+- Leonid meteor shower's parent comet (55P/Tempel-Tuttle)
+- Arcturus as brightest star in Boötes
+- ISS orbital inclination (51.6 degrees, chosen for Russian launch access)
+- Sodium as the element in Mercury's comet-like tail
+- Trojan moons Telesto and Calypso sharing Tethys's orbit
+- Date NASA's Juno spacecraft entered orbit around Jupiter (July 4, 2016)
+- MESSENGER discovering water ice at Mercury's poles
+- Hubble's 1990 launch and COSTAR mirror-flaw fix (1993)
+- Cassini/Huygens 2004 arrival at Saturn and Titan probe deployment
+- Hellas Planitia as Mars's largest impact basin
+- Annular eclipse as the "ring of fire" eclipse type (Moon near apogee)
+- Termination shock as the heliosphere boundary where solar wind goes subsonic (crossed by Voyager 1, 2004)
+- 2I/Borisov as the second interstellar object / first interstellar comet (2019)
+
 Use web search to verify every fact — do not rely on memory alone. Prefer authoritative sources (space agency sites, encyclopedic sources) over guessing. For each question, actually find the fact via search rather than recalling it, especially for obscure details (specific missions, numbers, records).
 
 If any fact involves a "current record," "most," "latest," or similar superlative, pin it to a specific time (e.g. "as of 2026") rather than stating it as a timeless fact, since these claims go stale.

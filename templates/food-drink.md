@@ -113,6 +113,19 @@ AVOID THESE ANGLES (facts already asked, in some cases more than once — don't 
 - What "al dente" means for pasta (firm to the bite)
 - Bouquet garni as the French term for a tied herb bundle used to flavor stocks
 - Labneh as strained yogurt
+- Botanically, the almond is not a true nut but a drupe/fruit type
+- Pigment that gives carrots their orange color (beta-carotene)
+- What acid cures fish in ceviche (citrus juice)
+- Tonka beans' banned aromatic compound (coumarin)
+- What powdered/whisked Japanese green tea is used in the tea ceremony (matcha)
+- What sparkling wine replaces gin in a Negroni Sbagliato (Prosecco)
+- Cocktail of whiskey, sweet vermouth and bitters (Manhattan)
+- What gives sourdough its tangy flavor (lactic acid bacteria)
+- What Brazilian feijoada's main legume is (black beans)
+- Cured, rolled, sliced pork belly used in carbonara (pancetta)
+- What coffee drink is espresso + steamed milk + foam (cappuccino)
+- Definition/composition of yuzu kosho (chili, yuzu peel, salt paste)
+- Definition of yerba mate (South American holly-leaf caffeine infusion)
 
 Avoid drafting a question whose dish name already contains the answer (e.g. asking what tuber "pounded yam" is pounded from, when the answer is literally "yam"; or what grain "farro salad" is made from, when the answer is "farro") — these are self-answering and get cut regardless of whether the underlying fact is otherwise fresh.
 
