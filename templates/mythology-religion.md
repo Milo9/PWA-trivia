@@ -17,6 +17,15 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Christian holiday commemorating the resurrection of Jesus (Easter)
 - Which Yoruba orisha is the trickster/messenger — avoid phrasing this as "syncretized with Eshu" while the answer IS Eshu, that's self-contradictory
 - Odin's hall Valhalla having 540 doors — don't frame this as "name of Odin's hall in Valhalla," Valhalla IS the hall, not a container of another hall
+- Sisyphus condemned to roll a boulder uphill forever in Tartarus
+- Which Titaness is the mother of Helios, Selene, and Eos (Theia)
+- Name of Odin's eight-legged horse (Sleipnir)
+- Name of Odin's spear that never misses its target (Gungnir)
+- Which Japanese thunder god is paired with wind god Fujin (Raijin)
+- Which Roman god is the equivalent of Greek Zeus (Jupiter)
+- Which Aztec feathered serpent god is associated with wind/learning (Quetzalcoatl)
+- Which Inca sun god is ancestor of the Sapa Inca emperors (Inti)
+- Islamic Night of Power when the Quran was first revealed (Laylat al-Qadr)
 
 Use web search to verify every fact — do not rely on memory alone. Prefer authoritative sources (encyclopedic sources, religious/mythological references) over guessing. For each question, actually find the fact via search rather than recalling it, especially for obscure details (lesser- known figures, specific texts).
 

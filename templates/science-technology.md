@@ -16,7 +16,8 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - SI unit of electrical resistance (ohm)
 - Chemical symbol for potassium (K)
 - Subatomic particle with no electric charge (neutron)
-- Chemical symbol lookups for common elements (silver/Ag, gold/Au, copper/Cu, iron/Fe, helium/He, mercury/Hg, sodium/Na, lead/Pb, tin/Sn) — very high collision rate, favor less-common elements
+- Chemical symbol lookups for common elements (silver/Ag, gold/Au, copper/Cu, iron/Fe, helium/He, mercury/Hg, sodium/Na, lead/Pb, tin/Sn, zinc/Zn) — very high collision rate, favor less-common elements
+- Chemical symbol lookups for the transition-metal/lanthanide block (yttrium/Y, zirconium/Zr, niobium/Nb, ruthenium/Ru, rhodium/Rh, palladium/Pd, ytterbium/Yb, lutetium/Lu) — same collision pattern as above, now also exhausted
 - Boiling point of water at sea level (100°C)
 - SI unit of electric current (Ampere) / electrical capacitance (Farad)
 - Longest bone in the human body (Femur)
@@ -25,7 +26,7 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Element with atomic number 1 (Hydrogen)
 - Newton's laws of motion / universal gravitation
 - Metal that's liquid at room temperature (Mercury)
-- Most abundant gas in Earth's atmosphere (Nitrogen) — note: "most abundant NOBLE gas" (Argon) is a different, still-valid fact, not a dupe
+- Most abundant gas in Earth's atmosphere (Nitrogen) — "most abundant NOBLE gas" (Argon) is a different fact but is now ALSO covered, don't redraft either framing
 - Who discovered penicillin (Alexander Fleming)
 - "First successful human [organ] transplant surgeon" template — heart, liver, kidney, lung, pancreas, and bone marrow transplant firsts are all now covered
 - Largest INTERNAL organ in the human body (Liver) — distinct from "largest organ" (Skin, already listed above), but also already covered
@@ -112,8 +113,21 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Hormone identification: melatonin (sleep/pineal gland), cortisol (stress/adrenal), epinephrine (fight-or-flight/adrenal medulla), ethylene (plant fruit-ripening)
 - Inventor/credit chestnuts: Thomas Newcomen (steam engine), Eli Whitney (cotton gin), Alfred Nobel (dynamite), Bjarne Stroustrup (C++), Grace Hopper (first compiler), Daniel Gabriel Fahrenheit (mercury thermometer)
 - Otto cycle and Diesel cycle (engine thermodynamic cycles); the LASER acronym; transpiration (plant water vapor loss); the Mohs hardness scale; talc as the softest Mohs mineral; metamorphic rock formation
+- More unit lookups: SI unit of luminous flux (Lumen), SI unit of plane angle (Radian), SI unit of solid angle (Steradian, including the reversed "what does steradian measure" framing), SI unit of electric charge (Coulomb), exact defined speed of light in vacuum (299,792,458 m/s — pin any "as of 2026" framing, still the same fact)
+- Superconductor: material with zero electrical resistance below a critical temperature
+- Human-anatomy additions: number of ribs in the adult human body, number of pairs of cranial nerves emerging from the brain, largest muscle in the human body (Gluteus maximus), smallest SKELETAL MUSCLE (Stapedius, in the middle ear — distinct from smallest BONE/Stapes already listed above, but also now covered), total number of teeth in a normal adult (32), tRNA carrying amino acids to the ribosome, platelets/which blood cells are responsible for clotting, DNA base-pairing (adenine-thymine) from either direction, kidney's functional filtering unit (Nephron)
+- Vitamin C: both "which vitamin deficiency causes scurvy" and "which vitamin is also known as ascorbic acid" framings
+- Chemistry basics: citric acid as citrus fruits' main acid, NaHCO3 as baking soda's chemical formula
+- Computing acronym expansions for JPEG, CAPTCHA, SSD, CSS — same collision pattern as the SQL/API/HTTP list above
+- Brendan Eich creating JavaScript at Netscape in 1995
+- Thomas Edison and the first practical incandescent light bulb filament (1879)
+- Device that converts mechanical energy into electrical energy (generator)
+- Galvanization: coating iron/steel with zinc to prevent rust
+- Tungsten's use as incandescent-bulb filament metal (distinct from "highest melting point pure metal," already listed, but also now covered)
 
-CAUTION — some pairs that look like duplicates by shared answer or surface wording are NOT: SI unit of magnetic flux (Weber) is a different quantity from SI unit of magnetic flux DENSITY (Tesla), already covered; "which company developed C#" (Microsoft) is a different fact from "which company developed C" (Bell Labs/AT&T) despite the near-identical question text. Don't skip a fact just because a similarly-worded question already exists — check whether it's actually the same underlying fact first.
+CAUTION — some pairs that look like duplicates by shared answer or surface wording are NOT: SI unit of magnetic flux (Weber) is a different quantity from SI unit of magnetic flux DENSITY (Tesla), already covered. "Which company developed C" (Bell Labs/AT&T) and "which company developed C#" (Microsoft) are different facts despite near-identical question text — but note BOTH angles are now individually covered too, so this is no longer an open pair to exploit, just a reminder not to treat shared wording alone as proof of duplication elsewhere. Don't skip a fact just because a similarly-worded question already exists — check whether it's actually the same underlying fact first.
+
+MAINTENANCE NOTE: this AVOID list has grown past the ~30-40 entry guideline in CLAUDE.md without ever being pruned — next session that touches this file should read through and drop entries "too specific to plausibly recur" per that guidance, rather than only appending.
 
 Use web search to verify every fact — do not rely on memory alone. Prefer authoritative sources (reference databases, encyclopedic sources) over guessing. For each question, actually find the fact via search rather than recalling it, especially for obscure details (specific numbers, dates, records).
 

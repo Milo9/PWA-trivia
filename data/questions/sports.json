@@ -7057,5 +7057,785 @@
       "Thomas Hearns"
     ],
     "answer": "Manny Pacquiao"
+  },
+  {
+    "difficulty": "easy",
+    "category": "sports",
+    "question": "Who holds the women-only marathon world record as of 2026?",
+    "options": [
+      "Tigst Assefa",
+      "Brigid Kosgei",
+      "Paula Radcliffe",
+      "Ruth Chepng'etich"
+    ],
+    "answer": "Tigst Assefa",
+    "id": "sports-330"
+  },
+  {
+    "difficulty": "medium",
+    "category": "sports",
+    "question": "What is the women-only marathon world record time as of 2026?",
+    "options": [
+      "2:15:41",
+      "2:14:04",
+      "2:17:01",
+      "2:13:55"
+    ],
+    "answer": "2:15:41",
+    "id": "sports-331"
+  },
+  {
+    "difficulty": "hard",
+    "category": "sports",
+    "question": "At which event in 2026 did Tigst Assefa set the women-only marathon world record?",
+    "options": [
+      "Berlin Marathon",
+      "Chicago Marathon",
+      "London Marathon",
+      "Boston Marathon"
+    ],
+    "answer": "London Marathon",
+    "id": "sports-332"
+  },
+  {
+    "difficulty": "easy",
+    "category": "sports",
+    "question": "Who holds the women's marathon world record in a mixed-gender race as of 2026?",
+    "options": [
+      "Ruth Chepng'etich",
+      "Tigst Assefa",
+      "Brigid Kosgei",
+      "Paula Radcliffe"
+    ],
+    "answer": "Ruth Chepng'etich",
+    "id": "sports-333"
+  },
+  {
+    "difficulty": "medium",
+    "category": "sports",
+    "question": "What is the women's marathon world record time in a mixed-gender race as of 2026?",
+    "options": [
+      "2:09:56",
+      "2:11:53",
+      "2:14:04",
+      "2:17:01"
+    ],
+    "answer": "2:09:56",
+    "id": "sports-334"
+  },
+  {
+    "difficulty": "hard",
+    "category": "sports",
+    "question": "At which event in 2024 did Ruth Chepng'etich set the women's marathon world record in a mixed-gender race?",
+    "options": [
+      "Boston Marathon",
+      "New York Marathon",
+      "Chicago Marathon",
+      "London Marathon"
+    ],
+    "answer": "Chicago Marathon",
+    "id": "sports-335"
+  },
+  {
+    "difficulty": "easy",
+    "category": "sports",
+    "question": "Who holds the men's marathon world record as of 2026?",
+    "options": [
+      "Eliud Kipchoge",
+      "Kelvin Kiptum",
+      "Sabastian Sawe",
+      "Haile Gebrselassie"
+    ],
+    "answer": "Sabastian Sawe",
+    "id": "sports-336"
+  },
+  {
+    "difficulty": "medium",
+    "category": "sports",
+    "question": "What is the men's marathon world record time as of 2026?",
+    "options": [
+      "1:59:30",
+      "2:00:35",
+      "2:01:09",
+      "1:58:55"
+    ],
+    "answer": "1:59:30",
+    "id": "sports-337"
+  },
+  {
+    "difficulty": "hard",
+    "category": "sports",
+    "question": "At which event in 2026 did Sabastian Sawe set the men's marathon world record?",
+    "options": [
+      "Berlin Marathon",
+      "Chicago Marathon",
+      "London Marathon",
+      "Boston Marathon"
+    ],
+    "answer": "London Marathon",
+    "id": "sports-338"
+  },
+  {
+    "difficulty": "easy",
+    "category": "sports",
+    "question": "Which athlete won 8 gold medals at a single Olympic Games?",
+    "options": [
+      "Usain Bolt",
+      "Carl Lewis",
+      "Michael Phelps",
+      "Mark Spitz"
+    ],
+    "answer": "Michael Phelps",
+    "id": "sports-339"
+  },
+  {
+    "difficulty": "medium",
+    "category": "sports",
+    "question": "At which Olympic Games did Michael Phelps win 8 gold medals?",
+    "options": [
+      "Athens 2004",
+      "Beijing 2008",
+      "London 2012",
+      "Rio 2016"
+    ],
+    "answer": "Beijing 2008",
+    "id": "sports-340"
+  },
+  {
+    "difficulty": "hard",
+    "category": "sports",
+    "question": "In which sport did Michael Phelps win his 8 gold medals at the 2008 Olympics?",
+    "options": [
+      "Athletics",
+      "Gymnastics",
+      "Swimming",
+      "Cycling"
+    ],
+    "answer": "Swimming",
+    "id": "sports-341"
+  },
+  {
+    "difficulty": "medium",
+    "category": "sports",
+    "question": "How many total Winter Olympic medals has Norway won as of 2026?",
+    "options": [
+      "350",
+      "405",
+      "380",
+      "420"
+    ],
+    "answer": "405",
+    "id": "sports-342"
+  },
+  {
+    "difficulty": "hard",
+    "category": "sports",
+    "question": "How many gold medals has Norway won at the Winter Olympics as of 2026?",
+    "options": [
+      "130",
+      "148",
+      "155",
+      "160"
+    ],
+    "answer": "148",
+    "id": "sports-343"
+  },
+  {
+    "difficulty": "easy",
+    "category": "sports",
+    "question": "Which country has won the most Paralympic gold medals as of 2024?",
+    "options": [
+      "China",
+      "Great Britain",
+      "United States",
+      "Australia"
+    ],
+    "answer": "United States",
+    "id": "sports-344"
+  },
+  {
+    "difficulty": "medium",
+    "category": "sports",
+    "question": "How many Paralympic gold medals has the United States won as of 2024?",
+    "options": [
+      "800",
+      "844",
+      "900",
+      "780"
+    ],
+    "answer": "844",
+    "id": "sports-345"
+  },
+  {
+    "difficulty": "easy",
+    "category": "sports",
+    "question": "Which gymnast holds the record for the most World Championship medals?",
+    "options": [
+      "Nastia Liukin",
+      "Simone Biles",
+      "Larisa Latynina",
+      "Aliya Mustafina"
+    ],
+    "answer": "Simone Biles",
+    "id": "sports-346"
+  },
+  {
+    "difficulty": "medium",
+    "category": "sports",
+    "question": "How many World Championship medals has Simone Biles won in gymnastics?",
+    "options": [
+      "25",
+      "28",
+      "30",
+      "32"
+    ],
+    "answer": "30",
+    "id": "sports-347"
+  },
+  {
+    "difficulty": "easy",
+    "category": "sports",
+    "question": "Which tennis player has won the most Olympic gold medals?",
+    "options": [
+      "Serena Williams",
+      "Venus Williams",
+      "Steffi Graf",
+      "Andy Murray"
+    ],
+    "answer": "Venus Williams",
+    "id": "sports-348"
+  },
+  {
+    "difficulty": "medium",
+    "category": "sports",
+    "question": "How many Olympic gold medals has Venus Williams won?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "4",
+    "id": "sports-349"
+  },
+  {
+    "difficulty": "hard",
+    "category": "sports",
+    "question": "Which tennis players are the only ones to have won four Olympic gold medals?",
+    "options": [
+      "Serena and Venus Williams",
+      "Roger Federer and Rafael Nadal",
+      "Novak Djokovic and Andy Murray",
+      "Steffi Graf and Andre Agassi"
+    ],
+    "answer": "Serena and Venus Williams",
+    "id": "sports-350"
+  },
+  {
+    "difficulty": "easy",
+    "category": "sports",
+    "question": "Which NBA team holds the record for the longest winning streak in regular-season history?",
+    "options": [
+      "Boston Celtics",
+      "Golden State Warriors",
+      "Los Angeles Lakers",
+      "Chicago Bulls"
+    ],
+    "answer": "Los Angeles Lakers",
+    "id": "sports-351"
+  },
+  {
+    "difficulty": "medium",
+    "category": "sports",
+    "question": "How many consecutive games did the Los Angeles Lakers win during their longest winning streak?",
+    "options": [
+      "28",
+      "30",
+      "33",
+      "35"
+    ],
+    "answer": "33",
+    "id": "sports-352"
+  },
+  {
+    "difficulty": "hard",
+    "category": "sports",
+    "question": "In which NBA season did the Los Angeles Lakers achieve their longest winning streak?",
+    "options": [
+      "1970-71",
+      "1971-72",
+      "1984-85",
+      "1995-96"
+    ],
+    "answer": "1971-72",
+    "id": "sports-353"
+  },
+  {
+    "difficulty": "easy",
+    "category": "sports",
+    "question": "Which NBA team holds the record for the longest playoff winning streak?",
+    "options": [
+      "Los Angeles Lakers",
+      "Boston Celtics",
+      "Golden State Warriors",
+      "Chicago Bulls"
+    ],
+    "answer": "Golden State Warriors",
+    "id": "sports-354"
+  },
+  {
+    "difficulty": "medium",
+    "category": "sports",
+    "question": "How many consecutive playoff games did the Golden State Warriors win during their longest streak?",
+    "options": [
+      "12",
+      "13",
+      "15",
+      "16"
+    ],
+    "answer": "15",
+    "id": "sports-355"
+  },
+  {
+    "difficulty": "easy",
+    "category": "sports",
+    "question": "As of 2026, which two NFL teams are tied for the most Super Bowl wins?",
+    "options": [
+      "Dallas Cowboys and San Francisco 49ers",
+      "New England Patriots and Pittsburgh Steelers",
+      "Green Bay Packers and New York Giants",
+      "Kansas City Chiefs and Las Vegas Raiders"
+    ],
+    "answer": "New England Patriots and Pittsburgh Steelers",
+    "id": "sports-356"
+  },
+  {
+    "difficulty": "medium",
+    "category": "sports",
+    "question": "How many Super Bowl wins do the New England Patriots and Pittsburgh Steelers each have as of 2026?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "6",
+    "id": "sports-357"
+  },
+  {
+    "difficulty": "hard",
+    "category": "sports",
+    "question": "Which NFL teams have won 5 Super Bowls each as of 2026?",
+    "options": [
+      "Dallas Cowboys and San Francisco 49ers",
+      "Green Bay Packers and New York Giants",
+      "Denver Broncos and Washington Commanders",
+      "Miami Dolphins and Seattle Seahawks"
+    ],
+    "answer": "Dallas Cowboys and San Francisco 49ers",
+    "id": "sports-358"
+  },
+  {
+    "difficulty": "easy",
+    "category": "sports",
+    "question": "Who holds the record for the highest individual score in Test cricket?",
+    "options": [
+      "Sachin Tendulkar",
+      "Brian Lara",
+      "Ricky Ponting",
+      "Virat Kohli"
+    ],
+    "answer": "Brian Lara",
+    "id": "sports-359"
+  },
+  {
+    "difficulty": "medium",
+    "category": "sports",
+    "question": "What is the highest individual score in Test cricket?",
+    "options": [
+      "375",
+      "380",
+      "400 not out",
+      "399"
+    ],
+    "answer": "400 not out",
+    "id": "sports-360"
+  },
+  {
+    "difficulty": "hard",
+    "category": "sports",
+    "question": "Against which team did Brian Lara score his record 400 not out in Test cricket?",
+    "options": [
+      "Australia",
+      "England",
+      "South Africa",
+      "India"
+    ],
+    "answer": "England",
+    "id": "sports-361"
+  },
+  {
+    "difficulty": "easy",
+    "category": "sports",
+    "question": "Which country won the first Rugby World Cup?",
+    "options": [
+      "Australia",
+      "South Africa",
+      "New Zealand",
+      "England"
+    ],
+    "answer": "New Zealand",
+    "id": "sports-362"
+  },
+  {
+    "difficulty": "medium",
+    "category": "sports",
+    "question": "In which year was the first Rugby World Cup held?",
+    "options": [
+      "1983",
+      "1987",
+      "1991",
+      "1995"
+    ],
+    "answer": "1987",
+    "id": "sports-363"
+  },
+  {
+    "difficulty": "easy",
+    "category": "sports",
+    "question": "Which golfers are tied for the most PGA Tour wins of all time?",
+    "options": [
+      "Jack Nicklaus and Arnold Palmer",
+      "Tiger Woods and Phil Mickelson",
+      "Sam Snead and Tiger Woods",
+      "Ben Hogan and Gary Player"
+    ],
+    "answer": "Sam Snead and Tiger Woods",
+    "id": "sports-364"
+  },
+  {
+    "difficulty": "medium",
+    "category": "sports",
+    "question": "How many PGA Tour wins do Sam Snead and Tiger Woods each have?",
+    "options": [
+      "78",
+      "80",
+      "82",
+      "84"
+    ],
+    "answer": "82",
+    "id": "sports-365"
+  },
+  {
+    "difficulty": "hard",
+    "category": "sports",
+    "question": "As of 2026, which golfer has 30 career PGA Tour wins?",
+    "options": [
+      "Dustin Johnson",
+      "Rory McIlroy",
+      "Jordan Spieth",
+      "Justin Thomas"
+    ],
+    "answer": "Rory McIlroy",
+    "id": "sports-366"
+  },
+  {
+    "difficulty": "easy",
+    "category": "sports",
+    "question": "Who was the youngest heavyweight boxing champion in history?",
+    "options": [
+      "Floyd Patterson",
+      "Cassius Clay",
+      "Mike Tyson",
+      "Evander Holyfield"
+    ],
+    "answer": "Mike Tyson",
+    "id": "sports-367"
+  },
+  {
+    "difficulty": "medium",
+    "category": "sports",
+    "question": "At what age did Mike Tyson become the youngest heavyweight boxing champion?",
+    "options": [
+      "19 years, 11 months",
+      "20 years, 4 months",
+      "21 years, 2 months",
+      "18 years, 9 months"
+    ],
+    "answer": "20 years, 4 months",
+    "id": "sports-368"
+  },
+  {
+    "difficulty": "easy",
+    "category": "sports",
+    "question": "Who holds the record for the most Tour de France stage wins?",
+    "options": [
+      "Eddy Merckx",
+      "Bernard Hinault",
+      "Chris Froome",
+      "Mark Cavendish"
+    ],
+    "answer": "Mark Cavendish",
+    "id": "sports-369"
+  },
+  {
+    "difficulty": "medium",
+    "category": "sports",
+    "question": "How many Tour de France stage wins does Mark Cavendish have?",
+    "options": [
+      "30",
+      "34",
+      "35",
+      "36"
+    ],
+    "answer": "35",
+    "id": "sports-370"
+  },
+  {
+    "difficulty": "hard",
+    "category": "sports",
+    "question": "Who has the second-most Tour de France stage wins?",
+    "options": [
+      "Bernard Hinault",
+      "Eddy Merckx",
+      "Jacques Anquetil",
+      "Miguel Indurain"
+    ],
+    "answer": "Eddy Merckx",
+    "id": "sports-371"
+  },
+  {
+    "difficulty": "easy",
+    "category": "sports",
+    "question": "Which esports tournament had a prize pool of $2,881,791 in 2025?",
+    "options": [
+      "League of Legends World Championship",
+      "The International",
+      "Fortnite World Cup",
+      "CS:GO Major"
+    ],
+    "answer": "The International",
+    "id": "sports-372"
+  },
+  {
+    "difficulty": "medium",
+    "category": "sports",
+    "question": "What was the base prize pool for The International 2025?",
+    "options": [
+      "$1,200,000",
+      "$1,400,000",
+      "$1,600,000",
+      "$1,800,000"
+    ],
+    "answer": "$1,600,000",
+    "id": "sports-373"
+  },
+  {
+    "difficulty": "hard",
+    "category": "sports",
+    "question": "How much was raised through in-game sales for The International 2025 prize pool?",
+    "options": [
+      "$981,791",
+      "$1,181,791",
+      "$1,281,791",
+      "$1,381,791"
+    ],
+    "answer": "$1,281,791",
+    "id": "sports-374"
+  },
+  {
+    "difficulty": "easy",
+    "category": "sports",
+    "question": "Which club has won the most Copa Libertadores titles?",
+    "options": [
+      "Boca Juniors",
+      "River Plate",
+      "Independiente",
+      "Flamengo"
+    ],
+    "answer": "Independiente",
+    "id": "sports-375"
+  },
+  {
+    "difficulty": "medium",
+    "category": "sports",
+    "question": "How many Copa Libertadores titles has Independiente won?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "7",
+    "id": "sports-376"
+  },
+  {
+    "difficulty": "hard",
+    "category": "sports",
+    "question": "Which clubs have won the second and third most Copa Libertadores titles, respectively?",
+    "options": [
+      "Boca Juniors with 6, Peñarol with 5",
+      "River Plate with 4, São Paulo with 3",
+      "Santos with 3, Flamengo with 3",
+      "Palmeiras with 3, Grêmio with 3"
+    ],
+    "answer": "Boca Juniors with 6, Peñarol with 5",
+    "id": "sports-377"
+  },
+  {
+    "difficulty": "easy",
+    "category": "sports",
+    "question": "Who holds the MLB career home runs record?",
+    "options": [
+      "Hank Aaron",
+      "Babe Ruth",
+      "Barry Bonds",
+      "Alex Rodriguez"
+    ],
+    "answer": "Barry Bonds",
+    "id": "sports-378"
+  },
+  {
+    "difficulty": "medium",
+    "category": "sports",
+    "question": "How many career home runs does Barry Bonds have?",
+    "options": [
+      "714",
+      "735",
+      "755",
+      "762"
+    ],
+    "answer": "762",
+    "id": "sports-379"
+  },
+  {
+    "difficulty": "hard",
+    "category": "sports",
+    "question": "Who is second in MLB career home runs?",
+    "options": [
+      "Babe Ruth",
+      "Hank Aaron",
+      "Willie Mays",
+      "Alex Rodriguez"
+    ],
+    "answer": "Hank Aaron",
+    "id": "sports-380"
+  },
+  {
+    "difficulty": "easy",
+    "category": "sports",
+    "question": "Who holds the record for the most career pole positions in Formula 1?",
+    "options": [
+      "Ayrton Senna",
+      "Michael Schumacher",
+      "Sebastian Vettel",
+      "Lewis Hamilton"
+    ],
+    "answer": "Lewis Hamilton",
+    "id": "sports-381"
+  },
+  {
+    "difficulty": "easy",
+    "category": "sports",
+    "question": "Which country has won the most Thomas Cup titles?",
+    "options": [
+      "China",
+      "Malaysia",
+      "Indonesia",
+      "Japan"
+    ],
+    "answer": "Indonesia",
+    "id": "sports-382"
+  },
+  {
+    "difficulty": "medium",
+    "category": "sports",
+    "question": "How many Thomas Cup titles has Indonesia won?",
+    "options": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "answer": "14",
+    "id": "sports-383"
+  },
+  {
+    "difficulty": "easy",
+    "category": "sports",
+    "question": "Which country won the 2025 FIVB Men's Volleyball World Championship?",
+    "options": [
+      "Brazil",
+      "Poland",
+      "Italy",
+      "United States"
+    ],
+    "answer": "Italy",
+    "id": "sports-384"
+  },
+  {
+    "difficulty": "medium",
+    "category": "sports",
+    "question": "How many FIVB Men's Volleyball World Championship titles has Italy won as of 2025?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "5",
+    "id": "sports-385"
+  },
+  {
+    "difficulty": "hard",
+    "category": "sports",
+    "question": "Which country historically won the most FIVB Men's Volleyball World Championship titles before 2025?",
+    "options": [
+      "Brazil",
+      "United States",
+      "Soviet Union",
+      "Poland"
+    ],
+    "answer": "Soviet Union",
+    "id": "sports-386"
+  },
+  {
+    "difficulty": "easy",
+    "category": "sports",
+    "question": "Which country has won the most IHF World Men's Handball Championships?",
+    "options": [
+      "Germany",
+      "Sweden",
+      "Denmark",
+      "France"
+    ],
+    "answer": "France",
+    "id": "sports-387"
+  },
+  {
+    "difficulty": "medium",
+    "category": "sports",
+    "question": "How many IHF World Men's Handball Championships has France won?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "6",
+    "id": "sports-388"
+  },
+  {
+    "difficulty": "hard",
+    "category": "sports",
+    "question": "Which countries have each won 4 IHF World Men's Handball Championships?",
+    "options": [
+      "Germany, Sweden, Denmark",
+      "Sweden, Denmark, Romania",
+      "France, Spain, Germany",
+      "Russia, Croatia, Egypt"
+    ],
+    "answer": "Sweden, Denmark, Romania",
+    "id": "sports-389"
   }
 ]

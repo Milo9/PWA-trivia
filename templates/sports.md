@@ -30,6 +30,7 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - The Open Championship as the oldest golf major (first played 1860)
 - Most UEFA Champions League titles (Real Madrid, 15)
 - Women's 100m world record (Florence Griffith-Joyner, 10.49 seconds)
+- Which country has won the most Winter Olympic medals overall (Norway) — distinct from most Winter Olympic GOLD medals, which is also Norway and also already covered
 - Note: an inbox draft was received truncated mid-file on 2026-08-06 (only 129 of a planned ~200 entries survived) — if this template is re-run, the missing back half of that batch was never drafted and its topics are unknown, so don't assume anything beyond what's listed above is covered
 
 Use web search to verify every fact — do not rely on memory alone. Prefer authoritative sources (official league/federation sites, sports reference databases) over guessing. For each question, actually find the fact via search rather than recalling it, especially for obscure details (specific records, lesser-known athletes/events).

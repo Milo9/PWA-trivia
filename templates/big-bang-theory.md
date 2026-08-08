@@ -12,6 +12,31 @@ This category already has hundreds of questions covering all the well-known plot
 2. Character pages' "Trivia" and "Appearances" sections — dense with specific, quiz-able facts that aren't the iconic headline plot beats.
 3. Episode summary/plot pages last, and skim rather than mine deeply — these are exactly the pages most likely to already be covered.
 
+AVOID THESE ANGLES — already well-covered in my question bank, so don't draft facts that overlap with these (pick different, more specific facts instead):
+- Who played Trevor, the guy who cut in line in front of Sheldon at the movies (Blake Anderson)
+- Who played Lizzy, the girl Penny set Raj up with (Morgan Hewitt)
+- Who played Justin, a student at Howard's old middle school (Dawson Fletcher)
+- Who played Joy, Leonard's loud blind date in The Desperation Emanation (Charlotte Newhouse)
+- Who played Lalita Gupta, Raj's arranged date from The Grasshopper Experiment (Sarayu Blue)
+- Who played Santa in The Clean Room Infiltration / The Santa Simulation (Dakin Matthews)
+- Who played Mr. Fowler, Amy's father, the silent magician (Teller)
+- Sheldon Cooper's stated IQ (187)
+- What is Sheldon's middle name (Lee)
+- What breed is Raj's dog Cinnamon (Yorkshire Terrier)
+- Who played FBI Agent Angela Page in The Apology Insufficiency (Eliza Dushku)
+- Who played Mikayla, the prostitute in The Vegas Renormalization (Jodi Lyn O'Keefe)
+- Who played Glenn, Bernadette's muscular ex-boyfriend (Rick Fox)
+- Who played Raj's mother / Priya's mother, Mrs. Koothrappali — same person, treat as a closed pair (Alice Amter)
+- What is Raj's sister's name who briefly dates Leonard (Priya)
+- What is Sheldon's twin sister's name (Missy Cooper)
+- What is Sheldon's father's name (George Cooper Sr.)
+- Who officiated Sheldon and Amy's wedding (Mark Hamill)
+- Who played Kurt, Penny's tall ex-boyfriend from Season 1 (Brian Patrick Wade)
+- What is Howard's middle name (Joel)
+- Howard's astronaut nickname given by Mike Massimino (Froot Loops)
+- Don't frame the "Meemaw"/"Memaw" spelling as if they're two different answers to "what does Sheldon call his grandmother" — same word, ambiguous distractor
+- Don't use "Halley" vs. "Haley"/"Halle" spelling variants as distractors for Bernadette and Howard's daughter's name
+
 For each question, actually find the fact via search rather than recalling it — do not rely on memory alone, especially for obscure details (guest actor names, minor character info, specific numbers/dates).
 
 If any fact involves a "current record," "most," "latest," or similar superlative, pin it to a specific time (e.g. "as of 2026") rather than stating it as a timeless fact, since these claims go stale.

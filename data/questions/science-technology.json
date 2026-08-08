@@ -15819,5 +15819,2085 @@
     ],
     "answer": "Lumen",
     "id": "science-technology-755"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "Which SI derived unit measures magnetic flux density, defined as one weber per square meter?",
+    "options": [
+      "Gauss",
+      "Tesla",
+      "Henry",
+      "Weber"
+    ],
+    "answer": "Tesla",
+    "id": "science-technology-756"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "One lumen is defined as one candela times one unit of what?",
+    "options": [
+      "Lumen-second",
+      "Square meter",
+      "Radian",
+      "Steradian"
+    ],
+    "answer": "Steradian",
+    "id": "science-technology-757"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which SI unit measures equivalent dose of ionizing radiation accounting for biological damage?",
+    "options": [
+      "Becquerel",
+      "Rad",
+      "Sievert",
+      "Gray"
+    ],
+    "answer": "Sievert",
+    "id": "science-technology-758"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "One gray of absorbed radiation dose equals one joule of energy absorbed per what?",
+    "options": [
+      "Gram",
+      "Mole",
+      "Kilogram",
+      "Square meter"
+    ],
+    "answer": "Kilogram",
+    "id": "science-technology-759"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What is the characteristic blue glow observed in water surrounding a nuclear reactor core called, as of 2026?",
+    "options": [
+      "Bremsstrahlung",
+      "Scintillation",
+      "Synchrotron radiation",
+      "Cherenkov radiation"
+    ],
+    "answer": "Cherenkov radiation",
+    "id": "science-technology-760"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "Which hadron is composed of two up quarks and one down quark (uud)?",
+    "options": [
+      "Pion",
+      "Proton",
+      "Neutron",
+      "Kaon"
+    ],
+    "answer": "Proton",
+    "id": "science-technology-761"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "Which law states that the force needed to extend a spring is proportional to its extension?",
+    "options": [
+      "Hooke's law",
+      "Pascal's law",
+      "Boyle's law",
+      "Charles's law"
+    ],
+    "answer": "Hooke's law",
+    "id": "science-technology-762"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which law relates the sines of incidence and refraction angles to the refractive indices of two media?",
+    "options": [
+      "Bragg's law",
+      "Malus's law",
+      "Snell's law",
+      "Fresnel's law"
+    ],
+    "answer": "Snell's law",
+    "id": "science-technology-763"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which elementary boson mediates the electromagnetic force?",
+    "options": [
+      "W boson",
+      "Higgs boson",
+      "Gluon",
+      "Photon"
+    ],
+    "answer": "Photon",
+    "id": "science-technology-764"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "Which SI unit measures illuminance, defined as one lumen per square meter?",
+    "options": [
+      "Nit",
+      "Lumen",
+      "Candela",
+      "Lux"
+    ],
+    "answer": "Lux",
+    "id": "science-technology-765"
+  },
+  {
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Which principle states that no two fermions can occupy the same quantum state simultaneously within a quantum system?",
+    "options": [
+      "Aufbau principle",
+      "Pauli exclusion principle",
+      "Heisenberg principle",
+      "Hund's rule"
+    ],
+    "answer": "Pauli exclusion principle",
+    "id": "science-technology-766"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which phenomenon describes the ejection of electrons from a metal surface when illuminated by light?",
+    "options": [
+      "Thermionic emission",
+      "Compton effect",
+      "Pair production",
+      "Photoelectric effect"
+    ],
+    "answer": "Photoelectric effect",
+    "id": "science-technology-767"
+  },
+  {
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "The Meissner effect describes the expulsion of magnetic fields from what type of material?",
+    "options": [
+      "Superconductor",
+      "Diamagnet",
+      "Paramagnet",
+      "Ferromagnet"
+    ],
+    "answer": "Superconductor",
+    "id": "science-technology-768"
+  },
+  {
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Below approximately what temperature does mercury become superconducting, as discovered in 1911?",
+    "options": [
+      "77 K",
+      "0.5 K",
+      "4.2 K",
+      "20 K"
+    ],
+    "answer": "4.2 K",
+    "id": "science-technology-769"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which law states that the induced electromotive force is proportional to the rate of change of magnetic flux?",
+    "options": [
+      "Ohm's law",
+      "Coulomb's law",
+      "Ampere's law",
+      "Faraday's law of induction"
+    ],
+    "answer": "Faraday's law of induction",
+    "id": "science-technology-770"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "One coulomb is equivalent to one ampere multiplied by one what?",
+    "options": [
+      "Second",
+      "Volt",
+      "Ohm",
+      "Meter"
+    ],
+    "answer": "Second",
+    "id": "science-technology-771"
+  },
+  {
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Which quark is the lightest, with a charge of +2/3 and first-generation membership?",
+    "options": [
+      "Up quark",
+      "Down quark",
+      "Strange quark",
+      "Charm quark"
+    ],
+    "answer": "Up quark",
+    "id": "science-technology-772"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "Which instrument is designed to measure very small electric currents?",
+    "options": [
+      "Galvanometer",
+      "Voltmeter",
+      "Manometer",
+      "Barograph"
+    ],
+    "answer": "Galvanometer",
+    "id": "science-technology-773"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which phenomenon produces light when certain crystals like sugar are crushed, famously seen with Wint-O-Green Life Savers?",
+    "options": [
+      "Triboluminescence",
+      "Electroluminescence",
+      "Photoluminescence",
+      "Chemiluminescence"
+    ],
+    "answer": "Triboluminescence",
+    "id": "science-technology-774"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What is the generation of electric charge in response to mechanical stress called, used in quartz watches?",
+    "options": [
+      "Piezoelectricity",
+      "Pyroelectricity",
+      "Ferroelectricity",
+      "Triboelectricity"
+    ],
+    "answer": "Piezoelectricity",
+    "id": "science-technology-775"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What is the random jittering motion of pollen grains suspended in water called, first observed in 1827?",
+    "options": [
+      "Brownian motion",
+      "Oscillatory motion",
+      "Laminar flow",
+      "Convection"
+    ],
+    "answer": "Brownian motion",
+    "id": "science-technology-776"
+  },
+  {
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Which particle is its own antiparticle and is the quantum of light?",
+    "options": [
+      "Electron",
+      "Photon",
+      "Neutrino",
+      "Proton"
+    ],
+    "answer": "Photon",
+    "id": "science-technology-777"
+  },
+  {
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "What does one electronvolt represent in terms of energy?",
+    "options": [
+      "Energy gained by one electron through 1 volt",
+      "Energy of one photon at 1 Hz",
+      "Kinetic energy of electron at 1 m/s",
+      "Potential energy of proton in 1 tesla"
+    ],
+    "answer": "Energy gained by one electron through 1 volt",
+    "id": "science-technology-778"
+  },
+  {
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "What is the predicted temperature of the cosmic microwave background radiation as of 2026 measurements?",
+    "options": [
+      "2.725 K",
+      "0 K",
+      "273 K",
+      "5.5 K"
+    ],
+    "answer": "2.725 K",
+    "id": "science-technology-779"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which effect describes the decrease in electrical resistance of a material under an external magnetic field?",
+    "options": [
+      "Hall effect",
+      "Magnetoresistance",
+      "Skin effect",
+      "Seebeck effect"
+    ],
+    "answer": "Magnetoresistance",
+    "id": "science-technology-780"
+  },
+  {
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "What type of lens has a negative focal length and diverges light rays?",
+    "options": [
+      "Convex lens",
+      "Concave lens",
+      "Fresnel lens",
+      "Achromatic lens"
+    ],
+    "answer": "Concave lens",
+    "id": "science-technology-781"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What color of light has the longest wavelength in the visible spectrum?",
+    "options": [
+      "Violet",
+      "Blue",
+      "Green",
+      "Red"
+    ],
+    "answer": "Red",
+    "id": "science-technology-782"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which thermodynamic quantity remains constant in an adiabatic reversible process?",
+    "options": [
+      "Enthalpy",
+      "Entropy",
+      "Internal energy",
+      "Gibbs free energy"
+    ],
+    "answer": "Entropy",
+    "id": "science-technology-783"
+  },
+  {
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "As of 2026, what is the SI definition of one kilogram based on?",
+    "options": [
+      "Platinum-iridium cylinder",
+      "Planck constant",
+      "Avogadro's number",
+      "Water volume"
+    ],
+    "answer": "Planck constant",
+    "id": "science-technology-784"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which particle has a charge of -1/3 and is a constituent of neutrons?",
+    "options": [
+      "Up quark",
+      "Down quark",
+      "Electron",
+      "Muon"
+    ],
+    "answer": "Down quark",
+    "id": "science-technology-785"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "Which form of energy transfer does NOT require a medium?",
+    "options": [
+      "Conduction",
+      "Convection",
+      "Radiation",
+      "Advection"
+    ],
+    "answer": "Radiation",
+    "id": "science-technology-786"
+  },
+  {
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "What is the name for the minimum energy needed to remove an electron from a solid to a point in vacuum immediately outside?",
+    "options": [
+      "Work function",
+      "Band gap",
+      "Ionization energy",
+      "Electron affinity"
+    ],
+    "answer": "Work function",
+    "id": "science-technology-787"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which SI unit measures catalytic activity?",
+    "options": [
+      "Katal",
+      "Becquerel",
+      "Sievert",
+      "Enzyme unit"
+    ],
+    "answer": "Katal",
+    "id": "science-technology-788"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What does the term 'supersonic' mean regarding speed?",
+    "options": [
+      "Faster than light",
+      "Faster than sound",
+      "Faster than Mach 2",
+      "Faster than orbital velocity"
+    ],
+    "answer": "Faster than sound",
+    "id": "science-technology-789"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What is the chemical symbol for molybdenum?",
+    "options": [
+      "Ml",
+      "Mo",
+      "My",
+      "Mb"
+    ],
+    "answer": "Mo",
+    "id": "science-technology-790"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What is the chemical symbol for cadmium?",
+    "options": [
+      "Cb",
+      "Ca",
+      "Cd",
+      "Cm"
+    ],
+    "answer": "Cd",
+    "id": "science-technology-791"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What is the chemical symbol for indium?",
+    "options": [
+      "Ir",
+      "In",
+      "I",
+      "Id"
+    ],
+    "answer": "In",
+    "id": "science-technology-792"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What is the chemical symbol for iodine?",
+    "options": [
+      "Id",
+      "Ir",
+      "In",
+      "I"
+    ],
+    "answer": "I",
+    "id": "science-technology-793"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What acid gives ant stings their painful sensation?",
+    "options": [
+      "Lactic acid",
+      "Formic acid",
+      "Citric acid",
+      "Acetic acid"
+    ],
+    "answer": "Formic acid",
+    "id": "science-technology-794"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What is the chemical formula for quartz, the second most abundant mineral in Earth's crust?",
+    "options": [
+      "SiO2",
+      "Fe2O3",
+      "Al2O3",
+      "CaCO3"
+    ],
+    "answer": "SiO2",
+    "id": "science-technology-795"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What is the chemical formula for limestone (calcium carbonate)?",
+    "options": [
+      "CaSO4",
+      "CaCO3",
+      "Ca(OH)2",
+      "CaO"
+    ],
+    "answer": "CaCO3",
+    "id": "science-technology-796"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Approximately how many naturally occurring elements exist on Earth as of 2026?",
+    "options": [
+      "92",
+      "118",
+      "94",
+      "108"
+    ],
+    "answer": "94",
+    "id": "science-technology-797"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "Which polymer is commonly known by the brand name Teflon?",
+    "options": [
+      "Polyvinyl chloride",
+      "Polypropylene",
+      "Polytetrafluoroethylene",
+      "Polyethylene"
+    ],
+    "answer": "Polytetrafluoroethylene",
+    "id": "science-technology-798"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What element is added to iron to make steel, typically 0.02% to 2% by weight?",
+    "options": [
+      "Manganese",
+      "Carbon",
+      "Chromium",
+      "Nickel"
+    ],
+    "answer": "Carbon",
+    "id": "science-technology-799"
+  },
+  {
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Which element has atomic number 92?",
+    "options": [
+      "Protactinium",
+      "Uranium",
+      "Thorium",
+      "Plutonium"
+    ],
+    "answer": "Uranium",
+    "id": "science-technology-800"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What is the chemical symbol for cobalt?",
+    "options": [
+      "Co",
+      "Cb",
+      "Cl",
+      "Ct"
+    ],
+    "answer": "Co",
+    "id": "science-technology-801"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What is the pH scale based on, mathematically?",
+    "options": [
+      "Square root",
+      "Linear concentration",
+      "Exponential growth",
+      "Logarithmic concentration"
+    ],
+    "answer": "Logarithmic concentration",
+    "id": "science-technology-802"
+  },
+  {
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Which allotrope of carbon is a single layer of atoms arranged in a hexagonal lattice?",
+    "options": [
+      "Fullerene",
+      "Carbon nanotube",
+      "Diamond",
+      "Graphene"
+    ],
+    "answer": "Graphene",
+    "id": "science-technology-803"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What is the term for a gas turning directly into a solid, the reverse of sublimation?",
+    "options": [
+      "Crystallization",
+      "Solidification",
+      "Deposition",
+      "Condensation"
+    ],
+    "answer": "Deposition",
+    "id": "science-technology-804"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What is the chemical symbol for nickel?",
+    "options": [
+      "Ne",
+      "No",
+      "Ni",
+      "N"
+    ],
+    "answer": "Ni",
+    "id": "science-technology-805"
+  },
+  {
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Which noble gas is used in bright orange-red advertising signs?",
+    "options": [
+      "Argon",
+      "Krypton",
+      "Neon",
+      "Xenon"
+    ],
+    "answer": "Neon",
+    "id": "science-technology-806"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What is the main gas released when vinegar reacts with baking soda?",
+    "options": [
+      "Nitrogen",
+      "Carbon dioxide",
+      "Oxygen",
+      "Hydrogen"
+    ],
+    "answer": "Carbon dioxide",
+    "id": "science-technology-807"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What is the chemical symbol for manganese?",
+    "options": [
+      "Ma",
+      "Mg",
+      "Mn",
+      "Mo"
+    ],
+    "answer": "Mn",
+    "id": "science-technology-808"
+  },
+  {
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Which element has the highest first ionization energy among stable elements?",
+    "options": [
+      "Hydrogen",
+      "Neon",
+      "Helium",
+      "Fluorine"
+    ],
+    "answer": "Helium",
+    "id": "science-technology-809"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What type of reaction absorbs heat from its surroundings?",
+    "options": [
+      "Exothermic",
+      "Exergonic",
+      "Isothermic",
+      "Endothermic"
+    ],
+    "answer": "Endothermic",
+    "id": "science-technology-810"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which laboratory apparatus is used to separate liquids based on boiling points?",
+    "options": [
+      "Crucible",
+      "Beaker",
+      "Burette",
+      "Distillation column"
+    ],
+    "answer": "Distillation column",
+    "id": "science-technology-811"
+  },
+  {
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "What is the chemical symbol for selenium?",
+    "options": [
+      "S",
+      "Si",
+      "Se",
+      "Sl"
+    ],
+    "answer": "Se",
+    "id": "science-technology-812"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which acid is found in high concentration in rhubarb leaves and can form kidney stones?",
+    "options": [
+      "Oxalic acid",
+      "Formic acid",
+      "Phosphoric acid",
+      "Uric acid"
+    ],
+    "answer": "Oxalic acid",
+    "id": "science-technology-813"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What does the 'C' in organic chemistry typically bond with four times?",
+    "options": [
+      "Other carbons",
+      "Hydrogen only",
+      "Oxygen",
+      "Carbon bonds"
+    ],
+    "answer": "Carbon bonds",
+    "id": "science-technology-814"
+  },
+  {
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Which element has chemical symbol 'U' and is named after a planet?",
+    "options": [
+      "Ununbium",
+      "Upsilon",
+      "Uranium",
+      "Uran"
+    ],
+    "answer": "Uranium",
+    "id": "science-technology-815"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What is the chemical symbol for chromium?",
+    "options": [
+      "C",
+      "Cm",
+      "Cr",
+      "Ch"
+    ],
+    "answer": "Cr",
+    "id": "science-technology-816"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "Which gas is used to make fizzy drinks fizzy?",
+    "options": [
+      "Carbon dioxide",
+      "Oxygen",
+      "Hydrogen",
+      "Nitrogen"
+    ],
+    "answer": "Carbon dioxide",
+    "id": "science-technology-817"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "How many individual vertebrae comprise the human vertebral column before fusion?",
+    "options": [
+      "26",
+      "24",
+      "31",
+      "33"
+    ],
+    "answer": "33",
+    "id": "science-technology-818"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "How many permanent teeth does a complete adult human dentition have, including wisdom teeth?",
+    "options": [
+      "36",
+      "32",
+      "28",
+      "20"
+    ],
+    "answer": "32",
+    "id": "science-technology-819"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "How many deciduous (primary/baby) teeth do humans normally develop?",
+    "options": [
+      "24",
+      "32",
+      "20",
+      "16"
+    ],
+    "answer": "20",
+    "id": "science-technology-820"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "How many phalanges (finger bones) are there in one human hand?",
+    "options": [
+      "15",
+      "14",
+      "27",
+      "10"
+    ],
+    "answer": "14",
+    "id": "science-technology-821"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "Approximately what percentage of human blood volume is plasma?",
+    "options": [
+      "45%",
+      "35%",
+      "55%",
+      "65%"
+    ],
+    "answer": "55%",
+    "id": "science-technology-822"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which ABO blood group is the universal plasma donor, as of 2026 medical guidelines?",
+    "options": [
+      "B",
+      "O",
+      "AB",
+      "A"
+    ],
+    "answer": "AB",
+    "id": "science-technology-823"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "Which enzyme in saliva begins the digestion of starch?",
+    "options": [
+      "Pepsin",
+      "Lipase",
+      "Trypsin",
+      "Amylase"
+    ],
+    "answer": "Amylase",
+    "id": "science-technology-824"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "Which enzyme in the stomach breaks down proteins?",
+    "options": [
+      "Pepsin",
+      "Amylase",
+      "Maltase",
+      "Lipase"
+    ],
+    "answer": "Pepsin",
+    "id": "science-technology-825"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which vitamin contains a cobalt atom at its core and is called cobalamin?",
+    "options": [
+      "Vitamin B2",
+      "Vitamin B6",
+      "Vitamin B12",
+      "Vitamin B9"
+    ],
+    "answer": "Vitamin B12",
+    "id": "science-technology-826"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "How many codons are there in the standard genetic code?",
+    "options": [
+      "20",
+      "61",
+      "64",
+      "32"
+    ],
+    "answer": "64",
+    "id": "science-technology-827"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which brain region is primarily associated with formation of new long-term memories?",
+    "options": [
+      "Thalamus",
+      "Hippocampus",
+      "Hypothalamus",
+      "Pons"
+    ],
+    "answer": "Hippocampus",
+    "id": "science-technology-828"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which brain area in the frontal lobe is crucial for speech production?",
+    "options": [
+      "Amygdala",
+      "Broca's area",
+      "Basal ganglia",
+      "Wernicke's area"
+    ],
+    "answer": "Broca's area",
+    "id": "science-technology-829"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "Which part of the brain is heavily involved in processing emotions like fear?",
+    "options": [
+      "Cerebellum",
+      "Amygdala",
+      "Corpus callosum",
+      "Medulla"
+    ],
+    "answer": "Amygdala",
+    "id": "science-technology-830"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What type of cell division results in four genetically non-identical daughter cells with half the chromosomes?",
+    "options": [
+      "Binary fission",
+      "Meiosis",
+      "Mitosis",
+      "Budding"
+    ],
+    "answer": "Meiosis",
+    "id": "science-technology-831"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "How many pairs of chromosomes do humans typically have in each somatic cell?",
+    "options": [
+      "22 pairs",
+      "23 pairs",
+      "46 pairs",
+      "24 pairs"
+    ],
+    "answer": "23 pairs",
+    "id": "science-technology-832"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What is the liquid part of blood called after clotting factors are removed?",
+    "options": [
+      "Plasma",
+      "Interstitial fluid",
+      "Lymph",
+      "Serum"
+    ],
+    "answer": "Serum",
+    "id": "science-technology-833"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which gland produces parathyroid hormone that regulates calcium levels?",
+    "options": [
+      "Parathyroid glands",
+      "Thyroid gland",
+      "Adrenal glands",
+      "Pituitary gland"
+    ],
+    "answer": "Parathyroid glands",
+    "id": "science-technology-834"
+  },
+  {
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "How many carpal bones are there in one human wrist?",
+    "options": [
+      "8",
+      "7",
+      "10",
+      "6"
+    ],
+    "answer": "8",
+    "id": "science-technology-835"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "Which bone in the forearm is on the thumb side?",
+    "options": [
+      "Ulna",
+      "Scaphoid",
+      "Radius",
+      "Humerus"
+    ],
+    "answer": "Radius",
+    "id": "science-technology-836"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which vitamin is essential for night vision as a component of rhodopsin?",
+    "options": [
+      "Vitamin C",
+      "Vitamin B1",
+      "Vitamin A",
+      "Vitamin E"
+    ],
+    "answer": "Vitamin A",
+    "id": "science-technology-837"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What is the name of the protein filament that, along with actin, causes muscle contraction?",
+    "options": [
+      "Myosin",
+      "Collagen",
+      "Elastin",
+      "Tubulin"
+    ],
+    "answer": "Myosin",
+    "id": "science-technology-838"
+  },
+  {
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Which type of joint is the shoulder joint?",
+    "options": [
+      "Pivot joint",
+      "Ball-and-socket joint",
+      "Saddle joint",
+      "Hinge joint"
+    ],
+    "answer": "Ball-and-socket joint",
+    "id": "science-technology-839"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "How many incisors does a normal adult human have?",
+    "options": [
+      "12",
+      "6",
+      "8",
+      "4"
+    ],
+    "answer": "8",
+    "id": "science-technology-840"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which organelle is known as the powerhouse of the cell for ATP production?",
+    "options": [
+      "Ribosome",
+      "Chloroplast",
+      "Lysosome",
+      "Mitochondrion"
+    ],
+    "answer": "Mitochondrion",
+    "id": "science-technology-841"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What is the term for having an extra chromosome, such as in Down syndrome?",
+    "options": [
+      "Polyploidy",
+      "Monosomy",
+      "Aneuploidy",
+      "Trisomy"
+    ],
+    "answer": "Trisomy",
+    "id": "science-technology-842"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "Which blood type contains both A and B antigens on red cells?",
+    "options": [
+      "Type AB",
+      "Type O",
+      "Type A",
+      "Type B"
+    ],
+    "answer": "Type AB",
+    "id": "science-technology-843"
+  },
+  {
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Which layer of skin contains blood vessels, nerves, and hair follicles?",
+    "options": [
+      "Epidermis",
+      "Stratum corneum",
+      "Dermis",
+      "Hypodermis"
+    ],
+    "answer": "Dermis",
+    "id": "science-technology-844"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which immunoglobulin is the most abundant antibody in blood serum?",
+    "options": [
+      "IgM",
+      "IgA",
+      "IgG",
+      "IgE"
+    ],
+    "answer": "IgG",
+    "id": "science-technology-845"
+  },
+  {
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Which enzyme unwinds the DNA double helix during replication?",
+    "options": [
+      "Helicase",
+      "Ligase",
+      "Nuclease",
+      "Polymerase"
+    ],
+    "answer": "Helicase",
+    "id": "science-technology-846"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What is the scientific name for the collarbone?",
+    "options": [
+      "Scapula",
+      "Clavicle",
+      "Fibula",
+      "Sternum"
+    ],
+    "answer": "Clavicle",
+    "id": "science-technology-847"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which three scientists are credited with the first working transistor at Bell Labs in December 1947?",
+    "options": [
+      "Shockley, Bardeen, Brattain",
+      "Moore, Noyce, Grove",
+      "von Neumann, Shannon, Wiener",
+      "Kilby, Bardeen, Brattain"
+    ],
+    "answer": "Shockley, Bardeen, Brattain",
+    "id": "science-technology-848"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which two engineers independently invented the integrated circuit in 1958-1959?",
+    "options": [
+      "Seymour Cray and John Bardeen",
+      "Jack Kilby and Robert Noyce",
+      "William Shockley and Gordon Moore",
+      "Robert Metcalfe and Vint Cerf"
+    ],
+    "answer": "Jack Kilby and Robert Noyce",
+    "id": "science-technology-849"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What material was the casing of the first computer mouse prototype made of in 1964?",
+    "options": [
+      "Bakelite",
+      "Plastic",
+      "Aluminum",
+      "Wood"
+    ],
+    "answer": "Wood",
+    "id": "science-technology-850"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "Who patented the QWERTY keyboard layout in 1868 and sold it in 1873?",
+    "options": [
+      "Christopher Latham Sholes",
+      "Thomas Edison",
+      "Alexander Graham Bell",
+      "James Densmore"
+    ],
+    "answer": "Christopher Latham Sholes",
+    "id": "science-technology-851"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Who created the Ruby programming language in the mid-1990s?",
+    "options": [
+      "Larry Wall",
+      "Guido van Rossum",
+      "Yukihiro Matsumoto",
+      "Rasmus Lerdorf"
+    ],
+    "answer": "Yukihiro Matsumoto",
+    "id": "science-technology-852"
+  },
+  {
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Who originally designed the Rust programming language, first appearing in 2010?",
+    "options": [
+      "Brendan Eich",
+      "Graydon Hoare",
+      "Anders Hejlsberg",
+      "John Carmack"
+    ],
+    "answer": "Graydon Hoare",
+    "id": "science-technology-853"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "In computing, what does RAID stand for?",
+    "options": [
+      "Rapid Access Integrated Data",
+      "Redundant Array of Independent Disks",
+      "Remote Array of Intelligent Devices",
+      "Random Array of Inexpensive Drives"
+    ],
+    "answer": "Redundant Array of Independent Disks",
+    "id": "science-technology-854"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What does DNS stand for in internet infrastructure?",
+    "options": [
+      "Digital Network System",
+      "Domain Name System",
+      "Dynamic Node Service",
+      "Data Number Sequence"
+    ],
+    "answer": "Domain Name System",
+    "id": "science-technology-855"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What does JSON stand for?",
+    "options": [
+      "JavaScript Object Notation",
+      "Java Standard Object Notation",
+      "Joint System Object Network",
+      "JavaScript Oriented Nodes"
+    ],
+    "answer": "JavaScript Object Notation",
+    "id": "science-technology-856"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What does PNG stand for as an image format?",
+    "options": [
+      "Picture Network Grid",
+      "Portable Network Graphics",
+      "Public Network Gram",
+      "Printable New Graphic"
+    ],
+    "answer": "Portable Network Graphics",
+    "id": "science-technology-857"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What does SMTP stand for, the protocol for sending email?",
+    "options": [
+      "System Mail Transfer Package",
+      "Simple Mail Transfer Protocol",
+      "Secure Mail Transmission Process",
+      "Synchronous Mail Transport Protocol"
+    ],
+    "answer": "Simple Mail Transfer Protocol",
+    "id": "science-technology-858"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What does BIOS stand for in a personal computer?",
+    "options": [
+      "Basic Input Output System",
+      "Built-In Operating Service",
+      "Basic Internal OS",
+      "Binary Integrated Operating System"
+    ],
+    "answer": "Basic Input Output System",
+    "id": "science-technology-859"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What does RISC stand for in processor design?",
+    "options": [
+      "Rapid Integrated Silicon Circuit",
+      "Reduced Instruction Set Computer",
+      "Random Instruction Sequential Code",
+      "Reduced Integrated System Chip"
+    ],
+    "answer": "Reduced Instruction Set Computer",
+    "id": "science-technology-860"
+  },
+  {
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Which sorting algorithm has an average time complexity of O(n log n) and is based on divide-and-conquer with a pivot?",
+    "options": [
+      "Bubble sort",
+      "Quicksort",
+      "Insertion sort",
+      "Selection sort"
+    ],
+    "answer": "Quicksort",
+    "id": "science-technology-861"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which data structure operates on a LIFO (last-in, first-out) principle?",
+    "options": [
+      "Queue",
+      "Heap",
+      "Stack",
+      "Linked list"
+    ],
+    "answer": "Stack",
+    "id": "science-technology-862"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "In computer networking, what does TCP stand for?",
+    "options": [
+      "Transmission Control Protocol",
+      "Transfer Connection Protocol",
+      "Total Communication Path",
+      "Telecom Control Process"
+    ],
+    "answer": "Transmission Control Protocol",
+    "id": "science-technology-863"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What does LED stand for in electronics?",
+    "options": [
+      "Low Energy Display",
+      "Light Emitting Diode",
+      "Laser Emitting Device",
+      "Logic Electronic Device"
+    ],
+    "answer": "Light Emitting Diode",
+    "id": "science-technology-864"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which binary number system digit is the fundamental unit of information called?",
+    "options": [
+      "Byte",
+      "Bit",
+      "Word",
+      "Nibble"
+    ],
+    "answer": "Bit",
+    "id": "science-technology-866"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What does GUI stand for?",
+    "options": [
+      "Graphical User Interface",
+      "Guided User Instruction",
+      "General Utility Interface",
+      "Global User Integration"
+    ],
+    "answer": "Graphical User Interface",
+    "id": "science-technology-867"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which programming paradigm is based on objects containing data and methods?",
+    "options": [
+      "Procedural programming",
+      "Object-oriented programming",
+      "Functional programming",
+      "Logic programming"
+    ],
+    "answer": "Object-oriented programming",
+    "id": "science-technology-868"
+  },
+  {
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Which protocol secures HTTP with TLS, as of 2026 standard for web browsing?",
+    "options": [
+      "FTPS",
+      "SFTP",
+      "SSL",
+      "HTTPS"
+    ],
+    "answer": "HTTPS",
+    "id": "science-technology-869"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "How many bits are in one byte as of 2026 standard?",
+    "options": [
+      "8",
+      "16",
+      "4",
+      "10"
+    ],
+    "answer": "8",
+    "id": "science-technology-870"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which early mechanical computer was designed by Charles Babbage in the 1830s?",
+    "options": [
+      "Turing Machine",
+      "ENIAC",
+      "Difference Engine",
+      "Analytical Engine"
+    ],
+    "answer": "Analytical Engine",
+    "id": "science-technology-871"
+  },
+  {
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "What is the time complexity of binary search on a sorted array of n elements?",
+    "options": [
+      "O(n log n)",
+      "O(1)",
+      "O(n)",
+      "O(log n)"
+    ],
+    "answer": "O(log n)",
+    "id": "science-technology-872"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What does HTML stand for? Note: HTTP is forbidden, but HTML expansion is allowed.",
+    "options": [
+      "Hyper Transfer Markup Logic",
+      "Hyperlink Text Management Language",
+      "HyperText Markup Language",
+      "HighText Machine Language"
+    ],
+    "answer": "HyperText Markup Language",
+    "id": "science-technology-873"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which computer scientist formulated the halting problem proof?",
+    "options": [
+      "John von Neumann",
+      "Alan Turing",
+      "Claude Shannon",
+      "Alonzo Church"
+    ],
+    "answer": "Alan Turing",
+    "id": "science-technology-874"
+  },
+  {
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "What does GNU stand for recursively?",
+    "options": [
+      "Great New Unix",
+      "GNU's Not Unix",
+      "General Network Utility",
+      "Global Network Userbase"
+    ],
+    "answer": "GNU's Not Unix",
+    "id": "science-technology-875"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "Which input device was invented by Douglas Engelbart in 1964?",
+    "options": [
+      "Trackball",
+      "Keyboard",
+      "Joystick",
+      "Mouse"
+    ],
+    "answer": "Mouse",
+    "id": "science-technology-876"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What does URL stand for? This was on avoid list, so we ask for URI instead: What does URI stand for?",
+    "options": [
+      "Uniform Resource Identifier",
+      "Universal Routing Indicator",
+      "Unified Resource Index",
+      "Uniform Retrieval Interface"
+    ],
+    "answer": "Uniform Resource Identifier",
+    "id": "science-technology-877"
+  },
+  {
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Which company created the Go programming language in 2009?",
+    "options": [
+      "Apple",
+      "Microsoft",
+      "Google",
+      "IBM"
+    ],
+    "answer": "Google",
+    "id": "science-technology-878"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What does VoIP stand for?",
+    "options": [
+      "Verified Online Identity Protocol",
+      "Virtual over IP",
+      "Video over IP",
+      "Voice over Internet Protocol"
+    ],
+    "answer": "Voice over Internet Protocol",
+    "id": "science-technology-879"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "Which type of malware encrypts files and demands payment, prominent as of 2026?",
+    "options": [
+      "Ransomware",
+      "Adware",
+      "Spyware",
+      "Worm"
+    ],
+    "answer": "Ransomware",
+    "id": "science-technology-880"
+  },
+  {
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Which algorithm is used to securely hash passwords as of 2026 best practice, replacing MD5 and SHA1?",
+    "options": [
+      "Base64",
+      "DES",
+      "ROT13",
+      "bcrypt"
+    ],
+    "answer": "bcrypt",
+    "id": "science-technology-881"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What minimum percentage of chromium by mass must an iron alloy contain to be classified as stainless steel?",
+    "options": [
+      "2.5%",
+      "10.5%",
+      "5%",
+      "18%"
+    ],
+    "answer": "10.5%",
+    "id": "science-technology-882"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Who patented Portland cement in 1824, naming it after stone from the Isle of Portland?",
+    "options": [
+      "John Smeaton",
+      "Louis Vicat",
+      "Joseph Bramah",
+      "Joseph Aspdin"
+    ],
+    "answer": "Joseph Aspdin",
+    "id": "science-technology-883"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which German physicist invented the CRT oscilloscope (Braun tube) in 1897?",
+    "options": [
+      "Heinrich Hertz",
+      "Wilhelm Röntgen",
+      "Karl Ferdinand Braun",
+      "Gustav Hertz"
+    ],
+    "answer": "Karl Ferdinand Braun",
+    "id": "science-technology-884"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "The Geiger-Müller counter tube is named for which two German physicists?",
+    "options": [
+      "Hans Geiger and Walther Müller",
+      "Hans Geiger and Ernest Rutherford",
+      "Hans Geiger and James Chadwick",
+      "Walther Bothe and Hans Geiger"
+    ],
+    "answer": "Hans Geiger and Walther Müller",
+    "id": "science-technology-885"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "The decibel unit is named in honor of which inventor of the telephone?",
+    "options": [
+      "Guglielmo Marconi",
+      "Thomas Edison",
+      "Alexander Graham Bell",
+      "Elisha Gray"
+    ],
+    "answer": "Alexander Graham Bell",
+    "id": "science-technology-886"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which scale, introduced in 1935, quantifies earthquake magnitude based on seismograph amplitude?",
+    "options": [
+      "Beaufort scale",
+      "Fujita scale",
+      "Mercalli scale",
+      "Richter scale"
+    ],
+    "answer": "Richter scale",
+    "id": "science-technology-887"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What does the addition of carbon to iron produce?",
+    "options": [
+      "Pewter",
+      "Brass",
+      "Steel",
+      "Bronze"
+    ],
+    "answer": "Steel",
+    "id": "science-technology-888"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What are the three basic components of concrete?",
+    "options": [
+      "Lime, sand, clay",
+      "Cement, water, aggregate",
+      "Gypsum, water, steel",
+      "Cement, sand, steel"
+    ],
+    "answer": "Cement, water, aggregate",
+    "id": "science-technology-889"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which instrument measures electric potential difference?",
+    "options": [
+      "Ohmmeter",
+      "Galvanometer",
+      "Ammeter",
+      "Voltmeter"
+    ],
+    "answer": "Voltmeter",
+    "id": "science-technology-890"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which type of bridge uses cables suspended from towers to support the deck?",
+    "options": [
+      "Beam bridge",
+      "Suspension bridge",
+      "Arch bridge",
+      "Cantilever bridge"
+    ],
+    "answer": "Suspension bridge",
+    "id": "science-technology-891"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "Which material is commonly used as a semiconductor in computer chips as of 2026?",
+    "options": [
+      "Copper",
+      "Silicon",
+      "Aluminum",
+      "Gold"
+    ],
+    "answer": "Silicon",
+    "id": "science-technology-892"
+  },
+  {
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "What does the term 'quenching' refer to in metallurgy?",
+    "options": [
+      "Hammering to shape",
+      "Heating to melting point",
+      "Rapid cooling in liquid",
+      "Slow cooling in air"
+    ],
+    "answer": "Rapid cooling in liquid",
+    "id": "science-technology-893"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What type of engine ignites fuel using compression rather than a spark plug?",
+    "options": [
+      "Stirling engine",
+      "Petrol engine",
+      "Steam engine",
+      "Diesel engine"
+    ],
+    "answer": "Diesel engine",
+    "id": "science-technology-894"
+  },
+  {
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "What is the approximate tensile strength of spider silk compared to steel by weight, as of 2026 studies?",
+    "options": [
+      "Equal to steel",
+      "10 times weaker than steel",
+      "5 times stronger than steel",
+      "Half as strong as steel"
+    ],
+    "answer": "5 times stronger than steel",
+    "id": "science-technology-895"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which plastic is identified by resin code 1 and used for water bottles?",
+    "options": [
+      "HDPE",
+      "PVC",
+      "PET",
+      "LDPE"
+    ],
+    "answer": "PET",
+    "id": "science-technology-896"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "Which tool measures atmospheric pressure? Note: barometer question is forbidden, so ask about altimeter principle instead: What does an aneroid barometer use to sense pressure?",
+    "options": [
+      "Metal bellows without liquid",
+      "Mercury column",
+      "Alcohol column",
+      "Water column"
+    ],
+    "answer": "Metal bellows without liquid",
+    "id": "science-technology-897"
+  },
+  {
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Which alloy is composed primarily of copper and zinc?",
+    "options": [
+      "Pewter",
+      "Brass",
+      "Bronze",
+      "Solder"
+    ],
+    "answer": "Brass",
+    "id": "science-technology-898"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What is the hardest scale mineral commonly used to cut glass?",
+    "options": [
+      "Quartz",
+      "Corundum",
+      "Topaz",
+      "Diamond"
+    ],
+    "answer": "Diamond",
+    "id": "science-technology-899"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which inventor built the first successful powered airplane with Orville in 1903?",
+    "options": [
+      "Samuel Langley",
+      "Wilbur Wright",
+      "Glenn Curtiss",
+      "Alberto Santos-Dumont"
+    ],
+    "answer": "Wilbur Wright",
+    "id": "science-technology-900"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What does the term 'aerogel' describe as of 2026 material science?",
+    "options": [
+      "Compressed air gel",
+      "Liquid metal foam",
+      "Frozen smoke ultralight solid",
+      "Transparent aluminum"
+    ],
+    "answer": "Frozen smoke ultralight solid",
+    "id": "science-technology-901"
+  },
+  {
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Which fiber-optic principle allows light to stay inside the fiber?",
+    "options": [
+      "Polarization",
+      "Total internal reflection",
+      "Diffraction",
+      "Scattering"
+    ],
+    "answer": "Total internal reflection",
+    "id": "science-technology-902"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What is the unit of power equivalent to one joule per second?",
+    "options": [
+      "Pascal",
+      "Watt",
+      "Joule",
+      "Newton"
+    ],
+    "answer": "Watt",
+    "id": "science-technology-903"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "Which simple machine consists of a wheel with a grooved rim and a rope?",
+    "options": [
+      "Inclined plane",
+      "Screw",
+      "Pulley",
+      "Lever"
+    ],
+    "answer": "Pulley",
+    "id": "science-technology-904"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What phenomenon allows a bumblebee to stay aloft despite small wings, involving unsteady aerodynamics?",
+    "options": [
+      "Coanda effect",
+      "Leading edge vortex",
+      "Magnus effect",
+      "Bernoulli lift"
+    ],
+    "answer": "Leading edge vortex",
+    "id": "science-technology-905"
+  },
+  {
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Which type of concrete is reinforced with steel bars to handle tensile loads?",
+    "options": [
+      "Plain concrete",
+      "Prestressed concrete",
+      "Aerated concrete",
+      "Reinforced concrete"
+    ],
+    "answer": "Reinforced concrete",
+    "id": "science-technology-906"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What does a transformer change in an electrical circuit?",
+    "options": [
+      "Frequency directly",
+      "Capacitance",
+      "Resistance",
+      "Voltage"
+    ],
+    "answer": "Voltage",
+    "id": "science-technology-907"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which material property measures resistance to being scratched?",
+    "options": [
+      "Malleability",
+      "Hardness",
+      "Toughness",
+      "Ductility"
+    ],
+    "answer": "Hardness",
+    "id": "science-technology-908"
+  },
+  {
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "Which inventor created the first successful video tape recorder (VTR) in 1956 at Ampex?",
+    "options": [
+      "Charles Ginsburg",
+      "Vladimir Zworykin",
+      "John Logie Baird",
+      "Philo Farnsworth"
+    ],
+    "answer": "Charles Ginsburg",
+    "id": "science-technology-909"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "What is the name of the process that uses electricity to deposit a metal coating?",
+    "options": [
+      "Electroplating",
+      "Sputtering",
+      "Galvanizing",
+      "Anodizing"
+    ],
+    "answer": "Electroplating",
+    "id": "science-technology-910"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "Which fuel is commonly used in nuclear reactors as of 2026?",
+    "options": [
+      "Natural gas",
+      "Hydrogen",
+      "Uranium-235",
+      "Coal"
+    ],
+    "answer": "Uranium-235",
+    "id": "science-technology-911"
+  },
+  {
+    "difficulty": "hard",
+    "category": "science-technology",
+    "question": "What is the approximate efficiency limit for single-junction silicon solar cells known as Shockley-Queisser limit?",
+    "options": [
+      "50%",
+      "15%",
+      "85%",
+      "33%"
+    ],
+    "answer": "33%",
+    "id": "science-technology-912"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "Which device stores electrical energy in an electric field?",
+    "options": [
+      "Capacitor",
+      "Inductor",
+      "Diode",
+      "Resistor"
+    ],
+    "answer": "Capacitor",
+    "id": "science-technology-913"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which type of engine uses a continuous flow of air mixed with fuel and ignited?",
+    "options": [
+      "Jet engine",
+      "Stirling engine",
+      "Steam engine",
+      "Piston engine"
+    ],
+    "answer": "Jet engine",
+    "id": "science-technology-914"
+  },
+  {
+    "difficulty": "easy",
+    "category": "science-technology",
+    "question": "What is the common name for hydrated iron(III) oxide that forms on iron when it corrodes?",
+    "options": [
+      "Patina",
+      "Tarnish",
+      "Rust",
+      "Verdigris"
+    ],
+    "answer": "Rust",
+    "id": "science-technology-915"
+  },
+  {
+    "difficulty": "medium",
+    "category": "science-technology",
+    "question": "Which element is the primary component of natural gas as of 2026?",
+    "options": [
+      "Methane",
+      "Butane",
+      "Propane",
+      "Ethane"
+    ],
+    "answer": "Methane",
+    "id": "science-technology-916"
   }
 ]
