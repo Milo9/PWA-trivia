@@ -643,6 +643,33 @@ Open items for a future dedicated pass:
   for which is thinnest. Adding per-category subject lists (the way
   `friends`/`big-bang-theory` track individual characters) would sharpen
   this but hasn't been done.
+- **`friends.json` has a systemic answer-cluster duplicate problem,
+  confirmed 2026-08-08 during chunk `friends-p1-003`.** A one-off
+  corpus-wide grep grouping every question by exact normalized answer
+  (see the civics-law-economics snippet above, same technique) turned up
+  17 clusters of 2-3 questions asking the identical fact, sitting well
+  outside that chunk (so left uncut per the "only touch what the chunk
+  actually covers" rule — cutting them would mark unreviewed questions
+  in other not-yet-audited chunks as "no longer exists," corrupting
+  `audit/progress.json`'s exhaustive-coverage guarantee). Needs a
+  dedicated pass, not incidental chunk cleanup: `friends-098`/`557`/`960`
+  (instrument Phoebe plays — guitar), `friends-128`/`585`/`935`
+  (actress who plays Judy Geller — Christina Pickles), `friends-131`/
+  `635`/`972` (actress who plays Charlie Wheeler — Aisha Tyler),
+  `friends-197`/`837`/`539` (how many sisters Joey has — seven),
+  `friends-347`/`471`/`653` (name of Rachel's Ralph Lauren assistant she
+  dates — Tag Jones; `653` has the fullest/best distractor names if
+  picking a survivor), `friends-146`/`236` (which friend Gunther's
+  secretly in love with — Rachel), `friends-116`/`227` (which friend
+  briefly dates Ursula, confusing the twins — Ross), `friends-156`/`854`
+  (who manages Central Perk — Gunther), `friends-202`/`933` (Chandler's
+  on-and-off relationship with Janice), `friends-044`/`595` (Ugly Naked
+  Guy nickname), `friends-365`/`463` (which season Emma is born —
+  Season 8), `friends-942`/`958` (Monica's apartment number before the
+  continuity fix — 5). `friends-405`/`459` is the same pair but also a
+  misquote, not just a duplicate — the verified line is "I'm not so good
+  with the advice" (`405`); `459`'s "I'm not great at the advice" is the
+  one to cut, not keep.
 
 ## Memory-only drafting exhausts per category
 

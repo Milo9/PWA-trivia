@@ -7934,11 +7934,11 @@
         "friends-027",
         "friends-028"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-08",
+      "completedAt": "2026-08-08",
+      "issuesFound": 15,
+      "notes": "Verified 20+ hard-difficulty production/behind-the-scenes facts via WebSearch (all confirmed accurate). Cut 14 duplicates surfaced by cross-referencing the chunk's same-answer hints and a full friends.json answer-cluster grep: friends-806/874/856/970/909/926/294/558/959/573/777/092/957/332, each a reworded duplicate of a question in this chunk (698, 700, 766, 010, 013, 718, 027 x3, 019 x2, 769 x2, 770). Reworded friends-713 to drop an unverifiable '~500 people' crowd-size claim while keeping the confirmed 'three tapings' fact. Documented 17 additional friends.json answer-cluster duplicates found outside this chunk (guitar/Judy-Geller/Charlie-Wheeler/sisters/Tag-Jones/etc.) in CLAUDE.md's backlog for a dedicated pass, since cutting them would falsely mark unreviewed chunks as covered."
     },
     {
       "chunkId": "friends-p1-004",

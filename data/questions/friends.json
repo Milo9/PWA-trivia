@@ -1144,19 +1144,6 @@
     "answer": "Muriel"
   },
   {
-    "id": "friends-092",
-    "category": "friends",
-    "difficulty": "hard",
-    "question": "What is the apartment number shown on Monica and Rachel's door for most of the series?",
-    "options": [
-      "20",
-      "5",
-      "14",
-      "3B"
-    ],
-    "answer": "20"
-  },
-  {
     "id": "friends-093",
     "category": "friends",
     "difficulty": "hard",
@@ -3575,19 +3562,6 @@
     "answer": "Through her own persistent searching"
   },
   {
-    "id": "friends-294",
-    "category": "friends",
-    "difficulty": "easy",
-    "question": "What song is Phoebe best known for performing about a foul-smelling feline?",
-    "options": [
-      "Fat Cat",
-      "Smelly Cat",
-      "Cat's in the Cradle",
-      "Copy Cat"
-    ],
-    "answer": "Smelly Cat"
-  },
-  {
     "id": "friends-296",
     "category": "friends",
     "difficulty": "medium",
@@ -3976,19 +3950,6 @@
       "Emily"
     ],
     "answer": "Rachel"
-  },
-  {
-    "id": "friends-332",
-    "category": "friends",
-    "difficulty": "medium",
-    "question": "What is the apartment number of Joey and Chandler's apartment, across the hall from Monica and Rachel's?",
-    "options": [
-      "19",
-      "21",
-      "18",
-      "22"
-    ],
-    "answer": "19"
   },
   {
     "id": "friends-333",
@@ -6825,19 +6786,6 @@
     "answer": "Guitar"
   },
   {
-    "id": "friends-558",
-    "category": "friends",
-    "difficulty": "easy",
-    "question": "What is the title of Phoebe's famous, deliberately off-key song about a cat?",
-    "options": [
-      "Smelly Cat",
-      "Stinky Kitty",
-      "Old Yellow Cat",
-      "Sad Cat"
-    ],
-    "answer": "Smelly Cat"
-  },
-  {
     "id": "friends-559",
     "category": "friends",
     "difficulty": "medium",
@@ -7005,19 +6953,6 @@
       "A magazine editor role"
     ],
     "answer": "A position at Louis Vuitton"
-  },
-  {
-    "id": "friends-573",
-    "category": "friends",
-    "difficulty": "medium",
-    "question": "What is Barry's profession, Rachel's runaway-bride fiancé?",
-    "options": [
-      "Orthodontist",
-      "Dentist",
-      "Optometrist",
-      "Podiatrist"
-    ],
-    "answer": "Orthodontist"
   },
   {
     "id": "friends-574",
@@ -8739,7 +8674,7 @@
     "id": "friends-713",
     "category": "friends",
     "difficulty": "hard",
-    "question": "The Season 4 finale, filmed on location in London, drew the show's largest audiences: how many separate crowds of about 500 people watched the taping?",
+    "question": "The Season 4 finale, filmed on location in London, was taped in front of the studio audience how many separate times, according to co-creator David Crane?",
     "options": [
       "Three",
       "One",
@@ -9529,19 +9464,6 @@
     "answer": "Chandler"
   },
   {
-    "id": "friends-777",
-    "category": "friends",
-    "difficulty": "medium",
-    "question": "What is the profession of Barry Farber, the fiancé Rachel leaves at the altar in the pilot?",
-    "options": [
-      "Orthodontist",
-      "Dentist",
-      "Pediatrician",
-      "Lawyer"
-    ],
-    "answer": "Orthodontist"
-  },
-  {
     "id": "friends-778",
     "category": "friends",
     "difficulty": "hard",
@@ -9891,19 +9813,6 @@
       "Al Pacino's assistant"
     ],
     "answer": "Al Pacino's butt double"
-  },
-  {
-    "id": "friends-806",
-    "difficulty": "medium",
-    "category": "friends",
-    "question": "Who is Estelle's only other client besides Joey?",
-    "options": [
-      "Mr. Simon",
-      "Sandy",
-      "Mr. Zelner",
-      "Al Zebooker"
-    ],
-    "answer": "Al Zebooker"
   },
   {
     "id": "friends-807",
@@ -10517,19 +10426,6 @@
     "answer": "Stephanie Schiffer"
   },
   {
-    "id": "friends-856",
-    "difficulty": "hard",
-    "category": "friends",
-    "question": "Who plays Stephanie Schiffer?",
-    "options": [
-      "Jennifer Coolidge",
-      "Christina Applegate",
-      "Chrissie Hynde",
-      "Reese Witherspoon"
-    ],
-    "answer": "Chrissie Hynde"
-  },
-  {
     "id": "friends-857",
     "difficulty": "medium",
     "category": "friends",
@@ -10723,19 +10619,6 @@
       "Monica's friend"
     ],
     "answer": "Ross's student girlfriend"
-  },
-  {
-    "id": "friends-874",
-    "difficulty": "hard",
-    "category": "friends",
-    "question": "Who plays Elizabeth Stevens?",
-    "options": [
-      "Jennifer Coolidge",
-      "Alexandra Holden",
-      "Christina Applegate",
-      "Reese Witherspoon"
-    ],
-    "answer": "Alexandra Holden"
   },
   {
     "id": "friends-875",
@@ -11141,19 +11024,6 @@
     "answer": "London"
   },
   {
-    "id": "friends-909",
-    "difficulty": "medium",
-    "category": "friends",
-    "question": "What does Ross say at altar instead of Emily?",
-    "options": [
-      "Monica",
-      "Emily's mother name",
-      "Carol",
-      "Rachel"
-    ],
-    "answer": "Rachel"
-  },
-  {
     "id": "friends-911",
     "difficulty": "hard",
     "category": "friends",
@@ -11347,19 +11217,6 @@
       "Janice Litman-Goralnik nee Hosenstein"
     ],
     "answer": "Janice Litman-Goralnik nee Hosenstein"
-  },
-  {
-    "id": "friends-926",
-    "difficulty": "medium",
-    "category": "friends",
-    "question": "How many total episodes does Janice appear in including voice?",
-    "options": [
-      "19",
-      "5",
-      "8",
-      "14"
-    ],
-    "answer": "19"
   },
   {
     "id": "friends-927",
@@ -11713,19 +11570,6 @@
     "answer": "Chick and Duck"
   },
   {
-    "id": "friends-957",
-    "difficulty": "medium",
-    "category": "friends",
-    "question": "What is Monica's apartment number after continuity fix?",
-    "options": [
-      "5",
-      "15",
-      "20",
-      "10"
-    ],
-    "answer": "20"
-  },
-  {
     "id": "friends-958",
     "difficulty": "easy",
     "category": "friends",
@@ -11737,19 +11581,6 @@
       "5"
     ],
     "answer": "5"
-  },
-  {
-    "id": "friends-959",
-    "difficulty": "medium",
-    "category": "friends",
-    "question": "What is Phoebe's most famous song?",
-    "options": [
-      "Smelly Cat",
-      "Stuck in the Middle",
-      "Two of Them Kissed Last Night",
-      "Let Me Tell You Something"
-    ],
-    "answer": "Smelly Cat"
   },
   {
     "id": "friends-960",
@@ -11867,19 +11698,6 @@
       "Anna Faris"
     ],
     "answer": "Anna Faris"
-  },
-  {
-    "id": "friends-970",
-    "difficulty": "medium",
-    "category": "friends",
-    "question": "What are Chandler and Monica's adopted twins named?",
-    "options": [
-      "Jack and Erica",
-      "Frank Jr Jr and Leslie",
-      "Emma and Ben",
-      "Chandler and Monica Jr"
-    ],
-    "answer": "Jack and Erica"
   },
   {
     "id": "friends-971",
