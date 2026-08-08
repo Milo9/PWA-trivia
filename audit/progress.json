@@ -8056,11 +8056,11 @@
         "friends-244",
         "friends-245"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-08",
+      "completedAt": "2026-08-08",
+      "issuesFound": 6,
+      "notes": "Fixed friends-143 (naming credit wrongly given to Phoebe+Frank Jr. jointly, actually Phoebe alone), friends-195 (proposal wrongly described as rose petals, actually ~1000 candles + Monica's own failed attempt first), friends-199 (Alessandro's mislabeled 'early in the series', actually a mid/late-series job), friends-154 (conflated Carol's coming-out reveal with her later, separate pregnancy reveal); cut 3 in-chunk duplicates (friends-232 dup of 141, friends-220 dup of 135, friends-245 dup of newly-fixed 154). Logged 2 new out-of-chunk same-answer pairs (friends-132/973, friends-212/936) and a leftover friends-141/829 pair to CLAUDE.md backlog."
     },
     {
       "chunkId": "friends-p1-006",

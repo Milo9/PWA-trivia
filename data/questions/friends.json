@@ -1706,14 +1706,14 @@
     "id": "friends-143",
     "category": "friends",
     "difficulty": "medium",
-    "question": "Who decides to name one of the triplets 'Chandler,' after the friend?",
+    "question": "Who is given the honor of naming one of Phoebe's surrogate triplets, resulting in the name 'Chandler'?",
     "options": [
       "Joey",
       "Monica",
-      "Phoebe and Frank Jr., naming him after their friend",
+      "Phoebe",
       "Ross"
     ],
-    "answer": "Phoebe and Frank Jr., naming him after their friend"
+    "answer": "Phoebe"
   },
   {
     "id": "friends-144",
@@ -1854,9 +1854,9 @@
       "Carol writes him a letter after moving away",
       "Ross finds out from a mutual friend",
       "Monica breaks the news to him",
-      "Carol tells him she's pregnant and leaving him for a woman"
+      "Carol tells him directly that she is a lesbian and is leaving him for a woman"
     ],
-    "answer": "Carol tells him she's pregnant and leaving him for a woman"
+    "answer": "Carol tells him directly that she is a lesbian and is leaving him for a woman"
   },
   {
     "id": "friends-155",
@@ -2385,11 +2385,11 @@
     "question": "How does Chandler propose to Monica?",
     "options": [
       "He proposes on television during a game show",
-      "He arranges rose petals spelling out a proposal message",
+      "He proposes in their candle-filled apartment after Monica's own attempt to propose falls apart in tears",
       "He proposes during Ross's wedding",
       "He hides the ring in Monica's dessert"
     ],
-    "answer": "He arranges rose petals spelling out a proposal message"
+    "answer": "He proposes in their candle-filled apartment after Monica's own attempt to propose falls apart in tears"
   },
   {
     "id": "friends-196",
@@ -2434,7 +2434,7 @@
     "id": "friends-199",
     "category": "friends",
     "difficulty": "medium",
-    "question": "Early in the series, what is the name of the Italian restaurant where Monica works as a chef?",
+    "question": "For most of the series, what is the name of the Italian restaurant where Monica works as head chef?",
     "options": [
       "Central Perk",
       "Javu",
@@ -2678,19 +2678,6 @@
     "answer": "Shut the party down or call the police"
   },
   {
-    "id": "friends-220",
-    "category": "friends",
-    "difficulty": "medium",
-    "question": "How does Rachel's ex-fiancé Barry Farber end up connected to Rachel's friend circle after their breakup?",
-    "options": [
-      "He becomes Ross's dentist",
-      "He starts dating Monica",
-      "He moves in next door to Rachel",
-      "He starts dating Rachel's friend Mindy"
-    ],
-    "answer": "He starts dating Rachel's friend Mindy"
-  },
-  {
     "id": "friends-221",
     "category": "friends",
     "difficulty": "easy",
@@ -2808,19 +2795,6 @@
     "answer": "Alice, his former home economics teacher"
   },
   {
-    "id": "friends-232",
-    "category": "friends",
-    "difficulty": "medium",
-    "question": "What are the names of the triplets Phoebe gives birth to as a surrogate?",
-    "options": [
-      "Ben, Emma, and Jack",
-      "Charlie, Mike, and Ross",
-      "Frank Jr. Jr., Leslie, and Chandler",
-      "Jack, Erica, and Frank"
-    ],
-    "answer": "Frank Jr. Jr., Leslie, and Chandler"
-  },
-  {
     "id": "friends-233",
     "category": "friends",
     "difficulty": "hard",
@@ -2936,19 +2910,6 @@
       "She is his sister's coworker"
     ],
     "answer": "She is his paleontology student at NYU"
-  },
-  {
-    "id": "friends-245",
-    "category": "friends",
-    "difficulty": "medium",
-    "question": "How does Ross first learn that Carol is leaving him for a woman?",
-    "options": [
-      "He finds a letter from Carol",
-      "Carol tells him she's pregnant and gay",
-      "A mutual friend breaks the news",
-      "Monica tells him directly"
-    ],
-    "answer": "Carol tells him she's pregnant and gay"
   },
   {
     "id": "friends-247",

@@ -691,7 +691,32 @@ Open items for a future dedicated pass:
   wasn't itself verified and reads as a possible fabrication. Whoever
   audits `491`'s chunk should fix/reword rather than cut it, or the
   keyboard fact disappears from the corpus entirely with nothing left
-  to cover it.
+  to cover it. **Two more pairs surfaced 2026-08-08 during chunk
+  `friends-p1-005`**, same policy, left uncut: `friends-132`/`973`
+  (Charlie Wheeler's profession — paleontology professor), `friends-212`/
+  `936` (where Jack and Judy Geller live — Long Island). Also from that
+  chunk: `friends-141`/`232` (names of Phoebe's surrogate triplets) was
+  an in-chunk duplicate and got cut (kept `141`, the more detailed
+  wording); its third sibling `friends-829` is still out there and still
+  needs folding into this list's eventual dedicated pass. Also fixed in
+  place: `friends-143` wrongly credited "Phoebe and Frank Jr." with
+  naming the triplet Chandler — it's Phoebe alone, per Alice's on-screen
+  line giving her the naming honor; `friends-195` wrongly described
+  Chandler's proposal as "rose petals spelling out a message" — the
+  actual episode has Monica decorate the apartment with ~1,000 candles
+  and attempt to propose to Chandler first, breaking down in tears
+  before he proposes back; `friends-199` claimed Monica's Italian
+  restaurant job was "early in the series," but the named restaurant
+  (Alessandro's) is actually her season 4-9 head-chef job — her actual
+  early-series restaurant (Iridium, seasons 1-2) wasn't Italian and
+  wasn't offered as an option, so the question was reworded to drop the
+  "early in the series" framing instead. `friends-154`/`245` both
+  conflated two separate reveals (Carol coming out as gay/leaving Ross,
+  and — episode 2, later — revealing she was pregnant) into one event;
+  `154` was fixed to only claim the (correct, backstory) coming-out
+  reveal and `245` was cut as the duplicate. `friends-135`/`220` (Barry
+  Farber ending up with Mindy) was an in-chunk duplicate; kept `135`
+  (more specific — names the endpoint relationship), cut `220`.
 - **179 of `friends.json`'s 920 questions (as of 2026-08-08) belong to
   no chunk in the current audit pass at all**, discovered while
   investigating why `friends-938` (used in the duplicate pair above)
