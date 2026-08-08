@@ -717,6 +717,31 @@ Open items for a future dedicated pass:
   reveal and `245` was cut as the duplicate. `friends-135`/`220` (Barry
   Farber ending up with Mindy) was an in-chunk duplicate; kept `135`
   (more specific — names the endpoint relationship), cut `220`.
+- **Chunk `friends-p1-006` (2026-08-08) hit a new variant worth naming
+  explicitly: a duplicate where one sibling was already reviewed/fixed in
+  an earlier chunk, not just "both unreviewed."** The "leave uncut,
+  log it" rule above is specifically for pairs where *both* members are
+  unaudited (cutting one would falsely mark a not-yet-reviewed question
+  as handled). That doesn't apply once one sibling has already passed
+  through the audit itself — at that point the surviving, vetted version
+  is the known-good one, so the newly-encountered duplicate in the
+  current chunk gets cut immediately rather than added to the backlog.
+  Four were cut this way: `friends-249` (dup of already-fixed
+  `friends-160`, Emily's ultimatum), `friends-250` (dup of already-fixed
+  `friends-162`, Ross/Emily marriage ending), `friends-253` (dup of
+  already-reviewed `friends-163`, Mike Hannigan's career change),
+  `friends-271` (dup of already-reviewed `friends-170`, Courteney Cox /
+  Cougar Town) — all four originals were fixed/reviewed one chunk
+  earlier, in `friends-p1-005`. Also from this chunk: `friends-247`
+  ("Yankee swap" Christmas gift exchange) was cut outright as an
+  apparently fabricated plot detail — multiple targeted searches for a
+  Friends Christmas episode involving a Yankee Swap/white-elephant gift
+  game turned up nothing, and no real episode plot matched. Fixed in
+  place: `friends-276` claimed Monica worked "as a chef" at the Moondance
+  Diner; she's actually a waitress there (in a blonde wig and roller
+  skates) — her chef jobs are Iridium (seasons 1-2, earlier) and later
+  Alessandro's/Javu — reworded to "waitress" rather than picking a
+  different (unlisted) restaurant.
 - **179 of `friends.json`'s 920 questions (as of 2026-08-08) belong to
   no chunk in the current audit pass at all**, discovered while
   investigating why `friends-938` (used in the duplicate pair above)
