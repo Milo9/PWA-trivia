@@ -6982,11 +6982,11 @@
         "food-drink-114",
         "food-drink-117"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-08",
+      "completedAt": "2026-08-08",
+      "issuesFound": 16,
+      "notes": "Fixed stamppot answer-leak (options were all potato-prep variants, question already stated 'mashed'); found and cut 15 duplicate questions surfaced via corpus grep while reviewing this chunk (baklava/phyllo x3->1, ceviche/citrus x3->1, cashew apple x3->1, harissa heat source, Mexican horchata, horchata de chufa, salsa verde/tomatillo, mofongo (reversed-direction), Vegemite/yeast extract, feijoada/black beans, dolma/grape leaves, yerba mate bombilla straw cross-category with world-cultures)."
     },
     {
       "chunkId": "food-drink-p1-007",
@@ -7043,11 +7043,11 @@
         "food-drink-216",
         "food-drink-217"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-08",
+      "completedAt": "2026-08-08",
+      "issuesFound": 14,
+      "notes": "No factual errors found in the 50 reviewed questions; found and cut 14 duplicates via corpus grep on distinctive terms (Casu Marzu maggots dup with prior chunk's food-drink-117, Worcestershire anchovies, tautological wasabi-plant question, Manchego sheep's-milk, chorizo smoked-paprika, 'nduja spreadable-texture, century-egg preservation mixture x2, garum ingredients, ketchup Hokkien etymology, gravlax dill x2, Ruth Wakefield chocolate-chip-cookie, and a cross-category edible-nest/white-nest swiftlet synonym dup with animals-nature-992)."
     },
     {
       "chunkId": "food-drink-p1-008",
