@@ -40,7 +40,10 @@ const state = {
   roundQuestions: [],
   currentIndex: 0,
   score: 0,
+  streak: 0,
+  bestStreak: 0,
   answers: [], // { question, options, correctAnswer, selected, wasCorrect, category }
+  seenByCat: {}, // { [categoryId]: Set<questionId> } — this round's in-progress seen tracking
 };
 
 const el = {
@@ -73,6 +76,7 @@ const el = {
   questionCategory: document.getElementById("question-category"),
   questionText: document.getElementById("question-text"),
   optionsList: document.getElementById("options-list"),
+  streakBadge: document.getElementById("streak-badge"),
   nextBtn: document.getElementById("next-btn"),
 
   resultsScore: document.getElementById("results-score"),
@@ -109,6 +113,52 @@ function shuffle(array) {
   return copy;
 }
 
+let audioCtx = null;
+
+function getAudioCtx() {
+  const Ctx = window.AudioContext || window.webkitAudioContext;
+  if (!Ctx) return null;
+  if (!audioCtx) audioCtx = new Ctx();
+  if (audioCtx.state === "suspended") audioCtx.resume();
+  return audioCtx;
+}
+
+function playTone(ctx, freq, startTime, duration, gainPeak) {
+  const osc = ctx.createOscillator();
+  const gain = ctx.createGain();
+  osc.type = "sine";
+  osc.frequency.value = freq;
+  gain.gain.setValueAtTime(0, startTime);
+  gain.gain.linearRampToValueAtTime(gainPeak, startTime + 0.01);
+  gain.gain.exponentialRampToValueAtTime(0.001, startTime + duration);
+  osc.connect(gain);
+  gain.connect(ctx.destination);
+  osc.start(startTime);
+  osc.stop(startTime + duration);
+}
+
+function playAnswerSound(wasCorrect) {
+  const ctx = getAudioCtx();
+  if (!ctx) return;
+  const now = ctx.currentTime;
+  if (wasCorrect) {
+    playTone(ctx, 660, now, 0.12, 0.15);
+    playTone(ctx, 880, now + 0.09, 0.16, 0.15);
+  } else {
+    playTone(ctx, 220, now, 0.22, 0.12);
+  }
+}
+
+function vibrate(pattern) {
+  if (navigator.vibrate) {
+    try {
+      navigator.vibrate(pattern);
+    } catch (e) {
+      // vibration unsupported/blocked — safe to ignore
+    }
+  }
+}
+
 async function loadCategories() {
   try {
     const res = await fetch("data/categories.json");
@@ -131,6 +181,7 @@ async function loadCategories() {
     for (const cat of withCounts) state.categoryById[cat.id] = cat;
     renderCategoryList();
     renderCategoryCounts();
+    tryResumeActiveRound();
   } catch (e) {
     el.categoriesStatus.textContent = "Couldn't load categories. Try reopening the app.";
   }
@@ -303,6 +354,100 @@ function saveSeenIds(categoryId, seenSet) {
   }
 }
 
+const ACTIVE_ROUND_KEY = "offline-trivia:active-round";
+
+// Checkpointed after every answer and every "Next" tap, so an iOS PWA that
+// gets backgrounded/reloaded mid-round (or mid-flight) can pick back up
+// instead of losing all progress. Only ever saved at a question boundary
+// (not mid-reveal), so resuming always lands on a fresh, unanswered
+// question — see the currentIndex/answers.length reconciliation in
+// tryResumeActiveRound.
+function saveActiveRound() {
+  try {
+    const seenByCat = {};
+    for (const catId of Object.keys(state.seenByCat)) {
+      seenByCat[catId] = Array.from(state.seenByCat[catId]);
+    }
+    localStorage.setItem(
+      ACTIVE_ROUND_KEY,
+      JSON.stringify({
+        currentCategoryIds: state.currentCategories.map((c) => c.id),
+        roundQuestions: state.roundQuestions,
+        currentIndex: state.currentIndex,
+        score: state.score,
+        streak: state.streak,
+        bestStreak: state.bestStreak,
+        answers: state.answers,
+        seenByCat,
+      })
+    );
+  } catch (e) {
+    // localStorage unavailable — resume just won't work
+  }
+}
+
+function clearActiveRound() {
+  try {
+    localStorage.removeItem(ACTIVE_ROUND_KEY);
+  } catch (e) {
+    // ignore
+  }
+}
+
+function loadActiveRound() {
+  try {
+    const raw = localStorage.getItem(ACTIVE_ROUND_KEY);
+    return raw ? JSON.parse(raw) : null;
+  } catch (e) {
+    return null;
+  }
+}
+
+// Offers to resume a round saved by saveActiveRound(). Requires
+// state.categoryById to already be populated, so this must run after
+// loadCategories() resolves.
+function tryResumeActiveRound() {
+  const saved = loadActiveRound();
+  if (!saved || !saved.roundQuestions || !saved.roundQuestions.length) return;
+
+  const categories = saved.currentCategoryIds.map((id) => state.categoryById[id]);
+  if (categories.some((c) => !c)) return; // categories didn't load — try again next launch
+
+  const answeredCount = Math.min(saved.answers.length, saved.roundQuestions.length);
+  const finished = answeredCount >= saved.roundQuestions.length;
+  const prompt = finished
+    ? "See the results of your last round?"
+    : `Resume your in-progress round? (question ${answeredCount + 1}/${saved.roundQuestions.length})`;
+  if (!confirm(prompt)) {
+    clearActiveRound();
+    return;
+  }
+
+  state.currentCategories = categories;
+  state.roundQuestions = saved.roundQuestions;
+  state.score = saved.score;
+  state.streak = saved.streak;
+  state.bestStreak = saved.bestStreak;
+  state.answers = saved.answers;
+  state.seenByCat = {};
+  for (const catId of Object.keys(saved.seenByCat || {})) {
+    state.seenByCat[catId] = new Set(saved.seenByCat[catId]);
+  }
+  // Reconcile rather than trust saved.currentIndex directly: it's only
+  // checkpointed after "Next," so a save that landed right after an answer
+  // (before "Next" was tapped) would otherwise re-render an already-answered
+  // question and double-count it once the user answers again.
+  state.currentIndex = Math.max(saved.currentIndex, answeredCount);
+
+  if (finished) {
+    el.progressFill.style.width = "100%";
+    showResults();
+  } else {
+    showScreen("quiz");
+    renderQuestion();
+  }
+}
+
 const STATS_KEY = "offline-trivia:stats";
 
 function currentDateKey() {
@@ -316,6 +461,7 @@ function defaultStats() {
     totalQuestions: 0,
     totalCorrect: 0,
     bestPct: 0,
+    bestStreak: 0,
     lastGame: null, // { score, total, pct }
     today: { date: currentDateKey(), gamesPlayed: 0, totalQuestions: 0, totalCorrect: 0 },
     byCategory: {}, // { [categoryId]: { totalQuestions, totalCorrect } }
@@ -350,13 +496,14 @@ function todayBucket(stats) {
 // (state.answers) carries the category each question actually belonged to,
 // so a mixed round attributes each question to its own category rather than
 // the round as a whole.
-function recordGameResult(score, total, answers) {
+function recordGameResult(score, total, answers, bestStreak) {
   const stats = loadStats();
   stats.gamesPlayed += 1;
   stats.totalQuestions += total;
   stats.totalCorrect += score;
   const pct = total > 0 ? (score / total) * 100 : 0;
   if (pct > stats.bestPct) stats.bestPct = pct;
+  if (bestStreak > stats.bestStreak) stats.bestStreak = bestStreak;
 
   const today = todayBucket(stats);
   today.gamesPlayed += 1;
@@ -408,6 +555,7 @@ function renderStatsSummary() {
     <div class="stats-row"><span>Overall</span><span class="stats-value">${overallLine}</span></div>
     <div class="stats-row"><span>Today</span><span class="stats-value">${todayLine}</span></div>
     <div class="stats-row"><span>Last Game</span><span class="stats-value">${lastLine}</span></div>
+    <div class="stats-row"><span>Best Streak</span><span class="stats-value">🔥 ${stats.bestStreak}</span></div>
   `;
 }
 
@@ -442,14 +590,33 @@ function startRound(categories) {
     shuffledOptions: shuffle(q.options),
   }));
 
-  for (const q of state.roundQuestions) seenByCat[q.category].add(q.id);
-  for (const catId of Object.keys(seenByCat)) saveSeenIds(catId, seenByCat[catId]);
+  // Only mark a question "seen" once it's actually answered (in
+  // selectAnswer) — marking the whole round up front meant quitting before
+  // reaching a question still permanently burned it out of the pool.
+  state.seenByCat = seenByCat;
 
   state.currentIndex = 0;
   state.score = 0;
+  state.streak = 0;
+  state.bestStreak = 0;
   state.answers = [];
+  saveActiveRound();
   showScreen("quiz");
   renderQuestion();
+}
+
+function updateStreakBadge(animate) {
+  if (state.streak >= 2) {
+    el.streakBadge.textContent = `🔥 ${state.streak}`;
+    el.streakBadge.classList.remove("hidden");
+    if (animate) {
+      el.streakBadge.style.animation = "none";
+      void el.streakBadge.offsetWidth;
+      el.streakBadge.style.animation = "";
+    }
+  } else {
+    el.streakBadge.classList.add("hidden");
+  }
 }
 
 function renderQuestion() {
@@ -460,6 +627,7 @@ function renderQuestion() {
   el.questionCounter.textContent = `${state.currentIndex + 1}/${state.roundQuestions.length}`;
   el.progressFill.style.width = `${(state.currentIndex / state.roundQuestions.length) * 100}%`;
   el.nextBtn.classList.add("hidden");
+  updateStreakBadge(false);
 
   el.optionsList.innerHTML = "";
   q.shuffledOptions.forEach((opt, i) => {
@@ -495,7 +663,16 @@ function markOptionResult(btn, symbol) {
 function selectAnswer(selected) {
   const q = state.roundQuestions[state.currentIndex];
   const wasCorrect = selected === q.answer;
-  if (wasCorrect) state.score++;
+  if (wasCorrect) {
+    state.score++;
+    state.streak++;
+    if (state.streak > state.bestStreak) state.bestStreak = state.streak;
+  } else {
+    state.streak = 0;
+  }
+  playAnswerSound(wasCorrect);
+  vibrate(wasCorrect ? 40 : [30, 60, 30]);
+  updateStreakBadge(true);
 
   state.answers.push({
     question: q.question,
@@ -505,6 +682,11 @@ function selectAnswer(selected) {
     wasCorrect,
     category: q.category,
   });
+
+  if (!state.seenByCat[q.category]) state.seenByCat[q.category] = new Set();
+  state.seenByCat[q.category].add(q.id);
+  saveSeenIds(q.category, state.seenByCat[q.category]);
+  saveActiveRound();
 
   for (const btn of el.optionsList.children) {
     btn.disabled = true;
@@ -525,6 +707,7 @@ function selectAnswer(selected) {
 el.nextBtn.addEventListener("click", () => {
   state.currentIndex++;
   if (state.currentIndex < state.roundQuestions.length) {
+    saveActiveRound();
     renderQuestion();
   } else {
     el.progressFill.style.width = "100%";
@@ -537,9 +720,12 @@ el.quitBtn.addEventListener("click", () => {
   if (inProgress && !confirm("Quit this round? Your progress will be lost.")) {
     return;
   }
+  clearActiveRound();
   state.roundQuestions = [];
   state.currentIndex = 0;
   state.score = 0;
+  state.streak = 0;
+  state.bestStreak = 0;
   state.answers = [];
   showScreen("categories");
 });
@@ -585,9 +771,10 @@ function renderResultsStars(score, total) {
 }
 
 function showResults() {
+  clearActiveRound();
   const total = state.roundQuestions.length;
   const priorStats = loadStats();
-  const updatedStats = recordGameResult(state.score, total, state.answers);
+  const updatedStats = recordGameResult(state.score, total, state.answers, state.bestStreak);
 
   el.resultsScore.textContent = `${state.score}/${total}`;
   renderResultsStars(state.score, total);
@@ -634,6 +821,7 @@ function renderResultsStats(score, total, prior, updated) {
     ? Math.round((prior.totalCorrect / prior.totalQuestions) * 100)
     : null;
   const isNewBest = Math.round(updated.bestPct) > Math.round(prior.bestPct);
+  const isNewStreakRecord = updated.bestStreak > prior.bestStreak;
   const gameWord = updated.gamesPlayed === 1 ? "game" : "games";
 
   let deltaHtml = "";
@@ -652,10 +840,14 @@ function renderResultsStats(score, total, prior, updated) {
   if (isNewBest) {
     deltaHtml += `<p class="stats-delta up">New best score!</p>`;
   }
+  if (isNewStreakRecord) {
+    deltaHtml += `<p class="stats-delta up">New streak record!</p>`;
+  }
 
   el.resultsStats.innerHTML = `
     <div class="stats-row"><span>This game</span><span class="stats-value">${pct}%</span></div>
     <div class="stats-row"><span>Your average</span><span class="stats-value">${priorAvgPct === null ? "—" : priorAvgPct + "%"}</span></div>
+    <div class="stats-row"><span>Longest streak</span><span class="stats-value">🔥 ${state.bestStreak}</span></div>
     <div class="stats-row"><span>Games played</span><span class="stats-value">${updated.gamesPlayed} ${gameWord}</span></div>
     ${deltaHtml}
   `;

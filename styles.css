@@ -90,7 +90,8 @@ html, body {
   .screen,
   #results-score,
   .option-btn.correct,
-  .option-btn.incorrect {
+  .option-btn.incorrect,
+  .streak-badge {
     animation: none;
   }
 }
@@ -460,12 +461,40 @@ html, body {
 }
 
 .quiz-body {
+  position: relative;
   flex: 1;
   background: linear-gradient(160deg, var(--surface-raised), var(--surface));
   border: 1px solid var(--border);
   border-radius: 20px;
   padding: 22px 18px;
   box-shadow: 0 6px 0 var(--shadow-deep), 0 10px 24px rgba(0, 0, 0, 0.4);
+}
+
+.streak-badge {
+  position: absolute;
+  top: -14px;
+  right: 14px;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  background: linear-gradient(135deg, var(--accent-3), var(--accent));
+  color: #1a1025;
+  font-weight: 800;
+  font-size: 0.85rem;
+  padding: 6px 12px;
+  border-radius: 999px;
+  box-shadow: 0 3px 0 var(--shadow-deep), 0 0 14px rgba(var(--accent-rgb), 0.5);
+  animation: streak-pop 0.3s ease;
+}
+
+.streak-badge.hidden {
+  display: none;
+}
+
+@keyframes streak-pop {
+  0% { transform: scale(0.6) translateY(6px); opacity: 0; }
+  60% { transform: scale(1.15) translateY(-2px); opacity: 1; }
+  100% { transform: scale(1) translateY(0); }
 }
 
 .question-category {
