@@ -669,7 +669,39 @@ Open items for a future dedicated pass:
   continuity fix — 5). `friends-405`/`459` is the same pair but also a
   misquote, not just a duplicate — the verified line is "I'm not so good
   with the advice" (`405`); `459`'s "I'm not great at the advice" is the
-  one to cut, not keep.
+  one to cut, not keep. **Six more pairs surfaced 2026-08-08 during
+  chunk `friends-p1-004`**, this time via the audit tool's own
+  same-answer printout rather than a dedicated grep (see "`next`
+  auto-prints same-answer corpus matches" below) — same policy, left
+  uncut: `friends-036`/`560` (Phoebe's husband — Mike Hannigan),
+  `friends-056`/`580` (Phoebe's fake alter-ego name — Regina Phalange),
+  `friends-061`/`298` (Rachel's finale line — both also had the same
+  misattribution bug, fixed in place: it's Rachel who says "I got off
+  the plane" at Ross's apartment door, not Ross who says it at the
+  airport), `friends-067`/`637` (Richard Burke's profession —
+  ophthalmologist), `friends-091`/`938` (Chandler's middle name —
+  Muriel), `friends-115`/`226` (Ursula's occupation when introduced —
+  waitress). The corpus-wide regroup-by-answer snippet (see the
+  civics-law-economics IO-headquarters entry above) is the tool for
+  the eventual dedicated pass across all of these. Separately,
+  `friends-039` (Ross's novelty-sound-effects keyboard, self-answering
+  stem) was cut outright rather than added to this list, in favor of
+  `friends-491` which already covers the same fact — but `491`'s own
+  premise ("Rachel discovers Ross secretly used to do this as a kid")
+  wasn't itself verified and reads as a possible fabrication. Whoever
+  audits `491`'s chunk should fix/reword rather than cut it, or the
+  keyboard fact disappears from the corpus entirely with nothing left
+  to cover it.
+- **179 of `friends.json`'s 920 questions (as of 2026-08-08) belong to
+  no chunk in the current audit pass at all**, discovered while
+  investigating why `friends-938` (used in the duplicate pair above)
+  never turned up in a `next` chunk. Per "A pass's chunk membership is
+  frozen at `init`/`new-pass` time" below, this means these ~179
+  questions were added to the file after the current friends pass was
+  initialized, so they will never get audited under this pass no matter
+  how many chunks get completed. Needs a fresh pass (or an appended set
+  of chunks) covering just the uncovered IDs before the current pass is
+  considered a full sweep of the file.
 
 ## Memory-only drafting exhausts per category
 

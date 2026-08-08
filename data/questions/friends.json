@@ -455,19 +455,6 @@
     "answer": "Joey Tribbiani"
   },
   {
-    "id": "friends-039",
-    "category": "friends",
-    "difficulty": "medium",
-    "question": "What instrument does Ross play, including a keyboard with novelty sound effects?",
-    "options": [
-      "Keyboard",
-      "Guitar",
-      "Drums",
-      "Saxophone"
-    ],
-    "answer": "Keyboard"
-  },
-  {
     "id": "friends-040",
     "category": "friends",
     "difficulty": "medium",
@@ -614,7 +601,7 @@
     "id": "friends-051",
     "category": "friends",
     "difficulty": "medium",
-    "question": "What activity do the Geller siblings traditionally compete in during Thanksgiving flashbacks?",
+    "question": "What childhood tradition between Ross and Monica does the whole gang revive together on a present-day Thanksgiving?",
     "options": [
       "A football game",
       "A baking contest",
@@ -744,11 +731,11 @@
     "id": "friends-061",
     "category": "friends",
     "difficulty": "medium",
-    "question": "What line does Ross say to explain why he's at the airport in the series finale?",
+    "question": "What line does Rachel say when she unexpectedly shows up at Ross's apartment door in the series finale?",
     "options": [
       "I got off the plane",
-      "I love you, Rachel",
-      "Don't go to Paris",
+      "I couldn't get on the plane",
+      "I'm not going to Paris",
       "I made a mistake"
     ],
     "answer": "I got off the plane"
@@ -1268,10 +1255,10 @@
     "options": [
       "A high-pitched squeaky voice",
       "A British accent",
-      "A raspy, gravelly voice from years of smoking",
+      "A raspy, gravelly voice",
       "A booming operatic voice"
     ],
-    "answer": "A raspy, gravelly voice from years of smoking"
+    "answer": "A raspy, gravelly voice"
   },
   {
     "id": "friends-103",
@@ -1287,19 +1274,6 @@
     "answer": "June Gable"
   },
   {
-    "id": "friends-104",
-    "category": "friends",
-    "difficulty": "medium",
-    "question": "What does Joey once walk in on Estelle doing, to his horror?",
-    "options": [
-      "Rehearsing lines nude",
-      "Smoking in a hospital",
-      "Sunbathing topless on her terrace",
-      "Falling asleep at an audition"
-    ],
-    "answer": "Sunbathing topless on her terrace"
-  },
-  {
     "id": "friends-105",
     "category": "friends",
     "difficulty": "medium",
@@ -1313,23 +1287,10 @@
     "answer": "An old friend of Ross and Monica's father, Jack"
   },
   {
-    "id": "friends-106",
-    "category": "friends",
-    "difficulty": "medium",
-    "question": "What does Richard do to his signature mustache after Monica admits she's never liked it?",
-    "options": [
-      "He dyes it gray",
-      "He grows it back immediately",
-      "He shaves it off, then eventually grows it back",
-      "He gets it trimmed for a wedding"
-    ],
-    "answer": "He shaves it off, then eventually grows it back"
-  },
-  {
     "id": "friends-107",
     "category": "friends",
     "difficulty": "hard",
-    "question": "Why does Richard ultimately break up with Monica the first time, despite loving her?",
+    "question": "Why does Monica ultimately break up with Richard the first time, despite loving him?",
     "options": [
       "He wants to move to Europe",
       "He gets back together with his ex-wife",
@@ -1337,19 +1298,6 @@
       "He takes a job in another state"
     ],
     "answer": "He doesn't want to have any more children, already having grown kids"
-  },
-  {
-    "id": "friends-109",
-    "category": "friends",
-    "difficulty": "medium",
-    "question": "Who accidentally discovers, via an old videotape, that Monica and Richard have secretly reunited?",
-    "options": [
-      "Phoebe",
-      "Joey",
-      "Ross",
-      "Chandler"
-    ],
-    "answer": "Ross"
   },
   {
     "id": "friends-110",
@@ -1389,19 +1337,6 @@
       "He decides to become Emma's legal guardian"
     ],
     "answer": "He starts developing romantic feelings for Rachel"
-  },
-  {
-    "id": "friends-113",
-    "category": "friends",
-    "difficulty": "medium",
-    "question": "What is significant about the surname given to Ross and Rachel's daughter, Emma?",
-    "options": [
-      "It uses Rachel's mother's maiden name",
-      "It honors Ross's grandmother",
-      "It hyphenates both parents' last names: Geller-Green",
-      "It is unrelated to either parent's name"
-    ],
-    "answer": "It hyphenates both parents' last names: Geller-Green"
   },
   {
     "id": "friends-114",
@@ -3578,10 +3513,10 @@
     "id": "friends-298",
     "category": "friends",
     "difficulty": "medium",
-    "question": "What does Ross say at the airport that reunites him with Rachel in the series finale?",
+    "question": "What does Rachel say when she reunites with Ross at his apartment door in the series finale?",
     "options": [
-      "\"I love you, Rachel\"",
-      "\"Don't go to Paris\"",
+      "\"I couldn't get on the plane\"",
+      "\"I'm not going to Paris\"",
       "\"I made a mistake\"",
       "\"I got off the plane\""
     ],

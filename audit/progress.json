@@ -7995,11 +7995,11 @@
         "friends-128",
         "friends-131"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-08",
+      "completedAt": "2026-08-08",
+      "issuesFound": 9,
+      "notes": "Fixed misattributed finale line (friends-061/298: 'I got off the plane' is Rachel's line at Ross's apartment, not Ross's line at the airport - both corrected, distractors rewritten to stay speaker-consistent). Cut 4 questions: friends-104 (fabricated Estelle topless-sunbathing gag), friends-106 (unverifiable mustache-shave-cause claim), friends-109 (videotape-reveal premise contradicted by the real S3E13 plot), friends-039 (self-answering stem, plus duplicates friends-491's Ross-keyboard fact - see CLAUDE.md note on 491's own unverified premise). Reworded friends-051 (Thanksgiving-flashback framing didn't match The One with the Football's present-day setting; also dropped a 'Geller Bowl' hint that pointed straight at the football-game answer). Trimmed an answer-length leak in friends-102. While researching 061, also fixed friends-107 out-of-chunk (had Richard breaking up with Monica backwards - it's Monica who ends it over his not wanting more kids) and friends-298 out-of-chunk (same misattribution bug as 061). Found 6 new cross-chunk answer-duplicate pairs (036/560 Mike Hannigan, 056/580 Regina Phalange, 061/298 finale line, 067/637 Richard's profession, 091/938 Chandler's middle name, 115/226 Ursula's job) left uncut per existing policy and logged in CLAUDE.md's Known backlog. Also found 179 friends.json questions with no chunk assignment in this pass (predates later additions to the file), flagged for a new pass."
     },
     {
       "chunkId": "friends-p1-005",
