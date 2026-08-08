@@ -1755,19 +1755,6 @@
     "answer": "Gray Matter"
   },
   {
-    "id": "general-2942",
-    "category": "film-tv",
-    "difficulty": "medium",
-    "question": "In \"Stranger Things,\" what is Eleven's given birth name?",
-    "options": [
-      "Jane Ives",
-      "Jane Hopper",
-      "Sarah Byers",
-      "Nancy Wheeler"
-    ],
-    "answer": "Jane Ives"
-  },
-  {
     "id": "general-2943",
     "category": "film-tv",
     "difficulty": "medium",
@@ -8853,19 +8840,6 @@
     "id": "film-tv-540"
   },
   {
-    "answer": "Paris",
-    "category": "film-tv",
-    "difficulty": "easy",
-    "options": [
-      "London",
-      "Rome",
-      "New York",
-      "Paris"
-    ],
-    "question": "In Home Alone (1990), where does the McCallister family travel without Kevin?",
-    "id": "film-tv-541"
-  },
-  {
     "answer": "La Traviata",
     "category": "film-tv",
     "difficulty": "hard",
@@ -9618,19 +9592,6 @@
     ],
     "question": "In Pixar's Coco (2017), whose guitar does Miguel play that transports him to the Land of the Dead?",
     "id": "film-tv-600"
-  },
-  {
-    "answer": "A house lifted by thousands of helium balloons",
-    "category": "film-tv",
-    "difficulty": "easy",
-    "options": [
-      "A house lifted by thousands of helium balloons",
-      "A rocket ship",
-      "A magic carpet",
-      "A giant condor"
-    ],
-    "question": "How does Carl's house fly to Paradise Falls in Pixar's Up (2009)?",
-    "id": "film-tv-601"
   },
   {
     "answer": "A rat who dreams of being a chef",
@@ -10946,19 +10907,6 @@
     "answer": "Lumon Industries"
   },
   {
-    "id": "film-tv-707",
-    "category": "film-tv",
-    "difficulty": "easy",
-    "question": "In 'Game of Thrones,' what is the name of the mercenary company that Bronn eventually commands?",
-    "options": [
-      "The Brave Companions",
-      "The Unsullied",
-      "The Second Sons",
-      "The Golden Company"
-    ],
-    "answer": "The Second Sons"
-  },
-  {
     "id": "film-tv-708",
     "category": "film-tv",
     "difficulty": "easy",
@@ -10988,7 +10936,7 @@
     "id": "film-tv-710",
     "category": "film-tv",
     "difficulty": "easy",
-    "question": "In 'Stranger Things,' what is the name of the video store where Steve Harrington and Dustin Henderson work?",
+    "question": "In 'Stranger Things,' what is the name of the video store where Steve Harrington and Robin Buckley work?",
     "options": [
       "Family Video",
       "Scoops Ahoy",
@@ -11087,19 +11035,6 @@
       "The Bluth Foundation"
     ],
     "answer": "The Bluth Company"
-  },
-  {
-    "id": "film-tv-718",
-    "category": "film-tv",
-    "difficulty": "easy",
-    "question": "In 'It's Always Sunny in Philadelphia,' what is the name of the gang's dog that tragically passes away?",
-    "options": [
-      "Rex",
-      "Poppins",
-      "Mac's Dog",
-      "Buster"
-    ],
-    "answer": "Poppins"
   },
   {
     "id": "film-tv-719",
@@ -13637,19 +13572,6 @@
     "answer": "In-Yun"
   },
   {
-    "id": "film-tv-919",
-    "category": "film-tv",
-    "difficulty": "medium",
-    "question": "In Severance (2022- ), what is the name of the mysterious corporation where the innies work?",
-    "options": [
-      "Lumon Industries",
-      "Initech",
-      "Waystar Royco",
-      "Massive Dynamic"
-    ],
-    "answer": "Lumon Industries"
-  },
-  {
     "id": "film-tv-920",
     "category": "film-tv",
     "difficulty": "easy",
@@ -14701,19 +14623,6 @@
       "Spectral Espionage and Terrorism Ring"
     ],
     "answer": "Special Executive for Counter-intelligence, Terrorism, Revenge and Extortion"
-  },
-  {
-    "id": "film-tv-1006",
-    "category": "film-tv",
-    "difficulty": "easy",
-    "question": "Which car model is famously associated with James Bond, first appearing in Goldfinger (1964)?",
-    "options": [
-      "Aston Martin DB5",
-      "Aston Martin V8",
-      "Jaguar E-Type",
-      "Bentley Continental"
-    ],
-    "answer": "Aston Martin DB5"
   },
   {
     "id": "film-tv-1007",

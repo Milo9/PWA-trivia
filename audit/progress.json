@@ -6387,11 +6387,11 @@
         "film-tv-547",
         "film-tv-548"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 2,
+      "notes": "Cut 2 duplicates: general-2942/film-tv-432 (Eleven's Stranger Things birth name, same fact worse-worded), film-tv-541/film-tv-474 (exact duplicate Home Alone Paris trip question, same options reordered). All other 48 questions verified factually accurate with correct distractors."
     },
     {
       "chunkId": "film-tv-p1-019",
@@ -6448,11 +6448,11 @@
         "film-tv-638",
         "film-tv-640"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 1,
+      "notes": "Cut 1 duplicate: film-tv-601 (Up's balloon-lifted house) restates film-tv-530's same fact with weaker distractors. All other 49 questions verified factually accurate with correct distractors, including web-verified specifics (Endgame's 2019 box-office record, Encanto/Nomadland/Whale/Sting/Kramer vs. Kramer/Gandhi awards-season facts)."
     },
     {
       "chunkId": "film-tv-p1-020",
@@ -6509,11 +6509,11 @@
         "film-tv-756",
         "film-tv-761"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 4,
+      "notes": "Cut 3, fixed 1. Cuts: film-tv-919 (duplicate of film-tv-706, Severance/Lumon Industries same fact); film-tv-707 (fabricated fact - Bronn never commands the Second Sons or any mercenary company in Game of Thrones, he becomes Master of Coin/Lord of Highgarden instead); film-tv-718 (false premise - Poppins is specifically Mac's dog not 'the gang's', and the show's running joke is that he keeps surviving/returning, not that he dies). Fixed film-tv-710 (Stranger Things Family Video question wrongly named Dustin Henderson as Steve's coworker; web-verified it's Robin Buckley who works with Steve at Family Video in season 4, Dustin never worked there). All other 46 questions verified factually accurate with correct distractors, including web-verified specifics (SNL's 90+ Emmy record, The Bear/Ted Lasso Emmy wins, A.J. Soprano's full name, Bronn's actual GoT arc)."
     },
     {
       "chunkId": "film-tv-p1-021",
@@ -6555,11 +6555,11 @@
         "film-tv-864",
         "film-tv-865"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-07",
+      "completedAt": "2026-08-07",
+      "issuesFound": 1,
+      "notes": "Cut 1 duplicate: film-tv-1006 (James Bond Aston Martin DB5 question) restates film-tv-776's same fact with weaker distractors (776's distractors are all genuine alternate Bond cars from other films - Lotus Esprit, Toyota 2000GT, BMW Z8 - making it the stronger version). Reviewed but kept two cross-category same-fact pairs with arts-literature (Hunger Games District 12 / One Ring's Black Speech inscription) since film-tv and arts-literature are separate dedicated categories testing film-adaptation vs. book knowledge, not a general-vs-dedicated straddle. Web-verified 2 tricky facts: Breaking Bad's RV nickname 'The Krystal Ship' (not the real-world Fleetwood Bounder make/model) and Walter White's Lily of the Valley poisoning of Brock. All other 33 questions verified factually accurate with correct distractors."
     },
     {
       "chunkId": "food-drink-p1-000",
