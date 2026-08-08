@@ -858,6 +858,27 @@ Open items for a future dedicated pass:
   fabrication-heavy range. New same-answer pair left uncut (both
   unreviewed): `friends-767`/`friends-596` (Ross's fictional employer,
   the Museum of Prehistoric History).
+- **Chunk `friends-p1-013` (2026-08-08, low-numbered IDs friends-001
+  through friends-152 plus two hard-difficulty stragglers friends-788/
+  789)**: every question in this chunk checked out factually (including
+  the two mediums, Drake Ramoray's brain-donor character Jessica
+  Lockhart and Joey's baby-powder leather-pants suggestion, both
+  verified via WebSearch), so zero fixes/cuts. Six new same-answer
+  duplicate pairs surfaced, all left uncut per the both-unreviewed
+  policy (three pair with questions in already-scheduled future chunks,
+  three pair with questions among the 179 out-of-pass IDs noted below):
+  `friends-002`/`friends-940` ("What is Ross's profession?" is a bare
+  duplicate of "What is Ross Geller's profession?"), `friends-007`/
+  `friends-962` (same pattern for Phoebe's masseuse job), `friends-114`/
+  `friends-844` (who plays both Phoebe and Ursula — Lisa Kudrow),
+  `friends-018`/`friends-258` (the orange couch as Central Perk's
+  iconic furniture), `friends-059`/`friends-570` (Rachel working for
+  Ralph Lauren), `friends-082`/`friends-248` (Emily Waltham's British
+  nationality). The latter three's sibling IDs already sit in scheduled
+  chunks `friends-p1-014`/`friends-p1-015` — when those chunks come up,
+  cut the newly-encountered side immediately as a dup of this
+  already-reviewed `friends-p1-013` chunk, per the
+  already-reviewed-sibling policy above, rather than re-logging them.
 
 ## Memory-only drafting exhausts per category
 
