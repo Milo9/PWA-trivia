@@ -8239,11 +8239,11 @@
         "friends-485",
         "friends-486"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-08",
+      "completedAt": "2026-08-08",
+      "issuesFound": 12,
+      "notes": "Cut 6 apparently-fabricated/duplicate questions (459 dup of already-fixed 405; 462 dup of already-fixed 061/298 I-got-off-the-plane misattribution; 463 dup of already-audited 365 Emma-born-S8; 466 fabricated Joey-moves-to-LA premise with leaked drafting reasoning in the stem; 473 fabricated Underdog-float-catch Thanksgiving game, real Geller Bowl not offered as an option; 485 unverifiable Ross-leather-jacket-gift premise). Fixed 6 more with wrong facts while preserving the underlying trivia: 448 (real fact is Ross bonding naked with Ugly Naked Guy to get his sublet, not an estate sale), 467 (removed a distractor that was a true subset of the marked answer), 474 (real Thanksgiving-flashback insult is Big Fat You're your fat sister to Ross, not the unrelated S4 trivia-game line Big Fat Goalie), 479 (real wedding toast quote verified via transcript), 480/481 (it is Joey, not Phoebe, who gets ordained online to officiate Monica and Chandlers wedding; replaced the unverifiable NY-license-invalid premise with Joeys real running-late-from-a-film-shoot crisis)."
     },
     {
       "chunkId": "friends-p1-009",
@@ -8300,11 +8300,11 @@
         "friends-537",
         "friends-538"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-08",
+      "completedAt": "2026-08-08",
+      "issuesFound": 6,
+      "notes": "Cut friends-495 (Emily's profession is never established on-screen, and Ross/Emily actually meet in New York, not London, as the question claimed). Fixed 5 more that mixed up real plot details: 489 (the pro/con list Rachel finds compares her to Julie specifically and surfaces via a printer at the coffee house, not while packing), 491 (per the friends-p1-007 backlog note flagging this as the sole surviving keyboard-fact question, reattributed the reveal to Monica exposing Ross's secret hobby to the group rather than Rachel discovering a childhood habit), 496 (it's Rachel, not a fabricated Andrew character, who sets Ross up with Emily by asking him to entertain her boss's niece), 497 (it's Joey who kisses an unnamed bridesmaid at Ross and Emily's wedding, not Chandler pursuing an invented cousin Denise), 499 (Rachel's nerve-losing moment happens on the flight to London to stop the wedding itself, via a fellow passenger's comment, not at an airport trying to stop a move to London)."
     },
     {
       "chunkId": "friends-p1-010",

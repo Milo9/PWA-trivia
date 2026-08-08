@@ -5229,14 +5229,14 @@
     "id": "friends-448",
     "category": "friends",
     "difficulty": "medium",
-    "question": "After Ugly Naked Guy moves away, what do the friends do involving his old apartment?",
+    "question": "After Ugly Naked Guy decides to move out, how does Ross ultimately land the newly available apartment?",
     "options": [
-      "They attend an estate sale and buy his furniture",
-      "They move in themselves",
-      "They throw a party there",
-      "They report it vacant to the landlord"
+      "He bonds with Ugly Naked Guy over their shared love of nudity",
+      "He offers the highest bid in cash",
+      "He signs the lease before it's listed",
+      "He has the landlord evict the other applicants"
     ],
-    "answer": "They attend an estate sale and buy his furniture"
+    "answer": "He bonds with Ugly Naked Guy over their shared love of nudity"
   },
   {
     "id": "friends-449",
@@ -5369,19 +5369,6 @@
     "answer": "The One with Ross's Wedding"
   },
   {
-    "id": "friends-459",
-    "category": "friends",
-    "difficulty": "medium",
-    "question": "Which friend says the line, 'I'm not great at the advice. Can I interest you in a sarcastic comment?'",
-    "options": [
-      "Chandler",
-      "Ross",
-      "Joey",
-      "Phoebe"
-    ],
-    "answer": "Chandler"
-  },
-  {
     "id": "friends-460",
     "category": "friends",
     "difficulty": "medium",
@@ -5406,32 +5393,6 @@
       "Joey"
     ],
     "answer": "Phoebe"
-  },
-  {
-    "id": "friends-462",
-    "category": "friends",
-    "difficulty": "medium",
-    "question": "Which friend says, 'I got off the plane,' to explain why he showed up unannounced in the series finale?",
-    "options": [
-      "Ross",
-      "Chandler",
-      "Joey",
-      "Mike"
-    ],
-    "answer": "Ross"
-  },
-  {
-    "id": "friends-463",
-    "category": "friends",
-    "difficulty": "medium",
-    "question": "In which season do Ross and Rachel's daughter Emma get born, closing out the season?",
-    "options": [
-      "Season 8",
-      "Season 7",
-      "Season 9",
-      "Season 6"
-    ],
-    "answer": "Season 8"
   },
   {
     "id": "friends-464",
@@ -5460,19 +5421,6 @@
     "answer": "Season 1"
   },
   {
-    "id": "friends-466",
-    "category": "friends",
-    "difficulty": "medium",
-    "question": "In which season does Joey briefly move to Las Vegas... no, to Los Angeles to pursue a film role, temporarily leaving the group?",
-    "options": [
-      "Season 6",
-      "Season 5",
-      "Season 8",
-      "Season 4"
-    ],
-    "answer": "Season 6"
-  },
-  {
     "id": "friends-467",
     "category": "friends",
     "difficulty": "medium",
@@ -5481,7 +5429,7 @@
       "Season 10",
       "Season 9",
       "Season 8",
-      "Final half of Season 10 only"
+      "Season 7"
     ],
     "answer": "Season 10"
   },
@@ -5538,30 +5486,17 @@
     "answer": "Assistant buyer"
   },
   {
-    "id": "friends-473",
-    "category": "friends",
-    "difficulty": "medium",
-    "question": "On Thanksgiving, what game do the friends improvise using a football because they can't afford real toys as kids in a flashback?",
-    "options": [
-      "Underdog float catch",
-      "Touch football with a trash can",
-      "Wishbone toss",
-      "Turkey bowling"
-    ],
-    "answer": "Underdog float catch"
-  },
-  {
     "id": "friends-474",
     "category": "friends",
     "difficulty": "medium",
-    "question": "In a Thanksgiving flashback, what does teenage Chandler do that makes teenage Monica cry, a moment that haunts him for years?",
+    "question": "In a Thanksgiving flashback, what does teenage Chandler say about Monica to Ross that devastates her, since she secretly has a crush on him?",
     "options": [
-      "Calls her 'Big Fat Goalie' in front of her crush",
-      "Eats her Thanksgiving pie",
-      "Tells her parents she failed a class",
-      "Reveals her secret crush to the school"
+      "He calls her 'your fat sister'",
+      "He calls her 'the elephant'",
+      "He says she'll never get a boyfriend",
+      "He calls her 'chubby cheeks'"
     ],
-    "answer": "Calls her 'Big Fat Goalie' in front of her crush"
+    "answer": "He calls her 'your fat sister'"
   },
   {
     "id": "friends-475",
@@ -5619,7 +5554,7 @@
     "id": "friends-479",
     "category": "friends",
     "difficulty": "medium",
-    "question": "Which friend gives a memorable toast at Monica and Chandler's wedding, mostly about how the couple always makes fun of him?",
+    "question": "In his wedding toast for Monica and Chandler, which friend jokes that he'll always be their friend 'who can speak in many dialects and has training in stage combat and is willing to do partial nudity'?",
     "options": [
       "Joey",
       "Ross",
@@ -5632,27 +5567,27 @@
     "id": "friends-480",
     "category": "friends",
     "difficulty": "medium",
-    "question": "What ceremony does Phoebe perform for Monica and Chandler when their original officiant loses his license just before the wedding?",
+    "question": "Who gets ordained online so he can officiate Monica and Chandler's wedding himself?",
     "options": [
-      "She gets ordained online to marry them herself",
-      "She reads their vows aloud instead",
-      "She has Ross officiate",
-      "The wedding is postponed a week"
+      "Joey",
+      "Phoebe",
+      "Ross",
+      "Mike"
     ],
-    "answer": "She gets ordained online to marry them herself"
+    "answer": "Joey"
   },
   {
     "id": "friends-481",
     "category": "friends",
     "difficulty": "medium",
-    "question": "What problem nearly derails Monica and Chandler's wedding hours before it starts?",
+    "question": "What problem threatens to delay Monica and Chandler's wedding ceremony?",
     "options": [
-      "Their officiant's license isn't valid in New York",
-      "The caterer cancels",
-      "Chandler gets cold feet and disappears",
-      "The venue double-books the date"
+      "Joey, their ordained officiant, is running late from a film shoot",
+      "The caterer cancels last minute",
+      "The venue double-books the date",
+      "The wedding rings go missing"
     ],
-    "answer": "Their officiant's license isn't valid in New York"
+    "answer": "Joey, their ordained officiant, is running late from a film shoot"
   },
   {
     "id": "friends-482",
@@ -5671,14 +5606,14 @@
     "id": "friends-483",
     "category": "friends",
     "difficulty": "medium",
-    "question": "What health scare does Chandler's boss have that leads to Chandler getting an unwanted promotion?",
+    "question": "In a Season 1 episode, what unwanted advancement does Chandler receive at his data-processing job, forcing him to confront that it's become his actual career?",
     "options": [
-      "A heart attack",
-      "A stroke",
-      "He retires suddenly",
-      "He is fired for fraud"
+      "A promotion to processing supervisor",
+      "A transfer to another department",
+      "A pay cut disguised as a promotion",
+      "Mandatory unpaid overtime"
     ],
-    "answer": "A heart attack"
+    "answer": "A promotion to processing supervisor"
   },
   {
     "id": "friends-484",
@@ -5692,19 +5627,6 @@
       "He changes the subject to sports"
     ],
     "answer": "He claims it's too boring to explain"
-  },
-  {
-    "id": "friends-485",
-    "category": "friends",
-    "difficulty": "medium",
-    "question": "What souvenir does Ross buy Rachel from a work trip that turns out to be an offensive misunderstanding of her interests?",
-    "options": [
-      "A leather jacket she never wanted",
-      "A pair of ugly boots",
-      "A cheap knockoff handbag",
-      "A porcelain figurine"
-    ],
-    "answer": "A leather jacket she never wanted"
   },
   {
     "id": "friends-486",
@@ -5749,14 +5671,14 @@
     "id": "friends-489",
     "category": "friends",
     "difficulty": "medium",
-    "question": "What surprising item does Rachel find while packing that reveals a secret about Ross she never knew?",
+    "question": "What does Rachel get hold of that reveals Ross secretly wrote a pro/con list weighing her flaws against staying with his girlfriend Julie?",
     "options": [
-      "A list ranking her against his other girlfriends",
+      "A printed pro/con list comparing her to Julie",
       "An old diary entry insulting her",
       "A wedding ring he never gave her",
       "A letter to another woman"
     ],
-    "answer": "A list ranking her against his other girlfriends"
+    "answer": "A printed pro/con list comparing her to Julie"
   },
   {
     "id": "friends-490",
@@ -5775,14 +5697,14 @@
     "id": "friends-491",
     "category": "friends",
     "difficulty": "medium",
-    "question": "What activity does Rachel discover Ross secretly used to do to relax as a kid, which she finds endearing?",
+    "question": "What secret childhood hobby of Ross's does Monica reveal to the friends, leading him to reluctantly demonstrate it?",
     "options": [
-      "Playing with a keyboard that has novelty sound effects",
+      "Playing a keyboard loaded with novelty sound effects",
       "Collecting stamps",
       "Doing crossword puzzles in the bathtub",
       "Building model dinosaurs"
     ],
-    "answer": "Playing with a keyboard that has novelty sound effects"
+    "answer": "Playing a keyboard loaded with novelty sound effects"
   },
   {
     "id": "friends-492",
@@ -5824,43 +5746,30 @@
     "answer": "They trade back after struggling to keep it clean and can't handle living there"
   },
   {
-    "id": "friends-495",
-    "category": "friends",
-    "difficulty": "medium",
-    "question": "What profession does Emily, Ross's second wife, have when they meet in London?",
-    "options": [
-      "She works at a bank",
-      "She is a florist",
-      "She is a teacher",
-      "She is a lawyer"
-    ],
-    "answer": "She works at a bank"
-  },
-  {
     "id": "friends-496",
     "category": "friends",
     "difficulty": "medium",
-    "question": "How are Emily and Ross's mutual friend Andrew related to their circle in London?",
+    "question": "How does Ross end up spending time with Emily and falling for her when she first visits New York?",
     "options": [
-      "He introduces Ross and Emily at a mutual friend's party",
-      "He is Emily's brother",
-      "He is Ross's coworker on the London dig",
-      "He is the wedding officiant"
+      "Rachel asks him to entertain her boss's niece so she can go on her own date",
+      "They meet through his job on a museum dig",
+      "Monica sets them up on a blind date",
+      "They meet at Ross's wedding rehearsal"
     ],
-    "answer": "He introduces Ross and Emily at a mutual friend's party"
+    "answer": "Rachel asks him to entertain her boss's niece so she can go on her own date"
   },
   {
     "id": "friends-497",
     "category": "friends",
     "difficulty": "medium",
-    "question": "What does Chandler do at Ross and Emily's wedding reception that becomes an awkward running bit with a bridesmaid?",
+    "question": "Which friend causes a problem at Ross and Emily's wedding by making out with a bridesmaid instead of watching for Rachel's arrival?",
     "options": [
-      "He pursues Emily's cousin Denise romantically",
-      "He gives an embarrassing best man speech",
-      "He gets drunk and falls into the wedding cake",
-      "He loses the wedding rings"
+      "Joey",
+      "Chandler",
+      "Ross",
+      "Mike"
     ],
-    "answer": "He pursues Emily's cousin Denise romantically"
+    "answer": "Joey"
   },
   {
     "id": "friends-498",
@@ -5879,14 +5788,14 @@
     "id": "friends-499",
     "category": "friends",
     "difficulty": "medium",
-    "question": "What does Rachel do at the airport to try to stop Ross from moving to London to be with Emily?",
+    "question": "On the flight to London to stop Ross's wedding, what happens that makes Rachel lose her nerve?",
     "options": [
-      "She goes to tell him she loves him, but a stranger interrupts and she loses her nerve",
-      "She tells him about the pregnancy test she took",
-      "She buys a ticket to follow him to London",
-      "She hides his passport"
+      "A fellow passenger scolds her for planning to ruin 'the happiest day of his life'",
+      "She misses her connecting flight",
+      "She loses her passport at the gate",
+      "Phoebe talks her out of it over the phone"
     ],
-    "answer": "She goes to tell him she loves him, but a stranger interrupts and she loses her nerve"
+    "answer": "A fellow passenger scolds her for planning to ruin 'the happiest day of his life'"
   },
   {
     "id": "friends-500",

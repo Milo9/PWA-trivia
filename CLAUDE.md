@@ -770,6 +770,43 @@ Open items for a future dedicated pass:
   how many chunks get completed. Needs a fresh pass (or an appended set
   of chunks) covering just the uncovered IDs before the current pass is
   considered a full sweep of the file.
+- **Chunks `friends-p1-008`/`friends-p1-009` (2026-08-08, IDs friends-411
+  through friends-538) had a much higher fabrication density than any
+  prior friends chunk** — 18 issues across 94 questions, roughly double
+  the typical rate, and unlike earlier chunks (mostly cross-chunk
+  duplicates) most of these were invented or conflated plot specifics:
+  a fabricated "Yankee swap"-style detail (`448`'s Ugly Naked Guy estate
+  sale — real fact is Ross bonding naked with him for the sublet),
+  `466`'s Joey-moves-to-LA premise (visibly uncertain even in its own
+  drafting — "Las Vegas... no, to Los Angeles" leaked into the stem, and
+  no episode matches it), `473`'s "Underdog float catch" game (the real
+  Thanksgiving football tradition, the Geller Bowl, wasn't even offered
+  as an option), `483`'s boss-heart-attack framing (real fact: Chandler
+  is offered an unwanted data-processing promotion, no heart attack),
+  `485`'s leather-jacket gift (no matching episode found), and several
+  right-fact-wrong-character mix-ups: `474` attributed a real S4 trivia
+  quote ("Big Fat Goalie") to an unrelated S5 Thanksgiving-flashback
+  insult (the real line is Chandler calling Monica "your fat sister"),
+  `480`/`481` had Phoebe (not Joey) getting ordained online and an
+  invented NY-license problem (real crisis: Joey running late from a
+  film shoot), `489` had Rachel finding Ross's pro/con list "while
+  packing" (it actually surfaces via a coffee-house printer), `496`
+  invented a character "Andrew" introducing Ross and Emily (it's
+  Rachel, asking Ross to entertain Emily so she can date Joshua), and
+  `497` gave Chandler a fabricated cousin-of-Emily's named "Denise" to
+  romance at the wedding (it's Joey kissing an unnamed bridesmaid).
+  Also cut as unfixable: `495` (Emily's profession is never established
+  on-screen, and the question also claimed they meet in London when
+  they actually meet in New York). All were fixed in place (preserving
+  the real underlying fact) rather than cut, except `495`/`448`/`466`/
+  `473`/`483`/`485` per the usual unfixable-without-changing-the-fact
+  cut policy — see the `friends-p1-008`/`009` commit for the full list.
+  **If later chunks in the `friends-411`–`friends-538`-ish range (or
+  any range that turns out to share a drafting batch with it) keep
+  showing this same conflated-plot-detail pattern, budget extra
+  WebSearch verification there rather than defaulting to judgment/
+  memory** — this range appears to come from a drafting pass with
+  noticeably weaker factual grounding than the rest of the corpus.
 
 ## Memory-only drafting exhausts per category
 
