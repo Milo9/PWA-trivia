@@ -7837,5 +7837,889 @@
     ],
     "answer": "Sweden, Denmark, Romania",
     "id": "sports-389"
+  },
+  {
+    "id": "sports-391",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Who holds the record for the most Wimbledon men's singles titles?",
+    "options": [
+      "Pete Sampras",
+      "Roger Federer",
+      "Novak Djokovic",
+      "Björn Borg"
+    ],
+    "answer": "Roger Federer"
+  },
+  {
+    "id": "sports-392",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "How many Wimbledon men's singles titles has Roger Federer won?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": "sports-393",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "Who holds the record for the most Wimbledon women's singles titles?",
+    "options": [
+      "Martina Navratilova",
+      "Serena Williams",
+      "Steffi Graf",
+      "Billie Jean King"
+    ],
+    "answer": "Martina Navratilova"
+  },
+  {
+    "id": "sports-394",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "How many Wimbledon women's singles titles has Martina Navratilova won?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "answer": "9"
+  },
+  {
+    "id": "sports-395",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Who holds the record for the most French Open men's singles titles?",
+    "options": [
+      "Rafael Nadal",
+      "Björn Borg",
+      "Chris Evert",
+      "Justine Henin"
+    ],
+    "answer": "Rafael Nadal"
+  },
+  {
+    "id": "sports-396",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "How many French Open men's singles titles has Rafael Nadal won?",
+    "options": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "answer": "14"
+  },
+  {
+    "id": "sports-397",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Who holds the record for the most US Open men's singles titles in the Open Era?",
+    "options": [
+      "Pete Sampras",
+      "Roger Federer",
+      "Jimmy Connors",
+      "Novak Djokovic"
+    ],
+    "answer": "Roger Federer"
+  },
+  {
+    "id": "sports-398",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "How many US Open men's singles titles has Roger Federer won?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": "sports-399",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Who holds the record for the most Australian Open men's singles titles?",
+    "options": [
+      "Novak Djokovic",
+      "Roger Federer",
+      "Roy Emerson",
+      "Andre Agassi"
+    ],
+    "answer": "Novak Djokovic"
+  },
+  {
+    "id": "sports-400",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "How many Australian Open men's singles titles has Novak Djokovic won as of 2026?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "answer": "10"
+  },
+  {
+    "id": "sports-401",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Who is the NBA's all-time leading scorer as of 2026?",
+    "options": [
+      "Kareem Abdul-Jabbar",
+      "Karl Malone",
+      "Kobe Bryant",
+      "LeBron James"
+    ],
+    "answer": "LeBron James"
+  },
+  {
+    "id": "sports-402",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "How many career points does LeBron James have as of 2026?",
+    "options": [
+      "38,000",
+      "40,000",
+      "43,440",
+      "45,000"
+    ],
+    "answer": "43,440"
+  },
+  {
+    "id": "sports-403",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Who holds the NBA record for most career assists?",
+    "options": [
+      "Magic Johnson",
+      "Isiah Thomas",
+      "John Stockton",
+      "Chris Paul"
+    ],
+    "answer": "John Stockton"
+  },
+  {
+    "id": "sports-404",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "How many career assists does John Stockton have?",
+    "options": [
+      "14,000",
+      "15,806",
+      "16,500",
+      "17,200"
+    ],
+    "answer": "15,806"
+  },
+  {
+    "id": "sports-405",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Who holds the NBA record for most career rebounds?",
+    "options": [
+      "Bill Russell",
+      "Kareem Abdul-Jabbar",
+      "Wilt Chamberlain",
+      "Hakeem Olajuwon"
+    ],
+    "answer": "Wilt Chamberlain"
+  },
+  {
+    "id": "sports-406",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "How many career rebounds does Wilt Chamberlain have?",
+    "options": [
+      "21,000",
+      "22,924",
+      "23,924",
+      "24,500"
+    ],
+    "answer": "23,924"
+  },
+  {
+    "id": "sports-407",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Who holds the NFL record for most career passing yards?",
+    "options": [
+      "Peyton Manning",
+      "Drew Brees",
+      "Brett Favre",
+      "Tom Brady"
+    ],
+    "answer": "Tom Brady"
+  },
+  {
+    "id": "sports-408",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "How many career passing yards does Tom Brady have?",
+    "options": [
+      "75,000",
+      "80,358",
+      "89,214",
+      "92,000"
+    ],
+    "answer": "89,214"
+  },
+  {
+    "id": "sports-409",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Who holds the NFL record for most career rushing yards?",
+    "options": [
+      "Walter Payton",
+      "Frank Gore",
+      "Barry Sanders",
+      "Emmitt Smith"
+    ],
+    "answer": "Emmitt Smith"
+  },
+  {
+    "id": "sports-410",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "How many career rushing yards does Emmitt Smith have?",
+    "options": [
+      "16,726",
+      "17,500",
+      "18,355",
+      "19,000"
+    ],
+    "answer": "18,355"
+  },
+  {
+    "id": "sports-411",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Who holds the record for the most Test centuries in cricket history?",
+    "options": [
+      "Ricky Ponting",
+      "Jacques Kallis",
+      "Sachin Tendulkar",
+      "Virat Kohli"
+    ],
+    "answer": "Sachin Tendulkar"
+  },
+  {
+    "id": "sports-412",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "How many Test centuries does Sachin Tendulkar have?",
+    "options": [
+      "45",
+      "49",
+      "51",
+      "55"
+    ],
+    "answer": "51"
+  },
+  {
+    "id": "sports-413",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "Which opponent did Mike Tyson defeat to become the youngest heavyweight champion?",
+    "options": [
+      "Larry Holmes",
+      "Trevor Berbick",
+      "Michael Spinks",
+      "Buster Douglas"
+    ],
+    "answer": "Trevor Berbick"
+  },
+  {
+    "id": "sports-414",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Who holds the MLB record for most career saves?",
+    "options": [
+      "Trevor Hoffman",
+      "Lee Smith",
+      "Mariano Rivera",
+      "Craig Kimbrel"
+    ],
+    "answer": "Mariano Rivera"
+  },
+  {
+    "id": "sports-415",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "How many career saves does Mariano Rivera have?",
+    "options": [
+      "600",
+      "601",
+      "652",
+      "675"
+    ],
+    "answer": "652"
+  },
+  {
+    "id": "sports-416",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Who holds the MLB record for most career wins by a pitcher?",
+    "options": [
+      "Walter Johnson",
+      "Nolan Ryan",
+      "Greg Maddux",
+      "Cy Young"
+    ],
+    "answer": "Cy Young"
+  },
+  {
+    "id": "sports-417",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "How many career wins does Cy Young have?",
+    "options": [
+      "417",
+      "450",
+      "511",
+      "550"
+    ],
+    "answer": "511"
+  },
+  {
+    "id": "sports-418",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "Who holds the MLB record for most home runs in a single season?",
+    "options": [
+      "Mark McGwire",
+      "Sammy Sosa",
+      "Barry Bonds",
+      "Aaron Judge"
+    ],
+    "answer": "Barry Bonds"
+  },
+  {
+    "id": "sports-419",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "How many home runs did Barry Bonds hit in a single season?",
+    "options": [
+      "61",
+      "65",
+      "70",
+      "73"
+    ],
+    "answer": "73"
+  },
+  {
+    "id": "sports-420",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Who holds the NHL record for most career points?",
+    "options": [
+      "Gordie Howe",
+      "Jaromír Jágr",
+      "Mark Messier",
+      "Wayne Gretzky"
+    ],
+    "answer": "Wayne Gretzky"
+  },
+  {
+    "id": "sports-421",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "How many career points does Wayne Gretzky have?",
+    "options": [
+      "2,500",
+      "2,750",
+      "2,857",
+      "3,000"
+    ],
+    "answer": "2,857"
+  },
+  {
+    "id": "sports-422",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Who holds the NHL record for most career goals?",
+    "options": [
+      "Gordie Howe",
+      "Jaromír Jágr",
+      "Wayne Gretzky",
+      "Alex Ovechkin"
+    ],
+    "answer": "Wayne Gretzky"
+  },
+  {
+    "id": "sports-423",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "How many career goals does Wayne Gretzky have?",
+    "options": [
+      "800",
+      "850",
+      "894",
+      "900"
+    ],
+    "answer": "894"
+  },
+  {
+    "id": "sports-424",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Who holds the NHL record for most career assists?",
+    "options": [
+      "Gordie Howe",
+      "Jaromír Jágr",
+      "Wayne Gretzky",
+      "Ron Francis"
+    ],
+    "answer": "Wayne Gretzky"
+  },
+  {
+    "id": "sports-425",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "How many career assists does Wayne Gretzky have?",
+    "options": [
+      "1,800",
+      "1,900",
+      "1,963",
+      "2,000"
+    ],
+    "answer": "1,963"
+  },
+  {
+    "id": "sports-426",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "Which player has won the most Stanley Cups in NHL history?",
+    "options": [
+      "Gordie Howe",
+      "Jean Béliveau",
+      "Henri Richard",
+      "Mark Messier"
+    ],
+    "answer": "Henri Richard"
+  },
+  {
+    "id": "sports-427",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "How many Stanley Cups did Henri Richard win?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "answer": "11"
+  },
+  {
+    "id": "sports-428",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Which NHL team has won the most Stanley Cups?",
+    "options": [
+      "Toronto Maple Leafs",
+      "Detroit Red Wings",
+      "Boston Bruins",
+      "Montreal Canadiens"
+    ],
+    "answer": "Montreal Canadiens"
+  },
+  {
+    "id": "sports-429",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "How many Stanley Cups have the Montreal Canadiens won?",
+    "options": [
+      "20",
+      "22",
+      "24",
+      "26"
+    ],
+    "answer": "24"
+  },
+  {
+    "id": "sports-430",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "Which country has won the most Uber Cup titles in badminton?",
+    "options": [
+      "Japan",
+      "China",
+      "Indonesia",
+      "South Korea"
+    ],
+    "answer": "China"
+  },
+  {
+    "id": "sports-431",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "How many Uber Cup titles has China won?",
+    "options": [
+      "12",
+      "14",
+      "15",
+      "16"
+    ],
+    "answer": "15"
+  },
+  {
+    "id": "sports-432",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "How many FIVB Men's Volleyball World Championship titles did the Soviet Union win?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "6"
+  },
+  {
+    "id": "sports-433",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Who holds the men's 100m world record?",
+    "options": [
+      "Carl Lewis",
+      "Asafa Powell",
+      "Usain Bolt",
+      "Tyson Gay"
+    ],
+    "answer": "Usain Bolt"
+  },
+  {
+    "id": "sports-434",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "What is the men's 100m world record time?",
+    "options": [
+      "9.63",
+      "9.58",
+      "9.69",
+      "9.72"
+    ],
+    "answer": "9.58"
+  },
+  {
+    "id": "sports-435",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Who holds the women's 100m hurdles world record?",
+    "options": [
+      "Sally Pearson",
+      "Kendra Harrison",
+      "Yordanka Donkova",
+      "Tobi Amusan"
+    ],
+    "answer": "Tobi Amusan"
+  },
+  {
+    "id": "sports-436",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "What is the women's 100m hurdles world record time?",
+    "options": [
+      "12.12",
+      "12.20",
+      "12.34",
+      "12.48"
+    ],
+    "answer": "12.12"
+  },
+  {
+    "id": "sports-437",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Who holds the men's 100m freestyle world record?",
+    "options": [
+      "Ian Thorpe",
+      "Caeleb Dressel",
+      "Nathan Adrian",
+      "James Magnussen"
+    ],
+    "answer": "Caeleb Dressel"
+  },
+  {
+    "id": "sports-438",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "What is the men's 100m freestyle world record time?",
+    "options": [
+      "46.80",
+      "46.96",
+      "47.02",
+      "47.05"
+    ],
+    "answer": "46.96"
+  },
+  {
+    "id": "sports-439",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Who holds the record for the most ODI centuries in cricket history?",
+    "options": [
+      "Sachin Tendulkar",
+      "Virat Kohli",
+      "Ricky Ponting",
+      "Kumar Sangakkara"
+    ],
+    "answer": "Virat Kohli"
+  },
+  {
+    "id": "sports-440",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "How many ODI centuries does Virat Kohli have?",
+    "options": [
+      "45",
+      "48",
+      "49",
+      "50"
+    ],
+    "answer": "49"
+  },
+  {
+    "id": "sports-441",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Who holds the NBA record for most career triple-doubles?",
+    "options": [
+      "Magic Johnson",
+      "Jason Kidd",
+      "Russell Westbrook",
+      "LeBron James"
+    ],
+    "answer": "Russell Westbrook"
+  },
+  {
+    "id": "sports-442",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "How many career triple-doubles does Russell Westbrook have?",
+    "options": [
+      "180",
+      "185",
+      "198",
+      "200"
+    ],
+    "answer": "198"
+  },
+  {
+    "id": "sports-443",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Who holds the NFL record for most career receiving yards?",
+    "options": [
+      "Larry Fitzgerald",
+      "Reggie Wayne",
+      "Julio Jones",
+      "Jerry Rice"
+    ],
+    "answer": "Jerry Rice"
+  },
+  {
+    "id": "sports-444",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "How many career receiving yards does Jerry Rice have?",
+    "options": [
+      "20,000",
+      "21,500",
+      "22,895",
+      "23,500"
+    ],
+    "answer": "22,895"
+  },
+  {
+    "id": "sports-445",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Who holds the record for most major wins in golf?",
+    "options": [
+      "Tiger Woods",
+      "Arnold Palmer",
+      "Jack Nicklaus",
+      "Sam Snead"
+    ],
+    "answer": "Jack Nicklaus"
+  },
+  {
+    "id": "sports-446",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "How many major wins does Jack Nicklaus have?",
+    "options": [
+      "15",
+      "16",
+      "18",
+      "20"
+    ],
+    "answer": "18"
+  },
+  {
+    "id": "sports-447",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Who holds the NHL record for most career playoff points?",
+    "options": [
+      "Wayne Gretzky",
+      "Jaromír Jágr",
+      "Mark Messier",
+      "Gordie Howe"
+    ],
+    "answer": "Wayne Gretzky"
+  },
+  {
+    "id": "sports-448",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "How many career playoff points does Wayne Gretzky have?",
+    "options": [
+      "350",
+      "382",
+      "400",
+      "420"
+    ],
+    "answer": "382"
+  },
+  {
+    "id": "sports-449",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Who holds the record for most goals in a single FIFA World Cup tournament?",
+    "options": [
+      "Pelé",
+      "Miroslav Klose",
+      "Gerd Müller",
+      "Just Fontaine"
+    ],
+    "answer": "Just Fontaine"
+  },
+  {
+    "id": "sports-450",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "How many goals did Just Fontaine score in the 1958 FIFA World Cup?",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "answer": "13"
+  },
+  {
+    "id": "sports-451",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Who holds the record for most career Champions League appearances?",
+    "options": [
+      "Lionel Messi",
+      "Cristiano Ronaldo",
+      "Iker Casillas",
+      "Ryan Giggs"
+    ],
+    "answer": "Iker Casillas"
+  },
+  {
+    "id": "sports-452",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "How many career Champions League appearances does Iker Casillas have?",
+    "options": [
+      "160",
+      "168",
+      "177",
+      "180"
+    ],
+    "answer": "177"
+  },
+  {
+    "id": "sports-453",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Who holds the MLB record for most career strikeouts by a pitcher?",
+    "options": [
+      "Randy Johnson",
+      "Steve Carlton",
+      "Nolan Ryan",
+      "Greg Maddux"
+    ],
+    "answer": "Nolan Ryan"
+  },
+  {
+    "id": "sports-454",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "How many career strikeouts does Nolan Ryan have?",
+    "options": [
+      "5,000",
+      "5,500",
+      "5,714",
+      "6,000"
+    ],
+    "answer": "5,714"
+  },
+  {
+    "id": "sports-455",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Who holds the record for most Winter Olympic gold medals by an athlete?",
+    "options": [
+      "Ole Einar Bjørndalen",
+      "Ireen Wüst",
+      "Marit Bjørgen",
+      "Johannes Høsflot Klæbo"
+    ],
+    "answer": "Marit Bjørgen"
+  },
+  {
+    "id": "sports-456",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "How many Winter Olympic gold medals does Marit Bjørgen have?",
+    "options": [
+      "6",
+      "8",
+      "10",
+      "12"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": "sports-457",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Who holds the record for most Paralympic medals by an athlete?",
+    "options": [
+      "Tatyana McFadden",
+      "Sophie Pascoe",
+      "Trischa Zorn",
+      "Lee Pearson"
+    ],
+    "answer": "Trischa Zorn"
+  },
+  {
+    "id": "sports-458",
+    "category": "sports",
+    "difficulty": "hard",
+    "question": "How many Paralympic medals does Trischa Zorn have?",
+    "options": [
+      "41",
+      "46",
+      "55",
+      "60"
+    ],
+    "answer": "55"
   }
 ]
