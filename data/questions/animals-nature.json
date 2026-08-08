@@ -13232,5 +13232,2449 @@
     ],
     "answer": "Piercing the skull with its powerful canines",
     "id": "animals-nature-965"
+  },
+  {
+    "id": "animals-nature-966",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "As of 2026, which mammal is the only one whose teeth have no enamel and grow continuously, belonging to the order Tubulidentata?",
+    "options": [
+      "Armadillo",
+      "Aardvark",
+      "Pangolin",
+      "Anteater"
+    ],
+    "answer": "Aardvark"
+  },
+  {
+    "id": "animals-nature-967",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "Which armadillo species routinely gives birth to genetically identical quadruplets from a single egg?",
+    "options": [
+      "Nine-banded armadillo",
+      "Six-banded armadillo",
+      "Three-banded armadillo",
+      "Giant armadillo"
+    ],
+    "answer": "Nine-banded armadillo"
+  },
+  {
+    "id": "animals-nature-968",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "What is the name for the individually distinctive whistle that bottlenose dolphins use like a name to identify themselves?",
+    "options": [
+      "Burst pulse",
+      "Signature whistle",
+      "Echo pulse",
+      "Click train"
+    ],
+    "answer": "Signature whistle"
+  },
+  {
+    "id": "animals-nature-969",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "As of 2026, which mammal is considered the longest-living, with verified lifespans exceeding 200 years?",
+    "options": [
+      "Fin whale",
+      "African elephant",
+      "Orca",
+      "Bowhead whale"
+    ],
+    "answer": "Bowhead whale"
+  },
+  {
+    "id": "animals-nature-970",
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "As of 2026, which mammal holds the verified record for the deepest dive, reaching 2,992 meters?",
+    "options": [
+      "Cuvier's beaked whale",
+      "Narwhal",
+      "Sperm whale",
+      "Southern elephant seal"
+    ],
+    "answer": "Cuvier's beaked whale"
+  },
+  {
+    "id": "animals-nature-971",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "Male elephants in musth secrete a thick tar-like fluid called temporin from glands located where?",
+    "options": [
+      "Base of the tail",
+      "Behind the knees",
+      "Temporal sides of the head",
+      "Under the chin"
+    ],
+    "answer": "Temporal sides of the head"
+  },
+  {
+    "id": "animals-nature-972",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "Which African mammal has a gestation period of about 22 months, the longest of any land mammal?",
+    "options": [
+      "Hippopotamus",
+      "White rhinoceros",
+      "African bush elephant",
+      "Giraffe"
+    ],
+    "answer": "African bush elephant"
+  },
+  {
+    "id": "animals-nature-973",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "What does a female Virginia opossum have 13 of, which determines the maximum litter size she can carry?",
+    "options": [
+      "Pouch chambers",
+      "Vertebrae in tail",
+      "Teats",
+      "Embryos per ovary"
+    ],
+    "answer": "Teats"
+  },
+  {
+    "id": "animals-nature-974",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which mammal's milk contains about 50% fat, the richest among marine mammals, to help pups grow quickly on ice?",
+    "options": [
+      "Manatee",
+      "Sea otter",
+      "Hooded seal",
+      "Bottlenose dolphin"
+    ],
+    "answer": "Hooded seal"
+  },
+  {
+    "id": "animals-nature-975",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which fish is widely regarded as the fastest in the ocean, clocked at about 68 mph (110 km/h)?",
+    "options": [
+      "Wahoo",
+      "Sailfish",
+      "Black marlin",
+      "Mako shark"
+    ],
+    "answer": "Sailfish"
+  },
+  {
+    "id": "animals-nature-976",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "The Pacific barreleye fish Macropinna microstoma is famous for what unusual head feature?",
+    "options": [
+      "Bioluminescent horn",
+      "Hammer-shaped eyes",
+      "Retractable jaw",
+      "Transparent dome"
+    ],
+    "answer": "Transparent dome"
+  },
+  {
+    "id": "animals-nature-977",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "European and American eels migrate thousands of kilometers to spawn in which part of the Atlantic?",
+    "options": [
+      "Mediterranean Sea",
+      "Sargasso Sea",
+      "Baltic Sea",
+      "Labrador Sea"
+    ],
+    "answer": "Sargasso Sea"
+  },
+  {
+    "id": "animals-nature-978",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "Clownfish are protandrous hermaphrodites. What does that mean for their sex change?",
+    "options": [
+      "Born female then can become male",
+      "Never change sex",
+      "Change sex each season",
+      "Born male then can become female"
+    ],
+    "answer": "Born male then can become female"
+  },
+  {
+    "id": "animals-nature-979",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "In Shark Bay, Australia, a subset of bottlenose dolphins carries what object on their beaks to probe the seafloor?",
+    "options": [
+      "Seaweed bundles",
+      "Marine sponges",
+      "Clam shells",
+      "Smooth stones"
+    ],
+    "answer": "Marine sponges"
+  },
+  {
+    "id": "animals-nature-980",
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "As of 2026, what is the deepest-living fish ever filmed, recorded at about 8,143 meters in the Mariana Trench?",
+    "options": [
+      "Mariana snailfish",
+      "Viperfish",
+      "Fangtooth",
+      "Hadal snailfish"
+    ],
+    "answer": "Mariana snailfish"
+  },
+  {
+    "id": "animals-nature-981",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which deep-sea polychaete is considered the most heat-tolerant complex animal, thriving at up to 80°C near black smokers?",
+    "options": [
+      "Christmas tree worm",
+      "Bloodworm",
+      "Feather duster worm",
+      "Pompeii worm"
+    ],
+    "answer": "Pompeii worm"
+  },
+  {
+    "id": "animals-nature-982",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "Which marine mammal is a keystone species in kelp forests because it keeps sea urchin populations in check?",
+    "options": [
+      "Sea otter",
+      "Harbor seal",
+      "Walrus",
+      "California sea lion"
+    ],
+    "answer": "Sea otter"
+  },
+  {
+    "id": "animals-nature-983",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "The photosynthetic symbionts called zooxanthellae living inside reef-building corals belong to which group of algae?",
+    "options": [
+      "Dinoflagellates",
+      "Red algae",
+      "Green algae",
+      "Diatoms"
+    ],
+    "answer": "Dinoflagellates"
+  },
+  {
+    "id": "animals-nature-984",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "At cleaning stations on reefs, bluestreak cleaner wrasse primarily do what for client fish?",
+    "options": [
+      "Lay eggs on them",
+      "Share bioluminescence",
+      "Remove parasites and dead skin",
+      "Provide shelter"
+    ],
+    "answer": "Remove parasites and dead skin"
+  },
+  {
+    "id": "animals-nature-985",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which finch has mandibles that cross at the tips to efficiently extract seeds from conifer cones?",
+    "options": [
+      "Hawfinch",
+      "Bullfinch",
+      "Goldfinch",
+      "Crossbill"
+    ],
+    "answer": "Crossbill"
+  },
+  {
+    "id": "animals-nature-986",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "As of 2026, what major function has been demonstrated for the Toco Toucan's oversized bill besides feeding?",
+    "options": [
+      "Combat",
+      "Egg incubation",
+      "Sound amplification",
+      "Thermoregulation"
+    ],
+    "answer": "Thermoregulation"
+  },
+  {
+    "id": "animals-nature-987",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which small bird can remain airborne for 10 months straight without landing, sleeping on the wing?",
+    "options": [
+      "Common swift",
+      "House martin",
+      "Alpine swift",
+      "Barn swallow"
+    ],
+    "answer": "Common swift"
+  },
+  {
+    "id": "animals-nature-988",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "Which seabird feeds by flying low with its longer lower mandible slicing the water surface?",
+    "options": [
+      "Black skimmer",
+      "Razorbill",
+      "Arctic tern",
+      "Frigatebird"
+    ],
+    "answer": "Black skimmer"
+  },
+  {
+    "id": "animals-nature-989",
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "As of 2026, which shorebird holds the record for longest non-stop flight, about 13,560 km from Alaska to New Zealand in 11 days?",
+    "options": [
+      "Bar-tailed godwit",
+      "Red knot",
+      "Arctic tern",
+      "Blackpoll warbler"
+    ],
+    "answer": "Bar-tailed godwit"
+  },
+  {
+    "id": "animals-nature-990",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "Which bird undertakes the longest total annual round-trip migration, breeding in the Arctic and wintering in Antarctica?",
+    "options": [
+      "Arctic tern",
+      "Sooty shearwater",
+      "Bar-tailed godwit",
+      "Swallow-tailed kite"
+    ],
+    "answer": "Arctic tern"
+  },
+  {
+    "id": "animals-nature-991",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "What unusual color of objects do male satin bowerbirds obsessively collect to decorate their courtship bowers?",
+    "options": [
+      "Yellow",
+      "Red",
+      "White",
+      "Blue"
+    ],
+    "answer": "Blue"
+  },
+  {
+    "id": "animals-nature-992",
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "Which bird's nest is made almost entirely of its own hardened saliva and is harvested for bird's nest soup?",
+    "options": [
+      "Barn swallow",
+      "Hummingbird",
+      "White-nest swiftlet",
+      "House martin"
+    ],
+    "answer": "White-nest swiftlet"
+  },
+  {
+    "id": "animals-nature-993",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which bird has a tongue that can extend past the tip of its bill by up to 4 inches to extract insects from bark crevices, anchored to its hyoid bone that wraps around its skull?",
+    "options": [
+      "Toucan",
+      "Wood duck",
+      "Hummingbird",
+      "Northern flicker"
+    ],
+    "answer": "Northern flicker"
+  },
+  {
+    "id": "animals-nature-994",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "What is a group of crows called, according to traditional collective nouns?",
+    "options": [
+      "Murder",
+      "Gaggle",
+      "Flock",
+      "Parliament"
+    ],
+    "answer": "Murder"
+  },
+  {
+    "id": "animals-nature-995",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which bird can see ultraviolet light and uses UV-reflective patches on its plumage for mate choice?",
+    "options": [
+      "European starling",
+      "Kiwi",
+      "Ostrich",
+      "Emperor penguin"
+    ],
+    "answer": "European starling"
+  },
+  {
+    "id": "animals-nature-996",
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "As of 2026, which bird holds the verified record for highest flight, colliding with an aircraft at 11,300 meters over Ivory Coast?",
+    "options": [
+      "Common crane",
+      "Rüppell's vulture",
+      "Bar-headed goose",
+      "Whooper swan"
+    ],
+    "answer": "Rüppell's vulture"
+  },
+  {
+    "id": "animals-nature-997",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which North American songbird is an obligate brood parasite, laying its eggs in over 220 host species' nests?",
+    "options": [
+      "Brown-headed cowbird",
+      "Common cuckoo",
+      "European starling",
+      "House sparrow"
+    ],
+    "answer": "Brown-headed cowbird"
+  },
+  {
+    "id": "animals-nature-998",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "What do swallows and swifts use to bind their mud or twig nests together?",
+    "options": [
+      "Tree resin",
+      "Spider silk",
+      "Saliva",
+      "Beeswax"
+    ],
+    "answer": "Saliva"
+  },
+  {
+    "id": "animals-nature-999",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which bird's egg is the smallest relative to adult body size among all birds, weighing less than 1% of the female?",
+    "options": [
+      "Ostrich",
+      "Albatross",
+      "Hummingbird",
+      "Kiwi"
+    ],
+    "answer": "Ostrich"
+  },
+  {
+    "id": "animals-nature-1000",
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "Which penguin species can dive deeper than 500 meters and hold its breath for over 20 minutes as of 2026?",
+    "options": [
+      "Adélie penguin",
+      "Emperor penguin",
+      "King penguin",
+      "Gentoo penguin"
+    ],
+    "answer": "Emperor penguin"
+  },
+  {
+    "id": "animals-nature-1001",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "The Kakapo is famous for being nocturnal and flightless, but what other unusual trait does it have among parrots?",
+    "options": [
+      "Hibernating",
+      "Venomous bite",
+      "Lek breeding system",
+      "Echolocating"
+    ],
+    "answer": "Lek breeding system"
+  },
+  {
+    "id": "animals-nature-1002",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "Which bird builds the largest nests of any bird, up to 2 meters wide and weighing over a ton, used communally in Africa?",
+    "options": [
+      "Osprey",
+      "Sociable weaver",
+      "Montezuma oropendola",
+      "Bald eagle"
+    ],
+    "answer": "Sociable weaver"
+  },
+  {
+    "id": "animals-nature-1003",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which raptor can rotate its outer toe forward or backward to better grip prey, known as semi-zygodactyl feet?",
+    "options": [
+      "Peregrine falcon",
+      "Red-tailed hawk",
+      "Osprey",
+      "Golden eagle"
+    ],
+    "answer": "Osprey"
+  },
+  {
+    "id": "animals-nature-1004",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "What type of feathers give owls their silent flight by having comb-like leading edges?",
+    "options": [
+      "Fimbriate feathers",
+      "Filoplumes",
+      "Powder down",
+      "Down feathers"
+    ],
+    "answer": "Fimbriate feathers"
+  },
+  {
+    "id": "animals-nature-1005",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "Which genus includes the Gila monster and beaded lizard, the only dangerously venomous lizards in North America?",
+    "options": [
+      "Anolis",
+      "Varanus",
+      "Iguana",
+      "Heloderma"
+    ],
+    "answer": "Heloderma"
+  },
+  {
+    "id": "animals-nature-1006",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "In most turtles and all crocodilians, what environmental factor determines embryo sex?",
+    "options": [
+      "Clutch size",
+      "Humidity level",
+      "Moon phase",
+      "Incubation temperature"
+    ],
+    "answer": "Incubation temperature"
+  },
+  {
+    "id": "animals-nature-1007",
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "Which family is the largest family of salamanders and is entirely lungless, respiring through skin and mouth lining?",
+    "options": [
+      "Cryptobranchidae",
+      "Ambystomatidae",
+      "Salamandridae",
+      "Plethodontidae"
+    ],
+    "answer": "Plethodontidae"
+  },
+  {
+    "id": "animals-nature-1008",
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "Which North American whiptail lizard species is all-female and reproduces by parthenogenesis?",
+    "options": [
+      "Texas horned lizard",
+      "Common side-blotched lizard",
+      "Green anole",
+      "New Mexico whiptail"
+    ],
+    "answer": "New Mexico whiptail"
+  },
+  {
+    "id": "animals-nature-1009",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "What do female crocodilians do after hearing chirps from inside the nest?",
+    "options": [
+      "Carry hatchlings to water in mouth",
+      "Abandon the nest",
+      "Roll eggs into sun",
+      "Bury eggs deeper"
+    ],
+    "answer": "Carry hatchlings to water in mouth"
+  },
+  {
+    "id": "animals-nature-1010",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "As of 2026, what is the world's largest living amphibian by length?",
+    "options": [
+      "Chinese giant salamander",
+      "Goliath frog",
+      "Japanese giant salamander",
+      "Hellbender"
+    ],
+    "answer": "Chinese giant salamander"
+  },
+  {
+    "id": "animals-nature-1011",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "Which sea turtle is the only one without a hard bony shell, having leathery skin instead?",
+    "options": [
+      "Loggerhead",
+      "Leatherback",
+      "Hawksbill",
+      "Green"
+    ],
+    "answer": "Leatherback"
+  },
+  {
+    "id": "animals-nature-1012",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which lizard can shed its tail voluntarily under threat, a defense called autotomy, and regrow it from cartilage?",
+    "options": [
+      "Chameleon",
+      "Leopard gecko",
+      "Gila monster",
+      "Komodo dragon"
+    ],
+    "answer": "Leopard gecko"
+  },
+  {
+    "id": "animals-nature-1013",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which frog species builds a floating foam nest by whipping mucus with its hind legs to protect eggs from drying?",
+    "options": [
+      "Poison dart frog",
+      "Leopard frog",
+      "Tungara frog",
+      "Bullfrog"
+    ],
+    "answer": "Tungara frog"
+  },
+  {
+    "id": "animals-nature-1014",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "What adaptation allows marine iguanas to excrete excess salt ingested with seaweed?",
+    "options": [
+      "Kidneys that produce concentrated urine",
+      "Skin shedding",
+      "Gills",
+      "Salt glands that sneeze salt"
+    ],
+    "answer": "Salt glands that sneeze salt"
+  },
+  {
+    "id": "animals-nature-1015",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "How many times can a rattlesnake rattle its tail per second when warning predators?",
+    "options": [
+      "About 50 times",
+      "About 5 times",
+      "Once",
+      "About 200 times"
+    ],
+    "answer": "About 50 times"
+  },
+  {
+    "id": "animals-nature-1016",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which crocodilian has the most U-shaped broad snout adapted for crushing hard prey like turtles?",
+    "options": [
+      "False gharial",
+      "Saltwater crocodile",
+      "American alligator",
+      "Gharial"
+    ],
+    "answer": "American alligator"
+  },
+  {
+    "id": "animals-nature-1017",
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "Which salamander can regenerate not just limbs but also parts of its heart and brain as an adult?",
+    "options": [
+      "Eastern newt",
+      "Mudpuppy",
+      "Siren",
+      "Hellbender"
+    ],
+    "answer": "Eastern newt"
+  },
+  {
+    "id": "animals-nature-1018",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "What do male midwife toads carry wrapped around their hind legs?",
+    "options": [
+      "Mud for camouflage",
+      "Parasites",
+      "Tiny stones",
+      "Strings of eggs"
+    ],
+    "answer": "Strings of eggs"
+  },
+  {
+    "id": "animals-nature-1019",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "In bearded dragons, what can override chromosomal sex determination and cause sex reversal during incubation?",
+    "options": [
+      "High incubation temperature",
+      "Moon phase",
+      "Clutch size",
+      "Low humidity"
+    ],
+    "answer": "High incubation temperature"
+  },
+  {
+    "id": "animals-nature-1020",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which turtle species migrates thousands of kilometers to lay eggs on the same beach where it was born, using Earth's magnetic field?",
+    "options": [
+      "Loggerhead sea turtle",
+      "Snapping turtle",
+      "Box turtle",
+      "Painted turtle"
+    ],
+    "answer": "Loggerhead sea turtle"
+  },
+  {
+    "id": "animals-nature-1021",
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "The gharial's long thin snout contains how many teeth as of adulthood, optimized for catching fish?",
+    "options": [
+      "About 60",
+      "About 30",
+      "Over 100",
+      "No teeth, uses baleen"
+    ],
+    "answer": "Over 100"
+  },
+  {
+    "id": "animals-nature-1022",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "Which lizard is famous for inflating a bright red dewlap under its throat to signal territory?",
+    "options": [
+      "Skink",
+      "Chameleon",
+      "Gecko",
+      "Anole"
+    ],
+    "answer": "Anole"
+  },
+  {
+    "id": "animals-nature-1023",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which venomous snake gives live birth to up to 100 young instead of laying eggs?",
+    "options": [
+      "King cobra",
+      "Coral snake",
+      "Puff adder",
+      "Black mamba"
+    ],
+    "answer": "Puff adder"
+  },
+  {
+    "id": "animals-nature-1024",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which social insect can form living rafts by linking bodies to survive floods?",
+    "options": [
+      "Termites",
+      "Paper wasps",
+      "Honeybees",
+      "Fire ants"
+    ],
+    "answer": "Fire ants"
+  },
+  {
+    "id": "animals-nature-1025",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "How many molts does a typical periodical cicada nymph undergo underground before emerging?",
+    "options": [
+      "Two",
+      "Five",
+      "One",
+      "Ten"
+    ],
+    "answer": "Five"
+  },
+  {
+    "id": "animals-nature-1026",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which ant species is famous for having the largest colony ever recorded, stretching 3,700 miles across Europe?",
+    "options": [
+      "Leafcutter ant",
+      "Carpenter ant",
+      "Bullet ant",
+      "Argentine ant"
+    ],
+    "answer": "Argentine ant"
+  },
+  {
+    "id": "animals-nature-1027",
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "As of 2026, which insect has the fastest wingbeat frequency, at about 1,000 beats per second?",
+    "options": [
+      "Fruit fly",
+      "Horsefly",
+      "Midge",
+      "Mosquito"
+    ],
+    "answer": "Midge"
+  },
+  {
+    "id": "animals-nature-1028",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which spider builds a decoy spider from debris and dead prey in its web to confuse predators?",
+    "options": [
+      "Black widow",
+      "Cyclosa",
+      "Tarantula",
+      "Jumping spider"
+    ],
+    "answer": "Cyclosa"
+  },
+  {
+    "id": "animals-nature-1029",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "What do honeybee queens feed on as larvae that makes them develop into queens instead of workers?",
+    "options": [
+      "Pollen paste",
+      "Nectar",
+      "Honey",
+      "Royal jelly"
+    ],
+    "answer": "Royal jelly"
+  },
+  {
+    "id": "animals-nature-1030",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which butterfly caterpillar can produce sounds that mimic queen ant calls to be adopted into ant colonies?",
+    "options": [
+      "Monarch",
+      "Painted lady",
+      "Swallowtail",
+      "Alcon blue"
+    ],
+    "answer": "Alcon blue"
+  },
+  {
+    "id": "animals-nature-1031",
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "Which beetle can survive being run over by a car due to an exoskeleton that can withstand 39,000 times its body weight?",
+    "options": [
+      "Goliath beetle",
+      "Diabolical ironclad beetle",
+      "Ladybug",
+      "Rhinoceros beetle"
+    ],
+    "answer": "Diabolical ironclad beetle"
+  },
+  {
+    "id": "animals-nature-1032",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "What do silkworms spin their cocoons from?",
+    "options": [
+      "Mud",
+      "Wax",
+      "Cotton",
+      "Silk"
+    ],
+    "answer": "Silk"
+  },
+  {
+    "id": "animals-nature-1033",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which arachnid can survive for over a year without food and months without water due to extremely low metabolism?",
+    "options": [
+      "Mite",
+      "Harvestman",
+      "Tick",
+      "Scorpion"
+    ],
+    "answer": "Scorpion"
+  },
+  {
+    "id": "animals-nature-1034",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which insect's larvae are called antlions and dig conical pits in sand to trap ants?",
+    "options": [
+      "Lacewing",
+      "Dragonfly",
+      "Mayfly",
+      "Damselfly"
+    ],
+    "answer": "Lacewing"
+  },
+  {
+    "id": "animals-nature-1035",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "What structure do crickets and katydids use to hear, located on their front legs?",
+    "options": [
+      "Ocelli",
+      "Spiracle",
+      "Cercus",
+      "Tympanum"
+    ],
+    "answer": "Tympanum"
+  },
+  {
+    "id": "animals-nature-1036",
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "As of 2026, which ant holds the record for fastest recorded ant, running at 0.8 meters per second?",
+    "options": [
+      "Bullet ant",
+      "Driver ant",
+      "Leafcutter ant",
+      "Saharan silver ant"
+    ],
+    "answer": "Saharan silver ant"
+  },
+  {
+    "id": "animals-nature-1037",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which bee species is solitary and cuts neat circular pieces from leaves to line its nest cells?",
+    "options": [
+      "Mining bee",
+      "Carpenter bee",
+      "Leafcutter bee",
+      "Bumblebee"
+    ],
+    "answer": "Leafcutter bee"
+  },
+  {
+    "id": "animals-nature-1038",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "What is the primary diet of the larval stage of ladybugs?",
+    "options": [
+      "Nectar",
+      "Fungi",
+      "Leaves",
+      "Aphids"
+    ],
+    "answer": "Aphids"
+  },
+  {
+    "id": "animals-nature-1039",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which moth has no mouth as an adult and lives only about a week on stored larval fat?",
+    "options": [
+      "Clothes moth",
+      "Peppered moth",
+      "Hawk moth",
+      "Luna moth"
+    ],
+    "answer": "Luna moth"
+  },
+  {
+    "id": "animals-nature-1040",
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "Which crustacean molts by shedding its old exoskeleton in two phases, storing calcium in gastroliths?",
+    "options": [
+      "Horseshoe crab",
+      "Spider",
+      "Sea cucumber",
+      "Crayfish"
+    ],
+    "answer": "Crayfish"
+  },
+  {
+    "id": "animals-nature-1041",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "What do termite mounds in African savannas maintain internally at around 30°C despite outside temperature swings, using passive ventilation?",
+    "options": [
+      "Radio signals",
+      "Constant temperature",
+      "Magnetic north",
+      "Constant humidity only"
+    ],
+    "answer": "Constant temperature"
+  },
+  {
+    "id": "animals-nature-1042",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "Which insect can jump over 100 times its body length using a catapult mechanism in its hind legs?",
+    "options": [
+      "Grasshopper",
+      "Cockroach",
+      "Flea",
+      "Beetle"
+    ],
+    "answer": "Flea"
+  },
+  {
+    "id": "animals-nature-1043",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which spider's web is so strong that it was used as fishing line and bird net in Papua New Guinea?",
+    "options": [
+      "Wolf spider",
+      "Black widow",
+      "Golden silk orb-weaver",
+      "Garden spider"
+    ],
+    "answer": "Golden silk orb-weaver"
+  },
+  {
+    "id": "animals-nature-1044",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "Which photosynthetic adaptation do desert succulents like cacti use to open stomata at night and store CO2 as malic acid?",
+    "options": [
+      "CAM photosynthesis",
+      "C3 photosynthesis",
+      "C4 photosynthesis",
+      "Fermentation"
+    ],
+    "answer": "CAM photosynthesis"
+  },
+  {
+    "id": "animals-nature-1045",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Maize, sugarcane and sorghum use which CO2-concentrating pathway that relies on PEP carboxylase in mesophyll cells?",
+    "options": [
+      "C3 pathway",
+      "Krebs cycle",
+      "C4 pathway",
+      "CAM pathway"
+    ],
+    "answer": "C4 pathway"
+  },
+  {
+    "id": "animals-nature-1046",
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "Which aquatic carnivorous plant genus uses tiny bladder suction traps that snap in under a millisecond?",
+    "options": [
+      "Sarracenia",
+      "Utricularia",
+      "Nepenthes",
+      "Drosera"
+    ],
+    "answer": "Utricularia"
+  },
+  {
+    "id": "animals-nature-1047",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "Most carnivorous plants live in acidic bogs poor in which nutrient, which they supplement by digesting insects?",
+    "options": [
+      "Iron",
+      "Silicon",
+      "Nitrogen",
+      "Water"
+    ],
+    "answer": "Nitrogen"
+  },
+  {
+    "id": "animals-nature-1048",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Sundews capture prey with glistening glandular tentacles using what trapping strategy?",
+    "options": [
+      "Pitfall pitchers",
+      "Snap jaws",
+      "Sticky flypaper with mucilage",
+      "Vacuum bladders"
+    ],
+    "answer": "Sticky flypaper with mucilage"
+  },
+  {
+    "id": "animals-nature-1049",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Tropical pitcher plants of genus Nepenthes use what kind of trap?",
+    "options": [
+      "Ultrasonic lure",
+      "Pitfall trap with digestive fluid",
+      "Root trap",
+      "Parachute trap"
+    ],
+    "answer": "Pitfall trap with digestive fluid"
+  },
+  {
+    "id": "animals-nature-1050",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Many Ficus species can only reproduce through an obligate mutualist that enters the fig through the ostiole. What is it?",
+    "options": [
+      "Fig wasp",
+      "Carpenter ant",
+      "Strangler vine",
+      "Leafcutter bee"
+    ],
+    "answer": "Fig wasp"
+  },
+  {
+    "id": "animals-nature-1051",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Joshua trees and other yuccas rely exclusively on which insect for pollination?",
+    "options": [
+      "Yucca moth",
+      "Silk moth",
+      "Luna moth",
+      "Hawk moth"
+    ],
+    "answer": "Yucca moth"
+  },
+  {
+    "id": "animals-nature-1052",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Tomatoes and blueberries have tubular anthers that require what special bee behavior to release pollen?",
+    "options": [
+      "Leaf cutting",
+      "Trap-lining",
+      "Nectar robbing",
+      "Buzz pollination"
+    ],
+    "answer": "Buzz pollination"
+  },
+  {
+    "id": "animals-nature-1053",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "What percentage of Earth's oxygen is produced by marine phytoplankton as of 2026 estimates?",
+    "options": [
+      "About 1%",
+      "About 90%",
+      "About 5%",
+      "About 50%"
+    ],
+    "answer": "About 50%"
+  },
+  {
+    "id": "animals-nature-1054",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which plant's seeds can remain viable for over 1,000 years, with an ancient seed from Masada sprouting after roughly 2,000 years?",
+    "options": [
+      "Wheat",
+      "Lotus",
+      "Date palm",
+      "Oak"
+    ],
+    "answer": "Date palm"
+  },
+  {
+    "id": "animals-nature-1055",
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "As of 2026, what is the world's tallest tree species, with Hyperion reaching over 115 meters?",
+    "options": [
+      "Douglas fir",
+      "Coast redwood",
+      "Eucalyptus regnans",
+      "Giant sequoia"
+    ],
+    "answer": "Coast redwood"
+  },
+  {
+    "id": "animals-nature-1056",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which fungus is the largest single organism on Earth by area, covering over 3.5 square miles in Oregon?",
+    "options": [
+      "Chanterelle",
+      "Morel",
+      "Giant puffball",
+      "Armillaria ostoyae"
+    ],
+    "answer": "Armillaria ostoyae"
+  },
+  {
+    "id": "animals-nature-1057",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "What do mycorrhizal fungi provide to plants in exchange for sugars?",
+    "options": [
+      "Phosphorus and water uptake",
+      "Carbon dioxide",
+      "Pollination",
+      "Sunlight"
+    ],
+    "answer": "Phosphorus and water uptake"
+  },
+  {
+    "id": "animals-nature-1058",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which desert plant can survive losing 95% of its water and then revive within hours of rain, known as resurrection plant?",
+    "options": [
+      "Selaginella lepidophylla",
+      "Tumbleweed",
+      "Creosote bush",
+      "Saguaro cactus"
+    ],
+    "answer": "Selaginella lepidophylla"
+  },
+  {
+    "id": "animals-nature-1059",
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "Which tree can clonal colonies live for over 80,000 years, with Pando aspen being a famous example?",
+    "options": [
+      "Coast redwood",
+      "Baobab",
+      "Quaking aspen",
+      "Bristlecone pine"
+    ],
+    "answer": "Quaking aspen"
+  },
+  {
+    "id": "animals-nature-1060",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "What is the primary reason mangroves can live in seawater?",
+    "options": [
+      "They avoid salt by deep roots",
+      "Salt filtration and excretion",
+      "They don't need water",
+      "They store freshwater in leaves"
+    ],
+    "answer": "Salt filtration and excretion"
+  },
+  {
+    "id": "animals-nature-1061",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which invasive vine can grow up to a foot per day and is called 'the vine that ate the South' in the US?",
+    "options": [
+      "Kudzu",
+      "Wisteria",
+      "Morning glory",
+      "Ivy"
+    ],
+    "answer": "Kudzu"
+  },
+  {
+    "id": "animals-nature-1062",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "What do acacia trees provide to ants that live in their thorns, besides shelter?",
+    "options": [
+      "Nectar and protein-rich Beltian bodies",
+      "Water tanks",
+      "Fruits",
+      "Pollen"
+    ],
+    "answer": "Nectar and protein-rich Beltian bodies"
+  },
+  {
+    "id": "animals-nature-1063",
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "Which animal can survive about 4,000 Gray of ionizing radiation, roughly 1,000 times the lethal dose for humans?",
+    "options": [
+      "Cockroach",
+      "Tardigrade",
+      "Scorpion",
+      "Desert locust"
+    ],
+    "answer": "Tardigrade"
+  },
+  {
+    "id": "animals-nature-1064",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "As of 2026, which mammal drops its body temperature to -2.9°C during hibernation, the lowest recorded for any mammal?",
+    "options": [
+      "Arctic ground squirrel",
+      "Marmot",
+      "Woodchuck",
+      "Lemming"
+    ],
+    "answer": "Arctic ground squirrel"
+  },
+  {
+    "id": "animals-nature-1065",
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "Black-tailed prairie dog alarm calls can encode predator type plus details about its size, shape and what visual trait?",
+    "options": [
+      "Weather",
+      "Distance to burrow",
+      "Age",
+      "Color"
+    ],
+    "answer": "Color"
+  },
+  {
+    "id": "animals-nature-1066",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Humpback whales cooperatively blow curtains of bubbles to corral prey into dense balls before lunging. What is this technique called?",
+    "options": [
+      "Kelp corralling",
+      "Wave herding",
+      "Bubble-net feeding",
+      "Vortex diving"
+    ],
+    "answer": "Bubble-net feeding"
+  },
+  {
+    "id": "animals-nature-1067",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which bird can sleep with one half of its brain at a time while flying, known as unihemispheric slow-wave sleep?",
+    "options": [
+      "Frigatebird",
+      "Penguin",
+      "Ostrich",
+      "Kiwi"
+    ],
+    "answer": "Frigatebird"
+  },
+  {
+    "id": "animals-nature-1068",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "What is the primary way honeybees cool their hive on hot days?",
+    "options": [
+      "Building thicker walls",
+      "Fanning wings and evaporating water",
+      "Leaving the hive",
+      "Eating honey"
+    ],
+    "answer": "Fanning wings and evaporating water"
+  },
+  {
+    "id": "animals-nature-1069",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "What do African wild dogs do before a hunt that resembles voting, sneezing to indicate readiness?",
+    "options": [
+      "Bark in unison",
+      "Lick alpha",
+      "Roll on ground",
+      "Sneeze"
+    ],
+    "answer": "Sneeze"
+  },
+  {
+    "id": "animals-nature-1070",
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "Which cephalopod can change both color and texture of its skin in under a second using papillae muscles?",
+    "options": [
+      "Giant squid",
+      "Nautilus",
+      "Common cuttlefish",
+      "Vampire squid"
+    ],
+    "answer": "Common cuttlefish"
+  },
+  {
+    "id": "animals-nature-1071",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "Which animal builds dams that create wetlands supporting hundreds of other species, considered an ecosystem engineer?",
+    "options": [
+      "Otter",
+      "Muskrat",
+      "Capybara",
+      "Beaver"
+    ],
+    "answer": "Beaver"
+  },
+  {
+    "id": "animals-nature-1072",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which mammal is the only one known to store food in its cheeks and then bury it in scattered caches remembered by spatial memory?",
+    "options": [
+      "Chipmunk",
+      "Grey squirrel",
+      "Clark's nutcracker",
+      "Hamster"
+    ],
+    "answer": "Grey squirrel"
+  },
+  {
+    "id": "animals-nature-1073",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "What type of mimicry is when a harmless species evolves to imitate the warning signals of a harmful species?",
+    "options": [
+      "Aggressive mimicry",
+      "Batesian mimicry",
+      "Müllerian mimicry",
+      "Self-mimicry"
+    ],
+    "answer": "Batesian mimicry"
+  },
+  {
+    "id": "animals-nature-1074",
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "Which fish can inflate its stomach with water to appear larger when threatened, without being a pufferfish?",
+    "options": [
+      "Swell shark",
+      "Anglerfish",
+      "Mola mola",
+      "Sailfish"
+    ],
+    "answer": "Swell shark"
+  },
+  {
+    "id": "animals-nature-1075",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "What is the main reason cats purr besides contentment, discovered to promote healing?",
+    "options": [
+      "Low-frequency vibrations aid tissue repair",
+      "To digest food",
+      "To scare predators",
+      "To attract mates"
+    ],
+    "answer": "Low-frequency vibrations aid tissue repair"
+  },
+  {
+    "id": "animals-nature-1076",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which animal's tongue is attached to the pelvis rather than the throat, allowing extreme extension?",
+    "options": [
+      "Frog",
+      "Woodpecker",
+      "Chameleon",
+      "Anteater"
+    ],
+    "answer": "Chameleon"
+  },
+  {
+    "id": "animals-nature-1077",
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "Which deep-sea fish has a light organ under its eye containing bioluminescent bacteria that it can shutter like a flashlight?",
+    "options": [
+      "Viperfish",
+      "Flashlight fish",
+      "Anglerfish",
+      "Lanternfish"
+    ],
+    "answer": "Flashlight fish"
+  },
+  {
+    "id": "animals-nature-1078",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which insect can survive being frozen in liquid nitrogen temperatures in its larval diapause due to glycerol antifreeze?",
+    "options": [
+      "Monarch caterpillar",
+      "Mosquito larva",
+      "Silkworm",
+      "Woolly bear caterpillar"
+    ],
+    "answer": "Woolly bear caterpillar"
+  },
+  {
+    "id": "animals-nature-1079",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "Which bird is famous for remembering thousands of hidden seed caches using its hippocampus?",
+    "options": [
+      "Pigeon",
+      "Robin",
+      "Sparrow",
+      "Clark's nutcracker"
+    ],
+    "answer": "Clark's nutcracker"
+  },
+  {
+    "id": "animals-nature-1080",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which mammal has the longest tongue relative to body size, extending 150% of its body length to feed on nectar?",
+    "options": [
+      "Giant anteater",
+      "Chameleon",
+      "Giraffe",
+      "Tube-lipped nectar bat"
+    ],
+    "answer": "Tube-lipped nectar bat"
+  },
+  {
+    "id": "animals-nature-1081",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "What do meerkats take turns doing while others forage, standing upright to watch for predators?",
+    "options": [
+      "Sentinel duty",
+      "Collecting water",
+      "Grooming pups",
+      "Digging new burrows"
+    ],
+    "answer": "Sentinel duty"
+  },
+  {
+    "id": "animals-nature-1082",
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "As of 2026, which land snail has the smallest known adult size, with a shell width of 0.7 mm?",
+    "options": [
+      "Roman snail",
+      "Giant African snail",
+      "Garden snail",
+      "Angustopila dominikae"
+    ],
+    "answer": "Angustopila dominikae"
+  },
+  {
+    "id": "animals-nature-1083",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which bird cools its legs by urinating on them, a behavior called urohidrosis?",
+    "options": [
+      "Eagle",
+      "Ostrich",
+      "Flamingo",
+      "Stork"
+    ],
+    "answer": "Stork"
+  },
+  {
+    "id": "animals-nature-1084",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which bird incubates its single egg on top of its feet under a brood pouch fold?",
+    "options": [
+      "Ostrich",
+      "Kiwi",
+      "Albatross",
+      "Emperor penguin"
+    ],
+    "answer": "Emperor penguin"
+  },
+  {
+    "id": "animals-nature-1085",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "Which mammal is the only one that lays eggs and produces milk but has no nipples, secreting milk through skin patches?",
+    "options": [
+      "Platypus",
+      "Armadillo",
+      "Kangaroo",
+      "Echidna"
+    ],
+    "answer": "Echidna"
+  },
+  {
+    "id": "animals-nature-1086",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which fish can breathe air and drown if denied access to the surface, due to obligate air-breathing?",
+    "options": [
+      "Salmon",
+      "Tuna",
+      "Arapaima",
+      "Goldfish"
+    ],
+    "answer": "Arapaima"
+  },
+  {
+    "id": "animals-nature-1087",
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "Which primate has a toothcomb made of forward-tilted incisors and canines used for grooming and feeding on gum?",
+    "options": [
+      "Capuchin",
+      "Gorilla",
+      "Howler monkey",
+      "Ring-tailed lemur"
+    ],
+    "answer": "Ring-tailed lemur"
+  },
+  {
+    "id": "animals-nature-1088",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which desert rodent produces extremely concentrated urine and dry feces to conserve water without drinking?",
+    "options": [
+      "Gerbils",
+      "Desert hamster",
+      "Kangaroo rat",
+      "Jerboa"
+    ],
+    "answer": "Gerbils"
+  },
+  {
+    "id": "animals-nature-1089",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which bird's males gather in groups to perform synchronized dance displays for females, called leks?",
+    "options": [
+      "Greater sage-grouse",
+      "Woodpecker",
+      "Barn owl",
+      "Bald eagle"
+    ],
+    "answer": "Greater sage-grouse"
+  },
+  {
+    "id": "animals-nature-1090",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "Which animal can change its skin color to match surroundings using chromatophores controlled by its brain?",
+    "options": [
+      "Starfish",
+      "Jellyfish",
+      "Sea cucumber",
+      "Octopus"
+    ],
+    "answer": "Octopus"
+  },
+  {
+    "id": "animals-nature-1091",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "What do bees collect and pack into baskets on their hind legs to carry back to the hive?",
+    "options": [
+      "Wax",
+      "Water",
+      "Honey",
+      "Pollen"
+    ],
+    "answer": "Pollen"
+  },
+  {
+    "id": "animals-nature-1092",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which animal has a four-chambered stomach with a rumen that houses bacteria to ferment cellulose?",
+    "options": [
+      "Rabbit",
+      "Cow",
+      "Horse",
+      "Elephant"
+    ],
+    "answer": "Cow"
+  },
+  {
+    "id": "animals-nature-1093",
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "As of 2026, which insect can carry up to 1,180 times its body weight, the highest strength-to-weight ratio recorded?",
+    "options": [
+      "Rhinoceros beetle",
+      "Horned dung beetle",
+      "Fire ant",
+      "Leafcutter ant"
+    ],
+    "answer": "Horned dung beetle"
+  },
+  {
+    "id": "animals-nature-1094",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which bird's beak contains sensory pits called Herbst corpuscles to detect prey buried in mud?",
+    "options": [
+      "Parrot",
+      "Toucan",
+      "Kiwi",
+      "Eagle"
+    ],
+    "answer": "Kiwi"
+  },
+  {
+    "id": "animals-nature-1095",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which mammal is the only one known to have venomous saliva used to paralyze prey, stored in grooves of its lower incisors?",
+    "options": [
+      "Hedgehog",
+      "Mole",
+      "Echidna",
+      "Northern short-tailed shrew"
+    ],
+    "answer": "Northern short-tailed shrew"
+  },
+  {
+    "id": "animals-nature-1096",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which plant's seeds are dispersed by ants that carry them due to attached elaiosomes rich in lipids?",
+    "options": [
+      "Maple",
+      "Coconut",
+      "Dandelion",
+      "Trillium"
+    ],
+    "answer": "Trillium"
+  },
+  {
+    "id": "animals-nature-1097",
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "Which frog can glide between trees using expanded webbing between toes and lateral skin flaps?",
+    "options": [
+      "Poison dart frog",
+      "Wallace's flying frog",
+      "Bullfrog",
+      "Tree frog"
+    ],
+    "answer": "Wallace's flying frog"
+  },
+  {
+    "id": "animals-nature-1098",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "Which insect is responsible for producing most of the world's honey consumed by humans?",
+    "options": [
+      "Bumblebee",
+      "Leafcutter bee",
+      "Western honeybee",
+      "Carpenter bee"
+    ],
+    "answer": "Western honeybee"
+  },
+  {
+    "id": "animals-nature-1099",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which ocean zone, below 6,000 meters, is named after Hades and houses snailfish and amphipods?",
+    "options": [
+      "Abyssal zone",
+      "Pelagic zone",
+      "Hadal zone",
+      "Bathyal zone"
+    ],
+    "answer": "Hadal zone"
+  },
+  {
+    "id": "animals-nature-1100",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which cetacean uses echolocation via nasal air sacs and phonic lips to navigate while swimming?",
+    "options": [
+      "Seal",
+      "Dolphin",
+      "Manatee",
+      "Shrew"
+    ],
+    "answer": "Dolphin"
+  },
+  {
+    "id": "animals-nature-1101",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "What adaptation allows cacti to reduce water loss by having leaves modified into what?",
+    "options": [
+      "Flowers",
+      "Fruits",
+      "Roots",
+      "Spines"
+    ],
+    "answer": "Spines"
+  },
+  {
+    "id": "animals-nature-1102",
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "Which species of sea star has up to 50 arms as of 2026 and preys on other sea stars?",
+    "options": [
+      "Brittle star",
+      "Crown-of-thorns",
+      "Sunflower sea star",
+      "Common starfish"
+    ],
+    "answer": "Sunflower sea star"
+  },
+  {
+    "id": "animals-nature-1103",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which plant can move its flower head to track the sun, a behavior called heliotropism?",
+    "options": [
+      "Fern",
+      "Moss",
+      "Cactus",
+      "Sunflower"
+    ],
+    "answer": "Sunflower"
+  },
+  {
+    "id": "animals-nature-1104",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "What do leafcutter ants actually eat?",
+    "options": [
+      "Insects",
+      "Nectar",
+      "Leaves directly",
+      "Fungus they farm"
+    ],
+    "answer": "Fungus they farm"
+  },
+  {
+    "id": "animals-nature-1105",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which mammal has the densest fur of any land mammal, about 50,000 hairs per square inch?",
+    "options": [
+      "Chinchilla",
+      "Polar bear",
+      "Sea otter",
+      "Arctic fox"
+    ],
+    "answer": "Chinchilla"
+  },
+  {
+    "id": "animals-nature-1106",
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "Which bird can mimic the calls of over 20 other species including predators to deceive other birds during food theft?",
+    "options": [
+      "Mockingbird",
+      "Fork-tailed drongo",
+      "Crow",
+      "Parrot"
+    ],
+    "answer": "Fork-tailed drongo"
+  },
+  {
+    "id": "animals-nature-1107",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which shark species retains eggs inside the body until they hatch, a mode called ovoviviparity?",
+    "options": [
+      "Great white shark",
+      "Whale shark",
+      "Nurse shark",
+      "Hammerhead shark"
+    ],
+    "answer": "Great white shark"
+  },
+  {
+    "id": "animals-nature-1108",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "Which animal's heart can weigh over 400 pounds and beat only 6 times per minute at depth?",
+    "options": [
+      "Blue whale",
+      "Horse",
+      "Giraffe",
+      "Elephant"
+    ],
+    "answer": "Blue whale"
+  },
+  {
+    "id": "animals-nature-1109",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which primate is known for using stone hammers and anvils to crack nuts, with archaeological evidence spanning 700 years?",
+    "options": [
+      "Gorilla",
+      "Orangutan",
+      "Chimpanzee",
+      "Capuchin"
+    ],
+    "answer": "Chimpanzee"
+  },
+  {
+    "id": "animals-nature-1110",
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "Which plant hormone causes fruit ripening and is used commercially to ripen bananas?",
+    "options": [
+      "Gibberellin",
+      "Auxin",
+      "Abscisic acid",
+      "Ethylene"
+    ],
+    "answer": "Ethylene"
+  },
+  {
+    "id": "animals-nature-1111",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which animal can survive complete desiccation for years by entering a state called cryptobiosis?",
+    "options": [
+      "Snail",
+      "Earthworm",
+      "Tardigrade",
+      "Leech"
+    ],
+    "answer": "Tardigrade"
+  },
+  {
+    "id": "animals-nature-1112",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "What is the main component of spider silk by weight?",
+    "options": [
+      "Protein",
+      "Cellulose",
+      "Keratin",
+      "Chitin"
+    ],
+    "answer": "Protein"
+  },
+  {
+    "id": "animals-nature-1113",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which fish builds a nest of bubbles at the surface, with males guarding eggs inside?",
+    "options": [
+      "Goldfish",
+      "Betta",
+      "Clownfish",
+      "Guppy"
+    ],
+    "answer": "Betta"
+  },
+  {
+    "id": "animals-nature-1114",
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "Which amphibian's tongue can accelerate at 12,000 m/s², over 300 g, to catch prey?",
+    "options": [
+      "Toad",
+      "Salamander",
+      "Newt",
+      "Frog"
+    ],
+    "answer": "Salamander"
+  },
+  {
+    "id": "animals-nature-1115",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which plant's rapid leaf movement is powered by electrical signals similar to nerve impulses in animals?",
+    "options": [
+      "Oak",
+      "Pine",
+      "Fern",
+      "Mimosa pudica"
+    ],
+    "answer": "Mimosa pudica"
+  },
+  {
+    "id": "animals-nature-1116",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "Which animal is the largest living arthropod as of 2026?",
+    "options": [
+      "Goliath birdeater",
+      "Giant isopod",
+      "Japanese spider crab",
+      "Lobster"
+    ],
+    "answer": "Japanese spider crab"
+  },
+  {
+    "id": "animals-nature-1117",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which whale has no dorsal fin, an adaptation for swimming under sea ice?",
+    "options": [
+      "Blue whale",
+      "Sperm whale",
+      "Humpback whale",
+      "Bowhead whale"
+    ],
+    "answer": "Bowhead whale"
+  },
+  {
+    "id": "animals-nature-1118",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "What do worker honeybees do when they find a rich food source, besides waggle dancing?",
+    "options": [
+      "Leave hive permanently",
+      "Regurgitate nectar to nestmates",
+      "Build new comb",
+      "Sing"
+    ],
+    "answer": "Regurgitate nectar to nestmates"
+  },
+  {
+    "id": "animals-nature-1119",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which cat species cannot fully retract its claws, similar to a dog?",
+    "options": [
+      "Cheetah",
+      "Tiger",
+      "Jaguar",
+      "Leopard"
+    ],
+    "answer": "Cheetah"
+  },
+  {
+    "id": "animals-nature-1120",
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "Which bird can fly backwards and upside down for short distances due to its unique ball-and-socket shoulder joint?",
+    "options": [
+      "Kingfisher",
+      "Sparrow",
+      "Hummingbird",
+      "Swift"
+    ],
+    "answer": "Hummingbird"
+  },
+  {
+    "id": "animals-nature-1121",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which mammal has the most powerful bite relative to body size among big cats as of 2026?",
+    "options": [
+      "Lion",
+      "Tiger",
+      "Cheetah",
+      "Jaguar"
+    ],
+    "answer": "Jaguar"
+  },
+  {
+    "id": "animals-nature-1122",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "What do koalas mainly eat?",
+    "options": [
+      "Bamboo",
+      "Eucalyptus leaves",
+      "Insects",
+      "Grasses"
+    ],
+    "answer": "Eucalyptus leaves"
+  },
+  {
+    "id": "animals-nature-1123",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which tree species drops its leaves in winter to conserve water, known as deciduous?",
+    "options": [
+      "Spruce",
+      "Oak",
+      "Cedar",
+      "Pine"
+    ],
+    "answer": "Oak"
+  },
+  {
+    "id": "animals-nature-1124",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which animal can voluntarily detach its tail and still move it to distract predators?",
+    "options": [
+      "Frog",
+      "Turtle",
+      "Skink",
+      "Snake"
+    ],
+    "answer": "Skink"
+  },
+  {
+    "id": "animals-nature-1125",
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "Which plant is parasitic and has no chlorophyll, obtaining nutrients from host trees via haustoria?",
+    "options": [
+      "Dodder",
+      "Mistletoe",
+      "Rafflesia",
+      "Indian pipe"
+    ],
+    "answer": "Indian pipe"
+  },
+  {
+    "id": "animals-nature-1126",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which fish can change sex from female to male as it grows larger, opposite of clownfish?",
+    "options": [
+      "Salmon",
+      "Goldfish",
+      "Tuna",
+      "Wrasse"
+    ],
+    "answer": "Wrasse"
+  },
+  {
+    "id": "animals-nature-1127",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "What structure allows birds to have lightweight but strong bones?",
+    "options": [
+      "Hollow bones with struts",
+      "Solid bones",
+      "Spongy bones filled with water",
+      "Cartilage bones"
+    ],
+    "answer": "Hollow bones with struts"
+  },
+  {
+    "id": "animals-nature-1128",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "Which animal is known for building lodges with underwater entrances?",
+    "options": [
+      "Platypus",
+      "Muskrat",
+      "Otter",
+      "Beaver"
+    ],
+    "answer": "Beaver"
+  },
+  {
+    "id": "animals-nature-1129",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which snake can glide up to 100 meters between trees by flattening its body into a parachute shape?",
+    "options": [
+      "Viper",
+      "Python",
+      "Cobra",
+      "Paradise tree snake"
+    ],
+    "answer": "Paradise tree snake"
+  },
+  {
+    "id": "animals-nature-1130",
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "Which bird has the largest eye of any land vertebrate, measuring about 50 mm in diameter?",
+    "options": [
+      "Ostrich",
+      "Condor",
+      "Eagle",
+      "Owl"
+    ],
+    "answer": "Ostrich"
+  },
+  {
+    "id": "animals-nature-1131",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which bird family uses gastroliths, small stones swallowed to grind food in the gizzard?",
+    "options": [
+      "Ostriches",
+      "Hummingbirds",
+      "Woodpeckers",
+      "Owls"
+    ],
+    "answer": "Ostriches"
+  },
+  {
+    "id": "animals-nature-1132",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "What is the primary diet of giant pandas in the wild?",
+    "options": [
+      "Eucalyptus",
+      "Fruits",
+      "Fish",
+      "Bamboo"
+    ],
+    "answer": "Bamboo"
+  },
+  {
+    "id": "animals-nature-1133",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which amphibian male develops a spiny pad on its thumb called a nuptial pad to grip females during amplexus?",
+    "options": [
+      "Caecilian",
+      "Newt",
+      "Frog",
+      "Salamander"
+    ],
+    "answer": "Frog"
+  },
+  {
+    "id": "animals-nature-1134",
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "Which plant can generate heat up to 15°C above ambient air to melt snow and attract pollinators?",
+    "options": [
+      "Eastern skunk cabbage",
+      "Sunflower",
+      "Rose",
+      "Tulip"
+    ],
+    "answer": "Eastern skunk cabbage"
+  },
+  {
+    "id": "animals-nature-1135",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which insect produces honeydew that ants farm by tending them like livestock?",
+    "options": [
+      "Aphids",
+      "Flies",
+      "Moths",
+      "Beetles"
+    ],
+    "answer": "Aphids"
+  },
+  {
+    "id": "animals-nature-1136",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "What is the fastest land animal over short distances as of 2026?",
+    "options": [
+      "Lion",
+      "Gazelle",
+      "Pronghorn",
+      "Cheetah"
+    ],
+    "answer": "Cheetah"
+  },
+  {
+    "id": "animals-nature-1137",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which bird builds a nest that hangs like a sock from tree branches, woven from grasses?",
+    "options": [
+      "Oriole",
+      "Owl",
+      "Woodpecker",
+      "Eagle"
+    ],
+    "answer": "Oriole"
+  },
+  {
+    "id": "animals-nature-1138",
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "Which mammal has the highest red blood cell count of any mammal, adapted for high altitude?",
+    "options": [
+      "Alpaca",
+      "Vicuña",
+      "Yak",
+      "Llama"
+    ],
+    "answer": "Vicuña"
+  },
+  {
+    "id": "animals-nature-1139",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which fish can survive out of water for months in a mucus cocoon, breathing through its swim bladder as a lung?",
+    "options": [
+      "Salmon",
+      "Goldfish",
+      "African lungfish",
+      "Bass"
+    ],
+    "answer": "African lungfish"
+  },
+  {
+    "id": "animals-nature-1140",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "Which animal is famous for playing dead as a defense, called thanatosis?",
+    "options": [
+      "Skunk",
+      "Raccoon",
+      "Opossum",
+      "Badger"
+    ],
+    "answer": "Opossum"
+  },
+  {
+    "id": "animals-nature-1141",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which plant's seeds are dispersed by explosion, flinging seeds several meters?",
+    "options": [
+      "Witch hazel",
+      "Dandelion",
+      "Coconut",
+      "Maple"
+    ],
+    "answer": "Witch hazel"
+  },
+  {
+    "id": "animals-nature-1142",
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "Which octopus species has blue-ringed warning coloration indicating tetrodotoxin presence?",
+    "options": [
+      "Blue-ringed octopus",
+      "Giant Pacific octopus",
+      "Common octopus",
+      "Dumbo octopus"
+    ],
+    "answer": "Blue-ringed octopus"
+  },
+  {
+    "id": "animals-nature-1143",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which bird's eggs are incubated by males for over 70 days, the longest incubation of any bird?",
+    "options": [
+      "Kiwi",
+      "Albatross",
+      "Ostrich",
+      "Emperor penguin"
+    ],
+    "answer": "Kiwi"
+  },
+  {
+    "id": "animals-nature-1144",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "What do earthworms use to grind food since they have no teeth?",
+    "options": [
+      "Stomach acid only",
+      "Mandibles",
+      "Radula",
+      "Gizzard"
+    ],
+    "answer": "Gizzard"
+  },
+  {
+    "id": "animals-nature-1145",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which mammal can delay implantation of its embryo for up to 11 months to time birth with favorable conditions?",
+    "options": [
+      "Whale",
+      "Human",
+      "Elephant",
+      "Roe deer"
+    ],
+    "answer": "Roe deer"
+  },
+  {
+    "id": "animals-nature-1146",
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "Which marine invertebrate breathes through its anus, pumping water in and out of a respiratory tree?",
+    "options": [
+      "Sea star",
+      "Sea urchin",
+      "Sea anemone",
+      "Sea cucumber"
+    ],
+    "answer": "Sea cucumber"
+  },
+  {
+    "id": "animals-nature-1147",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "What is the largest internal organ in most vertebrates?",
+    "options": [
+      "Liver",
+      "Lung",
+      "Heart",
+      "Brain"
+    ],
+    "answer": "Liver"
+  },
+  {
+    "id": "animals-nature-1148",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which bird can dive from 40 meters high and hit the water at 60 mph to catch fish, with special nictitating membranes?",
+    "options": [
+      "Pelican",
+      "Seagull",
+      "Cormorant",
+      "Gannet"
+    ],
+    "answer": "Gannet"
+  },
+  {
+    "id": "animals-nature-1149",
+    "difficulty": "hard",
+    "category": "animals-nature",
+    "question": "Which plant's flower smells like rotting flesh to attract carrion flies, known as corpse flower but not Rafflesia?",
+    "options": [
+      "Rose",
+      "Sunflower",
+      "Lily",
+      "Titan arum"
+    ],
+    "answer": "Titan arum"
+  },
+  {
+    "id": "animals-nature-1150",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which mammal's placenta is hemochorial, like humans, allowing direct contact between maternal blood and fetal tissue?",
+    "options": [
+      "Horse",
+      "Pig",
+      "Mouse",
+      "Cow"
+    ],
+    "answer": "Mouse"
+  },
+  {
+    "id": "animals-nature-1151",
+    "difficulty": "easy",
+    "category": "animals-nature",
+    "question": "Which animal can re-grow a lost arm and has tube feet operated by hydraulic water vascular system?",
+    "options": [
+      "Lobster",
+      "Starfish",
+      "Octopus",
+      "Crab"
+    ],
+    "answer": "Starfish"
+  },
+  {
+    "id": "animals-nature-1152",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which bird produces crop milk that is bright red due to carotenoid pigments, feeding it to chicks?",
+    "options": [
+      "Flamingo",
+      "Pigeon",
+      "Emperor penguin",
+      "Albatross"
+    ],
+    "answer": "Flamingo"
+  },
+  {
+    "id": "animals-nature-1153",
+    "difficulty": "medium",
+    "category": "animals-nature",
+    "question": "Which reptile can stay submerged for over 5 hours by slowing its heart rate to 3 beats per minute?",
+    "options": [
+      "Anaconda",
+      "Saltwater crocodile",
+      "Marine iguana",
+      "Green sea turtle"
+    ],
+    "answer": "Green sea turtle"
   }
 ]
