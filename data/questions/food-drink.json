@@ -26,19 +26,6 @@
     "answer": "Italy"
   },
   {
-    "id": "general-282",
-    "category": "food-drink",
-    "difficulty": "easy",
-    "question": "What is the main ingredient in traditional guacamole?",
-    "options": [
-      "Tomato",
-      "Avocado",
-      "Cucumber",
-      "Zucchini"
-    ],
-    "answer": "Avocado"
-  },
-  {
     "id": "general-283",
     "category": "food-drink",
     "difficulty": "easy",
@@ -104,19 +91,6 @@
     "answer": "Switzerland"
   },
   {
-    "id": "general-288",
-    "category": "food-drink",
-    "difficulty": "medium",
-    "question": "Saffron, the world's most expensive spice by weight, comes from which flower?",
-    "options": [
-      "Marigold",
-      "Iris",
-      "Lily",
-      "Crocus"
-    ],
-    "answer": "Crocus"
-  },
-  {
     "id": "general-289",
     "category": "food-drink",
     "difficulty": "medium",
@@ -156,19 +130,6 @@
     "answer": "Korea"
   },
   {
-    "id": "general-292",
-    "category": "food-drink",
-    "difficulty": "medium",
-    "question": "The croissant, though popularized in France, is generally believed to have originated in which country?",
-    "options": [
-      "Belgium",
-      "Switzerland",
-      "Germany",
-      "Austria"
-    ],
-    "answer": "Austria"
-  },
-  {
     "id": "general-293",
     "category": "food-drink",
     "difficulty": "medium",
@@ -206,19 +167,6 @@
       "Mexican"
     ],
     "answer": "Indian"
-  },
-  {
-    "id": "general-296",
-    "category": "food-drink",
-    "difficulty": "medium",
-    "question": "Which spice gives traditional curry its distinctive yellow color?",
-    "options": [
-      "Cumin",
-      "Paprika",
-      "Ginger",
-      "Turmeric"
-    ],
-    "answer": "Turmeric"
   },
   {
     "id": "general-297",
@@ -390,19 +338,6 @@
     "answer": "Durian"
   },
   {
-    "id": "general-502",
-    "category": "food-drink",
-    "difficulty": "medium",
-    "question": "What is the main ingredient in traditional hummus?",
-    "options": [
-      "Lentils",
-      "Chickpeas",
-      "Black beans",
-      "Fava beans"
-    ],
-    "answer": "Chickpeas"
-  },
-  {
     "id": "general-503",
     "category": "food-drink",
     "difficulty": "hard",
@@ -479,19 +414,6 @@
       "Sauté"
     ],
     "answer": "Sauté"
-  },
-  {
-    "id": "general-509",
-    "category": "food-drink",
-    "difficulty": "hard",
-    "question": "The cooking technique of tempura, though refined in Japan, is believed to have been introduced by traders from which country?",
-    "options": [
-      "Portugal",
-      "Netherlands",
-      "Spain",
-      "China"
-    ],
-    "answer": "Portugal"
   },
   {
     "id": "general-510",
@@ -871,19 +793,6 @@
     "answer": "Hollandaise sauce"
   },
   {
-    "id": "general-817",
-    "category": "food-drink",
-    "difficulty": "easy",
-    "question": "Which nut is used to make traditional marzipan?",
-    "options": [
-      "Cashews",
-      "Pistachios",
-      "Almonds",
-      "Walnuts"
-    ],
-    "answer": "Almonds"
-  },
-  {
     "id": "general-818",
     "category": "food-drink",
     "difficulty": "easy",
@@ -1001,19 +910,6 @@
     "answer": "Saffron"
   },
   {
-    "id": "general-1212",
-    "category": "food-drink",
-    "difficulty": "medium",
-    "question": "What type of pastry is used to make a traditional French croissant?",
-    "options": [
-      "Laminated dough",
-      "Shortcrust pastry",
-      "Choux pastry",
-      "Filo pastry"
-    ],
-    "answer": "Laminated dough"
-  },
-  {
     "id": "general-1213",
     "category": "food-drink",
     "difficulty": "easy",
@@ -1038,19 +934,6 @@
       "Rice"
     ],
     "answer": "Malted barley"
-  },
-  {
-    "id": "general-1215",
-    "category": "food-drink",
-    "difficulty": "easy",
-    "question": "Which fruit is used to make traditional guacamole?",
-    "options": [
-      "Avocado",
-      "Tomato",
-      "Mango",
-      "Lime"
-    ],
-    "answer": "Avocado"
   },
   {
     "id": "general-1216",
@@ -1118,19 +1001,6 @@
     "answer": "Vinification"
   },
   {
-    "id": "general-1382",
-    "category": "food-drink",
-    "difficulty": "medium",
-    "question": "Which country is the largest producer of coffee in the world?",
-    "options": [
-      "Brazil",
-      "Colombia",
-      "Vietnam",
-      "Ethiopia"
-    ],
-    "answer": "Brazil"
-  },
-  {
     "id": "general-1383",
     "category": "food-drink",
     "difficulty": "hard",
@@ -1157,19 +1027,6 @@
     "answer": "Hungary"
   },
   {
-    "id": "general-1385",
-    "category": "food-drink",
-    "difficulty": "easy",
-    "question": "What is the primary ingredient in traditional falafel?",
-    "options": [
-      "Chickpeas",
-      "Lentils",
-      "Black beans",
-      "Fava beans only"
-    ],
-    "answer": "Chickpeas"
-  },
-  {
     "id": "general-1386",
     "category": "food-drink",
     "difficulty": "hard",
@@ -1194,19 +1051,6 @@
       "Onions"
     ],
     "answer": "Tomatoes"
-  },
-  {
-    "id": "general-1773",
-    "category": "food-drink",
-    "difficulty": "medium",
-    "question": "What is the main ingredient in traditional Korean kimchi?",
-    "options": [
-      "Napa cabbage",
-      "Cucumber",
-      "Radish",
-      "Bok choy"
-    ],
-    "answer": "Napa cabbage"
   },
   {
     "id": "general-1774",
@@ -1365,19 +1209,6 @@
     "answer": "Cloves"
   },
   {
-    "id": "general-2158",
-    "category": "food-drink",
-    "difficulty": "medium",
-    "question": "What type of layered, buttery dough is used to make a traditional croissant?",
-    "options": [
-      "Laminated dough",
-      "Sourdough",
-      "Choux pastry",
-      "Shortcrust pastry"
-    ],
-    "answer": "Laminated dough"
-  },
-  {
     "id": "general-2159",
     "category": "food-drink",
     "difficulty": "easy",
@@ -1508,32 +1339,6 @@
     "answer": "The Aztecs"
   },
   {
-    "id": "general-2170",
-    "category": "food-drink",
-    "difficulty": "medium",
-    "question": "What is the main ingredient in traditional Japanese miso soup?",
-    "options": [
-      "Fermented soybean paste",
-      "Seaweed broth",
-      "Fish sauce",
-      "Rice vinegar"
-    ],
-    "answer": "Fermented soybean paste"
-  },
-  {
-    "id": "general-2171",
-    "category": "food-drink",
-    "difficulty": "medium",
-    "question": "Which spice gives many curries their distinctive yellow color?",
-    "options": [
-      "Turmeric",
-      "Paprika",
-      "Cumin",
-      "Coriander"
-    ],
-    "answer": "Turmeric"
-  },
-  {
     "id": "general-2172",
     "category": "food-drink",
     "difficulty": "hard",
@@ -1558,19 +1363,6 @@
       "Radish"
     ],
     "answer": "Cabbage"
-  },
-  {
-    "id": "general-2174",
-    "category": "food-drink",
-    "difficulty": "medium",
-    "question": "What is the primary ingredient in traditional Korean kimchi?",
-    "options": [
-      "Napa cabbage",
-      "Cucumber",
-      "Radish",
-      "Bean sprouts"
-    ],
-    "answer": "Napa cabbage"
   },
   {
     "id": "general-2175",
@@ -1664,19 +1456,6 @@
     "answer": "Italy"
   },
   {
-    "id": "general-2393",
-    "category": "food-drink",
-    "difficulty": "hard",
-    "question": "Which country is the origin of the croissant, despite its French association?",
-    "options": [
-      "Austria",
-      "France",
-      "Belgium",
-      "Switzerland"
-    ],
-    "answer": "Austria"
-  },
-  {
     "id": "general-2506",
     "category": "food-drink",
     "difficulty": "hard",
@@ -1714,19 +1493,6 @@
       "Ecuador"
     ],
     "answer": "Peru"
-  },
-  {
-    "id": "general-2510",
-    "category": "food-drink",
-    "difficulty": "medium",
-    "question": "What is the primary alcohol content source in traditional sake?",
-    "options": [
-      "Fermented rice",
-      "Fermented barley",
-      "Fermented grapes",
-      "Fermented wheat"
-    ],
-    "answer": "Fermented rice"
   },
   {
     "id": "general-2580",
@@ -1792,19 +1558,6 @@
       "Guatemala"
     ],
     "answer": "Mexico"
-  },
-  {
-    "id": "general-2690",
-    "category": "food-drink",
-    "difficulty": "medium",
-    "question": "Which French cooking technique involves slowly cooking food submerged in its own fat?",
-    "options": [
-      "Confit",
-      "Sous vide",
-      "Braising",
-      "Poaching"
-    ],
-    "answer": "Confit"
   },
   {
     "id": "general-2691",
@@ -1963,32 +1716,6 @@
     "answer": "Sake"
   },
   {
-    "id": "food-drink-004",
-    "category": "food-drink",
-    "difficulty": "hard",
-    "question": "What is the most expensive spice in the world by weight?",
-    "options": [
-      "Vanilla",
-      "Cardamom",
-      "Saffron",
-      "Cinnamon"
-    ],
-    "answer": "Saffron"
-  },
-  {
-    "id": "food-drink-005",
-    "category": "food-drink",
-    "difficulty": "hard",
-    "question": "In French cooking, a 'mirepoix' consists of onions, carrots, and which other vegetable?",
-    "options": [
-      "Garlic",
-      "Leek",
-      "Celery",
-      "Bell pepper"
-    ],
-    "answer": "Celery"
-  },
-  {
     "id": "food-drink-006",
     "category": "food-drink",
     "difficulty": "medium",
@@ -2026,19 +1753,6 @@
       "Bread rolls"
     ],
     "answer": "Waffle pastries"
-  },
-  {
-    "id": "food-drink-009",
-    "category": "food-drink",
-    "difficulty": "hard",
-    "question": "Which country is the largest producer of cocoa?",
-    "options": [
-      "Ivory Coast",
-      "Ghana",
-      "Nigeria",
-      "Cameroon"
-    ],
-    "answer": "Ivory Coast"
   },
   {
     "id": "food-drink-010",
@@ -4482,7 +4196,7 @@
       "Peacock",
       "Goose"
     ],
-    "answer": "Turkey"
+    "answer": "Capon"
   },
   {
     "id": "food-drink-198",
@@ -5172,19 +4886,6 @@
       "Green"
     ],
     "answer": "Blue"
-  },
-  {
-    "id": "food-drink-251",
-    "category": "food-drink",
-    "difficulty": "hard",
-    "question": "The first meal eaten on the moon included bacon squares and sugar cookies. What fruit drink was also included?",
-    "options": [
-      "Peach drink",
-      "Orange drink",
-      "Apple drink",
-      "Grape drink"
-    ],
-    "answer": "Peach drink"
   },
   {
     "id": "food-drink-252",
@@ -6160,19 +5861,6 @@
     ],
     "answer": "Pepper X",
     "id": "food-drink-326"
-  },
-  {
-    "difficulty": "hard",
-    "category": "food-drink",
-    "question": "As of 2026, which cheese, made from donkey milk, is often cited as the most expensive cheese in the world?",
-    "options": [
-      "Roquefort",
-      "Gruyère",
-      "Pule",
-      "Cheddar"
-    ],
-    "answer": "Pule",
-    "id": "food-drink-327"
   },
   {
     "difficulty": "medium",
@@ -8621,7 +8309,7 @@
   {
     "difficulty": "hard",
     "category": "food-drink",
-    "question": "What grain is used to make the West African fufu alternative called banku?",
+    "question": "What is the West African fufu alternative called banku traditionally made from?",
     "options": [
       "Fermented corn and cassava dough",
       "Rice",
@@ -8764,7 +8452,7 @@
   {
     "difficulty": "hard",
     "category": "food-drink",
-    "question": "Which French sausage is made with pork and seaweed and is a specialty of Brittany?",
+    "question": "Which French sausage, made from rolled pork chitterlings and recognizable by its concentric rings, is a specialty of Brittany?",
     "options": [
       "Andouille de Guémené",
       "Merguez",
@@ -10644,7 +10332,7 @@
       "Teff",
       "Wheat"
     ],
-    "answer": "Sorghum"
+    "answer": "Barley"
   },
   {
     "id": "food-drink-672",
@@ -11313,7 +11001,7 @@
     "id": "food-drink-723",
     "category": "food-drink",
     "difficulty": "hard",
-    "question": "What is the name of the traditional Italian dessert made of sponge cake soaked in rum and coffee, layered with chocolate and vanilla custard?",
+    "question": "What is the name of the traditional Italian dessert made of sponge cake soaked in the bright pink liqueur Alchermes, layered with chocolate and vanilla custard?",
     "options": [
       "Zuppa Inglese",
       "Tiramisu",
@@ -11490,19 +11178,6 @@
       "Scotch egg"
     ],
     "answer": "Cornish pasty"
-  },
-  {
-    "id": "food-drink-737",
-    "category": "food-drink",
-    "difficulty": "hard",
-    "question": "What is the name of the Italian cured pork fat obtained from the back of the pig, often cured in marble troughs?",
-    "options": [
-      "Lardo di Colonnata",
-      "Pancetta",
-      "Guanciale",
-      "Speck"
-    ],
-    "answer": "Lardo di Colonnata"
   },
   {
     "id": "food-drink-738",

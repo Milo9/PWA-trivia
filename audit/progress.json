@@ -6616,11 +6616,11 @@
         "food-drink-063",
         "food-drink-066"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-08",
+      "completedAt": "2026-08-08",
+      "issuesFound": 6,
+      "notes": "Cut 6 duplicate/near-dup questions: croissant-origin triplicate (general-292/373/2393, kept 373), tempura-introduced-by-Portugal pair (general-298/509, kept 298), confit pair (general-503/2690, kept 503), mirepoix pair (general-515/food-drink-005, kept 515), Ivory Coast cocoa pair (general-1781/food-drink-009, kept 1781), saffron-most-expensive pair (general-1211/food-drink-004, kept 1211)."
     },
     {
       "chunkId": "food-drink-p1-001",
@@ -6677,11 +6677,11 @@
         "food-drink-222",
         "food-drink-223"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-08",
+      "completedAt": "2026-08-08",
+      "issuesFound": 1,
+      "notes": "Fixed distractor-correctness bug: food-drink-197 cockenthrice bird was marked Turkey, but the Tudor-era dish originated under Henry VII (before turkeys reached England) and traditionally used capon, per historical sources; changed answer to Capon. Verified space-potato (food-drink-107) and Apollo 11 first-meal (food-drink-214) claims via web search, both correct as written. Rest of chunk clean; same-answer flags were coincidental (Turkey-the-bird vs Turkey-the-country; France as generic answer)."
     },
     {
       "chunkId": "food-drink-p1-002",
@@ -6738,11 +6738,11 @@
         "food-drink-404",
         "food-drink-412"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-08",
+      "completedAt": "2026-08-08",
+      "issuesFound": 2,
+      "notes": "Cut food-drink-327 (Pule/donkey-milk cheese, reversed-direction duplicate of food-drink-189). Cut food-drink-251 (factually broken: claimed Apollo 11's moon-meal fruit drink was 'peach drink', but verified via web search the actual drink was pineapple-grapefruit juice — peaches were a separate solid food item, not a drink — so none of the 4 options were correct). Rest of chunk verified clean; same-answer flags were all distinct facts about the same dish/ingredient (Rappie pie, escamoles, silphium, murri, mersu, hodge-podge, dulse, isinglass/caviar)."
     },
     {
       "chunkId": "food-drink-p1-003",
@@ -6799,11 +6799,11 @@
         "food-drink-653",
         "food-drink-658"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-08",
+      "completedAt": "2026-08-08",
+      "issuesFound": 2,
+      "notes": "Fixed food-drink-527: question falsely claimed Andouille de Guemene is made with pork AND seaweed (verified via web search it's pork chitterlings only, no seaweed) - reworded to describe its actual defining trait (rolled chitterlings, concentric rings). Fixed food-drink-516: question asked 'what grain' but the correct answer (fermented corn and cassava dough) isn't a grain (cassava is a root) - reworded stem to not mislabel it. Rest of chunk clean; food-drink-426/542 (quinine, UV-glow+malaria vs cinchona-bark+flavor) judged distinct facts, not duplicates."
     },
     {
       "chunkId": "food-drink-p1-004",
@@ -6860,11 +6860,11 @@
         "general-508",
         "general-511"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-08",
+      "completedAt": "2026-08-08",
+      "issuesFound": 9,
+      "notes": "Cut 7 duplicates: kimchi/napa-cabbage triplicate (general-511/1773/2174, kept 511), turmeric-curry-yellow triplicate (general-296/2171/2507, kept 2507), hummus/chickpeas pair (general-502/2694, kept 2694), lardo-di-Colonnata reversed-direction dup of food-drink-173 from an earlier chunk (cut food-drink-737), saffron/crocus reversed-direction dup of general-1211 from an earlier chunk (cut general-288). Fixed 2 factual errors: food-drink-671 tella's primary grain corrected sorghum->barley per sourced reviews; food-drink-723 zuppa inglese reworded, was wrongly described as rum-and-coffee soaked when the traditional recipe uses Alchermes liqueur."
     },
     {
       "chunkId": "food-drink-p1-005",
@@ -6921,11 +6921,11 @@
         "food-drink-006",
         "food-drink-008"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-08",
+      "completedAt": "2026-08-08",
+      "issuesFound": 8,
+      "notes": "Cut 8 duplicates: croissant-laminated-dough triplicate (general-802/1212/2158, kept 802), guacamole-avocado triplicate (general-519/282/1215, kept 519), coffee-largest-producer pair (general-815/1382, kept 815), marzipan-almonds pair (general-2167/817, kept 2167), sake/fermented-rice reversed-direction pair (general-1216/2510, kept 1216), miso-soup-ingredient pair (general-1210/2170, kept 1210), falafel-ingredient pair (general-810/1385 — kept 810's 'chickpeas or fava beans' since it correctly hedges the Egypt-vs-Levant regional split that 1385's plain 'chickpeas' answer papered over), tagine/pot cross-category pair (general-2699 kept, cut world-cultures-1378 — dish name vs the pot it's named after, same underlying word). Rest of large chunk verified clean."
     },
     {
       "chunkId": "food-drink-p1-006",
