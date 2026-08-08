@@ -8273,12 +8273,12 @@
     "difficulty": "medium",
     "question": "Where does the Friends series finale rank among the most-watched series finales in U.S. television history?",
     "options": [
-      "Fifth",
+      "Fourth",
       "First",
       "Tenth",
       "Second"
     ],
-    "answer": "Fifth"
+    "answer": "Fourth"
   },
   {
     "id": "friends-713",
@@ -9087,19 +9087,6 @@
     "answer": "Mitchell Whitfield"
   },
   {
-    "id": "friends-779",
-    "category": "friends",
-    "difficulty": "medium",
-    "question": "After Rachel leaves him at the altar, Barry ends up marrying which of Rachel's own friends or family members?",
-    "options": [
-      "Her maid of honor, Mindy",
-      "Her sister, Amy",
-      "Her sister, Jill",
-      "Her college roommate"
-    ],
-    "answer": "Her maid of honor, Mindy"
-  },
-  {
     "id": "friends-780",
     "category": "friends",
     "difficulty": "hard",
@@ -9137,32 +9124,6 @@
       "Just 2 episodes later"
     ],
     "answer": "Nearly 200 episodes later"
-  },
-  {
-    "id": "friends-783",
-    "category": "friends",
-    "difficulty": "medium",
-    "question": "The night Ross and Rachel are 'on a break,' Ross spends the night with a coworker from where?",
-    "options": [
-      "The Xerox place",
-      "The gym",
-      "His graduate program",
-      "The museum gift shop"
-    ],
-    "answer": "The Xerox place"
-  },
-  {
-    "id": "friends-784",
-    "category": "friends",
-    "difficulty": "medium",
-    "question": "In Season 9, Chandler accidentally accepts a job transfer to run a division of his company in which city?",
-    "options": [
-      "Tulsa",
-      "Chicago",
-      "Dallas",
-      "Denver"
-    ],
-    "answer": "Tulsa"
   },
   {
     "id": "friends-785",

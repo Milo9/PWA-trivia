@@ -838,6 +838,26 @@ Open items for a future dedicated pass:
   out-of-pass questions noted below, so it will need the same fresh
   pass/appended chunks that block covers, not just a normal future
   audit chunk.
+- **Chunk `friends-p1-012` (2026-08-08, IDs friends-699 through
+  friends-786, mostly behind-the-scenes/actor trivia)**: cut three
+  cross-chunk duplicates of already-reviewed originals, per the
+  already-reviewed-sibling policy above — `friends-779` (dup of
+  `friends-574`, Barry marrying Mindy), `friends-783` (dup of
+  `friends-622`, Ross sleeping with Chloe from the copy place during
+  the break), `friends-784` (dup of `friends-649`, Chandler's Tulsa
+  transfer). Fixed `friends-712`: multiple sources (Television Academy,
+  Yardbarker, Collider) consistently rank the Friends finale's 52.5
+  million viewers *fourth*-most-watched series finale in U.S. TV
+  history (behind M\*A\*S\*H, Cheers, Seinfeld) — the drafted answer
+  "Fifth" was wrong, changed to "Fourth". Everything else in this
+  chunk (guest-actor casting, production trivia, in-show plot facts)
+  was individually verified via WebSearch and confirmed accurate — this
+  chunk leaned heavily on specific, checkable claims (real actor names,
+  filming-time figures, behind-the-scenes anecdotes) that turned out to
+  be unusually well-grounded compared to `friends-p1-008`/`009`'s
+  fabrication-heavy range. New same-answer pair left uncut (both
+  unreviewed): `friends-767`/`friends-596` (Ross's fictional employer,
+  the Museum of Prehistoric History).
 
 ## Memory-only drafting exhausts per category
 

@@ -8483,11 +8483,11 @@
         "friends-784",
         "friends-786"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-08",
+      "completedAt": "2026-08-08",
+      "issuesFound": 4,
+      "notes": "Cut 3 cross-chunk duplicates of already-reviewed originals (friends-779 dup of friends-574 Barry/Mindy, friends-783 dup of friends-622 Chloe/copy place, friends-784 dup of friends-649 Tulsa transfer). Fixed friends-712's finale-ranking claim (Fourth-most-watched, not Fifth, verified via multiple sources). Rest of this behind-the-scenes-trivia-heavy chunk individually verified via WebSearch and confirmed accurate. Logged new same-answer pair friends-767/friends-596 (Museum of Prehistoric History) to CLAUDE.md backlog."
     },
     {
       "chunkId": "friends-p1-013",
