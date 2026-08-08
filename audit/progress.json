@@ -7104,11 +7104,11 @@
         "food-drink-313",
         "food-drink-314"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-08",
+      "completedAt": "2026-08-08",
+      "issuesFound": 0,
+      "notes": "Reviewed all 50 questions (Palmer House brownie, Hydrox 1908, garum, saganaki cheese, moussaka lamb, etc). Verified several hard-difficulty specifics via WebSearch (Hydrox year, Fanshawe ice cream recipe, poutine/pudding etymology, moussaka lamb tradition). All same-answer flags checked and are coincidental (different dishes sharing a common ingredient/answer like potato, octopus, cardamom), not duplicates. No factual errors or answer-leaks found."
     },
     {
       "chunkId": "food-drink-p1-009",
@@ -7165,11 +7165,11 @@
         "food-drink-390",
         "food-drink-393"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-08",
+      "completedAt": "2026-08-08",
+      "issuesFound": 1,
+      "notes": "Reviewed all 50 questions. Fixed genuine regional ambiguity in food-drink-346 (callaloo): taro leaves is correct for Trinidadian/Grenadian callaloo but amaranth leaves is correct for Jamaican callaloo, so the unspecified 'Caribbean dish' framing didn't uniquely determine the answer -- narrowed question to 'Trinidadian callaloo' to keep the marked answer (taro leaves) valid. Verified several hard specifics via WebSearch (Pepper X SHU record, Galliano's dominant vanilla flavor, brunost vs gjetost distinction, Hydrox-era facts). All other same-answer flags checked and are coincidental, not duplicates."
     },
     {
       "chunkId": "food-drink-p1-010",
