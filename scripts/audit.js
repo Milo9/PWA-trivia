@@ -21,7 +21,7 @@
 //   node scripts/audit.js next [--category=<id>] [--n=1]
 //   node scripts/audit.js complete <chunkId> [--issues=N] [--notes="..."]
 //   node scripts/audit.js reset <chunkId>
-//   node scripts/audit.js new-pass [--chunk-size=50]
+//   node scripts/audit.js new-pass [--chunk-size=50] [--full]
 
 const fs = require("fs");
 const path = require("path");
@@ -82,17 +82,47 @@ function parseFlags(argv) {
   return flags;
 }
 
+// Every question id that was ever part of a "done" chunk in an archived
+// pass — i.e. has been through at least one completed audit review.
+// new-pass uses this by default so a fresh pass only covers questions that
+// have NEVER been audited, instead of re-reviewing the whole corpus every
+// cycle. Chunks that were only pending/in-progress when a pass got archived
+// early (new-pass --force) don't count — their ids stay eligible for the
+// next pass, same as before.
+function buildReviewedIdSet() {
+  const ids = new Set();
+  if (!fs.existsSync(HISTORY_DIR)) return ids;
+  for (const file of fs.readdirSync(HISTORY_DIR)) {
+    if (!file.endsWith(".json")) continue;
+    const archived = JSON.parse(fs.readFileSync(path.join(HISTORY_DIR, file), "utf8"));
+    for (const chunk of archived.chunks) {
+      if (chunk.status !== "done") continue;
+      for (const id of chunk.ids) ids.add(id);
+    }
+  }
+  return ids;
+}
+
 // Builds a fresh chunk manifest from the CURRENT corpus. Used by both init
-// (pass 1) and new-pass (pass N+1) — a new pass always re-derives chunk
-// membership from what's in data/ right now, so questions added since the
+// (pass 1, always the full corpus) and new-pass (pass N+1, which by default
+// passes reviewedIds so already-audited questions are excluded — see
+// buildReviewedIdSet above). Either way, questions added to data/ since the
 // last pass started get swept in rather than silently skipped forever.
-function buildManifest(pass, chunkSize) {
+function buildManifest(pass, chunkSize, reviewedIds = new Set()) {
   const categories = loadCategories();
   const chunks = [];
+  let totalCorpusQuestions = 0;
+  let excludedAlreadyReviewed = 0;
 
   for (const cat of categories.sort((a, b) => a.id.localeCompare(b.id))) {
     const questions = loadCategoryQuestions(cat);
-    const sorted = [...questions].sort(
+    totalCorpusQuestions += questions.length;
+    const unreviewed = questions.filter((q) => {
+      if (!reviewedIds.has(q.id)) return true;
+      excludedAlreadyReviewed++;
+      return false;
+    });
+    const sorted = unreviewed.sort(
       (a, b) => (DIFFICULTY_RANK[a.difficulty] ?? 1) - (DIFFICULTY_RANK[b.difficulty] ?? 1)
     );
     const ids = sorted.map((q) => q.id);
@@ -118,6 +148,8 @@ function buildManifest(pass, chunkSize) {
     startedAt: todayIso(),
     completedAt: null,
     totalQuestions: chunks.reduce((n, c) => n + c.ids.length, 0),
+    totalCorpusQuestions,
+    excludedAlreadyReviewed,
     chunks,
   };
 }
@@ -164,10 +196,17 @@ function cmdNewPass(flags) {
   console.log(`Archived pass ${current.pass} to audit/history/pass-${current.pass}.json`);
 
   const chunkSize = flags["chunk-size"] ? parseInt(flags["chunk-size"], 10) : current.chunkSize;
-  const manifest = buildManifest(current.pass + 1, chunkSize);
+  // Default: only manifest questions that have never been through a
+  // completed audit chunk in any prior pass. --full opts back into a
+  // complete re-audit of the whole corpus, same as the old behavior.
+  const reviewedIds = flags.full ? new Set() : buildReviewedIdSet();
+  const manifest = buildManifest(current.pass + 1, chunkSize, reviewedIds);
   saveProgress(manifest);
   console.log(
-    `Initialized pass ${manifest.pass}: ${manifest.chunks.length} chunks, ${manifest.totalQuestions} questions, chunk size ${chunkSize}.`
+    `Initialized pass ${manifest.pass}: ${manifest.chunks.length} chunks, ${manifest.totalQuestions} questions, chunk size ${chunkSize}.` +
+      (flags.full
+        ? ""
+        : ` (${manifest.excludedAlreadyReviewed} already-audited question(s) excluded — pass --full to force a complete re-audit instead.)`)
   );
   printStatus(manifest);
 }
@@ -180,11 +219,25 @@ function printStatus(progress) {
   }
 
   console.log(`\nPass ${progress.pass} (started ${progress.startedAt}), chunk size ${progress.chunkSize}`);
-  console.log(`${progress.totalQuestions} questions across ${progress.chunks.length} chunks\n`);
+  console.log(
+    `${progress.totalQuestions} questions across ${progress.chunks.length} chunks` +
+      (progress.excludedAlreadyReviewed
+        ? ` (${progress.excludedAlreadyReviewed} already-audited question(s) skipped this pass)`
+        : "") +
+      "\n"
+  );
 
   let totalDone = 0;
   let totalIssues = 0;
-  for (const [category, chunks] of [...byCategory.entries()].sort()) {
+  const allCategoryIds = loadCategories()
+    .map((c) => c.id)
+    .sort();
+  for (const category of allCategoryIds) {
+    const chunks = byCategory.get(category);
+    if (!chunks) {
+      console.log(`  ${category.padEnd(24)}   0/0 chunks  (nothing new to review this pass)`);
+      continue;
+    }
     const done = chunks.filter((c) => c.status === "done").length;
     const inProgress = chunks.filter((c) => c.status === "in-progress").length;
     const issues = chunks.reduce((n, c) => n + (c.issuesFound || 0), 0);
@@ -194,6 +247,14 @@ function printStatus(progress) {
     console.log(
       `  ${category.padEnd(24)} ${String(done).padStart(3)}/${chunks.length} chunks${flag}  issues found: ${issues}`
     );
+  }
+
+  if (progress.chunks.length === 0) {
+    console.log(
+      `\nNothing to review this pass — every question was already covered by a previous pass. ` +
+        `Add more questions, or run "new-pass --full" to force a complete re-audit.`
+    );
+    return;
   }
 
   const pct = ((totalDone / progress.chunks.length) * 100).toFixed(1);
@@ -417,7 +478,7 @@ function main() {
           "  node scripts/audit.js next [--category=<id>] [--n=1]\n" +
           '  node scripts/audit.js complete <chunkId> [--issues=N] [--notes="..."]\n' +
           "  node scripts/audit.js reset <chunkId>\n" +
-          "  node scripts/audit.js new-pass [--chunk-size=50]"
+          "  node scripts/audit.js new-pass [--chunk-size=50] [--full]"
       );
       process.exit(command ? 1 : 0);
   }

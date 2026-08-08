@@ -223,7 +223,7 @@ chunked audit tracked in `audit/`:
 node scripts/audit.js status                                    # progress so far
 node scripts/audit.js next [--category=<id>] [--n=1]             # pull the next chunk(s) to review
 node scripts/audit.js complete <chunkId> --issues=N --notes="…"  # record what you found
-node scripts/audit.js new-pass                                   # once every chunk is done, start a fresh pass
+node scripts/audit.js new-pass [--full]                          # once every chunk is done, start a fresh pass
 ```
 
 Each chunk is ~50 questions (configurable via `--chunk-size` at `init`/
@@ -237,10 +237,20 @@ Progress is
 tracked in `audit/progress.json` (git-committed, so it persists across
 sessions/machines) — a chunk marked `done` in the current pass won't be
 handed out again by `next` until every other chunk finishes and `new-pass`
-starts a fresh cycle against the current corpus (which also sweeps in
-anything merged in since the last pass started). `audit/` lives outside
-`data/` deliberately, so updating it doesn't bump the offline cache
-version the way editing anything under `data/` does.
+starts a fresh cycle. By default, a fresh cycle only covers questions that
+have **never** been through a completed audit chunk in any prior pass —
+it sweeps in anything added to `data/` since the last pass started, but
+skips re-reviewing anything already covered, so `new-pass` doesn't force
+a full 14,000+-question re-read just to pick up a batch of new additions.
+(This is tracked by scanning `audit/history/pass-*.json` for ids that
+belonged to a `done` chunk — a chunk that was only pending/in-progress
+when a pass got archived early via `new-pass --force` doesn't count, so
+its ids stay eligible.) Pass `new-pass --full` to opt back into a
+complete re-audit of the whole corpus instead, including previously
+reviewed questions — useful if enough time/edits have passed that a full
+re-check is worth the effort again. `audit/` lives outside `data/`
+deliberately, so updating it doesn't bump the offline cache version the
+way editing anything under `data/` does.
 
 To actually review a chunk: read every question `next` prints (each line
 is `id [difficulty] Q: … OPTIONS: A:… | B:… | C:… | D:…` with `*` marking
