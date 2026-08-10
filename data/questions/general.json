@@ -182,19 +182,6 @@
     "answer": "Blackjack"
   },
   {
-    "id": "general-1276",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "What is the term for a word puzzle where letters are rearranged to form another word?",
-    "options": [
-      "Anagram",
-      "Acrostic",
-      "Cryptogram",
-      "Palindrome"
-    ],
-    "answer": "Anagram"
-  },
-  {
     "id": "general-1277",
     "category": "general",
     "difficulty": "medium",
@@ -991,7 +978,7 @@
     "id": "general-3009",
     "category": "general",
     "difficulty": "medium",
-    "question": "Which Oxford clergyman and Warden of New College from 1844 to 1930 gave his name to the swapping of initial sounds?",
+    "question": "Which Oxford clergyman and Warden of New College from 1903 to 1924 gave his name to the swapping of initial sounds?",
     "options": [
       "Richard Sheridan",
       "Samuel Johnson",
@@ -1090,19 +1077,6 @@
       "100"
     ],
     "answer": "144"
-  },
-  {
-    "id": "general-3017",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "How many items are in a great gross, also called a grand gross?",
-    "options": [
-      "144",
-      "1440",
-      "1728",
-      "1000"
-    ],
-    "answer": "1728"
   },
   {
     "id": "general-3018",
@@ -3928,14 +3902,14 @@
   {
     "difficulty": "hard",
     "category": "general",
-    "question": "Which playing card is known as the 'One-Eyed Jack' in a standard deck?",
+    "question": "Which two jacks in a standard deck are known as the 'one-eyed jacks', drawn in profile showing only one eye?",
     "options": [
-      "Jack of Spades",
-      "Jack of Hearts",
-      "Jack of Clubs",
-      "Jack of Diamonds"
+      "Jack of Hearts and Jack of Spades",
+      "Jack of Clubs and Jack of Diamonds",
+      "Jack of Diamonds and Jack of Spades",
+      "Jack of Hearts and Jack of Clubs"
     ],
-    "answer": "Jack of Hearts",
+    "answer": "Jack of Hearts and Jack of Spades",
     "id": "general-3235"
   },
   {
@@ -6214,19 +6188,6 @@
     "answer": "Libra"
   },
   {
-    "id": "general-3411",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "What is the term for a word that spells a different word when read backwards?",
-    "options": [
-      "Semordnilap",
-      "Palindrome",
-      "Anagram",
-      "Isogram"
-    ],
-    "answer": "Semordnilap"
-  },
-  {
     "id": "general-3412",
     "category": "general",
     "difficulty": "easy",
@@ -6947,12 +6908,12 @@
     "difficulty": "hard",
     "question": "What is the term for a word that becomes another word when you remove first letter?",
     "options": [
-      "Beheadment or decapitation in wordplay",
+      "Beheadment",
       "Palindrome",
       "Anagram",
       "Isogram"
     ],
-    "answer": "Beheadment or decapitation in wordplay"
+    "answer": "Beheadment"
   },
   {
     "id": "general-3468",
@@ -6971,14 +6932,14 @@
     "id": "general-3469",
     "category": "general",
     "difficulty": "hard",
-    "question": "What is the highest scoring bingo in Scrabble theory using triple-triple?",
+    "question": "Which word holds the Guinness World Record for highest-scoring single play in a recorded competitive Scrabble game, scoring 392 points via a triple-triple in 1982?",
     "options": [
-      "Caziques or similar high 300+ point play",
-      "Cat",
-      "Dog",
-      "Quiz"
+      "Caziques",
+      "Muzjiks",
+      "Quixotry",
+      "Bezique"
     ],
-    "answer": "Caziques or similar high 300+ point play"
+    "answer": "Caziques"
   },
   {
     "id": "general-3470",
@@ -7153,14 +7114,14 @@
     "id": "general-3483",
     "category": "general",
     "difficulty": "hard",
-    "question": "What is the term for a sentence where the main clause is deliberately omitted, such as \"If only I had studied harder...\"?",
+    "question": "What is the term for a sentence deliberately broken off and left unfinished, trailing into silence, such as \"If only I had studied harder...\"?",
     "options": [
       "Anapodoton",
       "Aposiopesis",
       "Parataxis",
       "Zeugma"
     ],
-    "answer": "Anapodoton"
+    "answer": "Aposiopesis"
   },
   {
     "id": "general-3484",
@@ -7348,7 +7309,7 @@
     "id": "general-3498",
     "category": "general",
     "difficulty": "hard",
-    "question": "Historically used for wine and beer, how many imperial gallons are in a hogshead?",
+    "question": "Historically used for wine, how many old wine gallons make up a wine hogshead?",
     "options": [
       "63",
       "54",
@@ -7530,7 +7491,7 @@
     "id": "general-3512",
     "category": "general",
     "difficulty": "hard",
-    "question": "Often used informally to mean a large amount, how many imperial gallons are in a traditional \"butt\" of wine?",
+    "question": "Often used informally to mean a large amount, how many imperial gallons are in a traditional British \"butt\" of ale?",
     "options": [
       "108",
       "126",
@@ -7842,14 +7803,14 @@
     "id": "general-3536",
     "category": "general",
     "difficulty": "hard",
-    "question": "The phrase \"when pigs fly\" has its earliest known printed equivalent in a 1616 play by which Scottish author?",
+    "question": "The phrase \"when pigs fly\" has its earliest known printed equivalent in a 1616 English-Latin dictionary compiled by whom?",
     "options": [
-      "John Stewart",
+      "John Withals",
       "William Shakespeare",
       "Robert Burns",
       "Walter Scott"
     ],
-    "answer": "John Stewart"
+    "answer": "John Withals"
   },
   {
     "id": "general-3537",
@@ -7894,7 +7855,7 @@
     "id": "general-3540",
     "category": "general",
     "difficulty": "hard",
-    "question": "The phrase \"don't cry over spilled milk\" has its earliest known printed version in a 1658 collection of proverbs compiled by whom?",
+    "question": "The phrase \"don't cry over spilled milk\" has its earliest known printed version in a 1659 collection of proverbs compiled by whom?",
     "options": [
       "James Howell",
       "Benjamin Franklin",
@@ -7969,30 +7930,17 @@
     "answer": "Writing secret messages in invisible ink between lines of text"
   },
   {
-    "id": "general-3546",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "The phrase \"sit on the fence\" to mean remaining neutral was popularized in the US during the financial panic of which year?",
-    "options": [
-      "1873",
-      "1929",
-      "1893",
-      "1907"
-    ],
-    "answer": "1873"
-  },
-  {
     "id": "general-3547",
     "category": "general",
     "difficulty": "hard",
     "question": "The phrase \"the elephant in the room\" referring to an obvious problem people avoid was popularized by a 1980s counseling approach book by whom?",
     "options": [
-      "Tyndall and Tyndall",
+      "Typpo and Hastings",
       "John Bradshaw",
       "Carl Rogers",
       "Irvin Yalom"
     ],
-    "answer": "Tyndall and Tyndall"
+    "answer": "Typpo and Hastings"
   },
   {
     "id": "general-3548",
@@ -8115,7 +8063,7 @@
     "id": "general-3557",
     "category": "general",
     "difficulty": "hard",
-    "question": "The phrase \"no pain, no gain\" is often attributed to which Founding Father's 1748 publication *Poor Richard's Almanack*?",
+    "question": "The phrase \"no pain, no gain\" is often attributed to which Founding Father's 1758 publication *Poor Richard's Almanack*?",
     "options": [
       "Benjamin Franklin",
       "Thomas Jefferson",
@@ -8318,19 +8266,6 @@
       "Transmutation"
     ],
     "answer": "Promotion"
-  },
-  {
-    "id": "general-3573",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "In chess, what is the French term for the special pawn capture that can occur if a pawn moves two squares forward and lands beside an enemy pawn?",
-    "options": [
-      "En passant",
-      "En garde",
-      "Coup de grâce",
-      "J'adoube"
-    ],
-    "answer": "En passant"
   },
   {
     "id": "general-3574",
@@ -9126,19 +9061,6 @@
     "answer": "King of Hearts"
   },
   {
-    "id": "general-3635",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "In a standard deck of playing cards, which two face cards are considered the \"one-eyed jacks,\" shown in profile with only one eye visible?",
-    "options": [
-      "Jack of Spades and Jack of Hearts",
-      "Jack of Clubs and Jack of Diamonds",
-      "Jack of Spades and Jack of Diamonds",
-      "Jack of Clubs and Jack of Hearts"
-    ],
-    "answer": "Jack of Spades and Jack of Hearts"
-  },
-  {
     "id": "general-3636",
     "category": "general",
     "difficulty": "hard",
@@ -9475,19 +9397,6 @@
       "Isogram"
     ],
     "answer": "Isogram"
-  },
-  {
-    "id": "general-3662",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "What term describes a word or phrase that uses only one distinct vowel, such as 'strengths' using only E?",
-    "options": [
-      "Pleonasm",
-      "Monovocalic phrase",
-      "Isogram",
-      "Univocalic"
-    ],
-    "answer": "Univocalic"
   },
   {
     "id": "general-3663",
@@ -11412,19 +11321,6 @@
       "Cheat"
     ],
     "answer": "Fold or discard without showing"
-  },
-  {
-    "id": "general-3811",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "In chess, what does 'zugzwang' mean?",
-    "options": [
-      "Draw by repetition",
-      "Player must move but any move worsens position",
-      "Pawn promotion forced",
-      "King is in check"
-    ],
-    "answer": "Player must move but any move worsens position"
   },
   {
     "id": "general-3812",

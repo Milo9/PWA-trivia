@@ -8705,11 +8705,11 @@
         "general-3324",
         "general-3325"
       ],
-      "status": "in-progress",
+      "status": "done",
       "startedAt": "2026-08-09",
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "completedAt": "2026-08-09",
+      "issuesFound": 1,
+      "notes": "Fixed general-3235: 'one-eyed jack' question was genuinely ambiguous (both Jack of Hearts and Jack of Spades are traditionally one-eyed in standard card art) -- reworded to ask for both jacks together with WebSearch-verified confirmation. Everything else checked out (WebSearch-verified: LEGO 1958 patent, tattarrattat/Joyce OED claim, piece-of-cake/cakewalk etymology). Logged 2 new same-answer duplicate clusters to CLAUDE.md backlog: palindrome-definition 4-way cluster and bridge grand-slam/13-tricks pair, both left uncut (unreviewed siblings)."
     },
     {
       "chunkId": "general-p1-001",
@@ -8766,11 +8766,11 @@
         "general-3551",
         "general-3552"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-09",
+      "completedAt": "2026-08-09",
+      "issuesFound": 9,
+      "notes": "Cut general-3411 (dup of already-reviewed general-3324, semordnilap reversed direction). Fixed 7 factual/format bugs, several confirmed via WebSearch: general-3467/3469 answer-format leaks (explanatory-phrase answer next to short distractors) trimmed to clean single terms, general-3469 also got better distractors and a precise question (Caziques/392pts/1982 record verified); general-3483 swapped Anapodoton->Aposiopesis (the 'if only I had studied harder...' trailing-off example is textbook aposiopesis, not anapodoton); general-3498/3512 hogshead/butt volume questions conflated wine vs. beer/ale historical values (63 wine-gallons vs 54 imperial for beer hogshead; 108 imperial is the ale butt not wine) -- reworded to specify the correct beverage per value; general-3536 'when pigs fly' falsely attributed to 'a 1616 play by a Scottish author John Stewart' -- actual earliest print source is John Withals's 1616 English-Latin dictionary; general-3540 year off by one (1658->1659, James Howell's proverb collection); general-3547 fabricated author name 'Tyndall and Tyndall' -> corrected to actual authors Typpo and Hastings. Cut general-3546 outright: WebSearch found no support at all for a 'financial panic' origin of 'sit on the fence', appears fabricated. Logged 4 new same-answer duplicate pairs to CLAUDE.md backlog, left uncut (unreviewed siblings)."
     },
     {
       "chunkId": "general-p1-002",
@@ -8827,11 +8827,11 @@
         "general-3706",
         "general-3721"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-09",
+      "completedAt": "2026-08-09",
+      "issuesFound": 4,
+      "notes": "Fixed general-3557: 'no pain no gain' Poor Richard's Almanack year corrected 1748->1758 (WebSearch found the documented quote 'There are no Gains without Pains' in the 1758 Poor Richard Improved edition, no source ties it to 1748). Cut 3 duplicates: general-3573 (dup of already-reviewed general-3356, en passant, reversed direction), general-3662 (dup of already-reviewed general-3329, univocalic, reversed direction), and general-3635 (dup of general-3235 -- this pair only became a duplicate because general-3235 was itself just fixed last chunk to the same two-jack 'one-eyed jacks' framing general-3635 already used; kept the already-fixed general-3235, cut the newly-encountered general-3635). Other idiom-origin claims spot-checked via WebSearch (fish out of water/Chaucer, ignorance is bliss/Gray 1742, Rome wasn't built in a day/Heywood 1546) all confirmed accurate. Logged 3 new same-answer duplicate pairs plus one possible mislabeled-answer bug (tautonym vs. reduplication) to CLAUDE.md backlog."
     },
     {
       "chunkId": "general-p1-003",
@@ -8888,11 +8888,11 @@
         "general-3062",
         "general-3063"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-09",
+      "completedAt": "2026-08-09",
+      "issuesFound": 4,
+      "notes": "Fixed general-3009: Spooner's Warden-of-New-College tenure was wrongly given as his birth/death years (1844-1930) instead of his actual 1903-1924 wardenship, WebSearch-confirmed. Cut 3 duplicates: general-3811 (dup of already-reviewed general-3574, zugzwang, reversed direction), general-3017 (near-verbatim dup of already-reviewed general-3296, great gross = 1728), general-1276 (in-chunk dup of general-2596, anagram definition -- kept 2596's cleaner wording). Logged 4 new same-answer duplicate pairs to CLAUDE.md backlog, left uncut (unreviewed siblings)."
     },
     {
       "chunkId": "general-p1-004",

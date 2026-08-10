@@ -636,6 +636,45 @@ Open items for a future dedicated pass:
   history" → Jack Nicklaus) is pinned to "as of the mid-2020s" but was
   never re-verified against a live source — confirm before treating it
   as settled.
+- **Palindrome-definition 4-way cluster** (found during `general-p1-000`,
+  2026-08-09): `general-736`, `general-1251`, `general-2314`, and
+  `general-2708` all ask "what is the term for a word that reads the
+  same forwards and backwards" with only superficial rewording, all
+  answering "Palindrome." Same group-size-cap gap as the Magellan
+  cluster above — needs a manual pick of the best-worded survivor in a
+  future dedicated pass.
+- `general-3067`/`general-4477` (bridge grand-slam trick count vs. total
+  tricks in a bridge hand — both 13, essentially the same underlying
+  fact from two framings) found during `general-p1-000` — left uncut
+  since neither is reviewed yet.
+- Four more same-answer/near-duplicate pairs found during `general-p1-001`
+  (2026-08-09), all left uncut (neither sibling reviewed yet):
+  `general-3478`/`arts-literature-894` (kenning, the "whale-road"
+  example — a cross-category duplicate straddling `general` and
+  `arts-literature`), `general-3481`/`general-4096` (litotes, "not bad"
+  understatement), `general-3489`/`general-4094` (shibboleth
+  definition), `general-3497`/`general-3951` (UK beer firkin = 9
+  imperial gallons).
+- More same-answer pairs found during `general-p1-002` (2026-08-09), left
+  uncut (neither sibling reviewed yet): `general-3649`/`general-4070`
+  (dagger † symbol name), `general-3650`/`general-4071` (double dagger ‡
+  symbol name), `general-3684`/`general-4041` (bushel = 4 pecks). Also
+  flagged for future verification, not just dedup: `general-3660`
+  (biological tautonym, Gorilla gorilla) shares its answer text
+  "Tautonym" with `general-3963` ("bonbon") and `general-4093`
+  ("murmur"/"tartar") — those two look like they're actually asking about
+  linguistic reduplication (a different, unrelated concept usually called
+  "reduplicative"), not genus/species tautonyms, so this may be a
+  mislabeled-answer bug in `general-3963`/`4093` rather than a true
+  same-answer duplicate. Needs a read (and possibly WebSearch) when
+  either of those IDs' chunk comes up.
+- More same-answer pairs found during `general-p1-003` (2026-08-09), left
+  uncut (neither sibling reviewed yet): `general-1253`/`general-1751`
+  (homophones definition), `general-3005`/`arts-literature-897`
+  (spoonerism, cross-category), `general-3006`/`arts-literature-896`
+  (malapropism, cross-category), `general-3062`/`general-3192` (Full
+  House's position in the poker hand-ranking hierarchy, described via
+  two different specific relationships but the same underlying fact).
 - The 12 categories split out of `general` don't have `data/topics.json`
   entries yet, so `analyze.js`/`find-gaps.js` report "no topic list
   configured" for them. Category-level question counts (`npm run
