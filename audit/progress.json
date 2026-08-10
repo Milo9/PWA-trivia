@@ -8605,11 +8605,11 @@
         "friends-551",
         "friends-553"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-09",
+      "completedAt": "2026-08-09",
+      "issuesFound": 2,
+      "notes": "46 reviewable questions (4 IDs already removed by prior dedup) reviewed. Cut 2 cross-chunk duplicates of already-reviewed friends-p1-013 originals per the already-reviewed-sibling policy: friends-248 (dup of friends-082, Emily Waltham British nationality) and friends-258 (dup of friends-018, Central Perk orange couch). Everything else verified accurate, incl. WebSearch checks on Cole Sprouse being the sole Sprouse twin to play Ben Geller and the lobster-metaphor line's original Ross/Rachel context. Two new same-answer duplicate pairs logged to CLAUDE.md backlog: friends-553/977 (Cole Sprouse as young/teen Ben) and friends-201/927 (Janice's catchphrase)."
     },
     {
       "chunkId": "friends-p1-015",
@@ -8644,11 +8644,11 @@
         "friends-711",
         "friends-749"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-09",
+      "completedAt": "2026-08-09",
+      "issuesFound": 3,
+      "notes": "26 reviewable questions (2 IDs already removed) reviewed. Cut 3 cross-chunk duplicates of already-reviewed originals per the already-reviewed-sibling policy: friends-570 (dup of friends-059, Rachel/Ralph Lauren, flagged in advance by the p1-013 note), friends-586 (dup of friends-127, actor playing Jack Geller), friends-749 (dup of friends-266, 2021 reunion special title). Everything else verified accurate. One new same-answer pair logged to CLAUDE.md backlog (both unreviewed): friends-600/952 (Joey's How you doin catchphrase)."
     },
     {
       "chunkId": "general-p1-000",
@@ -8705,8 +8705,8 @@
         "general-3324",
         "general-3325"
       ],
-      "status": "pending",
-      "startedAt": null,
+      "status": "in-progress",
+      "startedAt": "2026-08-09",
       "completedAt": null,
       "issuesFound": null,
       "notes": null

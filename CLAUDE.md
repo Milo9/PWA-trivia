@@ -879,6 +879,34 @@ Open items for a future dedicated pass:
   cut the newly-encountered side immediately as a dup of this
   already-reviewed `friends-p1-013` chunk, per the
   already-reviewed-sibling policy above, rather than re-logging them.
+- **Chunk `friends-p1-014` (2026-08-09, IDs friends-153 through
+  friends-553, 4 IDs already removed by earlier dedup)**: cut two
+  cross-chunk duplicates flagged in advance by the `friends-p1-013`
+  note above -- `friends-248` (dup of already-reviewed `friends-082`,
+  Emily Waltham's British nationality) and `friends-258` (dup of
+  already-reviewed `friends-018`, Central Perk's orange couch) -- per
+  the already-reviewed-sibling policy. `friends-059`/`friends-570`
+  (Rachel and Ralph Lauren), the third pair `friends-p1-013` flagged,
+  is still pending since neither ID fell in this chunk. Every other
+  question checked out factually clean, including two verified via
+  WebSearch (Cole Sprouse was the only Sprouse twin cast as Ben
+  Geller -- Dylan never played the role -- and Phoebe's "lobster"
+  soulmate line originally refers to Ross and Rachel, from 'The One
+  with the Prom Video'). Two new same-answer duplicate pairs surfaced,
+  left uncut per the both-unreviewed policy: `friends-553`/`friends-977`
+  (Cole Sprouse plays Ben Geller as both young child and teen) and
+  `friends-201`/`friends-927` (Janice's "Oh. My. God." catchphrase).
+- **Chunk `friends-p1-015` (2026-08-09, IDs friends-555 through
+  friends-749, 2 IDs already removed by earlier dedup)**: cut three
+  cross-chunk duplicates of already-reviewed originals per the
+  already-reviewed-sibling policy -- `friends-570` (dup of
+  `friends-059`, Rachel working for Ralph Lauren -- this pair was
+  flagged in advance by the `friends-p1-013` note above), `friends-586`
+  (dup of `friends-127`, actor playing Jack Geller), and `friends-749`
+  (dup of `friends-266`, the 2021 HBO Max reunion special's title).
+  Everything else verified accurate. One new same-answer pair surfaced,
+  left uncut per the both-unreviewed policy: `friends-600`/`friends-952`
+  (Joey's "How you doin'?" catchphrase).
 
 ## Memory-only drafting exhausts per category
 
