@@ -9376,11 +9376,11 @@
         "general-3045",
         "general-3046"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-11",
+      "completedAt": "2026-08-11",
+      "issuesFound": 2,
+      "notes": "Cut 2 in-chunk duplicates (general-1275 dup of general-2742 blackjack; general-1751 dup of general-3014 homophone). Logged 10 backlog notes for orphan siblings found via same-answer index (palindrome x3, score x2, horse-height-hand x2, Monopoly jail fine, Scrabble board size) pointing to this chunk's survivors. All other facts/distractors verified accurate."
     },
     {
       "chunkId": "general-p1-012",
@@ -9437,11 +9437,11 @@
         "general-3158",
         "general-3164"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-11",
+      "completedAt": "2026-08-11",
+      "issuesFound": 1,
+      "notes": "Cut general-3146 (reversed-direction duplicate of already-done general-2980, both 'blue+yellow=green' pigment fact). Logged 7 backlog notes for orphan siblings found via same-answer index (checkers pieces, Battleship ships, face-card count, cards-per-suit, Monopoly board spaces x2, Scrabble rack size) pointing to this chunk's survivors. All other facts/distractors verified accurate."
     },
     {
       "chunkId": "general-p1-013",
@@ -9498,11 +9498,11 @@
         "general-3275",
         "general-3277"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-11",
+      "completedAt": "2026-08-11",
+      "issuesFound": 9,
+      "notes": "Cut 4 orphan-sibling dups flagged by auto-print (general-3174 checkers pieces, general-3175 Monopoly spaces, general-3188 Scrabble board size, general-3193 Battleship ships - all already done in p1-012). Cut general-3166 (in-chunk dup of general-3275, Texas Hold'em community-card count). Manual read caught 4 more reworded dups whose already-done siblings the auto-index missed on differing phrasing: general-3190 (raining cats and dogs, dup of general-2987), general-3217 (gross=12 dozen, dup of general-3016), general-3270 (knot=nautical mph, dup of general-3031), and a reversed-direction pair general-3211/general-3423 (let cat out of bag) plus general-3194/general-3589 (Jenga) resolved by keeping the in-chunk survivor. Logged 11 backlog notes total for orphan siblings pointing back to this chunk's survivors. Remaining facts/distractors verified accurate."
     },
     {
       "chunkId": "general-p1-014",

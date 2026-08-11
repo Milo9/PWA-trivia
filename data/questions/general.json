@@ -156,19 +156,6 @@
     "answer": "Top"
   },
   {
-    "id": "general-1275",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "Which card game is often played to 21 and involves trying to beat the dealer without going over?",
-    "options": [
-      "Blackjack",
-      "Poker",
-      "Baccarat",
-      "Bridge"
-    ],
-    "answer": "Blackjack"
-  },
-  {
     "id": "general-1277",
     "category": "general",
     "difficulty": "medium",
@@ -206,19 +193,6 @@
       "Proverb"
     ],
     "answer": "Idiom"
-  },
-  {
-    "id": "general-1751",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "What is the term for two words that sound the same but have different meanings, like 'flower' and 'flour'?",
-    "options": [
-      "Synonyms",
-      "Homographs",
-      "Antonyms",
-      "Homophones"
-    ],
-    "answer": "Homophones"
   },
   {
     "id": "general-1752",
@@ -2717,19 +2691,6 @@
     "answer": "Ski mask covering head and face"
   },
   {
-    "id": "general-3146",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "In traditional color mixing, what two colors make green?",
-    "options": [
-      "Black and white",
-      "Blue and yellow",
-      "Red and blue",
-      "Red and yellow"
-    ],
-    "answer": "Blue and yellow"
-  },
-  {
     "id": "general-3147",
     "category": "general",
     "difficulty": "hard",
@@ -2977,19 +2938,6 @@
     "id": "general-3165"
   },
   {
-    "difficulty": "easy",
-    "category": "general",
-    "question": "In Texas Hold'em, how many shared board cards are revealed overall?",
-    "options": [
-      "6",
-      "4",
-      "7",
-      "5"
-    ],
-    "answer": "5",
-    "id": "general-3166"
-  },
-  {
     "difficulty": "medium",
     "category": "general",
     "question": "Counting Jacks, Queens and Kings, how many face cards are in a standard deck?",
@@ -3079,32 +3027,6 @@
     ],
     "answer": "contronym",
     "id": "general-3173"
-  },
-  {
-    "difficulty": "easy",
-    "category": "general",
-    "question": "How many playing pieces does each player start with in Checkers?",
-    "options": [
-      "8",
-      "10",
-      "12",
-      "16"
-    ],
-    "answer": "12",
-    "id": "general-3174"
-  },
-  {
-    "difficulty": "easy",
-    "category": "general",
-    "question": "How many spaces make up the full loop of a classic Monopoly board?",
-    "options": [
-      "40",
-      "36",
-      "50",
-      "28"
-    ],
-    "answer": "40",
-    "id": "general-3175"
   },
   {
     "difficulty": "medium",
@@ -3263,19 +3185,6 @@
     "id": "general-3187"
   },
   {
-    "difficulty": "easy",
-    "category": "general",
-    "question": "What is the size of the Scrabble playing board grid?",
-    "options": [
-      "15x15",
-      "13x13",
-      "17x17",
-      "20x20"
-    ],
-    "answer": "15x15",
-    "id": "general-3188"
-  },
-  {
     "difficulty": "medium",
     "category": "general",
     "question": "Which of these tokens was part of the original 1935 Monopoly set?",
@@ -3289,19 +3198,6 @@
     "id": "general-3189"
   },
   {
-    "difficulty": "easy",
-    "category": "general",
-    "question": "What does the idiom 'raining cats and dogs' mean?",
-    "options": [
-      "Raining very heavily",
-      "Raining lightly",
-      "Snowing",
-      "Windy and dry"
-    ],
-    "answer": "Raining very heavily",
-    "id": "general-3190"
-  },
-  {
     "difficulty": "medium",
     "category": "general",
     "question": "What is the official term for a rebus-style word puzzle where words are arranged to suggest a phrase?",
@@ -3313,19 +3209,6 @@
     ],
     "answer": "Dingbat / Wacky Wordie",
     "id": "general-3191"
-  },
-  {
-    "difficulty": "easy",
-    "category": "general",
-    "question": "In classic Battleship, how many ships does each player hide?",
-    "options": [
-      "5",
-      "6",
-      "4",
-      "7"
-    ],
-    "answer": "5",
-    "id": "general-3193"
   },
   {
     "difficulty": "easy",
@@ -3599,19 +3482,6 @@
     ],
     "answer": "50",
     "id": "general-3216"
-  },
-  {
-    "difficulty": "easy",
-    "category": "general",
-    "question": "What does a 'gross' equal in counting?",
-    "options": [
-      "12 dozen",
-      "10 dozen",
-      "13",
-      "100"
-    ],
-    "answer": "12 dozen",
-    "id": "general-3217"
   },
   {
     "difficulty": "medium",
@@ -4275,19 +4145,6 @@
     ],
     "answer": "Mr. Boddy",
     "id": "general-3269"
-  },
-  {
-    "difficulty": "easy",
-    "category": "general",
-    "question": "What does a knot measure as a unit?",
-    "options": [
-      "One nautical mile per hour",
-      "One statute mile per hour",
-      "One kilometer per hour",
-      "One meter per second"
-    ],
-    "answer": "One nautical mile per hour",
-    "id": "general-3270"
   },
   {
     "difficulty": "medium",
