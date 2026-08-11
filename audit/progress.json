@@ -9254,11 +9254,11 @@
         "general-3712",
         "general-3713"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-11",
+      "completedAt": "2026-08-11",
+      "issuesFound": 0,
+      "notes": "Board/card game rules + symbol/typography names, all 50 verified accurate (WebSearch confirmed jigger=1.5oz, Pandemic=48 cities). No fixes/cuts. 5 new same-answer pairs logged to CLAUDE.md backlog (octothorpe, solidus, backslash, section sign, and a 3-way carat=200mg cluster), all uncut since siblings unreviewed."
     },
     {
       "chunkId": "general-p1-010",

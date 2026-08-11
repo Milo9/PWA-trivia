@@ -754,6 +754,22 @@ Open items for a future dedicated pass:
   (Carcassonne named directly vs. "which game introduced the term
   'meeple' in 2000" — both about Carcassonne's meeples, close enough to
   flag though phrased as different specific facts).
+- Chunk `general-p1-009` (2026-08-11, board/card game rules + symbol
+  and typography names): every question verified accurate (WebSearch
+  confirmed the standard jigger is 1.5 fl oz and standard Pandemic has
+  48 cities; the "/" solidus-vs-virgule question was left as-is despite
+  some real ambiguity between typography sources, since Unicode's own
+  standard officially names the U+002F character "solidus," making it
+  the more authoritative answer). Zero fixes/cuts. Five new same-answer
+  pairs surfaced, all left uncut per the both-unreviewed policy:
+  `general-3637`/`general-3938` (octothorpe, "#"), `general-3638`/
+  `general-4082` (solidus, "/"), `general-3639`/`general-4084`
+  (backslash, "\"), `general-3651`/`general-4069` (section sign, "§"),
+  and a 3-way cluster `general-3678`/`general-4055`/`general-4236`
+  (carat = 200 milligrams) — the latter is exactly the
+  independently-drafted-3+-times gap the group-size-cap note above
+  describes, worth a manual pick of the best-worded survivor whenever
+  any of the three's chunk comes up.
 - The 12 categories split out of `general` don't have `data/topics.json`
   entries yet, so `analyze.js`/`find-gaps.js` report "no topic list
   configured" for them. Category-level question counts (`npm run
