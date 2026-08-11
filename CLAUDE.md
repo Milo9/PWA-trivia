@@ -730,6 +730,30 @@ Open items for a future dedicated pass:
   `general-3480`/`general-4097` (chiasmus, reversed direction),
   `general-3492`/`general-3948` (synecdoche "wheels"=car, reversed
   direction).
+- Chunk `general-p1-008` (2026-08-11, idiom origins + board/card game
+  rules): fixed a misspelled distractor name, `general-3521`'s "Robert
+  Gascoyne-Cecel" → "Robert Gascoyne-Cecil". Fixed `general-3526`
+  ("jump on the bandwagon" origin) — WebSearch showed the phrase's
+  origin is credited to circus performer Dan Rice transporting
+  politicians on his circus wagon in 1848, and P.T. Barnum, despite
+  popularizing the word "bandwagon" in his own memoir, wasn't
+  responsible for the phrase itself; reworded the question/answer from
+  the specific-person framing ("P.T. Barnum's circus") to the general,
+  defensible "Traveling circus parade wagons" rather than naming the
+  wrong specific person. Cut `general-3549` ("throw caution to the
+  wind" nautical origin) — WebSearch found this specific nautical
+  explanation explicitly described as unconfirmed speculation, not an
+  established etymology like the batch's other idiom-origin questions.
+  Cut `general-3568` ("cheapest Monopoly property" → Mediterranean
+  Avenue) for a genuine tie: Mediterranean Avenue and Baltic Avenue are
+  both $60 on the standard US board, and Baltic Avenue was offered as a
+  distractor option — same class of bug as `general-p1-006`'s Mexican
+  Train and `general-p1-007`'s checkers cuts (the option set doesn't
+  uniquely determine an answer). New same-answer pair left uncut
+  (neither sibling reviewed yet): `general-3578`/`general-3965`
+  (Carcassonne named directly vs. "which game introduced the term
+  'meeple' in 2000" — both about Carcassonne's meeples, close enough to
+  flag though phrased as different specific facts).
 - The 12 categories split out of `general` don't have `data/topics.json`
   entries yet, so `analyze.js`/`find-gaps.js` report "no topic list
   configured" for them. Category-level question counts (`npm run

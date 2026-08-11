@@ -9193,11 +9193,11 @@
         "general-3594",
         "general-3595"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-11",
+      "completedAt": "2026-08-11",
+      "issuesFound": 4,
+      "notes": "Fixed typo Gascoyne-Cecel->Cecil (3521); fixed misattribution of jump-on-the-bandwagon origin from P.T. Barnum specifically to circus parade wagons generally, per WebSearch showing Barnum wasn't the phrase's originator (3526); cut 3549 (throw caution to the wind nautical origin - WebSearch confirms this is unconfirmed speculation, not an established etymology); cut 3568 (Monopoly cheapest property - Mediterranean and Baltic Avenue are both $60, a genuine tie, not a unique answer). Rest of chunk (idiom origins, board/card game rules) verified accurate."
     },
     {
       "chunkId": "general-p1-009",
