@@ -9315,11 +9315,11 @@
         "general-988",
         "general-1273"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-11",
+      "completedAt": "2026-08-11",
+      "issuesFound": 4,
+      "notes": "D&D dice, idiom origins/meanings, eponyms, board/card game terms. Cut 4 cross-chunk duplicates of already-reviewed general-p1-008 questions (bury the hatchet, throw-in-the-towel boxing mechanism, barking up the wrong tree, caught red-handed). Rest verified accurate. Logged a 3rd throw-in-the-towel sibling (general-3731, outside this chunk) and 4 NATO-alphabet + 1 Monopoly same-answer pairs to CLAUDE.md backlog."
     },
     {
       "chunkId": "general-p1-011",

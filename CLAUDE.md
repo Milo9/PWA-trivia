@@ -770,6 +770,35 @@ Open items for a future dedicated pass:
   independently-drafted-3+-times gap the group-size-cap note above
   describes, worth a manual pick of the best-worded survivor whenever
   any of the three's chunk comes up.
+- Chunk `general-p1-010` (2026-08-11, D&D dice, idiom origins/meanings,
+  eponyms, board/card game terms): cut 4 cross-chunk duplicates of
+  questions already reviewed/fixed in `general-p1-008`, per the
+  already-reviewed-sibling policy — `general-3732` (bury the hatchet,
+  dup of `general-3527`), `general-3767` (throw in the towel's boxing
+  mechanism, dup of `general-3530`'s "which sport does it originate
+  from" — judged close enough to count, same idiom just more granular),
+  `general-3791` (barking up the wrong tree, dup of `general-3537`),
+  `general-3820` (caught red-handed, dup of `general-3520`). Found a
+  3rd sibling in this same "throw in the towel" cluster,
+  `general-3731` ("what does 'throw in the towel' mean and where does
+  it originate?" → boxing corner throwing towel to concede) — it's a
+  duplicate of both `general-3530` and the just-cut `general-3767`, but
+  it isn't part of this chunk (a different, not-yet-reached chunk owns
+  it) so it was left untouched; the same-answer tool never flagged it
+  because all three questions use different literal answer text for
+  the same fact. Whoever's chunk includes `general-3731` should cut it
+  as an already-reviewed-sibling duplicate. Everything else in the
+  chunk verified accurate. Four new same-answer NATO-alphabet pairs
+  surfaced, all left uncut (siblings unreviewed): `general-3785`/
+  `general-4288` (Q=Quebec), `general-3786`/`general-4296` (Y=Yankee),
+  `general-3787`/`general-4294` (W=Whiskey), `general-3788`/
+  `general-4284` (L=Lima) — worth checking whether the whole NATO
+  alphabet got redrafted letter-by-letter twice across two sessions,
+  same pattern as the Trivial Pursuit color and Catan resource question
+  sets. Also left uncut (sibling unreviewed): `general-1273`/
+  `general-2738`, two different clue-framings ("board game with
+  Boardwalk and Park Place" vs. "board game invented by Elizabeth Magie
+  as The Landlord's Game") both identifying Monopoly.
 - The 12 categories split out of `general` don't have `data/topics.json`
   entries yet, so `analyze.js`/`find-gaps.js` report "no topic list
   configured" for them. Category-level question counts (`npm run
