@@ -22,6 +22,9 @@
 //   node scripts/audit.js complete <chunkId> [--issues=N] [--notes="..."]
 //   node scripts/audit.js reset <chunkId>
 //   node scripts/audit.js new-pass [--chunk-size=50] [--full]
+//   node scripts/audit.js note <id> "<note>" [--remove]
+//   node scripts/audit.js backlog
+//   node scripts/audit.js append-orphans [--chunk-size=50]
 
 const fs = require("fs");
 const path = require("path");
@@ -33,6 +36,7 @@ const CATEGORIES_FILE = path.join(DATA_DIR, "categories.json");
 const AUDIT_DIR = path.join(ROOT, "audit");
 const PROGRESS_FILE = path.join(AUDIT_DIR, "progress.json");
 const HISTORY_DIR = path.join(AUDIT_DIR, "history");
+const BACKLOG_FILE = path.join(AUDIT_DIR, "backlog.json");
 
 const DEFAULT_CHUNK_SIZE = 50;
 // Front-load the riskiest content within each category's chunk sequence:
@@ -45,6 +49,14 @@ const DIFFICULTY_RANK = { hard: 0, medium: 1, easy: 2 };
 // against a handful of genuinely generic answers (colors, round numbers)
 // flooding a chunk's output if the length floor alone doesn't filter them.
 const MAX_ANSWER_MATCHES_SHOWN = 5;
+// Answer-leak-via-option-length heuristic (CLAUDE.md "Answer-leak via
+// option-length/format, not text"): the correct option is a full sentence
+// while distractors are short names/phrases, so the answer is visually
+// identifiable without any content knowledge. Thresholds copied from the
+// tuned one-off grep in CLAUDE.md that found ~100+ corpus candidates this
+// way — noisy in isolation, so treat every hit as a lead, not a verdict.
+const ANSWER_LEAK_MAX_DISTRACTOR_LENGTH = 22;
+const ANSWER_LEAK_MIN_ANSWER_LENGTH = 45;
 
 function todayIso() {
   const d = new Date();
@@ -71,6 +83,25 @@ function loadProgress() {
 function saveProgress(progress) {
   fs.mkdirSync(AUDIT_DIR, { recursive: true });
   fs.writeFileSync(PROGRESS_FILE, JSON.stringify(progress, null, 2) + "\n");
+}
+
+// id -> note. Holds things a chunk review found that can't be resolved on
+// the spot (a duplicate whose sibling hasn't been reviewed yet, a fix that
+// still needs applying) — previously only recorded as CLAUDE.md prose,
+// which depends on a future session re-reading it at the right moment.
+// `next` prints an id's note inline whenever that id appears in a chunk;
+// `backlog` lists every entry regardless of chunk status, since an id whose
+// chunk is already `done` will never be handed out by `next` again.
+function loadBacklog() {
+  if (!fs.existsSync(BACKLOG_FILE)) return {};
+  return JSON.parse(fs.readFileSync(BACKLOG_FILE, "utf8"));
+}
+
+function saveBacklog(backlog) {
+  fs.mkdirSync(AUDIT_DIR, { recursive: true });
+  const sorted = {};
+  for (const id of Object.keys(backlog).sort()) sorted[id] = backlog[id];
+  fs.writeFileSync(BACKLOG_FILE, JSON.stringify(sorted, null, 2) + "\n");
 }
 
 function parseFlags(argv) {
@@ -152,6 +183,30 @@ function buildManifest(pass, chunkSize, reviewedIds = new Set()) {
     excludedAlreadyReviewed,
     chunks,
   };
+}
+
+// Orphans: corpus ids that belong to no chunk in the CURRENT pass (any
+// status — pending, in-progress, or done) and were never part of a `done`
+// chunk in an archived pass either. This happens when a question is added
+// to data/ after that category's pass manifest was frozen at init/new-pass
+// time — see CLAUDE.md "Structural gaps in the audit passes". No `next`
+// call will ever surface these on its own.
+function computeOrphans(progress) {
+  const categories = loadCategories();
+  const reviewedIds = buildReviewedIdSet();
+  const chunkIds = new Set();
+  for (const c of progress.chunks) for (const id of c.ids) chunkIds.add(id);
+
+  const byCategory = new Map();
+  let total = 0;
+  for (const cat of categories) {
+    const orphanQs = loadCategoryQuestions(cat).filter(
+      (q) => !chunkIds.has(q.id) && !reviewedIds.has(q.id)
+    );
+    if (orphanQs.length > 0) byCategory.set(cat.id, orphanQs);
+    total += orphanQs.length;
+  }
+  return { total, byCategory };
 }
 
 function cmdInit(flags) {
@@ -249,11 +304,28 @@ function printStatus(progress) {
     );
   }
 
+  // Computed (and printed, below) before the empty-chunks early return: a
+  // pass with 0 remaining chunks is exactly the state where a user is most
+  // likely to add new questions next, which is exactly what creates
+  // orphans — so this is the one status view that must not skip it.
+  const orphans = computeOrphans(progress);
+  const printOrphans = () => {
+    if (orphans.total === 0) return;
+    console.log(
+      `\n${orphans.total} corpus question(s) are in no chunk of this pass and were never reviewed in ` +
+        `a prior pass (added after this pass was initialized) — run "append-orphans" to fold them in.`
+    );
+    for (const [category, qs] of orphans.byCategory) {
+      console.log(`  ${category.padEnd(24)} ${qs.length} orphan(s)`);
+    }
+  };
+
   if (progress.chunks.length === 0) {
     console.log(
       `\nNothing to review this pass — every question was already covered by a previous pass. ` +
         `Add more questions, or run "new-pass --full" to force a complete re-audit.`
     );
+    printOrphans();
     return;
   }
 
@@ -262,6 +334,8 @@ function printStatus(progress) {
   if (totalDone === progress.chunks.length) {
     console.log(`Pass ${progress.pass} is complete — run "new-pass" to start pass ${progress.pass + 1}.`);
   }
+
+  printOrphans();
 }
 
 function cmdStatus() {
@@ -281,7 +355,32 @@ function formatQuestionLine(q) {
   return `${q.id} [${q.difficulty}] Q: ${q.question}  OPTIONS: ${opts}`;
 }
 
-// Whole-corpus index keyed by normalized answer, no group-size cap and no
+// Same normalization validate.js uses (article/honorific stripping), plus
+// one extra step specific to this audit index: strip a single trailing "s"
+// (but not off a double-s ending like "glass") so a trivial singular/plural
+// mismatch doesn't hide an otherwise-identical answer from the check.
+// Confirmed 2026-08-07: "Public goods" (civics-law-economics-081) vs.
+// "Public good" (civics-law-economics-216) are the same fact but never
+// matched. Deliberately kept local to audit.js rather than changed in
+// validate.js's own normalizeAnswer — that function is calibrated for a
+// whole-corpus check with a group-size cap and overlap floor, where a looser
+// key would reintroduce generic-entity noise; this index has neither cap
+// (see below), so it can afford to be looser.
+// Routing (global vs. per-category) is decided on the PRE-strip length, not
+// the stripped key's length — an exactly-6-char answer ending in a
+// strippable "s" ("Athens", "Naples") would otherwise drop from 6 to 5
+// chars and get silently demoted from whole-corpus to per-category
+// matching, losing legitimate cross-category matches (e.g. "Athens" in
+// `geography` vs. `history`). buildAnswerIndexes and printAnswerMatches
+// both call this and must route the same way, or a question's own lookup
+// won't agree with how it was indexed.
+function auditAnswerKey(text) {
+  const base = normalizeAnswer(text);
+  const key = base.replace(/(?<!s)s$/, "");
+  return { key, isShort: base.length < MIN_ANSWER_DUPLICATE_LENGTH };
+}
+
+// Whole-corpus index keyed by the answer key above, no group-size cap and no
 // text-overlap floor — deliberately looser than validate.js's own same-answer
 // check (MAX_ANSWER_GROUP_SIZE / SAME_ANSWER_MIN_OVERLAP), which is calibrated
 // to suppress noise across the WHOLE corpus and, as a documented side effect,
@@ -296,33 +395,69 @@ function formatQuestionLine(q) {
 // reversed-direction or semantically-same-fact-different-wording duplicates
 // (e.g. "Radial sesamoid" vs "An enlarged wrist bone") — those need the
 // reviewing session's own judgment, same as always.
-function buildGlobalAnswerIndex() {
+//
+// Answers shorter than MIN_ANSWER_DUPLICATE_LENGTH are excluded from the
+// global index (too generic whole-corpus — "Lima", "Ross", "5" would flood
+// it with coincidental matches) but are still worth matching WITHIN a single
+// category, where the false-positive rate is much lower. Those go in a
+// separate per-category index instead of being dropped entirely (confirmed
+// 2026-08-11: several backlog pairs — general-3788/general-4284 "Lima",
+// friends-116/friends-227 "Ross" — exist only because the whole-corpus floor
+// hid them).
+function buildAnswerIndexes() {
   const categories = loadCategories();
-  const index = new Map();
+  const global = new Map();
+  const shortByCategory = new Map();
   for (const cat of categories) {
     for (const q of loadCategoryQuestions(cat)) {
       if (typeof q.answer !== "string") continue;
-      const key = normalizeAnswer(q.answer);
-      if (!key || key.length < MIN_ANSWER_DUPLICATE_LENGTH) continue;
-      if (!index.has(key)) index.set(key, []);
-      index.get(key).push(q);
+      const { key, isShort } = auditAnswerKey(q.answer);
+      if (!key) continue;
+      if (!isShort) {
+        if (!global.has(key)) global.set(key, []);
+        global.get(key).push(q);
+      } else {
+        const shortKey = `${q.category}::${key}`;
+        if (!shortByCategory.has(shortKey)) shortByCategory.set(shortKey, []);
+        shortByCategory.get(shortKey).push(q);
+      }
     }
   }
-  return index;
+  return { global, shortByCategory };
 }
 
-function printAnswerMatches(q, answerIndex) {
+function printAnswerMatches(q, indexes) {
   if (!q || typeof q.answer !== "string") return;
-  const key = normalizeAnswer(q.answer);
-  if (!key || key.length < MIN_ANSWER_DUPLICATE_LENGTH) return;
-  const group = (answerIndex.get(key) || []).filter((other) => other.id !== q.id);
-  if (group.length === 0) return;
-  const shown = group.slice(0, MAX_ANSWER_MATCHES_SHOWN);
+  const { key, isShort } = auditAnswerKey(q.answer);
+  if (!key) return;
+  const group = isShort
+    ? indexes.shortByCategory.get(`${q.category}::${key}`) || []
+    : indexes.global.get(key) || [];
+  const others = group.filter((other) => other.id !== q.id);
+  if (others.length === 0) return;
+  const shown = others.slice(0, MAX_ANSWER_MATCHES_SHOWN);
   for (const other of shown) {
     console.log(`    ^ same answer also used by ${other.id}: "${other.question}"`);
   }
-  if (group.length > shown.length) {
-    console.log(`    ^ ...and ${group.length - shown.length} more with the same answer (likely a generic/common one).`);
+  if (others.length > shown.length) {
+    console.log(`    ^ ...and ${others.length - shown.length} more with the same answer (likely a generic/common one).`);
+  }
+}
+
+// CLAUDE.md "Answer-leak via option-length/format, not text": the correct
+// option reads as a full sentence while the distractors are short
+// names/phrases, so the answer is identifiable from formatting alone. Prints
+// a lead, not a verdict — a long correct answer next to short-but-plausible
+// distractors isn't inherently wrong.
+function printAnswerLeakWarning(q) {
+  if (!q || !Array.isArray(q.options) || typeof q.answer !== "string") return;
+  const distractorLengths = q.options.filter((o) => o !== q.answer).map((o) => o.length);
+  if (distractorLengths.length === 0) return;
+  const maxDistractor = Math.max(...distractorLengths);
+  if (maxDistractor <= ANSWER_LEAK_MAX_DISTRACTOR_LENGTH && q.answer.length >= ANSWER_LEAK_MIN_ANSWER_LENGTH) {
+    console.log(
+      `    ! possible answer-leak: answer is ${q.answer.length} chars vs. longest distractor ${maxDistractor} chars`
+    );
   }
 }
 
@@ -358,7 +493,8 @@ function cmdNext(flags) {
   const picked = candidates.slice(0, n);
   const categories = loadCategories();
   const questionsByCategory = new Map();
-  const answerIndex = buildGlobalAnswerIndex();
+  const answerIndexes = buildAnswerIndexes();
+  const backlog = loadBacklog();
 
   for (const chunk of picked) {
     chunk.status = "in-progress";
@@ -378,7 +514,9 @@ function cmdNext(flags) {
       const line = formatQuestionLine(q);
       if (line) {
         console.log(line);
-        printAnswerMatches(q, answerIndex);
+        printAnswerMatches(q, answerIndexes);
+        printAnswerLeakWarning(q);
+        if (backlog[id]) console.log(`    ! BACKLOG: ${backlog[id]}`);
       } else {
         missing++;
       }
@@ -446,6 +584,87 @@ function cmdReset(chunkId) {
   console.log(`Reset ${chunkId} to pending.`);
 }
 
+function cmdNote(id, note, flags) {
+  if (!id || (!flags.remove && !note)) {
+    console.error('Usage: node scripts/audit.js note <id> "<note>"  (or --remove to delete an entry)');
+    process.exit(1);
+  }
+  const backlog = loadBacklog();
+  if (flags.remove) {
+    if (!(id in backlog)) {
+      console.error(`No backlog entry for "${id}".`);
+      process.exit(1);
+    }
+    delete backlog[id];
+    saveBacklog(backlog);
+    console.log(`Removed backlog entry for ${id}.`);
+    return;
+  }
+  backlog[id] = note;
+  saveBacklog(backlog);
+  console.log(`Saved backlog note for ${id}.`);
+}
+
+function cmdBacklog() {
+  const backlog = loadBacklog();
+  const ids = Object.keys(backlog);
+  if (ids.length === 0) {
+    console.log("Backlog is empty.");
+    return;
+  }
+  // Chunk status isn't loaded here to keep this command working even with
+  // no active pass — an id's chunk being "done" is exactly why it needs a
+  // manual look instead of relying on `next` to resurface it.
+  for (const id of ids) {
+    console.log(`${id}: ${backlog[id]}`);
+  }
+  console.log(`\n${ids.length} backlog entr${ids.length === 1 ? "y" : "ies"}.`);
+}
+
+function cmdAppendOrphans(flags) {
+  const progress = loadProgress();
+  if (!progress) {
+    console.error("No active audit pass.");
+    process.exit(1);
+  }
+  const { total, byCategory } = computeOrphans(progress);
+  if (total === 0) {
+    console.log("No orphaned questions to append.");
+    return;
+  }
+  const chunkSize = flags["chunk-size"] ? parseInt(flags["chunk-size"], 10) : progress.chunkSize;
+
+  let appended = 0;
+  for (const [category, qs] of byCategory) {
+    const sorted = qs
+      .slice()
+      .sort((a, b) => (DIFFICULTY_RANK[a.difficulty] ?? 1) - (DIFFICULTY_RANK[b.difficulty] ?? 1));
+    const existingCount = progress.chunks.filter((c) => c.category === category).length;
+    for (let i = 0; i < sorted.length; i += chunkSize) {
+      const slice = sorted.slice(i, i + chunkSize).map((q) => q.id);
+      const chunkIndex = String(existingCount + Math.floor(i / chunkSize)).padStart(3, "0");
+      progress.chunks.push({
+        chunkId: `${category}-p${progress.pass}-${chunkIndex}`,
+        category,
+        ids: slice,
+        status: "pending",
+        startedAt: null,
+        completedAt: null,
+        issuesFound: null,
+        notes: null,
+      });
+      appended += slice.length;
+    }
+  }
+  progress.totalQuestions += appended;
+  progress.totalCorpusQuestions = (progress.totalCorpusQuestions || 0) + appended;
+  saveProgress(progress);
+  console.log(
+    `Appended ${appended} orphaned question(s) across ${byCategory.size} categor${byCategory.size === 1 ? "y" : "ies"} as new pending chunks.`
+  );
+  printStatus(progress);
+}
+
 function main() {
   const [, , command, ...rest] = process.argv;
   const flags = parseFlags(rest);
@@ -470,6 +689,15 @@ function main() {
     case "reset":
       cmdReset(positional[0]);
       break;
+    case "note":
+      cmdNote(positional[0], positional[1], flags);
+      break;
+    case "backlog":
+      cmdBacklog();
+      break;
+    case "append-orphans":
+      cmdAppendOrphans(flags);
+      break;
     default:
       console.error(
         "Usage:\n" +
@@ -478,7 +706,10 @@ function main() {
           "  node scripts/audit.js next [--category=<id>] [--n=1]\n" +
           '  node scripts/audit.js complete <chunkId> [--issues=N] [--notes="..."]\n' +
           "  node scripts/audit.js reset <chunkId>\n" +
-          "  node scripts/audit.js new-pass [--chunk-size=50] [--full]"
+          "  node scripts/audit.js new-pass [--chunk-size=50] [--full]\n" +
+          '  node scripts/audit.js note <id> "<note>" [--remove]\n' +
+          "  node scripts/audit.js backlog\n" +
+          "  node scripts/audit.js append-orphans [--chunk-size=50]"
       );
       process.exit(command ? 1 : 0);
   }

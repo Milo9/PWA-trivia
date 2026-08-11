@@ -224,6 +224,9 @@ node scripts/audit.js status                                    # progress so fa
 node scripts/audit.js next [--category=<id>] [--n=1]             # pull the next chunk(s) to review
 node scripts/audit.js complete <chunkId> --issues=N --notes="…"  # record what you found
 node scripts/audit.js new-pass [--full]                          # once every chunk is done, start a fresh pass
+node scripts/audit.js note <id> "…" [--remove]                   # park a note for an id next can't resolve on its own
+node scripts/audit.js backlog                                    # list every parked note, regardless of chunk status
+node scripts/audit.js append-orphans [--chunk-size=50]           # fold ids added since this pass started into new chunks
 ```
 
 Each chunk is ~50 questions (configurable via `--chunk-size` at `init`/
@@ -252,29 +255,59 @@ re-check is worth the effort again. `audit/` lives outside `data/`
 deliberately, so updating it doesn't bump the offline cache version the
 way editing anything under `data/` does.
 
+A pass's chunk manifest is frozen at `init`/`new-pass` time, so questions
+added to `data/` afterward (a new batch merged mid-pass) belong to no
+chunk at all — an "orphan." `status` reports the orphan count per category
+whenever there are any; `append-orphans` folds the current corpus's
+orphans into new pending chunks (same difficulty-first sort, same chunk
+size) so they eventually get reviewed instead of silently sitting outside
+every pass forever.
+
 To actually review a chunk: read every question `next` prints (each line
 is `id [difficulty] Q: … OPTIONS: A:… | B:… | C:… | D:…` with `*` marking
 the stored answer) against the checklist in CLAUDE.md's "Factual-error
 patterns worth verifying" section — same checks used when vetting a new
-draft, just applied to content already in `data/`. `next` also prints a
-`^ same answer also used by <id>: "…"` line under any question whose
-exact answer text also appears elsewhere in the corpus (no threshold —
-treat every hit as a lead to check, not a verdict; see CLAUDE.md for why
-it's deliberately looser than `validate.js`'s own same-answer check, and
-for what it can't catch). Use judgment/memory first; reach for
-`WebSearch` only for genuinely uncertain or hard-difficulty specific
-claims, not every line. Fix anything wrong
-directly in `data/questions/<category>.json`, run `npm run validate`,
-then call `audit.js complete` for that chunk and move on to the next one
-— **`ship` only once at the end of the session**, after however many
-chunks got reviewed, same "ship once per batch of work, not per edit"
-rule as everywhere else in this repo (see CLAUDE.md). `audit.js complete`
-only edits `audit/progress.json` locally, so nothing about it requires
-shipping immediately; one `ship -- "…"` at the end picks up every fixed
-question plus every chunk's progress update together. If a chunk is too
-large to finish in one sitting, just stop — it stays `in-progress` and the next
-`node scripts/audit.js next` call re-surfaces the same chunk instead of
-skipping ahead.
+draft, just applied to content already in `data/`. `next` also prints:
+- `^ same answer also used by <id>: "…"` under any question whose answer
+  matches another elsewhere in the corpus (no threshold — treat every hit
+  as a lead, not an automatic verdict; see CLAUDE.md for why it's
+  deliberately looser than `validate.js`'s own same-answer check, and for
+  what it still can't catch — reversed-direction or same-fact-different-
+  wording duplicates need your own judgment regardless).
+- `! possible answer-leak: answer is N chars vs. longest distractor M
+  chars` when the correct option reads as a full sentence next to much
+  shorter distractors — see CLAUDE.md's "Answer-leak via option-
+  length/format" for why that alone can give the answer away.
+- `! BACKLOG: …` when the id has a parked note from `audit.js note` — see
+  below.
+
+Use judgment/memory first; reach for `WebSearch` only for genuinely
+uncertain or hard-difficulty specific claims, not every line. Fix
+anything wrong directly in `data/questions/<category>.json`, run `npm run
+validate`, then call `audit.js complete` for that chunk and move on to
+the next one — **`ship` only once at the end of the session**, after
+however many chunks got reviewed, same "ship once per batch of work, not
+per edit" rule as everywhere else in this repo (see CLAUDE.md).
+`audit.js complete` only edits `audit/progress.json` locally, so nothing
+about it requires shipping immediately; one `ship -- "…"` at the end
+picks up every fixed question plus every chunk's progress update
+together. If a chunk is too large to finish in one sitting, just stop —
+it stays `in-progress` and the next `node scripts/audit.js next` call
+re-surfaces the same chunk instead of skipping ahead.
+
+Some findings can't be resolved in the chunk where you found them — e.g.
+a duplicate whose sibling hasn't been reviewed yet, so cutting it now
+would mark an unreviewed question "handled" without ever actually
+reviewing it (see CLAUDE.md's "If a duplicate's sibling hasn't been
+reviewed yet" rule). `node scripts/audit.js note <id> "…"` parks a note
+for that id in `audit/backlog.json`; the next time `next` hands out a
+chunk containing that id, the note prints inline as `! BACKLOG: …` so
+there's no need to remember it or re-check CLAUDE.md prose. Because a
+chunk already marked `done` will never be handed out by `next` again,
+`node scripts/audit.js backlog` lists every parked note regardless of
+chunk status — the only way to see notes attached to already-`done` or
+orphaned ids, which need acting on directly rather than waiting for a
+future `next` call that will never come.
 
 ## Adding a new category
 

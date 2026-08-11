@@ -546,30 +546,52 @@ chunk:
   enough; confirmed 2026-08-05 on a real pair, "general-2907"/
   "animals-nature-163", both answering "A .22 caliber bullet" for the
   same mantis-shrimp fact, that scored only 0.22 question-text overlap
-  against a 0.55 floor). Treat every line it prints as a lead to check,
-  not an automatic verdict — most will be coincidental reuse of a common
-  answer (a country, a number), and it only catches *identical* answer
-  text, not a reversed-direction or same-fact-different-wording
-  duplicate (e.g. "Radial sesamoid" vs "An enlarged wrist bone" for the
-  same panda pseudothumb fact) — those still need your own judgment,
-  same as always.
+  against a 0.55 floor). The index also strips a trailing "s" before
+  matching (so "Public goods" vs. "Public good" matches — confirmed
+  2026-08-07 in civics-law-economics, see below) and, for answers under
+  the 6-character floor, matches within the same category instead of
+  dropping them entirely (so "Lima"/"Ross"/"5"-style short answers still
+  get checked, just scoped to one category to avoid whole-corpus noise).
+  Treat every line it prints as a lead to check, not an automatic
+  verdict — most will be coincidental reuse of a common answer (a
+  country, a number), and it only catches *identical* answer text (after
+  that normalization), not a reversed-direction or same-fact-different-
+  wording duplicate (e.g. "Radial sesamoid" vs "An enlarged wrist bone"
+  for the same panda pseudothumb fact) — those still need your own
+  judgment, same as always.
+- **`next` also auto-prints an answer-leak warning**
+  (`! possible answer-leak: answer is N chars vs. longest distractor M
+  chars`) when the correct option is much longer than every distractor —
+  see "Answer-leak via option-length/format" below for why that alone can
+  give the answer away. Same treat-as-a-lead caveat as above: a long
+  correct answer next to short-but-plausible distractors isn't
+  inherently wrong.
 - **If a duplicate's sibling hasn't been reviewed yet, leave it uncut and
-  log it in "Known backlog" below — don't cut it just because it looks
-  obviously redundant.** Cutting an unreviewed question marks it "no
-  longer exists" in `audit/progress.json` without ever actually
-  reviewing it, corrupting the pass's exhaustive-coverage guarantee.
-  **But only log pairs that can't resolve themselves.** The same-answer
-  auto-print above will automatically re-show a pair the next time
-  *either* sibling's own chunk is reached, as long as that sibling isn't
-  permanently unreachable — so most matching-answer-text pairs don't
-  need a manual note; they'll surface again on their own. Log a pair
-  only when: the answer text differs enough that the auto-print can't
-  match it (reversed direction, different wording), the matched answer
-  text is too short for the index (under 6 characters), or every
-  sibling has either already finished its chunk or belongs to no chunk
-  at all (an "orphan" — see "Known backlog" for what that means and how
-  to check it) — i.e. there's no future `next` call left that could ever
-  show the match again.
+  park a note with `node scripts/audit.js note <id> "…"` — don't cut it
+  just because it looks obviously redundant.** Cutting an unreviewed
+  question marks it "no longer exists" in `audit/progress.json` without
+  ever actually reviewing it, corrupting the pass's exhaustive-coverage
+  guarantee. The note lands in `audit/backlog.json` and `next` prints it
+  inline (`! BACKLOG: …`) whenever that id's chunk comes up again, so
+  there's no need to remember it or re-check this file. **But only log
+  pairs that can't resolve themselves.** The same-answer auto-print above
+  will automatically re-show a pair the next time *either* sibling's own
+  chunk is reached, as long as that sibling isn't permanently
+  unreachable — so most matching-answer-text pairs (including same-
+  category short answers now, per the index change above) don't need a
+  manual note; they'll surface again on their own. Log a pair only when:
+  the answer text differs enough that the auto-print can't match it
+  (reversed direction, different wording), the matched answer text is
+  short AND the pair straddles two different categories (the per-
+  category short-answer index above only catches same-category pairs),
+  or every sibling has either already finished its chunk or belongs to
+  no chunk at all (an "orphan" — see "Structural gaps" below for what
+  that means) — i.e. there's no future `next` call left that could ever
+  show the match again. Since a note attached to an already-`done` or
+  orphaned id will never surface via `next`, run
+  `node scripts/audit.js backlog` periodically (or whenever `status`
+  shows a category is fully done) to see everything parked that needs
+  acting on directly instead of waiting.
 - **Once one sibling of a duplicate pair has already been
   reviewed/fixed in an earlier chunk, the rule above doesn't apply —
   cut the newly-found duplicate immediately instead of logging it.**
@@ -650,7 +672,10 @@ resurface at the top of a future near-duplicate or same-answer sort:
 An **orphan** here means an ID that `audit/progress.json` has no chunk
 for at all — added to the file after that category's pass was
 initialized, so no `next` call will ever surface it (see "A pass's
-chunk membership is frozen" above). Check via `node -e "const p=
+chunk membership is frozen" above). `node scripts/audit.js status`
+reports the current orphan count per category; `node scripts/audit.js
+append-orphans` folds them into new pending chunks so they eventually get
+reviewed. To check a single id by hand: `node -e "const p=
 require('./audit/progress.json'); console.log(p.chunks.some(c=>
 c.ids.includes('<id>')))"`.
 
@@ -667,9 +692,10 @@ c.ids.includes('<id>')))"`.
   scattered through `general-3xxx`. The general pass itself is still
   active (7 of 18 chunks pending as of 2026-08-11), so most same-answer
   pairs found so far that involve only in-pass IDs will self-resolve
-  once the relevant chunk is reached without needing to be listed here
-  — see "Duplicate pairs that need explicit tracking" below for the
-  ones that won't. This pattern isn't `general`/`friends`-specific
+  once the relevant chunk is reached without needing to be logged
+  anywhere — see `audit/backlog.json` (via `node scripts/audit.js
+  backlog`) for the ones that won't. This pattern isn't `general`/
+  `friends`-specific
   either — e.g. `arts-literature-894`/`-896`/`-897` are also orphans —
   so treat "one sibling of a pair has no chunk at all" as a live
   possibility in any category.
@@ -684,75 +710,22 @@ c.ids.includes('<id>')))"`.
   duplicates. If a future pass revisits this range, budget extra
   WebSearch verification rather than defaulting to judgment/memory.
 - `friends-491`'s chunk (`friends-p1-009`) is marked `done`, but the fix
-  it needed was never applied: its premise ("Rachel discovers Ross
-  secretly used to do this as a kid") was flagged as an unverified,
-  possibly-fabricated detail and still reads that way in the shipped
-  data. Needs a fix/reword, not a cut — it's the only surviving question
-  covering this fact (the actual duplicate, `friends-039`, was already
-  cut in its favor).
+  it needed was never applied — see `audit/backlog.json` (run `node
+  scripts/audit.js backlog` — it's an "ACTION NOW" entry, since a `done`
+  chunk's ids are never handed out by `next` again).
 
 ### Duplicate pairs that need explicit tracking
 
-Per the leave-uncut policy above, log a pair here only if nothing will
-ever re-surface it on its own — the matched answer text differs too
-much for the auto-print to catch (reversed direction, different
-wording), the answer text is under the same-answer index's 6-character
-floor, or every sibling is either already `done` or an orphan (verified
-against `audit/progress.json`, 2026-08-11) with no pending chunk left
-that could ever show the match again:
-
-- `general-3319`/`general-3224` (eponym, reversed direction — "a word
-  or thing named after a person" vs. "eponym," no shared answer text).
-- `general-3290`/`general-3381` (definition of a full house in poker,
-  reversed direction, differently worded answer text).
-- `general-3345`/`general-3198` (ream of paper = 500 sheets — answer
-  text "500" is under the 6-character floor).
-- `general-3731` (duplicate of `general-3530`, "throw in the towel"
-  origin — differently worded answer text, so the same-answer tool
-  never flagged it; whoever's chunk includes `general-3731` should cut
-  it as an already-reviewed-sibling duplicate).
-- `general-3062`/`general-3192` (Full House's position in the poker
-  hand ranking — both chunks already `done`, no pending/orphan side
-  left to trigger a future match).
-- `general-1273`/`general-2738` (two different clue-framings both
-  identifying Monopoly — both chunks already `done`).
-- `general-3788`/`general-4284` (NATO alphabet L = Lima — answer text
-  "Lima" is under the 6-character floor, so fixing the `general-4xxx`
-  orphan gap above won't make this one auto-surface either).
-- `general-3660`/`general-3963`/`general-4093` — not a plain duplicate,
-  needs investigation: `general-3660` (biological tautonym, e.g.
-  Gorilla gorilla) shares its answer text "Tautonym" with two questions
-  that look like they're actually describing linguistic reduplication
-  (a different, unrelated concept) — possibly a mislabeled-answer bug
-  in `general-3963`/`general-4093`, not a genuine duplicate. Needs a
-  read (and possibly WebSearch).
-- `general-2045` ("most men's major championship victories in golf
-  history" → Jack Nicklaus) is pinned to "as of the mid-2020s" but was
-  never re-verified against a live source — confirm before treating it
-  as settled.
-- `friends-347`/`471`/`653` (name of Rachel's Ralph Lauren assistant
-  she dates — Tag Jones; `653` has the fullest/best distractor names if
-  picking a survivor).
-- `friends-146`/`236` (which friend Gunther's secretly in love with —
-  Rachel).
-- `friends-116`/`227` (which friend briefly dates Ursula, confusing the
-  twins — Ross; answer text "Ross" is also under the 6-character floor).
-- `friends-044`/`595` (Ugly Naked Guy nickname).
-- `friends-036`/`560` (Phoebe's husband — Mike Hannigan).
-- `friends-056`/`580` (Phoebe's fake alter-ego name — Regina Phalange).
-- `friends-061`/`298` (Rachel's finale line — "I got off the plane").
-- `friends-067`/`637` (Richard Burke's profession — ophthalmologist).
-- `friends-115`/`226` (Ursula's occupation when introduced — waitress).
-- `friends-767`/`596` (Ross's fictional employer — the Museum of
-  Prehistoric History).
-- `friends-050`/`603` (Fat Monica nickname).
-- `friends-114`/`844` (both credit Lisa Kudrow for playing Phoebe and
-  Ursula, but with different enough answer text — "Lisa Kudrow, playing
-  both Phoebe and her twin" vs. "Lisa Kudrow" — that they don't match).
-- `friends-197`/`837` (how many sisters Joey has — seven; answer text
-  "Seven" is also under the 6-character floor).
-- `friends-942`/`958` (Monica's apartment number before the continuity
-  fix — 5; answer text "5" is also under the 6-character floor).
+This used to be an inline list here; it's now `audit/backlog.json`
+(`node scripts/audit.js note <id> "…"` to add, `node scripts/audit.js
+backlog` to list everything regardless of chunk status) so `next` can
+print each note automatically instead of depending on a future session
+re-reading this file at the right moment — see "If a duplicate's sibling
+hasn't been reviewed yet" above for when to log a pair there at all.
+Don't add per-id duplicate-tracking prose back here; keep
+`audit/backlog.json` the single copy, same principle as the
+per-category `AVOID THESE ANGLES` lists under "External-agent drafting"
+above.
 
 ## Memory-only drafting exhausts per category
 
