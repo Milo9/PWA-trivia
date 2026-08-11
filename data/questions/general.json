@@ -143,19 +143,6 @@
     "answer": "Homophones"
   },
   {
-    "id": "general-1273",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "Which board game involves buying and trading properties like Boardwalk and Park Place?",
-    "options": [
-      "Monopoly",
-      "Risk",
-      "The Game of Life",
-      "Clue"
-    ],
-    "answer": "Monopoly"
-  },
-  {
     "id": "general-1274",
     "category": "general",
     "difficulty": "medium",
@@ -3326,19 +3313,6 @@
     ],
     "answer": "Dingbat / Wacky Wordie",
     "id": "general-3191"
-  },
-  {
-    "difficulty": "medium",
-    "category": "general",
-    "question": "In poker, which hand ranks immediately below four of a kind?",
-    "options": [
-      "Full House",
-      "Flush",
-      "Straight",
-      "Three of a Kind"
-    ],
-    "answer": "Full House",
-    "id": "general-3192"
   },
   {
     "difficulty": "easy",
