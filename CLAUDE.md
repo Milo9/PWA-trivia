@@ -553,6 +553,28 @@ chunk:
   duplicate (e.g. "Radial sesamoid" vs "An enlarged wrist bone" for the
   same panda pseudothumb fact) — those still need your own judgment,
   same as always.
+- **If a duplicate's sibling hasn't been reviewed yet, leave it uncut and
+  log it in "Known backlog" below — don't cut it just because it looks
+  obviously redundant.** Cutting an unreviewed question marks it "no
+  longer exists" in `audit/progress.json` without ever actually
+  reviewing it, corrupting the pass's exhaustive-coverage guarantee.
+  **But only log pairs that can't resolve themselves.** The same-answer
+  auto-print above will automatically re-show a pair the next time
+  *either* sibling's own chunk is reached, as long as that sibling isn't
+  permanently unreachable — so most matching-answer-text pairs don't
+  need a manual note; they'll surface again on their own. Log a pair
+  only when: the answer text differs enough that the auto-print can't
+  match it (reversed direction, different wording), the matched answer
+  text is too short for the index (under 6 characters), or every
+  sibling has either already finished its chunk or belongs to no chunk
+  at all (an "orphan" — see "Known backlog" for what that means and how
+  to check it) — i.e. there's no future `next` call left that could ever
+  show the match again.
+- **Once one sibling of a duplicate pair has already been
+  reviewed/fixed in an earlier chunk, the rule above doesn't apply —
+  cut the newly-found duplicate immediately instead of logging it.**
+  The already-vetted survivor is the known-good version; there's no
+  unreviewed question at risk of being wrongly marked handled.
 - **When you confirm a duplicate, grep the whole corpus for the shared
   distinctive term/entity before fixing, not just the pair you found.**
   `validate.js`'s own same-answer check caps out at group size 2 and
@@ -623,453 +645,114 @@ resurface at the top of a future near-duplicate or same-answer sort:
   young vs. adult Mary Cooper) — high text/answer similarity, genuinely
   different facts.
 
-Open items for a future dedicated pass:
+### Structural gaps in the audit passes
 
-- **Magellan 4-way cluster**: `general-465`, `general-750`,
-  `general-1038`, `general-1882` are four near-identical circumvavigation
-  questions all answering "Ferdinand Magellan." None of the pairwise
-  combinations reach the near-duplicate threshold and the group-size cap
-  (see above) skips groups of this size — a real gap, not something a
-  routine `validate` run will ever surface. Needs a manual pick of the
-  best-worded survivor.
-- `general-2045` ("most men's major championship victories in golf
-  history" → Jack Nicklaus) is pinned to "as of the mid-2020s" but was
-  never re-verified against a live source — confirm before treating it
-  as settled.
-- **Palindrome-definition 4-way cluster** (found during `general-p1-000`,
-  2026-08-09): `general-736`, `general-1251`, `general-2314`, and
-  `general-2708` all ask "what is the term for a word that reads the
-  same forwards and backwards" with only superficial rewording, all
-  answering "Palindrome." Same group-size-cap gap as the Magellan
-  cluster above — needs a manual pick of the best-worded survivor in a
-  future dedicated pass.
-- `general-3067`/`general-4477` (bridge grand-slam trick count vs. total
-  tricks in a bridge hand — both 13, essentially the same underlying
-  fact from two framings) found during `general-p1-000` — left uncut
-  since neither is reviewed yet.
-- Four more same-answer/near-duplicate pairs found during `general-p1-001`
-  (2026-08-09), all left uncut (neither sibling reviewed yet):
-  `general-3478`/`arts-literature-894` (kenning, the "whale-road"
-  example — a cross-category duplicate straddling `general` and
-  `arts-literature`), `general-3481`/`general-4096` (litotes, "not bad"
-  understatement), `general-3489`/`general-4094` (shibboleth
-  definition), `general-3497`/`general-3951` (UK beer firkin = 9
-  imperial gallons).
-- More same-answer pairs found during `general-p1-002` (2026-08-09), left
-  uncut (neither sibling reviewed yet): `general-3649`/`general-4070`
-  (dagger † symbol name), `general-3650`/`general-4071` (double dagger ‡
-  symbol name), `general-3684`/`general-4041` (bushel = 4 pecks). Also
-  flagged for future verification, not just dedup: `general-3660`
-  (biological tautonym, Gorilla gorilla) shares its answer text
-  "Tautonym" with `general-3963` ("bonbon") and `general-4093`
-  ("murmur"/"tartar") — those two look like they're actually asking about
-  linguistic reduplication (a different, unrelated concept usually called
-  "reduplicative"), not genus/species tautonyms, so this may be a
-  mislabeled-answer bug in `general-3963`/`4093` rather than a true
-  same-answer duplicate. Needs a read (and possibly WebSearch) when
-  either of those IDs' chunk comes up.
-- More same-answer pairs found during `general-p1-003` (2026-08-09), left
-  uncut (neither sibling reviewed yet): `general-1253`/`general-1751`
-  (homophones definition), `general-3005`/`arts-literature-897`
-  (spoonerism, cross-category), `general-3006`/`arts-literature-896`
-  (malapropism, cross-category), `general-3062`/`general-3192` (Full
-  House's position in the poker hand-ranking hierarchy, described via
-  two different specific relationships but the same underlying fact).
-- Chunk `general-p1-004` (2026-08-11): cut `general-3127` (Lego's Danish
-  "leg godt" = "play well") as a cross-category duplicate of
-  already-reviewed `business-brands-024` (same fact), per the
-  already-reviewed-sibling policy. Everything else in the chunk checked
-  out. New 3-way near-duplicate cluster found, left uncut (neither
-  `general-2722` nor `science-technology-851` has been reviewed —
-  `science-technology-851` isn't in any pass chunk at all, same
-  out-of-pass gap as the friends 179 orphans noted below):
-  `general-3076` ("credited with inventing the QWERTY keyboard layout"),
-  `general-2722` ("first practical typewriter patented in the 1860s by
-  which American inventor"), and `science-technology-851` ("patented the
-  QWERTY keyboard layout in 1868 and sold it in 1873") — all three
-  answer Christopher Latham Sholes and are the same underlying
-  fact/event reworded three ways.
-- Chunk `general-p1-006` (2026-08-11): cut 4 cross-chunk duplicates of
-  already-reviewed `general-p1-005` wordplay-term definitions (per the
-  already-reviewed-sibling policy) — `general-3320`/`general-3207`
-  (capitonym), `general-3321`/`general-3168` (aptronym, reversed
-  direction), `general-3322`/`general-3232` (backronym, reversed
-  direction), `general-3326`/`general-3230` (tautology). Cut
-  `general-3346` as an in-chunk duplicate of `general-3313` (nautical
-  mile = 1,852 meters). Cut `general-3390` (Mexican Train dominoes
-  tiles-per-player, 4 players/double-12 set) for genuine real-world
-  ambiguity — published rule sets disagree (Wikipedia's own rules table
-  lists 11, 12, or 14 depending on publisher), and the drafted
-  distractor "12" is itself a valid answer under other rule sets, not
-  just an obscure alternative. New same-answer/duplicate pairs surfaced
-  but left uncut since the sibling ID falls in a not-yet-reviewed chunk
-  (`general-p1-014`, still pending): `general-3319`/`general-3224`
-  (eponym, reversed direction), `general-3290`/`general-3381` (full
-  house = three of a kind + a pair, reversed direction),
-  `general-3345`/`general-3198` (ream of paper = 500 sheets).
-  `general-3313`/`general-4219` (nautical mile) also left uncut —
-  `general-4219` isn't in any pass chunk at all (an out-of-pass orphan,
-  same gap as the friends 179 orphans noted below).
-- Chunk `general-p1-007` (2026-08-11): cut `general-3457` ("in checkers,
-  which color moves first?" → "Black") for genuine real-world ambiguity
-  — sources conflict on whether red or black moves first in standard
-  American checkers (depends on which color scheme/ruleset is cited),
-  and both "Black" and "Red" were offered as options with no way to
-  narrow to one true answer. Cut 6 cross-chunk duplicates of
-  already-reviewed questions from earlier `general` chunks (per the
-  already-reviewed-sibling policy): `general-3393`/`general-3082`
-  (ampersand = ligature of "et"), `general-3417`/`general-3151`
-  (limelight = heated calcium oxide), `general-3491`/`general-3230`
-  (tautology definition, reversed direction), `general-3494`/
-  `general-3307` (fathom = 6 feet), `general-3502`/`general-3684`
-  (bushel = 4 pecks), `general-3509`/`general-3181` (score = 20 years,
-  Gettysburg Address). New same-answer pairs left uncut — sibling is an
-  out-of-pass orphan not in any chunk, same gap as `general-4219` above:
-  `general-3402`/`general-4480` (ampersand etymology vs. "common name
-  for &", different-enough facts but coincidentally same answer text),
-  `general-3480`/`general-4097` (chiasmus, reversed direction),
-  `general-3492`/`general-3948` (synecdoche "wheels"=car, reversed
-  direction).
-- Chunk `general-p1-008` (2026-08-11, idiom origins + board/card game
-  rules): fixed a misspelled distractor name, `general-3521`'s "Robert
-  Gascoyne-Cecel" → "Robert Gascoyne-Cecil". Fixed `general-3526`
-  ("jump on the bandwagon" origin) — WebSearch showed the phrase's
-  origin is credited to circus performer Dan Rice transporting
-  politicians on his circus wagon in 1848, and P.T. Barnum, despite
-  popularizing the word "bandwagon" in his own memoir, wasn't
-  responsible for the phrase itself; reworded the question/answer from
-  the specific-person framing ("P.T. Barnum's circus") to the general,
-  defensible "Traveling circus parade wagons" rather than naming the
-  wrong specific person. Cut `general-3549` ("throw caution to the
-  wind" nautical origin) — WebSearch found this specific nautical
-  explanation explicitly described as unconfirmed speculation, not an
-  established etymology like the batch's other idiom-origin questions.
-  Cut `general-3568` ("cheapest Monopoly property" → Mediterranean
-  Avenue) for a genuine tie: Mediterranean Avenue and Baltic Avenue are
-  both $60 on the standard US board, and Baltic Avenue was offered as a
-  distractor option — same class of bug as `general-p1-006`'s Mexican
-  Train and `general-p1-007`'s checkers cuts (the option set doesn't
-  uniquely determine an answer). New same-answer pair left uncut
-  (neither sibling reviewed yet): `general-3578`/`general-3965`
-  (Carcassonne named directly vs. "which game introduced the term
-  'meeple' in 2000" — both about Carcassonne's meeples, close enough to
-  flag though phrased as different specific facts).
-- Chunk `general-p1-009` (2026-08-11, board/card game rules + symbol
-  and typography names): every question verified accurate (WebSearch
-  confirmed the standard jigger is 1.5 fl oz and standard Pandemic has
-  48 cities; the "/" solidus-vs-virgule question was left as-is despite
-  some real ambiguity between typography sources, since Unicode's own
-  standard officially names the U+002F character "solidus," making it
-  the more authoritative answer). Zero fixes/cuts. Five new same-answer
-  pairs surfaced, all left uncut per the both-unreviewed policy:
-  `general-3637`/`general-3938` (octothorpe, "#"), `general-3638`/
-  `general-4082` (solidus, "/"), `general-3639`/`general-4084`
-  (backslash, "\"), `general-3651`/`general-4069` (section sign, "§"),
-  and a 3-way cluster `general-3678`/`general-4055`/`general-4236`
-  (carat = 200 milligrams) — the latter is exactly the
-  independently-drafted-3+-times gap the group-size-cap note above
-  describes, worth a manual pick of the best-worded survivor whenever
-  any of the three's chunk comes up.
-- Chunk `general-p1-010` (2026-08-11, D&D dice, idiom origins/meanings,
-  eponyms, board/card game terms): cut 4 cross-chunk duplicates of
-  questions already reviewed/fixed in `general-p1-008`, per the
-  already-reviewed-sibling policy — `general-3732` (bury the hatchet,
-  dup of `general-3527`), `general-3767` (throw in the towel's boxing
-  mechanism, dup of `general-3530`'s "which sport does it originate
-  from" — judged close enough to count, same idiom just more granular),
-  `general-3791` (barking up the wrong tree, dup of `general-3537`),
-  `general-3820` (caught red-handed, dup of `general-3520`). Found a
-  3rd sibling in this same "throw in the towel" cluster,
-  `general-3731` ("what does 'throw in the towel' mean and where does
-  it originate?" → boxing corner throwing towel to concede) — it's a
-  duplicate of both `general-3530` and the just-cut `general-3767`, but
-  it isn't part of this chunk (a different, not-yet-reached chunk owns
-  it) so it was left untouched; the same-answer tool never flagged it
-  because all three questions use different literal answer text for
-  the same fact. Whoever's chunk includes `general-3731` should cut it
-  as an already-reviewed-sibling duplicate. Everything else in the
-  chunk verified accurate. Four new same-answer NATO-alphabet pairs
-  surfaced, all left uncut (siblings unreviewed): `general-3785`/
-  `general-4288` (Q=Quebec), `general-3786`/`general-4296` (Y=Yankee),
-  `general-3787`/`general-4294` (W=Whiskey), `general-3788`/
-  `general-4284` (L=Lima) — worth checking whether the whole NATO
-  alphabet got redrafted letter-by-letter twice across two sessions,
-  same pattern as the Trivial Pursuit color and Catan resource question
-  sets. Also left uncut (sibling unreviewed): `general-1273`/
-  `general-2738`, two different clue-framings ("board game with
-  Boardwalk and Park Place" vs. "board game invented by Elizabeth Magie
-  as The Landlord's Game") both identifying Monopoly.
+An **orphan** here means an ID that `audit/progress.json` has no chunk
+for at all — added to the file after that category's pass was
+initialized, so no `next` call will ever surface it (see "A pass's
+chunk membership is frozen" above). Check via `node -e "const p=
+require('./audit/progress.json'); console.log(p.chunks.some(c=>
+c.ids.includes('<id>')))"`.
+
+- **`friends.json`'s pass 1 is fully complete for its in-pass coverage
+  (16/16 chunks `done`), but 179 of its 920 questions (as of
+  2026-08-08) are orphans** — discovered investigating why `friends-938`
+  never turned up in a `next` chunk. No further `next` call will touch
+  either the orphans or the 741 already-`done` questions under this
+  pass. Needs a fresh pass (or chunks appended for just the orphan IDs)
+  before this file counts as a full sweep.
+- **`general.json` has the same gap, much larger: 660 of its 1518
+  questions (43%, checked 2026-08-11) are orphans, including the
+  entire `general-4xxx` ID range (482 of 482, 100%)** plus 178 more
+  scattered through `general-3xxx`. The general pass itself is still
+  active (7 of 18 chunks pending as of 2026-08-11), so most same-answer
+  pairs found so far that involve only in-pass IDs will self-resolve
+  once the relevant chunk is reached without needing to be listed here
+  — see "Duplicate pairs that need explicit tracking" below for the
+  ones that won't. This pattern isn't `general`/`friends`-specific
+  either — e.g. `arts-literature-894`/`-896`/`-897` are also orphans —
+  so treat "one sibling of a pair has no chunk at all" as a live
+  possibility in any category.
 - The 12 categories split out of `general` don't have `data/topics.json`
   entries yet, so `analyze.js`/`find-gaps.js` report "no topic list
   configured" for them. Category-level question counts (`npm run
   validate`'s header, or `data/categories.json`) are the current signal
-  for which is thinnest. Adding per-category subject lists (the way
-  `friends`/`big-bang-theory` track individual characters) would sharpen
-  this but hasn't been done.
-- **`friends.json` has a systemic answer-cluster duplicate problem,
-  confirmed 2026-08-08 during chunk `friends-p1-003`.** A one-off
-  corpus-wide grep grouping every question by exact normalized answer
-  (see the civics-law-economics snippet above, same technique) turned up
-  17 clusters of 2-3 questions asking the identical fact, sitting well
-  outside that chunk (so left uncut per the "only touch what the chunk
-  actually covers" rule — cutting them would mark unreviewed questions
-  in other not-yet-audited chunks as "no longer exists," corrupting
-  `audit/progress.json`'s exhaustive-coverage guarantee). Needs a
-  dedicated pass, not incidental chunk cleanup: `friends-098`/`557`/`960`
-  (instrument Phoebe plays — guitar), `friends-128`/`585`/`935`
-  (actress who plays Judy Geller — Christina Pickles), `friends-131`/
-  `635`/`972` (actress who plays Charlie Wheeler — Aisha Tyler),
-  `friends-197`/`837`/`539` (how many sisters Joey has — seven),
-  `friends-347`/`471`/`653` (name of Rachel's Ralph Lauren assistant she
-  dates — Tag Jones; `653` has the fullest/best distractor names if
-  picking a survivor), `friends-146`/`236` (which friend Gunther's
-  secretly in love with — Rachel), `friends-116`/`227` (which friend
-  briefly dates Ursula, confusing the twins — Ross), `friends-156`/`854`
-  (who manages Central Perk — Gunther), `friends-202`/`933` (Chandler's
-  on-and-off relationship with Janice), `friends-044`/`595` (Ugly Naked
-  Guy nickname), `friends-365`/`463` (which season Emma is born —
-  Season 8), `friends-942`/`958` (Monica's apartment number before the
-  continuity fix — 5). `friends-405`/`459` is the same pair but also a
-  misquote, not just a duplicate — the verified line is "I'm not so good
-  with the advice" (`405`); `459`'s "I'm not great at the advice" is the
-  one to cut, not keep. **Six more pairs surfaced 2026-08-08 during
-  chunk `friends-p1-004`**, this time via the audit tool's own
-  same-answer printout rather than a dedicated grep (see "`next`
-  auto-prints same-answer corpus matches" below) — same policy, left
-  uncut: `friends-036`/`560` (Phoebe's husband — Mike Hannigan),
-  `friends-056`/`580` (Phoebe's fake alter-ego name — Regina Phalange),
-  `friends-061`/`298` (Rachel's finale line — both also had the same
-  misattribution bug, fixed in place: it's Rachel who says "I got off
-  the plane" at Ross's apartment door, not Ross who says it at the
-  airport), `friends-067`/`637` (Richard Burke's profession —
-  ophthalmologist), `friends-091`/`938` (Chandler's middle name —
-  Muriel), `friends-115`/`226` (Ursula's occupation when introduced —
-  waitress). The corpus-wide regroup-by-answer snippet (see the
-  civics-law-economics IO-headquarters entry above) is the tool for
-  the eventual dedicated pass across all of these. Separately,
-  `friends-039` (Ross's novelty-sound-effects keyboard, self-answering
-  stem) was cut outright rather than added to this list, in favor of
-  `friends-491` which already covers the same fact — but `491`'s own
-  premise ("Rachel discovers Ross secretly used to do this as a kid")
-  wasn't itself verified and reads as a possible fabrication. Whoever
-  audits `491`'s chunk should fix/reword rather than cut it, or the
-  keyboard fact disappears from the corpus entirely with nothing left
-  to cover it. **Two more pairs surfaced 2026-08-08 during chunk
-  `friends-p1-005`**, same policy, left uncut: `friends-132`/`973`
-  (Charlie Wheeler's profession — paleontology professor), `friends-212`/
-  `936` (where Jack and Judy Geller live — Long Island). Also from that
-  chunk: `friends-141`/`232` (names of Phoebe's surrogate triplets) was
-  an in-chunk duplicate and got cut (kept `141`, the more detailed
-  wording); its third sibling `friends-829` is still out there and still
-  needs folding into this list's eventual dedicated pass. Also fixed in
-  place: `friends-143` wrongly credited "Phoebe and Frank Jr." with
-  naming the triplet Chandler — it's Phoebe alone, per Alice's on-screen
-  line giving her the naming honor; `friends-195` wrongly described
-  Chandler's proposal as "rose petals spelling out a message" — the
-  actual episode has Monica decorate the apartment with ~1,000 candles
-  and attempt to propose to Chandler first, breaking down in tears
-  before he proposes back; `friends-199` claimed Monica's Italian
-  restaurant job was "early in the series," but the named restaurant
-  (Alessandro's) is actually her season 4-9 head-chef job — her actual
-  early-series restaurant (Iridium, seasons 1-2) wasn't Italian and
-  wasn't offered as an option, so the question was reworded to drop the
-  "early in the series" framing instead. `friends-154`/`245` both
-  conflated two separate reveals (Carol coming out as gay/leaving Ross,
-  and — episode 2, later — revealing she was pregnant) into one event;
-  `154` was fixed to only claim the (correct, backstory) coming-out
-  reveal and `245` was cut as the duplicate. `friends-135`/`220` (Barry
-  Farber ending up with Mindy) was an in-chunk duplicate; kept `135`
-  (more specific — names the endpoint relationship), cut `220`.
-- **Chunk `friends-p1-006` (2026-08-08) hit a new variant worth naming
-  explicitly: a duplicate where one sibling was already reviewed/fixed in
-  an earlier chunk, not just "both unreviewed."** The "leave uncut,
-  log it" rule above is specifically for pairs where *both* members are
-  unaudited (cutting one would falsely mark a not-yet-reviewed question
-  as handled). That doesn't apply once one sibling has already passed
-  through the audit itself — at that point the surviving, vetted version
-  is the known-good one, so the newly-encountered duplicate in the
-  current chunk gets cut immediately rather than added to the backlog.
-  Four were cut this way: `friends-249` (dup of already-fixed
-  `friends-160`, Emily's ultimatum), `friends-250` (dup of already-fixed
-  `friends-162`, Ross/Emily marriage ending), `friends-253` (dup of
-  already-reviewed `friends-163`, Mike Hannigan's career change),
-  `friends-271` (dup of already-reviewed `friends-170`, Courteney Cox /
-  Cougar Town) — all four originals were fixed/reviewed one chunk
-  earlier, in `friends-p1-005`. Also from this chunk: `friends-247`
-  ("Yankee swap" Christmas gift exchange) was cut outright as an
-  apparently fabricated plot detail — multiple targeted searches for a
-  Friends Christmas episode involving a Yankee Swap/white-elephant gift
-  game turned up nothing, and no real episode plot matched. Fixed in
-  place: `friends-276` claimed Monica worked "as a chef" at the Moondance
-  Diner; she's actually a waitress there (in a blonde wig and roller
-  skates) — her chef jobs are Iridium (seasons 1-2, earlier) and later
-  Alessandro's/Javu — reworded to "waitress" rather than picking a
-  different (unlisted) restaurant.
-- **Chunk `friends-p1-007` (2026-08-08)**: `friends-354` was a
-  distractor-correctness bug, not a duplicate — "Which two friends track
-  down Chandler and talk him out of his wedding-day panic?" had "Phoebe
-  and Rachel" marked correct while the actually-correct "Ross and
-  Phoebe" was sitting right there as one of the other three options.
-  Verified via the episode plot (S7's "The One with Monica and
-  Chandler's Wedding"): Rachel stays behind to stall Monica; it's Ross
-  and Phoebe who search for and find runaway Chandler. Note this is a
-  distinct event from `friends-289`'s "nearly runs away" moment — that
-  one is Chandler's *proposal*-night panic (S6), a separate incident
-  from his actual wedding-day panic a season later; don't merge them if
-  either resurfaces. `friends-404` (Rachel's parents' divorce) was cut
-  as a cross-chunk duplicate of already-fixed `friends-224`, per the
-  p1-006 policy above. `friends-402` ("mascot handing out advertising
-  flyers" as one of Joey's odd jobs) was cut as apparently fabricated —
-  several searches for exhaustive lists of Joey's temp jobs (cologne
-  spritzer, Christmas tree seller, museum tour guide, sperm donor,
-  acting teacher, etc.) never surfaced a flyer-mascot job.
-- **179 of `friends.json`'s 920 questions (as of 2026-08-08) belong to
-  no chunk in the current audit pass at all**, discovered while
-  investigating why `friends-938` (used in the duplicate pair above)
-  never turned up in a `next` chunk. Per "A pass's chunk membership is
-  frozen at `init`/`new-pass` time" below, this means these ~179
-  questions were added to the file after the current friends pass was
-  initialized, so they will never get audited under this pass no matter
-  how many chunks get completed. Needs a fresh pass (or an appended set
-  of chunks) covering just the uncovered IDs before the current pass is
-  considered a full sweep of the file.
-- **Chunks `friends-p1-008`/`friends-p1-009` (2026-08-08, IDs friends-411
-  through friends-538) had a much higher fabrication density than any
-  prior friends chunk** — 18 issues across 94 questions, roughly double
-  the typical rate, and unlike earlier chunks (mostly cross-chunk
-  duplicates) most of these were invented or conflated plot specifics:
-  a fabricated "Yankee swap"-style detail (`448`'s Ugly Naked Guy estate
-  sale — real fact is Ross bonding naked with him for the sublet),
-  `466`'s Joey-moves-to-LA premise (visibly uncertain even in its own
-  drafting — "Las Vegas... no, to Los Angeles" leaked into the stem, and
-  no episode matches it), `473`'s "Underdog float catch" game (the real
-  Thanksgiving football tradition, the Geller Bowl, wasn't even offered
-  as an option), `483`'s boss-heart-attack framing (real fact: Chandler
-  is offered an unwanted data-processing promotion, no heart attack),
-  `485`'s leather-jacket gift (no matching episode found), and several
-  right-fact-wrong-character mix-ups: `474` attributed a real S4 trivia
-  quote ("Big Fat Goalie") to an unrelated S5 Thanksgiving-flashback
-  insult (the real line is Chandler calling Monica "your fat sister"),
-  `480`/`481` had Phoebe (not Joey) getting ordained online and an
-  invented NY-license problem (real crisis: Joey running late from a
-  film shoot), `489` had Rachel finding Ross's pro/con list "while
-  packing" (it actually surfaces via a coffee-house printer), `496`
-  invented a character "Andrew" introducing Ross and Emily (it's
-  Rachel, asking Ross to entertain Emily so she can date Joshua), and
-  `497` gave Chandler a fabricated cousin-of-Emily's named "Denise" to
-  romance at the wedding (it's Joey kissing an unnamed bridesmaid).
-  Also cut as unfixable: `495` (Emily's profession is never established
-  on-screen, and the question also claimed they meet in London when
-  they actually meet in New York). All were fixed in place (preserving
-  the real underlying fact) rather than cut, except `495`/`448`/`466`/
-  `473`/`483`/`485` per the usual unfixable-without-changing-the-fact
-  cut policy — see the `friends-p1-008`/`009` commit for the full list.
-  **If later chunks in the `friends-411`–`friends-538`-ish range (or
-  any range that turns out to share a drafting batch with it) keep
-  showing this same conflated-plot-detail pattern, budget extra
-  WebSearch verification there rather than defaulting to judgment/
-  memory** — this range appears to come from a drafting pass with
-  noticeably weaker factual grounding than the rest of the corpus.
-- **Chunks `friends-p1-010`/`friends-p1-011` (2026-08-08, IDs friends-539
-  through friends-697)**: cut `friends-541` (invented "Just How Mad Am I"
-  finger-counting game — no matching scene in 'The One Where No One's
-  Ready'), `friends-544` (fabricated finale detail — no one is shown
-  taking over Monica/Chandler's apartment after they move out),
-  `friends-547` (fabricated/conflated — the real embarrassing
-  high-school-reputation reveal is Will Colbert's rumor in 'The One
-  with the Rumor', not something Rachel's mother does), `friends-548`
-  (unverifiable Monica-almost-named-differently premise, no matching
-  episode found), and `friends-549` (backwards premise — Pete Becker
-  was already a software millionaire *before* opening a restaurant for
-  Monica, not a restaurant-chain owner before his wealth). Also cut as
-  cross-chunk duplicates of already-fixed originals (per the
-  already-reviewed-sibling policy above): `friends-559` (dup of
-  `friends-115`/`friends-226`, Ursula's waitress job), `friends-610`
-  (dup of `friends-514`, Chandler kissing Kathy), `friends-629` (dup of
-  `friends-160`, Emily's ultimatum to cut off contact with Rachel).
-  Fixed in place: `friends-642` (real reason Monica is fired is
-  accepting a kickback of steaks/an eggplant from a food supplier, not
-  "bribes from a food critic to serve better food" — verified via 'The
-  One with Five Steaks and an Eggplant') and `friends-648` (Chandler
-  proposes in the candle-filled apartment, no rose petals — verified via
-  'The One with the Proposal: Part 2', the same fabrication already
-  removed from `friends-195`). Two new same-answer duplicate pairs
-  surfaced and were left uncut per the standard both-unreviewed policy:
-  `friends-050`/`friends-603` (Fat Monica nickname) and
-  `friends-583`/`friends-584` vs `friends-900`/`friends-901` (Nora Bing
-  / Morgan Fairchild) — the latter pair falls inside the 179
-  out-of-pass questions noted below, so it will need the same fresh
-  pass/appended chunks that block covers, not just a normal future
-  audit chunk.
-- **Chunk `friends-p1-012` (2026-08-08, IDs friends-699 through
-  friends-786, mostly behind-the-scenes/actor trivia)**: cut three
-  cross-chunk duplicates of already-reviewed originals, per the
-  already-reviewed-sibling policy above — `friends-779` (dup of
-  `friends-574`, Barry marrying Mindy), `friends-783` (dup of
-  `friends-622`, Ross sleeping with Chloe from the copy place during
-  the break), `friends-784` (dup of `friends-649`, Chandler's Tulsa
-  transfer). Fixed `friends-712`: multiple sources (Television Academy,
-  Yardbarker, Collider) consistently rank the Friends finale's 52.5
-  million viewers *fourth*-most-watched series finale in U.S. TV
-  history (behind M\*A\*S\*H, Cheers, Seinfeld) — the drafted answer
-  "Fifth" was wrong, changed to "Fourth". Everything else in this
-  chunk (guest-actor casting, production trivia, in-show plot facts)
-  was individually verified via WebSearch and confirmed accurate — this
-  chunk leaned heavily on specific, checkable claims (real actor names,
-  filming-time figures, behind-the-scenes anecdotes) that turned out to
-  be unusually well-grounded compared to `friends-p1-008`/`009`'s
-  fabrication-heavy range. New same-answer pair left uncut (both
-  unreviewed): `friends-767`/`friends-596` (Ross's fictional employer,
-  the Museum of Prehistoric History).
-- **Chunk `friends-p1-013` (2026-08-08, low-numbered IDs friends-001
-  through friends-152 plus two hard-difficulty stragglers friends-788/
-  789)**: every question in this chunk checked out factually (including
-  the two mediums, Drake Ramoray's brain-donor character Jessica
-  Lockhart and Joey's baby-powder leather-pants suggestion, both
-  verified via WebSearch), so zero fixes/cuts. Six new same-answer
-  duplicate pairs surfaced, all left uncut per the both-unreviewed
-  policy (three pair with questions in already-scheduled future chunks,
-  three pair with questions among the 179 out-of-pass IDs noted below):
-  `friends-002`/`friends-940` ("What is Ross's profession?" is a bare
-  duplicate of "What is Ross Geller's profession?"), `friends-007`/
-  `friends-962` (same pattern for Phoebe's masseuse job), `friends-114`/
-  `friends-844` (who plays both Phoebe and Ursula — Lisa Kudrow),
-  `friends-018`/`friends-258` (the orange couch as Central Perk's
-  iconic furniture), `friends-059`/`friends-570` (Rachel working for
-  Ralph Lauren), `friends-082`/`friends-248` (Emily Waltham's British
-  nationality). The latter three's sibling IDs already sit in scheduled
-  chunks `friends-p1-014`/`friends-p1-015` — when those chunks come up,
-  cut the newly-encountered side immediately as a dup of this
-  already-reviewed `friends-p1-013` chunk, per the
-  already-reviewed-sibling policy above, rather than re-logging them.
-- **Chunk `friends-p1-014` (2026-08-09, IDs friends-153 through
-  friends-553, 4 IDs already removed by earlier dedup)**: cut two
-  cross-chunk duplicates flagged in advance by the `friends-p1-013`
-  note above -- `friends-248` (dup of already-reviewed `friends-082`,
-  Emily Waltham's British nationality) and `friends-258` (dup of
-  already-reviewed `friends-018`, Central Perk's orange couch) -- per
-  the already-reviewed-sibling policy. `friends-059`/`friends-570`
-  (Rachel and Ralph Lauren), the third pair `friends-p1-013` flagged,
-  is still pending since neither ID fell in this chunk. Every other
-  question checked out factually clean, including two verified via
-  WebSearch (Cole Sprouse was the only Sprouse twin cast as Ben
-  Geller -- Dylan never played the role -- and Phoebe's "lobster"
-  soulmate line originally refers to Ross and Rachel, from 'The One
-  with the Prom Video'). Two new same-answer duplicate pairs surfaced,
-  left uncut per the both-unreviewed policy: `friends-553`/`friends-977`
-  (Cole Sprouse plays Ben Geller as both young child and teen) and
-  `friends-201`/`friends-927` (Janice's "Oh. My. God." catchphrase).
-- **Chunk `friends-p1-015` (2026-08-09, IDs friends-555 through
-  friends-749, 2 IDs already removed by earlier dedup)**: cut three
-  cross-chunk duplicates of already-reviewed originals per the
-  already-reviewed-sibling policy -- `friends-570` (dup of
-  `friends-059`, Rachel working for Ralph Lauren -- this pair was
-  flagged in advance by the `friends-p1-013` note above), `friends-586`
-  (dup of `friends-127`, actor playing Jack Geller), and `friends-749`
-  (dup of `friends-266`, the 2021 HBO Max reunion special's title).
-  Everything else verified accurate. One new same-answer pair surfaced,
-  left uncut per the both-unreviewed policy: `friends-600`/`friends-952`
-  (Joey's "How you doin'?" catchphrase).
+  for which is thinnest.
+- **`friends-411`–`friends-538` (chunks `friends-p1-008`/`009`) had
+  roughly double the fabrication rate of any other friends chunk** —
+  mostly invented or conflated plot specifics rather than simple
+  duplicates. If a future pass revisits this range, budget extra
+  WebSearch verification rather than defaulting to judgment/memory.
+- `friends-491`'s chunk (`friends-p1-009`) is marked `done`, but the fix
+  it needed was never applied: its premise ("Rachel discovers Ross
+  secretly used to do this as a kid") was flagged as an unverified,
+  possibly-fabricated detail and still reads that way in the shipped
+  data. Needs a fix/reword, not a cut — it's the only surviving question
+  covering this fact (the actual duplicate, `friends-039`, was already
+  cut in its favor).
+
+### Duplicate pairs that need explicit tracking
+
+Per the leave-uncut policy above, log a pair here only if nothing will
+ever re-surface it on its own — the matched answer text differs too
+much for the auto-print to catch (reversed direction, different
+wording), the answer text is under the same-answer index's 6-character
+floor, or every sibling is either already `done` or an orphan (verified
+against `audit/progress.json`, 2026-08-11) with no pending chunk left
+that could ever show the match again:
+
+- `general-3319`/`general-3224` (eponym, reversed direction — "a word
+  or thing named after a person" vs. "eponym," no shared answer text).
+- `general-3290`/`general-3381` (definition of a full house in poker,
+  reversed direction, differently worded answer text).
+- `general-3345`/`general-3198` (ream of paper = 500 sheets — answer
+  text "500" is under the 6-character floor).
+- `general-3731` (duplicate of `general-3530`, "throw in the towel"
+  origin — differently worded answer text, so the same-answer tool
+  never flagged it; whoever's chunk includes `general-3731` should cut
+  it as an already-reviewed-sibling duplicate).
+- `general-3062`/`general-3192` (Full House's position in the poker
+  hand ranking — both chunks already `done`, no pending/orphan side
+  left to trigger a future match).
+- `general-1273`/`general-2738` (two different clue-framings both
+  identifying Monopoly — both chunks already `done`).
+- `general-3788`/`general-4284` (NATO alphabet L = Lima — answer text
+  "Lima" is under the 6-character floor, so fixing the `general-4xxx`
+  orphan gap above won't make this one auto-surface either).
+- `general-3660`/`general-3963`/`general-4093` — not a plain duplicate,
+  needs investigation: `general-3660` (biological tautonym, e.g.
+  Gorilla gorilla) shares its answer text "Tautonym" with two questions
+  that look like they're actually describing linguistic reduplication
+  (a different, unrelated concept) — possibly a mislabeled-answer bug
+  in `general-3963`/`general-4093`, not a genuine duplicate. Needs a
+  read (and possibly WebSearch).
+- `general-2045` ("most men's major championship victories in golf
+  history" → Jack Nicklaus) is pinned to "as of the mid-2020s" but was
+  never re-verified against a live source — confirm before treating it
+  as settled.
+- `friends-347`/`471`/`653` (name of Rachel's Ralph Lauren assistant
+  she dates — Tag Jones; `653` has the fullest/best distractor names if
+  picking a survivor).
+- `friends-146`/`236` (which friend Gunther's secretly in love with —
+  Rachel).
+- `friends-116`/`227` (which friend briefly dates Ursula, confusing the
+  twins — Ross; answer text "Ross" is also under the 6-character floor).
+- `friends-044`/`595` (Ugly Naked Guy nickname).
+- `friends-036`/`560` (Phoebe's husband — Mike Hannigan).
+- `friends-056`/`580` (Phoebe's fake alter-ego name — Regina Phalange).
+- `friends-061`/`298` (Rachel's finale line — "I got off the plane").
+- `friends-067`/`637` (Richard Burke's profession — ophthalmologist).
+- `friends-115`/`226` (Ursula's occupation when introduced — waitress).
+- `friends-767`/`596` (Ross's fictional employer — the Museum of
+  Prehistoric History).
+- `friends-050`/`603` (Fat Monica nickname).
+- `friends-114`/`844` (both credit Lisa Kudrow for playing Phoebe and
+  Ursula, but with different enough answer text — "Lisa Kudrow, playing
+  both Phoebe and her twin" vs. "Lisa Kudrow" — that they don't match).
+- `friends-197`/`837` (how many sisters Joey has — seven; answer text
+  "Seven" is also under the 6-character floor).
+- `friends-942`/`958` (Monica's apartment number before the continuity
+  fix — 5; answer text "5" is also under the 6-character floor).
 
 ## Memory-only drafting exhausts per category
 
