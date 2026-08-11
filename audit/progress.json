@@ -9559,11 +9559,11 @@
         "general-3392",
         "general-3395"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-11",
+      "completedAt": "2026-08-11",
+      "issuesFound": 18,
+      "notes": "Cut 15 duplicates: interrobang pair(3288/3395), Monopoly-railroads pair(3301/3366), Scrabble-100-tiles dup of done 3043 (3302,3350), double-six dominoes dup of done 3064 (3372), stone=14lbs dup of done 3499 (3339), plus 9 backlog-flagged dups of already-done siblings (eponym 3319, score 3334, ream 3345, Bingo 3352, jail-fine 3355, board-spaces 3363, deck-52 3369, deck-ranks 3371, full-house 3381). Logged 3 new backlog notes for unreached siblings (deuce 3727, poker-flop 4130 orphan, blackjack-21 4133 orphan). All other facts/distractors verified accurate."
     },
     {
       "chunkId": "general-p1-015",
@@ -9620,11 +9620,11 @@
         "general-3610",
         "general-3617"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-11",
+      "completedAt": "2026-08-11",
+      "issuesFound": 6,
+      "notes": "Cut 5 duplicates flagged as backlog-linked dups of already-done siblings: cat-out-of-bag idiom(3423 dup 3211), Monopoly-most-expensive-color(3448 dup 3244), 26-letter-alphabet(3452 dup 3210), Scrabble-rack-7-letters(3454 dup 3164), Jenga(3589 dup 3194). Fixed answer-leak on 3462 ('third time's a charm') by trimming the correct option from a 47-char sentence to a short phrase matching distractor length/style. All other facts and distractors verified accurate."
     },
     {
       "chunkId": "general-p1-016",
@@ -9681,11 +9681,11 @@
         "general-3747",
         "general-3748"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-11",
+      "completedAt": "2026-08-11",
+      "issuesFound": 13,
+      "notes": "Cut 12 duplicates: score=20(3671 dup done 3020), 24k=pure-gold reversed(3679 dup done 3344), hand=4in horse in-chunk dup(3689 dup 3669), Bingo(3696 dup done 3201), poker-flop reversed(3697 dup done 3375), poker-straight reversed(3700 dup done 3382), Trivial-Pursuit-wedges(3711 dup done 3300), dominoes-double reversed(3714 dup done 3389), deuce(3727, backlog from p1-014, dup done 3380), throw-in-the-towel(3731 dup done 3530), cold-shoulder(3739 dup done 3422 from p1-015), limelight(3747 dup done 3460 from p1-015). Fixed answer-leak on 3703 (blackjack natural) by trimming 45-char correct option to match distractor brevity. Logged 1 new backlog note for orphan sibling (Monopoly utilities 4121). All other facts/distractors verified accurate."
     },
     {
       "chunkId": "general-p1-017",
@@ -9731,11 +9731,11 @@
         "general-3818",
         "general-3821"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-11",
+      "completedAt": "2026-08-11",
+      "issuesFound": 3,
+      "notes": "Cut 1 duplicate: 'through the grapevine' idiom (3753 dup of already-done 3415 from p1-015). Fixed 2 answer-leaks by trimming correct options to match distractor brevity: 3798 (can't have cake and eat it, 46->35 chars) and 3809 (Scrabble double-letter square, 49->26 chars). All other facts/distractors verified accurate."
     },
     {
       "chunkId": "geography-p1-000",
@@ -9792,11 +9792,11 @@
         "general-1809",
         "general-1812"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-11",
+      "completedAt": "2026-08-11",
+      "issuesFound": 6,
+      "notes": "First geography chunk (heavily general-derived IDs). Cut 4 in-chunk duplicates: Bosphorus strait pair(494/710, kept 710), France-most-time-zones pair(971/1008, kept 971), Angel Falls pair(094/1461, kept 094), Antarctica/Antarctic-Desert-largest-desert pair(709/1803, kept 709 as more specific named-desert framing). Logged 2 backlog notes for orphan siblings unreachable via future chunks (Atacama-driest-desert geography-849 dup of kept 1482; Lake-Tanganyika-2nd-deepest geography-719 dup of kept 1485). Left many same-country/same-answer echoes (India population, Canada lakes, Sudan pyramids, Norway islands, Sweden islands, Mauna Kea, Astana, Pyrenees) uncut since their siblings are pending in future geography chunks with exact-matching answer text -- auto-index will resurface and resolve those on its own per standard policy. All facts and distractors verified accurate."
     },
     {
       "chunkId": "geography-p1-001",

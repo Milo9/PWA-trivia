@@ -4550,19 +4550,6 @@
     "id": "general-3301"
   },
   {
-    "difficulty": "easy",
-    "category": "general",
-    "question": "How many letter tiles are in the English edition of Scrabble?",
-    "options": [
-      "100",
-      "98",
-      "102",
-      "120"
-    ],
-    "answer": "100",
-    "id": "general-3302"
-  },
-  {
     "difficulty": "medium",
     "category": "general",
     "question": "What does 'face the music' mean?",
@@ -4771,19 +4758,6 @@
     "answer": "A word with two opposite meanings"
   },
   {
-    "id": "general-3319",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "What is an eponym?",
-    "options": [
-      "A word or thing named after a person",
-      "A word with two opposite meanings",
-      "A word that avoids a letter",
-      "A word that is an acronym"
-    ],
-    "answer": "A word or thing named after a person"
-  },
-  {
     "id": "general-3323",
     "category": "general",
     "difficulty": "hard",
@@ -4914,19 +4888,6 @@
     "answer": "Both to split apart and to cling together"
   },
   {
-    "id": "general-3334",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "How many years are in a score?",
-    "options": [
-      "20",
-      "10",
-      "12",
-      "100"
-    ],
-    "answer": "20"
-  },
-  {
     "id": "general-3335",
     "category": "general",
     "difficulty": "medium",
@@ -4977,19 +4938,6 @@
       "640"
     ],
     "answer": "43,560"
-  },
-  {
-    "id": "general-3339",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "How many pounds are in a stone?",
-    "options": [
-      "14",
-      "10",
-      "12",
-      "16"
-    ],
-    "answer": "14"
   },
   {
     "id": "general-3340",
@@ -5057,19 +5005,6 @@
     "answer": "24"
   },
   {
-    "id": "general-3345",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "How many sheets are in a standard ream of paper as of 2026?",
-    "options": [
-      "500",
-      "480",
-      "250",
-      "1,000"
-    ],
-    "answer": "500"
-  },
-  {
     "id": "general-3347",
     "category": "general",
     "difficulty": "hard",
@@ -5109,19 +5044,6 @@
     "answer": "16"
   },
   {
-    "id": "general-3350",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "How many tiles are in a standard English Scrabble set?",
-    "options": [
-      "100",
-      "98",
-      "102",
-      "120"
-    ],
-    "answer": "100"
-  },
-  {
     "id": "general-3351",
     "category": "general",
     "difficulty": "easy",
@@ -5133,19 +5055,6 @@
       "4"
     ],
     "answer": "2"
-  },
-  {
-    "id": "general-3352",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "What is the term for playing all 7 tiles in one turn in Scrabble?",
-    "options": [
-      "Bingo",
-      "Bonus Blitz",
-      "Sweep",
-      "Scrabble"
-    ],
-    "answer": "Bingo"
   },
   {
     "id": "general-3353",
@@ -5172,19 +5081,6 @@
       "32"
     ],
     "answer": "28"
-  },
-  {
-    "id": "general-3355",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "How much does it cost to get out of Jail by paying a fine in Monopoly?",
-    "options": [
-      "$50",
-      "$100",
-      "$25",
-      "$200"
-    ],
-    "answer": "$50"
   },
   {
     "id": "general-3356",
@@ -5278,19 +5174,6 @@
     "answer": "50"
   },
   {
-    "id": "general-3363",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "In Monopoly, how many spaces are on the board from Go to Go?",
-    "options": [
-      "40",
-      "32",
-      "36",
-      "42"
-    ],
-    "answer": "40"
-  },
-  {
     "id": "general-3364",
     "category": "general",
     "difficulty": "medium",
@@ -5315,19 +5198,6 @@
       "Both on same color"
     ],
     "answer": "One light square, one dark square"
-  },
-  {
-    "id": "general-3366",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "In classic Monopoly, how many railroads are there?",
-    "options": [
-      "4",
-      "2",
-      "6",
-      "3"
-    ],
-    "answer": "4"
   },
   {
     "id": "general-3367",
@@ -5356,19 +5226,6 @@
     "answer": "10"
   },
   {
-    "id": "general-3369",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "How many cards are in a standard deck excluding jokers?",
-    "options": [
-      "52",
-      "54",
-      "48",
-      "50"
-    ],
-    "answer": "52"
-  },
-  {
     "id": "general-3370",
     "category": "general",
     "difficulty": "easy",
@@ -5380,32 +5237,6 @@
       "2"
     ],
     "answer": "4"
-  },
-  {
-    "id": "general-3371",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "How many ranks are in each suit of a standard deck?",
-    "options": [
-      "13",
-      "12",
-      "10",
-      "14"
-    ],
-    "answer": "13"
-  },
-  {
-    "id": "general-3372",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "How many dominoes are in a standard double-six set?",
-    "options": [
-      "28",
-      "32",
-      "24",
-      "36"
-    ],
-    "answer": "28"
   },
   {
     "id": "general-3373",
@@ -5510,19 +5341,6 @@
       "A joker"
     ],
     "answer": "A two"
-  },
-  {
-    "id": "general-3381",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "In poker, what hand is three of a kind plus a pair?",
-    "options": [
-      "Full house",
-      "Straight",
-      "Flush",
-      "Two pair"
-    ],
-    "answer": "Full house"
   },
   {
     "id": "general-3382",
@@ -5666,19 +5484,6 @@
       "Currency"
     ],
     "answer": "Paragraph"
-  },
-  {
-    "id": "general-3395",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "The interrobang combines which two punctuation marks?",
-    "options": [
-      "Question mark and exclamation point",
-      "Question mark and period",
-      "Exclamation and comma",
-      "Colon and semicolon"
-    ],
-    "answer": "Question mark and exclamation point"
   },
   {
     "id": "general-3396",
@@ -6006,19 +5811,6 @@
     "answer": "Deliberately ignore or be unwelcoming"
   },
   {
-    "id": "general-3423",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "What does 'let the cat out of the bag' mean?",
-    "options": [
-      "Reveal a secret",
-      "Free a pet",
-      "Cause chaos",
-      "Make a mistake"
-    ],
-    "answer": "Reveal a secret"
-  },
-  {
     "id": "general-3424",
     "category": "general",
     "difficulty": "medium",
@@ -6331,19 +6123,6 @@
     "answer": "Brown"
   },
   {
-    "id": "general-3448",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "In Monopoly, which color set is the most expensive?",
-    "options": [
-      "Dark Blue",
-      "Green",
-      "Red",
-      "Yellow"
-    ],
-    "answer": "Dark Blue"
-  },
-  {
     "id": "general-3449",
     "category": "general",
     "difficulty": "medium",
@@ -6383,19 +6162,6 @@
     "answer": "Cliche"
   },
   {
-    "id": "general-3452",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "How many letters are in the English alphabet as of 2026?",
-    "options": [
-      "26",
-      "24",
-      "28",
-      "27"
-    ],
-    "answer": "26"
-  },
-  {
     "id": "general-3453",
     "category": "general",
     "difficulty": "easy",
@@ -6407,19 +6173,6 @@
       "Clue"
     ],
     "answer": "Catan"
-  },
-  {
-    "id": "general-3454",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "How many letters are in a standard English Scrabble rack at any time?",
-    "options": [
-      "7",
-      "5",
-      "8",
-      "6"
-    ],
-    "answer": "7"
   },
   {
     "id": "general-3455",
@@ -6505,12 +6258,12 @@
     "difficulty": "easy",
     "question": "What does the phrase 'third time's a charm' imply?",
     "options": [
-      "Success on the third attempt after two failures",
+      "Success on the third try",
       "Three charms needed",
       "Magic number three",
       "Charm bracelet"
     ],
-    "answer": "Success on the third attempt after two failures"
+    "answer": "Success on the third try"
   },
   {
     "id": "general-3463",
@@ -8047,19 +7800,6 @@
     "answer": "Connect Four"
   },
   {
-    "id": "general-3589",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "What is the name of the game where players take turns removing wooden blocks from a tower without making it fall?",
-    "options": [
-      "Jenga",
-      "Kerplunk",
-      "Pick Up Sticks",
-      "Tumble Tower"
-    ],
-    "answer": "Jenga"
-  },
-  {
     "id": "general-3590",
     "category": "general",
     "difficulty": "medium",
@@ -9087,19 +8827,6 @@
     "answer": "42 US gallons"
   },
   {
-    "id": "general-3671",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "In counting, a 'score' traditionally equals how many?",
-    "options": [
-      "100",
-      "12",
-      "24",
-      "20"
-    ],
-    "answer": "20"
-  },
-  {
     "id": "general-3672",
     "category": "general",
     "difficulty": "easy",
@@ -9189,19 +8916,6 @@
       "1000 milligrams"
     ],
     "answer": "200 milligrams"
-  },
-  {
-    "id": "general-3679",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "24-karat gold is defined as what?",
-    "options": [
-      "75% gold",
-      "50% gold",
-      "Pure gold",
-      "Gold mixed with silver"
-    ],
-    "answer": "Pure gold"
   },
   {
     "id": "general-3680",
@@ -9321,19 +9035,6 @@
     "answer": "Denier"
   },
   {
-    "id": "general-3689",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "The 'hand' for horse height is subdivided into how many inches per hand?",
-    "options": [
-      "12 inches per hand",
-      "4 inches per hand",
-      "3 inches per hand",
-      "6 inches per hand"
-    ],
-    "answer": "4 inches per hand"
-  },
-  {
     "id": "general-3690",
     "category": "general",
     "difficulty": "medium",
@@ -9412,32 +9113,6 @@
     "answer": "On the bar"
   },
   {
-    "id": "general-3696",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "In Scrabble, what term is used for playing all seven tiles in one turn, earning a 50-point bonus?",
-    "options": [
-      "Yahtzee",
-      "Bingo",
-      "Flush",
-      "Triple"
-    ],
-    "answer": "Bingo"
-  },
-  {
-    "id": "general-3697",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "In poker, what is the 'flop'?",
-    "options": [
-      "Final community card",
-      "Discard pile",
-      "First three community cards dealt face up",
-      "Two private cards"
-    ],
-    "answer": "First three community cards dealt face up"
-  },
-  {
     "id": "general-3698",
     "category": "general",
     "difficulty": "medium",
@@ -9462,19 +9137,6 @@
       "Discard"
     ],
     "answer": "Fifth and final community card"
-  },
-  {
-    "id": "general-3700",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "In poker, what is a 'straight'?",
-    "options": [
-      "Five cards same suit",
-      "Two pairs",
-      "Five cards in sequential rank",
-      "Three of a kind"
-    ],
-    "answer": "Five cards in sequential rank"
   },
   {
     "id": "general-3701",
@@ -9511,9 +9173,9 @@
       "Three sevens",
       "Two aces",
       "Five cards under 21",
-      "Ace plus a 10-value card as initial two cards"
+      "Ace + any 10-value card"
     ],
-    "answer": "Ace plus a 10-value card as initial two cards"
+    "answer": "Ace + any 10-value card"
   },
   {
     "id": "general-3704",
@@ -9607,19 +9269,6 @@
     "answer": "Candlestick"
   },
   {
-    "id": "general-3711",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "In Trivial Pursuit, how many wedges does a player need to win?",
-    "options": [
-      "5",
-      "6",
-      "4",
-      "8"
-    ],
-    "answer": "6"
-  },
-  {
     "id": "general-3712",
     "category": "general",
     "difficulty": "medium",
@@ -9644,19 +9293,6 @@
       "10 victory points"
     ],
     "answer": "5 or more continuous roads"
-  },
-  {
-    "id": "general-3714",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "In dominoes, what is a 'double'?",
-    "options": [
-      "First tile played",
-      "Tile with same number of pips on both ends",
-      "Highest scoring tile",
-      "Tile with no pips"
-    ],
-    "answer": "Tile with same number of pips on both ends"
   },
   {
     "id": "general-3715",
@@ -9815,19 +9451,6 @@
     "answer": "Player who is dealer for the hand"
   },
   {
-    "id": "general-3727",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "What does 'deuce' mean in cards, dice, and tennis?",
-    "options": [
-      "Two",
-      "King",
-      "Three",
-      "Ace"
-    ],
-    "answer": "Two"
-  },
-  {
     "id": "general-3728",
     "category": "general",
     "difficulty": "easy",
@@ -9865,19 +9488,6 @@
       "Mercury poisoning from hat making"
     ],
     "answer": "Mercury poisoning from hat making"
-  },
-  {
-    "id": "general-3731",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "What does 'throw in the towel' mean and where does it originate?",
-    "options": [
-      "Surrender in chess",
-      "Celebrate, from baseball",
-      "Give up, from boxing corner throwing towel to concede",
-      "Start cooking, from kitchens"
-    ],
-    "answer": "Give up, from boxing corner throwing towel to concede"
   },
   {
     "id": "general-3733",
@@ -9956,19 +9566,6 @@
       "Reveal your real personality"
     ],
     "answer": "Reveal your real personality"
-  },
-  {
-    "id": "general-3739",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "What does giving someone the 'cold shoulder' mean?",
-    "options": [
-      "Offer them a coat",
-      "Deliberately act unfriendly",
-      "Hug them",
-      "Give them food"
-    ],
-    "answer": "Deliberately act unfriendly"
   },
   {
     "id": "general-3740",
@@ -10062,19 +9659,6 @@
     "answer": "In strong disagreement"
   },
   {
-    "id": "general-3747",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "What does being 'in the limelight' mean, from theater lighting?",
-    "options": [
-      "Very bright",
-      "On stage literally only",
-      "In danger",
-      "Center of attention"
-    ],
-    "answer": "Center of attention"
-  },
-  {
     "id": "general-3748",
     "category": "general",
     "difficulty": "easy",
@@ -10138,19 +9722,6 @@
       "Sew clothing"
     ],
     "answer": "Manage to live within income"
-  },
-  {
-    "id": "general-3753",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "What does 'through the grapevine' mean, originating from Civil War telegraph wires?",
-    "options": [
-      "Heard in vineyard",
-      "Heard on radio",
-      "Heard via gossip or rumor",
-      "Heard from official source"
-    ],
-    "answer": "Heard via gossip or rumor"
   },
   {
     "id": "general-3754",
@@ -10706,10 +10277,10 @@
     "options": [
       "Cake is unhealthy",
       "You must share dessert",
-      "You can't have two incompatible things at once",
+      "Can't have two incompatible things",
       "You should save food"
     ],
-    "answer": "You can't have two incompatible things at once"
+    "answer": "Can't have two incompatible things"
   },
   {
     "id": "general-3799",
@@ -10847,12 +10418,12 @@
     "difficulty": "easy",
     "question": "In Scrabble, what does a double letter score square do?",
     "options": [
-      "Doubles the value of a single letter placed on it",
+      "Doubles one letter's value",
       "Doubles entire word",
       "Doubles player's total",
       "Gives extra turn"
     ],
-    "answer": "Doubles the value of a single letter placed on it"
+    "answer": "Doubles one letter's value"
   },
   {
     "id": "general-3810",

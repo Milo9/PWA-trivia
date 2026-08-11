@@ -1,7 +1,7 @@
 // Stamped by scripts/stamp-version.js — do not edit by hand.
 // Changes automatically whenever app shell or question data changes,
 // which forces old cached data to be replaced next time we're online.
-const CACHE_VERSION = "v1-9f63cdda";
+const CACHE_VERSION = "v1-456cace1";
 
 // Per-file content hashes for everything CACHE_VERSION covers. Lets
 // precache() tell which files actually changed and copy the rest forward
@@ -12,7 +12,7 @@ const FILE_HASHES = {
   "styles.css": "789de5cf8065aab5",
   "app.js": "0e2782ebfb97d2a5",
   "manifest.webmanifest": "de76ad5da1344100",
-  "version.json": "639ef8402c724540",
+  "version.json": "efb9578b5873e0aa",
   "data/categories.json": "46577fab4088e580",
   "data/questions/animals-nature.json": "7200981e5b73df46",
   "data/questions/arts-literature.json": "016db45d47685bae",
@@ -22,8 +22,8 @@ const FILE_HASHES = {
   "data/questions/film-tv.json": "ffb3d5e51db66ae4",
   "data/questions/food-drink.json": "af88f9d2ebf50a24",
   "data/questions/friends.json": "948c85b501ab0eca",
-  "data/questions/general.json": "940399381feb29c8",
-  "data/questions/geography.json": "92b86c9f42c7ca8a",
+  "data/questions/general.json": "7d51fab899997139",
+  "data/questions/geography.json": "aea87917eb72787e",
   "data/questions/history.json": "2cf729894e17d42e",
   "data/questions/music.json": "b0a8cee63ae9f411",
   "data/questions/mythology-religion.json": "3047ee99e3aa8fc9",
