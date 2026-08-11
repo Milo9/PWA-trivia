@@ -8949,11 +8949,11 @@
         "general-3176",
         "general-3181"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-11",
+      "completedAt": "2026-08-11",
+      "issuesFound": 1,
+      "notes": "Cut general-3127 (Lego 'leg godt'=play well) as cross-category duplicate of already-reviewed business-brands-024. Everything else verified accurate. New 3-way near-duplicate cluster found (all unreviewed, left uncut): general-3076/general-2722/science-technology-851, all crediting Christopher Latham Sholes with inventing/patenting the QWERTY typewriter keyboard."
     },
     {
       "chunkId": "general-p1-005",
@@ -9010,11 +9010,11 @@
         "general-3268",
         "general-3269"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-11",
+      "completedAt": "2026-08-11",
+      "issuesFound": 4,
+      "notes": "Fixed general-3209: theoretical highest-scoring Scrabble play (1,778 pts) is OXYPHENBUTAZONE, not CAZIQUES (CAZIQUES is the real competitive-game record, 392 pts, correctly covered by general-3469 already). Cut general-3203 (ampersand='et') as duplicate of already-reviewed general-3082. Cut general-3212 (Jenga=54 blocks) as duplicate of already-reviewed general-3132. Cut general-3266 (domino 'spinner'='Double-12') as an in-chunk duplicate of general-3223's correct spinner definition, and also factually wrong/unfixable (standard double-six domino sets don't even contain a Double-12 tile; the spinner is whichever double is played first, not a fixed tile)."
     },
     {
       "chunkId": "general-p1-006",
@@ -9071,11 +9071,11 @@
         "general-3390",
         "general-3391"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-11",
+      "completedAt": "2026-08-11",
+      "issuesFound": 6,
+      "notes": "Cut 4 cross-chunk duplicates of already-reviewed general-p1-005 wordplay-term definitions: general-3320 (capitonym, dup of general-3207), general-3321 (aptronym, dup of general-3168), general-3322 (backronym, dup of general-3232), general-3326 (tautology, dup of general-3230). Cut general-3346 (nautical mile in meters) as in-chunk duplicate of general-3313. Cut general-3390 (Mexican Train dominoes tiles-per-player, 4p double-12 set) for genuine real-world ambiguity -- published rule sets disagree (11/12/14/15 depending on source per Wikipedia rules table), and the drafted distractor 12 is itself a valid answer under other rule sets. Everything else verified accurate."
     },
     {
       "chunkId": "general-p1-007",
@@ -9132,11 +9132,11 @@
         "general-3509",
         "general-3514"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-11",
+      "completedAt": "2026-08-11",
+      "issuesFound": 7,
+      "notes": "Cut general-3457 (checkers first-move color) for genuine real-world ambiguity -- reputable sources conflict on whether red or black moves first in standard American checkers, and both were offered as options. Cut cross-chunk duplicates of already-reviewed questions: general-3393 (ampersand=et, dup of general-3082), general-3417 (limelight/calcium oxide, dup of general-3151), general-3491 (tautology definition, dup of general-3230), general-3494 (fathom=6ft, dup of general-3307), general-3502 (bushel=4 pecks, dup of general-3684), general-3509 (score=20yrs/Gettysburg Address, dup of general-3181). Everything else verified accurate."
     },
     {
       "chunkId": "general-p1-008",

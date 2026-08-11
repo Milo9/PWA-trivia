@@ -675,6 +675,61 @@ Open items for a future dedicated pass:
   (malapropism, cross-category), `general-3062`/`general-3192` (Full
   House's position in the poker hand-ranking hierarchy, described via
   two different specific relationships but the same underlying fact).
+- Chunk `general-p1-004` (2026-08-11): cut `general-3127` (Lego's Danish
+  "leg godt" = "play well") as a cross-category duplicate of
+  already-reviewed `business-brands-024` (same fact), per the
+  already-reviewed-sibling policy. Everything else in the chunk checked
+  out. New 3-way near-duplicate cluster found, left uncut (neither
+  `general-2722` nor `science-technology-851` has been reviewed —
+  `science-technology-851` isn't in any pass chunk at all, same
+  out-of-pass gap as the friends 179 orphans noted below):
+  `general-3076` ("credited with inventing the QWERTY keyboard layout"),
+  `general-2722` ("first practical typewriter patented in the 1860s by
+  which American inventor"), and `science-technology-851` ("patented the
+  QWERTY keyboard layout in 1868 and sold it in 1873") — all three
+  answer Christopher Latham Sholes and are the same underlying
+  fact/event reworded three ways.
+- Chunk `general-p1-006` (2026-08-11): cut 4 cross-chunk duplicates of
+  already-reviewed `general-p1-005` wordplay-term definitions (per the
+  already-reviewed-sibling policy) — `general-3320`/`general-3207`
+  (capitonym), `general-3321`/`general-3168` (aptronym, reversed
+  direction), `general-3322`/`general-3232` (backronym, reversed
+  direction), `general-3326`/`general-3230` (tautology). Cut
+  `general-3346` as an in-chunk duplicate of `general-3313` (nautical
+  mile = 1,852 meters). Cut `general-3390` (Mexican Train dominoes
+  tiles-per-player, 4 players/double-12 set) for genuine real-world
+  ambiguity — published rule sets disagree (Wikipedia's own rules table
+  lists 11, 12, or 14 depending on publisher), and the drafted
+  distractor "12" is itself a valid answer under other rule sets, not
+  just an obscure alternative. New same-answer/duplicate pairs surfaced
+  but left uncut since the sibling ID falls in a not-yet-reviewed chunk
+  (`general-p1-014`, still pending): `general-3319`/`general-3224`
+  (eponym, reversed direction), `general-3290`/`general-3381` (full
+  house = three of a kind + a pair, reversed direction),
+  `general-3345`/`general-3198` (ream of paper = 500 sheets).
+  `general-3313`/`general-4219` (nautical mile) also left uncut —
+  `general-4219` isn't in any pass chunk at all (an out-of-pass orphan,
+  same gap as the friends 179 orphans noted below).
+- Chunk `general-p1-007` (2026-08-11): cut `general-3457` ("in checkers,
+  which color moves first?" → "Black") for genuine real-world ambiguity
+  — sources conflict on whether red or black moves first in standard
+  American checkers (depends on which color scheme/ruleset is cited),
+  and both "Black" and "Red" were offered as options with no way to
+  narrow to one true answer. Cut 6 cross-chunk duplicates of
+  already-reviewed questions from earlier `general` chunks (per the
+  already-reviewed-sibling policy): `general-3393`/`general-3082`
+  (ampersand = ligature of "et"), `general-3417`/`general-3151`
+  (limelight = heated calcium oxide), `general-3491`/`general-3230`
+  (tautology definition, reversed direction), `general-3494`/
+  `general-3307` (fathom = 6 feet), `general-3502`/`general-3684`
+  (bushel = 4 pecks), `general-3509`/`general-3181` (score = 20 years,
+  Gettysburg Address). New same-answer pairs left uncut — sibling is an
+  out-of-pass orphan not in any chunk, same gap as `general-4219` above:
+  `general-3402`/`general-4480` (ampersand etymology vs. "common name
+  for &", different-enough facts but coincidentally same answer text),
+  `general-3480`/`general-4097` (chiasmus, reversed direction),
+  `general-3492`/`general-3948` (synecdoche "wheels"=car, reversed
+  direction).
 - The 12 categories split out of `general` don't have `data/topics.json`
   entries yet, so `analyze.js`/`find-gaps.js` report "no topic list
   configured" for them. Category-level question counts (`npm run

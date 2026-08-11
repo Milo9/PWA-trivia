@@ -2496,19 +2496,6 @@
     "answer": "Two little ducks"
   },
   {
-    "id": "general-3127",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "The name LEGO is derived from the Danish phrase 'leg godt', which translates to what in English?",
-    "options": [
-      "Little bricks",
-      "Build strong",
-      "Click together",
-      "Play well"
-    ],
-    "answer": "Play well"
-  },
-  {
     "id": "general-3128",
     "category": "general",
     "difficulty": "easy",
@@ -3484,19 +3471,6 @@
     "id": "general-3202"
   },
   {
-    "difficulty": "medium",
-    "category": "general",
-    "question": "What does the ampersand symbol '&' historically represent?",
-    "options": [
-      "The Latin word 'et' meaning 'and'",
-      "The word 'at'",
-      "The word 'or'",
-      "The word 'end'"
-    ],
-    "answer": "The Latin word 'et' meaning 'and'",
-    "id": "general-3203"
-  },
-  {
     "difficulty": "easy",
     "category": "general",
     "question": "How many dots are on the double-blank domino?",
@@ -3571,7 +3545,7 @@
       "MUZJIKS",
       "OXYPHENBUTAZONE"
     ],
-    "answer": "CAZIQUES",
+    "answer": "OXYPHENBUTAZONE",
     "id": "general-3209"
   },
   {
@@ -3599,19 +3573,6 @@
     ],
     "answer": "Let the cat out of the bag",
     "id": "general-3211"
-  },
-  {
-    "difficulty": "medium",
-    "category": "general",
-    "question": "In Jenga, how many wooden blocks are in a standard set?",
-    "options": [
-      "48",
-      "54",
-      "60",
-      "36"
-    ],
-    "answer": "54",
-    "id": "general-3212"
   },
   {
     "difficulty": "easy",
@@ -4303,19 +4264,6 @@
     "id": "general-3265"
   },
   {
-    "difficulty": "medium",
-    "category": "general",
-    "question": "In standard dominoes, which tile is also called the spinner in some variants?",
-    "options": [
-      "Double-12",
-      "Double-blank",
-      "Double-6",
-      "Double-5"
-    ],
-    "answer": "Double-12",
-    "id": "general-3266"
-  },
-  {
     "difficulty": "easy",
     "category": "general",
     "question": "What does it mean to 'let off steam'?",
@@ -5005,45 +4953,6 @@
     "answer": "A word or thing named after a person"
   },
   {
-    "id": "general-3320",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "What is a capitonym?",
-    "options": [
-      "A word that changes meaning when capitalized",
-      "A word that has no vowels",
-      "A word that reads the same upside down",
-      "A word made of only consonants"
-    ],
-    "answer": "A word that changes meaning when capitalized"
-  },
-  {
-    "id": "general-3321",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "What is an aptronym?",
-    "options": [
-      "A name that fittingly suits its owner's profession",
-      "A name that is impossible to pronounce",
-      "A name that is an anagram",
-      "A name with no surname"
-    ],
-    "answer": "A name that fittingly suits its owner's profession"
-  },
-  {
-    "id": "general-3322",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "What is a backronym?",
-    "options": [
-      "A phrase invented to fit an existing acronym",
-      "An acronym that spells a real word",
-      "A word formed from initials",
-      "A word that shortens a phrase"
-    ],
-    "answer": "A phrase invented to fit an existing acronym"
-  },
-  {
     "id": "general-3323",
     "category": "general",
     "difficulty": "hard",
@@ -5081,19 +4990,6 @@
       "A word that is shouted"
     ],
     "answer": "A word puzzle where syllables are described as separate words"
-  },
-  {
-    "id": "general-3326",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "What is a tautology in rhetoric?",
-    "options": [
-      "Repeating the same idea using different words",
-      "Using a word that sounds like its meaning",
-      "A sentence that is false",
-      "A word that has no meaning"
-    ],
-    "answer": "Repeating the same idea using different words"
   },
   {
     "id": "general-3327",
@@ -5341,19 +5237,6 @@
       "1,000"
     ],
     "answer": "500"
-  },
-  {
-    "id": "general-3346",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "How many meters are in one international nautical mile?",
-    "options": [
-      "1,852",
-      "1,609",
-      "1,000",
-      "2,000"
-    ],
-    "answer": "1,852"
   },
   {
     "id": "general-3347",
@@ -5915,19 +5798,6 @@
     "answer": "Double"
   },
   {
-    "id": "general-3390",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "How many tiles does each player draw at start of Mexican Train dominoes with 4 players using double-12?",
-    "options": [
-      "15",
-      "12",
-      "10",
-      "7"
-    ],
-    "answer": "15"
-  },
-  {
     "id": "general-3391",
     "category": "general",
     "difficulty": "medium",
@@ -5952,19 +5822,6 @@
       "Three pairs"
     ],
     "answer": "Five consecutive cards of same suit"
-  },
-  {
-    "id": "general-3393",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "The ampersand symbol & originated as a ligature of which Latin word?",
-    "options": [
-      "et",
-      "at",
-      "and",
-      "ab"
-    ],
-    "answer": "et"
   },
   {
     "id": "general-3394",
@@ -6251,19 +6108,6 @@
       "Protecting children"
     ],
     "answer": "Discarding something valuable while getting rid of unwanted"
-  },
-  {
-    "id": "general-3417",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "What did the original theatrical limelight consist of?",
-    "options": [
-      "Light made by heating quicklime calcium oxide",
-      "Lime-colored lens filter",
-      "Lemon juice burning lamp",
-      "Gas lamp with citrus oil"
-    ],
-    "answer": "Light made by heating quicklime calcium oxide"
   },
   {
     "id": "general-3418",
@@ -6773,19 +6617,6 @@
     "answer": "A dictionary or vocabulary of a language"
   },
   {
-    "id": "general-3457",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "In checkers, which color moves first?",
-    "options": [
-      "Black",
-      "Red",
-      "White",
-      "Either"
-    ],
-    "answer": "Black"
-  },
-  {
     "id": "general-3458",
     "category": "general",
     "difficulty": "medium",
@@ -7215,19 +7046,6 @@
     "answer": "Pleonasm"
   },
   {
-    "id": "general-3491",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "What is the term for a statement that repeats the same idea in different words, such as \"The end of the final chapter\"?",
-    "options": [
-      "Tautology",
-      "Pleonasm",
-      "Paradox",
-      "Oxymoron"
-    ],
-    "answer": "Tautology"
-  },
-  {
     "id": "general-3492",
     "category": "general",
     "difficulty": "medium",
@@ -7252,19 +7070,6 @@
       "Kenning"
     ],
     "answer": "Metonymy"
-  },
-  {
-    "id": "general-3494",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "In traditional nautical measurement, how many feet are in a fathom?",
-    "options": [
-      "6",
-      "8",
-      "5",
-      "10"
-    ],
-    "answer": "6"
   },
   {
     "id": "general-3495",
@@ -7358,19 +7163,6 @@
     "answer": "8"
   },
   {
-    "id": "general-3502",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "According to the traditional system, how many pecks are in a bushel?",
-    "options": [
-      "4",
-      "2",
-      "8",
-      "16"
-    ],
-    "answer": "4"
-  },
-  {
     "id": "general-3503",
     "category": "general",
     "difficulty": "medium",
@@ -7447,19 +7239,6 @@
       "The distance light travels in one second"
     ],
     "answer": "The distance light travels in a vacuum in one Julian year"
-  },
-  {
-    "id": "general-3509",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "Famously used by Abraham Lincoln in the Gettysburg Address, how many years are in a \"score\"?",
-    "options": [
-      "20",
-      "10",
-      "50",
-      "100"
-    ],
-    "answer": "20"
   },
   {
     "id": "general-3510",
