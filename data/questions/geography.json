@@ -390,19 +390,6 @@
     "answer": "The Amazon"
   },
   {
-    "id": "general-495",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which Southeast Asian country is made up of over 17,000 islands, making it the world's largest archipelago?",
-    "options": [
-      "Philippines",
-      "Malaysia",
-      "Indonesia",
-      "Papua New Guinea"
-    ],
-    "answer": "Indonesia"
-  },
-  {
     "id": "general-600",
     "category": "geography",
     "difficulty": "medium",
@@ -505,19 +492,6 @@
       "The Arctic Ocean"
     ],
     "answer": "The Pacific Ocean"
-  },
-  {
-    "id": "general-715",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "What is the capital city of Canada?",
-    "options": [
-      "Toronto",
-      "Vancouver",
-      "Ottawa",
-      "Montreal"
-    ],
-    "answer": "Ottawa"
   },
   {
     "id": "general-716",
@@ -858,19 +832,6 @@
     "answer": "Nile"
   },
   {
-    "id": "general-1002",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which cold desert in Asia is the largest desert on the continent?",
-    "options": [
-      "Gobi Desert",
-      "Thar Desert",
-      "Karakum Desert",
-      "Taklamakan Desert"
-    ],
-    "answer": "Gobi Desert"
-  },
-  {
     "id": "general-1003",
     "category": "geography",
     "difficulty": "medium",
@@ -895,32 +856,6 @@
       "South Africa"
     ],
     "answer": "Nigeria"
-  },
-  {
-    "id": "general-1006",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which mountain range separates Europe from Asia in Russia?",
-    "options": [
-      "Ural Mountains",
-      "Caucasus Mountains",
-      "Carpathian Mountains",
-      "Alps"
-    ],
-    "answer": "Ural Mountains"
-  },
-  {
-    "id": "general-1007",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "What is the deepest point in the world's oceans?",
-    "options": [
-      "Mariana Trench",
-      "Puerto Rico Trench",
-      "Tonga Trench",
-      "Java Trench"
-    ],
-    "answer": "Mariana Trench"
   },
   {
     "id": "general-1009",
@@ -999,19 +934,6 @@
       "Nepal"
     ],
     "answer": "Rwanda"
-  },
-  {
-    "id": "general-1016",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "What is the driest continent on Earth?",
-    "options": [
-      "Antarctica",
-      "Australia",
-      "Africa",
-      "Asia"
-    ],
-    "answer": "Antarctica"
   },
   {
     "id": "general-1017",
@@ -1129,19 +1051,6 @@
       "Vestland"
     ],
     "answer": "Sognefjord region"
-  },
-  {
-    "id": "general-1026",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which country consists of over 17,000 islands, making it the world's largest archipelago?",
-    "options": [
-      "Indonesia",
-      "Philippines",
-      "Japan",
-      "Maldives"
-    ],
-    "answer": "Indonesia"
   },
   {
     "id": "general-1027",
@@ -1319,11 +1228,11 @@
     "question": "What is the collective name for the group of Nordic countries including Norway, Sweden, Denmark, Finland, and Iceland?",
     "options": [
       "Scandinavia",
-      "Baltic States",
+      "Nordic countries",
       "Benelux",
       "The British Isles"
     ],
-    "answer": "Scandinavia"
+    "answer": "Nordic countries"
   },
   {
     "id": "general-1297",
@@ -2197,19 +2106,6 @@
     "answer": "Reykjavik"
   },
   {
-    "id": "general-1805",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which mountain range is often considered the boundary between Europe and Asia?",
-    "options": [
-      "Ural Mountains",
-      "Alps",
-      "Carpathian Mountains",
-      "Caucasus Mountains"
-    ],
-    "answer": "Ural Mountains"
-  },
-  {
     "id": "general-1807",
     "category": "geography",
     "difficulty": "hard",
@@ -2314,32 +2210,6 @@
     "answer": "Ashgabat"
   },
   {
-    "id": "general-1815",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which African country is the continent's most populous by number of people?",
-    "options": [
-      "Nigeria",
-      "Ethiopia",
-      "Egypt",
-      "South Africa"
-    ],
-    "answer": "Nigeria"
-  },
-  {
-    "id": "general-1816",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "What is the largest lake in Africa by surface area?",
-    "options": [
-      "Lake Victoria",
-      "Lake Tanganyika",
-      "Lake Malawi",
-      "Lake Chad"
-    ],
-    "answer": "Lake Victoria"
-  },
-  {
     "id": "general-1817",
     "category": "geography",
     "difficulty": "easy",
@@ -2418,32 +2288,6 @@
     "answer": "Tigris"
   },
   {
-    "id": "general-1824",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "What is the capital of Ethiopia, also the headquarters of the African Union?",
-    "options": [
-      "Addis Ababa",
-      "Nairobi",
-      "Khartoum",
-      "Kampala"
-    ],
-    "answer": "Addis Ababa"
-  },
-  {
-    "id": "general-1826",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "What is the highest waterfall in the world?",
-    "options": [
-      "Angel Falls",
-      "Victoria Falls",
-      "Niagara Falls",
-      "Iguazu Falls"
-    ],
-    "answer": "Angel Falls"
-  },
-  {
     "id": "general-1827",
     "category": "geography",
     "difficulty": "easy",
@@ -2468,19 +2312,6 @@
       "Brazil"
     ],
     "answer": "Ecuador"
-  },
-  {
-    "id": "general-1829",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which country consists of over 17,000 islands?",
-    "options": [
-      "Indonesia",
-      "Philippines",
-      "Japan",
-      "Malaysia"
-    ],
-    "answer": "Indonesia"
   },
   {
     "id": "general-1830",
@@ -2730,19 +2561,6 @@
     "answer": "South Africa"
   },
   {
-    "id": "general-1852",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "What is the longest river located entirely in Europe?",
-    "options": [
-      "Volga",
-      "Danube",
-      "Rhine",
-      "Dnieper"
-    ],
-    "answer": "Volga"
-  },
-  {
     "id": "general-1854",
     "category": "geography",
     "difficulty": "easy",
@@ -2808,19 +2626,6 @@
     "answer": "South Africa"
   },
   {
-    "id": "general-1860",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "What is the name of the strait separating Alaska from Russia?",
-    "options": [
-      "Bering Strait",
-      "Davis Strait",
-      "Cook Strait",
-      "Hudson Strait"
-    ],
-    "answer": "Bering Strait"
-  },
-  {
     "id": "general-2218",
     "category": "geography",
     "difficulty": "medium",
@@ -2832,32 +2637,6 @@
       "Ethiopia"
     ],
     "answer": "Tanzania"
-  },
-  {
-    "id": "general-2219",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "What is the world's highest waterfall?",
-    "options": [
-      "Angel Falls",
-      "Niagara Falls",
-      "Victoria Falls",
-      "Iguazu Falls"
-    ],
-    "answer": "Angel Falls"
-  },
-  {
-    "id": "general-2220",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which country has the largest population in Africa?",
-    "options": [
-      "Nigeria",
-      "Egypt",
-      "Ethiopia",
-      "South Africa"
-    ],
-    "answer": "Nigeria"
   },
   {
     "id": "general-2222",
@@ -2876,7 +2655,7 @@
     "id": "general-2223",
     "category": "geography",
     "difficulty": "medium",
-    "question": "Which South American country is named after the explorer Amerigo Vespucci... no wait, which country straddles the equator and contains part of the Amazon rainforest and the Galápagos Islands?",
+    "question": "Which South American country straddles the equator and contains part of the Amazon rainforest and the Galápagos Islands?",
     "options": [
       "Ecuador",
       "Peru",
@@ -2975,32 +2754,6 @@
       "The Nile River"
     ],
     "answer": "The Congo River"
-  },
-  {
-    "id": "general-2300",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which sea lies between Saudi Arabia and Egypt?",
-    "options": [
-      "The Red Sea",
-      "The Black Sea",
-      "The Caspian Sea",
-      "The Arabian Sea"
-    ],
-    "answer": "The Red Sea"
-  },
-  {
-    "id": "general-2301",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which country consists of over 17,000 islands and is the largest archipelago nation?",
-    "options": [
-      "Indonesia",
-      "Philippines",
-      "Japan",
-      "Malaysia"
-    ],
-    "answer": "Indonesia"
   },
   {
     "id": "general-2302",
@@ -3159,19 +2912,6 @@
     "answer": "The Arctic Ocean"
   },
   {
-    "id": "general-2365",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which country is the largest by population in the world as of the 2020s?",
-    "options": [
-      "India",
-      "China",
-      "United States",
-      "Indonesia"
-    ],
-    "answer": "India"
-  },
-  {
     "id": "general-2367",
     "category": "geography",
     "difficulty": "hard",
@@ -3274,19 +3014,6 @@
       "The Kuroshio Current"
     ],
     "answer": "The Gulf Stream"
-  },
-  {
-    "id": "general-2411",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which country is home to the Serengeti National Park?",
-    "options": [
-      "Tanzania",
-      "Kenya",
-      "Uganda",
-      "Zambia"
-    ],
-    "answer": "Tanzania"
   },
   {
     "id": "general-2412",
@@ -3432,19 +3159,6 @@
     "answer": "The Great Rift Valley"
   },
   {
-    "id": "general-2445",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which country is home to the Atacama Desert, one of the driest places on Earth?",
-    "options": [
-      "Chile",
-      "Peru",
-      "Bolivia",
-      "Argentina"
-    ],
-    "answer": "Chile"
-  },
-  {
     "id": "general-2446",
     "category": "geography",
     "difficulty": "easy",
@@ -3456,19 +3170,6 @@
       "Iceland"
     ],
     "answer": "Ireland"
-  },
-  {
-    "id": "general-2447",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "What is the name of the strait separating Asia and North America?",
-    "options": [
-      "The Bering Strait",
-      "The Strait of Malacca",
-      "The Strait of Hormuz",
-      "The Cook Strait"
-    ],
-    "answer": "The Bering Strait"
   },
   {
     "id": "general-2448",
@@ -3526,7 +3227,7 @@
     "id": "general-2453",
     "category": "geography",
     "difficulty": "medium",
-    "question": "What is the capital of Indonesia (as historically recognized before the planned move)?",
+    "question": "As of 2026, what is the capital of Indonesia, despite the planned relocation to Nusantara?",
     "options": [
       "Jakarta",
       "Surabaya",
@@ -3565,7 +3266,7 @@
     "id": "general-2544",
     "category": "geography",
     "difficulty": "medium",
-    "question": "What is the capital of Vietnam's southern rival city, formerly called Saigon?",
+    "question": "As of 2026, what is the current name of Vietnam's southern rival city to Hanoi, formerly called Saigon?",
     "options": [
       "Ho Chi Minh City",
       "Hanoi",
@@ -3573,19 +3274,6 @@
       "Hue"
     ],
     "answer": "Ho Chi Minh City"
-  },
-  {
-    "id": "general-2545",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which country contains the geographic point known as the 'Roof of Africa,' Mount Kilimanjaro?",
-    "options": [
-      "Tanzania",
-      "Kenya",
-      "Uganda",
-      "Rwanda"
-    ],
-    "answer": "Tanzania"
   },
   {
     "id": "general-2546",
@@ -3666,19 +3354,6 @@
     "answer": "The Pyrenees"
   },
   {
-    "id": "general-2632",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Lake Baikal, holding roughly a fifth of the world's unfrozen fresh water, is located in which country?",
-    "options": [
-      "Russia",
-      "Mongolia",
-      "Kazakhstan",
-      "China"
-    ],
-    "answer": "Russia"
-  },
-  {
     "id": "general-2633",
     "category": "geography",
     "difficulty": "hard",
@@ -3703,19 +3378,6 @@
       "Angola"
     ],
     "answer": "South Africa"
-  },
-  {
-    "id": "general-2635",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which African country is completely surrounded by South Africa?",
-    "options": [
-      "Lesotho",
-      "Eswatini",
-      "Malawi",
-      "Botswana"
-    ],
-    "answer": "Lesotho"
   },
   {
     "id": "general-2636",
@@ -3768,19 +3430,6 @@
       "Vietnam"
     ],
     "answer": "Malaysia"
-  },
-  {
-    "id": "general-2640",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which two countries are separated by the 49th parallel for much of their shared border?",
-    "options": [
-      "Canada and the United States",
-      "The United States and Mexico",
-      "Russia and Mongolia",
-      "Norway and Sweden"
-    ],
-    "answer": "Canada and the United States"
   },
   {
     "id": "general-2641",
@@ -4095,19 +3744,6 @@
     "answer": "Chile"
   },
   {
-    "id": "geography-019",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Lesotho is one of only three countries in the world that is entirely surrounded by another single country. Which country surrounds it?",
-    "options": [
-      "South Africa",
-      "Zimbabwe",
-      "Botswana",
-      "Namibia"
-    ],
-    "answer": "South Africa"
-  },
-  {
     "id": "geography-020",
     "category": "geography",
     "difficulty": "hard",
@@ -4157,7 +3793,7 @@
       "Kathmandu",
       "Thimphu"
     ],
-    "answer": "Quito"
+    "answer": "La Paz"
   },
   {
     "id": "geography-024",
@@ -4171,19 +3807,6 @@
       "1%"
     ],
     "answer": "3%"
-  },
-  {
-    "id": "geography-025",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "What is the largest desert in the world?",
-    "options": [
-      "Sahara",
-      "Gobi",
-      "Antarctic Desert",
-      "Arabian Desert"
-    ],
-    "answer": "Antarctic Desert"
   },
   {
     "id": "geography-026",
@@ -4303,19 +3926,6 @@
     "answer": "London"
   },
   {
-    "id": "geography-036",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which river is generally considered the longest in Europe?",
-    "options": [
-      "Danube",
-      "Volga",
-      "Rhine",
-      "Dnieper"
-    ],
-    "answer": "Volga"
-  },
-  {
     "id": "geography-038",
     "category": "geography",
     "difficulty": "easy",
@@ -4355,32 +3965,6 @@
     "answer": "Three"
   },
   {
-    "id": "geography-041",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "What is the de facto capital city of Switzerland?",
-    "options": [
-      "Zurich",
-      "Geneva",
-      "Bern",
-      "Basel"
-    ],
-    "answer": "Bern"
-  },
-  {
-    "id": "geography-042",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "What is the capital city of Morocco?",
-    "options": [
-      "Casablanca",
-      "Marrakesh",
-      "Rabat",
-      "Fez"
-    ],
-    "answer": "Rabat"
-  },
-  {
     "id": "geography-043",
     "category": "geography",
     "difficulty": "easy",
@@ -4405,19 +3989,6 @@
       "Stavanger"
     ],
     "answer": "Oslo"
-  },
-  {
-    "id": "geography-045",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "What is the tallest uninterrupted waterfall in the world?",
-    "options": [
-      "Niagara Falls",
-      "Victoria Falls",
-      "Angel Falls",
-      "Iguazu Falls"
-    ],
-    "answer": "Angel Falls"
   },
   {
     "id": "geography-046",
@@ -4485,32 +4056,6 @@
     "answer": "Denali"
   },
   {
-    "id": "geography-051",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "What is the name of the deepest point in the Mariana Trench?",
-    "options": [
-      "Challenger Deep",
-      "Tonga Trench",
-      "Philippine Trench",
-      "Kermadec Trench"
-    ],
-    "answer": "Challenger Deep"
-  },
-  {
-    "id": "geography-052",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which country has 12 time zones when including its overseas territories?",
-    "options": [
-      "France",
-      "Russia",
-      "United States",
-      "United Kingdom"
-    ],
-    "answer": "France"
-  },
-  {
     "id": "geography-053",
     "category": "geography",
     "difficulty": "medium",
@@ -4548,19 +4093,6 @@
       "New Zealand"
     ],
     "answer": "Australia"
-  },
-  {
-    "id": "geography-056",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "What is the capital of Japan?",
-    "options": [
-      "Tokyo",
-      "Osaka",
-      "Kyoto",
-      "Yokohama"
-    ],
-    "answer": "Tokyo"
   },
   {
     "id": "geography-057",
@@ -4634,7 +4166,7 @@
     "question": "As of 2026, what is the largest dam in the world by installed capacity?",
     "options": [
       "Itaipu Dam",
-      "Brutalist Dam",
+      "Baihetan Dam",
       "Grand Coulee Dam",
       "Three Gorges Dam"
     ],

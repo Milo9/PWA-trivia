@@ -10097,11 +10097,11 @@
         "general-1490",
         "general-1491"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-11",
+      "completedAt": "2026-08-11",
+      "issuesFound": 8,
+      "notes": "Cut 7 duplicates: general-715/general-1006/general-1002/general-1016 each duplicated an already-done sibling (general-018 capital of Canada, general-713 Ural Mountains, general-2419 Gobi cold desert, general-2222 driest continent); general-495/general-1026 were an in-chunk trio duplicate of general-724 (Indonesia/17k islands/largest archipelago, kept 724); general-1007 was an in-chunk duplicate of general-980 (Mariana Trench deepest point, kept 980). Fixed general-1295's Scandinavia/Nordic-countries conflation (question described the 5-country Nordic grouping but answered 'Scandinavia', which strictly means Norway/Sweden/Denmark; swapped answer to 'Nordic countries', kept Scandinavia as a distractor). Logged 3 backlog notes: geography-903 and geography-906 are orphan duplicates of general-975/general-1023 that will never resurface via next; geography-023 has a likely factual error (Quito marked as highest-elevation capital over La Paz, which is the commonly-cited record holder) flagged for verification when its own chunk is reached."
     },
     {
       "chunkId": "geography-p1-006",
@@ -10158,11 +10158,11 @@
         "general-2411",
         "general-2412"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-11",
+      "completedAt": "2026-08-11",
+      "issuesFound": 20,
+      "notes": "Cut 14 duplicates, all against already-done siblings from prior chunks: general-1805(Ural Mtns dup general-713), general-1815/general-2220(Nigeria most populous Africa dup general-1004), general-1824(capital Ethiopia dup general-1480), general-1826/general-2219(Angel Falls highest waterfall dup general-094), general-1829/general-2301(Indonesia 17k islands dup general-724), general-1852(Volga longest European river dup general-2443), general-1860(Bering Strait dup general-1465), general-1816(Lake Victoria dup general-725), general-2300(Red Sea dup general-975), general-2365(India population dup general-070), general-2411(Serengeti dup general-1311). Fixed general-2223's leaked drafting text ('...named after Amerigo Vespucci... no wait, which country...') by removing the aborted first clause, keeping the valid Ecuador/equator/Amazon/Galapagos question. Logged 5 backlog notes for orphan-sibling duplicates (geography-893/915/879/914/916) that will never resurface via next."
     },
     {
       "chunkId": "geography-p1-007",
@@ -10219,11 +10219,11 @@
         "geography-075",
         "geography-076"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-11",
+      "completedAt": "2026-08-11",
+      "issuesFound": 23,
+      "notes": "Fixed factual error flagged in prior chunk's backlog: geography-023 answered Quito for 'highest capital city by elevation' -- verified via WebSearch that La Paz (~3,640m) is the commonly-cited record holder (Quito ~2,850m is second-highest), swapped answer to La Paz. Fixed geography-062's fake distractor 'Brutalist Dam' (not a real dam) to 'Baihetan Dam'. Fixed general-2544's malformed stem ('capital of Vietnam's southern rival city' -- Ho Chi Minh City isn't a capital) and general-2453's awkward 'as historically recognized before the planned move' phrasing, both reworded for clarity/accuracy after verifying via WebSearch that Jakarta remains Indonesia's legal capital as of 2026 (Constitutional Court ruling, May 2026) despite the Nusantara relocation. Cut 15 duplicates, all against already-done siblings: general-2445(Atacama dup general-1011), general-2447(Bering Strait dup general-1465), general-2545(Kilimanjaro dup general-2218), general-2632(Lake Baikal dup general-1009), general-2635+geography-019(Lesotho/South Africa, both directions, dup general-716), geography-025(Antarctic Desert dup general-709), geography-036(Volga dup general-2443), geography-041(Bern dup general-1307), geography-042(Rabat dup general-721), geography-045(Angel Falls dup general-094), geography-051(Challenger Deep dup general-2341), geography-052(France time zones, in-chunk dup of geography-010), geography-056(Tokyo dup general-038), general-2640(49th parallel dup general-098). Logged 4 backlog notes: geography-1265/geography-921/geography-1268 are orphan duplicates that will never resurface; geography-909 flagged for a genuinely disputed 'Nile is longest river in world' claim (Amazon is a real rival claim) worth pinning/verifying."
     },
     {
       "chunkId": "geography-p1-008",
