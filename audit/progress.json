@@ -9853,11 +9853,11 @@
         "geography-020",
         "geography-021"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-11",
+      "completedAt": "2026-08-11",
+      "issuesFound": 6,
+      "notes": "Cut 4 cross-chunk dupes of already-done geography-p1-000 siblings (general-1825/Sweden-islands, general-1835/SouthAfrica-3-capitals, general-2450/Sudan-pyramids, general-2441/Indonesia-volcanoes); cut geography-018 (Perth-Singapore-vs-Sydney distance claim is factually false per real distances, ~3901km vs ~3297km, Perth is actually closer to Sydney; no clean unique-among-options replacement city found); reworded general-2419 to 'largest cold desert in Asia' since unqualified 'largest desert in Asia' is disputed (Arabian Desert is larger and also in Asia)"
     },
     {
       "chunkId": "geography-p1-002",
@@ -9914,11 +9914,11 @@
         "geography-184",
         "geography-190"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-11",
+      "completedAt": "2026-08-11",
+      "issuesFound": 6,
+      "notes": "Cut 2 cross-chunk dupes of already-done geography-p1-000 siblings (geography-030/India-population dup of general-070, geography-037/Astana dup of general-1475); logged 4 backlog notes for duplicate pairs that can't self-resolve (geography-089/geography-1273, geography-128/geography-1311, geography-129/geography-776+848+1307, geography-154/geography-262) since matched siblings are orphans or have non-matching answer text; all other facts and distractors verified accurate (verified via WebSearch: Spain-Morocco 85m shortest border, Danyang-Kunshan still longest bridge as of 2026)"
     },
     {
       "chunkId": "geography-p1-003",
@@ -9975,11 +9975,11 @@
         "geography-331",
         "geography-334"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-11",
+      "completedAt": "2026-08-11",
+      "issuesFound": 6,
+      "notes": "Cut 2 cross-chunk dupes of already-done geography-p1-002 siblings (geography-254/Yarlung-Tsangpo-canyon dup of geography-126, geography-300/Lake-Maracaibo-Venezuela dup of geography-178); logged 4 backlog notes for duplicates of orphan siblings that can't self-resolve (geography-200/geography-1144 Damavand-Alborz, geography-282/geography-697 Zagros-Iran, geography-295/geography-716 Dasht-e-Kavir-Iran, geography-325/geography-670 Baarle-Hertog-Netherlands); verified longest-river-in-Germany ambiguity (geography-275/Main) is safe since Weser isn't offered as a distractor; all other facts and distractors verified accurate"
     },
     {
       "chunkId": "geography-p1-004",
@@ -10036,11 +10036,11 @@
         "general-197",
         "general-493"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-11",
+      "completedAt": "2026-08-11",
+      "issuesFound": 7,
+      "notes": "Cut 3 cross-chunk dupes of already-done siblings (general-022/Everest dup of geography-032, geography-587/85m-Spain-Morocco-border dup of geography-083, geography-523/Sudan-pyramids dup of general-1464); fixed geography-414's broken question stem (leaked drafting meta-text 'excluding the already-covered Sicily fact by focusing on second largest' -> clean 'second-largest island in the Mediterranean after Sicily'); logged 3 backlog notes for duplicates of orphan siblings (geography-424/geography-852 Kiribati-four-hemispheres, geography-546/geography-729 Nauru-de-facto-capital, geography-592/geography-669 Nakhchivan-Azerbaijan); all other facts and distractors verified accurate"
     },
     {
       "chunkId": "geography-p1-005",

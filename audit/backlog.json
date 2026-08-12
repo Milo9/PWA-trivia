@@ -47,6 +47,17 @@
   "general-4130": "Orphan (no chunk this pass). Duplicate of general-3375 (reviewed general-p1-014): both define poker flop = first three community cards. Cut this one when reached (after append-orphans).",
   "general-4133": "Orphan (no chunk this pass). Duplicate of general-3310 (reviewed general-p1-014): both state Blackjack/21-approach goal = 21. Cut this one when reached (after append-orphans).",
   "general-736": "Orphan (no chunk this pass). Duplicate of general-2314 (already done, general-p1-011): both define 'palindrome'. Cut this one when reached (after append-orphans).",
+  "geography-089": "Duplicate of orphan geography-1273 ('What is the highest mountain in Oceania as of 2026?' -> Puncak Jaya) -- same fact, orphan will never surface via next.",
+  "geography-128": "Duplicate of orphan geography-1311 ('Which is the longest underwater mountain range in the world as of 2026?' -> Mid-Ocean Ridge) -- same fact, orphan will never surface via next.",
+  "geography-129": "Duplicate cluster with orphans geography-776, geography-848, geography-1307 (all 'driest place on Earth' -> McMurdo Dry Valleys) -- same fact x3, orphans will never surface via next.",
+  "geography-154": "Duplicate of pending geography-262 (geography-p1-010) -- both 'deepest river in world, depths exceeding 220m' -> Congo, but answer text differs ('Congo' vs 'Congo River') so auto-print same-answer index won't match them.",
+  "geography-200": "Duplicate of orphan geography-1144 (both: Mount Damavand, highest peak of Iran, is part of which range? -> Alborz) -- orphan will never surface via next.",
+  "geography-282": "Duplicate of orphan geography-697 (both: Zagros Mountains run/stretch primarily within which country? -> Iran) -- orphan will never surface via next.",
+  "geography-295": "Duplicate of orphan geography-716 (both: Dasht-e Kavir/Great Salt Desert on Iranian Plateau is in which country? -> Iran) -- orphan will never surface via next.",
+  "geography-325": "Duplicate of orphan geography-670 (both: Baarle-Hertog Belgian enclaves located entirely inside which country? -> Netherlands) -- orphan will never surface via next.",
+  "geography-424": "Duplicate of orphan geography-852 (both: only Pacific island nation to lie in all four hemispheres -> Kiribati) -- orphan will never surface via next.",
+  "geography-546": "Duplicate of orphan geography-729 (both: de facto capital (district) of Nauru -> Yaren) -- orphan will never surface via next.",
+  "geography-592": "Duplicate of orphan geography-669 (both: Nakhchivan exclave separated by Armenia belongs to which country -> Azerbaijan) -- orphan will never surface via next.",
   "geography-719": "Orphan (no chunk this pass). Duplicate of general-1485 (reviewed geography-p1-000): both identify Lake Tanganyika as the second-deepest lake in the world after Baikal. Cut this one when reached (after append-orphans).",
   "geography-849": "Orphan (no chunk this pass). Duplicate of general-1482 (reviewed geography-p1-000): both name the Atacama Desert as the driest (non-polar) desert on Earth. Cut this one when reached (after append-orphans)."
 }

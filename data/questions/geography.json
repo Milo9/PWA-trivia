@@ -65,19 +65,6 @@
     "answer": "Ottawa"
   },
   {
-    "id": "general-022",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which mountain is the tallest in the world above sea level?",
-    "options": [
-      "K2",
-      "Mount Everest",
-      "Kangchenjunga",
-      "Denali"
-    ],
-    "answer": "Mount Everest"
-  },
-  {
     "id": "general-026",
     "category": "geography",
     "difficulty": "easy",
@@ -2444,19 +2431,6 @@
     "answer": "Addis Ababa"
   },
   {
-    "id": "general-1825",
-    "category": "geography",
-    "difficulty": "hard",
-    "question": "Which country is estimated to have the most islands in the world?",
-    "options": [
-      "Sweden",
-      "Indonesia",
-      "Philippines",
-      "Norway"
-    ],
-    "answer": "Sweden"
-  },
-  {
     "id": "general-1826",
     "category": "geography",
     "difficulty": "medium",
@@ -2559,19 +2533,6 @@
       "Mwanza"
     ],
     "answer": "Dodoma"
-  },
-  {
-    "id": "general-1835",
-    "category": "geography",
-    "difficulty": "hard",
-    "question": "Which country officially has three capital cities: administrative, legislative, and judicial?",
-    "options": [
-      "South Africa",
-      "Bolivia",
-      "Sri Lanka",
-      "Malaysia"
-    ],
-    "answer": "South Africa"
   },
   {
     "id": "general-1836",
@@ -3396,7 +3357,7 @@
     "id": "general-2419",
     "category": "geography",
     "difficulty": "hard",
-    "question": "What is the name of the largest desert in Asia?",
+    "question": "What is the name of the largest cold desert in Asia?",
     "options": [
       "The Gobi Desert",
       "The Thar Desert",
@@ -3430,19 +3391,6 @@
       "Johannesburg"
     ],
     "answer": "Bloemfontein"
-  },
-  {
-    "id": "general-2441",
-    "category": "geography",
-    "difficulty": "hard",
-    "question": "Which country has the most volcanoes in the world?",
-    "options": [
-      "Indonesia",
-      "Japan",
-      "United States",
-      "Philippines"
-    ],
-    "answer": "Indonesia"
   },
   {
     "id": "general-2442",
@@ -3547,19 +3495,6 @@
       "The Aral Sea"
     ],
     "answer": "The Dead Sea"
-  },
-  {
-    "id": "general-2450",
-    "category": "geography",
-    "difficulty": "hard",
-    "question": "Which country has the highest number of pyramids in the world, more than Egypt?",
-    "options": [
-      "Sudan",
-      "Mexico",
-      "Peru",
-      "Guatemala"
-    ],
-    "answer": "Sudan"
   },
   {
     "id": "general-2451",
@@ -4160,19 +4095,6 @@
     "answer": "Chile"
   },
   {
-    "id": "geography-018",
-    "category": "geography",
-    "difficulty": "hard",
-    "question": "Which Australian city is geographically closer to Singapore than it is to Sydney?",
-    "options": [
-      "Perth",
-      "Darwin",
-      "Adelaide",
-      "Brisbane"
-    ],
-    "answer": "Perth"
-  },
-  {
     "id": "geography-019",
     "category": "geography",
     "difficulty": "medium",
@@ -4316,19 +4238,6 @@
     "answer": "Africa"
   },
   {
-    "id": "geography-030",
-    "category": "geography",
-    "difficulty": "hard",
-    "question": "Which country has the largest population as of 2024?",
-    "options": [
-      "China",
-      "USA",
-      "India",
-      "Indonesia"
-    ],
-    "answer": "India"
-  },
-  {
     "id": "geography-031",
     "category": "geography",
     "difficulty": "easy",
@@ -4405,19 +4314,6 @@
       "Dnieper"
     ],
     "answer": "Volga"
-  },
-  {
-    "id": "geography-037",
-    "category": "geography",
-    "difficulty": "hard",
-    "question": "As of 2026, what is the capital city of Kazakhstan, after it reverted from the name Nur-Sultan in 2022?",
-    "options": [
-      "Almaty",
-      "Shymkent",
-      "Astana",
-      "Karaganda"
-    ],
-    "answer": "Astana"
   },
   {
     "id": "geography-038",
@@ -7228,19 +7124,6 @@
     "id": "geography-253"
   },
   {
-    "difficulty": "hard",
-    "category": "geography",
-    "question": "What is the deepest canyon in the world, located in Tibet?",
-    "options": [
-      "Grand Canyon",
-      "Yarlung Tsangpo Grand Canyon",
-      "Kali Gandaki Gorge",
-      "Fish River Canyon"
-    ],
-    "answer": "Yarlung Tsangpo Grand Canyon",
-    "id": "geography-254"
-  },
-  {
     "difficulty": "medium",
     "category": "geography",
     "question": "What is the longest river flowing entirely within Spain?",
@@ -7824,19 +7707,6 @@
     ],
     "answer": "Nicaragua",
     "id": "geography-299"
-  },
-  {
-    "difficulty": "hard",
-    "category": "geography",
-    "question": "Lake Maracaibo, known for its frequent and intense lightning storms, is a tidal bay in which country?",
-    "options": [
-      "Colombia",
-      "Venezuela",
-      "Guyana",
-      "Brazil"
-    ],
-    "answer": "Venezuela",
-    "id": "geography-300"
   },
   {
     "difficulty": "medium",
@@ -9311,7 +9181,7 @@
     "id": "geography-414",
     "category": "geography",
     "difficulty": "hard",
-    "question": "Which island is the largest island in the Mediterranean Sea, excluding the already-covered Sicily fact by focusing on second largest?",
+    "question": "Which is the second-largest island in the Mediterranean Sea, after Sicily?",
     "options": [
       "Sardinia",
       "Cyprus",
@@ -10725,19 +10595,6 @@
     "answer": "Deccan Peninsula"
   },
   {
-    "id": "geography-523",
-    "difficulty": "hard",
-    "category": "geography",
-    "question": "Which country has the most pyramids?",
-    "options": [
-      "Sudan",
-      "Egypt",
-      "Mexico",
-      "Peru"
-    ],
-    "answer": "Sudan"
-  },
-  {
     "id": "geography-524",
     "difficulty": "hard",
     "category": "geography",
@@ -11555,19 +11412,6 @@
       "Switzerland and Austria"
     ],
     "answer": "France and Spain"
-  },
-  {
-    "id": "geography-587",
-    "category": "geography",
-    "difficulty": "hard",
-    "question": "The world's shortest international land border, about 85 meters at Peñón de Vélez de la Gomera, is shared by which two countries?",
-    "options": [
-      "Portugal and Morocco",
-      "Italy and Slovenia",
-      "Spain and Morocco",
-      "France and Spain"
-    ],
-    "answer": "Spain and Morocco"
   },
   {
     "id": "geography-588",
