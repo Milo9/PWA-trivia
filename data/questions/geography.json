@@ -8307,19 +8307,6 @@
     "answer": "13"
   },
   {
-    "id": "geography-428",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "Which country is completely surrounded by land but has no coastline, with Andorra lying in its mountains between France and Spain?",
-    "options": [
-      "Andorra is the country",
-      "The country is Spain",
-      "Andorra is landlocked",
-      "France is landlocked"
-    ],
-    "answer": "Andorra is landlocked"
-  },
-  {
     "id": "geography-429",
     "category": "geography",
     "difficulty": "medium",
@@ -8531,7 +8518,7 @@
     "id": "geography-445",
     "category": "geography",
     "difficulty": "easy",
-    "question": "Which mountain range stretches along the west coast of North America from Alaska to Mexico?",
+    "question": "Which mountain range extends roughly 3,000 miles from British Columbia, Canada down to New Mexico in the western United States?",
     "options": [
       "Appalachian Mountains",
       "Rocky Mountains",
@@ -10663,7 +10650,7 @@
     "id": "geography-618",
     "category": "geography",
     "difficulty": "easy",
-    "question": "Which sea is located south of the Black Sea and north of Turkey?",
+    "question": "Which sea separates the European and Asian parts of Turkey, connecting the Bosphorus and Dardanelles straits?",
     "options": [
       "Mediterranean Sea",
       "Aegean Sea",
@@ -11414,19 +11401,6 @@
     "id": "geography-678"
   },
   {
-    "difficulty": "easy",
-    "category": "geography",
-    "question": "Which river flows through Dresden and Hamburg before emptying into the North Sea?",
-    "options": [
-      "Po",
-      "Oder",
-      "Vistula",
-      "Elbe"
-    ],
-    "answer": "Elbe",
-    "id": "geography-679"
-  },
-  {
     "difficulty": "medium",
     "category": "geography",
     "question": "The Vistula is the longest river in which European country, flowing through Kraków and Warsaw to the Baltic Sea?",
@@ -11815,19 +11789,6 @@
     ],
     "answer": "Turkey",
     "id": "geography-713"
-  },
-  {
-    "difficulty": "medium",
-    "category": "geography",
-    "question": "Which desert is recognized as the largest desert in North America, stretching about 200,000 square miles across northern Mexico and the southwestern United States?",
-    "options": [
-      "Sonoran Desert",
-      "Mojave Desert",
-      "Chihuahuan Desert",
-      "Great Basin Desert"
-    ],
-    "answer": "Chihuahuan Desert",
-    "id": "geography-714"
   },
   {
     "difficulty": "medium",
@@ -12755,19 +12716,6 @@
   {
     "difficulty": "medium",
     "category": "geography",
-    "question": "Which two countries are tied for the most land borders in the world, each sharing borders with 14 nations?",
-    "options": [
-      "China and India",
-      "Brazil and Germany",
-      "China and Russia",
-      "India and France"
-    ],
-    "answer": "China and Russia",
-    "id": "geography-788"
-  },
-  {
-    "difficulty": "medium",
-    "category": "geography",
     "question": "Which country has the second-most land borders in Europe, with nine neighbors, after Russia?",
     "options": [
       "Poland",
@@ -13197,19 +13145,6 @@
   {
     "difficulty": "medium",
     "category": "geography",
-    "question": "Which desert in the southwestern United States contains Death Valley, one of the hottest places on Earth?",
-    "options": [
-      "Chihuahuan Desert",
-      "Mojave Desert",
-      "Sonoran Desert",
-      "Great Basin Desert"
-    ],
-    "answer": "Mojave Desert",
-    "id": "geography-822"
-  },
-  {
-    "difficulty": "medium",
-    "category": "geography",
     "question": "Which African exclave of Angola is separated from the mainland by the Democratic Republic of the Congo and has offshore oil fields?",
     "options": [
       "Mayotte",
@@ -13481,19 +13416,6 @@
     "answer": "Bangladesh"
   },
   {
-    "id": "geography-844",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which two countries are tied for bordering the most other countries with 14 neighbors each as of 2026?",
-    "options": [
-      "China and Russia",
-      "Brazil and Germany",
-      "India and France",
-      "United States and Canada"
-    ],
-    "answer": "China and Russia"
-  },
-  {
     "id": "geography-845",
     "category": "geography",
     "difficulty": "easy",
@@ -13713,19 +13635,6 @@
       "Lake Enigma"
     ],
     "answer": "Lake Vostok"
-  },
-  {
-    "id": "geography-862",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "Which river is the longest in South America as of 2026?",
-    "options": [
-      "Orinoco River",
-      "Parana River",
-      "Amazon River",
-      "Madeira River"
-    ],
-    "answer": "Amazon River"
   },
   {
     "id": "geography-863",
@@ -14926,19 +14835,6 @@
   {
     "difficulty": "medium",
     "category": "geography",
-    "question": "Which river flows through Hamburg, Germany?",
-    "options": [
-      "Rhine",
-      "Elbe",
-      "Weser",
-      "Ems"
-    ],
-    "answer": "Elbe",
-    "id": "geography-965"
-  },
-  {
-    "difficulty": "medium",
-    "category": "geography",
     "question": "Which river flows through St. Petersburg, Russia?",
     "options": [
       "Neva",
@@ -15260,19 +15156,6 @@
     ],
     "answer": "Apennines",
     "id": "geography-991"
-  },
-  {
-    "difficulty": "medium",
-    "category": "geography",
-    "question": "Which mountain range stretches along much of western North America from Canada to New Mexico?",
-    "options": [
-      "Appalachians",
-      "Rocky Mountains",
-      "Sierra Nevada",
-      "Cascades"
-    ],
-    "answer": "Rocky Mountains",
-    "id": "geography-992"
   },
   {
     "difficulty": "medium",
@@ -16653,19 +16536,6 @@
     "answer": "Rio de la Plata"
   },
   {
-    "id": "geography-1100",
-    "difficulty": "easy",
-    "category": "geography",
-    "question": "The Rhine River flows northward and empties into which sea?",
-    "options": [
-      "Baltic Sea",
-      "North Sea",
-      "Mediterranean Sea",
-      "Black Sea"
-    ],
-    "answer": "North Sea"
-  },
-  {
     "id": "geography-1101",
     "difficulty": "medium",
     "category": "geography",
@@ -17745,19 +17615,6 @@
     "answer": "Olympic Peninsula"
   },
   {
-    "id": "geography-1185",
-    "difficulty": "medium",
-    "category": "geography",
-    "question": "Which two countries are tied for the most land neighbors in the world, with 14 each?",
-    "options": [
-      "China and Russia",
-      "Brazil and China",
-      "Russia and India",
-      "China and Mongolia"
-    ],
-    "answer": "China and Russia"
-  },
-  {
     "id": "geography-1186",
     "difficulty": "easy",
     "category": "geography",
@@ -18068,19 +17925,6 @@
       "Celebes Sea and Sulu Sea"
     ],
     "answer": "Arafura Sea and Coral Sea"
-  },
-  {
-    "id": "geography-1210",
-    "difficulty": "medium",
-    "category": "geography",
-    "question": "The Torres Strait separates the northern tip of Australia from which large island to its north?",
-    "options": [
-      "New Guinea",
-      "Luzon",
-      "Sumatra",
-      "Honshu"
-    ],
-    "answer": "New Guinea"
   },
   {
     "id": "geography-1211",
@@ -19890,32 +19734,6 @@
     "answer": "Gulf of Riga"
   },
   {
-    "id": "geography-1351",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which peninsula contains Spain and Portugal as of 2026?",
-    "options": [
-      "Iberian Peninsula",
-      "Italian Peninsula",
-      "Balkan Peninsula",
-      "Anatolian Peninsula"
-    ],
-    "answer": "Iberian Peninsula"
-  },
-  {
-    "id": "geography-1352",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which peninsula contains Italy as of 2026?",
-    "options": [
-      "Italian Peninsula",
-      "Iberian Peninsula",
-      "Balkan Peninsula",
-      "Kola Peninsula"
-    ],
-    "answer": "Italian Peninsula"
-  },
-  {
     "id": "geography-1353",
     "category": "geography",
     "difficulty": "medium",
@@ -20228,19 +20046,6 @@
     "answer": "Sea of Azov"
   },
   {
-    "id": "geography-1377",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which lake is the largest entirely within the United States as of 2026?",
-    "options": [
-      "Lake Michigan",
-      "Lake Superior",
-      "Lake Huron",
-      "Lake Erie"
-    ],
-    "answer": "Lake Michigan"
-  },
-  {
     "id": "geography-1378",
     "category": "geography",
     "difficulty": "medium",
@@ -20525,19 +20330,6 @@
       "Gulf of Guinea"
     ],
     "answer": "Gulf of Gabes"
-  },
-  {
-    "id": "geography-1401",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which sea lies between the Black Sea and the Aegean Sea as of 2026?",
-    "options": [
-      "Sea of Marmara",
-      "Sea of Azov",
-      "Sea of Galilee",
-      "Aegean Sea is one side"
-    ],
-    "answer": "Sea of Marmara"
   },
   {
     "id": "geography-1402",

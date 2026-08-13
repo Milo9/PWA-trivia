@@ -10890,11 +10890,11 @@
         "geography-607",
         "geography-611"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 14,
+      "notes": "Fixed geography-445's factual error (Rockies described as Alaska-to-Mexico instead of Canada-to-New-Mexico); cut malformed/garbled geography-428 (nonsensical leaked-reasoning options); cut 12 duplicate orphans found via same-answer grep: geography-788/844/1185 (China+Russia 14-borders triplicate), geography-714 (Chihuahuan-largest-desert, dup of already-reviewed geography-642), geography-862 (Amazon-longest-river dup of 491), geography-992 (Rockies Canada-to-New-Mexico dup, superseded by fixed 445), geography-1100 (Rhine-North-Sea dup of 558), geography-679/965 (Elbe-through-Hamburg dup of 566), geography-1377 (Lake-Michigan-largest-entirely-in-US dup of 561), geography-1351 (Iberian-Peninsula dup of 603), geography-1352 (Italian-Peninsula dup of 604)"
     },
     {
       "chunkId": "geography-p1-019",
@@ -10918,11 +10918,11 @@
         "geography-658",
         "geography-660"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 4,
+      "notes": "Fixed geography-618's inaccurate framing (Sea of Marmara isn't 'north of Turkey' -- it's surrounded by Turkey on both shores; reworded to the separates-European/Asian-Turkey fact); cut 3 duplicate orphans: geography-1210 (Torres-Strait/New-Guinea dup of 614), geography-1401 (Marmara-between-Black-Sea-and-Aegean, redundant with 618's fix and 763), geography-822 (Mojave/Death-Valley dup of 660)"
     },
     {
       "chunkId": "history-p1-000",
@@ -10979,11 +10979,11 @@
         "general-1435",
         "general-1436"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 6,
+      "notes": "Fixed general-1057's tautological wording (question stem verbatim-named the answer term 'Japanese-American internment'); cut 3 in-chunk duplicate pairs sharing this same chunk (general-1421 dup of general-065 Great-Fire-of-London-1666, general-1412 dup of general-999 Battle-of-Waterloo-1815, general-1410 dup of general-699 Magna-Carta-1215); cut 2 orphan duplicates (history-816 Olmec-stone-heads dup of general-1324, history-874 Treaty-of-Paris-1856-Crimean-War dup of pending history-205). Left ~15 other same-answer clusters (Cleopatra, Magellan, Franz Ferdinand assassination x4, William the Conqueror, Karl Marx/Communist Manifesto, Ming-dynasty-Great-Wall, Chernobyl-1986, Soviet-dissolution-1991, Panama-Canal-1914, Titanic-1912, Spanish-Armada-1588, Joan-of-Arc, Machu-Picchu/Inca) uncut per CLAUDE.md guidance -- all unreviewed siblings live in future pending chunks of this same pass and share matching answer text, so they'll self-resolve via the next-command's same-answer auto-print once their own chunk is reached"
     },
     {
       "chunkId": "history-p1-001",

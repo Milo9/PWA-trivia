@@ -1420,7 +1420,7 @@
     "id": "general-1057",
     "category": "history",
     "difficulty": "hard",
-    "question": "What was the name given to the wave of Japanese-American internment during World War II authorized under Executive Order 9066?",
+    "question": "What is the common term for the WWII policy, authorized under Executive Order 9066, that forcibly relocated and confined Americans of Japanese descent to camps?",
     "options": [
       "Japanese American internment",
       "The Manzanar Project",
@@ -1820,19 +1820,6 @@
     "answer": "Qin Shi Huang"
   },
   {
-    "id": "general-1410",
-    "category": "history",
-    "difficulty": "hard",
-    "question": "In which year was the Magna Carta signed by King John of England?",
-    "options": [
-      "1415",
-      "1348",
-      "1066",
-      "1215"
-    ],
-    "answer": "1215"
-  },
-  {
     "id": "general-1411",
     "category": "history",
     "difficulty": "hard",
@@ -1844,19 +1831,6 @@
       "476 AD"
     ],
     "answer": "476 AD"
-  },
-  {
-    "id": "general-1412",
-    "category": "history",
-    "difficulty": "hard",
-    "question": "Which 1815 battle marked Napoleon Bonaparte's final military defeat?",
-    "options": [
-      "The Battle of Waterloo",
-      "The Battle of Trafalgar",
-      "The Battle of Austerlitz",
-      "The Battle of Leipzig"
-    ],
-    "answer": "The Battle of Waterloo"
   },
   {
     "id": "general-1413",
@@ -1961,19 +1935,6 @@
       "The 19th Amendment"
     ],
     "answer": "The 13th Amendment"
-  },
-  {
-    "id": "general-1421",
-    "category": "history",
-    "difficulty": "hard",
-    "question": "The Great Fire, which destroyed much of the City of London, occurred in which year?",
-    "options": [
-      "1666",
-      "1720",
-      "1605",
-      "1834"
-    ],
-    "answer": "1666"
   },
   {
     "id": "general-1422",
@@ -14913,19 +14874,6 @@
   {
     "difficulty": "medium",
     "category": "history",
-    "question": "Which Mesoamerican civilization carved colossal basalt heads at San Lorenzo and La Venta?",
-    "options": [
-      "Zapotec",
-      "Mixtec",
-      "Olmec",
-      "Toltec"
-    ],
-    "answer": "Olmec",
-    "id": "history-816"
-  },
-  {
-    "difficulty": "medium",
-    "category": "history",
     "question": "Which UNESCO site in Illinois contains Monk's Mound, largest pre-Columbian earthwork north of Mexico?",
     "options": [
       "Poverty Point",
@@ -15663,19 +15611,6 @@
     ],
     "answer": "Second Defenestration of Prague",
     "id": "history-873"
-  },
-  {
-    "difficulty": "hard",
-    "category": "history",
-    "question": "Which treaty signed 31 March 1856 ended the Crimean War?",
-    "options": [
-      "Treaty of Paris",
-      "Treaty of Berlin",
-      "Treaty of Vienna",
-      "Treaty of London"
-    ],
-    "answer": "Treaty of Paris",
-    "id": "history-874"
   },
   {
     "difficulty": "medium",
