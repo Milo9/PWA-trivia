@@ -2093,19 +2093,6 @@
     "answer": "Iran"
   },
   {
-    "id": "general-1871",
-    "category": "history",
-    "difficulty": "medium",
-    "question": "Which Chinese dynasty is responsible for most of the Great Wall as it exists today?",
-    "options": [
-      "Ming Dynasty",
-      "Qin Dynasty",
-      "Han Dynasty",
-      "Tang Dynasty"
-    ],
-    "answer": "Ming Dynasty"
-  },
-  {
     "id": "general-1872",
     "category": "history",
     "difficulty": "easy",
@@ -2145,19 +2132,6 @@
     "answer": "Richard Nixon"
   },
   {
-    "id": "general-1876",
-    "category": "history",
-    "difficulty": "medium",
-    "question": "Which English queen was nicknamed 'Bloody Mary' for her persecution of Protestants?",
-    "options": [
-      "Mary I",
-      "Elizabeth I",
-      "Mary Queen of Scots",
-      "Anne Boleyn"
-    ],
-    "answer": "Mary I"
-  },
-  {
     "id": "general-1877",
     "category": "history",
     "difficulty": "medium",
@@ -2169,19 +2143,6 @@
       "Themistocles"
     ],
     "answer": "Pericles"
-  },
-  {
-    "id": "general-1878",
-    "category": "history",
-    "difficulty": "medium",
-    "question": "In which century did the Black Death sweep through Europe?",
-    "options": [
-      "14th century",
-      "12th century",
-      "16th century",
-      "18th century"
-    ],
-    "answer": "14th century"
   },
   {
     "id": "general-1879",
@@ -2208,32 +2169,6 @@
       "The Mexican-American War"
     ],
     "answer": "The American Civil War"
-  },
-  {
-    "id": "general-1881",
-    "category": "history",
-    "difficulty": "medium",
-    "question": "Who was the last reigning Tsar of Russia?",
-    "options": [
-      "Nicholas II",
-      "Alexander III",
-      "Nicholas I",
-      "Peter the Great"
-    ],
-    "answer": "Nicholas II"
-  },
-  {
-    "id": "general-1882",
-    "category": "history",
-    "difficulty": "medium",
-    "question": "Which explorer's expedition is credited with the first circumnavigation of the globe, though he died before its completion?",
-    "options": [
-      "Ferdinand Magellan",
-      "Christopher Columbus",
-      "Vasco da Gama",
-      "Francis Drake"
-    ],
-    "answer": "Ferdinand Magellan"
   },
   {
     "id": "general-1883",
@@ -2312,19 +2247,6 @@
       "The Akkadians"
     ],
     "answer": "The Sumerians"
-  },
-  {
-    "id": "general-1889",
-    "category": "history",
-    "difficulty": "medium",
-    "question": "Which Portuguese explorer led the first European sea voyage to reach India by rounding Africa?",
-    "options": [
-      "Vasco da Gama",
-      "Ferdinand Magellan",
-      "Bartolomeu Dias",
-      "Prince Henry the Navigator"
-    ],
-    "answer": "Vasco da Gama"
   },
   {
     "id": "general-1891",
@@ -2431,19 +2353,6 @@
     "answer": "Battle of Waterloo"
   },
   {
-    "id": "general-1901",
-    "category": "history",
-    "difficulty": "medium",
-    "question": "Which ancient empire had its capital at Constantinople?",
-    "options": [
-      "The Byzantine Empire",
-      "The Roman Empire",
-      "The Ottoman Empire",
-      "The Persian Empire"
-    ],
-    "answer": "The Byzantine Empire"
-  },
-  {
     "id": "general-1902",
     "category": "history",
     "difficulty": "easy",
@@ -2494,19 +2403,6 @@
       "Franklin D. Roosevelt"
     ],
     "answer": "John F. Kennedy"
-  },
-  {
-    "id": "general-1906",
-    "category": "history",
-    "difficulty": "medium",
-    "question": "Which ancient wonder of the world was a giant bronze statue standing at the harbor of Rhodes?",
-    "options": [
-      "The Colossus of Rhodes",
-      "The Great Pyramid of Giza",
-      "The Statue of Zeus",
-      "The Lighthouse of Alexandria"
-    ],
-    "answer": "The Colossus of Rhodes"
   },
   {
     "id": "general-1907",
@@ -2587,19 +2483,6 @@
     "answer": "George III"
   },
   {
-    "id": "general-1914",
-    "category": "history",
-    "difficulty": "medium",
-    "question": "Simon Bolivar led independence movements across South America, most iconically in which country that bears his name's influence?",
-    "options": [
-      "Venezuela",
-      "Argentina",
-      "Mexico",
-      "Cuba"
-    ],
-    "answer": "Venezuela"
-  },
-  {
     "id": "general-1915",
     "category": "history",
     "difficulty": "hard",
@@ -2611,19 +2494,6 @@
       "The Potsdam Conference"
     ],
     "answer": "The Paris Peace Conference"
-  },
-  {
-    "id": "general-1916",
-    "category": "history",
-    "difficulty": "medium",
-    "question": "Which US president oversaw the Louisiana Purchase in 1803?",
-    "options": [
-      "Thomas Jefferson",
-      "James Madison",
-      "John Adams",
-      "James Monroe"
-    ],
-    "answer": "Thomas Jefferson"
   },
   {
     "id": "general-1917",
@@ -2691,19 +2561,6 @@
     "answer": "World War I"
   },
   {
-    "id": "general-2203",
-    "category": "history",
-    "difficulty": "medium",
-    "question": "Who was the first Roman emperor?",
-    "options": [
-      "Augustus",
-      "Julius Caesar",
-      "Nero",
-      "Constantine"
-    ],
-    "answer": "Augustus"
-  },
-  {
     "id": "general-2204",
     "category": "history",
     "difficulty": "medium",
@@ -2754,32 +2611,6 @@
       "Cuba"
     ],
     "answer": "The Soviet Union"
-  },
-  {
-    "id": "general-2210",
-    "category": "history",
-    "difficulty": "medium",
-    "question": "The Louisiana Purchase was made during whose presidency?",
-    "options": [
-      "Thomas Jefferson",
-      "James Madison",
-      "George Washington",
-      "John Adams"
-    ],
-    "answer": "Thomas Jefferson"
-  },
-  {
-    "id": "general-2211",
-    "category": "history",
-    "difficulty": "medium",
-    "question": "Which U.S. amendment abolished slavery?",
-    "options": [
-      "The 13th Amendment",
-      "The 14th Amendment",
-      "The 15th Amendment",
-      "The 19th Amendment"
-    ],
-    "answer": "The 13th Amendment"
   },
   {
     "id": "general-2212",
@@ -2847,19 +2678,6 @@
     "answer": "Delaware"
   },
   {
-    "id": "general-2217",
-    "category": "history",
-    "difficulty": "medium",
-    "question": "The Emancipation Proclamation was issued in which year?",
-    "options": [
-      "1863",
-      "1861",
-      "1865",
-      "1859"
-    ],
-    "answer": "1863"
-  },
-  {
     "id": "general-2273",
     "category": "history",
     "difficulty": "hard",
@@ -2897,19 +2715,6 @@
       "The Persian Empire"
     ],
     "answer": "The Byzantine Empire"
-  },
-  {
-    "id": "general-2276",
-    "category": "history",
-    "difficulty": "medium",
-    "question": "Which country was divided by the 38th parallel after the Korean War?",
-    "options": [
-      "Korea",
-      "Vietnam",
-      "Germany",
-      "China"
-    ],
-    "answer": "Korea"
   },
   {
     "id": "general-2277",
@@ -3144,19 +2949,6 @@
       "The Treaty of Tordesillas"
     ],
     "answer": "The Peace of Westphalia"
-  },
-  {
-    "id": "general-2424",
-    "category": "history",
-    "difficulty": "medium",
-    "question": "Who was assassinated in Sarajevo in 1914, triggering the outbreak of World War I?",
-    "options": [
-      "Archduke Franz Ferdinand",
-      "Kaiser Wilhelm II",
-      "Tsar Nicholas II",
-      "King Alexander I"
-    ],
-    "answer": "Archduke Franz Ferdinand"
   },
   {
     "id": "general-2425",
@@ -3445,19 +3237,6 @@
     "answer": "Mao Zedong"
   },
   {
-    "id": "general-2615",
-    "category": "history",
-    "difficulty": "medium",
-    "question": "Which empire was ruled by Mansa Musa, renowned for his extreme wealth in the 14th century?",
-    "options": [
-      "Mali Empire",
-      "Songhai Empire",
-      "Ottoman Empire",
-      "Ashanti Empire"
-    ],
-    "answer": "Mali Empire"
-  },
-  {
     "id": "general-2616",
     "category": "history",
     "difficulty": "easy",
@@ -3510,19 +3289,6 @@
     "answer": "The Colossus of Rhodes"
   },
   {
-    "id": "general-2620",
-    "category": "history",
-    "difficulty": "medium",
-    "question": "The Meiji Restoration of 1868 restored practical imperial rule to which country?",
-    "options": [
-      "Japan",
-      "China",
-      "Korea",
-      "Thailand"
-    ],
-    "answer": "Japan"
-  },
-  {
     "id": "general-2621",
     "category": "history",
     "difficulty": "medium",
@@ -3547,19 +3313,6 @@
       "Battle of Orleans"
     ],
     "answer": "Battle of Agincourt"
-  },
-  {
-    "id": "general-2623",
-    "category": "history",
-    "difficulty": "medium",
-    "question": "Which Chinese dynasty is credited with first unifying the country's script and standardizing weights and measures, around 221 BCE?",
-    "options": [
-      "Qin dynasty",
-      "Han dynasty",
-      "Tang dynasty",
-      "Song dynasty"
-    ],
-    "answer": "Qin dynasty"
   },
   {
     "id": "general-2624",
@@ -4381,19 +4134,6 @@
     "answer": "Battle of Gettysburg"
   },
   {
-    "id": "history-033",
-    "category": "history",
-    "difficulty": "medium",
-    "question": "Who was known as the 'Maid of Orleans'?",
-    "options": [
-      "Marie Antoinette",
-      "Joan of Arc",
-      "Catherine de Medici",
-      "Anne Boleyn"
-    ],
-    "answer": "Joan of Arc"
-  },
-  {
     "id": "history-034",
     "category": "history",
     "difficulty": "hard",
@@ -4496,19 +4236,6 @@
       "Liverpool"
     ],
     "answer": "Belfast"
-  },
-  {
-    "id": "history-042",
-    "category": "history",
-    "difficulty": "medium",
-    "question": "In what year did the Panama Canal open to traffic?",
-    "options": [
-      "1904",
-      "1914",
-      "1920",
-      "1930"
-    ],
-    "answer": "1914"
   },
   {
     "id": "history-043",
@@ -4631,7 +4358,7 @@
     "id": "history-052",
     "category": "history",
     "difficulty": "medium",
-    "question": "What is the name of the first successful iron steamship?",
+    "question": "What is the name of the first iron-hulled steamship to cross the Atlantic Ocean?",
     "options": [
       "SS Great Britain",
       "SS Savannah",
@@ -4730,19 +4457,6 @@
       "United States"
     ],
     "answer": "Finland"
-  },
-  {
-    "id": "history-061",
-    "category": "history",
-    "difficulty": "medium",
-    "question": "In what year was the first atomic bomb used in warfare?",
-    "options": [
-      "1943",
-      "1947",
-      "1945",
-      "1950"
-    ],
-    "answer": "1945"
   },
   {
     "id": "history-062",
@@ -4925,19 +4639,6 @@
       "Tivoli"
     ],
     "answer": "Herculaneum"
-  },
-  {
-    "id": "history-076",
-    "category": "history",
-    "difficulty": "medium",
-    "question": "Which Renaissance figure, known for the Mona Lisa, conducted detailed anatomical dissections of human corpses?",
-    "options": [
-      "Michelangelo",
-      "Leonardo da Vinci",
-      "Raphael",
-      "Donatello"
-    ],
-    "answer": "Leonardo da Vinci"
   },
   {
     "id": "history-077",
@@ -5824,19 +5525,6 @@
     "answer": "Charles Leclerc"
   },
   {
-    "id": "history-145",
-    "category": "history",
-    "difficulty": "medium",
-    "question": "U.S. Secretary of State George C. Marshall first proposed the European Recovery Program in a speech at Harvard in which year?",
-    "options": [
-      "1945",
-      "1949",
-      "1947",
-      "1951"
-    ],
-    "answer": "1947"
-  },
-  {
     "id": "history-146",
     "category": "history",
     "difficulty": "easy",
@@ -6030,19 +5718,6 @@
       "Vasa"
     ],
     "answer": "Romanov"
-  },
-  {
-    "id": "history-161",
-    "category": "history",
-    "difficulty": "medium",
-    "question": "In what year did the Spanish Armada attempt to invade England?",
-    "options": [
-      "1605",
-      "1543",
-      "1588",
-      "1612"
-    ],
-    "answer": "1588"
   },
   {
     "id": "history-162",
