@@ -12138,11 +12138,11 @@
         "history-651",
         "history-652"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 3,
+      "notes": "Cut 3 duplicates against already-reviewed siblings (Rollo/Normandy 911 vs history-383, Akbar jizya-abolition vs history-315, Korean War 1950 vs history-215). Logged 2 backlog notes for near-duplicates whose sibling is an unreachable orphan (Sundiata Keita/Mali founding vs history-898, Gao/Songhai capital vs history-1009). Verified remaining ~47 questions and their distractors -- all factually sound (Socrates/hemlock, Cincinnatus, Pheidippides legend, several US-president chestnuts, Reconquista/al-Andalus/Mughal facts, WWII and Cold War dates, Erasmus/More humanist works)."
     },
     {
       "chunkId": "history-p1-020",
@@ -12154,11 +12154,11 @@
         "history-662",
         "history-666"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 1,
+      "notes": "Cut 1 duplicate against an already-reviewed sibling (Jacques Cartier/St. Lawrence River 1534 vs history-246). Verified remaining 4 questions (Act of Supremacy 1534, Drake's circumnavigation, Newton's Principia, Adam Smith's Wealth of Nations) -- all factually sound. This completes history's pass-1 in-pass coverage (21/21 chunks); 334 orphans remain outside the pass."
     },
     {
       "chunkId": "music-p1-000",
@@ -12215,11 +12215,11 @@
         "music-135",
         "music-156"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 2,
+      "notes": "Fixed 2 factual errors verified via WebSearch: general-2839 conflated Bach's 1705 Arnstadt bassoon-player brawl (which resulted only in a court reprimand, no imprisonment) with his actual 1717 Weimar arrest/imprisonment for too insistently demanding release from the Duke's service -- reworded question+answer to the real imprisonment story; general-2849 claimed the Bach family had been active as musicians for 'over 300 years' by JS Bach's 1685 birth, but the family's musical tradition traces to Veit Bach (c. 1550), only ~135 years earlier -- swapped correct answer to the already-present distractor 'Over a century' and replaced the false 'Over 300 years' option with 'Nearly 200 years'. Verified Grieg's lucky-frog-figurine anecdote (music-019) as accurate via WebSearch. No duplicates found -- several same-composer/same-answer clusters (Tchaikovsky, Wagner, Mozart, Bach) checked but each pair tests genuinely distinct named works, not the same fact reworded; true duplicate siblings for several of these all fall in other pending music-p1 chunks and will self-resolve when reached. Remaining ~47 questions verified sound on read-through."
     },
     {
       "chunkId": "music-p1-001",
