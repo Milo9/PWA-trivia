@@ -11040,11 +11040,11 @@
         "general-2880",
         "history-001"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 4,
+      "notes": "Cut 4 duplicates: general-1444/general-2273 (Vasco da Gama reaching India via Africa, in-chunk pair), general-1893/general-2540 (Ghana's 1957 independence from Britain, in-chunk pair), general-2225 vs already-done general-383 (Ethiopia never colonized), and orphan history-670 vs general-2429 (Khufu built Great Pyramid) since history-670 has no chunk and would never resurface. No factual errors found among the other 46 questions."
     },
     {
       "chunkId": "history-p1-002",
@@ -11101,11 +11101,11 @@
         "history-123",
         "history-125"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 3,
+      "notes": "Fixed 3 factual issues: history-034 wrongly called Julius Caesar's Rome 'the Roman Empire' (he was dictator of the Republic; the Empire began under Augustus after Caesar's death) -- reworded question/answer to 'Roman Republic'; history-055 had an unresolvable ambiguity (Pompeii, Herculaneum, Stabiae, and Oplontis were ALL buried by the same 79 AD Vesuvius eruption, so all 4 options were technically true) -- added a Pompeii-specific clue (plaster casts of victims); history-060 claimed Finland was first to grant women the vote in local elections, but Sweden had limited local women's suffrage from 1862 (and briefly 1718) -- Finland's real distinction is being first to grant both voting AND candidacy rights nationally in 1906, reworded accordingly. history-056 (from chunk id list) was already removed in a prior dedup pass. All other 46 questions checked clean against distractors and same-answer corpus matches (all matches were either coincidental answer reuse, different facts about the same entity, or pending pairs that will self-resolve when their own chunk is reached)."
     },
     {
       "chunkId": "history-p1-003",
@@ -11162,11 +11162,11 @@
         "history-262",
         "history-269"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 1,
+      "notes": "Fixed history-259: claimed the Ottoman Empire was 'officially dissolved by the Treaty of Sevres in 1920' -- but Sevres was never ratified (Turkish nationalist resistance led to the Turkish War of Independence), and was superseded by the 1923 Treaty of Lausanne; the empire wasn't actually abolished until 1922. Reworded to describe Sevres accurately as an unratified partition proposal. Verified history-223's 'Nixon first president to visit all 50 states' claim (accurate, Oct 1971 Delaware visit) and history-134's Bastille prisoner count (7, accurate) via WebSearch since both looked like the kind of obscure specific claim worth double-checking. All other 48 questions checked clean; same-answer matches were either different facts about the same entity or pending pairs that will self-resolve when their own chunk comes up."
     },
     {
       "chunkId": "history-p1-004",

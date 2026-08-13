@@ -2210,19 +2210,6 @@
     "answer": "The 14th century"
   },
   {
-    "id": "general-1444",
-    "category": "history",
-    "difficulty": "hard",
-    "question": "Which Portuguese explorer was the first European to reach India by sailing around Africa?",
-    "options": [
-      "Vasco da Gama",
-      "Christopher Columbus",
-      "Ferdinand Magellan",
-      "Bartolomeu Dias"
-    ],
-    "answer": "Vasco da Gama"
-  },
-  {
     "id": "general-1447",
     "category": "history",
     "difficulty": "medium",
@@ -3159,19 +3146,6 @@
     "answer": "1863"
   },
   {
-    "id": "general-2225",
-    "category": "history",
-    "difficulty": "hard",
-    "question": "Which African country was never colonized by a European power?",
-    "options": [
-      "Ethiopia",
-      "Kenya",
-      "Ghana",
-      "Nigeria"
-    ],
-    "answer": "Ethiopia"
-  },
-  {
     "id": "general-2273",
     "category": "history",
     "difficulty": "hard",
@@ -3742,19 +3716,6 @@
       "Black Monday"
     ],
     "answer": "The Great Depression"
-  },
-  {
-    "id": "general-2540",
-    "category": "history",
-    "difficulty": "hard",
-    "question": "Which African country gained independence from Britain in 1957, the first sub-Saharan colony to do so?",
-    "options": [
-      "Ghana",
-      "Nigeria",
-      "Kenya",
-      "Tanzania"
-    ],
-    "answer": "Ghana"
   },
   {
     "id": "general-2541",
@@ -4722,14 +4683,14 @@
     "id": "history-034",
     "category": "history",
     "difficulty": "hard",
-    "question": "Which empire was ruled by Julius Caesar?",
+    "question": "Julius Caesar served as dictator of which ancient state, which had not yet become an empire during his lifetime?",
     "options": [
-      "Greek Empire",
-      "Roman Empire",
-      "Ottoman Empire",
-      "Persian Empire"
+      "The Roman Republic",
+      "The Roman Empire",
+      "The Ottoman Empire",
+      "The Persian Empire"
     ],
-    "answer": "Roman Empire"
+    "answer": "The Roman Republic"
   },
   {
     "id": "history-035",
@@ -4995,7 +4956,7 @@
     "id": "history-055",
     "category": "history",
     "difficulty": "hard",
-    "question": "Which ancient city was buried by the eruption of Mount Vesuvius in 79 AD?",
+    "question": "Which ancient Roman city, famous for the plaster casts made of victims frozen in their final moments, was buried by the eruption of Mount Vesuvius in 79 AD?",
     "options": [
       "Pompeii",
       "Herculaneum",
@@ -5047,7 +5008,7 @@
     "id": "history-060",
     "category": "history",
     "difficulty": "hard",
-    "question": "Which country was the first to grant women the right to vote in local elections?",
+    "question": "Which country was the first to grant women both the right to vote and the right to stand for election, in 1906?",
     "options": [
       "Finland",
       "New Zealand",
@@ -7634,7 +7595,7 @@
     "id": "history-259",
     "difficulty": "hard",
     "category": "history",
-    "question": "Which empire was officially dissolved by the Treaty of Sèvres in 1920?",
+    "question": "The 1920 Treaty of Sèvres proposed dismantling which empire, though Turkish resistance meant it was never ratified and was replaced by the 1923 Treaty of Lausanne?",
     "options": [
       "Austro-Hungarian Empire",
       "Russian Empire",
@@ -12972,19 +12933,6 @@
       "Battle of Kadesh"
     ],
     "answer": "Battle of Kadesh"
-  },
-  {
-    "difficulty": "easy",
-    "category": "history",
-    "question": "Which pharaoh built the Great Pyramid of Giza?",
-    "options": [
-      "Menkaure",
-      "Djoser",
-      "Khafre",
-      "Khufu"
-    ],
-    "answer": "Khufu",
-    "id": "history-670"
   },
   {
     "difficulty": "medium",
