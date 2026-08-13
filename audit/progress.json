@@ -10280,11 +10280,11 @@
         "geography-150",
         "geography-151"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 2,
+      "notes": "Cut geography-093 (ambiguous: Vatican City is also an enclave surrounded by Italy, and duplicate of orphan geography-816's unambiguous Mount Titano version); cut geography-868 (duplicate of geography-085, both 'Caspian Sea largest lake' facts)"
     },
     {
       "chunkId": "geography-p1-009",
@@ -10341,11 +10341,11 @@
         "geography-234",
         "geography-235"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 4,
+      "notes": "Cut geography-762 (orphan dup of geography-172, Strait of Hormuz oil chokepoint), geography-1178 and geography-1398 (both orphan dups of geography-197, Malay Peninsula); fixed geography-439's leaked drafting text ('three major exclaves...no, which country has two main islands Honshu and Hokkaido') to a clean question"
     },
     {
       "chunkId": "geography-p1-010",
@@ -10402,11 +10402,11 @@
         "geography-318",
         "geography-319"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 10,
+      "notes": "Cut 10 duplicates: geography-687/695/683/966/685/730/1085 (orphans duplicating in-pass rivers/capital facts: Danube 2nd-longest, Loire longest-in-France, Po longest-in-Italy x2, Ebro longest-in-Spain, Riga capital-of-Latvia, Zambezi-into-Indian-Ocean); geography-318 (reversed-direction dup of geography-252, Baffin Island largest in Canada, both same chunk); geography-319 (dup of already-done geography-166, Honshu largest island of Japan); geography-287 (reversed-direction dup of already-done geography-235, Mount Kosciuszko highest in Australia)"
     },
     {
       "chunkId": "geography-p1-011",

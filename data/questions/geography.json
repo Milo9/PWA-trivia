@@ -4565,19 +4565,6 @@
   {
     "difficulty": "medium",
     "category": "geography",
-    "question": "Which microstate is an enclave completely surrounded by Italy?",
-    "options": [
-      "Liechtenstein",
-      "Vatican City",
-      "Monaco",
-      "San Marino"
-    ],
-    "answer": "San Marino",
-    "id": "geography-093"
-  },
-  {
-    "difficulty": "medium",
-    "category": "geography",
     "question": "Which two countries are the only landlocked nations in South America?",
     "options": [
       "Uruguay and Guyana",
@@ -7072,19 +7059,6 @@
     "id": "geography-286"
   },
   {
-    "difficulty": "medium",
-    "category": "geography",
-    "question": "As of 2026, Mount Kosciuszko is recorded as the highest mainland mountain in which country?",
-    "options": [
-      "New Zealand",
-      "Papua New Guinea",
-      "Australia",
-      "Fiji"
-    ],
-    "answer": "Australia",
-    "id": "geography-287"
-  },
-  {
     "difficulty": "hard",
     "category": "geography",
     "question": "The Ruwenzori Mountains form a border between Uganda and which other country?",
@@ -7460,32 +7434,6 @@
     ],
     "answer": "Denmark",
     "id": "geography-317"
-  },
-  {
-    "difficulty": "medium",
-    "category": "geography",
-    "question": "As of 2026, Baffin Island is recorded as the largest island belonging to which country?",
-    "options": [
-      "Greenland",
-      "Russia",
-      "United States",
-      "Canada"
-    ],
-    "answer": "Canada",
-    "id": "geography-318"
-  },
-  {
-    "difficulty": "medium",
-    "category": "geography",
-    "question": "As of 2026, Honshu remains the largest and most populous island of which nation?",
-    "options": [
-      "China",
-      "South Korea",
-      "Philippines",
-      "Japan"
-    ],
-    "answer": "Japan",
-    "id": "geography-319"
   },
   {
     "difficulty": "hard",
@@ -9038,7 +8986,7 @@
     "id": "geography-439",
     "category": "geography",
     "difficulty": "medium",
-    "question": "Which country has three major exclaves: one on the Baltic Sea and two in Central Asia – no, which country has two main islands Honshu and Hokkaido?",
+    "question": "Which country's main islands include Honshu and Hokkaido?",
     "options": [
       "Japan",
       "Indonesia",
@@ -12183,19 +12131,6 @@
   {
     "difficulty": "easy",
     "category": "geography",
-    "question": "Italy's longest river, flowing eastward past Turin and Ferrara to the Adriatic Sea, is?",
-    "options": [
-      "Arno",
-      "Tiber",
-      "Adige",
-      "Po"
-    ],
-    "answer": "Po",
-    "id": "geography-683"
-  },
-  {
-    "difficulty": "easy",
-    "category": "geography",
     "question": "Which Iberian river flows through the port city of Porto at its Atlantic mouth?",
     "options": [
       "Miño",
@@ -12205,19 +12140,6 @@
     ],
     "answer": "Douro",
     "id": "geography-684"
-  },
-  {
-    "difficulty": "medium",
-    "category": "geography",
-    "question": "Which river is the longest river entirely within Spain and the second-longest on the Iberian Peninsula, draining into the Mediterranean?",
-    "options": [
-      "Tagus",
-      "Douro",
-      "Ebro",
-      "Guadalquivir"
-    ],
-    "answer": "Ebro",
-    "id": "geography-685"
   },
   {
     "difficulty": "easy",
@@ -12231,19 +12153,6 @@
     ],
     "answer": "Rhine",
     "id": "geography-686"
-  },
-  {
-    "difficulty": "medium",
-    "category": "geography",
-    "question": "Which European river is the second-longest in Europe and flows through Vienna, Bratislava, Budapest, and Belgrade?",
-    "options": [
-      "Rhine",
-      "Dnieper",
-      "Danube",
-      "Volga"
-    ],
-    "answer": "Danube",
-    "id": "geography-687"
   },
   {
     "difficulty": "easy",
@@ -12335,19 +12244,6 @@
     ],
     "answer": "Ukraine, Romania, Hungary",
     "id": "geography-694"
-  },
-  {
-    "difficulty": "medium",
-    "category": "geography",
-    "question": "Which river is the longest in France that flows entirely within France, emptying into the Atlantic at Saint-Nazaire?",
-    "options": [
-      "Garonne",
-      "Loire is actually the longest, but question asks second",
-      "Seine",
-      "Loire"
-    ],
-    "answer": "Loire",
-    "id": "geography-695"
   },
   {
     "difficulty": "medium",
@@ -12794,19 +12690,6 @@
   {
     "difficulty": "medium",
     "category": "geography",
-    "question": "What is the capital of Latvia?",
-    "options": [
-      "Liepaja",
-      "Daugavpils",
-      "Jelgava",
-      "Riga"
-    ],
-    "answer": "Riga",
-    "id": "geography-730"
-  },
-  {
-    "difficulty": "medium",
-    "category": "geography",
     "question": "As of 2026, which island is the world's third-largest by area?",
     "options": [
       "Borneo",
@@ -13206,19 +13089,6 @@
     ],
     "answer": "Tunisia",
     "id": "geography-761"
-  },
-  {
-    "difficulty": "medium",
-    "category": "geography",
-    "question": "Which strait connects the Persian Gulf to the Gulf of Oman and is a critical oil chokepoint?",
-    "options": [
-      "Strait of Hormuz",
-      "Bab-el-Mandeb",
-      "Strait of Malacca",
-      "Strait of Gibraltar"
-    ],
-    "answer": "Strait of Hormuz",
-    "id": "geography-762"
   },
   {
     "difficulty": "medium",
@@ -14586,19 +14456,6 @@
     "answer": "Rub' al Khali"
   },
   {
-    "id": "geography-868",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which sea is the world's largest inland body of water that is actually a lake as of 2026?",
-    "options": [
-      "Lake Superior",
-      "Caspian Sea",
-      "Lake Victoria",
-      "Aral Sea"
-    ],
-    "answer": "Caspian Sea"
-  },
-  {
     "id": "geography-869",
     "category": "geography",
     "difficulty": "medium",
@@ -15858,19 +15715,6 @@
     ],
     "answer": "Elbe",
     "id": "geography-965"
-  },
-  {
-    "difficulty": "medium",
-    "category": "geography",
-    "question": "What is the longest river entirely within Italy?",
-    "options": [
-      "Arno",
-      "Tiber",
-      "Po",
-      "Adige"
-    ],
-    "answer": "Po",
-    "id": "geography-966"
   },
   {
     "difficulty": "medium",
@@ -17407,19 +17251,6 @@
     "answer": "Fourth longest"
   },
   {
-    "id": "geography-1085",
-    "difficulty": "easy",
-    "category": "geography",
-    "question": "Into which ocean does the Zambezi River flow?",
-    "options": [
-      "Atlantic Ocean",
-      "Indian Ocean",
-      "Southern Ocean",
-      "Arctic Ocean"
-    ],
-    "answer": "Indian Ocean"
-  },
-  {
     "id": "geography-1086",
     "difficulty": "medium",
     "category": "geography",
@@ -18614,19 +18445,6 @@
       "Taymyr Peninsula"
     ],
     "answer": "Kamchatka Peninsula"
-  },
-  {
-    "id": "geography-1178",
-    "difficulty": "medium",
-    "category": "geography",
-    "question": "Which peninsula contains the Isthmus of Kra, the narrowest point separating the Andaman Sea from the Gulf of Thailand?",
-    "options": [
-      "Malay Peninsula",
-      "Indochina Peninsula",
-      "Indian Peninsula",
-      "Korean Peninsula"
-    ],
-    "answer": "Malay Peninsula"
   },
   {
     "id": "geography-1179",
@@ -21474,19 +21292,6 @@
       "Korean Peninsula"
     ],
     "answer": "Indochinese Peninsula"
-  },
-  {
-    "id": "geography-1398",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which peninsula contains Malaysia and part of Thailand as of 2026?",
-    "options": [
-      "Malay Peninsula",
-      "Indochinese Peninsula",
-      "Indian Peninsula",
-      "Korean Peninsula"
-    ],
-    "answer": "Malay Peninsula"
   },
   {
     "id": "geography-1399",
