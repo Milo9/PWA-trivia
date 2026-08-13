@@ -12642,11 +12642,11 @@
         "music-351",
         "music-353"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 9,
+      "notes": "Fixed 5 factual/wording errors verified via WebSearch: music-696 mislabeled Aphex Twin as Japanese (he's British); music-244 dated Chemical Brothers' Surrender to 1998 (actually 1999); music-256's 'Mother of Maybelle' reworded to 'Mother Maybelle' nickname (was self-contradictory since Maybelle Carter IS Maybelle); music-284 reworded from violins-only to all-instruments to match its 650 answer (650 is the combined violin/viola/cello survivor estimate, not violins alone which is closer to 500); music-334's 'country duo' corrected to 'country singer' (Jolene was solo Dolly Parton). Cut 2 in-chunk duplicates (music-302 vs music-298, both the Doja Cat/Dionne Warwick sample connection; music-350 vs already-reviewed music-111, both Haydn's Farewell Symphony No. 45). Logged 3 backlog notes for duplicates whose sibling is an unreachable orphan (music-243/891 Frankie Knuckles-Warehouse, music-331/869 Dolly Parton-I Will Always Love You, music-344/723 Elton John's Goodbye Yellow Brick Road)."
     },
     {
       "chunkId": "music-p1-008",
@@ -12703,11 +12703,11 @@
         "music-449",
         "music-451"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 9,
+      "notes": "Fixed 3 factual/wording errors verified via WebSearch: music-388 called Natty Dread (a studio album) 'the live album' -- reworded to correctly credit the famous live version to the 1975 album Live!; music-394's 'spoken-word intro' description of Merry Clayton's Gimme Shelter vocal reworded to 'powerful featured backing vocals' (she's not a spoken-word intro, and doesn't open the track); music-398 called Souls of Mischief (4 members) a 'rap duo,' corrected to 'rap group'. No in-chunk duplicates found. Logged 6 backlog notes for duplicates whose sibling is an unreachable orphan (music-371/714 Robert Johnson crossroads, music-392/880 Belleville Three, music-400/898 At Folsom Prison release year, music-404/602 John Cage 4'33, music-440/834 Ziggy Stardust album, music-443/638 The Who's Tommy)."
     },
     {
       "chunkId": "music-p1-009",
@@ -12764,11 +12764,11 @@
         "music-559",
         "music-562"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 9,
+      "notes": "Fixed 7 factual errors verified via WebSearch (this chunk was a run of 'which album features song X' questions, several of which paired a famous song with the wrong album): music-454 claimed All Things Must Pass was Harrison's 'first solo release' when Wonderwall Music (1968, one of its own distractors) predates it -- reworded to 'first solo album released after The Beatles split up'; music-460 credited 'Love Will Tear Us Apart' to Closer, but the song was never on any Joy Division studio album -- fixed to the singles compilation Substance, which does include it; music-470 credited 'How Soon Is Now?' to Meat Is Murder (also dated 1984, though that album was 1985) -- fixed to Hatful of Hollow (1984), its actual/earliest LP home; music-476 and its now-cut duplicate music-670 both credited 'Fight the Power' to 1988's It Takes a Nation of Millions to Hold Us Back, but the song is from 1990's Fear of a Black Planet -- fixed music-476's album and year, cut music-670 as a now-confirmed duplicate; music-481 claimed All Eyez on Me released 'just weeks before' Tupac's death (actually ~7 months) -- reworded to 'the last released during his lifetime'; music-554 credited 'Ohio' to Déjà Vu, but the song was a non-album single recorded after that LP shipped -- fixed to the compilation So Far, which does include it. Logged 2 backlog notes for duplicates whose sibling is an unreachable orphan (music-483/679 Fugees' The Score, music-550/905 Joni Mitchell's Blue)."
     },
     {
       "chunkId": "music-p1-010",
