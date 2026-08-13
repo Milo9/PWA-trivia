@@ -8151,19 +8151,6 @@
     "answer": "Asuncion"
   },
   {
-    "id": "geography-375",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "The Danube River is Europe's most international river – as of 2026, how many countries does it flow through?",
-    "options": [
-      "8",
-      "12",
-      "10",
-      "9"
-    ],
-    "answer": "10"
-  },
-  {
     "id": "geography-376",
     "category": "geography",
     "difficulty": "easy",
@@ -8531,7 +8518,7 @@
     "id": "geography-404",
     "category": "geography",
     "difficulty": "medium",
-    "question": "What is the highest peak in the Pyrenees? (Note: question is about the peak, not the range as border)",
+    "question": "What is the highest peak in the Pyrenees?",
     "options": [
       "Pico de Aneto",
       "Mont Blanc",
@@ -8669,19 +8656,6 @@
       "Crete"
     ],
     "answer": "Sardinia"
-  },
-  {
-    "id": "geography-415",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which archipelago off the coast of Ecuador straddles the equator in the Pacific Ocean?",
-    "options": [
-      "Galapagos Islands",
-      "Falkland Islands",
-      "Azores",
-      "Canary Islands"
-    ],
-    "answer": "Galapagos Islands"
   },
   {
     "id": "geography-416",
@@ -8869,7 +8843,7 @@
     "id": "geography-430",
     "category": "geography",
     "difficulty": "medium",
-    "question": "Which country has the most volcanoes that are considered active or potentially active outside Indonesia, with about 10% of the world's active volcanoes?",
+    "question": "Excluding Indonesia, which country has the most volcanoes considered active or potentially active, home to about 10% of the world's total?",
     "options": [
       "United States",
       "Japan",
@@ -8921,7 +8895,7 @@
     "id": "geography-434",
     "category": "geography",
     "difficulty": "medium",
-    "question": "Which two countries share the island of New Guinea politically, not counting the third sharing Borneo?",
+    "question": "Which two countries share the island of New Guinea?",
     "options": [
       "Indonesia and Papua New Guinea",
       "Malaysia and Indonesia",
@@ -8973,7 +8947,7 @@
     "id": "geography-438",
     "category": "geography",
     "difficulty": "medium",
-    "question": "Which African country has a capital that is an island city, Antananarivo being on the main island but not the question – which country has its capital on a small island off the main island?",
+    "question": "Which African country's capital, Malabo, is located on an island off its mainland coast rather than on the mainland itself?",
     "options": [
       "Tanzania",
       "Equatorial Guinea",
@@ -9012,7 +8986,7 @@
     "id": "geography-441",
     "category": "geography",
     "difficulty": "medium",
-    "question": "Which desert city in Uzbekistan was a major stop on the Silk Road, with a historic center that is a UNESCO World Heritage Site?",
+    "question": "Which Uzbek Silk Road city, home to the Ark fortress and long a center of Islamic scholarship, has a historic center that is a UNESCO World Heritage Site?",
     "options": [
       "Tashkent",
       "Samarkand",
@@ -9051,7 +9025,7 @@
     "id": "geography-444",
     "category": "geography",
     "difficulty": "medium",
-    "question": "Which African river is famous for its dramatic horseshoe bend near the town of Jebba?",
+    "question": "Which African river is famous for its dramatic horseshoe bend, the 'Niger Bend', near the historic city of Timbuktu?",
     "options": [
       "Niger River",
       "Benue River",
@@ -9228,19 +9202,6 @@
       "Spain"
     ],
     "answer": "Greece"
-  },
-  {
-    "id": "geography-458",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which river flows through Vienna, Bratislava, Budapest, and Belgrade as part of its 10-country route?",
-    "options": [
-      "Rhine River",
-      "Danube River",
-      "Elbe River",
-      "Vistula River"
-    ],
-    "answer": "Danube River"
   },
   {
     "id": "geography-459",
@@ -9454,7 +9415,7 @@
     "id": "geography-475",
     "category": "geography",
     "difficulty": "medium",
-    "question": "Which country contains the city of Petra, carved into red sandstone cliffs, but framed as which desert surrounds it?",
+    "question": "Petra, the ancient city carved into red sandstone cliffs, lies within which desert?",
     "options": [
       "Wadi Rum Desert",
       "Negev Desert",
@@ -9640,7 +9601,7 @@
     "options": [
       "Strait of Dover",
       "Strait of Gibraltar",
-      "English Channel (general)",
+      "English Channel",
       "Skagerrak"
     ],
     "answer": "Strait of Dover"
@@ -9839,19 +9800,6 @@
       "Doha"
     ],
     "answer": "Abu Dhabi"
-  },
-  {
-    "id": "geography-505",
-    "difficulty": "medium",
-    "category": "geography",
-    "question": "Which city serves as the capital of Yemen?",
-    "options": [
-      "Sana'a",
-      "Aden",
-      "Taiz",
-      "Hodeidah"
-    ],
-    "answer": "Sana'a"
   },
   {
     "id": "geography-506",
@@ -10088,19 +10036,6 @@
     "answer": "Chile"
   },
   {
-    "id": "geography-525",
-    "difficulty": "medium",
-    "category": "geography",
-    "question": "Which country is home to the tallest active volcano in the world?",
-    "options": [
-      "Argentina",
-      "Chile",
-      "Ecuador",
-      "Peru"
-    ],
-    "answer": "Argentina"
-  },
-  {
     "id": "geography-526",
     "difficulty": "medium",
     "category": "geography",
@@ -10301,12 +10236,12 @@
     "category": "geography",
     "question": "Which country is the world's largest producer of soybeans?",
     "options": [
-      "United States",
       "Brazil",
+      "United States",
       "Argentina",
       "China"
     ],
-    "answer": "United States"
+    "answer": "Brazil"
   },
   {
     "id": "geography-542",
@@ -10507,7 +10442,7 @@
     "id": "geography-557",
     "category": "geography",
     "difficulty": "medium",
-    "question": "What is the capital of Tanzania's former capital and largest city?",
+    "question": "What is Tanzania's former capital and current largest city?",
     "options": [
       "Zanzibar City",
       "Dodoma",
@@ -10736,19 +10671,6 @@
       "India and Pakistan"
     ],
     "answer": "Kazakhstan, Uzbekistan and Turkmenistan"
-  },
-  {
-    "id": "geography-575",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which desert contains the Area 51 base at Groom Lake?",
-    "options": [
-      "Great Basin Desert",
-      "Mojave Desert",
-      "Chihuahuan Desert",
-      "Sonoran Desert"
-    ],
-    "answer": "Mojave Desert"
   },
   {
     "id": "geography-576",
@@ -10998,19 +10920,6 @@
     "answer": "Iceland"
   },
   {
-    "id": "geography-596",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which island is divided between Papua New Guinea and Indonesia?",
-    "options": [
-      "Seram",
-      "Timor",
-      "Borneo",
-      "New Guinea"
-    ],
-    "answer": "New Guinea"
-  },
-  {
     "id": "geography-597",
     "category": "geography",
     "difficulty": "easy",
@@ -11035,19 +10944,6 @@
       "Great Britain"
     ],
     "answer": "Ireland"
-  },
-  {
-    "id": "geography-599",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which country owns Easter Island in the Pacific?",
-    "options": [
-      "Ecuador",
-      "Peru",
-      "Argentina",
-      "Chile"
-    ],
-    "answer": "Chile"
   },
   {
     "id": "geography-600",
@@ -11113,19 +11009,6 @@
       "Italian Peninsula"
     ],
     "answer": "Italian Peninsula"
-  },
-  {
-    "id": "geography-605",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which island is the largest in the world located in a freshwater lake?",
-    "options": [
-      "Maui",
-      "Isle Royale",
-      "Manitoulin Island",
-      "Ometepe Island"
-    ],
-    "answer": "Manitoulin Island"
   },
   {
     "id": "geography-606",
@@ -11388,19 +11271,6 @@
     "answer": "Venice"
   },
   {
-    "id": "geography-626",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which world capital lies about 28 meters below sea level, making it the lowest national capital?",
-    "options": [
-      "Reykjavik",
-      "Baku",
-      "Ashgabat",
-      "Amsterdam"
-    ],
-    "answer": "Baku"
-  },
-  {
     "id": "geography-627",
     "category": "geography",
     "difficulty": "medium",
@@ -11557,19 +11427,6 @@
     "answer": "Saudi Arabia"
   },
   {
-    "id": "geography-639",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which country has the most pyramids in the world, with over 200 still standing?",
-    "options": [
-      "Peru",
-      "Sudan",
-      "Mexico",
-      "Egypt"
-    ],
-    "answer": "Sudan"
-  },
-  {
     "id": "geography-640",
     "category": "geography",
     "difficulty": "easy",
@@ -11633,19 +11490,6 @@
       "Italy"
     ],
     "answer": "Greece"
-  },
-  {
-    "id": "geography-645",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which country contains the most landlocked enclaves?",
-    "options": [
-      "United States",
-      "Italy",
-      "Russia",
-      "South Africa"
-    ],
-    "answer": "South Africa"
   },
   {
     "id": "geography-646",

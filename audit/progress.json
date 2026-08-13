@@ -10463,11 +10463,11 @@
         "geography-427",
         "geography-429"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 3,
+      "notes": "Fixed leaked drafting-note parenthetical in geography-404; cut geography-375 (dup of already-done geography-155, same Danube-10-countries fact) and geography-415 (reversed-direction dup of geography-342 within same chunk, Galapagos/Ecuador); logged 9 backlog notes for orphan-sibling duplicate clusters (Azores/Portugal, Central America lake, Patagonian/Great Basin/Sonoran desert clusters, Canada mountain, Kiel Canal, Cabinda, equator countries)"
     },
     {
       "chunkId": "geography-p1-012",
@@ -10524,11 +10524,11 @@
         "geography-509",
         "geography-510"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 8,
+      "notes": "Fixed leaked-drafting-text/malformed stems in geography-430 (awkward 'outside Indonesia' phrasing), geography-434 (confusing trailing Borneo clause), geography-438 (leaked 'Antananarivo... not the question' reasoning), geography-475 (merged two question intents into one garbled stem); fixed geography-441's Bukhara/Samarkand ambiguity by adding a Bukhara-specific clue (Ark fortress, Islamic scholarship) after WebSearch confirmed both cities are equally valid desert Silk-Road UNESCO sites; fixed geography-444's fabricated 'horseshoe bend near Jebba' claim to correctly reference the actual famous Niger Bend near Timbuktu (WebSearch-verified); fixed geography-489's leaked '(general)' annotation on an option; cut geography-458 (reversed-direction dup of already-done geography-381, same four Danube capitals) and geography-505 (dup of already-done geography-366, capital of Yemen); logged 1 backlog note for orphan-sibling duplicate (Sudan pyramids cluster, geography-480/792)"
     },
     {
       "chunkId": "geography-p1-013",
@@ -10585,11 +10585,11 @@
         "geography-581",
         "geography-582"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 5,
+      "notes": "Fixed geography-541's stale soybean-producer fact (WebSearch confirmed Brazil overtook the US as top producer in 2019, corpus said United States); fixed geography-557's malformed stem ('capital of Tanzania's former capital'); cut geography-525 (tallest active volcano/Ojos del Salado -- WebSearch confirmed genuine Chile/Argentina ambiguity, twin summits split across the border) and geography-575 (Area 51/Groom Lake desert -- WebSearch confirmed genuine Mojave/Great Basin classification ambiguity, sits at the transition zone); logged 3 backlog notes for orphan-sibling duplicates (Lake Ladoga/Europe, Lake Maracaibo/South America, Karakum 70%-of-Turkmenistan)"
     },
     {
       "chunkId": "geography-p1-014",
@@ -10646,11 +10646,11 @@
         "general-006",
         "general-008"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 7,
+      "notes": "Cut geography-596 (reversed-direction dup of already-done geography-434, New Guinea/Indonesia+PNG), geography-599 (dup of already-done geography-343, Easter Island/Chile), geography-605 (dup of geography-606 within same chunk, Manitoulin Island largest-in-freshwater-lake vs largest-in-Great-Lakes are the same fact), geography-626 (dup of already-done geography-095, Baku 28m-below-sea-level capital), geography-639 (dup of already-done geography-480, Sudan pyramids), and geography-645 (unverifiable/likely-stale 'South Africa has the most landlocked enclaves' superlative -- WebSearch found no support and Italy's two enclaved states (San Marino+Vatican) would outnumber South Africa's one (Lesotho) under the natural reading); logged 1 backlog note for orphan-sibling duplicate (Cabinda/Angola, geography-590/668)"
     },
     {
       "chunkId": "geography-p1-015",
