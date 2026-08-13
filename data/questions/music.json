@@ -104,19 +104,6 @@
     "answer": "Queen"
   },
   {
-    "id": "general-249",
-    "category": "music",
-    "difficulty": "medium",
-    "question": "Which Baroque composer wrote \"The Four Seasons\"?",
-    "options": [
-      "Antonio Vivaldi",
-      "Johann Sebastian Bach",
-      "George Frideric Handel",
-      "Arcangelo Corelli"
-    ],
-    "answer": "Antonio Vivaldi"
-  },
-  {
     "id": "general-250",
     "category": "music",
     "difficulty": "medium",
@@ -128,19 +115,6 @@
       "John Mellencamp"
     ],
     "answer": "Bruce Springsteen"
-  },
-  {
-    "id": "general-251",
-    "category": "music",
-    "difficulty": "medium",
-    "question": "Bob Marley helped popularize which Jamaican music genre worldwide?",
-    "options": [
-      "Ska",
-      "Dancehall",
-      "Reggae",
-      "Calypso"
-    ],
-    "answer": "Reggae"
   },
   {
     "id": "general-252",
@@ -455,19 +429,6 @@
     "answer": "4"
   },
   {
-    "id": "general-562",
-    "category": "music",
-    "difficulty": "medium",
-    "question": "Which composer became completely deaf later in life yet continued to compose, including his Ninth Symphony?",
-    "options": [
-      "Wolfgang Amadeus Mozart",
-      "Ludwig van Beethoven",
-      "Johann Sebastian Bach",
-      "Franz Schubert"
-    ],
-    "answer": "Ludwig van Beethoven"
-  },
-  {
     "id": "general-563",
     "category": "music",
     "difficulty": "hard",
@@ -611,19 +572,6 @@
     "answer": "4"
   },
   {
-    "id": "general-574",
-    "category": "music",
-    "difficulty": "medium",
-    "question": "Which instrument is virtuoso Yo-Yo Ma famous for playing?",
-    "options": [
-      "Violin",
-      "Cello",
-      "Viola",
-      "Double bass"
-    ],
-    "answer": "Cello"
-  },
-  {
     "id": "general-575",
     "category": "music",
     "difficulty": "hard",
@@ -728,19 +676,6 @@
     "answer": "Gioachino Rossini"
   },
   {
-    "id": "general-824",
-    "category": "music",
-    "difficulty": "medium",
-    "question": "Which American singer-songwriter is known as 'The Boss'?",
-    "options": [
-      "Bob Dylan",
-      "Bruce Springsteen",
-      "Billy Joel",
-      "Bob Seger"
-    ],
-    "answer": "Bruce Springsteen"
-  },
-  {
     "id": "general-825",
     "category": "music",
     "difficulty": "easy",
@@ -843,19 +778,6 @@
       "Cadenza"
     ],
     "answer": "Overture"
-  },
-  {
-    "id": "general-833",
-    "category": "music",
-    "difficulty": "medium",
-    "question": "Which classical composer is known for the ballets 'The Nutcracker' and 'Swan Lake'?",
-    "options": [
-      "Sergei Rachmaninoff",
-      "Igor Stravinsky",
-      "Pyotr Ilyich Tchaikovsky",
-      "Sergei Prokofiev"
-    ],
-    "answer": "Pyotr Ilyich Tchaikovsky"
   },
   {
     "id": "general-834",
@@ -1053,19 +975,6 @@
     "answer": "Concerto"
   },
   {
-    "id": "general-1150",
-    "category": "music",
-    "difficulty": "medium",
-    "question": "Which Austrian composer wrote 'The Magic Flute'?",
-    "options": [
-      "Wolfgang Amadeus Mozart",
-      "Ludwig van Beethoven",
-      "Franz Joseph Haydn",
-      "Johann Strauss II"
-    ],
-    "answer": "Wolfgang Amadeus Mozart"
-  },
-  {
     "id": "general-1151",
     "category": "music",
     "difficulty": "easy",
@@ -1144,19 +1053,6 @@
     "answer": "Woodstock"
   },
   {
-    "id": "general-1358",
-    "category": "music",
-    "difficulty": "medium",
-    "question": "Which composer wrote the ballet 'Swan Lake'?",
-    "options": [
-      "Pyotr Ilyich Tchaikovsky",
-      "Igor Stravinsky",
-      "Sergei Prokofiev",
-      "Modest Mussorgsky"
-    ],
-    "answer": "Pyotr Ilyich Tchaikovsky"
-  },
-  {
     "id": "general-1359",
     "category": "music",
     "difficulty": "medium",
@@ -1196,19 +1092,6 @@
     "answer": "The Beatles"
   },
   {
-    "id": "general-1666",
-    "category": "music",
-    "difficulty": "medium",
-    "question": "Which musician is known as 'The Boss'?",
-    "options": [
-      "Bruce Springsteen",
-      "Bono",
-      "Bob Dylan",
-      "Billy Joel"
-    ],
-    "answer": "Bruce Springsteen"
-  },
-  {
     "id": "general-1668",
     "category": "music",
     "difficulty": "medium",
@@ -1220,19 +1103,6 @@
       "Bohemian Rhapsody"
     ],
     "answer": "Bohemian Rhapsody"
-  },
-  {
-    "id": "general-1669",
-    "category": "music",
-    "difficulty": "medium",
-    "question": "Which Michael Jackson album, released in 1982, remains the best-selling album of all time?",
-    "options": [
-      "Bad",
-      "Dangerous",
-      "Off the Wall",
-      "Thriller"
-    ],
-    "answer": "Thriller"
   },
   {
     "id": "general-1670",
@@ -1287,32 +1157,6 @@
     "answer": "Pyotr Ilyich Tchaikovsky"
   },
   {
-    "id": "general-1674",
-    "category": "music",
-    "difficulty": "medium",
-    "question": "Which composer wrote his Ninth Symphony while almost completely deaf?",
-    "options": [
-      "Wolfgang Amadeus Mozart",
-      "Ludwig van Beethoven",
-      "Franz Schubert",
-      "Johannes Brahms"
-    ],
-    "answer": "Ludwig van Beethoven"
-  },
-  {
-    "id": "general-1675",
-    "category": "music",
-    "difficulty": "medium",
-    "question": "Which composer wrote the opera 'The Magic Flute' and the choral work 'Requiem'?",
-    "options": [
-      "Franz Joseph Haydn",
-      "Ludwig van Beethoven",
-      "Wolfgang Amadeus Mozart",
-      "Christoph Willibald Gluck"
-    ],
-    "answer": "Wolfgang Amadeus Mozart"
-  },
-  {
     "id": "general-1676",
     "category": "music",
     "difficulty": "medium",
@@ -1324,32 +1168,6 @@
       "Swing"
     ],
     "answer": "Jazz"
-  },
-  {
-    "id": "general-1677",
-    "category": "music",
-    "difficulty": "medium",
-    "question": "Which music genre, originating in Jamaica, is closely associated with artists such as Bob Marley?",
-    "options": [
-      "Dancehall",
-      "Ska",
-      "Calypso",
-      "Reggae"
-    ],
-    "answer": "Reggae"
-  },
-  {
-    "id": "general-1678",
-    "category": "music",
-    "difficulty": "medium",
-    "question": "Which iconic music festival took place in 1969 on a dairy farm in upstate New York?",
-    "options": [
-      "Coachella",
-      "Glastonbury",
-      "Woodstock",
-      "Lollapalooza"
-    ],
-    "answer": "Woodstock"
   },
   {
     "id": "general-1679",
@@ -1469,19 +1287,6 @@
     "answer": "Queen"
   },
   {
-    "id": "general-2097",
-    "category": "music",
-    "difficulty": "medium",
-    "question": "Who composed the famous violin concertos known as 'The Four Seasons'?",
-    "options": [
-      "Antonio Vivaldi",
-      "Johann Sebastian Bach",
-      "George Frideric Handel",
-      "Arcangelo Corelli"
-    ],
-    "answer": "Antonio Vivaldi"
-  },
-  {
     "id": "general-2098",
     "category": "music",
     "difficulty": "hard",
@@ -1519,19 +1324,6 @@
       "Whitney Houston"
     ],
     "answer": "Michael Jackson"
-  },
-  {
-    "id": "general-2102",
-    "category": "music",
-    "difficulty": "medium",
-    "question": "Which composer wrote the opera 'The Magic Flute'?",
-    "options": [
-      "Wolfgang Amadeus Mozart",
-      "Ludwig van Beethoven",
-      "Franz Schubert",
-      "Joseph Haydn"
-    ],
-    "answer": "Wolfgang Amadeus Mozart"
   },
   {
     "id": "general-2103",
@@ -1625,32 +1417,6 @@
     "answer": "String family"
   },
   {
-    "id": "general-2111",
-    "category": "music",
-    "difficulty": "medium",
-    "question": "Who composed the ballet 'Swan Lake'?",
-    "options": [
-      "Pyotr Ilyich Tchaikovsky",
-      "Igor Stravinsky",
-      "Sergei Prokofiev",
-      "Alexander Glazunov"
-    ],
-    "answer": "Pyotr Ilyich Tchaikovsky"
-  },
-  {
-    "id": "general-2112",
-    "category": "music",
-    "difficulty": "medium",
-    "question": "Which American singer-songwriter is nicknamed 'The Boss'?",
-    "options": [
-      "Bruce Springsteen",
-      "Tom Petty",
-      "Bob Seger",
-      "Billy Joel"
-    ],
-    "answer": "Bruce Springsteen"
-  },
-  {
     "id": "general-2114",
     "category": "music",
     "difficulty": "medium",
@@ -1727,45 +1493,6 @@
       "Stevie Wonder"
     ],
     "answer": "Michael Jackson"
-  },
-  {
-    "id": "general-2264",
-    "category": "music",
-    "difficulty": "medium",
-    "question": "Who composed 'The Four Seasons'?",
-    "options": [
-      "Antonio Vivaldi",
-      "Johann Sebastian Bach",
-      "George Frideric Handel",
-      "Joseph Haydn"
-    ],
-    "answer": "Antonio Vivaldi"
-  },
-  {
-    "id": "general-2265",
-    "category": "music",
-    "difficulty": "medium",
-    "question": "Which rock band is fronted by Freddie Mercury on the album 'A Night at the Opera'?",
-    "options": [
-      "Queen",
-      "The Who",
-      "Genesis",
-      "Yes"
-    ],
-    "answer": "Queen"
-  },
-  {
-    "id": "general-2266",
-    "category": "music",
-    "difficulty": "medium",
-    "question": "What musical genre originated in New Orleans in the late 19th and early 20th centuries?",
-    "options": [
-      "Jazz",
-      "Blues",
-      "Country",
-      "Rock and roll"
-    ],
-    "answer": "Jazz"
   },
   {
     "id": "general-2299",
@@ -4293,7 +4020,7 @@
     "id": "music-162",
     "category": "music",
     "difficulty": "hard",
-    "question": "Which jazz guitarist invented the electric jazz guitar with his Gibson L-5 and amplifier setup in the 1930s?",
+    "question": "Which jazz guitarist invented the electric jazz guitar with his Gibson ES-150 and amplifier setup in the 1930s?",
     "options": [
       "Joe Pass",
       "Django Reinhardt",
@@ -6350,10 +6077,10 @@
     "options": [
       "1969",
       "1990",
-      "1984",
+      "1970",
       "1975"
     ],
-    "answer": "1984",
+    "answer": "1970",
     "id": "music-320"
   },
   {
@@ -6929,19 +6656,6 @@
     "id": "music-364"
   },
   {
-    "difficulty": "hard",
-    "category": "music",
-    "question": "Which 1977 double album by Stevie Wonder won Album of the Year at the Grammys?",
-    "options": [
-      "Innervisions",
-      "Songs in the Key of Life",
-      "Talking Book",
-      "Off the Wall"
-    ],
-    "answer": "Songs in the Key of Life",
-    "id": "music-365"
-  },
-  {
     "difficulty": "easy",
     "category": "music",
     "question": "Which soul singer's 1967 original 'Respect' was famously covered by Aretha Franklin?",
@@ -7413,7 +7127,7 @@
     "id": "music-402",
     "category": "music",
     "difficulty": "hard",
-    "question": "Which composer completed Alexander Borodin's opera 'Prince Igor' after the composer's death?",
+    "question": "Which composer reconstructed the overture to Borodin's 'Prince Igor' entirely from memory, since Borodin had never written it down?",
     "options": [
       "Alexander Glazunov",
       "Nikolai Rimsky-Korsakov",
@@ -7842,7 +7556,7 @@
     "id": "music-435",
     "category": "music",
     "difficulty": "hard",
-    "question": "Which Charles Mingus album is widely considered his masterpiece and features a 39-piece orchestra?",
+    "question": "Which Charles Mingus album is widely considered his masterpiece and features an eleven-piece band including classical guitarist Jay Berliner?",
     "options": [
       "The Black Saint and the Sinner Lady",
       "Mingus Ah Um",
@@ -8232,7 +7946,7 @@
     "id": "music-465",
     "category": "music",
     "difficulty": "hard",
-    "question": "Which 1981 Orchestral Manoeuvres in the Dark album features the Cold War-themed hit 'Enola Gay'?",
+    "question": "Which 1980 Orchestral Manoeuvres in the Dark album features the Cold War-themed hit 'Enola Gay'?",
     "options": [
       "Organisation",
       "Orchestral Manoeuvres in the Dark",
@@ -8284,7 +7998,7 @@
     "id": "music-469",
     "category": "music",
     "difficulty": "hard",
-    "question": "Which 1979 Buzzcocks album features the classic pop-punk song 'Ever Fallen in Love (With Someone You Shouldn't've)'?",
+    "question": "Which 1978 Buzzcocks album features the classic pop-punk song 'Ever Fallen in Love (With Someone You Shouldn't've)'?",
     "options": [
       "Love Bites",
       "Another Music in a Different Kitchen",
@@ -8496,7 +8210,7 @@
     "options": [
       "3 Years, 5 Months and 2 Days in the Life Of...",
       "Zingalamaduni",
-      "Strong Man",
+      "Since the Last Time",
       "Among the Trees"
     ],
     "answer": "3 Years, 5 Months and 2 Days in the Life Of..."
@@ -8648,14 +8362,14 @@
     "id": "music-497",
     "category": "music",
     "difficulty": "hard",
-    "question": "Which 1994 Orbital album features the ambient house classic 'Halcyon On and On'?",
+    "question": "Which 1993 Orbital album features the ambient house classic 'Halcyon On and On'?",
     "options": [
       "Snivilisation",
       "Orbital",
       "Orbital 2",
       "In Sides"
     ],
-    "answer": "Snivilisation"
+    "answer": "Orbital 2"
   },
   {
     "id": "music-498",
@@ -8687,7 +8401,7 @@
     "id": "music-500",
     "category": "music",
     "difficulty": "hard",
-    "question": "Which 1993 Leftfield album features the John Lydon vocal track 'Open Up'?",
+    "question": "Which 1995 Leftfield album features the John Lydon vocal track 'Open Up'?",
     "options": [
       "Leftism",
       "Rhythm and Stealth",
@@ -8817,7 +8531,7 @@
     "id": "music-510",
     "category": "music",
     "difficulty": "hard",
-    "question": "Which 1990 Black Dog Productions album is a pioneering work of British techno?",
+    "question": "Which 1993 Black Dog Productions album is a pioneering work of British techno?",
     "options": [
       "Bytes",
       "Spanners",
@@ -8830,7 +8544,7 @@
     "id": "music-511",
     "category": "music",
     "difficulty": "hard",
-    "question": "Which 1991 KLF album is a conceptual ambient house work about a journey across America?",
+    "question": "Which 1990 KLF album is a conceptual ambient house work about a journey across America?",
     "options": [
       "Chill Out",
       "1987 (What the Fuck Is Going On?)",
@@ -8999,7 +8713,7 @@
     "id": "music-524",
     "category": "music",
     "difficulty": "hard",
-    "question": "Which 1994 Mayhem album is the only studio album released before the death of vocalist Dead?",
+    "question": "Which 1994 Mayhem album features vocals recorded by Dead before his 1991 death, despite being released three years later?",
     "options": [
       "De Mysteriis Dom Sathanas",
       "Wolfs Lair Abyss",
@@ -9025,7 +8739,7 @@
     "id": "music-526",
     "category": "music",
     "difficulty": "hard",
-    "question": "Which 1991 Entombed album is a cornerstone of the Swedish death metal scene?",
+    "question": "Which 1990 Entombed album is a cornerstone of the Swedish death metal scene?",
     "options": [
       "Left Hand Path",
       "Clandestine",
@@ -10751,19 +10465,6 @@
     "answer": "a-ha"
   },
   {
-    "id": "music-659",
-    "category": "music",
-    "difficulty": "easy",
-    "question": "Which British singer-songwriter released the 2011 album '21,' featuring the massive hit 'Rolling in the Deep'?",
-    "options": [
-      "Adele",
-      "Amy Winehouse",
-      "Duffy",
-      "Florence Welch"
-    ],
-    "answer": "Adele"
-  },
-  {
     "id": "music-660",
     "category": "music",
     "difficulty": "medium",
@@ -11555,19 +11256,6 @@
       "The Avett Brothers"
     ],
     "answer": "The Civil Wars"
-  },
-  {
-    "id": "music-721",
-    "category": "music",
-    "difficulty": "easy",
-    "question": "Which country legend is known as the 'Man in Black' and famously recorded an album at San Quentin prison?",
-    "options": [
-      "Johnny Cash",
-      "Merle Haggard",
-      "George Jones",
-      "Hank Williams"
-    ],
-    "answer": "Johnny Cash"
   },
   {
     "id": "music-722",
@@ -13377,19 +13065,6 @@
     "id": "music-861"
   },
   {
-    "difficulty": "easy",
-    "category": "music",
-    "question": "Which rapper released the 2020 album Folklore? No, which pop star released Folklore in 2020 as surprise?",
-    "options": [
-      "Taylor Swift",
-      "Ariana Grande",
-      "Billie Eilish",
-      "Lorde"
-    ],
-    "answer": "Taylor Swift",
-    "id": "music-862"
-  },
-  {
     "difficulty": "medium",
     "category": "music",
     "question": "Which Taylor Swift album won Album of the Year at the 2010 Grammys?",
@@ -14077,19 +13752,6 @@
     ],
     "answer": "Banjo",
     "id": "music-915"
-  },
-  {
-    "difficulty": "easy",
-    "category": "music",
-    "question": "Which singer is known as the Man in Black?",
-    "options": [
-      "Johnny Cash",
-      "Willie Nelson",
-      "Hank Williams",
-      "Merle Haggard"
-    ],
-    "answer": "Johnny Cash",
-    "id": "music-916"
   },
   {
     "difficulty": "easy",

@@ -12276,11 +12276,11 @@
         "music-469",
         "music-474"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 7,
+      "notes": "Fixed 6 factual errors (Charlie Christian's guitar was a Gibson ES-150 not L-5; Abbey Road Studios renamed in 1970 not 1984; Borodin's Prince Igor overture reconstruction was Glazunov specifically -- reworded question to resolve ambiguity with Rimsky-Korsakov, who co-completed the opera as a whole; Mingus's Black Saint and the Sinner Lady used an 11-piece band not a 39-piece orchestra; OMD's Organisation was released 1980 not 1981; Buzzcocks' Love Bites was released 1978 not 1979). Cut 1 in-chunk reversed-direction duplicate (music-365 vs music-301, both Songs in the Key of Life/Album of the Year 1977)."
     },
     {
       "chunkId": "music-p1-002",
@@ -12337,11 +12337,11 @@
         "general-571",
         "general-574"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 10,
+      "notes": "Fixed 6 factual date/album errors verified via WebSearch: Orbital's 'Halcyon On and On' is on Orbital 2 (1993) not Snivilisation (1994); Leftfield's Leftism released 1995 not 1993; Black Dog Productions' Bytes released 1993 not 1990; KLF's Chill Out released 1990 not 1991; Entombed's Left Hand Path released 1990 not 1991; Mayhem's De Mysteriis Dom Sathanas was recorded with Dead's vocals before his 1991 death but released in 1994 (three years after, not before) -- reworded question to state the accurate timeline. Softened an answer-leak on music-485 (Arrested Development album title) by lengthening a conspicuously short distractor. Cut 4 duplicates among legacy general-prefixed entries living in this file: general-249 (Four Seasons/Vivaldi, duplicate of already-vetted general-566), plus 3 in-chunk pairs reviewed together this chunk (general-251/571 Bob-Marley-reggae, general-357/562 Beethoven-deafness-Ninth-Symphony, general-364/574 Yo-Yo-Ma-cello). Left several other same-answer legacy clusters (Freddie-Mercury/Queen, Four-Seasons remaining copies, The-Boss/Springsteen, Magic-Flute/Mozart, Thriller/MJ, Dark-Side-of-the-Moon/Pink-Floyd, Tuba-lowest-brass) uncut since their duplicate siblings are still pending in other chunks and will self-resolve via the same-answer auto-print."
     },
     {
       "chunkId": "music-p1-003",
@@ -12398,11 +12398,11 @@
         "general-2266",
         "general-2320"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 21,
+      "notes": "Large legacy-chestnut cluster chunk (many general-prefixed IDs living in music.json). Cut 21 duplicates: general-1674/824/1666/2112/1150/1675/2102/2097/2264/2265/1677/833/1358/2111/1678(one of pair)/2266(one of pair)/1669 against already-vetted survivors from earlier-completed chunks (general-357 deaf-Ninth-Symphony, general-250 The-Boss, general-252 Magic-Flute+Requiem, general-566 Four-Seasons, general-248 Freddie-Mercury/Queen, general-571 Bob-Marley-reggae, general-257 Swan-Lake+Nutcracker, general-253 Thriller); resolved 2 in-chunk pairs directly (kept general-1156 over general-1678 for Woodstock, general-1676 over general-2266 for New-Orleans-jazz); plus cut 4 orphan duplicates I read and evaluated directly since they'll never surface via next (music-659 dup of general-2105 Adele/21, music-721 and music-916 dup of general-2106 Johnny-Cash-Man-in-Black, music-862 a malformed leaked-reasoning question ('Which rapper... No, which pop star...') that also duplicated music-202 Folklore/Taylor-Swift). No factual-accuracy issues found among the standalone (non-duplicate) questions in this chunk."
     },
     {
       "chunkId": "music-p1-004",
