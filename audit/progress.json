@@ -11955,11 +11955,11 @@
         "general-2432",
         "general-2539"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 13,
+      "notes": "Cut 13 duplicates: 9 against already-reviewed siblings from earlier chunks (Berlin Wall 1961-1989 dup'd twice against general-461; Declaration-of-Independence-author vs history-035; Gettysburg-Address vs general-707; Emancipation-Proclamation vs general-471; Battle-of-Waterloo vs general-999; Joan-of-Arc vs general-1413; Tutankhamun-tomb vs general-1058; Mandela-imprisoned-before-presidency vs general-965) plus 4 in-chunk pairs (Great-Depression-1929 x2, Cold-War-definition x2, Gandhi-nonviolent-independence x2, Henry-VIII-six-wives x2). Left Napoleon-crowned-emperor/Napoleon-exile-bio, Great-Wall-of-China-purpose/Great-Wall-longest-wall, and Pearl-Harbor-attack/Pearl-Harbor-triggered-WWII-entry pairs uncut as genuinely distinct facts about the same entity/event. All distractors checked; no factual errors found."
     },
     {
       "chunkId": "history-p1-017",
@@ -12016,11 +12016,11 @@
         "history-370",
         "history-376"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 10,
+      "notes": "Cut 9 in-chunk duplicates against already-reviewed siblings/each other: Tutankhamun-tomb vs general-1058, Colossus-of-Rhodes vs general-469, Boxer-Rebellion-country vs history-287, Titanic-sank-1912 vs general-025, Declaration-signed-1776 vs general-037, Machu-Picchu-built-by-Inca vs general-459/693, Battle-of-Hastings-1066 in-chunk pair, Soviet-Union-dissolved-1991 vs general-1430, NZ-first-women's-suffrage-1893 vs general-1883. Also fixed an incidentally-discovered duplicate outside this chunk (general-693 vs already-vetted general-459, both 'which civilization built Machu Picchu', both done in earlier chunks and never cross-checked) -- cut general-693. Kept history-038 (exact Titanic sinking date) distinct from the cut history-158/general-025 (just the year) as a genuinely more specific fact. All distractors checked; no factual errors found."
     },
     {
       "chunkId": "history-p1-018",
@@ -12077,11 +12077,11 @@
         "history-508",
         "history-509"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 5,
+      "notes": "Cut 5 duplicates: Khufu/Great-Pyramid vs already-vetted general-2429, Treaty-of-Verdun-843 vs already-vetted history-556, Luther's-95-Theses in-chunk reversed-direction pair (city-asks-for vs person-asks-for), Pericles/Golden-Age vs already-vetted general-1877, and a manually-caught Hannibal-crossed-Alps-with-elephants duplicate (history-505) against already-vetted history-162 from two chunks ago that the auto same-answer index missed because the answer text differed ('Hannibal' vs 'Hannibal Barca'). Logged 4 backlog notes for duplicates whose sibling is an orphan with no chunk in this pass (Erie Canal vs geography-1346, Bay of Pigs vs history-930, Tale of Genji author vs arts-literature-838, Din-i-Ilahi founding/codifying vs history-789). All distractors checked; no factual errors found."
     },
     {
       "chunkId": "history-p1-019",

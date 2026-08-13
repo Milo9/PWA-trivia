@@ -598,19 +598,6 @@
     "answer": "Franklin D. Roosevelt"
   },
   {
-    "id": "general-693",
-    "category": "history",
-    "difficulty": "hard",
-    "question": "Which ancient civilization built the mountain citadel of Machu Picchu?",
-    "options": [
-      "The Inca",
-      "The Maya",
-      "The Aztec",
-      "The Olmec"
-    ],
-    "answer": "The Inca"
-  },
-  {
     "id": "general-694",
     "category": "history",
     "difficulty": "easy",
@@ -1285,19 +1272,6 @@
       "James Madison"
     ],
     "answer": "Benjamin Franklin"
-  },
-  {
-    "id": "general-1319",
-    "category": "history",
-    "difficulty": "easy",
-    "question": "What was the name of the wall that divided East and West Berlin from 1961 to 1989?",
-    "options": [
-      "Berlin Wall",
-      "Iron Curtain",
-      "Maginot Line",
-      "Hadrian's Wall"
-    ],
-    "answer": "Berlin Wall"
   },
   {
     "id": "general-1320",
@@ -2002,19 +1976,6 @@
     "answer": "Inca Empire"
   },
   {
-    "id": "general-1866",
-    "category": "history",
-    "difficulty": "easy",
-    "question": "Which English king was famously married six times?",
-    "options": [
-      "Henry VIII",
-      "Henry V",
-      "Richard III",
-      "Edward VI"
-    ],
-    "answer": "Henry VIII"
-  },
-  {
     "id": "general-1868",
     "category": "history",
     "difficulty": "hard",
@@ -2171,19 +2132,6 @@
     "answer": "1959"
   },
   {
-    "id": "general-1887",
-    "category": "history",
-    "difficulty": "easy",
-    "question": "Who was the principal author of the US Declaration of Independence?",
-    "options": [
-      "Thomas Jefferson",
-      "John Adams",
-      "Benjamin Franklin",
-      "James Madison"
-    ],
-    "answer": "Thomas Jefferson"
-  },
-  {
     "id": "general-1888",
     "category": "history",
     "difficulty": "medium",
@@ -2262,19 +2210,6 @@
     "answer": "Moctezuma II"
   },
   {
-    "id": "general-1898",
-    "category": "history",
-    "difficulty": "easy",
-    "question": "Which ancient Egyptian pharaoh's nearly intact tomb was famously discovered in 1922?",
-    "options": [
-      "Tutankhamun",
-      "Ramesses II",
-      "Akhenaten",
-      "Thutmose III"
-    ],
-    "answer": "Tutankhamun"
-  },
-  {
     "id": "general-1899",
     "category": "history",
     "difficulty": "medium",
@@ -2288,58 +2223,6 @@
     "answer": "Jawaharlal Nehru"
   },
   {
-    "id": "general-1900",
-    "category": "history",
-    "difficulty": "easy",
-    "question": "Which 1815 battle marked Napoleon's final defeat?",
-    "options": [
-      "Battle of Waterloo",
-      "Battle of Trafalgar",
-      "Battle of Austerlitz",
-      "Battle of Leipzig"
-    ],
-    "answer": "Battle of Waterloo"
-  },
-  {
-    "id": "general-1902",
-    "category": "history",
-    "difficulty": "easy",
-    "question": "Which South African leader was imprisoned for 27 years before becoming president?",
-    "options": [
-      "Nelson Mandela",
-      "Desmond Tutu",
-      "Thabo Mbeki",
-      "Steve Biko"
-    ],
-    "answer": "Nelson Mandela"
-  },
-  {
-    "id": "general-1903",
-    "category": "history",
-    "difficulty": "easy",
-    "question": "Which US president issued the Emancipation Proclamation?",
-    "options": [
-      "Abraham Lincoln",
-      "Andrew Johnson",
-      "Ulysses S. Grant",
-      "James Buchanan"
-    ],
-    "answer": "Abraham Lincoln"
-  },
-  {
-    "id": "general-1904",
-    "category": "history",
-    "difficulty": "easy",
-    "question": "Which French heroine and later saint helped lead France to victory during the Hundred Years' War?",
-    "options": [
-      "Joan of Arc",
-      "Marie Antoinette",
-      "Catherine de Medici",
-      "Eleanor of Aquitaine"
-    ],
-    "answer": "Joan of Arc"
-  },
-  {
     "id": "general-1905",
     "category": "history",
     "difficulty": "medium",
@@ -2351,19 +2234,6 @@
       "Franklin D. Roosevelt"
     ],
     "answer": "John F. Kennedy"
-  },
-  {
-    "id": "general-1907",
-    "category": "history",
-    "difficulty": "easy",
-    "question": "What is the name of the era of post-WWII geopolitical tension between the US and USSR without direct combat?",
-    "options": [
-      "The Cold War",
-      "The Iron Curtain Era",
-      "The Space Race",
-      "The Arms Race"
-    ],
-    "answer": "The Cold War"
   },
   {
     "id": "general-1909",
@@ -2561,19 +2431,6 @@
     "answer": "The Soviet Union"
   },
   {
-    "id": "general-2212",
-    "category": "history",
-    "difficulty": "easy",
-    "question": "The Gettysburg Address was delivered by which president?",
-    "options": [
-      "Abraham Lincoln",
-      "Ulysses S. Grant",
-      "Andrew Johnson",
-      "James Buchanan"
-    ],
-    "answer": "Abraham Lincoln"
-  },
-  {
     "id": "general-2213",
     "category": "history",
     "difficulty": "easy",
@@ -2676,32 +2533,6 @@
       "France"
     ],
     "answer": "Great Britain"
-  },
-  {
-    "id": "general-2278",
-    "category": "history",
-    "difficulty": "easy",
-    "question": "Which Indian leader led a nonviolent independence movement against British rule?",
-    "options": [
-      "Mahatma Gandhi",
-      "Jawaharlal Nehru",
-      "Subhas Chandra Bose",
-      "Sardar Patel"
-    ],
-    "answer": "Mahatma Gandhi"
-  },
-  {
-    "id": "general-2279",
-    "category": "history",
-    "difficulty": "easy",
-    "question": "Which wall divided a European capital city from 1961 to 1989?",
-    "options": [
-      "The Berlin Wall",
-      "Hadrian's Wall",
-      "The Great Wall",
-      "The Atlantic Wall"
-    ],
-    "answer": "The Berlin Wall"
   },
   {
     "id": "general-2304",
@@ -3159,19 +2990,6 @@
     "answer": "Venezuela"
   },
   {
-    "id": "general-2539",
-    "category": "history",
-    "difficulty": "easy",
-    "question": "What was the name of the economic crisis that began in the United States in 1929?",
-    "options": [
-      "The Great Depression",
-      "The Great Recession",
-      "The Panic of 1907",
-      "Black Monday"
-    ],
-    "answer": "The Great Depression"
-  },
-  {
     "id": "general-2541",
     "category": "history",
     "difficulty": "medium",
@@ -3183,19 +3001,6 @@
       "Zhou Enlai"
     ],
     "answer": "Mao Zedong"
-  },
-  {
-    "id": "general-2616",
-    "category": "history",
-    "difficulty": "easy",
-    "question": "Which Egyptian pharaoh's nearly intact tomb, discovered in 1922, contained a famous golden burial mask?",
-    "options": [
-      "Tutankhamun",
-      "Ramesses II",
-      "Akhenaten",
-      "Thutmose III"
-    ],
-    "answer": "Tutankhamun"
   },
   {
     "id": "general-2617",
@@ -3222,19 +3027,6 @@
       "Alexandre Petion"
     ],
     "answer": "Jean-Jacques Dessalines"
-  },
-  {
-    "id": "general-2619",
-    "category": "history",
-    "difficulty": "easy",
-    "question": "Which Seven Wonders of the Ancient World statue depicted the sun god Helios standing at the harbor of a Greek island?",
-    "options": [
-      "The Colossus of Rhodes",
-      "The Lighthouse of Alexandria",
-      "The Statue of Zeus at Olympia",
-      "The Hanging Gardens"
-    ],
-    "answer": "The Colossus of Rhodes"
   },
   {
     "id": "general-2621",
@@ -3287,19 +3079,6 @@
       "Nefertari"
     ],
     "answer": "Hatshepsut"
-  },
-  {
-    "id": "general-2626",
-    "category": "history",
-    "difficulty": "easy",
-    "question": "The Boxer Rebellion of 1899-1901 was an uprising against foreign influence in which country?",
-    "options": [
-      "China",
-      "Japan",
-      "Korea",
-      "Vietnam"
-    ],
-    "answer": "China"
   },
   {
     "id": "general-2627",
@@ -4158,19 +3937,6 @@
       "3 October 1990"
     ],
     "answer": "9 November 1989"
-  },
-  {
-    "id": "history-040",
-    "category": "history",
-    "difficulty": "easy",
-    "question": "In what year was the United States Declaration of Independence adopted?",
-    "options": [
-      "1774",
-      "1776",
-      "1778",
-      "1781"
-    ],
-    "answer": "1776"
   },
   {
     "id": "history-041",
@@ -5577,19 +5343,6 @@
     "answer": "1896"
   },
   {
-    "id": "history-154",
-    "category": "history",
-    "difficulty": "easy",
-    "question": "In what year did New Zealand become the first self-governing country to grant women the right to vote?",
-    "options": [
-      "1893",
-      "1902",
-      "1918",
-      "1888"
-    ],
-    "answer": "1893"
-  },
-  {
     "id": "history-155",
     "category": "history",
     "difficulty": "hard",
@@ -5603,19 +5356,6 @@
     "answer": "Theodosius I"
   },
   {
-    "id": "history-156",
-    "category": "history",
-    "difficulty": "easy",
-    "question": "Which ancient civilization constructed the estate of Machu Picchu in the 15th century?",
-    "options": [
-      "Maya",
-      "Aztec",
-      "Tiwanaku",
-      "Inca"
-    ],
-    "answer": "Inca"
-  },
-  {
     "id": "history-157",
     "category": "history",
     "difficulty": "hard",
@@ -5627,19 +5367,6 @@
       "Twosret"
     ],
     "answer": "Sobekneferu"
-  },
-  {
-    "id": "history-158",
-    "category": "history",
-    "difficulty": "easy",
-    "question": "In what year did the RMS Titanic sink during its maiden voyage?",
-    "options": [
-      "1905",
-      "1923",
-      "1912",
-      "1914"
-    ],
-    "answer": "1912"
   },
   {
     "id": "history-159",
@@ -8294,19 +8021,6 @@
     "answer": "1947"
   },
   {
-    "id": "history-370",
-    "difficulty": "easy",
-    "category": "history",
-    "question": "What year did the Soviet Union formally dissolve?",
-    "options": [
-      "1991",
-      "1989",
-      "1990",
-      "1992"
-    ],
-    "answer": "1991"
-  },
-  {
     "id": "history-371",
     "difficulty": "hard",
     "category": "history",
@@ -8370,19 +8084,6 @@
       "Mozambique"
     ],
     "answer": "South Africa"
-  },
-  {
-    "id": "history-376",
-    "category": "history",
-    "difficulty": "easy",
-    "question": "In which year was the Battle of Hastings fought?",
-    "options": [
-      "1066",
-      "1060",
-      "1070",
-      "1086"
-    ],
-    "answer": "1066"
   },
   {
     "id": "history-377",
@@ -8474,19 +8175,6 @@
       "Harald Hardrada"
     ],
     "answer": "Rollo"
-  },
-  {
-    "id": "history-384",
-    "category": "history",
-    "difficulty": "easy",
-    "question": "Which pharaoh was the Great Pyramid at Giza originally built as a tomb for?",
-    "options": [
-      "Khufu",
-      "Khafre",
-      "Menkaure",
-      "Djoser"
-    ],
-    "answer": "Khufu"
   },
   {
     "id": "history-385",
@@ -9204,19 +8892,6 @@
     "answer": "Johnson-Reed Act"
   },
   {
-    "id": "history-441",
-    "category": "history",
-    "difficulty": "easy",
-    "question": "Which 843 treaty divided the Carolingian Empire among three grandsons of Charlemagne?",
-    "options": [
-      "Treaty of Verdun",
-      "Treaty of Meerssen",
-      "Treaty of Ribemont",
-      "Treaty of Prüm"
-    ],
-    "answer": "Treaty of Verdun"
-  },
-  {
     "id": "history-442",
     "category": "history",
     "difficulty": "easy",
@@ -9737,19 +9412,6 @@
     "answer": "Lancaster and York"
   },
   {
-    "id": "history-482",
-    "category": "history",
-    "difficulty": "easy",
-    "question": "In which city did Martin Luther post his 95 Theses on 31 October 1517?",
-    "options": [
-      "Augsburg",
-      "Geneva",
-      "Wittenberg",
-      "Rome"
-    ],
-    "answer": "Wittenberg"
-  },
-  {
     "id": "history-483",
     "category": "history",
     "difficulty": "medium",
@@ -9971,19 +9633,6 @@
     "answer": "Themistocles"
   },
   {
-    "id": "history-500",
-    "category": "history",
-    "difficulty": "easy",
-    "question": "Which Athenian statesman led Athens during its Golden Age and oversaw the building program that included the Parthenon?",
-    "options": [
-      "Cleisthenes",
-      "Draco",
-      "Pericles",
-      "Solon"
-    ],
-    "answer": "Pericles"
-  },
-  {
     "id": "history-501",
     "category": "history",
     "difficulty": "medium",
@@ -10034,19 +9683,6 @@
       "Lysimachus"
     ],
     "answer": "Ptolemy I Soter"
-  },
-  {
-    "id": "history-505",
-    "category": "history",
-    "difficulty": "easy",
-    "question": "Which Carthaginian general crossed the Alps with 37 war elephants to invade Italy in 218 BC?",
-    "options": [
-      "Hannibal",
-      "Mago Barca",
-      "Hamilcar Barca",
-      "Hasdrubal Barca"
-    ],
-    "answer": "Hannibal"
   },
   {
     "id": "history-507",
