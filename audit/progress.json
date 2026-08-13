@@ -13686,11 +13686,11 @@
         "general-115",
         "general-117"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 1,
+      "notes": "Fixed science-technology-471: question wrongly called Okazaki fragments 'RNA nucleotides' -- they're short DNA fragments (RNA primers are a separate, distinct structure). Logged backlog note for a Sievert/equivalent-dose triplicate (science-technology-456/758/general-4034) since both siblings are unreachable orphans. No other factual errors, answer-leaks, or in-pass duplicates found among the 50 questions."
     },
     {
       "chunkId": "science-technology-p1-006",
@@ -13747,11 +13747,11 @@
         "general-735",
         "general-737"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 7,
+      "notes": "Cut 7 duplicates: general-190 (dup of in-chunk general-122, Nitrogen/78%-atmosphere), general-158 (dup of already-done science-technology-074, Fleming/penicillin), general-429 (dup of already-done general-1549, sublimation), general-545 (dup of already-done science-technology-046, Java/Sun-1995), general-615 (triplicate of already-done general-109 and general-1513, mitochondria/powerhouse), general-195 (reversed-direction dup of already-done general-112, NaCl/table-salt), general-737 (same boiling-point fact as already-done general-115, just restated in Fahrenheit vs Celsius). Logged 4 backlog notes for duplicates whose sibling is an unreachable orphan (Diamond/Mohs-10, 46-chromosomes, Neon-in-signs, prime-number-definition). No factual errors found among the 50 questions reviewed."
     },
     {
       "chunkId": "science-technology-p1-007",
@@ -13808,11 +13808,11 @@
         "general-1768",
         "general-1926"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 13,
+      "notes": "Fixed general-1768: question falsely claimed TikTok 'was originally launched as Musical.ly' (common misconception) -- Musical.ly was a separate app (2014) that ByteDance merged into TikTok in 2018; reworded to describe the actual merger. Cut 12 duplicates against already-done siblings: general-744/general-1340 (both vs done general-432, vitamin-C/scurvy), general-1068 (vs done general-122, nitrogen/atmosphere), general-1086 (vs done general-178, neon/signs), general-1514 (in-chunk dup of kept general-1265, Curie two-science Nobels), general-1096 (vs done general-144, vitamin D/sunlight), general-1104 (vs done general-440, pancreas/insulin), general-1232 (vs done general-306, Python/Monty-Python), general-1345 (vs done general-147, igneous rock), general-1228 (reversed-direction dup of done general-729, Gutenberg/printing-press), general-1261 (vs done general-113, Einstein/relativity), general-1515 (vs done general-140, Newton/laws-of-motion). Kept general-1093 (23 chromosome pairs) and general-1534 (vitamin C = ascorbic acid) as distinct facts, not duplicates, despite sharing an entity with cut/kept siblings. No other factual errors or answer-leaks found among the 50 questions."
     },
     {
       "chunkId": "science-technology-p1-008",

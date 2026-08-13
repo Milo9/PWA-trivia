@@ -1,1 +1,7 @@
-{}
+{
+  "general-129": "Hardest natural substance (Diamond) triplicate: general-129 (this), general-2231 (pending sibling, self-resolves), general-4265 (orphan, 'mineral rated 10 on Mohs scale'). general-4265 is unreachable -- resolve whenever touched.",
+  "general-137": "46 human chromosomes duplicate: general-137 (this) and science-technology-683 (orphan, 'chromosomes in a human somatic cell'). Unreachable via next -- resolve whenever touched.",
+  "general-178": "Neon-in-signs duplicate: general-178 (this) and science-technology-806 (orphan, 'noble gas used in bright orange-red advertising signs'). Unreachable via next -- resolve whenever touched.",
+  "general-316": "Prime-number-definition duplicate: general-316 (this) and general-4195 (orphan, 'natural number >1 with no divisors other than 1 and itself'). Unreachable via next -- resolve whenever touched.",
+  "science-technology-456": "Sievert/equivalent-radiation-dose triplicate: science-technology-456 (this, 'SI derived unit of equivalent radiation dose'), science-technology-758 (orphan, 'SI unit measures equivalent dose of ionizing radiation'), general-4034 (orphan, 'unit of dose equivalent represented by Sv') are the same fact reworded. Both siblings are unreachable orphans -- pick one survivor and cut the others whenever touched."
+}

@@ -429,19 +429,6 @@
     "answer": "Rainbow"
   },
   {
-    "id": "general-158",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "Which scientist is known for discovering penicillin, the first widely used antibiotic?",
-    "options": [
-      "Louis Pasteur",
-      "Alexander Fleming",
-      "Marie Curie",
-      "Robert Koch"
-    ],
-    "answer": "Alexander Fleming"
-  },
-  {
     "id": "general-159",
     "category": "science-technology",
     "difficulty": "hard",
@@ -650,19 +637,6 @@
     "answer": "Catalyst"
   },
   {
-    "id": "general-190",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "Which gas makes up the majority of Earth's atmosphere by volume?",
-    "options": [
-      "Oxygen",
-      "Nitrogen",
-      "Carbon dioxide",
-      "Argon"
-    ],
-    "answer": "Nitrogen"
-  },
-  {
     "id": "general-192",
     "category": "science-technology",
     "difficulty": "medium",
@@ -687,19 +661,6 @@
       "Atmosphere"
     ],
     "answer": "Crust"
-  },
-  {
-    "id": "general-195",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "What is the common everyday name for sodium chloride?",
-    "options": [
-      "Baking soda",
-      "Sugar",
-      "Table salt",
-      "Chalk"
-    ],
-    "answer": "Table salt"
   },
   {
     "id": "general-198",
@@ -1144,19 +1105,6 @@
     "answer": "7"
   },
   {
-    "id": "general-429",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "What is the name of the process by which a solid changes directly into a gas without passing through a liquid state?",
-    "options": [
-      "Sublimation",
-      "Evaporation",
-      "Condensation",
-      "Deposition"
-    ],
-    "answer": "Sublimation"
-  },
-  {
     "id": "general-430",
     "category": "science-technology",
     "difficulty": "easy",
@@ -1311,19 +1259,6 @@
       "Central Processing Unit"
     ],
     "answer": "Central Processing Unit"
-  },
-  {
-    "id": "general-545",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "Which programming language, developed by Sun Microsystems in 1995, is known for the slogan 'write once, run anywhere'?",
-    "options": [
-      "Java",
-      "Python",
-      "C++",
-      "JavaScript"
-    ],
-    "answer": "Java"
   },
   {
     "id": "general-546",
@@ -1534,19 +1469,6 @@
     "answer": "Ag"
   },
   {
-    "id": "general-615",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "Which organelle is known as the 'powerhouse of the cell' for producing energy?",
-    "options": [
-      "Nucleus",
-      "Ribosome",
-      "Mitochondria",
-      "Golgi apparatus"
-    ],
-    "answer": "Mitochondria"
-  },
-  {
     "id": "general-617",
     "category": "science-technology",
     "difficulty": "hard",
@@ -1729,19 +1651,6 @@
     "answer": "Bronze"
   },
   {
-    "id": "general-737",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "At what temperature in degrees Fahrenheit does water boil at sea level?",
-    "options": [
-      "212",
-      "200",
-      "180",
-      "100"
-    ],
-    "answer": "212"
-  },
-  {
     "id": "general-739",
     "category": "science-technology",
     "difficulty": "hard",
@@ -1766,19 +1675,6 @@
       "6"
     ],
     "answer": "6"
-  },
-  {
-    "id": "general-744",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "Which vitamin deficiency is historically associated with the sailors' disease scurvy?",
-    "options": [
-      "Vitamin D",
-      "Vitamin B12",
-      "Vitamin K",
-      "Vitamin C"
-    ],
-    "answer": "Vitamin C"
   },
   {
     "id": "general-749",
@@ -2366,19 +2262,6 @@
     "answer": "Niels Bohr"
   },
   {
-    "id": "general-1068",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "What is the most abundant gas in Earth's atmosphere?",
-    "options": [
-      "Nitrogen",
-      "Oxygen",
-      "Carbon dioxide",
-      "Argon"
-    ],
-    "answer": "Nitrogen"
-  },
-  {
     "id": "general-1069",
     "category": "science-technology",
     "difficulty": "medium",
@@ -2574,19 +2457,6 @@
     "answer": "CO2"
   },
   {
-    "id": "general-1086",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "Which noble gas is commonly used in illuminated advertising signs, glowing reddish-orange when electrified?",
-    "options": [
-      "Neon",
-      "Helium",
-      "Argon",
-      "Xenon"
-    ],
-    "answer": "Neon"
-  },
-  {
     "id": "general-1087",
     "category": "science-technology",
     "difficulty": "medium",
@@ -2704,19 +2574,6 @@
     "answer": "Entomology"
   },
   {
-    "id": "general-1096",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "Which vitamin is primarily produced by the skin when exposed to sunlight?",
-    "options": [
-      "Vitamin D",
-      "Vitamin C",
-      "Vitamin A",
-      "Vitamin K"
-    ],
-    "answer": "Vitamin D"
-  },
-  {
     "id": "general-1097",
     "category": "science-technology",
     "difficulty": "easy",
@@ -2767,19 +2624,6 @@
       "Tongue"
     ],
     "answer": "Ear"
-  },
-  {
-    "id": "general-1104",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "Which organ produces insulin to regulate blood sugar?",
-    "options": [
-      "Pancreas",
-      "Liver",
-      "Kidney",
-      "Spleen"
-    ],
-    "answer": "Pancreas"
   },
   {
     "id": "general-1105",
@@ -2873,19 +2717,6 @@
     "answer": "ENIAC"
   },
   {
-    "id": "general-1228",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "Who invented the printing press with movable type in the 15th century?",
-    "options": [
-      "Johannes Gutenberg",
-      "William Caxton",
-      "Aldus Manutius",
-      "Nicolas Jenson"
-    ],
-    "answer": "Johannes Gutenberg"
-  },
-  {
     "id": "general-1230",
     "category": "science-technology",
     "difficulty": "easy",
@@ -2910,19 +2741,6 @@
       "Opera"
     ],
     "answer": "Mosaic"
-  },
-  {
-    "id": "general-1232",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "Which programming language is famous for being named after a British comedy troupe?",
-    "options": [
-      "Python",
-      "Ruby",
-      "Perl",
-      "Java"
-    ],
-    "answer": "Python"
   },
   {
     "id": "general-1256",
@@ -2962,19 +2780,6 @@
       "Jeff Bezos"
     ],
     "answer": "Bill Gates"
-  },
-  {
-    "id": "general-1261",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "Which physicist developed the theory of general relativity and won the Nobel Prize for the photoelectric effect?",
-    "options": [
-      "Albert Einstein",
-      "Max Planck",
-      "Werner Heisenberg",
-      "Erwin Schrodinger"
-    ],
-    "answer": "Albert Einstein"
   },
   {
     "id": "general-1264",
@@ -3042,19 +2847,6 @@
     "answer": "Decibel"
   },
   {
-    "id": "general-1340",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "Which vitamin deficiency causes the disease scurvy?",
-    "options": [
-      "Vitamin C",
-      "Vitamin D",
-      "Vitamin B12",
-      "Vitamin A"
-    ],
-    "answer": "Vitamin C"
-  },
-  {
     "id": "general-1342",
     "category": "science-technology",
     "difficulty": "easy",
@@ -3092,19 +2884,6 @@
       "Nuclear force"
     ],
     "answer": "Gravity"
-  },
-  {
-    "id": "general-1345",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "What is the term for a rock formed from cooled and solidified magma or lava?",
-    "options": [
-      "Igneous rock",
-      "Sedimentary rock",
-      "Metamorphic rock",
-      "Mineral rock"
-    ],
-    "answer": "Igneous rock"
   },
   {
     "id": "general-1389",
@@ -3248,32 +3027,6 @@
       "The cytoplasm"
     ],
     "answer": "The mitochondria"
-  },
-  {
-    "id": "general-1514",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "Which scientist was awarded Nobel Prizes in both Physics and Chemistry?",
-    "options": [
-      "Marie Curie",
-      "Pierre Curie",
-      "Irene Joliot-Curie",
-      "Ernest Rutherford"
-    ],
-    "answer": "Marie Curie"
-  },
-  {
-    "id": "general-1515",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "Which scientist formulated the laws of motion and universal gravitation?",
-    "options": [
-      "Albert Einstein",
-      "Johannes Kepler",
-      "Isaac Newton",
-      "Galileo Galilei"
-    ],
-    "answer": "Isaac Newton"
   },
   {
     "id": "general-1516",
@@ -3539,7 +3292,7 @@
     "id": "general-1768",
     "category": "science-technology",
     "difficulty": "medium",
-    "question": "Which social media app, known for short-form videos, was originally launched as 'Musical.ly'?",
+    "question": "Which social media app, known for short-form videos, absorbed the earlier lip-syncing app 'Musical.ly' when its parent company ByteDance merged the two in 2018?",
     "options": [
       "Vine",
       "Instagram",
@@ -11989,7 +11742,7 @@
     "id": "science-technology-471",
     "category": "science-technology",
     "difficulty": "hard",
-    "question": "What are the short sequences of RNA nucleotides synthesized on the lagging strand during DNA replication called?",
+    "question": "What are the short sequences of DNA nucleotides synthesized on the lagging strand during DNA replication called?",
     "options": [
       "Okazaki fragments",
       "Primers",
