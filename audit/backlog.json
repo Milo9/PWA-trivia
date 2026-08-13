@@ -187,6 +187,13 @@
   "mythology-religion-371": "Dup of general-890 (done): Hajj pilgrimage to Mecca. Orphan, cut when reached.",
   "mythology-religion-404": "Dup of general-637 (done): Venus/Aphrodite goddess of love and beauty. Orphan, cut when reached.",
   "mythology-religion-416": "Dup of general-2148 (survivor, kept p1-003): Heracles/Hercules twelve labors, same as mythology-religion-182. Orphan, cut when reached.",
+  "science-technology-015": "Duplicate of orphan science-technology-772 (both: quark with charge +2/3 -> Up quark). Sibling is orphan (no chunk), cut whichever is reached first once other is confirmed reviewed; for now both remain, log for tracking.",
+  "science-technology-039": "Duplicate of orphan science-technology-777 (both: quantum/packet of light -> Photon). Sibling is orphan (no chunk), log for tracking.",
+  "science-technology-131": "Duplicate of orphan general-4164 (both: SI unit of radioactivity, one decay/sec -> Becquerel). Sibling is orphan (no chunk), log for tracking.",
+  "science-technology-147": "Duplicate of orphan general-4024 (both: SI unit of electric charge -> Coulomb). Sibling is orphan (no chunk), log for tracking.",
+  "science-technology-324": "Duplicate of orphan science-technology-773 (both: instrument measuring very small electric currents -> Galvanometer). Sibling is orphan (no chunk), log for tracking.",
+  "science-technology-384": "Duplicate of orphan science-technology-803 (both: single-layer hexagonal/honeycomb carbon allotrope -> Graphene). Sibling is orphan (no chunk), log for tracking.",
+  "science-technology-435": "Duplicate of orphan science-technology-834 (both: gland regulating calcium levels -> Parathyroid glands). Sibling is orphan (no chunk), log for tracking.",
   "science-technology-626": "Dup of general-1063 (survivor, kept science-technology-p1-000): both ask chemical symbol for tungsten (W). Orphan, cut when reached.",
   "science-technology-851": "Dup of general-3076 (done): both about Christopher Latham Sholes and the QWERTY keyboard layout/typewriter patent. Orphan, cut when reached.",
   "science-technology-871": "Dup of general-310 (survivor, kept science-technology-p1-000): both ask Babbage's Analytical Engine as first general-purpose programmable mechanical computer. Orphan, cut when reached."

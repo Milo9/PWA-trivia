@@ -6799,19 +6799,6 @@
     "answer": "Gold"
   },
   {
-    "id": "science-technology-068",
-    "category": "science-technology",
-    "difficulty": "hard",
-    "question": "Which scientist is known for his laws of motion?",
-    "options": [
-      "Galileo Galilei",
-      "Isaac Newton",
-      "Albert Einstein",
-      "Charles Darwin"
-    ],
-    "answer": "Isaac Newton"
-  },
-  {
     "id": "science-technology-069",
     "category": "science-technology",
     "difficulty": "medium",
@@ -8294,19 +8281,6 @@
     "answer": "Sun Microsystems"
   },
   {
-    "id": "science-technology-184",
-    "category": "science-technology",
-    "difficulty": "hard",
-    "question": "What was the name of the first electronic general-purpose computer?",
-    "options": [
-      "UNIVAC",
-      "EDVAC",
-      "Colossus",
-      "ENIAC"
-    ],
-    "answer": "ENIAC"
-  },
-  {
     "id": "science-technology-185",
     "category": "science-technology",
     "difficulty": "easy",
@@ -9129,7 +9103,7 @@
     "id": "science-technology-248",
     "difficulty": "hard",
     "category": "science-technology",
-    "question": "Approximately what is the half-life of a free neutron, outside of a nucleus?",
+    "question": "Approximately what is the mean lifetime of a free neutron, outside of a nucleus?",
     "options": [
       "88 seconds",
       "15 minutes",
@@ -9137,19 +9111,6 @@
       "1.5 days"
     ],
     "answer": "15 minutes"
-  },
-  {
-    "id": "science-technology-249",
-    "difficulty": "hard",
-    "category": "science-technology",
-    "question": "Approximately how many bones is a typical human baby born with, before some fuse together during growth?",
-    "options": [
-      "240",
-      "300",
-      "360",
-      "420"
-    ],
-    "answer": "300"
   },
   {
     "id": "science-technology-250",
@@ -10351,7 +10312,7 @@
     "id": "science-technology-342",
     "category": "science-technology",
     "difficulty": "hard",
-    "question": "What endogenous opioid peptides, first discovered in 1964, are responsible for the pain relief experienced during exercise?",
+    "question": "What endogenous opioid peptides, first discovered in 1975, are responsible for the pain relief experienced during exercise?",
     "options": [
       "Endorphins",
       "Enkephalins",

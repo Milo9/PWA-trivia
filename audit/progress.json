@@ -13503,11 +13503,11 @@
         "science-technology-108",
         "science-technology-109"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 1,
+      "notes": "Cut science-technology-068 (duplicate of already-done general-140, both 'Newton's laws of motion'). Verified 3 obscure hard-difficulty facts via WebSearch (Floyd Paxton bread clip/airplane nuts, first iPod codename Dulcimer, James Ritty cash register/steamboat propeller) -- all confirmed accurate. Logged 2 backlog notes for duplicates whose sibling is an orphan (up quark +2/3 charge pair: 015/772; photon quantum-of-light pair: 039/777). No other factual errors found among the 50 questions reviewed."
     },
     {
       "chunkId": "science-technology-p1-003",
@@ -13564,11 +13564,11 @@
         "science-technology-295",
         "science-technology-301"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 3,
+      "notes": "Fixed 1 factual error verified via WebSearch: science-technology-248 asked for free neutron 'half-life' but marked '15 minutes' correct -- that's actually the mean lifetime (~14.7 min); true half-life is ~10.2 min, not among the options -- reworded to ask for mean lifetime instead. Cut 2 duplicates against already-done siblings (science-technology-184 vs general-1227, both ENIAC-first-general-purpose-computer; science-technology-249 vs general-617, both newborn-baby-300-bones). Logged 2 backlog notes for duplicates whose sibling is an orphan (SI unit of radioactivity/Becquerel: 131/general-4164; SI unit of electric charge/Coulomb: 147/general-4024). No other factual errors found among the 50 questions reviewed."
     },
     {
       "chunkId": "science-technology-p1-004",
@@ -13625,11 +13625,11 @@
         "science-technology-435",
         "science-technology-436"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 1,
+      "notes": "Fixed 1 factual error verified via WebSearch: science-technology-342 said endorphins were 'first discovered in 1964' -- actually 1975 (Hughes/Kosterlitz) -- corrected the year. Verified Shore durometer's 1915 invention date and other obscure hard-difficulty specifics (Bellman-Ford, Bayer filter, various hardness tests, Solvay process, Curie/Rankine/Carnot cycles) as accurate. Cut 0 duplicates against already-done siblings this chunk (none found -- all matched siblings were orphans or pending). Logged 3 backlog notes for duplicates whose sibling is an orphan (galvanometer/small-current-instrument: 324/773; graphene/single-layer-carbon-hexagonal-lattice: 384/803; parathyroid-glands/calcium-regulation: 435/834). No other factual errors found among the 50 questions reviewed."
     },
     {
       "chunkId": "science-technology-p1-005",
