@@ -44,6 +44,7 @@ const state = {
   bestStreak: 0,
   answers: [], // { question, options, correctAnswer, selected, wasCorrect, category }
   seenByCat: {}, // { [categoryId]: Set<questionId> } — this round's in-progress seen tracking
+  lifelineUsed: false, // 50/50 lifeline, one per round
 };
 
 const el = {
@@ -62,6 +63,8 @@ const el = {
   selectionBar: document.getElementById("selection-bar"),
   selectAllBtn: document.getElementById("select-all-btn"),
   playSelectedBtn: document.getElementById("play-selected-btn"),
+  soundToggleBtn: document.getElementById("sound-toggle-btn"),
+  autoAdvanceToggleBtn: document.getElementById("auto-advance-toggle-btn"),
 
   settingsCategoryName: document.getElementById("settings-category-name"),
   countOptions: document.getElementById("count-options"),
@@ -78,6 +81,8 @@ const el = {
   optionsList: document.getElementById("options-list"),
   streakBadge: document.getElementById("streak-badge"),
   nextBtn: document.getElementById("next-btn"),
+  lifelineBtn: document.getElementById("lifeline-btn"),
+  milestoneFlash: document.getElementById("milestone-flash"),
 
   resultsScore: document.getElementById("results-score"),
   resultsStars: document.getElementById("results-stars"),
@@ -87,6 +92,15 @@ const el = {
   resultsReview: document.getElementById("results-review"),
   playAgainBtn: document.getElementById("play-again-btn"),
   chooseCategoryBtn: document.getElementById("choose-category-btn"),
+
+  confettiCanvas: document.getElementById("confetti-canvas"),
+
+  confirmSheetOverlay: document.getElementById("confirm-sheet-overlay"),
+  confirmSheet: document.getElementById("confirm-sheet"),
+  confirmSheetTitle: document.getElementById("confirm-sheet-title"),
+  confirmSheetMessage: document.getElementById("confirm-sheet-message"),
+  confirmSheetCancel: document.getElementById("confirm-sheet-cancel"),
+  confirmSheetConfirm: document.getElementById("confirm-sheet-confirm"),
 };
 
 function showScreen(name) {
@@ -113,6 +127,52 @@ function shuffle(array) {
   return copy;
 }
 
+const PREFS_KEY = "offline-trivia:prefs";
+
+function defaultPrefs() {
+  return { sound: true, autoAdvance: true };
+}
+
+function loadPrefs() {
+  try {
+    const raw = localStorage.getItem(PREFS_KEY);
+    return raw ? { ...defaultPrefs(), ...JSON.parse(raw) } : defaultPrefs();
+  } catch (e) {
+    return defaultPrefs();
+  }
+}
+
+function savePrefs(prefs) {
+  try {
+    localStorage.setItem(PREFS_KEY, JSON.stringify(prefs));
+  } catch (e) {
+    // localStorage unavailable — prefs just won't persist
+  }
+}
+
+const prefs = loadPrefs();
+
+function renderPrefsRow() {
+  el.soundToggleBtn.textContent = prefs.sound ? "🔊 Sound On" : "🔇 Sound Off";
+  el.soundToggleBtn.classList.toggle("active", prefs.sound);
+  el.autoAdvanceToggleBtn.textContent = prefs.autoAdvance ? "⏭ Auto-Advance On" : "⏭ Auto-Advance Off";
+  el.autoAdvanceToggleBtn.classList.toggle("active", prefs.autoAdvance);
+}
+
+el.soundToggleBtn.addEventListener("click", () => {
+  prefs.sound = !prefs.sound;
+  savePrefs(prefs);
+  renderPrefsRow();
+});
+
+el.autoAdvanceToggleBtn.addEventListener("click", () => {
+  prefs.autoAdvance = !prefs.autoAdvance;
+  savePrefs(prefs);
+  renderPrefsRow();
+});
+
+renderPrefsRow();
+
 let audioCtx = null;
 
 function getAudioCtx() {
@@ -137,19 +197,25 @@ function playTone(ctx, freq, startTime, duration, gainPeak) {
   osc.stop(startTime + duration);
 }
 
-function playAnswerSound(wasCorrect) {
+// streak escalation: correct-answer tone rises in pitch with the streak,
+// capped so it doesn't climb forever on a long run.
+function playAnswerSound(wasCorrect, streak) {
+  if (!prefs.sound) return;
   const ctx = getAudioCtx();
   if (!ctx) return;
   const now = ctx.currentTime;
   if (wasCorrect) {
-    playTone(ctx, 660, now, 0.12, 0.15);
-    playTone(ctx, 880, now + 0.09, 0.16, 0.15);
+    const step = Math.min(streak || 0, 10);
+    const pitchUp = 1 + step * 0.035;
+    playTone(ctx, 660 * pitchUp, now, 0.12, 0.15);
+    playTone(ctx, 880 * pitchUp, now + 0.09, 0.16, 0.15);
   } else {
     playTone(ctx, 220, now, 0.22, 0.12);
   }
 }
 
 function vibrate(pattern) {
+  if (!prefs.sound) return;
   if (navigator.vibrate) {
     try {
       navigator.vibrate(pattern);
@@ -157,6 +223,42 @@ function vibrate(pattern) {
       // vibration unsupported/blocked — safe to ignore
     }
   }
+}
+
+// In-theme replacement for window.confirm(). Resolves true/false; only one
+// sheet is ever open at a time since the app has no overlapping flows that
+// would need it.
+function showConfirmSheet({ title, message, confirmText = "Confirm", cancelText = "Cancel", danger = false }) {
+  return new Promise((resolve) => {
+    el.confirmSheetTitle.textContent = title;
+    el.confirmSheetMessage.textContent = message;
+    el.confirmSheetConfirm.textContent = confirmText;
+    el.confirmSheetCancel.textContent = cancelText;
+    el.confirmSheetConfirm.classList.toggle("primary-btn", !danger);
+    el.confirmSheetConfirm.classList.toggle("danger-btn", danger);
+    el.confirmSheetOverlay.classList.remove("hidden");
+
+    function cleanup(result) {
+      el.confirmSheetOverlay.classList.add("hidden");
+      el.confirmSheetConfirm.removeEventListener("click", onConfirm);
+      el.confirmSheetCancel.removeEventListener("click", onCancel);
+      el.confirmSheetOverlay.removeEventListener("click", onOverlayClick);
+      resolve(result);
+    }
+    function onConfirm() {
+      cleanup(true);
+    }
+    function onCancel() {
+      cleanup(false);
+    }
+    function onOverlayClick(e) {
+      if (e.target === el.confirmSheetOverlay) cleanup(false);
+    }
+
+    el.confirmSheetConfirm.addEventListener("click", onConfirm);
+    el.confirmSheetCancel.addEventListener("click", onCancel);
+    el.confirmSheetOverlay.addEventListener("click", onOverlayClick);
+  });
 }
 
 async function loadCategories() {
@@ -379,6 +481,7 @@ function saveActiveRound() {
         bestStreak: state.bestStreak,
         answers: state.answers,
         seenByCat,
+        lifelineUsed: state.lifelineUsed,
       })
     );
   } catch (e) {
@@ -406,7 +509,7 @@ function loadActiveRound() {
 // Offers to resume a round saved by saveActiveRound(). Requires
 // state.categoryById to already be populated, so this must run after
 // loadCategories() resolves.
-function tryResumeActiveRound() {
+async function tryResumeActiveRound() {
   const saved = loadActiveRound();
   if (!saved || !saved.roundQuestions || !saved.roundQuestions.length) return;
 
@@ -415,10 +518,15 @@ function tryResumeActiveRound() {
 
   const answeredCount = Math.min(saved.answers.length, saved.roundQuestions.length);
   const finished = answeredCount >= saved.roundQuestions.length;
-  const prompt = finished
-    ? "See the results of your last round?"
-    : `Resume your in-progress round? (question ${answeredCount + 1}/${saved.roundQuestions.length})`;
-  if (!confirm(prompt)) {
+  const confirmed = await showConfirmSheet({
+    title: finished ? "See your last round?" : "Resume your round?",
+    message: finished
+      ? "Your last round's results are ready."
+      : `Question ${answeredCount + 1} of ${saved.roundQuestions.length}.`,
+    confirmText: finished ? "See Results" : "Resume",
+    cancelText: "Discard",
+  });
+  if (!confirmed) {
     clearActiveRound();
     return;
   }
@@ -429,6 +537,7 @@ function tryResumeActiveRound() {
   state.streak = saved.streak;
   state.bestStreak = saved.bestStreak;
   state.answers = saved.answers;
+  state.lifelineUsed = !!saved.lifelineUsed;
   state.seenByCat = {};
   for (const catId of Object.keys(saved.seenByCat || {})) {
     state.seenByCat[catId] = new Set(saved.seenByCat[catId]);
@@ -559,8 +668,15 @@ function renderStatsSummary() {
   `;
 }
 
-el.resetStatsBtn.addEventListener("click", () => {
-  if (!confirm("Reset all game stats? This can't be undone.")) return;
+el.resetStatsBtn.addEventListener("click", async () => {
+  const confirmed = await showConfirmSheet({
+    title: "Reset all stats?",
+    message: "This can't be undone.",
+    confirmText: "Reset",
+    cancelText: "Cancel",
+    danger: true,
+  });
+  if (!confirmed) return;
   saveStats(defaultStats());
   renderStatsSummary();
   renderCategoryCounts();
@@ -600,26 +716,43 @@ function startRound(categories) {
   state.streak = 0;
   state.bestStreak = 0;
   state.answers = [];
+  state.lifelineUsed = false;
   saveActiveRound();
   showScreen("quiz");
   renderQuestion();
+}
+
+function prefersReducedMotion() {
+  return window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+}
+
+function flashMilestone() {
+  if (prefersReducedMotion()) return;
+  el.milestoneFlash.classList.remove("flash");
+  void el.milestoneFlash.offsetWidth;
+  el.milestoneFlash.classList.add("flash");
 }
 
 function updateStreakBadge(animate) {
   if (state.streak >= 2) {
     el.streakBadge.textContent = `🔥 ${state.streak}`;
     el.streakBadge.classList.remove("hidden");
+    el.streakBadge.classList.toggle("tier-2", state.streak >= 5 && state.streak < 10);
+    el.streakBadge.classList.toggle("tier-3", state.streak >= 10);
     if (animate) {
       el.streakBadge.style.animation = "none";
       void el.streakBadge.offsetWidth;
       el.streakBadge.style.animation = "";
+      if (state.streak >= 5 && state.streak % 5 === 0) flashMilestone();
     }
   } else {
+    el.streakBadge.classList.remove("tier-2", "tier-3");
     el.streakBadge.classList.add("hidden");
   }
 }
 
 function renderQuestion() {
+  clearAutoAdvanceTimer();
   const q = state.roundQuestions[state.currentIndex];
   const cat = state.categoryById[q.category];
   el.questionCategory.textContent = `${categoryIcon(q.category)} ${cat ? cat.name : q.category}`;
@@ -628,6 +761,7 @@ function renderQuestion() {
   el.progressFill.style.width = `${(state.currentIndex / state.roundQuestions.length) * 100}%`;
   el.nextBtn.classList.add("hidden");
   updateStreakBadge(false);
+  el.lifelineBtn.classList.toggle("hidden", state.lifelineUsed);
 
   el.optionsList.innerHTML = "";
   q.shuffledOptions.forEach((opt, i) => {
@@ -651,6 +785,24 @@ function renderQuestion() {
   });
 }
 
+el.lifelineBtn.addEventListener("click", () => {
+  if (state.lifelineUsed) return;
+  const q = state.roundQuestions[state.currentIndex];
+  const wrongButtons = [...el.optionsList.children].filter(
+    (btn) => btn.dataset.option !== q.answer
+  );
+  const toEliminate = shuffle(wrongButtons).slice(0, 2);
+  for (const btn of toEliminate) {
+    btn.disabled = true;
+    btn.classList.add("eliminated");
+  }
+  state.lifelineUsed = true;
+  el.lifelineBtn.classList.add("hidden");
+  // Not checkpointed here deliberately — saves only happen at question
+  // boundaries (see saveActiveRound's comment). Worst case on an interrupted
+  // reload: the player gets their lifeline back on the same fresh question.
+});
+
 function markOptionResult(btn, symbol) {
   // Color alone isn't enough (colorblind-friendly) — pair it with a symbol.
   const icon = document.createElement("span");
@@ -670,7 +822,7 @@ function selectAnswer(selected) {
   } else {
     state.streak = 0;
   }
-  playAnswerSound(wasCorrect);
+  playAnswerSound(wasCorrect, state.streak);
   vibrate(wasCorrect ? 40 : [30, 60, 30]);
   updateStreakBadge(true);
 
@@ -688,6 +840,8 @@ function selectAnswer(selected) {
   saveSeenIds(q.category, state.seenByCat[q.category]);
   saveActiveRound();
 
+  el.lifelineBtn.classList.add("hidden");
+
   for (const btn of el.optionsList.children) {
     btn.disabled = true;
     if (btn.dataset.option === q.answer) {
@@ -702,9 +856,25 @@ function selectAnswer(selected) {
   el.nextBtn.classList.remove("hidden");
   el.nextBtn.textContent =
     state.currentIndex + 1 < state.roundQuestions.length ? "Next" : "See Results";
+
+  // Auto-advance only past correct answers, so a miss still waits for a
+  // manual tap — the point is to read the correct answer, not rush past it.
+  if (wasCorrect && prefs.autoAdvance) {
+    autoAdvanceTimer = setTimeout(advanceToNext, 1200);
+  }
 }
 
-el.nextBtn.addEventListener("click", () => {
+let autoAdvanceTimer = null;
+
+function clearAutoAdvanceTimer() {
+  if (autoAdvanceTimer) {
+    clearTimeout(autoAdvanceTimer);
+    autoAdvanceTimer = null;
+  }
+}
+
+function advanceToNext() {
+  clearAutoAdvanceTimer();
   state.currentIndex++;
   if (state.currentIndex < state.roundQuestions.length) {
     saveActiveRound();
@@ -713,12 +883,25 @@ el.nextBtn.addEventListener("click", () => {
     el.progressFill.style.width = "100%";
     showResults();
   }
-});
+}
 
-el.quitBtn.addEventListener("click", () => {
+el.nextBtn.addEventListener("click", advanceToNext);
+
+el.quitBtn.addEventListener("click", async () => {
+  // Cleared up front, not after the confirm sheet resolves: a pending
+  // auto-advance timer (set after answering correctly) can otherwise fire
+  // while the sheet is open and silently call showResults() underneath it.
+  clearAutoAdvanceTimer();
   const inProgress = state.currentIndex < state.roundQuestions.length;
-  if (inProgress && !confirm("Quit this round? Your progress will be lost.")) {
-    return;
+  if (inProgress) {
+    const confirmed = await showConfirmSheet({
+      title: "Quit this round?",
+      message: "Your progress will be lost.",
+      confirmText: "Quit",
+      cancelText: "Keep Playing",
+      danger: true,
+    });
+    if (!confirmed) return;
   }
   clearActiveRound();
   state.roundQuestions = [];
@@ -727,6 +910,7 @@ el.quitBtn.addEventListener("click", () => {
   state.streak = 0;
   state.bestStreak = 0;
   state.answers = [];
+  state.lifelineUsed = false;
   showScreen("categories");
 });
 
@@ -770,17 +954,80 @@ function renderResultsStars(score, total) {
     .join("");
 }
 
+const CONFETTI_COLORS = ["--card-1", "--card-2", "--card-3", "--card-4", "--card-5", "--card-6", "--card-7", "--card-8"]
+  .map((v) => getComputedStyle(document.documentElement).getPropertyValue(v).trim());
+
+// Lightweight particle burst for a perfect score / new best / new streak
+// record. No deps, per CLAUDE.md's no-build-step rule. Skips entirely under
+// prefers-reduced-motion rather than trying to offer a static substitute.
+function confettiBurst() {
+  if (prefersReducedMotion()) return;
+  const canvas = el.confettiCanvas;
+  const ctx = canvas.getContext("2d");
+  const dpr = window.devicePixelRatio || 1;
+  canvas.width = window.innerWidth * dpr;
+  canvas.height = window.innerHeight * dpr;
+  canvas.style.width = "100%";
+  canvas.style.height = "100%";
+  ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+
+  const count = 140;
+  const particles = Array.from({ length: count }, () => ({
+    x: Math.random() * window.innerWidth,
+    y: -20 - Math.random() * window.innerHeight * 0.4,
+    vx: (Math.random() - 0.5) * 3,
+    vy: 2 + Math.random() * 3,
+    size: 5 + Math.random() * 5,
+    color: CONFETTI_COLORS[Math.floor(Math.random() * CONFETTI_COLORS.length)],
+    rotation: Math.random() * Math.PI,
+    spin: (Math.random() - 0.5) * 0.3,
+  }));
+
+  const duration = 2600;
+  const start = performance.now();
+
+  function frame(now) {
+    const elapsed = now - start;
+    ctx.clearRect(0, 0, window.innerWidth, window.innerHeight);
+    for (const p of particles) {
+      p.x += p.vx;
+      p.y += p.vy;
+      p.vy += 0.02;
+      p.rotation += p.spin;
+      ctx.save();
+      ctx.translate(p.x, p.y);
+      ctx.rotate(p.rotation);
+      ctx.fillStyle = p.color;
+      ctx.globalAlpha = Math.max(0, 1 - elapsed / duration);
+      ctx.fillRect(-p.size / 2, -p.size / 4, p.size, p.size / 2);
+      ctx.restore();
+    }
+    if (elapsed < duration) {
+      requestAnimationFrame(frame);
+    } else {
+      ctx.clearRect(0, 0, window.innerWidth, window.innerHeight);
+    }
+  }
+  requestAnimationFrame(frame);
+}
+
 function showResults() {
   clearActiveRound();
   const total = state.roundQuestions.length;
   const priorStats = loadStats();
   const updatedStats = recordGameResult(state.score, total, state.answers, state.bestStreak);
 
+  const isNewBest = Math.round(updatedStats.bestPct) > Math.round(priorStats.bestPct);
+  const isNewStreakRecord = updatedStats.bestStreak > priorStats.bestStreak;
+  const isPerfect = total > 0 && state.score === total;
+
   el.resultsScore.textContent = `${state.score}/${total}`;
   renderResultsStars(state.score, total);
   el.resultsSubtitle.textContent = subtitleFor(state.score, total);
-  renderResultsStats(state.score, total, priorStats, updatedStats);
+  renderResultsStats(state.score, total, priorStats, updatedStats, isNewBest, isNewStreakRecord);
   renderResultsCategoryBreakdown(state.answers);
+
+  if (isPerfect || isNewBest || isNewStreakRecord) confettiBurst();
 
   el.resultsReview.innerHTML = "";
   for (const a of state.answers) {
@@ -815,13 +1062,11 @@ function showResults() {
   showScreen("results");
 }
 
-function renderResultsStats(score, total, prior, updated) {
+function renderResultsStats(score, total, prior, updated, isNewBest, isNewStreakRecord) {
   const pct = total > 0 ? Math.round((score / total) * 100) : 0;
   const priorAvgPct = prior.gamesPlayed > 0 && prior.totalQuestions > 0
     ? Math.round((prior.totalCorrect / prior.totalQuestions) * 100)
     : null;
-  const isNewBest = Math.round(updated.bestPct) > Math.round(prior.bestPct);
-  const isNewStreakRecord = updated.bestStreak > prior.bestStreak;
   const gameWord = updated.gamesPlayed === 1 ? "game" : "games";
 
   let deltaHtml = "";

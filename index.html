@@ -18,6 +18,7 @@
     <span class="bg-blob blob-2"></span>
     <span class="bg-blob blob-3"></span>
   </div>
+  <canvas id="confetti-canvas" class="confetti-canvas" aria-hidden="true"></canvas>
   <main id="app">
 
     <section id="screen-categories" class="screen">
@@ -34,6 +35,10 @@
       <footer class="app-footer">
         <div id="stats-summary" class="stats-card hidden"></div>
         <div id="category-counts" class="stats-card hidden"></div>
+        <div id="prefs-row" class="prefs-row">
+          <button id="sound-toggle-btn" class="pref-toggle-btn" type="button"></button>
+          <button id="auto-advance-toggle-btn" class="pref-toggle-btn" type="button"></button>
+        </div>
         <button id="reset-stats-btn" class="text-btn hidden">Reset Stats</button>
         <p id="app-version" class="app-version"></p>
       </footer>
@@ -67,10 +72,12 @@
         <span id="question-counter" class="question-counter"></span>
       </header>
       <div class="quiz-body">
+        <div id="milestone-flash" class="milestone-flash" aria-hidden="true"></div>
         <span id="streak-badge" class="streak-badge hidden"></span>
         <p id="question-category" class="question-category"></p>
         <h2 id="question-text" class="question-text"></h2>
         <div id="options-list" class="options-list"></div>
+        <button id="lifeline-btn" class="lifeline-btn hidden" type="button">50:50</button>
       </div>
       <button id="next-btn" class="primary-btn hidden">Next</button>
     </section>
@@ -91,6 +98,17 @@
     </section>
 
   </main>
+
+  <div id="confirm-sheet-overlay" class="confirm-sheet-overlay hidden">
+    <div id="confirm-sheet" class="confirm-sheet" role="alertdialog" aria-modal="true" aria-labelledby="confirm-sheet-title">
+      <p id="confirm-sheet-title" class="confirm-sheet-title"></p>
+      <p id="confirm-sheet-message" class="confirm-sheet-message"></p>
+      <div class="confirm-sheet-actions">
+        <button id="confirm-sheet-cancel" class="secondary-btn"></button>
+        <button id="confirm-sheet-confirm" class="primary-btn"></button>
+      </div>
+    </div>
+  </div>
 
   <script src="app.js"></script>
 </body>

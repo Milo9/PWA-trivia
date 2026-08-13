@@ -91,7 +91,10 @@ html, body {
   #results-score,
   .option-btn.correct,
   .option-btn.incorrect,
-  .streak-badge {
+  .streak-badge,
+  .milestone-flash.flash,
+  .confirm-sheet-overlay,
+  .confirm-sheet {
     animation: none;
   }
 }
@@ -750,4 +753,183 @@ html, body {
   color: var(--incorrect);
   border-color: var(--incorrect);
   background: color-mix(in srgb, var(--incorrect) 14%, transparent);
+}
+
+/* Confetti */
+
+.confetti-canvas {
+  position: fixed;
+  inset: 0;
+  z-index: 999;
+  pointer-events: none;
+}
+
+/* Streak escalation */
+
+.streak-badge.tier-2 {
+  background: linear-gradient(135deg, var(--card-5), var(--accent));
+  transform: scale(1.08);
+  box-shadow: 0 3px 0 var(--shadow-deep), 0 0 20px rgba(var(--accent-rgb), 0.65);
+}
+
+.streak-badge.tier-3 {
+  background: linear-gradient(135deg, var(--card-2), var(--card-6), var(--accent));
+  transform: scale(1.18);
+  box-shadow: 0 3px 0 var(--shadow-deep), 0 0 26px rgba(var(--accent-rgb), 0.85);
+}
+
+.milestone-flash {
+  position: absolute;
+  inset: 0;
+  border-radius: 20px;
+  pointer-events: none;
+  background: radial-gradient(circle, rgba(var(--accent-rgb), 0.35), transparent 70%);
+  opacity: 0;
+}
+
+.milestone-flash.flash {
+  animation: milestone-pulse 0.6s ease;
+}
+
+@keyframes milestone-pulse {
+  0% { opacity: 0; }
+  35% { opacity: 1; }
+  100% { opacity: 0; }
+}
+
+/* Prefs toggles */
+
+.prefs-row {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.pref-toggle-btn {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 6px 14px;
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--text-muted);
+  cursor: pointer;
+  transition: color 0.15s ease, border-color 0.15s ease;
+}
+
+.pref-toggle-btn.active {
+  color: var(--accent-2);
+  border-color: var(--accent-2);
+}
+
+/* Lifeline */
+
+.lifeline-btn {
+  display: inline-block;
+  margin-top: 14px;
+  background: var(--surface);
+  border: 1px solid var(--accent-2);
+  color: var(--accent-2);
+  border-radius: 999px;
+  padding: 8px 16px;
+  font-size: 0.85rem;
+  font-weight: 800;
+  cursor: pointer;
+  box-shadow: 0 0 10px rgba(34, 227, 255, 0.25);
+  transition: transform 0.08s ease, opacity 0.15s ease;
+}
+
+.lifeline-btn:active {
+  transform: translateY(2px);
+}
+
+.lifeline-btn.hidden {
+  display: none;
+}
+
+.option-btn.eliminated {
+  opacity: 0.35;
+  text-decoration: line-through;
+}
+
+/* Confirm sheet */
+
+.confirm-sheet-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  background: rgba(5, 3, 12, 0.6);
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  animation: sheet-overlay-in 0.15s ease;
+}
+
+.confirm-sheet-overlay.hidden {
+  display: none;
+}
+
+@keyframes sheet-overlay-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.confirm-sheet {
+  width: 100%;
+  max-width: 640px;
+  background: linear-gradient(160deg, var(--surface-raised), var(--surface));
+  border: 1px solid var(--border);
+  border-bottom: none;
+  border-radius: 20px 20px 0 0;
+  padding: 22px 20px calc(20px + env(safe-area-inset-bottom));
+  box-shadow: 0 -8px 24px rgba(0, 0, 0, 0.5);
+  animation: sheet-in 0.22s cubic-bezier(0.2, 0.9, 0.4, 1);
+}
+
+@keyframes sheet-in {
+  from { transform: translateY(100%); }
+  to { transform: translateY(0); }
+}
+
+.confirm-sheet-title {
+  font-size: 1.1rem;
+  font-weight: 800;
+  margin: 0 0 6px;
+}
+
+.confirm-sheet-message {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  margin: 0 0 18px;
+}
+
+.confirm-sheet-actions {
+  display: flex;
+  flex-direction: column-reverse;
+  gap: 10px;
+}
+
+.confirm-sheet-actions .primary-btn,
+.confirm-sheet-actions .secondary-btn {
+  margin-top: 0;
+}
+
+.confirm-sheet-actions .danger-btn {
+  margin-top: 0;
+  background: var(--surface);
+  color: var(--incorrect);
+  border: 1px solid var(--incorrect);
+  border-radius: 16px;
+  padding: 16px;
+  font-size: 1rem;
+  font-weight: 700;
+  cursor: pointer;
+  box-shadow: 0 4px 0 var(--shadow-deep);
+  transition: transform 0.08s ease, box-shadow 0.08s ease;
+}
+
+.confirm-sheet-actions .danger-btn:active {
+  transform: translateY(3px);
+  box-shadow: 0 1px 0 var(--shadow-deep);
 }
