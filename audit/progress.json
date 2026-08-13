@@ -11589,11 +11589,11 @@
         "history-271",
         "history-272"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 3,
+      "notes": "Fixed Battle-of-Kadesh distractor bug (option 'Battle of Qadesh' was just an alt spelling of the correct answer -> replaced with Battle of Carchemish); cut 2 duplicates against already-reviewed siblings (Vietnam-War-end-1975 vs general-1447, American-Revolutionary-War-start-1775 vs history-062); verified via WebSearch that Andrew Jackson (log-cabin president) and Yalta-Conference-four-zones claims are both accurate; logged 1 backlog note for a duplicate whose sibling (history-726, Alaska purchase) is an unreachable orphan; left Ghana-1957-independence pair (history-266/general-1893) uncut as genuinely distinct facts (first-sub-Saharan-independence vs formerly-Gold-Coast) despite shared answer/year"
     },
     {
       "chunkId": "history-p1-011",
@@ -11650,11 +11650,11 @@
         "history-374",
         "history-375"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 3,
+      "notes": "Cut 3 duplicates against already-reviewed siblings (Chichen-Itza/Maya vs history-010, Magna-Carta-1215 vs general-699, Great-Irish-Famine-1845 vs history-139); left several same-answer clusters uncut where the genuine duplicate sibling is still pending and will self-resolve (Cannae/history-506, Boxer-Rebellion/general-2626, Akbar-jizya-tax/history-595) or where the shared answer is coincidental/distinct facts (Congress-of-Vienna vs Battle-of-Waterloo both 1815, Din-i-Ilahi founding vs jizya abolition, Hungarian-Uprising vs Cuban-Missile-Crisis Soviet leader, Sepoy-Mutiny/Dred-Scott both 1857, transcontinental-railroad/Suez-Canal both 1869, Molotov-Ribbentrop/WWII-start/Siam-Thailand all 1939)"
     },
     {
       "chunkId": "history-p1-012",
@@ -11711,11 +11711,11 @@
         "history-463",
         "history-464"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 2,
+      "notes": "Cut 1 duplicate against already-reviewed sibling (Kellogg-Briand-Pact-1928 vs history-628); fixed a same-person-two-spellings distractor bug in history-462 (options had both 'Hyder Ali' and 'Haidar Ali', alternate transliterations of the same Mysore ruler -> replaced one with Arthur Wellesley); left Rollo/Duchy-of-Normandy pair uncut since sibling history-547 is still pending and will self-resolve"
     },
     {
       "chunkId": "history-p1-013",

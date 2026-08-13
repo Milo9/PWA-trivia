@@ -6006,19 +6006,6 @@
     "answer": "Queen Lili'uokalani"
   },
   {
-    "id": "history-184",
-    "category": "history",
-    "difficulty": "medium",
-    "question": "In what year did the Vietnam War end with the Fall of Saigon?",
-    "options": [
-      "1973",
-      "1975",
-      "1968",
-      "1981"
-    ],
-    "answer": "1975"
-  },
-  {
     "id": "history-185",
     "category": "history",
     "difficulty": "medium",
@@ -6043,19 +6030,6 @@
       "Sirimavo Bandaranaike"
     ],
     "answer": "Indira Gandhi"
-  },
-  {
-    "id": "history-187",
-    "category": "history",
-    "difficulty": "medium",
-    "question": "In what year did the American Revolutionary War begin with the Battles of Lexington and Concord?",
-    "options": [
-      "1776",
-      "1775",
-      "1783",
-      "1765"
-    ],
-    "answer": "1775"
   },
   {
     "id": "history-188",
@@ -6611,7 +6585,7 @@
     "options": [
       "Battle of Megiddo",
       "Battle of Kadesh",
-      "Battle of Qadesh",
+      "Battle of Carchemish",
       "Battle of Actium"
     ],
     "answer": "Battle of Kadesh"
@@ -7332,19 +7306,6 @@
     "answer": "European Union"
   },
   {
-    "id": "history-286",
-    "difficulty": "medium",
-    "category": "history",
-    "question": "The ancient city of Chichen Itza was built by which pre-Columbian civilization?",
-    "options": [
-      "Olmec",
-      "Aztec",
-      "Maya",
-      "Inca"
-    ],
-    "answer": "Maya"
-  },
-  {
     "id": "history-287",
     "difficulty": "medium",
     "category": "history",
@@ -7434,19 +7395,6 @@
       "Persian"
     ],
     "answer": "Greek"
-  },
-  {
-    "id": "history-294",
-    "difficulty": "medium",
-    "category": "history",
-    "question": "In what year was the Magna Carta originally sealed at Runnymede?",
-    "options": [
-      "1066",
-      "1189",
-      "1215",
-      "1305"
-    ],
-    "answer": "1215"
   },
   {
     "id": "history-295",
@@ -8151,19 +8099,6 @@
     "answer": "1258"
   },
   {
-    "id": "history-349",
-    "difficulty": "medium",
-    "category": "history",
-    "question": "What year did the Great Irish Famine begin?",
-    "options": [
-      "1845",
-      "1830",
-      "1848",
-      "1860"
-    ],
-    "answer": "1845"
-  },
-  {
     "id": "history-350",
     "difficulty": "hard",
     "category": "history",
@@ -8643,19 +8578,6 @@
       "Strabo"
     ],
     "answer": "Ptolemy"
-  },
-  {
-    "id": "history-388",
-    "category": "history",
-    "difficulty": "medium",
-    "question": "Which treaty of 1928 co-authored by a US Secretary of State and French Foreign Minister attempted to outlaw war?",
-    "options": [
-      "Kellogg-Briand Pact",
-      "Locarno Treaties",
-      "Treaty of Rapallo",
-      "Geneva Protocol"
-    ],
-    "answer": "Kellogg-Briand Pact"
   },
   {
     "id": "history-389",
@@ -9614,7 +9536,7 @@
     "options": [
       "Hyder Ali",
       "Tipu Sultan",
-      "Haidar Ali",
+      "Arthur Wellesley",
       "Krishnaraja Wodeyar III"
     ],
     "answer": "Tipu Sultan"
