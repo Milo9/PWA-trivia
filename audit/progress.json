@@ -10707,11 +10707,11 @@
         "general-1456",
         "general-1458"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 11,
+      "notes": "Cut 11 duplicates: 5 pairs fully within chunk (Andes-longest-range/west-coast-SAmerica-range vs already-done general-2338, largest-continent area+pop redundant combo, Great-Barrier-Reef x2, Italy-boot-shaped x2, Pacific-largest-ocean x2) plus 6 duplicates of already-done siblings (Thailand-formerly-Siam, Ottawa-capital-of-Canada, Norway-fjords, Nile-longest-river, Seine-through-Paris, India-largest-population). Also opportunistically cut 8 more orphan duplicates found via corpus grep while in this file: 6 previously backlogged 'needs manual cut' items (Petra/Jordan, Adriatic-Sea, Nile-longest-river-2026-pin, Greenland-largest-island, Aconcagua-tallest-SAmerica, Denali-tallest-NAmerica) plus 2 newly found orphans (Gibraltar-strait-mislabeled-as-sea duplicate of general-074, Pacific-largest-ocean-2026 duplicate of general-030). Added an 'as of the early 2020s' time-pin to general-070 (India population) while resolving its duplicate."
     },
     {
       "chunkId": "geography-p1-016",
@@ -10768,11 +10768,11 @@
         "geography-048",
         "geography-049"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 22,
+      "notes": "Cut 22 duplicates from this easy-tier chunk (heavy chestnut overlap with earlier-reviewed chunks): Alaska-largest-US-state x2 in-chunk, Great-Barrier-Reef-country dup of done general-090, Amazon-River-through-Brazil dup of kept general-1484, Turkey-Bosphorus dup of done general-050, Equator x2 (general-1820 + geography-031) both dup of done general-177, Dead-Sea-saltiest x3 in-chunk (general-1827/2449/2636) all dup of done general-062, Andes-Chile-Argentina dup of done general-972, Norway-fjords dup of done general-1500, Everest/Himalayas dup of done general-718, Antarctica-ice-covered dup of done general-983, Victoria-Falls-Zimbabwe dup of done general-1495, Jakarta-capital-Indonesia dup of done general-2453, Burj-Khalifa-tallest-building dup of done general-1293, Lima-capital-Peru dup of done general-1490, Pyrenees-Spain-France-border dup of done general-1496, seven-continents dup of done general-163, Cairo-capital-Egypt dup of done general-039->054, Oslo-capital-Norway dup of done general-1310. Also opportunistically cut general-719 (Dead Sea, dup of already-done general-062 -- a duplicate that had slipped through an earlier pass undetected)."
     },
     {
       "chunkId": "geography-p1-017",
@@ -10829,11 +10829,11 @@
         "geography-410",
         "geography-418"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 8,
+      "notes": "Cut 8 duplicates: geography-050 (Denali highest N.America peak, dup of done general-2282), geography-054 (largest country by land area, dup of done general-492), geography-233 (largest Caribbean island, dup of done geography-127), geography-360 (Baku capital of Azerbaijan + lowest-elevation fact, dup of done geography-095/222), geography-362 (Riga capital of Latvia, dup of done geography-278), geography-409 (Luzon largest Philippines island, dup of done geography-244). Also opportunistically cut 2 orphan duplicates found via corpus grep: geography-1290 (Mount Fuji highest Japan peak, dup of kept geography-242) and geography-882 (Death Valley/Mojave desert reversed-direction dup of kept geography-294)."
     },
     {
       "chunkId": "geography-p1-018",

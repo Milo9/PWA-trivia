@@ -117,19 +117,6 @@
     "answer": "Tokyo"
   },
   {
-    "id": "general-046",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "What is the longest mountain range in the world?",
-    "options": [
-      "The Rocky Mountains",
-      "The Andes",
-      "The Himalayas",
-      "The Alps"
-    ],
-    "answer": "The Andes"
-  },
-  {
     "id": "general-050",
     "category": "geography",
     "difficulty": "hard",
@@ -198,7 +185,7 @@
     "id": "general-070",
     "category": "geography",
     "difficulty": "hard",
-    "question": "Which country has the largest population in the world?",
+    "question": "Which country has the largest population in the world, as of the early 2020s?",
     "options": [
       "China",
       "India",
@@ -455,19 +442,6 @@
     "answer": "Monaco"
   },
   {
-    "id": "general-712",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "Which Southeast Asian country was formerly known as Siam?",
-    "options": [
-      "Vietnam",
-      "Cambodia",
-      "Myanmar",
-      "Thailand"
-    ],
-    "answer": "Thailand"
-  },
-  {
     "id": "general-713",
     "category": "geography",
     "difficulty": "hard",
@@ -479,19 +453,6 @@
       "The Altai Mountains"
     ],
     "answer": "The Ural Mountains"
-  },
-  {
-    "id": "general-714",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "Which ocean is the largest by surface area?",
-    "options": [
-      "The Atlantic Ocean",
-      "The Pacific Ocean",
-      "The Indian Ocean",
-      "The Arctic Ocean"
-    ],
-    "answer": "The Pacific Ocean"
   },
   {
     "id": "general-716",
@@ -507,19 +468,6 @@
     "answer": "Lesotho"
   },
   {
-    "id": "general-717",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "Which country has the largest population in the world, as of the early 2020s?",
-    "options": [
-      "India",
-      "China",
-      "United States",
-      "Indonesia"
-    ],
-    "answer": "India"
-  },
-  {
     "id": "general-718",
     "category": "geography",
     "difficulty": "easy",
@@ -531,19 +479,6 @@
       "The Alps"
     ],
     "answer": "The Himalayas"
-  },
-  {
-    "id": "general-719",
-    "category": "geography",
-    "difficulty": "hard",
-    "question": "Which sea is the saltiest large body of water on Earth, dense enough that swimmers float easily?",
-    "options": [
-      "The Red Sea",
-      "The Caspian Sea",
-      "The Dead Sea",
-      "The Black Sea"
-    ],
-    "answer": "The Dead Sea"
   },
   {
     "id": "general-720",
@@ -754,19 +689,6 @@
     "answer": "Cape Town"
   },
   {
-    "id": "general-979",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "What is the capital of Canada, the second-largest country in the world by land area?",
-    "options": [
-      "Ottawa",
-      "Toronto",
-      "Vancouver",
-      "Montreal"
-    ],
-    "answer": "Ottawa"
-  },
-  {
     "id": "general-980",
     "category": "geography",
     "difficulty": "medium",
@@ -778,19 +700,6 @@
       "The Tonga Trench"
     ],
     "answer": "The Mariana Trench"
-  },
-  {
-    "id": "general-981",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "Which European country is made up of over a thousand islands and is known for its fjords?",
-    "options": [
-      "Sweden",
-      "Finland",
-      "Norway",
-      "Denmark"
-    ],
-    "answer": "Norway"
   },
   {
     "id": "general-982",
@@ -817,19 +726,6 @@
       "Patagonia"
     ],
     "answer": "Antarctica"
-  },
-  {
-    "id": "general-1001",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "What is the longest river in the world by most measurements?",
-    "options": [
-      "Nile",
-      "Amazon",
-      "Yangtze",
-      "Mississippi"
-    ],
-    "answer": "Nile"
   },
   {
     "id": "general-1003",
@@ -1144,19 +1040,6 @@
     "answer": "France"
   },
   {
-    "id": "general-1272",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "What is the largest continent by both area and population?",
-    "options": [
-      "Asia",
-      "Africa",
-      "North America",
-      "Europe"
-    ],
-    "answer": "Asia"
-  },
-  {
     "id": "general-1281",
     "category": "geography",
     "difficulty": "hard",
@@ -1233,19 +1116,6 @@
       "The British Isles"
     ],
     "answer": "Nordic countries"
-  },
-  {
-    "id": "general-1297",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "What is the name of the largest coral reef system in the world?",
-    "options": [
-      "Great Barrier Reef",
-      "Belize Barrier Reef",
-      "Red Sea Coral Reef",
-      "New Caledonia Barrier Reef"
-    ],
-    "answer": "Great Barrier Reef"
   },
   {
     "id": "general-1300",
@@ -1378,19 +1248,6 @@
     "answer": "Tanzania"
   },
   {
-    "id": "general-1312",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "Which river flows through Paris?",
-    "options": [
-      "Seine",
-      "Loire",
-      "Rhone",
-      "Garonne"
-    ],
-    "answer": "Seine"
-  },
-  {
     "id": "general-1313",
     "category": "geography",
     "difficulty": "hard",
@@ -1441,19 +1298,6 @@
       "Detroit"
     ],
     "answer": "Chicago"
-  },
-  {
-    "id": "general-1317",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "Which country is shaped like a boot on the map of Europe?",
-    "options": [
-      "Italy",
-      "Greece",
-      "Croatia",
-      "Portugal"
-    ],
-    "answer": "Italy"
   },
   {
     "id": "general-1451",
@@ -1610,19 +1454,6 @@
       "The Taiwan Strait"
     ],
     "answer": "The Bering Strait"
-  },
-  {
-    "id": "general-1466",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "The Great Barrier Reef is located off the coast of which country?",
-    "options": [
-      "Philippines",
-      "New Zealand",
-      "Indonesia",
-      "Australia"
-    ],
-    "answer": "Australia"
   },
   {
     "id": "general-1467",
@@ -2067,19 +1898,6 @@
     "answer": "5"
   },
   {
-    "id": "general-1801",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "Which African country is home to Victoria Falls on its border with Zambia?",
-    "options": [
-      "Zimbabwe",
-      "Botswana",
-      "Namibia",
-      "Malawi"
-    ],
-    "answer": "Zimbabwe"
-  },
-  {
     "id": "general-1802",
     "category": "geography",
     "difficulty": "easy",
@@ -2184,19 +2002,6 @@
     "answer": "Mid-Atlantic Ridge"
   },
   {
-    "id": "general-1813",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "Which country straddles both Europe and Asia along the Bosphorus?",
-    "options": [
-      "Turkey",
-      "Greece",
-      "Bulgaria",
-      "Georgia"
-    ],
-    "answer": "Turkey"
-  },
-  {
     "id": "general-1814",
     "category": "geography",
     "difficulty": "hard",
@@ -2249,19 +2054,6 @@
     "answer": "Iceland"
   },
   {
-    "id": "general-1820",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "What is the name of the imaginary line at 0 degrees latitude?",
-    "options": [
-      "Equator",
-      "Prime Meridian",
-      "Tropic of Cancer",
-      "Arctic Circle"
-    ],
-    "answer": "Equator"
-  },
-  {
     "id": "general-1821",
     "category": "geography",
     "difficulty": "medium",
@@ -2288,19 +2080,6 @@
     "answer": "Tigris"
   },
   {
-    "id": "general-1827",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "Which sea is the saltiest large body of water on Earth?",
-    "options": [
-      "Dead Sea",
-      "Red Sea",
-      "Caspian Sea",
-      "Black Sea"
-    ],
-    "answer": "Dead Sea"
-  },
-  {
     "id": "general-1828",
     "category": "geography",
     "difficulty": "medium",
@@ -2312,19 +2091,6 @@
       "Brazil"
     ],
     "answer": "Ecuador"
-  },
-  {
-    "id": "general-1830",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "What is the name of the mountain range that runs through Chile and Argentina?",
-    "options": [
-      "Andes",
-      "Alps",
-      "Rockies",
-      "Atlas"
-    ],
-    "answer": "Andes"
   },
   {
     "id": "general-1832",
@@ -2561,19 +2327,6 @@
     "answer": "South Africa"
   },
   {
-    "id": "general-1854",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "What is the long-standing capital and seat of government of Indonesia?",
-    "options": [
-      "Jakarta",
-      "Bali",
-      "Surabaya",
-      "Bandung"
-    ],
-    "answer": "Jakarta"
-  },
-  {
     "id": "general-1855",
     "category": "geography",
     "difficulty": "hard",
@@ -2678,19 +2431,6 @@
     "answer": "Spain and Portugal"
   },
   {
-    "id": "general-2227",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "The Amazon River flows primarily through which country?",
-    "options": [
-      "Brazil",
-      "Peru",
-      "Colombia",
-      "Venezuela"
-    ],
-    "answer": "Brazil"
-  },
-  {
     "id": "general-2280",
     "category": "geography",
     "difficulty": "medium",
@@ -2754,19 +2494,6 @@
       "The Nile River"
     ],
     "answer": "The Congo River"
-  },
-  {
-    "id": "general-2302",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "Which US state has the largest area?",
-    "options": [
-      "Alaska",
-      "Texas",
-      "California",
-      "Montana"
-    ],
-    "answer": "Alaska"
   },
   {
     "id": "general-2303",
@@ -3120,19 +2847,6 @@
     "answer": "Bloemfontein"
   },
   {
-    "id": "general-2442",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "What is the name of the fjord-lined country in northern Europe known for its dramatic coastline?",
-    "options": [
-      "Norway",
-      "Sweden",
-      "Finland",
-      "Iceland"
-    ],
-    "answer": "Norway"
-  },
-  {
     "id": "general-2443",
     "category": "geography",
     "difficulty": "hard",
@@ -3183,19 +2897,6 @@
       "Angola"
     ],
     "answer": "South Africa"
-  },
-  {
-    "id": "general-2449",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "Which sea is the saltiest large body of water in the world, located between Israel and Jordan?",
-    "options": [
-      "The Dead Sea",
-      "The Red Sea",
-      "The Caspian Sea",
-      "The Aral Sea"
-    ],
-    "answer": "The Dead Sea"
   },
   {
     "id": "general-2451",
@@ -3250,19 +2951,6 @@
     "answer": "The Rio Grande"
   },
   {
-    "id": "general-2543",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "Which mountain range contains Mount Everest?",
-    "options": [
-      "The Himalayas",
-      "The Karakoram",
-      "The Andes",
-      "The Alps"
-    ],
-    "answer": "The Himalayas"
-  },
-  {
     "id": "general-2544",
     "category": "geography",
     "difficulty": "medium",
@@ -3302,19 +2990,6 @@
     "answer": "Off the northeastern coast of Australia"
   },
   {
-    "id": "general-2597",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "Which continent is entirely covered by ice at its center, with no permanent human population?",
-    "options": [
-      "Antarctica",
-      "Greenland",
-      "Arctic",
-      "Siberia"
-    ],
-    "answer": "Antarctica"
-  },
-  {
     "id": "general-2598",
     "category": "geography",
     "difficulty": "hard",
@@ -3341,19 +3016,6 @@
     "answer": "The Atlantic Ocean"
   },
   {
-    "id": "general-2631",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "Which mountain range forms a natural border between Spain and France?",
-    "options": [
-      "The Pyrenees",
-      "The Alps",
-      "The Cantabrian Mountains",
-      "The Sierra Nevada"
-    ],
-    "answer": "The Pyrenees"
-  },
-  {
     "id": "general-2633",
     "category": "geography",
     "difficulty": "hard",
@@ -3378,19 +3040,6 @@
       "Angola"
     ],
     "answer": "South Africa"
-  },
-  {
-    "id": "general-2636",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "Which sea, bordered by Israel and Jordan, is so dense with salt that swimmers float easily?",
-    "options": [
-      "The Dead Sea",
-      "The Red Sea",
-      "The Sea of Galilee",
-      "The Caspian Sea"
-    ],
-    "answer": "The Dead Sea"
   },
   {
     "id": "general-2637",
@@ -3861,19 +3510,6 @@
     "answer": "Africa"
   },
   {
-    "id": "geography-031",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "What is the name of the imaginary line that divides the Earth into North and South?",
-    "options": [
-      "Prime Meridian",
-      "Equator",
-      "Tropic of Cancer",
-      "Arctic Circle"
-    ],
-    "answer": "Equator"
-  },
-  {
     "id": "geography-032",
     "category": "geography",
     "difficulty": "hard",
@@ -3926,32 +3562,6 @@
     "answer": "London"
   },
   {
-    "id": "geography-038",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "How many continents are there in the most widely used English-language model?",
-    "options": [
-      "Five",
-      "Six",
-      "Seven",
-      "Eight"
-    ],
-    "answer": "Seven"
-  },
-  {
-    "id": "geography-039",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "What is the capital city of Egypt?",
-    "options": [
-      "Alexandria",
-      "Giza",
-      "Cairo",
-      "Luxor"
-    ],
-    "answer": "Cairo"
-  },
-  {
     "id": "geography-040",
     "category": "geography",
     "difficulty": "hard",
@@ -3963,45 +3573,6 @@
       "Four"
     ],
     "answer": "Three"
-  },
-  {
-    "id": "geography-043",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "As of 2026, what is the tallest building in the world?",
-    "options": [
-      "Shanghai Tower",
-      "Burj Khalifa",
-      "Makkah Royal Clock Tower",
-      "Taipei 101"
-    ],
-    "answer": "Burj Khalifa"
-  },
-  {
-    "id": "geography-044",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "What is the capital city of Norway?",
-    "options": [
-      "Bergen",
-      "Trondheim",
-      "Oslo",
-      "Stavanger"
-    ],
-    "answer": "Oslo"
-  },
-  {
-    "id": "geography-046",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "What is the capital city of Peru?",
-    "options": [
-      "Cusco",
-      "Arequipa",
-      "Lima",
-      "Trujillo"
-    ],
-    "answer": "Lima"
   },
   {
     "id": "geography-047",
@@ -4043,19 +3614,6 @@
     "answer": "Europe"
   },
   {
-    "id": "geography-050",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "What is the highest peak in North America?",
-    "options": [
-      "Denali",
-      "Mount Logan",
-      "Pico de Orizaba",
-      "Mount Whitney"
-    ],
-    "answer": "Denali"
-  },
-  {
     "id": "geography-053",
     "category": "geography",
     "difficulty": "medium",
@@ -4067,19 +3625,6 @@
       "Rocky Mountain"
     ],
     "answer": "Yellowstone"
-  },
-  {
-    "id": "geography-054",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "Which country has the largest land area?",
-    "options": [
-      "Russia",
-      "Canada",
-      "China",
-      "United States"
-    ],
-    "answer": "Russia"
   },
   {
     "id": "geography-055",
@@ -6370,19 +5915,6 @@
     "id": "geography-232"
   },
   {
-    "difficulty": "easy",
-    "category": "geography",
-    "question": "What is the largest island in the Caribbean by area?",
-    "options": [
-      "Hispaniola",
-      "Jamaica",
-      "Cuba",
-      "Puerto Rico"
-    ],
-    "answer": "Cuba",
-    "id": "geography-233"
-  },
-  {
     "difficulty": "medium",
     "category": "geography",
     "question": "What is the second-longest river in Africa after the Nile?",
@@ -7956,19 +7488,6 @@
     "answer": "Djibouti"
   },
   {
-    "id": "geography-360",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "What is the capital of Azerbaijan, located on the western shore of the Caspian Sea and 28 meters below sea level?",
-    "options": [
-      "Ganja",
-      "Sumgait",
-      "Baku",
-      "Mingachevir"
-    ],
-    "answer": "Baku"
-  },
-  {
     "id": "geography-361",
     "category": "geography",
     "difficulty": "easy",
@@ -7980,19 +7499,6 @@
       "Rustavi"
     ],
     "answer": "Tbilisi"
-  },
-  {
-    "id": "geography-362",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "What is the capital of Latvia on the Baltic Sea?",
-    "options": [
-      "Daugavpils",
-      "Liepaja",
-      "Jurmala",
-      "Riga"
-    ],
-    "answer": "Riga"
   },
   {
     "id": "geography-363",
@@ -8578,19 +8084,6 @@
       "Marajo Island"
     ],
     "answer": "Isla Grande de Tierra del Fuego"
-  },
-  {
-    "id": "geography-409",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "What is the largest and most populous island in the Philippines?",
-    "options": [
-      "Mindanao",
-      "Luzon",
-      "Palawan",
-      "Cebu"
-    ],
-    "answer": "Luzon"
   },
   {
     "id": "geography-410",
@@ -14430,19 +13923,6 @@
     "answer": "South America"
   },
   {
-    "id": "geography-879",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which country is home to the city of Petra carved into sandstone cliffs?",
-    "options": [
-      "Jordan",
-      "Lebanon",
-      "Syria",
-      "Israel"
-    ],
-    "answer": "Jordan"
-  },
-  {
     "id": "geography-880",
     "category": "geography",
     "difficulty": "medium",
@@ -14467,19 +13947,6 @@
       "Adige River"
     ],
     "answer": "Tiber River"
-  },
-  {
-    "id": "geography-882",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "Which desert is located in eastern California and is the hottest place in North America?",
-    "options": [
-      "Mojave Desert",
-      "Death Valley",
-      "Sonoran Desert",
-      "Great Basin Desert"
-    ],
-    "answer": "Death Valley"
   },
   {
     "id": "geography-883",
@@ -14612,19 +14079,6 @@
     "answer": "Rocky Mountains"
   },
   {
-    "id": "geography-893",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which sea is located between Italy and Croatia?",
-    "options": [
-      "Adriatic Sea",
-      "Tyrrhenian Sea",
-      "Ionian Sea",
-      "Ligurian Sea"
-    ],
-    "answer": "Adriatic Sea"
-  },
-  {
     "id": "geography-894",
     "category": "geography",
     "difficulty": "medium",
@@ -14701,19 +14155,6 @@
       "Haiti"
     ],
     "answer": "Bahamas"
-  },
-  {
-    "id": "geography-900",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "Which sea separates Europe and Africa at its narrowest point of about 14 km?",
-    "options": [
-      "Mediterranean Sea",
-      "Strait of Gibraltar",
-      "Strait of Sicily",
-      "Aegean Sea"
-    ],
-    "answer": "Strait of Gibraltar"
   },
   {
     "id": "geography-901",
@@ -14794,19 +14235,6 @@
     "answer": "Kazakhstan"
   },
   {
-    "id": "geography-907",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "Which is the largest ocean in the world as of 2026?",
-    "options": [
-      "Atlantic Ocean",
-      "Pacific Ocean",
-      "Indian Ocean",
-      "Arctic Ocean"
-    ],
-    "answer": "Pacific Ocean"
-  },
-  {
     "id": "geography-908",
     "category": "geography",
     "difficulty": "easy",
@@ -14818,19 +14246,6 @@
       "Liechtenstein"
     ],
     "answer": "Vatican City"
-  },
-  {
-    "id": "geography-909",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which is the longest river in the world as of 2026?",
-    "options": [
-      "Amazon River",
-      "Nile River",
-      "Yangtze River",
-      "Mississippi River"
-    ],
-    "answer": "Nile River"
   },
   {
     "id": "geography-910",
@@ -14883,45 +14298,6 @@
       "India and Bangladesh"
     ],
     "answer": "United States and Canada"
-  },
-  {
-    "id": "geography-914",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which is the world's largest island as of 2026?",
-    "options": [
-      "Greenland",
-      "New Guinea",
-      "Borneo",
-      "Madagascar"
-    ],
-    "answer": "Greenland"
-  },
-  {
-    "id": "geography-915",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which mountain is the highest in South America as of 2026?",
-    "options": [
-      "Aconcagua",
-      "Ojos del Salado",
-      "Huascaran",
-      "Chimborazo"
-    ],
-    "answer": "Aconcagua"
-  },
-  {
-    "id": "geography-916",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which mountain is the highest in North America as of 2026?",
-    "options": [
-      "Mount Logan",
-      "Denali",
-      "Mount Saint Elias",
-      "Mount Foraker"
-    ],
-    "answer": "Denali"
   },
   {
     "id": "geography-917",
@@ -19732,19 +19108,6 @@
       "Colima"
     ],
     "answer": "Pico de Orizaba"
-  },
-  {
-    "id": "geography-1290",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "What is the highest mountain in Japan as of 2026?",
-    "options": [
-      "Mount Fuji",
-      "Mount Kita",
-      "Mount Hotaka",
-      "Mount Tate"
-    ],
-    "answer": "Mount Fuji"
   },
   {
     "id": "geography-1291",
