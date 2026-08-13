@@ -13320,11 +13320,11 @@
         "general-2734",
         "general-2735"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 21,
+      "notes": "Cut 21 of 34 duplicates: 19 vs already-done survivors elsewhere in the corpus (Atlas/general-444, Thor-thunder/general-011 x2, Quran/general-039, Chinese dragon/general-446, Helen of Troy/general-1434, Venus/general-637, Nirvana/general-452, Hajj/general-890, Torah-scroll/general-051, Zeus-king/general-003, Ganesha x2/general-019, Loki x2/general-1204, Athena x2/mythology-religion-003) plus 2 in-chunk-only duplicates (Mjolnir hammer-name pair, Heracles-twelve-labors trio down to one survivor). Logged 14 backlog notes for orphan siblings (never in any chunk) of these same facts that check-draft/validate can't auto-resurface. This was mythology-religion pass 1's final chunk (4/4 done); category needs append-orphans (414 orphans remaining) before it counts as a full sweep."
     },
     {
       "chunkId": "science-technology-p1-000",
@@ -13381,11 +13381,11 @@
         "general-1067",
         "general-1070"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 3,
+      "notes": "First chunk of a fresh category (science-technology, all general-XXXX legacy ids). Fixed 1 answer-leak (general-322: NCSA's answer option spelled out the full org name at 54 chars vs 9-char distractors, trimmed to 'NCSA' to match distractor brevity/style). Cut 1 reversed-direction duplicate (general-329 'who developed calculus independently of Newton' -> Leibniz, same Newton/Leibniz-calculus fact as kept general-199 which asks it from Newton's side). Logged 2 backlog notes for orphan duplicates found via coincidental-looking same-answer matches that turned out real on inspection (science-technology-626 tungsten symbol dup of general-1063; science-technology-871 Analytical Engine dup of general-310). Several other same-answer flags were coincidental non-duplicates (different facts sharing a number/name, e.g. Bell Labs answering both a C-language question and an unrelated octothorpe-coinage question) and correctly left alone. All other same-answer matches were against still-pending chunks in general/science-technology and will self-resolve. Read all 50 distractor sets for correctness; no other errors found."
     },
     {
       "chunkId": "science-technology-p1-001",
@@ -13442,11 +13442,11 @@
         "general-2821",
         "general-2833"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 6,
+      "notes": "Cut 6 duplicates: 4 vs already-done survivors from science-technology-p1-000 (general-1263 Salk-polio dup of general-730, general-2455 Higgs-boson dup of general-119, general-2721 NCSA/Mosaic dup of general-322, general-2722 Sholes-typewriter dup of general-3076) and 2 in-chunk duplicates (general-2184 Vint-Cerf/TCP-IP dup of general-1221; general-2549 'which particle did JJ Thomson discover' cut as a reversed-direction duplicate of kept general-1524 'which scientist discovered the electron', both testing the same Thomson/1897/electron fact from opposite angles). Logged 2 backlog notes for orphan duplicates (general-4187 dodecagon dup of kept general-2529; science-technology-851 QWERTY/Sholes dup of done general-3076). Read all 50 distractor sets for correctness; no factual errors or answer-leaks found."
     },
     {
       "chunkId": "science-technology-p1-002",

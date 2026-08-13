@@ -637,19 +637,6 @@
     "answer": "Lugh"
   },
   {
-    "id": "general-892",
-    "category": "mythology-religion",
-    "difficulty": "easy",
-    "question": "Which Greek Titan is known for holding up the sky for eternity as punishment?",
-    "options": [
-      "Cronus",
-      "Atlas",
-      "Prometheus",
-      "Oceanus"
-    ],
-    "answer": "Atlas"
-  },
-  {
     "id": "general-893",
     "category": "mythology-religion",
     "difficulty": "medium",
@@ -687,19 +674,6 @@
       "Heimdall"
     ],
     "answer": "Odin"
-  },
-  {
-    "id": "general-897",
-    "category": "mythology-religion",
-    "difficulty": "easy",
-    "question": "In Greek mythology, who was the beautiful woman whose abduction sparked the Trojan War?",
-    "options": [
-      "Andromache",
-      "Cassandra",
-      "Helen of Troy",
-      "Penelope"
-    ],
-    "answer": "Helen of Troy"
   },
   {
     "id": "general-898",
@@ -754,32 +728,6 @@
     "answer": "The Tao"
   },
   {
-    "id": "general-1197",
-    "category": "mythology-religion",
-    "difficulty": "easy",
-    "question": "In Roman mythology, who is the goddess of love and beauty?",
-    "options": [
-      "Venus",
-      "Juno",
-      "Minerva",
-      "Diana"
-    ],
-    "answer": "Venus"
-  },
-  {
-    "id": "general-1198",
-    "category": "mythology-religion",
-    "difficulty": "easy",
-    "question": "Which Norse god is associated with thunder and wields the hammer Mjolnir?",
-    "options": [
-      "Thor",
-      "Odin",
-      "Loki",
-      "Baldr"
-    ],
-    "answer": "Thor"
-  },
-  {
     "id": "general-1199",
     "category": "mythology-religion",
     "difficulty": "medium",
@@ -791,19 +739,6 @@
       "Set"
     ],
     "answer": "Ra"
-  },
-  {
-    "id": "general-1202",
-    "category": "mythology-religion",
-    "difficulty": "easy",
-    "question": "What is the sacred text central to Islam believed to be revealed to the Prophet Muhammad?",
-    "options": [
-      "The Quran",
-      "The Torah",
-      "The Bible",
-      "The Vedas"
-    ],
-    "answer": "The Quran"
   },
   {
     "id": "general-1203",
@@ -830,19 +765,6 @@
       "Heimdall"
     ],
     "answer": "Loki"
-  },
-  {
-    "id": "general-1207",
-    "category": "mythology-religion",
-    "difficulty": "easy",
-    "question": "In Chinese mythology and culture, which mythical creature symbolizes power, strength, and good luck?",
-    "options": [
-      "The dragon",
-      "The phoenix",
-      "The qilin",
-      "The tiger"
-    ],
-    "answer": "The dragon"
   },
   {
     "id": "general-1208",
@@ -882,19 +804,6 @@
       "Rosh Hashanah"
     ],
     "answer": "Passover"
-  },
-  {
-    "id": "general-1380",
-    "category": "mythology-religion",
-    "difficulty": "easy",
-    "question": "In Hindu mythology, which deity is depicted with an elephant head?",
-    "options": [
-      "Ganesha",
-      "Shiva",
-      "Vishnu",
-      "Hanuman"
-    ],
-    "answer": "Ganesha"
   },
   {
     "id": "general-1434",
@@ -1025,19 +934,6 @@
       "Bellerophon"
     ],
     "answer": "Icarus"
-  },
-  {
-    "id": "general-1562",
-    "category": "mythology-religion",
-    "difficulty": "easy",
-    "question": "In Norse mythology, who is the trickster god known for causing mischief among the other gods?",
-    "options": [
-      "Loki",
-      "Tyr",
-      "Heimdall",
-      "Odin"
-    ],
-    "answer": "Loki"
   },
   {
     "id": "general-1563",
@@ -1248,19 +1144,6 @@
     "answer": "Gurdwara"
   },
   {
-    "id": "general-1584",
-    "category": "mythology-religion",
-    "difficulty": "easy",
-    "question": "In Greek mythology, who was the first woman, created by the gods, who opened a forbidden container releasing evils into the world?",
-    "options": [
-      "Persephone",
-      "Ariadne",
-      "Pandora",
-      "Europa"
-    ],
-    "answer": "Pandora"
-  },
-  {
     "id": "general-1585",
     "category": "mythology-religion",
     "difficulty": "medium",
@@ -1352,19 +1235,6 @@
     "answer": "The Bhagavad Gita"
   },
   {
-    "id": "general-1595",
-    "category": "mythology-religion",
-    "difficulty": "easy",
-    "question": "In Buddhism, what is the state of enlightenment and liberation from suffering called?",
-    "options": [
-      "Samsara",
-      "Nirvana",
-      "Dharma",
-      "Karma"
-    ],
-    "answer": "Nirvana"
-  },
-  {
     "id": "general-1596",
     "category": "mythology-religion",
     "difficulty": "medium",
@@ -1430,32 +1300,6 @@
     "answer": "Thoth"
   },
   {
-    "id": "general-2141",
-    "category": "mythology-religion",
-    "difficulty": "easy",
-    "question": "Which Norse god is associated with thunder?",
-    "options": [
-      "Thor",
-      "Odin",
-      "Loki",
-      "Baldur"
-    ],
-    "answer": "Thor"
-  },
-  {
-    "id": "general-2143",
-    "category": "mythology-religion",
-    "difficulty": "easy",
-    "question": "In Greek mythology, who is the goddess of wisdom and strategic warfare?",
-    "options": [
-      "Athena",
-      "Hera",
-      "Artemis",
-      "Aphrodite"
-    ],
-    "answer": "Athena"
-  },
-  {
     "id": "general-2146",
     "category": "mythology-religion",
     "difficulty": "hard",
@@ -1482,71 +1326,6 @@
     "answer": "Heracles"
   },
   {
-    "id": "general-2149",
-    "category": "mythology-religion",
-    "difficulty": "easy",
-    "question": "In Hindu mythology, who is the elephant-headed god of wisdom and new beginnings?",
-    "options": [
-      "Ganesha",
-      "Shiva",
-      "Vishnu",
-      "Krishna"
-    ],
-    "answer": "Ganesha"
-  },
-  {
-    "id": "general-2153",
-    "category": "mythology-religion",
-    "difficulty": "easy",
-    "question": "In Norse mythology, who is best known as the trickster god?",
-    "options": [
-      "Loki",
-      "Thor",
-      "Odin",
-      "Heimdall"
-    ],
-    "answer": "Loki"
-  },
-  {
-    "id": "general-2270",
-    "category": "mythology-religion",
-    "difficulty": "easy",
-    "question": "Which Greek god is the king of the gods?",
-    "options": [
-      "Zeus",
-      "Poseidon",
-      "Hades",
-      "Apollo"
-    ],
-    "answer": "Zeus"
-  },
-  {
-    "id": "general-2577",
-    "category": "mythology-religion",
-    "difficulty": "easy",
-    "question": "In Greek mythology, which hero completed twelve famous labors?",
-    "options": [
-      "Heracles (Hercules)",
-      "Theseus",
-      "Perseus",
-      "Jason"
-    ],
-    "answer": "Heracles (Hercules)"
-  },
-  {
-    "id": "general-2654",
-    "category": "mythology-religion",
-    "difficulty": "easy",
-    "question": "In Greek mythology, who is the goddess of wisdom, said to be born fully grown from the head of Zeus?",
-    "options": [
-      "Athena",
-      "Artemis",
-      "Hera",
-      "Demeter"
-    ],
-    "answer": "Athena"
-  },
-  {
     "id": "general-2655",
     "category": "mythology-religion",
     "difficulty": "medium",
@@ -1560,19 +1339,6 @@
     "answer": "Epic of Gilgamesh"
   },
   {
-    "id": "general-2658",
-    "category": "mythology-religion",
-    "difficulty": "easy",
-    "question": "What is the name of the hammer wielded by the Norse god Thor?",
-    "options": [
-      "Mjolnir",
-      "Gungnir",
-      "Gram",
-      "Draupnir"
-    ],
-    "answer": "Mjolnir"
-  },
-  {
     "id": "general-2659",
     "category": "mythology-religion",
     "difficulty": "hard",
@@ -1584,19 +1350,6 @@
       "Set"
     ],
     "answer": "Geb"
-  },
-  {
-    "id": "general-2660",
-    "category": "mythology-religion",
-    "difficulty": "easy",
-    "question": "Which hero of Greek mythology completed twelve seemingly impossible labors as penance?",
-    "options": [
-      "Heracles",
-      "Theseus",
-      "Perseus",
-      "Jason"
-    ],
-    "answer": "Heracles"
   },
   {
     "id": "general-2663",
@@ -1636,32 +1389,6 @@
       "Upanishads"
     ],
     "answer": "Guru Granth Sahib"
-  },
-  {
-    "id": "general-2732",
-    "category": "mythology-religion",
-    "difficulty": "easy",
-    "question": "What is the Islamic pilgrimage to Mecca, required of able Muslims at least once, called?",
-    "options": [
-      "Hajj",
-      "Umrah",
-      "Sawm",
-      "Zakat"
-    ],
-    "answer": "Hajj"
-  },
-  {
-    "id": "general-2733",
-    "category": "mythology-religion",
-    "difficulty": "easy",
-    "question": "In Judaism, what is the name of the scroll containing the first five books of the Hebrew Bible?",
-    "options": [
-      "The Torah",
-      "The Talmud",
-      "The Mishnah",
-      "The Zohar"
-    ],
-    "answer": "The Torah"
   },
   {
     "id": "general-2734",

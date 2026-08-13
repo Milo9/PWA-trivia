@@ -1020,11 +1020,11 @@
     "question": "Which organization developed the first widely used web browser, Mosaic, in 1993?",
     "options": [
       "Netscape",
-      "NCSA (National Center for Supercomputing Applications)",
+      "NCSA",
       "Microsoft",
       "AOL"
     ],
-    "answer": "NCSA (National Center for Supercomputing Applications)"
+    "answer": "NCSA"
   },
   {
     "id": "general-323",
@@ -1103,19 +1103,6 @@
       "Square"
     ],
     "answer": "Square"
-  },
-  {
-    "id": "general-329",
-    "category": "science-technology",
-    "difficulty": "hard",
-    "question": "Which mathematician is credited with developing calculus independently of Isaac Newton?",
-    "options": [
-      "Gottfried Wilhelm Leibniz",
-      "Blaise Pascal",
-      "René Descartes",
-      "Pierre de Fermat"
-    ],
-    "answer": "Gottfried Wilhelm Leibniz"
   },
   {
     "id": "general-330",
@@ -2990,19 +2977,6 @@
     "answer": "Albert Einstein"
   },
   {
-    "id": "general-1263",
-    "category": "science-technology",
-    "difficulty": "hard",
-    "question": "Which polio vaccine pioneer developed the first successful injectable vaccine in the 1950s?",
-    "options": [
-      "Jonas Salk",
-      "Louis Pasteur",
-      "Edward Jenner",
-      "Albert Sabin"
-    ],
-    "answer": "Jonas Salk"
-  },
-  {
     "id": "general-1264",
     "category": "science-technology",
     "difficulty": "easy",
@@ -4095,19 +4069,6 @@
     "answer": "Apple"
   },
   {
-    "id": "general-2184",
-    "category": "science-technology",
-    "difficulty": "hard",
-    "question": "Who is often called a father of the modern Internet for co-developing the TCP/IP protocol?",
-    "options": [
-      "Vint Cerf",
-      "Tim Berners-Lee",
-      "Marc Andreessen",
-      "Al Gore"
-    ],
-    "answer": "Vint Cerf"
-  },
-  {
     "id": "general-2185",
     "category": "science-technology",
     "difficulty": "easy",
@@ -4745,19 +4706,6 @@
     "answer": "China"
   },
   {
-    "id": "general-2455",
-    "category": "science-technology",
-    "difficulty": "hard",
-    "question": "What is the name of the theoretical particle believed to give other particles mass, confirmed in 2012?",
-    "options": [
-      "The Higgs boson",
-      "The graviton",
-      "The neutrino",
-      "The quark"
-    ],
-    "answer": "The Higgs boson"
-  },
-  {
     "id": "general-2456",
     "category": "science-technology",
     "difficulty": "hard",
@@ -4951,19 +4899,6 @@
       "Nonagon"
     ],
     "answer": "Dodecagon"
-  },
-  {
-    "id": "general-2549",
-    "category": "science-technology",
-    "difficulty": "hard",
-    "question": "Which subatomic particle was discovered by J.J. Thomson in 1897?",
-    "options": [
-      "The electron",
-      "The proton",
-      "The neutron",
-      "The photon"
-    ],
-    "answer": "The electron"
   },
   {
     "id": "general-2550",
@@ -5263,32 +5198,6 @@
       "Bill Gates"
     ],
     "answer": "Tim Berners-Lee"
-  },
-  {
-    "id": "general-2721",
-    "category": "science-technology",
-    "difficulty": "hard",
-    "question": "Which organization released Mosaic, the first commercially popular graphical web browser, in 1993?",
-    "options": [
-      "NCSA",
-      "Netscape",
-      "Microsoft",
-      "AOL"
-    ],
-    "answer": "NCSA"
-  },
-  {
-    "id": "general-2722",
-    "category": "science-technology",
-    "difficulty": "hard",
-    "question": "The first practical typewriter was patented in the 1860s by which American inventor?",
-    "options": [
-      "Christopher Latham Sholes",
-      "Thomas Edison",
-      "Elisha Gray",
-      "Samuel Morse"
-    ],
-    "answer": "Christopher Latham Sholes"
   },
   {
     "id": "general-2723",
