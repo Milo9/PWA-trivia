@@ -13153,11 +13153,11 @@
         "general-027",
         "general-035"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 4,
+      "notes": "Cut 4 in-chunk duplicates (Samsara Buddhist/Hindu framing x2, Thoth ibis-god x2, Nut sky-goddess x2, Isis magic/motherhood x2). Logged 11 backlog notes for near-duplicates whose sibling is an orphan (Bastet, Sisyphus, Chuppah, Jörmungandr x2-in-one, Huitzilopochtli, Orpheus, Bhagavad Gita, Freya, Athena, Anubis x2-in-one, Ganesha x2-in-one) plus mythology-religion-145's malformed 'Nefertiti is not goddess' distractor and queen/goddess mislabeling. No new factual errors found among the reviewed questions themselves -- all fine on distractor-correctness checks."
     },
     {
       "chunkId": "mythology-religion-p1-001",
@@ -13214,11 +13214,11 @@
         "general-1572",
         "general-1573"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 17,
+      "notes": "Heavy duplicate chunk: cut 17 in-chunk/already-done duplicates (reversed-direction Quran/Islam, Sphinx description x2, Shiva/Trimurti x3, jackal-headed Anubis x2, Isis magic-and-motherhood x2, Hajj x2, Hades/underworld x2, Asgard x2, Odin x2, Athena-vs-chunk0-survivor, Samsara-vs-chunk0-survivor, Bhagavad-Gita-vs-chunk0-survivor, Jupiter/Zeus-vs-chunk0-survivor). Logged 13 backlog notes for near-duplicates whose sibling is an orphan (Jerusalem holy city, Yggdrasil, Quran/114-surahs, Horus, Hephaestus, Prometheus x2-in-one, Hermes x3-in-one, Hanuman x2-in-one, Demeter, Jason/Golden Fleece, Mars, Hajj, Isis/wife-of-Osiris, Sphinx/riddle). No factual-error or answer-leak issues found among reviewed questions themselves."
     },
     {
       "chunkId": "mythology-religion-p1-002",
@@ -13275,11 +13275,11 @@
         "general-646",
         "general-649"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 19,
+      "notes": "Cut 19 duplicates: 17 against already-done survivors from chunks p1-000/p1-001 (Osiris/underworld, Isis magic-and-motherhood, Hermes winged-messenger x2, Shiva/Trimurti x2, Horus falcon-headed, Fenrir/Ragnarok, Ra sun-god, Samsara, Taoism/wu-wei, Apollo sun/music/prophecy, Loki trickster, Nirvana), plus 2 in-chunk pairs (Chinese dragon x2, Guru Granth Sahib x2). Also caught and corrected a cross-chunk miss from p1-001: general-075 (Sisyphus boulder) had been reviewed as its own primary row in that chunk without being checked against the already-done p1-000 survivor general-639 -- cut general-639/general-2150/general-2657 now that all three were found to duplicate general-075, and moved the mythology-religion-010 backlog note onto general-075. Logged 4 more backlog notes for near-duplicates whose sibling is an orphan (Guru Granth Sahib, Holi, Rosh Hashanah, Charon x2-in-one). No new factual-error or answer-leak issues found among reviewed questions themselves."
     },
     {
       "chunkId": "mythology-religion-p1-003",

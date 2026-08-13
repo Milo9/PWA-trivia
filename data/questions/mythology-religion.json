@@ -169,45 +169,6 @@
     "answer": "The Torah"
   },
   {
-    "id": "general-059",
-    "category": "mythology-religion",
-    "difficulty": "medium",
-    "question": "Which Hindu text is a 700-verse scripture that is part of the Mahabharata?",
-    "options": [
-      "The Vedas",
-      "The Upanishads",
-      "The Bhagavad Gita",
-      "The Ramayana"
-    ],
-    "answer": "The Bhagavad Gita"
-  },
-  {
-    "id": "general-063",
-    "category": "mythology-religion",
-    "difficulty": "easy",
-    "question": "Who is the Norse trickster god associated with mischief?",
-    "options": [
-      "Odin",
-      "Thor",
-      "Loki",
-      "Freyr"
-    ],
-    "answer": "Loki"
-  },
-  {
-    "id": "general-067",
-    "category": "mythology-religion",
-    "difficulty": "medium",
-    "question": "In Greek mythology, what creature has the body of a lion and the head of a human?",
-    "options": [
-      "The Minotaur",
-      "The Chimera",
-      "The Sphinx",
-      "The Cyclops"
-    ],
-    "answer": "The Sphinx"
-  },
-  {
     "id": "general-071",
     "category": "mythology-religion",
     "difficulty": "hard",
@@ -258,19 +219,6 @@
       "Hermes"
     ],
     "answer": "Poseidon"
-  },
-  {
-    "id": "general-087",
-    "category": "mythology-religion",
-    "difficulty": "medium",
-    "question": "Which Egyptian goddess is associated with magic and motherhood, wife of Osiris?",
-    "options": [
-      "Hathor",
-      "Bastet",
-      "Isis",
-      "Nephthys"
-    ],
-    "answer": "Isis"
   },
   {
     "id": "general-091",
@@ -338,19 +286,6 @@
     "answer": "Fenrir"
   },
   {
-    "id": "general-443",
-    "category": "mythology-religion",
-    "difficulty": "medium",
-    "question": "Which Hindu god is considered the destroyer within the Trimurti, alongside Brahma the creator and Vishnu the preserver?",
-    "options": [
-      "Indra",
-      "Agni",
-      "Shiva",
-      "Varuna"
-    ],
-    "answer": "Shiva"
-  },
-  {
     "id": "general-444",
     "category": "mythology-religion",
     "difficulty": "medium",
@@ -416,19 +351,6 @@
     "answer": "Acts of the Apostles"
   },
   {
-    "id": "general-449",
-    "category": "mythology-religion",
-    "difficulty": "easy",
-    "question": "In Greek mythology, who is the messenger god, often depicted with winged sandals?",
-    "options": [
-      "Hermes",
-      "Apollo",
-      "Ares",
-      "Dionysus"
-    ],
-    "answer": "Hermes"
-  },
-  {
     "id": "general-450",
     "category": "mythology-religion",
     "difficulty": "easy",
@@ -481,19 +403,6 @@
     "answer": "Odin"
   },
   {
-    "id": "general-635",
-    "category": "mythology-religion",
-    "difficulty": "medium",
-    "question": "Which Egyptian god is typically depicted with the head of a jackal?",
-    "options": [
-      "Horus",
-      "Ra",
-      "Anubis",
-      "Osiris"
-    ],
-    "answer": "Anubis"
-  },
-  {
     "id": "general-636",
     "category": "mythology-religion",
     "difficulty": "hard",
@@ -533,19 +442,6 @@
     "answer": "Asgard"
   },
   {
-    "id": "general-639",
-    "category": "mythology-religion",
-    "difficulty": "hard",
-    "question": "In Greek mythology, who was condemned to eternally push a boulder up a hill only for it to roll back down?",
-    "options": [
-      "Tantalus",
-      "Prometheus",
-      "Sisyphus",
-      "Atlas"
-    ],
-    "answer": "Sisyphus"
-  },
-  {
     "id": "general-640",
     "category": "mythology-religion",
     "difficulty": "easy",
@@ -559,19 +455,6 @@
     "answer": "Moses"
   },
   {
-    "id": "general-641",
-    "category": "mythology-religion",
-    "difficulty": "medium",
-    "question": "The Quran is the central religious text of which world religion?",
-    "options": [
-      "Islam",
-      "Judaism",
-      "Buddhism",
-      "Hinduism"
-    ],
-    "answer": "Islam"
-  },
-  {
     "id": "general-642",
     "category": "mythology-religion",
     "difficulty": "hard",
@@ -583,32 +466,6 @@
       "Bastet"
     ],
     "answer": "Isis"
-  },
-  {
-    "id": "general-643",
-    "category": "mythology-religion",
-    "difficulty": "easy",
-    "question": "What is the name of the Buddhist state of enlightenment and freedom from suffering?",
-    "options": [
-      "Karma",
-      "Dharma",
-      "Nirvana",
-      "Samsara"
-    ],
-    "answer": "Nirvana"
-  },
-  {
-    "id": "general-644",
-    "category": "mythology-religion",
-    "difficulty": "medium",
-    "question": "In Greek mythology, who is the king of the underworld?",
-    "options": [
-      "Zeus",
-      "Poseidon",
-      "Ares",
-      "Hades"
-    ],
-    "answer": "Hades"
   },
   {
     "id": "general-645",
@@ -661,19 +518,6 @@
       "Quetzalcoatl"
     ],
     "answer": "Quetzalcoatl"
-  },
-  {
-    "id": "general-649",
-    "category": "mythology-religion",
-    "difficulty": "easy",
-    "question": "What is the name of the primary sacred text of Sikhism?",
-    "options": [
-      "Guru Granth Sahib",
-      "Vedas",
-      "Tao Te Ching",
-      "Upanishads"
-    ],
-    "answer": "Guru Granth Sahib"
   },
   {
     "id": "general-853",
@@ -832,19 +676,6 @@
     "answer": "The Buddha"
   },
   {
-    "id": "general-895",
-    "category": "mythology-religion",
-    "difficulty": "hard",
-    "question": "In Egyptian mythology, who is the ibis-headed god of writing, wisdom, and knowledge?",
-    "options": [
-      "Thoth",
-      "Ptah",
-      "Khnum",
-      "Sobek"
-    ],
-    "answer": "Thoth"
-  },
-  {
     "id": "general-896",
     "category": "mythology-religion",
     "difficulty": "medium",
@@ -962,19 +793,6 @@
     "answer": "Ra"
   },
   {
-    "id": "general-1201",
-    "category": "mythology-religion",
-    "difficulty": "medium",
-    "question": "In Hindu mythology, which deity is known as the destroyer and transformer within the trinity?",
-    "options": [
-      "Shiva",
-      "Vishnu",
-      "Brahma",
-      "Ganesha"
-    ],
-    "answer": "Shiva"
-  },
-  {
     "id": "general-1202",
     "category": "mythology-religion",
     "difficulty": "easy",
@@ -1014,32 +832,6 @@
     "answer": "Loki"
   },
   {
-    "id": "general-1205",
-    "category": "mythology-religion",
-    "difficulty": "medium",
-    "question": "In Buddhism, what is the term for the cycle of death and rebirth?",
-    "options": [
-      "Samsara",
-      "Nirvana",
-      "Dharma",
-      "Karma"
-    ],
-    "answer": "Samsara"
-  },
-  {
-    "id": "general-1206",
-    "category": "mythology-religion",
-    "difficulty": "medium",
-    "question": "Which Roman god is the counterpart to the Greek god Zeus?",
-    "options": [
-      "Jupiter",
-      "Neptune",
-      "Mars",
-      "Mercury"
-    ],
-    "answer": "Jupiter"
-  },
-  {
     "id": "general-1207",
     "category": "mythology-religion",
     "difficulty": "easy",
@@ -1064,32 +856,6 @@
       "Jonah"
     ],
     "answer": "Noah"
-  },
-  {
-    "id": "general-1376",
-    "category": "mythology-religion",
-    "difficulty": "medium",
-    "question": "In Norse mythology, what is the name of the realm of the gods?",
-    "options": [
-      "Asgard",
-      "Valhalla",
-      "Midgard",
-      "Jotunheim"
-    ],
-    "answer": "Asgard"
-  },
-  {
-    "id": "general-1377",
-    "category": "mythology-religion",
-    "difficulty": "medium",
-    "question": "Which Egyptian god has the head of a jackal and is associated with mummification?",
-    "options": [
-      "Anubis",
-      "Osiris",
-      "Horus",
-      "Set"
-    ],
-    "answer": "Anubis"
   },
   {
     "id": "general-1378",
@@ -1131,19 +897,6 @@
     "answer": "Ganesha"
   },
   {
-    "id": "general-1381",
-    "category": "mythology-religion",
-    "difficulty": "medium",
-    "question": "What is the term for the Islamic pilgrimage to Mecca that Muslims are expected to make at least once in their lifetime?",
-    "options": [
-      "Hajj",
-      "Umrah",
-      "Sawm",
-      "Zakat"
-    ],
-    "answer": "Hajj"
-  },
-  {
     "id": "general-1434",
     "category": "mythology-religion",
     "difficulty": "medium",
@@ -1181,19 +934,6 @@
       "Nyx"
     ],
     "answer": "Hypnos"
-  },
-  {
-    "id": "general-1553",
-    "category": "mythology-religion",
-    "difficulty": "medium",
-    "question": "In Greek mythology, who is the goddess of wisdom, said to have been born fully grown from Zeus's head?",
-    "options": [
-      "Athena",
-      "Demeter",
-      "Artemis",
-      "Hera"
-    ],
-    "answer": "Athena"
   },
   {
     "id": "general-1554",
@@ -1287,19 +1027,6 @@
     "answer": "Icarus"
   },
   {
-    "id": "general-1561",
-    "category": "mythology-religion",
-    "difficulty": "medium",
-    "question": "In Norse mythology, who is the chief god, associated with wisdom, war, and poetry?",
-    "options": [
-      "Odin",
-      "Loki",
-      "Thor",
-      "Baldr"
-    ],
-    "answer": "Odin"
-  },
-  {
     "id": "general-1562",
     "category": "mythology-religion",
     "difficulty": "easy",
@@ -1352,19 +1079,6 @@
     "answer": "Nut"
   },
   {
-    "id": "general-1566",
-    "category": "mythology-religion",
-    "difficulty": "medium",
-    "question": "In Egyptian mythology, who is the goddess of magic and motherhood, wife of Osiris?",
-    "options": [
-      "Nephthys",
-      "Isis",
-      "Hathor",
-      "Bastet"
-    ],
-    "answer": "Isis"
-  },
-  {
     "id": "general-1567",
     "category": "mythology-religion",
     "difficulty": "hard",
@@ -1376,19 +1090,6 @@
       "Set"
     ],
     "answer": "Set"
-  },
-  {
-    "id": "general-1568",
-    "category": "mythology-religion",
-    "difficulty": "medium",
-    "question": "In Hindu mythology, who is the god of destruction and transformation, part of the Trimurti?",
-    "options": [
-      "Vishnu",
-      "Shiva",
-      "Brahma",
-      "Indra"
-    ],
-    "answer": "Shiva"
   },
   {
     "id": "general-1570",
@@ -1441,19 +1142,6 @@
       "Vulcan"
     ],
     "answer": "Mercury"
-  },
-  {
-    "id": "general-1574",
-    "category": "mythology-religion",
-    "difficulty": "medium",
-    "question": "In Chinese mythology, which creature symbolizes power and good fortune and is often depicted with a long serpentine body?",
-    "options": [
-      "The qilin",
-      "The dragon",
-      "The phoenix",
-      "The tiger"
-    ],
-    "answer": "The dragon"
   },
   {
     "id": "general-1575",
@@ -1612,19 +1300,6 @@
     "answer": "Hera"
   },
   {
-    "id": "general-1588",
-    "category": "mythology-religion",
-    "difficulty": "medium",
-    "question": "In Greek mythology, which god is associated with the sun, music, and prophecy?",
-    "options": [
-      "Dionysus",
-      "Hephaestus",
-      "Hermes",
-      "Apollo"
-    ],
-    "answer": "Apollo"
-  },
-  {
     "id": "general-1589",
     "category": "mythology-religion",
     "difficulty": "medium",
@@ -1662,19 +1337,6 @@
       "Priest"
     ],
     "answer": "Imam"
-  },
-  {
-    "id": "general-1593",
-    "category": "mythology-religion",
-    "difficulty": "hard",
-    "question": "In Hindu belief, what is the continuous cycle of death and rebirth called?",
-    "options": [
-      "Samsara",
-      "Karma",
-      "Nirvana",
-      "Dharma"
-    ],
-    "answer": "Samsara"
   },
   {
     "id": "general-1594",
@@ -1781,19 +1443,6 @@
     "answer": "Thor"
   },
   {
-    "id": "general-2142",
-    "category": "mythology-religion",
-    "difficulty": "medium",
-    "question": "Who is the ancient Egyptian god of the afterlife and the underworld?",
-    "options": [
-      "Osiris",
-      "Anubis",
-      "Ra",
-      "Horus"
-    ],
-    "answer": "Osiris"
-  },
-  {
     "id": "general-2143",
     "category": "mythology-religion",
     "difficulty": "easy",
@@ -1846,32 +1495,6 @@
     "answer": "Ganesha"
   },
   {
-    "id": "general-2150",
-    "category": "mythology-religion",
-    "difficulty": "medium",
-    "question": "In Greek mythology, who was condemned to eternally roll a boulder up a hill?",
-    "options": [
-      "Sisyphus",
-      "Tantalus",
-      "Prometheus",
-      "Ixion"
-    ],
-    "answer": "Sisyphus"
-  },
-  {
-    "id": "general-2151",
-    "category": "mythology-religion",
-    "difficulty": "medium",
-    "question": "Which Egyptian goddess is associated with magic, healing, and motherhood?",
-    "options": [
-      "Isis",
-      "Hathor",
-      "Bastet",
-      "Nephthys"
-    ],
-    "answer": "Isis"
-  },
-  {
     "id": "general-2153",
     "category": "mythology-religion",
     "difficulty": "easy",
@@ -1883,19 +1506,6 @@
       "Heimdall"
     ],
     "answer": "Loki"
-  },
-  {
-    "id": "general-2154",
-    "category": "mythology-religion",
-    "difficulty": "hard",
-    "question": "In Egyptian mythology, who is the goddess of the sky, often depicted arching over the earth?",
-    "options": [
-      "Nut",
-      "Isis",
-      "Hathor",
-      "Bastet"
-    ],
-    "answer": "Nut"
   },
   {
     "id": "general-2270",
@@ -1911,32 +1521,6 @@
     "answer": "Zeus"
   },
   {
-    "id": "general-2501",
-    "category": "mythology-religion",
-    "difficulty": "medium",
-    "question": "In Greek mythology, who is the messenger god known for his winged sandals?",
-    "options": [
-      "Hermes",
-      "Apollo",
-      "Ares",
-      "Hephaestus"
-    ],
-    "answer": "Hermes"
-  },
-  {
-    "id": "general-2503",
-    "category": "mythology-religion",
-    "difficulty": "medium",
-    "question": "In Hindu mythology, which god is known as the destroyer within the trinity of Brahma, Vishnu, and Shiva?",
-    "options": [
-      "Shiva",
-      "Vishnu",
-      "Brahma",
-      "Indra"
-    ],
-    "answer": "Shiva"
-  },
-  {
     "id": "general-2577",
     "category": "mythology-religion",
     "difficulty": "easy",
@@ -1948,19 +1532,6 @@
       "Jason"
     ],
     "answer": "Heracles (Hercules)"
-  },
-  {
-    "id": "general-2579",
-    "category": "mythology-religion",
-    "difficulty": "hard",
-    "question": "In Egyptian mythology, which goddess is associated with magic and motherhood, often depicted with a throne headdress?",
-    "options": [
-      "Isis",
-      "Hathor",
-      "Bastet",
-      "Sekhmet"
-    ],
-    "answer": "Isis"
   },
   {
     "id": "general-2654",
@@ -1987,32 +1558,6 @@
       "Epic of Erra"
     ],
     "answer": "Epic of Gilgamesh"
-  },
-  {
-    "id": "general-2656",
-    "category": "mythology-religion",
-    "difficulty": "medium",
-    "question": "Which falcon-headed Egyptian god represents kingship and the sky, often identified with the pharaoh?",
-    "options": [
-      "Horus",
-      "Anubis",
-      "Set",
-      "Thoth"
-    ],
-    "answer": "Horus"
-  },
-  {
-    "id": "general-2657",
-    "category": "mythology-religion",
-    "difficulty": "medium",
-    "question": "In Greek mythology, who was condemned to push a boulder up a hill for eternity as punishment?",
-    "options": [
-      "Sisyphus",
-      "Tantalus",
-      "Prometheus",
-      "Ixion"
-    ],
-    "answer": "Sisyphus"
   },
   {
     "id": "general-2658",
@@ -2054,32 +1599,6 @@
     "answer": "Heracles"
   },
   {
-    "id": "general-2661",
-    "category": "mythology-religion",
-    "difficulty": "medium",
-    "question": "In Norse mythology, what is the name of the great wolf prophesied to kill Odin during Ragnarok?",
-    "options": [
-      "Fenrir",
-      "Jormungandr",
-      "Garm",
-      "Skoll"
-    ],
-    "answer": "Fenrir"
-  },
-  {
-    "id": "general-2662",
-    "category": "mythology-religion",
-    "difficulty": "medium",
-    "question": "Which Hindu deity is regarded as the destroyer within the Trimurti, alongside Brahma and Vishnu?",
-    "options": [
-      "Shiva",
-      "Ganesha",
-      "Indra",
-      "Agni"
-    ],
-    "answer": "Shiva"
-  },
-  {
     "id": "general-2663",
     "category": "mythology-religion",
     "difficulty": "hard",
@@ -2106,19 +1625,6 @@
     "answer": "Charon"
   },
   {
-    "id": "general-2665",
-    "category": "mythology-religion",
-    "difficulty": "medium",
-    "question": "In Egyptian mythology, which sun god was believed to travel across the sky in a solar barge each day?",
-    "options": [
-      "Ra",
-      "Amun",
-      "Aten",
-      "Khepri"
-    ],
-    "answer": "Ra"
-  },
-  {
     "id": "general-2730",
     "category": "mythology-religion",
     "difficulty": "medium",
@@ -2130,19 +1636,6 @@
       "Upanishads"
     ],
     "answer": "Guru Granth Sahib"
-  },
-  {
-    "id": "general-2731",
-    "category": "mythology-religion",
-    "difficulty": "medium",
-    "question": "Which Buddhist concept refers to the cycle of death and rebirth driven by karma?",
-    "options": [
-      "Samsara",
-      "Nirvana",
-      "Dharma",
-      "Moksha"
-    ],
-    "answer": "Samsara"
   },
   {
     "id": "general-2732",
@@ -2195,19 +1688,6 @@
       "Confession"
     ],
     "answer": "Baptism"
-  },
-  {
-    "id": "general-2736",
-    "category": "mythology-religion",
-    "difficulty": "medium",
-    "question": "Which Chinese philosophy emphasizes harmony through wu wei, or effortless action?",
-    "options": [
-      "Taoism",
-      "Confucianism",
-      "Legalism",
-      "Mohism"
-    ],
-    "answer": "Taoism"
   },
   {
     "id": "general-2758",
