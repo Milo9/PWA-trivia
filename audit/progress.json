@@ -11223,11 +11223,11 @@
         "history-389",
         "history-393"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 3,
+      "notes": "Cut 3 duplicates: history-998 (orphan, dup of history-311 Ismail I/Safavid dynasty), history-884 (orphan, dup of history-382 cuius regio eius religio), history-359 (dup of already-done history-204, Mexican Revolution 1910 start year). Left two pending-sibling duplicate pairs uncut to self-resolve later: history-518/history-321 (Diocletian/Tetrarchy) and history-550/history-348 (Baghdad sack year 1258)."
     },
     {
       "chunkId": "history-p1-005",
@@ -11284,11 +11284,11 @@
         "general-472",
         "general-497"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 6,
+      "notes": "Cut 6 duplicates: history-758 (orphan, dup of history-649 Year of Africa 1960), history-842 (orphan, dup of history-650 Kenyatta first Kenyan PM), general-069 (dup of already-done general-748, Marx/Communist Manifesto), general-462 (dup of already-done general-1404, Franz Ferdinand assassination), general-465 (dup of already-done general-750, Magellan circumnavigation), history-518 (dup of already-done history-321, Diocletian/Tetrarchy). Left several pending-sibling duplicate pairs/clusters uncut to self-resolve later: history-628/history-388 (Kellogg-Briand Pact), general-453/general-698 (Mongol Empire), general-454/general-1402 (French Revolution year), general-460 cluster (general-695/1325/1424, Elizabeth I/Armada), general-462 cluster remainder (general-1061/1870/2424, Franz Ferdinand), general-465 cluster remainder (general-1038/1882, Magellan), general-466/general-1405 (Wall Street Crash year), general-467/general-968 (UK first industrialize), general-469 cluster (general-704/1051/1906/2619, Colossus of Rhodes)."
     },
     {
       "chunkId": "history-p1-006",
@@ -11345,11 +11345,11 @@
         "general-1867",
         "general-1870"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 19,
+      "notes": "Cut 19 duplicates, all dup-of-already-reviewed cases (self-resolving cross-chunk clusters from history-p1-004/005): general-695/1325/1424 (Elizabeth I/Spanish Armada, dup of done general-460), general-704/1051 (Colossus of Rhodes, dup of done general-469), general-1061/1870 (Franz Ferdinand assassination, dup of done general-1404), general-1038 (Magellan circumnavigation, dup of done general-750), general-698 (Mongol Empire/Genghis Khan, dup of done general-453), general-1405 (Wall Street Crash year, dup of done general-466), general-968 (UK first industrialize, dup of done general-467), general-1449 (India independence 1947, dup of done general-089), general-747 (UN identify-the-org, dup of done civics-law-economics-166), general-957 (Ottoman Empire identify-the-empire, dup of done general-1440), general-1048 (Chernobyl year, dup of done general-1431), general-1050 (Battle of Hastings/William the Conqueror, dup of done general-702), general-1865 (Great Fire of London year, dup of done general-065), general-1867 (Lighthouse of Alexandria, reversed-direction dup of done general-009). Also cut one in-chunk reversed-direction pair: general-1059 (Silk Road connects which regions) vs kept general-963 (which network connected China/Mediterranean). Left several pending-sibling pairs uncut to self-resolve later: general-689/2203 (first Roman emperor), general-692/1053 (FDR WWII), general-957's other match general-2434, general-1322/2276 (Korea divided), general-1419/2217 (Emancipation Proclamation year), general-1420/2211 (13th Amendment), general-1447/history-184 (Vietnam War end year)."
     },
     {
       "chunkId": "history-p1-007",
