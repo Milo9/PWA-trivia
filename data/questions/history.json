@@ -65,19 +65,6 @@
     "answer": "1989"
   },
   {
-    "id": "general-021",
-    "category": "history",
-    "difficulty": "easy",
-    "question": "Julius Caesar was a dictator of which ancient state?",
-    "options": [
-      "The Roman Republic",
-      "The Persian Empire",
-      "The Ottoman Empire",
-      "The Byzantine Empire"
-    ],
-    "answer": "The Roman Republic"
-  },
-  {
     "id": "general-025",
     "category": "history",
     "difficulty": "hard",
@@ -598,19 +585,6 @@
     "answer": "The Thirty Years' War"
   },
   {
-    "id": "general-691",
-    "category": "history",
-    "difficulty": "easy",
-    "question": "Which wall, dividing a German city, fell in 1989?",
-    "options": [
-      "The Great Wall",
-      "Hadrian's Wall",
-      "The Berlin Wall",
-      "The Iron Curtain"
-    ],
-    "answer": "The Berlin Wall"
-  },
-  {
     "id": "general-692",
     "category": "history",
     "difficulty": "medium",
@@ -1014,19 +988,6 @@
     "answer": "The Battle of Waterloo"
   },
   {
-    "id": "general-1031",
-    "category": "history",
-    "difficulty": "easy",
-    "question": "In what year did the Berlin Wall fall?",
-    "options": [
-      "1989",
-      "1991",
-      "1987",
-      "1990"
-    ],
-    "answer": "1989"
-  },
-  {
     "id": "general-1032",
     "category": "history",
     "difficulty": "hard",
@@ -1220,19 +1181,6 @@
       "Antioch"
     ],
     "answer": "Constantinople"
-  },
-  {
-    "id": "general-1055",
-    "category": "history",
-    "difficulty": "easy",
-    "question": "Who was the South African anti-apartheid leader who became the country's first Black president?",
-    "options": [
-      "Nelson Mandela",
-      "Desmond Tutu",
-      "Thabo Mbeki",
-      "Steve Biko"
-    ],
-    "answer": "Nelson Mandela"
   },
   {
     "id": "general-1056",
@@ -10101,19 +10049,6 @@
     "answer": "Hannibal"
   },
   {
-    "id": "history-506",
-    "category": "history",
-    "difficulty": "medium",
-    "question": "At which battle in 216 BC did Hannibal execute a famous double-envelopment that annihilated a larger Roman army?",
-    "options": [
-      "Battle of Trebia",
-      "Battle of Cannae",
-      "Battle of Trasimene",
-      "Battle of Zama"
-    ],
-    "answer": "Battle of Cannae"
-  },
-  {
     "id": "history-507",
     "category": "history",
     "difficulty": "medium",
@@ -10658,19 +10593,6 @@
       "Abd al-Rahman I"
     ],
     "answer": "Abd al-Rahman III"
-  },
-  {
-    "id": "history-550",
-    "category": "history",
-    "difficulty": "medium",
-    "question": "In which year did Mongol forces under Hulagu sack Baghdad ending the Abbasid Caliphate's rule there?",
-    "options": [
-      "1279",
-      "1221",
-      "1260",
-      "1258"
-    ],
-    "answer": "1258"
   },
   {
     "id": "history-551",
@@ -11432,9 +11354,9 @@
     "difficulty": "medium",
     "question": "How was tribute typically divided among the members of the Aztec Triple Alliance?",
     "options": [
-      "By annual lottery",
-      "All to Tenochtitlan",
-      "Equally in thirds",
+      "Redistributed yearly by lottery among the cities",
+      "Kept entirely by Tenochtitlan, the dominant city",
+      "Split into three exactly equal shares",
       "Two parts to Tenochtitlan and Texcoco, one to Tlacopan"
     ],
     "answer": "Two parts to Tenochtitlan and Texcoco, one to Tlacopan"
@@ -11817,19 +11739,6 @@
     "answer": "1949"
   },
   {
-    "id": "history-639",
-    "category": "history",
-    "difficulty": "medium",
-    "question": "In which year was the Warsaw Pact formed as a Soviet-led military alliance in response to West Germany joining NATO?",
-    "options": [
-      "1953",
-      "1955",
-      "1954",
-      "1956"
-    ],
-    "answer": "1955"
-  },
-  {
     "id": "history-640",
     "category": "history",
     "difficulty": "easy",
@@ -12205,19 +12114,6 @@
       "Ashurbanipal"
     ],
     "answer": "Ashurbanipal"
-  },
-  {
-    "id": "history-669",
-    "category": "history",
-    "difficulty": "medium",
-    "question": "Which battle in 1274 BCE between Ramesses II and Muwatalli II led to the world's oldest surviving peace treaty?",
-    "options": [
-      "Battle of Megiddo",
-      "Battle of Nihriya",
-      "Battle of Carchemish",
-      "Battle of Kadesh"
-    ],
-    "answer": "Battle of Kadesh"
   },
   {
     "difficulty": "medium",

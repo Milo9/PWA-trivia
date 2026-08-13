@@ -11772,11 +11772,11 @@
         "history-557",
         "history-559"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 2,
+      "notes": "Cut 2 duplicates against already-reviewed siblings (Battle of Cannae 216BC vs history-273, Mongol sack of Baghdad 1258 vs history-348); logged 2 backlog notes for duplicates whose sibling is an unreachable orphan (Battle of Lepanto 1571 vs history-878, Battle of Yarmouk 636 vs history-853); verified via WebSearch that Harun al-Rashid founding the House of Wisdom is a defensible traditional attribution (scholarship is split between him and his son al-Ma'mun institutionalizing it) so left as-is; left several same-answer clusters uncut where they're genuinely distinct facts sharing a name/entity (two different Henry IVs, two different Theodoras, several Theodore Roosevelt facts, Ptolemy I founding dynasty vs library) or where the duplicate sibling (history-441) is still pending and will self-resolve"
     },
     {
       "chunkId": "history-p1-014",
@@ -11833,11 +11833,11 @@
         "history-653",
         "history-654"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 11,
+      "notes": "Cut 1 duplicate against an already-reviewed sibling (Warsaw Pact formed 1955 vs history-148); fixed an answer-leak (Aztec Triple Alliance tribute division -- correct option was a full descriptive sentence next to short distractors, padded the three wrong options to comparable length/style instead of trimming the correct answer since the specific 2:2:1 ratio is the fact being tested); logged 9 backlog notes for duplicates whose sibling is an unreachable orphan (Las Navas de Tolosa/919, Fourth Crusade sack of Constantinople/918, Adulis Red Sea port/887, Timbuktu Sankore University/909, Popé Pueblo Revolt/713, Algeria independence 1962/809, Hungarian Uprising 1956/812, Prague Spring invasion 1968/815, Kenya independence 1963/811); left many same-year coincidences uncut (Cuban Missile Crisis/John Glenn/Algeria all 1962, Bandung/Warsaw Pact both 1955, etc.) since they're genuinely distinct events sharing only a year"
     },
     {
       "chunkId": "history-p1-015",
@@ -11894,11 +11894,11 @@
         "general-1258",
         "general-1262"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 18,
+      "notes": "Cut 5 in-chunk/against-already-reviewed duplicates: history-669 (Battle of Kadesh vs done history-230), general-021 (Julius Caesar dictator of Roman Republic vs done history-034), general-1031 (Berlin Wall fell 1989, in-chunk dup of general-017), general-691 (identify the Berlin Wall, in-chunk dup of general-461), general-1055 (Mandela first Black president, in-chunk dup of general-965); logged 14 backlog notes for duplicates whose sibling(s) are unreachable orphans (Ashurbanipal library/937, Kadesh third-copy/865, Civil War Union-Confederacy/1880, Apartheid/2428, Machu Picchu Incas/693, Berlin Wall id/1319+2279, Emancipation Proclamation/1903, Nixon resignation/1875, Great Wall of China/2358, Cleopatra-Caesar-Antony/045+2206, FDR-WWII/692, French Revolution/2207, Tutankhamun tomb/1898+2616); left general-037/history-040 (Declaration of Independence year) and several other same-answer pairs uncut since the sibling is still pending and will self-resolve; left many large same-answer clusters (France, Germany, Great Britain, generic wall/revolution mentions) uncut as genuinely coincidental generic-entity reuse, not duplicates"
     },
     {
       "chunkId": "history-p1-016",
