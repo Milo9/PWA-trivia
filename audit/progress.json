@@ -13008,11 +13008,11 @@
         "music-373",
         "music-375"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 1,
+      "notes": "Cut 1 in-chunk reversed-direction duplicate (music-312 B.B. King's Lucille guitar type, kept music-370 which asks the more distinctive 'what name did he give his guitars'). Logged 2 backlog notes for near-duplicates whose sibling is an orphan (relative minor of C major, treble clef for higher pitches). No factual errors found."
     },
     {
       "chunkId": "music-p1-014",
@@ -13069,11 +13069,11 @@
         "music-567",
         "music-570"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 6,
+      "notes": "Fixed 2 factual errors verified via WebSearch: music-423 wrongly credited pianist Dave Brubeck as composer of 'Take Five' (actually composed by saxophonist Paul Desmond, per already-reviewed music-150/619 -- reworded to ask which pianist's quartet made it a hit rather than who composed it); music-570's ritardando/rallentando distractor pair is a genuine real-world ambiguity (reference sources disagree on which term implies 'gradual' vs 'sudden' slowing) -- replaced Rallentando distractor with Fermata. Cut 3 duplicates against already-reviewed survivors from earlier chunks (OK Computer release year vs music-188, Beethoven's 9 symphonies vs music-296, Johnny Cash At Folsom Prison reversed-direction vs music-400). Logged 4 backlog notes for near-duplicates whose sibling is an orphan (Ramones/Blitzkrieg Bop reversed-direction, Run-DMC Raising Hell/Aerosmith collab, Nas Illmatic/N.Y. State of Mind, Prince Purple Rain/When Doves Cry)."
     },
     {
       "chunkId": "music-p1-015",
@@ -13092,11 +13092,11 @@
         "music-586",
         "music-587"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 5,
+      "notes": "Cut 1 duplicate against already-reviewed general-829 (musical term for tempo/speed of a piece). Logged 4 backlog notes for near-duplicates whose sibling is an orphan (Legato definition, standard guitar tuning, chromatic scale definition, staff definition). No factual errors found."
     },
     {
       "chunkId": "mythology-religion-p1-000",

@@ -5644,19 +5644,6 @@
   {
     "difficulty": "easy",
     "category": "music",
-    "question": "What type of instrument was B.B. King's Lucille?",
-    "options": [
-      "Piano",
-      "Trumpet",
-      "Guitar",
-      "Drum kit"
-    ],
-    "answer": "Guitar",
-    "id": "music-312"
-  },
-  {
-    "difficulty": "easy",
-    "category": "music",
     "question": "Which OutKast member wrote and sang the 2003 hit 'Hey Ya!'?",
     "options": [
       "Andre 3000",
@@ -6474,19 +6461,6 @@
     "id": "music-377"
   },
   {
-    "difficulty": "easy",
-    "category": "music",
-    "question": "In which year did Radiohead release OK Computer?",
-    "options": [
-      "1993",
-      "1997",
-      "1995",
-      "1999"
-    ],
-    "answer": "1997",
-    "id": "music-378"
-  },
-  {
     "difficulty": "medium",
     "category": "music",
     "question": "Which member of The Beatles primarily wrote 'Hey Jude'?",
@@ -6851,19 +6825,6 @@
     "answer": "Johann Sebastian Bach"
   },
   {
-    "id": "music-407",
-    "category": "music",
-    "difficulty": "easy",
-    "question": "How many completed symphonies did Ludwig van Beethoven write?",
-    "options": [
-      "Nine",
-      "Seven",
-      "Eight",
-      "Ten"
-    ],
-    "answer": "Nine"
-  },
-  {
     "id": "music-408",
     "category": "music",
     "difficulty": "medium",
@@ -7062,7 +7023,7 @@
     "id": "music-423",
     "category": "music",
     "difficulty": "easy",
-    "question": "Which jazz pianist composed and recorded the famous piece 'Take Five' with his quartet?",
+    "question": "Which jazz pianist's quartet made the famous piece 'Take Five' a hit on their 1959 album Time Out?",
     "options": [
       "Dave Brubeck",
       "Vince Guaraldi",
@@ -8723,19 +8684,6 @@
     "answer": "Blue"
   },
   {
-    "id": "music-551",
-    "category": "music",
-    "difficulty": "easy",
-    "question": "Which 1968 Johnny Cash live album was recorded at a famous California state prison?",
-    "options": [
-      "At Folsom Prison",
-      "At San Quentin",
-      "A Concert Behind Prison Walls",
-      "The Survivors"
-    ],
-    "answer": "At Folsom Prison"
-  },
-  {
     "id": "music-552",
     "category": "music",
     "difficulty": "easy",
@@ -8977,7 +8925,7 @@
     "options": [
       "Ritardando",
       "Accelerando",
-      "Rallentando",
+      "Fermata",
       "Rubato"
     ],
     "answer": "Ritardando"
@@ -9124,19 +9072,6 @@
       "B-E-A-D"
     ],
     "answer": "E-A-D-G"
-  },
-  {
-    "id": "music-582",
-    "category": "music",
-    "difficulty": "easy",
-    "question": "What is the musical term for the speed or pace of a given piece?",
-    "options": [
-      "Tempo",
-      "Rhythm",
-      "Meter",
-      "Cadence"
-    ],
-    "answer": "Tempo"
   },
   {
     "id": "music-583",
