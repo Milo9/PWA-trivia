@@ -6,6 +6,34 @@ only covers what the README doesn't (behavioral rules and hard-won
 lessons, not documentation, and not a batch-by-batch changelog — that's
 what `git log` is for).
 
+## Verifying UI changes: check for tooling before claiming you can't
+
+**Before telling the user there's no way to test a UI change in a browser,
+check `package.json`'s `devDependencies` and `node_modules` first.**
+`playwright` is already installed here, with a Chromium binary already
+cached on this machine — confirmed 2026-08-12 when a session shipped six
+UI features (confetti, streak tiers, auto-advance, an in-theme confirm
+sheet, a 50/50 lifeline, a sound toggle) with only `node --check` and a
+manual code read, explicitly telling the user it couldn't browser-test
+because "no browser automation tool is available" — without ever checking
+whether one was already sitting in the repo. It was. Only surfaced when the
+user asked "can you just install what you need?" and prompted an actual
+check.
+
+Use `npm run visual-check` (see README's "Automated visual check") for a
+full walkthrough with screenshots, or drive `playwright`'s `chromium`
+directly via a one-off Bash-run Node script for something narrower. Actually
+look at the resulting screenshots (via `Read`) rather than just checking
+the script exited 0 — a run with zero console errors can still render
+visibly wrong (an animation-timing artifact caught this same session: a
+screenshot taken immediately after a `.hidden` class toggle can catch the
+CSS fade-in at opacity 0, looking like a blank page, even though the DOM
+state and console are both perfectly fine — add a short `waitForTimeout`
+after any screen transition before capturing).
+
+If a genuinely different repo really has no headless browser available,
+say so — but say it after checking, not by default.
+
 ## Always ship after making changes — once per batch, not per edit
 
 Once a logical unit of work is done — a whole batch merge, a whole audit

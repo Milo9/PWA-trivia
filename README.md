@@ -334,6 +334,27 @@ Then open `http://localhost:8080` in a browser. The service worker requires
 To test true offline behavior: load the page once, then use your browser's
 dev tools to go offline (or actually disconnect), and reload.
 
+### Automated visual check
+
+```
+npm run visual-check [-- --headed] [-- --out <dir>]
+```
+
+Drives a real headless Chromium (via the `playwright` devDependency, already
+installed with a cached browser binary — no extra setup) through the app's
+core screens on its own scratch port (8099, so it won't collide with a
+manually running `npm run serve`): categories → prefs toggle → settings → a
+full 10-question round answered correctly (exercising the streak badge
+tiers, milestone flash, auto-advance, and the 50/50 lifeline) → results
+(confetti fires on a first-ever "game") → back to categories with stats
+showing → the reset-stats confirm sheet, confirmed. Screenshots land in
+`dev-screenshots/` (gitignored); any browser console error/warning or
+uncaught page exception is printed and makes the script exit non-zero.
+
+Use this (or drive Playwright by hand for something more targeted) for any
+UI/CSS/JS change instead of assuming there's no way to check — see
+CLAUDE.md.
+
 ## Deploying to GitHub Pages
 
 1. Push this project to a GitHub repo.

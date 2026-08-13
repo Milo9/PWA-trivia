@@ -11,6 +11,7 @@
     "audit": "node scripts/audit.js",
     "stamp": "node scripts/stamp-version.js",
     "serve": "node scripts/serve.js",
+    "visual-check": "node scripts/visual-check.js",
     "ship": "node scripts/ship.js"
   },
   "devDependencies": {
