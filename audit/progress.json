@@ -12825,11 +12825,11 @@
         "general-2093",
         "general-2096"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 8,
+      "notes": "Fixed Ian Dury's Sex & Drugs & Rock & Roll false album-premise (it was a 1977 non-album single, not on New Boots and Panties!! originally) by rewording to a true fact about that album; fixed general-834's chord/interval ambiguity (chord requires 3+ notes, not 2+). Cut 6 in-chunk literal/reversed-direction duplicates among legacy general-prefixed chestnuts (Abbey Road x2, King of Pop x2, Queen of Pop x2, deaf-Beethoven-Ninth x2, Spice Girls member-ID x2, 88-key piano reversed-direction x2). Logged 2 backlog notes for near-duplicates whose sibling is an orphan (Sforzando/music-741, lowest-female-voice/music-928)."
     },
     {
       "chunkId": "music-p1-011",
@@ -12886,11 +12886,11 @@
         "music-166",
         "music-169"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 13,
+      "notes": "Cut 13 duplicates against already-reviewed siblings from earlier music-p1 chunks (Thriller/Michael Jackson x2, No Woman No Cry/Bob Marley, Mozart child-prodigy-symphonies, deaf-Beethoven-Ninth-Symphony, reggae-genre-definition, King of Pop, Freddie-Mercury-fronts-Queen reversed direction, 88-key piano, Haydn Surprise Symphony No.94, Take Five 5/4 time signature, Kind of Blue 1959 release year, Vivaldi's Four Seasons). No factual errors found among the remaining ~37 classical/jazz/rock chestnuts after a full read-through including all distractor checks."
     },
     {
       "chunkId": "music-p1-012",
@@ -12947,11 +12947,11 @@
         "music-263",
         "music-266"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 2,
+      "notes": "Fixed music-171's false premise that Pink Floyd's Wish You Were Here (1975) 'takes its title from its opening track' -- the actual opener is 'Shine On You Crazy Diamond,' the title track is 4th -- reworded to a true fact about the same album. Cut music-245 as a reversed-direction duplicate of in-chunk music-257 (both encode the identical Johnny Cash/Folsom Prison/1968 fact, just swapping which detail is blanked). Reviewed the classic rock/pop/hip-hop/electronic chestnuts in this chunk (Bowie, Who, Zeppelin, Beatles, Queen, MJ, Nirvana, Fleetwood Mac, Taylor Swift, Kendrick Lamar, Outkast, Wu-Tang, Daft Punk, Kraftwerk, house/techno origins, Dolly Parton, Leonard Cohen, Eagles) including all distractors -- no other factual errors found; several same-answer matches (Tommy/rock-opera, Bohemian-Rhapsody/Queen, Chicago/Detroit city coincidences) were confirmed to test genuinely distinct facts and left uncut."
     },
     {
       "chunkId": "music-p1-013",

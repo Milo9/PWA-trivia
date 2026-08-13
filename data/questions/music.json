@@ -234,19 +234,6 @@
     "answer": "The Quarrymen"
   },
   {
-    "id": "general-356",
-    "category": "music",
-    "difficulty": "easy",
-    "question": "Which instrument has 88 keys in its standard modern form?",
-    "options": [
-      "Organ",
-      "Accordion",
-      "Harpsichord",
-      "Piano"
-    ],
-    "answer": "Piano"
-  },
-  {
     "id": "general-357",
     "category": "music",
     "difficulty": "medium",
@@ -271,19 +258,6 @@
       "Deep Purple"
     ],
     "answer": "Pink Floyd"
-  },
-  {
-    "id": "general-359",
-    "category": "music",
-    "difficulty": "easy",
-    "question": "Which American singer is known as the 'Queen of Pop'?",
-    "options": [
-      "Whitney Houston",
-      "Mariah Carey",
-      "Madonna",
-      "Cher"
-    ],
-    "answer": "Madonna"
   },
   {
     "id": "general-360",
@@ -783,7 +757,7 @@
     "id": "general-834",
     "category": "music",
     "difficulty": "easy",
-    "question": "What is the term for two or more notes played or sung simultaneously to create harmony?",
+    "question": "What is the term for three or more notes played or sung simultaneously to create harmony?",
     "options": [
       "Scale",
       "Interval",
@@ -923,19 +897,6 @@
     "answer": "Ludwig van Beethoven"
   },
   {
-    "id": "general-1146",
-    "category": "music",
-    "difficulty": "easy",
-    "question": "Which British rock band released the album 'Abbey Road'?",
-    "options": [
-      "The Beatles",
-      "The Rolling Stones",
-      "Pink Floyd",
-      "Led Zeppelin"
-    ],
-    "answer": "The Beatles"
-  },
-  {
     "id": "general-1147",
     "category": "music",
     "difficulty": "hard",
@@ -947,19 +908,6 @@
       "Double bass"
     ],
     "answer": "Violin"
-  },
-  {
-    "id": "general-1148",
-    "category": "music",
-    "difficulty": "easy",
-    "question": "Which pop star is known as the 'King of Pop'?",
-    "options": [
-      "Michael Jackson",
-      "Elvis Presley",
-      "Prince",
-      "James Brown"
-    ],
-    "answer": "Michael Jackson"
   },
   {
     "id": "general-1149",
@@ -1170,19 +1118,6 @@
     "answer": "Jazz"
   },
   {
-    "id": "general-1679",
-    "category": "music",
-    "difficulty": "easy",
-    "question": "Which 1990s British girl group included members nicknamed 'Posh Spice' and 'Scary Spice'?",
-    "options": [
-      "Sugababes",
-      "All Saints",
-      "Girls Aloud",
-      "Spice Girls"
-    ],
-    "answer": "Spice Girls"
-  },
-  {
     "id": "general-1692",
     "category": "music",
     "difficulty": "medium",
@@ -1220,19 +1155,6 @@
       "Hamilton"
     ],
     "answer": "Hamilton"
-  },
-  {
-    "id": "general-2092",
-    "category": "music",
-    "difficulty": "easy",
-    "question": "Which composer continued composing after going deaf, including his famous Ninth Symphony?",
-    "options": [
-      "Ludwig van Beethoven",
-      "Wolfgang Amadeus Mozart",
-      "Johann Sebastian Bach",
-      "Franz Joseph Haydn"
-    ],
-    "answer": "Ludwig van Beethoven"
   },
   {
     "id": "general-2093",
@@ -1313,19 +1235,6 @@
     "answer": "Bono"
   },
   {
-    "id": "general-2100",
-    "category": "music",
-    "difficulty": "easy",
-    "question": "Which pop star released 'Thriller,' the best-selling album of all time?",
-    "options": [
-      "Michael Jackson",
-      "Prince",
-      "Madonna",
-      "Whitney Houston"
-    ],
-    "answer": "Michael Jackson"
-  },
-  {
     "id": "general-2103",
     "category": "music",
     "difficulty": "easy",
@@ -1389,19 +1298,6 @@
       "Johannes Brahms"
     ],
     "answer": "Ludwig van Beethoven"
-  },
-  {
-    "id": "general-2109",
-    "category": "music",
-    "difficulty": "easy",
-    "question": "Which reggae musician is known for songs like 'No Woman, No Cry' and 'One Love'?",
-    "options": [
-      "Bob Marley",
-      "Peter Tosh",
-      "Jimmy Cliff",
-      "Toots Hibbert"
-    ],
-    "answer": "Bob Marley"
   },
   {
     "id": "general-2110",
@@ -1480,32 +1376,6 @@
       "Gustav Mahler"
     ],
     "answer": "Richard Wagner"
-  },
-  {
-    "id": "general-2263",
-    "category": "music",
-    "difficulty": "easy",
-    "question": "Which singer is known for the album 'Thriller'?",
-    "options": [
-      "Michael Jackson",
-      "Prince",
-      "Whitney Houston",
-      "Stevie Wonder"
-    ],
-    "answer": "Michael Jackson"
-  },
-  {
-    "id": "general-2299",
-    "category": "music",
-    "difficulty": "easy",
-    "question": "Which classical composer was a child prodigy who wrote symphonies in his childhood?",
-    "options": [
-      "Wolfgang Amadeus Mozart",
-      "Ludwig van Beethoven",
-      "Johannes Brahms",
-      "Franz Liszt"
-    ],
-    "answer": "Wolfgang Amadeus Mozart"
   },
   {
     "id": "general-2320",
@@ -1612,19 +1482,6 @@
     "answer": "Jimi Hendrix"
   },
   {
-    "id": "general-2570",
-    "category": "music",
-    "difficulty": "easy",
-    "question": "Which musical genre developed in Jamaica in the late 1960s, popularized by Bob Marley?",
-    "options": [
-      "Reggae",
-      "Ska",
-      "Calypso",
-      "Soca"
-    ],
-    "answer": "Reggae"
-  },
-  {
     "id": "general-2571",
     "category": "music",
     "difficulty": "hard",
@@ -1701,19 +1558,6 @@
       "Christoph Willibald Gluck"
     ],
     "answer": "George Frideric Handel"
-  },
-  {
-    "id": "general-2652",
-    "category": "music",
-    "difficulty": "easy",
-    "question": "Which composer, already deaf by the time he wrote it, composed his Ninth Symphony featuring the \"Ode to Joy\"?",
-    "options": [
-      "Ludwig van Beethoven",
-      "Franz Schubert",
-      "Johannes Brahms",
-      "Gustav Mahler"
-    ],
-    "answer": "Ludwig van Beethoven"
   },
   {
     "id": "general-2837",
@@ -1937,19 +1781,6 @@
     "answer": "Pink Floyd"
   },
   {
-    "id": "music-006",
-    "category": "music",
-    "difficulty": "easy",
-    "question": "Which Baroque composer is known for the violin concerti collectively titled 'The Four Seasons'?",
-    "options": [
-      "Antonio Vivaldi",
-      "Johann Sebastian Bach",
-      "George Frideric Handel",
-      "Arcangelo Corelli"
-    ],
-    "answer": "Antonio Vivaldi"
-  },
-  {
     "id": "music-007",
     "category": "music",
     "difficulty": "medium",
@@ -1961,19 +1792,6 @@
       "A Day at the Races"
     ],
     "answer": "A Night at the Opera"
-  },
-  {
-    "id": "music-008",
-    "category": "music",
-    "difficulty": "easy",
-    "question": "How many keys are on a standard full-size piano?",
-    "options": [
-      "76",
-      "82",
-      "88",
-      "92"
-    ],
-    "answer": "88"
   },
   {
     "id": "music-009",
@@ -2000,32 +1818,6 @@
       "Madonna"
     ],
     "answer": "The Beatles"
-  },
-  {
-    "id": "music-011",
-    "category": "music",
-    "difficulty": "easy",
-    "question": "Which artist is commonly known as the 'King of Pop'?",
-    "options": [
-      "Elvis Presley",
-      "Michael Jackson",
-      "Prince",
-      "Freddie Mercury"
-    ],
-    "answer": "Michael Jackson"
-  },
-  {
-    "id": "music-012",
-    "category": "music",
-    "difficulty": "easy",
-    "question": "Who was the lead singer of the band Queen?",
-    "options": [
-      "Brian May",
-      "Roger Taylor",
-      "John Deacon",
-      "Freddie Mercury"
-    ],
-    "answer": "Freddie Mercury"
   },
   {
     "id": "music-013",
@@ -3315,19 +3107,6 @@
     "answer": "No. 45"
   },
   {
-    "id": "music-112",
-    "category": "music",
-    "difficulty": "easy",
-    "question": "Which numbered symphony is Haydn's 'Surprise' Symphony?",
-    "options": [
-      "No. 101",
-      "No. 104",
-      "No. 94",
-      "No. 45"
-    ],
-    "answer": "No. 94"
-  },
-  {
     "id": "music-113",
     "category": "music",
     "difficulty": "medium",
@@ -3783,32 +3562,6 @@
     "answer": "Richard Wagner"
   },
   {
-    "id": "music-148",
-    "category": "music",
-    "difficulty": "easy",
-    "question": "In what year was Miles Davis's album Kind of Blue released?",
-    "options": [
-      "1957",
-      "1965",
-      "1959",
-      "1961"
-    ],
-    "answer": "1959"
-  },
-  {
-    "id": "music-149",
-    "category": "music",
-    "difficulty": "easy",
-    "question": "What unusual time signature is Dave Brubeck's 'Take Five' famous for using?",
-    "options": [
-      "7/8",
-      "9/8",
-      "3/4",
-      "5/4"
-    ],
-    "answer": "5/4"
-  },
-  {
     "id": "music-150",
     "category": "music",
     "difficulty": "medium",
@@ -4085,7 +3838,7 @@
     "id": "music-171",
     "category": "music",
     "difficulty": "easy",
-    "question": "Which 1975 Pink Floyd album, dedicated to founding member Syd Barrett, takes its title from its opening track?",
+    "question": "Which 1975 Pink Floyd album, dedicated to founding member Syd Barrett, opens with the multi-part suite 'Shine On You Crazy Diamond'?",
     "options": [
       "Animals",
       "The Wall",
@@ -5042,19 +4795,6 @@
       "Surrender"
     ],
     "answer": "Surrender"
-  },
-  {
-    "id": "music-245",
-    "category": "music",
-    "difficulty": "easy",
-    "question": "In what year did Johnny Cash perform his famous live shows at Folsom State Prison?",
-    "options": [
-      "1971",
-      "1968",
-      "1969",
-      "1965"
-    ],
-    "answer": "1968"
   },
   {
     "id": "music-246",
@@ -9142,7 +8882,7 @@
     "id": "music-563",
     "category": "music",
     "difficulty": "medium",
-    "question": "Which 1977 Ian Dury and the Blockheads album features the new wave anthem 'Sex & Drugs & Rock & Roll'?",
+    "question": "Which 1977 debut album by Ian Dury (backed by the Blockheads) features the tracks 'Billericay Dickie' and 'Sweet Gene Vincent'?",
     "options": [
       "New Boots and Panties!!",
       "Do It Yourself",

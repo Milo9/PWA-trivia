@@ -125,6 +125,8 @@
   "music-443": "duplicate of orphan music-638 (both: The Who's 1969 album Tommy was one of the first rock operas)",
   "music-483": "duplicate of orphan music-679 (both: Fugees' The Score, Grammy-winning Killing Me Softly cover, 1996)",
   "music-550": "duplicate of orphan music-905 (both: Joni Mitchell's 1971 album Blue)",
+  "music-569": "Same fact as orphan music-741 (both define Sforzando as sudden/strong accent on a single note) - music-741 has no chunk in this pass, cut whichever is reviewed second",
+  "music-574": "Same fact as orphan music-928 (both ask lowest standard female vocal range = Contralto) - music-928 has no chunk in this pass, cut whichever is reviewed second",
   "music-619": "Duplicate of music-150 (same fact: Paul Desmond composed 'Take Five' for the Dave Brubeck Quartet). music-619 is an orphan (no chunk); when it surfaces via append-orphans, cut it in favor of already-reviewed music-150.",
   "music-797": "Duplicate of music-051 (same fact: Chopin wrote almost exclusively for piano). music-797 is an orphan (no chunk); when it surfaces via append-orphans, cut it in favor of already-reviewed music-051.",
   "music-804": "Duplicate of music-024 (same fact: Puccini's Turandot left unfinished at his 1924 death, completed by Franco Alfano). music-804 is an orphan (no chunk); when it surfaces via append-orphans, cut it in favor of already-reviewed music-024.",
