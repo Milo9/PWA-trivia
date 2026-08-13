@@ -117,32 +117,6 @@
     "answer": "The Nobel Foundation"
   },
   {
-    "id": "general-1251",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "What is the term for a word that is spelled the same forward and backward?",
-    "options": [
-      "Palindrome",
-      "Anagram",
-      "Acronym",
-      "Homophone"
-    ],
-    "answer": "Palindrome"
-  },
-  {
-    "id": "general-1253",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "What do you call two words that sound the same but have different meanings and spellings?",
-    "options": [
-      "Homophones",
-      "Synonyms",
-      "Antonyms",
-      "Homographs"
-    ],
-    "answer": "Homophones"
-  },
-  {
     "id": "general-1274",
     "category": "general",
     "difficulty": "medium",
@@ -2940,19 +2914,6 @@
   {
     "difficulty": "medium",
     "category": "general",
-    "question": "Counting Jacks, Queens and Kings, how many face cards are in a standard deck?",
-    "options": [
-      "12",
-      "16",
-      "9",
-      "8"
-    ],
-    "answer": "12",
-    "id": "general-3167"
-  },
-  {
-    "difficulty": "medium",
-    "category": "general",
     "question": "What is a name that humorously fits its owner's profession called?",
     "options": [
       "aptronym",
@@ -5068,19 +5029,6 @@
       "Q"
     ],
     "answer": "K"
-  },
-  {
-    "id": "general-3354",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "How many Title Deed property cards are in classic Monopoly?",
-    "options": [
-      "28",
-      "40",
-      "22",
-      "32"
-    ],
-    "answer": "28"
   },
   {
     "id": "general-3356",
@@ -7527,19 +7475,6 @@
     "answer": "78"
   },
   {
-    "id": "general-3566",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "In Scrabble, what is the term for playing all seven of your tiles in a single turn to earn a 50-point bonus?",
-    "options": [
-      "Bingo",
-      "A Yahtzee",
-      "A Royal Flush",
-      "A Slam"
-    ],
-    "answer": "Bingo"
-  },
-  {
     "id": "general-3567",
     "category": "general",
     "difficulty": "medium",
@@ -7980,19 +7915,6 @@
       "Upwords"
     ],
     "answer": "Ghost"
-  },
-  {
-    "id": "general-3604",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "How many lettered dice are shaken in a standard game of Boggle?",
-    "options": [
-      "16",
-      "12",
-      "20",
-      "25"
-    ],
-    "answer": "16"
   },
   {
     "id": "general-3605",
@@ -10844,19 +10766,6 @@
   {
     "difficulty": "easy",
     "category": "general",
-    "question": "How many properties are purchasable in total on a standard Monopoly board including streets, railroads and utilities?",
-    "options": [
-      "22",
-      "40",
-      "28",
-      "32"
-    ],
-    "answer": "28",
-    "id": "general-3844"
-  },
-  {
-    "difficulty": "easy",
-    "category": "general",
     "question": "What size grid does each player use in Battleship to hide their fleet?",
     "options": [
       "12 by 12",
@@ -12623,19 +12532,6 @@
     "id": "general-3980"
   },
   {
-    "difficulty": "medium",
-    "category": "general",
-    "question": "In classic Monopoly, how many purchasable properties are there including streets, railroads, and utilities?",
-    "options": [
-      "28",
-      "26",
-      "22",
-      "32"
-    ],
-    "answer": "28",
-    "id": "general-3981"
-  },
-  {
     "difficulty": "easy",
     "category": "general",
     "question": "What does 'jump the shark' mean about a TV show?",
@@ -12673,19 +12569,6 @@
     ],
     "answer": "5",
     "id": "general-3984"
-  },
-  {
-    "difficulty": "easy",
-    "category": "general",
-    "question": "How long is one hand when measuring horse height?",
-    "options": [
-      "4 inches",
-      "6 inches",
-      "8 inches",
-      "3 inches"
-    ],
-    "answer": "4 inches",
-    "id": "general-3985"
   },
   {
     "difficulty": "medium",
@@ -13182,19 +13065,6 @@
     "answer": "Diopter"
   },
   {
-    "id": "general-4024",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "What is the SI derived unit of electrical charge?",
-    "options": [
-      "Farad",
-      "Ohm",
-      "Volt",
-      "Coulomb"
-    ],
-    "answer": "Coulomb"
-  },
-  {
     "id": "general-4025",
     "category": "general",
     "difficulty": "medium",
@@ -13388,19 +13258,6 @@
       "6000 feet"
     ],
     "answer": "5280 feet"
-  },
-  {
-    "id": "general-4040",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "How many inches are in a 'hand', a unit commonly used to measure horse height?",
-    "options": [
-      "6 inches",
-      "5 inches",
-      "3 inches",
-      "4 inches"
-    ],
-    "answer": "4 inches"
   },
   {
     "id": "general-4041",
@@ -14027,19 +13884,6 @@
     "answer": "Degree Fahrenheit"
   },
   {
-    "id": "general-4089",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "What is the term for a mishearing or misinterpretation of a phrase that gives it a new meaning, like 'excuse me while I kiss the sky'?",
-    "options": [
-      "Eggcorn",
-      "Malaphor",
-      "Spoonerism",
-      "Mondegreen"
-    ],
-    "answer": "Mondegreen"
-  },
-  {
     "id": "general-4090",
     "category": "general",
     "difficulty": "hard",
@@ -14077,19 +13921,6 @@
       "Kangaroo word"
     ],
     "answer": "Kangaroo word"
-  },
-  {
-    "id": "general-4093",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "What is the term for a word or phrase composed of two identical parts, like 'murmur' or 'tartar'?",
-    "options": [
-      "Reduplication",
-      "Echo word",
-      "Palindrome",
-      "Tautonym"
-    ],
-    "answer": "Tautonym"
   },
   {
     "id": "general-4094",
@@ -14443,19 +14274,6 @@
     "answer": "$1500"
   },
   {
-    "id": "general-4121",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "In Monopoly, what are the two utility spaces?",
-    "options": [
-      "Gas Company and Phone Company",
-      "Power Plant and Water Works",
-      "Electric Company and Sewer",
-      "Electric Company and Water Works"
-    ],
-    "answer": "Electric Company and Water Works"
-  },
-  {
     "id": "general-4122",
     "category": "general",
     "difficulty": "hard",
@@ -14560,19 +14378,6 @@
     "answer": "Wheel"
   },
   {
-    "id": "general-4130",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "In standard Poker, what is the term for the first three community cards dealt face-up?",
-    "options": [
-      "Turn",
-      "River",
-      "Board",
-      "Flop"
-    ],
-    "answer": "Flop"
-  },
-  {
     "id": "general-4131",
     "category": "general",
     "difficulty": "easy",
@@ -14597,19 +14402,6 @@
       "River"
     ],
     "answer": "River"
-  },
-  {
-    "id": "general-4133",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "In Blackjack, what is the goal number to get as close to without going over?",
-    "options": [
-      "20",
-      "31",
-      "15",
-      "21"
-    ],
-    "answer": "21"
   },
   {
     "id": "general-4134",
@@ -15002,19 +14794,6 @@
     "answer": "Katal"
   },
   {
-    "id": "general-4164",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "What is the unit of radioactivity, equivalent to one decay per second?",
-    "options": [
-      "Curie",
-      "Gray",
-      "Sievert",
-      "Becquerel"
-    ],
-    "answer": "Becquerel"
-  },
-  {
     "id": "general-4165",
     "category": "general",
     "difficulty": "medium",
@@ -15299,19 +15078,6 @@
       "Decagon"
     ],
     "answer": "Decagon"
-  },
-  {
-    "id": "general-4187",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "What is the name for a 12-sided polygon?",
-    "options": [
-      "Decagon",
-      "Icosagon",
-      "Octagon",
-      "Dodecagon"
-    ],
-    "answer": "Dodecagon"
   },
   {
     "id": "general-4188",

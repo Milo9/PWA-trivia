@@ -130,19 +130,6 @@
     "answer": "Ethiopia"
   },
   {
-    "id": "general-045",
-    "category": "history",
-    "difficulty": "hard",
-    "question": "Who was the Egyptian queen known for her relationships with Julius Caesar and Mark Antony?",
-    "options": [
-      "Cleopatra",
-      "Nefertiti",
-      "Hatshepsut",
-      "Nefertari"
-    ],
-    "answer": "Cleopatra"
-  },
-  {
     "id": "general-049",
     "category": "history",
     "difficulty": "medium",
@@ -583,19 +570,6 @@
       "The War of Spanish Succession"
     ],
     "answer": "The Thirty Years' War"
-  },
-  {
-    "id": "general-692",
-    "category": "history",
-    "difficulty": "medium",
-    "question": "Who was President of the United States for most of World War II, from 1933 until his death in 1945?",
-    "options": [
-      "Harry Truman",
-      "Woodrow Wilson",
-      "Herbert Hoover",
-      "Franklin D. Roosevelt"
-    ],
-    "answer": "Franklin D. Roosevelt"
   },
   {
     "id": "general-694",
@@ -2028,19 +2002,6 @@
     "answer": "The Wall Street Crash"
   },
   {
-    "id": "general-1875",
-    "category": "history",
-    "difficulty": "easy",
-    "question": "Who was the only US president to resign from office?",
-    "options": [
-      "Richard Nixon",
-      "Gerald Ford",
-      "Lyndon B. Johnson",
-      "Jimmy Carter"
-    ],
-    "answer": "Richard Nixon"
-  },
-  {
     "id": "general-1877",
     "category": "history",
     "difficulty": "medium",
@@ -2065,19 +2026,6 @@
       "Louis Napoleon"
     ],
     "answer": "Napoleon Bonaparte"
-  },
-  {
-    "id": "general-1880",
-    "category": "history",
-    "difficulty": "easy",
-    "question": "Which war was fought between the Union and the Confederacy from 1861 to 1865?",
-    "options": [
-      "The American Civil War",
-      "The Revolutionary War",
-      "The War of 1812",
-      "The Mexican-American War"
-    ],
-    "answer": "The American Civil War"
   },
   {
     "id": "general-1883",
@@ -2392,32 +2340,6 @@
     "answer": "The Ming dynasty"
   },
   {
-    "id": "general-2206",
-    "category": "history",
-    "difficulty": "easy",
-    "question": "Which queen of ancient Egypt famously allied with both Julius Caesar and Mark Antony?",
-    "options": [
-      "Cleopatra",
-      "Nefertiti",
-      "Hatshepsut",
-      "Nefertari"
-    ],
-    "answer": "Cleopatra"
-  },
-  {
-    "id": "general-2207",
-    "category": "history",
-    "difficulty": "easy",
-    "question": "Which revolution began with the storming of the Bastille?",
-    "options": [
-      "The French Revolution",
-      "The Russian Revolution",
-      "The American Revolution",
-      "The Industrial Revolution"
-    ],
-    "answer": "The French Revolution"
-  },
-  {
     "id": "general-2208",
     "category": "history",
     "difficulty": "easy",
@@ -2639,19 +2561,6 @@
     "answer": "The First Amendment"
   },
   {
-    "id": "general-2358",
-    "category": "history",
-    "difficulty": "easy",
-    "question": "What is the name of the longest wall ever built, located in China?",
-    "options": [
-      "The Great Wall of China",
-      "The Berlin Wall",
-      "Hadrian's Wall",
-      "The Great Zimbabwe Wall"
-    ],
-    "answer": "The Great Wall of China"
-  },
-  {
     "id": "general-2366",
     "category": "history",
     "difficulty": "medium",
@@ -2767,19 +2676,6 @@
       "The Shang dynasty"
     ],
     "answer": "The Qin dynasty"
-  },
-  {
-    "id": "general-2428",
-    "category": "history",
-    "difficulty": "medium",
-    "question": "What was the name of the policy of racial segregation enforced in South Africa until 1994?",
-    "options": [
-      "Apartheid",
-      "Jim Crow",
-      "Segregation Act",
-      "Colour Bar"
-    ],
-    "answer": "Apartheid"
   },
   {
     "id": "general-2429",
@@ -12248,19 +12144,6 @@
   {
     "difficulty": "medium",
     "category": "history",
-    "question": "Which Tewa religious leader organized the 1680 Pueblo Revolt expelling Spanish from New Mexico?",
-    "options": [
-      "Pontiac",
-      "Tecumseh",
-      "Metacomet",
-      "Popé"
-    ],
-    "answer": "Popé",
-    "id": "history-713"
-  },
-  {
-    "difficulty": "medium",
-    "category": "history",
     "question": "Which colonial governor was target of Bacon's Rebellion in Virginia in 1676?",
     "options": [
       "John Winthrop",
@@ -12413,19 +12296,6 @@
     ],
     "answer": "Wounded Knee",
     "id": "history-725"
-  },
-  {
-    "difficulty": "medium",
-    "category": "history",
-    "question": "In what year did the US purchase Alaska from Russia?",
-    "options": [
-      "1854",
-      "1867",
-      "1871",
-      "1880"
-    ],
-    "answer": "1867",
-    "id": "history-726"
   },
   {
     "difficulty": "easy",
@@ -13221,19 +13091,6 @@
     "id": "history-788"
   },
   {
-    "difficulty": "hard",
-    "category": "history",
-    "question": "Which Mughal emperor codified the Din-i Ilahi syncretic faith?",
-    "options": [
-      "Aurangzeb",
-      "Shah Jahan",
-      "Akbar",
-      "Jahangir"
-    ],
-    "answer": "Akbar",
-    "id": "history-789"
-  },
-  {
     "difficulty": "medium",
     "category": "history",
     "question": "Which 18th-century Afghan ruler founded the Durrani Empire in 1747?",
@@ -13483,19 +13340,6 @@
   {
     "difficulty": "medium",
     "category": "history",
-    "question": "In what year did Algeria gain independence from France?",
-    "options": [
-      "1965",
-      "1958",
-      "1962",
-      "1960"
-    ],
-    "answer": "1962",
-    "id": "history-809"
-  },
-  {
-    "difficulty": "medium",
-    "category": "history",
     "question": "Which Southeast Asian nation proclaimed independence on 17 August 1945, leading to war against Dutch?",
     "options": [
       "Malaysia",
@@ -13505,32 +13349,6 @@
     ],
     "answer": "Indonesia",
     "id": "history-810"
-  },
-  {
-    "difficulty": "easy",
-    "category": "history",
-    "question": "In what year did Kenya achieve full independence from Britain?",
-    "options": [
-      "1960",
-      "1961",
-      "1963",
-      "1965"
-    ],
-    "answer": "1963",
-    "id": "history-811"
-  },
-  {
-    "difficulty": "easy",
-    "category": "history",
-    "question": "In what year was the Hungarian Uprising against Soviet domination crushed?",
-    "options": [
-      "1953",
-      "1961",
-      "1956",
-      "1968"
-    ],
-    "answer": "1956",
-    "id": "history-812"
   },
   {
     "difficulty": "medium",
@@ -13557,19 +13375,6 @@
     ],
     "answer": "1961",
     "id": "history-814"
-  },
-  {
-    "difficulty": "medium",
-    "category": "history",
-    "question": "In what year did Warsaw Pact forces invade Czechoslovakia to end Prague Spring?",
-    "options": [
-      "1968",
-      "1967",
-      "1969",
-      "1966"
-    ],
-    "answer": "1968",
-    "id": "history-815"
   },
   {
     "difficulty": "medium",
@@ -14027,19 +13832,6 @@
     "id": "history-852"
   },
   {
-    "difficulty": "easy",
-    "category": "history",
-    "question": "Which battle in 636 CE saw Arab forces under Khalid ibn al-Walid defeat the Byzantines and open the Levant to conquest?",
-    "options": [
-      "Battle of Yarmouk",
-      "Battle of Qadisiyyah",
-      "Battle of Nahavand",
-      "Battle of Karbala"
-    ],
-    "answer": "Battle of Yarmouk",
-    "id": "history-853"
-  },
-  {
     "difficulty": "medium",
     "category": "history",
     "question": "What was the official title of the Mamluk sultan who lost at Marj Dabiq on 24 August 1516?",
@@ -14185,19 +13977,6 @@
   {
     "difficulty": "medium",
     "category": "history",
-    "question": "Which battle in 1274 BCE between Ramesses II and Muwatalli II is the earliest battle with detailed tactics recorded?",
-    "options": [
-      "Battle of Megiddo",
-      "Battle of Kadesh",
-      "Battle of Carchemish",
-      "Battle of Qarqar"
-    ],
-    "answer": "Battle of Kadesh",
-    "id": "history-865"
-  },
-  {
-    "difficulty": "medium",
-    "category": "history",
     "question": "Which French fortified castle, originally built in 1142, became the headquarters of the Knights Hospitaller in the County of Tripoli?",
     "options": [
       "Château Gaillard",
@@ -14339,19 +14118,6 @@
     "id": "history-877"
   },
   {
-    "difficulty": "hard",
-    "category": "history",
-    "question": "Which naval battle on 7 October 1571 saw Don John of Austria lead the Holy League against Ali Pasha?",
-    "options": [
-      "Battle of Preveza",
-      "Battle of Lepanto",
-      "Battle of Navarino",
-      "Battle of Actium"
-    ],
-    "answer": "Battle of Lepanto",
-    "id": "history-878"
-  },
-  {
     "difficulty": "medium",
     "category": "history",
     "question": "Which South American war from 1864 to 1870 was the deadliest inter-state war in Latin American history?",
@@ -14441,19 +14207,6 @@
     ],
     "answer": "Battle of Breitenfeld",
     "id": "history-886"
-  },
-  {
-    "difficulty": "easy",
-    "category": "history",
-    "question": "Which city served as the main Red Sea port for the Kingdom of Aksum, located near modern Massawa?",
-    "options": [
-      "Berenice",
-      "Adulis",
-      "Myos Hormos",
-      "Arsinoe"
-    ],
-    "answer": "Adulis",
-    "id": "history-887"
   },
   {
     "difficulty": "medium",
@@ -14588,19 +14341,6 @@
   {
     "difficulty": "easy",
     "category": "history",
-    "question": "Who defeated the Sosso king Sumanguru at Kirina around 1235 to found the Mali Empire?",
-    "options": [
-      "Mansa Musa",
-      "Sundiata Keita",
-      "Sunni Ali",
-      "Askia Muhammad"
-    ],
-    "answer": "Sundiata Keita",
-    "id": "history-898"
-  },
-  {
-    "difficulty": "easy",
-    "category": "history",
     "question": "What knotted cord device did Inca officials use for census and accounting?",
     "options": [
       "Quipu",
@@ -14729,19 +14469,6 @@
     "id": "history-908"
   },
   {
-    "difficulty": "easy",
-    "category": "history",
-    "question": "Which city served as the main center of Islamic learning in the Mali and Songhai Empires, housing the Sankore University?",
-    "options": [
-      "Gao",
-      "Djenne",
-      "Timbuktu",
-      "Kano"
-    ],
-    "answer": "Timbuktu",
-    "id": "history-909"
-  },
-  {
     "difficulty": "medium",
     "category": "history",
     "question": "Which rebellion leader declared himself Tupac Amaru II and led a massive Andean uprising from 1780 to 1783?",
@@ -14844,32 +14571,6 @@
     ],
     "answer": "Concordat of Worms",
     "id": "history-917"
-  },
-  {
-    "difficulty": "medium",
-    "category": "history",
-    "question": "Which 1204 event saw Crusaders sack Constantinople and establish the Latin Empire?",
-    "options": [
-      "Third Crusade",
-      "Fourth Crusade",
-      "Fifth Crusade",
-      "Albigensian Crusade"
-    ],
-    "answer": "Fourth Crusade",
-    "id": "history-918"
-  },
-  {
-    "difficulty": "medium",
-    "category": "history",
-    "question": "Which battle on 16 July 1212 in southern Spain broke Almohad power and advanced the Reconquista?",
-    "options": [
-      "Battle of Las Navas de Tolosa",
-      "Battle of Alarcos",
-      "Battle of Covadonga",
-      "Battle of Zalaca"
-    ],
-    "answer": "Battle of Las Navas de Tolosa",
-    "id": "history-919"
   },
   {
     "difficulty": "medium",
@@ -15002,19 +14703,6 @@
     "id": "history-929"
   },
   {
-    "difficulty": "easy",
-    "category": "history",
-    "question": "Which failed CIA-backed invasion of Cuba occurred on 17 April 1961?",
-    "options": [
-      "Bay of Pigs invasion",
-      "Operation Mongoose",
-      "Operation Condor",
-      "Operation Urgent Fury"
-    ],
-    "answer": "Bay of Pigs invasion",
-    "id": "history-930"
-  },
-  {
     "difficulty": "medium",
     "category": "history",
     "question": "Which country gained independence on 30 June 1960 with Patrice Lumumba as its first prime minister?",
@@ -15091,19 +14779,6 @@
     ],
     "answer": "Edict of Restitution",
     "id": "history-936"
-  },
-  {
-    "difficulty": "easy",
-    "category": "history",
-    "question": "Which Assyrian king built a vast library at Nineveh that housed the Epic of Gilgamesh?",
-    "options": [
-      "Sennacherib",
-      "Esarhaddon",
-      "Ashurbanipal",
-      "Tiglath-Pileser III"
-    ],
-    "answer": "Ashurbanipal",
-    "id": "history-937"
   },
   {
     "difficulty": "medium",
@@ -16014,19 +15689,6 @@
     ],
     "answer": "Lex Frumentaria",
     "id": "history-1008"
-  },
-  {
-    "difficulty": "easy",
-    "category": "history",
-    "question": "From which city on the Niger River did the Songhai Empire rule at its height, stretching from Atlantic to Niger?",
-    "options": [
-      "Timbuktu",
-      "Gao",
-      "Djenne",
-      "Kukiya"
-    ],
-    "answer": "Gao",
-    "id": "history-1009"
   },
   {
     "difficulty": "easy",

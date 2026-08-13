@@ -692,8 +692,11 @@ resurface at the top of a future near-duplicate or same-answer sort:
   league try point value), `friends-184`/`friends-627` (Ross's marriage
   count vs. divorce count — both three, a real running joke),
   `big-bang-theory-122`/`big-bang-theory-532` (different actors playing
-  young vs. adult Mary Cooper) — high text/answer similarity, genuinely
-  different facts.
+  young vs. adult Mary Cooper), `general-3660` (biological tautonym,
+  e.g. "Gorilla gorilla") vs. `general-3963` (linguistic tautonym, a
+  word of two identical parts like "bonbon" — a real second sense of
+  the same word, confirmed via WebSearch 2026-08-13, not a mislabeled
+  answer) — high text/answer similarity, genuinely different facts.
 
 ### Structural gaps in the audit passes
 
@@ -737,10 +740,6 @@ c.ids.includes('<id>')))"`.
   mostly invented or conflated plot specifics rather than simple
   duplicates. If a future pass revisits this range, budget extra
   WebSearch verification rather than defaulting to judgment/memory.
-- `friends-491`'s chunk (`friends-p1-009`) is marked `done`, but the fix
-  it needed was never applied — see `audit/backlog.json` (run `node
-  scripts/audit.js backlog` — it's an "ACTION NOW" entry, since a `done`
-  chunk's ids are never handed out by `next` again).
 
 ### Duplicate pairs that need explicit tracking
 

@@ -1651,32 +1651,6 @@
     "id": "mythology-religion-008"
   },
   {
-    "difficulty": "easy",
-    "category": "mythology-religion",
-    "question": "Which Titan stole fire from the gods and gave it to humanity?",
-    "options": [
-      "Epimetheus",
-      "Prometheus",
-      "Atlas",
-      "Cronus"
-    ],
-    "answer": "Prometheus",
-    "id": "mythology-religion-009"
-  },
-  {
-    "difficulty": "easy",
-    "category": "mythology-religion",
-    "question": "Who was condemned in Tartarus to endlessly roll a boulder uphill?",
-    "options": [
-      "Tantalus",
-      "Sisyphus",
-      "Ixion",
-      "Tityos"
-    ],
-    "answer": "Sisyphus",
-    "id": "mythology-religion-010"
-  },
-  {
     "difficulty": "hard",
     "category": "mythology-religion",
     "question": "According to Hesiod's Theogony, who are the parents of Medusa and her Gorgon sisters?",
@@ -1729,19 +1703,6 @@
     "id": "mythology-religion-014"
   },
   {
-    "difficulty": "hard",
-    "category": "mythology-religion",
-    "question": "Which Titan was condemned to hold up the sky for eternity after the Titanomachy?",
-    "options": [
-      "Atlas",
-      "Menoetius",
-      "Coeus",
-      "Crius"
-    ],
-    "answer": "Atlas",
-    "id": "mythology-religion-015"
-  },
-  {
     "difficulty": "medium",
     "category": "mythology-religion",
     "question": "Who was the mother of Apollo and Artemis?",
@@ -1792,32 +1753,6 @@
     ],
     "answer": "Cerberus",
     "id": "mythology-religion-019"
-  },
-  {
-    "difficulty": "medium",
-    "category": "mythology-religion",
-    "question": "Which hero descended into the underworld and charmed Hades with his lyre to reclaim Eurydice?",
-    "options": [
-      "Orpheus",
-      "Heracles",
-      "Theseus",
-      "Odysseus"
-    ],
-    "answer": "Orpheus",
-    "id": "mythology-religion-020"
-  },
-  {
-    "difficulty": "easy",
-    "category": "mythology-religion",
-    "question": "Who is the Greek god of the forge and blacksmiths, son of Hera?",
-    "options": [
-      "Ares",
-      "Hephaestus",
-      "Apollo",
-      "Hermes"
-    ],
-    "answer": "Hephaestus",
-    "id": "mythology-religion-021"
   },
   {
     "difficulty": "easy",
@@ -1913,19 +1848,6 @@
   {
     "difficulty": "easy",
     "category": "mythology-religion",
-    "question": "Which Roman god of war corresponds to Greek Ares?",
-    "options": [
-      "Mars",
-      "Mercury",
-      "Vulcan",
-      "Janus"
-    ],
-    "answer": "Mars",
-    "id": "mythology-religion-029"
-  },
-  {
-    "difficulty": "easy",
-    "category": "mythology-religion",
     "question": "What was ambrosia in Greek mythology?",
     "options": [
       "Food of the gods",
@@ -2015,19 +1937,6 @@
     "id": "mythology-religion-036"
   },
   {
-    "difficulty": "easy",
-    "category": "mythology-religion",
-    "question": "Which Norse cosmology feature is an immense ash tree that connects the nine worlds?",
-    "options": [
-      "Valhalla",
-      "Bifrost",
-      "Yggdrasil",
-      "Midgard"
-    ],
-    "answer": "Yggdrasil",
-    "id": "mythology-religion-037"
-  },
-  {
     "difficulty": "medium",
     "category": "mythology-religion",
     "question": "What did Odin sacrifice at Mimir's well to gain wisdom?",
@@ -2065,19 +1974,6 @@
     ],
     "answer": "Hel",
     "id": "mythology-religion-040"
-  },
-  {
-    "difficulty": "easy",
-    "category": "mythology-religion",
-    "question": "Which monstrous serpent dwells in the world sea encircling Midgard biting its own tail?",
-    "options": [
-      "Jörmungandr",
-      "Fafnir",
-      "Nidhogg",
-      "Lindworm"
-    ],
-    "answer": "Jörmungandr",
-    "id": "mythology-religion-041"
   },
   {
     "difficulty": "medium",
@@ -2158,19 +2054,6 @@
     "id": "mythology-religion-047"
   },
   {
-    "difficulty": "medium",
-    "category": "mythology-religion",
-    "question": "Who kills and is killed by Thor during Ragnarok?",
-    "options": [
-      "Fenrir",
-      "Jörmungandr",
-      "Surtr",
-      "Hel"
-    ],
-    "answer": "Jörmungandr",
-    "id": "mythology-religion-048"
-  },
-  {
     "difficulty": "easy",
     "category": "mythology-religion",
     "question": "What is Valhalla in Norse belief?",
@@ -2234,19 +2117,6 @@
     ],
     "answer": "House spirit",
     "id": "mythology-religion-053"
-  },
-  {
-    "difficulty": "easy",
-    "category": "mythology-religion",
-    "question": "In Egyptian mythology, which god with a jackal head guides and protects the dead?",
-    "options": [
-      "Anubis",
-      "Horus",
-      "Set",
-      "Thoth"
-    ],
-    "answer": "Anubis",
-    "id": "mythology-religion-054"
   },
   {
     "difficulty": "easy",
@@ -2429,19 +2299,6 @@
     ],
     "answer": "Feathered Serpent",
     "id": "mythology-religion-068"
-  },
-  {
-    "difficulty": "medium",
-    "category": "mythology-religion",
-    "question": "Who was the Aztec god of war and the sun, whose name means Hummingbird of the South?",
-    "options": [
-      "Huitzilopochtli",
-      "Tezcatlipoca",
-      "Xipe Totec",
-      "Tlaloc"
-    ],
-    "answer": "Huitzilopochtli",
-    "id": "mythology-religion-069"
   },
   {
     "difficulty": "medium",
@@ -2665,19 +2522,6 @@
     "id": "mythology-religion-086"
   },
   {
-    "difficulty": "easy",
-    "category": "mythology-religion",
-    "question": "Who is the devoted monkey god and companion of Rama in the Ramayana?",
-    "options": [
-      "Hanuman",
-      "Sugriva",
-      "Jambavan",
-      "Vali"
-    ],
-    "answer": "Hanuman",
-    "id": "mythology-religion-087"
-  },
-  {
     "difficulty": "medium",
     "category": "mythology-religion",
     "question": "The Bhagavad Gita is a part of which larger epic?",
@@ -2884,19 +2728,6 @@
     ],
     "answer": "Loong dragon",
     "id": "mythology-religion-103"
-  },
-  {
-    "difficulty": "easy",
-    "category": "mythology-religion",
-    "question": "What is the central holy scripture of Sikhism regarded as the eternal Guru as of 2026?",
-    "options": [
-      "Guru Granth Sahib",
-      "Dasam Granth",
-      "Adi Granth",
-      "Guru Panth"
-    ],
-    "answer": "Guru Granth Sahib",
-    "id": "mythology-religion-104"
   },
   {
     "difficulty": "medium",
@@ -3224,32 +3055,6 @@
     "id": "mythology-religion-129"
   },
   {
-    "difficulty": "hard",
-    "category": "mythology-religion",
-    "question": "In Greek myth, who was the ferryman who carried souls across the Styx for a coin?",
-    "options": [
-      "Charon",
-      "Phlegyas",
-      "Thanatos",
-      "Hermes"
-    ],
-    "answer": "Charon",
-    "id": "mythology-religion-130"
-  },
-  {
-    "difficulty": "hard",
-    "category": "mythology-religion",
-    "question": "Which Norse goddess of love and war receives half the slain in her field Folkvangr?",
-    "options": [
-      "Freya",
-      "Frigg",
-      "Idunn",
-      "Skadi"
-    ],
-    "answer": "Freya",
-    "id": "mythology-religion-131"
-  },
-  {
     "difficulty": "medium",
     "category": "mythology-religion",
     "question": "In Finnish mythology, what is the name of the epic compiled by Elias Lönnrot?",
@@ -3354,19 +3159,6 @@
     "id": "mythology-religion-139"
   },
   {
-    "difficulty": "easy",
-    "category": "mythology-religion",
-    "question": "What is the name of the sacred text that contains 114 surahs in Islam?",
-    "options": [
-      "Quran",
-      "Hadith",
-      "Sunnah",
-      "Tafsir"
-    ],
-    "answer": "Quran",
-    "id": "mythology-religion-140"
-  },
-  {
     "difficulty": "medium",
     "category": "mythology-religion",
     "question": "Who is the Jewish prophet who, according to tradition, did not die but ascended to heaven in a chariot of fire?",
@@ -3417,19 +3209,6 @@
     ],
     "answer": "Theia",
     "id": "mythology-religion-144"
-  },
-  {
-    "difficulty": "easy",
-    "category": "mythology-religion",
-    "question": "Which Egyptian queen was depicted with a tall crown of two feathers and associated with motherhood?",
-    "options": [
-      "Isis",
-      "Maat",
-      "Sekhmet",
-      "Nefertiti is not goddess"
-    ],
-    "answer": "Isis",
-    "id": "mythology-religion-145"
   },
   {
     "difficulty": "hard",
@@ -3510,19 +3289,6 @@
     "id": "mythology-religion-151"
   },
   {
-    "difficulty": "hard",
-    "category": "mythology-religion",
-    "question": "Which Pope called the First Crusade at Clermont in 1095?",
-    "options": [
-      "Urban II",
-      "Gregory VII",
-      "Innocent III",
-      "Leo IX"
-    ],
-    "answer": "Urban II",
-    "id": "mythology-religion-152"
-  },
-  {
     "difficulty": "medium",
     "category": "mythology-religion",
     "question": "What is the Japanese term for ritual suicide historically associated with samurai to restore honor?",
@@ -3534,19 +3300,6 @@
     ],
     "answer": "Seppuku",
     "id": "mythology-religion-153"
-  },
-  {
-    "difficulty": "medium",
-    "category": "mythology-religion",
-    "question": "Who was the wife of Osiris and mother of Horus who reassembled his body?",
-    "options": [
-      "Isis",
-      "Nephthys",
-      "Hathor",
-      "Nut"
-    ],
-    "answer": "Isis",
-    "id": "mythology-religion-154"
   },
   {
     "difficulty": "hard",
@@ -3573,19 +3326,6 @@
     ],
     "answer": "Pentecost",
     "id": "mythology-religion-156"
-  },
-  {
-    "difficulty": "easy",
-    "category": "mythology-religion",
-    "question": "In Greek myth, who was the first woman created by Hephaestus on Zeus's orders?",
-    "options": [
-      "Pandora",
-      "Pyrrha",
-      "Hellen",
-      "Calypso"
-    ],
-    "answer": "Pandora",
-    "id": "mythology-religion-157"
   },
   {
     "difficulty": "medium",
@@ -3731,19 +3471,6 @@
     "id": "mythology-religion-168"
   },
   {
-    "difficulty": "easy",
-    "category": "mythology-religion",
-    "question": "Which Egyptian god was depicted as a man with a falcon head wearing the double crown?",
-    "options": [
-      "Horus",
-      "Ra",
-      "Montu",
-      "Khonsu"
-    ],
-    "answer": "Horus",
-    "id": "mythology-religion-169"
-  },
-  {
     "difficulty": "medium",
     "category": "mythology-religion",
     "question": "Which Roman festival honored Saturn with role reversal and gift giving in December?",
@@ -3848,19 +3575,6 @@
     "id": "mythology-religion-177"
   },
   {
-    "difficulty": "easy",
-    "category": "mythology-religion",
-    "question": "What is the name of the Jewish New Year?",
-    "options": [
-      "Rosh Hashanah",
-      "Yom Kippur",
-      "Passover",
-      "Sukkot"
-    ],
-    "answer": "Rosh Hashanah",
-    "id": "mythology-religion-178"
-  },
-  {
     "difficulty": "medium",
     "category": "mythology-religion",
     "question": "Which Islamic collection records the sayings and actions of Prophet Muhammad?",
@@ -3898,19 +3612,6 @@
     ],
     "answer": "Trimurti",
     "id": "mythology-religion-181"
-  },
-  {
-    "difficulty": "easy",
-    "category": "mythology-religion",
-    "question": "Which Greek hero completed twelve labors including slaying the Hydra?",
-    "options": [
-      "Heracles",
-      "Theseus",
-      "Achilles",
-      "Perseus"
-    ],
-    "answer": "Heracles",
-    "id": "mythology-religion-182"
   },
   {
     "difficulty": "hard",
@@ -3991,19 +3692,6 @@
     "id": "mythology-religion-188"
   },
   {
-    "difficulty": "medium",
-    "category": "mythology-religion",
-    "question": "Which Greek goddess is the mother of Persephone and goddess of agriculture?",
-    "options": [
-      "Demeter",
-      "Hestia",
-      "Rhea",
-      "Hera"
-    ],
-    "answer": "Demeter",
-    "id": "mythology-religion-189"
-  },
-  {
     "difficulty": "easy",
     "category": "mythology-religion",
     "question": "What is the name of Thor's belt that doubles his strength in Norse myth?",
@@ -4041,19 +3729,6 @@
     ],
     "answer": "Sekhmet",
     "id": "mythology-religion-192"
-  },
-  {
-    "difficulty": "easy",
-    "category": "mythology-religion",
-    "question": "What is the name of the holy month of fasting in Islam that precedes Shawwal?",
-    "options": [
-      "Ramadan",
-      "Rajab",
-      "Dhu al-Qadah",
-      "Muharram"
-    ],
-    "answer": "Ramadan",
-    "id": "mythology-religion-193"
   },
   {
     "difficulty": "medium",
@@ -4145,19 +3820,6 @@
     ],
     "answer": "Judas Iscariot",
     "id": "mythology-religion-200"
-  },
-  {
-    "difficulty": "medium",
-    "category": "mythology-religion",
-    "question": "Which Hindu text is known as the Song of God and is a dialogue between Krishna and Arjuna?",
-    "options": [
-      "Bhagavad Gita",
-      "Upanishads",
-      "Rigveda",
-      "Atharvaveda"
-    ],
-    "answer": "Bhagavad Gita",
-    "id": "mythology-religion-201"
   },
   {
     "difficulty": "hard",
@@ -4277,19 +3939,6 @@
     "id": "mythology-religion-210"
   },
   {
-    "difficulty": "easy",
-    "category": "mythology-religion",
-    "question": "Which Greek goddess is the goddess of wisdom and warfare, born from Zeus's head?",
-    "options": [
-      "Athena",
-      "Artemis",
-      "Hera",
-      "Demeter"
-    ],
-    "answer": "Athena",
-    "id": "mythology-religion-211"
-  },
-  {
     "difficulty": "medium",
     "category": "mythology-religion",
     "question": "In Islam, what is the name of the well in Mecca near the Kaaba believed to have sprung for Hagar and Ishmael?",
@@ -4329,19 +3978,6 @@
     "id": "mythology-religion-214"
   },
   {
-    "difficulty": "medium",
-    "category": "mythology-religion",
-    "question": "In Hinduism, which festival of colors celebrates the arrival of spring and the love of Radha and Krishna?",
-    "options": [
-      "Holi",
-      "Diwali",
-      "Pongal",
-      "Makar Sankranti"
-    ],
-    "answer": "Holi",
-    "id": "mythology-religion-215"
-  },
-  {
     "difficulty": "hard",
     "category": "mythology-religion",
     "question": "What is the name of the Egyptian Book of the Dead's original Egyptian title translated as Coming Forth by Day?",
@@ -4357,19 +3993,6 @@
   {
     "difficulty": "medium",
     "category": "mythology-religion",
-    "question": "Which Greek god's Roman name is Mercury?",
-    "options": [
-      "Hermes",
-      "Apollo",
-      "Ares",
-      "Dionysus"
-    ],
-    "answer": "Hermes",
-    "id": "mythology-religion-217"
-  },
-  {
-    "difficulty": "medium",
-    "category": "mythology-religion",
     "question": "Who is the mother of the Buddha, who died seven days after his birth?",
     "options": [
       "Maya",
@@ -4379,19 +4002,6 @@
     ],
     "answer": "Maya",
     "id": "mythology-religion-218"
-  },
-  {
-    "difficulty": "easy",
-    "category": "mythology-religion",
-    "question": "What is the name of the elephant-headed Hindu god of beginnings?",
-    "options": [
-      "Ganesha",
-      "Hanuman",
-      "Vishnu",
-      "Brahma"
-    ],
-    "answer": "Ganesha",
-    "id": "mythology-religion-219"
   },
   {
     "difficulty": "medium",
@@ -4431,19 +4041,6 @@
     ],
     "answer": "Tekiah",
     "id": "mythology-religion-222"
-  },
-  {
-    "difficulty": "easy",
-    "category": "mythology-religion",
-    "question": "Who is the Greek messenger of the gods who leads souls to the underworld?",
-    "options": [
-      "Hermes",
-      "Apollo",
-      "Ares",
-      "Hephaestus"
-    ],
-    "answer": "Hermes",
-    "id": "mythology-religion-223"
   },
   {
     "difficulty": "medium",
@@ -4604,19 +4201,6 @@
   {
     "difficulty": "medium",
     "category": "mythology-religion",
-    "question": "Which Titan was condemned to hold up the heavens after the Titanomachy?",
-    "options": [
-      "Atlas",
-      "Hyperion",
-      "Prometheus",
-      "Cronus"
-    ],
-    "answer": "Atlas",
-    "id": "mythology-religion-236"
-  },
-  {
-    "difficulty": "medium",
-    "category": "mythology-religion",
     "question": "Which nymph was transformed into a laurel tree to escape Apollo?",
     "options": [
       "Io",
@@ -4639,19 +4223,6 @@
     ],
     "answer": "Graeae",
     "id": "mythology-religion-238"
-  },
-  {
-    "difficulty": "easy",
-    "category": "mythology-religion",
-    "question": "Who was chained to a rock for giving fire to humanity?",
-    "options": [
-      "Atlas",
-      "Epimetheus",
-      "Hephaestus",
-      "Prometheus"
-    ],
-    "answer": "Prometheus",
-    "id": "mythology-religion-239"
   },
   {
     "difficulty": "medium",
@@ -4680,19 +4251,6 @@
     "id": "mythology-religion-241"
   },
   {
-    "difficulty": "easy",
-    "category": "mythology-religion",
-    "question": "Who was the ferryman who carried souls across the rivers of the underworld?",
-    "options": [
-      "Hermes",
-      "Charon",
-      "Thanatos",
-      "Cerberus"
-    ],
-    "answer": "Charon",
-    "id": "mythology-religion-242"
-  },
-  {
     "difficulty": "medium",
     "category": "mythology-religion",
     "question": "Which river of the Greek underworld caused dead souls to forget past lives?",
@@ -4704,19 +4262,6 @@
     ],
     "answer": "Lethe",
     "id": "mythology-religion-243"
-  },
-  {
-    "difficulty": "easy",
-    "category": "mythology-religion",
-    "question": "Which hero retrieved the Golden Fleece from Colchis?",
-    "options": [
-      "Jason",
-      "Heracles",
-      "Theseus",
-      "Perseus"
-    ],
-    "answer": "Jason",
-    "id": "mythology-religion-244"
   },
   {
     "difficulty": "easy",
@@ -4743,19 +4288,6 @@
     ],
     "answer": "Cerberus",
     "id": "mythology-religion-246"
-  },
-  {
-    "difficulty": "medium",
-    "category": "mythology-religion",
-    "question": "Which Theban monster posed a riddle about a creature that walks on four, two, then three legs?",
-    "options": [
-      "Minotaur",
-      "Harpy",
-      "Sphinx",
-      "Sirens"
-    ],
-    "answer": "Sphinx",
-    "id": "mythology-religion-247"
   },
   {
     "difficulty": "medium",
@@ -4808,32 +4340,6 @@
     ],
     "answer": "Perseus",
     "id": "mythology-religion-251"
-  },
-  {
-    "difficulty": "hard",
-    "category": "mythology-religion",
-    "question": "Which Greek god's sacred staff entwined with two serpents is called the kerykeion?",
-    "options": [
-      "Asclepius",
-      "Iris",
-      "Hermes",
-      "Apollo"
-    ],
-    "answer": "Hermes",
-    "id": "mythology-religion-252"
-  },
-  {
-    "difficulty": "medium",
-    "category": "mythology-religion",
-    "question": "Who was the first woman created by Hephaestus at Zeus's command?",
-    "options": [
-      "Pyrrha",
-      "Helen",
-      "Niobe",
-      "Pandora"
-    ],
-    "answer": "Pandora",
-    "id": "mythology-religion-253"
   },
   {
     "difficulty": "easy",
@@ -5176,19 +4682,6 @@
   {
     "difficulty": "easy",
     "category": "mythology-religion",
-    "question": "Which Egyptian goddess is depicted as a cat or cat-headed woman and protects households?",
-    "options": [
-      "Mut",
-      "Sekhmet",
-      "Bastet",
-      "Hathor"
-    ],
-    "answer": "Bastet",
-    "id": "mythology-religion-280"
-  },
-  {
-    "difficulty": "easy",
-    "category": "mythology-religion",
     "question": "Which city in Lower Egypt was the center of Bastet worship?",
     "options": [
       "Abydos",
@@ -5198,19 +4691,6 @@
     ],
     "answer": "Bubastis",
     "id": "mythology-religion-281"
-  },
-  {
-    "difficulty": "medium",
-    "category": "mythology-religion",
-    "question": "Which Egyptian god with a jackal head embalmed Osiris and guides the dead?",
-    "options": [
-      "Khnum",
-      "Wepwawet",
-      "Anubis",
-      "Set"
-    ],
-    "answer": "Anubis",
-    "id": "mythology-religion-282"
   },
   {
     "difficulty": "medium",
@@ -5501,19 +4981,6 @@
   {
     "difficulty": "easy",
     "category": "mythology-religion",
-    "question": "Which monkey deity is known as son of Vayu and devoted to Rama?",
-    "options": [
-      "Hanuman",
-      "Sugriva",
-      "Vali",
-      "Jambavan"
-    ],
-    "answer": "Hanuman",
-    "id": "mythology-religion-305"
-  },
-  {
-    "difficulty": "easy",
-    "category": "mythology-religion",
     "question": "Which bird-like creature is the mount of Vishnu?",
     "options": [
       "Garuda",
@@ -5588,19 +5055,6 @@
     ],
     "answer": "Lakshmi",
     "id": "mythology-religion-311"
-  },
-  {
-    "difficulty": "easy",
-    "category": "mythology-religion",
-    "question": "Which elephant-headed god is invoked first before any Hindu ritual?",
-    "options": [
-      "Indra",
-      "Agni",
-      "Kartikeya",
-      "Ganesha"
-    ],
-    "answer": "Ganesha",
-    "id": "mythology-religion-312"
   },
   {
     "difficulty": "medium",
@@ -6227,19 +5681,6 @@
     "id": "mythology-religion-360"
   },
   {
-    "difficulty": "medium",
-    "category": "mythology-religion",
-    "question": "Which Jewish new year marks start of High Holy Days?",
-    "options": [
-      "Hanukkah",
-      "Passover",
-      "Yom Kippur",
-      "Rosh Hashanah"
-    ],
-    "answer": "Rosh Hashanah",
-    "id": "mythology-religion-361"
-  },
-  {
     "difficulty": "easy",
     "category": "mythology-religion",
     "question": "What does the shofar blown on Rosh Hashanah consist of?",
@@ -6359,19 +5800,6 @@
   {
     "difficulty": "medium",
     "category": "mythology-religion",
-    "question": "What is Islamic term for pilgrimage to Mecca every able Muslim should perform?",
-    "options": [
-      "Umrah",
-      "Ziyara",
-      "Hajj",
-      "Hijra"
-    ],
-    "answer": "Hajj",
-    "id": "mythology-religion-371"
-  },
-  {
-    "difficulty": "medium",
-    "category": "mythology-religion",
     "question": "In Judaism, what is name of citron fruit waved during Sukkot?",
     "options": [
       "Hadas",
@@ -6420,19 +5848,6 @@
     ],
     "answer": "New Testament",
     "id": "mythology-religion-375"
-  },
-  {
-    "difficulty": "easy",
-    "category": "mythology-religion",
-    "question": "Which city is considered holy in Judaism, Christianity and Islam?",
-    "options": [
-      "Nazareth",
-      "Bethlehem",
-      "Jerusalem",
-      "Hebron"
-    ],
-    "answer": "Jerusalem",
-    "id": "mythology-religion-376"
   },
   {
     "difficulty": "medium",
@@ -6786,19 +6201,6 @@
     "id": "mythology-religion-403"
   },
   {
-    "difficulty": "easy",
-    "category": "mythology-religion",
-    "question": "Which Roman goddess is equivalent to Greek Aphrodite?",
-    "options": [
-      "Juno",
-      "Diana",
-      "Minerva",
-      "Venus"
-    ],
-    "answer": "Venus",
-    "id": "mythology-religion-404"
-  },
-  {
     "difficulty": "medium",
     "category": "mythology-religion",
     "question": "Which Roman god Janus is depicted with how many faces?",
@@ -6940,19 +6342,6 @@
     ],
     "answer": "Minotaur",
     "id": "mythology-religion-415"
-  },
-  {
-    "difficulty": "medium",
-    "category": "mythology-religion",
-    "question": "Which Greek hero completed twelve labors for Eurystheus?",
-    "options": [
-      "Jason",
-      "Perseus",
-      "Heracles",
-      "Theseus"
-    ],
-    "answer": "Heracles",
-    "id": "mythology-religion-416"
   },
   {
     "difficulty": "medium",
