@@ -113,5 +113,10 @@
   "history-643": "duplicate of orphan history-812 (both Hungarian Uprising crushed by Soviets, 1956) -- 812 has no chunk in this pass",
   "history-644": "duplicate of orphan history-815 (both Warsaw Pact invasion of Czechoslovakia ending Prague Spring, 1968) -- 815 has no chunk in this pass",
   "history-646": "duplicate of orphan history-811 (both Kenya independence from Britain, 1963) -- 811 has no chunk in this pass",
-  "history-668": "duplicate of orphan history-937 (both Ashurbanipal's library at Nineveh) -- 937 has no chunk in this pass"
+  "history-668": "duplicate of orphan history-937 (both Ashurbanipal's library at Nineveh) -- 937 has no chunk in this pass",
+  "music-619": "Duplicate of music-150 (same fact: Paul Desmond composed 'Take Five' for the Dave Brubeck Quartet). music-619 is an orphan (no chunk); when it surfaces via append-orphans, cut it in favor of already-reviewed music-150.",
+  "music-797": "Duplicate of music-051 (same fact: Chopin wrote almost exclusively for piano). music-797 is an orphan (no chunk); when it surfaces via append-orphans, cut it in favor of already-reviewed music-051.",
+  "music-804": "Duplicate of music-024 (same fact: Puccini's Turandot left unfinished at his 1924 death, completed by Franco Alfano). music-804 is an orphan (no chunk); when it surfaces via append-orphans, cut it in favor of already-reviewed music-024.",
+  "music-806": "Duplicate of music-133 (same fact: Ballets Russes premiered/commissioned Stravinsky's The Firebird in 1910). music-806 is an orphan (no chunk); when it surfaces via append-orphans, cut it in favor of already-reviewed music-133.",
+  "music-917": "Duplicate of music-075 (same fact: Beyoncé holds record for most Grammy wins overall). music-917 is an orphan (no chunk); when it surfaces via append-orphans, cut it in favor of already-reviewed music-075."
 }

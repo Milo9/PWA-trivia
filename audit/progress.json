@@ -12459,11 +12459,11 @@
         "music-046",
         "music-047"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 5,
+      "notes": "Fixed Kind of Blue session count (2, not 3) and reworded Haydn Surprise Symphony patron-snoring anecdote (fabricated specific, softened to popular-legend framing). Cut 4 duplicates against already-reviewed general questions: general-2330 (Swan Lake/Tchaikovsky vs general-257), general-2336 (Marriage of Figaro/Mozart vs general-360), general-2421 (Moonlight Sonata/Beethoven vs general-577), general-2491 (Dark Side of the Moon/Pink Floyd vs general-358). Logged backlog note for music-804 (orphan) duplicating music-024 (Turandot/Puccini)."
     },
     {
       "chunkId": "music-p1-005",
@@ -12520,11 +12520,11 @@
         "music-106",
         "music-107"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 0,
+      "notes": "No factual errors found; verified via WebSearch: drum kit 1860s US origin, OK Computer Japan release ~1 month early, Blinding Lights as most-streamed Spotify song as of 2026. Logged 2 backlog notes for orphan duplicates: music-797 (dup of music-051, Chopin/piano) and music-917 (dup of music-075, Beyonce Grammy record)."
     },
     {
       "chunkId": "music-p1-006",
@@ -12581,11 +12581,11 @@
         "music-225",
         "music-226"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 3,
+      "notes": "Fixed music-221 distractor-correctness bug: first solo female rapper to win Grammy Best Rap Album is Cardi B (2019, Invasion of Privacy), not Lauryn Hill -- verified via WebSearch (Lauryn Hill's Miseducation won Album of the Year, a different category, which music-855 already covers correctly). Verified via WebSearch: DSOTM Billboard 200 weeks (996+ as of 2026, 'over 950' holds), Kraftwerk Autobahn November 1974 release. Logged 2 backlog notes for orphan duplicates: music-619 (dup of music-150, Take Five/Paul Desmond) and music-806 (dup of music-133, Firebird/Ballets Russes)."
     },
     {
       "chunkId": "music-p1-007",

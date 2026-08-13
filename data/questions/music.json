@@ -1521,45 +1521,6 @@
     "answer": "Trumpet"
   },
   {
-    "id": "general-2330",
-    "category": "music",
-    "difficulty": "medium",
-    "question": "Who wrote the music for the ballet 'Swan Lake'?",
-    "options": [
-      "Pyotr Ilyich Tchaikovsky",
-      "Igor Stravinsky",
-      "Sergei Prokofiev",
-      "Modest Mussorgsky"
-    ],
-    "answer": "Pyotr Ilyich Tchaikovsky"
-  },
-  {
-    "id": "general-2336",
-    "category": "music",
-    "difficulty": "medium",
-    "question": "Which composer is known for 'The Marriage of Figaro' and 'Don Giovanni'?",
-    "options": [
-      "Wolfgang Amadeus Mozart",
-      "Ludwig van Beethoven",
-      "Franz Joseph Haydn",
-      "Gioachino Rossini"
-    ],
-    "answer": "Wolfgang Amadeus Mozart"
-  },
-  {
-    "id": "general-2421",
-    "category": "music",
-    "difficulty": "medium",
-    "question": "Which composer is known for the 'Moonlight Sonata'?",
-    "options": [
-      "Ludwig van Beethoven",
-      "Frederic Chopin",
-      "Franz Liszt",
-      "Johannes Brahms"
-    ],
-    "answer": "Ludwig van Beethoven"
-  },
-  {
     "id": "general-2490",
     "category": "music",
     "difficulty": "hard",
@@ -1571,19 +1532,6 @@
       "Camille Saint-Saens"
     ],
     "answer": "Claude Debussy"
-  },
-  {
-    "id": "general-2491",
-    "category": "music",
-    "difficulty": "medium",
-    "question": "Which band recorded the album 'Dark Side of the Moon'?",
-    "options": [
-      "Pink Floyd",
-      "Led Zeppelin",
-      "The Who",
-      "Genesis"
-    ],
-    "answer": "Pink Floyd"
   },
   {
     "id": "general-2492",
@@ -2109,14 +2057,14 @@
     "id": "music-015",
     "category": "music",
     "difficulty": "medium",
-    "question": "Joseph Haydn's Symphony No. 94 is commonly known as the 'Surprise Symphony.' According to one account, Haydn was inspired to add the sudden fortissimo chord after hearing a front-row patron doing what?",
+    "question": "Joseph Haydn's Symphony No. 94 is commonly known as the 'Surprise Symphony' because of a sudden fortissimo chord inserted into an otherwise quiet second movement. According to popular legend, this was meant to startle audience members who tended to do what during such passages?",
     "options": [
-      "Coughing",
-      "Leaving",
-      "Talking",
-      "Snoring"
+      "Cough",
+      "Leave early",
+      "Talk loudly",
+      "Doze off"
     ],
-    "answer": "Snoring"
+    "answer": "Doze off"
   },
   {
     "id": "music-016",
@@ -2503,10 +2451,10 @@
     "options": [
       "One",
       "Five",
-      "Three",
+      "Two",
       "Seven"
     ],
-    "answer": "Three"
+    "answer": "Two"
   },
   {
     "id": "music-046",
@@ -4794,7 +4742,7 @@
       "Nicki Minaj",
       "Missy Elliott"
     ],
-    "answer": "Lauryn Hill"
+    "answer": "Cardi B"
   },
   {
     "id": "music-222",
