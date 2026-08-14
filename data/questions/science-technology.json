@@ -3445,19 +3445,6 @@
     "answer": "Taxonomy"
   },
   {
-    "id": "general-1930",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "What is the second-largest organ in the human body by mass?",
-    "options": [
-      "Liver",
-      "Lungs",
-      "Brain",
-      "Heart"
-    ],
-    "answer": "Liver"
-  },
-  {
     "id": "general-1933",
     "category": "science-technology",
     "difficulty": "hard",
@@ -3601,32 +3588,6 @@
     "answer": "Evaporation"
   },
   {
-    "id": "general-1955",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "Which scientist is credited with developing the periodic table of elements?",
-    "options": [
-      "Dmitri Mendeleev",
-      "Antoine Lavoisier",
-      "Marie Curie",
-      "John Dalton"
-    ],
-    "answer": "Dmitri Mendeleev"
-  },
-  {
-    "id": "general-1959",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "Which layer of the Earth, found beneath the crust, is made mostly of hot, semi-solid rock?",
-    "options": [
-      "Mantle",
-      "Outer core",
-      "Inner core",
-      "Lithosphere"
-    ],
-    "answer": "Mantle"
-  },
-  {
     "id": "general-1961",
     "category": "science-technology",
     "difficulty": "medium",
@@ -3638,19 +3599,6 @@
       "Citric acid"
     ],
     "answer": "Hydrochloric acid"
-  },
-  {
-    "id": "general-1962",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "What is the unit used to measure the intensity of sound?",
-    "options": [
-      "Decibel",
-      "Hertz",
-      "Watt",
-      "Pascal"
-    ],
-    "answer": "Decibel"
   },
   {
     "id": "general-1963",
@@ -3703,19 +3651,6 @@
       "Valence number"
     ],
     "answer": "Atomic number"
-  },
-  {
-    "id": "general-1970",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "What is the process called by which a cell divides to form two identical daughter cells?",
-    "options": [
-      "Mitosis",
-      "Meiosis",
-      "Osmosis",
-      "Diffusion"
-    ],
-    "answer": "Mitosis"
   },
   {
     "id": "general-1971",
@@ -3861,19 +3796,6 @@
     "answer": "Facebook"
   },
   {
-    "id": "general-2188",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "What does the abbreviation 'USB' stand for?",
-    "options": [
-      "Universal Serial Bus",
-      "United Serial Bus",
-      "Universal System Bus",
-      "Unified Serial Bus"
-    ],
-    "answer": "Universal Serial Bus"
-  },
-  {
     "id": "general-2191",
     "category": "science-technology",
     "difficulty": "easy",
@@ -3937,19 +3859,6 @@
       "M"
     ],
     "answer": "X"
-  },
-  {
-    "id": "general-2196",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "What does 'PDF' stand for?",
-    "options": [
-      "Portable Document Format",
-      "Printable Document File",
-      "Personal Data File",
-      "Portable Data Format"
-    ],
-    "answer": "Portable Document Format"
   },
   {
     "id": "general-2197",
@@ -4095,19 +4004,6 @@
     "answer": "Liver"
   },
   {
-    "id": "general-2272",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "What does 'HTTP' stand for?",
-    "options": [
-      "HyperText Transfer Protocol",
-      "High Transfer Text Protocol",
-      "HyperText Transmission Process",
-      "Home Tool Transfer Protocol"
-    ],
-    "answer": "HyperText Transfer Protocol"
-  },
-  {
     "id": "general-2287",
     "category": "science-technology",
     "difficulty": "medium",
@@ -4235,20 +4131,7 @@
       "Deposition",
       "Weathering"
     ],
-    "answer": "Erosion"
-  },
-  {
-    "id": "general-2351",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "Which element is denoted by the chemical symbol 'Fe'?",
-    "options": [
-      "Iron",
-      "Fluorine",
-      "Francium",
-      "Fermium"
-    ],
-    "answer": "Iron"
+    "answer": "Weathering"
   },
   {
     "id": "general-2354",
@@ -4275,19 +4158,6 @@
       "Nonagon"
     ],
     "answer": "Octagon"
-  },
-  {
-    "id": "general-2360",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "What is the name for the study of earthquakes?",
-    "options": [
-      "Seismology",
-      "Geology",
-      "Volcanology",
-      "Meteorology"
-    ],
-    "answer": "Seismology"
   },
   {
     "id": "general-2362",
@@ -4407,19 +4277,6 @@
     "answer": "Helium"
   },
   {
-    "id": "general-2396",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "Which famous scientist developed the periodic table of elements?",
-    "options": [
-      "Dmitri Mendeleev",
-      "Marie Curie",
-      "Antoine Lavoisier",
-      "John Dalton"
-    ],
-    "answer": "Dmitri Mendeleev"
-  },
-  {
     "id": "general-2401",
     "category": "science-technology",
     "difficulty": "easy",
@@ -4485,32 +4342,6 @@
     "answer": "E=mc^2"
   },
   {
-    "id": "general-2459",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "What is the term for the change in wave frequency due to relative motion between a source and observer?",
-    "options": [
-      "The Doppler effect",
-      "Diffraction",
-      "Refraction",
-      "Interference"
-    ],
-    "answer": "The Doppler effect"
-  },
-  {
-    "id": "general-2461",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "Which gas, when inhaled in large amounts, causes euphoria and is used as a mild anesthetic, sometimes called 'laughing gas'?",
-    "options": [
-      "Nitrous oxide",
-      "Carbon monoxide",
-      "Methane",
-      "Helium"
-    ],
-    "answer": "Nitrous oxide"
-  },
-  {
     "id": "general-2462",
     "category": "science-technology",
     "difficulty": "medium",
@@ -4522,19 +4353,6 @@
       "Redox reaction"
     ],
     "answer": "Exothermic reaction"
-  },
-  {
-    "id": "general-2463",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "Which scientist is known for his experiments with pea plants that founded modern genetics?",
-    "options": [
-      "Gregor Mendel",
-      "Charles Darwin",
-      "James Watson",
-      "Francis Crick"
-    ],
-    "answer": "Gregor Mendel"
   },
   {
     "id": "general-2465",
@@ -4576,32 +4394,6 @@
     "answer": "Thomas Newcomen"
   },
   {
-    "id": "general-2513",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "Which programming language is named after a type of coffee bean and was developed by Sun Microsystems?",
-    "options": [
-      "Java",
-      "Python",
-      "C++",
-      "Ruby"
-    ],
-    "answer": "Java"
-  },
-  {
-    "id": "general-2514",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "Who invented the World Wide Web while working at CERN?",
-    "options": [
-      "Tim Berners-Lee",
-      "Vint Cerf",
-      "Robert Cailliau",
-      "Larry Page"
-    ],
-    "answer": "Tim Berners-Lee"
-  },
-  {
     "id": "general-2515",
     "category": "science-technology",
     "difficulty": "medium",
@@ -4613,19 +4405,6 @@
       "Tandy"
     ],
     "answer": "Apple"
-  },
-  {
-    "id": "general-2516",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "Who is credited with inventing the first practical incandescent light bulb filament made of carbonized bamboo?",
-    "options": [
-      "Thomas Edison",
-      "Joseph Swan",
-      "Nikola Tesla",
-      "Humphry Davy"
-    ],
-    "answer": "Thomas Edison"
   },
   {
     "id": "general-2525",
@@ -4667,19 +4446,6 @@
     "answer": "Geomagnetic reversal"
   },
   {
-    "id": "general-2551",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "Which scientist developed the polio vaccine in 1955?",
-    "options": [
-      "Jonas Salk",
-      "Louis Pasteur",
-      "Alexander Fleming",
-      "Edward Jenner"
-    ],
-    "answer": "Jonas Salk"
-  },
-  {
     "id": "general-2552",
     "category": "science-technology",
     "difficulty": "medium",
@@ -4719,19 +4485,6 @@
     "answer": "The ionosphere"
   },
   {
-    "id": "general-2555",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "Which unit measures the loudness of sound?",
-    "options": [
-      "Decibel",
-      "Hertz",
-      "Watt",
-      "Pascal"
-    ],
-    "answer": "Decibel"
-  },
-  {
     "id": "general-2585",
     "category": "science-technology",
     "difficulty": "medium",
@@ -4756,19 +4509,6 @@
       "IBM"
     ],
     "answer": "Software Arts"
-  },
-  {
-    "id": "general-2592",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "What is the term for a triangle with no two sides of equal length?",
-    "options": [
-      "Scalene triangle",
-      "Isosceles triangle",
-      "Equilateral triangle",
-      "Right triangle"
-    ],
-    "answer": "Scalene triangle"
   },
   {
     "id": "general-2594",
@@ -4899,19 +4639,6 @@
       "Brackish water"
     ],
     "answer": "Hard water"
-  },
-  {
-    "id": "general-2613",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "Which scientist developed the polio vaccine first successfully tested in 1952?",
-    "options": [
-      "Jonas Salk",
-      "Albert Sabin",
-      "Louis Pasteur",
-      "Robert Koch"
-    ],
-    "answer": "Jonas Salk"
   },
   {
     "id": "general-2614",
@@ -5049,12 +4776,12 @@
     "difficulty": "medium",
     "question": "Louis Braille based his raised-dot reading system for the blind on an earlier military communication method called what?",
     "options": [
-      "Night writing, a code for silent battlefield communication",
+      "Night writing",
       "Flag semaphore",
       "Trench tapping code",
       "Cipher wheel writing"
     ],
-    "answer": "Night writing, a code for silent battlefield communication"
+    "answer": "Night writing"
   },
   {
     "id": "general-2768",
@@ -5101,25 +4828,12 @@
     "difficulty": "medium",
     "question": "The 'Penny Black', issued in Britain in 1840, is notable in postal history as the world's first what?",
     "options": [
-      "Adhesive postage stamp for a public mail service",
+      "Adhesive postage stamp",
       "Postcard",
       "Airmail letter",
       "Illustrated stamp"
     ],
-    "answer": "Adhesive postage stamp for a public mail service"
-  },
-  {
-    "id": "general-2773",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "Samuel Morse's first long-distance telegraph message in 1844, sent from Washington to Baltimore, famously quoted what phrase?",
-    "options": [
-      "What hath God wrought",
-      "Come here, I want you",
-      "The eagle has landed",
-      "One small step"
-    ],
-    "answer": "What hath God wrought"
+    "answer": "Adhesive postage stamp"
   },
   {
     "id": "general-2775",
@@ -5395,19 +5109,6 @@
     "answer": "A metal detector"
   },
   {
-    "id": "general-2836",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "Leonardo da Vinci is often credited with designing an early version of what everyday cutting tool?",
-    "options": [
-      "Scissors",
-      "The can opener",
-      "The pencil sharpener",
-      "The paper cutter"
-    ],
-    "answer": "Scissors"
-  },
-  {
     "id": "general-2838",
     "category": "science-technology",
     "difficulty": "medium",
@@ -5465,7 +5166,7 @@
     "difficulty": "medium",
     "question": "Which letter of the alphabet does not appear anywhere on the periodic table?",
     "options": [
-      "Q",
+      "K",
       "J",
       "X",
       "Z"
@@ -5549,19 +5250,6 @@
       "Brendan Eich"
     ],
     "answer": "Guido van Rossum"
-  },
-  {
-    "id": "general-2927",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "Who is widely regarded as the first computer programmer for her work on Charles Babbage's Analytical Engine?",
-    "options": [
-      "Grace Hopper",
-      "Ada Lovelace",
-      "Hedy Lamarr",
-      "Katherine Johnson"
-    ],
-    "answer": "Ada Lovelace"
   },
   {
     "id": "general-2928",
@@ -5684,12 +5372,12 @@
     "id": "science-technology-001",
     "category": "science-technology",
     "difficulty": "medium",
-    "question": "Which element, formerly known as columbium, was later renamed niobium?",
+    "question": "The element now known as niobium was historically called by what alternative name, especially in the United States?",
     "options": [
-      "Copernicium",
       "Columbium",
-      "Curium",
-      "Chromium"
+      "Tantalum",
+      "Vanadium",
+      "Zirconium"
     ],
     "answer": "Columbium"
   },
@@ -5835,19 +5523,6 @@
       "Automated Personal File Storage"
     ],
     "answer": "Apple File System"
-  },
-  {
-    "id": "science-technology-013",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "What mineral has a hardness of 9 on the Mohs scale?",
-    "options": [
-      "Topaz",
-      "Quartz",
-      "Corundum",
-      "Diamond"
-    ],
-    "answer": "Corundum"
   },
   {
     "id": "science-technology-014",
@@ -6386,14 +6061,14 @@
     "id": "science-technology-055",
     "category": "science-technology",
     "difficulty": "medium",
-    "question": "Alfred Nobel discovered that nitroglycerin could be stabilized by mixing it with what common material, leading to the invention of dynamite?",
+    "question": "Alfred Nobel discovered that nitroglycerin could be safely stabilized by mixing it with what porous material, leading to the invention of dynamite?",
     "options": [
+      "Kieselguhr (diatomaceous earth)",
       "Sawdust",
-      "Sand",
-      "Clay",
-      "Charcoal"
+      "Charcoal",
+      "Brick dust"
     ],
-    "answer": "Sawdust"
+    "answer": "Kieselguhr (diatomaceous earth)"
   },
   {
     "id": "science-technology-056",
@@ -6656,32 +6331,6 @@
     "answer": "2007"
   },
   {
-    "id": "science-technology-077",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "What is the largest solid internal organ in the human body?",
-    "options": [
-      "Lungs",
-      "Liver",
-      "Brain",
-      "Kidneys"
-    ],
-    "answer": "Liver"
-  },
-  {
-    "id": "science-technology-078",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "How many bones are in a single human hand (excluding sesamoid bones)?",
-    "options": [
-      "21",
-      "24",
-      "27",
-      "30"
-    ],
-    "answer": "27"
-  },
-  {
     "id": "science-technology-079",
     "category": "science-technology",
     "difficulty": "hard",
@@ -6864,19 +6513,6 @@
     "answer": "1983"
   },
   {
-    "id": "science-technology-093",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "Who formulated the law of universal gravitation?",
-    "options": [
-      "Isaac Newton",
-      "Galileo Galilei",
-      "Johannes Kepler",
-      "Nicolaus Copernicus"
-    ],
-    "answer": "Isaac Newton"
-  },
-  {
     "id": "science-technology-094",
     "category": "science-technology",
     "difficulty": "hard",
@@ -6981,19 +6617,6 @@
     "answer": "Richard Lillehei"
   },
   {
-    "id": "science-technology-102",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "Who is credited with creating the first periodic table of elements?",
-    "options": [
-      "John Dalton",
-      "Antoine Lavoisier",
-      "Robert Boyle",
-      "Dmitri Mendeleev"
-    ],
-    "answer": "Dmitri Mendeleev"
-  },
-  {
     "id": "science-technology-103",
     "category": "science-technology",
     "difficulty": "medium",
@@ -7031,19 +6654,6 @@
       "Bob Kahn"
     ],
     "answer": "Ray Tomlinson"
-  },
-  {
-    "id": "science-technology-106",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "Who is generally credited with inventing the first practical incandescent light bulb?",
-    "options": [
-      "Joseph Swan",
-      "Nikola Tesla",
-      "Thomas Edison",
-      "Humphry Davy"
-    ],
-    "answer": "Thomas Edison"
   },
   {
     "id": "science-technology-107",
@@ -13782,19 +13392,6 @@
   {
     "difficulty": "easy",
     "category": "science-technology",
-    "question": "Which noble gas is used to fill modern incandescent light bulbs to prevent filament oxidation?",
-    "options": [
-      "Helium",
-      "Neon",
-      "Argon",
-      "Krypton"
-    ],
-    "answer": "Argon",
-    "id": "science-technology-629"
-  },
-  {
-    "difficulty": "easy",
-    "category": "science-technology",
     "question": "What does the SI derived unit tesla measure?",
     "options": [
       "Magnetic flux density",
@@ -15951,19 +15548,6 @@
     "id": "science-technology-798"
   },
   {
-    "difficulty": "easy",
-    "category": "science-technology",
-    "question": "What element is added to iron to make steel, typically 0.02% to 2% by weight?",
-    "options": [
-      "Manganese",
-      "Carbon",
-      "Chromium",
-      "Nickel"
-    ],
-    "answer": "Carbon",
-    "id": "science-technology-799"
-  },
-  {
     "difficulty": "hard",
     "category": "science-technology",
     "question": "Which element has atomic number 92?",
@@ -16547,19 +16131,6 @@
     ],
     "answer": "Helicase",
     "id": "science-technology-846"
-  },
-  {
-    "difficulty": "easy",
-    "category": "science-technology",
-    "question": "What is the scientific name for the collarbone?",
-    "options": [
-      "Scapula",
-      "Clavicle",
-      "Fibula",
-      "Sternum"
-    ],
-    "answer": "Clavicle",
-    "id": "science-technology-847"
   },
   {
     "difficulty": "medium",

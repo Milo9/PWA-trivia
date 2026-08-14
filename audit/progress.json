@@ -13869,11 +13869,11 @@
         "general-2553",
         "general-2555"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 21,
+      "notes": "Fixed 1 factual error verified via WebSearch (general-2347 mismarked 'Erosion' as the answer for 'process by which rocks are broken down by wind, water, or ice' -- that description is weathering, not erosion, which is the transport of already-weathered material; corrected answer to Weathering). Cut 20 duplicates: 18 against already-done siblings elsewhere in science-technology/general/history (organ-size liver x1, periodic-table-Mendeleev x2, Earth-mantle, decibel-loudness x2, mitosis, USB, PDF, HTTP, Fe-symbol, seismology, Doppler-effect, laughing-gas, Mendel-pea-plants, Java-coffee-name, WWW-inventor, Edison-lightbulb) plus 2 orphan duplicates cut directly since their sibling has no chunk and will never surface via next (science-technology-847 collarbone vs general-2465; general-4186 decagon vs general-2525, cut from general.json). No other factual errors or answer-leaks found among the 50 questions."
     },
     {
       "chunkId": "science-technology-p1-009",
@@ -13930,11 +13930,11 @@
         "science-technology-012",
         "science-technology-013"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 11,
+      "notes": "Fixed 4 factual/quality issues: general-2836 cut (Leonardo da Vinci 'invented an early version of scissors' is a well-documented myth -- scissors existed 4000+ years earlier in the Middle East and ancient Rome; verified via WebSearch, no confident replacement fact found so cut rather than reword); general-2916 fixed a genuine distractor-correctness bug (both J and Q are actually absent from the entire periodic table per WebSearch, but Q was offered as a 'wrong' distractor alongside correct answer J -- swapped Q for K to leave a single true answer among the options); science-technology-001 reworded a self-answering/broken question (original stem gave away 'columbium' as the answer within its own text and none of the 4 options was actually 'niobium', the element the question ostensibly asked to identify -- reworded to ask what niobium was historically called in the US, with chemically-relevant distractors); trimmed 2 answer-leaks flagged by audit tooling (general-2767 Braille 'night writing', general-2771 Penny Black 'adhesive postage stamp' -- both had a full explanatory-sentence correct answer next to short plain distractors). Verified via WebSearch and kept as-is: science-technology-006's Apple Lisa 'Local Integrated Software Architatecture' backronym (confirmed accurate) and general-2805's zipper/tobacco-pouches 1920s popularization claim (confirmed accurate). Cut 6 duplicates against already-done siblings (scalene-triangle, Salk-polio-1952-first-test vs already-cut-adjacent 1955-announcement fact, Morse-telegraph-first-message, Ada-Lovelace-first-programmer, Corundum-Mohs-9) plus 1 orphan (science-technology-629, argon-in-lightbulbs, cut directly since its sibling general-2603 has no chunk and would never surface via next). No other factual errors found among the 50 questions."
     },
     {
       "chunkId": "science-technology-p1-010",
@@ -13991,11 +13991,11 @@
         "science-technology-115",
         "science-technology-116"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 7,
+      "notes": "Fixed 1 factual error verified via WebSearch (science-technology-055 wrongly marked 'Sawdust' as the material Nobel stabilized nitroglycerin with to invent dynamite -- sawdust was actually one of several materials he tried and abandoned; the real answer is kieselguhr/diatomaceous earth, so reworded the question and swapped in the correct answer while keeping sawdust and charcoal as historically-accurate failed-attempt distractors). Verified and confirmed accurate on a second uncertain claim: Astatine as the rarest naturally-occurring element in Earth's crust (science-technology-113, confirmed via WebSearch it's ~600-1000x rarer than the next contender, promethium). Cut 6 duplicates: 5 against already-done siblings elsewhere in science-technology/general/history (largest-internal-organ-liver, 27-bones-in-hand, Newton-universal-gravitation, periodic-table-Mendeleev, Edison-lightbulb) plus 1 pair of mutually-orphaned duplicates discovered incidentally via the same-answer index while reviewing science-technology-073 (science-technology-615/799, both 'steel is iron+carbon' -- cut 799, kept 615, since neither has a chunk and this pair would otherwise never resurface). No other factual errors or answer-leaks found among the 50 questions. Ran npm run validate after all 3 chunks this session (008-010): 0 errors, no new warnings involving any touched IDs."
     },
     {
       "chunkId": "science-technology-p1-011",
