@@ -14052,11 +14052,11 @@
         "science-technology-226",
         "science-technology-227"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 1,
+      "notes": "Cut 1 duplicate (science-technology-207 vs already-fixed science-technology-055, Nobel dynamite/kieselguhr). Logged 5 backlog notes for duplicates whose sibling is orphaned (174/677 tibia, 186/855 DNS, 187/867 GUI, 227/825 pepsin, 149/846 helicase). No factual errors found."
     },
     {
       "chunkId": "science-technology-p1-012",
@@ -14113,11 +14113,11 @@
         "science-technology-322",
         "science-technology-325"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 1,
+      "notes": "Cut 1 duplicate (science-technology-287 vs already-done science-technology-514, RSA public-key cryptosystem). Logged 7 backlog notes for duplicates whose sibling is orphaned (229/794 formic acid, 243/835 carpal bones, 270/674 cranial nerves, 291/894 diesel engine, 303/861 quicksort, 320/763 Snell's law, 322/general-4192 golden ratio). science-technology-499/500 (Bluetooth/Wi-Fi dupes of 305/306) and science-technology-670 not logged since siblings are pending and will self-resolve. No factual errors found."
     },
     {
       "chunkId": "science-technology-p1-013",
@@ -14174,11 +14174,11 @@
         "science-technology-442",
         "science-technology-443"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-13",
+      "completedAt": "2026-08-13",
+      "issuesFound": 3,
+      "notes": "Cut 3 duplicates: science-technology-373 vs in-chunk sibling 344 (Carothers/Nylon), science-technology-416 vs already-done 157 (veins carry blood to heart), science-technology-433 vs already-done 018 (Argon most abundant atmospheric noble gas). Logged 4 backlog notes for duplicates whose sibling is orphaned (356/887 Richter scale, 358/725 Unix, 367/903 Watt, 376/862 Stack/LIFO). 361/458 (gluon), 407/177 (aorta), 429/general-326 (CSS) not logged since siblings are pending and will self-resolve. No factual errors found."
     },
     {
       "chunkId": "science-technology-p1-014",
