@@ -8866,19 +8866,6 @@
     "answer": "Gluon"
   },
   {
-    "id": "science-technology-362",
-    "difficulty": "easy",
-    "category": "science-technology",
-    "question": "What is the medical term for the human shoulder blade?",
-    "options": [
-      "Clavicle",
-      "Sternum",
-      "Scapula",
-      "Patella"
-    ],
-    "answer": "Scapula"
-  },
-  {
     "id": "science-technology-363",
     "difficulty": "hard",
     "category": "science-technology",
@@ -9100,19 +9087,6 @@
     "answer": "Wolfgang Pauli"
   },
   {
-    "id": "science-technology-381",
-    "difficulty": "easy",
-    "category": "science-technology",
-    "question": "What is the only letter that does not appear anywhere on the periodic table of elements?",
-    "options": [
-      "J",
-      "Q",
-      "X",
-      "Z"
-    ],
-    "answer": "J"
-  },
-  {
     "id": "science-technology-382",
     "difficulty": "medium",
     "category": "science-technology",
@@ -9267,19 +9241,6 @@
       "Vanadium"
     ],
     "answer": "Palladium"
-  },
-  {
-    "id": "science-technology-394",
-    "difficulty": "easy",
-    "category": "science-technology",
-    "question": "What part of the eye controls the amount of light that enters by adjusting the size of the pupil?",
-    "options": [
-      "Cornea",
-      "Lens",
-      "Retina",
-      "Iris"
-    ],
-    "answer": "Iris"
   },
   {
     "id": "science-technology-395",
@@ -12090,19 +12051,6 @@
     "id": "science-technology-618"
   },
   {
-    "difficulty": "easy",
-    "category": "science-technology",
-    "question": "What is the chemical formula for methane?",
-    "options": [
-      "CH4",
-      "C2H6",
-      "CH3OH",
-      "C2H4"
-    ],
-    "answer": "CH4",
-    "id": "science-technology-619"
-  },
-  {
     "difficulty": "medium",
     "category": "science-technology",
     "question": "Dry ice is the solid form of which compound?",
@@ -13767,19 +13715,6 @@
     "id": "science-technology-750"
   },
   {
-    "difficulty": "easy",
-    "category": "science-technology",
-    "question": "What is the molecular formula for ozone?",
-    "options": [
-      "O",
-      "O4",
-      "O2",
-      "O3"
-    ],
-    "answer": "O3",
-    "id": "science-technology-751"
-  },
-  {
     "difficulty": "hard",
     "category": "science-technology",
     "question": "What does SCUBA stand for?",
@@ -14794,19 +14729,6 @@
     "id": "science-technology-838"
   },
   {
-    "difficulty": "hard",
-    "category": "science-technology",
-    "question": "Which type of joint is the shoulder joint?",
-    "options": [
-      "Pivot joint",
-      "Ball-and-socket joint",
-      "Saddle joint",
-      "Hinge joint"
-    ],
-    "answer": "Ball-and-socket joint",
-    "id": "science-technology-839"
-  },
-  {
     "difficulty": "easy",
     "category": "science-technology",
     "question": "How many incisors does a normal adult human have?",
@@ -15221,19 +15143,6 @@
     ],
     "answer": "Voice over Internet Protocol",
     "id": "science-technology-879"
-  },
-  {
-    "difficulty": "easy",
-    "category": "science-technology",
-    "question": "Which type of malware encrypts files and demands payment, prominent as of 2026?",
-    "options": [
-      "Ransomware",
-      "Adware",
-      "Spyware",
-      "Worm"
-    ],
-    "answer": "Ransomware",
-    "id": "science-technology-880"
   },
   {
     "difficulty": "hard",
@@ -15676,18 +15585,5 @@
     ],
     "answer": "Rust",
     "id": "science-technology-915"
-  },
-  {
-    "difficulty": "medium",
-    "category": "science-technology",
-    "question": "Which element is the primary component of natural gas as of 2026?",
-    "options": [
-      "Methane",
-      "Butane",
-      "Propane",
-      "Ethane"
-    ],
-    "answer": "Methane",
-    "id": "science-technology-916"
   }
 ]

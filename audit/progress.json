@@ -14601,11 +14601,11 @@
         "science-technology-551",
         "science-technology-557"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-16",
+      "completedAt": "2026-08-16",
+      "issuesFound": 7,
+      "notes": "Cut 7 duplicates: 381 (J-missing-periodic-table dup of already-fixed general-2916, same distractor-correctness bug w/ Q also absent), 394 (iris-controls-pupil dup of already-done science-technology-201), 362 (scapula/shoulder-blade reversed-direction dup of in-chunk 550, kept 550 to preserve the clavicle/scapula/sternum common-name triplet), and 4 orphans cut directly since neither could ever resurface via next: 916 (methane/natural-gas dup of in-chunk 415 -- also had its own factual error calling methane an 'element' when it's a compound), 751 (ozone-formula dup of in-chunk 426), 839 (shoulder-ball-and-socket dup of in-chunk 440, which covers shoulder+hip), 880 (ransomware dup of in-chunk 504). No other factual errors found; kept several same-answer pairs as legitimately distinct per the iris-function/iris-color and oxygen-multi-fact precedents."
     },
     {
       "chunkId": "science-technology-p1-021",
@@ -14616,11 +14616,11 @@
         "science-technology-577",
         "science-technology-591"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-16",
+      "completedAt": "2026-08-16",
+      "issuesFound": 2,
+      "notes": "Cut 2 orphan duplicates directly (neither could ever resurface via next): geography-782 (Pangaea supercontinent dup of in-chunk 566) and science-technology-619 (methane CH4 formula dup of in-chunk 591, which has the richer stem). No factual errors found among the other 2 questions (Fahrenheit freezing/boiling points, distinct facts, not duplicates of each other)."
     },
     {
       "chunkId": "space-astronomy-p1-000",
@@ -14677,11 +14677,11 @@
         "general-2467",
         "general-2711"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-16",
+      "completedAt": "2026-08-16",
+      "issuesFound": 15,
+      "notes": "Cut 15 duplicates from this heavily-chestnut-laden 50-question chunk (planet facts drafted repeatedly across general/space-astronomy). In-chunk clusters resolved: event-horizon pair (139/1333, kept 139), Uranus-axial-tilt triplicate (417/1346/1953, kept 417; 1507's telescope-discovery fact kept separately as distinct), Jupiter-shortest-day quadruplicate (419/935/1113/1506, kept 935), Venus-day-longer-than-year triplicate (653/1338/2238, kept 653; Neptune's 3 other facts -- discovery method/orbital period/wind speed -- kept as legitimately distinct per same-entity-different-facts precedent), Saturn-most-moons pair (411/2236, kept 411), Titan-largest-moon pair (1108/1527, kept 1108), Kepler-laws pair (1977/2454, kept 1977), Voyager-1-interstellar pair (193/925, kept 193). Cut 3 orphans directly (unreachable via next): general-4172 (astronomical-unit dup of 179), space-astronomy-960 (Valles Marineris dup of 938), space-astronomy-937 (Apollo 8 dup of 1115). Left several same-answer pairs with a still-pending (not orphaned) sibling untouched for self-resolution later: Sputnik-1 triplicate, Supernova cluster (4 variants -- also caught general-1525's 'A supernova' vs 'Supernova' answer-text mismatch hiding it from the auto-index), Milky-Way pair, Photosphere pair, Umbra pair, Crew-Dragon pair, plus additional pending Titan/Saturn-moons/Uranus-tilt/Neptune-orbit siblings beyond the in-chunk survivors. No factual errors found among the 50 questions; Perseverance, Jupiter/Venus/Mercury/Neptune multi-fact clusters, and black-hole singularity (event-horizon vs Big-Bang singularity) all verified as legitimately distinct facts, not duplicates."
     },
     {
       "chunkId": "space-astronomy-p1-001",

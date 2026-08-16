@@ -429,19 +429,6 @@
     "answer": "Black hole"
   },
   {
-    "id": "general-419",
-    "category": "space-astronomy",
-    "difficulty": "hard",
-    "question": "Which planet in our solar system has the shortest day, rotating on its axis in about 10 hours?",
-    "options": [
-      "Saturn",
-      "Neptune",
-      "Jupiter",
-      "Uranus"
-    ],
-    "answer": "Jupiter"
-  },
-  {
     "id": "general-420",
     "category": "space-astronomy",
     "difficulty": "easy",
@@ -741,19 +728,6 @@
     "answer": "The Big Bang"
   },
   {
-    "id": "general-925",
-    "category": "space-astronomy",
-    "difficulty": "hard",
-    "question": "Which spacecraft, launched in 1977, became the first human-made object to enter interstellar space?",
-    "options": [
-      "Voyager 2",
-      "Pioneer 10",
-      "Voyager 1",
-      "New Horizons"
-    ],
-    "answer": "Voyager 1"
-  },
-  {
     "id": "general-926",
     "category": "space-astronomy",
     "difficulty": "easy",
@@ -1040,19 +1014,6 @@
     "answer": "James Webb Space Telescope"
   },
   {
-    "id": "general-1113",
-    "category": "space-astronomy",
-    "difficulty": "hard",
-    "question": "Which planet in our solar system has the shortest day?",
-    "options": [
-      "Jupiter",
-      "Mercury",
-      "Earth",
-      "Mars"
-    ],
-    "answer": "Jupiter"
-  },
-  {
     "id": "general-1114",
     "category": "space-astronomy",
     "difficulty": "easy",
@@ -1144,19 +1105,6 @@
     "answer": "United States"
   },
   {
-    "id": "general-1333",
-    "category": "space-astronomy",
-    "difficulty": "hard",
-    "question": "What is the term for the boundary of a black hole beyond which nothing can escape?",
-    "options": [
-      "Event horizon",
-      "Singularity",
-      "Accretion disk",
-      "Photon sphere"
-    ],
-    "answer": "Event horizon"
-  },
-  {
     "id": "general-1336",
     "category": "space-astronomy",
     "difficulty": "medium",
@@ -1170,19 +1118,6 @@
     "answer": "Nicolaus Copernicus"
   },
   {
-    "id": "general-1338",
-    "category": "space-astronomy",
-    "difficulty": "hard",
-    "question": "Which planet has a day longer than its year, due to extremely slow rotation?",
-    "options": [
-      "Venus",
-      "Mercury",
-      "Mars",
-      "Uranus"
-    ],
-    "answer": "Venus"
-  },
-  {
     "id": "general-1341",
     "category": "space-astronomy",
     "difficulty": "medium",
@@ -1194,19 +1129,6 @@
       "Solar radius"
     ],
     "answer": "Light year"
-  },
-  {
-    "id": "general-1346",
-    "category": "space-astronomy",
-    "difficulty": "hard",
-    "question": "Which planet in the solar system rotates on its side, with an axial tilt of about 98 degrees?",
-    "options": [
-      "Uranus",
-      "Neptune",
-      "Saturn",
-      "Jupiter"
-    ],
-    "answer": "Uranus"
   },
   {
     "id": "general-1445",
@@ -1261,19 +1183,6 @@
     "answer": "Mars"
   },
   {
-    "id": "general-1506",
-    "category": "space-astronomy",
-    "difficulty": "hard",
-    "question": "Which planet in our solar system has the shortest day, completing a full rotation in about 10 hours?",
-    "options": [
-      "Jupiter",
-      "Saturn",
-      "Neptune",
-      "Mars"
-    ],
-    "answer": "Jupiter"
-  },
-  {
     "id": "general-1507",
     "category": "space-astronomy",
     "difficulty": "hard",
@@ -1324,19 +1233,6 @@
       "Saturn"
     ],
     "answer": "Neptune"
-  },
-  {
-    "id": "general-1527",
-    "category": "space-astronomy",
-    "difficulty": "hard",
-    "question": "What is the name of Saturn's largest moon?",
-    "options": [
-      "Europa",
-      "Triton",
-      "Io",
-      "Titan"
-    ],
-    "answer": "Titan"
   },
   {
     "id": "general-1528",
@@ -1482,19 +1378,6 @@
     "answer": "Venus"
   },
   {
-    "id": "general-1953",
-    "category": "space-astronomy",
-    "difficulty": "hard",
-    "question": "Which planet rotates almost completely on its side, with an axial tilt of about 98 degrees?",
-    "options": [
-      "Uranus",
-      "Neptune",
-      "Saturn",
-      "Venus"
-    ],
-    "answer": "Uranus"
-  },
-  {
     "id": "general-1956",
     "category": "space-astronomy",
     "difficulty": "medium",
@@ -1558,32 +1441,6 @@
       "The Whirlpool Galaxy"
     ],
     "answer": "The Milky Way"
-  },
-  {
-    "id": "general-2236",
-    "category": "space-astronomy",
-    "difficulty": "hard",
-    "question": "Which planet has the most moons in our solar system?",
-    "options": [
-      "Saturn",
-      "Jupiter",
-      "Uranus",
-      "Neptune"
-    ],
-    "answer": "Saturn"
-  },
-  {
-    "id": "general-2238",
-    "category": "space-astronomy",
-    "difficulty": "hard",
-    "question": "Which planet has a day longer than its year?",
-    "options": [
-      "Venus",
-      "Mercury",
-      "Mars",
-      "Uranus"
-    ],
-    "answer": "Venus"
   },
   {
     "id": "general-2239",
@@ -1766,19 +1623,6 @@
       "Saturn"
     ],
     "answer": "Neptune"
-  },
-  {
-    "id": "general-2454",
-    "category": "space-astronomy",
-    "difficulty": "hard",
-    "question": "Which scientist is credited with formulating the laws of planetary motion?",
-    "options": [
-      "Johannes Kepler",
-      "Nicolaus Copernicus",
-      "Galileo Galilei",
-      "Tycho Brahe"
-    ],
-    "answer": "Johannes Kepler"
   },
   {
     "id": "general-2460",
@@ -14287,19 +14131,6 @@
     "answer": "White dwarf"
   },
   {
-    "id": "space-astronomy-937",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "Which mission was the first to orbit the Moon with humans aboard in 1968?",
-    "options": [
-      "Apollo 8",
-      "Apollo 11",
-      "Gemini 4",
-      "Apollo 13"
-    ],
-    "answer": "Apollo 8"
-  },
-  {
     "id": "space-astronomy-938",
     "category": "space-astronomy",
     "difficulty": "medium",
@@ -14584,19 +14415,6 @@
       "Synchrotron radiation"
     ],
     "answer": "Hawking radiation"
-  },
-  {
-    "id": "space-astronomy-960",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "What is the vast canyon system on Mars that stretches over 4,000 km?",
-    "options": [
-      "Valles Marineris",
-      "Grand Canyon",
-      "Mariner Valley",
-      "Olympus Chasma"
-    ],
-    "answer": "Valles Marineris"
   },
   {
     "id": "space-astronomy-961",
