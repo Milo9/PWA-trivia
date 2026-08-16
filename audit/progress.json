@@ -14418,11 +14418,11 @@
         "general-1963",
         "general-1967"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-16",
+      "completedAt": "2026-08-16",
+      "issuesFound": 31,
+      "notes": "Cut 31 duplicates: 21 against already-done siblings elsewhere in science-technology (three-laws-of-motion/Newton, powerhouse-of-cell x2 incl. a stale done/done pair general-109 vs general-1513, photosynthesis, CPU-acronym x2, telephone/Bell, relativity/Einstein, evolution/Darwin x2, CO2-greenhouse-gas, calcium/bones x2, gravity-pulls-to-earth, AI-acronym, mercury-liquid-metal, WWW-acronym, PDF-acronym, Python-named-after-snake (also fixed a Monty-Python-not-a-snake myth by cutting in favor of the correct sibling), RAM-acronym, arachnophobia, pancreas/insulin, penicillin/Fleming x2, electron-negative-charge, evaporation, heart-pumps-blood, Google/search-engine, Microsoft-founding (reversed-direction vs already-done general-1767)) plus 8 in-chunk duplicate pairs (RBC-carries-oxygen reversed pair, CO2-exhaled pair). Logged 9 backlog notes for duplicates whose sibling is pending in a future chunk and shares a generic/common answer text likely to get truncated out of the auto-print's display cap (Edison/light-bulb, Sony/PlayStation, CO2-exhale, electron, arachnophobia, WWW, Bell/telephone, mercury, Google/search-engine). No other factual errors or answer-leaks found among the 50 questions reviewed."
     },
     {
       "chunkId": "science-technology-p1-018",
@@ -14479,11 +14479,11 @@
         "science-technology-064",
         "science-technology-065"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-16",
+      "completedAt": "2026-08-16",
+      "issuesFound": 25,
+      "notes": "Cut 25 duplicates: 9 resolved backlog notes from the prior chunk against now-done siblings (CO2-exhale, WWW-acronym, Sony/PlayStation, Google/search-engine, electron-negative-charge, mercury-liquid-metal, Edison/light-bulb, arachnophobia, Bell/telephone) plus 16 newly-found dupes against already-done siblings (kidneys-filter-blood, Apple-cofounder-Wozniak, Facebook-founded-by-Zuckerberg -- a reversed-direction dup of general-1764 that answer-text matching couldn't catch, powerhouse-of-cell, diamond-hardest-substance x2 incl. an orphan (general-4265, cut from general.json) restating the same fact via the Mohs-scale framing, rainbow-refraction, scurvy/vitamin-C, vitamin-D-from-sunlight, WWW/Berners-Lee, Gutenberg-printing-press, Doppler-effect, Pi-constant, CO2-greenhouse-gas, rainbow-seven-colors, pH-neutral-7). No factual errors, answer-leaks, or distractor-correctness bugs found among the 50 questions reviewed."
     },
     {
       "chunkId": "science-technology-p1-019",
@@ -14540,11 +14540,11 @@
         "science-technology-259",
         "science-technology-260"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-16",
+      "completedAt": "2026-08-16",
+      "issuesFound": 12,
+      "notes": "Cut 12 duplicates, all against a same-chunk or already-done survivor sharing the identical core fact (kept the plainer/current phrasing, cut the redundant one -- mostly orphans surfaced by the flagged-answer print that would never otherwise resurface): adult-teeth-count-32 (orphan science-technology-819), letter-J-missing-from-periodic-table (dup of done general-2916), gas-to-solid-deposition (orphan science-technology-804), Hertz-SI-unit-of-frequency (dup of done general-324, same fact just applied to processor-speed), meiosis-produces-gametes (orphan science-technology-831), BIOS-acronym (orphan science-technology-859), iris-controls-pupil-size (orphan science-technology-671), and a 3-way powerhouse-of-cell/mitochondrion cluster resolved down to the already-done general-1513 survivor (cut science-technology-205 and orphan science-technology-841, both same fact), silicon-semiconductor-material (orphan science-technology-892), byte-is-8-bits (orphan science-technology-870), pH-of-pure-water-is-7 (dup of done general-428). Kept several same-answer-but-different-fact pairs as legitimately distinct trivia (aorta via size vs. via circulatory origin; carbon via graphite/diamond vs. atomic number vs. organic-life-basis; iris-controls-pupil vs. iris-is-the-colored-part; proton-charge vs. proton-quark-composition; C-language-inventor vs. chemical-symbol-carbon vs. C++-inventor) per CLAUDE.md's same-entity-different-facts exception. No factual errors, answer-leaks, or distractor-correctness bugs found among the 50 questions reviewed."
     },
     {
       "chunkId": "science-technology-p1-020",

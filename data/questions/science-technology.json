@@ -65,19 +65,6 @@
     "answer": "Hydrogen"
   },
   {
-    "id": "general-109",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "What part of a cell is often called its powerhouse?",
-    "options": [
-      "Mitochondria",
-      "Nucleus",
-      "Ribosome",
-      "Golgi apparatus"
-    ],
-    "answer": "Mitochondria"
-  },
-  {
     "id": "general-112",
     "category": "science-technology",
     "difficulty": "medium",
@@ -2158,19 +2145,6 @@
     "answer": "Molecule"
   },
   {
-    "id": "general-1084",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "Which scientist is credited with the three laws of motion?",
-    "options": [
-      "Isaac Newton",
-      "Galileo Galilei",
-      "Johannes Kepler",
-      "Albert Einstein"
-    ],
-    "answer": "Isaac Newton"
-  },
-  {
     "id": "general-1085",
     "category": "science-technology",
     "difficulty": "easy",
@@ -2223,19 +2197,6 @@
     "answer": "Gluteus maximus"
   },
   {
-    "id": "general-1090",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "What is the powerhouse of the cell, responsible for producing energy?",
-    "options": [
-      "Mitochondria",
-      "Nucleus",
-      "Ribosome",
-      "Golgi apparatus"
-    ],
-    "answer": "Mitochondria"
-  },
-  {
     "id": "general-1091",
     "category": "science-technology",
     "difficulty": "hard",
@@ -2247,19 +2208,6 @@
       "About 99%"
     ],
     "answer": "About 85%"
-  },
-  {
-    "id": "general-1092",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "What is the name of the process by which plants make food using sunlight?",
-    "options": [
-      "Photosynthesis",
-      "Respiration",
-      "Transpiration",
-      "Germination"
-    ],
-    "answer": "Photosynthesis"
   },
   {
     "id": "general-1093",
@@ -2379,19 +2327,6 @@
     "answer": "Vint Cerf"
   },
   {
-    "id": "general-1222",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "What does 'CPU' stand for in computing?",
-    "options": [
-      "Central Processing Unit",
-      "Computer Processing Unit",
-      "Central Program Unit",
-      "Core Processing Utility"
-    ],
-    "answer": "Central Processing Unit"
-  },
-  {
     "id": "general-1223",
     "category": "science-technology",
     "difficulty": "hard",
@@ -2403,19 +2338,6 @@
       "Android"
     ],
     "answer": "BlackBerry OS"
-  },
-  {
-    "id": "general-1224",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "Who is credited with inventing the telephone in 1876?",
-    "options": [
-      "Alexander Graham Bell",
-      "Thomas Edison",
-      "Nikola Tesla",
-      "Guglielmo Marconi"
-    ],
-    "answer": "Alexander Graham Bell"
   },
   {
     "id": "general-1226",
@@ -2470,19 +2392,6 @@
     "answer": "Mosaic"
   },
   {
-    "id": "general-1256",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "Who is known as the 'father of modern physics' and developed the theory of relativity?",
-    "options": [
-      "Albert Einstein",
-      "Isaac Newton",
-      "Stephen Hawking",
-      "Niels Bohr"
-    ],
-    "answer": "Albert Einstein"
-  },
-  {
     "id": "general-1257",
     "category": "science-technology",
     "difficulty": "medium",
@@ -2494,32 +2403,6 @@
       "Guglielmo Marconi"
     ],
     "answer": "Thomas Edison"
-  },
-  {
-    "id": "general-1260",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "Who is credited with founding the Microsoft software company alongside Paul Allen?",
-    "options": [
-      "Bill Gates",
-      "Steve Jobs",
-      "Larry Page",
-      "Jeff Bezos"
-    ],
-    "answer": "Bill Gates"
-  },
-  {
-    "id": "general-1264",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "Who wrote the theory of evolution by natural selection in 'On the Origin of Species'?",
-    "options": [
-      "Charles Darwin",
-      "Gregor Mendel",
-      "Alfred Russel Wallace",
-      "Thomas Huxley"
-    ],
-    "answer": "Charles Darwin"
   },
   {
     "id": "general-1265",
@@ -2574,19 +2457,6 @@
     "answer": "Decibel"
   },
   {
-    "id": "general-1342",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "Which chemical element is essential for human bone strength and is often added to milk?",
-    "options": [
-      "Calcium",
-      "Iron",
-      "Zinc",
-      "Magnesium"
-    ],
-    "answer": "Calcium"
-  },
-  {
     "id": "general-1343",
     "category": "science-technology",
     "difficulty": "easy",
@@ -2598,32 +2468,6 @@
       "Cell theory"
     ],
     "answer": "Theory of evolution"
-  },
-  {
-    "id": "general-1344",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "Which force is responsible for objects being pulled toward the center of the Earth?",
-    "options": [
-      "Gravity",
-      "Magnetism",
-      "Electromagnetism",
-      "Nuclear force"
-    ],
-    "answer": "Gravity"
-  },
-  {
-    "id": "general-1389",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "What does 'AI' commonly stand for in computer science?",
-    "options": [
-      "Artificial Intelligence",
-      "Automated Interface",
-      "Analytical Intelligence",
-      "Applied Informatics"
-    ],
-    "answer": "Artificial Intelligence"
   },
   {
     "id": "general-1390",
@@ -2650,19 +2494,6 @@
       "Unified Serial Board"
     ],
     "answer": "Universal Serial Bus"
-  },
-  {
-    "id": "general-1392",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "Which company developed the search engine and later parent company Alphabet?",
-    "options": [
-      "Google",
-      "Yahoo",
-      "Microsoft",
-      "Amazon"
-    ],
-    "answer": "Google"
   },
   {
     "id": "general-1501",
@@ -2704,32 +2535,6 @@
     "answer": "5"
   },
   {
-    "id": "general-1510",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "Which organ in the human body is primarily responsible for pumping blood?",
-    "options": [
-      "The heart",
-      "The lungs",
-      "The liver",
-      "The kidneys"
-    ],
-    "answer": "The heart"
-  },
-  {
-    "id": "general-1511",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "Which gas do humans and animals primarily exhale as a byproduct of respiration?",
-    "options": [
-      "Carbon dioxide",
-      "Oxygen",
-      "Nitrogen",
-      "Methane"
-    ],
-    "answer": "Carbon dioxide"
-  },
-  {
     "id": "general-1512",
     "category": "science-technology",
     "difficulty": "medium",
@@ -2756,19 +2561,6 @@
     "answer": "The mitochondria"
   },
   {
-    "id": "general-1516",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "Which scientist discovered penicillin in 1928?",
-    "options": [
-      "Louis Pasteur",
-      "Robert Koch",
-      "Alexander Fleming",
-      "Jonas Salk"
-    ],
-    "answer": "Alexander Fleming"
-  },
-  {
     "id": "general-1517",
     "category": "science-technology",
     "difficulty": "hard",
@@ -2780,19 +2572,6 @@
       "Neon"
     ],
     "answer": "Sodium"
-  },
-  {
-    "id": "general-1518",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "Which metal is liquid at room temperature?",
-    "options": [
-      "Mercury",
-      "Lead",
-      "Tin",
-      "Zinc"
-    ],
-    "answer": "Mercury"
   },
   {
     "id": "general-1520",
@@ -2925,19 +2704,6 @@
     "answer": "Hypertext Transfer Protocol"
   },
   {
-    "id": "general-1761",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "What does the acronym 'WWW' stand for?",
-    "options": [
-      "World Wide Web",
-      "Wide World Web",
-      "World Wireless Web",
-      "World Web Wire"
-    ],
-    "answer": "World Wide Web"
-  },
-  {
     "id": "general-1762",
     "category": "science-technology",
     "difficulty": "easy",
@@ -2990,19 +2756,6 @@
     "answer": "Google"
   },
   {
-    "id": "general-1766",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "What does the acronym 'CPU' stand for?",
-    "options": [
-      "Computer Processing Unit",
-      "Central Program Unit",
-      "Central Processing Unit",
-      "Core Processing Utility"
-    ],
-    "answer": "Central Processing Unit"
-  },
-  {
     "id": "general-1767",
     "category": "science-technology",
     "difficulty": "medium",
@@ -3029,45 +2782,6 @@
     "answer": "TikTok"
   },
   {
-    "id": "general-1769",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "What does the acronym 'PDF' stand for?",
-    "options": [
-      "Portable Document Format",
-      "Personal Data File",
-      "Printed Document Format",
-      "Public Data Format"
-    ],
-    "answer": "Portable Document Format"
-  },
-  {
-    "id": "general-1770",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "Which programming language, named after a snake, is widely used in data science and popular for beginners?",
-    "options": [
-      "Cobra",
-      "Java",
-      "Python",
-      "Ruby"
-    ],
-    "answer": "Python"
-  },
-  {
-    "id": "general-1771",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "What does the acronym 'RAM', a type of computer memory, stand for?",
-    "options": [
-      "Run Application Memory",
-      "Random Access Memory",
-      "Read Access Memory",
-      "Rapid Access Memory"
-    ],
-    "answer": "Random Access Memory"
-  },
-  {
     "id": "general-1797",
     "category": "science-technology",
     "difficulty": "hard",
@@ -3079,19 +2793,6 @@
       "A bacteriophage"
     ],
     "answer": "A bacteriophage"
-  },
-  {
-    "id": "general-1798",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "What is the term for an abnormal fear of spiders?",
-    "options": [
-      "Arachnophobia",
-      "Acrophobia",
-      "Ophidiophobia",
-      "Entomophobia"
-    ],
-    "answer": "Arachnophobia"
   },
   {
     "id": "general-1799",
@@ -3146,19 +2847,6 @@
     "answer": "Talc"
   },
   {
-    "id": "general-1927",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "Which blood component is primarily responsible for carrying oxygen through the body?",
-    "options": [
-      "Red blood cells",
-      "White blood cells",
-      "Platelets",
-      "Plasma"
-    ],
-    "answer": "Red blood cells"
-  },
-  {
     "id": "general-1928",
     "category": "science-technology",
     "difficulty": "medium",
@@ -3211,19 +2899,6 @@
     "answer": "Vitamin D"
   },
   {
-    "id": "general-1941",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "Which organ produces insulin in the human body?",
-    "options": [
-      "Pancreas",
-      "Liver",
-      "Kidney",
-      "Spleen"
-    ],
-    "answer": "Pancreas"
-  },
-  {
     "id": "general-1943",
     "category": "science-technology",
     "difficulty": "medium",
@@ -3250,45 +2925,6 @@
     "answer": "100°C"
   },
   {
-    "id": "general-1945",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "Which scientist is credited with discovering penicillin?",
-    "options": [
-      "Alexander Fleming",
-      "Louis Pasteur",
-      "Robert Koch",
-      "Jonas Salk"
-    ],
-    "answer": "Alexander Fleming"
-  },
-  {
-    "id": "general-1947",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "Which greenhouse gas is most associated with human-driven climate change from fossil fuel burning?",
-    "options": [
-      "Carbon dioxide",
-      "Nitrogen",
-      "Oxygen",
-      "Argon"
-    ],
-    "answer": "Carbon dioxide"
-  },
-  {
-    "id": "general-1949",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "Which subatomic particle carries a negative electric charge?",
-    "options": [
-      "Electron",
-      "Proton",
-      "Neutron",
-      "Positron"
-    ],
-    "answer": "Electron"
-  },
-  {
     "id": "general-1951",
     "category": "science-technology",
     "difficulty": "medium",
@@ -3300,19 +2936,6 @@
       "Fibula"
     ],
     "answer": "Femur"
-  },
-  {
-    "id": "general-1954",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "What is the process by which a liquid turns into a gas called?",
-    "options": [
-      "Evaporation",
-      "Condensation",
-      "Sublimation",
-      "Precipitation"
-    ],
-    "answer": "Evaporation"
   },
   {
     "id": "general-1961",
@@ -3328,19 +2951,6 @@
     "answer": "Hydrochloric acid"
   },
   {
-    "id": "general-1963",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "Which scientist is best known for the theory of evolution by natural selection?",
-    "options": [
-      "Charles Darwin",
-      "Gregor Mendel",
-      "Alfred Wallace",
-      "Carl Linnaeus"
-    ],
-    "answer": "Charles Darwin"
-  },
-  {
     "id": "general-1966",
     "category": "science-technology",
     "difficulty": "hard",
@@ -3352,19 +2962,6 @@
       "100 degrees"
     ],
     "answer": "-40 degrees"
-  },
-  {
-    "id": "general-1967",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "Which mineral is essential for building strong bones and teeth?",
-    "options": [
-      "Calcium",
-      "Iron",
-      "Zinc",
-      "Potassium"
-    ],
-    "answer": "Calcium"
   },
   {
     "id": "general-1968",
@@ -3393,32 +2990,6 @@
     "answer": "Chemical energy"
   },
   {
-    "id": "general-1973",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "Which organs filter waste from the blood to produce urine?",
-    "options": [
-      "Kidneys",
-      "Liver",
-      "Lungs",
-      "Bladder"
-    ],
-    "answer": "Kidneys"
-  },
-  {
-    "id": "general-1975",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "Which gas do humans exhale in a higher concentration than they inhale?",
-    "options": [
-      "Carbon dioxide",
-      "Oxygen",
-      "Nitrogen",
-      "Hydrogen"
-    ],
-    "answer": "Carbon dioxide"
-  },
-  {
     "id": "general-1978",
     "category": "science-technology",
     "difficulty": "easy",
@@ -3445,32 +3016,6 @@
     "answer": "Silver"
   },
   {
-    "id": "general-2180",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "Who co-founded Apple Inc. alongside Steve Jobs?",
-    "options": [
-      "Steve Wozniak",
-      "Bill Gates",
-      "Tim Cook",
-      "Jony Ive"
-    ],
-    "answer": "Steve Wozniak"
-  },
-  {
-    "id": "general-2181",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "What does the abbreviation 'WWW' stand for?",
-    "options": [
-      "World Wide Web",
-      "World Wide Website",
-      "Worldwide Web Wire",
-      "World Web Way"
-    ],
-    "answer": "World Wide Web"
-  },
-  {
     "id": "general-2182",
     "category": "science-technology",
     "difficulty": "easy",
@@ -3484,19 +3029,6 @@
     "answer": "Apple"
   },
   {
-    "id": "general-2185",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "Which company developed the PlayStation gaming console?",
-    "options": [
-      "Sony",
-      "Microsoft",
-      "Nintendo",
-      "Sega"
-    ],
-    "answer": "Sony"
-  },
-  {
     "id": "general-2186",
     "category": "science-technology",
     "difficulty": "medium",
@@ -3508,32 +3040,6 @@
       "Coded Style Syntax"
     ],
     "answer": "Cascading Style Sheets"
-  },
-  {
-    "id": "general-2187",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "Which social media platform was founded by Mark Zuckerberg?",
-    "options": [
-      "Facebook",
-      "Twitter",
-      "Instagram",
-      "LinkedIn"
-    ],
-    "answer": "Facebook"
-  },
-  {
-    "id": "general-2191",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "Which company operates the widely used search engine that became a verb meaning 'to search online'?",
-    "options": [
-      "Google",
-      "Yahoo",
-      "Bing",
-      "AOL"
-    ],
-    "answer": "Google"
   },
   {
     "id": "general-2192",
@@ -3627,32 +3133,6 @@
     "answer": "Internet Protocol"
   },
   {
-    "id": "general-2228",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "Which subatomic particle has a negative charge?",
-    "options": [
-      "Electron",
-      "Proton",
-      "Neutron",
-      "Positron"
-    ],
-    "answer": "Electron"
-  },
-  {
-    "id": "general-2229",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "What is the pH value of a neutral solution?",
-    "options": [
-      "7",
-      "0",
-      "14",
-      "10"
-    ],
-    "answer": "7"
-  },
-  {
     "id": "general-2230",
     "category": "science-technology",
     "difficulty": "easy",
@@ -3666,19 +3146,6 @@
     "answer": "Gas"
   },
   {
-    "id": "general-2231",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "What is the hardest known natural substance on Earth?",
-    "options": [
-      "Diamond",
-      "Quartz",
-      "Titanium",
-      "Graphite"
-    ],
-    "answer": "Diamond"
-  },
-  {
     "id": "general-2232",
     "category": "science-technology",
     "difficulty": "hard",
@@ -3690,19 +3157,6 @@
       "Chlorine"
     ],
     "answer": "Bromine"
-  },
-  {
-    "id": "general-2233",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "What is the powerhouse of the cell?",
-    "options": [
-      "Mitochondria",
-      "Nucleus",
-      "Ribosome",
-      "Golgi apparatus"
-    ],
-    "answer": "Mitochondria"
   },
   {
     "id": "general-2237",
@@ -3757,32 +3211,6 @@
     "answer": "The nucleus"
   },
   {
-    "id": "general-2289",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "What natural phenomenon is caused by the refraction and reflection of light in water droplets?",
-    "options": [
-      "A rainbow",
-      "The aurora borealis",
-      "A halo",
-      "A mirage"
-    ],
-    "answer": "A rainbow"
-  },
-  {
-    "id": "general-2327",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "Which gas is most responsible for the greenhouse effect that traps heat in Earth's atmosphere?",
-    "options": [
-      "Carbon dioxide",
-      "Nitrogen",
-      "Oxygen",
-      "Helium"
-    ],
-    "answer": "Carbon dioxide"
-  },
-  {
     "id": "general-2329",
     "category": "science-technology",
     "difficulty": "easy",
@@ -3833,19 +3261,6 @@
       "Eustachian tube"
     ],
     "answer": "Ossicles"
-  },
-  {
-    "id": "general-2346",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "Which metal is liquid at room temperature and used in old thermometers?",
-    "options": [
-      "Mercury",
-      "Lead",
-      "Tin",
-      "Bismuth"
-    ],
-    "answer": "Mercury"
   },
   {
     "id": "general-2347",
@@ -3937,19 +3352,6 @@
       "Greece"
     ],
     "answer": "India"
-  },
-  {
-    "id": "general-2380",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "Which US inventor is credited with inventing the light bulb's commercially viable form?",
-    "options": [
-      "Thomas Edison",
-      "Nikola Tesla",
-      "Alexander Graham Bell",
-      "Benjamin Franklin"
-    ],
-    "answer": "Thomas Edison"
   },
   {
     "id": "general-2381",
@@ -4238,32 +3640,6 @@
     "answer": "Software Arts"
   },
   {
-    "id": "general-2594",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "What is the mathematical constant approximately equal to 3.14159, representing a circle's circumference to diameter ratio?",
-    "options": [
-      "Pi",
-      "Euler's number",
-      "The golden ratio",
-      "Avogadro's number"
-    ],
-    "answer": "Pi"
-  },
-  {
-    "id": "general-2602",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "What is the name of the disease caused by prolonged vitamin C deficiency, historically common among long-voyage sailors?",
-    "options": [
-      "Scurvy",
-      "Rickets",
-      "Pellagra",
-      "Beriberi"
-    ],
-    "answer": "Scurvy"
-  },
-  {
     "id": "general-2603",
     "category": "science-technology",
     "difficulty": "medium",
@@ -4288,19 +3664,6 @@
       "Arthur Holmes"
     ],
     "answer": "Alfred Wegener"
-  },
-  {
-    "id": "general-2606",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "Which vitamin is produced in human skin upon exposure to sunlight?",
-    "options": [
-      "Vitamin D",
-      "Vitamin C",
-      "Vitamin A",
-      "Vitamin K"
-    ],
-    "answer": "Vitamin D"
   },
   {
     "id": "general-2607",
@@ -4368,19 +3731,6 @@
     "answer": "Hard water"
   },
   {
-    "id": "general-2614",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "What is the medical term for an irrational fear of spiders?",
-    "options": [
-      "Arachnophobia",
-      "Entomophobia",
-      "Ophidiophobia",
-      "Myrmecophobia"
-    ],
-    "answer": "Arachnophobia"
-  },
-  {
     "id": "general-2710",
     "category": "science-technology",
     "difficulty": "hard",
@@ -4392,32 +3742,6 @@
       "Positron"
     ],
     "answer": "Tachyon"
-  },
-  {
-    "id": "general-2720",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "Who is credited with inventing the World Wide Web in 1989 while working at CERN?",
-    "options": [
-      "Tim Berners-Lee",
-      "Vint Cerf",
-      "Marc Andreessen",
-      "Bill Gates"
-    ],
-    "answer": "Tim Berners-Lee"
-  },
-  {
-    "id": "general-2723",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "Which Scottish-born inventor is credited with patenting the first practical telephone in 1876?",
-    "options": [
-      "Alexander Graham Bell",
-      "Elisha Gray",
-      "Thomas Edison",
-      "Nikola Tesla"
-    ],
-    "answer": "Alexander Graham Bell"
   },
   {
     "id": "general-2725",
@@ -4457,19 +3781,6 @@
       "Commodore"
     ],
     "answer": "MITS"
-  },
-  {
-    "id": "general-2728",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "Who invented the movable-type printing press in Europe around 1440?",
-    "options": [
-      "Johannes Gutenberg",
-      "William Caxton",
-      "Aldus Manutius",
-      "Johann Fust"
-    ],
-    "answer": "Johannes Gutenberg"
   },
   {
     "id": "general-2729",
@@ -5120,19 +4431,6 @@
       "PHP"
     ],
     "answer": "Ruby"
-  },
-  {
-    "id": "science-technology-003",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "What is the name of the effect that causes the frequency of a wave to change for an observer moving relative to its source?",
-    "options": [
-      "Doppler effect",
-      "Photoelectric effect",
-      "Meissner effect",
-      "Tyndall effect"
-    ],
-    "answer": "Doppler effect"
   },
   {
     "id": "science-technology-004",
@@ -5915,19 +5213,6 @@
     "answer": "Silver"
   },
   {
-    "id": "science-technology-065",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "How many colors are in a rainbow?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
-    ],
-    "answer": "7"
-  },
-  {
     "id": "science-technology-066",
     "category": "science-technology",
     "difficulty": "hard",
@@ -6474,19 +5759,6 @@
     "answer": "Astatine"
   },
   {
-    "id": "science-technology-114",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "What is the only letter that does not appear in any element name on the periodic table?",
-    "options": [
-      "Y",
-      "X",
-      "Q",
-      "J"
-    ],
-    "answer": "J"
-  },
-  {
     "id": "science-technology-115",
     "category": "science-technology",
     "difficulty": "medium",
@@ -6823,19 +6095,6 @@
       "Friction"
     ],
     "answer": "Inertia"
-  },
-  {
-    "id": "science-technology-141",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "What is the SI unit of frequency?",
-    "options": [
-      "Hertz",
-      "Watt",
-      "Joule",
-      "Decibel"
-    ],
-    "answer": "Hertz"
   },
   {
     "id": "science-technology-142",
@@ -7462,19 +6721,6 @@
     "answer": "Grace Hopper"
   },
   {
-    "id": "science-technology-192",
-    "difficulty": "easy",
-    "category": "science-technology",
-    "question": "What is the pH of pure water at 25 degrees Celsius?",
-    "options": [
-      "14",
-      "1",
-      "7",
-      "0"
-    ],
-    "answer": "7"
-  },
-  {
     "id": "science-technology-193",
     "difficulty": "medium",
     "category": "science-technology",
@@ -7629,19 +6875,6 @@
       "Ada"
     ],
     "answer": "C"
-  },
-  {
-    "id": "science-technology-205",
-    "difficulty": "easy",
-    "category": "science-technology",
-    "question": "Which organelle is often called the 'powerhouse of the cell' because it produces most of the cell's ATP?",
-    "options": [
-      "Golgi apparatus",
-      "Endoplasmic reticulum",
-      "Mitochondrion",
-      "Lysosome"
-    ],
-    "answer": "Mitochondrion"
   },
   {
     "id": "science-technology-206",
@@ -13507,19 +12740,6 @@
     "id": "science-technology-670"
   },
   {
-    "difficulty": "easy",
-    "category": "science-technology",
-    "question": "Which pigmented eye structure controls pupil size to regulate light entry?",
-    "options": [
-      "Retina",
-      "Cornea",
-      "Iris",
-      "Sclera"
-    ],
-    "answer": "Iris",
-    "id": "science-technology-671"
-  },
-  {
     "difficulty": "medium",
     "category": "science-technology",
     "question": "Which transparent layer of the eye provides about two-thirds of its focusing power?",
@@ -15171,19 +14391,6 @@
     "id": "science-technology-802"
   },
   {
-    "difficulty": "easy",
-    "category": "science-technology",
-    "question": "What is the term for a gas turning directly into a solid, the reverse of sublimation?",
-    "options": [
-      "Crystallization",
-      "Solidification",
-      "Deposition",
-      "Condensation"
-    ],
-    "answer": "Deposition",
-    "id": "science-technology-804"
-  },
-  {
     "difficulty": "medium",
     "category": "science-technology",
     "question": "What is the chemical symbol for nickel?",
@@ -15368,19 +14575,6 @@
   {
     "difficulty": "easy",
     "category": "science-technology",
-    "question": "How many permanent teeth does a complete adult human dentition have, including wisdom teeth?",
-    "options": [
-      "36",
-      "32",
-      "28",
-      "20"
-    ],
-    "answer": "32",
-    "id": "science-technology-819"
-  },
-  {
-    "difficulty": "easy",
-    "category": "science-technology",
     "question": "How many deciduous (primary/baby) teeth do humans normally develop?",
     "options": [
       "24",
@@ -15522,19 +14716,6 @@
     "id": "science-technology-830"
   },
   {
-    "difficulty": "medium",
-    "category": "science-technology",
-    "question": "What type of cell division results in four genetically non-identical daughter cells with half the chromosomes?",
-    "options": [
-      "Binary fission",
-      "Meiosis",
-      "Mitosis",
-      "Budding"
-    ],
-    "answer": "Meiosis",
-    "id": "science-technology-831"
-  },
-  {
     "difficulty": "easy",
     "category": "science-technology",
     "question": "How many pairs of chromosomes do humans typically have in each somatic cell?",
@@ -15637,19 +14818,6 @@
     ],
     "answer": "8",
     "id": "science-technology-840"
-  },
-  {
-    "difficulty": "medium",
-    "category": "science-technology",
-    "question": "Which organelle is known as the powerhouse of the cell for ATP production?",
-    "options": [
-      "Ribosome",
-      "Chloroplast",
-      "Lysosome",
-      "Mitochondrion"
-    ],
-    "answer": "Mitochondrion",
-    "id": "science-technology-841"
   },
   {
     "difficulty": "medium",
@@ -15847,19 +15015,6 @@
     "id": "science-technology-858"
   },
   {
-    "difficulty": "easy",
-    "category": "science-technology",
-    "question": "What does BIOS stand for in a personal computer?",
-    "options": [
-      "Basic Input Output System",
-      "Built-In Operating Service",
-      "Basic Internal OS",
-      "Binary Integrated Operating System"
-    ],
-    "answer": "Basic Input Output System",
-    "id": "science-technology-859"
-  },
-  {
     "difficulty": "medium",
     "category": "science-technology",
     "question": "What does RISC stand for in processor design?",
@@ -15975,19 +15130,6 @@
     ],
     "answer": "HTTPS",
     "id": "science-technology-869"
-  },
-  {
-    "difficulty": "easy",
-    "category": "science-technology",
-    "question": "How many bits are in one byte as of 2026 standard?",
-    "options": [
-      "8",
-      "16",
-      "4",
-      "10"
-    ],
-    "answer": "8",
-    "id": "science-technology-870"
   },
   {
     "difficulty": "hard",
@@ -16235,19 +15377,6 @@
     ],
     "answer": "Suspension bridge",
     "id": "science-technology-891"
-  },
-  {
-    "difficulty": "easy",
-    "category": "science-technology",
-    "question": "Which material is commonly used as a semiconductor in computer chips as of 2026?",
-    "options": [
-      "Copper",
-      "Silicon",
-      "Aluminum",
-      "Gold"
-    ],
-    "answer": "Silicon",
-    "id": "science-technology-892"
   },
   {
     "difficulty": "hard",
