@@ -702,32 +702,6 @@
     "answer": "Doppler effect"
   },
   {
-    "id": "general-301",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "Who is widely credited as the co-founder of Microsoft alongside Bill Gates?",
-    "options": [
-      "Paul Allen",
-      "Steve Jobs",
-      "Larry Page",
-      "Steve Wozniak"
-    ],
-    "answer": "Paul Allen"
-  },
-  {
-    "id": "general-302",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "What does 'HTTP' stand for in web addresses?",
-    "options": [
-      "High Transfer Text Protocol",
-      "HyperText Transfer Protocol",
-      "Home Tool Transfer Protocol",
-      "HyperText Terminal Protocol"
-    ],
-    "answer": "HyperText Transfer Protocol"
-  },
-  {
     "id": "general-303",
     "category": "science-technology",
     "difficulty": "medium",
@@ -804,19 +778,6 @@
       "World Wide Web"
     ],
     "answer": "World Wide Web"
-  },
-  {
-    "id": "general-309",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "Which tech company was founded by Mark Zuckerberg in 2004?",
-    "options": [
-      "Facebook",
-      "Twitter",
-      "Myspace",
-      "LinkedIn"
-    ],
-    "answer": "Facebook"
   },
   {
     "id": "general-310",
@@ -988,19 +949,6 @@
     "answer": "NCSA"
   },
   {
-    "id": "general-323",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "What does 'URL' stand for?",
-    "options": [
-      "Universal Reference Link",
-      "Uniform Resource List",
-      "Uniform Resource Locator",
-      "United Resource Locator"
-    ],
-    "answer": "Uniform Resource Locator"
-  },
-  {
     "id": "general-324",
     "category": "science-technology",
     "difficulty": "medium",
@@ -1027,19 +975,6 @@
     "answer": "IBM 5150"
   },
   {
-    "id": "general-326",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "Which language is primarily used for styling web pages, working alongside HTML?",
-    "options": [
-      "JavaScript",
-      "CSS",
-      "PHP",
-      "SQL"
-    ],
-    "answer": "CSS"
-  },
-  {
     "id": "general-327",
     "category": "science-technology",
     "difficulty": "medium",
@@ -1064,19 +999,6 @@
       "Square"
     ],
     "answer": "Square"
-  },
-  {
-    "id": "general-330",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "What does 'RAM' stand for in computing?",
-    "options": [
-      "Read Access Memory",
-      "Random Access Memory",
-      "Rapid Application Module",
-      "Runtime Allocation Memory"
-    ],
-    "answer": "Random Access Memory"
   },
   {
     "id": "general-427",
@@ -1209,19 +1131,6 @@
     "answer": "Pancreas"
   },
   {
-    "id": "general-541",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "What does the abbreviation 'HTTP' stand for?",
-    "options": [
-      "HyperText Transfer Protocol",
-      "High Transfer Text Protocol",
-      "HyperText Transmission Process",
-      "Home Tool Transfer Protocol"
-    ],
-    "answer": "HyperText Transfer Protocol"
-  },
-  {
     "id": "general-542",
     "category": "science-technology",
     "difficulty": "medium",
@@ -1246,19 +1155,6 @@
       "2.24"
     ],
     "answer": "2.72"
-  },
-  {
-    "id": "general-544",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "What does the abbreviation 'CPU' stand for?",
-    "options": [
-      "Computer Processing Unit",
-      "Central Program Unit",
-      "Core Processing Unit",
-      "Central Processing Unit"
-    ],
-    "answer": "Central Processing Unit"
   },
   {
     "id": "general-546",
@@ -1313,19 +1209,6 @@
     "answer": "Abundant number"
   },
   {
-    "id": "general-550",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "What does 'AI' commonly stand for in technology?",
-    "options": [
-      "Automated Interface",
-      "Artificial Intelligence",
-      "Advanced Integration",
-      "Applied Informatics"
-    ],
-    "answer": "Artificial Intelligence"
-  },
-  {
     "id": "general-551",
     "category": "science-technology",
     "difficulty": "medium",
@@ -1376,19 +1259,6 @@
       "Base"
     ],
     "answer": "Hypotenuse"
-  },
-  {
-    "id": "general-555",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "Which was the first widely-used graphical web browser, released in 1993, that helped popularize the World Wide Web?",
-    "options": [
-      "Netscape",
-      "Internet Explorer",
-      "Mosaic",
-      "Chrome"
-    ],
-    "answer": "Mosaic"
   },
   {
     "id": "general-556",
@@ -1573,19 +1443,6 @@
     "answer": "Inner core"
   },
   {
-    "id": "general-632",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "Which sense organ contains the cochlea and is responsible for hearing?",
-    "options": [
-      "Eye",
-      "Nose",
-      "Tongue",
-      "Ear"
-    ],
-    "answer": "Ear"
-  },
-  {
     "id": "general-729",
     "category": "science-technology",
     "difficulty": "medium",
@@ -1688,19 +1545,6 @@
       "Right triangle"
     ],
     "answer": "Scalene triangle"
-  },
-  {
-    "id": "general-775",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "What does the acronym 'USB' stand for?",
-    "options": [
-      "Universal Serial Bus",
-      "Universal System Bus",
-      "United Serial Bus",
-      "Unified Service Bus"
-    ],
-    "answer": "Universal Serial Bus"
   },
   {
     "id": "general-776",
@@ -1820,19 +1664,6 @@
     "answer": "Bit"
   },
   {
-    "id": "general-787",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "Which search engine, launched in 1998, has become synonymous with searching the internet?",
-    "options": [
-      "Google",
-      "Yahoo",
-      "AltaVista",
-      "Bing"
-    ],
-    "answer": "Google"
-  },
-  {
     "id": "general-788",
     "category": "science-technology",
     "difficulty": "medium",
@@ -1896,19 +1727,6 @@
       "SAS"
     ],
     "answer": "R"
-  },
-  {
-    "id": "general-793",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "Which technology company was founded by Larry Page and Sergey Brin in a garage in 1998?",
-    "options": [
-      "Apple",
-      "Amazon",
-      "Google",
-      "Microsoft"
-    ],
-    "answer": "Google"
   },
   {
     "id": "general-794",
@@ -2093,19 +1911,6 @@
     "answer": "Enzyme"
   },
   {
-    "id": "general-877",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "What is the process called by which water changes from a liquid to a gas?",
-    "options": [
-      "Condensation",
-      "Sublimation",
-      "Evaporation",
-      "Precipitation"
-    ],
-    "answer": "Evaporation"
-  },
-  {
     "id": "general-878",
     "category": "science-technology",
     "difficulty": "medium",
@@ -2143,45 +1948,6 @@
       "The thermosphere"
     ],
     "answer": "The exosphere"
-  },
-  {
-    "id": "general-882",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "Which organ in the human body is primarily responsible for filtering waste from the blood to produce urine?",
-    "options": [
-      "The liver",
-      "The pancreas",
-      "The bladder",
-      "The kidneys"
-    ],
-    "answer": "The kidneys"
-  },
-  {
-    "id": "general-884",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "Which gas, produced by burning fossil fuels, is a major contributor to the greenhouse effect and global warming?",
-    "options": [
-      "Oxygen",
-      "Carbon dioxide",
-      "Nitrogen",
-      "Helium"
-    ],
-    "answer": "Carbon dioxide"
-  },
-  {
-    "id": "general-984",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "What is the term for an intense fear of spiders?",
-    "options": [
-      "Ophidiophobia",
-      "Arachnophobia",
-      "Entomophobia",
-      "Acrophobia"
-    ],
-    "answer": "Arachnophobia"
   },
   {
     "id": "general-986",
@@ -2288,32 +2054,6 @@
     "answer": "-273.15°C"
   },
   {
-    "id": "general-1071",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "Which particle has a negative electric charge?",
-    "options": [
-      "Electron",
-      "Proton",
-      "Neutron",
-      "Positron"
-    ],
-    "answer": "Electron"
-  },
-  {
-    "id": "general-1072",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "What is the process by which a liquid turns into a gas below its boiling point?",
-    "options": [
-      "Evaporation",
-      "Condensation",
-      "Sublimation",
-      "Deposition"
-    ],
-    "answer": "Evaporation"
-  },
-  {
     "id": "general-1073",
     "category": "science-technology",
     "difficulty": "medium",
@@ -2338,19 +2078,6 @@
       "Boyle's law"
     ],
     "answer": "Law of conservation of energy"
-  },
-  {
-    "id": "general-1076",
-    "category": "science-technology",
-    "difficulty": "easy",
-    "question": "What is the pH value of a neutral solution at room temperature?",
-    "options": [
-      "7",
-      "0",
-      "14",
-      "10"
-    ],
-    "answer": "7"
   },
   {
     "id": "general-1077",
@@ -11115,19 +10842,6 @@
     "answer": "Quantum tunneling"
   },
   {
-    "id": "science-technology-458",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "Which fundamental particle acts as the gauge boson for the strong nuclear force, mediating interactions between quarks?",
-    "options": [
-      "Photon",
-      "W boson",
-      "Z boson",
-      "Gluon"
-    ],
-    "answer": "Gluon"
-  },
-  {
     "id": "science-technology-459",
     "category": "science-technology",
     "difficulty": "hard",
@@ -11417,7 +11131,7 @@
     "id": "science-technology-481",
     "category": "science-technology",
     "difficulty": "medium",
-    "question": "Who is credited with inventing the first barcode reader and scanning system, first used commercially in 1974?",
+    "question": "Who is credited with inventing the barcode, patented in 1952?",
     "options": [
       "Norman Woodland",
       "George Laurer",
@@ -11596,19 +11310,6 @@
     "answer": "SFTP"
   },
   {
-    "id": "science-technology-495",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "Which network protocol is used to automatically assign IP addresses to devices on a local network?",
-    "options": [
-      "DNS",
-      "DHCP",
-      "FTP",
-      "SSH"
-    ],
-    "answer": "DHCP"
-  },
-  {
     "id": "science-technology-496",
     "category": "science-technology",
     "difficulty": "easy",
@@ -11737,19 +11438,6 @@
       "Rootkit"
     ],
     "answer": "Trojan horse"
-  },
-  {
-    "id": "science-technology-506",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "Which type of malware can replicate itself and spread to other computers on a network without needing to attach to a host program?",
-    "options": [
-      "Virus",
-      "Worm",
-      "Trojan",
-      "Spyware"
-    ],
-    "answer": "Worm"
   },
   {
     "id": "science-technology-507",
@@ -12025,19 +11713,6 @@
     "answer": "Rough endoplasmic reticulum"
   },
   {
-    "id": "science-technology-528",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "What is the name of the organelles found in plant cells that are the site of photosynthesis?",
-    "options": [
-      "Mitochondria",
-      "Chloroplasts",
-      "Vacuoles",
-      "Ribosomes"
-    ],
-    "answer": "Chloroplasts"
-  },
-  {
     "id": "science-technology-529",
     "category": "science-technology",
     "difficulty": "hard",
@@ -12062,19 +11737,6 @@
       "Stroma"
     ],
     "answer": "Cristae"
-  },
-  {
-    "id": "science-technology-531",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "What is the name of the molecule that serves as the primary energy currency of the cell?",
-    "options": [
-      "DNA",
-      "Glucose",
-      "ATP",
-      "RNA"
-    ],
-    "answer": "ATP"
   },
   {
     "id": "science-technology-532",
@@ -12530,19 +12192,6 @@
       "Rodinia"
     ],
     "answer": "Pangaea"
-  },
-  {
-    "id": "science-technology-567",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "What is the geological term for the process by which rocks are broken down into smaller pieces by physical or chemical means?",
-    "options": [
-      "Erosion",
-      "Weathering",
-      "Lithification",
-      "Subduction"
-    ],
-    "answer": "Weathering"
   },
   {
     "id": "science-technology-568",
@@ -16352,19 +16001,6 @@
     ],
     "answer": "O(log n)",
     "id": "science-technology-872"
-  },
-  {
-    "difficulty": "easy",
-    "category": "science-technology",
-    "question": "What does HTML stand for? Note: HTTP is forbidden, but HTML expansion is allowed.",
-    "options": [
-      "Hyper Transfer Markup Logic",
-      "Hyperlink Text Management Language",
-      "HyperText Markup Language",
-      "HighText Machine Language"
-    ],
-    "answer": "HyperText Markup Language",
-    "id": "science-technology-873"
   },
   {
     "difficulty": "medium",

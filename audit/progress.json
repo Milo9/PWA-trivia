@@ -14235,11 +14235,11 @@
         "science-technology-537",
         "science-technology-538"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-15",
+      "completedAt": "2026-08-15",
+      "issuesFound": 6,
+      "notes": "Fixed 1 factual conflation (science-technology-481 credited Norman Woodland with the 1974 first-commercial barcode-scan event, but that scanning implementation is credited to George Laurer's IBM team -- reworded to ask about the 1952 barcode patent, which is genuinely Woodland's). Cut 5 duplicates against already-done siblings (458 vs 361 gluon/strong-force, 495 vs 379 DHCP, 506 vs general-327 worm, 528 vs general-2457 chloroplasts/photosynthesis, 531 vs science-technology-159 ATP). Logged 2 backlog notes for duplicates whose sibling is an orphan (integer-circuit Kilby/Noyce pair 448/849, tRNA-carries-amino-acids pair 473/693). No other factual errors or answer-leaks found among the 50 questions reviewed."
     },
     {
       "chunkId": "science-technology-p1-015",
@@ -14296,11 +14296,11 @@
         "general-302",
         "general-305"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-15",
+      "completedAt": "2026-08-15",
+      "issuesFound": 4,
+      "notes": "Cut 3 duplicates against already-done siblings (science-technology-567 vs general-2347, both rock-weathering fact; general-301 vs general-1767, both Paul-Allen-cofounded-Microsoft; general-302 vs general-1760, both HTTP acronym). Logged 1 backlog note for a duplicate whose sibling is an orphan (Celsius-scale-named-after pair 574/general-4062). Left several other same-answer clusters (gravity/general-1344, heart/general-1510, kidney/general-882+1973, CPU/general-544+1222+1766) uncut since none of their siblings have been reviewed yet -- they'll self-resolve via the auto same-answer print when those chunks come up. No factual errors or answer-leaks found among the 50 questions reviewed."
     },
     {
       "chunkId": "science-technology-p1-016",
@@ -14357,11 +14357,11 @@
         "general-1076",
         "general-1080"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-15",
+      "completedAt": "2026-08-15",
+      "issuesFound": 20,
+      "notes": "Cut 20 duplicates: 17 against already-done siblings elsewhere in the corpus (309 vs 548 Facebook-2004, 323 vs 559 URL-acronym, 326 vs science-technology-429 CSS, 330 vs science-technology-045 RAM, 541 vs 1760 HTTP, 544 vs 305 CPU, 555 vs 1231 Mosaic-first-browser, 632 vs 1102 ear/cochlea, 775 vs 1391 USB, 877+1072 vs 192 evaporation (triplicate), 882 vs 154 kidney, 884 vs 149 CO2-greenhouse-gas, 984 vs science-technology-042 arachnophobia, 1071 vs 159 electron-negative-charge, 1076 vs 428 pH-neutral=7), plus 3 in-chunk internal duplicates (550 vs kept 312 AI-acronym, 787+793 vs kept 315 Google-founded-1998, and science-technology-873 vs kept 547 HTML-acronym -- 873 also had a leaked drafting-instruction artifact baked into its question text, 'Note: HTTP is forbidden, but HTML expansion is allowed', so cutting it as a duplicate also removed a malformed question). Logged 1 backlog note for a duplicate whose sibling is an orphan (bit/smallest-unit-of-digital-info pair 786/science-technology-866). Left several other same-answer clusters uncut since no sibling has been reviewed yet (WWW-acronym, AI-acronym/1389, Google-founded/1392+1765+2191, Darwin-evolution, Helium-balloons, CPU/1222+1766, rainbow-colors, Pi-definition, Calcium-bones, CO2/1947, Arachnophobia/1798+2614, Electron/1949+2228, Evaporation/1954, pH-neutral/2229+science-technology-192) -- they'll self-resolve via the auto same-answer print when those chunks come up. No other factual errors or answer-leaks found among the 50 questions reviewed."
     },
     {
       "chunkId": "science-technology-p1-017",

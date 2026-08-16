@@ -3,6 +3,7 @@
   "general-137": "46 human chromosomes duplicate: general-137 (this) and science-technology-683 (orphan, 'chromosomes in a human somatic cell'). Unreachable via next -- resolve whenever touched.",
   "general-178": "Neon-in-signs duplicate: general-178 (this) and science-technology-806 (orphan, 'noble gas used in bright orange-red advertising signs'). Unreachable via next -- resolve whenever touched.",
   "general-316": "Prime-number-definition duplicate: general-316 (this) and general-4195 (orphan, 'natural number >1 with no divisors other than 1 and itself'). Unreachable via next -- resolve whenever touched.",
+  "general-4062": "Duplicate of science-technology-574 (both: who is the Celsius temperature scale named after/credited with inventing -> Anders Celsius). 4062 is an orphan (no chunk, entire general-4xxx range is orphaned), 574 already reviewed 2026-08-15 and kept. Cut 4062 when its orphan chunk is eventually reached.",
   "science-technology-149": "Helicase/DNA-unwinding duplicate of orphan science-technology-846.",
   "science-technology-174": "Tibia/shinbone duplicate of orphan science-technology-677 ('larger weight-bearing shinbone').",
   "science-technology-186": "DNS acronym duplicate of orphan science-technology-855 (same 'what does DNS stand for' fact).",
@@ -19,5 +20,8 @@
   "science-technology-358": "Unix (Bell Labs 1969) duplicate of orphan science-technology-725.",
   "science-technology-367": "Watt/SI power unit duplicate of orphan science-technology-903.",
   "science-technology-376": "Stack/LIFO duplicate of orphan science-technology-862.",
-  "science-technology-456": "Sievert/equivalent-radiation-dose triplicate: science-technology-456 (this, 'SI derived unit of equivalent radiation dose'), science-technology-758 (orphan, 'SI unit measures equivalent dose of ionizing radiation'), general-4034 (orphan, 'unit of dose equivalent represented by Sv') are the same fact reworded. Both siblings are unreachable orphans -- pick one survivor and cut the others whenever touched."
+  "science-technology-456": "Sievert/equivalent-radiation-dose triplicate: science-technology-456 (this, 'SI derived unit of equivalent radiation dose'), science-technology-758 (orphan, 'SI unit measures equivalent dose of ionizing radiation'), general-4034 (orphan, 'unit of dose equivalent represented by Sv') are the same fact reworded. Both siblings are unreachable orphans -- pick one survivor and cut the others whenever touched.",
+  "science-technology-693": "Duplicate of science-technology-473 (both: type of RNA that carries amino acids to the ribosome -> tRNA). 693 is an orphan (no chunk), 473 already reviewed 2026-08-15 and kept. Cut 693 when its orphan chunk is eventually reached.",
+  "science-technology-849": "Duplicate of science-technology-448 (both: two engineers who independently invented the integrated circuit, late 1950s -> Jack Kilby and Robert Noyce). 849 is an orphan (no chunk), 448 already reviewed 2026-08-15 and kept. Cut 849 when its orphan chunk is eventually reached.",
+  "science-technology-866": "Duplicate of general-786 (both: name for the smallest unit of digital information/binary digit -> Bit). 866 is an orphan (no chunk), 786 already reviewed 2026-08-15 and kept. Cut 866 when its orphan chunk is eventually reached."
 }
