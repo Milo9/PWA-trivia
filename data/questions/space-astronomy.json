@@ -1703,19 +1703,6 @@
     "answer": "Active galactic nucleus"
   },
   {
-    "id": "general-2712",
-    "category": "space-astronomy",
-    "difficulty": "hard",
-    "question": "Which planet has a single rotation on its axis that takes longer than its full orbit around the Sun?",
-    "options": [
-      "Venus",
-      "Mercury",
-      "Mars",
-      "Neptune"
-    ],
-    "answer": "Venus"
-  },
-  {
     "id": "general-2713",
     "category": "space-astronomy",
     "difficulty": "medium",
@@ -2091,19 +2078,6 @@
       "John Glenn"
     ],
     "answer": "Alexei Leonov"
-  },
-  {
-    "id": "space-astronomy-011",
-    "category": "space-astronomy",
-    "difficulty": "hard",
-    "question": "Which planet in our solar system has a rotational period that is longer than its orbital period?",
-    "options": [
-      "Venus",
-      "Mercury",
-      "Uranus",
-      "Neptune"
-    ],
-    "answer": "Venus"
   },
   {
     "id": "space-astronomy-012",
@@ -3136,7 +3110,7 @@
     "id": "space-astronomy-091",
     "category": "space-astronomy",
     "difficulty": "hard",
-    "question": "What is the term for the time it takes for a star to complete one rotation?",
+    "question": "What is the term for the time it takes for a planet to complete one rotation relative to the distant stars?",
     "options": [
       "Orbital period",
       "Sidereal day",
@@ -5785,19 +5759,6 @@
     "answer": "Mercury"
   },
   {
-    "id": "space-astronomy-295",
-    "category": "space-astronomy",
-    "difficulty": "hard",
-    "question": "The Roche limit is the distance within which what happens?",
-    "options": [
-      "A moon would break apart due to tidal forces",
-      "Light cannot escape a black hole",
-      "Solar wind stops",
-      "Atmosphere ends"
-    ],
-    "answer": "A moon would break apart due to tidal forces"
-  },
-  {
     "id": "space-astronomy-296",
     "category": "space-astronomy",
     "difficulty": "easy",
@@ -6368,19 +6329,6 @@
       "Hygiea"
     ],
     "answer": "Pallas"
-  },
-  {
-    "id": "space-astronomy-340",
-    "difficulty": "hard",
-    "category": "space-astronomy",
-    "question": "Rheasilvia, one of the tallest mountains in the solar system, is the central peak of an impact crater on which body?",
-    "options": [
-      "The Moon",
-      "Mercury",
-      "Vesta",
-      "Mars"
-    ],
-    "answer": "Vesta"
   },
   {
     "id": "space-astronomy-341",

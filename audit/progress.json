@@ -14738,11 +14738,11 @@
         "space-astronomy-114",
         "space-astronomy-117"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-16",
+      "completedAt": "2026-08-16",
+      "issuesFound": 3,
+      "notes": "Cut 2 Venus day-longer-than-year duplicates (general-2712, space-astronomy-011) against already-done sibling general-653. Fixed 1 named-thing-confusion error (space-astronomy-091 asked for 'the time it takes for a star to complete one rotation' but the answer, sidereal day, is a planet's rotation period relative to distant stars, not a star's own spin -- reworded stem to 'a planet'). Verified IC 1101-largest-galaxy (space-astronomy-001) and Moon lemon-shaped (space-astronomy-016) claims via WebSearch, both hold up. Logged 2 backlog notes for duplicates whose sibling is an orphan (general-2714/space-astronomy-977 Luna-9 first-soft-landing pair; space-astronomy-059/space-astronomy-895 Cassini-carried-Huygens pair). No other factual errors or answer-leaks found among the 50 questions reviewed."
     },
     {
       "chunkId": "space-astronomy-p1-002",
@@ -14799,11 +14799,11 @@
         "space-astronomy-320",
         "space-astronomy-331"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-16",
+      "completedAt": "2026-08-16",
+      "issuesFound": 1,
+      "notes": "Cut 1 in-chunk duplicate: space-astronomy-295 ('Roche limit is the distance within which what happens?') is a reversed-direction restatement of space-astronomy-227 ('term for the distance within which tidal forces tear apart a body held together only by gravity?'), same fact both directions -- kept the more detailed 227. Heavy WebSearch verification pass on this chunk's many 'as of 2026' superlative claims (most massive/luminous/largest-radius known star, Feb-2026 exoplanet count of 6,128, Pandora launch, Themis first test flight, Schwabe-cycle magnetic polarity flip, Vega pole-star timing, Makemake as second-brightest KBO, Local Void) -- all held up as accurate. No other factual errors, answer-leaks, or duplicates found among the 50 questions reviewed."
     },
     {
       "chunkId": "space-astronomy-p1-003",
@@ -14860,11 +14860,11 @@
         "space-astronomy-443",
         "space-astronomy-444"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-16",
+      "completedAt": "2026-08-16",
+      "issuesFound": 4,
+      "notes": "Cut space-astronomy-340: it misattributed the name 'Rheasilvia' to Vesta's central-peak mountain (verified via WebSearch -- Rheasilvia is the name of the impact crater/basin itself, the peak within it is unnamed), and was also a near-duplicate of orphan space-astronomy-973 which already phrases the fact correctly ('Rheasilvia is a huge impact basin located on which asteroid?'). Logged 3 backlog notes for duplicates whose sibling is an orphan (346/1111 COBE-first-CMB-satellite pair; 433/1161 Kerberos-2011-discovery pair; 434/1160 Styx pair, where 1160 also carries a wrong discovery year of 2011 instead of 2012 -- flagged to just cut rather than fix, since it's slated for removal as the duplicate anyway). Verified several other specific hard-difficulty claims via WebSearch (M31* as a real designation for Andromeda's central black hole, Amalthea as Jupiter's fifth-largest moon, Mars 3's ~14.5-second survival time), all held up. No other factual errors or answer-leaks found among the 50 questions reviewed."
     },
     {
       "chunkId": "space-astronomy-p1-004",
