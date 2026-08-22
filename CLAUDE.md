@@ -61,6 +61,27 @@ the right order, and skipping steps (e.g. committing without stamping)
 means phones won't pick up new content. Write the commit message yourself based on the
 actual diff; `ship` won't do that part for you.
 
+**For a multi-line commit message, don't pass it as an inline `npm run
+ship -- "..."` argument — write it to a file and use `--file` instead:**
+
+```
+npm run ship -- --file <path-to-message-file>
+```
+
+Root cause (confirmed 2026-08-22): on Windows, `npm run` relaunches the
+underlying script through `cmd.exe`, and cmd.exe's command-line parsing
+truncates at the first raw newline inside a quoted argument — everything
+after the first line silently vanishes before `ship.js` ever sees it.
+This isn't a `ship.js` or git bug (a multi-line string handed to
+`execFileSync` passes through to git untouched); it's specifically the
+`npm run ... -- "..."` shell hop on this machine, confirmed by
+reproducing it with a throwaway argv-dumping script both via plain
+`node` (survives intact) and via `npm run` (truncated to the first
+line). Put the message file **outside this repo** — e.g. the scratchpad
+directory — since `ship` runs `git add -A` and would otherwise sweep a
+same-repo message file into the commit it describes. A single-line
+message can still be passed inline as before.
+
 If `npm run validate` fails, fix the reported errors before shipping —
 don't bypass it.
 

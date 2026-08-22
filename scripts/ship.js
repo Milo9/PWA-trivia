@@ -7,6 +7,16 @@
 //
 // Usage: node scripts/ship.js "commit message"
 //    or: npm run ship -- "commit message"
+//
+// For a multi-line commit message, don't pass it as an inline argument:
+// on Windows, `npm run` relaunches the script through cmd.exe, whose
+// command-line parsing truncates at the first raw newline inside a
+// quoted argument, silently dropping everything after the first line.
+// Write the message to a file *outside this repo* (`ship` runs
+// `git add -A`, so a file left inside the repo gets swept into the
+// commit) and pass it instead:
+//   node scripts/ship.js --file /path/to/message.txt
+//   npm run ship -- --file /path/to/message.txt
 
 const { execFileSync } = require("child_process");
 const fs = require("fs");
@@ -27,9 +37,25 @@ function bumpVersion() {
   console.log(`Bumped version.json to build ${data.build}`);
 }
 
-const message = process.argv.slice(2).join(" ").trim();
+const USAGE =
+  'Usage: node scripts/ship.js "commit message"\n' +
+  "   or: node scripts/ship.js --file <path-to-message-file>  (for multi-line messages)";
+
+const args = process.argv.slice(2);
+let message;
+const fileFlagIndex = args.indexOf("--file");
+if (fileFlagIndex !== -1) {
+  const filePath = args[fileFlagIndex + 1];
+  if (!filePath) {
+    console.error(USAGE);
+    process.exit(1);
+  }
+  message = fs.readFileSync(path.resolve(filePath), "utf8").trim();
+} else {
+  message = args.join(" ").trim();
+}
 if (!message) {
-  console.error('Usage: node scripts/ship.js "commit message"');
+  console.error(USAGE);
   process.exit(1);
 }
 

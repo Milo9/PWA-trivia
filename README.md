@@ -156,7 +156,11 @@ tokens and re-auditing shouldn't:
    and the git add/commit/push into one command — it still won't write the
    commit message for you, since that requires actually knowing what
    changed, but it guarantees validate-then-stamp always runs first and
-   collapses the rest into one call.
+   collapses the rest into one call. For a multi-line message, write it to
+   a file outside the repo and pass `npm run ship -- --file <path>` instead
+   of the inline form — see CLAUDE.md's "Always ship after making changes"
+   for why (a Windows `npm run` / cmd.exe quirk truncates inline multi-line
+   arguments at the first newline).
 
 ### Finding what to draft next
 
