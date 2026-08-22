@@ -702,19 +702,6 @@
     "answer": "Supernova"
   },
   {
-    "id": "general-923",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "Which planet is often called Earth's 'twin' due to its similar size, though its atmosphere is far more hostile?",
-    "options": [
-      "Venus",
-      "Mars",
-      "Mercury",
-      "Neptune"
-    ],
-    "answer": "Venus"
-  },
-  {
     "id": "general-924",
     "category": "space-astronomy",
     "difficulty": "easy",
@@ -1001,19 +988,6 @@
     "answer": "Supernova"
   },
   {
-    "id": "general-1111",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "What is the name of the space telescope that succeeded Hubble, launched in December 2021?",
-    "options": [
-      "James Webb Space Telescope",
-      "Kepler Space Telescope",
-      "Spitzer Space Telescope",
-      "Chandra X-ray Observatory"
-    ],
-    "answer": "James Webb Space Telescope"
-  },
-  {
     "id": "general-1114",
     "category": "space-astronomy",
     "difficulty": "easy",
@@ -1051,19 +1025,6 @@
       "Falcon"
     ],
     "answer": "Crew Dragon"
-  },
-  {
-    "id": "general-1117",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "How long does it take sunlight to reach Earth on average?",
-    "options": [
-      "About 8 minutes",
-      "About 1 minute",
-      "About 30 minutes",
-      "About 1 hour"
-    ],
-    "answer": "About 8 minutes"
   },
   {
     "id": "general-1267",
@@ -1116,19 +1077,6 @@
       "Tycho Brahe"
     ],
     "answer": "Nicolaus Copernicus"
-  },
-  {
-    "id": "general-1341",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "What unit of astronomical distance is defined as the distance light travels in one year?",
-    "options": [
-      "Light year",
-      "Astronomical unit",
-      "Parsec",
-      "Solar radius"
-    ],
-    "answer": "Light year"
   },
   {
     "id": "general-1445",
@@ -1207,19 +1155,6 @@
       "Sirius"
     ],
     "answer": "Proxima Centauri"
-  },
-  {
-    "id": "general-1525",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "What is the term for a star's final explosive collapse, dispersing matter into space?",
-    "options": [
-      "A supernova",
-      "A nova",
-      "A supergiant",
-      "A pulsar"
-    ],
-    "answer": "A supernova"
   },
   {
     "id": "general-1526",
@@ -1482,19 +1417,6 @@
     "answer": "1969"
   },
   {
-    "id": "general-2322",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "Which planet is often called Earth's 'twin' due to similar size?",
-    "options": [
-      "Venus",
-      "Mars",
-      "Mercury",
-      "Neptune"
-    ],
-    "answer": "Venus"
-  },
-  {
     "id": "general-2333",
     "category": "space-astronomy",
     "difficulty": "easy",
@@ -1519,19 +1441,6 @@
       "Neptune"
     ],
     "answer": "Saturn"
-  },
-  {
-    "id": "general-2350",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "Which planet in our solar system rotates on its side, almost perpendicular to its orbit?",
-    "options": [
-      "Uranus",
-      "Neptune",
-      "Saturn",
-      "Jupiter"
-    ],
-    "answer": "Uranus"
   },
   {
     "id": "general-2353",
@@ -1584,19 +1493,6 @@
       "Saturn"
     ],
     "answer": "Neptune"
-  },
-  {
-    "id": "general-2388",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "Which planet is often visible as a bright 'morning star' or 'evening star' in Earth's sky?",
-    "options": [
-      "Venus",
-      "Mars",
-      "Jupiter",
-      "Mercury"
-    ],
-    "answer": "Venus"
   },
   {
     "id": "general-2399",
@@ -1677,19 +1573,6 @@
     "answer": "Neptune"
   },
   {
-    "id": "general-2612",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "What is the name of the layer of the Sun that is visible to observers on Earth as its surface?",
-    "options": [
-      "Photosphere",
-      "Chromosphere",
-      "Corona",
-      "Core"
-    ],
-    "answer": "Photosphere"
-  },
-  {
     "id": "general-2711",
     "category": "space-astronomy",
     "difficulty": "hard",
@@ -1701,19 +1584,6 @@
       "Stellar nursery"
     ],
     "answer": "Active galactic nucleus"
-  },
-  {
-    "id": "general-2713",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "What is the name of the reusable SpaceX spacecraft that carries astronauts to the International Space Station?",
-    "options": [
-      "Crew Dragon",
-      "Starliner",
-      "Orion",
-      "Dragon XL"
-    ],
-    "answer": "Crew Dragon"
   },
   {
     "id": "general-2714",
@@ -1838,12 +1708,12 @@
     "difficulty": "medium",
     "question": "The Soviet probe Mars 3 became the first spacecraft to soft-land on Mars in 1971, but its mission was cut short after only how long?",
     "options": [
-      "About 110 seconds, after which contact was lost",
+      "About 110 seconds",
       "One full Martian day",
       "Roughly two weeks",
       "Just under an hour"
     ],
-    "answer": "About 110 seconds, after which contact was lost"
+    "answer": "About 110 seconds"
   },
   {
     "id": "general-2820",
@@ -1857,19 +1727,6 @@
       "Vostok 1"
     ],
     "answer": "Vostok 6"
-  },
-  {
-    "id": "general-2822",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "Sputnik 1, launched by the Soviet Union in 1957, is significant as the first what?",
-    "options": [
-      "Artificial satellite to orbit Earth",
-      "Crewed spacecraft to reach orbit",
-      "Probe to photograph the far side of the Moon",
-      "Rocket to exceed the speed of sound"
-    ],
-    "answer": "Artificial satellite to orbit Earth"
   },
   {
     "id": "general-2823",
@@ -2054,19 +1911,6 @@
     "answer": "Titan"
   },
   {
-    "id": "space-astronomy-009",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "What was the name of the first dog to orbit the Earth in space?",
-    "options": [
-      "Belka",
-      "Laika",
-      "Strelka",
-      "Musha"
-    ],
-    "answer": "Laika"
-  },
-  {
     "id": "space-astronomy-010",
     "category": "space-astronomy",
     "difficulty": "hard",
@@ -2156,19 +2000,6 @@
       "2026"
     ],
     "answer": "2011"
-  },
-  {
-    "id": "space-astronomy-018",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "On which planet does a single day (one full rotation) last longer than a single year (one full orbit around the Sun)?",
-    "options": [
-      "Venus",
-      "Mercury",
-      "Mars",
-      "Jupiter"
-    ],
-    "answer": "Venus"
   },
   {
     "id": "space-astronomy-019",
@@ -2312,19 +2143,6 @@
       "Gemini"
     ],
     "answer": "Vostok"
-  },
-  {
-    "id": "space-astronomy-030",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "What is the name of the first man-made satellite to orbit the Earth?",
-    "options": [
-      "Sputnik 1",
-      "Explorer 1",
-      "Vanguard 1",
-      "Telstar 1"
-    ],
-    "answer": "Sputnik 1"
   },
   {
     "id": "space-astronomy-031",
@@ -2473,14 +2291,14 @@
     "id": "space-astronomy-042",
     "category": "space-astronomy",
     "difficulty": "medium",
-    "question": "What is the name of the large, dark feature on Pluto often referred to as its 'heart'?",
+    "question": "What is the name of the large, bright feature on Pluto often referred to as its 'heart'?",
     "options": [
       "Sputnik Planitia",
       "Tombaugh Regio",
       "Oz Terra",
       "Tartarus Dorsa"
     ],
-    "answer": "Sputnik Planitia"
+    "answer": "Tombaugh Regio"
   },
   {
     "id": "space-astronomy-043",
@@ -2546,19 +2364,6 @@
       "Photons"
     ],
     "answer": "WIMPs"
-  },
-  {
-    "id": "space-astronomy-048",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "The 'Goldilocks Zone' is another name for which astronomical region?",
-    "options": [
-      "The asteroid belt",
-      "The Kuiper Belt",
-      "The habitable zone",
-      "The Oort Cloud"
-    ],
-    "answer": "The habitable zone"
   },
   {
     "id": "space-astronomy-049",
@@ -2886,19 +2691,6 @@
     "answer": "Singularity"
   },
   {
-    "id": "space-astronomy-074",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "What is the term for a star that has exploded?",
-    "options": [
-      "Black hole",
-      "Neutron star",
-      "Supernova",
-      "Pulsar"
-    ],
-    "answer": "Supernova"
-  },
-  {
     "id": "space-astronomy-075",
     "category": "space-astronomy",
     "difficulty": "hard",
@@ -2949,19 +2741,6 @@
       "Parsec scale"
     ],
     "answer": "OBAFGKM"
-  },
-  {
-    "id": "space-astronomy-079",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "What is the term for the distance light travels in one year?",
-    "options": [
-      "Parsec",
-      "Light-year",
-      "Astronomical Unit",
-      "Kiloparsec"
-    ],
-    "answer": "Light-year"
   },
   {
     "id": "space-astronomy-080",
@@ -3326,19 +3105,6 @@
     ],
     "answer": "Mars",
     "id": "space-astronomy-107"
-  },
-  {
-    "difficulty": "medium",
-    "category": "space-astronomy",
-    "question": "Which moon has a nitrogen-rich atmosphere?",
-    "options": [
-      "Europa",
-      "Ganymede",
-      "Titan",
-      "Enceladus"
-    ],
-    "answer": "Titan",
-    "id": "space-astronomy-108"
   },
   {
     "difficulty": "hard",
@@ -3720,7 +3486,7 @@
   {
     "difficulty": "medium",
     "category": "space-astronomy",
-    "question": "Which mission is currently studying the Sun’s corona?",
+    "question": "Which NASA mission, launched in 2018, is dedicated to studying the Sun's corona and solar wind at extremely close range?",
     "options": [
       "SOHO",
       "Solar Orbiter",
@@ -3742,19 +3508,6 @@
     ],
     "answer": "Artemis",
     "id": "space-astronomy-139"
-  },
-  {
-    "difficulty": "medium",
-    "category": "space-astronomy",
-    "question": "Which ESA mission is designed to study Jupiter’s moons?",
-    "options": [
-      "Europa Clipper",
-      "Cassini",
-      "Galileo",
-      "JUICE"
-    ],
-    "answer": "JUICE",
-    "id": "space-astronomy-140"
   },
   {
     "difficulty": "medium",
@@ -4093,19 +3846,6 @@
     ],
     "answer": "Haumea",
     "id": "space-astronomy-166"
-  },
-  {
-    "difficulty": "medium",
-    "category": "space-astronomy",
-    "question": "Which dwarf planet was discovered in 2005 and led to Pluto’s reclassification?",
-    "options": [
-      "Haumea",
-      "Makemake",
-      "Eris",
-      "Sedna"
-    ],
-    "answer": "Eris",
-    "id": "space-astronomy-167"
   },
   {
     "difficulty": "hard",
@@ -8112,19 +7852,6 @@
     "answer": "WMAP"
   },
   {
-    "id": "space-astronomy-478",
-    "category": "space-astronomy",
-    "difficulty": "hard",
-    "question": "Which NASA satellite, launched in 1989, made the first precise measurement of the cosmic microwave background's blackbody spectrum?",
-    "options": [
-      "Planck",
-      "IRAS",
-      "WMAP",
-      "COBE"
-    ],
-    "answer": "COBE"
-  },
-  {
     "id": "space-astronomy-479",
     "category": "space-astronomy",
     "difficulty": "hard",
@@ -8258,7 +7985,7 @@
     "id": "space-astronomy-489",
     "category": "space-astronomy",
     "difficulty": "hard",
-    "question": "What is the name of the dwarf planet discovered in 2005 that is slightly smaller than Pluto and has a highly inclined orbit of 29 degrees?",
+    "question": "What is the name of the dwarf planet discovered in 2005 that is roughly two-thirds the diameter of Pluto and has a highly inclined orbit of 29 degrees?",
     "options": [
       "136108 Haumea",
       "136472 Makemake",
@@ -8271,14 +7998,14 @@
     "id": "space-astronomy-490",
     "category": "space-astronomy",
     "difficulty": "hard",
-    "question": "What is the name of the largest known centaur—a class of icy small Solar System bodies orbiting between Jupiter and Neptune—discovered in 1977?",
+    "question": "What is the name of the largest known centaur—a class of icy small Solar System bodies orbiting between Jupiter and Neptune—discovered in 1997?",
     "options": [
       "7066 Nessus",
       "10199 Chariklo",
       "5145 Pholus",
       "2060 Chiron"
     ],
-    "answer": "2060 Chiron"
+    "answer": "10199 Chariklo"
   },
   {
     "id": "space-astronomy-491",
@@ -8323,7 +8050,7 @@
     "id": "space-astronomy-494",
     "category": "space-astronomy",
     "difficulty": "hard",
-    "question": "What is the name of the large main-belt asteroid, discovered in 1857, that is famous for being the first asteroid found to have a moon, named Petit-Prince?",
+    "question": "What is the name of the large main-belt asteroid, discovered in 1857, whose moon Petit-Prince was the first asteroid moon ever discovered using a ground-based telescope?",
     "options": [
       "243 Ida",
       "283 Emma",
@@ -10415,7 +10142,7 @@
   {
     "difficulty": "hard",
     "category": "space-astronomy",
-    "question": "Which NASA mission first measured the solar wind directly in 1959?",
+    "question": "Which spacecraft first measured the solar wind directly in 1959?",
     "options": [
       "Vanguard 1",
       "Luna 1",

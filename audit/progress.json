@@ -14921,11 +14921,11 @@
         "space-astronomy-632",
         "space-astronomy-647"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-22",
+      "completedAt": "2026-08-22",
+      "issuesFound": 5,
+      "notes": "Cut space-astronomy-478 (duplicate of already-done space-astronomy-346, COBE-first-CMB-satellite-1989 fact). Fixed 3 factual errors: space-astronomy-490 claimed Chiron (discovered 1977) was the 'largest known centaur' -- Chariklo (258km, discovered 1997) is actually larger, so reworded to ask about the largest known centaur discovered in 1997 and changed the answer to Chariklo; space-astronomy-489 claimed Makemake is 'slightly smaller than Pluto' -- it's actually about two-thirds Pluto's diameter (that description fits Eris, which has a different orbital inclination), reworded to 'roughly two-thirds the diameter'; space-astronomy-494 claimed Eugenia's moon Petit-Prince was 'the first asteroid found to have a moon' -- that honor belongs to Ida's moon Dactyl (found 1993 by Galileo), Petit-Prince (1998) was actually the first asteroid moon discovered via ground-based telescope, reworded accordingly. Logged 1 backlog note (space-astronomy-477 dup of orphan space-astronomy-909, both WMAP/CMB-2001 facts). Verified via WebSearch: Juno's 8-north/5-south circumpolar cyclone count (524) and several other hard-difficulty specifics all held up."
     },
     {
       "chunkId": "space-astronomy-p1-005",
@@ -14982,11 +14982,11 @@
         "general-2350",
         "general-2357"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-22",
+      "completedAt": "2026-08-22",
+      "issuesFound": 8,
+      "notes": "Fixed 1 factual error: space-astronomy-655 mislabeled Luna 1 (a Soviet spacecraft) as a 'NASA mission' -- reworded to 'spacecraft'. Cut 7 duplicates: general-2350 was a duplicate of already-done general-417 (both: Uranus's ~98-degree axial tilt/spinning on its side); the remaining 6 were in-chunk duplicates -- general-1341 vs general-150 (light-year definition, kept 150), general-1111 vs general-413/general-666 (JWST succeeded Hubble Dec 2021, kept 413 and 666 since 666's infrared-observation angle is a distinct fact), general-1117 vs general-414 (sunlight takes ~8 min to reach Earth, kept 414), general-1525 vs general-1110 (generic definition of 'supernova', kept 1110), and general-923 + general-2322 vs general-1952 (Venus called Earth's 'twin' due to similar size, kept 1952 as the most specific phrasing). No other factual errors, answer-leaks, or distractor-correctness bugs found among the 50 questions reviewed; several other same-answer clusters (Jupiter's Great Red Spot, JWST via general-2716, closest-planet-to-Sun via general-1267, first-human-on-Moon via general-697/1109) involve only pending siblings and will self-resolve when those chunks are reached."
     },
     {
       "chunkId": "space-astronomy-p1-006",
@@ -15043,11 +15043,11 @@
         "space-astronomy-079",
         "space-astronomy-082"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-22",
+      "completedAt": "2026-08-22",
+      "issuesFound": 14,
+      "notes": "Fixed 2 factual errors: general-2819 (Mars 3's 1971 landing) had an answer-leak, the correct option was a full sentence next to short distractors -- trimmed to match; space-astronomy-042 called Pluto's heart feature 'dark' when Tombaugh Regio is actually the brightest feature on Pluto, and the marked answer (Sputnik Planitia) is technically only the west lobe of the heart, not the whole heart shape -- fixed wording to 'bright' and changed the answer to Tombaugh Regio. Cut 10 duplicates, all against already-done siblings: general-2388/general-650 (Venus morning-evening star), general-2612/general-2239 (photosphere=Sun's visible layer), general-2713/general-1116 (SpaceX Crew Dragon to ISS), space-astronomy-030 and general-2822/general-133 (Sputnik 1 first artificial satellite -- 2822 was also a reversed-direction duplicate of 030), space-astronomy-009/general-654 (Laika first animal in orbit), space-astronomy-048/general-936 (Goldilocks Zone=habitable zone), space-astronomy-074/general-1110 (generic 'star that exploded'=supernova), space-astronomy-079/general-150 (light-year definition), space-astronomy-018/general-653 (Venus day longer than year). Logged 4 backlog notes for duplicates whose sibling is an orphan (Explorer-1-first-US-satellite, Hawking-radiation, Enceladus-south-pole-plumes, Ingenuity-Mars-helicopter pairs). No other factual errors or answer-leaks found among the 50 questions reviewed; several large same-answer clusters (Mimas/Herschel-crater Death-Star x5, Venus-day-longer-than-year via general-2388-cluster remnants, Voyager-1-launch-year, Kepler-mission) involve only pending siblings and will self-resolve as those chunks are reached."
     },
     {
       "chunkId": "space-astronomy-p1-007",
@@ -15104,11 +15104,11 @@
         "space-astronomy-177",
         "space-astronomy-178"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-22",
+      "completedAt": "2026-08-22",
+      "issuesFound": 15,
+      "notes": "Fixed 1 stale-superlative issue: space-astronomy-138 asked which mission is 'currently' studying the Sun's corona -- reworded to pin the fact (launched 2018, dedicated to studying the corona/solar wind at close range) instead of an unpinned 'currently' claim. Cut 3 duplicates against already-done siblings: space-astronomy-108/space-astronomy-008 (Titan's nitrogen-rich atmosphere), space-astronomy-140/space-astronomy-373 (ESA's JUICE mission to Jupiter's moons), space-astronomy-167/general-2718 (Eris's 2005 discovery prompting Pluto's reclassification). Logged 11 backlog notes for duplicates whose sibling is an orphan (Betelgeuse, Antares, MESSENGER-first-at-Mercury, Artemis program, age-of-the-universe, Laniakea supercluster, Planck/CMB, Cassini Division, New Horizons/Arrokoth, 'Oumuamua, and a generic white-dwarf-definition pair). No other factual errors or answer-leaks found among the 50 questions reviewed; several multi-fact clusters about the same entity (Titan's atmosphere/lakes/size, Cassini's Saturn-orbit/Enceladus-study/Huygens-delivery, Dawn's dwarf-planet-orbit/two-body-orbit, Pluto's moon-count/heart-feature) were verified as legitimately distinct facts and kept."
     },
     {
       "chunkId": "space-astronomy-p1-008",
