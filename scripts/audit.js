@@ -58,6 +58,29 @@ const MAX_ANSWER_MATCHES_SHOWN = 5;
 const ANSWER_LEAK_MAX_DISTRACTOR_LENGTH = 22;
 const ANSWER_LEAK_MIN_ANSWER_LENGTH = 45;
 
+// CLAUDE.md "Malformed options carrying leaked drafting reasoning, not a
+// hedge": the drafting agent's own self-correction ends up verbatim in an
+// option string ("Diminished fifth is same but answer is Augmented fourth").
+// Distinct from check-draft.js's HEDGE_PATTERNS (meta-commentary read as an
+// answer, e.g. "not given a specific name") — this never runs against
+// shipped content since check-draft.js only sees pre-merge drafts. A bare
+// "?" catches a leaked rhetorical aside; keep this list conservative (a lead,
+// not a verdict) since a false positive costs review tokens.
+const LEAKED_REASONING_PATTERN = /\bbut\b|\btrick\b:|\bis same\b|\?/i;
+
+// CLAUDE.md "Stale record-holder / superlative claims": pin "the only X" /
+// "the current largest X" to a time period so it doesn't silently become
+// false later. Word list matches the corpus-grep CLAUDE.md already suggests
+// for a manual spot-check (`as of|currently|current|tied with|record|most
+// recent|latest|newest`) plus "only", called out by name in that same
+// section — deliberately narrower than a generic superlative list (no bare
+// "largest"/"highest"/"most") since those are usually timeless facts
+// ("largest planet") rather than record claims that can be overtaken.
+const UNPINNED_SUPERLATIVE_PATTERN =
+  /\bonly\b|\bcurrently\b|\bcurrent\b|\btied with\b|\brecord\b|\bmost recent\b|\blatest\b|\bnewest\b/i;
+const YEAR_OR_ASOF_PIN_PATTERN = /\bas of\b/i;
+const YEAR_PATTERN = /\b(19|20)\d{2}\b/;
+
 function todayIso() {
   const d = new Date();
   const yyyy = d.getFullYear();
@@ -461,6 +484,36 @@ function printAnswerLeakWarning(q) {
   }
 }
 
+// Same treat-as-a-lead framing as printAnswerLeakWarning: flags every option
+// (including the correct answer) matching the leaked-reasoning pattern, since
+// the leak can land in a distractor or the answer itself.
+function printLeakedReasoningWarning(q) {
+  if (!q || !Array.isArray(q.options)) return;
+  for (const opt of q.options) {
+    if (LEAKED_REASONING_PATTERN.test(opt)) {
+      console.log(`    ! possible leaked reasoning in option: "${opt}"`);
+    }
+  }
+}
+
+// Flags a question+answer containing an unpinned superlative/exclusivity
+// claim ("the only director to...", "the current record holder") with no
+// "as of"/year anywhere to pin it to a point in time. Deliberately scoped to
+// just the question stem and the correct answer, NOT the distractors — a
+// wrong option is allowed to say things that aren't true/pinned ("Golden
+// Record", "Only Charon locked" both fired false positives here during
+// testing purely from incidental word choice in a distractor). A lead, not
+// a verdict — plenty of hits will be fine on inspection (a historical
+// "only" that's permanently true, e.g. "the only planet known to support
+// life").
+function printUnpinnedSuperlativeWarning(q) {
+  if (!q || typeof q.question !== "string" || typeof q.answer !== "string") return;
+  const haystack = `${q.question} ${q.answer}`;
+  if (!UNPINNED_SUPERLATIVE_PATTERN.test(haystack)) return;
+  if (YEAR_OR_ASOF_PIN_PATTERN.test(haystack) || YEAR_PATTERN.test(haystack)) return;
+  console.log(`    ! possible unpinned superlative claim — check whether it needs an "as of"/year pin`);
+}
+
 function cmdNext(flags) {
   const progress = loadProgress();
   if (!progress) {
@@ -495,6 +548,7 @@ function cmdNext(flags) {
   const questionsByCategory = new Map();
   const answerIndexes = buildAnswerIndexes();
   const backlog = loadBacklog();
+  const backlogReverseIndex = buildBacklogReverseIndex(backlog);
 
   for (const chunk of picked) {
     chunk.status = "in-progress";
@@ -516,7 +570,12 @@ function cmdNext(flags) {
         console.log(line);
         printAnswerMatches(q, answerIndexes);
         printAnswerLeakWarning(q);
+        printLeakedReasoningWarning(q);
+        printUnpinnedSuperlativeWarning(q);
         if (backlog[id]) console.log(`    ! BACKLOG: ${backlog[id]}`);
+        for (const { keyId, note } of backlogReverseIndex.get(id) || []) {
+          console.log(`    ! BACKLOG (referenced by ${keyId}): ${note}`);
+        }
       } else {
         missing++;
       }
@@ -605,6 +664,69 @@ function cmdNote(id, note, flags) {
   console.log(`Saved backlog note for ${id}.`);
 }
 
+// The id a backlog note is filed under is always the ALREADY-REVIEWED
+// survivor — that's inherent to when a note gets written (mid-review of
+// that question, per CLAUDE.md "park a note with `node scripts/audit.js
+// note <id> ..."), so its own chunk is done by construction and reporting
+// that fact back is a no-op. What's actually useful is whether the
+// *unreviewed sibling(s)* the note text talks about are reachable yet —
+// so this pulls id-shaped tokens back out of the free-text note (they're
+// always named in it, e.g. "duplicate of orphan space-astronomy-977").
+// Deliberately does NOT filter by corpus membership here — callers need to
+// tell "still in the corpus" apart from "already cut" (a token that no
+// longer resolves to a real question means the note is likely resolved,
+// not that there's nothing to check), so that check belongs at the call
+// site, not baked into extraction.
+function extractReferencedIds(noteText, keyId) {
+  const matches = noteText.match(/\b[a-z][a-z0-9-]*-\d{3,}\b/gi) || [];
+  const found = new Set();
+  for (const m of matches) {
+    const id = m.toLowerCase();
+    if (id !== keyId) found.add(id);
+  }
+  return [...found];
+}
+
+// Reverse index: sibling id -> backlog notes that mention it. A note is
+// filed under its (already-reviewed) key id, so `next` printing only on an
+// exact key match (see cmdNext) means the note never resurfaces when the
+// *sibling* it's actually about finally comes up in its own chunk — exactly
+// the reversed-direction/duplicate case these notes exist to track. This
+// lets `next` print the note under the sibling's own listing instead.
+function buildBacklogReverseIndex(backlog) {
+  const index = new Map();
+  for (const keyId of Object.keys(backlog)) {
+    const note = backlog[keyId];
+    for (const refId of extractReferencedIds(note, keyId)) {
+      if (!index.has(refId)) index.set(refId, []);
+      index.get(refId).push({ keyId, note });
+    }
+  }
+  return index;
+}
+
+// Same self-resolves-vs-needs-action distinction as printAnswerMatches'
+// caller comment: a sibling in a pending/in-progress chunk will surface on
+// its own via `next`'s same-answer auto-print when that chunk comes up; a
+// sibling that's done, reviewed-but-unchunked, or a true orphan won't.
+function classifyId(id, progress, reviewedIds) {
+  const chunk = progress ? progress.chunks.find((c) => c.ids.includes(id)) : null;
+  if (chunk) {
+    if (chunk.status === "done") return `${id}: needs manual action (chunk ${chunk.chunkId} already done)`;
+    return `${id}: will resurface via chunk ${chunk.chunkId} (${chunk.status})`;
+  }
+  if (reviewedIds.has(id)) return `${id}: needs manual action (reviewed in an earlier pass, no longer chunked)`;
+  return `${id}: needs manual action (orphan — no chunk in any pass)`;
+}
+
+function buildAllCorpusIdSet() {
+  const ids = new Set();
+  for (const cat of loadCategories()) {
+    for (const q of loadCategoryQuestions(cat)) ids.add(q.id);
+  }
+  return ids;
+}
+
 function cmdBacklog() {
   const backlog = loadBacklog();
   const ids = Object.keys(backlog);
@@ -612,11 +734,29 @@ function cmdBacklog() {
     console.log("Backlog is empty.");
     return;
   }
-  // Chunk status isn't loaded here to keep this command working even with
-  // no active pass — an id's chunk being "done" is exactly why it needs a
-  // manual look instead of relying on `next` to resurface it.
+  // Loaded even with no active pass (progress stays null, classify still
+  // works) so this command never hard-fails — it's meant to be safe to run
+  // any time.
+  const progress = loadProgress();
+  const reviewedIds = buildReviewedIdSet();
+  const allCorpusIds = buildAllCorpusIdSet();
   for (const id of ids) {
     console.log(`${id}: ${backlog[id]}`);
+    const referenced = extractReferencedIds(backlog[id], id);
+    if (referenced.length === 0) {
+      console.log(`    [no other id token found in note text — read the note to see what still needs checking]`);
+      continue;
+    }
+    for (const refId of referenced) {
+      if (!allCorpusIds.has(refId)) {
+        console.log(
+          `    [${refId}: no longer in corpus (already cut) — remove with ` +
+            `"node scripts/audit.js note ${id} --remove" after confirming no other sibling in this note still needs tracking]`
+        );
+      } else {
+        console.log(`    [${classifyId(refId, progress, reviewedIds)}]`);
+      }
+    }
   }
   console.log(`\n${ids.length} backlog entr${ids.length === 1 ? "y" : "ies"}.`);
 }

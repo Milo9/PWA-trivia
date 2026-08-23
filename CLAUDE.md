@@ -615,14 +615,36 @@ chunk:
   give the answer away. Same treat-as-a-lead caveat as above: a long
   correct answer next to short-but-plausible distractors isn't
   inherently wrong.
+- **`next` also auto-prints two more mechanical leads, both added
+  2026-08-23 to catch patterns that used to depend on the reviewer
+  remembering to look for them:** a leaked-drafting-reasoning warning
+  (`! possible leaked reasoning in option: "…"`) when an option contains
+  the word "but", "trick:", "is same", or any "?" (checked per-option,
+  correct answer included, since a leak can land in either) — see
+  "Malformed options carrying leaked drafting reasoning" below; and an
+  unpinned-superlative warning (`! possible unpinned superlative claim
+  …`) when the question stem or the correct answer (distractors are
+  deliberately excluded — testing found they fire false positives from
+  incidental word choice in a wrong option) contain "only"/"current(ly)"/
+  "tied with"/"record"/"most recent"/"latest"/"newest" with no "as of"
+  phrase or 4-digit year anywhere in that same text to pin it — see
+  "Stale record-holder / superlative claims"
+  below. Both are deliberately conservative pattern matches (leads, not
+  verdicts, same as the answer-leak warning) — expect some hits that are
+  fine on inspection (a permanently-true "only," a distractor that
+  happens to contain "but").
 - **If a duplicate's sibling hasn't been reviewed yet, leave it uncut and
   park a note with `node scripts/audit.js note <id> "…"` — don't cut it
   just because it looks obviously redundant.** Cutting an unreviewed
   question marks it "no longer exists" in `audit/progress.json` without
   ever actually reviewing it, corrupting the pass's exhaustive-coverage
   guarantee. The note lands in `audit/backlog.json` and `next` prints it
-  inline (`! BACKLOG: …`) whenever that id's chunk comes up again, so
-  there's no need to remember it or re-check this file. **But only log
+  inline both when the note's own (already-reviewed) key id reappears
+  in a chunk (`! BACKLOG: …`) and — since that key id's chunk is done
+  by construction and so effectively never recurs — when any *sibling*
+  id named in the note's text comes up in its own chunk instead
+  (`! BACKLOG (referenced by <keyId>): …`), so there's no need to
+  remember it or re-check this file. **But only log
   pairs that can't resolve themselves.** The same-answer auto-print above
   will automatically re-show a pair the next time *either* sibling's own
   chunk is reached, as long as that sibling isn't permanently
@@ -679,7 +701,11 @@ chunk:
 - Default to judgment/memory; reach for `WebSearch` only for genuinely
   uncertain or hard-difficulty specific claims. Verifying all ~14,000
   questions via search would be prohibitively expensive and isn't the
-  point — most questions are obviously fine on a read-through.
+  point — most questions are obviously fine on a read-through. When a
+  chunk has multiple claims worth checking about the same entity (e.g.
+  three different space-mission facts about the same probe), batch them
+  into one search instead of one per question — cheaper, and the search
+  results usually cover all of them at once anyway.
 - Fix directly in `data/questions/<category>.json` (or cut, per the
   existing "unfixable without changing the underlying fact" guidance).
   Run `npm run validate` after each chunk's fixes to catch problems
@@ -731,26 +757,30 @@ reviewed. To check a single id by hand: `node -e "const p=
 require('./audit/progress.json'); console.log(p.chunks.some(c=>
 c.ids.includes('<id>')))"`.
 
-- **`friends.json`'s pass 1 is fully complete for its in-pass coverage
-  (16/16 chunks `done`), but 179 of its 920 questions (as of
-  2026-08-08) are orphans** — discovered investigating why `friends-938`
-  never turned up in a `next` chunk. No further `next` call will touch
-  either the orphans or the 741 already-`done` questions under this
-  pass. Needs a fresh pass (or chunks appended for just the orphan IDs)
-  before this file counts as a full sweep.
-- **`general.json` has the same gap, much larger: 660 of its 1518
-  questions (43%, checked 2026-08-11) are orphans, including the
-  entire `general-4xxx` ID range (482 of 482, 100%)** plus 178 more
-  scattered through `general-3xxx`. The general pass itself is still
-  active (7 of 18 chunks pending as of 2026-08-11), so most same-answer
-  pairs found so far that involve only in-pass IDs will self-resolve
-  once the relevant chunk is reached without needing to be logged
-  anywhere — see `audit/backlog.json` (via `node scripts/audit.js
-  backlog`) for the ones that won't. This pattern isn't `general`/
-  `friends`-specific
-  either — e.g. `arts-literature-894`/`-896`/`-897` are also orphans —
-  so treat "one sibling of a pair has no chunk at all" as a live
-  possibility in any category.
+- **Orphan counts are large and span every category, not just one or
+  two** — check current per-category counts with `node scripts/audit.js
+  status` rather than trusting a hardcoded number written here, since a
+  count captured on one date has gone stale by roughly 10x within a few
+  weeks before (confirmed 2026-08-23: earlier versions of this section
+  cited counts for `friends`/`general` only, captured 2026-08-08/
+  2026-08-11; a `status` check on 2026-08-23 showed 7,434 orphans spread
+  across all 17 categories). This is expected, not a sign the tooling is
+  failing: `new-pass` builds its next manifest from every id that was
+  *not* part of a `done` chunk in a completed pass (see
+  `buildReviewedIdSet` in `scripts/audit.js`), so an orphan gets folded
+  in automatically once the current pass finishes and `new-pass` runs —
+  `append-orphans` is only for pulling orphans into the *current* pass
+  early, not required for them to eventually get covered.
+- Most same-answer pairs found mid-pass that involve only in-pass IDs
+  will self-resolve once the relevant chunk is reached, without needing
+  to be logged anywhere — see `audit/backlog.json` (via `node
+  scripts/audit.js backlog`, which labels each entry with whether its
+  referenced sibling id will resurface on its own via a pending/
+  in-progress chunk or needs direct action now) for the ones that won't.
+- Treat "one sibling of a duplicate pair has no chunk at all" as a live
+  possibility in any category, at any time — it showed up first in
+  `friends`/`general` only because those were checked first, not
+  because it's confined to them.
 - The 12 categories split out of `general` don't have `data/topics.json`
   entries yet, so `analyze.js`/`find-gaps.js` report "no topic list
   configured" for them. Category-level question counts (`npm run
