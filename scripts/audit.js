@@ -742,6 +742,19 @@ function cmdBacklog() {
   const allCorpusIds = buildAllCorpusIdSet();
   for (const id of ids) {
     console.log(`${id}: ${backlog[id]}`);
+    if (!allCorpusIds.has(id)) {
+      // The key id is always filed as the already-reviewed survivor at
+      // note time, but it can be cut later by an unrelated pass (e.g. a
+      // *different* duplicate resolution) — leaving the note pointing at
+      // a pair that no longer has two live sides. Confirmed 2026-08-23:
+      // 9 of 65 backlog entries were stale for exactly this reason, only
+      // caught by a one-off triage script instead of this command.
+      console.log(
+        `    [STALE NOTE: key id "${id}" no longer in corpus — the referenced id(s) below are the sole survivor(s), ` +
+          `remove this note with "node scripts/audit.js note ${id} --remove"]`
+      );
+      continue;
+    }
     const referenced = extractReferencedIds(backlog[id], id);
     if (referenced.length === 0) {
       console.log(`    [no other id token found in note text — read the note to see what still needs checking]`);
