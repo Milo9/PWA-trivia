@@ -12714,19 +12714,6 @@
     "id": "science-technology-673"
   },
   {
-    "difficulty": "easy",
-    "category": "science-technology",
-    "question": "How many pairs of cranial nerves emerge from the human brain?",
-    "options": [
-      "10",
-      "12",
-      "14",
-      "8"
-    ],
-    "answer": "12",
-    "id": "science-technology-674"
-  },
-  {
     "difficulty": "medium",
     "category": "science-technology",
     "question": "Which photoreceptor cells in the retina are responsible for color vision and function best in bright light?",
@@ -12751,19 +12738,6 @@
     ],
     "answer": "Ulna",
     "id": "science-technology-676"
-  },
-  {
-    "difficulty": "easy",
-    "category": "science-technology",
-    "question": "Which lower leg bone is the larger, weight-bearing shinbone?",
-    "options": [
-      "Fibula",
-      "Tibia",
-      "Femur",
-      "Patella"
-    ],
-    "answer": "Tibia",
-    "id": "science-technology-677"
   },
   {
     "difficulty": "medium",
@@ -12829,19 +12803,6 @@
     ],
     "answer": "Lens",
     "id": "science-technology-682"
-  },
-  {
-    "difficulty": "easy",
-    "category": "science-technology",
-    "question": "How many chromosomes are typically in a human somatic cell?",
-    "options": [
-      "46",
-      "44",
-      "23",
-      "48"
-    ],
-    "answer": "46",
-    "id": "science-technology-683"
   },
   {
     "difficulty": "medium",
@@ -12959,19 +12920,6 @@
     ],
     "answer": "DNA ligase",
     "id": "science-technology-692"
-  },
-  {
-    "difficulty": "medium",
-    "category": "science-technology",
-    "question": "What type of RNA carries amino acids to the ribosome during protein synthesis?",
-    "options": [
-      "mRNA",
-      "tRNA",
-      "rRNA",
-      "snRNA"
-    ],
-    "answer": "tRNA",
-    "id": "science-technology-693"
   },
   {
     "difficulty": "medium",
@@ -13375,19 +13323,6 @@
     ],
     "answer": "Bob Metcalfe",
     "id": "science-technology-724"
-  },
-  {
-    "difficulty": "medium",
-    "category": "science-technology",
-    "question": "In which Bell Labs operating system was the C language first developed?",
-    "options": [
-      "Unix",
-      "Multics",
-      "DOS",
-      "VMS"
-    ],
-    "answer": "Unix",
-    "id": "science-technology-725"
   },
   {
     "difficulty": "easy",
@@ -13795,19 +13730,6 @@
   {
     "difficulty": "medium",
     "category": "science-technology",
-    "question": "Which SI unit measures equivalent dose of ionizing radiation accounting for biological damage?",
-    "options": [
-      "Becquerel",
-      "Rad",
-      "Sievert",
-      "Gray"
-    ],
-    "answer": "Sievert",
-    "id": "science-technology-758"
-  },
-  {
-    "difficulty": "medium",
-    "category": "science-technology",
     "question": "One gray of absorbed radiation dose equals one joule of energy absorbed per what?",
     "options": [
       "Gram",
@@ -13856,19 +13778,6 @@
     ],
     "answer": "Hooke's law",
     "id": "science-technology-762"
-  },
-  {
-    "difficulty": "medium",
-    "category": "science-technology",
-    "question": "Which law relates the sines of incidence and refraction angles to the refractive indices of two media?",
-    "options": [
-      "Bragg's law",
-      "Malus's law",
-      "Snell's law",
-      "Fresnel's law"
-    ],
-    "answer": "Snell's law",
-    "id": "science-technology-763"
   },
   {
     "difficulty": "medium",
@@ -14222,19 +14131,6 @@
     "id": "science-technology-793"
   },
   {
-    "difficulty": "easy",
-    "category": "science-technology",
-    "question": "What acid gives ant stings their painful sensation?",
-    "options": [
-      "Lactic acid",
-      "Formic acid",
-      "Citric acid",
-      "Acetic acid"
-    ],
-    "answer": "Formic acid",
-    "id": "science-technology-794"
-  },
-  {
     "difficulty": "medium",
     "category": "science-technology",
     "question": "What is the chemical formula for quartz, the second most abundant mineral in Earth's crust?",
@@ -14337,19 +14233,6 @@
     ],
     "answer": "Ni",
     "id": "science-technology-805"
-  },
-  {
-    "difficulty": "hard",
-    "category": "science-technology",
-    "question": "Which noble gas is used in bright orange-red advertising signs?",
-    "options": [
-      "Argon",
-      "Krypton",
-      "Neon",
-      "Xenon"
-    ],
-    "answer": "Neon",
-    "id": "science-technology-806"
   },
   {
     "difficulty": "medium",
@@ -14573,19 +14456,6 @@
     "id": "science-technology-824"
   },
   {
-    "difficulty": "easy",
-    "category": "science-technology",
-    "question": "Which enzyme in the stomach breaks down proteins?",
-    "options": [
-      "Pepsin",
-      "Amylase",
-      "Maltase",
-      "Lipase"
-    ],
-    "answer": "Pepsin",
-    "id": "science-technology-825"
-  },
-  {
     "difficulty": "medium",
     "category": "science-technology",
     "question": "Which vitamin contains a cobalt atom at its core and is called cobalamin?",
@@ -14675,19 +14545,6 @@
     ],
     "answer": "Serum",
     "id": "science-technology-833"
-  },
-  {
-    "difficulty": "hard",
-    "category": "science-technology",
-    "question": "How many carpal bones are there in one human wrist?",
-    "options": [
-      "8",
-      "7",
-      "10",
-      "6"
-    ],
-    "answer": "8",
-    "id": "science-technology-835"
   },
   {
     "difficulty": "easy",
@@ -14794,19 +14651,6 @@
     "id": "science-technology-845"
   },
   {
-    "difficulty": "hard",
-    "category": "science-technology",
-    "question": "Which enzyme unwinds the DNA double helix during replication?",
-    "options": [
-      "Helicase",
-      "Ligase",
-      "Nuclease",
-      "Polymerase"
-    ],
-    "answer": "Helicase",
-    "id": "science-technology-846"
-  },
-  {
     "difficulty": "medium",
     "category": "science-technology",
     "question": "Which three scientists are credited with the first working transistor at Bell Labs in December 1947?",
@@ -14818,19 +14662,6 @@
     ],
     "answer": "Shockley, Bardeen, Brattain",
     "id": "science-technology-848"
-  },
-  {
-    "difficulty": "medium",
-    "category": "science-technology",
-    "question": "Which two engineers independently invented the integrated circuit in 1958-1959?",
-    "options": [
-      "Seymour Cray and John Bardeen",
-      "Jack Kilby and Robert Noyce",
-      "William Shockley and Gordon Moore",
-      "Robert Metcalfe and Vint Cerf"
-    ],
-    "answer": "Jack Kilby and Robert Noyce",
-    "id": "science-technology-849"
   },
   {
     "difficulty": "easy",
@@ -14887,19 +14718,6 @@
   {
     "difficulty": "easy",
     "category": "science-technology",
-    "question": "What does DNS stand for in internet infrastructure?",
-    "options": [
-      "Digital Network System",
-      "Domain Name System",
-      "Dynamic Node Service",
-      "Data Number Sequence"
-    ],
-    "answer": "Domain Name System",
-    "id": "science-technology-855"
-  },
-  {
-    "difficulty": "easy",
-    "category": "science-technology",
     "question": "What does JSON stand for?",
     "options": [
       "JavaScript Object Notation",
@@ -14950,32 +14768,6 @@
     "id": "science-technology-860"
   },
   {
-    "difficulty": "hard",
-    "category": "science-technology",
-    "question": "Which sorting algorithm has an average time complexity of O(n log n) and is based on divide-and-conquer with a pivot?",
-    "options": [
-      "Bubble sort",
-      "Quicksort",
-      "Insertion sort",
-      "Selection sort"
-    ],
-    "answer": "Quicksort",
-    "id": "science-technology-861"
-  },
-  {
-    "difficulty": "medium",
-    "category": "science-technology",
-    "question": "Which data structure operates on a LIFO (last-in, first-out) principle?",
-    "options": [
-      "Queue",
-      "Heap",
-      "Stack",
-      "Linked list"
-    ],
-    "answer": "Stack",
-    "id": "science-technology-862"
-  },
-  {
     "difficulty": "medium",
     "category": "science-technology",
     "question": "In computer networking, what does TCP stand for?",
@@ -15000,32 +14792,6 @@
     ],
     "answer": "Light Emitting Diode",
     "id": "science-technology-864"
-  },
-  {
-    "difficulty": "medium",
-    "category": "science-technology",
-    "question": "Which binary number system digit is the fundamental unit of information called?",
-    "options": [
-      "Byte",
-      "Bit",
-      "Word",
-      "Nibble"
-    ],
-    "answer": "Bit",
-    "id": "science-technology-866"
-  },
-  {
-    "difficulty": "easy",
-    "category": "science-technology",
-    "question": "What does GUI stand for?",
-    "options": [
-      "Graphical User Interface",
-      "Guided User Instruction",
-      "General Utility Interface",
-      "Global User Integration"
-    ],
-    "answer": "Graphical User Interface",
-    "id": "science-technology-867"
   },
   {
     "difficulty": "medium",
@@ -15223,19 +14989,6 @@
     "id": "science-technology-886"
   },
   {
-    "difficulty": "medium",
-    "category": "science-technology",
-    "question": "Which scale, introduced in 1935, quantifies earthquake magnitude based on seismograph amplitude?",
-    "options": [
-      "Beaufort scale",
-      "Fujita scale",
-      "Mercalli scale",
-      "Richter scale"
-    ],
-    "answer": "Richter scale",
-    "id": "science-technology-887"
-  },
-  {
     "difficulty": "easy",
     "category": "science-technology",
     "question": "What does the addition of carbon to iron produce?",
@@ -15299,19 +15052,6 @@
     ],
     "answer": "Rapid cooling in liquid",
     "id": "science-technology-893"
-  },
-  {
-    "difficulty": "easy",
-    "category": "science-technology",
-    "question": "What type of engine ignites fuel using compression rather than a spark plug?",
-    "options": [
-      "Stirling engine",
-      "Petrol engine",
-      "Steam engine",
-      "Diesel engine"
-    ],
-    "answer": "Diesel engine",
-    "id": "science-technology-894"
   },
   {
     "difficulty": "hard",
@@ -15416,19 +15156,6 @@
     ],
     "answer": "Total internal reflection",
     "id": "science-technology-902"
-  },
-  {
-    "difficulty": "medium",
-    "category": "science-technology",
-    "question": "What is the unit of power equivalent to one joule per second?",
-    "options": [
-      "Pascal",
-      "Watt",
-      "Joule",
-      "Newton"
-    ],
-    "answer": "Watt",
-    "id": "science-technology-903"
   },
   {
     "difficulty": "easy",

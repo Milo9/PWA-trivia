@@ -15348,11 +15348,11 @@
         "space-astronomy-597",
         "space-astronomy-598"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-23",
+      "completedAt": "2026-08-23",
+      "issuesFound": 4,
+      "notes": "Cut 2 duplicates (574/343 iron-before-supernova pair, 594/465 Triangulum-M33 pair, both siblings already vetted) plus 1 more found on advisor re-check (572/566 quasar-vs-AGN power source, same fact at two specificities). Fixed 1 factual error: space-astronomy-900's Mathilde low-density flyby was dated 1996, actually 1997 (NEAR launched 1996, flew by Mathilde June 1997) - fixed though 900 is an orphan outside this chunk. Logged 5 backlog notes for duplicates whose sibling is an orphan (MOXIE/886, metallic-hydrogen/808, Uranus-rings-occultation/976, NEAR-Eros/851, transit-method/915) -- since resolved, see backlog session note below."
     },
     {
       "chunkId": "space-astronomy-p1-012",
@@ -15409,11 +15409,11 @@
         "space-astronomy-687",
         "space-astronomy-689"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-23",
+      "completedAt": "2026-08-23",
+      "issuesFound": 5,
+      "notes": "Cut 1 duplicate (608/426 first-ISS-module-Zarya pair, sibling already vetted) plus 2 more found on advisor re-check (617/683 and 531/687, both reversed-direction Opportunity-lifespan and Saturn-hexagon-discovery pairs the same-answer auto-print structurally can't catch since the answer strings differ). Fixed 2 factual issues: space-astronomy-679's solar flare classification answer omitted the A-class (weakest official class), changed 'B, C, M, X' to the full 'A, B, C, M, X'; space-astronomy-604's 'only professional geologist to walk on the Moon' rescoped to 'among the Apollo astronauts' so a future Artemis geologist can't make it false. Logged 5 backlog notes for duplicates whose sibling is an orphan (Apollo-12/Surveyor-3/979, Mir-deorbit/1083, Luna-3-farside/810, Crew-Dragon-Demo-2/850, Hayabusa-Itokawa/972) -- since resolved, see backlog session note below."
     },
     {
       "chunkId": "space-astronomy-p1-013",

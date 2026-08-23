@@ -13169,19 +13169,6 @@
     "answer": "Gray"
   },
   {
-    "id": "general-4034",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "What unit of dose equivalent, representing the biological effect of radiation, is represented by 'Sv'?",
-    "options": [
-      "Roentgen",
-      "Rutherford",
-      "Sievert",
-      "Gray"
-    ],
-    "answer": "Sievert"
-  },
-  {
     "id": "general-4035",
     "category": "general",
     "difficulty": "easy",
@@ -13518,19 +13505,6 @@
       "Réaumur scale"
     ],
     "answer": "Rankine scale"
-  },
-  {
-    "id": "general-4062",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "Who is the Celsius temperature scale named after?",
-    "options": [
-      "William Celsius",
-      "Carl Celsius",
-      "Anders Celsius",
-      "Louis Celsius"
-    ],
-    "answer": "Anders Celsius"
   },
   {
     "id": "general-4063",
@@ -15093,19 +15067,6 @@
     "answer": "Euler's number"
   },
   {
-    "id": "general-4192",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "What is the name of the mathematical constant, approximately equal to 1.61803, often found in art and architecture?",
-    "options": [
-      "Euler's number",
-      "Pi",
-      "Pythagoras' constant",
-      "Golden ratio"
-    ],
-    "answer": "Golden ratio"
-  },
-  {
     "id": "general-4193",
     "category": "general",
     "difficulty": "medium",
@@ -15130,19 +15091,6 @@
       "Amicable numbers"
     ],
     "answer": "Amicable numbers"
-  },
-  {
-    "id": "general-4195",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "What is the term for a natural number greater than 1 that has no positive divisors other than 1 and itself?",
-    "options": [
-      "Composite number",
-      "Perfect number",
-      "Rational number",
-      "Prime number"
-    ],
-    "answer": "Prime number"
   },
   {
     "id": "general-4196",

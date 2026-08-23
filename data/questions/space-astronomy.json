@@ -8816,19 +8816,6 @@
   {
     "difficulty": "medium",
     "category": "space-astronomy",
-    "question": "What powers most active galactic nuclei?",
-    "options": [
-      "Supernova swarm",
-      "Supermassive black hole",
-      "Starburst clusters",
-      "Dark matter halo"
-    ],
-    "answer": "Supermassive black hole",
-    "id": "space-astronomy-572"
-  },
-  {
-    "difficulty": "medium",
-    "category": "space-astronomy",
     "question": "What is the Messier catalog number of the Beehive Cluster?",
     "options": [
       "M45",
@@ -8838,19 +8825,6 @@
     ],
     "answer": "M44",
     "id": "space-astronomy-573"
-  },
-  {
-    "difficulty": "medium",
-    "category": "space-astronomy",
-    "question": "What element does a massive star's core produce just before it explodes as a supernova?",
-    "options": [
-      "Helium",
-      "Hydrogen",
-      "Carbon",
-      "Iron"
-    ],
-    "answer": "Iron",
-    "id": "space-astronomy-574"
   },
   {
     "difficulty": "medium",
@@ -9102,19 +9076,6 @@
   {
     "difficulty": "medium",
     "category": "space-astronomy",
-    "question": "What is the Messier catalog number of the Triangulum Galaxy?",
-    "options": [
-      "M101",
-      "M51",
-      "M33",
-      "M31"
-    ],
-    "answer": "M33",
-    "id": "space-astronomy-594"
-  },
-  {
-    "difficulty": "medium",
-    "category": "space-astronomy",
     "question": "What causes the zodiacal light?",
     "options": [
       "Aurora",
@@ -9232,7 +9193,7 @@
   {
     "difficulty": "medium",
     "category": "space-astronomy",
-    "question": "Who was the only professional geologist to walk on the Moon, during Apollo 17?",
+    "question": "Who was the only professional geologist among the Apollo astronauts to walk on the Moon, during Apollo 17?",
     "options": [
       "Harrison Schmitt",
       "Alan Shepard",
@@ -9280,19 +9241,6 @@
     ],
     "answer": "2001",
     "id": "space-astronomy-607"
-  },
-  {
-    "difficulty": "medium",
-    "category": "space-astronomy",
-    "question": "Which ISS module was the first launched, in November 1998?",
-    "options": [
-      "Unity",
-      "Zarya",
-      "Destiny",
-      "Zvezda"
-    ],
-    "answer": "Zarya",
-    "id": "space-astronomy-608"
   },
   {
     "difficulty": "easy",
@@ -9397,19 +9345,6 @@
     ],
     "answer": "Airbags and parachutes",
     "id": "space-astronomy-616"
-  },
-  {
-    "difficulty": "medium",
-    "category": "space-astronomy",
-    "question": "How long did Opportunity operate?",
-    "options": [
-      "About 6 months",
-      "About 90 days",
-      "About 2 years",
-      "About 14 years until 2018"
-    ],
-    "answer": "About 14 years until 2018",
-    "id": "space-astronomy-617"
   },
   {
     "difficulty": "medium",
@@ -10211,11 +10146,11 @@
     "question": "How are solar flares classified by brightness in X-rays, from weakest to strongest?",
     "options": [
       "Green, Yellow, Red",
-      "B, C, M, X",
+      "A, B, C, M, X",
       "1, 2, 3, 4",
       "A, B, C, D"
     ],
-    "answer": "B, C, M, X"
+    "answer": "A, B, C, M, X"
   },
   {
     "id": "space-astronomy-680",
@@ -10307,19 +10242,6 @@
       "Triple cyclone"
     ],
     "answer": "Hexagonal jet stream"
-  },
-  {
-    "id": "space-astronomy-687",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "When was Saturn's north polar hexagon first discovered in flyby images?",
-    "options": [
-      "1997 Cassini arrival",
-      "1973 Pioneer 11",
-      "1980-1981 Voyager flybys",
-      "2004 Hubble"
-    ],
-    "answer": "1980-1981 Voyager flybys"
   },
   {
     "id": "space-astronomy-688",
@@ -11882,19 +11804,6 @@
     "answer": "Venus"
   },
   {
-    "id": "space-astronomy-808",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "Deep inside Jupiter, hydrogen becomes an electrically conductive fluid known as what?",
-    "options": [
-      "Metallic hydrogen",
-      "Liquid helium",
-      "Plasma quartz",
-      "Ionized ammonia"
-    ],
-    "answer": "Metallic hydrogen"
-  },
-  {
     "id": "space-astronomy-809",
     "category": "space-astronomy",
     "difficulty": "medium",
@@ -11906,19 +11815,6 @@
       "Earth"
     ],
     "answer": "Mercury"
-  },
-  {
-    "id": "space-astronomy-810",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "Which Soviet probe in 1959 returned the first images of the far side of the Moon?",
-    "options": [
-      "Luna 3",
-      "Luna 2",
-      "Luna 9",
-      "Luna 16"
-    ],
-    "answer": "Luna 3"
   },
   {
     "id": "space-astronomy-811",
@@ -12389,32 +12285,6 @@
     "answer": "2003"
   },
   {
-    "id": "space-astronomy-850",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "Which SpaceX mission in 2020 was the first crewed orbital launch from US soil since the Shuttle retirement?",
-    "options": [
-      "Crew Dragon Demo-2",
-      "Crew-1",
-      "Inspiration4",
-      "Falcon Heavy Test"
-    ],
-    "answer": "Crew Dragon Demo-2"
-  },
-  {
-    "id": "space-astronomy-851",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "Which NASA spacecraft was the first to orbit and then land on an asteroid, 433 Eros, in 2001?",
-    "options": [
-      "NEAR Shoemaker",
-      "Dawn",
-      "Hayabusa",
-      "OSIRIS-REx"
-    ],
-    "answer": "NEAR Shoemaker"
-  },
-  {
     "id": "space-astronomy-852",
     "category": "space-astronomy",
     "difficulty": "medium",
@@ -12857,19 +12727,6 @@
     "answer": "Curiosity"
   },
   {
-    "id": "space-astronomy-886",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "Which instrument on the Perseverance rover successfully produced oxygen from the Martian atmosphere in 2021?",
-    "options": [
-      "MOXIE",
-      "SHERLOC",
-      "PIXL",
-      "SuperCam"
-    ],
-    "answer": "MOXIE"
-  },
-  {
     "id": "space-astronomy-887",
     "category": "space-astronomy",
     "difficulty": "medium",
@@ -12961,19 +12818,6 @@
     "answer": "Vanguard 1"
   },
   {
-    "id": "space-astronomy-895",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "What was the name of the European Space Agency's Huygens probe's mothership that carried it to Saturn?",
-    "options": [
-      "Cassini",
-      "Voyager 2",
-      "Galileo",
-      "Pioneer 11"
-    ],
-    "answer": "Cassini"
-  },
-  {
     "id": "space-astronomy-896",
     "category": "space-astronomy",
     "difficulty": "hard",
@@ -12985,19 +12829,6 @@
       "365 days at equator, 400 at poles"
     ],
     "answer": "25 days at equator, 35 days at poles"
-  },
-  {
-    "id": "space-astronomy-897",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "What is the name of the gap in Saturn's rings between the A and B rings, discovered by Giovanni Cassini?",
-    "options": [
-      "Cassini Division",
-      "Encke Gap",
-      "Keeler Gap",
-      "Roche Gap"
-    ],
-    "answer": "Cassini Division"
   },
   {
     "id": "space-astronomy-898",
@@ -13029,7 +12860,7 @@
     "id": "space-astronomy-900",
     "category": "space-astronomy",
     "difficulty": "medium",
-    "question": "Which NASA mission in 1996 discovered that asteroid Mathilde has an extremely low density, suggesting it is a rubble pile?",
+    "question": "Which NASA mission in 1997 discovered that asteroid Mathilde has an extremely low density, suggesting it is a rubble pile?",
     "options": [
       "NEAR Shoemaker",
       "Galileo",
@@ -13130,19 +12961,6 @@
     "answer": "Titan's"
   },
   {
-    "id": "space-astronomy-909",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "Which NASA mission measured the cosmic microwave background with high precision from 2001 to 2010, successor to COBE?",
-    "options": [
-      "WMAP",
-      "Planck",
-      "Hubble",
-      "Chandra"
-    ],
-    "answer": "WMAP"
-  },
-  {
     "id": "space-astronomy-910",
     "category": "space-astronomy",
     "difficulty": "hard",
@@ -13169,19 +12987,6 @@
     "answer": "Left foot"
   },
   {
-    "id": "space-astronomy-913",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "Which star in Orion is a red supergiant that may go supernova within the next 100,000 years?",
-    "options": [
-      "Betelgeuse",
-      "Rigel",
-      "Bellatrix",
-      "Saiph"
-    ],
-    "answer": "Betelgeuse"
-  },
-  {
     "id": "space-astronomy-914",
     "category": "space-astronomy",
     "difficulty": "easy",
@@ -13193,19 +12998,6 @@
       "Super-Earth"
     ],
     "answer": "Circumbinary planet"
-  },
-  {
-    "id": "space-astronomy-915",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "Which exoplanet discovery method looks for tiny dips in starlight when a planet passes in front of its star?",
-    "options": [
-      "Transit",
-      "Direct imaging",
-      "Astrometry",
-      "Pulsar timing"
-    ],
-    "answer": "Transit"
   },
   {
     "id": "space-astronomy-916",
@@ -13299,32 +13091,6 @@
     "answer": "Hubble Space Telescope"
   },
   {
-    "id": "space-astronomy-926",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "What is the name of the bright star in Scorpius that is a red supergiant, often mistaken for Mars?",
-    "options": [
-      "Antares",
-      "Rigel",
-      "Vega",
-      "Aldebaran"
-    ],
-    "answer": "Antares"
-  },
-  {
-    "id": "space-astronomy-927",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "Which supercluster of galaxies contains the Milky Way, discovered in 2014?",
-    "options": [
-      "Laniakea",
-      "Virgo",
-      "Coma",
-      "Hercules"
-    ],
-    "answer": "Laniakea"
-  },
-  {
     "id": "space-astronomy-930",
     "category": "space-astronomy",
     "difficulty": "medium",
@@ -13388,32 +13154,6 @@
       "UY Scuti"
     ],
     "answer": "Stephenson 2-18"
-  },
-  {
-    "id": "space-astronomy-936",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "What is the dense remnant of a Sun-like star after it sheds its outer layers called?",
-    "options": [
-      "White dwarf",
-      "Neutron star",
-      "Red giant",
-      "Black hole"
-    ],
-    "answer": "White dwarf"
-  },
-  {
-    "id": "space-astronomy-938",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "Which spacecraft was the first to orbit Mercury in 2011?",
-    "options": [
-      "MESSENGER",
-      "Mariner 10",
-      "BepiColombo",
-      "Pioneer 11"
-    ],
-    "answer": "MESSENGER"
   },
   {
     "id": "space-astronomy-939",
@@ -13598,19 +13338,6 @@
     "answer": "Titania"
   },
   {
-    "id": "space-astronomy-957",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "Which spacecraft flew past the Kuiper Belt object Arrokoth on January 1, 2019?",
-    "options": [
-      "New Horizons",
-      "Voyager 1",
-      "Pioneer 10",
-      "Cassini"
-    ],
-    "answer": "New Horizons"
-  },
-  {
     "id": "space-astronomy-958",
     "category": "space-astronomy",
     "difficulty": "medium",
@@ -13622,19 +13349,6 @@
       "Galileo"
     ],
     "answer": "Pioneer 10"
-  },
-  {
-    "id": "space-astronomy-959",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "What theoretical radiation, proposed by Stephen Hawking in 1974, suggests black holes can emit thermal radiation?",
-    "options": [
-      "Hawking radiation",
-      "Cosmic radiation",
-      "Cherenkov radiation",
-      "Synchrotron radiation"
-    ],
-    "answer": "Hawking radiation"
   },
   {
     "id": "space-astronomy-961",
@@ -13661,19 +13375,6 @@
       "Head"
     ],
     "answer": "Right shoulder"
-  },
-  {
-    "id": "space-astronomy-964",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "Approximately how old is the universe?",
-    "options": [
-      "13.8 billion years",
-      "4.5 billion years",
-      "100 billion years",
-      "10 million years"
-    ],
-    "answer": "13.8 billion years"
   },
   {
     "id": "space-astronomy-965",
@@ -13754,19 +13455,6 @@
     "answer": "Mariner 4"
   },
   {
-    "id": "space-astronomy-972",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "Which near-Earth asteroid was visited and sampled by Japan's Hayabusa mission in 2005 and returned in 2010?",
-    "options": [
-      "Itokawa",
-      "Ryugu",
-      "Bennu",
-      "Eros"
-    ],
-    "answer": "Itokawa"
-  },
-  {
     "id": "space-astronomy-973",
     "category": "space-astronomy",
     "difficulty": "hard",
@@ -13806,32 +13494,6 @@
     "answer": "One third"
   },
   {
-    "id": "space-astronomy-976",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "Uranus's rings were discovered in 1977 during what astronomical event?",
-    "options": [
-      "Stellar occultation",
-      "Solar eclipse",
-      "Transit of Venus",
-      "Lunar eclipse"
-    ],
-    "answer": "Stellar occultation"
-  },
-  {
-    "id": "space-astronomy-977",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "Which Soviet probe achieved the first soft landing on the Moon in 1966?",
-    "options": [
-      "Luna 9",
-      "Luna 2",
-      "Luna 3",
-      "Luna 16"
-    ],
-    "answer": "Luna 9"
-  },
-  {
     "id": "space-astronomy-978",
     "category": "space-astronomy",
     "difficulty": "easy",
@@ -13843,19 +13505,6 @@
       "Mantle"
     ],
     "answer": "Regolith"
-  },
-  {
-    "id": "space-astronomy-979",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "Apollo 12 landed near which uncrewed Surveyor probe in 1969, retrieving parts of it?",
-    "options": [
-      "Surveyor 3",
-      "Surveyor 1",
-      "Surveyor 5",
-      "Surveyor 7"
-    ],
-    "answer": "Surveyor 3"
   },
   {
     "id": "space-astronomy-980",
@@ -13975,19 +13624,6 @@
     "answer": "Mercury"
   },
   {
-    "id": "space-astronomy-989",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "What is the name of NASA's program to return humans to the Moon in the 2020s?",
-    "options": [
-      "Artemis",
-      "Apollo",
-      "Gemini",
-      "Orion"
-    ],
-    "answer": "Artemis"
-  },
-  {
     "id": "space-astronomy-990",
     "category": "space-astronomy",
     "difficulty": "medium",
@@ -14012,19 +13648,6 @@
       "Crux"
     ],
     "answer": "Ursa Major"
-  },
-  {
-    "id": "space-astronomy-992",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "What was the name of the first American satellite launched in 1958?",
-    "options": [
-      "Explorer 1",
-      "Sputnik 1",
-      "Vanguard 1",
-      "Telstar"
-    ],
-    "answer": "Explorer 1"
   },
   {
     "id": "space-astronomy-993",
@@ -14105,19 +13728,6 @@
     "answer": "100 km"
   },
   {
-    "id": "space-astronomy-1002",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "What was the first confirmed interstellar object detected passing through the Solar System in 2017?",
-    "options": [
-      "ʻOumuamua",
-      "Borisov",
-      "Arrokoth",
-      "Apophis"
-    ],
-    "answer": "ʻOumuamua"
-  },
-  {
     "id": "space-astronomy-1003",
     "category": "space-astronomy",
     "difficulty": "easy",
@@ -14155,19 +13765,6 @@
       "Sun-Earth L3"
     ],
     "answer": "Sun-Earth L2"
-  },
-  {
-    "id": "space-astronomy-1006",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "What was the name of the small helicopter that flew on Mars from 2021 to 2024?",
-    "options": [
-      "Ingenuity",
-      "Curiosity",
-      "Perseverance",
-      "Opportunity"
-    ],
-    "answer": "Ingenuity"
   },
   {
     "id": "space-astronomy-1008",
@@ -14259,19 +13856,6 @@
       "Boötes Void"
     ],
     "answer": "Hercules-Corona Borealis Great Wall"
-  },
-  {
-    "id": "space-astronomy-1016",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "Which ESA mission from 2009 to 2013 mapped the cosmic microwave background with higher resolution than WMAP?",
-    "options": [
-      "Planck",
-      "Herschel",
-      "Gaia",
-      "XMM-Newton"
-    ],
-    "answer": "Planck"
   },
   {
     "id": "space-astronomy-1017",
@@ -15132,19 +14716,6 @@
     "answer": "Cascade of space debris collisions"
   },
   {
-    "id": "space-astronomy-1083",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "When was the Mir space station deorbited over the Pacific Ocean?",
-    "options": [
-      "2001",
-      "1991",
-      "1986",
-      "2011"
-    ],
-    "answer": "2001"
-  },
-  {
     "id": "space-astronomy-1084",
     "category": "space-astronomy",
     "difficulty": "medium",
@@ -15468,19 +15039,6 @@
       "Aditya"
     ],
     "answer": "Mangalyaan"
-  },
-  {
-    "id": "space-astronomy-1111",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "What is the name of the first space telescope to detect the cosmic microwave background in 1989?",
-    "options": [
-      "COBE",
-      "WMAP",
-      "Planck",
-      "IRAS"
-    ],
-    "answer": "COBE"
   },
   {
     "id": "space-astronomy-1112",
@@ -16105,32 +15663,6 @@
       "Kerberos"
     ],
     "answer": "Hydra"
-  },
-  {
-    "id": "space-astronomy-1160",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "What is the name of the small moon of Pluto discovered in 2011, named after the river of the underworld?",
-    "options": [
-      "Styx",
-      "Nix",
-      "Hydra",
-      "Charon"
-    ],
-    "answer": "Styx"
-  },
-  {
-    "id": "space-astronomy-1161",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "What is the name of the small moon of Pluto discovered in 2011, named after the three-headed dog?",
-    "options": [
-      "Kerberos",
-      "Styx",
-      "Nix",
-      "Hydra"
-    ],
-    "answer": "Kerberos"
   },
   {
     "id": "space-astronomy-1162",
