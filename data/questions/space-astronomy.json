@@ -507,19 +507,6 @@
     "answer": "Venus"
   },
   {
-    "id": "general-654",
-    "category": "space-astronomy",
-    "difficulty": "hard",
-    "question": "Which dog became the first living creature to orbit the Earth, aboard Sputnik 2 in 1957?",
-    "options": [
-      "Belka",
-      "Laika",
-      "Strelka",
-      "Ham"
-    ],
-    "answer": "Laika"
-  },
-  {
     "id": "general-655",
     "category": "space-astronomy",
     "difficulty": "hard",
@@ -1625,19 +1612,6 @@
     "answer": "A binary star system"
   },
   {
-    "id": "general-2718",
-    "category": "space-astronomy",
-    "difficulty": "hard",
-    "question": "Which dwarf planet, discovered in 2005 and roughly the size of Pluto, prompted the 2006 redefinition of \"planet\"?",
-    "options": [
-      "Eris",
-      "Makemake",
-      "Haumea",
-      "Ceres"
-    ],
-    "answer": "Eris"
-  },
-  {
     "id": "general-2719",
     "category": "space-astronomy",
     "difficulty": "easy",
@@ -1649,19 +1623,6 @@
       "Apollo 17"
     ],
     "answer": "Apollo 11"
-  },
-  {
-    "id": "general-2724",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "Which chimpanzee became the first hominid launched into space, aboard a Mercury capsule in January 1961?",
-    "options": [
-      "Ham",
-      "Enos",
-      "Albert II",
-      "Gordo"
-    ],
-    "answer": "Ham"
   },
   {
     "id": "general-2816",
@@ -4654,19 +4615,6 @@
     "answer": "Eris"
   },
   {
-    "id": "space-astronomy-230",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "What category of trans-Neptunian objects travels in orbits that are in a 2:3 orbital resonance with Neptune, similar to Pluto?",
-    "options": [
-      "Plutinos",
-      "Cubewanos",
-      "Centaurs",
-      "Scattered Disc Objects"
-    ],
-    "answer": "Plutinos"
-  },
-  {
     "id": "space-astronomy-231",
     "category": "space-astronomy",
     "difficulty": "hard",
@@ -4782,19 +4730,6 @@
       "Horizontal branch"
     ],
     "answer": "Main Sequence"
-  },
-  {
-    "id": "space-astronomy-240",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "What variable star class, whose pulsation period directly relates to intrinsic luminosity, was used by Edwin Hubble to measure extragalactic distances?",
-    "options": [
-      "RR Lyrae variables",
-      "Cepheid variables",
-      "Mira variables",
-      "T Tauri stars"
-    ],
-    "answer": "Cepheid variables"
   },
   {
     "id": "space-astronomy-241",
@@ -5044,19 +4979,6 @@
     "answer": "The Hexagon"
   },
   {
-    "id": "space-astronomy-260",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "Which Saturnian moon is the only moon in the Solar System with a dense atmosphere and standing lakes of liquid methane and ethane?",
-    "options": [
-      "Titan",
-      "Triton",
-      "Callisto",
-      "Enceladus"
-    ],
-    "answer": "Titan"
-  },
-  {
     "id": "space-astronomy-261",
     "category": "space-astronomy",
     "difficulty": "easy",
@@ -5187,32 +5109,6 @@
     "answer": "Venus"
   },
   {
-    "id": "space-astronomy-271",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "Which blue-white supergiant marks the left foot of Orion?",
-    "options": [
-      "Saiph",
-      "Bellatrix",
-      "Betelgeuse",
-      "Rigel"
-    ],
-    "answer": "Rigel"
-  },
-  {
-    "id": "space-astronomy-272",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "The Sun's spectral classification is what?",
-    "options": [
-      "M2V",
-      "G2V",
-      "A1V",
-      "K5V"
-    ],
-    "answer": "G2V"
-  },
-  {
     "id": "space-astronomy-273",
     "category": "space-astronomy",
     "difficulty": "medium",
@@ -5276,19 +5172,6 @@
       "Anti-star"
     ],
     "answer": "Rival of Mars"
-  },
-  {
-    "id": "space-astronomy-278",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "The cosmic microwave background radiation was first discovered in 1965 by which two Bell Labs astronomers?",
-    "options": [
-      "Penzias and Wilson",
-      "Hubble and Humason",
-      "Jansky and Reber",
-      "Drake and Sagan"
-    ],
-    "answer": "Penzias and Wilson"
   },
   {
     "id": "space-astronomy-279",
@@ -5746,19 +5629,6 @@
     "answer": "Earth's magnetosphere and atmosphere"
   },
   {
-    "id": "space-astronomy-315",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "The Van Allen belts are zones of what surrounding Earth?",
-    "options": [
-      "Trapped charged radiation",
-      "Asteroids",
-      "Oxygen",
-      "Dark matter"
-    ],
-    "answer": "Trapped charged radiation"
-  },
-  {
     "id": "space-astronomy-316",
     "category": "space-astronomy",
     "difficulty": "hard",
@@ -6121,19 +5991,6 @@
       "Sirius"
     ],
     "answer": "Vega"
-  },
-  {
-    "id": "space-astronomy-345",
-    "difficulty": "medium",
-    "category": "space-astronomy",
-    "question": "Which luminous blue supergiant star visually marks the left foot of the constellation Orion?",
-    "options": [
-      "Rigel",
-      "Bellatrix",
-      "Alnilam",
-      "Saiph"
-    ],
-    "answer": "Rigel"
   },
   {
     "id": "space-astronomy-346",
@@ -6526,19 +6383,6 @@
     "answer": "Frame-dragging"
   },
   {
-    "id": "space-astronomy-376",
-    "difficulty": "medium",
-    "category": "space-astronomy",
-    "question": "The first direct observation of gravitational waves was announced in 2016 by researchers working with which observatory?",
-    "options": [
-      "CERN",
-      "LIGO",
-      "Keck Observatory",
-      "Arecibo"
-    ],
-    "answer": "LIGO"
-  },
-  {
     "id": "space-astronomy-377",
     "difficulty": "hard",
     "category": "space-astronomy",
@@ -6864,19 +6708,6 @@
     "answer": "Georges Lemaître"
   },
   {
-    "id": "space-astronomy-402",
-    "difficulty": "medium",
-    "category": "space-astronomy",
-    "question": "Which NASA spacecraft arrived at Jupiter in 2016 and is currently in a highly elliptical polar orbit to study the planet's composition and gravity field?",
-    "options": [
-      "Cassini",
-      "Europa Clipper",
-      "Juno",
-      "Galileo"
-    ],
-    "answer": "Juno"
-  },
-  {
     "id": "space-astronomy-403",
     "difficulty": "easy",
     "category": "space-astronomy",
@@ -7137,19 +6968,6 @@
     "answer": "Columbia"
   },
   {
-    "id": "space-astronomy-423",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "What was the name of the Soviet space shuttle, which completed a single uncrewed orbital flight in 1988?",
-    "options": [
-      "Buran",
-      "Vostok",
-      "Energia",
-      "Soyuz"
-    ],
-    "answer": "Buran"
-  },
-  {
     "id": "space-astronomy-424",
     "category": "space-astronomy",
     "difficulty": "hard",
@@ -7200,32 +7018,6 @@
       "67P/Churyumov-Gerasimenko"
     ],
     "answer": "81P/Wild (Wild 2)"
-  },
-  {
-    "id": "space-astronomy-428",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "Which asteroid did the Japanese Hayabusa mission successfully return samples from in 2010?",
-    "options": [
-      "162173 Ryugu",
-      "433 Eros",
-      "101955 Bennu",
-      "25143 Itokawa"
-    ],
-    "answer": "25143 Itokawa"
-  },
-  {
-    "id": "space-astronomy-429",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "Which asteroid did the Japanese Hayabusa2 mission successfully return samples from in 2020?",
-    "options": [
-      "25143 Itokawa",
-      "2 Pallas",
-      "4 Vesta",
-      "162173 Ryugu"
-    ],
-    "answer": "162173 Ryugu"
   },
   {
     "id": "space-astronomy-430",
@@ -7421,19 +7213,6 @@
       "Metis and Adrastea"
     ],
     "answer": "Metis and Adrastea"
-  },
-  {
-    "id": "space-astronomy-445",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "What is the name of the dwarf planet discovered in 2005 whose mass and size ultimately led to Pluto's reclassification as a dwarf planet?",
-    "options": [
-      "Sedna",
-      "Eris",
-      "Haumea",
-      "Makemake"
-    ],
-    "answer": "Eris"
   },
   {
     "id": "space-astronomy-446",
@@ -7761,19 +7540,6 @@
     "answer": "Ergosphere"
   },
   {
-    "id": "space-astronomy-471",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "What is the name of the flattened, rotating disk of gas, dust, and stellar debris that forms around a black hole or young star as material falls inward?",
-    "options": [
-      "Debris disk",
-      "Protoplanetary disk",
-      "Accretion disk",
-      "Oort cloud"
-    ],
-    "answer": "Accretion disk"
-  },
-  {
     "id": "space-astronomy-472",
     "category": "space-astronomy",
     "difficulty": "medium",
@@ -8099,19 +7865,6 @@
     "id": "space-astronomy-497"
   },
   {
-    "difficulty": "medium",
-    "category": "space-astronomy",
-    "question": "Roughly how wide is Mercury's largest impact basin, Caloris Basin?",
-    "options": [
-      "About 1,550 km",
-      "About 600 km",
-      "About 3,200 km",
-      "About 400 km"
-    ],
-    "answer": "About 1,550 km",
-    "id": "space-astronomy-498"
-  },
-  {
     "difficulty": "hard",
     "category": "space-astronomy",
     "question": "What spin-orbit resonance is Mercury locked in?",
@@ -8142,12 +7895,12 @@
     "category": "space-astronomy",
     "question": "About how much of Mercury's radius is its giant metallic core?",
     "options": [
+      "About 85%",
+      "About 75%",
       "About 50%",
-      "About 25%",
-      "About 10%",
-      "About 75%"
+      "About 25%"
     ],
-    "answer": "About 75%",
+    "answer": "About 85%",
     "id": "space-astronomy-501"
   },
   {
@@ -12246,19 +11999,6 @@
     "answer": "Luna 16"
   },
   {
-    "id": "space-astronomy-817",
-    "category": "space-astronomy",
-    "difficulty": "hard",
-    "question": "What is the name of the large crater on Mimas that covers about one-third of its diameter?",
-    "options": [
-      "Herschel",
-      "Cassini",
-      "Huygens",
-      "Newton"
-    ],
-    "answer": "Herschel"
-  },
-  {
     "id": "space-astronomy-818",
     "category": "space-astronomy",
     "difficulty": "medium",
@@ -12506,19 +12246,6 @@
     "answer": "Kamo'oalewa"
   },
   {
-    "id": "space-astronomy-837",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "The dark, smooth plains on the Moon formed by ancient volcanic eruptions are called what?",
-    "options": [
-      "Maria",
-      "Highlands",
-      "Rilles",
-      "Regolith"
-    ],
-    "answer": "Maria"
-  },
-  {
     "id": "space-astronomy-838",
     "category": "space-astronomy",
     "difficulty": "medium",
@@ -12634,19 +12361,6 @@
       "Gemini 5"
     ],
     "answer": "Gemini 6A"
-  },
-  {
-    "id": "space-astronomy-847",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "Which space station, launched by the Soviet Union in 1986, was the first modular space station?",
-    "options": [
-      "Mir",
-      "Salyut 1",
-      "Skylab",
-      "Tiangong-1"
-    ],
-    "answer": "Mir"
   },
   {
     "id": "space-astronomy-848",
@@ -13247,19 +12961,6 @@
     "answer": "Vanguard 1"
   },
   {
-    "id": "space-astronomy-894",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "Which Apollo mission was the first to carry a Lunar Roving Vehicle and explore Hadley-Apennine?",
-    "options": [
-      "Apollo 15",
-      "Apollo 14",
-      "Apollo 16",
-      "Apollo 17"
-    ],
-    "answer": "Apollo 15"
-  },
-  {
     "id": "space-astronomy-895",
     "category": "space-astronomy",
     "difficulty": "medium",
@@ -13377,19 +13078,6 @@
     "answer": "Mare Fecunditatis"
   },
   {
-    "id": "space-astronomy-904",
-    "category": "space-astronomy",
-    "difficulty": "hard",
-    "question": "Which comet in 1994 was observed to break apart and collide with Jupiter, a first-time observation?",
-    "options": [
-      "Shoemaker-Levy 9",
-      "Hale-Bopp",
-      "Hyakutake",
-      "Halley"
-    ],
-    "answer": "Shoemaker-Levy 9"
-  },
-  {
     "id": "space-astronomy-905",
     "category": "space-astronomy",
     "difficulty": "medium",
@@ -13468,19 +13156,6 @@
     "answer": "Centaurus"
   },
   {
-    "id": "space-astronomy-911",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "Which type of variable star pulsates and is used as a standard candle to measure distances to nearby galaxies?",
-    "options": [
-      "Cepheid variable",
-      "RR Lyrae",
-      "Mira variable",
-      "Flare star"
-    ],
-    "answer": "Cepheid variable"
-  },
-  {
     "id": "space-astronomy-912",
     "category": "space-astronomy",
     "difficulty": "medium",
@@ -13546,19 +13221,6 @@
     "answer": "Io"
   },
   {
-    "id": "space-astronomy-917",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "Which mission first flew by Mercury in 1974, taking the first close-up images?",
-    "options": [
-      "Mariner 10",
-      "MESSENGER",
-      "BepiColombo",
-      "Pioneer 10"
-    ],
-    "answer": "Mariner 10"
-  },
-  {
     "id": "space-astronomy-918",
     "category": "space-astronomy",
     "difficulty": "medium",
@@ -13583,19 +13245,6 @@
       "Van Allen Belt"
     ],
     "answer": "Kuiper Belt"
-  },
-  {
-    "id": "space-astronomy-920",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "What was the name of NASA's first Mars rover to use airbags for landing, in 1997?",
-    "options": [
-      "Sojourner",
-      "Spirit",
-      "Opportunity",
-      "Curiosity"
-    ],
-    "answer": "Sojourner"
   },
   {
     "id": "space-astronomy-921",
@@ -13637,19 +13286,6 @@
     "answer": "White dwarf"
   },
   {
-    "id": "space-astronomy-924",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "Which moon of Saturn has plumes of water vapor erupting from its south pole, discovered by Cassini?",
-    "options": [
-      "Enceladus",
-      "Titan",
-      "Mimas",
-      "Dione"
-    ],
-    "answer": "Enceladus"
-  },
-  {
     "id": "space-astronomy-925",
     "category": "space-astronomy",
     "difficulty": "medium",
@@ -13689,32 +13325,6 @@
     "answer": "Laniakea"
   },
   {
-    "id": "space-astronomy-928",
-    "category": "space-astronomy",
-    "difficulty": "hard",
-    "question": "The Event Horizon Telescope image released in 2019 showed the shadow of the supermassive black hole in which galaxy?",
-    "options": [
-      "Messier 87",
-      "Andromeda",
-      "Milky Way",
-      "Triangulum"
-    ],
-    "answer": "Messier 87"
-  },
-  {
-    "id": "space-astronomy-929",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "Which Galilean moon is the most heavily cratered and outermost of the four?",
-    "options": [
-      "Callisto",
-      "Io",
-      "Europa",
-      "Ganymede"
-    ],
-    "answer": "Callisto"
-  },
-  {
     "id": "space-astronomy-930",
     "category": "space-astronomy",
     "difficulty": "medium",
@@ -13726,19 +13336,6 @@
       "Boundary of black hole"
     ],
     "answer": "Distance within which tidal forces break up a satellite"
-  },
-  {
-    "id": "space-astronomy-931",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "Who discovered the first pulsar in 1967, initially nicknamed LGM-1?",
-    "options": [
-      "Jocelyn Bell Burnell",
-      "Vera Rubin",
-      "Marie Curie",
-      "Caroline Herschel"
-    ],
-    "answer": "Jocelyn Bell Burnell"
   },
   {
     "id": "space-astronomy-932",
@@ -13845,19 +13442,6 @@
     "answer": "Kepler"
   },
   {
-    "id": "space-astronomy-941",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "Who coined the term 'Big Bang' in 1949 to mock the idea, though it stuck?",
-    "options": [
-      "Fred Hoyle",
-      "Albert Einstein",
-      "Edwin Hubble",
-      "Carl Sagan"
-    ],
-    "answer": "Fred Hoyle"
-  },
-  {
     "id": "space-astronomy-942",
     "category": "space-astronomy",
     "difficulty": "medium",
@@ -13947,45 +13531,6 @@
       "Stars"
     ],
     "answer": "Sun"
-  },
-  {
-    "id": "space-astronomy-949",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "Who was the first American to orbit Earth in 1962 aboard Friendship 7?",
-    "options": [
-      "John Glenn",
-      "Alan Shepard",
-      "Neil Armstrong",
-      "Buzz Aldrin"
-    ],
-    "answer": "John Glenn"
-  },
-  {
-    "id": "space-astronomy-950",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "Which was the first Space Shuttle orbiter to fly into space in 1981?",
-    "options": [
-      "Columbia",
-      "Challenger",
-      "Discovery",
-      "Atlantis"
-    ],
-    "answer": "Columbia"
-  },
-  {
-    "id": "space-astronomy-951",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "NASA's Curiosity rover has been exploring which crater since 2012?",
-    "options": [
-      "Gale Crater",
-      "Jezero Crater",
-      "Victoria Crater",
-      "Endeavour Crater"
-    ],
-    "answer": "Gale Crater"
   },
   {
     "id": "space-astronomy-952",
@@ -14105,19 +13650,6 @@
     "answer": "Slowly spiraling inward toward Mars"
   },
   {
-    "id": "space-astronomy-962",
-    "category": "space-astronomy",
-    "difficulty": "hard",
-    "question": "Verona Rupes, the tallest known cliff in the Solar System at about 20 km high, is on which Uranian moon?",
-    "options": [
-      "Miranda",
-      "Ariel",
-      "Titania",
-      "Oberon"
-    ],
-    "answer": "Miranda"
-  },
-  {
     "id": "space-astronomy-963",
     "category": "space-astronomy",
     "difficulty": "medium",
@@ -14155,19 +13687,6 @@
       "Carbonic acid"
     ],
     "answer": "Sulfuric acid"
-  },
-  {
-    "id": "space-astronomy-966",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "The Van Allen belts are zones of trapped charged particles around which planet?",
-    "options": [
-      "Earth",
-      "Jupiter",
-      "Saturn",
-      "Venus"
-    ],
-    "answer": "Earth"
   },
   {
     "id": "space-astronomy-967",
@@ -14573,19 +14092,6 @@
     "answer": "Long-period comets"
   },
   {
-    "id": "space-astronomy-998",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "Which spacecraft became the first to fly through the Sun's corona in 2021?",
-    "options": [
-      "Parker Solar Probe",
-      "Solar Orbiter",
-      "SOHO",
-      "Pioneer 10"
-    ],
-    "answer": "Parker Solar Probe"
-  },
-  {
     "id": "space-astronomy-999",
     "category": "space-astronomy",
     "difficulty": "easy",
@@ -14597,32 +14103,6 @@
       "1,000 km"
     ],
     "answer": "100 km"
-  },
-  {
-    "id": "space-astronomy-1000",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "What phase is a star in when it fuses hydrogen in its core for most of its life?",
-    "options": [
-      "Main sequence",
-      "Red giant",
-      "White dwarf",
-      "Supernova"
-    ],
-    "answer": "Main sequence"
-  },
-  {
-    "id": "space-astronomy-1001",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "NASA's DART mission in 2022 successfully changed the orbit of which asteroid moon?",
-    "options": [
-      "Dimorphos",
-      "Phobos",
-      "Charon",
-      "Deimos"
-    ],
-    "answer": "Dimorphos"
   },
   {
     "id": "space-astronomy-1002",
@@ -14690,19 +14170,6 @@
     "answer": "Ingenuity"
   },
   {
-    "id": "space-astronomy-1007",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "NASA's OSIRIS-REx mission collected samples from which near-Earth asteroid?",
-    "options": [
-      "Bennu",
-      "Ryugu",
-      "Itokawa",
-      "Eros"
-    ],
-    "answer": "Bennu"
-  },
-  {
     "id": "space-astronomy-1008",
     "category": "space-astronomy",
     "difficulty": "medium",
@@ -14714,19 +14181,6 @@
       "Ranger 7"
     ],
     "answer": "Luna 2"
-  },
-  {
-    "id": "space-astronomy-1009",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "What optical flaw was discovered in Hubble's primary mirror after its 1990 launch?",
-    "options": [
-      "Spherical aberration",
-      "Chromatic aberration",
-      "Astigmatism",
-      "Cracked mirror"
-    ],
-    "answer": "Spherical aberration"
   },
   {
     "id": "space-astronomy-1010",
@@ -15553,12 +15007,12 @@
     "difficulty": "medium",
     "question": "Uranus has how many known moons as of 2026?",
     "options": [
+      "29",
       "28",
       "14",
-      "5",
       "95"
     ],
-    "answer": "28"
+    "answer": "29"
   },
   {
     "id": "space-astronomy-1074",
@@ -15702,19 +15156,6 @@
       "USA and China"
     ],
     "answer": "USA and USSR"
-  },
-  {
-    "id": "space-astronomy-1085",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "How many primary mirror segments does JWST have, made of beryllium coated in gold?",
-    "options": [
-      "18",
-      "6",
-      "12",
-      "24"
-    ],
-    "answer": "18"
   },
   {
     "id": "space-astronomy-1086",
@@ -16014,19 +15455,6 @@
       "Zhurong"
     ],
     "answer": "Rosalind Franklin"
-  },
-  {
-    "id": "space-astronomy-1109",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "Which country successfully landed the Zhurong rover on Mars in 2021?",
-    "options": [
-      "China",
-      "USA",
-      "Russia",
-      "India"
-    ],
-    "answer": "China"
   },
   {
     "id": "space-astronomy-1110",

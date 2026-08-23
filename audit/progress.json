@@ -15165,11 +15165,11 @@
         "space-astronomy-259",
         "space-astronomy-260"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-23",
+      "completedAt": "2026-08-23",
+      "issuesFound": 16,
+      "notes": "Cut 16 duplicates, 0 factual errors. In-chunk cuts: space-astronomy-230 (Plutinos, dup of already-done -486), -240 and -911 (Cepheid/standard-candle, dup of already-done -129), -260 (Titan hydrocarbon lakes, dup of already-done -111). Orphan cuts surfaced via cross-reference: -998 (Parker Solar Probe corona, dup of -184), -1007 (Bennu/OSIRIS-REx, dup of -188), -1001 (Dimorphos/DART, dup of -189), -931 (Bell Burnell/pulsar, dup of -197), -928 (M87/EHT image, dup of -202), -941 (Fred Hoyle/Big Bang term, dup of -206), -837 (Maria/lunar plains, dup of -215), -929 (Callisto outermost Galilean moon, dup of -222), -962 (Miranda/Verona Rupes, dup of -225), general-2718 (Eris/2005 IAU redefinition, dup of -229), general-3955 (parsec=3.26ly, dup of -251). All other questions and distractors verified correct."
     },
     {
       "chunkId": "space-astronomy-p1-009",
@@ -15226,11 +15226,11 @@
         "space-astronomy-369",
         "space-astronomy-371"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-23",
+      "completedAt": "2026-08-23",
+      "issuesFound": 13,
+      "notes": "Cut 12 duplicates, fixed 1 stale fact. In-chunk cuts: -271 and -345 (Rigel/Orion left foot, dup of already-done -244), -272 (Sun G2V spectral type, dup of already-done -237), -278 (Penzias/Wilson CMB discovery, reversed-direction dup of already-done -205), -315 (Van Allen belts contents, reversed-direction dup of already-done -212). Orphan cuts surfaced via cross-reference: -966 (Van Allen belts/Earth, dup of -212), -817 (Herschel crater/Mimas, dup of -351), -1085 (JWST 18 mirror segments, dup of -361), -1009 (Hubble spherical aberration, dup of -364), -951 (Curiosity/Gale Crater, dup of -311), -917 (Mariner 10/Mercury 1974 flyby, dup of -341), -924 (Enceladus south-pole plumes, dup of already-done -045). Fixed stale fact: -1073 claimed Uranus has 28 moons 'as of 2026' but S/2025 U1 was confirmed in Aug 2025 bringing the total to 29 (verified via WebSearch) -- updated answer to 29 with 28 as a distractor. All other questions and distractors verified correct."
     },
     {
       "chunkId": "space-astronomy-p1-010",
@@ -15287,11 +15287,11 @@
         "space-astronomy-504",
         "space-astronomy-505"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-23",
+      "completedAt": "2026-08-23",
+      "issuesFound": 18,
+      "notes": "Cut 17 duplicates, fixed 1 factual error. In-chunk cuts (dup of already-done earlier questions): -376 (LIGO/gravitational waves, reversed-direction dup of -255), -402 (Juno/Jupiter 2016 orbit, dup of -185), -445 (Eris/2005 dwarf planet redefinition, dup of -229), -428 (Hayabusa/Itokawa, reversed-direction dup of -342), -429 (Hayabusa2/Ryugu, dup of -308, missed by auto-print since answer text included the catalog number '162173 Ryugu' vs plain 'Ryugu'), -471 (accretion disk definition, dup of -307), -498 (Caloris Basin size/Mercury, reversed-direction dup of -264). In-chunk internal duplicate: -423 cut as dup of -385 (both Buran/Soviet spaceplane 1988). Orphan cuts surfaced via cross-reference: -949 (John Glenn/Friendship 7, dup of -384), general-654 (Laika, dup of -415), general-2724 (Ham the chimp, dup of -416), -847 (Mir space station, dup of -425), -920 (Sojourner/Pathfinder, dup of -411), -894 (Apollo 15/LRV, dup of -435), -904 (Shoemaker-Levy 9/Jupiter 1994, dup of -405), -1109 (Zhurong/China, reversed-direction dup of -458), -950 (Columbia/first 1981 shuttle flight, dup of -422). Fixed factual error: -501 claimed Mercury's metallic core is 'about 75%' of its radius; current NASA/authoritative figures put it at ~85% (75% is an older, superseded estimate) -- updated answer to 85% with 75% kept as a plausible distractor, verified via WebSearch. Kept as legitimately distinct same-entity facts: -412 vs -169 (NEAR Shoemaker first to orbit vs first to land on Eros -- two different real milestones), -394/-146/-694 (Dawn: first two-body orbiter vs first dwarf-planet orbiter -- 694 pending, will self-resolve), -464/-419 (M31 the galaxy's Messier number vs M31* the central black hole's designation -- different entities despite near-identical answer text)."
     },
     {
       "chunkId": "space-astronomy-p1-011",
