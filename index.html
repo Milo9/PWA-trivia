@@ -26,6 +26,7 @@
         <h1><span class="logo-icon" aria-hidden="true">🎮</span>Offline Trivia</h1>
         <p class="subtitle">Pick one or more categories to start a round</p>
       </header>
+      <button id="quick-play-btn" class="primary-btn quick-play-btn hidden" type="button"></button>
       <div id="category-list" class="category-list" aria-live="polite"></div>
       <p id="categories-status" class="status-text"></p>
       <div id="selection-bar" class="selection-bar hidden">
@@ -50,6 +51,10 @@
         <p class="subtitle">Choose your round settings</p>
       </header>
       <div class="settings-group">
+        <p class="settings-label">Mode</p>
+        <div id="mode-options" class="toggle-group"></div>
+      </div>
+      <div class="settings-group" id="count-group">
         <p class="settings-label">Number of questions</p>
         <div id="count-options" class="toggle-group"></div>
       </div>
@@ -66,12 +71,14 @@
     <section id="screen-quiz" class="screen hidden">
       <header class="quiz-header">
         <button id="quit-btn" class="icon-btn" aria-label="Quit round">✕</button>
-        <div class="progress-track">
+        <div id="progress-track" class="progress-track">
           <div id="progress-fill" class="progress-fill"></div>
         </div>
+        <span id="lives-display" class="lives-display hidden" aria-hidden="true"></span>
+        <span id="score-chip" class="score-chip"></span>
         <span id="question-counter" class="question-counter"></span>
       </header>
-      <div class="quiz-body">
+      <div class="quiz-body" id="quiz-body">
         <div id="milestone-flash" class="milestone-flash" aria-hidden="true"></div>
         <span id="streak-badge" class="streak-badge hidden"></span>
         <p id="question-category" class="question-category"></p>

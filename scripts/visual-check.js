@@ -151,7 +151,11 @@ async function main() {
       qNum += 1;
     }
 
-    await page.waitForTimeout(400); // let confetti actually draw a few frames
+    // 400ms just for confetti isn't enough now that the score/stars reveal is
+    // staggered (score count-up ~700ms, 3rd star lights at 780ms) — wait past
+    // that too, or the screenshot catches a mid-reveal state (e.g. a perfect
+    // score showing only 1 lit star).
+    await page.waitForTimeout(950);
     await shot(page, "results-confetti");
 
     await page.click("#choose-category-btn");

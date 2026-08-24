@@ -5,6 +5,17 @@ const DIFFICULTY_OPTIONS = [
   { id: "medium", label: "Medium" },
   { id: "hard", label: "Hard" },
 ];
+const MODE_OPTIONS = [
+  { id: "standard", label: "Standard" },
+  { id: "survival", label: "Survival" },
+];
+const SURVIVAL_LIVES = 3;
+// Capped well below "the whole selected pool" — saveActiveRound serializes
+// roundQuestions on every answer, and an uncapped select-all survival round
+// (thousands of questions) would blow past localStorage's ~5MB quota on iOS
+// Safari and silently break resume. Nobody survives this many anyway; if
+// someone does, isRoundOver() treats pool exhaustion as a clean finish.
+const SURVIVAL_POOL_CAP = 150;
 const OPTION_LETTERS = ["A", "B", "C", "D", "E", "F"];
 const CATEGORY_ICONS = {
   friends: "☕",
@@ -30,13 +41,40 @@ function categoryIcon(id) {
   return CATEGORY_ICONS[id] || DEFAULT_CATEGORY_ICON;
 }
 
+// Fixed per-category accent so the same category always themes the quiz
+// screen the same way, independent of the category picker's position-based
+// nth-child cycling (data/categories.json order can and does change).
+const CATEGORY_COLORS = {
+  friends: "--card-1",
+  "big-bang-theory": "--card-2",
+  history: "--card-3",
+  geography: "--card-4",
+  "science-technology": "--card-5",
+  "animals-nature": "--card-6",
+  "space-astronomy": "--card-7",
+  "arts-literature": "--card-8",
+  "film-tv": "--card-1",
+  music: "--card-2",
+  sports: "--card-3",
+  "food-drink": "--card-4",
+  "mythology-religion": "--card-5",
+  "world-cultures": "--card-6",
+  general: "--card-7",
+  "business-brands": "--card-8",
+  "civics-law-economics": "--card-1",
+};
+
+function categoryAccentVar(id) {
+  return `var(${CATEGORY_COLORS[id] || "--accent"})`;
+}
+
 const state = {
   categories: [],
   categoryById: {},
   selectedCategoryIds: new Set(),
   currentCategories: [],
   pendingCategories: [],
-  settings: { count: 10, difficulty: "any" },
+  settings: { count: 10, difficulty: "any", mode: "standard" },
   roundQuestions: [],
   currentIndex: 0,
   score: 0,
@@ -45,6 +83,8 @@ const state = {
   answers: [], // { question, options, correctAnswer, selected, wasCorrect, category }
   seenByCat: {}, // { [categoryId]: Set<questionId> } — this round's in-progress seen tracking
   lifelineUsed: false, // 50/50 lifeline, one per round
+  mode: "standard", // "standard" | "survival" — mirrors settings.mode for the active round
+  lives: 0, // survival mode only
 };
 
 const el = {
@@ -63,10 +103,13 @@ const el = {
   selectionBar: document.getElementById("selection-bar"),
   selectAllBtn: document.getElementById("select-all-btn"),
   playSelectedBtn: document.getElementById("play-selected-btn"),
+  quickPlayBtn: document.getElementById("quick-play-btn"),
   soundToggleBtn: document.getElementById("sound-toggle-btn"),
   autoAdvanceToggleBtn: document.getElementById("auto-advance-toggle-btn"),
 
   settingsCategoryName: document.getElementById("settings-category-name"),
+  modeOptions: document.getElementById("mode-options"),
+  countGroup: document.getElementById("count-group"),
   countOptions: document.getElementById("count-options"),
   difficultyOptions: document.getElementById("difficulty-options"),
   settingsAvailability: document.getElementById("settings-availability"),
@@ -74,7 +117,11 @@ const el = {
   settingsBackBtn: document.getElementById("settings-back-btn"),
 
   quitBtn: document.getElementById("quit-btn"),
+  quizBody: document.getElementById("quiz-body"),
+  progressTrack: document.getElementById("progress-track"),
   progressFill: document.getElementById("progress-fill"),
+  scoreChip: document.getElementById("score-chip"),
+  livesDisplay: document.getElementById("lives-display"),
   questionCounter: document.getElementById("question-counter"),
   questionCategory: document.getElementById("question-category"),
   questionText: document.getElementById("question-text"),
@@ -112,6 +159,7 @@ function showScreen(name) {
     if (state.categories.length) renderCategoryList();
     renderStatsSummary();
     renderCategoryCounts();
+    renderQuickPlay();
   }
   if (name === "settings") el.screenSettings.classList.remove("hidden");
   if (name === "quiz") el.screenQuiz.classList.remove("hidden");
@@ -172,6 +220,109 @@ el.autoAdvanceToggleBtn.addEventListener("click", () => {
 });
 
 renderPrefsRow();
+
+const PICKER_STATE_KEY = "offline-trivia:picker-state";
+
+// Persists the category picker's selection and the settings screen's
+// choices across launches — separate from LAST_ROUND_KEY below, which only
+// snapshots a round that was actually started (for Quick Play).
+function savePickerState() {
+  try {
+    localStorage.setItem(
+      PICKER_STATE_KEY,
+      JSON.stringify({
+        selectedCategoryIds: Array.from(state.selectedCategoryIds),
+        settings: state.settings,
+      })
+    );
+  } catch (e) {
+    // localStorage unavailable — picker state just won't persist
+  }
+}
+
+function loadPickerState() {
+  try {
+    const raw = localStorage.getItem(PICKER_STATE_KEY);
+    if (!raw) return null;
+    const parsed = JSON.parse(raw);
+    const settings = parsed.settings || {};
+    const sanitized = {
+      count: COUNT_OPTIONS.includes(settings.count) ? settings.count : state.settings.count,
+      difficulty: DIFFICULTY_OPTIONS.some((d) => d.id === settings.difficulty)
+        ? settings.difficulty
+        : state.settings.difficulty,
+      mode: MODE_OPTIONS.some((m) => m.id === settings.mode) ? settings.mode : state.settings.mode,
+    };
+    return {
+      selectedCategoryIds: Array.isArray(parsed.selectedCategoryIds) ? parsed.selectedCategoryIds : [],
+      settings: sanitized,
+    };
+  } catch (e) {
+    return null;
+  }
+}
+
+const LAST_ROUND_KEY = "offline-trivia:last-round";
+
+// Snapshot of the last round actually started (not just the picker's current
+// selection), so Quick Play always replays what you last played even if
+// you've since fiddled with the picker without pressing Play.
+function saveLastRoundConfig(categories, settings) {
+  try {
+    localStorage.setItem(
+      LAST_ROUND_KEY,
+      JSON.stringify({
+        categoryIds: categories.map((c) => c.id),
+        settings,
+      })
+    );
+  } catch (e) {
+    // localStorage unavailable — Quick Play just won't be offered
+  }
+}
+
+function loadLastRoundConfig() {
+  try {
+    const raw = localStorage.getItem(LAST_ROUND_KEY);
+    return raw ? JSON.parse(raw) : null;
+  } catch (e) {
+    return null;
+  }
+}
+
+function quickPlayLabel(categories, settings) {
+  const names = categories.length <= 2 ? categories.map((c) => c.name).join(" + ") : `${categories.length} Categories`;
+  const modeLabel = settings.mode === "survival" ? "Survival" : `${settings.count}Q`;
+  const diffOpt = DIFFICULTY_OPTIONS.find((d) => d.id === settings.difficulty);
+  return `▶ Quick Play: ${names} (${modeLabel} · ${diffOpt ? diffOpt.label : "Any"})`;
+}
+
+// Renders (or hides) the Quick Play button based on whether the last-started
+// round's categories still exist and still have questions at that
+// difficulty. Requires state.categoryById to be populated.
+function renderQuickPlay() {
+  const cfg = loadLastRoundConfig();
+  if (!cfg || !Array.isArray(cfg.categoryIds) || !cfg.settings) {
+    el.quickPlayBtn.classList.add("hidden");
+    return;
+  }
+  const categories = cfg.categoryIds.map((id) => state.categoryById[id]).filter(Boolean);
+  if (!categories.length) {
+    el.quickPlayBtn.classList.add("hidden");
+    return;
+  }
+  const pool = filterByDifficulty(categories.flatMap((c) => c.questions), cfg.settings.difficulty);
+  if (pool.length === 0) {
+    el.quickPlayBtn.classList.add("hidden");
+    return;
+  }
+  el.quickPlayBtn.textContent = quickPlayLabel(categories, cfg.settings);
+  el.quickPlayBtn.classList.remove("hidden");
+  el.quickPlayBtn.onclick = () => {
+    state.settings = { ...state.settings, ...cfg.settings };
+    startRound(categories);
+  };
+}
 
 let audioCtx = null;
 
@@ -281,8 +432,18 @@ async function loadCategories() {
     state.categories = withCounts;
     state.categoryById = {};
     for (const cat of withCounts) state.categoryById[cat.id] = cat;
+
+    const savedPicker = loadPickerState();
+    if (savedPicker) {
+      state.settings = savedPicker.settings;
+      state.selectedCategoryIds = new Set(
+        savedPicker.selectedCategoryIds.filter((id) => state.categoryById[id])
+      );
+    }
+
     renderCategoryList();
     renderCategoryCounts();
+    renderQuickPlay();
     tryResumeActiveRound();
   } catch (e) {
     el.categoriesStatus.textContent = "Couldn't load categories. Try reopening the app.";
@@ -339,6 +500,7 @@ function toggleCategorySelection(catId) {
   } else {
     state.selectedCategoryIds.add(catId);
   }
+  savePickerState();
   renderCategoryList();
 }
 
@@ -362,6 +524,7 @@ function renderSelectionBar() {
     } else {
       for (const c of playable) state.selectedCategoryIds.add(c.id);
     }
+    savePickerState();
     renderCategoryList();
   };
 
@@ -395,6 +558,22 @@ function settingsTitle(categories) {
 function renderSettingsScreen() {
   el.settingsCategoryName.textContent = settingsTitle(state.pendingCategories);
 
+  el.modeOptions.innerHTML = "";
+  for (const mode of MODE_OPTIONS) {
+    const btn = document.createElement("button");
+    btn.className = "toggle-btn" + (state.settings.mode === mode.id ? " active" : "");
+    btn.textContent = mode.label;
+    btn.addEventListener("click", () => {
+      state.settings.mode = mode.id;
+      savePickerState();
+      renderSettingsScreen();
+    });
+    el.modeOptions.appendChild(btn);
+  }
+
+  const isSurvival = state.settings.mode === "survival";
+  el.countGroup.classList.toggle("hidden", isSurvival);
+
   el.countOptions.innerHTML = "";
   for (const count of COUNT_OPTIONS) {
     const btn = document.createElement("button");
@@ -402,6 +581,7 @@ function renderSettingsScreen() {
     btn.textContent = count;
     btn.addEventListener("click", () => {
       state.settings.count = count;
+      savePickerState();
       renderSettingsScreen();
     });
     el.countOptions.appendChild(btn);
@@ -414,6 +594,7 @@ function renderSettingsScreen() {
     btn.textContent = diff.label;
     btn.addEventListener("click", () => {
       state.settings.difficulty = diff.id;
+      savePickerState();
       renderSettingsScreen();
     });
     el.difficultyOptions.appendChild(btn);
@@ -421,13 +602,20 @@ function renderSettingsScreen() {
 
   const combinedQuestions = state.pendingCategories.flatMap((c) => c.questions);
   const pool = filterByDifficulty(combinedQuestions, state.settings.difficulty);
-  const actualCount = Math.min(state.settings.count, pool.length);
-  if (pool.length === 0) {
-    el.settingsAvailability.textContent = "No questions available at this difficulty — pick another.";
-  } else if (actualCount < state.settings.count) {
-    el.settingsAvailability.textContent = `Only ${pool.length} questions available at this difficulty — round will use all ${pool.length}.`;
+  if (isSurvival) {
+    const cap = Math.min(SURVIVAL_POOL_CAP, pool.length);
+    el.settingsAvailability.textContent = pool.length === 0
+      ? "No questions available at this difficulty — pick another."
+      : `Survival: ${SURVIVAL_LIVES} lives. Up to ${cap} questions from this difficulty.`;
   } else {
-    el.settingsAvailability.textContent = `${pool.length} questions available at this difficulty.`;
+    const actualCount = Math.min(state.settings.count, pool.length);
+    if (pool.length === 0) {
+      el.settingsAvailability.textContent = "No questions available at this difficulty — pick another.";
+    } else if (actualCount < state.settings.count) {
+      el.settingsAvailability.textContent = `Only ${pool.length} questions available at this difficulty — round will use all ${pool.length}.`;
+    } else {
+      el.settingsAvailability.textContent = `${pool.length} questions available at this difficulty.`;
+    }
   }
   el.startRoundBtn.disabled = pool.length === 0;
 }
@@ -482,6 +670,8 @@ function saveActiveRound() {
         answers: state.answers,
         seenByCat,
         lifelineUsed: state.lifelineUsed,
+        mode: state.mode,
+        lives: state.lives,
       })
     );
   } catch (e) {
@@ -517,7 +707,11 @@ async function tryResumeActiveRound() {
   if (categories.some((c) => !c)) return; // categories didn't load — try again next launch
 
   const answeredCount = Math.min(saved.answers.length, saved.roundQuestions.length);
-  const finished = answeredCount >= saved.roundQuestions.length;
+  const savedMode = saved.mode || "standard";
+  const savedLives = typeof saved.lives === "number" ? saved.lives : 0;
+  const finished = savedMode === "survival"
+    ? savedLives <= 0 || answeredCount >= saved.roundQuestions.length
+    : answeredCount >= saved.roundQuestions.length;
   const confirmed = await showConfirmSheet({
     title: finished ? "See your last round?" : "Resume your round?",
     message: finished
@@ -538,6 +732,8 @@ async function tryResumeActiveRound() {
   state.bestStreak = saved.bestStreak;
   state.answers = saved.answers;
   state.lifelineUsed = !!saved.lifelineUsed;
+  state.mode = savedMode;
+  state.lives = savedLives;
   state.seenByCat = {};
   for (const catId of Object.keys(saved.seenByCat || {})) {
     state.seenByCat[catId] = new Set(saved.seenByCat[catId]);
@@ -571,7 +767,8 @@ function defaultStats() {
     totalCorrect: 0,
     bestPct: 0,
     bestStreak: 0,
-    lastGame: null, // { score, total, pct }
+    bestSurvivalScore: 0,
+    lastGame: null, // { score, total, pct, mode }
     today: { date: currentDateKey(), gamesPlayed: 0, totalQuestions: 0, totalCorrect: 0 },
     byCategory: {}, // { [categoryId]: { totalQuestions, totalCorrect } }
   };
@@ -604,14 +801,21 @@ function todayBucket(stats) {
 // Records this game's result and returns the updated overall stats. `answers`
 // (state.answers) carries the category each question actually belonged to,
 // so a mixed round attributes each question to its own category rather than
-// the round as a whole.
-function recordGameResult(score, total, answers, bestStreak) {
+// the round as a whole. `bestPct` (and the star rating/confetti it drives)
+// only makes sense for a fixed-length standard round — a survival run is
+// structurally almost-all-correct (at most a few misses before lives run
+// out), so it gets its own bestSurvivalScore instead of skewing bestPct.
+function recordGameResult(score, total, answers, bestStreak, mode) {
   const stats = loadStats();
   stats.gamesPlayed += 1;
   stats.totalQuestions += total;
   stats.totalCorrect += score;
   const pct = total > 0 ? (score / total) * 100 : 0;
-  if (pct > stats.bestPct) stats.bestPct = pct;
+  if (mode === "survival") {
+    if (score > stats.bestSurvivalScore) stats.bestSurvivalScore = score;
+  } else if (pct > stats.bestPct) {
+    stats.bestPct = pct;
+  }
   if (bestStreak > stats.bestStreak) stats.bestStreak = bestStreak;
 
   const today = todayBucket(stats);
@@ -620,7 +824,7 @@ function recordGameResult(score, total, answers, bestStreak) {
   today.totalCorrect += score;
   stats.today = today;
 
-  stats.lastGame = { score, total, pct };
+  stats.lastGame = { score, total, pct, mode };
 
   for (const a of answers || []) {
     if (!a.category) continue;
@@ -656,15 +860,22 @@ function renderStatsSummary() {
     ? "No games yet"
     : `${today.gamesPlayed} ${today.gamesPlayed === 1 ? "game" : "games"} · ${Math.round((today.totalCorrect / today.totalQuestions) * 100)}% avg`;
 
-  const lastLine = stats.lastGame
-    ? `${Math.round(stats.lastGame.pct)}% (${stats.lastGame.score}/${stats.lastGame.total})`
-    : "—";
+  const lastLine = !stats.lastGame
+    ? "—"
+    : stats.lastGame.mode === "survival"
+      ? `Survival: ${stats.lastGame.score}`
+      : `${Math.round(stats.lastGame.pct)}% (${stats.lastGame.score}/${stats.lastGame.total})`;
+
+  const survivalRow = stats.bestSurvivalScore > 0
+    ? `<div class="stats-row"><span>Best Survival</span><span class="stats-value">💀 ${stats.bestSurvivalScore}</span></div>`
+    : "";
 
   el.statsSummary.innerHTML = `
     <div class="stats-row"><span>Overall</span><span class="stats-value">${overallLine}</span></div>
     <div class="stats-row"><span>Today</span><span class="stats-value">${todayLine}</span></div>
     <div class="stats-row"><span>Last Game</span><span class="stats-value">${lastLine}</span></div>
     <div class="stats-row"><span>Best Streak</span><span class="stats-value">🔥 ${stats.bestStreak}</span></div>
+    ${survivalRow}
   `;
 }
 
@@ -682,10 +893,20 @@ el.resetStatsBtn.addEventListener("click", async () => {
   renderCategoryCounts();
 });
 
+function isRoundOver() {
+  if (state.mode === "survival" && state.lives <= 0) return true;
+  return state.currentIndex >= state.roundQuestions.length;
+}
+
 function startRound(categories) {
   state.currentCategories = categories;
+  state.mode = state.settings.mode;
+  saveLastRoundConfig(categories, state.settings);
+
   const filtered = filterByDifficulty(categories.flatMap((c) => c.questions), state.settings.difficulty);
-  const requestedCount = Math.min(state.settings.count, filtered.length);
+  const requestedCount = state.mode === "survival"
+    ? Math.min(SURVIVAL_POOL_CAP, filtered.length)
+    : Math.min(state.settings.count, filtered.length);
 
   // Avoid repeating questions already asked for a category until its whole
   // pool (at the current difficulty) has been cycled through once. Each
@@ -717,6 +938,7 @@ function startRound(categories) {
   state.bestStreak = 0;
   state.answers = [];
   state.lifelineUsed = false;
+  state.lives = state.mode === "survival" ? SURVIVAL_LIVES : 0;
   saveActiveRound();
   showScreen("quiz");
   renderQuestion();
@@ -749,6 +971,28 @@ function updateStreakBadge(animate) {
     el.streakBadge.classList.remove("tier-2", "tier-3");
     el.streakBadge.classList.add("hidden");
   }
+  el.quizBody.classList.toggle("streak-glow-2", state.streak >= 5 && state.streak < 10);
+  el.quizBody.classList.toggle("streak-glow-3", state.streak >= 10);
+}
+
+// Updates the bits of the quiz header that change independent of a full
+// question re-render: score (every mode), plus either the progress
+// bar/counter (standard) or the hearts display (survival, since there's no
+// fixed round length to show a fraction of).
+function renderQuizStatus() {
+  el.scoreChip.textContent = `🎯 ${state.score}`;
+  if (state.mode === "survival") {
+    el.progressTrack.classList.add("hidden");
+    el.questionCounter.classList.add("hidden");
+    el.livesDisplay.classList.remove("hidden");
+    el.livesDisplay.textContent = "❤️".repeat(Math.max(state.lives, 0)) + "🖤".repeat(Math.max(SURVIVAL_LIVES - state.lives, 0));
+  } else {
+    el.progressTrack.classList.remove("hidden");
+    el.questionCounter.classList.remove("hidden");
+    el.livesDisplay.classList.add("hidden");
+    el.questionCounter.textContent = `${state.currentIndex + 1}/${state.roundQuestions.length}`;
+    el.progressFill.style.width = `${(state.currentIndex / state.roundQuestions.length) * 100}%`;
+  }
 }
 
 function renderQuestion() {
@@ -757,16 +1001,26 @@ function renderQuestion() {
   const cat = state.categoryById[q.category];
   el.questionCategory.textContent = `${categoryIcon(q.category)} ${cat ? cat.name : q.category}`;
   el.questionText.textContent = q.question;
-  el.questionCounter.textContent = `${state.currentIndex + 1}/${state.roundQuestions.length}`;
-  el.progressFill.style.width = `${(state.currentIndex / state.roundQuestions.length) * 100}%`;
+  el.screenQuiz.style.setProperty("--current-accent", categoryAccentVar(q.category));
+  renderQuizStatus();
   el.nextBtn.classList.add("hidden");
   updateStreakBadge(false);
   el.lifelineBtn.classList.toggle("hidden", state.lifelineUsed);
 
+  // Re-trigger the entrance animation on a fresh question (remove/reflow/add,
+  // same trick flashMilestone uses) — a plain class add wouldn't restart the
+  // animation on consecutive questions since the class never actually leaves.
+  for (const target of [el.questionCategory, el.questionText]) {
+    target.classList.remove("question-enter");
+    void target.offsetWidth;
+    target.classList.add("question-enter");
+  }
+
   el.optionsList.innerHTML = "";
   q.shuffledOptions.forEach((opt, i) => {
     const btn = document.createElement("button");
-    btn.className = "option-btn";
+    btn.className = "option-btn option-enter";
+    btn.style.animationDelay = `${i * 40}ms`;
     btn.dataset.option = opt;
 
     const badge = document.createElement("span");
@@ -821,10 +1075,12 @@ function selectAnswer(selected) {
     if (state.streak > state.bestStreak) state.bestStreak = state.streak;
   } else {
     state.streak = 0;
+    if (state.mode === "survival") state.lives--;
   }
   playAnswerSound(wasCorrect, state.streak);
   vibrate(wasCorrect ? 40 : [30, 60, 30]);
   updateStreakBadge(true);
+  renderQuizStatus();
 
   state.answers.push({
     question: q.question,
@@ -853,9 +1109,11 @@ function selectAnswer(selected) {
     }
   }
 
+  const roundWillBeOver = state.mode === "survival" && state.lives <= 0
+    ? true
+    : state.currentIndex + 1 >= state.roundQuestions.length;
   el.nextBtn.classList.remove("hidden");
-  el.nextBtn.textContent =
-    state.currentIndex + 1 < state.roundQuestions.length ? "Next" : "See Results";
+  el.nextBtn.textContent = roundWillBeOver ? "See Results" : "Next";
 
   // Auto-advance only past correct answers, so a miss still waits for a
   // manual tap — the point is to read the correct answer, not rush past it.
@@ -875,6 +1133,10 @@ function clearAutoAdvanceTimer() {
 
 function advanceToNext() {
   clearAutoAdvanceTimer();
+  if (state.mode === "survival" && state.lives <= 0) {
+    showResults();
+    return;
+  }
   state.currentIndex++;
   if (state.currentIndex < state.roundQuestions.length) {
     saveActiveRound();
@@ -892,7 +1154,7 @@ el.quitBtn.addEventListener("click", async () => {
   // auto-advance timer (set after answering correctly) can otherwise fire
   // while the sheet is open and silently call showResults() underneath it.
   clearAutoAdvanceTimer();
-  const inProgress = state.currentIndex < state.roundQuestions.length;
+  const inProgress = !isRoundOver();
   if (inProgress) {
     const confirmed = await showConfirmSheet({
       title: "Quit this round?",
@@ -911,6 +1173,7 @@ el.quitBtn.addEventListener("click", async () => {
   state.bestStreak = 0;
   state.answers = [];
   state.lifelineUsed = false;
+  state.lives = 0;
   showScreen("categories");
 });
 
@@ -947,11 +1210,53 @@ function starRating(score, total) {
   return 0;
 }
 
-function renderResultsStars(score, total) {
+function easeOutCubic(t) {
+  return 1 - Math.pow(1 - t, 3);
+}
+
+// Animates a number counting up from 0 to `value`, calling onUpdate(current)
+// every frame. Jumps straight to the final value under prefers-reduced-motion
+// (same skip-entirely pattern confettiBurst/flashMilestone already use).
+function animateCountUp(value, onUpdate, duration = 700) {
+  if (prefersReducedMotion() || value <= 0) {
+    onUpdate(value);
+    return;
+  }
+  const start = performance.now();
+  function frame(now) {
+    const t = Math.min((now - start) / duration, 1);
+    onUpdate(Math.round(value * easeOutCubic(t)));
+    if (t < 1) requestAnimationFrame(frame);
+  }
+  requestAnimationFrame(frame);
+}
+
+function playStarChime(index) {
+  if (!prefs.sound) return;
+  const ctx = getAudioCtx();
+  if (!ctx) return;
+  playTone(ctx, 520 + index * 140, ctx.currentTime, 0.18, 0.14);
+}
+
+// Lights up the earned stars one at a time with a rising chime, instead of
+// all appearing at once. Lights them all immediately (no stagger, no sound)
+// under prefers-reduced-motion.
+function revealResultsStars(score, total) {
   const lit = starRating(score, total);
-  el.resultsStars.innerHTML = [1, 2, 3]
-    .map((i) => `<span class="star${i <= lit ? " lit" : ""}">★</span>`)
-    .join("");
+  el.resultsStars.innerHTML = [1, 2, 3].map(() => `<span class="star">★</span>`).join("");
+  const starEls = [...el.resultsStars.children];
+  if (prefersReducedMotion()) {
+    starEls.forEach((s, i) => s.classList.toggle("lit", i < lit));
+    return;
+  }
+  starEls.forEach((s, i) => {
+    setTimeout(() => {
+      if (i < lit) {
+        s.classList.add("lit");
+        playStarChime(i);
+      }
+    }, 260 + i * 260);
+  });
 }
 
 const CONFETTI_COLORS = ["--card-1", "--card-2", "--card-3", "--card-4", "--card-5", "--card-6", "--card-7", "--card-8"]
@@ -1013,18 +1318,37 @@ function confettiBurst() {
 
 function showResults() {
   clearActiveRound();
-  const total = state.roundQuestions.length;
+  // answers.length rather than roundQuestions.length: for survival the pool
+  // is a fixed cap (SURVIVAL_POOL_CAP) that's usually much larger than how
+  // far the player actually got, so the pool size is never the right
+  // denominator — only what was actually answered is.
+  const total = state.answers.length;
   const priorStats = loadStats();
-  const updatedStats = recordGameResult(state.score, total, state.answers, state.bestStreak);
+  const updatedStats = recordGameResult(state.score, total, state.answers, state.bestStreak, state.mode);
 
-  const isNewBest = Math.round(updatedStats.bestPct) > Math.round(priorStats.bestPct);
+  const isSurvival = state.mode === "survival";
+  const isNewBest = isSurvival
+    ? updatedStats.bestSurvivalScore > priorStats.bestSurvivalScore
+    : Math.round(updatedStats.bestPct) > Math.round(priorStats.bestPct);
   const isNewStreakRecord = updatedStats.bestStreak > priorStats.bestStreak;
-  const isPerfect = total > 0 && state.score === total;
+  const isPerfect = !isSurvival && total > 0 && state.score === total;
 
-  el.resultsScore.textContent = `${state.score}/${total}`;
-  renderResultsStars(state.score, total);
-  el.resultsSubtitle.textContent = subtitleFor(state.score, total);
-  renderResultsStats(state.score, total, priorStats, updatedStats, isNewBest, isNewStreakRecord);
+  el.resultsScore.textContent = isSurvival ? "0" : `0/${total}`;
+  animateCountUp(state.score, (v) => {
+    el.resultsScore.textContent = isSurvival ? `${v}` : `${v}/${total}`;
+  });
+
+  if (isSurvival) {
+    el.resultsStars.classList.add("hidden");
+    el.resultsStars.innerHTML = "";
+    el.resultsSubtitle.textContent = survivalSubtitle(state.lives, isNewBest);
+    renderSurvivalResultsStats(state.score, updatedStats, isNewBest, isNewStreakRecord);
+  } else {
+    el.resultsStars.classList.remove("hidden");
+    revealResultsStars(state.score, total);
+    el.resultsSubtitle.textContent = subtitleFor(state.score, total);
+    renderResultsStats(state.score, total, priorStats, updatedStats, isNewBest, isNewStreakRecord);
+  }
   renderResultsCategoryBreakdown(state.answers);
 
   if (isPerfect || isNewBest || isNewStreakRecord) confettiBurst();
@@ -1104,6 +1428,33 @@ function subtitleFor(score, total) {
   if (pct >= 0.8) return "Great job!";
   if (pct >= 0.5) return "Not bad!";
   return "Room to improve — play again!";
+}
+
+// Survival has no fixed total to compute a percentage against, so its
+// subtitle is framed around lives/best-score instead of subtitleFor's pct
+// thresholds.
+function survivalSubtitle(livesLeft, isNewBest) {
+  if (isNewBest) return "New personal best!";
+  if (livesLeft > 0) return "You cleared the entire category!";
+  return "Out of lives — play again!";
+}
+
+function renderSurvivalResultsStats(score, updated, isNewBest, isNewStreakRecord) {
+  let deltaHtml = "";
+  if (isNewBest) deltaHtml += `<p class="stats-delta up">New best score!</p>`;
+  if (isNewStreakRecord) deltaHtml += `<p class="stats-delta up">New streak record!</p>`;
+
+  const livesHtml = state.lives > 0
+    ? "❤️".repeat(state.lives)
+    : "💀";
+
+  el.resultsStats.innerHTML = `
+    <div class="stats-row"><span>This run</span><span class="stats-value">${score} correct</span></div>
+    <div class="stats-row"><span>Your best (Survival)</span><span class="stats-value">${updated.bestSurvivalScore}</span></div>
+    <div class="stats-row"><span>Longest streak</span><span class="stats-value">🔥 ${state.bestStreak}</span></div>
+    <div class="stats-row"><span>Lives remaining</span><span class="stats-value">${livesHtml}</span></div>
+    ${deltaHtml}
+  `;
 }
 
 el.playAgainBtn.addEventListener("click", () => startRound(state.currentCategories));

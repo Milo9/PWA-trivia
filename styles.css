@@ -94,7 +94,11 @@ html, body {
   .streak-badge,
   .milestone-flash.flash,
   .confirm-sheet-overlay,
-  .confirm-sheet {
+  .confirm-sheet,
+  .quiz-body.streak-glow-2::after,
+  .quiz-body.streak-glow-3::after,
+  .question-enter,
+  .option-btn.option-enter {
     animation: none;
   }
 }
@@ -261,6 +265,17 @@ html, body {
 .category-name {
   overflow-wrap: break-word;
   line-height: 1.25;
+}
+
+.quick-play-btn {
+  margin-top: 0;
+  margin-bottom: 14px;
+  background: linear-gradient(135deg, var(--card-3), var(--card-5));
+  box-shadow: 0 6px 0 #9c5a1b, 0 8px 20px rgba(255, 214, 10, 0.25);
+}
+
+.quick-play-btn.hidden {
+  display: none;
 }
 
 .selection-bar {
@@ -449,10 +464,10 @@ html, body {
 
 .progress-fill {
   height: 100%;
-  background: linear-gradient(90deg, var(--accent-2), var(--accent));
-  box-shadow: 0 0 10px rgba(var(--accent-rgb), 0.6);
+  background: linear-gradient(90deg, color-mix(in srgb, var(--current-accent, var(--accent-2)) 70%, white), var(--current-accent, var(--accent)));
+  box-shadow: 0 0 10px color-mix(in srgb, var(--current-accent, var(--accent)) 60%, transparent);
   width: 0%;
-  transition: width 0.3s ease;
+  transition: width 0.3s ease, background 0.3s ease;
 }
 
 .question-counter {
@@ -461,6 +476,25 @@ html, body {
   font-size: 0.85rem;
   min-width: 40px;
   text-align: right;
+}
+
+.score-chip {
+  color: var(--accent-3);
+  font-weight: 800;
+  font-size: 0.85rem;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.lives-display {
+  font-size: 0.9rem;
+  letter-spacing: 2px;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+
+.lives-display.hidden {
+  display: none;
 }
 
 .quiz-body {
@@ -501,12 +535,13 @@ html, body {
 }
 
 .question-category {
-  color: var(--accent-2);
+  color: var(--current-accent, var(--accent-2));
   font-weight: 800;
   font-size: 0.8rem;
   text-transform: uppercase;
   letter-spacing: 0.05em;
   margin: 0 0 10px;
+  transition: color 0.3s ease;
 }
 
 .question-text {
@@ -514,6 +549,15 @@ html, body {
   font-weight: 700;
   line-height: 1.35;
   margin: 0 0 24px;
+}
+
+.question-enter {
+  animation: question-slide-in 0.32s ease;
+}
+
+@keyframes question-slide-in {
+  from { opacity: 0; transform: translateX(18px); }
+  to { opacity: 1; transform: translateX(0); }
 }
 
 .options-list {
@@ -557,11 +601,21 @@ html, body {
   justify-content: center;
   font-size: 0.85rem;
   font-weight: 800;
-  color: var(--accent-2);
+  color: var(--current-accent, var(--accent-2));
+  transition: color 0.3s ease;
 }
 
 .option-label {
   flex: 1;
+}
+
+.option-btn.option-enter {
+  animation: option-fade-in 0.28s ease both;
+}
+
+@keyframes option-fade-in {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
 }
 
 .option-icon {
@@ -797,6 +851,32 @@ html, body {
   100% { opacity: 0; }
 }
 
+/* Streak-tier ambient glow */
+
+.quiz-body.streak-glow-2::after,
+.quiz-body.streak-glow-3::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 20px;
+  pointer-events: none;
+}
+
+.quiz-body.streak-glow-2::after {
+  box-shadow: inset 0 0 32px rgba(var(--accent-rgb), 0.35);
+  animation: glow-pulse 2.2s ease-in-out infinite;
+}
+
+.quiz-body.streak-glow-3::after {
+  box-shadow: inset 0 0 48px rgba(var(--accent-rgb), 0.55);
+  animation: glow-pulse 1.4s ease-in-out infinite;
+}
+
+@keyframes glow-pulse {
+  0%, 100% { opacity: 0.55; }
+  50% { opacity: 1; }
+}
+
 /* Prefs toggles */
 
 .prefs-row {
@@ -829,15 +909,15 @@ html, body {
   display: inline-block;
   margin-top: 14px;
   background: var(--surface);
-  border: 1px solid var(--accent-2);
-  color: var(--accent-2);
+  border: 1px solid var(--current-accent, var(--accent-2));
+  color: var(--current-accent, var(--accent-2));
   border-radius: 999px;
   padding: 8px 16px;
   font-size: 0.85rem;
   font-weight: 800;
   cursor: pointer;
-  box-shadow: 0 0 10px rgba(34, 227, 255, 0.25);
-  transition: transform 0.08s ease, opacity 0.15s ease;
+  box-shadow: 0 0 10px color-mix(in srgb, var(--current-accent, var(--accent-2)) 25%, transparent);
+  transition: transform 0.08s ease, opacity 0.15s ease, border-color 0.3s ease, color 0.3s ease;
 }
 
 .lifeline-btn:active {
