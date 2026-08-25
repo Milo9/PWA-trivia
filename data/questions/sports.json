@@ -3982,12 +3982,12 @@
     "category": "sports",
     "question": "In hockey, what is a power play?",
     "options": [
-      "Team has more players due to opponent penalty",
+      "Man advantage",
       "Overtime period",
       "Shootout attempt",
       "Icing call"
     ],
-    "answer": "Team has more players due to opponent penalty",
+    "answer": "Man advantage",
     "id": "sports-151"
   },
   {
@@ -4433,19 +4433,6 @@
     "id": "sports-186"
   },
   {
-    "difficulty": "easy",
-    "category": "sports",
-    "question": "Which martial art uses the term ippon for full point?",
-    "options": [
-      "Karate",
-      "Judo",
-      "Taekwondo",
-      "Aikido"
-    ],
-    "answer": "Judo",
-    "id": "sports-187"
-  },
-  {
     "difficulty": "hard",
     "category": "sports",
     "question": "In darts, what is a bed?",
@@ -4665,19 +4652,6 @@
     ],
     "answer": "10 feet",
     "id": "sports-204"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
-    "question": "In tennis, what is it called when score is 40-40?",
-    "options": [
-      "Deuce",
-      "Advantage",
-      "Break",
-      "Love"
-    ],
-    "answer": "Deuce",
-    "id": "sports-205"
   },
   {
     "difficulty": "medium",

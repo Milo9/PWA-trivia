@@ -419,7 +419,7 @@
     "id": "general-390",
     "category": "world-cultures",
     "difficulty": "hard",
-    "question": "Which is the only Nordic country that uses the Euro as its official currency?",
+    "question": "As of 2026, which is the only Nordic country that uses the Euro as its official currency?",
     "options": [
       "Sweden",
       "Finland",
@@ -458,7 +458,7 @@
     "id": "general-393",
     "category": "world-cultures",
     "difficulty": "hard",
-    "question": "Which West African nation's flag colors of red, gold, and green inspired the Pan-African colors later adopted by many other African nations?",
+    "question": "Which East African nation's flag colors of red, gold, and green inspired the Pan-African colors later adopted by many other African nations?",
     "options": [
       "Ethiopia",
       "Ghana",
@@ -531,19 +531,6 @@
       "Guatemala"
     ],
     "answer": "Mexico"
-  },
-  {
-    "id": "general-604",
-    "category": "world-cultures",
-    "difficulty": "hard",
-    "question": "Which African country's constitution recognizes 11 official languages, more than any other on the continent?",
-    "options": [
-      "Nigeria",
-      "Ethiopia",
-      "Kenya",
-      "South Africa"
-    ],
-    "answer": "South Africa"
   },
   {
     "id": "general-605",
@@ -856,19 +843,6 @@
       "Titanium"
     ],
     "answer": "Gold"
-  },
-  {
-    "id": "general-1249",
-    "category": "world-cultures",
-    "difficulty": "hard",
-    "question": "Which country has the highest number of official national languages recognized by its constitution?",
-    "options": [
-      "South Africa",
-      "India",
-      "Switzerland",
-      "Singapore"
-    ],
-    "answer": "South Africa"
   },
   {
     "id": "general-1250",
@@ -2158,19 +2132,6 @@
     "answer": "Wrestling, horse racing, and archery"
   },
   {
-    "id": "world-cultures-025",
-    "difficulty": "hard",
-    "category": "world-cultures",
-    "question": "The Bun Bang Fai rocket festival, held to encourage rain and fertility at the end of the dry season, is a tradition of which Southeast Asian country?",
-    "options": [
-      "Thailand",
-      "Laos",
-      "Myanmar",
-      "Cambodia"
-    ],
-    "answer": "Laos"
-  },
-  {
     "id": "world-cultures-026",
     "difficulty": "hard",
     "category": "world-cultures",
@@ -2215,12 +2176,12 @@
     "category": "world-cultures",
     "question": "According to regional traditions, what material are Diwali diyas most commonly made from in North India?",
     "options": [
-      "Bamboo, in East India",
-      "Glass, throughout India",
-      "Metal, in South India",
-      "Clay, in North India"
+      "Bamboo",
+      "Glass",
+      "Metal",
+      "Clay"
     ],
-    "answer": "Clay, in North India"
+    "answer": "Clay"
   },
   {
     "id": "world-cultures-030",
@@ -2397,12 +2358,12 @@
     "category": "world-cultures",
     "question": "In traditional Zulu beadwork, what does an upward-pointing triangular tip signify?",
     "options": [
-      "A downward tip indicates a married woman",
-      "An hourglass indicates a child",
-      "A diamond shape indicates a widower",
-      "An upward-pointing tip indicates an unmarried female"
+      "Married woman",
+      "Child",
+      "Widower",
+      "Unmarried female"
     ],
-    "answer": "An upward-pointing tip indicates an unmarried female"
+    "answer": "Unmarried female"
   },
   {
     "id": "world-cultures-044",
@@ -2434,7 +2395,7 @@
     "id": "world-cultures-046",
     "difficulty": "hard",
     "category": "world-cultures",
-    "question": "What is the current state of knowledge about the Sentinelese language?",
+    "question": "As of the mid-2020s, what is the state of knowledge about the Sentinelese language?",
     "options": [
       "It is taught in Indian schools",
       "It has a written grammar book",
@@ -2970,11 +2931,11 @@
     "question": "According to the Hokkaido Government's 2013 survey, what is the minimum recorded population of Ainu in Hokkaido?",
     "options": [
       "Fewer than 1,000 total",
-      "At least 19,786 in Hokkaido",
+      "At least 16,786 in Hokkaido",
       "Around 200,000 in Hokkaido",
       "Over 1 million in Japan"
     ],
-    "answer": "At least 19,786 in Hokkaido"
+    "answer": "At least 16,786 in Hokkaido"
   },
   {
     "id": "world-cultures-088",
@@ -2988,19 +2949,6 @@
       "About 75%"
     ],
     "answer": "About 44%"
-  },
-  {
-    "id": "world-cultures-089",
-    "difficulty": "hard",
-    "category": "world-cultures",
-    "question": "According to the Endangered Language Catalog, how many languages have fewer than ten speakers remaining?",
-    "options": [
-      "35",
-      "335",
-      "1,500",
-      "3,500"
-    ],
-    "answer": "335"
   },
   {
     "id": "world-cultures-090",
@@ -3318,7 +3266,7 @@
     "id": "world-cultures-114",
     "category": "world-cultures",
     "difficulty": "hard",
-    "question": "Which is the only Semitic language that is an official language of the European Union?",
+    "question": "As of 2026, which is the only Semitic language that is an official language of the European Union?",
     "options": [
       "Maltese",
       "Arabic",
@@ -19394,19 +19342,6 @@
     ],
     "answer": "Fujara",
     "id": "world-cultures-1356"
-  },
-  {
-    "difficulty": "easy",
-    "category": "world-cultures",
-    "question": "Which European microstate has Catalan as its sole official language?",
-    "options": [
-      "Monaco",
-      "Luxembourg",
-      "Andorra",
-      "San Marino"
-    ],
-    "answer": "Andorra",
-    "id": "world-cultures-1357"
   },
   {
     "difficulty": "medium",

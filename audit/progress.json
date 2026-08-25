@@ -16326,11 +16326,11 @@
         "sports-205",
         "sports-207"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-25",
+      "completedAt": "2026-08-25",
+      "issuesFound": 3,
+      "notes": "Fixed answer-leak (power play option length), cut 2 duplicates of already-vetted general-522/general-751 (tennis deuce, judo ippon)"
     },
     {
       "chunkId": "world-cultures-p1-000",
@@ -16387,11 +16387,11 @@
         "world-cultures-017",
         "world-cultures-019"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-25",
+      "completedAt": "2026-08-25",
+      "issuesFound": 4,
+      "notes": "Fixed Ethiopia mislabeled West African (general-393), pinned Finland-euro superlative (general-390), cut general-604/general-1249 (duplicate 'most official languages' claims, both factually wrong per WebSearch: Zimbabwe has most in Africa at 16, Bolivia has most worldwide at 37, not South Africa)"
     },
     {
       "chunkId": "world-cultures-p1-001",
@@ -16448,11 +16448,11 @@
         "world-cultures-117",
         "world-cultures-126"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-25",
+      "completedAt": "2026-08-25",
+      "issuesFound": 9,
+      "notes": "Fixed Ainu 2013 survey population (19,786 to 16,786, WebSearch-verified), fixed answer-leak formats in Diwali diya and Zulu beadwork options, pinned Sentinelese/Maltese unpinned superlatives, cut Bun Bang Fai (genuine Laos/Thailand ambiguity), cut Endangered Language Catalog <10-speakers stat (335 unverifiable/unsourced, WebSearch found conflicting official figures none matching), cut world-cultures-1357 (orphaned duplicate of world-cultures-115, Andorra/Catalan)"
     },
     {
       "chunkId": "world-cultures-p1-002",
