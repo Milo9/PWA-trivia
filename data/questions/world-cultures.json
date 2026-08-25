@@ -273,19 +273,6 @@
     "answer": "Saint Patrick's Day"
   },
   {
-    "id": "general-379",
-    "category": "world-cultures",
-    "difficulty": "easy",
-    "question": "What is the official currency of Switzerland?",
-    "options": [
-      "Euro",
-      "Swiss Mark",
-      "Swiss Franc",
-      "Krone"
-    ],
-    "answer": "Swiss Franc"
-  },
-  {
     "id": "general-380",
     "category": "world-cultures",
     "difficulty": "hard",
@@ -520,19 +507,6 @@
     "answer": "Mexico"
   },
   {
-    "id": "general-605",
-    "category": "world-cultures",
-    "difficulty": "easy",
-    "question": "What is the traditional garment worn by women in India called?",
-    "options": [
-      "Sari",
-      "Kimono",
-      "Hanbok",
-      "Kaftan"
-    ],
-    "answer": "Sari"
-  },
-  {
     "id": "general-606",
     "category": "world-cultures",
     "difficulty": "medium",
@@ -557,19 +531,6 @@
       "The Andes"
     ],
     "answer": "The Arctic"
-  },
-  {
-    "id": "general-608",
-    "category": "world-cultures",
-    "difficulty": "easy",
-    "question": "What is the traditional Scottish garment worn by men, often in a tartan pattern?",
-    "options": [
-      "Sarong",
-      "Toga",
-      "Poncho",
-      "Kilt"
-    ],
-    "answer": "Kilt"
   },
   {
     "id": "general-609",
@@ -1092,19 +1053,6 @@
     "answer": "Ruble"
   },
   {
-    "id": "general-1795",
-    "category": "world-cultures",
-    "difficulty": "easy",
-    "question": "What is the official currency of Japan?",
-    "options": [
-      "Yuan",
-      "Yen",
-      "Won",
-      "Baht"
-    ],
-    "answer": "Yen"
-  },
-  {
     "id": "general-1831",
     "category": "world-cultures",
     "difficulty": "medium",
@@ -1144,19 +1092,6 @@
     "answer": "World Health Organization"
   },
   {
-    "id": "general-2326",
-    "category": "world-cultures",
-    "difficulty": "easy",
-    "question": "What is the name of the currency used in most of the European Union?",
-    "options": [
-      "Euro",
-      "Franc",
-      "Mark",
-      "Lira"
-    ],
-    "answer": "Euro"
-  },
-  {
     "id": "general-2331",
     "category": "world-cultures",
     "difficulty": "hard",
@@ -1168,19 +1103,6 @@
       "Egypt"
     ],
     "answer": "India"
-  },
-  {
-    "id": "general-2359",
-    "category": "world-cultures",
-    "difficulty": "easy",
-    "question": "Which country has a maple leaf on its national flag?",
-    "options": [
-      "Canada",
-      "Ireland",
-      "Lebanon",
-      "Cyprus"
-    ],
-    "answer": "Canada"
   },
   {
     "id": "general-2374",
@@ -1274,19 +1196,6 @@
     "answer": "New Zealand"
   },
   {
-    "id": "general-2547",
-    "category": "world-cultures",
-    "difficulty": "easy",
-    "question": "Which country's flag consists of a single red circle on a white background, informally called the 'rising sun'?",
-    "options": [
-      "Japan",
-      "South Korea",
-      "Bangladesh",
-      "Palau"
-    ],
-    "answer": "Japan"
-  },
-  {
     "id": "general-2588",
     "category": "world-cultures",
     "difficulty": "easy",
@@ -1298,19 +1207,6 @@
       "Red-tailed hawk"
     ],
     "answer": "Bald eagle"
-  },
-  {
-    "id": "general-2593",
-    "category": "world-cultures",
-    "difficulty": "easy",
-    "question": "Which country uses the yen as its official currency?",
-    "options": [
-      "Japan",
-      "China",
-      "South Korea",
-      "Thailand"
-    ],
-    "answer": "Japan"
   },
   {
     "id": "general-2595",
@@ -11908,19 +11804,6 @@
     "answer": "Customers"
   },
   {
-    "id": "world-cultures-839",
-    "category": "world-cultures",
-    "difficulty": "medium",
-    "question": "The 'Shichi-Go-San' festival in Japan celebrates children reaching which specific ages?",
-    "options": [
-      "Three, five, and seven",
-      "One, three, and five",
-      "Four, six, and eight",
-      "Two, four, and six"
-    ],
-    "answer": "Three, five, and seven"
-  },
-  {
     "id": "world-cultures-840",
     "category": "world-cultures",
     "difficulty": "medium",
@@ -11971,19 +11854,6 @@
       "Lighting bonfires on mountains"
     ],
     "answer": "Floating paper lanterns down a river"
-  },
-  {
-    "id": "world-cultures-844",
-    "category": "world-cultures",
-    "difficulty": "medium",
-    "question": "What is 'Osechi ryori', traditionally eaten during the Japanese New Year?",
-    "options": [
-      "Special foods arranged in stacked boxes",
-      "Long buckwheat noodles",
-      "Grilled rice cakes",
-      "Sweet red bean soup"
-    ],
-    "answer": "Special foods arranged in stacked boxes"
   },
   {
     "id": "world-cultures-845",
@@ -12290,12 +12160,12 @@
     "difficulty": "medium",
     "question": "What is the 'shamisen', often used in kabuki and bunraku theater?",
     "options": [
-      "A three-stringed lute played with a large plectrum",
+      "A three-stringed plucked lute",
       "A bamboo flute",
       "A bronze gong",
       "A mouth organ"
     ],
-    "answer": "A three-stringed lute played with a large plectrum"
+    "answer": "A three-stringed plucked lute"
   },
   {
     "id": "world-cultures-869",
@@ -12407,12 +12277,12 @@
     "difficulty": "medium",
     "question": "What is 'Bunraku', a traditional Japanese performing art originating in Osaka?",
     "options": [
-      "Puppet theater requiring multiple operators per puppet",
+      "Puppet theater with visible operators",
       "Masked dance drama",
       "Comic storytelling",
       "Shadow puppetry"
     ],
-    "answer": "Puppet theater requiring multiple operators per puppet"
+    "answer": "Puppet theater with visible operators"
   },
   {
     "id": "world-cultures-878",
@@ -12433,12 +12303,12 @@
     "difficulty": "medium",
     "question": "What is 'Manzai', a popular style of stand-up comedy in Japan?",
     "options": [
-      "A double act featuring a straight man and a funny man",
+      "A comedic double act",
       "A solo monologue",
       "A musical comedy",
       "A satirical play"
     ],
-    "answer": "A double act featuring a straight man and a funny man"
+    "answer": "A comedic double act"
   },
   {
     "id": "world-cultures-880",
@@ -12623,19 +12493,6 @@
     "answer": "A square wooden box"
   },
   {
-    "id": "world-cultures-895",
-    "category": "world-cultures",
-    "difficulty": "medium",
-    "question": "What is 'shochu', a popular distilled Japanese spirit, often made from?",
-    "options": [
-      "Sweet potatoes, barley, or rice",
-      "Grapes",
-      "Agave",
-      "Sugarcane"
-    ],
-    "answer": "Sweet potatoes, barley, or rice"
-  },
-  {
     "id": "world-cultures-896",
     "category": "world-cultures",
     "difficulty": "medium",
@@ -12673,32 +12530,6 @@
       "Nimono"
     ],
     "answer": "Tsukemono"
-  },
-  {
-    "id": "world-cultures-899",
-    "category": "world-cultures",
-    "difficulty": "medium",
-    "question": "What is 'natto', a traditional Japanese breakfast food known for its strong smell and sticky texture?",
-    "options": [
-      "Fermented soybeans",
-      "Pickled plums",
-      "Dried seaweed",
-      "Grated yam"
-    ],
-    "answer": "Fermented soybeans"
-  },
-  {
-    "id": "world-cultures-900",
-    "category": "world-cultures",
-    "difficulty": "medium",
-    "question": "What is 'kombu', an essential ingredient in making dashi?",
-    "options": [
-      "Dried kelp",
-      "Dried bonito",
-      "Dried shiitake mushrooms",
-      "Dried sardines"
-    ],
-    "answer": "Dried kelp"
   },
   {
     "id": "world-cultures-901",
@@ -12829,45 +12660,6 @@
       "Noodles made from rice"
     ],
     "answer": "Translucent noodles made from konjac yam"
-  },
-  {
-    "id": "world-cultures-911",
-    "category": "world-cultures",
-    "difficulty": "medium",
-    "question": "What type of noodle is 'udon', popular in hot soups?",
-    "options": [
-      "Thick wheat flour noodles",
-      "Thin buckwheat noodles",
-      "Rice noodles",
-      "Mung bean threads"
-    ],
-    "answer": "Thick wheat flour noodles"
-  },
-  {
-    "id": "world-cultures-912",
-    "category": "world-cultures",
-    "difficulty": "medium",
-    "question": "What type of noodle is 'soba', often served cold with a dipping sauce?",
-    "options": [
-      "Buckwheat noodles",
-      "Wheat noodles",
-      "Rice noodles",
-      "Egg noodles"
-    ],
-    "answer": "Buckwheat noodles"
-  },
-  {
-    "id": "world-cultures-913",
-    "category": "world-cultures",
-    "difficulty": "medium",
-    "question": "What gives 'ramen' noodles their distinctive yellow color and chewy texture?",
-    "options": [
-      "Kansui (alkaline mineral water)",
-      "Egg yolks",
-      "Turmeric",
-      "Food coloring"
-    ],
-    "answer": "Kansui (alkaline mineral water)"
   },
   {
     "id": "world-cultures-914",
@@ -13072,8 +12864,8 @@
     "options": [
       "Mate",
       "Tereré",
-      "Yerba mate tea",
-      "Chimarrão"
+      "Horchata",
+      "Chicha"
     ],
     "answer": "Mate"
   },
@@ -13304,12 +13096,12 @@
     "difficulty": "medium",
     "question": "In Ukraine, what are 'pysanky'?",
     "options": [
-      "Easter eggs decorated with wax-resist batik methods",
+      "Wax-resist decorated eggs",
       "Woven floral wreaths",
       "Embroidered shirts",
       "Wooden nesting dolls"
     ],
-    "answer": "Easter eggs decorated with wax-resist batik methods"
+    "answer": "Wax-resist decorated eggs"
   },
   {
     "id": "world-cultures-948",
@@ -13395,12 +13187,12 @@
     "difficulty": "medium",
     "question": "In El Salvador, what is the 'pupusa'?",
     "options": [
-      "A thick griddle cake stuffed with cheese, beans, or meat",
+      "A stuffed corn griddle cake",
       "A spicy corn soup",
       "A fried plantain dish",
       "A shredded beef stew"
     ],
-    "answer": "A thick griddle cake stuffed with cheese, beans, or meat"
+    "answer": "A stuffed corn griddle cake"
   },
   {
     "id": "world-cultures-956",
@@ -13473,12 +13265,12 @@
     "difficulty": "medium",
     "question": "In Uruguay and southern Brazil, what is 'Candombe'?",
     "options": [
-      "A rhythmic drumming and dance style of African origin",
+      "A drumming and dance style",
       "A European waltz",
       "A flute melody",
       "A vocal harmony style"
     ],
-    "answer": "A rhythmic drumming and dance style of African origin"
+    "answer": "A drumming and dance style"
   },
   {
     "id": "world-cultures-962",
@@ -13559,19 +13351,6 @@
     "answer": "Circular breathing"
   },
   {
-    "id": "world-cultures-968",
-    "category": "world-cultures",
-    "difficulty": "medium",
-    "question": "In Tibet, what is the purpose of a 'sky burial'?",
-    "options": [
-      "Leaving the body on a mountaintop for vultures to consume",
-      "Burying the body under a cairn",
-      "Floating the body down a river",
-      "Mummifying the body in salt"
-    ],
-    "answer": "Leaving the body on a mountaintop for vultures to consume"
-  },
-  {
     "id": "world-cultures-969",
     "category": "world-cultures",
     "difficulty": "hard",
@@ -13629,12 +13408,12 @@
     "difficulty": "medium",
     "question": "In Bangladesh, what is 'Nouka Baich'?",
     "options": [
-      "Traditional longboat racing during the monsoon",
+      "Longboat racing",
       "Kite fighting",
       "Bull racing",
       "Wrestling"
     ],
-    "answer": "Traditional longboat racing during the monsoon"
+    "answer": "Longboat racing"
   },
   {
     "id": "world-cultures-974",
@@ -13642,12 +13421,12 @@
     "difficulty": "medium",
     "question": "In Iran, what is 'Chaharshanbe Suri'?",
     "options": [
-      "Jumping over bonfires on the eve of the last Wednesday of the year",
+      "Jumping over bonfires",
       "Smashing clay pots",
       "Throwing colored water",
       "Releasing sky lanterns"
     ],
-    "answer": "Jumping over bonfires on the eve of the last Wednesday of the year"
+    "answer": "Jumping over bonfires"
   },
   {
     "id": "world-cultures-975",

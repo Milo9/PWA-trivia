@@ -17241,11 +17241,11 @@
         "world-cultures-909",
         "world-cultures-911"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-25",
+      "completedAt": "2026-08-25",
+      "issuesFound": 9,
+      "notes": "Cut 6 duplicates (839 dup of done 385 Shichi-Go-San ages; 844 premise-reveal dup of done 536 osechi/jubako; 895/899/900/911 cross-category dups of already-done food-drink shochu/natto/kombu/udon facts). Fixed 3 answer-leaks (868 shamisen, 877 bunraku, 879 manzai). Logged 5 backlog notes for reversed-direction dup siblings that are orphaned/pending (koinobori, otoshidama, fukubukuro, osechi-jubako, matcha)."
     },
     {
       "chunkId": "world-cultures-p1-015",
@@ -17302,11 +17302,11 @@
         "general-602",
         "general-605"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-25",
+      "completedAt": "2026-08-25",
+      "issuesFound": 12,
+      "notes": "Cut 5 duplicates (general-379/general-605 dups of done general-1266/general-072 Swiss franc/Indian sari; 912/913 dups of done food-drink soba/kansui facts; 968 near-identical dup of done world-cultures-040 sky burial). Fixed 5 answer-leaks (947 pysanky, 955 pupusa, 961 Candombe, 973 Nouka Baich, 974 Chaharshanbe Suri). Fixed 1 distractor-ambiguity bug (929 mate question had two effectively-correct synonym distractors, Yerba mate tea and Chimarrão, replaced with Horchata/Chicha). Logged 6 backlog notes for reversed-direction dup siblings that are orphaned (Ubuntu, Baci, Slava, kräftskiva, steelpan, Chaharshanbe Suri)."
     },
     {
       "chunkId": "world-cultures-p1-016",
@@ -17363,11 +17363,11 @@
         "world-cultures-142",
         "world-cultures-143"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-25",
+      "completedAt": "2026-08-25",
+      "issuesFound": 9,
+      "notes": "Cut 6 duplicates: general-608 (dup of done general-032 Scottish kilt), general-1795+general-2593 (both dup of done general-024 Japan/Yen, one same-direction one reversed), general-2326 (dup of done general-389 EU/Euro, from prior chunk), general-2359 (dup of done general-381 Canada maple-leaf flag, from prior chunk), general-2547 (dup of done general-088 Japan rising-sun flag, from prior chunk). Logged 3 backlog notes for reversed/same-fact dup siblings that are orphaned (Aloha, hygge x3, pan de muerto)."
     },
     {
       "chunkId": "world-cultures-p1-017",
