@@ -15653,11 +15653,11 @@
         "space-astronomy-448",
         "space-astronomy-463"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-24",
+      "completedAt": "2026-08-24",
+      "issuesFound": 7,
+      "notes": "Cut 6 in-chunk/already-reviewed dupes (224/261 Mimas Herschel crater, 262 Pluto heart region, 268 Galilean moons, 403 aurora cause, 404 second-most-abundant-element-Sun/universe) plus 1 orphan dupe (1034, precession North Star, dup of done 276). Fixed answer-leak in 325 (Moon phases) by trimming answer to match distractor brevity."
     },
     {
       "chunkId": "space-astronomy-p1-017",
@@ -15714,11 +15714,11 @@
         "space-astronomy-637",
         "space-astronomy-638"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-24",
+      "completedAt": "2026-08-24",
+      "issuesFound": 6,
+      "notes": "Cut 6 dupes of already-reviewed questions: 533 (Titan methane lakes, reversed-direction dup of done 111), 536 (Mimas Herschel crater, dup of done 012), 567 (Pleiades open cluster, dup of done 324), 590 (solar eclipse def, dup of done 299), 593 (Andromeda M31 designation, dup of done 464/357), 605 (Apollo 13 oxygen tank explosion, dup of done 292)."
     },
     {
       "chunkId": "space-astronomy-p1-018",
@@ -15775,11 +15775,11 @@
         "space-astronomy-757",
         "space-astronomy-760"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-24",
+      "completedAt": "2026-08-24",
+      "issuesFound": 14,
+      "notes": "Cut 14 dupes: 746 (comet coma, in-chunk dup of 641); and 13 dupes of already-reviewed questions from earlier chunks (Venus greenhouse heat 663/258, axial tilt value 666/513, seasons cause 669/266, equinox def 670/301, solstice def 671/302, aurora cause 672/314, solar wind def 674/319, Titan nitrogen atmosphere reversed-direction 688/008, umbra def 714/general-928, lunar eclipse def 715/300, solar eclipse def 716/299, Mir station 729/425, Hubble 1990 launch 732/439)."
     },
     {
       "chunkId": "space-astronomy-p1-019",

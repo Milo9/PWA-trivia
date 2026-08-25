@@ -4147,19 +4147,6 @@
     "answer": "Saturn's North Pole"
   },
   {
-    "id": "space-astronomy-224",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "Which moon of Saturn is known for having a prominent crater called Herschel that makes it look like the Death Star?",
-    "options": [
-      "Mimas",
-      "Enceladus",
-      "Titan",
-      "Phoebe"
-    ],
-    "answer": "Mimas"
-  },
-  {
     "id": "space-astronomy-225",
     "category": "space-astronomy",
     "difficulty": "medium",
@@ -4589,32 +4576,6 @@
     "answer": "The Hexagon"
   },
   {
-    "id": "space-astronomy-261",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "Which small Saturnian moon resembles the Death Star from Star Wars because of its huge Herschel Crater?",
-    "options": [
-      "Mimas",
-      "Iapetus",
-      "Tethys",
-      "Dione"
-    ],
-    "answer": "Mimas"
-  },
-  {
-    "id": "space-astronomy-262",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "What is the name of the large bright heart-shaped region on Pluto?",
-    "options": [
-      "Tombaugh Regio",
-      "Sputnik Regio",
-      "Lowell Regio",
-      "Pluto Heart"
-    ],
-    "answer": "Tombaugh Regio"
-  },
-  {
     "id": "space-astronomy-263",
     "category": "space-astronomy",
     "difficulty": "medium",
@@ -4678,19 +4639,6 @@
       "Thunder and Lightning"
     ],
     "answer": "Fear and Panic"
-  },
-  {
-    "id": "space-astronomy-268",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "In 1610, Galileo Galilei discovered the four largest moons of Jupiter, collectively called what?",
-    "options": [
-      "Galilean moons",
-      "Medicean moons",
-      "Jovian moons",
-      "Galileo moons"
-    ],
-    "answer": "Galilean moons"
   },
   {
     "id": "space-astronomy-269",
@@ -5361,12 +5309,12 @@
     "difficulty": "easy",
     "question": "The phases of the Moon are caused by what?",
     "options": [
-      "Changing angle of sunlight as Moon orbits Earth",
+      "Changing sunlight angle",
       "Earth's shadow always",
       "Clouds on the Moon",
       "Distance to Sun"
     ],
-    "answer": "Changing angle of sunlight as Moon orbits Earth"
+    "answer": "Changing sunlight angle"
   },
   {
     "id": "space-astronomy-326",
@@ -6316,32 +6264,6 @@
       "Alexander Friedmann"
     ],
     "answer": "Georges Lemaître"
-  },
-  {
-    "id": "space-astronomy-403",
-    "difficulty": "easy",
-    "category": "space-astronomy",
-    "question": "What primarily causes the auroras (Northern and Southern Lights) on Earth?",
-    "options": [
-      "Moonlight reflecting off polar ice",
-      "Solar wind interacting with the magnetosphere",
-      "Meteor dust burning in the mesosphere",
-      "Magnetic shifts within Earth's liquid core"
-    ],
-    "answer": "Solar wind interacting with the magnetosphere"
-  },
-  {
-    "id": "space-astronomy-404",
-    "difficulty": "easy",
-    "category": "space-astronomy",
-    "question": "Following hydrogen, what is the second most abundant element in the observable universe?",
-    "options": [
-      "Carbon",
-      "Oxygen",
-      "Lithium",
-      "Helium"
-    ],
-    "answer": "Helium"
   },
   {
     "id": "space-astronomy-405",
@@ -7919,19 +7841,6 @@
   {
     "difficulty": "easy",
     "category": "space-astronomy",
-    "question": "What are Titan's lakes and seas primarily made of?",
-    "options": [
-      "Liquid water and ammonia",
-      "Sulfuric acid",
-      "Molten sodium",
-      "Liquid methane and ethane"
-    ],
-    "answer": "Liquid methane and ethane",
-    "id": "space-astronomy-533"
-  },
-  {
-    "difficulty": "easy",
-    "category": "space-astronomy",
     "question": "Which moon is the only one with a thick substantial atmosphere?",
     "options": [
       "Europa",
@@ -7954,19 +7863,6 @@
     ],
     "answer": "Water ice",
     "id": "space-astronomy-535"
-  },
-  {
-    "difficulty": "easy",
-    "category": "space-astronomy",
-    "question": "Which Saturn moon has a giant Herschel crater making it look like the Death Star?",
-    "options": [
-      "Tethys",
-      "Dione",
-      "Rhea",
-      "Mimas"
-    ],
-    "answer": "Mimas",
-    "id": "space-astronomy-536"
   },
   {
     "difficulty": "medium",
@@ -8359,19 +8255,6 @@
     "id": "space-astronomy-566"
   },
   {
-    "difficulty": "easy",
-    "category": "space-astronomy",
-    "question": "What type of star cluster is the Pleiades classified as?",
-    "options": [
-      "Globular cluster",
-      "Galaxy",
-      "Open star cluster",
-      "Nebula"
-    ],
-    "answer": "Open star cluster",
-    "id": "space-astronomy-567"
-  },
-  {
     "difficulty": "medium",
     "category": "space-astronomy",
     "question": "In what region do ancient globular clusters mostly orbit?",
@@ -8632,19 +8515,6 @@
     "id": "space-astronomy-589"
   },
   {
-    "difficulty": "easy",
-    "category": "space-astronomy",
-    "question": "What phenomenon is caused when the Moon passes directly between Earth and the Sun?",
-    "options": [
-      "Lunar eclipse",
-      "Transit",
-      "Solar eclipse",
-      "Occultation"
-    ],
-    "answer": "Solar eclipse",
-    "id": "space-astronomy-590"
-  },
-  {
     "difficulty": "hard",
     "category": "space-astronomy",
     "question": "What causes Earth's roughly 26,000-year axial precession?",
@@ -8669,19 +8539,6 @@
     ],
     "answer": "Mariner 9",
     "id": "space-astronomy-592"
-  },
-  {
-    "difficulty": "easy",
-    "category": "space-astronomy",
-    "question": "What is the Messier catalog number of the Andromeda Galaxy?",
-    "options": [
-      "M33",
-      "M31",
-      "M51",
-      "M81"
-    ],
-    "answer": "M31",
-    "id": "space-astronomy-593"
   },
   {
     "difficulty": "medium",
@@ -8812,19 +8669,6 @@
     ],
     "answer": "Harrison Schmitt",
     "id": "space-astronomy-604"
-  },
-  {
-    "difficulty": "easy",
-    "category": "space-astronomy",
-    "question": "What caused near-disaster on Apollo 13?",
-    "options": [
-      "Meteoroid strike",
-      "Computer failure",
-      "Fuel leak",
-      "Oxygen tank explosion"
-    ],
-    "answer": "Oxygen tank explosion",
-    "id": "space-astronomy-605"
   },
   {
     "difficulty": "medium",
@@ -9542,19 +9386,6 @@
     "answer": "92x"
   },
   {
-    "id": "space-astronomy-663",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "Which planet has the highest average surface temperature due to a runaway greenhouse effect?",
-    "options": [
-      "Mercury",
-      "Mars",
-      "Jupiter",
-      "Venus"
-    ],
-    "answer": "Venus"
-  },
-  {
     "id": "space-astronomy-664",
     "category": "space-astronomy",
     "difficulty": "medium",
@@ -9579,19 +9410,6 @@
       "Mercury"
     ],
     "answer": "Venus"
-  },
-  {
-    "id": "space-astronomy-666",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "What is Earth's current approximate axial tilt relative to its orbital plane?",
-    "options": [
-      "12°",
-      "23.5°",
-      "45°",
-      "0°"
-    ],
-    "answer": "23.5°"
   },
   {
     "id": "space-astronomy-667",
@@ -9620,58 +9438,6 @@
     "answer": "Molten outer core"
   },
   {
-    "id": "space-astronomy-669",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "What causes Earth's seasons?",
-    "options": [
-      "Axial tilt, not distance",
-      "Lunar tides",
-      "Solar wind",
-      "Distance from Sun"
-    ],
-    "answer": "Axial tilt, not distance"
-  },
-  {
-    "id": "space-astronomy-670",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "What are the two points each year when day and night are nearly equal called?",
-    "options": [
-      "Solstices",
-      "Equinoxes",
-      "Perihelion",
-      "Aphelion"
-    ],
-    "answer": "Equinoxes"
-  },
-  {
-    "id": "space-astronomy-671",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "What are the two points with longest and shortest daylight each year called?",
-    "options": [
-      "Solstices",
-      "Equinoxes",
-      "Eclipses",
-      "Transits"
-    ],
-    "answer": "Solstices"
-  },
-  {
-    "id": "space-astronomy-672",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "What causes the aurora borealis and australis?",
-    "options": [
-      "Comet tails",
-      "Charged particles hitting atmosphere",
-      "Moonlight reflecting",
-      "Meteor dust burning"
-    ],
-    "answer": "Charged particles hitting atmosphere"
-  },
-  {
     "id": "space-astronomy-673",
     "category": "space-astronomy",
     "difficulty": "medium",
@@ -9683,19 +9449,6 @@
       "Wernher von Braun"
     ],
     "answer": "James Van Allen"
-  },
-  {
-    "id": "space-astronomy-674",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "What is the continuous stream of charged particles flowing outward from the Sun called?",
-    "options": [
-      "Solar flare",
-      "Aurora",
-      "Cosmic ray",
-      "Solar wind"
-    ],
-    "answer": "Solar wind"
   },
   {
     "id": "space-astronomy-675",
@@ -9852,19 +9605,6 @@
       "Triple cyclone"
     ],
     "answer": "Hexagonal jet stream"
-  },
-  {
-    "id": "space-astronomy-688",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "What gas makes up about 95% of Titan's thick atmosphere?",
-    "options": [
-      "Oxygen",
-      "Nitrogen",
-      "Carbon dioxide",
-      "Hydrogen"
-    ],
-    "answer": "Nitrogen"
   },
   {
     "id": "space-astronomy-689",
@@ -10153,45 +9893,6 @@
     "answer": "Saros cycle"
   },
   {
-    "id": "space-astronomy-714",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "What is the dark central part of a shadow during an eclipse called?",
-    "options": [
-      "Umbra",
-      "Corona",
-      "Penumbra",
-      "Antumbra"
-    ],
-    "answer": "Umbra"
-  },
-  {
-    "id": "space-astronomy-715",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "What causes a lunar eclipse?",
-    "options": [
-      "Earth's shadow falling on the Moon",
-      "Moon's shadow falling on Earth",
-      "Sun exploding",
-      "Clouds"
-    ],
-    "answer": "Earth's shadow falling on the Moon"
-  },
-  {
-    "id": "space-astronomy-716",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "What causes a solar eclipse?",
-    "options": [
-      "Earth's shadow falling on Moon",
-      "Venus shadow",
-      "Solar wind",
-      "Moon's shadow falling on Earth"
-    ],
-    "answer": "Moon's shadow falling on Earth"
-  },
-  {
     "id": "space-astronomy-717",
     "category": "space-astronomy",
     "difficulty": "easy",
@@ -10348,19 +10049,6 @@
     "answer": "600 feet"
   },
   {
-    "id": "space-astronomy-729",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "Which modular Soviet/Russian space station was occupied from 1986 to 2001?",
-    "options": [
-      "Mir",
-      "Tiangong-1",
-      "Salyut 1",
-      "Skylab"
-    ],
-    "answer": "Mir"
-  },
-  {
     "id": "space-astronomy-730",
     "category": "space-astronomy",
     "difficulty": "medium",
@@ -10385,19 +10073,6 @@
       "1998"
     ],
     "answer": "2000"
-  },
-  {
-    "id": "space-astronomy-732",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "Which NASA space telescope was launched in 1990 and observes in visible and ultraviolet?",
-    "options": [
-      "Spitzer",
-      "Hubble",
-      "TESS",
-      "Chandra"
-    ],
-    "answer": "Hubble"
   },
   {
     "id": "space-astronomy-733",
@@ -10567,19 +10242,6 @@
       "Gas and plasma ring"
     ],
     "answer": "Dust and ion"
-  },
-  {
-    "id": "space-astronomy-746",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "What is the glowing cloud of gas surrounding a comet's nucleus called?",
-    "options": [
-      "Corona",
-      "Chromosphere",
-      "Halo",
-      "Coma"
-    ],
-    "answer": "Coma"
   },
   {
     "id": "space-astronomy-747",
@@ -13596,19 +13258,6 @@
       "ISO"
     ],
     "answer": "IRAS"
-  },
-  {
-    "id": "space-astronomy-1034",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "Due to axial precession, which star will be the North Star again in about 12,000 years?",
-    "options": [
-      "Vega",
-      "Thuban",
-      "Aldebaran",
-      "Deneb"
-    ],
-    "answer": "Vega"
   },
   {
     "id": "space-astronomy-1035",
