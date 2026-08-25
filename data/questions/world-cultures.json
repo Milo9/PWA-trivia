@@ -3978,23 +3978,10 @@
     "answer": "Små grodorna"
   },
   {
-    "id": "world-cultures-191",
-    "category": "world-cultures",
-    "difficulty": "easy",
-    "question": "Which Polynesian language's official alphabet contains only 12 letters — five vowels and seven consonants?",
-    "options": [
-      "Samoan",
-      "Hawaiian",
-      "Tongan",
-      "Māori"
-    ],
-    "answer": "Hawaiian"
-  },
-  {
     "id": "world-cultures-192",
     "category": "world-cultures",
     "difficulty": "easy",
-    "question": "Which writing system still in everyday use was commissioned by King Sejong the Great and promulgated in 1443?",
+    "question": "Which writing system still in everyday use was commissioned by King Sejong the Great and promulgated in 1446?",
     "options": [
       "Cyrillic",
       "Hangul",
@@ -4093,19 +4080,6 @@
       "With left hand only"
     ],
     "answer": "With both hands or supporting wrist"
-  },
-  {
-    "id": "world-cultures-202",
-    "category": "world-cultures",
-    "difficulty": "easy",
-    "question": "In Japan, what is considered polite when eating hot noodles like ramen or soba?",
-    "options": [
-      "Slurping audibly to show enjoyment",
-      "Cutting noodles with a fork",
-      "Eating in complete silence",
-      "Standing while finishing"
-    ],
-    "answer": "Slurping audibly to show enjoyment"
   },
   {
     "id": "world-cultures-203",
@@ -5123,19 +5097,6 @@
   },
   {
     "difficulty": "easy",
-    "question": "In India, what is mehndi made from the henna plant used for before weddings?",
-    "options": [
-      "Colorful floor patterns at doorways",
-      "Temporary intricate designs on bride's hands and feet",
-      "Red powder applied to the forehead",
-      "A fragrant hair oil"
-    ],
-    "answer": "Temporary intricate designs on bride's hands and feet",
-    "id": "world-cultures-282",
-    "category": "world-cultures"
-  },
-  {
-    "difficulty": "easy",
     "question": "What is rangoli in India?",
     "options": [
       "A fermented yogurt drink",
@@ -5509,19 +5470,6 @@
     ],
     "answer": "Hospitality and generous welcoming of guests",
     "id": "world-cultures-312",
-    "category": "world-cultures"
-  },
-  {
-    "difficulty": "easy",
-    "question": "What does the Southern African philosophy ubuntu convey?",
-    "options": [
-      "I am because we are",
-      "Water is life",
-      "One foot in the past, one in future",
-      "The ancestors are watching"
-    ],
-    "answer": "I am because we are",
-    "id": "world-cultures-313",
     "category": "world-cultures"
   },
   {
@@ -6175,19 +6123,6 @@
     "answer": "Wrestling, archery, horse racing"
   },
   {
-    "id": "world-cultures-370",
-    "difficulty": "easy",
-    "category": "world-cultures",
-    "question": "What pastry is traditionally shared and eaten during China's Mid-Autumn Festival?",
-    "options": [
-      "Mooncakes",
-      "Spring rolls",
-      "Baozi",
-      "Jianbing"
-    ],
-    "answer": "Mooncakes"
-  },
-  {
     "id": "world-cultures-371",
     "difficulty": "medium",
     "category": "world-cultures",
@@ -6238,19 +6173,6 @@
       "Mass-produced plastic"
     ],
     "answer": "Imperfect, impermanent, and incomplete things"
-  },
-  {
-    "id": "world-cultures-375",
-    "difficulty": "easy",
-    "category": "world-cultures",
-    "question": "How many letters are in the traditional Hawaiian alphabet, excluding the okina glottal stop and long vowels?",
-    "options": [
-      "12",
-      "26",
-      "18",
-      "8"
-    ],
-    "answer": "12"
   },
   {
     "id": "world-cultures-376",
@@ -6305,32 +6227,6 @@
     "answer": "Empty orchestra"
   },
   {
-    "id": "world-cultures-380",
-    "difficulty": "easy",
-    "category": "world-cultures",
-    "question": "In Bulgaria, how do traditional head gestures for yes and no differ from most of the world?",
-    "options": [
-      "Nod means no, shake means yes",
-      "Nod means maybe, shake means no",
-      "Both mean yes",
-      "Tilt means no, nod means yes"
-    ],
-    "answer": "Nod means no, shake means yes"
-  },
-  {
-    "id": "world-cultures-381",
-    "difficulty": "easy",
-    "category": "world-cultures",
-    "question": "In Japan, why is slurping ramen or soba often considered acceptable?",
-    "options": [
-      "It shows enjoyment and appreciation",
-      "It scares away spirits",
-      "It cools the bowl",
-      "It is required by law"
-    ],
-    "answer": "It shows enjoyment and appreciation"
-  },
-  {
     "id": "world-cultures-382",
     "difficulty": "medium",
     "category": "world-cultures",
@@ -6342,32 +6238,6 @@
       "Forecasting weather"
     ],
     "answer": "Reading the room and sensing others' moods"
-  },
-  {
-    "id": "world-cultures-383",
-    "difficulty": "easy",
-    "category": "world-cultures",
-    "question": "In Italy, what is the evening ritual of a leisurely stroll through town called?",
-    "options": [
-      "Passeggiata",
-      "Siesta",
-      "Fiesta",
-      "Fika"
-    ],
-    "answer": "Passeggiata"
-  },
-  {
-    "id": "world-cultures-384",
-    "difficulty": "easy",
-    "category": "world-cultures",
-    "question": "In Spain and Latin America, what word describes lingering at the table after a meal to chat?",
-    "options": [
-      "Sobremesa",
-      "Paseo",
-      "Merienda",
-      "Tertulia"
-    ],
-    "answer": "Sobremesa"
   },
   {
     "id": "world-cultures-385",
@@ -6474,19 +6344,6 @@
     "answer": "Te Reo Māori"
   },
   {
-    "id": "world-cultures-393",
-    "difficulty": "easy",
-    "category": "world-cultures",
-    "question": "The Hawaiian shaka hand gesture, thumb and pinky extended, generally means what?",
-    "options": [
-      "Hang loose / take it easy",
-      "I am hungry",
-      "Danger ahead",
-      "Goodbye forever"
-    ],
-    "answer": "Hang loose / take it easy"
-  },
-  {
     "id": "world-cultures-394",
     "difficulty": "medium",
     "category": "world-cultures",
@@ -6511,19 +6368,6 @@
       "A winter coat"
     ],
     "answer": "A regulars' table in a pub"
-  },
-  {
-    "id": "world-cultures-396",
-    "difficulty": "easy",
-    "category": "world-cultures",
-    "question": "In Korea, what is a jjimjilbang?",
-    "options": [
-      "A public bathhouse and sauna complex",
-      "A karaoke bar",
-      "A noodle shop",
-      "A temple"
-    ],
-    "answer": "A public bathhouse and sauna complex"
   },
   {
     "id": "world-cultures-397",
@@ -6656,19 +6500,6 @@
     "answer": "Open-air outdoor life"
   },
   {
-    "id": "world-cultures-408",
-    "difficulty": "easy",
-    "category": "world-cultures",
-    "question": "Shinrin-yoku, developed in Japan, translates to what practice?",
-    "options": [
-      "Forest bathing",
-      "Mountain shouting",
-      "River swimming",
-      "Desert walking"
-    ],
-    "answer": "Forest bathing"
-  },
-  {
     "id": "world-cultures-409",
     "difficulty": "medium",
     "category": "world-cultures",
@@ -6771,19 +6602,6 @@
       "Releasing sky lanterns"
     ],
     "answer": "Tomb sweeping and honoring ancestors"
-  },
-  {
-    "id": "world-cultures-418",
-    "difficulty": "easy",
-    "category": "world-cultures",
-    "question": "In the UK, what event at Cooper's Hill involves chasing cheese down a steep hill?",
-    "options": [
-      "Cheese Rolling",
-      "Cheese Tasting",
-      "Cheese Carving",
-      "Cheese Auction"
-    ],
-    "answer": "Cheese Rolling"
   },
   {
     "id": "world-cultures-419",
@@ -7124,19 +6942,6 @@
     "answer": "Safe passage"
   },
   {
-    "id": "world-cultures-448",
-    "difficulty": "easy",
-    "category": "world-cultures",
-    "question": "What is the traditional Thai greeting made with pressed palms and a slight bow called?",
-    "options": [
-      "Wai",
-      "Namaste",
-      "Mano",
-      "Kunik"
-    ],
-    "answer": "Wai"
-  },
-  {
     "id": "world-cultures-449",
     "difficulty": "hard",
     "category": "world-cultures",
@@ -7272,12 +7077,12 @@
     "category": "world-cultures",
     "question": "In Mexico, what are papel picado?",
     "options": [
-      "Perforated paper banners cut into festive designs",
+      "Cut paper banners",
       "Sweet breads",
       "Clay whistles",
       "Woven hats"
     ],
-    "answer": "Perforated paper banners cut into festive designs"
+    "answer": "Cut paper banners"
   },
   {
     "id": "world-cultures-460",
@@ -7741,7 +7546,7 @@
     "question": "What is the traditional West African fabric with colorful geometric patterns called?",
     "options": [
       "Kente",
-      "Ankara is similar but Kente is Ghanaian",
+      "Mud cloth",
       "Kimono",
       "Tartan"
     ],
@@ -7993,19 +7798,6 @@
       "Seollal"
     ],
     "answer": "Doljanchi"
-  },
-  {
-    "id": "world-cultures-518",
-    "difficulty": "easy",
-    "category": "world-cultures",
-    "question": "What is the name for the Japanese lucky bag sold at New Year containing unknown items?",
-    "options": [
-      "Fukubukuro",
-      "Omiyage",
-      "Kotatsu",
-      "Daruma"
-    ],
-    "answer": "Fukubukuro"
   },
   {
     "id": "world-cultures-519",

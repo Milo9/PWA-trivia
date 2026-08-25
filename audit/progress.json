@@ -17424,11 +17424,11 @@
         "world-cultures-270",
         "world-cultures-272"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-25",
+      "completedAt": "2026-08-25",
+      "issuesFound": 6,
+      "notes": "Cut 3 duplicates (slurping-noodles pair within chunk, Hawaiian-alphabet reversed-direction pair + near-verbatim pair both vs already-vetted world-cultures-104), fixed 1 factual date error (Hangul promulgated 1446 not 1443), logged 2 backlog notes for duplicate pairs whose sibling is an orphan (Tuareg tagelmust, Nowruz Haft-Seen)."
     },
     {
       "chunkId": "world-cultures-p1-018",
@@ -17485,11 +17485,11 @@
         "world-cultures-380",
         "world-cultures-381"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-25",
+      "completedAt": "2026-08-25",
+      "issuesFound": 5,
+      "notes": "Cut 5 duplicates: mooncake pair within chunk (kept 273, cut 370), and 4 vs already-vetted earlier-chunk survivors — Bulgaria head-gesture reversed-direction dup of world-cultures-204, Japan-slurping dup of world-cultures-159, mehndi reversed-direction dup of world-cultures-164, Ubuntu near-identical dup of world-cultures-935."
     },
     {
       "chunkId": "world-cultures-p1-019",
@@ -17546,11 +17546,11 @@
         "world-cultures-523",
         "world-cultures-528"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-25",
+      "completedAt": "2026-08-25",
+      "issuesFound": 12,
+      "notes": "Cut 8 duplicates vs already-vetted earlier-chunk survivors (jjimjilbang/408 forest-bathing/Cooper's-Hill-cheese-rolling/Fukubukuro backlog-resolved pairs; plus newly found reversed-direction dups: Italian passeggiata, Spanish sobremesa, Hawaiian shaka meaning, Thai wai greeting), fixed 1 answer-leak (papel picado trimmed to match distractor brevity), fixed 1 leaked-drafting-reasoning option (Kente cloth distractor 'Ankara is similar but Kente is Ghanaian' replaced with 'Mud cloth'), and logged 2 backlog notes for duplicate pairs whose sibling is an orphan (Tagalog po/opo, Spanish siesta). Also resolved and removed 4 now-actioned backlog entries (729, 667, 761, 849)."
     },
     {
       "chunkId": "world-cultures-p1-020",
