@@ -793,19 +793,6 @@
     "answer": "United States"
   },
   {
-    "id": "general-753",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "What is the maximum score possible in ten-pin bowling with all strikes?",
-    "options": [
-      "200",
-      "250",
-      "300",
-      "360"
-    ],
-    "answer": "300"
-  },
-  {
     "id": "general-754",
     "category": "sports",
     "difficulty": "hard",
@@ -908,19 +895,6 @@
       "Brazilian Jiu-Jitsu"
     ],
     "answer": "Brazilian Jiu-Jitsu"
-  },
-  {
-    "id": "general-763",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "In which sport do athletes compete using a curling stone and brooms to sweep the ice?",
-    "options": [
-      "Curling",
-      "Bobsled",
-      "Ice hockey",
-      "Skeleton"
-    ],
-    "answer": "Curling"
   },
   {
     "id": "general-764",
@@ -1196,19 +1170,6 @@
     "answer": "Japan"
   },
   {
-    "id": "general-1191",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "What is the maximum score possible in ten-pin bowling for a single game?",
-    "options": [
-      "300",
-      "270",
-      "250",
-      "200"
-    ],
-    "answer": "300"
-  },
-  {
     "id": "general-1192",
     "category": "sports",
     "difficulty": "medium",
@@ -1298,19 +1259,6 @@
       "South Africa"
     ],
     "answer": "England"
-  },
-  {
-    "id": "general-1367",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "In which sport does a competitor use a 'foil', 'epee', or 'sabre'?",
-    "options": [
-      "Fencing",
-      "Archery",
-      "Javelin",
-      "Shooting"
-    ],
-    "answer": "Fencing"
   },
   {
     "id": "general-1368",
@@ -1521,19 +1469,6 @@
     "answer": "Los Angeles"
   },
   {
-    "id": "general-1709",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "In tennis, what is the term for a tie at 40-40 in a game?",
-    "options": [
-      "Deuce",
-      "Advantage",
-      "Love",
-      "Match point"
-    ],
-    "answer": "Deuce"
-  },
-  {
     "id": "general-1710",
     "category": "sports",
     "difficulty": "easy",
@@ -1586,19 +1521,6 @@
     "answer": "Condor"
   },
   {
-    "id": "general-1714",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "In golf, what term describes a score of two strokes under par on a hole?",
-    "options": [
-      "Birdie",
-      "Condor",
-      "Bogey",
-      "Eagle"
-    ],
-    "answer": "Eagle"
-  },
-  {
     "id": "general-1715",
     "category": "sports",
     "difficulty": "easy",
@@ -1623,32 +1545,6 @@
       "6"
     ],
     "answer": "2"
-  },
-  {
-    "id": "general-1717",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "Which combat sport is nicknamed 'the sweet science'?",
-    "options": [
-      "Wrestling",
-      "Boxing",
-      "Judo",
-      "Fencing"
-    ],
-    "answer": "Boxing"
-  },
-  {
-    "id": "general-1718",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "How many rounds are typically scheduled in a professional championship boxing match?",
-    "options": [
-      "8",
-      "12",
-      "15",
-      "10"
-    ],
-    "answer": "12"
   },
   {
     "id": "general-1719",
@@ -1833,32 +1729,6 @@
     "answer": "The Super Bowl"
   },
   {
-    "id": "general-1733",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "Which annual American horse race is known as 'The Run for the Roses'?",
-    "options": [
-      "The Preakness Stakes",
-      "The Belmont Stakes",
-      "The Kentucky Derby",
-      "The Breeders' Cup"
-    ],
-    "answer": "The Kentucky Derby"
-  },
-  {
-    "id": "general-1734",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "In which sport is the score 'love-all' used to indicate the game has just begun?",
-    "options": [
-      "Tennis",
-      "Badminton",
-      "Table tennis",
-      "Squash"
-    ],
-    "answer": "Tennis"
-  },
-  {
     "id": "general-1735",
     "category": "sports",
     "difficulty": "medium",
@@ -1870,19 +1740,6 @@
       "Capoeira"
     ],
     "answer": "Brazilian Jiu-Jitsu"
-  },
-  {
-    "id": "general-1736",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "Which Japanese martial art's name translates to 'the gentle way'?",
-    "options": [
-      "Aikido",
-      "Karate",
-      "Kendo",
-      "Judo"
-    ],
-    "answer": "Judo"
   },
   {
     "id": "general-1737",
@@ -2223,19 +2080,6 @@
     "answer": "Freestyle"
   },
   {
-    "id": "general-2041",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "Which grappling martial art, which originated in Brazil, emphasizes ground fighting and submission holds?",
-    "options": [
-      "Brazilian Jiu-Jitsu",
-      "Judo",
-      "Muay Thai",
-      "Capoeira"
-    ],
-    "answer": "Brazilian Jiu-Jitsu"
-  },
-  {
     "id": "general-2042",
     "category": "sports",
     "difficulty": "hard",
@@ -2262,19 +2106,6 @@
     "answer": "Tennis"
   },
   {
-    "id": "general-2044",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "What is widely regarded as the national sport of Japan?",
-    "options": [
-      "Sumo wrestling",
-      "Judo",
-      "Baseball",
-      "Karate"
-    ],
-    "answer": "Sumo wrestling"
-  },
-  {
     "id": "general-2045",
     "category": "sports",
     "difficulty": "medium",
@@ -2299,19 +2130,6 @@
       "Six"
     ],
     "answer": "Four"
-  },
-  {
-    "id": "general-2047",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "Which driver tied Michael Schumacher's record of seven Formula 1 World Championships?",
-    "options": [
-      "Lewis Hamilton",
-      "Sebastian Vettel",
-      "Max Verstappen",
-      "Fernando Alonso"
-    ],
-    "answer": "Lewis Hamilton"
   },
   {
     "id": "general-2048",
@@ -2457,19 +2275,6 @@
     "answer": "Japan"
   },
   {
-    "id": "general-2496",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "In which sport is the term 'love-all' used to indicate a score of zero-zero?",
-    "options": [
-      "Tennis",
-      "Badminton",
-      "Squash",
-      "Table tennis"
-    ],
-    "answer": "Tennis"
-  },
-  {
     "id": "general-2497",
     "category": "sports",
     "difficulty": "easy",
@@ -2496,19 +2301,6 @@
     "answer": "United Kingdom"
   },
   {
-    "id": "general-2499",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "How many players are on a standard rugby union team?",
-    "options": [
-      "15",
-      "13",
-      "11",
-      "12"
-    ],
-    "answer": "15"
-  },
-  {
     "id": "general-2500",
     "category": "sports",
     "difficulty": "medium",
@@ -2520,19 +2312,6 @@
       "Cricket"
     ],
     "answer": "Golf"
-  },
-  {
-    "id": "general-2534",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "Which African American athlete won four gold medals at the 1936 Berlin Olympics, undermining Nazi ideology?",
-    "options": [
-      "Jesse Owens",
-      "Jackie Robinson",
-      "Wilma Rudolph",
-      "Carl Lewis"
-    ],
-    "answer": "Jesse Owens"
   },
   {
     "id": "general-2573",
@@ -2923,19 +2702,6 @@
       "Seven"
     ],
     "answer": "Five"
-  },
-  {
-    "id": "sports-017",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "How many players does each team field in a rugby union match?",
-    "options": [
-      "Thirteen",
-      "Fourteen",
-      "Fifteen",
-      "Sixteen"
-    ],
-    "answer": "Fifteen"
   },
   {
     "id": "sports-018",
@@ -3798,7 +3564,7 @@
   {
     "difficulty": "medium",
     "category": "sports",
-    "question": "As of 2026, which player has the most career Gold Gloves at 13?",
+    "question": "As of 2026, which player has the most career Gold Gloves at 18?",
     "options": [
       "Brooks Robinson",
       "Greg Maddux",
@@ -4110,7 +3876,7 @@
   {
     "difficulty": "medium",
     "category": "sports",
-    "question": "As of 2026, who holds the women's record for most Grand Slam singles titles with 24 in Open Era combined?",
+    "question": "As of 2026, who holds the women's all-time record for most Grand Slam singles titles with 24, spanning both the amateur and Open Eras?",
     "options": [
       "Serena Williams",
       "Margaret Court",
@@ -4797,19 +4563,6 @@
     "id": "sports-160"
   },
   {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "How many points is a try worth in rugby union without conversion?",
-    "options": [
-      "3 points",
-      "5 points",
-      "2 points",
-      "6 points"
-    ],
-    "answer": "5 points",
-    "id": "sports-161"
-  },
-  {
     "difficulty": "easy",
     "category": "sports",
     "question": "In boxing, which weight class is 135 pounds limit?",
@@ -4890,7 +4643,7 @@
   {
     "difficulty": "medium",
     "category": "sports",
-    "question": "As of 2026, who holds record for most UFC title defenses with 11 in middleweight?",
+    "question": "As of 2026, who holds record for most UFC title defenses with 10 in middleweight?",
     "options": [
       "Georges St-Pierre",
       "Anderson Silva",
@@ -5668,19 +5421,6 @@
     "answer": "Rasheed Wallace"
   },
   {
-    "id": "sports-228",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "Which team selected Kobe Bryant in the 1996 NBA Draft before trading him to the Los Angeles Lakers?",
-    "options": [
-      "Charlotte Hornets",
-      "Vancouver Grizzlies",
-      "Milwaukee Bucks",
-      "Minnesota Timberwolves"
-    ],
-    "answer": "Charlotte Hornets"
-  },
-  {
     "id": "sports-229",
     "category": "sports",
     "difficulty": "easy",
@@ -6212,19 +5952,6 @@
       "US Open"
     ],
     "answer": "Wimbledon"
-  },
-  {
-    "id": "sports-271",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "As of 2024, who holds the ATP record for the fastest recorded serve at 263 km/h (163.4 mph)?",
-    "options": [
-      "John Isner",
-      "Ivo Karlovic",
-      "Sam Groth",
-      "Milos Raonic"
-    ],
-    "answer": "Sam Groth"
   },
   {
     "id": "sports-272",
@@ -8383,19 +8110,6 @@
       "23,500"
     ],
     "answer": "22,895"
-  },
-  {
-    "id": "sports-445",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "Who holds the record for most major wins in golf?",
-    "options": [
-      "Tiger Woods",
-      "Arnold Palmer",
-      "Jack Nicklaus",
-      "Sam Snead"
-    ],
-    "answer": "Jack Nicklaus"
   },
   {
     "id": "sports-446",

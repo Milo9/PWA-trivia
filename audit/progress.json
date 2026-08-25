@@ -15988,11 +15988,11 @@
         "general-1749",
         "general-2028"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-24",
+      "completedAt": "2026-08-24",
+      "issuesFound": 11,
+      "notes": "Cut 11 duplicates: general-753/1191 dup of already-done sports-007 (bowling 300); general-1367 dup of done general-346 (fencing foil/epee/sabre); general-1709 dup of done general-522 (tennis deuce 40-40); general-1733 dup of done general-540 (Kentucky Derby); general-1734 dup of done general-275 (tennis love terminology); general-1717 dup of general-1186 (sweet science boxing, kept 1186); general-1718 dup of general-755 (boxing rounds, kept 755); general-763 dup of general-1749 (curling, kept 1749); general-1736 dup of general-1192 (judo gentle way, kept 1192); general-1714 dup of orphan sports-281 (golf eagle two under par, kept 281)."
     },
     {
       "chunkId": "sports-p1-003",
@@ -16049,11 +16049,11 @@
         "sports-058",
         "sports-061"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-24",
+      "completedAt": "2026-08-24",
+      "issuesFound": 9,
+      "notes": "Cut 9 duplicates: general-2044 dup of done general-1195 (Sumo/national sport Japan); general-2047 dup of general-2687 in-chunk (kept 2687, better as-of pin, Hamilton ties Schumacher 7 titles); general-2041 dup of done general-1735 (Brazilian Jiu-Jitsu); general-2496 dup of done general-275/cut general-1734 (tennis love-all terminology cluster); general-2499 + sports-017 both dup of done general-764 (rugby union 15 players, 3-way cluster); general-2534 dup of done sports-128 (Jesse Owens 1936 Berlin Olympics); sports-228 dup of sports-058 in-chunk (kept 058, Kobe draft team, cut orphan sibling); sports-445 dup of general-2045 in-chunk (kept 2045, better as-of pin, Nicklaus most majors, cut orphan sibling)."
     },
     {
       "chunkId": "sports-p1-004",
@@ -16110,11 +16110,11 @@
         "sports-168",
         "sports-172"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-24",
+      "completedAt": "2026-08-24",
+      "issuesFound": 5,
+      "notes": "Fixed 3 factual errors (WebSearch-verified): sports-084 Gold Gloves record was misstated as 13, corrected to 18 (Greg Maddux); sports-168 Anderson Silva UFC middleweight title defenses misstated as 11, corrected to 10; sports-108 Margaret Court's 24 majors mislabeled 'Open Era combined' (that's the all-time record spanning amateur+Open Era, not an Open-Era-only stat — Serena's 23 is the Open Era record), reworded for accuracy. Cut 2 duplicates: sports-161 dup of done general-1375 (rugby union try = 5pts); sports-271 dup of sports-116 in-chunk (kept 116, more precise mph figure, both = Sam Groth fastest serve)."
     },
     {
       "chunkId": "sports-p1-005",
