@@ -7946,7 +7946,7 @@
     "id": "world-cultures-530",
     "difficulty": "easy",
     "category": "world-cultures",
-    "question": "What is the national sport of sumo most closely associated with which country?",
+    "question": "Sumo wrestling is the national sport of which country?",
     "options": [
       "Japan",
       "Mongolia",
@@ -7967,19 +7967,6 @@
       "Zulu"
     ],
     "answer": "Amharic"
-  },
-  {
-    "id": "world-cultures-532",
-    "difficulty": "easy",
-    "category": "world-cultures",
-    "question": "What is the traditional Maori war dance that is not limited to rugby but also welcomes guests?",
-    "options": [
-      "Haka",
-      "Hula",
-      "Siva",
-      "Tamure"
-    ],
-    "answer": "Haka"
   },
   {
     "difficulty": "medium",
@@ -8006,19 +7993,6 @@
     ],
     "answer": "Underfloor heating via smoke channels",
     "id": "world-cultures-534"
-  },
-  {
-    "difficulty": "easy",
-    "category": "world-cultures",
-    "question": "In Tibetan and Mongolian culture, what is a khata offered to guests?",
-    "options": [
-      "A long white silk scarf for purity",
-      "A braided leather whip",
-      "A silver bowl of milk",
-      "A pine branch"
-    ],
-    "answer": "A long white silk scarf for purity",
-    "id": "world-cultures-535"
   },
   {
     "difficulty": "medium",
@@ -8231,7 +8205,7 @@
   {
     "difficulty": "easy",
     "category": "world-cultures",
-    "question": "What is the current modern script of Georgian called?",
+    "question": "What is the modern script of the Georgian alphabet called?",
     "options": [
       "Mkhedruli",
       "Cyrillic",
@@ -8517,19 +8491,6 @@
   {
     "difficulty": "easy",
     "category": "world-cultures",
-    "question": "Danish hygge most closely means what?",
-    "options": [
-      "Cozy contentment with candles and togetherness",
-      "Strict table manners",
-      "Competitive sailing",
-      "Pickled fish"
-    ],
-    "answer": "Cozy contentment with candles and togetherness",
-    "id": "world-cultures-581"
-  },
-  {
-    "difficulty": "easy",
-    "category": "world-cultures",
     "question": "Swedish lagom describes what ideal?",
     "options": [
       "Moderation, just the right amount",
@@ -8565,19 +8526,6 @@
     ],
     "answer": "A leisurely stroll to see and be seen",
     "id": "world-cultures-584"
-  },
-  {
-    "difficulty": "medium",
-    "category": "world-cultures",
-    "question": "Spanish sobremesa refers to what after a meal?",
-    "options": [
-      "Lingering at the table chatting",
-      "Clearing plates immediately",
-      "A mint liqueur",
-      "Washing dishes together"
-    ],
-    "answer": "Lingering at the table chatting",
-    "id": "world-cultures-585"
   },
   {
     "difficulty": "easy",
@@ -8766,12 +8714,12 @@
     "category": "world-cultures",
     "question": "What is a majlis in Arab culture?",
     "options": [
-      "A sitting room for receiving guests and discussion",
+      "A guest sitting room",
       "A type of incense",
       "A bridal veil",
       "A market for spices"
     ],
-    "answer": "A sitting room for receiving guests and discussion",
+    "answer": "A guest sitting room",
     "id": "world-cultures-600"
   },
   {
@@ -9282,19 +9230,6 @@
     "id": "world-cultures-641"
   },
   {
-    "difficulty": "easy",
-    "category": "world-cultures",
-    "question": "In Greece, what is customary to say when someone sneezes, similar to bless you, involving health?",
-    "options": [
-      "Yia sou",
-      "Geia",
-      "Stin ygeia sou",
-      "Ela"
-    ],
-    "answer": "Geia",
-    "id": "world-cultures-642"
-  },
-  {
     "difficulty": "medium",
     "category": "world-cultures",
     "question": "Greek Easter tradition of tsougrisma involves cracking what?",
@@ -9516,19 +9451,6 @@
     "id": "world-cultures-660"
   },
   {
-    "difficulty": "easy",
-    "category": "world-cultures",
-    "question": "What is sobremesa in Mexican family culture similar to Spain?",
-    "options": [
-      "Time chatting after finishing meal",
-      "Second breakfast",
-      "Midnight snack",
-      "Pre-dinner prayer"
-    ],
-    "answer": "Time chatting after finishing meal",
-    "id": "world-cultures-661"
-  },
-  {
     "difficulty": "medium",
     "category": "world-cultures",
     "question": "In Colombia, what is the Novena de Aguinaldos in December?",
@@ -9659,19 +9581,6 @@
     "id": "world-cultures-671"
   },
   {
-    "difficulty": "easy",
-    "category": "world-cultures",
-    "question": "In the Philippines, what is a boodle fight?",
-    "options": [
-      "Communal military-style feast eaten with hands on banana leaves",
-      "Cockfighting",
-      "Boxing match",
-      "Political debate"
-    ],
-    "answer": "Communal military-style feast eaten with hands on banana leaves",
-    "id": "world-cultures-672"
-  },
-  {
     "difficulty": "medium",
     "category": "world-cultures",
     "question": "What does the Indonesian concept of masuk angin mean literally and culturally?",
@@ -9722,19 +9631,6 @@
     ],
     "answer": "A sunken floor hearth",
     "id": "world-cultures-678"
-  },
-  {
-    "difficulty": "easy",
-    "category": "world-cultures",
-    "question": "In Korea, what is kimjang?",
-    "options": [
-      "Communal making of large quantities of kimchi for winter",
-      "Rice harvest dance",
-      "New Year's bow",
-      "Hanbok sewing day"
-    ],
-    "answer": "Communal making of large quantities of kimchi for winter",
-    "id": "world-cultures-679"
   },
   {
     "difficulty": "hard",
@@ -9828,19 +9724,6 @@
     "id": "world-cultures-687"
   },
   {
-    "difficulty": "easy",
-    "category": "world-cultures",
-    "question": "What is the Japanese concept of wabi-sabi?",
-    "options": [
-      "Finding beauty in imperfection and impermanence",
-      "Perfect symmetry",
-      "High-tech minimalism",
-      "Extreme cleanliness"
-    ],
-    "answer": "Finding beauty in imperfection and impermanence",
-    "id": "world-cultures-688"
-  },
-  {
     "difficulty": "hard",
     "category": "world-cultures",
     "question": "Which language has grammatical evidentiality, marking how a speaker knows information, indicated by the suffix -miş?",
@@ -9852,19 +9735,6 @@
     ],
     "answer": "Turkish",
     "id": "world-cultures-689"
-  },
-  {
-    "difficulty": "easy",
-    "category": "world-cultures",
-    "question": "In Korea, what does banchan refer to?",
-    "options": [
-      "Small side dishes served with rice",
-      "Main soup",
-      "Dessert",
-      "Noodle dish"
-    ],
-    "answer": "Small side dishes served with rice",
-    "id": "world-cultures-691"
   },
   {
     "difficulty": "medium",
@@ -9958,19 +9828,6 @@
     "id": "world-cultures-698"
   },
   {
-    "difficulty": "easy",
-    "category": "world-cultures",
-    "question": "What is the Zulu and Ndebele isigekle or idlukula?",
-    "options": [
-      "A colorful beaded apron or skirt",
-      "A spear",
-      "A hut",
-      "A drum"
-    ],
-    "answer": "A colorful beaded apron or skirt",
-    "id": "world-cultures-699"
-  },
-  {
     "difficulty": "medium",
     "category": "world-cultures",
     "question": "In West Africa, what is the talking drum that mimics speech tones called in Yoruba?",
@@ -10010,32 +9867,6 @@
     "id": "world-cultures-703"
   },
   {
-    "difficulty": "easy",
-    "category": "world-cultures",
-    "question": "What is the Vietnamese ao dai?",
-    "options": [
-      "A long split tunic over pants",
-      "A conical hat only",
-      "A short jacket",
-      "A sarong"
-    ],
-    "answer": "A long split tunic over pants",
-    "id": "world-cultures-704"
-  },
-  {
-    "difficulty": "easy",
-    "category": "world-cultures",
-    "question": "What is the Indian sari typically made of and draped?",
-    "options": [
-      "A long cloth of 5 to 9 meters wrapped around body",
-      "Two separate pieces sewn",
-      "A single skirt",
-      "A headscarf only"
-    ],
-    "answer": "A long cloth of 5 to 9 meters wrapped around body",
-    "id": "world-cultures-706"
-  },
-  {
     "difficulty": "medium",
     "category": "world-cultures",
     "question": "In Nigeria, what is aso ebi?",
@@ -10066,12 +9897,12 @@
     "category": "world-cultures",
     "question": "What is the Japanese daruma doll that tips back when pushed?",
     "options": [
-      "A roly-poly wish doll with blank eyes to fill",
+      "A roly-poly wish doll",
       "A wind chime",
       "A kite",
       "A tea whisk"
     ],
-    "answer": "A roly-poly wish doll with blank eyes to fill",
+    "answer": "A roly-poly wish doll",
     "id": "world-cultures-709"
   },
   {
@@ -10183,12 +10014,12 @@
     "category": "world-cultures",
     "question": "What is the Mexican sobremesa equivalent called tertulia in some Latin cultures?",
     "options": [
-      "Social gathering to converse after meal or for ideas",
+      "A social gathering to converse",
       "Afternoon nap",
       "Morning market",
       "Church procession"
     ],
-    "answer": "Social gathering to converse after meal or for ideas",
+    "answer": "A social gathering to converse",
     "id": "world-cultures-718"
   },
   {
@@ -10242,19 +10073,6 @@
     ],
     "answer": "Worry beads fiddled with in hands",
     "id": "world-cultures-722"
-  },
-  {
-    "difficulty": "easy",
-    "category": "world-cultures",
-    "question": "What is Turkish nazar boncuğu alternative known as in Greece as mati?",
-    "options": [
-      "Blue eye bead to ward off evil eye",
-      "Wedding ring",
-      "Coffee cup",
-      "Olive branch"
-    ],
-    "answer": "Blue eye bead to ward off evil eye",
-    "id": "world-cultures-723"
   },
   {
     "difficulty": "medium",
@@ -10313,12 +10131,12 @@
     "category": "world-cultures",
     "question": "What is kaiseki in Japanese dining?",
     "options": [
-      "Multi-course haute cuisine with seasonal small dishes",
+      "Multi-course haute cuisine",
       "Street food skewers",
       "All-you-can-eat sushi",
       "Instant noodles"
     ],
-    "answer": "Multi-course haute cuisine with seasonal small dishes",
+    "answer": "Multi-course haute cuisine",
     "id": "world-cultures-728"
   },
   {
@@ -10333,19 +10151,6 @@
     ],
     "answer": "A public bathhouse",
     "id": "world-cultures-729"
-  },
-  {
-    "difficulty": "easy",
-    "category": "world-cultures",
-    "question": "What is Chinese baijiu?",
-    "options": [
-      "A strong clear grain liquor",
-      "A tea",
-      "A beer",
-      "A rice porridge"
-    ],
-    "answer": "A strong clear grain liquor",
-    "id": "world-cultures-730"
   },
   {
     "difficulty": "medium",
@@ -10632,32 +10437,6 @@
       "Philippines"
     ],
     "answer": "South Korea"
-  },
-  {
-    "id": "world-cultures-755",
-    "category": "world-cultures",
-    "difficulty": "easy",
-    "question": "In Japan, what noisy dining behavior is considered polite and shows appreciation for a bowl of noodles?",
-    "options": [
-      "Slurping",
-      "Burping",
-      "Clicking chopsticks",
-      "Tapping the bowl"
-    ],
-    "answer": "Slurping"
-  },
-  {
-    "id": "world-cultures-758",
-    "category": "world-cultures",
-    "difficulty": "easy",
-    "question": "What Danish and Norwegian word describes a mood of coziness, comfort, and convivial well-being?",
-    "options": [
-      "Hygge",
-      "Lagom",
-      "Sisu",
-      "Kos"
-    ],
-    "answer": "Hygge"
   },
   {
     "id": "world-cultures-759",
@@ -11089,19 +10868,6 @@
     "answer": "They are burned"
   },
   {
-    "id": "world-cultures-795",
-    "category": "world-cultures",
-    "difficulty": "easy",
-    "question": "In Russian superstition, doing what indoors is believed to cause bad luck or financial ruin?",
-    "options": [
-      "Whistling",
-      "Sweeping",
-      "Sneezing",
-      "Opening an umbrella"
-    ],
-    "answer": "Whistling"
-  },
-  {
     "id": "world-cultures-797",
     "category": "world-cultures",
     "difficulty": "medium",
@@ -11245,19 +11011,6 @@
     "answer": "Spaces between words"
   },
   {
-    "id": "world-cultures-809",
-    "category": "world-cultures",
-    "difficulty": "easy",
-    "question": "What is an 'oshibori', typically provided to customers in Japanese restaurants?",
-    "options": [
-      "A wet towel for cleaning hands",
-      "A small appetizer",
-      "A wooden chopstick rest",
-      "A tea cup"
-    ],
-    "answer": "A wet towel for cleaning hands"
-  },
-  {
     "id": "world-cultures-810",
     "category": "world-cultures",
     "difficulty": "medium",
@@ -11386,19 +11139,6 @@
       "Oubaitori"
     ],
     "answer": "Ikigai"
-  },
-  {
-    "id": "world-cultures-823",
-    "category": "world-cultures",
-    "difficulty": "easy",
-    "question": "What traditional Japanese square cloth is used to wrap and transport items of various shapes and sizes?",
-    "options": [
-      "Furoshiki",
-      "Tenugui",
-      "Happi",
-      "Yukata"
-    ],
-    "answer": "Furoshiki"
   },
   {
     "id": "world-cultures-824",
@@ -11934,19 +11674,6 @@
     "answer": "Ornamental hairpins"
   },
   {
-    "id": "world-cultures-867",
-    "category": "world-cultures",
-    "difficulty": "easy",
-    "question": "What is the 'koto', a traditional Japanese musical instrument?",
-    "options": [
-      "A long, plucked stringed zither",
-      "A bamboo flute",
-      "A drum",
-      "A three-stringed lute"
-    ],
-    "answer": "A long, plucked stringed zither"
-  },
-  {
     "id": "world-cultures-868",
     "category": "world-cultures",
     "difficulty": "medium",
@@ -12116,19 +11843,6 @@
     "answer": "Short, humorous farces"
   },
   {
-    "id": "world-cultures-881",
-    "category": "world-cultures",
-    "difficulty": "easy",
-    "question": "What is 'Ikebana', the traditional Japanese art of?",
-    "options": [
-      "Flower arranging",
-      "Paper folding",
-      "Bonsai cultivation",
-      "Garden design"
-    ],
-    "answer": "Flower arranging"
-  },
-  {
     "id": "world-cultures-882",
     "category": "world-cultures",
     "difficulty": "hard",
@@ -12296,19 +12010,6 @@
       "A sweet potato liqueur"
     ],
     "answer": "A distilled spirit made from indica rice"
-  },
-  {
-    "id": "world-cultures-897",
-    "category": "world-cultures",
-    "difficulty": "easy",
-    "question": "What is an 'umeboshi', commonly eaten with rice in Japan?",
-    "options": [
-      "A highly sour, pickled plum",
-      "A sweet candied chestnut",
-      "A salted cherry blossom",
-      "A pickled radish"
-    ],
-    "answer": "A highly sour, pickled plum"
   },
   {
     "id": "world-cultures-898",
@@ -12862,12 +12563,12 @@
     "difficulty": "easy",
     "question": "In Romania, what is the 'Mărțișor' given on March 1st?",
     "options": [
-      "A red and white string token symbolizing spring",
+      "A red and white string charm",
       "A painted egg",
       "A wooden mask",
       "A clay figurine"
     ],
-    "answer": "A red and white string token symbolizing spring"
+    "answer": "A red and white string charm"
   },
   {
     "id": "world-cultures-946",

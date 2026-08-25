@@ -17607,11 +17607,11 @@
         "world-cultures-663",
         "world-cultures-666"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-25",
+      "completedAt": "2026-08-25",
+      "issuesFound": 9,
+      "notes": "Cut 6 duplicates (haka welcomes-guests vs. done-42, khata definition vs. done-213, hygge definition vs. done-119, 2x Mexican/Spanish sobremesa vs. done-298, and a Greek sneeze-phrase question with ambiguous/synonymous options Yia sou vs Geia). Fixed 1 answer-leak (majlis), reworded 1 malformed double-barreled question stem (sumo/country), reworded 1 redundant phrasing (Georgian script). Logged 1 backlog note (Korean age vs orphan 1459)."
     },
     {
       "chunkId": "world-cultures-p1-021",
@@ -17668,11 +17668,11 @@
         "world-cultures-860",
         "world-cultures-862"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-25",
+      "completedAt": "2026-08-25",
+      "issuesFound": 17,
+      "notes": "Cut 14: hygge (dup of done 119/658), furoshiki (dup of 248), oshibori (dup of 275), wabi-sabi (dup of 175/374), boodle fight (dup of 270/419), kimjang (dup of 160), banchan (dup of food-drink-591), ao dai (dup of 177), noodle-slurping (dup of 159), nazar boncugu/mati (dup of 172), baijiu (dup of food-drink-096), whistling-indoors superstition (dup of 402), sari material/drape (dup of general-072), and Zulu/Ndebele isigekle/idlukula beaded-apron question (unverifiable, no corroborating source found, likely fabricated term). Fixed 3 answer-leaks (daruma doll, tertulia, kaiseki). Logged 9 backlog notes for duplicate siblings that are orphans (hatsumode, toro nagashi, chawanmushi x2, mesob, hyung/oppa, castells, Thai sacred head, plus 2 more boodle-fight/slurp orphans)."
     },
     {
       "chunkId": "world-cultures-p1-022",
@@ -17696,11 +17696,11 @@
         "world-cultures-958",
         "world-cultures-970"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-25",
+      "completedAt": "2026-08-25",
+      "issuesFound": 6,
+      "notes": "Cut 3 duplicates found via cross-category grep (koto dup of music-252, umeboshi dup of food-drink-319, ikebana-definition dup of world-cultures-493, all reversed-direction). Fixed 1 answer-leak (Marțișor). Logged 2 backlog notes for orphan siblings (Marțișor colors, Bhutan archery)."
     }
   ]
 }
