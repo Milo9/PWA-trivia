@@ -7,5 +7,8 @@
   "space-astronomy-773": "duplicate of orphan space-astronomy-829 (both: length of Earth's sidereal day = 23h56m)",
   "space-astronomy-774": "duplicate of orphan space-astronomy-830 (both: average length of synodic month = 29.5 days)",
   "space-astronomy-785": "duplicate of orphan space-astronomy-831 (both: which observatory at Sun-Earth L1 continuously watches the Sun since 1995 = SOHO)",
-  "space-astronomy-790": "duplicate of orphan space-astronomy-827 (no chunk) - both define Ecliptic, one as Sun's apparent path, other as plane of Earth's orbit; same underlying fact, reversed framing"
+  "space-astronomy-790": "duplicate of orphan space-astronomy-827 (no chunk) - both define Ecliptic, one as Sun's apparent path, other as plane of Earth's orbit; same underlying fact, reversed framing",
+  "world-cultures-514": "duplicate with world-cultures-1499 (orphan, no chunk) -- same fact (Irish has no native word for yes/no, repeats the verb instead), different answer text ('Irish and some Celtic languages' vs 'Irish') so auto-print won't catch it. Cut world-cultures-1499 when it enters a chunk via append-orphans; keep world-cultures-514, already reviewed and kept in world-cultures-p1-002.",
+  "world-cultures-658": "duplicate with world-cultures-758 (pending) -- reversed-direction pair: 658 asks which language 'hygge' comes from (answer: Danish and Norwegian), 758 asks what the Danish/Norwegian word for coziness is (answer: Hygge). Different answer text so auto-print won't catch it. Cut world-cultures-758 when its chunk is reached, since 658 already survived review in world-cultures-p1-002.",
+  "world-cultures-789": "duplicate with world-cultures-1176 (orphan, no chunk yet) -- both ask the Hawaiian alphabet letter count (13, including okina). Cut whichever is reviewed later once 1176 enters a chunk via append-orphans; keep world-cultures-789 for now since it was reviewed and confirmed accurate in world-cultures-p1-003."
 }

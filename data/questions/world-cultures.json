@@ -1,18 +1,5 @@
 [
   {
-    "id": "general-004",
-    "category": "world-cultures",
-    "difficulty": "medium",
-    "question": "What is the most widely spoken native language in the world?",
-    "options": [
-      "English",
-      "Spanish",
-      "Hindi",
-      "Mandarin Chinese"
-    ],
-    "answer": "Mandarin Chinese"
-  },
-  {
     "id": "general-012",
     "category": "world-cultures",
     "difficulty": "medium",
@@ -754,19 +741,6 @@
     "answer": "French"
   },
   {
-    "id": "general-854",
-    "category": "world-cultures",
-    "difficulty": "medium",
-    "question": "Which country is traditionally credited as the birthplace of chess?",
-    "options": [
-      "China",
-      "Persia",
-      "Egypt",
-      "India"
-    ],
-    "answer": "India"
-  },
-  {
     "id": "general-857",
     "category": "world-cultures",
     "difficulty": "easy",
@@ -947,19 +921,6 @@
       "Rakugo"
     ],
     "answer": "Kabuki"
-  },
-  {
-    "id": "general-1291",
-    "category": "world-cultures",
-    "difficulty": "medium",
-    "question": "What is the name of the Indian festival of lights, celebrated by Hindus, Sikhs, and Jains?",
-    "options": [
-      "Diwali",
-      "Holi",
-      "Navratri",
-      "Vaisakhi"
-    ],
-    "answer": "Diwali"
   },
   {
     "id": "general-1292",
@@ -1220,19 +1181,6 @@
       "Cyprus"
     ],
     "answer": "Canada"
-  },
-  {
-    "id": "general-2372",
-    "category": "world-cultures",
-    "difficulty": "medium",
-    "question": "What is the currency of Switzerland?",
-    "options": [
-      "Swiss franc",
-      "Euro",
-      "Swiss mark",
-      "Swiss pound"
-    ],
-    "answer": "Swiss franc"
   },
   {
     "id": "general-2374",
@@ -3458,19 +3406,6 @@
     "answer": "Number and prophetess"
   },
   {
-    "id": "world-cultures-129",
-    "category": "world-cultures",
-    "difficulty": "hard",
-    "question": "How many noun cases does Finnish have?",
-    "options": [
-      "15",
-      "6",
-      "4",
-      "22"
-    ],
-    "answer": "15"
-  },
-  {
     "id": "world-cultures-130",
     "category": "world-cultures",
     "difficulty": "easy",
@@ -4293,7 +4228,7 @@
     "id": "world-cultures-193",
     "category": "world-cultures",
     "difficulty": "hard",
-    "question": "Which recently extinct Northwest Caucasian language was famous for having 84 consonant phonemes but only 2 or 3 vowels?",
+    "question": "Which extinct Northwest Caucasian language was famous for having 84 consonant phonemes but only 2 or 3 vowels?",
     "options": [
       "Circassian",
       "Ubykh",
@@ -7595,14 +7530,14 @@
     "id": "world-cultures-447",
     "difficulty": "hard",
     "category": "world-cultures",
-    "question": "Which Australian Aboriginal custom involves message sticks carried between groups to grant safe passage?",
+    "question": "In Aboriginal Australian custom, a carved wooden stick carried by a messenger into another group's territory granted the bearer what?",
     "options": [
-      "Message stick diplomacy",
-      "Smoke signaling only",
-      "Drum beating",
-      "Flag waving"
+      "Safe passage",
+      "Free food and lodging",
+      "Land ownership",
+      "Exemption from all local customs"
     ],
-    "answer": "Message stick diplomacy"
+    "answer": "Safe passage"
   },
   {
     "id": "world-cultures-448",
@@ -7623,12 +7558,12 @@
     "category": "world-cultures",
     "question": "In Japanese, what does -san, -sama, -kun, and -chan represent?",
     "options": [
-      "Honorific suffixes indicating politeness and familiarity",
+      "Honorific suffixes",
       "Verb tenses",
       "Counting systems",
       "Types of sushi"
     ],
-    "answer": "Honorific suffixes indicating politeness and familiarity"
+    "answer": "Honorific suffixes"
   },
   {
     "id": "world-cultures-450",
@@ -7852,19 +7787,6 @@
     "answer": "Charye"
   },
   {
-    "id": "world-cultures-467",
-    "difficulty": "hard",
-    "category": "world-cultures",
-    "question": "The click language !Xóõ, spoken in Botswana, is notable for having what?",
-    "options": [
-      "One of the largest phoneme inventories in the world",
-      "Only three vowels",
-      "No nouns",
-      "No past tense"
-    ],
-    "answer": "One of the largest phoneme inventories in the world"
-  },
-  {
     "id": "world-cultures-468",
     "difficulty": "medium",
     "category": "world-cultures",
@@ -7933,7 +7855,7 @@
     "id": "world-cultures-473",
     "difficulty": "hard",
     "category": "world-cultures",
-    "question": "Which language uses honorific noun classifiers that change based on the social status of the listener?",
+    "question": "Which language uses distinct honorific speech levels (like ngoko and krama) chosen based on the social status of the listener?",
     "options": [
       "Javanese",
       "English",
@@ -8429,12 +8351,12 @@
     "category": "world-cultures",
     "question": "Which language distinguishes inclusive and exclusive we, meaning whether the listener is included?",
     "options": [
-      "Many Austronesian languages like Tagalog and Malay",
-      "English only",
-      "French only",
-      "German only"
+      "Tagalog and Malay",
+      "English",
+      "French",
+      "German"
     ],
-    "answer": "Many Austronesian languages like Tagalog and Malay"
+    "answer": "Tagalog and Malay"
   },
   {
     "id": "world-cultures-512",
@@ -8557,7 +8479,7 @@
     "id": "world-cultures-521",
     "difficulty": "hard",
     "category": "world-cultures",
-    "question": "In the original instruction this question about hanami was listed as banned, so this replacement asks about tsukimi. What does tsukimi celebrate?",
+    "question": "In Japanese tradition, what does tsukimi celebrate?",
     "options": [
       "Moon viewing",
       "Snow viewing",
@@ -9033,19 +8955,6 @@
     ],
     "answer": "Mesrop Mashtots",
     "id": "world-cultures-559"
-  },
-  {
-    "difficulty": "hard",
-    "category": "world-cultures",
-    "question": "Pirahã, an Amazonian language, is often cited as having no fixed words for what?",
-    "options": [
-      "Exact numbers",
-      "Colors",
-      "Family members",
-      "Future tense"
-    ],
-    "answer": "Exact numbers",
-    "id": "world-cultures-560"
   },
   {
     "difficulty": "medium",
@@ -10599,12 +10508,12 @@
     "category": "world-cultures",
     "question": "What is the Sámi gákti?",
     "options": [
-      "Traditional colorful clothing with patterns showing family origin",
+      "Traditional clothing",
       "A fishing net",
       "A reindeer sled",
       "A drum"
     ],
-    "answer": "Traditional colorful clothing with patterns showing family origin",
+    "answer": "Traditional clothing",
     "id": "world-cultures-680"
   },
   {
@@ -11557,19 +11466,6 @@
     "answer": "South Korea"
   },
   {
-    "id": "world-cultures-754",
-    "category": "world-cultures",
-    "difficulty": "hard",
-    "question": "Speakers of the Guugu Yimithirr language in Australia use what to describe directions instead of relative terms like left or right?",
-    "options": [
-      "Cardinal directions",
-      "Body parts",
-      "Landmarks",
-      "Sun position"
-    ],
-    "answer": "Cardinal directions"
-  },
-  {
     "id": "world-cultures-755",
     "category": "world-cultures",
     "difficulty": "easy",
@@ -11581,32 +11477,6 @@
       "Tapping the bowl"
     ],
     "answer": "Slurping"
-  },
-  {
-    "id": "world-cultures-756",
-    "category": "world-cultures",
-    "difficulty": "hard",
-    "question": "The Pirahã language of the Amazon is famous for lacking which basic linguistic feature?",
-    "options": [
-      "Specific number words",
-      "Vowels",
-      "Past tense",
-      "Plural forms"
-    ],
-    "answer": "Specific number words"
-  },
-  {
-    "id": "world-cultures-757",
-    "category": "world-cultures",
-    "difficulty": "hard",
-    "question": "Which African language, also known as !Xóõ, holds the record for having the most phonemes?",
-    "options": [
-      "Taa",
-      "Xhosa",
-      "Zulu",
-      "Swahili"
-    ],
-    "answer": "Taa"
   },
   {
     "id": "world-cultures-758",
@@ -11882,19 +11752,6 @@
     "answer": "A light afternoon snack"
   },
   {
-    "id": "world-cultures-779",
-    "category": "world-cultures",
-    "difficulty": "hard",
-    "question": "Which extinct Northwest Caucasian language held the record for the most consonants (84) and only two vowels?",
-    "options": [
-      "Ubykh",
-      "Abaza",
-      "Kabardian",
-      "Adyghe"
-    ],
-    "answer": "Ubykh"
-  },
-  {
     "id": "world-cultures-780",
     "category": "world-cultures",
     "difficulty": "medium",
@@ -12077,19 +11934,6 @@
     "answer": "They are burned"
   },
   {
-    "id": "world-cultures-794",
-    "category": "world-cultures",
-    "difficulty": "hard",
-    "question": "What Icelandic word for 'computer' is a portmanteau of the words for 'number' and 'prophetess'?",
-    "options": [
-      "Tölva",
-      "Reiknivél",
-      "Tölvapóstur",
-      "Vefsíða"
-    ],
-    "answer": "Tölva"
-  },
-  {
     "id": "world-cultures-795",
     "category": "world-cultures",
     "difficulty": "easy",
@@ -12101,19 +11945,6 @@
       "Opening an umbrella"
     ],
     "answer": "Whistling"
-  },
-  {
-    "id": "world-cultures-796",
-    "category": "world-cultures",
-    "difficulty": "hard",
-    "question": "The Finnish language is known for having a highly complex system of grammatical cases. Approximately how many does it have?",
-    "options": [
-      "15",
-      "3",
-      "6",
-      "22"
-    ],
-    "answer": "15"
   },
   {
     "id": "world-cultures-797",
@@ -12322,19 +12153,6 @@
       "Many children"
     ],
     "answer": "Prosperity and growth"
-  },
-  {
-    "id": "world-cultures-813",
-    "category": "world-cultures",
-    "difficulty": "hard",
-    "question": "The Inuktitut language uses a syllabic writing system whose characters are primarily based on what geometric shapes?",
-    "options": [
-      "Triangles and angles",
-      "Circles and squares",
-      "Spirals and curves",
-      "Stars and crosses"
-    ],
-    "answer": "Triangles and angles"
   },
   {
     "id": "world-cultures-814",
@@ -13965,14 +13783,14 @@
     "id": "world-cultures-940",
     "category": "world-cultures",
     "difficulty": "hard",
-    "question": "In Mongolia, what is the traditional practice of 'Burkitshi'?",
+    "question": "In Mongolia, a 'Burkitshi' is a traditional practitioner of what?",
     "options": [
-      "Hunting with golden eagles",
-      "Wrestling horses",
+      "Hunting with a golden eagle",
+      "Horse wrestling",
       "Throat singing",
       "Archery on horseback"
     ],
-    "answer": "Hunting with golden eagles"
+    "answer": "Hunting with a golden eagle"
   },
   {
     "id": "world-cultures-941",
@@ -14071,12 +13889,12 @@
     "difficulty": "hard",
     "question": "In Estonia, what is 'kiiking'?",
     "options": [
-      "Competitive swinging on massive, towering swings to complete a 360-degree loop",
+      "Competitive giant swinging",
       "Ice swimming",
       "Tree climbing",
       "Bog running"
     ],
-    "answer": "Competitive swinging on massive, towering swings to complete a 360-degree loop"
+    "answer": "Competitive giant swinging"
   },
   {
     "id": "world-cultures-949",
@@ -14097,12 +13915,12 @@
     "difficulty": "hard",
     "question": "In Norway, what are 'russ'?",
     "options": [
-      "High school graduates who celebrate with weeks of partying before exams",
+      "Graduating high schoolers",
       "Traditional fishermen",
       "Mountain guides",
       "Reindeer herders"
     ],
-    "answer": "High school graduates who celebrate with weeks of partying before exams"
+    "answer": "Graduating high schoolers"
   },
   {
     "id": "world-cultures-951",
@@ -14142,19 +13960,6 @@
       "A winter solstice feast"
     ],
     "answer": "A social gathering with coffee, cake, and storytelling"
-  },
-  {
-    "id": "world-cultures-954",
-    "category": "world-cultures",
-    "difficulty": "hard",
-    "question": "In Guatemala, what are 'barriletes gigantes' flown on All Saints' Day?",
-    "options": [
-      "Massive, colorful kites to communicate with the dead",
-      "Paper lanterns",
-      "Hot air balloons",
-      "Giant pinwheels"
-    ],
-    "answer": "Massive, colorful kites to communicate with the dead"
   },
   {
     "id": "world-cultures-955",
@@ -14279,12 +14084,12 @@
     "difficulty": "hard",
     "question": "In Fiji, what is the 'sevusevu' presented before drinking kava?",
     "options": [
-      "A gift of yaqona (kava) root to the village chief",
+      "A gift of kava root",
       "A woven mat",
       "A carved whale tooth",
       "A woven basket"
     ],
-    "answer": "A gift of yaqona (kava) root to the village chief"
+    "answer": "A gift of kava root"
   },
   {
     "id": "world-cultures-965",

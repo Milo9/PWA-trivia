@@ -16509,11 +16509,11 @@
         "world-cultures-671",
         "world-cultures-680"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-25",
+      "completedAt": "2026-08-25",
+      "issuesFound": 9,
+      "notes": "Cut 3 duplicates (Finnish 15 cases, Pirahã exact numbers, !Xoo phoneme record vs world-cultures-340); fixed 3 answer-leaks (Japanese honorifics, gakti, inclusive/exclusive we); fixed leaked drafting-instruction text in question stem (tsukimi); fixed tautological answer (message stick custom); fixed Javanese noun-classifier terminology to speech levels; unpinned stale 'recently extinct' claim (Ubykh)."
     },
     {
       "chunkId": "world-cultures-p1-003",
@@ -16570,11 +16570,11 @@
         "world-cultures-931",
         "world-cultures-932"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-25",
+      "completedAt": "2026-08-25",
+      "issuesFound": 9,
+      "notes": "Cut 7 cross-chunk duplicates against already-reviewed p1-002 siblings (Guugu Yimithirr cardinal directions, Pirahã exact-number words, !Xoo phoneme record, Ubykh 84-consonant record, Icelandic tolva portmanteau, Finnish 15 cases) plus 1 in-chunk duplicate (Inuktitut vs Cree syllabics shape description, kept Cree/781). Logged 2 backlog notes for pending/orphan siblings that can't self-resolve (world-cultures-758 hygge reversed-direction dup of 658; world-cultures-1176 orphan Hawaiian-alphabet-letter-count dup of 789)."
     },
     {
       "chunkId": "world-cultures-p1-004",
@@ -16631,11 +16631,11 @@
         "general-2312",
         "general-2372"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-25",
+      "completedAt": "2026-08-25",
+      "issuesFound": 11,
+      "notes": "Cut 1 cross-chunk duplicate (Guatemala barriletes gigantes vs already-reviewed world-cultures-332); cut 3 duplicates against already-done siblings in other completed chunks (general-044/general-1291 Diwali vs done general-2734; general-854 chess origin vs done general-2331); cut 1 in-chunk duplicate (general-004 vs general-2311, native-speakers language, kept 2311); cut 1 in-chunk duplicate (general-2372 vs general-1266, Swiss franc currency, kept 1266). Fixed 3 answer-leaks (kiiking, russ, sevusevu). Fixed named-thing confusion (Burkitshi = the eagle hunter, not the practice itself). Logged 2 backlog notes for orphan siblings that can't self-resolve (world-cultures-1499 dup of done world-cultures-514; already-noted world-cultures-758 dup of done world-cultures-658, unaffected)."
     },
     {
       "chunkId": "world-cultures-p1-005",
