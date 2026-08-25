@@ -16875,11 +16875,11 @@
         "world-cultures-369",
         "world-cultures-371"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-25",
+      "completedAt": "2026-08-25",
+      "issuesFound": 7,
+      "notes": "Cut 7 duplicates found via corpus-wide grep on haka/kava clusters: haka-weddings/funerals fact was a triplicate (042 done, 319 this chunk, 431 already-done p1-002) - kept 042 (best distractors), cut 319 and 431. Fijian kava bilo-cup clap/Bula protocol was a 6-way cluster (231 done, 320 this chunk, 606 pending, 1315/1462/1477 orphans) - kept 231 (before: clap once + say Bula) and left 1321 orphan alone (distinct after-drinking clap-three-times fact, verified via WebSearch: clap once before, three times after is accurate), cut 320/606/1315/1462 as duplicates and 1477 as also self-answering/tautological. No factual errors found in the 46 reviewed questions."
     },
     {
       "chunkId": "world-cultures-p1-009",
@@ -16936,11 +16936,11 @@
         "world-cultures-464",
         "world-cultures-468"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-25",
+      "completedAt": "2026-08-25",
+      "issuesFound": 14,
+      "notes": "Cut 12 duplicates found via corpus-wide grep on gursha/Schultute/snuff-bottle/khata clusters, plus 1 same-chunk duplicate (avoid-number-4-for-death: 468 dup of 460, kept 460) and 1 unverifiable fabricated-sounding claim (441: Mongolia snuff-bottle-greeting snack pairing, not supported by WebSearch on Mongolian snuff-bottle etiquette). Gursha cluster (398 this chunk, 1323/1396 orphans) all duplicated already-done 124, kept 124. Schultute cluster (427 this chunk, 1278/1344 orphans) all duplicated already-done 110, kept 110. Snuff-bottle-is-the-greeting-object cluster (677 pending, 1382 orphan/also tautological) duplicated already-done 126, kept 126 plus distinct etiquette question 1199. Khata white-scarf cluster (415 this chunk, 1372 orphan) duplicated already-done 213, kept 213; cleared 3 now-resolved backlog notes (110, 124, 213). Fixed 2 answer-leaks by trimming the correct option to match distractor brevity (omotenashi 47->21 chars, duende 46->29 chars). No factual errors found otherwise."
     },
     {
       "chunkId": "world-cultures-p1-010",
@@ -16997,11 +16997,11 @@
         "world-cultures-557",
         "world-cultures-559"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-25",
+      "completedAt": "2026-08-25",
+      "issuesFound": 16,
+      "notes": "Cut 14 duplicates found via corpus-wide grep on several clusters: kintsugi reversed-direction pair (492 kept, 551 cut, same chunk); Korean-speech-levels-are-seven triplicate (510 kept, 557+1189 cut); Javanese ngoko/krama reversed pair (473 already-done kept, 1492 cut); India elder-feet-touching-gesture-name triplicate (284 already-done kept, 474+1009 cut); Hawaiian-modern-alphabet-13-letters quadruplicate (789 already-done kept, 554+341+1176 cut, cleared its backlog note); Taa/!Xoo-language-click-record cluster of 5 (340 already-done kept, 555+675+987+1489 cut, one of which — 675 — was also a weak self-referential/circular question); Kazakh-berkutchi premise-reveal pair (540 kept for its distinct golden-eagle fact, 1367 cut since 540's own premise already names 'berkutchi'). Fixed 2 answer-leaks by trimming the correct option to match distractor brevity (nemawashi 54->28 chars, hiraeth 63->32 chars). No factual errors found; chindogu's 'unuseless' flagged by the leaked-reasoning heuristic is a genuine real term from the concept's inventor, left as-is."
     },
     {
       "chunkId": "world-cultures-p1-011",

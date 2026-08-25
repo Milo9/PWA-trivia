@@ -5266,19 +5266,6 @@
   },
   {
     "difficulty": "medium",
-    "question": "In the Philippines, what gesture of respect involves pressing one's forehead to an elder's hand?",
-    "options": [
-      "Mano",
-      "Wai",
-      "Kowtow",
-      "Fika"
-    ],
-    "answer": "Mano",
-    "id": "world-cultures-285",
-    "category": "world-cultures"
-  },
-  {
-    "difficulty": "medium",
     "question": "During Tet, the Vietnamese Lunar New Year, what is li xi?",
     "options": [
       "Small money in red envelopes given to children",
@@ -5707,32 +5694,6 @@
     "category": "world-cultures"
   },
   {
-    "difficulty": "medium",
-    "question": "Besides sports events, in Māori culture the haka is also performed at which kinds of occasions?",
-    "options": [
-      "Weddings, funerals and welcoming guests",
-      "Crop planting only",
-      "Market trading days",
-      "Birthdays only"
-    ],
-    "answer": "Weddings, funerals and welcoming guests",
-    "id": "world-cultures-319",
-    "category": "world-cultures"
-  },
-  {
-    "difficulty": "medium",
-    "question": "In a traditional Fijian yaqona kava ceremony, what is customary to do before receiving the bilo cup?",
-    "options": [
-      "Clap once",
-      "Remove your shirt",
-      "Whistle twice",
-      "Bow to the ground"
-    ],
-    "answer": "Clap once",
-    "id": "world-cultures-320",
-    "category": "world-cultures"
-  },
-  {
     "difficulty": "hard",
     "question": "In old Hawaiian tradition, what does a lei given with a honi, pressing noses and sharing breath, symbolize?",
     "options": [
@@ -5851,7 +5812,7 @@
   },
   {
     "difficulty": "medium",
-    "question": "In Andean cultures, what is a khata or aguayo textile used for?",
+    "question": "In Andean cultures, what is an aguayo textile used for?",
     "options": [
       "Carrying babies and goods on the back",
       "Covering the face during mourning",
@@ -5994,19 +5955,6 @@
   },
   {
     "difficulty": "easy",
-    "question": "How many letters are in the modern official Hawaiian alphabet as of 2026?",
-    "options": [
-      "13",
-      "21",
-      "26",
-      "35"
-    ],
-    "answer": "13",
-    "id": "world-cultures-341",
-    "category": "world-cultures"
-  },
-  {
-    "difficulty": "easy",
     "question": "As of 2026, which country is considered the most linguistically diverse, with about 840 living languages?",
     "options": [
       "Papua New Guinea",
@@ -6098,32 +6046,6 @@
   },
   {
     "difficulty": "medium",
-    "question": "At Harbin's Ice and Snow World, from which river do workers harvest the ice blocks?",
-    "options": [
-      "Songhua River",
-      "Yangtze River",
-      "Pearl River",
-      "Liao River"
-    ],
-    "answer": "Songhua River",
-    "id": "world-cultures-349",
-    "category": "world-cultures"
-  },
-  {
-    "difficulty": "medium",
-    "question": "During Venice Carnevale, what is the long-beaked white mask inspired by plague doctors called?",
-    "options": [
-      "Medico della Peste",
-      "Moretta",
-      "Bauta",
-      "Colombina"
-    ],
-    "answer": "Medico della Peste",
-    "id": "world-cultures-350",
-    "category": "world-cultures"
-  },
-  {
-    "difficulty": "medium",
     "question": "In Spain, what are fallas, large satirical sculptures burned in March in Valencia?",
     "options": [
       "Ninots that are set ablaze on the final night",
@@ -6147,19 +6069,6 @@
       "Fuerteventura"
     ],
     "answer": "La Gomera"
-  },
-  {
-    "id": "world-cultures-353",
-    "difficulty": "medium",
-    "category": "world-cultures",
-    "question": "How many grammatical cases does the Finnish language have in its standard description?",
-    "options": [
-      "12",
-      "15",
-      "6",
-      "22"
-    ],
-    "answer": "15"
   },
   {
     "id": "world-cultures-354",
@@ -6734,19 +6643,6 @@
     "answer": "Irasshaimase"
   },
   {
-    "id": "world-cultures-398",
-    "difficulty": "medium",
-    "category": "world-cultures",
-    "question": "In Ethiopian food culture, what is gursha?",
-    "options": [
-      "Feeding another person by hand as a sign of friendship",
-      "A type of spicy sauce",
-      "A coffee bean roast level",
-      "A prayer before eating"
-    ],
-    "answer": "Feeding another person by hand as a sign of friendship"
-  },
-  {
     "id": "world-cultures-399",
     "difficulty": "medium",
     "category": "world-cultures",
@@ -6817,12 +6713,12 @@
     "category": "world-cultures",
     "question": "In Japan, what does omotenashi refer to?",
     "options": [
-      "Selfless hospitality anticipating guests' needs",
+      "Selfless hospitality",
       "A tea ceremony bowl",
       "A style of calligraphy",
       "A martial art"
     ],
-    "answer": "Selfless hospitality anticipating guests' needs"
+    "answer": "Selfless hospitality"
   },
   {
     "id": "world-cultures-405",
@@ -6953,19 +6849,6 @@
       "Flower branches"
     ],
     "answer": "Lucky money in red envelopes"
-  },
-  {
-    "id": "world-cultures-415",
-    "difficulty": "medium",
-    "category": "world-cultures",
-    "question": "In Tibet and Nepal, what white scarf is offered as a greeting and blessing?",
-    "options": [
-      "Khata",
-      "Keffiyeh",
-      "Obi",
-      "Sari"
-    ],
-    "answer": "Khata"
   },
   {
     "id": "world-cultures-416",
@@ -7111,19 +6994,6 @@
     "answer": "A period when youth experience outside world"
   },
   {
-    "id": "world-cultures-427",
-    "difficulty": "medium",
-    "category": "world-cultures",
-    "question": "In Germany, what does a first-grader receive on their first day of school?",
-    "options": [
-      "A Schultüte cone filled with sweets and supplies",
-      "A wooden sword",
-      "A pair of skis",
-      "A live rabbit"
-    ],
-    "answer": "A Schultüte cone filled with sweets and supplies"
-  },
-  {
     "id": "world-cultures-428",
     "difficulty": "easy",
     "category": "world-cultures",
@@ -7161,19 +7031,6 @@
       "Plastic flowers"
     ],
     "answer": "Wildflowers and birch leaves"
-  },
-  {
-    "id": "world-cultures-431",
-    "difficulty": "hard",
-    "category": "world-cultures",
-    "question": "In the haka, which modern occasions besides sports is it performed at in Māori culture? Pick the culturally accurate grouping.",
-    "options": [
-      "Welcoming guests, weddings, and funerals",
-      "Only at Halloween",
-      "Only for tourists in hotels",
-      "Only at political elections"
-    ],
-    "answer": "Welcoming guests, weddings, and funerals"
   },
   {
     "id": "world-cultures-432",
@@ -7291,19 +7148,6 @@
       "Earth shake"
     ],
     "answer": "Harbor wave"
-  },
-  {
-    "id": "world-cultures-441",
-    "difficulty": "medium",
-    "category": "world-cultures",
-    "question": "In Mongolia, what snack is traditionally offered with snuff bottle greeting?",
-    "options": [
-      "Dried curd or sweets to share",
-      "Raw fish",
-      "Spicy kimchi",
-      "Chocolate coins"
-    ],
-    "answer": "Dried curd or sweets to share"
   },
   {
     "id": "world-cultures-442",
@@ -7454,12 +7298,12 @@
     "category": "world-cultures",
     "question": "What does the Spanish word duende in flamenco culture refer to?",
     "options": [
-      "A heightened state of emotion and authenticity",
+      "A heightened emotional state",
       "A type of guitar",
       "A dance shoe",
       "A hat"
     ],
-    "answer": "A heightened state of emotion and authenticity"
+    "answer": "A heightened emotional state"
   },
   {
     "id": "world-cultures-454",
@@ -7631,19 +7475,6 @@
     "answer": "Charye"
   },
   {
-    "id": "world-cultures-468",
-    "difficulty": "medium",
-    "category": "world-cultures",
-    "question": "In many East Asian cultures, what number is avoided in gifts and building floors because it sounds like death?",
-    "options": [
-      "4",
-      "13",
-      "7",
-      "9"
-    ],
-    "answer": "4"
-  },
-  {
     "id": "world-cultures-469",
     "difficulty": "easy",
     "category": "world-cultures",
@@ -7662,12 +7493,12 @@
     "category": "world-cultures",
     "question": "In Japan, what is nemawashi in business and social contexts?",
     "options": [
-      "Informal consensus-building before a formal decision",
+      "Informal consensus-building",
       "Loud arguing",
       "Immediate voting",
       "Silent resignation"
     ],
-    "answer": "Informal consensus-building before a formal decision"
+    "answer": "Informal consensus-building"
   },
   {
     "id": "world-cultures-471",
@@ -7707,19 +7538,6 @@
       "Swahili"
     ],
     "answer": "Javanese"
-  },
-  {
-    "id": "world-cultures-474",
-    "difficulty": "medium",
-    "category": "world-cultures",
-    "question": "In India, what is the term for the traditional system of touching elders' feet for blessing?",
-    "options": [
-      "Pranam or charan sparsh",
-      "Mano",
-      "Wai",
-      "Kunik"
-    ],
-    "answer": "Pranam or charan sparsh"
   },
   {
     "id": "world-cultures-475",
@@ -8247,12 +8065,12 @@
     "category": "world-cultures",
     "question": "What does the Welsh word hiraeth refer to?",
     "options": [
-      "A deep homesickness and longing for a home that may not exist",
+      "A deep homesickness and longing",
       "A type of harp",
       "A mountain",
       "A stew"
     ],
-    "answer": "A deep homesickness and longing for a home that may not exist"
+    "answer": "A deep homesickness and longing"
   },
   {
     "id": "world-cultures-516",
@@ -8684,19 +8502,6 @@
     "id": "world-cultures-550"
   },
   {
-    "difficulty": "medium",
-    "category": "world-cultures",
-    "question": "What does the Japanese art of kintsugi repair?",
-    "options": [
-      "Broken pottery with lacquer mixed with gold",
-      "Torn kimono with silk patches",
-      "Cracked wood with resin",
-      "Paper screens with rice paste"
-    ],
-    "answer": "Broken pottery with lacquer mixed with gold",
-    "id": "world-cultures-551"
-  },
-  {
     "difficulty": "easy",
     "category": "world-cultures",
     "question": "Which direction does the door of a traditional Mongolian ger traditionally face?",
@@ -8723,32 +8528,6 @@
     "id": "world-cultures-553"
   },
   {
-    "difficulty": "medium",
-    "category": "world-cultures",
-    "question": "The Hawaiian alphabet today has how many letters including the ʻokina?",
-    "options": [
-      "13 letters",
-      "21 letters",
-      "26 letters",
-      "18 letters"
-    ],
-    "answer": "13 letters",
-    "id": "world-cultures-554"
-  },
-  {
-    "difficulty": "medium",
-    "category": "world-cultures",
-    "question": "Which language, spoken in Botswana and Namibia, is famous for having over 100 phonemes including dozens of clicks?",
-    "options": [
-      "Taa, also called !Xóõ",
-      "Zulu",
-      "Swahili",
-      "Lingala"
-    ],
-    "answer": "Taa, also called !Xóõ",
-    "id": "world-cultures-555"
-  },
-  {
     "difficulty": "easy",
     "category": "world-cultures",
     "question": "Icelandic retains which two letters for th sounds that English lost?",
@@ -8760,19 +8539,6 @@
     ],
     "answer": "Þ thorn and Ð eth",
     "id": "world-cultures-556"
-  },
-  {
-    "difficulty": "medium",
-    "category": "world-cultures",
-    "question": "How many speech levels does traditional Korean grammar distinguish?",
-    "options": [
-      "Seven levels",
-      "Three levels",
-      "Two levels",
-      "Twelve levels"
-    ],
-    "answer": "Seven levels",
-    "id": "world-cultures-557"
   },
   {
     "difficulty": "easy",
@@ -9384,19 +9150,6 @@
     ],
     "answer": "Remove it in front of the giver",
     "id": "world-cultures-605"
-  },
-  {
-    "difficulty": "medium",
-    "category": "world-cultures",
-    "question": "In a Fijian yaqona kava ceremony, what is proper when receiving the bilo cup?",
-    "options": [
-      "Clap once with cupped hands, say bula, then drink",
-      "Pour a little on ground",
-      "Stir with finger",
-      "Drink with left hand only"
-    ],
-    "answer": "Clap once with cupped hands, say bula, then drink",
-    "id": "world-cultures-606"
   },
   {
     "difficulty": "medium",
@@ -10285,19 +10038,6 @@
   {
     "difficulty": "medium",
     "category": "world-cultures",
-    "question": "Which language uses clicks represented by letters with exclamation marks like !Xóõ?",
-    "options": [
-      "Taa",
-      "Finnish",
-      "Japanese",
-      "Quechua"
-    ],
-    "answer": "Taa",
-    "id": "world-cultures-675"
-  },
-  {
-    "difficulty": "medium",
-    "category": "world-cultures",
     "question": "In Ethiopia, what is the coffee ceremony incense often burned called?",
     "options": [
       "Itan or etan",
@@ -10307,19 +10047,6 @@
     ],
     "answer": "Itan or etan",
     "id": "world-cultures-676"
-  },
-  {
-    "difficulty": "easy",
-    "category": "world-cultures",
-    "question": "What is the Mongolian snuff bottle greeting during Tsagaan Sar called?",
-    "options": [
-      "Exchanging khuurug snuff bottles to sniff",
-      "Throwing rice",
-      "Sharing milk tea only",
-      "Lighting butter lamps"
-    ],
-    "answer": "Exchanging khuurug snuff bottles to sniff",
-    "id": "world-cultures-677"
   },
   {
     "difficulty": "medium",
@@ -14222,19 +13949,6 @@
     "answer": "West Africa"
   },
   {
-    "id": "world-cultures-987",
-    "category": "world-cultures",
-    "difficulty": "medium",
-    "question": "The !Xóõ (Taa) language of southern Africa holds the record for the largest inventory of what specific type of sound?",
-    "options": [
-      "Click consonants",
-      "Tonal pitches",
-      "Vowel lengths",
-      "Fricatives"
-    ],
-    "answer": "Click consonants"
-  },
-  {
     "id": "world-cultures-989",
     "category": "world-cultures",
     "difficulty": "hard",
@@ -14493,19 +14207,6 @@
       "Jazz musicians"
     ],
     "answer": "African American / Black Power movement"
-  },
-  {
-    "id": "world-cultures-1009",
-    "category": "world-cultures",
-    "difficulty": "medium",
-    "question": "In India, the gesture of touching an elder's feet to seek blessings is known as what?",
-    "options": [
-      "Charan Sparsh",
-      "Pranam",
-      "Aarti",
-      "Puja"
-    ],
-    "answer": "Charan Sparsh"
   },
   {
     "id": "world-cultures-1010",
@@ -16642,19 +16343,6 @@
   {
     "difficulty": "easy",
     "category": "world-cultures",
-    "question": "The modern official Hawaiian alphabet, ka pīʻāpā, consists of how many letters including the ʻokina?",
-    "options": [
-      "13",
-      "20",
-      "12",
-      "26"
-    ],
-    "answer": "13",
-    "id": "world-cultures-1176"
-  },
-  {
-    "difficulty": "easy",
-    "category": "world-cultures",
     "question": "Which two Old English letters does Icelandic uniquely retain in its modern alphabet?",
     "options": [
       "Å and Ä",
@@ -16807,19 +16495,6 @@
     ],
     "answer": "Bound printed matter such as books, magazines and notebooks",
     "id": "world-cultures-1188"
-  },
-  {
-    "difficulty": "medium",
-    "category": "world-cultures",
-    "question": "How many traditional speech levels (based on formality) does Korean have, named after forms of the verb hada (to do)?",
-    "options": [
-      "10 levels",
-      "7 levels",
-      "5 levels",
-      "3 levels"
-    ],
-    "answer": "7 levels",
-    "id": "world-cultures-1189"
   },
   {
     "difficulty": "easy",
@@ -17966,19 +17641,6 @@
     "id": "world-cultures-1277"
   },
   {
-    "difficulty": "easy",
-    "category": "world-cultures",
-    "question": "In Germany, what is a Schultüte given to children on their first day of school?",
-    "options": [
-      "Large decorated cone filled with sweets and supplies",
-      "Wooden sword",
-      "Bunch of wildflowers",
-      "Pair of lederhosen"
-    ],
-    "answer": "Large decorated cone filled with sweets and supplies",
-    "id": "world-cultures-1278"
-  },
-  {
     "difficulty": "medium",
     "category": "world-cultures",
     "question": "In Greece on New Year's Day, what fruit do some households smash at the doorway for luck?",
@@ -18447,19 +18109,6 @@
     "id": "world-cultures-1314"
   },
   {
-    "difficulty": "easy",
-    "category": "world-cultures",
-    "question": "What is the proper protocol when receiving a bilo of yaqona during a traditional Fijian kava ceremony?",
-    "options": [
-      "Bow twice and sip slowly",
-      "Touch forehead and say Vinaka",
-      "Clap once and say Bula",
-      "Clap three times silently"
-    ],
-    "answer": "Clap once and say Bula",
-    "id": "world-cultures-1315"
-  },
-  {
     "difficulty": "medium",
     "category": "world-cultures",
     "question": "In Maori carving, what does the koru spiral shape represent?",
@@ -18549,19 +18198,6 @@
     ],
     "answer": "Hello / cheers",
     "id": "world-cultures-1322"
-  },
-  {
-    "difficulty": "medium",
-    "category": "world-cultures",
-    "question": "What is 'gursha' in Ethiopian food hospitality?",
-    "options": [
-      "Plate washing",
-      "Spicy sauce",
-      "Left-handed eating",
-      "Mouthful fed by hand to someone else"
-    ],
-    "answer": "Mouthful fed by hand to someone else",
-    "id": "world-cultures-1323"
   },
   {
     "difficulty": "medium",
@@ -18822,19 +18458,6 @@
     ],
     "answer": "Name day",
     "id": "world-cultures-1343"
-  },
-  {
-    "difficulty": "easy",
-    "category": "world-cultures",
-    "question": "What large decorated paper cone of candy and school supplies do German first-graders receive on their first day?",
-    "options": [
-      "Lebkuchenherz",
-      "Weihnachtskranz",
-      "Schultüte",
-      "Osternest"
-    ],
-    "answer": "Schultüte",
-    "id": "world-cultures-1344"
   },
   {
     "difficulty": "easy",
@@ -19112,19 +18735,6 @@
   {
     "difficulty": "medium",
     "category": "world-cultures",
-    "question": "What is a Kazakh eagle hunter on horseback called?",
-    "options": [
-      "Bataar",
-      "Manaschi",
-      "Berkutchi",
-      "Akyn"
-    ],
-    "answer": "Berkutchi",
-    "id": "world-cultures-1367"
-  },
-  {
-    "difficulty": "medium",
-    "category": "world-cultures",
     "question": "What do Kyrgyz call their portable felt dwelling meaning gray house?",
     "options": [
       "Ak uy",
@@ -19173,19 +18783,6 @@
     ],
     "answer": "Deel",
     "id": "world-cultures-1371"
-  },
-  {
-    "difficulty": "easy",
-    "category": "world-cultures",
-    "question": "What white offering scarf symbolizing purity is offered in Tibetan culture?",
-    "options": [
-      "Thangka",
-      "Mala",
-      "Khata",
-      "Kata"
-    ],
-    "answer": "Khata",
-    "id": "world-cultures-1372"
   },
   {
     "difficulty": "medium",
@@ -19290,19 +18887,6 @@
     ],
     "answer": "Supra",
     "id": "world-cultures-1381"
-  },
-  {
-    "difficulty": "medium",
-    "category": "world-cultures",
-    "question": "What Mongolian greeting involves exchanging a snuff bottle?",
-    "options": [
-      "Prayer bead exchange",
-      "Hat exchange",
-      "Snuff bottle exchange",
-      "Tea brick exchange"
-    ],
-    "answer": "Snuff bottle exchange",
-    "id": "world-cultures-1382"
   },
   {
     "difficulty": "hard",
@@ -19472,19 +19056,6 @@
     ],
     "answer": "Kanga",
     "id": "world-cultures-1395"
-  },
-  {
-    "difficulty": "medium",
-    "category": "world-cultures",
-    "question": "What Ethiopian gesture of feeding another by hand shows friendship?",
-    "options": [
-      "Shiro",
-      "Gomen",
-      "Gursha",
-      "Tibs"
-    ],
-    "answer": "Gursha",
-    "id": "world-cultures-1396"
   },
   {
     "difficulty": "medium",
@@ -20334,19 +19905,6 @@
   {
     "difficulty": "medium",
     "category": "world-cultures",
-    "question": "What is the Fijian kava clapping protocol for receiving bilo cup?",
-    "options": [
-      "Clap twice before and twice after",
-      "Clap continuously while drinking",
-      "Clap once before and three times after",
-      "Stomp foot then bow"
-    ],
-    "answer": "Clap once before and three times after",
-    "id": "world-cultures-1462"
-  },
-  {
-    "difficulty": "medium",
-    "category": "world-cultures",
     "question": "Who traditionally prepares Samoan ava as taupou?",
     "options": [
       "Village healer",
@@ -20527,19 +20085,6 @@
     "id": "world-cultures-1476"
   },
   {
-    "difficulty": "easy",
-    "category": "world-cultures",
-    "question": "What Fijian practice of saying Bula before drinking kava involves?",
-    "options": [
-      "Say Vinaka before",
-      "Say Bula before drinking",
-      "Say Moce after drinking",
-      "Say Noa after"
-    ],
-    "answer": "Say Bula before drinking",
-    "id": "world-cultures-1477"
-  },
-  {
     "difficulty": "medium",
     "category": "world-cultures",
     "question": "What Hawaiian feather cloak worn by chiefs made from thousands of bird feathers is called?",
@@ -20683,19 +20228,6 @@
     "id": "world-cultures-1488"
   },
   {
-    "difficulty": "hard",
-    "category": "world-cultures",
-    "question": "Taa language ǃXóõ is famous for having what?",
-    "options": [
-      "Only three vowels total",
-      "Largest consonant inventory with over 80 clicks",
-      "No consonants at all",
-      "Smallest alphabet 12 letters"
-    ],
-    "answer": "Largest consonant inventory with over 80 clicks",
-    "id": "world-cultures-1489"
-  },
-  {
     "difficulty": "medium",
     "category": "world-cultures",
     "question": "How many lexical tones does Northern Vietnamese use?",
@@ -20720,19 +20252,6 @@
     ],
     "answer": "Four plus neutral",
     "id": "world-cultures-1491"
-  },
-  {
-    "difficulty": "medium",
-    "category": "world-cultures",
-    "question": "What terms describe low informal vs high respectful speech levels in Javanese?",
-    "options": [
-      "Hormat and Kasar",
-      "Alus and Kasar",
-      "Baku and Pasar",
-      "Ngoko and Krama"
-    ],
-    "answer": "Ngoko and Krama",
-    "id": "world-cultures-1492"
   },
   {
     "difficulty": "easy",
