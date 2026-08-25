@@ -17058,11 +17058,11 @@
         "world-cultures-644",
         "world-cultures-646"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-25",
+      "completedAt": "2026-08-25",
+      "issuesFound": 8,
+      "notes": "Fixed 5 answer-leaks via option trimming (Fete des Lumieres, mate bombilla, PNG sing-sing, Bolivian Tinku, Potlatch), fixed 1 factual error (Venice bauta mask wrongly described as covering half the face, actually covers the whole face), cut 1 unverifiable/likely-fabricated claim (Iran henna-night 'laaleh' white hand patterns, not supported by research), logged 2 backlog notes for reversed-direction duplicates whose siblings are orphaned (message stick purpose/name, Tifinagh script/language)."
     },
     {
       "chunkId": "world-cultures-p1-012",
@@ -17119,11 +17119,11 @@
         "world-cultures-731",
         "world-cultures-732"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-25",
+      "completedAt": "2026-08-25",
+      "issuesFound": 24,
+      "notes": "Cut 5 duplicates whose already-reviewed sibling was found via corpus grep (bayanihan, itadakimasu, nemawashi, gho-and-kira) plus 1 unverifiable/leaked-reasoning fabricated claim (Morocco henna-design 'laaleh'-style name). Fixed 12 answer-leaks via option trimming (alebrijes, chunyun, irori, wharenui, aso ebi, kente cloth, riad, kreng jai, harana, Sami joik, ryokan, jjimjilbang). Logged 7 backlog notes for duplicate/near-duplicate pairs whose sibling is orphaned or in a not-yet-reached pending chunk (alebrijes, shinrin-yoku, wharenui, dundun, riad, komboloi, jjimjilbang) - this chunk's drafting batch heavily re-covered 'In [country], what is X (a foreign cultural term)?' angles already present elsewhere in the corpus, both same-direction reworded and reversed-direction."
     },
     {
       "chunkId": "world-cultures-p1-013",
@@ -17180,11 +17180,11 @@
         "world-cultures-837",
         "world-cultures-838"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-25",
+      "completedAt": "2026-08-25",
+      "issuesFound": 9,
+      "notes": "Cut 5 duplicates whose already-reviewed sibling was found via corpus grep, mostly reversed-direction/premise-reveal (Samoan pe'a-and-malu, keigo term revealed by an existing 'honorific conjugations like keigo' question stem, Tsukimi moon-viewing, Night of the Radishes Mexican state, baek-il milestone revealed by an existing 'the 100th day...is called baek-il' question stem). Fixed 3 answer-leaks via option trimming (Qoyllur Rit'i, Guarani jopara, shoji). Logged 1 backlog note for a reversed-direction Cooper's Hill cheese-rolling duplicate whose sibling is in a not-yet-reached pending chunk."
     },
     {
       "chunkId": "world-cultures-p1-014",

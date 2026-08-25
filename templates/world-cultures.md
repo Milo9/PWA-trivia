@@ -104,6 +104,18 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Himba women's "otjize" paste (butterfat and red ochre) in Namibia
 - Rice as the fermentation base of Japanese sake — already asked 3+ times, treat as fully exhausted
 - Spain as the origin of tapas
+- Australian Aboriginal message sticks (carved wooden objects used to carry messages/invitations between groups) — covered in both a "what were they used for" and a "what is this object called" framing
+- Tifinagh as the script used to write Berber/Amazigh languages — covered in both directions (name the script / name the language family)
+- Filipino bayanihan (communal cooperation, esp. neighbors helping move a house)
+- Japanese itadakimasu (gratitude expressed before eating)
+- Japanese nemawashi (informal groundwork/consensus-building before a meeting)
+- Bhutan's gho and kira as the national dress for men and women
+- Mexican alebrijes (brightly colored/painted fantastical creature sculptures)
+- The Māori wharenui (carved communal meeting house at the focal point of a marae) — covered in both directions (name it / name the culture it belongs to)
+- The Yoruba dùndún hourglass talking drum mimicking speech tones (Yoruba being a tonal language) — covered in both directions (name the drum / name what it can do)
+- The Moroccan riad (traditional house with an interior garden/courtyard) — covered in both directions (name it / name the country)
+- The Greek komboloi (a string of worry beads) — covered in both directions (name it / name what it's called)
+- The Korean jjimjilbang (a public bathhouse/sauna complex with hot rooms and sleeping areas)
 
 Use web search to verify every fact — do not rely on memory alone. Prefer authoritative sources (encyclopedic sources, cultural references) over guessing. For each question, actually find the fact via search rather than recalling it, especially for obscure details (lesser-known customs, specific terms).
 

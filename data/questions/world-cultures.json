@@ -8922,12 +8922,12 @@
     "category": "world-cultures",
     "question": "Fête des Lumières in Lyon celebrates what?",
     "options": [
-      "Lights installations honoring the Virgin Mary",
+      "The Virgin Mary",
       "The grape harvest",
       "The end of winter",
       "A medieval victory"
     ],
-    "answer": "Lights installations honoring the Virgin Mary",
+    "answer": "The Virgin Mary",
     "id": "world-cultures-588"
   },
   {
@@ -8948,12 +8948,12 @@
     "category": "world-cultures",
     "question": "In Venice Carnevale, what is a bauta?",
     "options": [
-      "A white mask with a square jaw covering half the face",
+      "A white mask with a square jaw covering the whole face",
       "A long-nosed plague doctor mask",
       "A feathered hat",
       "A black velvet cloak"
     ],
-    "answer": "A white mask with a square jaw covering half the face",
+    "answer": "A white mask with a square jaw covering the whole face",
     "id": "world-cultures-590"
   },
   {
@@ -9100,19 +9100,6 @@
     "id": "world-cultures-601"
   },
   {
-    "difficulty": "medium",
-    "category": "world-cultures",
-    "question": "Which country has a tradition of painting the bride's hands with white patterns called laaleh during Henna night?",
-    "options": [
-      "Iran",
-      "Sweden",
-      "Peru",
-      "Thailand"
-    ],
-    "answer": "Iran",
-    "id": "world-cultures-602"
-  },
-  {
     "difficulty": "easy",
     "category": "world-cultures",
     "question": "In Israel, what does the phrase tachles mean in everyday speech borrowed from Yiddish?",
@@ -9182,12 +9169,12 @@
     "category": "world-cultures",
     "question": "In Argentine mate circle, why should you not move the bombilla?",
     "options": [
-      "It suggests the cebador prepared it poorly and may clog it",
+      "It can clog the straw",
       "It brings bad luck",
       "It breaks the gourd",
       "It spills the mate"
     ],
-    "answer": "It suggests the cebador prepared it poorly and may clog it",
+    "answer": "It can clog the straw",
     "id": "world-cultures-609"
   },
   {
@@ -9221,12 +9208,12 @@
     "category": "world-cultures",
     "question": "In Papua New Guinea, what is a sing-sing?",
     "options": [
-      "A gathering of tribes with music, dance, and body paint",
+      "A tribal dance gathering",
       "A funeral lament",
       "A fishing competition",
       "A house-building bee"
     ],
-    "answer": "A gathering of tribes with music, dance, and body paint",
+    "answer": "A tribal dance gathering",
     "id": "world-cultures-612"
   },
   {
@@ -9299,12 +9286,12 @@
     "category": "world-cultures",
     "question": "In Bolivia, Tinku festival involves what ritual?",
     "options": [
-      "Ritual fighting and dancing to honor Pachamama",
+      "Ritual fist fighting",
       "Candlelit boat parade",
       "Kite flying",
       "Water balloon fight"
     ],
-    "answer": "Ritual fighting and dancing to honor Pachamama",
+    "answer": "Ritual fist fighting",
     "id": "world-cultures-618"
   },
   {
@@ -9364,12 +9351,12 @@
     "category": "world-cultures",
     "question": "Potlatch among Pacific Northwest Coast peoples is primarily what?",
     "options": [
-      "A gift-giving feast to redistribute wealth and status",
+      "A gift-giving feast",
       "A winter hunting taboo",
       "A canoe race",
       "A mask carving contest"
     ],
-    "answer": "A gift-giving feast to redistribute wealth and status",
+    "answer": "A gift-giving feast",
     "id": "world-cultures-623"
   },
   {
@@ -9711,19 +9698,6 @@
     "id": "world-cultures-649"
   },
   {
-    "difficulty": "medium",
-    "category": "world-cultures",
-    "question": "What does Filipino bayanihan mean?",
-    "options": [
-      "Communal cooperation to help a neighbor move house literally",
-      "Fishing with nets",
-      "Rice planting festival",
-      "Warrior dance"
-    ],
-    "answer": "Communal cooperation to help a neighbor move house literally",
-    "id": "world-cultures-650"
-  },
-  {
     "difficulty": "easy",
     "category": "world-cultures",
     "question": "In Indonesia, what is gotong royong?",
@@ -9845,12 +9819,12 @@
     "category": "world-cultures",
     "question": "In Mexico, what are alebrijes?",
     "options": [
-      "Brightly painted fantastical animal sculptures",
+      "Fantastical sculptures",
       "Spicy sauces",
       "Woven blankets",
       "Corn husk dolls"
     ],
-    "answer": "Brightly painted fantastical animal sculptures",
+    "answer": "Fantastical sculptures",
     "id": "world-cultures-660"
   },
   {
@@ -9910,12 +9884,12 @@
     "category": "world-cultures",
     "question": "In China, what is the Spring Festival travel rush called chunyun?",
     "options": [
-      "Largest annual human migration home for New Year",
+      "Mass New Year migration",
       "Lantern market",
       "Dragon boat transport",
       "Silk road caravan"
     ],
-    "answer": "Largest annual human migration home for New Year",
+    "answer": "Mass New Year migration",
     "id": "world-cultures-665"
   },
   {
@@ -10053,12 +10027,12 @@
     "category": "world-cultures",
     "question": "What is the Japanese irori?",
     "options": [
-      "A sunken hearth in floor for cooking and heating",
+      "A sunken floor hearth",
       "A garden lantern",
       "A paper umbrella",
       "A wooden sandal"
     ],
-    "answer": "A sunken hearth in floor for cooking and heating",
+    "answer": "A sunken floor hearth",
     "id": "world-cultures-678"
   },
   {
@@ -10090,19 +10064,6 @@
   {
     "difficulty": "medium",
     "category": "world-cultures",
-    "question": "In Morocco, what is a henna design called that covers hands for brides?",
-    "options": [
-      "Henni or mehndi-inspired but Berber style",
-      "Zellige",
-      "Tadelakt",
-      "Fez"
-    ],
-    "answer": "Henni or mehndi-inspired but Berber style",
-    "id": "world-cultures-681"
-  },
-  {
-    "difficulty": "medium",
-    "category": "world-cultures",
     "question": "Inuit parka's fur ruff around hood is traditionally made from what to prevent frost?",
     "options": [
       "Wolverine fur that resists frost buildup",
@@ -10118,12 +10079,12 @@
     "category": "world-cultures",
     "question": "What is the Māori wharenui?",
     "options": [
-      "A carved meeting house representing an ancestor",
+      "A carved meeting house",
       "A greenstone pendant",
       "A fishing net",
       "A haka chant"
     ],
-    "answer": "A carved meeting house representing an ancestor",
+    "answer": "A carved meeting house",
     "id": "world-cultures-683"
   },
   {
@@ -10203,19 +10164,6 @@
     ],
     "answer": "Turkish",
     "id": "world-cultures-689"
-  },
-  {
-    "difficulty": "medium",
-    "category": "world-cultures",
-    "question": "In Japan, what is the custom of itadakimasu said before eating?",
-    "options": [
-      "Gratitude for the meal and those who made it",
-      "Prayer to ancestors only",
-      "Request for more",
-      "Apology for eating"
-    ],
-    "answer": "Gratitude for the meal and those who made it",
-    "id": "world-cultures-690"
   },
   {
     "difficulty": "easy",
@@ -10363,19 +10311,6 @@
   {
     "difficulty": "medium",
     "category": "world-cultures",
-    "question": "In Japan, what is the custom of nemawashi?",
-    "options": [
-      "Informal groundwork and consensus building before meeting",
-      "Pruning bonsai roots",
-      "Morning exercise",
-      "Bowing low"
-    ],
-    "answer": "Informal groundwork and consensus building before meeting",
-    "id": "world-cultures-702"
-  },
-  {
-    "difficulty": "medium",
-    "category": "world-cultures",
     "question": "What is the Chinese qipao or cheongsam?",
     "options": [
       "A fitted one-piece dress with high slit",
@@ -10400,19 +10335,6 @@
     "id": "world-cultures-704"
   },
   {
-    "difficulty": "medium",
-    "category": "world-cultures",
-    "question": "In Bhutan, what is gho and kira?",
-    "options": [
-      "National dress for men and women",
-      "Temple and monastery",
-      "Rice and chili dish",
-      "Drum and horn"
-    ],
-    "answer": "National dress for men and women",
-    "id": "world-cultures-705"
-  },
-  {
     "difficulty": "easy",
     "category": "world-cultures",
     "question": "What is the Indian sari typically made of and draped?",
@@ -10430,12 +10352,12 @@
     "category": "world-cultures",
     "question": "In Nigeria, what is aso ebi?",
     "options": [
-      "Matching outfits worn by family/friends at celebrations",
+      "Matching group outfits",
       "A funeral dirge",
       "A spicy stew",
       "A market tax"
     ],
-    "answer": "Matching outfits worn by family/friends at celebrations",
+    "answer": "Matching group outfits",
     "id": "world-cultures-707"
   },
   {
@@ -10443,12 +10365,12 @@
     "category": "world-cultures",
     "question": "What is the Ghanaian kente cloth's significance?",
     "options": [
-      "Woven patterns with proverbial meanings for royalty and celebrations",
+      "Symbolic woven patterns",
       "Everyday work clothes",
       "Burial shroud only",
       "Fishing net"
     ],
-    "answer": "Woven patterns with proverbial meanings for royalty and celebrations",
+    "answer": "Symbolic woven patterns",
     "id": "world-cultures-708"
   },
   {
@@ -10495,12 +10417,12 @@
     "category": "world-cultures",
     "question": "In Morocco, what is a riad?",
     "options": [
-      "Traditional house with interior garden courtyard",
+      "A courtyard house",
       "Desert tent",
       "Market stall",
       "Fortress"
     ],
-    "answer": "Traditional house with interior garden courtyard",
+    "answer": "A courtyard house",
     "id": "world-cultures-712"
   },
   {
@@ -10547,12 +10469,12 @@
     "category": "world-cultures",
     "question": "What is the Thai concept of kreng jai?",
     "options": [
-      "Reluctance to impose or cause discomfort to others",
+      "Not wanting to impose",
       "Love of spicy food",
       "Desire for revenge",
       "Fear of ghosts"
     ],
-    "answer": "Reluctance to impose or cause discomfort to others",
+    "answer": "Not wanting to impose",
     "id": "world-cultures-716"
   },
   {
@@ -10560,12 +10482,12 @@
     "category": "world-cultures",
     "question": "What is Filipino harana?",
     "options": [
-      "Traditional serenade courtship singing outside window",
+      "A courtship serenade",
       "A rice harvest dance",
       "A martial art",
       "A weaving pattern"
     ],
-    "answer": "Traditional serenade courtship singing outside window",
+    "answer": "A courtship serenade",
     "id": "world-cultures-717"
   },
   {
@@ -10664,12 +10586,12 @@
     "category": "world-cultures",
     "question": "What is the Sámi joik similar to in function?",
     "options": [
-      "Evoking a person, animal, or place spiritually",
+      "Evoking a person or place",
       "Counting reindeer",
       "Telling jokes",
       "Announcing war"
     ],
-    "answer": "Evoking a person, animal, or place spiritually",
+    "answer": "Evoking a person or place",
     "id": "world-cultures-725"
   },
   {
@@ -10690,12 +10612,12 @@
     "category": "world-cultures",
     "question": "In Japan, what is a ryokan?",
     "options": [
-      "Traditional inn with tatami, futon, and kaiseki",
+      "A traditional inn",
       "Noodle shop",
       "Business hotel",
       "Capsule hotel"
     ],
-    "answer": "Traditional inn with tatami, futon, and kaiseki",
+    "answer": "A traditional inn",
     "id": "world-cultures-727"
   },
   {
@@ -10716,12 +10638,12 @@
     "category": "world-cultures",
     "question": "What is the Korean jjimjilbang?",
     "options": [
-      "A large public bathhouse with hot rooms and sleeping areas",
+      "A public bathhouse",
       "A karaoke bar",
       "A temple stay",
       "A ski resort"
     ],
-    "answer": "A large public bathhouse with hot rooms and sleeping areas",
+    "answer": "A public bathhouse",
     "id": "world-cultures-729"
   },
   {
@@ -10846,12 +10768,12 @@
     "category": "world-cultures",
     "question": "In Peru, what is the Qoyllur Rit'i pilgrimage where dancers carry ice from a glacier?",
     "options": [
-      "Festival of the Snow Star near Ausangate mountain",
+      "Festival of the Snow Star",
       "Inti Raymi variant",
       "Virgin of Candelaria",
       "Carnival"
     ],
-    "answer": "Festival of the Snow Star near Ausangate mountain",
+    "answer": "Festival of the Snow Star",
     "id": "world-cultures-739"
   },
   {
@@ -10872,12 +10794,12 @@
     "category": "world-cultures",
     "question": "What is Guarani jopara?",
     "options": [
-      "Mix of Guarani and Spanish spoken in Paraguay",
+      "Guarani-Spanish mix",
       "A corn drink",
       "A dance",
       "A basket"
     ],
-    "answer": "Mix of Guarani and Spanish spoken in Paraguay",
+    "answer": "Guarani-Spanish mix",
     "id": "world-cultures-741"
   },
   {
@@ -10892,19 +10814,6 @@
     ],
     "answer": "Extended family",
     "id": "world-cultures-742"
-  },
-  {
-    "difficulty": "medium",
-    "category": "world-cultures",
-    "question": "What is the Samoan pe'a and malu?",
-    "options": [
-      "Traditional male and female tattoos",
-      "Dances",
-      "Mats",
-      "Canoes"
-    ],
-    "answer": "Traditional male and female tattoos",
-    "id": "world-cultures-743"
   },
   {
     "difficulty": "easy",
@@ -11100,19 +11009,6 @@
       "Ireland"
     ],
     "answer": "England"
-  },
-  {
-    "id": "world-cultures-762",
-    "category": "world-cultures",
-    "difficulty": "medium",
-    "question": "The Night of the Radishes, a festival featuring elaborate sculptures carved from giant radishes, is held in which Mexican state?",
-    "options": [
-      "Oaxaca",
-      "Jalisco",
-      "Chiapas",
-      "Yucatán"
-    ],
-    "answer": "Oaxaca"
   },
   {
     "id": "world-cultures-763",
@@ -11557,19 +11453,6 @@
     "answer": "Satirical political caricatures"
   },
   {
-    "id": "world-cultures-800",
-    "category": "world-cultures",
-    "difficulty": "medium",
-    "question": "What is the Japanese term for the complex system of honorific speech used to show respect and social hierarchy?",
-    "options": [
-      "Keigo",
-      "Kana",
-      "Romaji",
-      "Kanji"
-    ],
-    "answer": "Keigo"
-  },
-  {
     "id": "world-cultures-801",
     "category": "world-cultures",
     "difficulty": "hard",
@@ -11739,19 +11622,6 @@
     "answer": "Chile and Argentina"
   },
   {
-    "id": "world-cultures-815",
-    "category": "world-cultures",
-    "difficulty": "medium",
-    "question": "In South Korea, 'Baek-il' is a traditional celebration marking what milestone in a baby's life?",
-    "options": [
-      "The 100th day after birth",
-      "The first tooth",
-      "The first steps",
-      "The first haircut"
-    ],
-    "answer": "The 100th day after birth"
-  },
-  {
     "id": "world-cultures-816",
     "category": "world-cultures",
     "difficulty": "medium",
@@ -11817,19 +11687,6 @@
     "answer": "A language isolate"
   },
   {
-    "id": "world-cultures-821",
-    "category": "world-cultures",
-    "difficulty": "medium",
-    "question": "What is 'Tsukimi', the traditional Japanese autumn festival dedicated to?",
-    "options": [
-      "Viewing the harvest moon",
-      "Viewing cherry blossoms",
-      "Viewing autumn leaves",
-      "Viewing fireflies"
-    ],
-    "answer": "Viewing the harvest moon"
-  },
-  {
     "id": "world-cultures-822",
     "category": "world-cultures",
     "difficulty": "hard",
@@ -11861,12 +11718,12 @@
     "difficulty": "medium",
     "question": "In traditional Japanese architecture, what are 'shoji'?",
     "options": [
-      "Sliding screens made of paper over a wooden frame",
+      "Sliding paper screens",
       "Straw floor mats",
       "Roof tiles",
       "Wooden verandas"
     ],
-    "answer": "Sliding screens made of paper over a wooden frame"
+    "answer": "Sliding paper screens"
   },
   {
     "id": "world-cultures-825",
