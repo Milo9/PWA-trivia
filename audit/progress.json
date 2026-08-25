@@ -16692,11 +16692,11 @@
         "world-cultures-061",
         "world-cultures-062"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-25",
+      "completedAt": "2026-08-25",
+      "issuesFound": 4,
+      "notes": "Cut general-2405 (Brazil language dup of already-done general-012), general-2526 (rupee ambiguity: Sri Lanka/Nepal also use rupee, not just Pakistan), general-2700 (quarantine-40-days dup of general-2754, premise-reveals-answer pattern). Logged backlog note: world-cultures-004/975 Khmer alphabet dup, 975 is an orphan."
     },
     {
       "chunkId": "world-cultures-p1-006",
@@ -16753,11 +16753,11 @@
         "world-cultures-175",
         "world-cultures-178"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-25",
+      "completedAt": "2026-08-25",
+      "issuesFound": 7,
+      "notes": "Cut world-cultures-075 (omiyage dup of 120, reversed-direction), world-cultures-106 (Xhosa click-consonant dup of already-done 006, reversed-direction), world-cultures-170 (La Bise name dup, premise revealed by 074). Fixed world-cultures-155 mislabeled 'East Asian' -> South Asian/Middle Eastern/African for right-hand eating custom (sibling entries 188/1246 confirm Ethiopia/Arab context, not East Asia). Logged 3 backlog notes for orphaned duplicates: 124/1396 (gursha), 127/995 (Tibetan tongue greeting), 110/1344 (Schultute)."
     },
     {
       "chunkId": "world-cultures-p1-007",
@@ -16814,11 +16814,11 @@
         "world-cultures-259",
         "world-cultures-261"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-25",
+      "completedAt": "2026-08-25",
+      "issuesFound": 8,
+      "notes": "Cut 5 duplicates of already-done siblings (reversed-direction/near-identical): world-cultures-180+233 (Maori haka weddings/funerals dup of done 042; 180 also self-answering/tautological), world-cultures-189 (Setsubun mamemaki dup of done 148), world-cultures-195 (Xhosa clicks dup of done 006), world-cultures-187 (Inuit katajjaq dup of done 039), world-cultures-200 (omiyage dup of done 120). Fixed answer-leak in world-cultures-248 (furoshiki answer was 51 chars vs 22-char distractors; trimmed to 'A square wrapping cloth'). Logged 2 backlog notes for orphaned duplicates: 211/1456 (canang sari), 213/1372 (khata scarf)."
     },
     {
       "chunkId": "world-cultures-p1-008",

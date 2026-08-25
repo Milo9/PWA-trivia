@@ -1248,32 +1248,6 @@
     "answer": "Brazil"
   },
   {
-    "id": "general-2405",
-    "category": "world-cultures",
-    "difficulty": "medium",
-    "question": "Which of these is the primary language spoken in Brazil?",
-    "options": [
-      "Portuguese",
-      "Spanish",
-      "French",
-      "Italian"
-    ],
-    "answer": "Portuguese"
-  },
-  {
-    "id": "general-2526",
-    "category": "world-cultures",
-    "difficulty": "medium",
-    "question": "Which country uses the rupee as its currency, alongside India?",
-    "options": [
-      "Pakistan",
-      "Bangladesh",
-      "Sri Lanka",
-      "Nepal"
-    ],
-    "answer": "Pakistan"
-  },
-  {
     "id": "general-2527",
     "category": "world-cultures",
     "difficulty": "hard",
@@ -1363,19 +1337,6 @@
       "Spain"
     ],
     "answer": "United Kingdom"
-  },
-  {
-    "id": "general-2700",
-    "category": "world-cultures",
-    "difficulty": "medium",
-    "question": "The word \"quarantine\" comes from the Italian phrase for how many days ships were isolated during plague outbreaks?",
-    "options": [
-      "Forty",
-      "Thirty",
-      "Fifty",
-      "Sixty"
-    ],
-    "answer": "Forty"
   },
   {
     "id": "general-2701",
@@ -2717,19 +2678,6 @@
     "answer": "The number of cheek kisses varies by region"
   },
   {
-    "id": "world-cultures-075",
-    "difficulty": "medium",
-    "category": "world-cultures",
-    "question": "What does the Japanese tradition of omiyage involve?",
-    "options": [
-      "Expensive jewelry given to family",
-      "Regional specialty souvenirs brought back for others",
-      "Religious offerings at shrines",
-      "Formal business contracts"
-    ],
-    "answer": "Regional specialty souvenirs brought back for others"
-  },
-  {
     "id": "world-cultures-076",
     "difficulty": "medium",
     "category": "world-cultures",
@@ -3105,19 +3053,6 @@
       "Breton"
     ],
     "answer": "Basque"
-  },
-  {
-    "id": "world-cultures-106",
-    "category": "world-cultures",
-    "difficulty": "medium",
-    "question": "Which South African language is known for using click consonants represented by c, q, and x?",
-    "options": [
-      "Zulu",
-      "Xhosa",
-      "Swahili",
-      "Afrikaans"
-    ],
-    "answer": "Xhosa"
   },
   {
     "id": "world-cultures-107",
@@ -3734,7 +3669,7 @@
     "id": "world-cultures-155",
     "category": "world-cultures",
     "difficulty": "medium",
-    "question": "In many East Asian cultures, which hand is traditionally used for eating and giving?",
+    "question": "In many South Asian, Middle Eastern, and African cultures, which hand is traditionally used for eating and giving?",
     "options": [
       "Right hand",
       "Left hand",
@@ -3926,19 +3861,6 @@
     "answer": "Itadakimasu"
   },
   {
-    "id": "world-cultures-170",
-    "category": "world-cultures",
-    "difficulty": "medium",
-    "question": "In France, what is the cheek-kissing greeting called?",
-    "options": [
-      "La bise",
-      "La mano",
-      "Le wai",
-      "Le hongi"
-    ],
-    "answer": "La bise"
-  },
-  {
     "id": "world-cultures-171",
     "category": "world-cultures",
     "difficulty": "easy",
@@ -4056,19 +3978,6 @@
     "answer": "Eisteddfod"
   },
   {
-    "id": "world-cultures-180",
-    "category": "world-cultures",
-    "difficulty": "medium",
-    "question": "What is the Māori haka also used for today besides rugby, specifically at weddings, funerals, and to welcome guests?",
-    "options": [
-      "Ceremonial welcome and celebration",
-      "Weather prediction",
-      "Harvest blessing only",
-      "Child naming only"
-    ],
-    "answer": "Ceremonial welcome and celebration"
-  },
-  {
     "id": "world-cultures-181",
     "category": "world-cultures",
     "difficulty": "easy",
@@ -4147,19 +4056,6 @@
     "answer": "Uralic"
   },
   {
-    "id": "world-cultures-187",
-    "category": "world-cultures",
-    "difficulty": "medium",
-    "question": "What is the Inuit vocal game where two people face each other and create rhythmic throat sounds called?",
-    "options": [
-      "Katajjaq throat singing",
-      "Yoik",
-      "Jodel",
-      "Khoomei"
-    ],
-    "answer": "Katajjaq throat singing"
-  },
-  {
     "id": "world-cultures-188",
     "category": "world-cultures",
     "difficulty": "medium",
@@ -4171,19 +4067,6 @@
       "With chopsticks"
     ],
     "answer": "Right hand"
-  },
-  {
-    "id": "world-cultures-189",
-    "category": "world-cultures",
-    "difficulty": "medium",
-    "question": "What is the Japanese ritual of bean-throwing on February 3rd to drive out demons called?",
-    "options": [
-      "Mamemaki at Setsubun",
-      "Mochitsuki",
-      "Hanami",
-      "Tanabata"
-    ],
-    "answer": "Mamemaki at Setsubun"
   },
   {
     "id": "world-cultures-190",
@@ -4251,19 +4134,6 @@
     "answer": "Finnish"
   },
   {
-    "id": "world-cultures-195",
-    "category": "world-cultures",
-    "difficulty": "medium",
-    "question": "In the South African language Xhosa, what do the letters c, q, and x represent in writing?",
-    "options": [
-      "Nasal vowels",
-      "Click consonants",
-      "Glottal stops",
-      "Tone marks"
-    ],
-    "answer": "Click consonants"
-  },
-  {
     "id": "world-cultures-196",
     "category": "world-cultures",
     "difficulty": "medium",
@@ -4314,19 +4184,6 @@
       "Baby splashes ink on paper"
     ],
     "answer": "Baby picks an object predicting future career"
-  },
-  {
-    "id": "world-cultures-200",
-    "category": "world-cultures",
-    "difficulty": "medium",
-    "question": "What is the social expectation behind Japanese omiyage when returning from a trip?",
-    "options": [
-      "Bringing edible souvenirs for coworkers and family",
-      "Hosting an expensive banquet",
-      "Giving cash to neighbors",
-      "Bringing only one gift for the boss"
-    ],
-    "answer": "Bringing edible souvenirs for coworkers and family"
   },
   {
     "id": "world-cultures-201",
@@ -4745,19 +4602,6 @@
     "answer": "Cleansing people and places of bad spirits and welcoming guests"
   },
   {
-    "id": "world-cultures-233",
-    "category": "world-cultures",
-    "difficulty": "medium",
-    "question": "Beyond rugby matches, in Māori culture the haka is also traditionally performed on what occasions?",
-    "options": [
-      "Weddings, funerals, and welcoming distinguished guests",
-      "Only during wartime reenactments",
-      "Only for tourists at airports",
-      "Only at children's birthdays"
-    ],
-    "answer": "Weddings, funerals, and welcoming distinguished guests"
-  },
-  {
     "id": "world-cultures-234",
     "category": "world-cultures",
     "difficulty": "easy",
@@ -4945,12 +4789,12 @@
     "difficulty": "medium",
     "question": "In Japan, what is furoshiki?",
     "options": [
-      "A square cloth used for wrapping and carrying items",
+      "A square wrapping cloth",
       "A type of pickled plum",
       "A low wooden stool",
       "A paper lantern"
     ],
-    "answer": "A square cloth used for wrapping and carrying items"
+    "answer": "A square wrapping cloth"
   },
   {
     "id": "world-cultures-249",
