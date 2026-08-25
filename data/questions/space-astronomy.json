@@ -91,19 +91,6 @@
     "answer": "Nuclear fusion"
   },
   {
-    "id": "general-128",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "What natural satellite orbits the Earth?",
-    "options": [
-      "Mars",
-      "Sun",
-      "Titan",
-      "The Moon"
-    ],
-    "answer": "The Moon"
-  },
-  {
     "id": "general-133",
     "category": "space-astronomy",
     "difficulty": "hard",
@@ -115,19 +102,6 @@
       "Luna 1"
     ],
     "answer": "Sputnik 1"
-  },
-  {
-    "id": "general-136",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "Which planet is known for its prominent, easily visible ring system?",
-    "options": [
-      "Mars",
-      "Neptune",
-      "Uranus",
-      "Saturn"
-    ],
-    "answer": "Saturn"
   },
   {
     "id": "general-139",
@@ -351,19 +325,6 @@
     "answer": "Perigee"
   },
   {
-    "id": "general-413",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "Which NASA telescope, launched in 2021, is designed as the scientific successor to the Hubble Space Telescope?",
-    "options": [
-      "James Webb Space Telescope",
-      "Kepler Space Telescope",
-      "Spitzer Space Telescope",
-      "Chandra X-ray Observatory"
-    ],
-    "answer": "James Webb Space Telescope"
-  },
-  {
     "id": "general-414",
     "category": "space-astronomy",
     "difficulty": "medium",
@@ -375,19 +336,6 @@
       "1 minute"
     ],
     "answer": "About 8 minutes"
-  },
-  {
-    "id": "general-415",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "Which spacecraft carried the first humans to walk on the Moon in 1969?",
-    "options": [
-      "Gemini 8",
-      "Mercury-Atlas 6",
-      "Apollo 11",
-      "Apollo 13"
-    ],
-    "answer": "Apollo 11"
   },
   {
     "id": "general-416",
@@ -520,19 +468,6 @@
     "answer": "Singularity"
   },
   {
-    "id": "general-656",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "How many planets are in our solar system?",
-    "options": [
-      "7",
-      "9",
-      "10",
-      "8"
-    ],
-    "answer": "8"
-  },
-  {
     "id": "general-657",
     "category": "space-astronomy",
     "difficulty": "medium",
@@ -663,32 +598,6 @@
     "answer": "Dark energy"
   },
   {
-    "id": "general-697",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "Who was the first person to walk on the Moon?",
-    "options": [
-      "Neil Armstrong",
-      "Buzz Aldrin",
-      "Yuri Gagarin",
-      "John Glenn"
-    ],
-    "answer": "Neil Armstrong"
-  },
-  {
-    "id": "general-922",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "What is the term for a large, powerful explosion marking the death of a massive star?",
-    "options": [
-      "Nova",
-      "Nebula",
-      "Quasar",
-      "Supernova"
-    ],
-    "answer": "Supernova"
-  },
-  {
     "id": "general-924",
     "category": "space-astronomy",
     "difficulty": "easy",
@@ -765,19 +674,6 @@
       "Gravity"
     ],
     "answer": "Gravity"
-  },
-  {
-    "id": "general-931",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "Which dwarf planet, located in the Kuiper Belt, was reclassified from full planet status in 2006?",
-    "options": [
-      "Pluto",
-      "Eris",
-      "Ceres",
-      "Haumea"
-    ],
-    "answer": "Pluto"
   },
   {
     "id": "general-932",
@@ -884,19 +780,6 @@
     "answer": "Halley's Comet"
   },
   {
-    "id": "general-1062",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "The Apollo 11 mission achieved what historic first in 1969?",
-    "options": [
-      "First crewed Moon landing",
-      "First orbit of the Moon",
-      "First spacewalk",
-      "First satellite launch"
-    ],
-    "answer": "First crewed Moon landing"
-  },
-  {
     "id": "general-1064",
     "category": "space-astronomy",
     "difficulty": "easy",
@@ -947,45 +830,6 @@
       "Mimas"
     ],
     "answer": "Titan"
-  },
-  {
-    "id": "general-1109",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "Who was the first human to walk on the Moon?",
-    "options": [
-      "Neil Armstrong",
-      "Buzz Aldrin",
-      "Yuri Gagarin",
-      "Michael Collins"
-    ],
-    "answer": "Neil Armstrong"
-  },
-  {
-    "id": "general-1110",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "What is the term for a star that suddenly increases greatly in brightness due to a catastrophic explosion?",
-    "options": [
-      "Supernova",
-      "Nova",
-      "Pulsar",
-      "Quasar"
-    ],
-    "answer": "Supernova"
-  },
-  {
-    "id": "general-1114",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "What do astronomers call a region of space where gravity is so strong that nothing can escape it, not even light?",
-    "options": [
-      "Black hole",
-      "Wormhole",
-      "Neutron star",
-      "Dark matter"
-    ],
-    "answer": "Black hole"
   },
   {
     "id": "general-1115",
@@ -1183,19 +1027,6 @@
     "answer": "2"
   },
   {
-    "id": "general-1530",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "Which planet is famous for having a massive storm called the Great Red Spot?",
-    "options": [
-      "Neptune",
-      "Jupiter",
-      "Saturn",
-      "Mars"
-    ],
-    "answer": "Jupiter"
-  },
-  {
     "id": "general-1535",
     "category": "space-astronomy",
     "difficulty": "medium",
@@ -1352,19 +1183,6 @@
     "answer": "Mercury"
   },
   {
-    "id": "general-2234",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "What galaxy is Earth located in?",
-    "options": [
-      "The Milky Way",
-      "Andromeda",
-      "The Triangulum Galaxy",
-      "The Whirlpool Galaxy"
-    ],
-    "answer": "The Milky Way"
-  },
-  {
     "id": "general-2239",
     "category": "space-astronomy",
     "difficulty": "hard",
@@ -1389,45 +1207,6 @@
       "Venus"
     ],
     "answer": "Pluto"
-  },
-  {
-    "id": "general-2307",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "The Apollo 11 mission landed on the Moon in which year?",
-    "options": [
-      "1969",
-      "1971",
-      "1965",
-      "1973"
-    ],
-    "answer": "1969"
-  },
-  {
-    "id": "general-2333",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "Which natural satellite is the only one Earth has?",
-    "options": [
-      "The Moon",
-      "Phobos",
-      "Titan",
-      "Europa"
-    ],
-    "answer": "The Moon"
-  },
-  {
-    "id": "general-2344",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "Which planet is known for its prominent ring system visible from Earth with a telescope?",
-    "options": [
-      "Saturn",
-      "Jupiter",
-      "Uranus",
-      "Neptune"
-    ],
-    "answer": "Saturn"
   },
   {
     "id": "general-2353",
@@ -1586,19 +1365,6 @@
     "answer": "Luna 9"
   },
   {
-    "id": "general-2716",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "Which space telescope, launched in 2021, is designed to observe the universe primarily in infrared?",
-    "options": [
-      "The James Webb Space Telescope",
-      "The Hubble Space Telescope",
-      "The Spitzer Space Telescope",
-      "The Kepler Space Telescope"
-    ],
-    "answer": "The James Webb Space Telescope"
-  },
-  {
     "id": "general-2717",
     "category": "space-astronomy",
     "difficulty": "easy",
@@ -1610,19 +1376,6 @@
       "A stellar pair cluster"
     ],
     "answer": "A binary star system"
-  },
-  {
-    "id": "general-2719",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "Which NASA mission first landed humans on the Moon, in 1969?",
-    "options": [
-      "Apollo 11",
-      "Apollo 13",
-      "Apollo 8",
-      "Apollo 17"
-    ],
-    "answer": "Apollo 11"
   },
   {
     "id": "general-2816",
@@ -1714,32 +1467,6 @@
       "1980"
     ],
     "answer": "1977"
-  },
-  {
-    "id": "general-2924",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "What was the name of the first artificial Earth satellite?",
-    "options": [
-      "Explorer 1",
-      "Sputnik 1",
-      "Vanguard 1",
-      "Ariel 1"
-    ],
-    "answer": "Sputnik 1"
-  },
-  {
-    "id": "general-2925",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "On which planet is the Great Red Spot located?",
-    "options": [
-      "Mars",
-      "Saturn",
-      "Jupiter",
-      "Neptune"
-    ],
-    "answer": "Jupiter"
   },
   {
     "id": "general-2929",
@@ -1911,19 +1638,6 @@
     "answer": "Buzz Aldrin"
   },
   {
-    "id": "space-astronomy-014",
-    "category": "space-astronomy",
-    "difficulty": "hard",
-    "question": "Which gas makes up the majority of the Sun's elemental composition?",
-    "options": [
-      "Helium",
-      "Hydrogen",
-      "Oxygen",
-      "Carbon"
-    ],
-    "answer": "Hydrogen"
-  },
-  {
     "id": "space-astronomy-015",
     "category": "space-astronomy",
     "difficulty": "hard",
@@ -2015,19 +1729,6 @@
     "answer": "HD 189733b"
   },
   {
-    "id": "space-astronomy-023",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "What is the name of the star at the center of our solar system?",
-    "options": [
-      "Sirius",
-      "Proxima Centauri",
-      "The Sun",
-      "Polaris"
-    ],
-    "answer": "The Sun"
-  },
-  {
     "id": "space-astronomy-024",
     "category": "space-astronomy",
     "difficulty": "easy",
@@ -2039,45 +1740,6 @@
       "Saturn"
     ],
     "answer": "Venus"
-  },
-  {
-    "id": "space-astronomy-025",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "What is the name of the galaxy we live in?",
-    "options": [
-      "Andromeda",
-      "Milky Way",
-      "Sombrero",
-      "Triangulum"
-    ],
-    "answer": "Milky Way"
-  },
-  {
-    "id": "space-astronomy-026",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "Which planet is known for its rings?",
-    "options": [
-      "Jupiter",
-      "Saturn",
-      "Uranus",
-      "Neptune"
-    ],
-    "answer": "Saturn"
-  },
-  {
-    "id": "space-astronomy-027",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "In what year did humans first walk on the Moon?",
-    "options": [
-      "1965",
-      "1967",
-      "1969",
-      "1971"
-    ],
-    "answer": "1969"
   },
   {
     "id": "space-astronomy-028",
@@ -2431,19 +2093,6 @@
     "answer": "Schwarzschild radius"
   },
   {
-    "id": "space-astronomy-057",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "Which celestial body is the center of our solar system?",
-    "options": [
-      "The Moon",
-      "The Sun",
-      "Jupiter",
-      "Earth"
-    ],
-    "answer": "The Sun"
-  },
-  {
     "id": "space-astronomy-058",
     "category": "space-astronomy",
     "difficulty": "medium",
@@ -2481,19 +2130,6 @@
       "Syzygy"
     ],
     "answer": "Occultation"
-  },
-  {
-    "id": "space-astronomy-061",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "What is the most common element in the universe?",
-    "options": [
-      "Helium",
-      "Oxygen",
-      "Carbon",
-      "Hydrogen"
-    ],
-    "answer": "Hydrogen"
   },
   {
     "id": "space-astronomy-062",
@@ -2559,19 +2195,6 @@
       "Opposition"
     ],
     "answer": "Syzygy"
-  },
-  {
-    "id": "space-astronomy-067",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "Which planet is famous for its prominent and beautiful ring system?",
-    "options": [
-      "Jupiter",
-      "Uranus",
-      "Saturn",
-      "Neptune"
-    ],
-    "answer": "Saturn"
   },
   {
     "id": "space-astronomy-068",
@@ -2962,19 +2585,6 @@
     ],
     "answer": "Jupiter",
     "id": "space-astronomy-099"
-  },
-  {
-    "difficulty": "easy",
-    "category": "space-astronomy",
-    "question": "Which planet is the densest in the solar system?",
-    "options": [
-      "Mercury",
-      "Venus",
-      "Earth",
-      "Mars"
-    ],
-    "answer": "Earth",
-    "id": "space-astronomy-100"
   },
   {
     "difficulty": "medium",
@@ -10270,19 +9880,6 @@
     "answer": "Methane and ethane"
   },
   {
-    "id": "space-astronomy-690",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "Which Saturn moon has a giant crater named Herschel that makes it resemble the Death Star?",
-    "options": [
-      "Mimas",
-      "Rhea",
-      "Dione",
-      "Tethys"
-    ],
-    "answer": "Mimas"
-  },
-  {
     "id": "space-astronomy-691",
     "category": "space-astronomy",
     "difficulty": "easy",
@@ -10307,32 +9904,6 @@
       "Ryugu"
     ],
     "answer": "Eros"
-  },
-  {
-    "id": "space-astronomy-693",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "Which asteroid was sampled by Japan's Hayabusa2 mission in 2019?",
-    "options": [
-      "Eros",
-      "Itokawa",
-      "Bennu",
-      "Ryugu"
-    ],
-    "answer": "Ryugu"
-  },
-  {
-    "id": "space-astronomy-694",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "Which NASA spacecraft was the first to orbit two different extraterrestrial bodies?",
-    "options": [
-      "Dawn",
-      "Galileo",
-      "Cassini",
-      "Voyager 2"
-    ],
-    "answer": "Dawn"
   },
   {
     "id": "space-astronomy-695",
@@ -10460,9 +10031,9 @@
       "5",
       "14",
       "82",
-      "27-28"
+      "29"
     ],
-    "answer": "27-28"
+    "answer": "29"
   },
   {
     "id": "space-astronomy-705",
@@ -11063,19 +10634,6 @@
     "answer": "55P/Tempel-Tuttle"
   },
   {
-    "id": "space-astronomy-751",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "What is the name of the bright star that marks the left foot of Orion, not to be flipped with Saiph?",
-    "options": [
-      "Betelgeuse",
-      "Rigel",
-      "Bellatrix",
-      "Saiph"
-    ],
-    "answer": "Rigel"
-  },
-  {
     "id": "space-astronomy-752",
     "category": "space-astronomy",
     "difficulty": "easy",
@@ -11453,19 +11011,6 @@
     "answer": "Ranger"
   },
   {
-    "id": "space-astronomy-781",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "What was the first spacecraft to enter a polar orbit around Jupiter in 2016?",
-    "options": [
-      "Pioneer 11",
-      "Galileo",
-      "Juno",
-      "Cassini"
-    ],
-    "answer": "Juno"
-  },
-  {
     "id": "space-astronomy-782",
     "category": "space-astronomy",
     "difficulty": "medium",
@@ -11521,14 +11066,14 @@
     "id": "space-astronomy-786",
     "category": "space-astronomy",
     "difficulty": "medium",
-    "question": "What is the faint glow from sunlight scattered by interplanetary dust opposite the Sun called Gegenschein part of?",
+    "question": "Gegenschein, the faint brightening directly opposite the Sun caused by sunlight scattering off interplanetary dust, is considered part of which broader phenomenon?",
     "options": [
       "Aurora",
       "Light pollution",
       "Airglow",
-      "Zodiacal light complex"
+      "Zodiacal light"
     ],
-    "answer": "Zodiacal light complex"
+    "answer": "Zodiacal light"
   },
   {
     "id": "space-astronomy-787",
@@ -11555,19 +11100,6 @@
       "Radiant"
     ],
     "answer": "Radiant"
-  },
-  {
-    "id": "space-astronomy-789",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "Which element is produced by fusion in massive stars and makes up Earth's core?",
-    "options": [
-      "Iron",
-      "Gold",
-      "Uranium",
-      "Lithium"
-    ],
-    "answer": "Iron"
   },
   {
     "id": "space-astronomy-790",
@@ -11633,19 +11165,6 @@
       "Tropopause"
     ],
     "answer": "Magnetopause"
-  },
-  {
-    "id": "space-astronomy-795",
-    "category": "space-astronomy",
-    "difficulty": "medium",
-    "question": "Which mission studied Jupiter's polar magnetosphere and interior since 2016?",
-    "options": [
-      "Voyager 1",
-      "Juno",
-      "Galileo",
-      "Cassini"
-    ],
-    "answer": "Juno"
   },
   {
     "id": "space-astronomy-796",

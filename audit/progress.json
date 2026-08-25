@@ -15470,11 +15470,11 @@
         "space-astronomy-779",
         "space-astronomy-780"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-24",
+      "completedAt": "2026-08-24",
+      "issuesFound": 5,
+      "notes": "Cut 4 duplicates of already-reviewed questions (Mimas/Herschel crater, Ryugu/Hayabusa2, Dawn/two-body orbit, Rigel/Orion foot). Fixed stale Uranus moon count (27-28 -> 29, per Feb 2025 JWST discovery of S/2025 U1). Logged 5 backlog notes for duplicates whose sibling is an unreviewed orphan (722/816, 735/855, 736/811, 773/829, 774/830)."
     },
     {
       "chunkId": "space-astronomy-p1-014",
@@ -15531,11 +15531,11 @@
         "general-1505",
         "general-1530"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-24",
+      "completedAt": "2026-08-24",
+      "issuesFound": 16,
+      "notes": "Cut 15 duplicates: Jupiter-polar-orbit-2016/Juno (781,795 vs done-185), Iron-from-massive-star-fusion (789 vs done-343), Earth's-moon-name (128 vs kept-161), Saturn-rings (136 vs done-660), planet-count-8 (656 vs kept-143), Apollo-11-first-landing (415 vs done-657; 1062 reversed-direction dup of same fact), black-hole-definition (1114 vs kept-418), Armstrong-first-walk (697,1109 vs done-033), supernova-definition (922, and 1110 vs kept-165 -- 1110 was an incidental dup found between two already-done questions), Great-Red-Spot (1530 vs kept-927), Pluto-reclassified-2006 (931 vs done-1107). Reworded garbled/malformed space-astronomy-786 (Gegenschein question). Logged 1 backlog note (785/orphan-831)."
     },
     {
       "chunkId": "space-astronomy-p1-015",
@@ -15592,11 +15592,11 @@
         "space-astronomy-214",
         "space-astronomy-220"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-24",
+      "completedAt": "2026-08-24",
+      "issuesFound": 18,
+      "notes": "Chunk was heavily saturated with easy 101-level astronomy facts with many near-identical rewordings. Cut 18 duplicates: Apollo-11-landing-year-1969 (2307,027 vs kept-1897), Milky-Way-galaxy-ID (2234,025 vs done-153), Earth's-only-moon (2333 vs done-161), Saturn-rings (2344,026,067 vs done-660), Apollo-11-mission-name (2719 vs done-657), Great-Red-Spot/Jupiter (2925 vs done-927), JWST-launched-2021 (413,2716 vs kept-666 -- 413 was an incidental dup found between two already-done questions), first-artificial-satellite/Sputnik (2924 vs done-133), most-abundant-element-hydrogen (061 vs done-2922), Sun's-elemental-composition (014 vs kept-1956 -- incidental dup between two already-done), Sun-identity/center (023,057 vs kept-092), densest-planet/Earth (100 vs done-366). Verified space-astronomy-201 (Sagittarius A* at Milky Way center) is correctly keyed despite confusing option formatting. Logged 2 backlog notes for dups whose sibling is an unreviewed orphan (211/999, 214/978)."
     },
     {
       "chunkId": "space-astronomy-p1-016",
