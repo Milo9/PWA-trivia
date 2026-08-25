@@ -15805,11 +15805,11 @@
         "space-astronomy-804",
         "space-astronomy-806"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-24",
+      "completedAt": "2026-08-24",
+      "issuesFound": 2,
+      "notes": "Cut space-astronomy-792 (dup of already-reviewed space-astronomy-585, same 'cool stars appear red' fact). Reworded space-astronomy-804 stem (asked for 'brightest point' but answer was Zenithal Hourly Rate, a rate not a point). Logged backlog note: 790 dupes orphan 827 (Ecliptic, two framings)."
     },
     {
       "chunkId": "sports-p1-000",
@@ -15866,11 +15866,11 @@
         "sports-025",
         "sports-034"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-24",
+      "completedAt": "2026-08-24",
+      "issuesFound": 8,
+      "notes": "Cut 6 duplicates: sports-339 (dup general-278, Phelps 8 golds), sports-378 (dup general-334, Bonds MLB HR record), sports-326 (dup sports-025, Charlotte Cooper first woman gold), general-757 (reversed-direction dup of general-353, Nadia's perfect 10), general-1294 + general-2575 (both dup general-1719, table tennis invented in England). Fixed sports-285 (asked for 3-under-par but marked Condor which is actually 4-under; corrected to Albatross + cleaner distractors). Reworded sports-011 (year 1986 is Wimbledon's switch to yellow balls specifically, not yellow balls' general introduction which was 1972; narrowed stem to Wimbledon)."
     },
     {
       "chunkId": "sports-p1-001",
@@ -15927,11 +15927,11 @@
         "general-534",
         "general-536"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-24",
+      "completedAt": "2026-08-24",
+      "issuesFound": 10,
+      "notes": "Cut 6 duplicates: sports-232 + sports-351 (both dup sports-060, Lakers 33-game streak), sports-306 (dup sports-098, VAR), sports-288 (dup sports-110, golf hole diameter), general-337 (dup already-done sports-007, bowling perfect score 300), general-534 (dup already-fixed general-1719, table tennis invented in England). Fixed 4 factual errors: sports-201 (ski jumping 'five criteria' didn't match its 3-item answer; reworded to 'three phases'), sports-153 (F1 min weight 798kg is only accurate for 2023-2024, not through 2026 - it changed to 800kg in 2025 and 768kg in 2026; narrowed year range), sports-183 (Cliff Thorburn's 1983 147 break was in the second round, not a Crucible final, and he wasn't the only player to ever score one there; reworded to 'first-ever... during the 1983 World Championship'), sports-080 (Frank Robinson was a right fielder, not a pitcher; fixed stem)."
     },
     {
       "chunkId": "sports-p1-002",

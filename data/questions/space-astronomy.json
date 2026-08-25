@@ -10790,19 +10790,6 @@
     "answer": "Reflector"
   },
   {
-    "id": "space-astronomy-792",
-    "category": "space-astronomy",
-    "difficulty": "easy",
-    "question": "What color does a star appear if it is relatively cool, around 3,000 K?",
-    "options": [
-      "Blue",
-      "Yellow",
-      "Red",
-      "White"
-    ],
-    "answer": "Red"
-  },
-  {
     "id": "space-astronomy-793",
     "category": "space-astronomy",
     "difficulty": "easy",
@@ -10936,7 +10923,7 @@
     "id": "space-astronomy-804",
     "category": "space-astronomy",
     "difficulty": "easy",
-    "question": "What is the term for the brightest point of a meteor shower?",
+    "question": "What is the term for the standardized hourly meteor count, assuming a dark sky and the radiant at the zenith?",
     "options": [
       "Radiant",
       "Zenithal Hourly Rate",

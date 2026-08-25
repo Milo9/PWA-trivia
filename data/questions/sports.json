@@ -299,19 +299,6 @@
     "answer": "Brazil"
   },
   {
-    "id": "general-337",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "What is a perfect score in a single game of ten-pin bowling?",
-    "options": [
-      "300",
-      "200",
-      "250",
-      "350"
-    ],
-    "answer": "300"
-  },
-  {
     "id": "general-338",
     "category": "sports",
     "difficulty": "easy",
@@ -715,19 +702,6 @@
     "answer": "3"
   },
   {
-    "id": "general-534",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "Which country is credited with inventing the sport of table tennis in the Victorian era?",
-    "options": [
-      "China",
-      "England",
-      "Japan",
-      "United States"
-    ],
-    "answer": "England"
-  },
-  {
     "id": "general-535",
     "category": "sports",
     "difficulty": "hard",
@@ -869,19 +843,6 @@
       "Breaststroke"
     ],
     "answer": "Freestyle"
-  },
-  {
-    "id": "general-757",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "What score did Nadia Comăneci famously achieve at the 1976 Olympics, the first perfect mark in gymnastics history?",
-    "options": [
-      "A 9.9",
-      "A perfect 100",
-      "A 10.0",
-      "A 9.5"
-    ],
-    "answer": "A 10.0"
   },
   {
     "id": "general-758",
@@ -1311,19 +1272,6 @@
       "Netherlands"
     ],
     "answer": "Scotland"
-  },
-  {
-    "id": "general-1294",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "Which country is credited with inventing the game of table tennis (ping pong)?",
-    "options": [
-      "England",
-      "China",
-      "Japan",
-      "United States"
-    ],
-    "answer": "England"
   },
   {
     "id": "general-1296",
@@ -2613,19 +2561,6 @@
     "answer": "Basketball"
   },
   {
-    "id": "general-2575",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "In which country did the sport of table tennis (ping pong) originate?",
-    "options": [
-      "England",
-      "China",
-      "Japan",
-      "United States"
-    ],
-    "answer": "England"
-  },
-  {
     "id": "general-2576",
     "category": "sports",
     "difficulty": "easy",
@@ -2915,7 +2850,7 @@
     "id": "sports-011",
     "category": "sports",
     "difficulty": "hard",
-    "question": "Tennis balls were not always yellow. In what year were yellow tennis balls introduced for better visibility?",
+    "question": "Tennis balls were not always yellow. In what year did Wimbledon switch from white to yellow balls?",
     "options": [
       "1986",
       "1976",
@@ -3811,7 +3746,7 @@
   {
     "difficulty": "hard",
     "category": "sports",
-    "question": "As of 2026, who is the only pitcher to win MVP in both leagues?",
+    "question": "As of 2026, who is the only player to win MVP in both the American League and National League?",
     "options": [
       "Roger Clemens",
       "Vida Blue",
@@ -4760,7 +4695,7 @@
   {
     "difficulty": "hard",
     "category": "sports",
-    "question": "What is the minimum weight of an F1 car without fuel in 2024-2026 regulations?",
+    "question": "What was the minimum weight of an F1 car without fuel under the 2023-2024 regulations?",
     "options": [
       "798 kg",
       "750 kg",
@@ -5150,7 +5085,7 @@
   {
     "difficulty": "hard",
     "category": "sports",
-    "question": "As of 2026, who is the only snooker player to complete 147 maximum break at Crucible final?",
+    "question": "Which snooker player made the first-ever 147 maximum break at the Crucible, during the 1983 World Championship?",
     "options": [
       "Ronnie O'Sullivan",
       "Cliff Thorburn",
@@ -5384,14 +5319,14 @@
   {
     "difficulty": "hard",
     "category": "sports",
-    "question": "In ski jumping, what are the five criteria for style points?",
+    "question": "In ski jumping, which three phases of a jump do judges evaluate to award style points?",
     "options": [
       "Distance only",
-      "Flight, landing, outrun scored by judges",
+      "Flight, landing, and outrun",
       "Speed and weight",
       "Height and wind"
     ],
-    "answer": "Flight, landing, outrun scored by judges",
+    "answer": "Flight, landing, and outrun",
     "id": "sports-201"
   },
   {
@@ -5783,19 +5718,6 @@
       "Nate Robinson"
     ],
     "answer": "Muggsy Bogues"
-  },
-  {
-    "id": "sports-232",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "As of 2024, which NBA team holds the record for the longest single-season winning streak with 33 games?",
-    "options": [
-      "Golden State Warriors",
-      "Miami Heat",
-      "Los Angeles Lakers",
-      "Chicago Bulls"
-    ],
-    "answer": "Los Angeles Lakers"
   },
   {
     "id": "sports-233",
@@ -6479,12 +6401,12 @@
     "difficulty": "hard",
     "question": "In golf, what is the extremely rare term for scoring three strokes under par on a single hole?",
     "options": [
-      "Condor",
       "Albatross",
-      "Double Eagle",
-      "Phoenix"
+      "Condor",
+      "Eagle",
+      "Birdie"
     ],
-    "answer": "Condor"
+    "answer": "Albatross"
   },
   {
     "id": "sports-286",
@@ -6511,19 +6433,6 @@
       "Jose Maria Olazabal"
     ],
     "answer": "Seve Ballesteros"
-  },
-  {
-    "id": "sports-288",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "What is the standard diameter of a golf hole on a putting green?",
-    "options": [
-      "3.5 inches",
-      "4.25 inches",
-      "4.5 inches",
-      "5 inches"
-    ],
-    "answer": "4.25 inches"
   },
   {
     "id": "sports-289",
@@ -6745,19 +6654,6 @@
       "Stamford Bridge"
     ],
     "answer": "Old Trafford"
-  },
-  {
-    "id": "sports-306",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "What does the acronym VAR stand for in professional soccer?",
-    "options": [
-      "Video Assessment Rule",
-      "Virtual Assistant Referee",
-      "Video Assistant Referee",
-      "Visual Audio Replay"
-    ],
-    "answer": "Video Assistant Referee"
   },
   {
     "id": "sports-307",
@@ -7007,19 +6903,6 @@
     "answer": "42 inches"
   },
   {
-    "id": "sports-326",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "Who was the first woman to ever win an Olympic gold medal, winning tennis in 1900?",
-    "options": [
-      "Margaret Abbott",
-      "Charlotte Cooper",
-      "Fanny Blankers-Koen",
-      "Babe Didrikson Zaharias"
-    ],
-    "answer": "Charlotte Cooper"
-  },
-  {
     "id": "sports-327",
     "category": "sports",
     "difficulty": "medium",
@@ -7176,19 +7059,6 @@
     "id": "sports-338"
   },
   {
-    "difficulty": "easy",
-    "category": "sports",
-    "question": "Which athlete won 8 gold medals at a single Olympic Games?",
-    "options": [
-      "Usain Bolt",
-      "Carl Lewis",
-      "Michael Phelps",
-      "Mark Spitz"
-    ],
-    "answer": "Michael Phelps",
-    "id": "sports-339"
-  },
-  {
     "difficulty": "medium",
     "category": "sports",
     "question": "At which Olympic Games did Michael Phelps win 8 gold medals?",
@@ -7330,19 +7200,6 @@
     ],
     "answer": "Serena and Venus Williams",
     "id": "sports-350"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
-    "question": "Which NBA team holds the record for the longest winning streak in regular-season history?",
-    "options": [
-      "Boston Celtics",
-      "Golden State Warriors",
-      "Los Angeles Lakers",
-      "Chicago Bulls"
-    ],
-    "answer": "Los Angeles Lakers",
-    "id": "sports-351"
   },
   {
     "difficulty": "medium",
@@ -7681,19 +7538,6 @@
     ],
     "answer": "Boca Juniors with 6, Peñarol with 5",
     "id": "sports-377"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
-    "question": "Who holds the MLB career home runs record?",
-    "options": [
-      "Hank Aaron",
-      "Babe Ruth",
-      "Barry Bonds",
-      "Alex Rodriguez"
-    ],
-    "answer": "Barry Bonds",
-    "id": "sports-378"
   },
   {
     "difficulty": "medium",
