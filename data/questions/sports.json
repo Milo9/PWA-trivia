@@ -13,19 +13,6 @@
     "answer": "Basketball"
   },
   {
-    "id": "general-262",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "How many players from each team are on the field in a standard soccer (association football) match?",
-    "options": [
-      "10",
-      "11",
-      "12",
-      "9"
-    ],
-    "answer": "11"
-  },
-  {
     "id": "general-263",
     "category": "sports",
     "difficulty": "easy",
@@ -76,19 +63,6 @@
       "New York Knicks"
     ],
     "answer": "Chicago Bulls"
-  },
-  {
-    "id": "general-267",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "A professional boxing championship match traditionally consists of how many rounds?",
-    "options": [
-      "10",
-      "15",
-      "12",
-      "8"
-    ],
-    "answer": "12"
   },
   {
     "id": "general-268",
@@ -390,19 +364,6 @@
     "answer": "Albatross"
   },
   {
-    "id": "general-345",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "Which sport is known as 'the beautiful game'?",
-    "options": [
-      "Soccer (association football)",
-      "Basketball",
-      "Rugby",
-      "Cricket"
-    ],
-    "answer": "Soccer (association football)"
-  },
-  {
     "id": "general-346",
     "category": "sports",
     "difficulty": "medium",
@@ -531,19 +492,6 @@
       "Mike Tyson"
     ],
     "answer": "Muhammad Ali"
-  },
-  {
-    "id": "general-521",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "How many players are on a standard soccer (association football) team on the field at one time?",
-    "options": [
-      "11",
-      "9",
-      "10",
-      "12"
-    ],
-    "answer": "11"
   },
   {
     "id": "general-522",
@@ -819,32 +767,6 @@
     "answer": "12"
   },
   {
-    "id": "general-756",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "Which swimming stroke is typically the fastest of the four competitive strokes?",
-    "options": [
-      "Butterfly",
-      "Freestyle",
-      "Backstroke",
-      "Breaststroke"
-    ],
-    "answer": "Freestyle"
-  },
-  {
-    "id": "general-758",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "Which country is credited with inventing the modern game of golf in the 15th century?",
-    "options": [
-      "England",
-      "Ireland",
-      "Netherlands",
-      "Scotland"
-    ],
-    "answer": "Scotland"
-  },
-  {
     "id": "general-759",
     "category": "sports",
     "difficulty": "easy",
@@ -884,19 +806,6 @@
     "answer": "Grand slam"
   },
   {
-    "id": "general-762",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "Which martial art, originating in Brazil, focuses on ground fighting and submission holds?",
-    "options": [
-      "Capoeira",
-      "Muay Thai",
-      "Krav Maga",
-      "Brazilian Jiu-Jitsu"
-    ],
-    "answer": "Brazilian Jiu-Jitsu"
-  },
-  {
     "id": "general-764",
     "category": "sports",
     "difficulty": "medium",
@@ -921,19 +830,6 @@
       "Norway"
     ],
     "answer": "France"
-  },
-  {
-    "id": "general-766",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "What is the name of the trophy awarded to the winner of the NHL's Stanley Cup playoffs?",
-    "options": [
-      "The Vince Lombardi Trophy",
-      "The Commissioner's Trophy",
-      "The Larry O'Brien Trophy",
-      "The Stanley Cup"
-    ],
-    "answer": "The Stanley Cup"
   },
   {
     "id": "general-767",
@@ -973,19 +869,6 @@
       "33"
     ],
     "answer": "50"
-  },
-  {
-    "id": "general-770",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "Which sport is played at the Ryder Cup, a biennial competition between teams from Europe and the United States?",
-    "options": [
-      "Tennis",
-      "Cricket",
-      "Sailing",
-      "Golf"
-    ],
-    "answer": "Golf"
   },
   {
     "id": "general-771",
@@ -1040,19 +923,6 @@
     "answer": "Sent off"
   },
   {
-    "id": "general-1181",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "How many players from each team are on the court in a standard basketball game?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "4"
-    ],
-    "answer": "5"
-  },
-  {
     "id": "general-1182",
     "category": "sports",
     "difficulty": "easy",
@@ -1064,19 +934,6 @@
       "Tennis"
     ],
     "answer": "Soccer"
-  },
-  {
-    "id": "general-1183",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "How often are the Summer Olympic Games held?",
-    "options": [
-      "Every 4 years",
-      "Every 2 years",
-      "Every 3 years",
-      "Every 5 years"
-    ],
-    "answer": "Every 4 years"
   },
   {
     "id": "general-1184",
@@ -1157,19 +1014,6 @@
     "answer": "Bogey"
   },
   {
-    "id": "general-1190",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "Which country hosted the 2020 Summer Olympics, actually held in 2021?",
-    "options": [
-      "Japan",
-      "Brazil",
-      "United Kingdom",
-      "France"
-    ],
-    "answer": "Japan"
-  },
-  {
     "id": "general-1192",
     "category": "sports",
     "difficulty": "medium",
@@ -1181,19 +1025,6 @@
       "Kung Fu"
     ],
     "answer": "Judo"
-  },
-  {
-    "id": "general-1193",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "In American football, how many points is a touchdown worth?",
-    "options": [
-      "6",
-      "7",
-      "3",
-      "2"
-    ],
-    "answer": "6"
   },
   {
     "id": "general-1195",
@@ -1209,19 +1040,6 @@
     "answer": "Sumo wrestling"
   },
   {
-    "id": "general-1196",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "In which sport do competitors use a shuttlecock?",
-    "options": [
-      "Badminton",
-      "Tennis",
-      "Squash",
-      "Table tennis"
-    ],
-    "answer": "Badminton"
-  },
-  {
     "id": "general-1286",
     "category": "sports",
     "difficulty": "medium",
@@ -1233,19 +1051,6 @@
       "Netherlands"
     ],
     "answer": "Scotland"
-  },
-  {
-    "id": "general-1296",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "Which sport uses terms such as 'love', 'deuce', and 'ace'?",
-    "options": [
-      "Tennis",
-      "Badminton",
-      "Squash",
-      "Table tennis"
-    ],
-    "answer": "Tennis"
   },
   {
     "id": "general-1366",
@@ -1495,19 +1300,6 @@
     "answer": "An ace"
   },
   {
-    "id": "general-1712",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "Which of the four Grand Slam tennis tournaments is held in New York each late summer?",
-    "options": [
-      "The US Open",
-      "Wimbledon",
-      "The Australian Open",
-      "The French Open"
-    ],
-    "answer": "The US Open"
-  },
-  {
     "id": "general-1713",
     "category": "sports",
     "difficulty": "hard",
@@ -1558,32 +1350,6 @@
       "Germany"
     ],
     "answer": "England"
-  },
-  {
-    "id": "general-1720",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "In baseball, how many players from each team are on the field defensively?",
-    "options": [
-      "9",
-      "11",
-      "8",
-      "10"
-    ],
-    "answer": "9"
-  },
-  {
-    "id": "general-1721",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "In baseball, how many strikes result in a batter being called out?",
-    "options": [
-      "1",
-      "2",
-      "4",
-      "3"
-    ],
-    "answer": "3"
   },
   {
     "id": "general-1722",
@@ -1651,19 +1417,6 @@
     "answer": "Gymnastics"
   },
   {
-    "id": "general-1727",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "Which prestigious cycling race is held annually across France each summer?",
-    "options": [
-      "The Tour de France",
-      "The Vuelta a Espana",
-      "Paris-Roubaix",
-      "The Giro d'Italia"
-    ],
-    "answer": "The Tour de France"
-  },
-  {
     "id": "general-1728",
     "category": "sports",
     "difficulty": "medium",
@@ -1703,19 +1456,6 @@
     "answer": "13"
   },
   {
-    "id": "general-1731",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "Which country is credited with inventing the game of golf?",
-    "options": [
-      "England",
-      "Netherlands",
-      "Ireland",
-      "Scotland"
-    ],
-    "answer": "Scotland"
-  },
-  {
     "id": "general-1732",
     "category": "sports",
     "difficulty": "easy",
@@ -1753,19 +1493,6 @@
       "Croatia"
     ],
     "answer": "Argentina"
-  },
-  {
-    "id": "general-1738",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "In sports such as soccer and ice hockey, what term describes a player scoring three goals in a single game?",
-    "options": [
-      "A treble",
-      "A brace",
-      "A hat-trick",
-      "A triple"
-    ],
-    "answer": "A hat-trick"
   },
   {
     "id": "general-1739",
@@ -1924,19 +1651,6 @@
     "answer": "Snowboarding"
   },
   {
-    "id": "general-2023",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "In tennis, what is a score of zero called?",
-    "options": [
-      "Love",
-      "Nil",
-      "Zero",
-      "Deuce"
-    ],
-    "answer": "Love"
-  },
-  {
     "id": "general-2027",
     "category": "sports",
     "difficulty": "easy",
@@ -1976,19 +1690,6 @@
     "answer": "Muhammad Ali"
   },
   {
-    "id": "general-2032",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "In which sport do players use a shuttlecock?",
-    "options": [
-      "Badminton",
-      "Tennis",
-      "Squash",
-      "Table Tennis"
-    ],
-    "answer": "Badminton"
-  },
-  {
     "id": "general-2033",
     "category": "sports",
     "difficulty": "easy",
@@ -2013,19 +1714,6 @@
       "White"
     ],
     "answer": "Yellow"
-  },
-  {
-    "id": "general-2036",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "Which sport features events such as the pommel horse and the rings?",
-    "options": [
-      "Gymnastics",
-      "Diving",
-      "Figure skating",
-      "Cheerleading"
-    ],
-    "answer": "Gymnastics"
   },
   {
     "id": "general-2037",
@@ -2054,19 +1742,6 @@
     "answer": "England"
   },
   {
-    "id": "general-2039",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "In ice hockey, how many players from each team, including the goalie, are on the ice at once?",
-    "options": [
-      "Six",
-      "Five",
-      "Seven",
-      "Four"
-    ],
-    "answer": "Six"
-  },
-  {
     "id": "general-2040",
     "category": "sports",
     "difficulty": "medium",
@@ -2091,19 +1766,6 @@
       "Italy"
     ],
     "answer": "Uruguay"
-  },
-  {
-    "id": "general-2043",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "In which sport is the score 'love-fifteen' used?",
-    "options": [
-      "Tennis",
-      "Squash",
-      "Badminton",
-      "Table Tennis"
-    ],
-    "answer": "Tennis"
   },
   {
     "id": "general-2045",
@@ -2249,19 +1911,6 @@
     "answer": "Three"
   },
   {
-    "id": "general-2317",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "Which sport is played at Wimbledon each year?",
-    "options": [
-      "Tennis",
-      "Cricket",
-      "Rugby",
-      "Golf"
-    ],
-    "answer": "Tennis"
-  },
-  {
     "id": "general-2384",
     "category": "sports",
     "difficulty": "medium",
@@ -2273,19 +1922,6 @@
       "Thailand"
     ],
     "answer": "Japan"
-  },
-  {
-    "id": "general-2497",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "Which athlete is known as the fastest man in history, holding the 100m world record?",
-    "options": [
-      "Usain Bolt",
-      "Carl Lewis",
-      "Tyson Gay",
-      "Justin Gatlin"
-    ],
-    "answer": "Usain Bolt"
   },
   {
     "id": "general-2498",
@@ -2312,19 +1948,6 @@
       "Cricket"
     ],
     "answer": "Golf"
-  },
-  {
-    "id": "general-2573",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "In which sport do athletes compete in events like the pommel horse and parallel bars?",
-    "options": [
-      "Gymnastics",
-      "Diving",
-      "Figure skating",
-      "Track and field"
-    ],
-    "answer": "Gymnastics"
   },
   {
     "id": "general-2574",
@@ -2377,19 +2000,6 @@
       "China"
     ],
     "answer": "United States"
-  },
-  {
-    "id": "general-2680",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "Which major golf championship is traditionally the first of the year's four majors, held each April at Augusta National?",
-    "options": [
-      "The Masters",
-      "The PGA Championship",
-      "The U.S. Open",
-      "The Open Championship"
-    ],
-    "answer": "The Masters"
   },
   {
     "id": "general-2681",
@@ -2678,32 +2288,6 @@
     "answer": "Pelé"
   },
   {
-    "id": "sports-015",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "How many players does each soccer team field during a standard match?",
-    "options": [
-      "9",
-      "10",
-      "11",
-      "12"
-    ],
-    "answer": "11"
-  },
-  {
-    "id": "sports-016",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "How many players per team are on the court in a basketball game?",
-    "options": [
-      "Four",
-      "Five",
-      "Six",
-      "Seven"
-    ],
-    "answer": "Five"
-  },
-  {
     "id": "sports-018",
     "category": "sports",
     "difficulty": "easy",
@@ -2936,19 +2520,6 @@
     ],
     "answer": "2 points",
     "id": "sports-035"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
-    "question": "How many players per team are on the field at the snap in an NFL game?",
-    "options": [
-      "10",
-      "12",
-      "11",
-      "9"
-    ],
-    "answer": "11",
-    "id": "sports-036"
   },
   {
     "difficulty": "easy",
@@ -3239,7 +2810,7 @@
   {
     "difficulty": "easy",
     "category": "sports",
-    "question": "What does the NBA acronym WNBA stand for women's league?",
+    "question": "What does the acronym WNBA stand for?",
     "options": [
       "Women's National Basketball Association",
       "World National Basketball Association",
@@ -3456,19 +3027,6 @@
     ],
     "answer": "Runs Batted In",
     "id": "sports-075"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
-    "question": "How many strikes make a strikeout?",
-    "options": [
-      "2",
-      "4",
-      "3",
-      "5"
-    ],
-    "answer": "3",
-    "id": "sports-076"
   },
   {
     "difficulty": "medium",
@@ -3716,19 +3274,6 @@
     ],
     "answer": "12 yards",
     "id": "sports-095"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
-    "question": "How many players per team are on the pitch during a soccer match including goalkeeper?",
-    "options": [
-      "10",
-      "11",
-      "9",
-      "12"
-    ],
-    "answer": "11",
-    "id": "sports-096"
   },
   {
     "difficulty": "medium",
@@ -4333,12 +3878,12 @@
     "category": "sports",
     "question": "In ice hockey, what is icing?",
     "options": [
-      "Shooting puck from behind center line across opponent goal line",
+      "Shooting puck the length of the ice",
       "High sticking",
       "Tripping opponent",
       "Offside pass"
     ],
-    "answer": "Shooting puck from behind center line across opponent goal line",
+    "answer": "Shooting puck the length of the ice",
     "id": "sports-143"
   },
   {
@@ -4383,7 +3928,7 @@
   {
     "difficulty": "easy",
     "category": "sports",
-    "question": "How many points does winner get under current F1 points system?",
+    "question": "As of 2026, how many points does the race winner get under F1's points system?",
     "options": [
       "20",
       "25",
@@ -5445,19 +4990,6 @@
       "21 feet 3 inches"
     ],
     "answer": "22 feet"
-  },
-  {
-    "id": "sports-231",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "Who is the shortest player in NBA history, standing at 5 feet 3 inches tall?",
-    "options": [
-      "Spud Webb",
-      "Muggsy Bogues",
-      "Earl Boykins",
-      "Nate Robinson"
-    ],
-    "answer": "Muggsy Bogues"
   },
   {
     "id": "sports-233",
@@ -7889,19 +7421,6 @@
       "12"
     ],
     "answer": "11"
-  },
-  {
-    "id": "sports-428",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "Which NHL team has won the most Stanley Cups?",
-    "options": [
-      "Toronto Maple Leafs",
-      "Detroit Red Wings",
-      "Boston Bruins",
-      "Montreal Canadiens"
-    ],
-    "answer": "Montreal Canadiens"
   },
   {
     "id": "sports-429",

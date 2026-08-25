@@ -16171,11 +16171,11 @@
         "general-1182",
         "general-1183"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-24",
+      "completedAt": "2026-08-24",
+      "issuesFound": 14,
+      "notes": "Cut 14 duplicates: soccer-11-players cluster (general-262/521/1181/1720), golf-invented-Scotland cluster (general-758/1731), boxing-12-rounds, Stanley-Cup-name, BJJ-Brazil, freestyle-fastest-stroke, Ryder-Cup-golf, beautiful-game-soccer, Olympics-every-4-years, baseball-3-strikes (sports-076). All facts verified correct, no wrong-distractor or leak issues found."
     },
     {
       "chunkId": "sports-p1-006",
@@ -16232,11 +16232,11 @@
         "sports-015",
         "sports-016"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-24",
+      "completedAt": "2026-08-24",
+      "issuesFound": 20,
+      "notes": "Cut 20 duplicates: shuttlecock/badminton triplicate, love/deuce/Wimbledon tennis cluster, TD-worth-6, 2020-Tokyo-Olympics, US-Open-in-NYC, hat-trick, hockey-6-on-ice, gymnastics-pommel-horse triplicate, Bolt-fastest-man, Masters-at-Augusta, soccer-11-players (sports-015/096), basketball-5-on-court (sports-016), baseball-3-strikes. All facts verified correct, no wrong-distractor issues; sports-014 Pele/3-WC-titles claim re-verified against actual 2026 WC result (Spain won, Messi/Argentina runner-up) — still accurate."
     },
     {
       "chunkId": "sports-p1-007",
@@ -16293,11 +16293,11 @@
         "sports-143",
         "sports-147"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-24",
+      "completedAt": "2026-08-24",
+      "issuesFound": 6,
+      "notes": "Cut 3 duplicates (sports-231/Muggsy-Bogues dup of sports-051, sports-428/Canadiens dup of sports-136, sports-036/NFL-11-players dup of general-2684). Fixed answer-leak in sports-143 (icing option was a 63-char sentence vs ~17-char distractors, trimmed). Pinned 2 unpinned claims (sports-147 F1 points system, sports-059 reworded awkward WNBA-acronym phrasing). UCL-titles (Real Madrid 15) and Ballon d'Or (Messi 8) superlatives re-verified against 2025-26 season results (PSG won 25-26 UCL, Dembele won 2025 Ballon d'Or) — both facts still accurate."
     },
     {
       "chunkId": "sports-p1-008",
