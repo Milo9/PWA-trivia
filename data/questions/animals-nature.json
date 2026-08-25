@@ -10816,19 +10816,6 @@
     "id": "animals-nature-777"
   },
   {
-    "difficulty": "hard",
-    "category": "animals-nature",
-    "question": "The olm, a blind cave-dwelling salamander, can survive without food for up to how long?",
-    "options": [
-      "5 years",
-      "6 months",
-      "10 years",
-      "2 years"
-    ],
-    "answer": "10 years",
-    "id": "animals-nature-778"
-  },
-  {
     "difficulty": "medium",
     "category": "animals-nature",
     "question": "Male gharials possess a bulbous growth on the tip of their snout used to produce vocalizations. What is this structure called?",
@@ -11013,7 +11000,7 @@
   {
     "difficulty": "hard",
     "category": "animals-nature",
-    "question": "Which Madagascar mammal, related to golden moles and tenrecs, is the only known mammal to use echolocation apart from bats and whales?",
+    "question": "Which Madagascar mammal, related to golden moles and tenrecs, is one of only a few mammals outside bats and whales known to use echolocation?",
     "options": [
       "Aye-aye",
       "Brown-tailed mongoose",
@@ -11141,24 +11128,11 @@
     "id": "animals-nature-803"
   },
   {
-    "difficulty": "hard",
-    "category": "animals-nature",
-    "question": "The gundi is a small, guinea pig-like rodent from North Africa that serves as the primary natural reservoir host for which disease?",
-    "options": [
-      "Plague",
-      "Trypanosomiasis",
-      "Malaria",
-      "Leishmaniasis"
-    ],
-    "answer": "Leishmaniasis",
-    "id": "animals-nature-804"
-  },
-  {
     "difficulty": "medium",
     "category": "animals-nature",
     "question": "The dassie rat is a rock-dwelling rodent found in southwestern Africa. It is the only living member of its family and is named after its resemblance to what other animal?",
     "options": [
-      "Rock hyrax",
+      "Rabbit",
       "Hyrax (dassie)",
       "Marmot",
       "Pika"
@@ -11178,19 +11152,6 @@
     ],
     "answer": "West and Central Africa",
     "id": "animals-nature-806"
-  },
-  {
-    "difficulty": "hard",
-    "category": "animals-nature",
-    "question": "The Damaraland mole-rat is one of only two known mammal species that exhibit what highly social behavior?",
-    "options": [
-      "Eusociality",
-      "Kleptoparasitism",
-      "Swarming",
-      "Brood parasitism"
-    ],
-    "answer": "Eusociality",
-    "id": "animals-nature-807"
   },
   {
     "difficulty": "medium",
@@ -11403,7 +11364,7 @@
   {
     "difficulty": "medium",
     "category": "animals-nature",
-    "question": "Townsend's chipmunk is the largest chipmunk species in North America. It is primarily found in what type of habitat?",
+    "question": "Townsend's chipmunk is one of the largest chipmunk species in the Pacific Northwest. It is primarily found in what type of habitat?",
     "options": [
       "Alpine tundra of the Rockies",
       "Deciduous forests of the East",
@@ -11611,14 +11572,14 @@
   {
     "difficulty": "medium",
     "category": "animals-nature",
-    "question": "The kagu is a flightless, crested bird endemic to New Caledonia. When threatened, it raises its crest and emits a loud, dog-like sound, earning it the nickname what?",
+    "question": "The kagu is a flightless, ash-white, crested bird endemic to New Caledonia that also has a loud, dog-like bark. Its pale plumage earned it what nickname?",
     "options": [
       "Swamp wolf",
       "Forest lion",
-      "Ghost dog",
+      "Ghost of the forest",
       "Jungle cat"
     ],
-    "answer": "Ghost dog",
+    "answer": "Ghost of the forest",
     "id": "animals-nature-840"
   },
   {
@@ -11884,14 +11845,14 @@
   {
     "difficulty": "medium",
     "category": "animals-nature",
-    "question": "The American robin is often seen on lawns taking a few steps, stopping, and tilting its head. It is actually doing what?",
+    "question": "The American robin is often seen on lawns taking a few steps, stopping, and tilting its head. Contrary to the popular myth that it's listening for prey, research shows it is actually doing what?",
     "options": [
-      "Listening for earthworms underground",
+      "Looking for worms with one eye",
       "Checking for shadows",
       "Looking for hawks",
       "Aligning with the magnetic field"
     ],
-    "answer": "Listening for earthworms underground",
+    "answer": "Looking for worms with one eye",
     "id": "animals-nature-861"
   },
   {
@@ -12183,19 +12144,6 @@
   {
     "difficulty": "medium",
     "category": "animals-nature",
-    "question": "Tardigrades, or water bears, can survive extreme environmental stress by entering a dormant state called what?",
-    "options": [
-      "Diapause",
-      "Cryptobiosis",
-      "Anabiosis",
-      "Torpor"
-    ],
-    "answer": "Cryptobiosis",
-    "id": "animals-nature-884"
-  },
-  {
-    "difficulty": "medium",
-    "category": "animals-nature",
     "question": "Velvet worms (Onychophora) capture their prey by shooting a sticky, quick-hardening fluid from glands located where?",
     "options": [
       "From their feet",
@@ -12209,19 +12157,6 @@
   {
     "difficulty": "medium",
     "category": "animals-nature",
-    "question": "The resurrection plant (Selaginella lepidophylla) is a desert plant that can survive extreme what by curling into a brown ball and unfurling when moisture returns?",
-    "options": [
-      "Fire",
-      "Salinity",
-      "Freezing",
-      "Desiccation (drought)"
-    ],
-    "answer": "Desiccation (drought)",
-    "id": "animals-nature-886"
-  },
-  {
-    "difficulty": "medium",
-    "category": "animals-nature",
     "question": "Lithops, commonly known as living stones, are succulent plants native to southern Africa. Their primary evolutionary adaptation of resembling rocks helps them avoid what?",
     "options": [
       "Freezing",
@@ -12231,19 +12166,6 @@
     ],
     "answer": "Being eaten by herbivores",
     "id": "animals-nature-887"
-  },
-  {
-    "difficulty": "hard",
-    "category": "animals-nature",
-    "question": "The corpse flower (Amorphophallus titanum) generates its own heat, a process called thermogenesis. What is the primary purpose of this heat?",
-    "options": [
-      "To volatilize its foul-smelling compounds and attract pollinators",
-      "To speed up photosynthesis",
-      "To protect its seeds from frost",
-      "To kill competing plant roots"
-    ],
-    "answer": "To volatilize its foul-smelling compounds and attract pollinators",
-    "id": "animals-nature-888"
   },
   {
     "difficulty": "medium",
@@ -12504,19 +12426,6 @@
     ],
     "answer": "Sirenia",
     "id": "animals-nature-908"
-  },
-  {
-    "difficulty": "medium",
-    "category": "animals-nature",
-    "question": "Unlike manatees, which have paddle-shaped tails, the dugong has a tail that resembles what other marine mammal?",
-    "options": [
-      "A walrus",
-      "A seal",
-      "A beaver",
-      "A dolphin or whale (fluked)"
-    ],
-    "answer": "A dolphin or whale (fluked)",
-    "id": "animals-nature-909"
   },
   {
     "difficulty": "medium",
@@ -13286,19 +13195,6 @@
     "answer": "Bowhead whale"
   },
   {
-    "id": "animals-nature-970",
-    "difficulty": "hard",
-    "category": "animals-nature",
-    "question": "As of 2026, which mammal holds the verified record for the deepest dive, reaching 2,992 meters?",
-    "options": [
-      "Cuvier's beaked whale",
-      "Narwhal",
-      "Sperm whale",
-      "Southern elephant seal"
-    ],
-    "answer": "Cuvier's beaked whale"
-  },
-  {
     "id": "animals-nature-971",
     "difficulty": "easy",
     "category": "animals-nature",
@@ -13338,23 +13234,10 @@
     "answer": "Teats"
   },
   {
-    "id": "animals-nature-974",
-    "difficulty": "medium",
-    "category": "animals-nature",
-    "question": "Which mammal's milk contains about 50% fat, the richest among marine mammals, to help pups grow quickly on ice?",
-    "options": [
-      "Manatee",
-      "Sea otter",
-      "Hooded seal",
-      "Bottlenose dolphin"
-    ],
-    "answer": "Hooded seal"
-  },
-  {
     "id": "animals-nature-975",
     "difficulty": "medium",
     "category": "animals-nature",
-    "question": "Which fish is widely regarded as the fastest in the ocean, clocked at about 68 mph (110 km/h)?",
+    "question": "Which fish is popularly regarded as the fastest in the ocean, though modern studies suggest its widely-cited 68 mph top speed was overestimated?",
     "options": [
       "Wahoo",
       "Sailfish",
@@ -13416,19 +13299,6 @@
     "answer": "Marine sponges"
   },
   {
-    "id": "animals-nature-980",
-    "difficulty": "hard",
-    "category": "animals-nature",
-    "question": "As of 2026, what is the deepest-living fish ever filmed, recorded at about 8,143 meters in the Mariana Trench?",
-    "options": [
-      "Mariana snailfish",
-      "Viperfish",
-      "Fangtooth",
-      "Hadal snailfish"
-    ],
-    "answer": "Mariana snailfish"
-  },
-  {
     "id": "animals-nature-981",
     "difficulty": "medium",
     "category": "animals-nature",
@@ -13481,19 +13351,6 @@
     "answer": "Remove parasites and dead skin"
   },
   {
-    "id": "animals-nature-985",
-    "difficulty": "medium",
-    "category": "animals-nature",
-    "question": "Which finch has mandibles that cross at the tips to efficiently extract seeds from conifer cones?",
-    "options": [
-      "Hawfinch",
-      "Bullfinch",
-      "Goldfinch",
-      "Crossbill"
-    ],
-    "answer": "Crossbill"
-  },
-  {
     "id": "animals-nature-986",
     "difficulty": "medium",
     "category": "animals-nature",
@@ -13505,19 +13362,6 @@
       "Thermoregulation"
     ],
     "answer": "Thermoregulation"
-  },
-  {
-    "id": "animals-nature-987",
-    "difficulty": "medium",
-    "category": "animals-nature",
-    "question": "Which small bird can remain airborne for 10 months straight without landing, sleeping on the wing?",
-    "options": [
-      "Common swift",
-      "House martin",
-      "Alpine swift",
-      "Barn swallow"
-    ],
-    "answer": "Common swift"
   },
   {
     "id": "animals-nature-988",
@@ -13533,19 +13377,6 @@
     "answer": "Black skimmer"
   },
   {
-    "id": "animals-nature-989",
-    "difficulty": "hard",
-    "category": "animals-nature",
-    "question": "As of 2026, which shorebird holds the record for longest non-stop flight, about 13,560 km from Alaska to New Zealand in 11 days?",
-    "options": [
-      "Bar-tailed godwit",
-      "Red knot",
-      "Arctic tern",
-      "Blackpoll warbler"
-    ],
-    "answer": "Bar-tailed godwit"
-  },
-  {
     "id": "animals-nature-990",
     "difficulty": "easy",
     "category": "animals-nature",
@@ -13557,19 +13388,6 @@
       "Swallow-tailed kite"
     ],
     "answer": "Arctic tern"
-  },
-  {
-    "id": "animals-nature-991",
-    "difficulty": "medium",
-    "category": "animals-nature",
-    "question": "What unusual color of objects do male satin bowerbirds obsessively collect to decorate their courtship bowers?",
-    "options": [
-      "Yellow",
-      "Red",
-      "White",
-      "Blue"
-    ],
-    "answer": "Blue"
   },
   {
     "id": "animals-nature-993",
@@ -13791,19 +13609,6 @@
       "Bury eggs deeper"
     ],
     "answer": "Carry hatchlings to water in mouth"
-  },
-  {
-    "id": "animals-nature-1010",
-    "difficulty": "medium",
-    "category": "animals-nature",
-    "question": "As of 2026, what is the world's largest living amphibian by length?",
-    "options": [
-      "Chinese giant salamander",
-      "Goliath frog",
-      "Japanese giant salamander",
-      "Hellbender"
-    ],
-    "answer": "Chinese giant salamander"
   },
   {
     "id": "animals-nature-1011",
@@ -14378,19 +14183,6 @@
     "answer": "Date palm"
   },
   {
-    "id": "animals-nature-1055",
-    "difficulty": "hard",
-    "category": "animals-nature",
-    "question": "As of 2026, what is the world's tallest tree species, with Hyperion reaching over 115 meters?",
-    "options": [
-      "Douglas fir",
-      "Coast redwood",
-      "Eucalyptus regnans",
-      "Giant sequoia"
-    ],
-    "answer": "Coast redwood"
-  },
-  {
     "id": "animals-nature-1056",
     "difficulty": "medium",
     "category": "animals-nature",
@@ -14690,19 +14482,6 @@
     "answer": "Woolly bear caterpillar"
   },
   {
-    "id": "animals-nature-1079",
-    "difficulty": "easy",
-    "category": "animals-nature",
-    "question": "Which bird is famous for remembering thousands of hidden seed caches using its hippocampus?",
-    "options": [
-      "Pigeon",
-      "Robin",
-      "Sparrow",
-      "Clark's nutcracker"
-    ],
-    "answer": "Clark's nutcracker"
-  },
-  {
     "id": "animals-nature-1080",
     "difficulty": "medium",
     "category": "animals-nature",
@@ -14875,7 +14654,7 @@
     "id": "animals-nature-1093",
     "difficulty": "hard",
     "category": "animals-nature",
-    "question": "As of 2026, which insect can carry up to 1,180 times its body weight, the highest strength-to-weight ratio recorded?",
+    "question": "As of 2026, which insect can carry up to 1,141 times its body weight, the highest strength-to-weight ratio recorded?",
     "options": [
       "Rhinoceros beetle",
       "Horned dung beetle",
@@ -14992,7 +14771,7 @@
     "id": "animals-nature-1102",
     "difficulty": "hard",
     "category": "animals-nature",
-    "question": "Which species of sea star has up to 50 arms as of 2026 and preys on other sea stars?",
+    "question": "Which species of sea star has up to 24 arms as of 2026 and preys on other sea stars?",
     "options": [
       "Brittle star",
       "Crown-of-thorns",
@@ -15091,19 +14870,6 @@
       "Capuchin"
     ],
     "answer": "Chimpanzee"
-  },
-  {
-    "id": "animals-nature-1110",
-    "difficulty": "hard",
-    "category": "animals-nature",
-    "question": "Which plant hormone causes fruit ripening and is used commercially to ripen bananas?",
-    "options": [
-      "Gibberellin",
-      "Auxin",
-      "Abscisic acid",
-      "Ethylene"
-    ],
-    "answer": "Ethylene"
   },
   {
     "id": "animals-nature-1111",
@@ -15223,19 +14989,6 @@
     "answer": "Cheetah"
   },
   {
-    "id": "animals-nature-1120",
-    "difficulty": "hard",
-    "category": "animals-nature",
-    "question": "Which bird can fly backwards and upside down for short distances due to its unique ball-and-socket shoulder joint?",
-    "options": [
-      "Kingfisher",
-      "Sparrow",
-      "Hummingbird",
-      "Swift"
-    ],
-    "answer": "Hummingbird"
-  },
-  {
     "id": "animals-nature-1121",
     "difficulty": "medium",
     "category": "animals-nature",
@@ -15291,7 +15044,7 @@
     "id": "animals-nature-1125",
     "difficulty": "hard",
     "category": "animals-nature",
-    "question": "Which plant is parasitic and has no chlorophyll, obtaining nutrients from host trees via haustoria?",
+    "question": "Which plant is parasitic and has no chlorophyll, but taps into host trees indirectly through a network of mycorrhizal fungi rather than using direct haustoria?",
     "options": [
       "Dodder",
       "Mistletoe",
@@ -15460,7 +15213,7 @@
     "id": "animals-nature-1138",
     "difficulty": "hard",
     "category": "animals-nature",
-    "question": "Which mammal has the highest red blood cell count of any mammal, adapted for high altitude?",
+    "question": "Which mammal has one of the highest red blood cell counts of any mammal, adapted for high altitude?",
     "options": [
       "Alpaca",
       "Vicuña",
@@ -15598,19 +15351,6 @@
       "Gannet"
     ],
     "answer": "Gannet"
-  },
-  {
-    "id": "animals-nature-1149",
-    "difficulty": "hard",
-    "category": "animals-nature",
-    "question": "Which plant's flower smells like rotting flesh to attract carrion flies, known as corpse flower but not Rafflesia?",
-    "options": [
-      "Rose",
-      "Sunflower",
-      "Lily",
-      "Titan arum"
-    ],
-    "answer": "Titan arum"
   },
   {
     "id": "animals-nature-1150",
