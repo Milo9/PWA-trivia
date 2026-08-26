@@ -1077,11 +1077,11 @@
         "arts-literature-1277",
         "arts-literature-1281"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-26",
+      "completedAt": "2026-08-26",
+      "issuesFound": 4,
+      "notes": "Cut arts-literature-1254 (dup of already-reviewed 1040, Lord of the Flies). Fixed Peter Rabbit ambiguity (he eats both radishes AND lettuce per text; reworked to ask what herb he seeks after, parsley). Fixed malformed Secret Garden distractor ('Mary Lennox is protagonist' -> Ben Weatherstaff). Fixed Laughing Cavalier stem asking two things but only answering one (dropped 'actually titled what and'). Verified Bruegel Peasant Wedding date (1568, matches KHM) and Chaucer 30-pilgrim count as accurate, no change."
     },
     {
       "chunkId": "arts-literature-p2-010",
@@ -1138,11 +1138,11 @@
         "arts-literature-1400",
         "arts-literature-1402"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-26",
+      "completedAt": "2026-08-26",
+      "issuesFound": 7,
+      "notes": "Cut 5 confirmed duplicates (siblings already reviewed): 1284/1125 (David Copperfield Uriah Heep), 1321/788 (Love in Time of Cholera->Garcia Marquez), 1370/817 (Goblin Market->Rossetti), 1394/832 (Magic Mountain->Mann), 1395/841 (Childe Harold->Byron). Fixed factual error: Don Juan is written in ottava rima only, not 'heroic couplets and ottava rima' (1339). Fixed typo 'an five-book' -> 'a five-book' (1384). Logged 2 backlog notes for duplicates whose sibling is an orphan (won't self-resolve): 1301/209 (Mrs Dalloway) and 1303/300 (Soyinka first sub-Saharan African Nobel laureate)."
     },
     {
       "chunkId": "arts-literature-p2-011",
@@ -1199,11 +1199,11 @@
         "arts-literature-1499",
         "arts-literature-1500"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-26",
+      "completedAt": "2026-08-26",
+      "issuesFound": 3,
+      "notes": "Cut 3 confirmed duplicates (siblings already reviewed): 1433/816 (My Last Duchess->Browning), 1474/761 (Tender Is the Night->Fitzgerald), 1466/1281 (ancient Greek lyric poet from Lesbos->Sappho, sibling reviewed earlier this same session in p2-009). Rest of chunk (mostly 'which author wrote 20th-c. novel X' chestnuts) verified as genuinely distinct works per author, no factual issues found."
     },
     {
       "chunkId": "arts-literature-p2-012",

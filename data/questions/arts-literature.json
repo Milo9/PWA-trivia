@@ -16400,7 +16400,7 @@
       "Colin Craven",
       "Dickon Sowerby",
       "Archibald Craven",
-      "Mary Lennox is protagonist"
+      "Ben Weatherstaff"
     ],
     "answer": "Colin Craven",
     "id": "arts-literature-1202"
@@ -16421,14 +16421,14 @@
   {
     "difficulty": "medium",
     "category": "arts-literature",
-    "question": "In Beatrix Potter's 1902 'The Tale of Peter Rabbit', what vegetable does Peter steal?",
+    "question": "In Beatrix Potter's 1902 'The Tale of Peter Rabbit', what herb does Peter go looking for after feeling sick from overeating in Mr. McGregor's garden?",
     "options": [
-      "Radishes",
+      "Parsley",
       "Carrots",
-      "Lettuce",
+      "Mint",
       "Cabbage"
     ],
-    "answer": "Radishes",
+    "answer": "Parsley",
     "id": "arts-literature-1204"
   },
   {
@@ -16668,7 +16668,7 @@
   {
     "difficulty": "medium",
     "category": "arts-literature",
-    "question": "Frans Hals's 1628 'The Laughing Cavalier' is actually titled what and is in which London collection?",
+    "question": "Frans Hals's 1628 'The Laughing Cavalier' is in which London collection?",
     "options": [
       "Wallace Collection",
       "National Gallery",
@@ -17030,19 +17030,6 @@
     "answer": "Donatello"
   },
   {
-    "id": "arts-literature-1254",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Which 1954 novel by William Golding explores a group of British schoolboys stranded on an uninhabited island?",
-    "options": [
-      "Lord of the Flies",
-      "The Inheritors",
-      "Pincher Martin",
-      "Free Fall"
-    ],
-    "answer": "Lord of the Flies"
-  },
-  {
     "id": "arts-literature-1255",
     "category": "arts-literature",
     "difficulty": "hard",
@@ -17379,19 +17366,6 @@
       "Kaj Munk"
     ],
     "answer": "August Strindberg"
-  },
-  {
-    "id": "arts-literature-1284",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "In Charles Dickens's novel 'David Copperfield', what is the name of the obsequious and scheming clerk who constantly claims to be 'humble'?",
-    "options": [
-      "Uriah Heep",
-      "James Steerforth",
-      "Wilkins Micawber",
-      "Edward Murdstone"
-    ],
-    "answer": "Uriah Heep"
   },
   {
     "id": "arts-literature-1285",
@@ -17810,19 +17784,6 @@
     "answer": "Michelangelo"
   },
   {
-    "id": "arts-literature-1321",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Which Colombian author wrote 'Love in the Time of Cholera' and received the 1982 Nobel Prize in Literature?",
-    "options": [
-      "Gabriel García Márquez",
-      "Mario Vargas Llosa",
-      "Carlos Fuentes",
-      "Julio Cortázar"
-    ],
-    "answer": "Gabriel García Márquez"
-  },
-  {
     "id": "arts-literature-1322",
     "category": "arts-literature",
     "difficulty": "hard",
@@ -18034,7 +17995,7 @@
     "id": "arts-literature-1339",
     "category": "arts-literature",
     "difficulty": "medium",
-    "question": "Which British poet wrote the long narrative poem 'Don Juan' in heroic couplets and ottava rima?",
+    "question": "Which British poet wrote the long narrative poem 'Don Juan' in ottava rima?",
     "options": [
       "Lord Byron",
       "Percy Bysshe Shelley",
@@ -18408,19 +18369,6 @@
     "answer": "W. B. Yeats"
   },
   {
-    "id": "arts-literature-1370",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Which 19th-century English poet authored 'The Goblin Market and Other Poems' (1862)?",
-    "options": [
-      "Christina Rossetti",
-      "Elizabeth Barrett Browning",
-      "Emily Brontë",
-      "Alice Meynell"
-    ],
-    "answer": "Christina Rossetti"
-  },
-  {
     "id": "arts-literature-1371",
     "category": "arts-literature",
     "difficulty": "hard",
@@ -18580,7 +18528,7 @@
     "id": "arts-literature-1384",
     "category": "arts-literature",
     "difficulty": "medium",
-    "question": "Which American poet wrote 'Paterson', an five-book epic poem centered on a New Jersey city?",
+    "question": "Which American poet wrote 'Paterson', a five-book epic poem centered on a New Jersey city?",
     "options": [
       "William Carlos Williams",
       "Wallace Stevens",
@@ -18705,32 +18653,6 @@
       "Hamo Thornycroft"
     ],
     "answer": "George Frederic Watts"
-  },
-  {
-    "id": "arts-literature-1394",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Which 20th-century German author wrote 'The Magic Mountain' ('Der Zauberberg')?",
-    "options": [
-      "Thomas Mann",
-      "Heinrich Mann",
-      "Hermann Hesse",
-      "Alfred Döblin"
-    ],
-    "answer": "Thomas Mann"
-  },
-  {
-    "id": "arts-literature-1395",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Which English Romantic poet wrote 'Childe Harold's Pilgrimage'?",
-    "options": [
-      "Lord Byron",
-      "Percy Bysshe Shelley",
-      "John Keats",
-      "William Wordsworth"
-    ],
-    "answer": "Lord Byron"
   },
   {
     "id": "arts-literature-1396",
@@ -19201,19 +19123,6 @@
     "answer": "Georg Baselitz"
   },
   {
-    "id": "arts-literature-1433",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Which 19th-century English poet wrote 'My Last Duchess', a famous dramatic monologue?",
-    "options": [
-      "Robert Browning",
-      "Alfred, Lord Tennyson",
-      "Matthew Arnold",
-      "Dante Gabriel Rossetti"
-    ],
-    "answer": "Robert Browning"
-  },
-  {
     "id": "arts-literature-1434",
     "category": "arts-literature",
     "difficulty": "hard",
@@ -19591,19 +19500,6 @@
     "answer": "Henri de Toulouse-Lautrec"
   },
   {
-    "id": "arts-literature-1466",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Which ancient Greek lyric poet was from Lesbos?",
-    "options": [
-      "Sappho",
-      "Corinna",
-      "Erinna",
-      "Anyte"
-    ],
-    "answer": "Sappho"
-  },
-  {
     "id": "arts-literature-1467",
     "category": "arts-literature",
     "difficulty": "medium",
@@ -19693,19 +19589,6 @@
       "F. Scott Fitzgerald"
     ],
     "answer": "Ernest Hemingway"
-  },
-  {
-    "id": "arts-literature-1474",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Which author wrote the 1934 novel 'Tender Is the Night'?",
-    "options": [
-      "Evelyn Waugh",
-      "John Dos Passos",
-      "Sinclair Lewis",
-      "F. Scott Fitzgerald"
-    ],
-    "answer": "F. Scott Fitzgerald"
   },
   {
     "id": "arts-literature-1475",
