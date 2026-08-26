@@ -12441,19 +12441,6 @@
     "answer": "Salman Rushdie"
   },
   {
-    "id": "arts-literature-874",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who painted The Death of Sardanapalus?",
-    "options": [
-      "Jean-Auguste-Dominique Ingres",
-      "Antoine-Jean Gros",
-      "Eugène Delacroix",
-      "Théodore Géricault"
-    ],
-    "answer": "Eugène Delacroix"
-  },
-  {
     "id": "arts-literature-875",
     "category": "arts-literature",
     "difficulty": "hard",
@@ -12517,19 +12504,6 @@
       "Pieter Bruegel the Elder"
     ],
     "answer": "Hieronymus Bosch"
-  },
-  {
-    "id": "arts-literature-880",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who wrote Midnight's Children?",
-    "options": [
-      "Salman Rushdie",
-      "Vikram Seth",
-      "Arundhati Roy",
-      "Rohinton Mistry"
-    ],
-    "answer": "Salman Rushdie"
   },
   {
     "difficulty": "medium",
@@ -12612,19 +12586,6 @@
   {
     "difficulty": "medium",
     "category": "arts-literature",
-    "question": "What German term denotes a coming-of-age novel focusing on psychological and moral growth?",
-    "options": [
-      "Zeitroman",
-      "Bildungsroman",
-      "Schlüsselroman",
-      "Heimatroman"
-    ],
-    "answer": "Bildungsroman",
-    "id": "arts-literature-887"
-  },
-  {
-    "difficulty": "medium",
-    "category": "arts-literature",
     "question": "What term denotes a novel in which real people appear under fictitious names?",
     "options": [
       "Bildungsroman",
@@ -12699,19 +12660,6 @@
     ],
     "answer": "Volta",
     "id": "arts-literature-893"
-  },
-  {
-    "difficulty": "medium",
-    "category": "arts-literature",
-    "question": "What Old English and Norse poetic device calls the sea a 'whale-road'?",
-    "options": [
-      "Epithet",
-      "Kenning",
-      "Litotes",
-      "Meiosis"
-    ],
-    "answer": "Kenning",
-    "id": "arts-literature-894"
   },
   {
     "difficulty": "medium",
@@ -13000,19 +12948,6 @@
     "id": "arts-literature-916"
   },
   {
-    "difficulty": "medium",
-    "category": "arts-literature",
-    "question": "Who wrote the Beat Generation long poem 'Howl' first published in 1956?",
-    "options": [
-      "Jack Kerouac",
-      "Gary Snyder",
-      "Allen Ginsberg",
-      "Lawrence Ferlinghetti"
-    ],
-    "answer": "Allen Ginsberg",
-    "id": "arts-literature-917"
-  },
-  {
     "difficulty": "easy",
     "category": "arts-literature",
     "question": "Who wrote the poem 'Annabel Lee' set 'in a kingdom by the sea'?",
@@ -13039,19 +12974,6 @@
     "id": "arts-literature-919"
   },
   {
-    "difficulty": "medium",
-    "category": "arts-literature",
-    "question": "Langston Hughes's poem beginning 'What happens to a dream deferred?' is formally titled what?",
-    "options": [
-      "The Weary Blues",
-      "Harlem",
-      "Montage",
-      "Lenox Avenue"
-    ],
-    "answer": "Harlem",
-    "id": "arts-literature-920"
-  },
-  {
     "difficulty": "easy",
     "category": "arts-literature",
     "question": "Who wrote the poem 'Still I Rise'?",
@@ -13063,19 +12985,6 @@
     ],
     "answer": "Maya Angelou",
     "id": "arts-literature-921"
-  },
-  {
-    "difficulty": "medium",
-    "category": "arts-literature",
-    "question": "Who wrote the sonnet 'Ozymandias' beginning 'I met a traveller from an antique land'?",
-    "options": [
-      "Percy Bysshe Shelley",
-      "John Keats",
-      "Lord Byron",
-      "Samuel Coleridge"
-    ],
-    "answer": "Percy Bysshe Shelley",
-    "id": "arts-literature-922"
   },
   {
     "difficulty": "medium",
@@ -13128,19 +13037,6 @@
     ],
     "answer": "William Ernest Henley",
     "id": "arts-literature-926"
-  },
-  {
-    "difficulty": "medium",
-    "category": "arts-literature",
-    "question": "Who wrote the fragmentary dream poem 'Kubla Khan'?",
-    "options": [
-      "Samuel Taylor Coleridge",
-      "William Wordsworth",
-      "John Keats",
-      "Percy Shelley"
-    ],
-    "answer": "Samuel Taylor Coleridge",
-    "id": "arts-literature-927"
   },
   {
     "difficulty": "easy",
@@ -13260,19 +13156,6 @@
     "id": "arts-literature-937"
   },
   {
-    "difficulty": "medium",
-    "category": "arts-literature",
-    "question": "Who painted the cityscape 'View of Delft' around 1660-1661?",
-    "options": [
-      "Johannes Vermeer",
-      "Rembrandt",
-      "Frans Hals",
-      "Pieter de Hooch"
-    ],
-    "answer": "Johannes Vermeer",
-    "id": "arts-literature-938"
-  },
-  {
     "difficulty": "easy",
     "category": "arts-literature",
     "question": "Who painted the series of 'Sunflowers' in Arles to decorate the Yellow House?",
@@ -13310,45 +13193,6 @@
     ],
     "answer": "Pieter Bruegel the Elder",
     "id": "arts-literature-942"
-  },
-  {
-    "difficulty": "medium",
-    "category": "arts-literature",
-    "question": "Who painted 'Saturn Devouring His Son', one of the Black Paintings done on the walls of his house?",
-    "options": [
-      "Diego Velazquez",
-      "Francisco Goya",
-      "El Greco",
-      "Jusepe de Ribera"
-    ],
-    "answer": "Francisco Goya",
-    "id": "arts-literature-943"
-  },
-  {
-    "difficulty": "medium",
-    "category": "arts-literature",
-    "question": "Who painted 'Portrait of Adele Bloch-Bauer I', also called The Woman in Gold, completed in 1907?",
-    "options": [
-      "Gustav Klimt",
-      "Egon Schiele",
-      "Oskar Kokoschka",
-      "Gustav Moreau"
-    ],
-    "answer": "Gustav Klimt",
-    "id": "arts-literature-944"
-  },
-  {
-    "difficulty": "medium",
-    "category": "arts-literature",
-    "question": "Who painted the 'Ghent Altarpiece' of 1432 in St Bavo's Cathedral?",
-    "options": [
-      "Jan van Eyck",
-      "Rogier van der Weyden",
-      "Robert Campin",
-      "Hugo van der Goes"
-    ],
-    "answer": "Jan van Eyck",
-    "id": "arts-literature-945"
   },
   {
     "difficulty": "easy",
@@ -13494,19 +13338,6 @@
     "id": "arts-literature-956"
   },
   {
-    "difficulty": "medium",
-    "category": "arts-literature",
-    "question": "Who was the chief sculptor commissioned to carve Mount Rushmore?",
-    "options": [
-      "Gutzon Borglum",
-      "Augustus Saint-Gaudens",
-      "Daniel Chester French",
-      "Henry Shrady"
-    ],
-    "answer": "Gutzon Borglum",
-    "id": "arts-literature-957"
-  },
-  {
     "difficulty": "easy",
     "category": "arts-literature",
     "question": "Which classical architectural order is characterized by capitals decorated with acanthus leaves?",
@@ -13544,19 +13375,6 @@
     ],
     "answer": "Trojan priest and sons strangled by sea serpents",
     "id": "arts-literature-960"
-  },
-  {
-    "difficulty": "medium",
-    "category": "arts-literature",
-    "question": "Who sculpted the original bronze Discobolus around 460-450 BCE?",
-    "options": [
-      "Myron",
-      "Polykleitos",
-      "Phidias",
-      "Lysippos"
-    ],
-    "answer": "Myron",
-    "id": "arts-literature-961"
   },
   {
     "difficulty": "hard",
@@ -14222,19 +14040,6 @@
     "id": "arts-literature-1013"
   },
   {
-    "difficulty": "medium",
-    "category": "arts-literature",
-    "question": "Which avant-garde movement celebrating speed and machinery was launched by Marinetti's 1909 manifesto?",
-    "options": [
-      "Futurism",
-      "Vorticism",
-      "Rayonism",
-      "Constructivism"
-    ],
-    "answer": "Futurism",
-    "id": "arts-literature-1014"
-  },
-  {
     "difficulty": "hard",
     "category": "arts-literature",
     "question": "Caravaggio's The Calling of Saint Matthew (1599-1600) was painted for and still hangs in which Roman chapel?",
@@ -14246,19 +14051,6 @@
     ],
     "answer": "Contarelli Chapel",
     "id": "arts-literature-1015"
-  },
-  {
-    "difficulty": "medium",
-    "category": "arts-literature",
-    "question": "Which Baroque artist completed Judith Slaying Holofernes in 1612-13 now in Naples?",
-    "options": [
-      "Sofonisba Anguissola",
-      "Artemisia Gentileschi",
-      "Lavinia Fontana",
-      "Elisabetta Sirani"
-    ],
-    "answer": "Artemisia Gentileschi",
-    "id": "arts-literature-1016"
   },
   {
     "difficulty": "hard",
@@ -14363,19 +14155,6 @@
     ],
     "answer": "2006",
     "id": "arts-literature-1024"
-  },
-  {
-    "difficulty": "medium",
-    "category": "arts-literature",
-    "question": "Which Salman Rushdie novel won the Booker Prize in 1981?",
-    "options": [
-      "Shame",
-      "Midnight's Children",
-      "The Satanic Verses",
-      "Haroun and the Sea of Stories"
-    ],
-    "answer": "Midnight's Children",
-    "id": "arts-literature-1025"
   },
   {
     "difficulty": "medium",
@@ -14588,7 +14367,7 @@
   {
     "difficulty": "medium",
     "category": "arts-literature",
-    "question": "Who wrote the poem 'I, too, am America'?",
+    "question": "Who wrote the poem 'I, too, sing America'?",
     "options": [
       "Langston Hughes",
       "Claude McKay",
@@ -14666,19 +14445,6 @@
   {
     "difficulty": "medium",
     "category": "arts-literature",
-    "question": "Who sculpted the marble work The Kiss in 1882, now in the Musée Rodin?",
-    "options": [
-      "Auguste Rodin",
-      "Antonio Canova",
-      "Jean-Baptiste Carpeaux",
-      "Gian Lorenzo Bernini"
-    ],
-    "answer": "Auguste Rodin",
-    "id": "arts-literature-1048"
-  },
-  {
-    "difficulty": "medium",
-    "category": "arts-literature",
     "question": "Which author created the fictional detective Philip Marlowe?",
     "options": [
       "Dashiell Hammett",
@@ -14714,19 +14480,6 @@
     ],
     "answer": "Neil Gaiman",
     "id": "arts-literature-1051"
-  },
-  {
-    "difficulty": "medium",
-    "category": "arts-literature",
-    "question": "In J.R.R. Tolkien's legendarium, what is the One Ring's inscription language?",
-    "options": [
-      "Elvish",
-      "Black Speech",
-      "Dwarvish",
-      "Old English"
-    ],
-    "answer": "Black Speech",
-    "id": "arts-literature-1052"
   },
   {
     "difficulty": "medium",
@@ -14792,19 +14545,6 @@
     ],
     "answer": "Roald Dahl",
     "id": "arts-literature-1058"
-  },
-  {
-    "difficulty": "medium",
-    "category": "arts-literature",
-    "question": "Who painted The Son of Man, the 1964 surrealist work showing a man in a bowler hat with an apple obscuring his face?",
-    "options": [
-      "René Magritte",
-      "Salvador Dalí",
-      "Max Ernst",
-      "Joan Miró"
-    ],
-    "answer": "René Magritte",
-    "id": "arts-literature-1059"
   },
   {
     "difficulty": "medium",
