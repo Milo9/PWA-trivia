@@ -367,11 +367,11 @@
         "animals-nature-1099",
         "animals-nature-1100"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-25",
+      "completedAt": "2026-08-25",
+      "issuesFound": 10,
+      "notes": "Cut 6 duplicates (fig wasp/ostiole vs already-vetted animals-nature-724; date-palm-seed-longevity vs 752; bubble-net-feeding vs 600; tube-lipped-bat-tongue vs 772; emperor-penguin-foot-incubation vs 639; resurrection-plant/Selaginella vs 751 per existing backlog note). Fixed 4 factual bugs: grey squirrel doesn't have cheek pouches (reworded 1072 to drop the false cheek-pouch claim and the inaccurate only-mammal superlative, keeping the genuine scatter-hoarding/spatial-memory fact); tongue-anchored-near-pelvis fact belongs to pangolin not chameleon (1076: swapped Chameleon option for Pangolin and re-marked correct, reworded stem); kangaroo rat, not gerbil, is the textbook most-concentrated-urine desert rodent (1088: swapped correct answer to the already-present Kangaroo rat distractor); northern short-tailed shrew is not the only venomous-saliva mammal (solenodons also are) so dropped the only-known overclaim from 1095's stem."
     },
     {
       "chunkId": "animals-nature-p2-006",
@@ -428,11 +428,11 @@
         "animals-nature-1035",
         "animals-nature-1038"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-25",
+      "completedAt": "2026-08-25",
+      "issuesFound": 10,
+      "notes": "Cut 8 duplicates of already-vetted pass-1 survivors (cryptobiosis/tardigrade 1111 vs backlog-noted 598; cheetah non-retractable claws 1119 vs 609; armadillo quadruplets 967 vs 495; eel-Sargasso-Sea migration 977 vs 271; skimmer bill 988 vs 648; arctic tern pole-to-pole migration 990 vs 623; murder-of-crows collective noun 994 vs general-2901; ladybug-larvae-eat-aphids 1038 vs 529). Fixed 2 factual errors: chimp stone-tool nut-cracking archaeological evidence is >4,000 years old (Panda 100 site, Cote d'Ivoire), not 700 (1109); roe deer embryonic diapause/delayed implantation lasts ~4.5-5 months, not up to 11 (1145, which would have exceeded the species' ~9.5-month total gestation)."
     },
     {
       "chunkId": "animals-nature-p2-007",
@@ -467,11 +467,11 @@
         "animals-nature-1147",
         "animals-nature-1151"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-25",
+      "completedAt": "2026-08-25",
+      "issuesFound": 2,
+      "notes": "Cut 2 questions: 1085 had a genuine ambiguity bug (platypus and echidna both lay eggs, produce milk, and lack nipples/secrete via skin patches -- the option set can't uniquely determine an answer between the marked-correct Echidna and the distractor Platypus); 1136 duplicates already-vetted general-1237 (both test 'cheetah is the fastest land animal', just with/without a short-distance qualifier and year pin)."
     },
     {
       "chunkId": "arts-literature-p2-000",
