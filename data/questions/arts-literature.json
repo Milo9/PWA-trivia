@@ -11427,19 +11427,6 @@
     "answer": "Gustav Klimt"
   },
   {
-    "id": "arts-literature-782",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who painted The Surrender of Breda?",
-    "options": [
-      "El Greco",
-      "Diego Velázquez",
-      "Bartolomé Murillo",
-      "Francisco Goya"
-    ],
-    "answer": "Diego Velázquez"
-  },
-  {
     "id": "arts-literature-783",
     "category": "arts-literature",
     "difficulty": "medium",
@@ -11724,19 +11711,6 @@
       "Grant Wood"
     ],
     "answer": "Grant Wood"
-  },
-  {
-    "id": "arts-literature-805",
-    "category": "arts-literature",
-    "difficulty": "hard",
-    "question": "Who painted Automat from 1927 showing a lone woman?",
-    "options": [
-      "George Bellows",
-      "Charles Sheeler",
-      "Reginald Marsh",
-      "Edward Hopper"
-    ],
-    "answer": "Edward Hopper"
   },
   {
     "id": "arts-literature-806",
@@ -12496,7 +12470,7 @@
     "id": "arts-literature-865",
     "category": "arts-literature",
     "difficulty": "hard",
-    "question": "Who sculpted The Kiss by Brâncuși 1907-08?",
+    "question": "Who sculpted the starkly abstract, blocky marble embrace titled The Kiss, carved in 1907-08?",
     "options": [
       "Jacques Lipchitz",
       "Constantin Brâncuși",
@@ -12543,19 +12517,6 @@
       "Petrarch"
     ],
     "answer": "Giovanni Boccaccio"
-  },
-  {
-    "id": "arts-literature-869",
-    "category": "arts-literature",
-    "difficulty": "hard",
-    "question": "Who painted Christ in the House of His Parents 1849-50?",
-    "options": [
-      "Dante Gabriel Rossetti",
-      "William Holman Hunt",
-      "John Everett Millais",
-      "Ford Madox Brown"
-    ],
-    "answer": "John Everett Millais"
   },
   {
     "id": "arts-literature-870",
@@ -13416,19 +13377,6 @@
     "id": "arts-literature-935"
   },
   {
-    "difficulty": "hard",
-    "category": "arts-literature",
-    "question": "Which ancient painting method mixes pigments with heated beeswax and fuses them with heat?",
-    "options": [
-      "Tempera",
-      "Encaustic",
-      "Scumbling",
-      "Sfumato"
-    ],
-    "answer": "Encaustic",
-    "id": "arts-literature-936"
-  },
-  {
     "difficulty": "easy",
     "category": "arts-literature",
     "question": "Which technique applies paint so thickly that brush and palette knife marks remain visible and sculptural?",
@@ -13479,19 +13427,6 @@
     ],
     "answer": "Sandro Botticelli",
     "id": "arts-literature-940"
-  },
-  {
-    "difficulty": "hard",
-    "category": "arts-literature",
-    "question": "Who painted 'The Slave Ship', originally titled 'Slavers Throwing Overboard the Dead and Dying, Typhoon Coming On' in 1840?",
-    "options": [
-      "John Constable",
-      "J. M. W. Turner",
-      "Thomas Gainsborough",
-      "William Blake"
-    ],
-    "answer": "J. M. W. Turner",
-    "id": "arts-literature-941"
   },
   {
     "difficulty": "medium",
@@ -14287,19 +14222,6 @@
     "id": "arts-literature-1002"
   },
   {
-    "difficulty": "hard",
-    "category": "arts-literature",
-    "question": "What is generally considered the first book printed in the English language, around 1473-74?",
-    "options": [
-      "The Game and Playe of the Chesse",
-      "Dictes and Sayings of the Philosophers",
-      "Polychronicon",
-      "Recuyell of the Historyes of Troye"
-    ],
-    "answer": "Recuyell of the Historyes of Troye",
-    "id": "arts-literature-1003"
-  },
-  {
     "difficulty": "easy",
     "category": "arts-literature",
     "question": "In the Dewey Decimal System, which hundred-block covers Literature?",
@@ -14974,19 +14896,6 @@
     ],
     "answer": "Mycroft",
     "id": "arts-literature-1055"
-  },
-  {
-    "difficulty": "hard",
-    "category": "arts-literature",
-    "question": "Which poet wrote 'The Second Coming' with 'Things fall apart; the centre cannot hold'?",
-    "options": [
-      "W.B. Yeats",
-      "T.S. Eliot",
-      "W.H. Auden",
-      "Seamus Heaney"
-    ],
-    "answer": "W.B. Yeats",
-    "id": "arts-literature-1056"
   },
   {
     "difficulty": "easy",
@@ -17065,7 +16974,7 @@
       "Four",
       "Three"
     ],
-    "answer": "Five",
+    "answer": "Six",
     "id": "arts-literature-1216"
   },
   {
@@ -17381,19 +17290,6 @@
     "id": "arts-literature-1240"
   },
   {
-    "id": "arts-literature-1241",
-    "category": "arts-literature",
-    "difficulty": "hard",
-    "question": "Which Italian Renaissance painter created the 'Camera degli Sposi' frescoes in the Ducal Palace of Mantua, famous for its trompe-l'œil ceiling oculus?",
-    "options": [
-      "Andrea Mantegna",
-      "Piero della Francesca",
-      "Sandro Botticelli",
-      "Domenico Ghirlandaio"
-    ],
-    "answer": "Andrea Mantegna"
-  },
-  {
     "id": "arts-literature-1242",
     "category": "arts-literature",
     "difficulty": "medium",
@@ -17405,19 +17301,6 @@
       "A Severed Head"
     ],
     "answer": "The Sea, The Sea"
-  },
-  {
-    "id": "arts-literature-1243",
-    "category": "arts-literature",
-    "difficulty": "hard",
-    "question": "Which 17th-century Baroque master painted 'The Descent from the Cross' triptych for the Cathedral of Our Lady in Antwerp?",
-    "options": [
-      "Peter Paul Rubens",
-      "Anthony van Dyck",
-      "Jacob Jordaens",
-      "David Teniers the Younger"
-    ],
-    "answer": "Peter Paul Rubens"
   },
   {
     "id": "arts-literature-1244",
@@ -17509,19 +17392,6 @@
       "Robert Southey"
     ],
     "answer": "John Keats"
-  },
-  {
-    "id": "arts-literature-1251",
-    "category": "arts-literature",
-    "difficulty": "hard",
-    "question": "Which Post-Impressionist painting by Paul Gauguin, created in Tahiti in 1897, features a title consisting of three philosophical questions?",
-    "options": [
-      "Where Do We Come From? What Are We? Where Are We Going?",
-      "When Will You Marry?",
-      "Spirit of the Dead Watching",
-      "The Day of the God"
-    ],
-    "answer": "Where Do We Come From? What Are We? Where Are We Going?"
   },
   {
     "id": "arts-literature-1252",
@@ -17797,19 +17667,6 @@
     "answer": "Stefan Zweig"
   },
   {
-    "id": "arts-literature-1273",
-    "category": "arts-literature",
-    "difficulty": "hard",
-    "question": "Which American sculptor is famous for pioneer work in kinetic art, creating balanced hanging structures termed 'mobiles' by Marcel Duchamp?",
-    "options": [
-      "Alexander Calder",
-      "David Smith",
-      "Isamu Noguchi",
-      "Claes Oldenburg"
-    ],
-    "answer": "Alexander Calder"
-  },
-  {
     "id": "arts-literature-1274",
     "category": "arts-literature",
     "difficulty": "hard",
@@ -17836,19 +17693,6 @@
     "answer": "Pandemonium"
   },
   {
-    "id": "arts-literature-1276",
-    "category": "arts-literature",
-    "difficulty": "hard",
-    "question": "Which German Expressionist group was founded in Dresden in 1905 by Ernst Ludwig Kirchner, Karl Schmidt-Rottluff, and others?",
-    "options": [
-      "Die Brücke",
-      "Der Blaue Reiter",
-      "Neue Sachlichkeit",
-      "Bauhaus"
-    ],
-    "answer": "Die Brücke"
-  },
-  {
     "id": "arts-literature-1277",
     "category": "arts-literature",
     "difficulty": "medium",
@@ -17860,19 +17704,6 @@
       "Clara Reeve"
     ],
     "answer": "Ann Radcliffe"
-  },
-  {
-    "id": "arts-literature-1278",
-    "category": "arts-literature",
-    "difficulty": "hard",
-    "question": "Which French Post-Impressionist painter depicted scenes of Parisian nightlife, dancers, and circus performers in poster art like 'Moulin Rouge: La Goulue'?",
-    "options": [
-      "Henri de Toulouse-Lautrec",
-      "Paul Cézanne",
-      "Pierre Bonnard",
-      "Édouard Vuillard"
-    ],
-    "answer": "Henri de Toulouse-Lautrec"
   },
   {
     "id": "arts-literature-1279",
@@ -18003,19 +17834,6 @@
       "Jean Arp"
     ],
     "answer": "Alberto Giacometti"
-  },
-  {
-    "id": "arts-literature-1289",
-    "category": "arts-literature",
-    "difficulty": "hard",
-    "question": "Which American artist was known for her close-up paintings of flowers and Southwest desert landscapes, such as 'Jimson Weed'?",
-    "options": [
-      "Georgia O'Keeffe",
-      "Mary Cassatt",
-      "Louise Nevelson",
-      "Agnes Martin"
-    ],
-    "answer": "Georgia O'Keeffe"
   },
   {
     "id": "arts-literature-1290",
@@ -18213,19 +18031,6 @@
     "answer": "Parmigianino"
   },
   {
-    "id": "arts-literature-1305",
-    "category": "arts-literature",
-    "difficulty": "hard",
-    "question": "Which 17th-century Spanish artist painted 'The Surrender of Breda' (also known as 'Las Lanzas') depicting a scene from the Eighty Years' War?",
-    "options": [
-      "Diego Velázquez",
-      "Francisco de Zurbarán",
-      "Bartolomé Esteban Murillo",
-      "Jusepe de Ribera"
-    ],
-    "answer": "Diego Velázquez"
-  },
-  {
     "id": "arts-literature-1306",
     "category": "arts-literature",
     "difficulty": "medium",
@@ -18265,19 +18070,6 @@
     "answer": "Emily Dickinson"
   },
   {
-    "id": "arts-literature-1309",
-    "category": "arts-literature",
-    "difficulty": "hard",
-    "question": "Which Flemish Northern Renaissance artist painted 'The Peasant Wedding' (c. 1567) depicting rural festivities?",
-    "options": [
-      "Pieter Bruegel the Elder",
-      "Jan Brueghel the Elder",
-      "David Teniers the Younger",
-      "Joos de Momper"
-    ],
-    "answer": "Pieter Bruegel the Elder"
-  },
-  {
     "id": "arts-literature-1310",
     "category": "arts-literature",
     "difficulty": "medium",
@@ -18315,19 +18107,6 @@
       "Yukio Mishima"
     ],
     "answer": "Haruki Murakami"
-  },
-  {
-    "id": "arts-literature-1313",
-    "category": "arts-literature",
-    "difficulty": "hard",
-    "question": "Which German Expressionist group was co-founded in Munich in 1911 by Wassily Kandinsky and Franz Marc?",
-    "options": [
-      "Der Blaue Reiter",
-      "Die Brücke",
-      "Neue Sachlichkeit",
-      "De Stijl"
-    ],
-    "answer": "Der Blaue Reiter"
   },
   {
     "id": "arts-literature-1314",
@@ -18458,19 +18237,6 @@
       "George Bellows"
     ],
     "answer": "Thomas Eakins"
-  },
-  {
-    "id": "arts-literature-1324",
-    "category": "arts-literature",
-    "difficulty": "hard",
-    "question": "Which French Neo-Classical painter depicted three brothers swearing an oath to defend Rome in 'Oath of the Horatii' (1784)?",
-    "options": [
-      "Jacques-Louis David",
-      "Jean-Germain Drouais",
-      "François Gérard",
-      "Jean-Baptiste Regnault"
-    ],
-    "answer": "Jacques-Louis David"
   },
   {
     "id": "arts-literature-1325",
@@ -18775,7 +18541,7 @@
     "id": "arts-literature-1348",
     "category": "arts-literature",
     "difficulty": "hard",
-    "question": "Which Venetian painter created the 'Miracle of the Slave' (1848) which established his reputation in Venice?",
+    "question": "Which Venetian painter created the 'Miracle of the Slave' (1548) which established his reputation in Venice?",
     "options": [
       "Tintoretto",
       "Paolo Veronese",
@@ -18848,19 +18614,6 @@
       "Flask"
     ],
     "answer": "Starbuck"
-  },
-  {
-    "id": "arts-literature-1354",
-    "category": "arts-literature",
-    "difficulty": "hard",
-    "question": "Which French Neo-Impressionist depicted workers bathing in the Seine in his 1884 canvas 'Bathers at Asnières'?",
-    "options": [
-      "Georges Seurat",
-      "Paul Signac",
-      "Maximilen Luce",
-      "Henri-Edmond Cross"
-    ],
-    "answer": "Georges Seurat"
   },
   {
     "id": "arts-literature-1355",
@@ -18965,19 +18718,6 @@
       "Washington Irving"
     ],
     "answer": "Nathaniel Hawthorne"
-  },
-  {
-    "id": "arts-literature-1363",
-    "category": "arts-literature",
-    "difficulty": "hard",
-    "question": "Which Flemish Baroque master painted the 'Garden of Love' (c. 1633) celebrating his marriage to Hélène Fourment?",
-    "options": [
-      "Peter Paul Rubens",
-      "Anthony van Dyck",
-      "Jacob Jordaens",
-      "Cornelis de Vos"
-    ],
-    "answer": "Peter Paul Rubens"
   },
   {
     "id": "arts-literature-1364",
@@ -19147,19 +18887,6 @@
       "H. Rider Haggard"
     ],
     "answer": "Joseph Conrad"
-  },
-  {
-    "id": "arts-literature-1377",
-    "category": "arts-literature",
-    "difficulty": "hard",
-    "question": "Which Italian Mannerist painter executed the striking 'Deposition from the Cross' (1528) in the Capponi Chapel in Florence?",
-    "options": [
-      "Jacopo Pontormo",
-      "Rosso Fiorentino",
-      "Bronzino",
-      "Parmigianino"
-    ],
-    "answer": "Jacopo Pontormo"
   },
   {
     "id": "arts-literature-1378",
@@ -19511,19 +19238,6 @@
       "A letter"
     ],
     "answer": "A strawberry-embroidered handkerchief"
-  },
-  {
-    "id": "arts-literature-1405",
-    "category": "arts-literature",
-    "difficulty": "hard",
-    "question": "Which French Impressionist painted 'Dance at Le Moulin de la Galette' (1876)?",
-    "options": [
-      "Pierre-Auguste Renoir",
-      "Claude Monet",
-      "Edgar Degas",
-      "Édouard Manet"
-    ],
-    "answer": "Pierre-Auguste Renoir"
   },
   {
     "id": "arts-literature-1406",

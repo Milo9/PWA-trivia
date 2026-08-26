@@ -528,11 +528,11 @@
         "arts-literature-1171",
         "arts-literature-1178"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-25",
+      "completedAt": "2026-08-25",
+      "issuesFound": 7,
+      "notes": "Cut 6 duplicates (805 vs 445 Hopper Automat; 869 vs 561/1443 Millais Christ in the House of His Parents; 936 vs 641 encaustic definition; 941 vs 606/746 Turner Slave Ship; 1003 vs 026 first book printed in English; 1056 vs 818 Yeats The Second Coming) and fixed 1 answer-leak (865 stem literally named Brancusi before asking who sculpted it)."
     },
     {
       "chunkId": "arts-literature-p2-001",
@@ -589,11 +589,11 @@
         "arts-literature-1320",
         "arts-literature-1322"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-25",
+      "completedAt": "2026-08-25",
+      "issuesFound": 12,
+      "notes": "Fixed 1 factual error (Keats wrote six 1819 odes including To Autumn, not five). Cut 11 duplicates: 1241 vs 035 (Camera degli Sposi/Mantegna), 1243 vs 835 (Rubens Descent from the Cross), 1251 vs 349 (Gauguin Where Do We Come From), 1273 vs general-953 (Calder mobiles), 1276 vs 1009 (Die Brucke founding), 1278 vs 1465 (Toulouse-Lautrec Moulin Rouge posters), 1289 vs 1467 (O'Keeffe flowers/Southwest), 1305 vs 947 (Velazquez Surrender of Breda, already-done pass2 survivor), 1309 vs 745 (Bruegel Peasant Wedding), 1313 vs 1099 (Der Blaue Reiter Kandinsky/Marc), and 782 vs 947 (same Surrender of Breda pair, missed by same-answer check due to accented vs unaccented Velazquez spelling)."
     },
     {
       "chunkId": "arts-literature-p2-002",
@@ -650,11 +650,11 @@
         "arts-literature-1407",
         "arts-literature-1409"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-25",
+      "completedAt": "2026-08-25",
+      "issuesFound": 6,
+      "notes": "Fixed 1 factual/typo error (Tintoretto's Miracle of the Slave dated 1848, impossible since Tintoretto died 1594; corrected to 1548). Cut 5 duplicates: 1324 vs 825 (David's Oath of the Horatii), 1354 vs 784 (Seurat's Bathers at Asnieres), 1363 vs 834 (Rubens' Garden of Love), 1377 vs 657 (Pontormo's Deposition/Entombment, Capponi Chapel), 1405 vs 387 (Renoir's Dance/Bal du moulin de la Galette, English vs French title of the same painting)."
     },
     {
       "chunkId": "arts-literature-p2-003",
