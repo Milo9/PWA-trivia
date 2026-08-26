@@ -10959,19 +10959,6 @@
     "answer": "Pieter Bruegel the Elder"
   },
   {
-    "id": "arts-literature-746",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who painted The Slave Ship?",
-    "options": [
-      "J.M.W. Turner",
-      "William Blake",
-      "Thomas Gainsborough",
-      "John Constable"
-    ],
-    "answer": "J.M.W. Turner"
-  },
-  {
     "id": "arts-literature-747",
     "category": "arts-literature",
     "difficulty": "medium",
@@ -10983,32 +10970,6 @@
       "J.M.W. Turner"
     ],
     "answer": "Caspar David Friedrich"
-  },
-  {
-    "id": "arts-literature-748",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who painted Christina's World?",
-    "options": [
-      "Andrew Wyeth",
-      "Norman Rockwell",
-      "Edward Hopper",
-      "Grant Wood"
-    ],
-    "answer": "Andrew Wyeth"
-  },
-  {
-    "id": "arts-literature-749",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who painted The Son of Man with bowler hat and apple?",
-    "options": [
-      "Salvador Dalí",
-      "René Magritte",
-      "Max Ernst",
-      "Giorgio de Chirico"
-    ],
-    "answer": "René Magritte"
   },
   {
     "id": "arts-literature-750",
@@ -11232,19 +11193,6 @@
     "answer": "Virgil"
   },
   {
-    "id": "arts-literature-767",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who wrote Works and Days?",
-    "options": [
-      "Sappho",
-      "Homer",
-      "Pindar",
-      "Hesiod"
-    ],
-    "answer": "Hesiod"
-  },
-  {
     "id": "arts-literature-768",
     "category": "arts-literature",
     "difficulty": "medium",
@@ -11362,19 +11310,6 @@
     "answer": "Johannes Vermeer"
   },
   {
-    "id": "arts-literature-777",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who painted The Jewish Bride?",
-    "options": [
-      "Jan Steen",
-      "Rembrandt van Rijn",
-      "Frans Hals",
-      "Johannes Vermeer"
-    ],
-    "answer": "Rembrandt van Rijn"
-  },
-  {
     "id": "arts-literature-778",
     "category": "arts-literature",
     "difficulty": "medium",
@@ -11425,19 +11360,6 @@
       "Otto Dix"
     ],
     "answer": "Gustav Klimt"
-  },
-  {
-    "id": "arts-literature-783",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who painted Saturn Devouring His Son?",
-    "options": [
-      "El Greco",
-      "Francisco de Zurbarán",
-      "Diego Velázquez",
-      "Francisco Goya"
-    ],
-    "answer": "Francisco Goya"
   },
   {
     "id": "arts-literature-784",
@@ -11554,7 +11476,7 @@
       "Théodore Géricault",
       "Rosa Bonheur"
     ],
-    "answer": "Rosa Bonheur"
+    "answer": "Eugène Delacroix"
   },
   {
     "id": "arts-literature-793",
@@ -11633,19 +11555,6 @@
       "Robert Frost"
     ],
     "answer": "Robert Frost"
-  },
-  {
-    "id": "arts-literature-799",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who sculpted The Kiss in marble around 1882?",
-    "options": [
-      "Antonio Canova",
-      "Auguste Rodin",
-      "Constantin Brâncuși",
-      "Aristide Maillol"
-    ],
-    "answer": "Auguste Rodin"
   },
   {
     "id": "arts-literature-800",
@@ -11804,19 +11713,6 @@
     "answer": "Margaret Atwood"
   },
   {
-    "id": "arts-literature-813",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who wrote The Name of the Rose?",
-    "options": [
-      "Italo Calvino",
-      "Primo Levi",
-      "Umberto Eco",
-      "Alberto Moravia"
-    ],
-    "answer": "Umberto Eco"
-  },
-  {
     "id": "arts-literature-814",
     "category": "arts-literature",
     "difficulty": "hard",
@@ -11908,19 +11804,6 @@
     "answer": "Ezra Pound"
   },
   {
-    "id": "arts-literature-821",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who wrote Howl poem 1956?",
-    "options": [
-      "Gregory Corso",
-      "Jack Kerouac",
-      "Allen Ginsberg",
-      "William S. Burroughs"
-    ],
-    "answer": "Allen Ginsberg"
-  },
-  {
     "id": "arts-literature-822",
     "category": "arts-literature",
     "difficulty": "easy",
@@ -11969,19 +11852,6 @@
       "Théodore Géricault",
       "Eugène Delacroix",
       "Jacques-Louis David"
-    ],
-    "answer": "Jacques-Louis David"
-  },
-  {
-    "id": "arts-literature-826",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Who painted The Death of Marat?",
-    "options": [
-      "Antoine-Jean Gros",
-      "Jean-Auguste-Dominique Ingres",
-      "Jacques-Louis David",
-      "Eugène Delacroix"
     ],
     "answer": "Jacques-Louis David"
   },
@@ -19451,7 +19321,7 @@
     "id": "arts-literature-1422",
     "category": "arts-literature",
     "difficulty": "hard",
-    "question": "Which Dutch Golden Age master painted 'The Proposition' (1831) and 'The Flea Hunter'?",
+    "question": "Which Dutch Golden Age master painted 'The Proposition' (1631) and 'The Flea Hunter'?",
     "options": [
       "Judith Leyster",
       "Rachel Ruysch",
@@ -19581,7 +19451,7 @@
     "id": "arts-literature-1432",
     "category": "arts-literature",
     "difficulty": "hard",
-    "question": "Which German Neo-Expressionist painter is famous for upside-down portraits and figures, such as 'Der Hirte' ('The Shepherd')?",
+    "question": "Which German Neo-Expressionist painter is famous for upside-down paintings, such as 'Der Wald auf dem Kopf' ('The Wood on Its Head') (1969)?",
     "options": [
       "Georg Baselitz",
       "Anselm Kiefer",
@@ -19628,19 +19498,6 @@
       "Theodore Dreiser"
     ],
     "answer": "Jack London"
-  },
-  {
-    "id": "arts-literature-1436",
-    "category": "arts-literature",
-    "difficulty": "hard",
-    "question": "Which French Realist painter created 'The Stone Breakers' (1849), which was tragically destroyed during World War II?",
-    "options": [
-      "Gustave Courbet",
-      "Jean-François Millet",
-      "Honoré Daumier",
-      "Jules Breton"
-    ],
-    "answer": "Gustave Courbet"
   },
   {
     "id": "arts-literature-1437",
@@ -19719,19 +19576,6 @@
       "Nikolai Nekrasov"
     ],
     "answer": "Alexander Pushkin"
-  },
-  {
-    "id": "arts-literature-1443",
-    "category": "arts-literature",
-    "difficulty": "hard",
-    "question": "Which English Pre-Raphaelite painter depicted a carpenter's shop in his controversial 1850 painting 'Christ in the House of His Parents'?",
-    "options": [
-      "John Everett Millais",
-      "William Holman Hunt",
-      "Dante Gabriel Rossetti",
-      "Ford Madox Brown"
-    ],
-    "answer": "John Everett Millais"
   },
   {
     "id": "arts-literature-1444",
@@ -19979,19 +19823,6 @@
       "William Hogarth"
     ],
     "answer": "Thomas Gainsborough"
-  },
-  {
-    "id": "arts-literature-1463",
-    "category": "arts-literature",
-    "difficulty": "hard",
-    "question": "Which Italian Renaissance sculptor carved the bronze statue of 'David' wearing a laurel-trimmed hat (c. 1440)?",
-    "options": [
-      "Donatello",
-      "Verrocchio",
-      "Michelangelo",
-      "Benvenuto Cellini"
-    ],
-    "answer": "Donatello"
   },
   {
     "id": "arts-literature-1464",

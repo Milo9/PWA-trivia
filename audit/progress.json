@@ -711,11 +711,11 @@
         "arts-literature-743",
         "arts-literature-744"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-25",
+      "completedAt": "2026-08-25",
+      "issuesFound": 5,
+      "notes": "Cut 3 duplicates vs already-vetted pass-1 survivors (Stone Breakers/Courbet vs 681, Christ in House of His Parents/Millais vs 561, bronze David/Donatello vs 191). Fixed 1 date typo (Leyster's The Proposition: 1831 -> 1631, impossible given her 1609-1660 lifespan). Fixed 1 named-thing confusion (Baselitz's 'Der Hirte' (1966) is NOT one of his upside-down paintings -- swapped example to 'Der Wald auf dem Kopf' (1969), his actual first inverted work, verified via WebSearch). Logged 1 backlog note (arts-literature-1421 Delacroix Death of Sardanapalus vs pending sibling 874, neither yet reviewed by any pass). Verified ~15 other hard-difficulty attribution/date claims via memory, all correct; many same-answer flags were different works by the same prolific artist (Raphael, Titian, Poussin, etc.), not duplicates."
     },
     {
       "chunkId": "arts-literature-p2-004",
@@ -772,11 +772,11 @@
         "arts-literature-793",
         "arts-literature-794"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-25",
+      "completedAt": "2026-08-25",
+      "issuesFound": 7,
+      "notes": "Cut 6 duplicates vs already-vetted pass-1 survivors: Slave Ship/Turner vs 606, Christina's World/Wyeth vs 393, Son of Man/Magritte vs 175 (third sibling 1059 still pending, will self-resolve), Works and Days/Hesiod vs 056, Jewish Bride/Rembrandt vs 443, Saturn Devouring His Son/Goya vs 401 (third sibling 943 still pending, will self-resolve). Fixed 1 named-thing confusion: 'The Lion Hunt' (c.1860, lions attacking) is a Delacroix work, not Rosa Bonheur -- corrected answer, verified via WebSearch (Bonheur kept as a plausible distractor). Logged 4 backlog notes for duplicates whose sibling is still pending/unreviewed (761 vs 1474 Tender Is the Night, 776 vs 938 View of Delft, 781 vs 944 Portrait of Adele Bloch-Bauer I, 788 vs 1321 Love in the Time of Cholera)."
     },
     {
       "chunkId": "arts-literature-p2-005",
@@ -833,11 +833,11 @@
         "arts-literature-864",
         "arts-literature-866"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-25",
+      "completedAt": "2026-08-25",
+      "issuesFound": 11,
+      "notes": "Cut 4 duplicates vs already-vetted pass-1 survivors: The Kiss/Rodin vs general-1648 (third sibling 1048 still pending, will self-resolve), Name of the Rose/Eco vs 463, Howl/Ginsberg vs 390 (third sibling 917 still pending, will self-resolve), Death of Marat/David vs 406. Logged 7 backlog notes for duplicates whose sibling is still pending/unreviewed (802 vs 945 Ghent Altarpiece, 816 vs 1433 My Last Duchess, 817 vs 1370 Goblin Market, 832 vs 1394 Magic Mountain, 841 vs 1395 Childe Harold's Pilgrimage, 843 vs 927 Kubla Khan, 845 vs 1570 Tintern Abbey). No factual errors found among the ~40 non-duplicate questions; many same-answer flags were different works by the same prolific poet/artist (Keats, Byron, Wordsworth, Tennyson, Shelley, Coleridge, Thomas Mann, etc.), correctly not treated as duplicates. Left two 'combines two works into one question' framings (arts-literature-1369 Yeats Second Coming+Sailing to Byzantium, 1356 Keats Eve of St Agnes+Ode to Psyche) as-is, same judgment call as the earlier Hesiod/Theogony+Works-and-Days case -- broader-knowledge framing, not an exact restatement."
     },
     {
       "chunkId": "arts-literature-p2-006",
