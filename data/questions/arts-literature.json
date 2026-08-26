@@ -117,19 +117,6 @@
     "answer": "Johannes Vermeer"
   },
   {
-    "id": "general-213",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "\"Mark Twain\" was the pen name of which American author?",
-    "options": [
-      "Samuel Clemens",
-      "Washington Irving",
-      "Bret Harte",
-      "Ambrose Bierce"
-    ],
-    "answer": "Samuel Clemens"
-  },
-  {
     "id": "general-217",
     "category": "arts-literature",
     "difficulty": "hard",
@@ -271,19 +258,6 @@
       "Vincent van Gogh"
     ],
     "answer": "Edvard Munch"
-  },
-  {
-    "id": "general-486",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Which Irish author wrote the Gothic horror novel 'Dracula'?",
-    "options": [
-      "Oscar Wilde",
-      "Bram Stoker",
-      "George Bernard Shaw",
-      "Samuel Beckett"
-    ],
-    "answer": "Bram Stoker"
   },
   {
     "id": "general-487",
@@ -1454,32 +1428,6 @@
       "Robinson Crusoe"
     ],
     "answer": "Moby-Dick"
-  },
-  {
-    "id": "general-1982",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Which author wrote the controversial novel 'Lolita'?",
-    "options": [
-      "Vladimir Nabokov",
-      "Anthony Burgess",
-      "Philip Roth",
-      "Henry Miller"
-    ],
-    "answer": "Vladimir Nabokov"
-  },
-  {
-    "id": "general-1984",
-    "category": "arts-literature",
-    "difficulty": "easy",
-    "question": "Who wrote the science fiction novel 'Dune'?",
-    "options": [
-      "Frank Herbert",
-      "Isaac Asimov",
-      "Arthur C. Clarke",
-      "Philip K. Dick"
-    ],
-    "answer": "Frank Herbert"
   },
   {
     "id": "general-1987",
@@ -4576,19 +4524,6 @@
     "answer": "The Color Purple"
   },
   {
-    "id": "arts-literature-207",
-    "category": "arts-literature",
-    "difficulty": "easy",
-    "question": "Which author coined a now-famous paradoxical phrase in his World War II novel following the bombardier Captain John Yossarian?",
-    "options": [
-      "Norman Mailer",
-      "Joseph Heller",
-      "Thomas Pynchon",
-      "James Jones"
-    ],
-    "answer": "Joseph Heller"
-  },
-  {
     "id": "arts-literature-208",
     "category": "arts-literature",
     "difficulty": "medium",
@@ -7126,19 +7061,6 @@
   {
     "difficulty": "medium",
     "category": "arts-literature",
-    "question": "Which artist painted \"The Hay Wain\" (1821), a celebrated landscape depicting a rural scene on the River Stour?",
-    "options": [
-      "J.M.W. Turner",
-      "John Constable",
-      "Thomas Gainsborough",
-      "Richard Wilson"
-    ],
-    "answer": "John Constable",
-    "id": "arts-literature-422"
-  },
-  {
-    "difficulty": "medium",
-    "category": "arts-literature",
     "question": "In Edgar Allan Poe's \"The Tell-Tale Heart,\" what specific feature of the old man's appearance obsesses the narrator and drives him to murder?",
     "options": [
       "His vulture eye",
@@ -7447,19 +7369,6 @@
     ],
     "answer": "Mike Teavee",
     "id": "arts-literature-446"
-  },
-  {
-    "difficulty": "medium",
-    "category": "arts-literature",
-    "question": "Who wrote \"The Crucible,\" a 1953 play dramatizing the Salem witch trials as an allegory for McCarthyism?",
-    "options": [
-      "Tennessee Williams",
-      "Eugene O'Neill",
-      "Thornton Wilder",
-      "Arthur Miller"
-    ],
-    "answer": "Arthur Miller",
-    "id": "arts-literature-447"
   },
   {
     "difficulty": "hard",
@@ -10530,19 +10439,6 @@
     "answer": "William Golding"
   },
   {
-    "id": "arts-literature-713",
-    "category": "arts-literature",
-    "difficulty": "easy",
-    "question": "Who painted The Tower of Babel in 1563?",
-    "options": [
-      "Jan van Eyck",
-      "Albrecht Dürer",
-      "Hieronymus Bosch",
-      "Pieter Bruegel the Elder"
-    ],
-    "answer": "Pieter Bruegel the Elder"
-  },
-  {
     "id": "arts-literature-714",
     "category": "arts-literature",
     "difficulty": "easy",
@@ -10567,19 +10463,6 @@
       "Robert Louis Stevenson"
     ],
     "answer": "Bram Stoker"
-  },
-  {
-    "id": "arts-literature-716",
-    "category": "arts-literature",
-    "difficulty": "easy",
-    "question": "Who painted Primavera?",
-    "options": [
-      "Raphael",
-      "Giorgione",
-      "Titian",
-      "Sandro Botticelli"
-    ],
-    "answer": "Sandro Botticelli"
   },
   {
     "id": "arts-literature-717",
@@ -10645,19 +10528,6 @@
       "Kenneth Grahame"
     ],
     "answer": "A.A. Milne"
-  },
-  {
-    "id": "arts-literature-722",
-    "category": "arts-literature",
-    "difficulty": "easy",
-    "question": "Who wrote The Wind in the Willows?",
-    "options": [
-      "A.A. Milne",
-      "E.B. White",
-      "Kenneth Grahame",
-      "J.M. Barrie"
-    ],
-    "answer": "Kenneth Grahame"
   },
   {
     "id": "arts-literature-723",
@@ -17992,19 +17862,6 @@
     "answer": "Johannes Vermeer"
   },
   {
-    "id": "arts-literature-1339",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Which British poet wrote the long narrative poem 'Don Juan' in ottava rima?",
-    "options": [
-      "Lord Byron",
-      "Percy Bysshe Shelley",
-      "John Keats",
-      "William Wordsworth"
-    ],
-    "answer": "Lord Byron"
-  },
-  {
     "id": "arts-literature-1340",
     "category": "arts-literature",
     "difficulty": "hard",
@@ -20072,19 +19929,6 @@
     "answer": "Umberto Eco"
   },
   {
-    "id": "arts-literature-1512",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Which author wrote the 2001 novel 'The Shadow of the Wind'?",
-    "options": [
-      "Arturo Pérez-Reverte",
-      "Isabel Allende",
-      "Jorge Luis Borges",
-      "Carlos Ruiz Zafón"
-    ],
-    "answer": "Carlos Ruiz Zafón"
-  },
-  {
     "id": "arts-literature-1513",
     "category": "arts-literature",
     "difficulty": "medium",
@@ -20761,19 +20605,6 @@
     "answer": "John Keats"
   },
   {
-    "id": "arts-literature-1565",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Which poet wrote 'To Autumn'?",
-    "options": [
-      "John Clare",
-      "William Wordsworth",
-      "Samuel Taylor Coleridge",
-      "John Keats"
-    ],
-    "answer": "John Keats"
-  },
-  {
     "id": "arts-literature-1566",
     "category": "arts-literature",
     "difficulty": "medium",
@@ -20824,19 +20655,6 @@
       "Samuel Taylor Coleridge"
     ],
     "answer": "Samuel Taylor Coleridge"
-  },
-  {
-    "id": "arts-literature-1570",
-    "category": "arts-literature",
-    "difficulty": "medium",
-    "question": "Which poet wrote 'Lines Composed a Few Miles above Tintern Abbey'?",
-    "options": [
-      "Samuel Taylor Coleridge",
-      "William Wordsworth",
-      "John Keats",
-      "Lord Byron"
-    ],
-    "answer": "William Wordsworth"
   },
   {
     "id": "arts-literature-1571",

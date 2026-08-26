@@ -1260,11 +1260,11 @@
         "arts-literature-1555",
         "arts-literature-1556"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-26",
+      "completedAt": "2026-08-26",
+      "issuesFound": 1,
+      "notes": "Cut arts-literature-1512 (The Shadow of the Wind -> Carlos Ruiz Zafon), duplicate of already-reviewed arts-literature-1034 per backlog note. Rest of chunk (authors, painters, architects, non-fiction writers) verified clean -- multiple same-answer clusters checked but all are legitimately distinct named works by the same person, not duplicates. Noted several pending-sibling same-answer pairs (Glass House/959, Guggenheim Bilbao/1545) that will self-resolve when their own chunks are reached."
     },
     {
       "chunkId": "arts-literature-p2-013",
@@ -1321,11 +1321,11 @@
         "arts-literature-1606",
         "arts-literature-1607"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-26",
+      "completedAt": "2026-08-26",
+      "issuesFound": 3,
+      "notes": "Cut 3 duplicates: arts-literature-1565 (To Autumn -> Keats, dup of already-done 810), arts-literature-1570 (Tintern Abbey -> Wordsworth, dup of already-done 845, resolved existing backlog note), and arts-literature-1339 (Don Juan -> Byron, dup of already-done 840, found incidentally cross-referencing the Byron cluster in this chunk -- both prior reviews missed each other). Logged new backlog note on arts-literature-1187 (pending) vs orphan arts-literature-147, both 'who wrote Ozymandias' -> Shelley. Rest of chunk (large FLW-buildings, Keats/Wordsworth/Coleridge/Shelley/Byron/Spenser poem, and Jacobean-playwright same-answer clusters) verified as legitimately distinct named works per author -- no other duplicates or factual errors found."
     },
     {
       "chunkId": "arts-literature-p2-014",
@@ -1382,11 +1382,11 @@
         "arts-literature-730",
         "arts-literature-731"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-26",
+      "completedAt": "2026-08-26",
+      "issuesFound": 10,
+      "notes": "Cut 10 duplicates. Resolved 2 existing backlog notes: arts-literature-713 (Tower of Babel 1563 -> Bruegel, dup of already-done 942) and arts-literature-716 (Primavera -> Botticelli, dup of already-done 940). Found 8 more incidentally while reading same-answer clusters, all confirmed as identical facts and cut (orphan/legacy-general-id siblings that would never resurface via next, or an already-done sibling): arts-literature-447 (Crucible -> Miller, dup of 707), arts-literature-422 (Hay Wain -> Constable, dup of 708), general-1982 (Lolita -> Nabokov, dup of 714), general-486 (Dracula -> Stoker, dup of 715), arts-literature-722 (Wind in the Willows -> Grahame, dup of already-done 1381), general-213 (Mark Twain/Samuel Clemens reversed-direction dup of 724), general-1984 (Dune -> Herbert, dup of 729), arts-literature-207 (Catch-22 identified via Yossarian/bombardier clue, premise-reveal dup of 727). Verified the large Jacobean-playwright (Dekker/Ford/Jonson) and classic-author/painter (easy-difficulty 707-731) same-answer clusters are otherwise all legitimately distinct named works -- e.g. the John Ford hits on film-tv-069 are a coincidental name collision (playwright vs. film director), not a real duplicate. No distractor-correctness or other factual issues found."
     },
     {
       "chunkId": "arts-literature-p2-015",
