@@ -11752,19 +11752,6 @@
     "answer": "Johann Wolfgang von Goethe"
   },
   {
-    "id": "arts-literature-829",
-    "category": "arts-literature",
-    "difficulty": "easy",
-    "question": "Who wrote Faust?",
-    "options": [
-      "Johann Wolfgang von Goethe",
-      "Friedrich Schiller",
-      "Heinrich Heine",
-      "Thomas Mann"
-    ],
-    "answer": "Johann Wolfgang von Goethe"
-  },
-  {
     "id": "arts-literature-830",
     "category": "arts-literature",
     "difficulty": "medium",
@@ -12114,19 +12101,6 @@
       "Wallace Stevens"
     ],
     "answer": "Wallace Stevens"
-  },
-  {
-    "id": "arts-literature-858",
-    "category": "arts-literature",
-    "difficulty": "easy",
-    "question": "Who wrote The Red Wheelbarrow?",
-    "options": [
-      "William Carlos Williams",
-      "Wallace Stevens",
-      "Marianne Moore",
-      "Ezra Pound"
-    ],
-    "answer": "William Carlos Williams"
   },
   {
     "id": "arts-literature-859",
@@ -12753,19 +12727,6 @@
     "id": "arts-literature-911"
   },
   {
-    "difficulty": "easy",
-    "category": "arts-literature",
-    "question": "In Jules Verne's Around the World in Eighty Days, what is the number of days in Phileas Fogg's wager?",
-    "options": [
-      "60 days",
-      "100 days",
-      "40 days",
-      "80 days"
-    ],
-    "answer": "80 days",
-    "id": "arts-literature-912"
-  },
-  {
     "difficulty": "medium",
     "category": "arts-literature",
     "question": "In George Eliot's Silas Marner, what is Silas's trade?",
@@ -12961,32 +12922,6 @@
     "id": "arts-literature-931"
   },
   {
-    "difficulty": "easy",
-    "category": "arts-literature",
-    "question": "What is the name of the technique that uses strong contrasts between light and dark to create volume?",
-    "options": [
-      "Grisaille",
-      "Chiaroscuro",
-      "Tempera",
-      "Encaustic"
-    ],
-    "answer": "Chiaroscuro",
-    "id": "arts-literature-932"
-  },
-  {
-    "difficulty": "easy",
-    "category": "arts-literature",
-    "question": "Which mural technique involves applying water-based pigments to wet plaster so the color becomes part of the wall?",
-    "options": [
-      "Tempera",
-      "Fresco",
-      "Gesso",
-      "Alla prima"
-    ],
-    "answer": "Fresco",
-    "id": "arts-literature-933"
-  },
-  {
     "difficulty": "medium",
     "category": "arts-literature",
     "question": "Which painting medium traditionally binds pigments with egg yolk?",
@@ -13024,19 +12959,6 @@
     ],
     "answer": "Impasto",
     "id": "arts-literature-937"
-  },
-  {
-    "difficulty": "easy",
-    "category": "arts-literature",
-    "question": "Who painted the series of 'Sunflowers' in Arles to decorate the Yellow House?",
-    "options": [
-      "Paul Gauguin",
-      "Vincent van Gogh",
-      "Paul Cezanne",
-      "Claude Monet"
-    ],
-    "answer": "Vincent van Gogh",
-    "id": "arts-literature-939"
   },
   {
     "difficulty": "medium",
@@ -13219,19 +13141,6 @@
     ],
     "answer": "Corinthian",
     "id": "arts-literature-958"
-  },
-  {
-    "difficulty": "easy",
-    "category": "arts-literature",
-    "question": "Who designed the Glass House in New Canaan, Connecticut as his own weekend retreat?",
-    "options": [
-      "Mies van der Rohe",
-      "Charles Eames",
-      "Philip Johnson",
-      "I.M. Pei"
-    ],
-    "answer": "Philip Johnson",
-    "id": "arts-literature-959"
   },
   {
     "difficulty": "medium",
@@ -13882,19 +13791,6 @@
     ],
     "answer": "Pop Art",
     "id": "arts-literature-1011"
-  },
-  {
-    "difficulty": "easy",
-    "category": "arts-literature",
-    "question": "Which influential design school was founded by Walter Gropius in Weimar in April 1919?",
-    "options": [
-      "Werkbund",
-      "Bauhaus",
-      "De Stijl",
-      "Ulm School"
-    ],
-    "answer": "Bauhaus",
-    "id": "arts-literature-1012"
   },
   {
     "difficulty": "medium",
@@ -14978,7 +14874,7 @@
   {
     "difficulty": "easy",
     "category": "arts-literature",
-    "question": "Tamara de Lempicka's Art Deco 1925 self-portrait, showing her behind the wheel of a sports car, depicts a car of which brand?",
+    "question": "Tamara de Lempicka's Art Deco 1929 self-portrait, showing her behind the wheel of a sports car, depicts a car of which brand?",
     "options": [
       "Bugatti",
       "Alfa Romeo",
@@ -15184,19 +15080,6 @@
     "id": "arts-literature-1118"
   },
   {
-    "difficulty": "easy",
-    "category": "arts-literature",
-    "question": "In Mark Twain's 'The Adventures of Tom Sawyer' 1876, what does Tom persuade his friends to whitewash?",
-    "options": [
-      "A barn",
-      "A fence",
-      "A house",
-      "A boat"
-    ],
-    "answer": "A fence",
-    "id": "arts-literature-1119"
-  },
-  {
     "difficulty": "medium",
     "category": "arts-literature",
     "question": "In Jules Verne's 'Around the World in Eighty Days' 1873, how much is Phileas Fogg's wager at the Reform Club?",
@@ -15221,19 +15104,6 @@
     ],
     "answer": "A",
     "id": "arts-literature-1121"
-  },
-  {
-    "difficulty": "easy",
-    "category": "arts-literature",
-    "question": "In Charlotte Bronte's 'Jane Eyre' 1847, what is the name of the manor where Jane works as governess?",
-    "options": [
-      "Thornfield Hall",
-      "Manderley",
-      "Wuthering Heights",
-      "Gateshead Hall"
-    ],
-    "answer": "Thornfield Hall",
-    "id": "arts-literature-1122"
   },
   {
     "difficulty": "easy",
@@ -15466,7 +15336,7 @@
       "Bunbury",
       "Cecily"
     ],
-    "answer": "Bunbury",
+    "answer": "Ernest",
     "id": "arts-literature-1140"
   },
   {
@@ -15769,19 +15639,6 @@
     "id": "arts-literature-1163"
   },
   {
-    "difficulty": "easy",
-    "category": "arts-literature",
-    "question": "What is the name for a Japanese poem with a 5-7-5 syllable structure?",
-    "options": [
-      "Haiku",
-      "Tanka",
-      "Senryu",
-      "Renga"
-    ],
-    "answer": "Haiku",
-    "id": "arts-literature-1164"
-  },
-  {
     "difficulty": "medium",
     "category": "arts-literature",
     "question": "What term describes a vivid literary description of a work of visual art?",
@@ -16066,19 +15923,6 @@
     ],
     "answer": "30",
     "id": "arts-literature-1186"
-  },
-  {
-    "difficulty": "easy",
-    "category": "arts-literature",
-    "question": "Which poet wrote 'Ozymandias' 1818 about a ruined statue in the desert?",
-    "options": [
-      "Percy Bysshe Shelley",
-      "John Keats",
-      "Lord Byron",
-      "William Wordsworth"
-    ],
-    "answer": "Percy Bysshe Shelley",
-    "id": "arts-literature-1187"
   },
   {
     "difficulty": "easy",

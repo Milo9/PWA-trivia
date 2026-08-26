@@ -1443,11 +1443,11 @@
         "arts-literature-974",
         "arts-literature-976"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-26",
+      "completedAt": "2026-08-26",
+      "issuesFound": 7,
+      "notes": "Cut 6 confirmed duplicates whose already-reviewed sibling was kept (Faust/829, Red Wheelbarrow/858, Chiaroscuro/932, Fresco/933, Van Gogh Sunflowers-Arles/939, Glass House/959) plus 1 self-answering question (Around the World in Eighty Days day-count, title spells out the answer). Logged 10 backlog notes for duplicates whose sibling is an orphan (unreviewed, no chunk): 733/437, 734/451, 735/107, 737/057, 824/444, 896/general-3006, 897/general-3005, 909/211, 918/146, 965/574."
     },
     {
       "chunkId": "arts-literature-p2-016",
@@ -1504,11 +1504,11 @@
         "arts-literature-1099",
         "arts-literature-1100"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-26",
+      "completedAt": "2026-08-26",
+      "issuesFound": 1,
+      "notes": "Cut 1 confirmed duplicate whose already-reviewed sibling was kept (Bauhaus founding/1012, dup of done 769). Logged 5 backlog notes for duplicates whose sibling is an orphan: 1018/351 (Pollock drip painting), 1029/253 (Life of Pi tiger name), 1033/film-tv-651 (Hunger Games District 12, cross-category), 1041/633 (Starry Night Over the Rhone), 1050/684 (Cat in the Hat/Dr. Seuss). All other questions in chunk (art-history facts, museum locations, children's-book facts, poetry/movement definitions) checked for distractor correctness and verified fine."
     },
     {
       "chunkId": "arts-literature-p2-017",
@@ -1565,11 +1565,11 @@
         "arts-literature-1201",
         "arts-literature-1203"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-26",
+      "completedAt": "2026-08-26",
+      "issuesFound": 8,
+      "notes": "Fixed 2 factual errors: 1103 self-portrait date 1925->1929 (Tamara de Lempicka's Green Bugatti portrait, verified via WebSearch), 1140 wrong marked answer Bunbury->Ernest (Jack's imaginary brother in Importance of Being Earnest; Bunbury is Algernon's invented friend, not Jack's brother, verified via WebSearch). Cut 4 confirmed duplicates whose already-reviewed sibling was kept: 1119 (Tom Sawyer fence, dup of done 904), 1122 (Jane Eyre Thornfield Hall, dup of done 1264), 1164 (Haiku 5-7-5, reversed-direction dup of done 883), 1187 (Ozymandias/Shelley, resolved a stale backlog note referencing orphan 147, backlog note removed). Also cleaned up 1 unrelated stale backlog note (1125, sibling already cut in a prior session). Logged 2 new backlog notes for orphan-sibling duplicates: 1121/383 (Scarlet Letter), 1149/general-1126+066 (Brave New World Soma, triplicate)."
     },
     {
       "chunkId": "arts-literature-p2-018",
