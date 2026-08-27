@@ -2695,11 +2695,11 @@
         "civics-law-economics-808",
         "civics-law-economics-809"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-27",
+      "completedAt": "2026-08-27",
+      "issuesFound": 4,
+      "notes": "Cut civics-law-economics-808 (duplicate of already-reviewed civics-law-economics-1070, both 'best evidence rule'). Fixed civics-law-economics-1376: distractor 'Catch-up effect' was a synonym for the marked answer 'Convergence', not a genuinely wrong option -> replaced with 'Middle income trap'. Logged backlog notes on civics-law-economics-1372 (orphan sibling 459, economic union) and civics-law-economics-780 (orphan sibling 661, rider) for later manual cutting; a third rider dupe (1403) is pending and will self-resolve."
     },
     {
       "chunkId": "civics-law-economics-p2-004",
@@ -2756,11 +2756,11 @@
         "civics-law-economics-893",
         "civics-law-economics-902"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-27",
+      "completedAt": "2026-08-27",
+      "issuesFound": 5,
+      "notes": "Cut civics-law-economics-829 (duplicate of already-reviewed civics-law-economics-1240, both 'plurality opinion'). Fixed 4 distractor-synonym bugs where a 'wrong' option was actually a synonym of the marked answer: 831 ('Thin skull doctrine' = 'Eggshell skull rule' -> replaced with 'Last clear chance doctrine'), 855 ('Entire agreement clause' and 'Integration clause' both = 'Merger clause' -> replaced with 'Non-compete clause'/'Force majeure clause'), 859 ('Jurisdiction clause' = 'Choice of forum clause', confirmed via search -> replaced with 'Arbitration clause'), 893 ('Priming the pump' = literal reorder of 'Pump priming' -> replaced with 'Automatic stabilizers')."
     },
     {
       "chunkId": "civics-law-economics-p2-005",
@@ -2817,11 +2817,11 @@
         "civics-law-economics-991",
         "civics-law-economics-992"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-27",
+      "completedAt": "2026-08-27",
+      "issuesFound": 5,
+      "notes": "Cut 5 duplicates whose sibling had already been reviewed in an earlier chunk: 936 (RICO, dup of 825/p2-004), 944 (Batson challenge, dup of 1232/p2-002), 973 (Incidental beneficiary, dup of 1266/p2-002), 985 (Equation of exchange, dup of 1347/p2-003), and 971 (Integration clause, dup of 855/p2-004 -- same fact as 855 but drafted with a different synonymous clause name as the marked answer, a same-answer-index miss since 'Integration clause' != 'Merger clause' as text)."
     },
     {
       "chunkId": "civics-law-economics-p2-006",

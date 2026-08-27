@@ -10309,19 +10309,6 @@
     "answer": "Hearsay rule"
   },
   {
-    "id": "civics-law-economics-808",
-    "difficulty": "medium",
-    "category": "civics-law-economics",
-    "question": "What rule generally requires the original document to prove its contents rather than a copy or testimony?",
-    "options": [
-      "Hearsay rule",
-      "Authentication rule",
-      "Secondary evidence rule",
-      "Best evidence rule"
-    ],
-    "answer": "Best evidence rule"
-  },
-  {
     "id": "civics-law-economics-809",
     "difficulty": "medium",
     "category": "civics-law-economics",
@@ -10582,19 +10569,6 @@
     "answer": "Per curiam"
   },
   {
-    "id": "civics-law-economics-829",
-    "difficulty": "medium",
-    "category": "civics-law-economics",
-    "question": "What term describes an appellate decision where no single rationale garners a majority, but a result is agreed by the largest bloc?",
-    "options": [
-      "Majority opinion",
-      "Per curiam opinion",
-      "Concurring opinion",
-      "Plurality opinion"
-    ],
-    "answer": "Plurality opinion"
-  },
-  {
     "id": "civics-law-economics-830",
     "difficulty": "medium",
     "category": "civics-law-economics",
@@ -10616,7 +10590,7 @@
       "Crumbling skull rule",
       "Eggshell skull rule",
       "Foreseeability rule",
-      "Thin skull doctrine"
+      "Last clear chance doctrine"
     ],
     "answer": "Eggshell skull rule"
   },
@@ -10925,9 +10899,9 @@
     "category": "civics-law-economics",
     "question": "What contract provision declares the written agreement is the complete and final expression of the parties' deal?",
     "options": [
-      "Entire agreement clause",
+      "Non-compete clause",
       "Severability clause",
-      "Integration clause",
+      "Force majeure clause",
       "Merger clause"
     ],
     "answer": "Merger clause"
@@ -10977,7 +10951,7 @@
     "category": "civics-law-economics",
     "question": "What contract provision specifies the court or jurisdiction where disputes must be litigated?",
     "options": [
-      "Jurisdiction clause",
+      "Arbitration clause",
       "Venue clause",
       "Choice of law clause",
       "Choice of forum clause"
@@ -11421,7 +11395,7 @@
     "options": [
       "Pump priming",
       "Crowding out",
-      "Priming the pump",
+      "Automatic stabilizers",
       "Austerity"
     ],
     "answer": "Pump priming"
@@ -11921,19 +11895,6 @@
     "id": "civics-law-economics-935"
   },
   {
-    "difficulty": "medium",
-    "category": "civics-law-economics",
-    "question": "What federal law targets patterns of racketeering activity, allowing prosecution of enterprise-related crimes?",
-    "options": [
-      "FERPA",
-      "FISA",
-      "RICO",
-      "FOIA"
-    ],
-    "answer": "RICO",
-    "id": "civics-law-economics-936"
-  },
-  {
     "difficulty": "easy",
     "category": "civics-law-economics",
     "question": "What classification describes a less serious crime typically punishable by less than a year in county jail?",
@@ -12023,19 +11984,6 @@
     ],
     "answer": "Brady disclosure",
     "id": "civics-law-economics-943"
-  },
-  {
-    "difficulty": "medium",
-    "category": "civics-law-economics",
-    "question": "What type of challenge alleges that a peremptory jury strike was based on race or gender discrimination?",
-    "options": [
-      "Challenge for cause",
-      "Peremptory challenge",
-      "Batson challenge",
-      "Voir dire"
-    ],
-    "answer": "Batson challenge",
-    "id": "civics-law-economics-944"
   },
   {
     "difficulty": "medium",
@@ -12378,19 +12326,6 @@
   {
     "difficulty": "medium",
     "category": "civics-law-economics",
-    "question": "What clause states that the written contract is the final and complete agreement, barring prior oral terms?",
-    "options": [
-      "Merger clause",
-      "Savings clause",
-      "Integration clause",
-      "Habitability clause"
-    ],
-    "answer": "Integration clause",
-    "id": "civics-law-economics-971"
-  },
-  {
-    "difficulty": "medium",
-    "category": "civics-law-economics",
     "question": "What term describes a person who is intended to benefit from a contract between two others and can enforce it?",
     "options": [
       "Incidental beneficiary",
@@ -12400,19 +12335,6 @@
     ],
     "answer": "Intended third-party beneficiary",
     "id": "civics-law-economics-972"
-  },
-  {
-    "difficulty": "medium",
-    "category": "civics-law-economics",
-    "question": "What term describes a person who incidentally benefits from a contract but has no right to enforce it?",
-    "options": [
-      "Novatee",
-      "Incidental beneficiary",
-      "Intended beneficiary",
-      "Third-party assignee"
-    ],
-    "answer": "Incidental beneficiary",
-    "id": "civics-law-economics-973"
   },
   {
     "difficulty": "easy",
@@ -12556,19 +12478,6 @@
     ],
     "answer": "Reserve ratio",
     "id": "civics-law-economics-984"
-  },
-  {
-    "difficulty": "medium",
-    "category": "civics-law-economics",
-    "question": "What equation, MV = PY, summarizes the relationship between money supply, velocity, price level, and real output?",
-    "options": [
-      "Equation of exchange",
-      "Fisher equation",
-      "Taylor rule",
-      "Phillips curve"
-    ],
-    "answer": "Equation of exchange",
-    "id": "civics-law-economics-985"
   },
   {
     "difficulty": "hard",
@@ -17010,7 +16919,7 @@
     "options": [
       "Convergence",
       "Divergence",
-      "Catch-up effect",
+      "Middle income trap",
       "Multiplier effect"
     ],
     "answer": "Convergence",
