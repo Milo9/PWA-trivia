@@ -12597,19 +12597,6 @@
     "id": "civics-law-economics-1004"
   },
   {
-    "difficulty": "easy",
-    "category": "civics-law-economics",
-    "question": "What trade barrier sets a quantitative limit on how much of a good can be imported?",
-    "options": [
-      "Embargo",
-      "Sanction",
-      "Boycott",
-      "Quota"
-    ],
-    "answer": "Quota",
-    "id": "civics-law-economics-1005"
-  },
-  {
     "difficulty": "medium",
     "category": "civics-law-economics",
     "question": "What principle requires WTO members to treat all other members equally regarding trade advantages?",
@@ -12673,19 +12660,6 @@
     ],
     "answer": "Jeddah",
     "id": "civics-law-economics-1010"
-  },
-  {
-    "difficulty": "easy",
-    "category": "civics-law-economics",
-    "question": "As of 2026, where is the headquarters of UN Tourism, formerly UNWTO?",
-    "options": [
-      "Rome",
-      "Barcelona",
-      "Lisbon",
-      "Madrid"
-    ],
-    "answer": "Madrid",
-    "id": "civics-law-economics-1011"
   },
   {
     "difficulty": "medium",
@@ -13078,19 +13052,6 @@
     "answer": "Appellate jurisdiction"
   },
   {
-    "id": "civics-law-economics-1048",
-    "category": "civics-law-economics",
-    "difficulty": "easy",
-    "question": "What is the term for the executive power to reject a bill passed by the legislature?",
-    "options": [
-      "Veto",
-      "Filibuster",
-      "Cloture",
-      "Pocket veto"
-    ],
-    "answer": "Veto"
-  },
-  {
     "id": "civics-law-economics-1050",
     "category": "civics-law-economics",
     "difficulty": "medium",
@@ -13102,19 +13063,6 @@
       "Reprieve"
     ],
     "answer": "Commutation"
-  },
-  {
-    "id": "civics-law-economics-1051",
-    "category": "civics-law-economics",
-    "difficulty": "easy",
-    "question": "What is the term for a minor crime typically punishable by a fine or less than a year of imprisonment?",
-    "options": [
-      "Misdemeanor",
-      "Felony",
-      "Infraction",
-      "Treason"
-    ],
-    "answer": "Misdemeanor"
   },
   {
     "id": "civics-law-economics-1052",
@@ -14950,19 +14898,6 @@
     "id": "civics-law-economics-1242"
   },
   {
-    "difficulty": "easy",
-    "category": "civics-law-economics",
-    "question": "What is the legal term for an unreasonable interference with a person's use and enjoyment of their land?",
-    "options": [
-      "Nuisance",
-      "Trespass",
-      "Easement",
-      "Encumbrance"
-    ],
-    "answer": "Nuisance",
-    "id": "civics-law-economics-1245"
-  },
-  {
     "difficulty": "medium",
     "category": "civics-law-economics",
     "question": "Which invasion of privacy tort involves physically or sensory intruding into a person's private space or affairs?",
@@ -15065,19 +15000,6 @@
     ],
     "answer": "Bilateral contract",
     "id": "civics-law-economics-1255"
-  },
-  {
-    "difficulty": "easy",
-    "category": "civics-law-economics",
-    "question": "What type of contract is formed when an offeror promises to pay upon the completion of a specific act by the offeree?",
-    "options": [
-      "Unilateral contract",
-      "Bilateral contract",
-      "Voidable contract",
-      "Quasi-contract"
-    ],
-    "answer": "Unilateral contract",
-    "id": "civics-law-economics-1256"
   },
   {
     "difficulty": "easy",
@@ -15212,19 +15134,6 @@
   {
     "difficulty": "easy",
     "category": "civics-law-economics",
-    "question": "What type of breach occurs when a party fails to perform a major part of a contract, excusing the other party from performance?",
-    "options": [
-      "Material breach",
-      "Minor breach",
-      "Anticipatory repudiation",
-      "Partial breach"
-    ],
-    "answer": "Material breach",
-    "id": "civics-law-economics-1267"
-  },
-  {
-    "difficulty": "easy",
-    "category": "civics-law-economics",
     "question": "What is the term for an interest in real property that grants a tenant the right to possess and use the property for a fixed or periodic duration?",
     "options": [
       "Leasehold estate",
@@ -15286,19 +15195,6 @@
     ],
     "answer": "Torrens system",
     "id": "civics-law-economics-1280"
-  },
-  {
-    "difficulty": "easy",
-    "category": "civics-law-economics",
-    "question": "What is the term for a criminal offense that is less serious than a felony and typically punishable by less than a year of incarceration?",
-    "options": [
-      "Misdemeanor",
-      "Infraction",
-      "Felony",
-      "Tort"
-    ],
-    "answer": "Misdemeanor",
-    "id": "civics-law-economics-1281"
   },
   {
     "difficulty": "medium",
@@ -15548,19 +15444,6 @@
     "id": "civics-law-economics-1302"
   },
   {
-    "difficulty": "easy",
-    "category": "civics-law-economics",
-    "question": "As of 2026, the Office of the UN High Commissioner for Refugees (UNHCR) is headquartered in which city?",
-    "options": [
-      "Geneva",
-      "New York",
-      "Vienna",
-      "Nairobi"
-    ],
-    "answer": "Geneva",
-    "id": "civics-law-economics-1304"
-  },
-  {
     "difficulty": "medium",
     "category": "civics-law-economics",
     "question": "As of 2026, where is the headquarters of the United Nations Office on Drugs and Crime (UNODC)?",
@@ -15769,32 +15652,6 @@
     "id": "civics-law-economics-1321"
   },
   {
-    "difficulty": "medium",
-    "category": "civics-law-economics",
-    "question": "What is the term for the opportunity cost of using resources already owned by the firm, for which no actual cash payment is made?",
-    "options": [
-      "Implicit cost",
-      "Explicit cost",
-      "Accounting cost",
-      "Marginal cost"
-    ],
-    "answer": "Implicit cost",
-    "id": "civics-law-economics-1322"
-  },
-  {
-    "difficulty": "medium",
-    "category": "civics-law-economics",
-    "question": "What is the term for a firm's total revenue minus its total opportunity costs, including both explicit and implicit costs?",
-    "options": [
-      "Economic profit",
-      "Accounting profit",
-      "Normal profit",
-      "Supernormal profit"
-    ],
-    "answer": "Economic profit",
-    "id": "civics-law-economics-1323"
-  },
-  {
     "difficulty": "hard",
     "category": "civics-law-economics",
     "question": "What term describes the minimum level of profit needed to keep a firm operating in its current business, representing the opportunity cost of the entrepreneur's time?",
@@ -15912,32 +15769,6 @@
     "id": "civics-law-economics-1332"
   },
   {
-    "difficulty": "medium",
-    "category": "civics-law-economics",
-    "question": "What is the term for goods that are excludable but non-rivalrous, such as cable television or private parks?",
-    "options": [
-      "Club goods",
-      "Public goods",
-      "Common resources",
-      "Private goods"
-    ],
-    "answer": "Club goods",
-    "id": "civics-law-economics-1333"
-  },
-  {
-    "difficulty": "medium",
-    "category": "civics-law-economics",
-    "question": "What is the term for goods that are non-excludable but rivalrous, such as fish in the ocean or timber in a public forest?",
-    "options": [
-      "Common resources",
-      "Public goods",
-      "Club goods",
-      "Private goods"
-    ],
-    "answer": "Common resources",
-    "id": "civics-law-economics-1334"
-  },
-  {
     "difficulty": "hard",
     "category": "civics-law-economics",
     "question": "In economics, what is the term for the action of the informed party credibly revealing their private information to an uninformed party?",
@@ -15962,32 +15793,6 @@
     ],
     "answer": "Screening",
     "id": "civics-law-economics-1336"
-  },
-  {
-    "difficulty": "easy",
-    "category": "civics-law-economics",
-    "question": "What economic term refers to the stock of skills, knowledge, and experience possessed by an individual or population?",
-    "options": [
-      "Human capital",
-      "Physical capital",
-      "Social capital",
-      "Financial capital"
-    ],
-    "answer": "Human capital",
-    "id": "civics-law-economics-1337"
-  },
-  {
-    "difficulty": "medium",
-    "category": "civics-law-economics",
-    "question": "What is the term for the additional output produced by a firm when it employs one additional unit of labor, holding all other inputs constant?",
-    "options": [
-      "Marginal product of labor",
-      "Marginal cost",
-      "Average product",
-      "Marginal revenue"
-    ],
-    "answer": "Marginal product of labor",
-    "id": "civics-law-economics-1338"
   },
   {
     "difficulty": "medium",
@@ -16120,32 +15925,6 @@
     "id": "civics-law-economics-1348"
   },
   {
-    "difficulty": "easy",
-    "category": "civics-law-economics",
-    "question": "What is the term for the stated interest rate on a loan or financial instrument, not adjusted for inflation?",
-    "options": [
-      "Nominal interest rate",
-      "Real interest rate",
-      "Effective interest rate",
-      "Yield to maturity"
-    ],
-    "answer": "Nominal interest rate",
-    "id": "civics-law-economics-1349"
-  },
-  {
-    "difficulty": "medium",
-    "category": "civics-law-economics",
-    "question": "What is the term for the interest rate charged by a central bank on short-term loans extended to commercial banks?",
-    "options": [
-      "Discount rate",
-      "Federal funds rate",
-      "Prime rate",
-      "Reserve requirement"
-    ],
-    "answer": "Discount rate",
-    "id": "civics-law-economics-1350"
-  },
-  {
     "difficulty": "medium",
     "category": "civics-law-economics",
     "question": "What is the central bank tool that dictates the percentage of customer deposits that commercial banks must hold in reserve?",
@@ -16198,19 +15977,6 @@
     "id": "civics-law-economics-1354"
   },
   {
-    "difficulty": "medium",
-    "category": "civics-law-economics",
-    "question": "What is the economic term for the fraction of an additional dollar of disposable income that a household saves rather than spends?",
-    "options": [
-      "Marginal propensity to save",
-      "Marginal propensity to consume",
-      "Average propensity to save",
-      "Multiplier effect"
-    ],
-    "answer": "Marginal propensity to save",
-    "id": "civics-law-economics-1355"
-  },
-  {
     "difficulty": "hard",
     "category": "civics-law-economics",
     "question": "In Keynesian economics, what is the term for the economic multiplier that results from an equal increase in government spending and taxation?",
@@ -16222,19 +15988,6 @@
     ],
     "answer": "Balanced budget multiplier",
     "id": "civics-law-economics-1356"
-  },
-  {
-    "difficulty": "easy",
-    "category": "civics-law-economics",
-    "question": "What is the term for the total amount of money owed by a federal government to its creditors?",
-    "options": [
-      "National debt",
-      "Budget deficit",
-      "Fiscal deficit",
-      "Trade deficit"
-    ],
-    "answer": "National debt",
-    "id": "civics-law-economics-1357"
   },
   {
     "difficulty": "medium",
@@ -16261,45 +16014,6 @@
     ],
     "answer": "New Keynesian economics",
     "id": "civics-law-economics-1359"
-  },
-  {
-    "difficulty": "medium",
-    "category": "civics-law-economics",
-    "question": "What cognitive bias describes the tendency for people to strongly prefer avoiding a loss over acquiring an equivalent gain?",
-    "options": [
-      "Loss aversion",
-      "Confirmation bias",
-      "Anchoring bias",
-      "Endowment effect"
-    ],
-    "answer": "Loss aversion",
-    "id": "civics-law-economics-1360"
-  },
-  {
-    "difficulty": "medium",
-    "category": "civics-law-economics",
-    "question": "What concept in behavioral economics involves altering the choice architecture to influence behavior without restricting options or changing incentives?",
-    "options": [
-      "Nudge theory",
-      "Signaling theory",
-      "Prospect theory",
-      "Principal-agent theory"
-    ],
-    "answer": "Nudge theory",
-    "id": "civics-law-economics-1361"
-  },
-  {
-    "difficulty": "easy",
-    "category": "civics-law-economics",
-    "question": "What is the term for a government-imposed limit on the quantity of a specific good that can be imported into a country over a set period?",
-    "options": [
-      "Quota",
-      "Tariff",
-      "Embargo",
-      "Subsidy"
-    ],
-    "answer": "Quota",
-    "id": "civics-law-economics-1362"
   },
   {
     "difficulty": "easy",
@@ -16343,32 +16057,6 @@
   {
     "difficulty": "medium",
     "category": "civics-law-economics",
-    "question": "What economic principle states that in an efficient market, identical goods should sell for the same price when prices are expressed in the same currency?",
-    "options": [
-      "Law of one price",
-      "Purchasing power parity",
-      "Arbitrage pricing theory",
-      "Interest rate parity"
-    ],
-    "answer": "Law of one price",
-    "id": "civics-law-economics-1366"
-  },
-  {
-    "difficulty": "medium",
-    "category": "civics-law-economics",
-    "question": "What informal economic index compares the prices of a McDonald's hamburger across different countries to assess purchasing power parity?",
-    "options": [
-      "Big Mac Index",
-      "Burgernomics Index",
-      "PPP Index",
-      "McPPP Standard"
-    ],
-    "answer": "Big Mac Index",
-    "id": "civics-law-economics-1367"
-  },
-  {
-    "difficulty": "medium",
-    "category": "civics-law-economics",
     "question": "What is the term for a deliberate increase in the value of a currency that is pegged to another currency or a basket of currencies?",
     "options": [
       "Currency revaluation",
@@ -16378,32 +16066,6 @@
     ],
     "answer": "Currency revaluation",
     "id": "civics-law-economics-1368"
-  },
-  {
-    "difficulty": "medium",
-    "category": "civics-law-economics",
-    "question": "What is the term for a large and sudden movement of financial assets out of a country due to economic or political instability?",
-    "options": [
-      "Capital flight",
-      "Balance of payments crisis",
-      "Devaluation",
-      "Stagflation"
-    ],
-    "answer": "Capital flight",
-    "id": "civics-law-economics-1369"
-  },
-  {
-    "difficulty": "easy",
-    "category": "civics-law-economics",
-    "question": "What term describes an investment made by a firm or individual in one country into business interests located in another country, involving control or significant influence?",
-    "options": [
-      "Foreign direct investment",
-      "Portfolio investment",
-      "Equity investment",
-      "Hedge fund"
-    ],
-    "answer": "Foreign direct investment",
-    "id": "civics-law-economics-1370"
   },
   {
     "difficulty": "medium",
@@ -16484,19 +16146,6 @@
     "id": "civics-law-economics-1376"
   },
   {
-    "difficulty": "medium",
-    "category": "civics-law-economics",
-    "question": "What term, coined by Joseph Schumpeter, describes the process by which new innovations replace outdated technologies and businesses, driving economic growth?",
-    "options": [
-      "Creative destruction",
-      "Disruptive innovation",
-      "Gale of destruction",
-      "Innovation cycle"
-    ],
-    "answer": "Creative destruction",
-    "id": "civics-law-economics-1377"
-  },
-  {
     "difficulty": "easy",
     "category": "civics-law-economics",
     "question": "What is the term for the recurring fluctuations in economic activity consisting of expansion, peak, contraction, and trough?",
@@ -16508,45 +16157,6 @@
     ],
     "answer": "Business cycle",
     "id": "civics-law-economics-1378"
-  },
-  {
-    "difficulty": "medium",
-    "category": "civics-law-economics",
-    "question": "What is the term for economic metrics that tend to change before the overall economy changes, such as stock market returns or building permits?",
-    "options": [
-      "Leading indicators",
-      "Lagging indicators",
-      "Coincident indicators",
-      "Structural indicators"
-    ],
-    "answer": "Leading indicators",
-    "id": "civics-law-economics-1379"
-  },
-  {
-    "difficulty": "medium",
-    "category": "civics-law-economics",
-    "question": "What is the term for economic metrics that tend to change after the overall economy has already changed, such as the unemployment rate?",
-    "options": [
-      "Lagging indicators",
-      "Leading indicators",
-      "Coincident indicators",
-      "Cyclical indicators"
-    ],
-    "answer": "Lagging indicators",
-    "id": "civics-law-economics-1380"
-  },
-  {
-    "difficulty": "medium",
-    "category": "civics-law-economics",
-    "question": "What is the term for economic metrics that change at approximately the same time as the overall economy, such as GDP or personal income?",
-    "options": [
-      "Coincident indicators",
-      "Leading indicators",
-      "Lagging indicators",
-      "Frictional indicators"
-    ],
-    "answer": "Coincident indicators",
-    "id": "civics-law-economics-1381"
   },
   {
     "difficulty": "medium",
@@ -16707,32 +16317,6 @@
   {
     "difficulty": "medium",
     "category": "civics-law-economics",
-    "question": "What is the financial practice of making a high-risk investment with the expectation of a significant return, often ignoring fundamental value?",
-    "options": [
-      "Speculation",
-      "Hedging",
-      "Arbitrage",
-      "Value investing"
-    ],
-    "answer": "Speculation",
-    "id": "civics-law-economics-1394"
-  },
-  {
-    "difficulty": "medium",
-    "category": "civics-law-economics",
-    "question": "What is the term for the risk of collapse of an entire financial system or market, as opposed to risk associated with any one individual entity?",
-    "options": [
-      "Systemic risk",
-      "Credit risk",
-      "Market risk",
-      "Operational risk"
-    ],
-    "answer": "Systemic risk",
-    "id": "civics-law-economics-1395"
-  },
-  {
-    "difficulty": "medium",
-    "category": "civics-law-economics",
     "question": "What colloquial phrase describes banks or financial institutions considered so large and interconnected that their failure would cause a major economic crisis?",
     "options": [
       "Too big to fail",
@@ -16859,19 +16443,6 @@
     ],
     "answer": "Amnesty",
     "id": "civics-law-economics-1405"
-  },
-  {
-    "difficulty": "medium",
-    "category": "civics-law-economics",
-    "question": "What is the executive act of reducing the severity of a criminal sentence without overturning the conviction itself?",
-    "options": [
-      "Commutation",
-      "Pardon",
-      "Amnesty",
-      "Expungement"
-    ],
-    "answer": "Commutation",
-    "id": "civics-law-economics-1406"
   },
   {
     "difficulty": "medium",

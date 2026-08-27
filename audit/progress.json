@@ -3061,11 +3061,11 @@
         "civics-law-economics-1407",
         "civics-law-economics-1408"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-27",
+      "completedAt": "2026-08-27",
+      "issuesFound": 18,
+      "notes": "Cut 18 duplicates of already-reviewed economics-definitions questions (implicit cost, economic profit, club goods, common resources, marginal product of labor, discount rate, MPS, loss aversion, nudge theory, law of one price, Big Mac Index, creative destruction, leading/lagging/coincident indicators, speculation, systemic risk, commutation). Left civics-law-economics-1369 (capital flight) uncut since sibling 885 is still pending in this pass."
     },
     {
       "chunkId": "civics-law-economics-p2-010",
@@ -3122,11 +3122,11 @@
         "civics-law-economics-989",
         "civics-law-economics-990"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-27",
+      "completedAt": "2026-08-27",
+      "issuesFound": 1,
+      "notes": "Cut civics-law-economics-1369 (retroactively, from already-completed chunk p2-009) now that its sibling 885 here confirmed the duplicate. Left misdemeanor triplicate (937/1051/1281) uncut — all three still pending/in-progress this pass, self-resolving. Rest of chunk clean; superlative-flag false positives on definitional 'only'."
     },
     {
       "chunkId": "civics-law-economics-p2-011",
@@ -3183,11 +3183,11 @@
         "civics-law-economics-1363",
         "civics-law-economics-1370"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-27",
+      "completedAt": "2026-08-27",
+      "issuesFound": 14,
+      "notes": "Cut 14 duplicates of already-reviewed questions: quota (1005+1362 dup of 206), UNWTO/Madrid HQ (1011 dup of 1219), veto (1048 dup of 046), misdemeanor (1051+1281 dup of 937), nuisance (1245 dup of 672), unilateral contract (1256 dup of 705), material breach (1267 dup of 966), UNHCR/Geneva HQ (1304 dup of 478), human capital (1337 dup of 999), nominal interest rate (1349 dup of 618), national debt (1357 dup of 110), FDI (1370 dup of 743). Left Strasbourg (1013), Rome/WFP (1306) uncut -- different orgs legitimately co-located, not duplicates."
     },
     {
       "chunkId": "civics-law-economics-p2-012",
