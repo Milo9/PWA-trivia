@@ -13533,19 +13533,6 @@
     "answer": "Amphibian Man"
   },
   {
-    "id": "film-tv-916",
-    "category": "film-tv",
-    "difficulty": "medium",
-    "question": "In Nomadland (2020), what type of seasonal work does Fern do in Nevada?",
-    "options": [
-      "Apple picking",
-      "Gypsum plant work",
-      "Fishing",
-      "Sugar beet harvest"
-    ],
-    "answer": "Gypsum plant work"
-  },
-  {
     "id": "film-tv-917",
     "category": "film-tv",
     "difficulty": "easy",
@@ -13604,7 +13591,7 @@
     "question": "In Midsommar (2019), what is the name of the Swedish commune Dani visits?",
     "options": [
       "Hårga",
-      "Harga",
+      "Hälsagård",
       "Eldra",
       "Skog"
     ],
@@ -14147,7 +14134,7 @@
     "id": "film-tv-968",
     "category": "film-tv",
     "difficulty": "hard",
-    "question": "Which multiplane camera technology did Disney develop to add depth to Snow White and the Seven Dwarfs (1937)?",
+    "question": "Which camera technology, using layered panes of artwork placed at varying distances to create an illusion of depth, did Disney develop for Snow White and the Seven Dwarfs (1937)?",
     "options": [
       "Multiplane camera",
       "Technicolor",
@@ -16378,19 +16365,6 @@
       "Zorgons"
     ],
     "answer": "Thermians"
-  },
-  {
-    "id": "film-tv-3060",
-    "difficulty": "hard",
-    "category": "film-tv",
-    "question": "In Arrested Development, what magic trick does Gob obsessively attempt called 'the great' what?",
-    "options": [
-      "Illusion",
-      "Disappearance",
-      "Levitation",
-      "Escape"
-    ],
-    "answer": "Illusion"
   },
   {
     "id": "film-tv-3061",

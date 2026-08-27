@@ -3200,11 +3200,11 @@
         "civics-law-economics-1387",
         "civics-law-economics-1403"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-27",
+      "completedAt": "2026-08-27",
+      "issuesFound": 2,
+      "notes": "Cut 1385 (dup of 634, dividend definition) and 1403 (dup of 780, rider definition, per backlog note); 661 orphan still pending, left uncut per note"
     },
     {
       "chunkId": "film-tv-p2-000",
@@ -3261,11 +3261,11 @@
         "film-tv-3102",
         "film-tv-3103"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-27",
+      "completedAt": "2026-08-27",
+      "issuesFound": 2,
+      "notes": "Reworded 968 (multiplane camera question restated its own answer in the stem); cut 3060 (Gob 'the great ___' magic trick claim unverifiable, no such named trick found, badly phrased). Verified via WebSearch: Predator/Puerto Vallarta, Edward Scissorhands/Lutz FL, Drive My Car 179min, Batman 2022 176min, Whale prosthetics 4hrs streamlined, Fargo Cutlass Ciera, Italy 14 Intl Feature Oscar wins - all confirmed correct."
     },
     {
       "chunkId": "film-tv-p2-001",
@@ -3322,11 +3322,11 @@
         "film-tv-953",
         "film-tv-956"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-27",
+      "completedAt": "2026-08-27",
+      "issuesFound": 2,
+      "notes": "Cut 916 (Nomadland Nevada seasonal work - gypsum plant job was Fern's pre-story permanent job, not seasonal work in Nevada; actual seasonal Nevada job (Amazon warehouse) wasn't an offered option). Fixed 922's distractor 'Harga' (diacritic-only dupe of correct answer 'Hårga') to 'Hälsagård'. Left 3069 (pending, future chunk p2-003) uncut - will self-resolve via same-answer auto-print once reached, since 922 (this chunk) is now the reviewed survivor. Verified via WebSearch: Breaking Bad 16 Emmys, Shape of Water 'Amphibian Man' is the credited/official name (Asset is just Strickland's term), Hellraiser Lament Configuration/Lemarchand's Box are both legitimate names for same object - not an error."
     },
     {
       "chunkId": "film-tv-p2-002",
@@ -3383,11 +3383,11 @@
         "film-tv-1041",
         "film-tv-1043"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-27",
+      "completedAt": "2026-08-27",
+      "issuesFound": 0,
+      "notes": "Clean chunk, no issues found. Verified via WebSearch: Michael Kahn 3 wins/8 nominations, MCU FRIDAY acronym expansion both confirmed correct. All same-answer flags were coincidental reuse of common answers/distinct facts about same entity, not duplicates."
     },
     {
       "chunkId": "film-tv-p2-003",
