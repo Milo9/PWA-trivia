@@ -3744,19 +3744,6 @@
     "id": "civics-law-economics-281"
   },
   {
-    "difficulty": "medium",
-    "category": "civics-law-economics",
-    "question": "What type of subpoena specifically compels a witness to bring documents or physical evidence to court?",
-    "options": [
-      "Subpoena duces tecum",
-      "Subpoena ad testificandum",
-      "Writ of certiorari",
-      "Writ of mandamus"
-    ],
-    "answer": "Subpoena duces tecum",
-    "id": "civics-law-economics-282"
-  },
-  {
     "difficulty": "easy",
     "category": "civics-law-economics",
     "question": "What written statement of facts is sworn under oath before a notary or officer authorized to administer oaths?",
@@ -5447,19 +5434,6 @@
     "answer": "Quantum meruit"
   },
   {
-    "id": "civics-law-economics-423",
-    "category": "civics-law-economics",
-    "difficulty": "easy",
-    "question": "What term describes the cancellation of a contract to restore parties to their pre-contract positions?",
-    "options": [
-      "Rescission",
-      "Novation",
-      "Subrogation",
-      "Replevin"
-    ],
-    "answer": "Rescission"
-  },
-  {
     "id": "civics-law-economics-424",
     "category": "civics-law-economics",
     "difficulty": "medium",
@@ -5562,19 +5536,6 @@
       "Bystander"
     ],
     "answer": "Accomplice"
-  },
-  {
-    "id": "civics-law-economics-433",
-    "category": "civics-law-economics",
-    "difficulty": "medium",
-    "question": "What term describes someone who helps a criminal after the crime has been committed, such as by hiding them?",
-    "options": [
-      "Accessory after the fact",
-      "Accomplice",
-      "Co-conspirator",
-      "Principal in second degree"
-    ],
-    "answer": "Accessory after the fact"
   },
   {
     "id": "civics-law-economics-434",
@@ -5848,19 +5809,6 @@
       "Crowding out"
     ],
     "answer": "Money multiplier"
-  },
-  {
-    "id": "civics-law-economics-455",
-    "category": "civics-law-economics",
-    "difficulty": "medium",
-    "question": "What term describes rising long-run average costs as a firm becomes too large and inefficient?",
-    "options": [
-      "Diseconomies of scale",
-      "Economies of scale",
-      "Economies of scope",
-      "Diminishing returns"
-    ],
-    "answer": "Diseconomies of scale"
   },
   {
     "id": "civics-law-economics-456",
@@ -7761,19 +7709,6 @@
     "answer": "Income effect"
   },
   {
-    "id": "civics-law-economics-608",
-    "category": "civics-law-economics",
-    "difficulty": "hard",
-    "question": "Which economic effect describes the change in consumption due to a change in relative prices, holding utility constant?",
-    "options": [
-      "Substitution effect",
-      "Income effect",
-      "Liquidity effect",
-      "Wealth effect"
-    ],
-    "answer": "Substitution effect"
-  },
-  {
     "id": "civics-law-economics-609",
     "category": "civics-law-economics",
     "difficulty": "medium",
@@ -8606,19 +8541,6 @@
     "answer": "Nuisance"
   },
   {
-    "id": "civics-law-economics-673",
-    "category": "civics-law-economics",
-    "difficulty": "medium",
-    "question": "What is the recognized type of privacy invasion that involves prying into someone's private space or affairs where they expect privacy?",
-    "options": [
-      "Intrusion upon seclusion",
-      "Appropriation",
-      "False light",
-      "Public disclosure of private facts"
-    ],
-    "answer": "Intrusion upon seclusion"
-  },
-  {
     "id": "civics-law-economics-674",
     "category": "civics-law-economics",
     "difficulty": "easy",
@@ -8669,19 +8591,6 @@
       "Assault"
     ],
     "answer": "Negligence per se"
-  },
-  {
-    "id": "civics-law-economics-678",
-    "category": "civics-law-economics",
-    "difficulty": "hard",
-    "question": "What is the activity so inherently dangerous that liability is imposed regardless of care taken?",
-    "options": [
-      "Trespass to land",
-      "Ultrahazardous activity",
-      "Conversion",
-      "Self-defense"
-    ],
-    "answer": "Ultrahazardous activity"
   },
   {
     "id": "civics-law-economics-679",
@@ -9074,19 +8983,6 @@
     "answer": "Assignment and delegation"
   },
   {
-    "id": "civics-law-economics-709",
-    "category": "civics-law-economics",
-    "difficulty": "medium",
-    "question": "What doctrine creates an exception to privity by allowing a non-party for whose benefit the contract was made to enforce it?",
-    "options": [
-      "Incidental beneficiary",
-      "Third-party beneficiary",
-      "Laches",
-      "Supermajority holder"
-    ],
-    "answer": "Third-party beneficiary"
-  },
-  {
     "id": "civics-law-economics-710",
     "category": "civics-law-economics",
     "difficulty": "medium",
@@ -9293,19 +9189,6 @@
       "Consumer surplus"
     ],
     "answer": "Economic rent"
-  },
-  {
-    "id": "civics-law-economics-726",
-    "category": "civics-law-economics",
-    "difficulty": "medium",
-    "question": "What term describes a good where demand rises as price rises because of status signaling?",
-    "options": [
-      "Complement good",
-      "Veblen good",
-      "Inferior good",
-      "Normal good"
-    ],
-    "answer": "Veblen good"
   },
   {
     "id": "civics-law-economics-727",
@@ -9683,19 +9566,6 @@
       "The Hague"
     ],
     "answer": "Luxembourg"
-  },
-  {
-    "id": "civics-law-economics-760",
-    "category": "civics-law-economics",
-    "difficulty": "medium",
-    "question": "As of 2026, what city hosts the headquarters of the Organisation for the Prohibition of Chemical Weapons (OPCW)?",
-    "options": [
-      "Geneva",
-      "The Hague",
-      "Brussels",
-      "Vienna"
-    ],
-    "answer": "The Hague"
   },
   {
     "id": "civics-law-economics-761",
@@ -13299,19 +13169,6 @@
     "answer": "Motion"
   },
   {
-    "id": "civics-law-economics-1058",
-    "category": "civics-law-economics",
-    "difficulty": "medium",
-    "question": "What is the term for damages intended to put the plaintiff in the position they would have been in had the contract been fully performed?",
-    "options": [
-      "Expectation damages",
-      "Reliance damages",
-      "Restitution",
-      "Consequential damages"
-    ],
-    "answer": "Expectation damages"
-  },
-  {
     "id": "civics-law-economics-1059",
     "category": "civics-law-economics",
     "difficulty": "medium",
@@ -13375,19 +13232,6 @@
       "Jus sanguinis"
     ],
     "answer": "Jus ad bellum"
-  },
-  {
-    "id": "civics-law-economics-1065",
-    "category": "civics-law-economics",
-    "difficulty": "medium",
-    "question": "What is the term for the body of international law that governs the conduct of parties during an armed conflict?",
-    "options": [
-      "Jus in bello",
-      "Jus ad bellum",
-      "Jus cogens",
-      "Jus soli"
-    ],
-    "answer": "Jus in bello"
   },
   {
     "id": "civics-law-economics-1066",
@@ -13559,32 +13403,6 @@
     "answer": "Entrenchment clause"
   },
   {
-    "id": "civics-law-economics-1079",
-    "category": "civics-law-economics",
-    "difficulty": "medium",
-    "question": "What is the legal philosophy suggesting that judges should defer to legislative decisions and avoid overturning laws unless clearly unconstitutional?",
-    "options": [
-      "Judicial restraint",
-      "Judicial activism",
-      "Judicial review",
-      "Stare decisis"
-    ],
-    "answer": "Judicial restraint"
-  },
-  {
-    "id": "civics-law-economics-1080",
-    "category": "civics-law-economics",
-    "difficulty": "medium",
-    "question": "What is the constitutional interpretation philosophy asserting that text should be understood based on its original public meaning at the time of enactment?",
-    "options": [
-      "Originalism",
-      "Textualism",
-      "Living constitution",
-      "Pragmatism"
-    ],
-    "answer": "Originalism"
-  },
-  {
     "id": "civics-law-economics-1081",
     "category": "civics-law-economics",
     "difficulty": "medium",
@@ -13622,32 +13440,6 @@
       "Devolution"
     ],
     "answer": "Interposition"
-  },
-  {
-    "id": "civics-law-economics-1084",
-    "category": "civics-law-economics",
-    "difficulty": "medium",
-    "question": "What is the legal theory that states have the right to invalidate federal laws they deem unconstitutional within their borders?",
-    "options": [
-      "Nullification",
-      "Interposition",
-      "Secession",
-      "Abrogation"
-    ],
-    "answer": "Nullification"
-  },
-  {
-    "id": "civics-law-economics-1085",
-    "category": "civics-law-economics",
-    "difficulty": "medium",
-    "question": "What is the term for a body assembled specifically to draft or amend a constitution?",
-    "options": [
-      "Constituent assembly",
-      "Constitutional convention",
-      "Parliament",
-      "Politburo"
-    ],
-    "answer": "Constituent assembly"
   },
   {
     "id": "civics-law-economics-1086",
@@ -13858,19 +13650,6 @@
     "answer": "Sua sponte"
   },
   {
-    "id": "civics-law-economics-1107",
-    "category": "civics-law-economics",
-    "difficulty": "medium",
-    "question": "What is the Latin legal doctrine meaning 'in the place of a parent', assigning parents' rights and duties to another person?",
-    "options": [
-      "In loco parentis",
-      "In forma pauperis",
-      "In pari materia",
-      "In personam"
-    ],
-    "answer": "In loco parentis"
-  },
-  {
     "id": "civics-law-economics-1108",
     "category": "civics-law-economics",
     "difficulty": "easy",
@@ -14066,32 +13845,6 @@
     "answer": "Defeasible estate"
   },
   {
-    "id": "civics-law-economics-1124",
-    "category": "civics-law-economics",
-    "difficulty": "medium",
-    "question": "What is the term for a future interest in real property that becomes possessory upon the natural termination of the preceding estate?",
-    "options": [
-      "Remainder",
-      "Reversion",
-      "Executory interest",
-      "Life estate"
-    ],
-    "answer": "Remainder"
-  },
-  {
-    "id": "civics-law-economics-1125",
-    "category": "civics-law-economics",
-    "difficulty": "medium",
-    "question": "What is the term for the future interest retained by a grantor after conveying a smaller estate to a grantee?",
-    "options": [
-      "Reversion",
-      "Remainder",
-      "Executory interest",
-      "Defeasible estate"
-    ],
-    "answer": "Reversion"
-  },
-  {
     "id": "civics-law-economics-1126",
     "category": "civics-law-economics",
     "difficulty": "hard",
@@ -14183,19 +13936,6 @@
     "answer": "Meeting of the minds"
   },
   {
-    "id": "civics-law-economics-1136",
-    "category": "civics-law-economics",
-    "difficulty": "medium",
-    "question": "What is the contract law defense excusing performance due to extreme and unreasonable difficulty, even if not strictly impossible?",
-    "options": [
-      "Impracticability",
-      "Impossibility",
-      "Frustration of purpose",
-      "Force majeure"
-    ],
-    "answer": "Impracticability"
-  },
-  {
     "id": "civics-law-economics-1137",
     "category": "civics-law-economics",
     "difficulty": "easy",
@@ -14274,19 +14014,6 @@
     "answer": "Liquidation"
   },
   {
-    "id": "civics-law-economics-1145",
-    "category": "civics-law-economics",
-    "difficulty": "medium",
-    "question": "What is the term for the anticompetitive practice of setting prices below cost to drive competitors out of the market?",
-    "options": [
-      "Predatory pricing",
-      "Price discrimination",
-      "Dumping",
-      "Price fixing"
-    ],
-    "answer": "Predatory pricing"
-  },
-  {
     "id": "civics-law-economics-1147",
     "category": "civics-law-economics",
     "difficulty": "medium",
@@ -14311,19 +14038,6 @@
       "Contributory negligence"
     ],
     "answer": "Thin skull rule"
-  },
-  {
-    "id": "civics-law-economics-1151",
-    "category": "civics-law-economics",
-    "difficulty": "medium",
-    "question": "What is the tort law term for an intentional interference with another person's possession of personal property?",
-    "options": [
-      "Trespass to chattels",
-      "Conversion",
-      "Trespass to land",
-      "Nuisance"
-    ],
-    "answer": "Trespass to chattels"
   },
   {
     "id": "civics-law-economics-1152",
@@ -14428,19 +14142,6 @@
       "New Keynesian economics"
     ],
     "answer": "Real Business Cycle theory"
-  },
-  {
-    "id": "civics-law-economics-1165",
-    "category": "civics-law-economics",
-    "difficulty": "medium",
-    "question": "What is the economic phenomenon where wages rise in sectors with no productivity gains, forcing prices up, due to wage competition with high-productivity sectors?",
-    "options": [
-      "Baumol's cost disease",
-      "Dutch disease",
-      "Gresham's law",
-      "Parkinson's law"
-    ],
-    "answer": "Baumol's cost disease"
   },
   {
     "id": "civics-law-economics-1166",
@@ -15074,7 +14775,7 @@
       "Irredentism",
       "Nationalism",
       "Separatism",
-      "Devolutionsim"
+      "Devolutionism"
     ],
     "answer": "Irredentism",
     "id": "civics-law-economics-1226"
@@ -15223,19 +14924,6 @@
     "id": "civics-law-economics-1238"
   },
   {
-    "difficulty": "medium",
-    "category": "civics-law-economics",
-    "question": "What legal doctrine prevents a party from relitigating an issue that has already been decided in a previous case with a different cause of action?",
-    "options": [
-      "Collateral estoppel",
-      "Res judicata",
-      "Stare decisis",
-      "Law of the case"
-    ],
-    "answer": "Collateral estoppel",
-    "id": "civics-law-economics-1239"
-  },
-  {
     "difficulty": "hard",
     "category": "civics-law-economics",
     "question": "What type of appellate opinion occurs when a majority of the judges agree on the result but no single rationale commands a majority of the court?",
@@ -15249,19 +14937,6 @@
     "id": "civics-law-economics-1240"
   },
   {
-    "difficulty": "medium",
-    "category": "civics-law-economics",
-    "question": "What type of judicial opinion is delivered as a single, unsigned statement representing the court as a whole rather than an individual judge?",
-    "options": [
-      "Per curiam opinion",
-      "Plurality opinion",
-      "Dissenting opinion",
-      "Memorandum opinion"
-    ],
-    "answer": "Per curiam opinion",
-    "id": "civics-law-economics-1241"
-  },
-  {
     "difficulty": "hard",
     "category": "civics-law-economics",
     "question": "What is the term for a judicial practice where each judge on a panel writes and delivers their own separate opinion in a case, rather than joining a single majority opinion?",
@@ -15273,32 +14948,6 @@
     ],
     "answer": "Seriatim opinion",
     "id": "civics-law-economics-1242"
-  },
-  {
-    "difficulty": "medium",
-    "category": "civics-law-economics",
-    "question": "What tort occurs when a person intentionally engages in extreme and outrageous conduct that causes severe emotional distress to another?",
-    "options": [
-      "Intentional infliction of emotional distress",
-      "False imprisonment",
-      "Trespass to chattels",
-      "Negligent infliction of emotional distress"
-    ],
-    "answer": "Intentional infliction of emotional distress",
-    "id": "civics-law-economics-1243"
-  },
-  {
-    "difficulty": "medium",
-    "category": "civics-law-economics",
-    "question": "What is the tort of intentionally interfering with another person's personal property without permission, but not completely depriving them of it?",
-    "options": [
-      "Trespass to chattels",
-      "Conversion",
-      "Detinue",
-      "Bailment"
-    ],
-    "answer": "Trespass to chattels",
-    "id": "civics-law-economics-1244"
   },
   {
     "difficulty": "easy",
@@ -15325,19 +14974,6 @@
     ],
     "answer": "Intrusion upon seclusion",
     "id": "civics-law-economics-1246"
-  },
-  {
-    "difficulty": "medium",
-    "category": "civics-law-economics",
-    "question": "Which invasion of privacy tort involves publicly portraying a person in a misleading or highly offensive way that is not true?",
-    "options": [
-      "False light",
-      "Intrusion upon seclusion",
-      "Appropriation of name or likeness",
-      "Defamation"
-    ],
-    "answer": "False light",
-    "id": "civics-law-economics-1247"
   },
   {
     "difficulty": "medium",
@@ -15587,32 +15223,6 @@
     "id": "civics-law-economics-1267"
   },
   {
-    "difficulty": "medium",
-    "category": "civics-law-economics",
-    "question": "What contract defense applies when an unforeseen event makes performance technically possible but extremely burdensome or unreasonable?",
-    "options": [
-      "Impracticability",
-      "Impossibility",
-      "Frustration of purpose",
-      "Novation"
-    ],
-    "answer": "Impracticability",
-    "id": "civics-law-economics-1268"
-  },
-  {
-    "difficulty": "medium",
-    "category": "civics-law-economics",
-    "question": "What is the term for a clause in a contract stating that the written document constitutes the final and complete agreement between the parties?",
-    "options": [
-      "Merger clause",
-      "Severability clause",
-      "Integration clause",
-      "Indemnity clause"
-    ],
-    "answer": "Merger clause",
-    "id": "civics-law-economics-1269"
-  },
-  {
     "difficulty": "easy",
     "category": "civics-law-economics",
     "question": "What is the term for an interest in real property that grants a tenant the right to possess and use the property for a fixed or periodic duration?",
@@ -15639,19 +15249,6 @@
     "id": "civics-law-economics-1272"
   },
   {
-    "difficulty": "medium",
-    "category": "civics-law-economics",
-    "question": "What type of concurrent estate is available only to married couples, featuring rights of survivorship and protection from individual creditors?",
-    "options": [
-      "Tenancy by the entirety",
-      "Joint tenancy",
-      "Tenancy in common",
-      "Community property"
-    ],
-    "answer": "Tenancy by the entirety",
-    "id": "civics-law-economics-1273"
-  },
-  {
     "difficulty": "hard",
     "category": "civics-law-economics",
     "question": "What is the term for a future interest in a third party that cuts short the preceding estate upon the occurrence of a specific condition?",
@@ -15663,19 +15260,6 @@
     ],
     "answer": "Executory interest",
     "id": "civics-law-economics-1277"
-  },
-  {
-    "difficulty": "medium",
-    "category": "civics-law-economics",
-    "question": "What type of estate in land is subject to being automatically terminated if a specific condition occurs or fails to occur?",
-    "options": [
-      "Defeasible estate",
-      "Fee simple absolute",
-      "Leasehold estate",
-      "Life estate"
-    ],
-    "answer": "Defeasible estate",
-    "id": "civics-law-economics-1278"
   },
   {
     "difficulty": "medium",
@@ -15940,19 +15524,6 @@
   {
     "difficulty": "medium",
     "category": "civics-law-economics",
-    "question": "As of 2026, the World Tourism Organization (UNWTO), a specialized agency of the UN, is headquartered in which city?",
-    "options": [
-      "Madrid",
-      "Geneva",
-      "Vienna",
-      "Paris"
-    ],
-    "answer": "Madrid",
-    "id": "civics-law-economics-1299"
-  },
-  {
-    "difficulty": "medium",
-    "category": "civics-law-economics",
     "question": "As of 2026, the International Organization for Migration (IOM), a UN-related agency, is headquartered in which city?",
     "options": [
       "Geneva",
@@ -16157,19 +15728,6 @@
     ],
     "answer": "Substitution effect",
     "id": "civics-law-economics-1317"
-  },
-  {
-    "difficulty": "medium",
-    "category": "civics-law-economics",
-    "question": "What economic model illustrates the maximum possible combinations of two goods that an economy can produce given its resources and technology?",
-    "options": [
-      "Production possibility frontier",
-      "Indifference curve",
-      "Lorenz curve",
-      "Phillips curve"
-    ],
-    "answer": "Production possibility frontier",
-    "id": "civics-law-economics-1318"
   },
   {
     "difficulty": "medium",

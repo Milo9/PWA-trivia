@@ -2878,11 +2878,11 @@
         "civics-law-economics-1090",
         "civics-law-economics-1091"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-27",
+      "completedAt": "2026-08-27",
+      "issuesFound": 6,
+      "notes": "Cut 6 duplicates whose already-reviewed sibling covers the same fact: 1058 dup of 835 (expectation damages), 1065 dup of 865 (jus in bello), 1079 dup of 962 (judicial restraint), 1080 dup of 772 (originalism), 1084 dup of 799 (nullification), 1085 dup of 789 (constituent assembly). 1050/1406 (commutation) both correct, sibling pending, left for auto-resurface. Jeddah/Abu Dhabi HQ answer overlaps are different orgs, not dupes."
     },
     {
       "chunkId": "civics-law-economics-p2-007",
@@ -2939,11 +2939,11 @@
         "civics-law-economics-1225",
         "civics-law-economics-1226"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-27",
+      "completedAt": "2026-08-27",
+      "issuesFound": 8,
+      "notes": "Fixed typo Devolutionsim->Devolutionism (1226). Cut 7 duplicates of already-reviewed siblings: 1107 dup of 953 (in loco parentis), 1124 dup of 947 (remainder), 1125 dup of 946 (reversion), 1136 dup of 853 (impracticability), 1145 dup of 991 (predatory pricing), 1151 dup of 959 (trespass to chattels), 1165 dup of 877 (Baumol's cost disease). Several more dup pairs found (1123/1278, 1152/1247, 1182/1361, 1185/1318, 1195/1338, 1216/1395) left uncut since sibling still pending - will auto-resurface."
     },
     {
       "chunkId": "civics-law-economics-p2-008",
@@ -3000,11 +3000,11 @@
         "civics-law-economics-1318",
         "civics-law-economics-1319"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-27",
+      "completedAt": "2026-08-27",
+      "issuesFound": 21,
+      "notes": "Heavy duplicate chunk. Cut 21 dupes total: 10 orphaned pre-existing siblings (never chunked, verified individually then cut in favor of the current chunk's entry) - 282/673/678/423/709/433/726/608/455/760; and 11 current-chunk entries whose sibling was already reviewed/done in an earlier chunk - 1239(dup 965),1241(dup 960),1243(dup 955),1244(dup 959),1247(dup 1152),1268(dup 853),1269(dup 855),1273(dup 839),1278(dup 1123),1318(dup 1185),1299(dup 1219, UNWTO/Madrid triplicate - third sibling 1011 still pending, left for auto-resurface). Geneva/Vienna/Brussels/Hague headquarters clusters checked - all distinct real organizations, not duplicates except OPCW(1307/760, cut) and UNWTO(1299/1011/1219)."
     },
     {
       "chunkId": "civics-law-economics-p2-009",
