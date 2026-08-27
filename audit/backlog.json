@@ -65,6 +65,8 @@
   "big-bang-theory-995": "Same fact as big-bang-theory-651 (Courtney Henggeler played adult Missy Cooper) — 651 is an orphan (no chunk), needs append-orphans.",
   "big-bang-theory-998": "Same fact as big-bang-theory-062 (Sheldon got addicted to Age of Conan) — 062 is an orphan (no chunk), needs append-orphans.",
   "big-bang-theory-999": "Same fact as big-bang-theory-101 (Howard and Bernadette's daughter is named Halley) — 101 is an orphan (no chunk), needs append-orphans.",
+  "business-brands-924": "business-brands-1286 (pending, chunk business-brands-p2-007) mislabels the BMW roundel as a 'blue and white checkered flag' - it's actually a circular roundel/pinwheel in Bavarian blue-white colors, not a flag (checkered flag = unrelated racing term). Fix the question wording when p2-007 is reached; correct fact already confirmed accurate in 924 (colors of the Bavarian flag).",
+  "business-brands-949": "Duplicate of business-brands-1122 (pending, chunk business-brands-p2-006) - same fact: BMW's 'Ultimate Driving Machine' slogan coined 1974. 949 asks automaker given coiner name (Martin Puris); 1122 asks automaker given slogan+year, reversed direction. Cut 1122 when its chunk is reached, keep 949 (has more detail).",
   "general-851": "near-identical duplicate of orphan world-cultures-1005 (\"In Hawaii, what word is commonly used for both hello and goodbye, often accompanied by the shaka sign?\" -> \"Aloha\") - same fact; cut 1005 when reached",
   "space-astronomy-211": "duplicate of orphan space-astronomy-999 (both: Kármán line altitude = 100 km)",
   "space-astronomy-214": "duplicate of orphan space-astronomy-978 (both: loose dust/rock layer covering Moon's surface = Regolith)",

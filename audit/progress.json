@@ -1979,11 +1979,11 @@
       "ids": [
         "big-bang-theory-1009"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-26",
+      "completedAt": "2026-08-26",
+      "issuesFound": 0,
+      "notes": "Single question, Penny's ZanGen pharma sales job confirmed accurate, no issues"
     },
     {
       "chunkId": "business-brands-p2-000",
@@ -2040,11 +2040,11 @@
         "business-brands-1275",
         "business-brands-1277"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-26",
+      "completedAt": "2026-08-26",
+      "issuesFound": 13,
+      "notes": "Fixed: 964 wrong jingle year (1963->1962), 1183 fact belonged to McDonald's not Burger King (Neil Fox/Phoenix), 1232 wrong founding city for Safeway (SF->American Falls ID), 1275 wrong causal claim for Volvo Jakob nickname. Cut 9: 915/1111 Alfa Romeo dup+leak (kept 1111), 1200/601 vs 1066 Bic underwear dup (kept 1066), 1224 vs orphan 898 Essential Phone dup (kept 898), 1258 vs 995 Canon/Kwanon dup (kept 995), 1131 fabricated Allstate slogan origin, 1241 fabricated Baby Ruth peanut-mishearing story, 1210 wrong My First Sony launch years + unconfirmed dog shape"
     },
     {
       "chunkId": "business-brands-p2-001",
@@ -2101,11 +2101,11 @@
         "business-brands-991",
         "business-brands-993"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-26",
+      "completedAt": "2026-08-26",
+      "issuesFound": 2,
+      "notes": "Fixed 981 Allstate slogan question (falsely credited Ellis with reassuring his wife; real story is a doctor reassured the parents about their sick daughter). Cut 952 (dup of already-reviewed 1132, State Farm/Barry Manilow jingle). Logged 2 backlog notes for future chunks: 949 vs pending 1122 (BMW Ultimate Driving Machine dup) and 924 vs pending 1286 (BMW roundel mislabeled as checkered flag). All ~40 other logo/jingle-history facts spot-checked via WebSearch (Rolex, Lacoste, Versace, BMW slogan origin, Toyota logo, Samsung founding, Coca-Cola Backer story, California Raisins, Adidas Impossible is Nothing, KFC trademark year, Microsoft budget, Think Different agency, CBS Eye origin) all confirmed accurate."
     },
     {
       "chunkId": "business-brands-p2-002",
