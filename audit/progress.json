@@ -2345,11 +2345,11 @@
         "business-brands-1036",
         "business-brands-1042"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-27",
+      "completedAt": "2026-08-27",
+      "issuesFound": 3,
+      "notes": "Cut business-brands-960 (dup of already-reviewed 1136, Maxwell House/Roosevelt) and business-brands-998 (dup of already-reviewed 1146, H&M/Vasteras). Pinned unpinned-superlative in 935 (Chrome logo 'current flat design' -> 'flat redesign Google introduced in 2014'). Logged backlog notes for 948 (dup of orphan 226, M&Ms) and 1012 (dup of orphan 677, Arby's RB) since siblings unreviewed."
     },
     {
       "chunkId": "business-brands-p2-006",
@@ -2406,11 +2406,11 @@
         "business-brands-1171",
         "business-brands-1180"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-27",
+      "completedAt": "2026-08-27",
+      "issuesFound": 7,
+      "notes": "Fixed wrong answer on 1102 (BK bun-halves logo year: 1967->1969, verified via search). Fixed garbled self-answering stem on 1140 (Trix). Cut 1122 (dup of already-reviewed 949, BMW slogan, per prior backlog note) and resolved that backlog entry. Cut 1170 (dup of already-reviewed 997, YouTube/PayPal founders) and 1180 (dup of already-reviewed 1004, Red Bull/Krating Daeng) and 1125 (reversed-direction dup of already-reviewed 986, Disneyland 1955). Logged backlog notes for 1114/orphan-237 (Energizer bunny), 1123/orphan-228 (KFC finger lickin'), 1158/orphan-398 (H&M/Hennes)."
     },
     {
       "chunkId": "business-brands-p2-007",
@@ -2451,11 +2451,11 @@
         "business-brands-1286",
         "business-brands-1287"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-27",
+      "completedAt": "2026-08-27",
+      "issuesFound": 8,
+      "notes": "Resolved YouTube 'Me at the zoo' cluster: kept 1185 (richest detail), cut orphan 570 and reversed-direction dup 1264; 997 (already done) kept regardless. Cut in-chunk dup 1252 (Samsung meaning, kept 1191). Cut 1229 (dup of already-reviewed 1085, Power Glove), 1238 (premise-reveals-answer dup of already-reviewed 1005, Papa John's Indiana), 1251 (dup of already-reviewed 1027, Intel name), and 1286 (mislabeled BMW logo as 'checkered flag' per existing backlog note from 924; correcting the wording would just duplicate already-reviewed 1113, so cut instead of fix). Logged backlog note for 1254/orphan-1015 (Atari/Go)."
     },
     {
       "chunkId": "civics-law-economics-p2-000",

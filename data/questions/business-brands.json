@@ -7176,19 +7176,6 @@
     "id": "business-brands-569"
   },
   {
-    "difficulty": "easy",
-    "category": "business-brands",
-    "question": "What was the title of the first YouTube video?",
-    "options": [
-      "Me at the zoo",
-      "My first vlog",
-      "Welcome to YouTube",
-      "Monkey in a tree"
-    ],
-    "answer": "Me at the zoo",
-    "id": "business-brands-570"
-  },
-  {
     "difficulty": "medium",
     "category": "business-brands",
     "question": "What constraint originally dictated Twitter's 140-character limit?",
@@ -11716,7 +11703,7 @@
     "id": "business-brands-935",
     "difficulty": "easy",
     "category": "business-brands",
-    "question": "What are Chrome browser logo's colors in its current flat design?",
+    "question": "What are Chrome browser logo's colors in the flat redesign Google introduced in 2014?",
     "options": [
       "Blue, red and yellow outer only",
       "Red, yellow, green outer wedges around blue center disk",
@@ -12023,19 +12010,6 @@
       "Carole King"
     ],
     "answer": "Leslie Pearl"
-  },
-  {
-    "id": "business-brands-960",
-    "difficulty": "easy",
-    "category": "business-brands",
-    "question": "Maxwell House's 'Good to the Last Drop' legend claims which former U.S. President said it at the Hermitage in 1907?",
-    "options": [
-      "Theodore Roosevelt",
-      "Franklin D. Roosevelt",
-      "William Howard Taft",
-      "Woodrow Wilson"
-    ],
-    "answer": "Theodore Roosevelt"
   },
   {
     "id": "business-brands-961",
@@ -12504,19 +12478,6 @@
       "PayPal"
     ],
     "answer": "PayPal"
-  },
-  {
-    "id": "business-brands-998",
-    "difficulty": "easy",
-    "category": "business-brands",
-    "question": "The H&M fashion chain was founded in 1947 as Hennes, Swedish for 'hers,' by Erling Persson in which Swedish city and selling only women's clothing?",
-    "options": [
-      "Gothenburg",
-      "Malmö",
-      "Västerås",
-      "Stockholm"
-    ],
-    "answer": "Västerås"
   },
   {
     "id": "business-brands-999",
@@ -13854,7 +13815,7 @@
       "1969",
       "1967"
     ],
-    "answer": "1967",
+    "answer": "1969",
     "id": "business-brands-1102"
   },
   {
@@ -14094,19 +14055,6 @@
   {
     "difficulty": "easy",
     "category": "business-brands",
-    "question": "Which automaker has used 'The Ultimate Driving Machine' since 1974?",
-    "options": [
-      "Lexus",
-      "Audi",
-      "BMW",
-      "Mercedes-Benz"
-    ],
-    "answer": "BMW",
-    "id": "business-brands-1122"
-  },
-  {
-    "difficulty": "easy",
-    "category": "business-brands",
     "question": "Which fried chicken chain trademarked 'It's Finger Lickin' Good' in 1956?",
     "options": [
       "Popeyes",
@@ -14129,19 +14077,6 @@
     ],
     "answer": "Customization",
     "id": "business-brands-1124"
-  },
-  {
-    "difficulty": "easy",
-    "category": "business-brands",
-    "question": "Which theme park has called itself 'The Happiest Place on Earth' since 1955?",
-    "options": [
-      "Six Flags",
-      "Knott's Berry Farm",
-      "Legoland",
-      "Disneyland"
-    ],
-    "answer": "Disneyland",
-    "id": "business-brands-1125"
   },
   {
     "difficulty": "medium",
@@ -14302,7 +14237,7 @@
   {
     "difficulty": "easy",
     "category": "business-brands",
-    "question": "Which cereal's slogan 'Silly Rabbit, Trix are for kids' is Trix?",
+    "question": "Which cereal's slogan is 'Silly Rabbit, Trix are for kids'?",
     "options": [
       "Cocoa Puffs",
       "Lucky Charms",
@@ -14666,19 +14601,6 @@
   {
     "difficulty": "easy",
     "category": "business-brands",
-    "question": "YouTube was founded in February 2005 by three former employees of which company?",
-    "options": [
-      "eBay",
-      "PayPal",
-      "Google",
-      "Napster"
-    ],
-    "answer": "PayPal",
-    "id": "business-brands-1170"
-  },
-  {
-    "difficulty": "easy",
-    "category": "business-brands",
     "question": "Intel was founded in 1968 by Robert Noyce and which co-founder?",
     "options": [
       "Gordon Moore",
@@ -14792,19 +14714,6 @@
     ],
     "answer": "Reuben Mattus",
     "id": "business-brands-1179"
-  },
-  {
-    "difficulty": "easy",
-    "category": "business-brands",
-    "question": "Red Bull was inspired by which Thai energy drink?",
-    "options": [
-      "Lipovitan",
-      "Sponsor",
-      "Krating Daeng",
-      "M-150"
-    ],
-    "answer": "Krating Daeng",
-    "id": "business-brands-1180"
   },
   {
     "difficulty": "medium",
@@ -15368,19 +15277,6 @@
   {
     "difficulty": "easy",
     "category": "business-brands",
-    "question": "Which 1989 Nintendo hand-worn NES accessory became notorious as a commercial flop?",
-    "options": [
-      "Power Glove",
-      "R.O.B.",
-      "Zap Gun",
-      "Power Pad"
-    ],
-    "answer": "Power Glove",
-    "id": "business-brands-1229"
-  },
-  {
-    "difficulty": "easy",
-    "category": "business-brands",
     "question": "Which 2010 Microsoft phone OS reboot that replaced Windows Mobile failed by 2017?",
     "options": [
       "Windows Phone RT",
@@ -15481,19 +15377,6 @@
     ],
     "answer": "Domino's",
     "id": "business-brands-1237"
-  },
-  {
-    "difficulty": "easy",
-    "category": "business-brands",
-    "question": "Papa John's was founded in 1984 in a broom closet of his father's tavern in which state?",
-    "options": [
-      "Kentucky",
-      "Ohio",
-      "Indiana",
-      "Tennessee"
-    ],
-    "answer": "Indiana",
-    "id": "business-brands-1238"
   },
   {
     "difficulty": "easy",
@@ -15639,32 +15522,6 @@
     "id": "business-brands-1250"
   },
   {
-    "difficulty": "easy",
-    "category": "business-brands",
-    "question": "Intel's name was shortened from what phrase?",
-    "options": [
-      "Interactive Electron Lab",
-      "Intelligent Electronics",
-      "Integrated Electronics",
-      "International Electronics"
-    ],
-    "answer": "Integrated Electronics",
-    "id": "business-brands-1251"
-  },
-  {
-    "difficulty": "easy",
-    "category": "business-brands",
-    "question": "What does the Korean word Samsung translate to in English?",
-    "options": [
-      "Bright Future",
-      "Three Stars",
-      "Infinite Power",
-      "Golden Sun"
-    ],
-    "answer": "Three Stars",
-    "id": "business-brands-1252"
-  },
-  {
     "difficulty": "medium",
     "category": "business-brands",
     "question": "LG originally stood for Lucky Goldstar, but Goldstar's first product in 1959 was Korea's first what?",
@@ -15728,19 +15585,6 @@
     ],
     "answer": "Echo Bay Technology Group",
     "id": "business-brands-1257"
-  },
-  {
-    "difficulty": "easy",
-    "category": "business-brands",
-    "question": "Which video platform's first-ever uploaded video was titled 'Me at the zoo' in 2005?",
-    "options": [
-      "Dailymotion",
-      "Vimeo",
-      "Twitch",
-      "YouTube"
-    ],
-    "answer": "YouTube",
-    "id": "business-brands-1264"
   },
   {
     "difficulty": "easy",
@@ -15962,19 +15806,6 @@
     ],
     "answer": "Porsche",
     "id": "business-brands-1284"
-  },
-  {
-    "difficulty": "easy",
-    "category": "business-brands",
-    "question": "Which car brand's logo has a blue and white checkered flag representing Bavarian flag?",
-    "options": [
-      "BMW",
-      "Volkswagen",
-      "Audi",
-      "Mercedes"
-    ],
-    "answer": "BMW",
-    "id": "business-brands-1286"
   },
   {
     "difficulty": "easy",
