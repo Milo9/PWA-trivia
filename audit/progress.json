@@ -2162,11 +2162,11 @@
         "business-brands-1084",
         "business-brands-1086"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-26",
+      "completedAt": "2026-08-26",
+      "issuesFound": 2,
+      "notes": "Reviewed 50 qs, all facts verified (WebSearch on McPizza Orlando claim, Coca-Cola BlaK timeline, GoPro Bali belts/necklaces -- all check out). 5 duplicate pairs found via same-answer flag: business-brands-1009/112, 1015/1254, 1020/1155, 1058/892, 1083/1216. 1254/1155/1216 siblings are pending in upcoming chunks this pass (p2-007/003/004) -- left uncut, will self-resolve when reached. 112 and 892 are orphans (no chunk) -- logged backlog notes on 1009 and 1058 since they won't self-resolve."
     },
     {
       "chunkId": "business-brands-p2-003",
@@ -2223,11 +2223,11 @@
         "business-brands-1201",
         "business-brands-1202"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-26",
+      "completedAt": "2026-08-26",
+      "issuesFound": 6,
+      "notes": "Reviewed 50 qs. Verified uncertain facts via WebSearch (Target logo rings, Rolex crown points, Visa 1985 slogan, Taco Bell slogan year, Netflix late-fee story, Coca-Cola Life discontinuation). Fixed: business-brands-1133 wrong year (1992->2001, WebSearch-confirmed) for Think Outside the Bun; business-brands-1169 hedged framing (disputed/debunked Netflix Apollo 13 origin story). Cut 3 duplicates whose sibling was already reviewed this session: 1115 (dup of 785, also had wrong year 1993 vs correct 1994), 1155 (dup of 1020 from p2-002), 1202 (dup of 1045 from p2-002, reversed-direction: name vs duration). Logged backlog note for 1179/491 (Haagen-Dazs founder, 491 is orphan). Left 1136/960 uncut (960 pending in future chunk p2-005, self-resolves)."
     },
     {
       "chunkId": "business-brands-p2-004",
@@ -2284,11 +2284,11 @@
         "business-brands-920",
         "business-brands-922"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-26",
+      "completedAt": "2026-08-26",
+      "issuesFound": 13,
+      "notes": "Reviewed 50 qs, extensive WebSearch verification. Fixed 3 factual errors: 1253 (Goldstar radio year 1958->1959), 1274 (Fiat first model '10 HP'->'4 HP', the 10 HP was a later 1901 model), 1234 (rewrote Costco/Price Club question -- the 1976 San Diego hangar store was Price Club, not Costco itself; replaced malformed location-based options with real chain names). Cut 1261 (Xerox mouse -- the 'X-Y Position Indicator' was Engelbart/SRI's invention, not Xerox's; none of the 4 given options was correct, unfixable without a full rewrite). Cut 9 duplicates whose sibling was already reviewed this session or in a prior pass: 1216 (dup of 1083), 1260/1262/1263/1265/1266/1267 (all reversed-direction 'first product' dupes of 1093/1107, 1172, 1184, 1186, 1187, 1189), 1285 (redundant with both orphan 808 and in-chunk 912). Left 1264 uncut, logged backlog note for a 4-way 'Me at the zoo' YouTube cluster (570 orphan, 1185/997 pending future chunks)."
     },
     {
       "chunkId": "business-brands-p2-005",
