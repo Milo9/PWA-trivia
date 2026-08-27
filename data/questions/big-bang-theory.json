@@ -8242,32 +8242,6 @@
     "answer": "His spot on the couch"
   },
   {
-    "id": "big-bang-theory-759",
-    "difficulty": "medium",
-    "category": "big-bang-theory",
-    "question": "What is Leonard's middle name?",
-    "options": [
-      "Leakey",
-      "Lee",
-      "Louis",
-      "Leonard"
-    ],
-    "answer": "Leakey"
-  },
-  {
-    "id": "big-bang-theory-760",
-    "difficulty": "medium",
-    "category": "big-bang-theory",
-    "question": "In which episode does Mrs. Wolowitz die in-universe?",
-    "options": [
-      "The Comic Book Store Regeneration",
-      "The Status Quo Combustion",
-      "The Birthday Synchronicity",
-      "The Proposal Proposal"
-    ],
-    "answer": "The Comic Book Store Regeneration"
-  },
-  {
     "id": "big-bang-theory-761",
     "difficulty": "hard",
     "category": "big-bang-theory",
@@ -8403,12 +8377,12 @@
     "category": "big-bang-theory",
     "question": "What is Amy's apartment number before she moves in with Sheldon?",
     "options": [
-      "4B",
+      "314",
       "4A",
       "3B",
       "5A"
     ],
-    "answer": "4B"
+    "answer": "314"
   },
   {
     "id": "big-bang-theory-772",
@@ -8598,12 +8572,12 @@
     "category": "big-bang-theory",
     "question": "Where did Howard and Bernadette get married before Howard went to space?",
     "options": [
-      "City Hall then rooftop",
+      "The apartment building's rooftop",
       "Cheesecake Factory",
       "Las Vegas chapel",
       "Synagogue"
     ],
-    "answer": "City Hall then rooftop"
+    "answer": "The apartment building's rooftop"
   },
   {
     "id": "big-bang-theory-787",
@@ -8895,14 +8869,14 @@
     "id": "big-bang-theory-809",
     "difficulty": "hard",
     "category": "big-bang-theory",
-    "question": "What is the name of Penny's ex-boyfriend who she writes about in her blog?",
+    "question": "In 'The Tangerine Factor,' what is the name of Penny's boyfriend who blogs about their relationship, leading her to break up with him?",
     "options": [
       "Kurt",
       "Zack",
       "Mike",
       "Doug"
     ],
-    "answer": "Kurt"
+    "answer": "Mike"
   },
   {
     "id": "big-bang-theory-810",
@@ -9284,32 +9258,6 @@
   {
     "difficulty": "hard",
     "category": "big-bang-theory",
-    "question": "Who played Gretchen in The Tangible Affection Proof, Penny's friend who gets proposed to at Valentine's dinner?",
-    "options": [
-      "Margo Harshman",
-      "Briana Cuoco",
-      "Kaley Cuoco",
-      "Melissa Rauch"
-    ],
-    "answer": "Briana Cuoco",
-    "id": "big-bang-theory-839"
-  },
-  {
-    "difficulty": "hard",
-    "category": "big-bang-theory",
-    "question": "Who played Kevin, the screenwriter Penny chats up at the bar in The Ornithophobia Diffusion?",
-    "options": [
-      "Blake Berris",
-      "Craig Gillis",
-      "Blake Anderson",
-      "Dawson Fletcher"
-    ],
-    "answer": "Blake Berris",
-    "id": "big-bang-theory-840"
-  },
-  {
-    "difficulty": "hard",
-    "category": "big-bang-theory",
     "question": "Who played Car Thief #1 who stole Leonard's car in The Bakersfield Expedition?",
     "options": [
       "Craig Gillis",
@@ -9410,32 +9358,6 @@
     ],
     "answer": "Beth Behrs",
     "id": "big-bang-theory-848"
-  },
-  {
-    "difficulty": "hard",
-    "category": "big-bang-theory",
-    "question": "Who played Oliver, the estranged husband of Nell who confronts Raj in The Separation Triangulation?",
-    "options": [
-      "Billy Bob Thornton",
-      "Christopher Lloyd",
-      "Kevin Smith",
-      "Walton Goggins"
-    ],
-    "answer": "Walton Goggins",
-    "id": "big-bang-theory-849"
-  },
-  {
-    "difficulty": "hard",
-    "category": "big-bang-theory",
-    "question": "Who played Mrs. Petrescu, the apartment resident who attends Shamy's brunch and votes in the tenant election?",
-    "options": [
-      "Jane Galloway Heitz",
-      "Lauri Johnson",
-      "Michelle Arthur",
-      "Annie O'Donnell"
-    ],
-    "answer": "Michelle Arthur",
-    "id": "big-bang-theory-850"
   },
   {
     "difficulty": "medium",
@@ -11013,19 +10935,6 @@
   {
     "difficulty": "hard",
     "category": "big-bang-theory",
-    "question": "Who played Abby, Howard's second cousin in The Psychic Vortex?",
-    "options": [
-      "Sara Gilbert",
-      "Danica McKellar",
-      "Mayim Bialik",
-      "Melissa Rauch"
-    ],
-    "answer": "Danica McKellar",
-    "id": "big-bang-theory-972"
-  },
-  {
-    "difficulty": "hard",
-    "category": "big-bang-theory",
     "question": "Who played Mrs. Latham, the philanthropist in The Benefactor Factor?",
     "options": [
       "Christine Baranski",
@@ -11035,19 +10944,6 @@
     ],
     "answer": "Jessica Walter",
     "id": "big-bang-theory-973"
-  },
-  {
-    "difficulty": "hard",
-    "category": "big-bang-theory",
-    "question": "Who played Professor Crawley in The Jiminy Conjecture?",
-    "options": [
-      "Bob Newhart",
-      "Lewis Black",
-      "Bill Nye",
-      "Brian Greene"
-    ],
-    "answer": "Lewis Black",
-    "id": "big-bang-theory-974"
   },
   {
     "difficulty": "medium",
@@ -11061,19 +10957,6 @@
     ],
     "answer": "Stephen Merchant",
     "id": "big-bang-theory-975"
-  },
-  {
-    "difficulty": "hard",
-    "category": "big-bang-theory",
-    "question": "Who played Kenny Fitzgerald in The Helium Insufficiency?",
-    "options": [
-      "Kareem Abdul-Jabbar",
-      "Rick Fox",
-      "Michael Rapaport",
-      "Joe Manganiello"
-    ],
-    "answer": "Michael Rapaport",
-    "id": "big-bang-theory-976"
   },
   {
     "difficulty": "hard",
@@ -11536,11 +11419,11 @@
     "question": "What is the final line of the series spoken by Sheldon during Nobel speech?",
     "options": [
       "Thank you",
-      "I apologize but I love you all",
-      "I love you all",
+      "In my way, I love you all",
+      "You're welcome",
       "I'm sorry"
     ],
-    "answer": "I apologize but I love you all",
+    "answer": "In my way, I love you all",
     "id": "big-bang-theory-1012"
   }
 ]

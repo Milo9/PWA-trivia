@@ -1601,11 +1601,11 @@
         "arts-literature-1545",
         "arts-literature-1581"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-26",
+      "completedAt": "2026-08-26",
+      "issuesFound": 2,
+      "notes": "Cut arts-literature-1469 (dup of already-reviewed 831, Siddhartha/Hesse) and arts-literature-1544 (dup of already-reviewed 955, Sydney Opera House/Utzon, per backlog note). Rest of chunk verified clean (museum-location and same-author clusters are genuine distinct facts, not duplicates)."
     },
     {
       "chunkId": "big-bang-theory-p2-000",
@@ -1662,11 +1662,11 @@
         "big-bang-theory-837",
         "big-bang-theory-839"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-26",
+      "completedAt": "2026-08-26",
+      "issuesFound": 3,
+      "notes": "Fixed big-bang-theory-809 (wrong answer: question asked about Penny's ex-boyfriend blogging, but show fact is Penny's boyfriend Mike blogged about HER in The Tangerine Factor -- was mismarked as Kurt); fixed big-bang-theory-786 (wedding location overstated -- Howard/Bernadette never actually married at City Hall, only attempted and were turned away, ceremony was rooftop-only); cut big-bang-theory-839 (dup of 744, both Briana Cuoco as Gretchen). Spot-verified ~15 other hard-difficulty guest-actor/plot facts via WebSearch (Crawley/Lewis Black, Sheldon's Kmart birth, Wolowitz naming reveals, Amy/UCLA, 73-number speech, Zangen, Serial Ape-ist, Todd Zarnecki, Oliver/Goggins, DMV/Octavia, East Texas Tech 1994, knock episode, neck-size joke) -- all confirmed accurate."
     },
     {
       "chunkId": "big-bang-theory-p2-001",
@@ -1723,11 +1723,11 @@
         "big-bang-theory-963",
         "big-bang-theory-965"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-26",
+      "completedAt": "2026-08-26",
+      "issuesFound": 4,
+      "notes": "Cut 3 duplicates of already-reviewed p2-000 siblings (840 dup of 819 Kevin/Blake Berris; 849 dup of 740 Oliver/Walton Goggins; 850 dup of 776 Mrs. Petrescu/Michelle Arthur). Logged backlog note: 925 dup of orphan 385 (ISS Expedition 31). Extensively spot-verified ~20 hard-difficulty deep-lore facts via WebSearch (car thief actors, Bill Gates/Vista insult, Hawking French-maid tasks, Smoot cameo, Celebration Experimentation date/viewers/Adam West line, D&D Vortex prod code/viewers/Shatner, Leonard's PhD age+award, retconned apartment address, Leonard's middle name, Ramona Nowitzki gap) -- all confirmed accurate, no further errors found."
     },
     {
       "chunkId": "big-bang-theory-p2-002",
@@ -1784,11 +1784,11 @@
         "big-bang-theory-771",
         "big-bang-theory-777"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-26",
+      "completedAt": "2026-08-26",
+      "issuesFound": 8,
+      "notes": "Cut 5 duplicates (972 dup of 733 Abby/Danica McKellar; 976 dup of 748 Kenny Fitzgerald/Michael Rapaport; 974 dup of already-done 713 Crawley/Lewis Black; 759 dup of already-done 927 Leonard's middle name; 760 dup of already-done 955 Mrs Wolowitz death episode). Fixed big-bang-theory-771 (wrong answer: Amy's own apartment number is 314, a pi joke -- was mismarked as 4B, which is actually Penny's apartment). Fixed big-bang-theory-1012 (final Sheldon Nobel-speech line was compressed to a leaked-reasoning-style 'X but Y' phrasing that also got the wording wrong; corrected to the real closing line 'In my way, I love you all'). Logged 3 backlog notes for orphan-sibling duplicates (966/700 Gablehauser, 977/687 Theodore, 727/338 East Texas Tech start age). Verified 426 (Teller/Penny surname fan theory) is a real, accurate fact, not a dup of 730 (Teller playing Mr. Fowler) -- coincidental shared answer text. Spot-verified ~10 more hard facts via WebSearch (finale speech transcript, Beverly Hofstadter's book, Penny/Zack Vegas marriage episode, Howard/Bernadette kids' names) -- all accurate after the two fixes above."
     },
     {
       "chunkId": "big-bang-theory-p2-003",
