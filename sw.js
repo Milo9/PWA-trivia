@@ -1,7 +1,7 @@
 // Stamped by scripts/stamp-version.js — do not edit by hand.
 // Changes automatically whenever app shell or question data changes,
 // which forces old cached data to be replaced next time we're online.
-const CACHE_VERSION = "v1-e0de9382";
+const CACHE_VERSION = "v1-95c186d3";
 
 // Per-file content hashes for everything CACHE_VERSION covers. Lets
 // precache() tell which files actually changed and copy the rest forward
@@ -12,11 +12,11 @@ const FILE_HASHES = {
   "styles.css": "5858580a2cb4d2a8",
   "app.js": "e4062099c0312759",
   "manifest.webmanifest": "de76ad5da1344100",
-  "version.json": "8d1d206364b214c5",
+  "version.json": "47d013e48baf82e9",
   "data/categories.json": "46577fab4088e580",
   "data/questions/animals-nature.json": "33b3bb2a429cac09",
   "data/questions/arts-literature.json": "9eeb06dc0a91af2c",
-  "data/questions/big-bang-theory.json": "8a32ffdc1e94c377",
+  "data/questions/big-bang-theory.json": "b7f252e80a2e751a",
   "data/questions/business-brands.json": "3a15d5d083deab0b",
   "data/questions/civics-law-economics.json": "c1b1d4a9b8b2bbf5",
   "data/questions/film-tv.json": "ffb3d5e51db66ae4",

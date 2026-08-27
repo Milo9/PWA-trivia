@@ -1845,11 +1845,11 @@
         "big-bang-theory-875",
         "big-bang-theory-876"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-26",
+      "completedAt": "2026-08-26",
+      "issuesFound": 15,
+      "notes": "Cut 5 malformed/fabricated guest-star entries (798, 804, 808, 810, 838 - garbled placeholder answers or leaked-reasoning question stems); cut 825 (conflated Captain Sweatpants with Randall, wrong actor per WebSearch); cut 6 duplicates of already-reviewed questions (795/973, 845/818, 846/816, 848/739, 869/774) plus in-chunk dup 832/852 (kept 852); fixed 821 (question asked 'year' but answers were ages), 868 (answer-leak, trimmed to match distractor length), 873 (removed self-referential 'according to the wiki' phrasing); verified several hard-to-recall facts via WebSearch (Sheldon's degree list, Raj/Cambridge, Bert Kibbler MacArthur grant, Gates/Hawking/Wheaton episode facts, Carrie Fisher ding-dong-ditch scene) all confirmed correct; logged backlog notes for 779/912, 780/042+691, 876/662 (unreviewed/orphan siblings)."
     },
     {
       "chunkId": "big-bang-theory-p2-004",
@@ -1906,11 +1906,11 @@
         "big-bang-theory-971",
         "big-bang-theory-975"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-26",
+      "completedAt": "2026-08-26",
+      "issuesFound": 19,
+      "notes": "Verified ~25 hard-to-recall facts via WebSearch (episode titles, guest-star specifics, birth dates, episode counts) - all confirmed correct, this chunk was largely clean. Cut 3 duplicates of already-reviewed questions (912/779 Leonard IQ, 920/718 ZanGen Pharmaceuticals, 975/747 Dave Gibbs/Stephen Merchant). Fixed 921 and 922 (removed self-referential 'per wiki' phrasing from question text). Logged 11 backlog notes for duplicates whose sibling is an orphan (405, 610, 321, 351, 350, 327, 121, 671, 191, 419, 672) - this ID range (300s-700s) appears to be an earlier guest-star drafting batch that this 900s batch re-covered almost entirely; worth an append-orphans + dedicated dedup pass on big-bang-theory once orphans are folded in."
     },
     {
       "chunkId": "big-bang-theory-p2-005",
@@ -1967,11 +1967,11 @@
         "big-bang-theory-1004",
         "big-bang-theory-1007"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-26",
+      "completedAt": "2026-08-26",
+      "issuesFound": 19,
+      "notes": "Cut 996 (dup of already-reviewed 729, Jerry O'Connell/George Cooper Jr.), 735 (in-chunk dup of 881, Kripke's rhotacism), and 1001 (factually wrong: real reason for son's name 'Neil Michael' is three Neils - Armstrong/Gaiman/Diamond - plus Bernadette's father Mike Rostenkowski, not 'Michael Collins' as drafted; no correct option available so cut rather than fix). Fixed 993 (Meemaw's real name is Connie/Constance Tucker, her maternal-side surname - not 'Cooper' as drafted; swapped to the already-present correct distractor) and 982 (question asked 'who played' but options/answer were episode titles - reworded to ask for the episode). Verified Meemaw's surname and the Neil Michael naming story via WebSearch, both diverged from what was drafted. Logged 16 backlog notes for duplicates whose sibling is an orphan (704, 300, 651, 062, 198, 019, 069, 183, 188, 173, 690, 146, 316, 137, 124, 127, 101) - continues the pattern from p2-004 where large stretches of orphaned early-drafted questions duplicate later re-drafts; strongly suggests running append-orphans + a dedicated dedup pass on big-bang-theory once this audit pass finishes."
     },
     {
       "chunkId": "big-bang-theory-p2-006",
