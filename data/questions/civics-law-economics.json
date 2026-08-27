@@ -10549,7 +10549,7 @@
     "question": "What doctrine allows federal and state governments to prosecute the same conduct as separate offenses?",
     "options": [
       "Petite policy",
-      "Separate sovereigns exception",
+      "Comity doctrine",
       "Dual sovereignty doctrine",
       "Double jeopardy exception"
     ],
@@ -11016,7 +11016,7 @@
     "category": "civics-law-economics",
     "question": "What doctrine allows a treaty to be terminated or withdrawn due to fundamental change of circumstances?",
     "options": [
-      "Clausula rebus",
+      "Jus cogens",
       "Pacta sunt servanda",
       "Force majeure",
       "Rebus sic stantibus"
@@ -11034,7 +11034,7 @@
       "Uti possidetis",
       "Uti possidetis juris"
     ],
-    "answer": "Uti possidetis"
+    "answer": "Uti possidetis juris"
   },
   {
     "id": "civics-law-economics-864",
@@ -11698,19 +11698,6 @@
     ],
     "answer": "Congressional oversight",
     "id": "civics-law-economics-917"
-  },
-  {
-    "difficulty": "hard",
-    "category": "civics-law-economics",
-    "question": "What fast-track budget procedure allows certain fiscal legislation to pass the Senate with a simple majority, bypassing the 60-vote threshold?",
-    "options": [
-      "Discharge petition",
-      "Prorogation",
-      "Reconciliation",
-      "Quorum call"
-    ],
-    "answer": "Reconciliation",
-    "id": "civics-law-economics-918"
   },
   {
     "difficulty": "medium",
@@ -13455,19 +13442,6 @@
     "answer": "Statelessness"
   },
   {
-    "id": "civics-law-economics-1062",
-    "category": "civics-law-economics",
-    "difficulty": "hard",
-    "question": "What is the legal principle asserting that courts will not question the validity of the official acts of a foreign sovereign government conducted within its own territory?",
-    "options": [
-      "Act of state doctrine",
-      "Sovereign immunity",
-      "Comity of nations",
-      "Diplomatic immunity"
-    ],
-    "answer": "Act of state doctrine"
-  },
-  {
     "id": "civics-law-economics-1063",
     "category": "civics-law-economics",
     "difficulty": "hard",
@@ -14430,19 +14404,6 @@
     "answer": "Thin skull rule"
   },
   {
-    "id": "civics-law-economics-1149",
-    "category": "civics-law-economics",
-    "difficulty": "hard",
-    "question": "What is the tort law doctrine holding a defendant negligent if they had the final opportunity to avoid an accident, even if the plaintiff was also negligent?",
-    "options": [
-      "Last clear chance",
-      "Thin skull rule",
-      "Comparative negligence",
-      "Joint and several liability"
-    ],
-    "answer": "Last clear chance"
-  },
-  {
     "id": "civics-law-economics-1151",
     "category": "civics-law-economics",
     "difficulty": "medium",
@@ -14558,19 +14519,6 @@
       "New Keynesian economics"
     ],
     "answer": "Real Business Cycle theory"
-  },
-  {
-    "id": "civics-law-economics-1164",
-    "category": "civics-law-economics",
-    "difficulty": "hard",
-    "question": "What is the economic theory suggesting that government deficit spending does not affect aggregate demand because consumers will save to pay for future tax increases?",
-    "options": [
-      "Ricardian equivalence",
-      "Keynesian multiplier",
-      "Laffer curve",
-      "Say's law"
-    ],
-    "answer": "Ricardian equivalence"
   },
   {
     "id": "civics-law-economics-1165",
@@ -14885,19 +14833,6 @@
     "answer": "Average total cost"
   },
   {
-    "id": "civics-law-economics-1197",
-    "category": "civics-law-economics",
-    "difficulty": "hard",
-    "question": "What is the economic theory suggesting that citizens 'vote with their feet' by moving to jurisdictions that offer the best mix of public goods and taxes?",
-    "options": [
-      "Tiebout model",
-      "Median voter theorem",
-      "Public choice theory",
-      "Lindahl equilibrium"
-    ],
-    "answer": "Tiebout model"
-  },
-  {
     "id": "civics-law-economics-1198",
     "category": "civics-law-economics",
     "difficulty": "hard",
@@ -15210,19 +15145,6 @@
     "answer": "Beijing"
   },
   {
-    "difficulty": "hard",
-    "category": "civics-law-economics",
-    "question": "What term describes a hypothetical society where power is held by those who control digital networks and communication technologies?",
-    "options": [
-      "Netocracy",
-      "Technocracy",
-      "Noocracy",
-      "Plutocracy"
-    ],
-    "answer": "Netocracy",
-    "id": "civics-law-economics-1224"
-  },
-  {
     "difficulty": "medium",
     "category": "civics-law-economics",
     "question": "What is the term for a relationship in which a dominant state controls the foreign relations of a subordinate state while leaving it internally autonomous?",
@@ -15247,19 +15169,6 @@
     ],
     "answer": "Irredentism",
     "id": "civics-law-economics-1226"
-  },
-  {
-    "difficulty": "hard",
-    "category": "civics-law-economics",
-    "question": "In US constitutional law, what is the term for the legal doctrine that applies the protections of the Bill of Rights to the states via the Fourteenth Amendment?",
-    "options": [
-      "Incorporation doctrine",
-      "State action doctrine",
-      "Preemption doctrine",
-      "Enumerated powers doctrine"
-    ],
-    "answer": "Incorporation doctrine",
-    "id": "civics-law-economics-1227"
   },
   {
     "difficulty": "hard",
@@ -15587,19 +15496,6 @@
     "id": "civics-law-economics-1252"
   },
   {
-    "difficulty": "hard",
-    "category": "civics-law-economics",
-    "question": "What is the name of the negligence defense that bars a plaintiff from recovery if they had the last clear chance to avoid the accident but failed to do so?",
-    "options": [
-      "Last clear chance doctrine",
-      "Contributory negligence",
-      "Assumption of risk",
-      "Comparative negligence"
-    ],
-    "answer": "Last clear chance doctrine",
-    "id": "civics-law-economics-1253"
-  },
-  {
     "difficulty": "medium",
     "category": "civics-law-economics",
     "question": "In some jurisdictions, what is the name of the defense that reduces a plaintiff's damages if they failed to wear a seatbelt and thereby exacerbated their injuries?",
@@ -15808,19 +15704,6 @@
     "id": "civics-law-economics-1269"
   },
   {
-    "difficulty": "hard",
-    "category": "civics-law-economics",
-    "question": "In property law, what is the term for an estate that can only be inherited by the grantee's lineal descendants and not by collateral heirs?",
-    "options": [
-      "Fee tail",
-      "Fee simple absolute",
-      "Life estate",
-      "Defeasible estate"
-    ],
-    "answer": "Fee tail",
-    "id": "civics-law-economics-1270"
-  },
-  {
     "difficulty": "easy",
     "category": "civics-law-economics",
     "question": "What is the term for an interest in real property that grants a tenant the right to possess and use the property for a fixed or periodic duration?",
@@ -15858,45 +15741,6 @@
     ],
     "answer": "Tenancy by the entirety",
     "id": "civics-law-economics-1273"
-  },
-  {
-    "difficulty": "hard",
-    "category": "civics-law-economics",
-    "question": "What property interest grants a person the right to enter another's land to extract or take away a natural resource, such as timber or minerals?",
-    "options": [
-      "Profit a prendre",
-      "Easement in gross",
-      "License",
-      "Encumbrance"
-    ],
-    "answer": "Profit a prendre",
-    "id": "civics-law-economics-1274"
-  },
-  {
-    "difficulty": "hard",
-    "category": "civics-law-economics",
-    "question": "What is the term for a covenant tied to land that binds subsequent owners and is enforceable in equity, commonly used in homeowners associations?",
-    "options": [
-      "Equitable servitude",
-      "Affirmative easement",
-      "Negative easement",
-      "Real covenant"
-    ],
-    "answer": "Equitable servitude",
-    "id": "civics-law-economics-1275"
-  },
-  {
-    "difficulty": "hard",
-    "category": "civics-law-economics",
-    "question": "What common law rule limits the duration of certain future interests in property to prevent property from being tied up indefinitely?",
-    "options": [
-      "Rule against perpetuities",
-      "Rule in Shelley's Case",
-      "Doctrine of worthier title",
-      "Rule against accumulations"
-    ],
-    "answer": "Rule against perpetuities",
-    "id": "civics-law-economics-1276"
   },
   {
     "difficulty": "hard",
@@ -16198,19 +16042,6 @@
     "id": "civics-law-economics-1299"
   },
   {
-    "difficulty": "hard",
-    "category": "civics-law-economics",
-    "question": "As of 2026, where is the headquarters of the United Nations Industrial Development Organization (UNIDO)?",
-    "options": [
-      "Vienna",
-      "Geneva",
-      "Nairobi",
-      "New York"
-    ],
-    "answer": "Vienna",
-    "id": "civics-law-economics-1300"
-  },
-  {
     "difficulty": "medium",
     "category": "civics-law-economics",
     "question": "As of 2026, the International Organization for Migration (IOM), a UN-related agency, is headquartered in which city?",
@@ -16235,19 +16066,6 @@
     ],
     "answer": "Geneva",
     "id": "civics-law-economics-1302"
-  },
-  {
-    "difficulty": "hard",
-    "category": "civics-law-economics",
-    "question": "As of 2026, the International Fund for Agricultural Development (IFAD), a UN agency, is headquartered in which city?",
-    "options": [
-      "Rome",
-      "Geneva",
-      "Vienna",
-      "Nairobi"
-    ],
-    "answer": "Rome",
-    "id": "civics-law-economics-1303"
   },
   {
     "difficulty": "easy",

@@ -2512,11 +2512,11 @@
         "civics-law-economics-1021",
         "civics-law-economics-1022"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-27",
+      "completedAt": "2026-08-27",
+      "issuesFound": 4,
+      "notes": "Fixed 3 distractor-correctness bugs (826: separate-sovereigns/dual-sovereignty synonym distractor; 862: Clausula rebus was a truncation of the correct answer; 863: answer should be uti possidetis juris, the precise term for boundary inheritance, not plain uti possidetis). Cut internal duplicate 918 (budget reconciliation, dup of 802)."
     },
     {
       "chunkId": "civics-law-economics-p2-001",
@@ -2573,11 +2573,11 @@
         "civics-law-economics-1187",
         "civics-law-economics-1193"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-27",
+      "completedAt": "2026-08-27",
+      "issuesFound": 3,
+      "notes": "Cut 3 duplicates whose sibling was already reviewed/confirmed in chunk p2-000: 1062 (dup of 783, act of state doctrine), 1149 (dup of 940, last clear chance -- missed by auto-match since it omitted the word 'doctrine'), 1164 (dup of 875, Ricardian equivalence). All other questions in chunk checked clean."
     },
     {
       "chunkId": "civics-law-economics-p2-002",
@@ -2634,11 +2634,11 @@
         "civics-law-economics-1327",
         "civics-law-economics-1330"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-27",
+      "completedAt": "2026-08-27",
+      "issuesFound": 10,
+      "notes": "Cut 10 duplicates: 8 whose sibling was already reviewed/confirmed in chunks p2-000/p2-001 (1197 dup of 876 Tiebout model, 1224 dup of 1023 Netocracy, 1227 dup of 913 Incorporation doctrine, 1253 dup of 940 Last clear chance, 1270 dup of 1122 Fee tail, 1274 dup of 1127 Profit a prendre, 1275 dup of 1129 Equitable servitude, 1276 dup of 1126 Rule against perpetuities), plus 2 same-chunk pairs (1300 dup of 1222 UNIDO/Vienna HQ, 1303 dup of 1221 IFAD/Rome HQ). Rest of chunk checked clean; Geneva/Vienna/Rome HQ clusters for genuinely distinct orgs left alone per known-pattern guidance."
     },
     {
       "chunkId": "civics-law-economics-p2-003",
