@@ -4293,11 +4293,11 @@
         "food-drink-1151",
         "food-drink-1152"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-27",
+      "completedAt": "2026-08-27",
+      "issuesFound": 0,
+      "notes": "Both questions verified correct: Pisco Sour base spirit, hops as climbing bine in beer. No issues."
     },
     {
       "chunkId": "friends-p2-000",
@@ -4354,11 +4354,11 @@
         "friends-799",
         "friends-803"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-27",
+      "completedAt": "2026-08-27",
+      "issuesFound": 2,
+      "notes": "Fixed leaked-reasoning-style answer on friends-893 (Mike's parents rich); cut friends-901 as duplicate of already-vetted friends-584 (same actress/Nora Bing fact). All Gunther/Estelle/Amanda/triplets/Bruce Willis/Robin Williams-Billy Crystal facts verified accurate via WebSearch."
     },
     {
       "chunkId": "friends-p2-001",
@@ -4415,11 +4415,11 @@
         "friends-931",
         "friends-934"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-27",
+      "completedAt": "2026-08-27",
+      "issuesFound": 5,
+      "notes": "Fixed: friends-853 answer-leak trim, friends-866 wrong Ugly Naked Guy actor (Michael Hagerty played Mr. Treeger, not Ugly Naked Guy - fixed to Jon Haugen), friends-889 wrong first-appearance episode for Mike Hannigan (fixed to The One with the Pediatrician). Cut friends-900 as duplicate of already-vetted friends-583 (Nora Bing). Cut friends-934 (leaked-reasoning option + unverifiable Janice-as-mattress-saleswoman claim). Extensive WebSearch verification of Terry/Heckles/Ugly Naked Guy/Amanda/Frank Jr/Tag/Emily/Mike Hannigan facts - all others confirmed accurate."
     },
     {
       "chunkId": "friends-p2-002",
