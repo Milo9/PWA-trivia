@@ -7945,19 +7945,6 @@
   {
     "difficulty": "medium",
     "category": "film-tv",
-    "question": "How many Academy Awards did Ben-Hur (1959) win, a record it shares with Titanic and The Lord of the Rings: The Return of the King?",
-    "options": [
-      "11",
-      "10",
-      "9",
-      "12"
-    ],
-    "answer": "11",
-    "id": "film-tv-471"
-  },
-  {
-    "difficulty": "medium",
-    "category": "film-tv",
     "question": "In Alfred Hitchcock's Vertigo (1958), in which city is the film primarily set?",
     "options": [
       "San Francisco",
@@ -15033,12 +15020,12 @@
     "difficulty": "easy",
     "question": "In Rear Window (1954), what is Jeff Jefferies' profession?",
     "options": [
-      "Newspaper photographer",
+      "Magazine photographer",
       "Police detective",
       "Insurance salesman",
       "Architect"
     ],
-    "answer": "Newspaper photographer"
+    "answer": "Magazine photographer"
   },
   {
     "id": "film-tv-1041",
@@ -15327,19 +15314,6 @@
     "answer": "Never revealed"
   },
   {
-    "id": "film-tv-2980",
-    "difficulty": "easy",
-    "category": "film-tv",
-    "question": "Who won Best Actress Oscar for Roman Holiday (1953)?",
-    "options": [
-      "Deborah Kerr",
-      "Ava Gardner",
-      "Audrey Hepburn",
-      "Leslie Caron"
-    ],
-    "answer": "Audrey Hepburn"
-  },
-  {
     "id": "film-tv-2981",
     "difficulty": "hard",
     "category": "film-tv",
@@ -15390,19 +15364,6 @@
       "Sarah Bernhardt Prize"
     ],
     "answer": "Sarah Siddons Award"
-  },
-  {
-    "id": "film-tv-2985",
-    "difficulty": "easy",
-    "category": "film-tv",
-    "question": "How many Academy Awards did Ben-Hur (1959) win?",
-    "options": [
-      "10",
-      "9",
-      "12",
-      "11"
-    ],
-    "answer": "11"
   },
   {
     "id": "film-tv-2986",
@@ -16153,7 +16114,7 @@
     "options": [
       "McLovin",
       "McLoud",
-      "McLovin'",
+      "McLain",
       "McLarty"
     ],
     "answer": "McLovin"
@@ -16816,7 +16777,7 @@
     "options": [
       "Jon M. Chu",
       "Lin-Manuel Miranda",
-      "John M. Chu",
+      "Bill Condon",
       "Damien Chazelle"
     ],
     "answer": "Jon M. Chu"
@@ -17041,19 +17002,6 @@
       "Stand-Up Stories"
     ],
     "answer": "The Seinfeld Chronicles"
-  },
-  {
-    "id": "film-tv-3114",
-    "difficulty": "easy",
-    "category": "film-tv",
-    "question": "Who created The Sopranos?",
-    "options": [
-      "David Chase",
-      "Matthew Weiner",
-      "Terence Winter",
-      "David Milch"
-    ],
-    "answer": "David Chase"
   },
   {
     "id": "film-tv-3115",
@@ -19758,19 +19706,6 @@
       "Adam McKay"
     ],
     "answer": "Jesse Armstrong"
-  },
-  {
-    "id": "film-tv-3323",
-    "category": "film-tv",
-    "difficulty": "medium",
-    "question": "Who played Omar Little in The Wire?",
-    "options": [
-      "Michael K. Williams",
-      "Idris Elba",
-      "Wendell Pierce",
-      "Dominic West"
-    ],
-    "answer": "Michael K. Williams"
   },
   {
     "id": "film-tv-3324",

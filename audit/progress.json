@@ -3627,11 +3627,11 @@
         "film-tv-1000",
         "film-tv-1002"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-27",
+      "completedAt": "2026-08-27",
+      "issuesFound": 3,
+      "notes": "Cut film-tv-3323 (Who played Omar Little) as reversed-direction dup of already-reviewed film-tv-942. Logged backlog notes for two more reversed-direction/restated-fact clusters found via corpus grep: Ben-Hur 11-Oscars (869 vs orphan 471 + pending 2985) and Succession Shiv's husband (944 vs orphan 456). Rest of chunk (Wire cast, classic-film chestnuts, Pixar/Disney/prestige-TV facts) checked clean."
     },
     {
       "chunkId": "film-tv-p2-007",
@@ -3688,11 +3688,11 @@
         "film-tv-3067",
         "film-tv-3071"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-27",
+      "completedAt": "2026-08-27",
+      "issuesFound": 5,
+      "notes": "Fixed film-tv-1040 (Rear Window: Jeff Jefferies is a magazine photographer, not newspaper -- confirmed via WebSearch). Fixed film-tv-3043 malformed near-identical options (McLovin/McLovin' -> McLovin/McLain). Resolved the Ben-Hur 11-Oscars backlog cluster from p2-006: cut film-tv-2985 and film-tv-471 as dups of already-reviewed film-tv-869. Cut film-tv-2980 (Roman Holiday Best Actress) as newly-found reversed-direction dup of already-reviewed film-tv-878. Rest of chunk (superhero lore, film-school classics, cult-movie trivia, director/actor facts) checked clean."
     },
     {
       "chunkId": "film-tv-p2-008",
@@ -3749,11 +3749,11 @@
         "film-tv-3172",
         "film-tv-3174"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-27",
+      "completedAt": "2026-08-27",
+      "issuesFound": 10,
+      "notes": "Cut film-tv-3114 (Sopranos creator) as dup of already-reviewed film-tv-3160. Fixed film-tv-3096 malformed near-identical options (Jon M. Chu / John M. Chu -> Jon M. Chu / Bill Condon). Logged 8 backlog notes for exact same-answer duplicates against orphaned siblings (Grogu, 2023 Emmy Comedy/The Bear, Interstellar score, Bates Motel, Alien tagline, Goodfellas/Ray Liotta, Saul Goodman/Odenkirk, Mad Men/Jon Hamm) -- this chunk's 30xx-31xx range skews heavily toward re-drafted 'actor played X' chestnuts already covered elsewhere in the corpus. Verified Sinners (2025)/Ryan Coogler via WebSearch. Rest of chunk (streaming-era prestige TV, superhero/franchise lore, sitcom facts) checked clean."
     },
     {
       "chunkId": "film-tv-p2-009",
