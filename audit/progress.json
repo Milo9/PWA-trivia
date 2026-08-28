@@ -4158,11 +4158,11 @@
         "food-drink-828",
         "food-drink-829"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-27",
+      "completedAt": "2026-08-27",
+      "issuesFound": 4,
+      "notes": "Cut food-drink-1094 (dup of world-cultures-674, chawanmushi), cut food-drink-828 (dup of already-reviewed food-drink-151, oolong=partially oxidized), fixed food-drink-1127 (siphon brewer wrongly dated 1941, actually patented 1840s), fixed food-drink-1135 (Tableya is Filipino not Mexican, renamed to Tablilla)"
     },
     {
       "chunkId": "food-drink-p2-005",
@@ -4219,11 +4219,11 @@
         "food-drink-980",
         "food-drink-986"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-27",
+      "completedAt": "2026-08-27",
+      "issuesFound": 3,
+      "notes": "Cut 3 duplicates of already-reviewed (pass 1) questions: food-drink-967 (matcha, reversed-direction dup of world-cultures-885, per backlog), food-drink-952 (umami, near-verbatim dup of food-drink-502), food-drink-926 (kombucha SCOBY, near-verbatim dup of food-drink-549)"
     },
     {
       "chunkId": "food-drink-p2-006",
@@ -4280,11 +4280,11 @@
         "food-drink-1146",
         "food-drink-1150"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-27",
+      "completedAt": "2026-08-27",
+      "issuesFound": 7,
+      "notes": "Cut 5 duplicates of already-reviewed (pass 1) questions: food-drink-1029 (sumac, dup of general-2695), food-drink-1032 (gochujang, dup of food-drink-310), food-drink-1067 (unagi=freshwater eel, dup of friends-746), food-drink-1141 (French 75=gin, dup of food-drink-703), food-drink-1144 (Daiquiri=rum, dup of food-drink-721). Fixed 2 factual errors: food-drink-1058 (kumquat wrongly called Italian for 'little orange', actually Cantonese for 'golden orange'), food-drink-1054 (carrot color myth omitted that original carrots were purple, not just white/yellow)"
     },
     {
       "chunkId": "food-drink-p2-007",

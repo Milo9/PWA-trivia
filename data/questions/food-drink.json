@@ -11713,19 +11713,6 @@
     "answer": "Summer harvest with muscatel flavor"
   },
   {
-    "id": "food-drink-828",
-    "category": "food-drink",
-    "difficulty": "easy",
-    "question": "How is oolong tea classified by oxidation?",
-    "options": [
-      "Fermented after oxidation",
-      "Partially oxidized",
-      "Fully oxidized",
-      "Unoxidized"
-    ],
-    "answer": "Partially oxidized"
-  },
-  {
     "id": "food-drink-829",
     "category": "food-drink",
     "difficulty": "easy",
@@ -12909,19 +12896,6 @@
     "answer": "Vanilla ice cream"
   },
   {
-    "id": "food-drink-926",
-    "category": "food-drink",
-    "difficulty": "easy",
-    "question": "Kombucha is fermented sweet tea using a symbiotic culture abbreviated as what?",
-    "options": [
-      "MOLD",
-      "SCOBY",
-      "YEAST",
-      "LACTO"
-    ],
-    "answer": "SCOBY"
-  },
-  {
     "id": "food-drink-928",
     "category": "food-drink",
     "difficulty": "medium",
@@ -13156,19 +13130,6 @@
     "answer": "Socarrat"
   },
   {
-    "id": "food-drink-952",
-    "category": "food-drink",
-    "difficulty": "easy",
-    "question": "What is the Japanese term for the fifth basic taste meaning savory deliciousness?",
-    "options": [
-      "Amami",
-      "Karami",
-      "Umami",
-      "Nigami"
-    ],
-    "answer": "Umami"
-  },
-  {
     "id": "food-drink-953",
     "category": "food-drink",
     "difficulty": "medium",
@@ -13336,19 +13297,6 @@
       "Dry process"
     ],
     "answer": "Washed process"
-  },
-  {
-    "id": "food-drink-967",
-    "category": "food-drink",
-    "difficulty": "easy",
-    "question": "What is the name of the Japanese green tea powder whisked with water?",
-    "options": [
-      "Genmaicha",
-      "Matcha",
-      "Hojicha",
-      "Sencha"
-    ],
-    "answer": "Matcha"
   },
   {
     "id": "food-drink-968",
@@ -14066,19 +14014,6 @@
     "answer": "Asafoetida"
   },
   {
-    "id": "food-drink-1029",
-    "category": "food-drink",
-    "difficulty": "easy",
-    "question": "Which Middle Eastern spice made from dried red berries was used as a souring agent by Romans before lemons?",
-    "options": [
-      "Paprika",
-      "Grains of paradise",
-      "Aleppo pepper",
-      "Sumac"
-    ],
-    "answer": "Sumac"
-  },
-  {
     "id": "food-drink-1030",
     "category": "food-drink",
     "difficulty": "medium",
@@ -14103,19 +14038,6 @@
       "Mole coloradito"
     ],
     "answer": "Mole negro"
-  },
-  {
-    "id": "food-drink-1032",
-    "category": "food-drink",
-    "difficulty": "easy",
-    "question": "Which Korean fermented paste gets its sweetness from glutinous rice starch and combines chili with fermented soybean powder?",
-    "options": [
-      "Ssamjang",
-      "Chogochujang",
-      "Gochujang",
-      "Doubanjiang"
-    ],
-    "answer": "Gochujang"
   },
   {
     "id": "food-drink-1033",
@@ -14368,7 +14290,7 @@
     "id": "food-drink-1054",
     "category": "food-drink",
     "difficulty": "easy",
-    "question": "Which root vegetable originally had only white and yellow varieties before orange was bred in the Netherlands?",
+    "question": "Which root vegetable was originally purple, white, and yellow before the now-familiar orange variety was developed in the Netherlands?",
     "options": [
       "Beet",
       "Turnip",
@@ -14420,7 +14342,7 @@
     "id": "food-drink-1058",
     "category": "food-drink",
     "difficulty": "easy",
-    "question": "Which fruit's name means little orange in Italian and is eaten whole, peel included?",
+    "question": "Which fruit's name comes from a Cantonese term meaning golden orange and is eaten whole, peel included?",
     "options": [
       "Calamondin",
       "Mandarin",
@@ -14532,19 +14454,6 @@
       "Pork hind leg"
     ],
     "answer": "Pork hind leg"
-  },
-  {
-    "id": "food-drink-1067",
-    "category": "food-drink",
-    "difficulty": "easy",
-    "question": "On a Japanese menu, unagi refers to what type of eel?",
-    "options": [
-      "Freshwater eel",
-      "Saltwater eel",
-      "Smoked eel",
-      "Electric eel"
-    ],
-    "answer": "Freshwater eel"
   },
   {
     "id": "food-drink-1069",
@@ -14870,19 +14779,6 @@
       "Mild turmeric blend"
     ],
     "answer": "Very hot chili, cardamom and clove blend"
-  },
-  {
-    "id": "food-drink-1094",
-    "category": "food-drink",
-    "difficulty": "medium",
-    "question": "What is the Japanese dish chawanmushi?",
-    "options": [
-      "Fried tofu",
-      "Sweet rice pudding",
-      "Savory egg custard steamed in a cup",
-      "Grilled eel over rice"
-    ],
-    "answer": "Savory egg custard steamed in a cup"
   },
   {
     "id": "food-drink-1095",
@@ -15304,7 +15200,7 @@
     "id": "food-drink-1127",
     "category": "food-drink",
     "difficulty": "medium",
-    "question": "Which brewing device invented in 1941 uses vacuum pressure to pull coffee through a glass chamber?",
+    "question": "Which brewing device, patented in the 1840s, uses vacuum pressure to pull coffee through a glass chamber?",
     "options": [
       "Chemex",
       "Siphon brewer",
@@ -15398,11 +15294,11 @@
     "question": "What is the name for the thick, sweet Mexican hot chocolate tablet often spiced with cinnamon, used for champurrado?",
     "options": [
       "Ganache",
-      "Tableya / Mexican chocolate tablet",
+      "Tablilla (Mexican chocolate tablet)",
       "Compound chocolate",
       "Couverture"
     ],
-    "answer": "Tableya / Mexican chocolate tablet"
+    "answer": "Tablilla (Mexican chocolate tablet)"
   },
   {
     "id": "food-drink-1136",
@@ -15470,19 +15366,6 @@
     "answer": "Chardonnay"
   },
   {
-    "id": "food-drink-1141",
-    "category": "food-drink",
-    "difficulty": "easy",
-    "question": "A classic French 75 cocktail is made with Champagne, lemon juice, sugar and which base spirit?",
-    "options": [
-      "Gin",
-      "Tequila",
-      "Rum",
-      "Irish whiskey"
-    ],
-    "answer": "Gin"
-  },
-  {
     "id": "food-drink-1142",
     "category": "food-drink",
     "difficulty": "medium",
@@ -15507,19 +15390,6 @@
       "Nebbiolo"
     ],
     "answer": "Nebbiolo"
-  },
-  {
-    "id": "food-drink-1144",
-    "category": "food-drink",
-    "difficulty": "easy",
-    "question": "What is the base spirit of a classic Daiquiri?",
-    "options": [
-      "Tequila",
-      "Vodka",
-      "Gin",
-      "Rum"
-    ],
-    "answer": "Rum"
   },
   {
     "id": "food-drink-1145",
