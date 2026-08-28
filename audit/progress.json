@@ -3444,11 +3444,11 @@
         "film-tv-3081",
         "film-tv-3082"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-27",
+      "completedAt": "2026-08-27",
+      "issuesFound": 1,
+      "notes": "Cut film-tv-3069 (Midsommar commune name) as duplicate of already-vetted film-tv-922. All other 49 questions verified correct (Terminator roommate name, Fargo ransom amount, San Junipero year all confirmed via WebSearch)."
     },
     {
       "chunkId": "film-tv-p2-004",
@@ -3505,11 +3505,11 @@
         "film-tv-3203",
         "film-tv-3204"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-27",
+      "completedAt": "2026-08-27",
+      "issuesFound": 2,
+      "notes": "No cuts/fixes needed. Verified Brooklyn 99 'Kevin Cozner' spelling via WebSearch. Logged 2 backlog notes for duplicates whose sibling is an orphan (film-tv-3167/film-tv-237 Flynn alias; film-tv-3203/film-tv-486 Fargo=Minnesota). film-tv-3160/film-tv-3114 (Sopranos creator) same-answer match will self-resolve when film-tv-3114's pending chunk p2-008 is reached."
     },
     {
       "chunkId": "film-tv-p2-005",
@@ -3566,11 +3566,11 @@
         "film-tv-3316",
         "film-tv-3317"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-27",
+      "completedAt": "2026-08-27",
+      "issuesFound": 1,
+      "notes": "No cuts/fixes needed this chunk. Logged backlog note for film-tv-3243, a triplicate with orphaned film-tv-110/film-tv-477 (Jaws shark nickname 'Bruce'). All other same-answer flags were coincidental (same actor/director in multiple distinct roles/films)."
     },
     {
       "chunkId": "film-tv-p2-006",
