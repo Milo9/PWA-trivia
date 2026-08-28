@@ -3810,11 +3810,11 @@
         "film-tv-3258",
         "film-tv-3259"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-27",
+      "completedAt": "2026-08-27",
+      "issuesFound": 8,
+      "notes": "Cut 8 same-fact duplicates of already-reviewed pass-1 questions: Jon Snow/Gandalf/Psycho-director/Jaws-blockbuster/Morpheus/Agent-Smith/Wachowskis-Matrix/bullet-time, all reworded restatements of film-tv-033/179/207/228/252 and general-905/2060/2253."
     },
     {
       "chunkId": "film-tv-p2-010",
@@ -3853,11 +3853,11 @@
         "film-tv-3321",
         "film-tv-3322"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-27",
+      "completedAt": "2026-08-27",
+      "issuesFound": 1,
+      "notes": "Cut film-tv-3272 (Captain America actor) as duplicate of already-reviewed general-909, same wording."
     },
     {
       "chunkId": "food-drink-p2-000",
@@ -3914,11 +3914,11 @@
         "food-drink-779",
         "food-drink-780"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-27",
+      "completedAt": "2026-08-27",
+      "issuesFound": 5,
+      "notes": "Fixed 4 factual errors verified via WebSearch: Russian-service question wrongly described American (kitchen-plated) service, reworded to accurately describe platter/tableside service; Comte question falsely claimed 'gerles' wooden barrels (that's Salers, not Comte), dropped the gerles claim and kept the accurate spruce-board-aging fact; Morbier's black ash mark is an interior line not a 'rind', reworded; Ethiopian coffee ceremony's Abol round actually means 'first' in Amharic, not 'to come together', corrected. Also cut food-drink-935 as a same-fact duplicate of food-drink-1102 (both ask which cocoa-butter crystal form chocolate tempering targets)."
     },
     {
       "chunkId": "food-drink-p2-001",
