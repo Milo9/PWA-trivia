@@ -4476,11 +4476,11 @@
         "friends-880",
         "friends-883"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-27",
+      "completedAt": "2026-08-27",
+      "issuesFound": 9,
+      "notes": "Cut 8 duplicate questions (Judy Geller actress, Monica's profession, Rachel's first job, Joey's profession, Chandler's coworker job title, Phoebe's profession, Charlie Wheeler actress, Central Perk manager after Terry - all dupes of already-reviewed pass-1 questions) and 1 malformed question (friends-868 asked 'which holiday' but answer wasn't a holiday, unfixable premise). Verified via WebSearch: Charlie dates Joey first then Ross (confirmed correct), Charlie/Mike both first appear in same episode (coincidence, not error), Frank Jr's mother/Bruce Willis episode count/Tag vs Hilda/Phoebe-Duncan marriage/Frank Jr triplets quote all confirmed accurate."
     },
     {
       "chunkId": "friends-p2-003",
@@ -4515,11 +4515,11 @@
         "friends-988",
         "friends-992"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-27",
+      "completedAt": "2026-08-27",
+      "issuesFound": 8,
+      "notes": "Cut 5 duplicates (Jack/Judy's Long Island residence, Ross's profession, Monica's original apt number x2, Charlie's profession, Ben Geller teen actor - all dupes of already-reviewed questions). Fixed 3 errors: friends-922 answer-leak (long sentence answer vs short distractors, trimmed to match style), friends-961 mislabeled Frank Buffay Sr as 'stepfather' when he is Phoebe's biological father who walked out (reworded question), friends-982 wrong answer for Susan's profession (was 'Teacher', confirmed via WebSearch she's a commercial director). Verified via WebSearch: Theodore Hannigan/Gregory Itzin, Kathleen Turner 3 episodes, Robin Williams/Billy Crystal cameo S3E24, Janice's full name and mattress-salesman ex-husband Gary Litman all confirmed accurate."
     },
     {
       "chunkId": "general-p2-000",
@@ -4576,11 +4576,11 @@
         "general-4098",
         "general-4100"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-27",
+      "completedAt": "2026-08-27",
+      "issuesFound": 13,
+      "notes": "Cut general-3951 (dup of already-reviewed general-3497, UK firkin=9 imp gal). Fixed self-answering/tautological questions where the answer name was given in the question stem (11 entries in the typographical-symbol chestnut set, IDs general-4072/4073/4074/4075/4076/4078/4084/4085/4086/4087/4088 - copyright/trademark/service-mark/sound-recording/numero/backslash/commercial-minus/telephone/Celsius/Fahrenheit symbols) - reworded each to describe the symbol's function instead of naming it, verified no new near-duplicate collisions after the fix (validate.js strips non-alphanumeric chars so bare symbol chars don't distinguish questions - initial fix attempt caused exact-duplicate collisions, corrected with distinguishing descriptive text). Fixed general-4050 (not in this chunk, found incidentally via same-answer check): wrong answer '63 gallons' for imperial-gallon hogshead conversion, corrected to 54 gallons per WebSearch (63 is the US/old-wine-gallon hogshead value, not imperial). Left general-3934/general-3962 duplicates of pending siblings (general-3865/general-4218) unresolved per self-resolve convention. Verified via WebSearch: 1909 Copyright Act, donkeypower unit, Hobson-Jobson definition all accurate; zeugma vs syllepsis ambiguity on general-4098 left as-is (both defensible, 'zeugma' is the more commonly cited answer for that exact example)."
     },
     {
       "chunkId": "general-p2-001",

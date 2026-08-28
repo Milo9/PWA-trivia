@@ -12142,19 +12142,6 @@
     "id": "general-3950"
   },
   {
-    "difficulty": "hard",
-    "category": "general",
-    "question": "A UK beer firkin holds how many imperial gallons?",
-    "options": [
-      "9 imperial gallons",
-      "36 imperial gallons",
-      "63 imperial gallons",
-      "18 imperial gallons"
-    ],
-    "answer": "9 imperial gallons",
-    "id": "general-3951"
-  },
-  {
     "difficulty": "easy",
     "category": "general",
     "question": "A board foot is what lumber volume?",
@@ -13361,7 +13348,7 @@
       "100 gallons",
       "63 gallons"
     ],
-    "answer": "63 gallons"
+    "answer": "54 gallons"
   },
   {
     "id": "general-4051",
@@ -13627,7 +13614,7 @@
     "id": "general-4072",
     "category": "general",
     "difficulty": "easy",
-    "question": "What is the typographical copyright symbol © called?",
+    "question": "What is the symbol used to indicate copyright ownership, ©, called?",
     "options": [
       "Copyleft",
       "Trademark",
@@ -13640,7 +13627,7 @@
     "id": "general-4073",
     "category": "general",
     "difficulty": "easy",
-    "question": "What is the typographical registered trademark symbol ® called?",
+    "question": "What is the symbol used to mark a legally registered trademark, ®, called?",
     "options": [
       "Copyright symbol",
       "Restricted mark",
@@ -13653,7 +13640,7 @@
     "id": "general-4074",
     "category": "general",
     "difficulty": "easy",
-    "question": "What is the typographical trademark symbol ™ called?",
+    "question": "What is the symbol used to claim an unregistered trademark, ™, called?",
     "options": [
       "Trade mark",
       "Copyright symbol",
@@ -13666,7 +13653,7 @@
     "id": "general-4075",
     "category": "general",
     "difficulty": "medium",
-    "question": "What is the typographical service mark symbol ℠ called?",
+    "question": "What is the symbol used to claim an unregistered service mark, ℠, called?",
     "options": [
       "Standard mark",
       "Trademark",
@@ -13679,7 +13666,7 @@
     "id": "general-4076",
     "category": "general",
     "difficulty": "hard",
-    "question": "What is the typographical sound recording copyright symbol ℗ called?",
+    "question": "What is the symbol used on audio recordings to denote sound recording copyright, ℗, called?",
     "options": [
       "Phonogram symbol",
       "Producer mark",
@@ -13705,7 +13692,7 @@
     "id": "general-4078",
     "category": "general",
     "difficulty": "medium",
-    "question": "What is the typographical numero sign symbol № called?",
+    "question": "What is the symbol used before a number to abbreviate the word 'number', №, called?",
     "options": [
       "Hash mark",
       "Pound sign",
@@ -13783,7 +13770,7 @@
     "id": "general-4084",
     "category": "general",
     "difficulty": "easy",
-    "question": "What is the backslash symbol, written \\, called?",
+    "question": "What is the mirror image of the forward slash, \\, called?",
     "options": [
       "Reverse solidus",
       "Virgule",
@@ -13796,7 +13783,7 @@
     "id": "general-4085",
     "category": "general",
     "difficulty": "hard",
-    "question": "What is the commercial minus sign symbol, written ⁒, called?",
+    "question": "What is the symbol sometimes used in place of a percent sign in trade documents, ⁒, called?",
     "options": [
       "Business dash",
       "Trade hyphen",
@@ -13809,7 +13796,7 @@
     "id": "general-4086",
     "category": "general",
     "difficulty": "medium",
-    "question": "What is the telephone sign symbol, written ℡, called?",
+    "question": "What is the symbol used, especially in Japan, to indicate a telephone number, ℡, called?",
     "options": [
       "Telecom mark",
       "Call symbol",
@@ -13822,7 +13809,7 @@
     "id": "general-4087",
     "category": "general",
     "difficulty": "easy",
-    "question": "What is the degree Celsius symbol, written ℃, called?",
+    "question": "What is the symbol for temperature on the Celsius scale, ℃, called?",
     "options": [
       "Centigrade symbol",
       "Celsius mark",
@@ -13835,7 +13822,7 @@
     "id": "general-4088",
     "category": "general",
     "difficulty": "easy",
-    "question": "What is the degree Fahrenheit symbol, written ℉, called?",
+    "question": "What is the symbol for temperature on the Fahrenheit scale, ℉, called?",
     "options": [
       "Fahrenheit mark",
       "Thermometer symbol",

@@ -9737,19 +9737,6 @@
     "answer": "Wants to gouge his eyes out"
   },
   {
-    "id": "friends-854",
-    "difficulty": "easy",
-    "category": "friends",
-    "question": "Who is manager of Central Perk after Terry?",
-    "options": [
-      "Gunther",
-      "Rachel",
-      "Joey",
-      "Terry"
-    ],
-    "answer": "Gunther"
-  },
-  {
     "id": "friends-855",
     "difficulty": "medium",
     "category": "friends",
@@ -9878,19 +9865,6 @@
       "Brooklyn Bridge"
     ],
     "answer": "Ugly Naked Guy's apartment"
-  },
-  {
-    "id": "friends-868",
-    "difficulty": "easy",
-    "category": "friends",
-    "question": "Which holiday does Mr. Heckles complain during first appearance The One With The Blackout?",
-    "options": [
-      "Thanksgiving",
-      "Christmas",
-      "Blackout during heatwave",
-      "Halloween"
-    ],
-    "answer": "Blackout during heatwave"
   },
   {
     "id": "friends-869",
@@ -10483,12 +10457,12 @@
     "category": "friends",
     "question": "Which Mad About You stars crossed over to Central Perk mistaking Phoebe for Ursula?",
     "options": [
-      "Helen Hunt and Leila Kenzle as Jamie and Fran",
+      "Helen Hunt and Leila Kenzle",
       "Lisa Kudrow",
       "Paul Reiser",
       "Helen Hunt alone"
     ],
-    "answer": "Helen Hunt and Leila Kenzle as Jamie and Fran"
+    "answer": "Helen Hunt and Leila Kenzle"
   },
   {
     "id": "friends-923",
@@ -10621,32 +10595,6 @@
     "answer": "Chandler Bing"
   },
   {
-    "id": "friends-935",
-    "difficulty": "medium",
-    "category": "friends",
-    "question": "Who plays Judy Geller?",
-    "options": [
-      "Morgan Fairchild",
-      "June Gable",
-      "Christina Pickles",
-      "Maggie Wheeler"
-    ],
-    "answer": "Christina Pickles"
-  },
-  {
-    "id": "friends-936",
-    "difficulty": "easy",
-    "category": "friends",
-    "question": "Where do Jack and Judy live?",
-    "options": [
-      "Manhattan",
-      "London",
-      "Long Island",
-      "Los Angeles"
-    ],
-    "answer": "Long Island"
-  },
-  {
     "id": "friends-937",
     "difficulty": "medium",
     "category": "friends",
@@ -10686,32 +10634,6 @@
     "answer": "Karen"
   },
   {
-    "id": "friends-940",
-    "difficulty": "easy",
-    "category": "friends",
-    "question": "What is Ross's profession?",
-    "options": [
-      "Doctor",
-      "Actor",
-      "Chef",
-      "Paleontologist"
-    ],
-    "answer": "Paleontologist"
-  },
-  {
-    "id": "friends-941",
-    "difficulty": "medium",
-    "category": "friends",
-    "question": "What is Monica's profession?",
-    "options": [
-      "Chef",
-      "Doctor",
-      "Teacher",
-      "Masseuse"
-    ],
-    "answer": "Chef"
-  },
-  {
     "id": "friends-942",
     "difficulty": "medium",
     "category": "friends",
@@ -10736,19 +10658,6 @@
       "7"
     ],
     "answer": "2"
-  },
-  {
-    "id": "friends-947",
-    "difficulty": "medium",
-    "category": "friends",
-    "question": "What is Rachel's first job in New York after moving?",
-    "options": [
-      "Waitress at Central Perk",
-      "Buyer at Bloomingdale's",
-      "Assistant at Ralph Lauren",
-      "Personal shopper"
-    ],
-    "answer": "Waitress at Central Perk"
   },
   {
     "id": "friends-948",
@@ -10816,19 +10725,6 @@
     "answer": "How you doin'?"
   },
   {
-    "id": "friends-953",
-    "difficulty": "medium",
-    "category": "friends",
-    "question": "What is Joey's profession?",
-    "options": [
-      "Chef",
-      "Doctor",
-      "Actor",
-      "Paleontologist"
-    ],
-    "answer": "Actor"
-  },
-  {
     "id": "friends-954",
     "difficulty": "easy",
     "category": "friends",
@@ -10842,19 +10738,6 @@
     "answer": "Miss Chanandler Bong"
   },
   {
-    "id": "friends-955",
-    "difficulty": "medium",
-    "category": "friends",
-    "question": "What do Chandler's coworkers think his job is called?",
-    "options": [
-      "Transponster",
-      "Chef",
-      "Actor",
-      "Doctor"
-    ],
-    "answer": "Transponster"
-  },
-  {
     "id": "friends-956",
     "difficulty": "hard",
     "category": "friends",
@@ -10866,19 +10749,6 @@
       "Chandler and Joey Jr"
     ],
     "answer": "Chick and Duck"
-  },
-  {
-    "id": "friends-958",
-    "difficulty": "easy",
-    "category": "friends",
-    "question": "What is Monica's apartment number originally in Season 1?",
-    "options": [
-      "20",
-      "15",
-      "4",
-      "5"
-    ],
-    "answer": "5"
   },
   {
     "id": "friends-960",
@@ -10897,7 +10767,7 @@
     "id": "friends-961",
     "difficulty": "easy",
     "category": "friends",
-    "question": "Who is Phoebe's stepfather who walked out?",
+    "question": "Who is Phoebe's father who walked out on the family?",
     "options": [
       "Jack Geller",
       "Leonard Green",
@@ -10905,19 +10775,6 @@
       "Frank Buffay Sr"
     ],
     "answer": "Frank Buffay Sr"
-  },
-  {
-    "id": "friends-962",
-    "difficulty": "medium",
-    "category": "friends",
-    "question": "What does Phoebe do for work?",
-    "options": [
-      "Masseuse",
-      "Chef",
-      "Doctor",
-      "Waitress"
-    ],
-    "answer": "Masseuse"
   },
   {
     "id": "friends-963",
@@ -11011,32 +10868,6 @@
     "answer": "Jack Geller and birth mother Erica"
   },
   {
-    "id": "friends-972",
-    "difficulty": "medium",
-    "category": "friends",
-    "question": "Who is Charlie Wheeler played by?",
-    "options": [
-      "Christina Applegate",
-      "Reese Witherspoon",
-      "Aisha Tyler",
-      "Jennifer Coolidge"
-    ],
-    "answer": "Aisha Tyler"
-  },
-  {
-    "id": "friends-973",
-    "difficulty": "easy",
-    "category": "friends",
-    "question": "What is Charlie's profession?",
-    "options": [
-      "Chef",
-      "Masseuse",
-      "Actor",
-      "Paleontology professor"
-    ],
-    "answer": "Paleontology professor"
-  },
-  {
     "id": "friends-974",
     "difficulty": "medium",
     "category": "friends",
@@ -11074,19 +10905,6 @@
       "The One with Ross's Tan"
     ],
     "answer": "The One with the Pediatrician"
-  },
-  {
-    "id": "friends-977",
-    "difficulty": "easy",
-    "category": "friends",
-    "question": "Who plays Ben Geller, Ross's son as teen?",
-    "options": [
-      "Dylan Sprouse",
-      "Ben Geller",
-      "Cole Sprouse and others",
-      "Cole Sprouse"
-    ],
-    "answer": "Cole Sprouse"
   },
   {
     "id": "friends-978",
@@ -11133,12 +10951,12 @@
     "category": "friends",
     "question": "What is Susan's profession?",
     "options": [
-      "Teacher",
+      "Commercial director",
       "Doctor",
       "Chef",
       "Masseuse"
     ],
-    "answer": "Teacher"
+    "answer": "Commercial director"
   },
   {
     "id": "friends-983",
