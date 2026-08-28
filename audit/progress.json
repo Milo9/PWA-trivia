@@ -4820,11 +4820,11 @@
         "general-4113",
         "general-4114"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-28",
+      "completedAt": "2026-08-28",
+      "issuesFound": 2,
+      "notes": "Fixed Jeroboam bottle-count ambiguity (Champagne vs Bordeaux sizing) and mislabeled eggcorn/catachresis answer for the moot/mute point question. Several same-answer duplicate pairs flagged (Farad, UK hundredweight, bushel/pecks, dagger/double dagger symbols, solidus, shibboleth, litotes, chiasmus) all involve unreviewed siblings — will self-resolve when those chunks are reached."
     },
     {
       "chunkId": "general-p2-005",
@@ -4881,11 +4881,11 @@
         "general-4199",
         "general-4201"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-28",
+      "completedAt": "2026-08-28",
+      "issuesFound": 7,
+      "notes": "Fixed poker wheel/bicycle synonym ambiguity, gobbledygook/bafflegab ambiguity (pinned via verified Maury Maverick 1944 coinage), codswallop/kerfuffle/lollygag/flibbertigibbet near-synonym distractor sets (swapped also-true distractors for unrelated words), and re-pointed general-4043 to the Bordeaux Jeroboam (6 bottles) to avoid a duplicate with general-4199's Champagne Jeroboam (3L) after chunk 004's fix. Documented the near-synonym-distractor pattern in CLAUDE.md and templates/general.md."
     },
     {
       "chunkId": "general-p2-006",
@@ -4942,11 +4942,11 @@
         "general-4319",
         "general-4321"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-28",
+      "completedAt": "2026-08-28",
+      "issuesFound": 5,
+      "notes": "Cut 3 confirmed duplicates found via same-answer index: general-4212 (dup of already-reviewed general-4038, UK long hundredweight=112lb), general-3313 (orphan, dup of general-4219, nautical mile=1852m), general-3785 (orphan, dup of general-4288, NATO Q=Quebec). Fixed self-answering leak in general-4306 (question stated '32-panel' in its own stem while asking for the panel count) by rewording to reference the truncated-icosahedron/Telstar design instead. All measurement/unit facts spot-checked as accurate."
     },
     {
       "chunkId": "general-p2-007",
@@ -5003,11 +5003,11 @@
         "general-4455",
         "general-4456"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-28",
+      "completedAt": "2026-08-28",
+      "issuesFound": 7,
+      "notes": "Cut 3 duplicates of already-reviewed questions found via careful reading (validate's exact-text same-answer index missed all three due to punctuation/direction/rephrasing): general-4341 (dup of general-4231, bale=5000 sheets, comma mismatch hid it), general-4344 (dup of general-4057, pony=1oz, reversed direction), general-4379 (dup of general-3874, cribbage=121, rephrased as board holes vs winning score). Fixed 3 self-answering leaks where the question stem stated the numeric answer directly (general-4385 dimples, general-4393 Piquet pack, general-4443 Braille dots). Fixed general-4411's dagger/obelisk/obelus synonym ambiguity plus a confusing self-referential 'Both Obelisk and Dagger' option by rewriting with clean distractors."
     },
     {
       "chunkId": "general-p2-008",
@@ -5064,11 +5064,11 @@
         "general-3924",
         "general-3927"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-28",
+      "completedAt": "2026-08-28",
+      "issuesFound": 3,
+      "notes": "Cut 2 orphaned duplicates found via manual read (validate's exact-answer index didn't flag either due to rephrasing): general-3067 (dup of general-4477, bridge hand=13 tricks, rephrased as grand-slam requirement), general-3629 (dup of general-3883, Rummy uses melds). Fixed general-3910's clock/watch stem-answer mismatch (question asked about 'a clock with hands' but the correct answer was 'analog watch') by rewording the stem to say 'watch' throughout."
     },
     {
       "chunkId": "general-p2-009",

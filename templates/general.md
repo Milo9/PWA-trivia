@@ -92,7 +92,7 @@ Rules for each entry:
 - Options should be short answer phrases, not full sentences.
 - Do NOT use hedge or meta answers as options (e.g. "This isn't a real plot point," "None of the above," "It's unclear") — every option should be a real, specific, plausible-sounding answer.
 - Avoid the most well-known/obvious trivia chestnuts for this topic if possible — I likely already have those. Favor specific, lesser-known facts over headline facts.
-- Distractor (wrong) options should be plausible, not absurd, and should not themselves be true statements about the topic (a wrong answer that's secretly also correct elsewhere is a common trivia bug).
+- Distractor (wrong) options should be plausible, not absurd, and should not themselves be true statements about the topic (a wrong answer that's secretly also correct elsewhere is a common trivia bug). For "what's the term for X" vocabulary/slang questions specifically, check that no distractor is a close synonym of the correct answer for the definition given (e.g. don't pair "Codswallop" as the answer to "British slang for nonsense" with Balderdash/Poppycock/Tommyrot as distractors — all four genuinely mean the same thing).
 
 Output just the JS file content, nothing else.
 ```

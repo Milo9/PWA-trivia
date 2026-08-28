@@ -314,6 +314,28 @@ trusting recall, especially for "hard"-difficulty/obscure specifics
   bug is that the option set doesn't uniquely determine an answer. Cut
   rather than pick a side, unless the option set can be narrowed to
   exclude all-but-one true answer.
+- **Near-synonym option sets in vocabulary/slang questions are the same
+  bug in a different costume.** A "what's the term for X" question whose
+  distractors are close synonyms of the correct answer (e.g. "British
+  slang for nonsense" with Codswallop as answer and Balderdash/Poppycock/
+  Tommyrot as distractors — all four genuinely mean the same thing) isn't
+  obscure, it's ambiguous the same way the France/Germany border case is:
+  more than one option is a defensible correct answer for the stem as
+  written. Confirmed 2026-08-28 in a `general` chunk built from obscure-
+  vocabulary chestnuts (nonsense synonyms, commotion synonyms, dawdling
+  synonyms, a poker "wheel"/"bicycle" pair, a "frivolous talkative
+  person" set) — five questions in one 50-question chunk had this bug.
+  Prefer narrowing the **option set** over the stem: swap the also-true
+  distractors for same-register words that don't fit the definition,
+  rather than inventing a disputed-etymology stem to pin down the
+  "correct" synonym (etymology for slang terms is often folk/unverified
+  — don't assert it as fact just to rescue a question). Only reach for a
+  stem-level pin when there's a *verified, specific* fact that narrows
+  it (e.g. gobbledygook's documented 1944 Maury Maverick coinage, used to
+  exclude bafflegab, a near-perfect dictionary synonym, without touching
+  the options). Check every replacement distractor against the stem
+  before shipping it — a swapped-in word that also happens to satisfy
+  the definition just recreates the same bug.
 - **Malformed options carrying leaked drafting reasoning, not a hedge.**
   Distinct from the hedge/meta-answer pattern check-draft.js's regex
   already catches (`not (a|given|shown|part of|really|actually)`) — this

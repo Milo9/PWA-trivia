@@ -1638,19 +1638,6 @@
     "answer": "Partner's exposed hand"
   },
   {
-    "id": "general-3067",
-    "category": "general",
-    "difficulty": "hard",
-    "question": "In bridge, how many tricks must you win to make a grand slam?",
-    "options": [
-      "12 tricks",
-      "11 tricks",
-      "13 tricks",
-      "10 tricks"
-    ],
-    "answer": "13 tricks"
-  },
-  {
     "id": "general-3068",
     "category": "general",
     "difficulty": "medium",
@@ -4574,19 +4561,6 @@
     ],
     "answer": "63",
     "id": "general-3312"
-  },
-  {
-    "difficulty": "medium",
-    "category": "general",
-    "question": "One international nautical mile is defined as exactly?",
-    "options": [
-      "1,000 meters",
-      "1,609 meters",
-      "1,852 meters",
-      "2,000 meters"
-    ],
-    "answer": "1,852 meters",
-    "id": "general-3313"
   },
   {
     "difficulty": "medium",
@@ -8138,19 +8112,6 @@
     "answer": "Chutes and Ladders"
   },
   {
-    "id": "general-3629",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "What is the name of the group of matching card games where the objective is to form melds of three or more cards of the same rank or sequence?",
-    "options": [
-      "Rummy",
-      "Poker",
-      "Hearts",
-      "Bridge"
-    ],
-    "answer": "Rummy"
-  },
-  {
     "id": "general-3630",
     "category": "general",
     "difficulty": "medium",
@@ -9932,19 +9893,6 @@
     "answer": "Distance traveled by vehicle"
   },
   {
-    "id": "general-3785",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "In the NATO alphabet, what word is for letter Q?",
-    "options": [
-      "Queen",
-      "Quebec",
-      "Quincy",
-      "Quaker"
-    ],
-    "answer": "Quebec"
-  },
-  {
     "id": "general-3786",
     "category": "general",
     "difficulty": "medium",
@@ -11494,7 +11442,7 @@
   {
     "difficulty": "easy",
     "category": "general",
-    "question": "What retronym for a clock with hands was coined after digital clocks became common as of 2026?",
+    "question": "What retronym for a watch with hands was coined after digital watches became common?",
     "options": [
       "analog watch",
       "smart watch",
@@ -13120,14 +13068,14 @@
     "id": "general-4043",
     "category": "general",
     "difficulty": "medium",
-    "question": "How many standard bottles of wine are in a Jeroboam?",
+    "question": "In Bordeaux still-wine bottle sizes, how many standard 750ml bottles are in a Jeroboam?",
     "options": [
       "6 bottles",
       "8 bottles",
       "2 bottles",
       "4 bottles"
     ],
-    "answer": "4 bottles"
+    "answer": "6 bottles"
   },
   {
     "id": "general-4044",
@@ -13809,14 +13757,14 @@
     "id": "general-4099",
     "category": "general",
     "difficulty": "medium",
-    "question": "What is the term for the incorrect use of a word in place of another, such as 'moot point' for 'mute point'?",
+    "question": "What is the term for the reinterpretation of a word or phrase as another that sounds similar and seems logical, such as 'mute point' for 'moot point'?",
     "options": [
       "Malapropism",
       "Eggcorn",
       "Mixed metaphor",
       "Catachresis"
     ],
-    "answer": "Catachresis"
+    "answer": "Eggcorn"
   },
   {
     "id": "general-4100",
@@ -14188,7 +14136,7 @@
     "difficulty": "medium",
     "question": "In standard Poker, what is the term for a straight consisting of A-2-3-4-5?",
     "options": [
-      "Bicycle",
+      "Broadway",
       "Small straight",
       "Baby straight",
       "Wheel"
@@ -14372,7 +14320,7 @@
     "options": [
       "Gossip",
       "Prattle",
-      "Chatterbox",
+      "Scatterbrain",
       "Flibbertigibbet"
     ],
     "answer": "Flibbertigibbet"
@@ -14381,7 +14329,7 @@
     "id": "general-4146",
     "category": "general",
     "difficulty": "medium",
-    "question": "What is the term for language that is meaningless or made unintelligible by excessive use of abstruse technical terms?",
+    "question": "Coined in 1944 by US Congressman Maury Maverick, who compared pompous bureaucratic language to a turkey's gobble, what term describes language made unintelligible by excessive use of abstruse technical terms?",
     "options": [
       "Mumbo jumbo",
       "Jargon",
@@ -14396,9 +14344,9 @@
     "difficulty": "medium",
     "question": "What is the British slang term for nonsense or rubbish?",
     "options": [
-      "Balderdash",
-      "Poppycock",
-      "Tommyrot",
+      "Chuffed",
+      "Knackered",
+      "Gobsmacked",
       "Codswallop"
     ],
     "answer": "Codswallop"
@@ -14409,8 +14357,8 @@
     "difficulty": "medium",
     "question": "What is the term for a fuss or commotion?",
     "options": [
-      "Brouhaha",
-      "Hullabaloo",
+      "Malarkey",
+      "Skulduggery",
       "Donnybrook",
       "Kerfuffle"
     ],
@@ -14422,7 +14370,7 @@
     "difficulty": "medium",
     "question": "What is the term for spending time aimlessly or dawdling?",
     "options": [
-      "Dillydally",
+      "Bloviate",
       "Shilly-shally",
       "Loiter",
       "Lollygag"
@@ -15158,19 +15106,6 @@
     "id": "general-4211"
   },
   {
-    "difficulty": "medium",
-    "category": "general",
-    "question": "How many pounds are in a British long hundredweight?",
-    "options": [
-      "2240 pounds",
-      "100 pounds",
-      "112 pounds",
-      "120 pounds"
-    ],
-    "answer": "112 pounds",
-    "id": "general-4212"
-  },
-  {
     "difficulty": "easy",
     "category": "general",
     "question": "How many pounds are in a U.S. short ton?",
@@ -15728,19 +15663,6 @@
     ],
     "answer": "3 dragons",
     "id": "general-4256"
-  },
-  {
-    "difficulty": "medium",
-    "category": "general",
-    "question": "How many points on a cribbage board must be scored to win a standard game, counting 121st hole?",
-    "options": [
-      "100 points",
-      "61 points",
-      "120 points",
-      "121 points"
-    ],
-    "answer": "121 points",
-    "id": "general-4257"
   },
   {
     "difficulty": "medium",
@@ -16356,7 +16278,7 @@
   {
     "difficulty": "medium",
     "category": "general",
-    "question": "How many panels does a traditional 32-panel soccer ball have?",
+    "question": "How many panels does the traditional truncated-icosahedron soccer ball design (popularized by the 1970 World Cup's Adidas Telstar) have?",
     "options": [
       "18 panels",
       "26 panels",
@@ -16796,19 +16718,6 @@
     "id": "general-4340"
   },
   {
-    "difficulty": "medium",
-    "category": "general",
-    "question": "A standard modern bale of paper contains how many sheets?",
-    "options": [
-      "1000 sheets",
-      "4800 sheets",
-      "5000 sheets",
-      "2500 sheets"
-    ],
-    "answer": "5000 sheets",
-    "id": "general-4341"
-  },
-  {
     "difficulty": "easy",
     "category": "general",
     "question": "How long is an engineer's or Ramsden's chain?",
@@ -16833,19 +16742,6 @@
     ],
     "answer": "100 links",
     "id": "general-4343"
-  },
-  {
-    "difficulty": "medium",
-    "category": "general",
-    "question": "In bartending slang, a pony equals how many US fluid ounces?",
-    "options": [
-      "2 fluid ounces",
-      "1.5 fluid ounces",
-      "0.5 fluid ounce",
-      "1 fluid ounce"
-    ],
-    "answer": "1 fluid ounce",
-    "id": "general-4344"
   },
   {
     "difficulty": "medium",
@@ -17290,19 +17186,6 @@
     "id": "general-4378"
   },
   {
-    "difficulty": "medium",
-    "category": "general",
-    "question": "A classic competition cribbage board has how many holes per scoring track including the game hole?",
-    "options": [
-      "121 holes",
-      "61 holes",
-      "181 holes",
-      "120 holes"
-    ],
-    "answer": "121 holes",
-    "id": "general-4379"
-  },
-  {
     "difficulty": "easy",
     "category": "general",
     "question": "In a standard 52-card deck, how many one-eyed Jacks are there?",
@@ -17370,7 +17253,7 @@
   {
     "difficulty": "medium",
     "category": "general",
-    "question": "On average, how many dimples does a regulation golf ball have, often cited as 336?",
+    "question": "What is the most commonly cited number of dimples on a regulation golf ball?",
     "options": [
       "336 dimples",
       "500 dimples",
@@ -17474,7 +17357,7 @@
   {
     "difficulty": "medium",
     "category": "general",
-    "question": "How many cards are in a standard 32-card Piquet pack?",
+    "question": "How many cards are in a standard Piquet pack, which strips all cards below the seven from a normal deck?",
     "options": [
       "32 cards",
       "24 cards",
@@ -17708,12 +17591,12 @@
   {
     "difficulty": "medium",
     "category": "general",
-    "question": "The dagger † is also known as what?",
+    "question": "The typographic symbol † is also commonly known by what other name, besides 'dagger'?",
     "options": [
       "Obelisk",
-      "Dagger",
-      "Obelus",
-      "Both Obelisk and Dagger"
+      "Diesis",
+      "Pilcrow",
+      "Interrobang"
     ],
     "answer": "Obelisk",
     "id": "general-4411"
@@ -18124,7 +18007,7 @@
   {
     "difficulty": "medium",
     "category": "general",
-    "question": "How many dots are used in extended 8-dot Braille for additional characters?",
+    "question": "The extended Braille system used for computer notation and extra characters adds two dots to the standard cell, bringing the total to how many dots?",
     "options": [
       "10 dots",
       "6 dots",
