@@ -4637,11 +4637,11 @@
         "general-4419",
         "general-4422"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-28",
+      "completedAt": "2026-08-28",
+      "issuesFound": 3,
+      "notes": "Cut general-4253 (dup of 4128, double-18 domino tile count), cut general-4335 (dup of 4210, tun=252 gallons), reworded general-4200 Jeroboam question to pin to pre-1978 traditional value (modern Bordeaux standard is 5L per 1978 standardization, not in the option set)"
     },
     {
       "chunkId": "general-p2-002",
@@ -4698,11 +4698,11 @@
         "general-3904",
         "general-3906"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-28",
+      "completedAt": "2026-08-28",
+      "issuesFound": 6,
+      "notes": "Cut general-3663 (dup of 3839, contronym dust; orphan), general-3225 (dup of 3847, Catan resources; orphan), general-3865 (dup of already-done general-3934, hogshead=63gal), general-3287 (dup of 3882/4264 blackjack-dealer-17 AND dangling 'that banking card game' reference w/ no antecedent; orphan). Fixed general-3849 self-answering leak (stem named the answer). Fixed general-3852 factual error: 'scot' was a municipal tax not a royal tax (verified via WebSearch). Parked backlog note on general-3873 re: general-3933 duplicate (text mismatch won't auto-resolve)."
     },
     {
       "chunkId": "general-p2-003",
@@ -4759,11 +4759,11 @@
         "general-4015",
         "general-4016"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-28",
+      "completedAt": "2026-08-28",
+      "issuesFound": 9,
+      "notes": "Cut 5 orphaned duplicates: general-3186 (dup of 3911, Pictionary 1985), general-3492 (dup of 3948, synecdoche/wheels), general-3578 (dup of 3965, Carcassonne/meeple), general-3184 (dup of 3989, Monopoly Chance cards=16), general-3020 (dup of 3950, score=20). Cut general-3933 per backlog note (dup of already-reviewed general-3873, Euchre deck=24). Fixed answer-leak-by-option-length on general-3979/4010/4014 (idiom questions) by lengthening distractors to match answer length."
     },
     {
       "chunkId": "general-p2-004",

@@ -1040,19 +1040,6 @@
     "answer": "480"
   },
   {
-    "id": "general-3020",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "How many units does one score represent?",
-    "options": [
-      "20",
-      "100",
-      "10",
-      "12"
-    ],
-    "answer": "20"
-  },
-  {
     "id": "general-3021",
     "category": "general",
     "difficulty": "medium",
@@ -3096,19 +3083,6 @@
   {
     "difficulty": "medium",
     "category": "general",
-    "question": "How many cards are in the Chance deck in standard Monopoly?",
-    "options": [
-      "16",
-      "12",
-      "20",
-      "10"
-    ],
-    "answer": "16",
-    "id": "general-3184"
-  },
-  {
-    "difficulty": "medium",
-    "category": "general",
     "question": "A troy ounce is traditionally used to measure what?",
     "options": [
       "Gold and silver",
@@ -3118,19 +3092,6 @@
     ],
     "answer": "Gold and silver",
     "id": "general-3185"
-  },
-  {
-    "difficulty": "hard",
-    "category": "general",
-    "question": "In what year was Pictionary first published?",
-    "options": [
-      "1975",
-      "1985",
-      "1990",
-      "1980"
-    ],
-    "answer": "1985",
-    "id": "general-3186"
   },
   {
     "difficulty": "easy",
@@ -3534,19 +3495,6 @@
     ],
     "answer": "eponym",
     "id": "general-3224"
-  },
-  {
-    "difficulty": "medium",
-    "category": "general",
-    "question": "How many resource types are there in classic Catan, not counting desert?",
-    "options": [
-      "4",
-      "5",
-      "6",
-      "3"
-    ],
-    "answer": "5",
-    "id": "general-3225"
   },
   {
     "difficulty": "medium",
@@ -4314,19 +4262,6 @@
     ],
     "answer": "32",
     "id": "general-3286"
-  },
-  {
-    "difficulty": "medium",
-    "category": "general",
-    "question": "In most casino versions of that banking card game, the dealer must continue drawing up to at least what total?",
-    "options": [
-      "17",
-      "15",
-      "18",
-      "16"
-    ],
-    "answer": "17",
-    "id": "general-3287"
   },
   {
     "difficulty": "easy",
@@ -6578,19 +6513,6 @@
     "answer": "Pleonasm"
   },
   {
-    "id": "general-3492",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "Which figure of speech uses a part to represent the whole, such as saying \"wheels\" to refer to a car?",
-    "options": [
-      "Synecdoche",
-      "Metonymy",
-      "Metaphor",
-      "Simile"
-    ],
-    "answer": "Synecdoche"
-  },
-  {
     "id": "general-3493",
     "category": "general",
     "difficulty": "medium",
@@ -7590,19 +7512,6 @@
       "289"
     ],
     "answer": "361"
-  },
-  {
-    "id": "general-3578",
-    "category": "general",
-    "difficulty": "medium",
-    "question": "What is the name of the modern board game where players place tiles to build a medieval landscape and place wooden figures called \"meeples\"?",
-    "options": [
-      "Carcassonne",
-      "Catan",
-      "Agricola",
-      "Ticket to Ride"
-    ],
-    "answer": "Carcassonne"
   },
   {
     "id": "general-3579",
@@ -8643,19 +8552,6 @@
       "Isogram"
     ],
     "answer": "Isogram"
-  },
-  {
-    "id": "general-3663",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "Which of these is a classic example of a contronym, meaning both to add and to remove fine particles?",
-    "options": [
-      "Sandwich",
-      "Polish",
-      "Dust",
-      "August"
-    ],
-    "answer": "Dust"
   },
   {
     "id": "general-3664",
@@ -10818,7 +10714,7 @@
   {
     "difficulty": "medium",
     "category": "general",
-    "question": "Which Roman author Pliny the Elder's story about an antidote needing a grain of salt underpins 'grain of salt'?",
+    "question": "Which Roman author's story about an antidote needing 'a grain of salt' underpins that phrase?",
     "options": [
       "Pliny the Elder",
       "Cicero",
@@ -10860,11 +10756,11 @@
     "question": "In old British market law, 'scot' was what kind of payment leading to 'scot-free'?",
     "options": [
       "Church tithe",
-      "Royal tax",
+      "Municipal tax",
       "Market fine",
       "Guild fee"
     ],
-    "answer": "Royal tax",
+    "answer": "Municipal tax",
     "id": "general-3852"
   },
   {
@@ -11022,19 +10918,6 @@
     ],
     "answer": "12 points",
     "id": "general-3864"
-  },
-  {
-    "difficulty": "medium",
-    "category": "general",
-    "question": "A US hogshead historically holds how many gallons of liquid as of 2026?",
-    "options": [
-      "63 gallons",
-      "42 gallons",
-      "55 gallons",
-      "31 gallons"
-    ],
-    "answer": "63 gallons",
-    "id": "general-3865"
   },
   {
     "difficulty": "easy",
@@ -11908,19 +11791,6 @@
     "id": "general-3932"
   },
   {
-    "difficulty": "medium",
-    "category": "general",
-    "question": "How many cards are in a standard 4-player Euchre deck?",
-    "options": [
-      "32",
-      "20",
-      "36",
-      "24"
-    ],
-    "answer": "24",
-    "id": "general-3933"
-  },
-  {
     "difficulty": "hard",
     "category": "general",
     "question": "A US wine hogshead holds about how many US gallons?",
@@ -12484,10 +12354,10 @@
     "category": "general",
     "question": "What does 'tip of the iceberg' refer to?",
     "options": [
-      "The top of a mountain",
-      "A cold person",
+      "The snow-capped peak of a tall mountain",
+      "A person who seems unfriendly and aloof",
       "Only a small visible part of a larger problem",
-      "A luxury cruise"
+      "An extravagant and luxurious sea voyage"
     ],
     "answer": "Only a small visible part of a larger problem",
     "id": "general-3979"
@@ -12861,10 +12731,10 @@
     "category": "general",
     "question": "A 'flash in the pan' originally described what failing to do?",
     "options": [
-      "A camera flash failing",
-      "A pan catching fire",
+      "A photographer's camera flash failing to fire",
+      "A frying pan catching fire while cooking",
       "Gunpowder flashing without firing in a flintlock",
-      "A gold panning failure"
+      "A prospector's gold panning attempt failing"
     ],
     "answer": "Gunpowder flashing without firing in a flintlock",
     "id": "general-4010"
@@ -12914,9 +12784,9 @@
     "question": "What does 'off the cuff' originally refer to?",
     "options": [
       "Speaking without notes, as if from a shirt cuff",
-      "A tailor's mistake",
-      "Police handcuffs",
-      "A type of shirt"
+      "A tailor's careless stitching mistake",
+      "Being restrained in police handcuffs",
+      "A particular type of formal dress shirt"
     ],
     "answer": "Speaking without notes, as if from a shirt cuff",
     "id": "general-4014"
@@ -15134,7 +15004,7 @@
   {
     "difficulty": "hard",
     "category": "general",
-    "question": "In Bordeaux, how much does a Jeroboam bottle hold?",
+    "question": "Traditionally in Bordeaux (before a 1978 standardization), how much did a Jeroboam bottle hold?",
     "options": [
       "1.5 liters",
       "4.5 liters",
@@ -15819,19 +15689,6 @@
     ],
     "answer": "136 dominoes",
     "id": "general-4252"
-  },
-  {
-    "difficulty": "hard",
-    "category": "general",
-    "question": "How many dominoes are in a double-eighteen set?",
-    "options": [
-      "231 dominoes",
-      "136 dominoes",
-      "190 dominoes",
-      "91 dominoes"
-    ],
-    "answer": "190 dominoes",
-    "id": "general-4253"
   },
   {
     "difficulty": "medium",
@@ -16872,19 +16729,6 @@
     ],
     "answer": "126 US gallons",
     "id": "general-4334"
-  },
-  {
-    "difficulty": "hard",
-    "category": "general",
-    "question": "A tun of wine, equal to two butts, contains how many US wine gallons?",
-    "options": [
-      "126 US gallons",
-      "300 US gallons",
-      "210 US gallons",
-      "252 US gallons"
-    ],
-    "answer": "252 US gallons",
-    "id": "general-4335"
   },
   {
     "difficulty": "medium",
