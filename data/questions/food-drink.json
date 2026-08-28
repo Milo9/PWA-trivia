@@ -11745,11 +11745,11 @@
     "question": "Why do traditional bagels have a hole, according to bakery history?",
     "options": [
       "To cook faster",
-      "To string them on dowels for transport and sale",
+      "To string on dowels for sale",
       "To represent the sun",
       "To reduce dough usage"
     ],
-    "answer": "To string them on dowels for transport and sale"
+    "answer": "To string on dowels for sale"
   },
   {
     "id": "food-drink-832",
@@ -13130,19 +13130,6 @@
     "answer": "Lactic acid bacteria"
   },
   {
-    "id": "food-drink-949",
-    "category": "food-drink",
-    "difficulty": "medium",
-    "question": "What Japanese steamed egg custard is often served as an appetizer?",
-    "options": [
-      "Ajitsuke tamago",
-      "Chawanmushi",
-      "Tamagoyaki",
-      "Onsen tamago"
-    ],
-    "answer": "Chawanmushi"
-  },
-  {
     "id": "food-drink-950",
     "category": "food-drink",
     "difficulty": "medium",
@@ -13297,19 +13284,6 @@
       "Service à la russe"
     ],
     "answer": "Service à la russe"
-  },
-  {
-    "id": "food-drink-962",
-    "category": "food-drink",
-    "difficulty": "medium",
-    "question": "What Ethiopian communal plate for sharing stews is made of woven straw?",
-    "options": [
-      "Tagine",
-      "Couscoussier",
-      "Mesob",
-      "Brasero"
-    ],
-    "answer": "Mesob"
   },
   {
     "id": "food-drink-963",
@@ -14235,19 +14209,6 @@
     "answer": "Aframomum melegueta"
   },
   {
-    "id": "food-drink-1040",
-    "category": "food-drink",
-    "difficulty": "medium",
-    "question": "What is the key thickening spice in Louisiana gumbo besides okra?",
-    "options": [
-      "Arrowroot",
-      "Cornstarch",
-      "File powder from sassafras leaves",
-      "Gelatin"
-    ],
-    "answer": "File powder from sassafras leaves"
-  },
-  {
     "id": "food-drink-1041",
     "category": "food-drink",
     "difficulty": "medium",
@@ -14680,7 +14641,7 @@
     "id": "food-drink-1076",
     "category": "food-drink",
     "difficulty": "medium",
-    "question": "Which cut is also called butcher's steak because butchers would keep it for themselves, like hanger and skirt?",
+    "question": "Which flavorful but tough cut is also called butcher's steak, since butchers reportedly kept it for themselves rather than selling it?",
     "options": [
       "T-bone",
       "Filet mignon",
@@ -14732,7 +14693,7 @@
     "id": "food-drink-1080",
     "category": "food-drink",
     "difficulty": "medium",
-    "question": "What is the main meat in a traditional Scotch haggis besides offal, not counting the casing?",
+    "question": "What offal makes up the traditional 'pluck' filling of a Scotch haggis, mixed with oats?",
     "options": [
       "Beef steak only",
       "Pork shoulder only",

@@ -3975,11 +3975,11 @@
         "food-drink-877",
         "food-drink-878"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-27",
+      "completedAt": "2026-08-27",
+      "issuesFound": 1,
+      "notes": "Fixed answer-leak in food-drink-831 (bagel hole option was 49 chars vs 21-char distractors, trimmed to 'To string on dowels for sale'). Logged 3 duplicate pairs to backlog since siblings are unreviewed orphans (food-drink-806/561 almond=drupe, food-drink-823/427 onggi, food-drink-838/367 kansui). All other 47 questions verified factually accurate with correct distractors."
     },
     {
       "chunkId": "food-drink-p2-002",
@@ -4036,11 +4036,11 @@
         "food-drink-975",
         "food-drink-978"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-27",
+      "completedAt": "2026-08-27",
+      "issuesFound": 3,
+      "notes": "Cut food-drink-949 (chawanmushi, per backlog note from world-cultures-674) and food-drink-962 (mesob, per backlog note from world-cultures-711) - both previously-flagged duplicates now reached. Logged new duplicate pair to backlog: food-drink-957/602 (corn husks = traditional tamale wrapping), 602 is an unreviewed orphan. All other 47 questions verified factually accurate with correct distractors."
     },
     {
       "chunkId": "food-drink-p2-003",
@@ -4097,11 +4097,11 @@
         "food-drink-1087",
         "food-drink-1088"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-27",
+      "completedAt": "2026-08-27",
+      "issuesFound": 4,
+      "notes": "Cut food-drink-1040 as a duplicate of already-reviewed food-drink-848 (gumbo thickened by okra + file powder from sassafras, same fact reworded). Fixed 2 self-contradicting question stems: food-drink-1076 (butcher's steak question listed 'hanger' as a comparison example while hanger steak was itself the answer) and food-drink-1080 (haggis question asked for the meat 'besides offal' while the correct answer is itself offal - heart/liver/lungs). Logged 1 duplicate to backlog: food-drink-1035/503 (yuzu essential to ponzu), 503 is an unreviewed orphan. All other 46 questions verified factually accurate with correct distractors."
     },
     {
       "chunkId": "food-drink-p2-004",
