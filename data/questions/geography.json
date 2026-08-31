@@ -11473,7 +11473,7 @@
       "Danube",
       "Sava",
       "Tisza",
-      "Drava is a tributary of the Elbe"
+      "Elbe"
     ],
     "answer": "Danube",
     "id": "geography-692"
@@ -11496,12 +11496,12 @@
     "category": "geography",
     "question": "The Tisza is the longest tributary of the Danube and flows through which three countries?",
     "options": [
-      "Ukraine, Romania, Hungary",
+      "Ukraine, Hungary, Serbia",
       "Germany, Austria, Hungary",
       "Poland, Slovakia, Hungary",
       "Croatia, Serbia, Romania"
     ],
-    "answer": "Ukraine, Romania, Hungary",
+    "answer": "Ukraine, Hungary, Serbia",
     "id": "geography-694"
   },
   {
@@ -11737,32 +11737,6 @@
     ],
     "answer": "Andes Mountains",
     "id": "geography-715"
-  },
-  {
-    "difficulty": "medium",
-    "category": "geography",
-    "question": "Which Antarctic lake is the largest subglacial lake, buried under about 4 km of ice?",
-    "options": [
-      "Lake Vostok",
-      "Lake Enigma",
-      "Lake Whillans",
-      "Lake Mercer"
-    ],
-    "answer": "Lake Vostok",
-    "id": "geography-720"
-  },
-  {
-    "difficulty": "medium",
-    "category": "geography",
-    "question": "Which lake is the world's largest permanent desert lake and largest alkaline lake, located in northern Kenya?",
-    "options": [
-      "Lake Turkana",
-      "Lake Chad",
-      "Lake Turkana is also called the Jade Sea",
-      "Lake Baringo"
-    ],
-    "answer": "Lake Turkana",
-    "id": "geography-721"
   },
   {
     "difficulty": "medium",
@@ -12352,19 +12326,6 @@
   {
     "difficulty": "medium",
     "category": "geography",
-    "question": "Which line of latitude roughly marks the northern limit of the tropics, at about 23.5°N, though its exact definition is banned as a trivia angle, but which country does it pass through in Mexico?",
-    "options": [
-      "Mexico's Baja Peninsula and mainland, e.g., near Mazatlan",
-      "Alaska",
-      "Chile",
-      "New Zealand"
-    ],
-    "answer": "Mexico's Baja Peninsula and mainland, e.g., near Mazatlan",
-    "id": "geography-773"
-  },
-  {
-    "difficulty": "medium",
-    "category": "geography",
     "question": "What is the term for a large, bowl-shaped volcanic depression that forms when a volcano collapses after an eruption?",
     "options": [
       "Caldera",
@@ -12688,19 +12649,6 @@
     "id": "geography-802"
   },
   {
-    "difficulty": "hard",
-    "category": "geography",
-    "question": "In the village of Baarle, how many Belgian enclaves are located inside the Netherlands?",
-    "options": [
-      "30",
-      "3",
-      "22",
-      "7"
-    ],
-    "answer": "22",
-    "id": "geography-803"
-  },
-  {
     "difficulty": "medium",
     "category": "geography",
     "question": "The International Date Line runs between the Diomede Islands in the Bering Strait. Approximately how far apart are Little Diomede (USA) and Big Diomede (Russia) at their closest point?",
@@ -12751,19 +12699,6 @@
     ],
     "answer": "Washington",
     "id": "geography-807"
-  },
-  {
-    "difficulty": "medium",
-    "category": "geography",
-    "question": "Which town is the only one in the world that lies on two continents, Europe and Asia, with a bridge connecting them within the town limits?",
-    "options": [
-      "Orenburg, Russia",
-      "Istanbul, Turkey",
-      "Atyrau, Kazakhstan",
-      "Magnitogorsk, Russia"
-    ],
-    "answer": "Orenburg, Russia",
-    "id": "geography-808"
   },
   {
     "difficulty": "medium",
@@ -13325,19 +13260,6 @@
     "answer": "Great Slave Lake"
   },
   {
-    "id": "geography-861",
-    "category": "geography",
-    "difficulty": "hard",
-    "question": "Which subglacial lake in Antarctica lies buried under nearly 4 km of ice?",
-    "options": [
-      "Lake Vostok",
-      "Lake Mercer",
-      "Lake Whillans",
-      "Lake Enigma"
-    ],
-    "answer": "Lake Vostok"
-  },
-  {
     "id": "geography-863",
     "category": "geography",
     "difficulty": "medium",
@@ -13349,32 +13271,6 @@
       "Rio Grande"
     ],
     "answer": "Missouri-Mississippi System"
-  },
-  {
-    "id": "geography-864",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which strait connects the Adriatic Sea to the Ionian Sea?",
-    "options": [
-      "Strait of Otranto",
-      "Strait of Messina",
-      "Strait of Bonifacio",
-      "Strait of Sicily"
-    ],
-    "answer": "Strait of Otranto"
-  },
-  {
-    "id": "geography-865",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which strait separates Greenland and Baffin Island?",
-    "options": [
-      "Hudson Strait",
-      "Davis Strait",
-      "Nares Strait",
-      "Denmark Strait"
-    ],
-    "answer": "Davis Strait"
   },
   {
     "id": "geography-866",
@@ -13562,7 +13458,7 @@
     "id": "geography-883",
     "category": "geography",
     "difficulty": "medium",
-    "question": "Which country has three exclaves within the Netherlands as of 2026?",
+    "question": "Which country has 22 exclaves within the Netherlands as of 2026?",
     "options": [
       "Belgium",
       "Germany",
@@ -13608,20 +13504,7 @@
       "Argentina",
       "Peru"
     ],
-    "answer": "Chile"
-  },
-  {
-    "id": "geography-887",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which country is located on both the Atlantic and Pacific coasts of Central America?",
-    "options": [
-      "Honduras",
-      "Nicaragua",
-      "Costa Rica",
-      "Panama"
-    ],
-    "answer": "Honduras"
+    "answer": "Brazil"
   },
   {
     "id": "geography-888",
@@ -13752,19 +13635,6 @@
       "Haiti"
     ],
     "answer": "Bahamas"
-  },
-  {
-    "id": "geography-901",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which country has a panhandle that extends to the Arctic Ocean?",
-    "options": [
-      "United States",
-      "Canada",
-      "Russia",
-      "Norway"
-    ],
-    "answer": "United States"
   },
   {
     "id": "geography-902",
@@ -13981,7 +13851,7 @@
     "options": [
       "Syria",
       "Georgia",
-      "Armenia",
+      "Jordan",
       "Iraq"
     ],
     "answer": "Iraq",
@@ -14047,7 +13917,7 @@
       "Peru",
       "Paraguay",
       "Chile",
-      "Uruguay"
+      "Venezuela"
     ],
     "answer": "Paraguay",
     "id": "geography-931"
@@ -14136,7 +14006,7 @@
     "question": "Which country borders both Latvia and Poland?",
     "options": [
       "Lithuania",
-      "Belarus",
+      "Germany",
       "Ukraine",
       "Estonia"
     ],
@@ -14148,12 +14018,12 @@
     "category": "geography",
     "question": "Which country borders both Austria and Czech Republic?",
     "options": [
-      "Slovakia",
+      "Switzerland",
       "Poland",
       "Hungary",
       "Germany"
     ],
-    "answer": "Poland",
+    "answer": "Germany",
     "id": "geography-939"
   },
   {
@@ -14161,7 +14031,7 @@
     "category": "geography",
     "question": "Which country borders both Jordan and Lebanon?",
     "options": [
-      "Israel",
+      "Egypt",
       "Syria",
       "Iraq",
       "Turkey"
@@ -14189,7 +14059,7 @@
     "options": [
       "Myanmar",
       "Vietnam",
-      "Thailand",
+      "China",
       "Malaysia"
     ],
     "answer": "Vietnam",
@@ -14203,7 +14073,7 @@
       "Mali",
       "Benin",
       "Burkina Faso",
-      "Chad"
+      "Cameroon"
     ],
     "answer": "Benin",
     "id": "geography-943"
@@ -14213,7 +14083,7 @@
     "category": "geography",
     "question": "Which country borders both Angola and Zambia?",
     "options": [
-      "Namibia",
+      "Mozambique",
       "Democratic Republic of the Congo",
       "Botswana",
       "Tanzania"
@@ -14228,7 +14098,7 @@
     "options": [
       "Kenya",
       "Burundi",
-      "Tanzania",
+      "Zambia",
       "South Sudan"
     ],
     "answer": "Burundi",
@@ -14239,7 +14109,7 @@
     "category": "geography",
     "question": "Which country borders both Tanzania and Mozambique?",
     "options": [
-      "Zambia",
+      "Botswana",
       "Malawi",
       "Zimbabwe",
       "Kenya"
@@ -14252,7 +14122,7 @@
     "category": "geography",
     "question": "Which country borders both Senegal and Guinea?",
     "options": [
-      "Mali",
+      "Mauritania",
       "Guinea-Bissau",
       "Sierra Leone",
       "Liberia"
@@ -14319,7 +14189,7 @@
     "options": [
       "Mongolia",
       "Kazakhstan",
-      "Tajikistan",
+      "Turkmenistan",
       "Uzbekistan"
     ],
     "answer": "Kazakhstan",
@@ -14332,7 +14202,7 @@
     "options": [
       "Kazakhstan",
       "Iran",
-      "Afghanistan",
+      "Kyrgyzstan",
       "Tajikistan"
     ],
     "answer": "Kazakhstan",
@@ -14354,22 +14224,9 @@
   {
     "difficulty": "medium",
     "category": "geography",
-    "question": "Which country borders Afghanistan, Pakistan and China?",
-    "options": [
-      "Tajikistan",
-      "Iran",
-      "Turkmenistan",
-      "Uzbekistan"
-    ],
-    "answer": "Tajikistan",
-    "id": "geography-955"
-  },
-  {
-    "difficulty": "medium",
-    "category": "geography",
     "question": "Which country borders both Brazil and Guyana?",
     "options": [
-      "Suriname",
+      "Ecuador",
       "Venezuela",
       "Colombia",
       "French Guiana"
@@ -14382,7 +14239,7 @@
     "category": "geography",
     "question": "Which country borders both Iran and Azerbaijan?",
     "options": [
-      "Turkey",
+      "Iraq",
       "Armenia",
       "Georgia",
       "Russia"
@@ -14441,19 +14298,6 @@
     ],
     "answer": "Vistula",
     "id": "geography-961"
-  },
-  {
-    "difficulty": "medium",
-    "category": "geography",
-    "question": "Which river is the longest in the Iberian Peninsula and flows through Lisbon?",
-    "options": [
-      "Douro",
-      "Tagus",
-      "Guadiana",
-      "Ebro"
-    ],
-    "answer": "Tagus",
-    "id": "geography-962"
   },
   {
     "difficulty": "medium",
@@ -15286,19 +15130,6 @@
     ],
     "answer": "Monte Desert",
     "id": "geography-1030"
-  },
-  {
-    "difficulty": "hard",
-    "category": "geography",
-    "question": "Which subglacial lake is the largest in Antarctica, buried under about 4 km of ice?",
-    "options": [
-      "Vostok",
-      "Enigma",
-      "Mercer",
-      "Whillans"
-    ],
-    "answer": "Vostok",
-    "id": "geography-1031"
   },
   {
     "difficulty": "medium",
@@ -17269,12 +17100,12 @@
     "category": "geography",
     "question": "Inside the Belgian enclaves of Baarle-Hertog, how many Dutch counter-enclaves are located?",
     "options": [
-      "8",
+      "7",
       "2",
       "22",
       "15"
     ],
-    "answer": "8"
+    "answer": "7"
   },
   {
     "id": "geography-1193",
@@ -18252,19 +18083,6 @@
     "answer": "Russia"
   },
   {
-    "id": "geography-1272",
-    "category": "geography",
-    "difficulty": "hard",
-    "question": "What is the world's largest permanent desert lake as of 2026?",
-    "options": [
-      "Lake Chad",
-      "Lake Turkana",
-      "Lake Eyre",
-      "Lake Van"
-    ],
-    "answer": "Lake Turkana"
-  },
-  {
     "id": "geography-1274",
     "category": "geography",
     "difficulty": "medium",
@@ -18481,7 +18299,7 @@
       "Mulhacén",
       "Aneto",
       "Veleta",
-      "Teide is island"
+      "Teide"
     ],
     "answer": "Mulhacén"
   },
@@ -18686,12 +18504,12 @@
     "difficulty": "hard",
     "question": "Which lake is the deepest in South America as of 2026?",
     "options": [
-      "Lake General Carrera",
+      "O'Higgins/San Martín Lake",
       "Lake Argentino",
-      "Lake Buenos Aires",
+      "Lake General Carrera",
       "Lake Maracaibo"
     ],
-    "answer": "Lake General Carrera"
+    "answer": "O'Higgins/San Martín Lake"
   },
   {
     "id": "geography-1310",

@@ -5359,11 +5359,11 @@
         "geography-1272",
         "geography-1283"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-31",
+      "completedAt": "2026-08-31",
+      "issuesFound": 5,
+      "notes": "Cut 4 dupes (geography-803 dup of 676 Baarle 22-enclave count; geography-861/1031 dup of 1106 Lake Vostok subglacial ~4km ice; geography-1272 dup of 1110 Lake Turkana largest desert lake). Fixed geography-1192: Dutch counter-enclave count was wrong (8), verified via WebSearch actual count is 7 (Wikipedia/multiple sources)."
     },
     {
       "chunkId": "geography-p2-001",
@@ -5420,11 +5420,11 @@
         "geography-726",
         "geography-728"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-31",
+      "completedAt": "2026-08-31",
+      "issuesFound": 6,
+      "notes": "Cut geography-720/721 (dupes of already-reviewed geography-1106/1110). Fixed geography-1292 and geography-692: leaked-reasoning distractors ('Teide is island', 'Drava is a tributary of the Elbe') replaced with clean options. Fixed geography-694: Tisza 'three countries' answer was Ukraine/Romania/Hungary but Tisza only borders Romania rather than flowing through it and does flow through Serbia to its mouth; corrected to Ukraine/Hungary/Serbia (verified via WebSearch). Fixed geography-1309: deepest lake in South America was marked Lake General Carrera (586m) but O'Higgins/San Martin Lake is deeper (836m); also removed redundant distractor 'Lake Buenos Aires' which is the same lake as General Carrera under its Argentine name."
     },
     {
       "chunkId": "geography-p2-002",
@@ -5481,11 +5481,11 @@
         "geography-817",
         "geography-819"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-31",
+      "completedAt": "2026-08-31",
+      "issuesFound": 2,
+      "notes": "Cut geography-773: garbled/broken question stem containing leaked drafting-instruction meta-text ('though its exact definition is banned as a trivia angle') plus a severe answer-leak (57-char correct option vs 11-char distractors). Cut geography-808: false 'only town in the world on two continents connected by a bridge within town limits' claim (Orenburg) — Istanbul, offered as its own distractor, is an equally/more valid example (Bosphorus bridges connect its European and Asian sides within city limits), a genuine ambiguity like the France/Germany border case, not fixable by picking a side."
     },
     {
       "chunkId": "geography-p2-003",
@@ -5542,11 +5542,11 @@
         "geography-917",
         "geography-918"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-31",
+      "completedAt": "2026-08-31",
+      "issuesFound": 6,
+      "notes": "Cut geography-887 (Central America 'both coasts' question — all 4 options (Honduras/Nicaragua/Costa Rica/Panama) are actually true, verified via WebSearch, unfixable ambiguity). Cut geography-901 (Alaska panhandle does not reach the Arctic Ocean — it's in SE Alaska on the Pacific/Gulf of Alaska side; confirmed false, no salvageable correct option among distractors). Cut geography-864/865 as reversed-direction duplicates of already-reviewed geography-764 (Strait of Otranto) and geography-750 (Davis Strait). Fixed geography-883: 'three exclaves' corrected to '22 exclaves' (Belgium/Netherlands, matches verified figure used elsewhere in corpus). Fixed geography-886: answer was Chile but Brazil has the longest coastline in South America (Chile is second, per already-reviewed geography-799); corrected answer to Brazil."
     },
     {
       "chunkId": "geography-p2-004",
@@ -5603,11 +5603,11 @@
         "geography-973",
         "geography-974"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-31",
+      "completedAt": "2026-08-31",
+      "issuesFound": 18,
+      "notes": "Distractor-correctness sweep on the 'which country borders both X and Y' formulaic set — verified each of the 3 wrong options against real borders, not just the marked answer. Found 14 cases where a distractor was itself also a correct answer (both bordering the two named countries) and swapped it for a genuinely-wrong country: geography-926 Armenia->Jordan (Armenia also borders Turkey+Iran), 931 Uruguay->Venezuela (Uruguay also borders Argentina+Brazil, verified via WebSearch), 938 Belarus->Germany (Belarus also borders Latvia+Poland), 940 Israel->Egypt (Israel also borders Jordan+Lebanon), 942 Thailand->China (Thailand also borders Cambodia+Laos), 943 Chad->Cameroon (Chad also borders Niger+Nigeria), 944 Namibia->Mozambique (Namibia's Caprivi Strip also borders Angola+Zambia), 945 Tanzania->Zambia (Tanzania also borders Uganda+Rwanda), 946 Zambia->Botswana (Zambia also borders Tanzania+Mozambique), 947 Mali->Mauritania (Mali also borders Senegal+Guinea), 952 Tajikistan->Turkmenistan (Tajikistan also borders China+Kyrgyzstan), 953 Afghanistan->Kyrgyzstan (Afghanistan also borders Turkmenistan+Uzbekistan), 956 Suriname->Ecuador (Suriname also borders Brazil+Guyana), 957 Turkey->Iraq (Turkey/Nakhchivan also borders Iran+Azerbaijan, verified via WebSearch). Fixed geography-939: marked answer was Poland, but Poland does not border Austria at all; corrected answer to Germany (which genuinely borders both) and swapped the also-correct Slovakia distractor for Switzerland. Cut geography-955: 'borders Afghanistan, Pakistan, and China' has no valid answer among any real country — Tajikistan (marked correct) does not reach Pakistan, separated by Afghanistan's Wakhan Corridor (verified via WebSearch). Cut geography-962 as duplicate of already-reviewed geography-682 (longest Iberian river through Lisbon = Tagus)."
     },
     {
       "chunkId": "geography-p2-005",
