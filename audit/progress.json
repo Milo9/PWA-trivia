@@ -5969,11 +5969,11 @@
         "geography-727",
         "geography-732"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-31",
+      "completedAt": "2026-08-31",
+      "issuesFound": 7,
+      "notes": "Fixed leaked-reasoning distractors (geography-1368 Carrauntoohil, geography-1402 Sea of Galilee); fixed inaccurate Gulf of Khambhat/Mumbai wording (geography-1374, now Surat); cut 4 confirmed duplicates of already-reviewed questions (geography-1369/980 Belgrade-Sava, geography-1375/general-2452 Japan-Korea sea, geography-1393/1205 shortest China border, geography-684/969 Porto-Douro)."
     },
     {
       "chunkId": "geography-p2-011",
@@ -6030,11 +6030,11 @@
         "geography-1081",
         "geography-1089"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-31",
+      "completedAt": "2026-08-31",
+      "issuesFound": 12,
+      "notes": "Fixed Central America ambiguity (geography-845: Guatemala also has both coasts, pinned stem to Costa Rica's 1948 military abolition). Cut 11 confirmed duplicates of already-reviewed/orphan questions: geography-733/344 (Faroe-Denmark), 740/1182 (Svalbard-Spitsbergen), 754/1287 (Corinth Canal), 828/509 (Kabul), 832/503 (Doha), 867/576 (Rub al Khali), 908/general-1802 (Vatican smallest), 959/693 (Tiber-Rome), 987/703 (Vesuvius-Pompeii), 991/577 (Apennines), 1089/560 (Yenisei-Kara Sea)."
     },
     {
       "chunkId": "geography-p2-012",
@@ -6091,11 +6091,11 @@
         "geography-1239",
         "geography-1240"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-31",
+      "completedAt": "2026-08-31",
+      "issuesFound": 7,
+      "notes": "Fixed malformed distractor (geography-1236: 'Rio Uruguay alone' -> 'Rio Uruguay'). Cut 6 confirmed duplicates of already-reviewed/orphan questions: geography-1097/308 (Orinoco-Venezuela), 1113/1324 (Lake Van), 1122/453 (Aral Sea), 1139/283 (Apennines-Italy), 1145/576 (Rub al Khali), 1209/749 (Torres Strait)."
     },
     {
       "chunkId": "geography-p2-013",
@@ -6119,11 +6119,11 @@
         "geography-1310",
         "geography-1356"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-31",
+      "completedAt": "2026-08-31",
+      "issuesFound": 5,
+      "notes": "Cut 5 confirmed duplicates of already-reviewed/orphan questions: geography-1263/1363 (Gulf of Carpentaria), 1264/general-974 (Buenos Aires capital), 1267/general-1488 (Mexico City capital), 1276/731 (Borneo third-largest island), 1356/general-177 (equator definition). This completes geography pass 2 (14/14 chunks)."
     },
     {
       "chunkId": "history-p2-000",

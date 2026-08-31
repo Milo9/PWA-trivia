@@ -11377,19 +11377,6 @@
   {
     "difficulty": "easy",
     "category": "geography",
-    "question": "Which Iberian river flows through the port city of Porto at its Atlantic mouth?",
-    "options": [
-      "Miño",
-      "Douro",
-      "Tagus",
-      "Ebro"
-    ],
-    "answer": "Douro",
-    "id": "geography-684"
-  },
-  {
-    "difficulty": "easy",
-    "category": "geography",
     "question": "Which major European river flows past Basel, Cologne, and Rotterdam into the North Sea?",
     "options": [
       "Rhine",
@@ -11845,19 +11832,6 @@
   {
     "difficulty": "easy",
     "category": "geography",
-    "question": "The Faroe Islands are a self-governing archipelago forming an autonomous territory of which kingdom?",
-    "options": [
-      "Netherlands",
-      "Norway",
-      "United Kingdom",
-      "Denmark"
-    ],
-    "answer": "Denmark",
-    "id": "geography-733"
-  },
-  {
-    "difficulty": "easy",
-    "category": "geography",
     "question": "The Canary Islands archipelago off the northwest coast of Africa forms an autonomous community of which country?",
     "options": [
       "Morocco",
@@ -11919,19 +11893,6 @@
     ],
     "answer": "Zealand (Sjaelland)",
     "id": "geography-739"
-  },
-  {
-    "difficulty": "easy",
-    "category": "geography",
-    "question": "Spitsbergen is the largest island of which Arctic archipelago?",
-    "options": [
-      "Svalbard",
-      "Franz Josef Land",
-      "Novaya Zemlya",
-      "Severnaya Zemlya"
-    ],
-    "answer": "Svalbard",
-    "id": "geography-740"
   },
   {
     "difficulty": "easy",
@@ -12101,19 +12062,6 @@
     ],
     "answer": "France",
     "id": "geography-753"
-  },
-  {
-    "difficulty": "easy",
-    "category": "geography",
-    "question": "Which canal connects the Ionian Sea and the Aegean Sea through the Isthmus of Corinth in Greece?",
-    "options": [
-      "Corinth Canal",
-      "Suez Canal",
-      "Kiel Canal",
-      "Panama Canal"
-    ],
-    "answer": "Corinth Canal",
-    "id": "geography-754"
   },
   {
     "difficulty": "easy",
@@ -12909,19 +12857,6 @@
     "id": "geography-827"
   },
   {
-    "id": "geography-828",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "What is the capital of Afghanistan?",
-    "options": [
-      "Kabul",
-      "Kandahar",
-      "Herat",
-      "Mazar-i-Sharif"
-    ],
-    "answer": "Kabul"
-  },
-  {
     "id": "geography-829",
     "category": "geography",
     "difficulty": "easy",
@@ -12959,19 +12894,6 @@
       "Nampo"
     ],
     "answer": "Pyongyang"
-  },
-  {
-    "id": "geography-832",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "What is the capital of Qatar?",
-    "options": [
-      "Al Rayyan",
-      "Doha",
-      "Al Wakrah",
-      "Lusail"
-    ],
-    "answer": "Doha"
   },
   {
     "id": "geography-833",
@@ -13120,7 +13042,7 @@
     "id": "geography-845",
     "category": "geography",
     "difficulty": "easy",
-    "question": "Which country in Central America borders both the Pacific Ocean and the Caribbean Sea?",
+    "question": "Which Central American country, famous for abolishing its military in 1948, borders both the Pacific Ocean and the Caribbean Sea?",
     "options": [
       "Costa Rica",
       "El Salvador",
@@ -13271,19 +13193,6 @@
       "Strait of Otranto"
     ],
     "answer": "Bosporus Strait"
-  },
-  {
-    "id": "geography-867",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "Which is the largest sand desert in the world as of 2026?",
-    "options": [
-      "Sahara Desert",
-      "Rub' al Khali",
-      "Great Sandy Desert",
-      "Taklamakan Desert"
-    ],
-    "answer": "Rub' al Khali"
   },
   {
     "id": "geography-869",
@@ -13661,19 +13570,6 @@
       "Chad and Niger"
     ],
     "answer": "Liechtenstein and Uzbekistan"
-  },
-  {
-    "id": "geography-908",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "Which is the smallest country in the world by land area as of 2026?",
-    "options": [
-      "Monaco",
-      "Vatican City",
-      "San Marino",
-      "Liechtenstein"
-    ],
-    "answer": "Vatican City"
   },
   {
     "id": "geography-910",
@@ -14250,19 +14146,6 @@
   {
     "difficulty": "easy",
     "category": "geography",
-    "question": "Which river flows through Rome, Italy?",
-    "options": [
-      "Po",
-      "Arno",
-      "Tiber",
-      "Adige"
-    ],
-    "answer": "Tiber",
-    "id": "geography-959"
-  },
-  {
-    "difficulty": "easy",
-    "category": "geography",
     "question": "Which river flows through Florence?",
     "options": [
       "Tiber",
@@ -14573,19 +14456,6 @@
     "id": "geography-986"
   },
   {
-    "difficulty": "easy",
-    "category": "geography",
-    "question": "Which volcano near Naples destroyed Pompeii in 79 AD?",
-    "options": [
-      "Etna",
-      "Vesuvius",
-      "Stromboli",
-      "Vulcano"
-    ],
-    "answer": "Vesuvius",
-    "id": "geography-987"
-  },
-  {
     "difficulty": "medium",
     "category": "geography",
     "question": "Which mountain is the highest in Greece?",
@@ -14623,19 +14493,6 @@
     ],
     "answer": "Matterhorn",
     "id": "geography-990"
-  },
-  {
-    "difficulty": "easy",
-    "category": "geography",
-    "question": "Which mountain range forms the backbone of Italy?",
-    "options": [
-      "Alps",
-      "Apennines",
-      "Dinaric Alps",
-      "Pyrenees"
-    ],
-    "answer": "Apennines",
-    "id": "geography-991"
   },
   {
     "difficulty": "medium",
@@ -15795,19 +15652,6 @@
     "answer": "Irtysh"
   },
   {
-    "id": "geography-1089",
-    "difficulty": "easy",
-    "category": "geography",
-    "question": "The Yenisei River, one of Siberia's great rivers, flows north into which sea?",
-    "options": [
-      "Kara Sea",
-      "Bering Sea",
-      "Caspian Sea",
-      "Black Sea"
-    ],
-    "answer": "Kara Sea"
-  },
-  {
     "id": "geography-1090",
     "difficulty": "medium",
     "category": "geography",
@@ -15897,19 +15741,6 @@
       "Jordan River"
     ],
     "answer": "Shatt al-Arab"
-  },
-  {
-    "id": "geography-1097",
-    "difficulty": "easy",
-    "category": "geography",
-    "question": "The Orinoco River flows mainly through which country before forming a large delta into the Atlantic?",
-    "options": [
-      "Venezuela",
-      "Peru",
-      "Chile",
-      "Ecuador"
-    ],
-    "answer": "Venezuela"
   },
   {
     "id": "geography-1098",
@@ -16055,19 +15886,6 @@
     "answer": "Tonle Sap"
   },
   {
-    "id": "geography-1113",
-    "difficulty": "easy",
-    "category": "geography",
-    "question": "Which is the largest lake in Turkey, a soda lake known for its high alkalinity?",
-    "options": [
-      "Lake Tuz",
-      "Lake Van",
-      "Lake Beysehir",
-      "Lake Egirdir"
-    ],
-    "answer": "Lake Van"
-  },
-  {
     "id": "geography-1114",
     "difficulty": "medium",
     "category": "geography",
@@ -16170,19 +15988,6 @@
       "Lake Hamun"
     ],
     "answer": "Lake Urmia"
-  },
-  {
-    "id": "geography-1122",
-    "difficulty": "easy",
-    "category": "geography",
-    "question": "Which former large lake between Kazakhstan and Uzbekistan has largely dried up since the 1960s due to river diversion?",
-    "options": [
-      "Aral Sea",
-      "Lake Balkhash",
-      "Caspian Sea",
-      "Lake Issyk-Kul"
-    ],
-    "answer": "Aral Sea"
   },
   {
     "id": "geography-1123",
@@ -16393,19 +16198,6 @@
     "answer": "Iran"
   },
   {
-    "id": "geography-1139",
-    "difficulty": "easy",
-    "category": "geography",
-    "question": "The Apennines form the backbone of which country, running about 1,200 km from north to south?",
-    "options": [
-      "Italy",
-      "Greece",
-      "Spain",
-      "Croatia"
-    ],
-    "answer": "Italy"
-  },
-  {
     "id": "geography-1141",
     "difficulty": "medium",
     "category": "geography",
@@ -16443,19 +16235,6 @@
       "Semeru"
     ],
     "answer": "Krakatoa"
-  },
-  {
-    "id": "geography-1145",
-    "difficulty": "easy",
-    "category": "geography",
-    "question": "Which desert is known as the Empty Quarter and is considered the world's largest continuous sand sea?",
-    "options": [
-      "Kyzylkum Desert",
-      "Rub al Khali",
-      "Karakum Desert",
-      "Syrian Desert"
-    ],
-    "answer": "Rub al Khali"
   },
   {
     "id": "geography-1146",
@@ -17212,19 +16991,6 @@
     "answer": "Myanmar and Laos"
   },
   {
-    "id": "geography-1209",
-    "difficulty": "easy",
-    "category": "geography",
-    "question": "Which two seas are linked by the Torres Strait?",
-    "options": [
-      "Arafura Sea and Coral Sea",
-      "Java Sea and Banda Sea",
-      "Tasman Sea and Timor Sea",
-      "Celebes Sea and Sulu Sea"
-    ],
-    "answer": "Arafura Sea and Coral Sea"
-  },
-  {
     "id": "geography-1211",
     "difficulty": "medium",
     "category": "geography",
@@ -17545,7 +17311,7 @@
       "Golfo San Matias",
       "Rio Negro",
       "Rio de la Plata",
-      "Rio Uruguay alone"
+      "Rio Uruguay"
     ],
     "answer": "Rio de la Plata"
   },
@@ -17875,32 +17641,6 @@
     "answer": "Colorado Plateau"
   },
   {
-    "id": "geography-1263",
-    "difficulty": "easy",
-    "category": "geography",
-    "question": "Which gulf on the northern coast of Australia indents Queensland and Northern Territory and is known for its morning glory clouds?",
-    "options": [
-      "Gulf of Carpentaria",
-      "Gulf of Papua",
-      "Joseph Bonaparte Gulf",
-      "Spencer Gulf"
-    ],
-    "answer": "Gulf of Carpentaria"
-  },
-  {
-    "id": "geography-1264",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "What is the capital of Argentina as of 2026?",
-    "options": [
-      "Buenos Aires",
-      "Córdoba",
-      "Rosario",
-      "Mendoza"
-    ],
-    "answer": "Buenos Aires"
-  },
-  {
     "id": "geography-1266",
     "category": "geography",
     "difficulty": "medium",
@@ -17912,19 +17652,6 @@
       "Hulhumalé"
     ],
     "answer": "Malé"
-  },
-  {
-    "id": "geography-1267",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "What is the capital of Mexico as of 2026?",
-    "options": [
-      "Guadalajara",
-      "Mexico City",
-      "Monterrey",
-      "Cancún"
-    ],
-    "answer": "Mexico City"
   },
   {
     "id": "geography-1269",
@@ -17990,19 +17717,6 @@
       "Japan"
     ],
     "answer": "South Korea"
-  },
-  {
-    "id": "geography-1276",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "What is the third-largest island in the world as of 2026?",
-    "options": [
-      "Borneo",
-      "Sumatra",
-      "Honshu",
-      "Great Britain"
-    ],
-    "answer": "Borneo"
   },
   {
     "id": "geography-1277",
@@ -18759,19 +18473,6 @@
     "answer": "Indonesia"
   },
   {
-    "id": "geography-1356",
-    "category": "geography",
-    "difficulty": "easy",
-    "question": "What is at 0 degrees latitude as of 2026?",
-    "options": [
-      "Equator",
-      "Prime Meridian",
-      "Tropic of Cancer",
-      "Tropic of Capricorn"
-    ],
-    "answer": "Equator"
-  },
-  {
     "id": "geography-1357",
     "category": "geography",
     "difficulty": "medium",
@@ -18910,22 +18611,9 @@
       "Carrauntoohil",
       "Slieve Donard",
       "Mount Leinster",
-      "Carrantuohill same"
+      "Lugnaquilla"
     ],
     "answer": "Carrauntoohil"
-  },
-  {
-    "id": "geography-1369",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which river flows through Belgrade, Serbia as of 2026?",
-    "options": [
-      "Sava",
-      "Drava",
-      "Tisza",
-      "Morava"
-    ],
-    "answer": "Sava"
   },
   {
     "id": "geography-1370",
@@ -18983,7 +18671,7 @@
     "id": "geography-1374",
     "category": "geography",
     "difficulty": "medium",
-    "question": "Which gulf lies off western India near Mumbai as of 2026?",
+    "question": "Which gulf lies off western India near Surat as of 2026?",
     "options": [
       "Gulf of Khambhat",
       "Gulf of Kutch",
@@ -18991,19 +18679,6 @@
       "Gulf of Aden"
     ],
     "answer": "Gulf of Khambhat"
-  },
-  {
-    "id": "geography-1375",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which sea lies between Japan and the Korean Peninsula as of 2026?",
-    "options": [
-      "Sea of Japan",
-      "East China Sea",
-      "Yellow Sea",
-      "Sea of Okhotsk"
-    ],
-    "answer": "Sea of Japan"
   },
   {
     "id": "geography-1376",
@@ -19214,19 +18889,6 @@
     "answer": "Mongolia"
   },
   {
-    "id": "geography-1393",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which country has the shortest land border with China as of 2026?",
-    "options": [
-      "Afghanistan",
-      "Bhutan",
-      "Nepal",
-      "North Korea"
-    ],
-    "answer": "Afghanistan"
-  },
-  {
     "id": "geography-1394",
     "category": "geography",
     "difficulty": "medium",
@@ -19313,7 +18975,7 @@
       "Sea of Galilee",
       "Dead Sea",
       "Lake Hula",
-      "Lake Kinneret is same as Galilee"
+      "Red Sea"
     ],
     "answer": "Sea of Galilee"
   },
