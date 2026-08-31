@@ -8379,8 +8379,8 @@
     "options": [
       "Section sign",
       "Paragraph mark",
-      "Silcrow",
-      "Double S"
+      "Interrobang",
+      "Manicule"
     ],
     "answer": "Section sign"
   },
@@ -11793,19 +11793,6 @@
   {
     "difficulty": "easy",
     "category": "general",
-    "question": "What is the formal name for the symbol # often called hash?",
-    "options": [
-      "octothorpe",
-      "tilde",
-      "at sign",
-      "caret"
-    ],
-    "answer": "octothorpe",
-    "id": "general-3938"
-  },
-  {
-    "difficulty": "easy",
-    "category": "general",
     "question": "How many categories are in classic Trivial Pursuit?",
     "options": [
       "5",
@@ -11962,19 +11949,6 @@
   {
     "difficulty": "easy",
     "category": "general",
-    "question": "A board foot is what lumber volume?",
-    "options": [
-      "10x10x1 inch",
-      "12x12x12 inch",
-      "12x12x1 inch",
-      "24x12x1 inch"
-    ],
-    "answer": "12x12x1 inch",
-    "id": "general-3952"
-  },
-  {
-    "difficulty": "easy",
-    "category": "general",
     "question": "What does 'fit as a fiddle' mean?",
     "options": [
       "In excellent health",
@@ -12014,19 +11988,6 @@
   {
     "difficulty": "easy",
     "category": "general",
-    "question": "What is the symbol ^ called?",
-    "options": [
-      "tilde",
-      "caret",
-      "asterisk",
-      "dagger"
-    ],
-    "answer": "caret",
-    "id": "general-3957"
-  },
-  {
-    "difficulty": "easy",
-    "category": "general",
     "question": "What does 'bite the dust' mean?",
     "options": [
       "To be angry",
@@ -12049,19 +12010,6 @@
     ],
     "answer": "Drunken revelry and vandalism",
     "id": "general-3959"
-  },
-  {
-    "difficulty": "easy",
-    "category": "general",
-    "question": "How many standard game pieces does each player start with in American checkers?",
-    "options": [
-      "8",
-      "10",
-      "16",
-      "12"
-    ],
-    "answer": "12",
-    "id": "general-3960"
   },
   {
     "difficulty": "medium",
@@ -13221,19 +13169,6 @@
     "answer": "12 troy ounces"
   },
   {
-    "id": "general-4055",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "How many milligrams are in a metric carat, used for weighing gemstones?",
-    "options": [
-      "100 milligrams",
-      "250 milligrams",
-      "500 milligrams",
-      "200 milligrams"
-    ],
-    "answer": "200 milligrams"
-  },
-  {
     "id": "general-4056",
     "category": "general",
     "difficulty": "easy",
@@ -13388,19 +13323,6 @@
       "Réaumur scale"
     ],
     "answer": "Réaumur scale"
-  },
-  {
-    "id": "general-4069",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "What is the typographical symbol '§' called?",
-    "options": [
-      "Silcrow",
-      "Paragraph mark",
-      "Pilcrow",
-      "Section sign"
-    ],
-    "answer": "Section sign"
   },
   {
     "id": "general-4070",
@@ -13583,19 +13505,6 @@
       "Fraction slash"
     ],
     "answer": "Fraction slash"
-  },
-  {
-    "id": "general-4084",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "What is the mirror image of the forward slash, \\, called?",
-    "options": [
-      "Reverse solidus",
-      "Virgule",
-      "Backslant",
-      "Backslash"
-    ],
-    "answer": "Backslash"
   },
   {
     "id": "general-4085",
@@ -14142,32 +14051,6 @@
       "Wheel"
     ],
     "answer": "Wheel"
-  },
-  {
-    "id": "general-4131",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "In standard Poker, what is the term for the fourth community card dealt face-up?",
-    "options": [
-      "Flop",
-      "River",
-      "Fifth street",
-      "Turn"
-    ],
-    "answer": "Turn"
-  },
-  {
-    "id": "general-4132",
-    "category": "general",
-    "difficulty": "easy",
-    "question": "In standard Poker, what is the term for the fifth and final community card?",
-    "options": [
-      "Turn",
-      "Flop",
-      "Showdown",
-      "River"
-    ],
-    "answer": "River"
   },
   {
     "id": "general-4134",
@@ -14924,19 +14807,6 @@
     "id": "general-4197"
   },
   {
-    "difficulty": "easy",
-    "category": "general",
-    "question": "How much wine does a standard magnum bottle hold?",
-    "options": [
-      "3 liters",
-      "1.5 liters",
-      "750 milliliters",
-      "2 liters"
-    ],
-    "answer": "1.5 liters",
-    "id": "general-4198"
-  },
-  {
     "difficulty": "medium",
     "category": "general",
     "question": "In Champagne, how much does a Jeroboam bottle hold?",
@@ -15106,32 +14976,6 @@
     "id": "general-4211"
   },
   {
-    "difficulty": "easy",
-    "category": "general",
-    "question": "How many pounds are in a U.S. short ton?",
-    "options": [
-      "2,000 pounds",
-      "2,240 pounds",
-      "2,500 pounds",
-      "1,000 pounds"
-    ],
-    "answer": "2,000 pounds",
-    "id": "general-4213"
-  },
-  {
-    "difficulty": "easy",
-    "category": "general",
-    "question": "How many inches are in a traditional span, from thumb to pinky?",
-    "options": [
-      "9 inches",
-      "12 inches",
-      "6 inches",
-      "8 inches"
-    ],
-    "answer": "9 inches",
-    "id": "general-4214"
-  },
-  {
     "difficulty": "medium",
     "category": "general",
     "question": "What is one angstrom equal to?",
@@ -15169,19 +15013,6 @@
     ],
     "answer": "5.88 trillion miles",
     "id": "general-4217"
-  },
-  {
-    "difficulty": "easy",
-    "category": "general",
-    "question": "Approximately how many miles are in one astronomical unit?",
-    "options": [
-      "93 million miles",
-      "238,000 miles",
-      "5.88 trillion miles",
-      "1 million miles"
-    ],
-    "answer": "93 million miles",
-    "id": "general-4218"
   },
   {
     "difficulty": "medium",
@@ -15405,19 +15236,6 @@
     "id": "general-4235"
   },
   {
-    "difficulty": "easy",
-    "category": "general",
-    "question": "How many milligrams are in one carat, the gemstone weight unit?",
-    "options": [
-      "1000 milligrams",
-      "100 milligrams",
-      "500 milligrams",
-      "200 milligrams"
-    ],
-    "answer": "200 milligrams",
-    "id": "general-4236"
-  },
-  {
     "difficulty": "hard",
     "category": "general",
     "question": "How many grains are in one avoirdupois ounce?",
@@ -15468,19 +15286,6 @@
     ],
     "answer": "169",
     "id": "general-4240"
-  },
-  {
-    "difficulty": "easy",
-    "category": "general",
-    "question": "How many E tiles are in an English-language Scrabble set?",
-    "options": [
-      "6",
-      "8",
-      "12",
-      "9"
-    ],
-    "answer": "12",
-    "id": "general-4241"
   },
   {
     "difficulty": "medium",
@@ -15743,19 +15548,6 @@
     "id": "general-4263"
   },
   {
-    "difficulty": "easy",
-    "category": "general",
-    "question": "In casino blackjack, at what hand value must the dealer stand on all totals?",
-    "options": [
-      "16",
-      "17",
-      "15",
-      "18"
-    ],
-    "answer": "17",
-    "id": "general-4264"
-  },
-  {
     "difficulty": "medium",
     "category": "general",
     "question": "What mineral is rated 7 on the Mohs scale and is used to scratch glass in field tests?",
@@ -15992,19 +15784,6 @@
   {
     "difficulty": "easy",
     "category": "general",
-    "question": "What word represents letter L in the NATO phonetic alphabet?",
-    "options": [
-      "Larry",
-      "Lima",
-      "Lemon",
-      "London"
-    ],
-    "answer": "Lima",
-    "id": "general-4284"
-  },
-  {
-    "difficulty": "easy",
-    "category": "general",
     "question": "What word represents letter M in the NATO phonetic alphabet?",
     "options": [
       "Mango",
@@ -16122,19 +15901,6 @@
   {
     "difficulty": "easy",
     "category": "general",
-    "question": "What word represents letter W in the NATO phonetic alphabet?",
-    "options": [
-      "Water",
-      "Washington",
-      "William",
-      "Whiskey"
-    ],
-    "answer": "Whiskey",
-    "id": "general-4294"
-  },
-  {
-    "difficulty": "easy",
-    "category": "general",
     "question": "What word represents letter X in the NATO phonetic alphabet?",
     "options": [
       "Xenon",
@@ -16144,19 +15910,6 @@
     ],
     "answer": "X-ray",
     "id": "general-4295"
-  },
-  {
-    "difficulty": "easy",
-    "category": "general",
-    "question": "What word represents letter Y in the NATO phonetic alphabet?",
-    "options": [
-      "Yellow",
-      "York",
-      "Yankee",
-      "Yoga"
-    ],
-    "answer": "Yankee",
-    "id": "general-4296"
   },
   {
     "difficulty": "easy",
@@ -16261,19 +16014,6 @@
     ],
     "answer": "10 feet",
     "id": "general-4304"
-  },
-  {
-    "difficulty": "easy",
-    "category": "general",
-    "question": "How far apart are baseball bases, in feet?",
-    "options": [
-      "100 feet",
-      "90 feet",
-      "75 feet",
-      "60 feet"
-    ],
-    "answer": "90 feet",
-    "id": "general-4305"
   },
   {
     "difficulty": "medium",
@@ -16731,19 +16471,6 @@
     "id": "general-4342"
   },
   {
-    "difficulty": "easy",
-    "category": "general",
-    "question": "How many one-foot links are in a 100-foot engineer's chain?",
-    "options": [
-      "80 links",
-      "50 links",
-      "66 links",
-      "100 links"
-    ],
-    "answer": "100 links",
-    "id": "general-4343"
-  },
-  {
     "difficulty": "medium",
     "category": "general",
     "question": "A lustrum in Roman calendar was a period of how many years?",
@@ -16915,32 +16642,6 @@
   {
     "difficulty": "easy",
     "category": "general",
-    "question": "US Letter paper size is 8.5 by how many inches?",
-    "options": [
-      "17 inches",
-      "14 inches",
-      "13 inches",
-      "11 inches"
-    ],
-    "answer": "11 inches",
-    "id": "general-4358"
-  },
-  {
-    "difficulty": "easy",
-    "category": "general",
-    "question": "US Legal paper size is 8.5 by how many inches?",
-    "options": [
-      "17 inches",
-      "11 inches",
-      "13 inches",
-      "14 inches"
-    ],
-    "answer": "14 inches",
-    "id": "general-4359"
-  },
-  {
-    "difficulty": "easy",
-    "category": "general",
     "question": "A US tabloid or ledger size sheet is 11 by how many inches?",
     "options": [
       "14 inches",
@@ -17015,19 +16716,6 @@
     ],
     "answer": "64 fluid drams",
     "id": "general-4365"
-  },
-  {
-    "difficulty": "easy",
-    "category": "general",
-    "question": "How many barleycorns are in one inch?",
-    "options": [
-      "4 barleycorns",
-      "12 barleycorns",
-      "8 barleycorns",
-      "3 barleycorns"
-    ],
-    "answer": "3 barleycorns",
-    "id": "general-4366"
   },
   {
     "difficulty": "hard",
@@ -17537,19 +17225,6 @@
     "id": "general-4406"
   },
   {
-    "difficulty": "easy",
-    "category": "general",
-    "question": "In proofreading, a caret ^ indicates what action?",
-    "options": [
-      "Insert",
-      "Delete",
-      "New paragraph",
-      "Transpose"
-    ],
-    "answer": "Insert",
-    "id": "general-4407"
-  },
-  {
     "difficulty": "hard",
     "category": "general",
     "question": "The tilde ~ originally indicated what in medieval manuscripts?",
@@ -17574,19 +17249,6 @@
     ],
     "answer": "At sign",
     "id": "general-4409"
-  },
-  {
-    "difficulty": "easy",
-    "category": "general",
-    "question": "What is the section mark (§) used to denote in documents and legal citations?",
-    "options": [
-      "Section",
-      "Sentence",
-      "Chapter",
-      "Paragraph"
-    ],
-    "answer": "Section",
-    "id": "general-4410"
   },
   {
     "difficulty": "medium",
@@ -17882,7 +17544,7 @@
       "Blend",
       "Compound",
       "Contraction",
-      "Portmanteau"
+      "Acronym"
     ],
     "answer": "Blend",
     "id": "general-4433"
@@ -18133,19 +17795,6 @@
     ],
     "answer": "12 strings",
     "id": "general-4452"
-  },
-  {
-    "difficulty": "easy",
-    "category": "general",
-    "question": "How many sides does a standard yield sign have?",
-    "options": [
-      "8 sides",
-      "4 sides",
-      "3 sides",
-      "6 sides"
-    ],
-    "answer": "3 sides",
-    "id": "general-4453"
   },
   {
     "difficulty": "medium",
@@ -18462,7 +18111,7 @@
   {
     "difficulty": "easy",
     "category": "general",
-    "question": "How many letters are in the Greek word alphabet comes from alpha and beta?",
+    "question": "The English word 'alphabet' is derived from the names of how many Greek letters?",
     "options": [
       "4 letters",
       "2 letters",

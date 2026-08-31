@@ -5125,11 +5125,11 @@
         "general-4112",
         "general-4117"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-31",
+      "completedAt": "2026-08-31",
+      "issuesFound": 7,
+      "notes": "6 duplicate cuts (3938 dup 3637 octothorpe, 3952 dup 3907 board-foot, 3957 dup 3238 caret, 3960 dup 3048 checkers-pieces, 4055 dup 3678/4236 carat-mg, 4069 dup 3651 section-sign, 4084 dup 3639 backslash); fixed distractor-correctness bug in surviving sibling 3651 (Silcrow/Double S are real synonyms for section sign, not valid wrong answers -> swapped for Interrobang/Manicule)"
     },
     {
       "chunkId": "general-p2-010",
@@ -5186,11 +5186,11 @@
         "general-4287",
         "general-4289"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-31",
+      "completedAt": "2026-08-31",
+      "issuesFound": 10,
+      "notes": "10 duplicate cuts vs earlier corpus: 4131 dup 3376 (poker turn), 4132 dup 3377 (poker river), 4198 dup 4042 (magnum size, diff units), 4213 dup 4035 (US short ton lbs), 4214 dup 3854 (span=9in), 4218 dup 3962 (AU miles), 4236 dup 3678 (carat mg, resolves trio started last chunk), 4241 dup 4107 (Scrabble E tiles), 4264 dup 3882 (blackjack dealer stand), 4284 dup 3788 (NATO L=Lima)"
     },
     {
       "chunkId": "general-p2-011",
@@ -5247,11 +5247,11 @@
         "general-4384",
         "general-4386"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-31",
+      "completedAt": "2026-08-31",
+      "issuesFound": 7,
+      "notes": "7 cuts: 4294 dup 3787 (NATO W), 4296 dup 3786 (NATO Y), 4305 dup sports-217 cross-category (MLB base distance), 4343 tautological (one-foot links in 100-foot chain, trivially derivable from its own stem), 4358 dup 4307 same-chunk (US Letter paper), 4359 dup 4308 same-chunk (US Legal paper), 4366 dup 4340 same-chunk (barleycorn/inch, reciprocal restatement)"
     },
     {
       "chunkId": "general-p2-012",
@@ -5298,11 +5298,11 @@
         "general-4478",
         "general-4479"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-31",
+      "completedAt": "2026-08-31",
+      "issuesFound": 5,
+      "notes": "cut 4407 (reversed-direction dup of 3238, caret/insert), cut 4410 (reversed-direction dup of 3651, section-sign/section), cut 4453 (tautologically derivable from same-chunk 4445 yield-sign-shape=triangle -> 3 sides), fixed distractor-correctness bug in 4433 (motel is commonly called both 'blend' and 'portmanteau' -- swapped Portmanteau distractor for Acronym), reworded garbled stem in 4478 (Greek alphabet/alpha+beta)"
     },
     {
       "chunkId": "geography-p2-000",
