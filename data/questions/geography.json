@@ -7813,19 +7813,6 @@
     "answer": "Uruguay River"
   },
   {
-    "id": "geography-389",
-    "category": "geography",
-    "difficulty": "hard",
-    "question": "Which lake in East Africa is the world's largest permanent desert lake and also the world's largest alkaline lake?",
-    "options": [
-      "Lake Turkana",
-      "Lake Natron",
-      "Lake Baringo",
-      "Lake Bogoria"
-    ],
-    "answer": "Lake Turkana"
-  },
-  {
     "id": "geography-390",
     "category": "geography",
     "difficulty": "medium",
@@ -14684,7 +14671,7 @@
       "Alborz",
       "Zagros",
       "Caucasus",
-      "Elburz"
+      "Kopet Dag"
     ],
     "answer": "Zagros",
     "id": "geography-995"
@@ -14696,7 +14683,7 @@
     "options": [
       "Pico",
       "Torre",
-      "Foil",
+      "Foia",
       "Estrela"
     ],
     "answer": "Pico",
@@ -14887,19 +14874,6 @@
   {
     "difficulty": "medium",
     "category": "geography",
-    "question": "Which peak is the highest in the Rocky Mountains of the USA?",
-    "options": [
-      "Mount Elbert",
-      "Pikes Peak",
-      "Mount Rainier",
-      "Mount Shasta"
-    ],
-    "answer": "Mount Elbert",
-    "id": "geography-1011"
-  },
-  {
-    "difficulty": "medium",
-    "category": "geography",
     "question": "Which volcano is the highest active volcano in Europe, located on Sicily?",
     "options": [
       "Vesuvius",
@@ -14935,19 +14909,6 @@
     ],
     "answer": "Mojave",
     "id": "geography-1014"
-  },
-  {
-    "difficulty": "medium",
-    "category": "geography",
-    "question": "Which desert is the largest in Iran, known as Kavir?",
-    "options": [
-      "Dasht-e Lut",
-      "Dasht-e Kavir",
-      "Dasht-e Kharan",
-      "Kyzylkum"
-    ],
-    "answer": "Dasht-e Kavir",
-    "id": "geography-1015"
   },
   {
     "difficulty": "hard",
@@ -15095,7 +15056,7 @@
   {
     "difficulty": "medium",
     "category": "geography",
-    "question": "Which desert in Australia is known for its red sand and opal mining town Coober Pedy nearby?",
+    "question": "Which desert in Australia is known for its red sand dune fields, spanning the Kimberley and Pilbara regions of Western Australia?",
     "options": [
       "Great Victoria Desert",
       "Simpson Desert",
@@ -15156,19 +15117,6 @@
     ],
     "answer": "Lake Chad",
     "id": "geography-1033"
-  },
-  {
-    "difficulty": "medium",
-    "category": "geography",
-    "question": "Which lake is the largest desert lake in the world, located in Kenya and Ethiopia?",
-    "options": [
-      "Lake Turkana",
-      "Lake Baringo",
-      "Lake Bogoria",
-      "Lake Nakuru"
-    ],
-    "answer": "Lake Turkana",
-    "id": "geography-1034"
   },
   {
     "difficulty": "medium",
@@ -15381,14 +15329,14 @@
   {
     "difficulty": "medium",
     "category": "geography",
-    "question": "Which channel separates Ireland and Great Britain at its narrowest central part?",
+    "question": "Which channel separates Northern Ireland and Scotland at the narrowest point between Ireland and Great Britain?",
     "options": [
       "St George's Channel",
       "North Channel",
       "Irish Sea",
       "Bristol Channel"
     ],
-    "answer": "St George's Channel",
+    "answer": "North Channel",
     "id": "geography-1052"
   },
   {
@@ -15446,7 +15394,7 @@
   {
     "difficulty": "medium",
     "category": "geography",
-    "question": "Which strait separates Honshu and Shikoku in Japan via the Akashi Kaikyo Bridge?",
+    "question": "Which strait separates Honshu from Awaji Island in Japan, crossed by the Akashi Kaikyo Bridge?",
     "options": [
       "Korea Strait",
       "Tsugaru Strait",
@@ -15752,7 +15700,7 @@
       "Isle of Skye",
       "Isle of Wight"
     ],
-    "answer": "Isle of Man",
+    "answer": "Lewis and Harris",
     "id": "geography-1080"
   },
   {
@@ -16027,19 +15975,6 @@
       "Cameroon, Gabon, Congo and Nigeria"
     ],
     "answer": "Chad, Cameroon, Niger and Nigeria"
-  },
-  {
-    "id": "geography-1104",
-    "difficulty": "medium",
-    "category": "geography",
-    "question": "Which crescent-shaped lake in southeastern Kazakhstan is freshwater in its western half and saline in its eastern half?",
-    "options": [
-      "Lake Tengiz",
-      "Lake Alakol",
-      "Lake Balkhash",
-      "Lake Zaysan"
-    ],
-    "answer": "Lake Balkhash"
   },
   {
     "id": "geography-1105",
@@ -16471,19 +16406,6 @@
     "answer": "Italy"
   },
   {
-    "id": "geography-1140",
-    "difficulty": "medium",
-    "category": "geography",
-    "question": "What is the highest peak of the Apennine Mountains?",
-    "options": [
-      "Corno Grande",
-      "Monte Cimone",
-      "Monte Vettore",
-      "Gran Sasso"
-    ],
-    "answer": "Corno Grande"
-  },
-  {
     "id": "geography-1141",
     "difficulty": "medium",
     "category": "geography",
@@ -16729,19 +16651,6 @@
       "Rocky Mountains"
     ],
     "answer": "Colorado Plateau"
-  },
-  {
-    "id": "geography-1162",
-    "difficulty": "medium",
-    "category": "geography",
-    "question": "Which fertile lowland plains in South America, from the Quechua word for plain, cover more than 750,000 square kilometers mainly in Argentina?",
-    "options": [
-      "Pampas",
-      "Llanos",
-      "Chaco",
-      "Campos"
-    ],
-    "answer": "Pampas"
   },
   {
     "id": "geography-1163",
@@ -17069,19 +16978,6 @@
     "answer": "85 meters"
   },
   {
-    "id": "geography-1190",
-    "difficulty": "medium",
-    "category": "geography",
-    "question": "The Belgian municipality of Baarle-Hertog is famous for having how many separate enclaves inside the Netherlands?",
-    "options": [
-      "22",
-      "7",
-      "2",
-      "30"
-    ],
-    "answer": "22"
-  },
-  {
     "id": "geography-1191",
     "difficulty": "medium",
     "category": "geography",
@@ -17371,7 +17267,7 @@
     "id": "geography-1214",
     "difficulty": "medium",
     "category": "geography",
-    "question": "Which strait separates Taiwan from the northernmost major island of the Philippines?",
+    "question": "Which is the northernmost major island of the Philippines, separated from Taiwan by the Luzon Strait?",
     "options": [
       "Luzon",
       "Mindanao",
@@ -17956,7 +17852,7 @@
     "id": "geography-1260",
     "difficulty": "medium",
     "category": "geography",
-    "question": "Which strait between Vancouver Island and Washington State is named for a Spanish naval officer who explored it in 1790?",
+    "question": "Which strait between Vancouver Island and Washington State is named for a Greek navigator sailing under Spain who claimed to have discovered it in 1592?",
     "options": [
       "Strait of Juan de Fuca",
       "Strait of Georgia",
@@ -17977,19 +17873,6 @@
       "Patagonian Plateau"
     ],
     "answer": "Colorado Plateau"
-  },
-  {
-    "id": "geography-1262",
-    "difficulty": "medium",
-    "category": "geography",
-    "question": "Which mountain range stretches about 1,500 km in an arc through Slovakia, Poland, Romania and Ukraine, with Gerlachovsky Peak as its highest point?",
-    "options": [
-      "Carpathians",
-      "Dinaric Alps",
-      "Sudetes",
-      "Balkan Mountains"
-    ],
-    "answer": "Carpathians"
   },
   {
     "id": "geography-1263",
@@ -18161,19 +18044,6 @@
     "answer": "Timor-Leste"
   },
   {
-    "id": "geography-1280",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which river flows through Berlin, Germany as of 2026?",
-    "options": [
-      "Spree",
-      "Elbe",
-      "Rhine",
-      "Havel"
-    ],
-    "answer": "Spree"
-  },
-  {
     "id": "geography-1281",
     "category": "geography",
     "difficulty": "medium",
@@ -18239,19 +18109,6 @@
     "answer": "Maldives"
   },
   {
-    "id": "geography-1286",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which strait separates Italy and Albania as of 2026?",
-    "options": [
-      "Strait of Otranto",
-      "Strait of Messina",
-      "Strait of Bonifacio",
-      "Strait of Sicily"
-    ],
-    "answer": "Strait of Otranto"
-  },
-  {
     "id": "geography-1287",
     "category": "geography",
     "difficulty": "hard",
@@ -18263,19 +18120,6 @@
       "Grand Canal"
     ],
     "answer": "Corinth Canal"
-  },
-  {
-    "id": "geography-1289",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "What is the highest mountain in Mexico as of 2026?",
-    "options": [
-      "Popocatépetl",
-      "Pico de Orizaba",
-      "Iztaccíhuatl",
-      "Colima"
-    ],
-    "answer": "Pico de Orizaba"
   },
   {
     "id": "geography-1291",
@@ -18538,19 +18382,6 @@
     "answer": "Greenland"
   },
   {
-    "id": "geography-1313",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which island nation in the Pacific has no land borders at all as of 2026?",
-    "options": [
-      "Fiji",
-      "Tonga",
-      "Samoa",
-      "Vanuatu"
-    ],
-    "answer": "Fiji"
-  },
-  {
     "id": "geography-1314",
     "category": "geography",
     "difficulty": "medium",
@@ -18629,32 +18460,6 @@
     "answer": "Lake Tana"
   },
   {
-    "id": "geography-1320",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which lake lies on the border of Rwanda and the Democratic Republic of the Congo as of 2026?",
-    "options": [
-      "Lake Kivu",
-      "Lake Victoria",
-      "Lake Tanganyika",
-      "Lake Edward"
-    ],
-    "answer": "Lake Kivu"
-  },
-  {
-    "id": "geography-1321",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "What is the largest lake in Australia as of 2026?",
-    "options": [
-      "Lake Eyre",
-      "Lake Torrens",
-      "Lake Gairdner",
-      "Lake Mackay"
-    ],
-    "answer": "Lake Eyre"
-  },
-  {
     "id": "geography-1322",
     "category": "geography",
     "difficulty": "hard",
@@ -18666,19 +18471,6 @@
       "Lake Zaysan"
     ],
     "answer": "Lake Balkhash"
-  },
-  {
-    "id": "geography-1323",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which lake is a large alpine lake in Kyrgyzstan as of 2026?",
-    "options": [
-      "Issyk-Kul",
-      "Lake Sevan",
-      "Lake Van",
-      "Lake Balkhash"
-    ],
-    "answer": "Issyk-Kul"
   },
   {
     "id": "geography-1324",
@@ -18785,32 +18577,6 @@
     "answer": "Mount Tyree"
   },
   {
-    "id": "geography-1332",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "What is the second-highest mountain in Canada and the United States combined, on the Alaska-Yukon border as of 2026?",
-    "options": [
-      "Mount Saint Elias",
-      "Mount Foraker",
-      "Mount Lucania",
-      "Mount Fairweather"
-    ],
-    "answer": "Mount Saint Elias"
-  },
-  {
-    "id": "geography-1333",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "What is the highest mountain in the Rocky Mountains as of 2026?",
-    "options": [
-      "Mount Elbert",
-      "Mount Massive",
-      "Mount Harvard",
-      "Longs Peak"
-    ],
-    "answer": "Mount Elbert"
-  },
-  {
     "id": "geography-1334",
     "category": "geography",
     "difficulty": "medium",
@@ -18848,19 +18614,6 @@
       "Mount Manaraga"
     ],
     "answer": "Mount Narodnaya"
-  },
-  {
-    "id": "geography-1337",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which desert is located in northern Kenya and known for lava fields as of 2026?",
-    "options": [
-      "Chalbi Desert",
-      "Nyiri Desert",
-      "Danakil Desert",
-      "Chalbi is correct"
-    ],
-    "answer": "Chalbi Desert"
   },
   {
     "id": "geography-1338",
@@ -18933,25 +18686,12 @@
     "difficulty": "medium",
     "question": "Which strait separates Malaysia and Singapore as of 2026?",
     "options": [
-      "Strait of Singapore",
       "Strait of Johor",
-      "Singapore Strait is same",
-      "Johor Strait"
+      "Strait of Singapore",
+      "Strait of Malacca",
+      "Bangka Strait"
     ],
-    "answer": "Strait of Singapore"
-  },
-  {
-    "id": "geography-1344",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which strait separates Australia and New Guinea as of 2026?",
-    "options": [
-      "Torres Strait",
-      "Endeavour Strait",
-      "Torres is correct",
-      "Torres Strait is answer"
-    ],
-    "answer": "Torres Strait"
+    "answer": "Strait of Johor"
   },
   {
     "id": "geography-1345",
@@ -18965,32 +18705,6 @@
       "Volga-Baltic Waterway"
     ],
     "answer": "White Sea-Baltic Canal"
-  },
-  {
-    "id": "geography-1347",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which canal in China is the longest artificial river in the world as of 2026?",
-    "options": [
-      "Grand Canal",
-      "Red Flag Canal",
-      "Lingqu Canal",
-      "Grand Canal is Beijing-Hangzhou"
-    ],
-    "answer": "Grand Canal"
-  },
-  {
-    "id": "geography-1348",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which gulf lies between Oman and Iran as of 2026?",
-    "options": [
-      "Gulf of Oman",
-      "Persian Gulf",
-      "Gulf of Aden",
-      "Gulf of Aqaba"
-    ],
-    "answer": "Gulf of Oman"
   },
   {
     "id": "geography-1349",
@@ -19017,19 +18731,6 @@
       "Gulf of Gdańsk"
     ],
     "answer": "Gulf of Riga"
-  },
-  {
-    "id": "geography-1353",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which narrow isthmus in Thailand connects the Malay Peninsula to mainland Asia as of 2026?",
-    "options": [
-      "Kra Isthmus",
-      "Isthmus of Corinth",
-      "Kra Isthmus is answer",
-      "Isthmus of Kra same"
-    ],
-    "answer": "Kra Isthmus"
   },
   {
     "id": "geography-1354",
@@ -19186,19 +18887,6 @@
       "Chukchi Peninsula"
     ],
     "answer": "Kamchatka Peninsula"
-  },
-  {
-    "id": "geography-1366",
-    "category": "geography",
-    "difficulty": "medium",
-    "question": "Which lake is the largest in Ireland as of 2026?",
-    "options": [
-      "Lough Neagh",
-      "Lough Corrib",
-      "Lough Derg",
-      "Lough Erne"
-    ],
-    "answer": "Lough Neagh"
   },
   {
     "id": "geography-1367",
@@ -19546,7 +19234,7 @@
     "options": [
       "Bhutan",
       "Nepal",
-      "Bhutan is kingdom",
+      "Myanmar",
       "Sikkim"
     ],
     "answer": "Bhutan"
@@ -19560,7 +19248,7 @@
       "Mongolia",
       "Kazakhstan",
       "North Korea",
-      "Mongolia is answer"
+      "Kyrgyzstan"
     ],
     "answer": "Mongolia"
   },

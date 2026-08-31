@@ -5664,11 +5664,11 @@
         "geography-1032",
         "geography-1033"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-31",
+      "completedAt": "2026-08-31",
+      "issuesFound": 5,
+      "notes": "Fixed geography-995 (Elburz was same as Alborz, dup distractor -> Kopet Dag), geography-996 (Foil typo -> Foia), geography-1027 (Coober Pedy is actually near Great Victoria Desert not Great Sandy Desert, reworded to Kimberley/Pilbara fact). Cut geography-1011 (dup of already-reviewed geography-851, Mount Elbert) and geography-1015 (dup of already-reviewed geography-1338, Dasht-e Kavir). Logged backlog note on geography-1001 (Alps) re: orphan dup general-1315."
     },
     {
       "chunkId": "geography-p2-006",
@@ -5725,11 +5725,11 @@
         "geography-1084",
         "geography-1086"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-31",
+      "completedAt": "2026-08-31",
+      "issuesFound": 7,
+      "notes": "Fixed geography-1052 (St George's Channel isn't the narrowest Ireland/GB channel -> North Channel), geography-1057 (Akashi Kaikyo Bridge crosses to Awaji Island not Shikoku, reworded), geography-1080 (Isle of Man is not the 3rd-largest British Isles island -> Lewis and Harris, verified by search). Cut geography-1034 and geography-389 (both dup of already-reviewed geography-1110, Lake Turkana desert-lake fact). Logged backlog notes on geography-1037 (dup orphan geography-615, Baltic/Gulf of Bothnia), geography-1060 (dup orphan geography-416, Dardanelles), geography-1082 (dup orphan geography-378, Niger inland delta in Mali)."
     },
     {
       "chunkId": "geography-p2-007",
@@ -5786,11 +5786,11 @@
         "geography-1182",
         "geography-1183"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-31",
+      "completedAt": "2026-08-31",
+      "issuesFound": 5,
+      "notes": "All facts checked out (Lake Winnipeg 6th-largest-in-Canada, Victoria Island 8th-largest-in-world, Dasht-e Kavir ~800km, etc. verified via search). Cut geography-1140 (dup of already-reviewed geography-1006, Corno Grande/Apennines), geography-1104 (dup of already-reviewed geography-1322, Lake Balkhash), geography-1162 (dup of already-reviewed geography-1026, Pampas). Logged backlog notes on geography-1138 (dup orphan geography-282, Zagros/Iran) and geography-1158 (dup orphan geography-406, Altiplano ranking)."
     },
     {
       "chunkId": "geography-p2-008",
@@ -5847,11 +5847,11 @@
         "geography-1286",
         "geography-1289"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-31",
+      "completedAt": "2026-08-31",
+      "issuesFound": 9,
+      "notes": "Fixed geography-1260 (Juan de Fuca strait: wrong date/title, 1790 Spanish naval officer -> 1592 Greek navigator sailing under Spain, verified via search), geography-1214 (question asked for a strait but options were islands -> reworded to ask for the island). Cut geography-1190 (dup of already-reviewed geography-676, Baarle-Hertog 22 enclaves), geography-1262 (dup of already-reviewed geography-1000, Carpathians), geography-1280 (dup of already-reviewed geography-968, Spree/Berlin), geography-1289 (dup of already-reviewed geography-1128, Pico de Orizaba), geography-1286 (reversed-direction dup of this same chunk's geography-1216, Strait of Otranto/Albania). Also opportunistically fixed two leaked-reasoning malformed options found via same-answer cross-reference in not-yet-reviewed geography-1394/1395 ('Bhutan is kingdom', 'Mongolia is answer') since they wouldn't have tripped the automated regex check."
     },
     {
       "chunkId": "geography-p2-009",
@@ -5908,11 +5908,11 @@
         "geography-1366",
         "geography-1367"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-31",
+      "completedAt": "2026-08-31",
+      "issuesFound": 16,
+      "notes": "Fixed geography-1343 (real factual error: Strait of Johor, not Strait of Singapore, separates Malaysia/Singapore, verified via search; also fixed its malformed/duplicate options). Cut geography-1313 (broken premise: Fiji/Tonga/Samoa/Vanuatu are ALL land-border-free, doesn't uniquely identify Fiji). Cut 4 questions with leaked-reasoning malformed options that turned out to be dups of already-reviewed siblings anyway: geography-1337 (dup of 1023), geography-1344 (dup of 1047), geography-1347 (dup of 756), geography-1353 (dup of 1053). Cut 7 more dups of already-reviewed siblings found via same-answer cross-reference: geography-1320 (dup 1114, Lake Kivu), geography-1321 (dup 1032, Lake Eyre), geography-1323 (dup 1105, Issyk-Kul), geography-1332 (dup 873, Mount Saint Elias), geography-1333 (dup 851, Mount Elbert), geography-1348 (dup 1039, Gulf of Oman), geography-1366 (dup 1045, Lough Neagh). Logged backlog note on geography-1335 (dup orphan geography-582, Monte Rosa)."
     },
     {
       "chunkId": "geography-p2-010",
