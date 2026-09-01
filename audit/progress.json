@@ -6634,11 +6634,11 @@
         "music-687",
         "music-691"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-31",
+      "completedAt": "2026-08-31",
+      "issuesFound": 4,
+      "notes": "Fixed 4 factual errors: music-922 stale Grammy AOTY record (Stevie Wonder tied-3 -> Taylor Swift now holds 4, confirmed 2024), music-600 Tchaikovsky Symphony No.1 false 'premiered at 18' claim removed, music-615 unverifiable/likely fabricated Sun Ra unicycle claim replaced with verified Afrofuturist/costume fact, music-640 Physical Graffiti car-accident chronology wrong (accident was after album's release) -> corrected to Presence."
     },
     {
       "chunkId": "music-p2-002",
@@ -6695,11 +6695,11 @@
         "music-810",
         "music-812"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-31",
+      "completedAt": "2026-08-31",
+      "issuesFound": 3,
+      "notes": "Fixed 3 factual errors: music-702 Roland TB-303 release year 1982 -> 1981 (per Roland/Wikipedia), music-712 'Ohio' was never on Neil Young's After the Gold Rush (it's a separate CSNY single) -> swapped for 'Southern Man' which is actually on the album, music-759 Son cubano origin pinned to '1930s' -> corrected to late 19th century (1930s was when it gained international fame, not when it originated)."
     },
     {
       "chunkId": "music-p2-003",
@@ -6756,11 +6756,11 @@
         "music-911",
         "music-913"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-31",
+      "completedAt": "2026-08-31",
+      "issuesFound": 1,
+      "notes": "Cut music-887 (Robert Moog founded Moog Music, Minimoog 1970) as a duplicate of music-692 (Robert Moog created the Minimoog), already reviewed in chunk music-p2-002. All other 49 questions checked clean."
     },
     {
       "chunkId": "music-p2-004",
@@ -6817,11 +6817,11 @@
         "music-728",
         "music-729"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-31",
+      "completedAt": "2026-08-31",
+      "issuesFound": 0,
+      "notes": "Reviewed all 50; verified U2's 22-Grammy group record, Quincy Jones' 28-win producer record, and Thriller as second best-selling US album (all confirmed accurate via WebSearch). No factual errors, no unresolved duplicates found."
     },
     {
       "chunkId": "music-p2-005",

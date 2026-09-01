@@ -9298,7 +9298,7 @@
     "id": "music-600",
     "category": "music",
     "difficulty": "medium",
-    "question": "Which Russian composer's Symphony No. 1 was premiered when he was just 18, but his Symphony No. 6 ('Pathétique') premiered just days before his death?",
+    "question": "Which Russian composer's Symphony No. 6 ('Pathétique') premiered just days before his death, decades after his Symphony No. 1 ('Winter Daydreams')?",
     "options": [
       "Pyotr Ilyich Tchaikovsky",
       "Sergei Rachmaninoff",
@@ -9480,7 +9480,7 @@
     "id": "music-615",
     "category": "music",
     "difficulty": "medium",
-    "question": "Which avant-garde jazz musician was known for playing the saxophone while riding a unicycle and wearing space-themed costumes?",
+    "question": "Which avant-garde jazz bandleader was known for his Afrofuturist philosophy and the elaborate space-themed costumes worn by his Arkestra?",
     "options": [
       "Sun Ra",
       "Pharoah Sanders",
@@ -9766,14 +9766,14 @@
     "id": "music-640",
     "category": "music",
     "difficulty": "medium",
-    "question": "Which 1975 double album by Led Zeppelin was recorded while Robert Plant was recovering from a serious car accident?",
+    "question": "Which 1976 Led Zeppelin album was recorded while Robert Plant, still recovering from a serious car accident, sang from a wheelchair?",
     "options": [
-      "Physical Graffiti",
-      "Houses of the Holy",
       "Presence",
+      "Houses of the Holy",
+      "Physical Graffiti",
       "In Through the Out Door"
     ],
-    "answer": "Physical Graffiti"
+    "answer": "Presence"
   },
   {
     "id": "music-641",
@@ -10494,7 +10494,7 @@
     "id": "music-702",
     "category": "music",
     "difficulty": "medium",
-    "question": "Which piece of electronic equipment, released by Roland in 1982, became famous for its squelchy 'acid' bass sound, defining the acid house genre?",
+    "question": "Which piece of electronic equipment, released by Roland in 1981, became famous for its squelchy 'acid' bass sound, defining the acid house genre?",
     "options": [
       "Roland TB-303",
       "Roland TR-808",
@@ -10624,7 +10624,7 @@
     "id": "music-712",
     "category": "music",
     "difficulty": "medium",
-    "question": "Which 1970 album by Neil Young features the classic songs 'Ohio' and 'Tell Me Why'?",
+    "question": "Which 1970 album by Neil Young features the classic songs 'Southern Man' and 'Tell Me Why'?",
     "options": [
       "After the Gold Rush",
       "Harvest",
@@ -11144,7 +11144,7 @@
     "id": "music-759",
     "category": "music",
     "difficulty": "medium",
-    "question": "Which style of music, originating in Cuba in the 1930s, combines Spanish guitar traditions with African percussion and is a precursor to salsa?",
+    "question": "Which style of music, originating in eastern Cuba in the late 19th century, combines Spanish guitar traditions with African percussion and is a precursor to salsa?",
     "options": [
       "Son cubano",
       "Rumba",
@@ -12688,19 +12688,6 @@
     "id": "music-886"
   },
   {
-    "difficulty": "medium",
-    "category": "music",
-    "question": "Which synthesizer pioneer founded Moog Music and introduced the Minimoog in 1970?",
-    "options": [
-      "Robert Moog",
-      "Don Buchla",
-      "Alan Pearlman",
-      "Ikutaro Kakehashi"
-    ],
-    "answer": "Robert Moog",
-    "id": "music-887"
-  },
-  {
     "difficulty": "hard",
     "category": "music",
     "question": "Which 1992 track by The Orb is often cited as foundational ambient house?",
@@ -13080,14 +13067,14 @@
   {
     "difficulty": "hard",
     "category": "music",
-    "question": "Which solo artist is tied for most Grammy Album of the Year wins with three?",
+    "question": "As of 2024, which artist holds the record for most Grammy Album of the Year wins with four?",
     "options": [
+      "Taylor Swift",
       "Stevie Wonder",
-      "Kanye West",
       "Adele",
       "Kendrick Lamar"
     ],
-    "answer": "Stevie Wonder",
+    "answer": "Taylor Swift",
     "id": "music-922"
   },
   {
