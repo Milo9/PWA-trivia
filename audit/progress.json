@@ -7091,11 +7091,11 @@
         "mythology-religion-179",
         "mythology-religion-181"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-31",
+      "completedAt": "2026-08-31",
+      "issuesFound": 3,
+      "notes": "Fixed Kinnara/Yaksha treasure-guarding stem mixup (147), leaked-reasoning option 'Harakiri is same but term' (153), Hesperides Atlas/Nyx parentage ambiguity (168)."
     },
     {
       "chunkId": "mythology-religion-p2-003",
@@ -7152,11 +7152,11 @@
         "mythology-religion-307",
         "mythology-religion-308"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-31",
+      "completedAt": "2026-08-31",
+      "issuesFound": 6,
+      "notes": "Cut 214 (dup of already-reviewed arts-literature-056, Hesiod/Works and Days), cut 237 (dup of in-chunk 207, Daphne laurel tree), cut 243 (dup of already-reviewed 026, Lethe), cut 287 (dup of already-reviewed 062, Akhenaten/Aten), fixed 250 (Xanthus/Balius both wept - reworded to unique speech-gift trait), fixed 285 (Anuket/Satet answer swap - Satet is the flood/water-jars goddess per Plutarch-independent sourcing)."
     },
     {
       "chunkId": "mythology-religion-p2-004",
@@ -7213,11 +7213,11 @@
         "mythology-religion-409",
         "mythology-religion-410"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-31",
+      "completedAt": "2026-08-31",
+      "issuesFound": 5,
+      "notes": "Fixed 313 (Krauncha is the cursed gandharva/mouse, not the sage - answer corrected to Vamadeva). Fixed 410 (Wagyl/Yurlungur are just regional Aboriginal names for the Rainbow Serpent itself, not distinct figures - swapped distractors for Bunyip/Baiame/Tiddalik). Cut 369 (dup of already-reviewed 121, Jibril/Gabriel), cut 377 (dup of already-reviewed 114, Moses on Sinai), cut 402 (dup of already-reviewed 122, Ahura Mazda)."
     },
     {
       "chunkId": "mythology-religion-p2-005",
@@ -7274,11 +7274,11 @@
         "mythology-religion-205",
         "mythology-religion-208"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-31",
+      "completedAt": "2026-08-31",
+      "issuesFound": 3,
+      "notes": "Cut 022 (dup of already-reviewed arts-literature-087, Thetis/sea nymph mother of Achilles), cut 086 (dup of already-reviewed 311, Lakshmi/Vishnu's consort), cut 414 (dup of already-reviewed 213, Frigg/Odin's wife). Rest of chunk (mostly easy-difficulty) checked clean."
     },
     {
       "chunkId": "mythology-religion-p2-006",

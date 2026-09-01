@@ -1755,19 +1755,6 @@
     "id": "mythology-religion-019"
   },
   {
-    "difficulty": "easy",
-    "category": "mythology-religion",
-    "question": "What was the name of Achilles' mother, a sea nymph who dipped him in the River Styx?",
-    "options": [
-      "Thetis",
-      "Galatea",
-      "Amphitrite",
-      "Doris"
-    ],
-    "answer": "Thetis",
-    "id": "mythology-religion-022"
-  },
-  {
     "difficulty": "medium",
     "category": "mythology-religion",
     "question": "Which golden object inscribed 'for the fairest' sparked the judgment of Paris and the Trojan War?",
@@ -2509,19 +2496,6 @@
     "id": "mythology-religion-085"
   },
   {
-    "difficulty": "easy",
-    "category": "mythology-religion",
-    "question": "Who is the goddess of wealth and fortune, consort of Vishnu?",
-    "options": [
-      "Lakshmi",
-      "Parvati",
-      "Durga",
-      "Kali"
-    ],
-    "answer": "Lakshmi",
-    "id": "mythology-religion-086"
-  },
-  {
     "difficulty": "medium",
     "category": "mythology-religion",
     "question": "The Bhagavad Gita is a part of which larger epic?",
@@ -3213,7 +3187,7 @@
   {
     "difficulty": "medium",
     "category": "mythology-religion",
-    "question": "Which creature in Hindu and Buddhist myth guards treasure and is half human half horse?",
+    "question": "Which celestial musician in Hindu and Buddhist myth is depicted as half human, half horse?",
     "options": [
       "Kinnara",
       "Gandharva",
@@ -3281,7 +3255,7 @@
     "question": "What is the Japanese term for ritual suicide historically associated with samurai to restore honor?",
     "options": [
       "Seppuku",
-      "Harakiri is same but term",
+      "Ronin",
       "Kamiza",
       "Bushido"
     ],
@@ -3452,7 +3426,7 @@
       "Daughters of Atlas",
       "Daughters of Zeus",
       "Daughters of Oceanus",
-      "Daughters of Nyx"
+      "Daughters of Poseidon"
     ],
     "answer": "Daughters of Atlas",
     "id": "mythology-religion-168"
@@ -3952,19 +3926,6 @@
     "id": "mythology-religion-213"
   },
   {
-    "difficulty": "medium",
-    "category": "mythology-religion",
-    "question": "What is the name of the Greek poet who composed the Theogony and Works and Days?",
-    "options": [
-      "Hesiod",
-      "Homer",
-      "Pindar",
-      "Sappho"
-    ],
-    "answer": "Hesiod",
-    "id": "mythology-religion-214"
-  },
-  {
     "difficulty": "hard",
     "category": "mythology-religion",
     "question": "What is the name of the Egyptian Book of the Dead's original Egyptian title translated as Coming Forth by Day?",
@@ -4188,19 +4149,6 @@
   {
     "difficulty": "medium",
     "category": "mythology-religion",
-    "question": "Which nymph was transformed into a laurel tree to escape Apollo?",
-    "options": [
-      "Io",
-      "Echo",
-      "Daphne",
-      "Syrinx"
-    ],
-    "answer": "Daphne",
-    "id": "mythology-religion-237"
-  },
-  {
-    "difficulty": "medium",
-    "category": "mythology-religion",
     "question": "Which sisters in Greek myth shared a single eye and tooth?",
     "options": [
       "Hesperides",
@@ -4236,19 +4184,6 @@
     ],
     "answer": "Midas",
     "id": "mythology-religion-241"
-  },
-  {
-    "difficulty": "medium",
-    "category": "mythology-religion",
-    "question": "Which river of the Greek underworld caused dead souls to forget past lives?",
-    "options": [
-      "Styx",
-      "Cocytus",
-      "Lethe",
-      "Acheron"
-    ],
-    "answer": "Lethe",
-    "id": "mythology-religion-243"
   },
   {
     "difficulty": "easy",
@@ -4305,7 +4240,7 @@
   {
     "difficulty": "medium",
     "category": "mythology-religion",
-    "question": "What was the name of Achilles' immortal horse that wept at Patroclus's death?",
+    "question": "Which of Achilles' immortal horses was granted human speech by Hera to warn him of his coming death?",
     "options": [
       "Arion",
       "Pegasus",
@@ -4715,7 +4650,7 @@
       "Anuket",
       "Satet"
     ],
-    "answer": "Anuket",
+    "answer": "Satet",
     "id": "mythology-religion-285"
   },
   {
@@ -4730,19 +4665,6 @@
     ],
     "answer": "Ammit",
     "id": "mythology-religion-286"
-  },
-  {
-    "difficulty": "medium",
-    "category": "mythology-religion",
-    "question": "Which Egyptian pharaoh established worship of the Aten sun-disk as sole god?",
-    "options": [
-      "Tutankhamun",
-      "Amenhotep III",
-      "Ramesses II",
-      "Akhenaten"
-    ],
-    "answer": "Akhenaten",
-    "id": "mythology-religion-287"
   },
   {
     "difficulty": "easy",
@@ -5049,11 +4971,11 @@
     "question": "Which sage cursed Ganesha's mouse, originally a gandharva, to become his vahana?",
     "options": [
       "Bhrigu",
-      "Krauncha",
+      "Vamadeva",
       "Narada",
       "Durvasa"
     ],
-    "answer": "Krauncha",
+    "answer": "Vamadeva",
     "id": "mythology-religion-313"
   },
   {
@@ -5759,19 +5681,6 @@
     "id": "mythology-religion-368"
   },
   {
-    "difficulty": "medium",
-    "category": "mythology-religion",
-    "question": "In Islam, which archangel delivers revelation and is identified with Gabriel?",
-    "options": [
-      "Israfil",
-      "Jibril",
-      "Mikail",
-      "Azrael"
-    ],
-    "answer": "Jibril",
-    "id": "mythology-religion-369"
-  },
-  {
     "difficulty": "easy",
     "category": "mythology-religion",
     "question": "Which angel in Islam blows trumpet on Day of Judgment?",
@@ -5835,19 +5744,6 @@
     ],
     "answer": "New Testament",
     "id": "mythology-religion-375"
-  },
-  {
-    "difficulty": "medium",
-    "category": "mythology-religion",
-    "question": "Which prophet is said to have spoken to God on Mount Sinai and received Torah?",
-    "options": [
-      "Elijah",
-      "Joshua",
-      "Moses",
-      "Aaron"
-    ],
-    "answer": "Moses",
-    "id": "mythology-religion-377"
   },
   {
     "difficulty": "hard",
@@ -6164,19 +6060,6 @@
   {
     "difficulty": "medium",
     "category": "mythology-religion",
-    "question": "In Zoroastrianism, who is wise lord of light opposing Angra Mainyu?",
-    "options": [
-      "Zurvan",
-      "Ahura Mazda",
-      "Mithra",
-      "Verethragna"
-    ],
-    "answer": "Ahura Mazda",
-    "id": "mythology-religion-402"
-  },
-  {
-    "difficulty": "medium",
-    "category": "mythology-religion",
     "question": "What is sacred fire in Zoroastrianism kept in temples called?",
     "options": [
       "Vohu Manah",
@@ -6257,9 +6140,9 @@
     "category": "mythology-religion",
     "question": "In Aboriginal Australian Dreamtime, what giant serpent creates rivers?",
     "options": [
-      "Mundagudda",
-      "Wagyl",
-      "Yurlungur",
+      "Bunyip",
+      "Baiame",
+      "Tiddalik",
       "Rainbow Serpent"
     ],
     "answer": "Rainbow Serpent",
@@ -6303,19 +6186,6 @@
     ],
     "answer": "Pachamama",
     "id": "mythology-religion-413"
-  },
-  {
-    "difficulty": "medium",
-    "category": "mythology-religion",
-    "question": "Which Norse goddess of marriage is wife of Odin?",
-    "options": [
-      "Freyja",
-      "Idunn",
-      "Gefjon",
-      "Frigg"
-    ],
-    "answer": "Frigg",
-    "id": "mythology-religion-414"
   },
   {
     "difficulty": "easy",
