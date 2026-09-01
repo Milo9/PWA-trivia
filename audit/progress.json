@@ -8468,11 +8468,11 @@
         "world-cultures-1361",
         "world-cultures-1383"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-09-01",
+      "completedAt": "2026-09-01",
+      "issuesFound": 2,
+      "notes": "Cut world-cultures-1036 (fabricated/unverifiable term 'Hwanryeo' for Korean cremation beads); reworded world-cultures-1361 stem (Thorrablot is a traditional food feast, not a bonfire festival). Rest of chunk verified accurate (Ubykh/Pirahã/Damin linguistics, greeting/wedding/funeral customs, instruments, architecture)."
     },
     {
       "chunkId": "world-cultures-p2-001",
@@ -8529,11 +8529,11 @@
         "world-cultures-1041",
         "world-cultures-1042"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-09-01",
+      "completedAt": "2026-09-01",
+      "issuesFound": 11,
+      "notes": "Resolved 5 backlogged duplicates (975 Khmer-alphabet vs 004, 979 Tifinagh vs 597 reversed-direction, 995 Tibet tongue-greeting vs 127, 1005 Aloha vs general-851, 1041 Toro nagashi vs 843 reversed-direction) by cutting the newer copy. Cut 2 more in-chunk duplicates found live (1488 Pirahã counting vs already-reviewed 977; 1494 Khmer-alphabet-record vs 975/004, a 3rd copy of the same fact). Reworded 4 malformed fragment-style question stems (1405, 1408, 1410, 1507) into proper interrogatives without changing facts/answers. Verified Qarrtsiluni, Tuareg ehen/ehan, Korean bow hand placement, and Bedouin nose-greeting facts via WebSearch. Rest of chunk (greetings, wedding/funeral customs, constructed/endangered languages) verified accurate."
     },
     {
       "chunkId": "world-cultures-p2-002",
@@ -8590,11 +8590,11 @@
         "world-cultures-1106",
         "world-cultures-1107"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-09-01",
+      "completedAt": "2026-09-01",
+      "issuesFound": 5,
+      "notes": "Resolved 4 backlogged reversed-direction/near-duplicate pairs (1049 pan de muerto vs 142, 1086 steelpan-oil-drums vs 960, 1099 riad vs 712, 1104 wharenui vs 683) by cutting the newer copy. Fixed a real-world-ambiguity bug in 1056 (Calcio Storico): swapped the 'Boxing' distractor for 'Judo' since sources describe the sport as combining soccer, wrestling, rugby, AND boxing, making Boxing a defensible second correct answer alongside Rugby. Rest of chunk (funeral rites, traditional sports/martial arts, folk instruments, vernacular architecture) verified accurate."
     },
     {
       "chunkId": "world-cultures-p2-003",
@@ -8651,11 +8651,11 @@
         "world-cultures-1161",
         "world-cultures-1162"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-09-01",
+      "completedAt": "2026-09-01",
+      "issuesFound": 2,
+      "notes": "Resolved backlogged duplicate 1151 (siesta) vs 472 by cutting the newer copy. Fixed real-world ambiguity in 1129 (Maasai beadwork): swapped 'Marital availability' distractor for 'Physical strength' since sources confirm beadwork does encode marital status too, making the original distractor a second defensible correct answer alongside 'Age and social status'. Rest of chunk (vernacular dress, food/drink, etiquette/superstition) verified accurate."
     },
     {
       "chunkId": "world-cultures-p2-004",

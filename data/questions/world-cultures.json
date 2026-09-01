@@ -12922,19 +12922,6 @@
     "answer": "Jumping over bonfires"
   },
   {
-    "id": "world-cultures-975",
-    "category": "world-cultures",
-    "difficulty": "medium",
-    "question": "The Khmer alphabet, used in Cambodia, holds the Guinness World Record for being the largest alphabet. Approximately how many letters does it have?",
-    "options": [
-      "74",
-      "48",
-      "33",
-      "92"
-    ],
-    "answer": "74"
-  },
-  {
     "id": "world-cultures-976",
     "category": "world-cultures",
     "difficulty": "hard",
@@ -12972,19 +12959,6 @@
       "Cherokee"
     ],
     "answer": "English"
-  },
-  {
-    "id": "world-cultures-979",
-    "category": "world-cultures",
-    "difficulty": "medium",
-    "question": "The Tifinagh script is traditionally used to write which family of languages?",
-    "options": [
-      "Berber (Amazigh)",
-      "Semitic",
-      "Bantu",
-      "Nilotic"
-    ],
-    "answer": "Berber (Amazigh)"
   },
   {
     "id": "world-cultures-980",
@@ -13156,19 +13130,6 @@
     "answer": "Easter Island"
   },
   {
-    "id": "world-cultures-995",
-    "category": "world-cultures",
-    "difficulty": "medium",
-    "question": "In Tibet, what unusual physical action is traditionally performed as a respectful greeting?",
-    "options": [
-      "Sticking out the tongue",
-      "Pulling the earlobes",
-      "Clapping once",
-      "Blinking rapidly"
-    ],
-    "answer": "Sticking out the tongue"
-  },
-  {
     "id": "world-cultures-996",
     "category": "world-cultures",
     "difficulty": "hard",
@@ -13284,19 +13245,6 @@
       "On your knees"
     ],
     "answer": "On your stomach"
-  },
-  {
-    "id": "world-cultures-1005",
-    "category": "world-cultures",
-    "difficulty": "medium",
-    "question": "In Hawaii, what word is commonly used for both hello and goodbye, often accompanied by the shaka sign?",
-    "options": [
-      "Aloha",
-      "Mahalo",
-      "Ohana",
-      "Kuleana"
-    ],
-    "answer": "Aloha"
   },
   {
     "id": "world-cultures-1006",
@@ -13663,19 +13611,6 @@
     "answer": "Vultures"
   },
   {
-    "id": "world-cultures-1036",
-    "category": "world-cultures",
-    "difficulty": "hard",
-    "question": "In South Korea, some families choose to compress a deceased relative's cremated ashes into small, colorful, gem-like objects to keep at home. What are these called?",
-    "options": [
-      "Hwanryeo",
-      "Bonsai",
-      "Geode",
-      "Hoshizuna"
-    ],
-    "answer": "Hwanryeo"
-  },
-  {
     "id": "world-cultures-1037",
     "category": "world-cultures",
     "difficulty": "medium",
@@ -13726,19 +13661,6 @@
       "A gospel choir"
     ],
     "answer": "Upbeat, celebratory music"
-  },
-  {
-    "id": "world-cultures-1041",
-    "category": "world-cultures",
-    "difficulty": "medium",
-    "question": "During the Japanese Obon festival, families guide the spirits of their ancestors back to the world of the dead by floating thousands of paper lanterns down rivers, a practice known as what?",
-    "options": [
-      "Toro nagashi",
-      "Hanabi",
-      "Omikuji",
-      "Kagami biraki"
-    ],
-    "answer": "Toro nagashi"
   },
   {
     "id": "world-cultures-1042",
@@ -13832,19 +13754,6 @@
     "answer": "To honor the spirits of the deceased"
   },
   {
-    "id": "world-cultures-1049",
-    "category": "world-cultures",
-    "difficulty": "medium",
-    "question": "During the Mexican Day of the Dead, families bake a sweet, round bread decorated with bone-shaped pieces of dough. What is this bread called?",
-    "options": [
-      "Pan de muerto",
-      "Rosca de reyes",
-      "Pan dulce",
-      "Concha"
-    ],
-    "answer": "Pan de muerto"
-  },
-  {
     "id": "world-cultures-1050",
     "category": "world-cultures",
     "difficulty": "hard",
@@ -13929,7 +13838,7 @@
     "question": "Calcio Storico is a historic sport played in Florence, Italy, which is best described as a violent combination of soccer, wrestling, and what?",
     "options": [
       "Rugby",
-      "Boxing",
+      "Judo",
       "Fencing",
       "Basketball"
     ],
@@ -14313,19 +14222,6 @@
     "answer": "Africa"
   },
   {
-    "id": "world-cultures-1086",
-    "category": "world-cultures",
-    "difficulty": "medium",
-    "question": "The steelpan (or steel drum) is the national instrument of Trinidad and Tobago. It is traditionally crafted from what recycled material?",
-    "options": [
-      "Oil drums",
-      "Car tires",
-      "Glass bottles",
-      "Tin cans"
-    ],
-    "answer": "Oil drums"
-  },
-  {
     "id": "world-cultures-1087",
     "category": "world-cultures",
     "difficulty": "hard",
@@ -14482,19 +14378,6 @@
     "answer": "Italy"
   },
   {
-    "id": "world-cultures-1099",
-    "category": "world-cultures",
-    "difficulty": "medium",
-    "question": "A riad is a traditional type of house or palace with an interior garden or courtyard, most commonly associated with which country?",
-    "options": [
-      "Morocco",
-      "Egypt",
-      "Saudi Arabia",
-      "Iran"
-    ],
-    "answer": "Morocco"
-  },
-  {
     "id": "world-cultures-1100",
     "category": "world-cultures",
     "difficulty": "medium",
@@ -14545,19 +14428,6 @@
       "Tonga"
     ],
     "answer": "Samoa"
-  },
-  {
-    "id": "world-cultures-1104",
-    "category": "world-cultures",
-    "difficulty": "medium",
-    "question": "The wharenui is a highly carved communal meeting house that serves as the focal point of the 'marae' in which indigenous culture?",
-    "options": [
-      "Maori",
-      "Aboriginal Australian",
-      "Inuit",
-      "Navajo"
-    ],
-    "answer": "Maori"
   },
   {
     "id": "world-cultures-1105",
@@ -14879,7 +14749,7 @@
     "options": [
       "Age and social status",
       "Wealth and land ownership",
-      "Marital availability",
+      "Physical strength",
       "Religious devotion"
     ],
     "answer": "Age and social status"
@@ -15143,19 +15013,6 @@
       "Neither"
     ],
     "answer": "Left"
-  },
-  {
-    "id": "world-cultures-1151",
-    "category": "world-cultures",
-    "difficulty": "medium",
-    "question": "The practice of taking a mid-afternoon rest or nap, historically to avoid the hottest part of the day, is known by what Spanish term?",
-    "options": [
-      "Siesta",
-      "Fiesta",
-      "Hora",
-      "Descanso"
-    ],
-    "answer": "Siesta"
   },
   {
     "id": "world-cultures-1152",
@@ -17786,7 +17643,7 @@
   {
     "difficulty": "hard",
     "category": "world-cultures",
-    "question": "In Iceland, what midwinter festival with bonfires and folklore celebrated in late January is called Þorrablót?",
+    "question": "In Iceland, what midwinter festival featuring a feast of traditional foods like fermented shark and smoked lamb, held in late January, is called Þorrablót?",
     "options": [
       "Sigurblot",
       "Vetrnott",
@@ -18293,7 +18150,7 @@
   {
     "difficulty": "hard",
     "category": "world-cultures",
-    "question": "What Egyptian Upper Egypt conical palm fiber hat is called?",
+    "question": "What is the traditional conical, palm-fiber hat worn in Upper Egypt called?",
     "options": [
       "Galabeya",
       "Libda",
@@ -18332,7 +18189,7 @@
   {
     "difficulty": "hard",
     "category": "world-cultures",
-    "question": "What Tuareg tent made of animal skins is called?",
+    "question": "What is the traditional Tuareg tent made of animal skins called?",
     "options": [
       "Khaima",
       "Ehan",
@@ -18358,7 +18215,7 @@
   {
     "difficulty": "hard",
     "category": "world-cultures",
-    "question": "What Nigerian Igbo masquerade costume with elaborate face is called?",
+    "question": "What is the traditional Igbo (Nigerian) masquerade costume with an elaborate face covering called?",
     "options": [
       "Zangbeto",
       "Egungun",
@@ -19344,19 +19201,6 @@
     "id": "world-cultures-1487"
   },
   {
-    "difficulty": "hard",
-    "category": "world-cultures",
-    "question": "Pirahã language in Amazon is famous for what counting feature?",
-    "options": [
-      "15 numerals",
-      "Base-20 vigesimal",
-      "Decimal to 100",
-      "One-two-many, no higher exact numbers"
-    ],
-    "answer": "One-two-many, no higher exact numbers",
-    "id": "world-cultures-1488"
-  },
-  {
     "difficulty": "medium",
     "category": "world-cultures",
     "question": "How many lexical tones does Northern Vietnamese use?",
@@ -19394,19 +19238,6 @@
     ],
     "answer": "Po and Opo",
     "id": "world-cultures-1493"
-  },
-  {
-    "difficulty": "hard",
-    "category": "world-cultures",
-    "question": "Khmer language of Cambodia is known for having what?",
-    "options": [
-      "No written form",
-      "Largest alphabet with 74 letters",
-      "Only clicks",
-      "No vowels"
-    ],
-    "answer": "Largest alphabet with 74 letters",
-    "id": "world-cultures-1494"
   },
   {
     "difficulty": "medium",
@@ -19554,7 +19385,7 @@
   {
     "difficulty": "hard",
     "category": "world-cultures",
-    "question": "What language has mamihlapinatapai meaning wordless meaningful look shared by two wanting to start something neither will start?",
+    "question": "In what language does the word 'mamihlapinatapai' mean a wordless, meaningful look shared by two people who each want the other to start something neither will begin?",
     "options": [
       "Ainu",
       "Quechua",
