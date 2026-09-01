@@ -6180,11 +6180,11 @@
         "history-671",
         "history-672"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-31",
+      "completedAt": "2026-08-31",
+      "issuesFound": 4,
+      "notes": "Fixed Zuhab/Kasr-i-Shirin same-treaty distractor bug (856); renamed Dunkirk evacuation answer to Operation Dynamo for consistency (805); cut fabricated Lex de Civitate Sociorum name (956); cut 947 as duplicate of already-reviewed general-967 (Cleisthenes 508 BCE)"
     },
     {
       "chunkId": "history-p2-001",
@@ -6241,11 +6241,11 @@
         "history-752",
         "history-753"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-31",
+      "completedAt": "2026-08-31",
+      "issuesFound": 0,
+      "notes": "Clean pass. Several same-answer flags checked: 840/867/879/861/970 pending in this pass (will self-resolve on own chunk); 216 already-reviewed but judged not a true duplicate of 704 (different facts: first female Queen Regnant vs. Catholic-restoration characterization)."
     },
     {
       "chunkId": "history-p2-002",
@@ -6302,11 +6302,11 @@
         "history-833",
         "history-834"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-31",
+      "completedAt": "2026-08-31",
+      "issuesFound": 4,
+      "notes": "Cut 787 (dup of already-reviewed general-1869, Persia->Iran); cut 826 (dup of already-reviewed 741, Brasilia capital 1960); cut 828 (dup of already-reviewed 736 and pending 997, Football War El Salvador/Honduras 1969, kept 997 for its distinctive World Cup qualifying detail). Superlative flags on 759/774 (only female ruler) are permanently-true historical facts, no pin needed."
     },
     {
       "chunkId": "history-p2-003",
@@ -6363,11 +6363,11 @@
         "history-924",
         "history-925"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-31",
+      "completedAt": "2026-08-31",
+      "issuesFound": 10,
+      "notes": "Fixed wrong date on Battle of Wittstock (889: 24 Feb 1535 -> 4 Oct 1636, was impossible pre-dating the Thirty Years War); fixed La Rochelle geography error (872: was on the Rhine, moved to France's Atlantic coast). Cut 8 duplicates: 858 (dup of 864 within chunk, Crecy), 867 (dup of already-reviewed 687, Roger II 1130), 875 (dup of already-reviewed 190, Treaty of Portsmouth), 879 (dup of already-reviewed 733, War of Triple Alliance), and four reversed-direction dups of already-reviewed siblings: 885/699 (Bologna oldest university), 893/760 (Red Cliffs), 897/688 (Bouvines), 921/319 (Lutzen/Gustavus Adolphus)."
     },
     {
       "chunkId": "history-p2-004",

@@ -13067,19 +13067,6 @@
   {
     "difficulty": "medium",
     "category": "history",
-    "question": "Which country was known as Persia until 1935?",
-    "options": [
-      "Iran",
-      "Turkey",
-      "Iraq",
-      "Syria"
-    ],
-    "answer": "Iran",
-    "id": "history-787"
-  },
-  {
-    "difficulty": "medium",
-    "category": "history",
     "question": "Which Indian emperor built the Iron Pillar of Delhi in the 4th century CE?",
     "options": [
       "Ashoka",
@@ -13291,11 +13278,11 @@
     "question": "Which operation in 1940 evacuated over 300,000 Allied troops from Dunkirk beaches?",
     "options": [
       "Operation Torch",
-      "Dunkirk evacuation",
+      "Operation Dynamo",
       "St. Nazaire Raid",
       "Dieppe Raid"
     ],
-    "answer": "Dunkirk evacuation",
+    "answer": "Operation Dynamo",
     "id": "history-805"
   },
   {
@@ -13494,19 +13481,6 @@
     "id": "history-825"
   },
   {
-    "difficulty": "medium",
-    "category": "history",
-    "question": "In which year was Brasília officially inaugurated as the capital of Brazil?",
-    "options": [
-      "1956",
-      "1965",
-      "1960",
-      "1970"
-    ],
-    "answer": "1960",
-    "id": "history-826"
-  },
-  {
     "difficulty": "hard",
     "category": "history",
     "question": "In which year did the Abbasid Caliphate and Tang Dynasty clash at the Battle of Talas?",
@@ -13518,19 +13492,6 @@
     ],
     "answer": "751",
     "id": "history-827"
-  },
-  {
-    "difficulty": "medium",
-    "category": "history",
-    "question": "Which two countries fought the brief Football War in July 1969?",
-    "options": [
-      "Nicaragua and Costa Rica",
-      "Colombia and Peru",
-      "El Salvador and Honduras",
-      "Chile and Argentina"
-    ],
-    "answer": "El Salvador and Honduras",
-    "id": "history-828"
   },
   {
     "difficulty": "medium",
@@ -13862,7 +13823,7 @@
     "category": "history",
     "question": "Which treaty signed on 17 October 1639 between the Ottoman and Safavid Empires fixed the border that still largely separates Turkey, Iraq and Iran?",
     "options": [
-      "Treaty of Kasr-i Shirin",
+      "Treaty of Erzurum",
       "Treaty of Zuhab",
       "Treaty of Amasya",
       "Treaty of Karlowitz"
@@ -13882,19 +13843,6 @@
     ],
     "answer": "Great Palace of the Aten",
     "id": "history-857"
-  },
-  {
-    "difficulty": "medium",
-    "category": "history",
-    "question": "Which English longbow victory at Crécy in 1346 demonstrated the vulnerability of French knights?",
-    "options": [
-      "Battle of Crécy",
-      "Battle of Poitiers",
-      "Battle of Sluys",
-      "Battle of Neville's Cross"
-    ],
-    "answer": "Battle of Crécy",
-    "id": "history-858"
   },
   {
     "difficulty": "hard",
@@ -13988,19 +13936,6 @@
     "id": "history-866"
   },
   {
-    "difficulty": "medium",
-    "category": "history",
-    "question": "Which king of Sicily, crowned on Christmas Day 1130, created a Norman-Arab-Byzantine kingdom?",
-    "options": [
-      "William I",
-      "Roger II",
-      "Frederick II",
-      "Charles of Anjou"
-    ],
-    "answer": "Roger II",
-    "id": "history-867"
-  },
-  {
     "difficulty": "hard",
     "category": "history",
     "question": "Which reform of Tiglath-Pileser III around 745 BCE created a standing professional Assyrian army with specialized units?",
@@ -14055,7 +13990,7 @@
   {
     "difficulty": "medium",
     "category": "history",
-    "question": "Which fortress city on the Rhine was besieged by Cardinal Richelieu's forces from 1627 to 1628 to break Huguenot resistance?",
+    "question": "Which fortress city on France's Atlantic coast was besieged by Cardinal Richelieu's forces from 1627 to 1628 to break Huguenot resistance?",
     "options": [
       "Montauban",
       "La Rochelle",
@@ -14077,19 +14012,6 @@
     ],
     "answer": "Second Defenestration of Prague",
     "id": "history-873"
-  },
-  {
-    "difficulty": "medium",
-    "category": "history",
-    "question": "Which 1905 peace treaty negotiated in Portsmouth, New Hampshire ended the Russo-Japanese War?",
-    "options": [
-      "Treaty of Shimonoseki",
-      "Treaty of Portsmouth",
-      "Treaty of Trianon",
-      "Treaty of Brest-Litovsk"
-    ],
-    "answer": "Treaty of Portsmouth",
-    "id": "history-875"
   },
   {
     "difficulty": "medium",
@@ -14116,19 +14038,6 @@
     ],
     "answer": "Bolivia and Paraguay",
     "id": "history-877"
-  },
-  {
-    "difficulty": "medium",
-    "category": "history",
-    "question": "Which South American war from 1864 to 1870 was the deadliest inter-state war in Latin American history?",
-    "options": [
-      "War of the Pacific",
-      "War of the Triple Alliance",
-      "Cisplatine War",
-      "Chaco War"
-    ],
-    "answer": "War of the Triple Alliance",
-    "id": "history-879"
   },
   {
     "difficulty": "medium",
@@ -14183,19 +14092,6 @@
     "id": "history-883"
   },
   {
-    "difficulty": "medium",
-    "category": "history",
-    "question": "Which university, founded in 1088 in Italy, is considered the oldest continuously operating university in the world?",
-    "options": [
-      "University of Paris",
-      "University of Bologna",
-      "University of Oxford",
-      "University of Salamanca"
-    ],
-    "answer": "University of Bologna",
-    "id": "history-885"
-  },
-  {
     "difficulty": "hard",
     "category": "history",
     "question": "Which 1631 battle saw Gustavus Adolphus demonstrate combined arms with linear tactics against Tilly?",
@@ -14224,7 +14120,7 @@
   {
     "difficulty": "medium",
     "category": "history",
-    "question": "Which battle on 24 February 1535 saw Swedish intervention under Baner defeat Saxon and Imperial forces?",
+    "question": "Which battle on 4 October 1636 saw Swedish intervention under Baner defeat Saxon and Imperial forces?",
     "options": [
       "Battle of Wittstock",
       "Battle of Jankau",
@@ -14276,19 +14172,6 @@
   {
     "difficulty": "medium",
     "category": "history",
-    "question": "Which warlord alliance routed the Han chancellor Cao Cao at the Red Cliffs in winter 208-209 CE?",
-    "options": [
-      "Yuan Shao and Gongsun Zan",
-      "Sun Quan and Liu Bei",
-      "Dong Zhuo and Lu Bu",
-      "Liu Bang and Xiang Yu"
-    ],
-    "answer": "Sun Quan and Liu Bei",
-    "id": "history-893"
-  },
-  {
-    "difficulty": "medium",
-    "category": "history",
     "question": "Which Parthian general commanded 10,000 cavalry to crush Crassus at Carrhae in 53 BCE?",
     "options": [
       "Mithridates II",
@@ -14324,19 +14207,6 @@
     ],
     "answer": "Golden Bull",
     "id": "history-896"
-  },
-  {
-    "difficulty": "medium",
-    "category": "history",
-    "question": "Which battle on 27 July 1214 saw Philip II of France defeat Otto IV and the Count of Flanders?",
-    "options": [
-      "Battle of Bouvines",
-      "Battle of Muret",
-      "Battle of Legnano",
-      "Battle of Las Navas"
-    ],
-    "answer": "Battle of Bouvines",
-    "id": "history-897"
   },
   {
     "difficulty": "easy",
@@ -14584,19 +14454,6 @@
     ],
     "answer": "Battle of Legnano",
     "id": "history-920"
-  },
-  {
-    "difficulty": "medium",
-    "category": "history",
-    "question": "Which 1632 battle saw Gustavus Adolphus die, though Swedish forces defeated Wallenstein?",
-    "options": [
-      "Battle of Lutzen",
-      "Battle of Breitenfeld",
-      "Battle of Nordlingen",
-      "Battle of Wittstock"
-    ],
-    "answer": "Battle of Lutzen",
-    "id": "history-921"
   },
   {
     "difficulty": "medium",
@@ -14898,19 +14755,6 @@
     "id": "history-946"
   },
   {
-    "difficulty": "hard",
-    "category": "history",
-    "question": "Which Athenian reformer introduced ostracism around 508 BCE as part of his democratic reforms?",
-    "options": [
-      "Solon",
-      "Cleisthenes",
-      "Pericles",
-      "Ephialtes"
-    ],
-    "answer": "Cleisthenes",
-    "id": "history-947"
-  },
-  {
     "difficulty": "medium",
     "category": "history",
     "question": "Which Roman reform allowed juries for extortion courts to be composed of equites rather than senators in 122 BCE?",
@@ -15013,19 +14857,6 @@
     ],
     "answer": "Affectatio regni",
     "id": "history-955"
-  },
-  {
-    "difficulty": "hard",
-    "category": "history",
-    "question": "Which reform proposal by Gaius Gracchus would have extended Roman citizenship to all Italian allies, contributing to his downfall?",
-    "options": [
-      "Lex de Civitate Sociorum",
-      "Lex Agraria",
-      "Lex Frumentaria",
-      "Lex de Provincia Asia"
-    ],
-    "answer": "Lex de Civitate Sociorum",
-    "id": "history-956"
   },
   {
     "difficulty": "medium",
