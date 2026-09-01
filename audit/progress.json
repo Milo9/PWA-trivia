@@ -7768,11 +7768,11 @@
         "space-astronomy-842",
         "space-astronomy-843"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-09-01",
+      "completedAt": "2026-09-01",
+      "issuesFound": 10,
+      "notes": "Fixed 916 (Io->Callisto, size clue matches Callisto not Io). Cut 9 dupes: 811/816/830/831 (Venus soft landing, Luna 16 soil return, synodic month, SOHO at L1 - dupes of pass1-done 736/722/774/785), plus newly-confirmed dupes of pass1-done siblings: 874 (dupe of 275, Barnard's Star proper motion), 901 (dupe of 582, binary star def), 935 (dupe of 126, largest star by radius), 1015 (dupe of 156, largest structure), 835 (dupe of 535, Saturn rings composition). Removed now-resolved backlog notes for 736/722/774/785."
     },
     {
       "chunkId": "space-astronomy-p2-001",
@@ -7829,11 +7829,11 @@
         "space-astronomy-954",
         "space-astronomy-955"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-09-01",
+      "completedAt": "2026-09-01",
+      "issuesFound": 5,
+      "notes": "Fixed 908 (self-answering tholin/Titan question reworded, removed 'planet' mislabel, fixed inconsistent Triton option text). Cut 919 & 942 (Kuiper Belt beyond Neptune - dup of pass1-done 281, forward+reverse direction both). Cut 953 (Chariklo ring dup of pass1-done 338). Cut 954 (Perseid/Swift-Tuttle dup of pass1-done 408)."
     },
     {
       "chunkId": "space-astronomy-p2-002",
@@ -7890,11 +7890,11 @@
         "space-astronomy-1056",
         "space-astronomy-1057"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-09-01",
+      "completedAt": "2026-09-01",
+      "issuesFound": 17,
+      "notes": "Fixed 1019 (Pluto-Neptune resonance notation ambiguity, '3:2' is the standard term vs marked '2:3'). Cut 12 dupes of pass1-done siblings: 956/367 (Titania), 958/180 (Pioneer 10), 963/243 (Betelgeuse shoulder), 965/503 (Venus sulfuric acid), 969/331 (RTG rovers), 970/520 (Viking 1&2), 971/619 (Mariner 4 flyby), 981/320 (O-type hottest), 990/417 (Pleiades/Taurus), 994/620 (Mariner 2 Venus flyby), 1008/396 (Luna 2), 1013/387 (Chang'e 4). Also cut 4 same-session reversed-direction/precision dupes vs chunks completed earlier today: 1042/807 (Venus pressure), 1044/834 (Mars pressure), 1055/853 (Deep Impact/Tempel 1), 1056/852 (Stardust/Wild 2)."
     },
     {
       "chunkId": "space-astronomy-p2-003",
@@ -7951,11 +7951,11 @@
         "space-astronomy-1119",
         "space-astronomy-1120"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-09-01",
+      "completedAt": "2026-09-01",
+      "issuesFound": 7,
+      "notes": "Fixed 1064 (70 Ophiuchi distance was wrong, 11.4ly conflated with the system's 11.4 AU orbital separation; actual distance ~16.6ly, also fixed 'red dwarf' to accurate K-dwarf description, verified via WebSearch). Cut 6 same-fact-different-precision dupes vs chunks completed earlier today: 1078/867 (Type II supernova), 1070/857 (Mercury eccentricity), 1087/815 (Sun core temp), 1088/842 (corona temp), 1091/896 (Sun equatorial rotation), 1073/704 (Uranus moon count, dup of pass1-done)."
     },
     {
       "chunkId": "space-astronomy-p2-004",
