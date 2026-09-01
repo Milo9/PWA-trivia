@@ -8237,11 +8237,11 @@
         "sports-251",
         "sports-253"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-09-01",
+      "completedAt": "2026-09-01",
+      "issuesFound": 6,
+      "notes": "Fixed 6 stale/wrong hard-difficulty stats: Norway Winter Olympics golds (148->166, post-2026 Milan-Cortina), Patriots Super Bowl losses pin (2024->2026, now outright record not tied w/ Broncos), women's 100m hurdles WR (12.12->12.09, Masai Russell Aug 2026), men's 100m freestyle WR (46.96->46.40, Pan Zhanle Paris 2024), Kohli ODI centuries (49->53, pinned Dec 2025), Westbrook career triple-doubles (198->209, final retired total). Verified via WebSearch: TI2025 prize pool, FIVB/IHF title counts, Casillas UCL apps, McIlroy PGA wins, Cavendish/Merckx TdF record, Serena/Venus Olympic golds all correct as-is."
     },
     {
       "chunkId": "sports-p2-002",
@@ -8298,11 +8298,11 @@
         "sports-363",
         "sports-365"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-09-01",
+      "completedAt": "2026-09-01",
+      "issuesFound": 2,
+      "notes": "Fixed 2 issues: sports-266 (electronic line calling question was ambiguous - both Australian Open and US Open used it by 2024, reworded to ask which was first to eliminate line judges on all courts = Australian Open 2021), sports-342 (Norway total Winter Olympics medals 405->447, post-2026 Milan-Cortina). Verified via WebSearch and confirmed correct as-is: marathon WRs (men's 1:59:30 Sawe London 2026, women-only 2:15:41 Assefa, mixed 2:09:56 Chepngetich), Simone Biles 30 Worlds medals, US 844 Paralympic golds, Warriors 15-game playoff win streak, Snead/Woods 82 PGA wins."
     },
     {
       "chunkId": "sports-p2-003",
@@ -8359,11 +8359,11 @@
         "sports-281",
         "sports-305"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-09-01",
+      "completedAt": "2026-09-01",
+      "issuesFound": 5,
+      "notes": "Fixed 5 stale record-holder facts (all verified via WebSearch): sports-431 China Uber Cup titles 15->16 (won 16th in 2024), sports-435 women's 100m hurdles WR holder Amusan->Masai Russell (broke record Aug 2026), sports-437 men's 100m freestyle WR holder Dressel->Pan Zhanle (Paris 2024), sports-451 Champions League appearances record Casillas->Cristiano Ronaldo (187 vs Casillas' 177, Ronaldo passed him in 2021), sports-455 most Winter Olympic golds by an athlete Bjørgen->Johannes Høsflot Klæbo (11 career golds after 2026 Milan-Cortina, surpassed Bjørgen's 8). Verified correct as-is: Djokovic AO titles (10, lost 2026 final), LeBron career points (43,440 exact match), Indonesia Thomas Cup (14), Casillas UCL apps (177, unchanged), Independiente/Italy/France/USSR title counts, all the career-total hard-difficulty stat questions (Stockton, Chamberlain, Brady, Emmitt Smith, Tendulkar, Rivera, Cy Young, Gretzky x3, Henri Richard, Canadiens)."
     },
     {
       "chunkId": "sports-p2-004",
@@ -8407,11 +8407,11 @@
         "sports-422",
         "sports-424"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-09-01",
+      "completedAt": "2026-09-01",
+      "issuesFound": 3,
+      "notes": "Fixed 3 issues (verified via WebSearch): sports-422 NHL career goals record Gretzky->Alex Ovechkin (broke record April 2025 with 895th goal, still active), sports-397 US Open Open Era men's singles title reworded (was ambiguous - Sampras/Connors/Federer all tied at 5, reworded to test Federer's unique '5 consecutive 2004-2008' distinction), sports-348 Olympic tennis gold medals reworded to 'medals overall' (was ambiguous - Venus and Serena Williams tied at 4 golds each; Venus uniquely leads on total medals with 5 incl. a silver). Verified correct as-is: Federer's Wimbledon 8-title record still stands (Djokovic hasn't matched it through 2025), all three marathon WR holder questions (Assefa/Chepng'etich/Sawe, all 2026), Warriors playoff streak, Cavendish TdF wins, TI2025 prize pool tournament ID, and the large block of NBA/NFL/MLB/cricket 'who holds the record' questions restating facts already verified in sports-p2-001 through 003."
     },
     {
       "chunkId": "world-cultures-p2-000",

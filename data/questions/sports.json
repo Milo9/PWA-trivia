@@ -5034,7 +5034,7 @@
     "id": "sports-238",
     "category": "sports",
     "difficulty": "medium",
-    "question": "As of 2024, which NFL team has lost the most Super Bowls in history?",
+    "question": "As of 2026, which NFL team has lost the most Super Bowls in history?",
     "options": [
       "New England Patriots",
       "Denver Broncos",
@@ -5398,14 +5398,14 @@
     "id": "sports-266",
     "category": "sports",
     "difficulty": "medium",
-    "question": "As of 2024, which Grand Slam tournament uses an electronic line-calling system without line judges?",
+    "question": "Which Grand Slam tournament was the first to eliminate line judges on all its courts in favor of a fully electronic line-calling system?",
     "options": [
       "Australian Open",
       "French Open",
       "Wimbledon",
       "US Open"
     ],
-    "answer": "US Open"
+    "answer": "Australian Open"
   },
   {
     "id": "sports-267",
@@ -6322,12 +6322,12 @@
     "category": "sports",
     "question": "How many total Winter Olympic medals has Norway won as of 2026?",
     "options": [
-      "350",
-      "405",
-      "380",
-      "420"
+      "410",
+      "428",
+      "447",
+      "460"
     ],
-    "answer": "405",
+    "answer": "447",
     "id": "sports-342"
   },
   {
@@ -6335,12 +6335,12 @@
     "category": "sports",
     "question": "How many gold medals has Norway won at the Winter Olympics as of 2026?",
     "options": [
-      "130",
       "148",
-      "155",
-      "160"
+      "158",
+      "166",
+      "172"
     ],
-    "answer": "148",
+    "answer": "166",
     "id": "sports-343"
   },
   {
@@ -6398,7 +6398,7 @@
   {
     "difficulty": "easy",
     "category": "sports",
-    "question": "Which tennis player has won the most Olympic gold medals?",
+    "question": "Which tennis player has won the most Olympic tennis medals overall (counting gold, silver, and bronze)?",
     "options": [
       "Serena Williams",
       "Venus Williams",
@@ -6997,7 +6997,7 @@
     "id": "sports-397",
     "category": "sports",
     "difficulty": "easy",
-    "question": "Who holds the record for the most US Open men's singles titles in the Open Era?",
+    "question": "Which player won a record 5 consecutive US Open men's singles titles from 2004 to 2008?",
     "options": [
       "Pete Sampras",
       "Roger Federer",
@@ -7322,14 +7322,14 @@
     "id": "sports-422",
     "category": "sports",
     "difficulty": "easy",
-    "question": "Who holds the NHL record for most career goals?",
+    "question": "As of 2026, who holds the NHL record for most career goals?",
     "options": [
       "Gordie Howe",
       "Jaromír Jágr",
       "Wayne Gretzky",
       "Alex Ovechkin"
     ],
-    "answer": "Wayne Gretzky"
+    "answer": "Alex Ovechkin"
   },
   {
     "id": "sports-423",
@@ -7433,7 +7433,7 @@
       "15",
       "16"
     ],
-    "answer": "15"
+    "answer": "16"
   },
   {
     "id": "sports-432",
@@ -7478,53 +7478,53 @@
     "id": "sports-435",
     "category": "sports",
     "difficulty": "medium",
-    "question": "Who holds the women's 100m hurdles world record?",
+    "question": "As of September 2026, who holds the women's 100m hurdles world record?",
     "options": [
       "Sally Pearson",
-      "Kendra Harrison",
+      "Masai Russell",
       "Yordanka Donkova",
       "Tobi Amusan"
     ],
-    "answer": "Tobi Amusan"
+    "answer": "Masai Russell"
   },
   {
     "id": "sports-436",
     "category": "sports",
     "difficulty": "hard",
-    "question": "What is the women's 100m hurdles world record time?",
+    "question": "As of September 2026, what is the women's 100m hurdles world record time?",
     "options": [
+      "12.09",
       "12.12",
       "12.20",
-      "12.34",
-      "12.48"
+      "12.34"
     ],
-    "answer": "12.12"
+    "answer": "12.09"
   },
   {
     "id": "sports-437",
     "category": "sports",
     "difficulty": "medium",
-    "question": "Who holds the men's 100m freestyle world record?",
+    "question": "As of 2026, who holds the men's 100m freestyle world record?",
     "options": [
       "Ian Thorpe",
       "Caeleb Dressel",
-      "Nathan Adrian",
+      "Pan Zhanle",
       "James Magnussen"
     ],
-    "answer": "Caeleb Dressel"
+    "answer": "Pan Zhanle"
   },
   {
     "id": "sports-438",
     "category": "sports",
     "difficulty": "hard",
-    "question": "What is the men's 100m freestyle world record time?",
+    "question": "As of 2026, what is the men's 100m freestyle world record time?",
     "options": [
+      "46.40",
       "46.80",
       "46.96",
-      "47.02",
-      "47.05"
+      "47.02"
     ],
-    "answer": "46.96"
+    "answer": "46.40"
   },
   {
     "id": "sports-439",
@@ -7543,14 +7543,14 @@
     "id": "sports-440",
     "category": "sports",
     "difficulty": "hard",
-    "question": "How many ODI centuries does Virat Kohli have?",
+    "question": "As of December 2025, how many ODI centuries does Virat Kohli have?",
     "options": [
-      "45",
-      "48",
       "49",
-      "50"
+      "51",
+      "53",
+      "55"
     ],
-    "answer": "49"
+    "answer": "53"
   },
   {
     "id": "sports-441",
@@ -7571,12 +7571,12 @@
     "difficulty": "hard",
     "question": "How many career triple-doubles does Russell Westbrook have?",
     "options": [
-      "180",
       "185",
       "198",
-      "200"
+      "200",
+      "209"
     ],
-    "answer": "198"
+    "answer": "209"
   },
   {
     "id": "sports-443",
@@ -7673,14 +7673,14 @@
     "id": "sports-451",
     "category": "sports",
     "difficulty": "medium",
-    "question": "Who holds the record for most career Champions League appearances?",
+    "question": "As of 2026, who holds the record for most career Champions League appearances?",
     "options": [
       "Lionel Messi",
       "Cristiano Ronaldo",
       "Iker Casillas",
       "Ryan Giggs"
     ],
-    "answer": "Iker Casillas"
+    "answer": "Cristiano Ronaldo"
   },
   {
     "id": "sports-452",
@@ -7725,14 +7725,14 @@
     "id": "sports-455",
     "category": "sports",
     "difficulty": "medium",
-    "question": "Who holds the record for most Winter Olympic gold medals by an athlete?",
+    "question": "As of 2026, who holds the record for most Winter Olympic gold medals by an athlete?",
     "options": [
       "Ole Einar Bjørndalen",
       "Ireen Wüst",
       "Marit Bjørgen",
       "Johannes Høsflot Klæbo"
     ],
-    "answer": "Marit Bjørgen"
+    "answer": "Johannes Høsflot Klæbo"
   },
   {
     "id": "sports-456",
