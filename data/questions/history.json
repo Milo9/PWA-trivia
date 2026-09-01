@@ -11999,19 +11999,6 @@
     "id": "history-701"
   },
   {
-    "difficulty": "easy",
-    "category": "history",
-    "question": "Which city was founded by Peter the Great in 1703 as Russia's new capital on the Baltic?",
-    "options": [
-      "Kazan",
-      "St. Petersburg",
-      "Arkhangelsk",
-      "Odessa"
-    ],
-    "answer": "St. Petersburg",
-    "id": "history-702"
-  },
-  {
     "difficulty": "medium",
     "category": "history",
     "question": "Which 1555 settlement established cuius regio, eius religio in the Holy Roman Empire?",
@@ -13639,19 +13626,6 @@
   {
     "difficulty": "easy",
     "category": "history",
-    "question": "Which Neo-Babylonian king built the blue-glazed Ishtar Gate of Babylon around 575 BCE?",
-    "options": [
-      "Nabonidus",
-      "Nabopolassar",
-      "Amel-Marduk",
-      "Nebuchadnezzar II"
-    ],
-    "answer": "Nebuchadnezzar II",
-    "id": "history-840"
-  },
-  {
-    "difficulty": "easy",
-    "category": "history",
     "question": "What event in June 1826, known as the Auspicious Incident, abolished the Janissary Corps?",
     "options": [
       "Mahmud II's destruction of Janissaries",
@@ -14549,19 +14523,6 @@
   {
     "difficulty": "medium",
     "category": "history",
-    "question": "Which Soviet pilot shot down Francis Gary Powers' U-2 on 1 May 1960?",
-    "options": [
-      "Sergei Safronov",
-      "Viktor Belenko",
-      "Ivan Kozhedub",
-      "Alexander Pokryshkin"
-    ],
-    "answer": "Sergei Safronov",
-    "id": "history-929"
-  },
-  {
-    "difficulty": "medium",
-    "category": "history",
     "question": "Which country gained independence on 30 June 1960 with Patrice Lumumba as its first prime minister?",
     "options": [
       "Republic of the Congo",
@@ -14918,7 +14879,7 @@
       "Battle of Ridaniya",
       "Battle of Marj Dabiq",
       "Battle of Chaldiran",
-      "Battle of Raydaniyya"
+      "Battle of Gaza"
     ],
     "answer": "Battle of Ridaniya",
     "id": "history-961"
@@ -15026,19 +14987,6 @@
     ],
     "answer": "KAL 007",
     "id": "history-969"
-  },
-  {
-    "difficulty": "medium",
-    "category": "history",
-    "question": "Which agreement on 18 March 1962 ended the Algerian War of Independence?",
-    "options": [
-      "Evian Accords",
-      "Algiers Accord",
-      "Geneva Accords",
-      "Rabat Accords"
-    ],
-    "answer": "Evian Accords",
-    "id": "history-970"
   },
   {
     "difficulty": "medium",
@@ -15171,19 +15119,6 @@
     "id": "history-980"
   },
   {
-    "difficulty": "easy",
-    "category": "history",
-    "question": "Which city did Peter the Great found in 1703 on the Neva River as Russia's window to the west?",
-    "options": [
-      "St. Petersburg",
-      "Moscow",
-      "Kazan",
-      "Astrakhan"
-    ],
-    "answer": "St. Petersburg",
-    "id": "history-981"
-  },
-  {
     "difficulty": "medium",
     "category": "history",
     "question": "Which naval decree on 30 October 1696 did Peter the Great issue, celebrated as the birth of the Russian Navy?",
@@ -15221,19 +15156,6 @@
     ],
     "answer": "Assassination of Wallenstein",
     "id": "history-984"
-  },
-  {
-    "difficulty": "easy",
-    "category": "history",
-    "question": "What was the name of the forced resettlement policy where Inca moved entire villages to pacify regions?",
-    "options": [
-      "Mitma",
-      "Mit'a",
-      "Chasqui",
-      "Ayllu"
-    ],
-    "answer": "Mitma",
-    "id": "history-985"
   },
   {
     "difficulty": "medium",
@@ -15277,19 +15199,6 @@
   {
     "difficulty": "easy",
     "category": "history",
-    "question": "Which temple of Ramesses II at Abu Simbel was dedicated to his chief wife Nefertari and Hathor?",
-    "options": [
-      "Small Temple",
-      "Great Temple",
-      "Temple of Hathor",
-      "Nefertari Temple"
-    ],
-    "answer": "Small Temple",
-    "id": "history-989"
-  },
-  {
-    "difficulty": "easy",
-    "category": "history",
     "question": "What was the name of the relay stations called where chasqui runners rested and handed off messages?",
     "options": [
       "Tambo",
@@ -15312,19 +15221,6 @@
     ],
     "answer": "FRELIMO",
     "id": "history-991"
-  },
-  {
-    "difficulty": "medium",
-    "category": "history",
-    "question": "Which Quechua labor draft did the Spanish adapt to staff the Potosi silver mines?",
-    "options": [
-      "Mita",
-      "Mitma",
-      "Ayllu",
-      "Minka"
-    ],
-    "answer": "Mita",
-    "id": "history-992"
   },
   {
     "difficulty": "medium",
@@ -15355,19 +15251,6 @@
   {
     "difficulty": "easy",
     "category": "history",
-    "question": "Which sole sun-disk god did Akhenaten elevate above all others?",
-    "options": [
-      "Aten",
-      "Amun",
-      "Ra",
-      "Horus"
-    ],
-    "answer": "Aten",
-    "id": "history-995"
-  },
-  {
-    "difficulty": "easy",
-    "category": "history",
     "question": "Which was the first dynasty of Vijayanagara founded by Harihara and Bukka in 1336?",
     "options": [
       "Sangama dynasty",
@@ -15390,19 +15273,6 @@
     ],
     "answer": "El Salvador and Honduras",
     "id": "history-997"
-  },
-  {
-    "difficulty": "medium",
-    "category": "history",
-    "question": "Which battle on 29 May 1453 is sometimes misdated as the fall of Constantinople, but actually refers to a different year?",
-    "options": [
-      "Battle of Varna",
-      "Battle of Kosovo",
-      "Siege of Belgrade",
-      "Fall of Trebizond"
-    ],
-    "answer": "Fall of Trebizond",
-    "id": "history-999"
   },
   {
     "difficulty": "easy",

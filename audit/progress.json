@@ -6424,11 +6424,11 @@
         "history-1007",
         "history-680"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-31",
+      "completedAt": "2026-08-31",
+      "issuesFound": 5,
+      "notes": "Cut history-929 (Safronov didn't shoot down Powers' U-2, killed by Soviet friendly-fire SAM while intercepting - factually wrong premise); fixed history-961 distractor D (Battle of Raydaniyya = same battle as answer A Battle of Ridaniya, alt spelling); cut history-970 (dup of already-reviewed history-752, Evian Accords); cut history-992 (dup of history-1006, Mita for Potosi mines, kept 1006 for etymology detail); cut history-999 (incoherent/fabricated premise - May 29 1453 IS the fall of Constantinople, not a misdate, and Fall of Trebizond was 1461 not 1453)."
     },
     {
       "chunkId": "history-p2-005",
@@ -6485,11 +6485,11 @@
         "history-966",
         "history-977"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-31",
+      "completedAt": "2026-08-31",
+      "issuesFound": 2,
+      "notes": "Cut history-702 (dup of already-reviewed history-924, St. Petersburg founding 1703); cut history-840 (dup of already-reviewed history-673, Nebuchadnezzar II/Ishtar Gate). Rest of chunk verified clean; several same-answer flags checked and confirmed genuinely distinct facts (Theodora x2 different empresses, Henry IV France vs HRE, Bolivia/Beijing/Japan/Nigeria multi-fact clusters)."
     },
     {
       "chunkId": "history-p2-006",
@@ -6512,11 +6512,11 @@
         "history-1008",
         "history-1010"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-31",
+      "completedAt": "2026-08-31",
+      "issuesFound": 4,
+      "notes": "Cut history-981 (dup of already-reviewed history-924, St Petersburg founding); cut history-985 (dup of already-reviewed history-855, Mitma resettlement); cut history-995 (dup of already-reviewed history-1007, Aten/Akhenaten); cut history-989 (reversed-direction dup of history-1001 in same chunk, Small Temple/Nefertari at Abu Simbel - kept 1001)."
     },
     {
       "chunkId": "music-p2-000",
@@ -6573,11 +6573,11 @@
         "music-888",
         "music-892"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-31",
+      "completedAt": "2026-08-31",
+      "issuesFound": 2,
+      "notes": "Fixed music-653: 'Be My Baby' was actually co-written by a trio (Barry/Greenwich/Spector), not a duo, so swapped in 'Do Wah Diddy Diddy' (Manfred Mann, 1964), genuinely written solely by Jeff Barry and Ellie Greenwich. Cut music-874: malformed answer option ('Bruno Mars co-wrote it' doesn't match the vocals question asked) and the underlying 'uncredited vocals' claim couldn't be verified; Philip Lawrence distractor is also a genuine credited co-writer, risking a second ambiguity bug if reworded around writing credit instead."
     },
     {
       "chunkId": "music-p2-001",
