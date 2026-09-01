@@ -12714,19 +12714,6 @@
     "id": "science-technology-673"
   },
   {
-    "difficulty": "medium",
-    "category": "science-technology",
-    "question": "Which photoreceptor cells in the retina are responsible for color vision and function best in bright light?",
-    "options": [
-      "Rods",
-      "Cones",
-      "Bipolar cells",
-      "Ganglion cells"
-    ],
-    "answer": "Cones",
-    "id": "science-technology-675"
-  },
-  {
     "difficulty": "easy",
     "category": "science-technology",
     "question": "Which long bone in the forearm is on the pinky side?",
@@ -13587,7 +13574,7 @@
   {
     "difficulty": "hard",
     "category": "science-technology",
-    "question": "How many carbon atoms are in a single molecule of Buckminsterfullerene C60?",
+    "question": "How many carbon atoms are in a single molecule of buckminsterfullerene, the soccer-ball-shaped carbon allotrope?",
     "options": [
       "20",
       "60",
@@ -14844,19 +14831,6 @@
     ],
     "answer": "Alan Turing",
     "id": "science-technology-874"
-  },
-  {
-    "difficulty": "hard",
-    "category": "science-technology",
-    "question": "What does GNU stand for recursively?",
-    "options": [
-      "Great New Unix",
-      "GNU's Not Unix",
-      "General Network Utility",
-      "Global Network Userbase"
-    ],
-    "answer": "GNU's Not Unix",
-    "id": "science-technology-875"
   },
   {
     "difficulty": "easy",

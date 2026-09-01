@@ -4134,19 +4134,6 @@
     "id": "mythology-religion-234"
   },
   {
-    "difficulty": "easy",
-    "category": "mythology-religion",
-    "question": "Who was the mother of the Minotaur, wife of King Minos?",
-    "options": [
-      "Ariadne",
-      "Pasiphae",
-      "Phaedra",
-      "Europa"
-    ],
-    "answer": "Pasiphae",
-    "id": "mythology-religion-235"
-  },
-  {
     "difficulty": "medium",
     "category": "mythology-religion",
     "question": "Which sisters in Greek myth shared a single eye and tooth?",
@@ -4175,19 +4162,6 @@
   {
     "difficulty": "easy",
     "category": "mythology-religion",
-    "question": "Which Phrygian king was granted the golden touch by Dionysus?",
-    "options": [
-      "Minos",
-      "Midas",
-      "Lycurgus",
-      "Croesus"
-    ],
-    "answer": "Midas",
-    "id": "mythology-religion-241"
-  },
-  {
-    "difficulty": "easy",
-    "category": "mythology-religion",
     "question": "Which enchantress turned Odysseus's men into swine on Aeaea?",
     "options": [
       "Calypso",
@@ -4197,19 +4171,6 @@
     ],
     "answer": "Circe",
     "id": "mythology-religion-245"
-  },
-  {
-    "difficulty": "easy",
-    "category": "mythology-religion",
-    "question": "What creature guarded the entrance to the Greek underworld with three heads?",
-    "options": [
-      "Hydra",
-      "Orthrus",
-      "Chimera",
-      "Cerberus"
-    ],
-    "answer": "Cerberus",
-    "id": "mythology-religion-246"
   },
   {
     "difficulty": "medium",
@@ -4249,19 +4210,6 @@
     ],
     "answer": "Xanthus",
     "id": "mythology-religion-250"
-  },
-  {
-    "difficulty": "easy",
-    "category": "mythology-religion",
-    "question": "Which hero slew Medusa with aid of Athena and Hermes?",
-    "options": [
-      "Perseus",
-      "Cadmus",
-      "Heracles",
-      "Bellerophon"
-    ],
-    "answer": "Perseus",
-    "id": "mythology-religion-251"
   },
   {
     "difficulty": "easy",
@@ -4316,32 +4264,6 @@
     "id": "mythology-religion-257"
   },
   {
-    "difficulty": "easy",
-    "category": "mythology-religion",
-    "question": "What is the name of the silken ribbon-like fetter that finally holds Fenrir?",
-    "options": [
-      "Lædingr",
-      "Dromi",
-      "Gleipnir",
-      "Gram"
-    ],
-    "answer": "Gleipnir",
-    "id": "mythology-religion-258"
-  },
-  {
-    "difficulty": "easy",
-    "category": "mythology-religion",
-    "question": "Which god placed his hand in Fenrir's mouth as pledge and lost it?",
-    "options": [
-      "Heimdall",
-      "Baldr",
-      "Tyr",
-      "Bragi"
-    ],
-    "answer": "Tyr",
-    "id": "mythology-religion-259"
-  },
-  {
     "difficulty": "medium",
     "category": "mythology-religion",
     "question": "Who is the jötunn mother of Loki's three monstrous children Fenrir, Jörmungandr and Hel?",
@@ -4357,19 +4279,6 @@
   {
     "difficulty": "easy",
     "category": "mythology-religion",
-    "question": "Among Loki's children by Angrboda, who becomes ruler of the realm of the dead?",
-    "options": [
-      "Sleipnir",
-      "Hel",
-      "Jörmungandr",
-      "Narfi"
-    ],
-    "answer": "Hel",
-    "id": "mythology-religion-261"
-  },
-  {
-    "difficulty": "easy",
-    "category": "mythology-religion",
     "question": "What kind of animal is Ratatoskr who runs up and down Yggdrasil?",
     "options": [
       "Hawk",
@@ -4379,19 +4288,6 @@
     ],
     "answer": "Squirrel",
     "id": "mythology-religion-262"
-  },
-  {
-    "difficulty": "easy",
-    "category": "mythology-religion",
-    "question": "What are the names of Odin's two ravens who fly over Midgard?",
-    "options": [
-      "Ask and Embla",
-      "Dainn and Dvalinn",
-      "Freki and Geri",
-      "Huginn and Muninn"
-    ],
-    "answer": "Huginn and Muninn",
-    "id": "mythology-religion-263"
   },
   {
     "difficulty": "medium",
@@ -4483,19 +4379,6 @@
     ],
     "answer": "Freyja",
     "id": "mythology-religion-270"
-  },
-  {
-    "difficulty": "easy",
-    "category": "mythology-religion",
-    "question": "Which Norse goddess keeps apples that grant the gods youth?",
-    "options": [
-      "Gefjon",
-      "Idunn",
-      "Fulla",
-      "Sif"
-    ],
-    "answer": "Idunn",
-    "id": "mythology-religion-271"
   },
   {
     "difficulty": "medium",
@@ -4656,19 +4539,6 @@
   {
     "difficulty": "easy",
     "category": "mythology-religion",
-    "question": "Which monster with crocodile, lion and hippo parts devours unworthy hearts?",
-    "options": [
-      "Seth",
-      "Bennu",
-      "Apep",
-      "Ammit"
-    ],
-    "answer": "Ammit",
-    "id": "mythology-religion-286"
-  },
-  {
-    "difficulty": "easy",
-    "category": "mythology-religion",
     "question": "Which sacred bird was believed to rise from ashes in Heliopolis?",
     "options": [
       "Falcon",
@@ -4756,19 +4626,6 @@
     ],
     "answer": "Kaumodaki",
     "id": "mythology-religion-294"
-  },
-  {
-    "difficulty": "easy",
-    "category": "mythology-religion",
-    "question": "Which discus weapon is portrayed on Vishnu's right rear hand?",
-    "options": [
-      "Sudarshana Chakra",
-      "Kaumodaki",
-      "Parashu",
-      "Trishula"
-    ],
-    "answer": "Sudarshana Chakra",
-    "id": "mythology-religion-295"
   },
   {
     "difficulty": "medium",
@@ -4875,32 +4732,6 @@
     "id": "mythology-religion-303"
   },
   {
-    "difficulty": "easy",
-    "category": "mythology-religion",
-    "question": "Which ten-headed demon king abducts Sita in the Ramayana?",
-    "options": [
-      "Ravana",
-      "Hiranyakashipu",
-      "Kumbhakarna",
-      "Mahishasura"
-    ],
-    "answer": "Ravana",
-    "id": "mythology-religion-304"
-  },
-  {
-    "difficulty": "easy",
-    "category": "mythology-religion",
-    "question": "Which bird-like creature is the mount of Vishnu?",
-    "options": [
-      "Garuda",
-      "Sampati",
-      "Jatayu",
-      "Hamsa"
-    ],
-    "answer": "Garuda",
-    "id": "mythology-religion-306"
-  },
-  {
     "difficulty": "medium",
     "category": "mythology-religion",
     "question": "Which final avatar of Vishnu is prophesied to appear riding a white horse?",
@@ -4977,19 +4808,6 @@
     ],
     "answer": "Vamadeva",
     "id": "mythology-religion-313"
-  },
-  {
-    "difficulty": "easy",
-    "category": "mythology-religion",
-    "question": "Which weapon is Shiva's trident called?",
-    "options": [
-      "Shakti",
-      "Pashupata",
-      "Trishula",
-      "Vajra"
-    ],
-    "answer": "Trishula",
-    "id": "mythology-religion-314"
   },
   {
     "difficulty": "medium",
@@ -5072,7 +4890,7 @@
   {
     "difficulty": "easy",
     "category": "mythology-religion",
-    "question": "Which river is personified as goddess Saraswati's lost river in Vedas?",
+    "question": "In the Rigveda, which now-vanished river is personified as a goddess?",
     "options": [
       "Sindhu",
       "Saraswati",
@@ -5250,19 +5068,6 @@
     ],
     "answer": "Nine",
     "id": "mythology-religion-334"
-  },
-  {
-    "difficulty": "easy",
-    "category": "mythology-religion",
-    "question": "Who is the Monkey King in Chinese mythology who accompanies Xuanzang?",
-    "options": [
-      "Erlang Shen",
-      "Sun Wukong",
-      "Zhu Bajie",
-      "Sha Wujing"
-    ],
-    "answer": "Sun Wukong",
-    "id": "mythology-religion-335"
   },
   {
     "difficulty": "medium",
@@ -5462,7 +5267,7 @@
   {
     "difficulty": "easy",
     "category": "mythology-religion",
-    "question": "Which relic is said to be Buddha's tooth enshrined in Sri Lanka?",
+    "question": "Which relic of the Buddha is enshrined at the Temple of the Tooth in Kandy, Sri Lanka?",
     "options": [
       "Finger bone",
       "Tooth of the Buddha",
@@ -5579,19 +5384,6 @@
   {
     "difficulty": "easy",
     "category": "mythology-religion",
-    "question": "What is name of sacred well near Kaaba in Mecca?",
-    "options": [
-      "Kawthar",
-      "Salsabil",
-      "Zamzam",
-      "Tasnim"
-    ],
-    "answer": "Zamzam",
-    "id": "mythology-religion-360"
-  },
-  {
-    "difficulty": "easy",
-    "category": "mythology-religion",
     "question": "What does the shofar blown on Rosh Hashanah consist of?",
     "options": [
       "Ram's horn",
@@ -5679,19 +5471,6 @@
     ],
     "answer": "Saint Nicholas",
     "id": "mythology-religion-368"
-  },
-  {
-    "difficulty": "easy",
-    "category": "mythology-religion",
-    "question": "Which angel in Islam blows trumpet on Day of Judgment?",
-    "options": [
-      "Israfil",
-      "Mikail",
-      "Jibril",
-      "Azrael"
-    ],
-    "answer": "Israfil",
-    "id": "mythology-religion-370"
   },
   {
     "difficulty": "medium",
@@ -6006,19 +5785,6 @@
     "id": "mythology-religion-397"
   },
   {
-    "difficulty": "easy",
-    "category": "mythology-religion",
-    "question": "During Sukkot, which citron fruit is waved along with lulav?",
-    "options": [
-      "Pomegranate",
-      "Etrog",
-      "Olive",
-      "Date"
-    ],
-    "answer": "Etrog",
-    "id": "mythology-religion-398"
-  },
-  {
     "difficulty": "hard",
     "category": "mythology-religion",
     "question": "What Sanskrit term denotes set of eight lucky signs in Tibetan Buddhism?",
@@ -6043,19 +5809,6 @@
     ],
     "answer": "Ishtar",
     "id": "mythology-religion-400"
-  },
-  {
-    "difficulty": "easy",
-    "category": "mythology-religion",
-    "question": "Which epic hero survives flood in Epic of Gilgamesh and gains immortality?",
-    "options": [
-      "Enki",
-      "Ziusudra",
-      "Atrahasis",
-      "Utnapishtim"
-    ],
-    "answer": "Utnapishtim",
-    "id": "mythology-religion-401"
   },
   {
     "difficulty": "medium",

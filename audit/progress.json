@@ -7335,11 +7335,11 @@
         "mythology-religion-346",
         "mythology-religion-349"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-31",
+      "completedAt": "2026-08-31",
+      "issuesFound": 16,
+      "notes": "Cut 15 duplicates of already-reviewed questions (Minotaur mother, Midas, Cerberus, Perseus/Medusa, Gleipnir, Tyr/Fenrir, Hel, Huginn/Muninn, Idunn apples, Ammit, Sudarshana Chakra, Ravana/Sita, Garuda, Shiva trident, Sun Wukong); reworded mythology-religion-321 to remove answer-leak (stem named the answer 'Saraswati' directly)."
     },
     {
       "chunkId": "mythology-religion-p2-007",
@@ -7363,11 +7363,11 @@
         "mythology-religion-408",
         "mythology-religion-415"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-31",
+      "completedAt": "2026-08-31",
+      "issuesFound": 5,
+      "notes": "Cut 4 duplicates of already-reviewed questions (Zamzam well, Israfil angel, Etrog citron, Utnapishtim flood survivor); reworded mythology-religion-351 to remove answer-leak (stem named the answer 'Buddha's tooth' directly)."
     },
     {
       "chunkId": "science-technology-p2-000",
@@ -7424,11 +7424,11 @@
         "science-technology-853",
         "science-technology-869"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-31",
+      "completedAt": "2026-08-31",
+      "issuesFound": 2,
+      "notes": "Reworded science-technology-746 to remove answer-leak (stem named 'C60' directly, giving away the carbon count). Flagged science-technology-701/875 as duplicate GNU-acronym questions in backlog (875 unreviewed, left both per policy). Several same-answer flags checked and confirmed non-duplicates (different facts about same element/constant, or false-positive short-answer matches)."
     },
     {
       "chunkId": "science-technology-p2-001",
@@ -7485,11 +7485,11 @@
         "science-technology-689",
         "science-technology-692"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-31",
+      "completedAt": "2026-08-31",
+      "issuesFound": 3,
+      "notes": "Cut science-technology-875 (duplicate of already-reviewed science-technology-701, GNU acronym) and science-technology-675 (duplicate of orphaned science-technology-371, cones/color-vision fact, confirmed identical by direct lookup). Logged backlog note for science-technology-686/827 (64 codons) since 827 not yet reviewed. All other same-answer flags checked and confirmed non-duplicates (different facts sharing a generic/coincidental answer)."
     },
     {
       "chunkId": "science-technology-p2-002",
