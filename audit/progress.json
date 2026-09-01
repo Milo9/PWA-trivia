@@ -8712,11 +8712,11 @@
         "world-cultures-1253",
         "world-cultures-1254"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-09-01",
+      "completedAt": "2026-09-01",
+      "issuesFound": 4,
+      "notes": "Fixed factual error in Moroccan tea proverb order (world-cultures-1252), fixed answer-leak in Finnish vihta/vasta (world-cultures-1167), cut 2 confirmed duplicates per existing backlog notes (world-cultures-1170 dup of 226, world-cultures-1195 dup of 536)"
     },
     {
       "chunkId": "world-cultures-p2-005",
@@ -8773,11 +8773,11 @@
         "world-cultures-1337",
         "world-cultures-1338"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-09-01",
+      "completedAt": "2026-09-01",
+      "issuesFound": 4,
+      "notes": "Cut 2 dups per existing backlog notes (world-cultures-1258 dup of 700, world-cultures-1301 dup of 660), cut world-cultures-1299 as new dup of already-reviewed mythology-religion-413 (Pachamama), fixed named-thing error in world-cultures-1267 (ekori is actually the post-puberty Himba headdress, not the pre-puberty two-braid style, which is called ozondato)"
     },
     {
       "chunkId": "world-cultures-p2-006",
@@ -8834,11 +8834,11 @@
         "world-cultures-1431",
         "world-cultures-1432"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-09-01",
+      "completedAt": "2026-09-01",
+      "issuesFound": 8,
+      "notes": "Cut 7 dups per existing/new backlog findings (1340 dup of 769, 1352 dup of 944, 1354 dup of 949, 1359 dup of 722, 1377 dup of 974, 1389 dup of 700, 1393 dup of 224), cut world-cultures-1373 as new dup of already-reviewed world-cultures-1001 (Taarof), cut world-cultures-1429 as new dup of already-reviewed world-cultures-1216 (Vallamkali/Onam), cut world-cultures-1390 for self-answering option structure (stem said 'breaking a nut', only one option described breaking anything) redundant with 1265's kola nut coverage, fixed factual error in world-cultures-1407 (Ethiopian communal platter tradition is 'Beyaynetu' not the invented term 'Gebeta sharing')"
     },
     {
       "chunkId": "world-cultures-p2-007",
@@ -8895,11 +8895,11 @@
         "world-cultures-1515",
         "world-cultures-1516"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-09-01",
+      "completedAt": "2026-09-01",
+      "issuesFound": 12,
+      "notes": "Cut 7 dups per existing backlog notes (1445 dup of 938, 1447 dup of 270/419 boodle-fight cluster, 1456 dup of 211, 1459 dup of 666, 1476 dup of 613, 1498 dup of 714, 1499 dup of 514), cut 2 new dups of already-reviewed siblings (1455 dup of 1330 Chinese tea-tap thank-you, 1469 dup of 1295 potlatch), fixed 2 ambiguous-option-set bugs where 2-3 of 4 options were literal synonyms (1450 Slametan/Selamatan/Kenduri all mean the same Indonesian feast; 1475 Palin/Chueca are the same Mapuche game under indigenous vs Spanish colonial names), fixed factual error + answer-leak in 1516 (the Cheonggyecheon hanji lantern event is the Seoul Lantern Festival, not the unrelated spring Buddhist Lotus Lantern Festival; also balanced option lengths)"
     },
     {
       "chunkId": "world-cultures-p2-008",

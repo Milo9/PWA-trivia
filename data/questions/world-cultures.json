@@ -15215,12 +15215,12 @@
     "difficulty": "medium",
     "question": "In Finland, the 'vihta' (or 'vasta') is a bundle of fresh birch branches used for what purpose during a traditional sauna session?",
     "options": [
-      "Gently beating the skin to improve circulation",
+      "Beating the skin",
       "Sweeping the floor",
       "Stirring the water",
       "Warding off spirits"
     ],
-    "answer": "Gently beating the skin to improve circulation"
+    "answer": "Beating the skin"
   },
   {
     "id": "world-cultures-1168",
@@ -15247,19 +15247,6 @@
       "Melted lead"
     ],
     "answer": "Coffee grounds"
-  },
-  {
-    "id": "world-cultures-1170",
-    "category": "world-cultures",
-    "difficulty": "medium",
-    "question": "The Persian 'Haft-Sin' table is prepared for the Nowruz (New Year) celebration and features seven symbolic items that all start with what letter in the Persian alphabet?",
-    "options": [
-      "S (Seen)",
-      "A (Alef)",
-      "M (Mim)",
-      "R (Re)"
-    ],
-    "answer": "S (Seen)"
   },
   {
     "difficulty": "medium",
@@ -15546,19 +15533,6 @@
     ],
     "answer": "Ancestor's death anniversary",
     "id": "world-cultures-1194"
-  },
-  {
-    "difficulty": "medium",
-    "category": "world-cultures",
-    "question": "Japan's New Year feast osechi ryori is traditionally served in what?",
-    "options": [
-      "Clay donabe pots",
-      "Tiered lacquer boxes called jubako",
-      "Stone mortar bowls",
-      "Bamboo steamer baskets"
-    ],
-    "answer": "Tiered lacquer boxes called jubako",
-    "id": "world-cultures-1195"
   },
   {
     "difficulty": "easy",
@@ -16293,12 +16267,12 @@
     "category": "world-cultures",
     "question": "The Moroccan tea culture's three glasses saying translates to life as what sequence?",
     "options": [
-      "Bitter as death, sweet as love, gentle as death",
-      "Bitter as life, sweet as love, gentle as death",
+      "Bitter as death, sweet as love, gentle as life",
+      "Gentle as life, strong as love, bitter as death",
       "Bitter as love, sweet as life, gentle as breeze",
       "Strong as lion, sweet as date, soft as silk"
     ],
-    "answer": "Bitter as life, sweet as love, gentle as death",
+    "answer": "Gentle as life, strong as love, bitter as death",
     "id": "world-cultures-1252"
   },
   {
@@ -16365,19 +16339,6 @@
     ],
     "answer": "Jina",
     "id": "world-cultures-1257"
-  },
-  {
-    "difficulty": "medium",
-    "category": "world-cultures",
-    "question": "The Yoruba dùndún hourglass talking drum is renowned for being able to do what because Yoruba is tonal?",
-    "options": [
-      "Imitate the tone and proverb of human speech",
-      "Change color with sound",
-      "Boil water when beaten fast",
-      "Be heard 10 km away"
-    ],
-    "answer": "Imitate the tone and proverb of human speech",
-    "id": "world-cultures-1258"
   },
   {
     "difficulty": "medium",
@@ -16486,7 +16447,7 @@
   {
     "difficulty": "medium",
     "category": "world-cultures",
-    "question": "What is the Himba hair tradition of ekori for young girls before puberty?",
+    "question": "What is the Himba hair tradition of ozondato for young girls before puberty?",
     "options": [
       "Two braids forward over eyes",
       "Shaved head except tuft",
@@ -16887,19 +16848,6 @@
     "id": "world-cultures-1298"
   },
   {
-    "difficulty": "medium",
-    "category": "world-cultures",
-    "question": "What is the Quechua word for the Andean earth mother revered in daily life?",
-    "options": [
-      "Inti",
-      "Pachamama",
-      "Viracocha",
-      "Supay"
-    ],
-    "answer": "Pachamama",
-    "id": "world-cultures-1299"
-  },
-  {
     "difficulty": "easy",
     "category": "world-cultures",
     "question": "What does the term Inukshuk / Inuksuk in Inuit culture refer to?",
@@ -16911,19 +16859,6 @@
     ],
     "answer": "Stacked stone figure resembling a person",
     "id": "world-cultures-1300"
-  },
-  {
-    "difficulty": "medium",
-    "category": "world-cultures",
-    "question": "Mexican Alebrijes are known as what?",
-    "options": [
-      "Corn husk dolls",
-      "Spicy tamales",
-      "Brightly colored fantastical creature sculptures",
-      "Woven palm hats"
-    ],
-    "answer": "Brightly colored fantastical creature sculptures",
-    "id": "world-cultures-1301"
   },
   {
     "difficulty": "easy",
@@ -17394,19 +17329,6 @@
     "id": "world-cultures-1339"
   },
   {
-    "difficulty": "medium",
-    "category": "world-cultures",
-    "question": "In Catalonia, Spain, what are colles castelleres famous for building up to ten levels high at town festivals?",
-    "options": [
-      "Ice castles",
-      "Human towers",
-      "Sand mandalas",
-      "Floral carpets"
-    ],
-    "answer": "Human towers",
-    "id": "world-cultures-1340"
-  },
-  {
     "difficulty": "easy",
     "category": "world-cultures",
     "question": "What colors make up the Mărțișor charm exchanged on March 1 in Romania and Moldova?",
@@ -17537,19 +17459,6 @@
     "id": "world-cultures-1351"
   },
   {
-    "difficulty": "medium",
-    "category": "world-cultures",
-    "question": "What Serbian family celebration of a patron saint day passed from father to son is called?",
-    "options": [
-      "Slava",
-      "Sabor",
-      "Zadušnica",
-      "Kolo"
-    ],
-    "answer": "Slava",
-    "id": "world-cultures-1352"
-  },
-  {
     "difficulty": "easy",
     "category": "world-cultures",
     "question": "What thin white wafer is shared with wishes before Poland's Wigilia dinner?",
@@ -17561,19 +17470,6 @@
     ],
     "answer": "Opłatek",
     "id": "world-cultures-1353"
-  },
-  {
-    "difficulty": "medium",
-    "category": "world-cultures",
-    "question": "What August crayfish party with paper hats and songs is celebrated in Sweden?",
-    "options": [
-      "Surströmmingsskiva",
-      "Kräftskiva",
-      "Julbord",
-      "Midsommarkväll"
-    ],
-    "answer": "Kräftskiva",
-    "id": "world-cultures-1354"
   },
   {
     "difficulty": "easy",
@@ -17613,19 +17509,6 @@
     ],
     "answer": "Romansh",
     "id": "world-cultures-1358"
-  },
-  {
-    "difficulty": "medium",
-    "category": "world-cultures",
-    "question": "What string of beads handled for relaxation in Greece is called?",
-    "options": [
-      "Kandili",
-      "Mati",
-      "Chotki",
-      "Komboloi"
-    ],
-    "answer": "Komboloi",
-    "id": "world-cultures-1359"
   },
   {
     "difficulty": "medium",
@@ -17773,19 +17656,6 @@
   {
     "difficulty": "medium",
     "category": "world-cultures",
-    "question": "What Iranian elaborate ritual politeness involving repeated offers and refusals is called?",
-    "options": [
-      "Tarab",
-      "Taarof",
-      "Tajwid",
-      "Tahdig"
-    ],
-    "answer": "Taarof",
-    "id": "world-cultures-1373"
-  },
-  {
-    "difficulty": "medium",
-    "category": "world-cultures",
     "question": "What historic oil wrestling tournament held since 1362 in Edirne, Turkey is called?",
     "options": [
       "Cirit",
@@ -17821,19 +17691,6 @@
     ],
     "answer": "Dabke",
     "id": "world-cultures-1376"
-  },
-  {
-    "difficulty": "medium",
-    "category": "world-cultures",
-    "question": "What Persian fire-jumping festival held on the last Wednesday before Nowruz is called?",
-    "options": [
-      "Mehregan",
-      "Yalda",
-      "Sizdah Bedar",
-      "Chaharshanbe Suri"
-    ],
-    "answer": "Chaharshanbe Suri",
-    "id": "world-cultures-1377"
   },
   {
     "difficulty": "medium",
@@ -17953,32 +17810,6 @@
     "id": "world-cultures-1388"
   },
   {
-    "difficulty": "medium",
-    "category": "world-cultures",
-    "question": "Which Yoruba hourglass-shaped talking drum imitates speech tones?",
-    "options": [
-      "Igba",
-      "Dundun",
-      "Bata",
-      "Atumpan"
-    ],
-    "answer": "Dundun",
-    "id": "world-cultures-1389"
-  },
-  {
-    "difficulty": "medium",
-    "category": "world-cultures",
-    "question": "Among Igbo, what ritual of breaking a nut starts important gatherings?",
-    "options": [
-      "Slaughter of white goat",
-      "Breaking of kola nut",
-      "Pouring palm wine",
-      "Sharing alligator pepper"
-    ],
-    "answer": "Breaking of kola nut",
-    "id": "world-cultures-1390"
-  },
-  {
     "difficulty": "easy",
     "category": "world-cultures",
     "question": "What narrow-strip woven cloth reserved for Ashanti royalty has bright geometric patterns?",
@@ -18003,19 +17834,6 @@
     ],
     "answer": "Beaded love letters",
     "id": "world-cultures-1392"
-  },
-  {
-    "difficulty": "medium",
-    "category": "world-cultures",
-    "question": "Who traditionally wears the indigo tagelmust veil that dyes skin blue among Tuareg?",
-    "options": [
-      "Young children",
-      "Village chiefs only",
-      "Adult men",
-      "Married women"
-    ],
-    "answer": "Adult men",
-    "id": "world-cultures-1393"
   },
   {
     "difficulty": "medium",
@@ -18183,7 +18001,7 @@
       "Tibs",
       "Beyaynetu"
     ],
-    "answer": "Gebeta sharing",
+    "answer": "Beyaynetu",
     "id": "world-cultures-1407"
   },
   {
@@ -18460,19 +18278,6 @@
     "id": "world-cultures-1428"
   },
   {
-    "difficulty": "medium",
-    "category": "world-cultures",
-    "question": "What traditional boat race during Onam using long snake boats is called?",
-    "options": [
-      "Kambala",
-      "Vallamkali",
-      "Neemrana race",
-      "Jallikattu"
-    ],
-    "answer": "Vallamkali",
-    "id": "world-cultures-1429"
-  },
-  {
     "difficulty": "easy",
     "category": "world-cultures",
     "question": "What community kitchen serving free meals at Sikh gurdwaras is called?",
@@ -18670,19 +18475,6 @@
   {
     "difficulty": "medium",
     "category": "world-cultures",
-    "question": "What Laotian white string-tying blessing ceremony at weddings is called?",
-    "options": [
-      "Baci",
-      "Lai Heua Fai",
-      "Rocket festival",
-      "Alms giving"
-    ],
-    "answer": "Baci",
-    "id": "world-cultures-1445"
-  },
-  {
-    "difficulty": "medium",
-    "category": "world-cultures",
     "question": "How many consonant letters does the Thai alphabet have?",
     "options": [
       "21 consonants",
@@ -18692,19 +18484,6 @@
     ],
     "answer": "44 consonants",
     "id": "world-cultures-1446"
-  },
-  {
-    "difficulty": "medium",
-    "category": "world-cultures",
-    "question": "What Filipino communal eating where food spread on banana leaves and eaten with hands is called?",
-    "options": [
-      "Dampa",
-      "Salu-salo",
-      "Boodle fight",
-      "Kainan"
-    ],
-    "answer": "Boodle fight",
-    "id": "world-cultures-1447"
   },
   {
     "difficulty": "easy",
@@ -18739,8 +18518,8 @@
     "options": [
       "Slametan",
       "Rijsttafel",
-      "Selamatan",
-      "Kenduri"
+      "Arisan",
+      "Gotong royong"
     ],
     "answer": "Slametan",
     "id": "world-cultures-1450"
@@ -18798,32 +18577,6 @@
     "id": "world-cultures-1454"
   },
   {
-    "difficulty": "medium",
-    "category": "world-cultures",
-    "question": "In China, what does tapping two fingers on table when served tea signify?",
-    "options": [
-      "Check please",
-      "More tea please",
-      "Tea too hot",
-      "Thank you"
-    ],
-    "answer": "Thank you",
-    "id": "world-cultures-1455"
-  },
-  {
-    "difficulty": "medium",
-    "category": "world-cultures",
-    "question": "What Balinese daily palm leaf tray offering with flowers placed on ground is called?",
-    "options": [
-      "Banten",
-      "Canang sari",
-      "Sesajen",
-      "Pejati"
-    ],
-    "answer": "Canang sari",
-    "id": "world-cultures-1456"
-  },
-  {
     "difficulty": "easy",
     "category": "world-cultures",
     "question": "Why should you not touch someone's head in Thailand?",
@@ -18848,19 +18601,6 @@
     ],
     "answer": "Joya no Kane",
     "id": "world-cultures-1458"
-  },
-  {
-    "difficulty": "medium",
-    "category": "world-cultures",
-    "question": "What system of age reckoning, historically used in Korea, counts a newborn as already one year old at birth?",
-    "options": [
-      "Korean age",
-      "Se age",
-      "Man age",
-      "Yeon age"
-    ],
-    "answer": "Korean age",
-    "id": "world-cultures-1459"
   },
   {
     "difficulty": "medium",
@@ -18967,19 +18707,6 @@
     "id": "world-cultures-1468"
   },
   {
-    "difficulty": "medium",
-    "category": "world-cultures",
-    "question": "What Haida gift-giving feast redistributes wealth and confers status?",
-    "options": [
-      "Powwow",
-      "Potlatch",
-      "Sun dance",
-      "Sweat lodge"
-    ],
-    "answer": "Potlatch",
-    "id": "world-cultures-1469"
-  },
-  {
     "difficulty": "easy",
     "category": "world-cultures",
     "question": "What Afro-Brazilian art combining martial arts dance music in roda circle is called?",
@@ -19050,25 +18777,12 @@
     "question": "What Mapuche hockey-like game played with curved stick is called?",
     "options": [
       "Palin",
-      "Chueca",
+      "Ngillatun",
       "Pillmatun",
       "Linao"
     ],
     "answer": "Palin",
     "id": "world-cultures-1475"
-  },
-  {
-    "difficulty": "medium",
-    "category": "world-cultures",
-    "question": "What Australian Aboriginal carved wooden message object carried between groups is called?",
-    "options": [
-      "Boomerang",
-      "Bullroarer",
-      "Message stick",
-      "Woomera"
-    ],
-    "answer": "Message stick",
-    "id": "world-cultures-1476"
   },
   {
     "difficulty": "medium",
@@ -19281,32 +18995,6 @@
   {
     "difficulty": "medium",
     "category": "world-cultures",
-    "question": "What Korean honorific terms for older friend depend on speaker gender?",
-    "options": [
-      "Hyung only",
-      "Hyung, Oppa, Unnie, Noona",
-      "Ssi, Nim",
-      "San, Chan, Kun"
-    ],
-    "answer": "Hyung, Oppa, Unnie, Noona",
-    "id": "world-cultures-1498"
-  },
-  {
-    "difficulty": "medium",
-    "category": "world-cultures",
-    "question": "What language has no native word for yes, repeating verb to affirm?",
-    "options": [
-      "Finnish",
-      "Irish",
-      "Latin",
-      "Welsh"
-    ],
-    "answer": "Irish",
-    "id": "world-cultures-1499"
-  },
-  {
-    "difficulty": "medium",
-    "category": "world-cultures",
     "question": "Which Nigerian language uses 7 vowels and 3 tones?",
     "options": [
       "Hausa",
@@ -19504,12 +19192,12 @@
     "category": "world-cultures",
     "question": "What South Korean lantern festival with hanji lanterns on Cheonggyecheon is called?",
     "options": [
-      "Jinju Lantern",
-      "Andong Mask",
-      "Seoul Lotus Lantern Festival",
-      "Busan Sea"
+      "Jinju Lantern Festival",
+      "Andong Mask Dance Festival",
+      "Seoul Lantern Festival",
+      "Busan Sea Festival"
     ],
-    "answer": "Seoul Lotus Lantern Festival",
+    "answer": "Seoul Lantern Festival",
     "id": "world-cultures-1516"
   },
   {
