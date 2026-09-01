@@ -3575,19 +3575,6 @@
     "answer": "Paul Desmond"
   },
   {
-    "id": "music-151",
-    "category": "music",
-    "difficulty": "easy",
-    "question": "Which jazz trumpeter led the ensembles that recorded Birth of the Cool in 1949-50?",
-    "options": [
-      "Chet Baker",
-      "Miles Davis",
-      "Louis Armstrong",
-      "Dizzy Gillespie"
-    ],
-    "answer": "Miles Davis"
-  },
-  {
     "id": "music-152",
     "category": "music",
     "difficulty": "medium",
@@ -11739,19 +11726,6 @@
     "id": "music-808"
   },
   {
-    "difficulty": "easy",
-    "category": "music",
-    "question": "Who composed Duke Ellington's signature theme Take the A Train?",
-    "options": [
-      "Billy Strayhorn",
-      "Count Basie",
-      "Cole Porter",
-      "Fats Waller"
-    ],
-    "answer": "Billy Strayhorn",
-    "id": "music-809"
-  },
-  {
     "difficulty": "medium",
     "category": "music",
     "question": "Billie Holiday first recorded the protest song Strange Fruit in which year?",
@@ -12770,7 +12744,7 @@
     "category": "music",
     "question": "Which subgenre of drum and bass at around 174 BPM is known for fast breakbeats?",
     "options": [
-      "Drum and bass itself is 174",
+      "Neurofunk",
       "Jungle",
       "Dubstep",
       "Grime"

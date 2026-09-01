@@ -6878,11 +6878,11 @@
         "music-870",
         "music-873"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-31",
+      "completedAt": "2026-08-31",
+      "issuesFound": 5,
+      "notes": "Cut 2 confirmed duplicates vs already-reviewed pass-2 survivors (music-809 Take-the-A-Train-composer dup of done music-612; cross-corpus find music-151 Birth-of-Cool-bandleader dup of done music-611, cut even though outside chunk). Logged 3 backlog notes for duplicates whose sibling is an orphan (music-811/music-366 Otis-Redding-wrote-Respect, music-813/music-395 Berry-Gordy-founded-Motown, music-828/music-339 Jimmy-Page-produced-LZ-albums). Rest of chunk (43 questions) verified clean -- distractors checked, no factual errors, coincidental same-answer matches (Grammy/Music's-Biggest-Night, Magic-Flute-title/Magic-Flute-characters, D-minor-Beethoven-9th/D-minor-Mozart-Requiem, Salzburg-birthplace/Salzburg-disliked-hometown, Queen cluster of 5 distinct facts, Rolling-Stone-magazine/Rolling-Stones-band false match from trailing-s stripping) left as-is, all genuinely distinct facts."
     },
     {
       "chunkId": "music-p2-006",
@@ -6908,11 +6908,11 @@
         "music-937",
         "music-941"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-31",
+      "completedAt": "2026-08-31",
+      "issuesFound": 3,
+      "notes": "Fixed malformed distractor in music-895 (option 'Drum and bass itself is 174' was leaked self-referential reasoning, not a real distractor -- replaced with 'Neurofunk'). Logged 2 backlog notes for duplicates whose sibling is an orphan (music-875/general-1154 Robyn-Fenty-is-Rihanna, music-885/music-234 Daft-Punk-robot-helmets). Rest of chunk (16 questions) verified clean; coincidental same-answer matches (Tennessee/Dollywood vs Tennessee/State-of-Franklin, Brass-family shared by trumpet/trombone/tuba questions) left as-is as genuinely distinct facts."
     },
     {
       "chunkId": "mythology-religion-p2-000",
@@ -6969,11 +6969,11 @@
         "mythology-religion-294",
         "mythology-religion-297"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-31",
+      "completedAt": "2026-08-31",
+      "issuesFound": 2,
+      "notes": "Cut mythology-religion-135 (Navajo Changing Woman/Hero Twins birthplace) -- WebSearch confirmed the correct site is Gobernador Knob, not Blanca Peak or any listed option; option D was also leaked reasoning ('Mount Hesperus is same'). Verified mythology-religion-277 (Tyet knot of Isis, red jasper, Book of the Dead Spell 156) accurate via WebSearch. Logged 1 backlog note for duplicate whose sibling is an orphan (mythology-religion-183/general-043, both 'Osiris = god of the dead/underworld'). Several same-answer flags (Tyr/Fenrir's-hand, Ammit, Akhenaten/Aten, Ravana/ten-heads/Sita, Idunn/apples, Ahura-Mazda/Angra-Mainyu) point to pending pass-2 chunks (mythology-religion-p2-003/004/006) -- left uncut per rule, will self-resolve when those chunks are reached. Rest of chunk (47 questions) verified clean on distractors and facts."
     },
     {
       "chunkId": "mythology-religion-p2-001",
@@ -7030,11 +7030,11 @@
         "mythology-religion-078",
         "mythology-religion-079"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-08-31",
+      "completedAt": "2026-08-31",
+      "issuesFound": 1,
+      "notes": "Fixed mythology-religion-032: called Midas a 'Lydian king' -- Midas was king of Phrygia, not Lydia (Lydia's famous king was Croesus, already a distractor here); reworded stem to 'Phrygian king', kept options as-is since Croesus/Gyges/Tantalus remain plausible distractors. Verified Gandiva/Varuna lineage via WebSearch (correct). Numerous same-answer flags (Pasiphae/Minotaur-mother, Lethe/forgetting-river, Perseus/Medusa, Midas/golden-touch, Gleipnir/Fenrir-fetter, Huginn-Muninn/ravens, Utnapishtim/flood, Ishtar/Inanna) all point to pending pass-2 chunks (p2-003/004/006/007) -- left uncut per rule, will self-resolve when those chunks are reached. Rest of chunk (48 questions) verified clean."
     },
     {
       "chunkId": "mythology-religion-p2-002",
