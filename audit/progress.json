@@ -8012,11 +8012,11 @@
         "space-astronomy-1171",
         "space-astronomy-1172"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-09-01",
+      "completedAt": "2026-09-01",
+      "issuesFound": 3,
+      "notes": "Fixed Callisto/Europa induced-field ambiguity (narrowed stem), MARSIS 2018 discovery mislabeled water ice vs liquid water, Nix mislabeled river of night vs goddess of night. Verified ~40 orbital period/diameter/eccentricity stats against known values, all correct."
     },
     {
       "chunkId": "space-astronomy-p2-005",
@@ -8073,11 +8073,11 @@
         "space-astronomy-914",
         "space-astronomy-921"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-09-01",
+      "completedAt": "2026-09-01",
+      "issuesFound": 2,
+      "notes": "Fixed asteroid-belt mass comparison (819, was true for all 4 options, pinned to specific 4%% figure), fixed Saturn winter claim (862, was factually backwards - Saturn passed equinox May 2025 and is entering northern spring not winter; reworded to the verified ring-plane-crossing fact instead). Verified 23 orbital period/diameter stats for outer moons/asteroids/comets, all correct."
     },
     {
       "chunkId": "space-astronomy-p2-006",
@@ -8115,11 +8115,11 @@
         "space-astronomy-1096",
         "space-astronomy-1117"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-09-01",
+      "completedAt": "2026-09-01",
+      "issuesFound": 1,
+      "notes": "Fixed Rosetta/Lutetia flyby date (1054, was 2008 - the 2008 Rosetta flyby was actually asteroid Steins; Lutetia flyby with two terrain types was July 2010). Reviewed remaining 30 questions (astronomy facts, mission dates, percentages), all correct. This completes space-astronomy pass 2 (7/7 chunks)."
     },
     {
       "chunkId": "sports-p2-000",
@@ -8176,11 +8176,11 @@
         "sports-335",
         "sports-338"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-09-01",
+      "completedAt": "2026-09-01",
+      "issuesFound": 3,
+      "notes": "Fixed NHL defenseman scoring record (250, was misattributed to Coffey's 138 pts - Bobby Orr's 139 pts is the actual points record, reworded to Coffey's real record of most goals by a D-man); fixed goalie-shoots-empty-net-goal attribution (252, was Billy Smith who was credited via opponent's own-goal, not by shooting himself - Ron Hextall was the actual first to shoot and score); fixed stale golf-major age record (282, Julius Boros/48 was superseded by Phil Mickelson/50 at the 2021 PGA Championship, well before the as-of-2024 pin). Verified 2026 marathon WR claims (Assefa/Sawe at London Marathon) via search, both correct. Reviewed all other record-holder claims (MLB/NBA/NFL/tennis/soccer/track), all correct."
     },
     {
       "chunkId": "sports-p2-001",
