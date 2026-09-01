@@ -208,19 +208,6 @@
     "answer": "32"
   },
   {
-    "id": "general-129",
-    "category": "science-technology",
-    "difficulty": "medium",
-    "question": "What is the hardest naturally occurring substance on Earth?",
-    "options": [
-      "Diamond",
-      "Quartz",
-      "Titanium",
-      "Granite"
-    ],
-    "answer": "Diamond"
-  },
-  {
     "id": "general-131",
     "category": "science-technology",
     "difficulty": "easy",
@@ -3690,19 +3677,6 @@
       "Lens"
     ],
     "answer": "Retina"
-  },
-  {
-    "id": "general-2609",
-    "category": "science-technology",
-    "difficulty": "hard",
-    "question": "What is the SI unit of magnetic flux density?",
-    "options": [
-      "Tesla",
-      "Weber",
-      "Gauss",
-      "Henry"
-    ],
-    "answer": "Tesla"
   },
   {
     "id": "general-2610",
@@ -12649,19 +12623,6 @@
     "id": "science-technology-667"
   },
   {
-    "difficulty": "easy",
-    "category": "science-technology",
-    "question": "As of 2026, how many vertebrae are typically in the human vertebral column when counting fused sacral and coccygeal as individual?",
-    "options": [
-      "24",
-      "26",
-      "33",
-      "31"
-    ],
-    "answer": "33",
-    "id": "science-technology-668"
-  },
-  {
     "difficulty": "medium",
     "category": "science-technology",
     "question": "Which muscle is the smallest skeletal muscle in the human body?",
@@ -14157,19 +14118,6 @@
     "id": "science-technology-797"
   },
   {
-    "difficulty": "easy",
-    "category": "science-technology",
-    "question": "Which polymer is commonly known by the brand name Teflon?",
-    "options": [
-      "Polyvinyl chloride",
-      "Polypropylene",
-      "Polytetrafluoroethylene",
-      "Polyethylene"
-    ],
-    "answer": "Polytetrafluoroethylene",
-    "id": "science-technology-798"
-  },
-  {
     "difficulty": "hard",
     "category": "science-technology",
     "question": "Which element has atomic number 92?",
@@ -14315,14 +14263,14 @@
   {
     "difficulty": "easy",
     "category": "science-technology",
-    "question": "What does the 'C' in organic chemistry typically bond with four times?",
+    "question": "How many covalent bonds does a carbon atom typically form in organic compounds?",
     "options": [
-      "Other carbons",
-      "Hydrogen only",
-      "Oxygen",
-      "Carbon bonds"
+      "Two",
+      "Three",
+      "Four",
+      "Six"
     ],
-    "answer": "Carbon bonds",
+    "answer": "Four",
     "id": "science-technology-814"
   },
   {
@@ -14454,19 +14402,6 @@
     ],
     "answer": "Vitamin B12",
     "id": "science-technology-826"
-  },
-  {
-    "difficulty": "medium",
-    "category": "science-technology",
-    "question": "How many codons are there in the standard genetic code?",
-    "options": [
-      "20",
-      "61",
-      "64",
-      "32"
-    ],
-    "answer": "64",
-    "id": "science-technology-827"
   },
   {
     "difficulty": "medium",
@@ -14690,19 +14625,6 @@
     "id": "science-technology-853"
   },
   {
-    "difficulty": "medium",
-    "category": "science-technology",
-    "question": "In computing, what does RAID stand for?",
-    "options": [
-      "Rapid Access Integrated Data",
-      "Redundant Array of Independent Disks",
-      "Remote Array of Intelligent Devices",
-      "Random Array of Inexpensive Drives"
-    ],
-    "answer": "Redundant Array of Independent Disks",
-    "id": "science-technology-854"
-  },
-  {
     "difficulty": "easy",
     "category": "science-technology",
     "question": "What does JSON stand for?",
@@ -14714,19 +14636,6 @@
     ],
     "answer": "JavaScript Object Notation",
     "id": "science-technology-856"
-  },
-  {
-    "difficulty": "easy",
-    "category": "science-technology",
-    "question": "What does PNG stand for as an image format?",
-    "options": [
-      "Picture Network Grid",
-      "Portable Network Graphics",
-      "Public Network Gram",
-      "Printable New Graphic"
-    ],
-    "answer": "Portable Network Graphics",
-    "id": "science-technology-857"
   },
   {
     "difficulty": "medium",
@@ -14848,7 +14757,7 @@
   {
     "difficulty": "medium",
     "category": "science-technology",
-    "question": "What does URL stand for? This was on avoid list, so we ask for URI instead: What does URI stand for?",
+    "question": "What does URI stand for?",
     "options": [
       "Uniform Resource Identifier",
       "Universal Routing Indicator",
@@ -15002,19 +14911,6 @@
     "id": "science-technology-890"
   },
   {
-    "difficulty": "medium",
-    "category": "science-technology",
-    "question": "Which type of bridge uses cables suspended from towers to support the deck?",
-    "options": [
-      "Beam bridge",
-      "Suspension bridge",
-      "Arch bridge",
-      "Cantilever bridge"
-    ],
-    "answer": "Suspension bridge",
-    "id": "science-technology-891"
-  },
-  {
     "difficulty": "hard",
     "category": "science-technology",
     "question": "What does the term 'quenching' refer to in metallurgy?",
@@ -15056,7 +14952,7 @@
   {
     "difficulty": "easy",
     "category": "science-technology",
-    "question": "Which tool measures atmospheric pressure? Note: barometer question is forbidden, so ask about altimeter principle instead: What does an aneroid barometer use to sense pressure?",
+    "question": "What does an aneroid barometer use to sense pressure?",
     "options": [
       "Metal bellows without liquid",
       "Mercury column",

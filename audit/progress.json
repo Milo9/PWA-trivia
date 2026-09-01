@@ -7546,11 +7546,11 @@
         "science-technology-807",
         "science-technology-810"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-09-01",
+      "completedAt": "2026-09-01",
+      "issuesFound": 0,
+      "notes": "Clean chunk, all facts verified. 3 same-answer flags noted but siblings (854, 857, 891) fall in p2-003/p2-005 reviewed later this session -- resolving there per no-note-needed rule."
     },
     {
       "chunkId": "science-technology-p2-003",
@@ -7607,11 +7607,11 @@
         "science-technology-633",
         "science-technology-638"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-09-01",
+      "completedAt": "2026-09-01",
+      "issuesFound": 4,
+      "notes": "Cut 3 duplicates vs already-reviewed p2-001/p2-002 siblings: RAID-stand-for (854 vs 698), suspension-bridge-cables (891 vs 731), 64-codons (827 vs 686). Fixed 1 leaked-drafting-artifact question stem: 877 literally said 'What does URL stand for? This was on avoid list, so we ask for URI instead: What does URI stand for?' -- trimmed to clean 'What does URI stand for?'. Left 818 (33 vertebrae) and 622 (Teflon/PTFE) uncut -- their duplicate siblings (668, 798) are pending in p2-004, will resolve there."
     },
     {
       "chunkId": "science-technology-p2-004",
@@ -7668,11 +7668,11 @@
         "science-technology-793",
         "science-technology-798"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-09-01",
+      "completedAt": "2026-09-01",
+      "issuesFound": 3,
+      "notes": "Cut 3 duplicates: 668 (33-vertebrae-before-fusion) vs already-reviewed 818; 798 (Teflon/PTFE brand name) vs already-reviewed 622; orphaned general-2609 (SI unit of magnetic flux density = Tesla, no chunk assigned) vs in-chunk 756, kept 756 for its extra weber-per-sq-meter detail. All other facts verified correct (SI units, gas laws, anatomy, networking ports/acronyms, physics constants). Checked SATA expansion nuance (Serial Advanced Technology Attachment vs literal Serial AT Attachment) via WebSearch -- confirmed ATA spec officially avoids IBM trademark by using 'AT Attachment' literally, but SATA-IO's own standard name is 'Serial Advanced Technology Attachment', so current answer/distractor split is correct, not a genuine ambiguity bug."
     },
     {
       "chunkId": "science-technology-p2-005",
@@ -7707,11 +7707,11 @@
         "science-technology-913",
         "science-technology-915"
       ],
-      "status": "pending",
-      "startedAt": null,
-      "completedAt": null,
-      "issuesFound": null,
-      "notes": null
+      "status": "done",
+      "startedAt": "2026-09-01",
+      "completedAt": "2026-09-01",
+      "issuesFound": 4,
+      "notes": "Cut 2 duplicates: 857 (PNG stand-for) vs already-reviewed 703; orphaned general-129 (hardest naturally occurring substance = Diamond, no chunk) vs in-chunk 899, kept 899 for its richer Mohs-scale distractor set. Fixed 2 leaked/malformed questions: 897 had drafting meta-commentary baked into the stem ('Note: barometer question is forbidden, so ask about altimeter principle instead...') trimmed to clean 'What does an aneroid barometer use to sense pressure?'; 814 was incoherent ('What does the C in organic chemistry typically bond with four times?' -> answer 'Carbon bonds', circular nonsense) rewritten to 'How many covalent bonds does a carbon atom typically form in organic compounds?' -> Four. All other facts verified correct. This completes science-technology pass 2 (6/6 chunks)."
     },
     {
       "chunkId": "space-astronomy-p2-000",
