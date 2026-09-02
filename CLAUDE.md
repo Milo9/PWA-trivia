@@ -124,6 +124,17 @@ binding constraint — that's the exception, not the default.
 
 - Follow the exact schema and process in README.md ("Adding a new batch
   of questions"). Don't re-derive it from scratch each session.
+- **`sports` has a casual-audience bar, not just a dedup bar.** A
+  2026-09-01 pass cut 338 of 598 sports questions (record-holders, career/
+  season stat recall, "as of 20XX" record framing, draft/roster/jersey/
+  nickname trivia, rule-spec measurements, obscure "first/only player to
+  X" history) after the user — explicitly not a sports fan, and drafting
+  for a household that isn't either — asked for the category to stay
+  answerable by non-fans. The full rule (and what still counts as fair
+  game — basic rules/scoring, terminology, major event outcomes, athletes
+  famous enough to be pop culture) lives in `templates/sports.md`'s
+  CASUAL-AUDIENCE RULE — that's the single copy; check it before drafting
+  or auditing sports questions, don't re-derive the bar from memory.
 - IDs must be unique **across the whole dataset**, not just the file —
   check the highest existing number in that category (`npm run
   validate`'s per-category counts, or grep the file) before picking the

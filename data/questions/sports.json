@@ -247,19 +247,6 @@
     "answer": "Basketball"
   },
   {
-    "id": "general-334",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "Who holds the record for most career home runs in Major League Baseball, hitting 762?",
-    "options": [
-      "Babe Ruth",
-      "Barry Bonds",
-      "Hank Aaron",
-      "Alex Rodriguez"
-    ],
-    "answer": "Barry Bonds"
-  },
-  {
     "id": "general-335",
     "category": "sports",
     "difficulty": "easy",
@@ -375,19 +362,6 @@
       "Pole vault"
     ],
     "answer": "Fencing"
-  },
-  {
-    "id": "general-347",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "Which country has won the most Rugby World Cup titles, as of 2023?",
-    "options": [
-      "New Zealand",
-      "Australia",
-      "South Africa",
-      "England"
-    ],
-    "answer": "South Africa"
   },
   {
     "id": "general-348",
@@ -676,32 +650,6 @@
     "answer": "The five inhabited continents"
   },
   {
-    "id": "general-537",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "How many teams competed in the first FIFA World Cup, held in 1930?",
-    "options": [
-      "13",
-      "16",
-      "24",
-      "8"
-    ],
-    "answer": "13"
-  },
-  {
-    "id": "general-538",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "In cricket, what is the term for a delivery bowled with disguised spin that turns unexpectedly, popularized by Shane Warne?",
-    "options": [
-      "Yorker",
-      "Googly",
-      "Bouncer",
-      "Full toss"
-    ],
-    "answer": "Googly"
-  },
-  {
     "id": "general-540",
     "category": "sports",
     "difficulty": "hard",
@@ -934,19 +882,6 @@
       "Tennis"
     ],
     "answer": "Soccer"
-  },
-  {
-    "id": "general-1184",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "Which player has scored the most goals in FIFA World Cup history across all tournaments?",
-    "options": [
-      "Miroslav Klose",
-      "Ronaldo Nazario",
-      "Pele",
-      "Lionel Messi"
-    ],
-    "answer": "Miroslav Klose"
   },
   {
     "id": "general-1185",
@@ -1716,19 +1651,6 @@
     "answer": "Yellow"
   },
   {
-    "id": "general-2037",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "Which tennis player holds the men's record for most Grand Slam singles titles as of the mid-2020s?",
-    "options": [
-      "Novak Djokovic",
-      "Rafael Nadal",
-      "Roger Federer",
-      "Pete Sampras"
-    ],
-    "answer": "Novak Djokovic"
-  },
-  {
     "id": "general-2038",
     "category": "sports",
     "difficulty": "medium",
@@ -1768,19 +1690,6 @@
     "answer": "Uruguay"
   },
   {
-    "id": "general-2045",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "Which golfer holds the record for the most men's major championship victories, as of the mid-2020s?",
-    "options": [
-      "Jack Nicklaus",
-      "Tiger Woods",
-      "Arnold Palmer",
-      "Gary Player"
-    ],
-    "answer": "Jack Nicklaus"
-  },
-  {
     "id": "general-2046",
     "category": "sports",
     "difficulty": "medium",
@@ -1818,19 +1727,6 @@
       "The Australian Open"
     ],
     "answer": "Wimbledon"
-  },
-  {
-    "id": "general-2050",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "Which historic golf clubs were once called the 'mashie' and the 'niblick'?",
-    "options": [
-      "Irons used for approach shots",
-      "Types of putters",
-      "Types of drivers",
-      "Types of golf balls"
-    ],
-    "answer": "Irons used for approach shots"
   },
   {
     "id": "general-2051",
@@ -2015,32 +1911,6 @@
     "answer": "Muhammad Ali"
   },
   {
-    "id": "general-2682",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "In cricket, what is the term for an over in which the bowler concedes no runs at all?",
-    "options": [
-      "A maiden over",
-      "A duck",
-      "A golden duck",
-      "A dot ball"
-    ],
-    "answer": "A maiden over"
-  },
-  {
-    "id": "general-2683",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "Which Jamaican sprinter set world records in both the 100m and 200m at the 2009 World Championships in Berlin?",
-    "options": [
-      "Usain Bolt",
-      "Yohan Blake",
-      "Asafa Powell",
-      "Tyson Gay"
-    ],
-    "answer": "Usain Bolt"
-  },
-  {
     "id": "general-2684",
     "category": "sports",
     "difficulty": "easy",
@@ -2065,19 +1935,6 @@
       "Fiji"
     ],
     "answer": "New Zealand"
-  },
-  {
-    "id": "general-2687",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "As of 2021, which Formula One driver was tied with Michael Schumacher for the most World Championship titles, at seven?",
-    "options": [
-      "Lewis Hamilton",
-      "Sebastian Vettel",
-      "Ayrton Senna",
-      "Alain Prost"
-    ],
-    "answer": "Lewis Hamilton"
   },
   {
     "id": "general-2688",
@@ -2158,19 +2015,6 @@
     "answer": "Turkey"
   },
   {
-    "id": "sports-005",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "Which male tennis player holds the record for the most weeks ranked as world No. 1 in the ATP singles rankings as of 2026?",
-    "options": [
-      "Roger Federer",
-      "Pete Sampras",
-      "Rafael Nadal",
-      "Novak Djokovic"
-    ],
-    "answer": "Novak Djokovic"
-  },
-  {
     "id": "sports-006",
     "category": "sports",
     "difficulty": "medium",
@@ -2210,19 +2054,6 @@
     "answer": "Theodore Roosevelt"
   },
   {
-    "id": "sports-009",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "In Major League Baseball, what is the official recorded score of a forfeited game?",
-    "options": [
-      "9-0",
-      "1-0",
-      "7-0",
-      "Forfeit"
-    ],
-    "answer": "9-0"
-  },
-  {
     "id": "sports-010",
     "category": "sports",
     "difficulty": "medium",
@@ -2234,45 +2065,6 @@
       "6 hours and 45 minutes"
     ],
     "answer": "11 hours and 5 minutes"
-  },
-  {
-    "id": "sports-011",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "Tennis balls were not always yellow. In what year did Wimbledon switch from white to yellow balls?",
-    "options": [
-      "1986",
-      "1976",
-      "1996",
-      "1966"
-    ],
-    "answer": "1986"
-  },
-  {
-    "id": "sports-012",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "What is the recorded duration of the longest rally in a professional tennis match, played in 1984?",
-    "options": [
-      "29 minutes",
-      "19 minutes",
-      "39 minutes",
-      "49 minutes"
-    ],
-    "answer": "29 minutes"
-  },
-  {
-    "id": "sports-013",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "Founded in 1857, which English football club holds the distinction of being the oldest existing football club in the world?",
-    "options": [
-      "Sheffield FC",
-      "Nottingham Forest",
-      "Stoke City",
-      "Sunderland AFC"
-    ],
-    "answer": "Sheffield FC"
   },
   {
     "id": "sports-014",
@@ -2366,32 +2158,6 @@
     "answer": "Seven"
   },
   {
-    "id": "sports-024",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "Who was the first woman to win an Olympic gold medal?",
-    "options": [
-      "Hélène de Pourtalès",
-      "Charlotte Cooper",
-      "Kathleen McKane",
-      "Suzanne Lenglen"
-    ],
-    "answer": "Hélène de Pourtalès"
-  },
-  {
-    "id": "sports-025",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "What is the name of the first woman to win an Olympic gold medal in an individual event?",
-    "options": [
-      "Charlotte Cooper",
-      "Hélène de Pourtalès",
-      "Suzanne Lenglen",
-      "Kathleen McKane"
-    ],
-    "answer": "Charlotte Cooper"
-  },
-  {
     "id": "sports-026",
     "category": "sports",
     "difficulty": "easy",
@@ -2433,84 +2199,6 @@
   {
     "difficulty": "easy",
     "category": "sports",
-    "question": "As of 2026, which is the newest franchise in the NFL, beginning play in 2002?",
-    "options": [
-      "Jacksonville Jaguars",
-      "Houston Texans",
-      "Baltimore Ravens",
-      "Carolina Panthers"
-    ],
-    "answer": "Houston Texans",
-    "id": "sports-029"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
-    "question": "What was the Chicago Bears franchise originally called when founded in 1920?",
-    "options": [
-      "Decatur Staleys",
-      "Rock Island Independents",
-      "Canton Bulldogs",
-      "Chicago Cardinals"
-    ],
-    "answer": "Decatur Staleys",
-    "id": "sports-030"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "As of 2026, who holds the NFL regular-season record for the longest field goal at 66 yards in 2021?",
-    "options": [
-      "Matt Prater",
-      "Justin Tucker",
-      "Brandon Aubrey",
-      "Brett Maher"
-    ],
-    "answer": "Justin Tucker",
-    "id": "sports-031"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "As of 2026, which four franchises have never played in a Super Bowl?",
-    "options": [
-      "Browns, Lions, Jaguars, Texans",
-      "Bills, Browns, Lions, Bengals",
-      "Jaguars, Panthers, Texans, Titans",
-      "Lions, Texans, Chargers, Vikings"
-    ],
-    "answer": "Browns, Lions, Jaguars, Texans",
-    "id": "sports-032"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
-    "question": "What is the longest possible forward pass play by rule in the NFL?",
-    "options": [
-      "100 yards",
-      "99 yards",
-      "98 yards",
-      "109 yards"
-    ],
-    "answer": "99 yards",
-    "id": "sports-033"
-  },
-  {
-    "difficulty": "hard",
-    "category": "sports",
-    "question": "In what year was the first Mr. Irrelevant title awarded to the last pick of the NFL Draft?",
-    "options": [
-      "1967",
-      "1980",
-      "1976",
-      "1936"
-    ],
-    "answer": "1976",
-    "id": "sports-034"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
     "question": "How many points is a safety worth in NFL scoring rules?",
     "options": [
       "1 point",
@@ -2524,32 +2212,6 @@
   {
     "difficulty": "easy",
     "category": "sports",
-    "question": "How many players must be on the line of scrimmage for the offense at the snap?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
-    ],
-    "answer": "7",
-    "id": "sports-037"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "In what year did the NFL introduce the 2-point conversion?",
-    "options": [
-      "1978",
-      "1994",
-      "2002",
-      "1985"
-    ],
-    "answer": "1994",
-    "id": "sports-038"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
     "question": "Which team won the first Super Bowl in January 1967?",
     "options": [
       "Kansas City Chiefs",
@@ -2559,71 +2221,6 @@
     ],
     "answer": "Green Bay Packers",
     "id": "sports-039"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "As of 2026, who holds the NFL career rushing yards record with 18,355 yards?",
-    "options": [
-      "Walter Payton",
-      "Emmitt Smith",
-      "Barry Sanders",
-      "Frank Gore"
-    ],
-    "answer": "Emmitt Smith",
-    "id": "sports-040"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "As of 2026, who holds the NFL single-season receiving yards record with 1,964 yards in 2012?",
-    "options": [
-      "Jerry Rice",
-      "Cooper Kupp",
-      "Calvin Johnson",
-      "Justin Jefferson"
-    ],
-    "answer": "Calvin Johnson",
-    "id": "sports-041"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
-    "question": "Which NFL team drafted Tom Brady 199th overall in 2000?",
-    "options": [
-      "San Francisco 49ers",
-      "New England Patriots",
-      "Oakland Raiders",
-      "Denver Broncos"
-    ],
-    "answer": "New England Patriots",
-    "id": "sports-042"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "What is the maximum number of coach's challenges a team can get in a game under current rules if the first two are successful?",
-    "options": [
-      "2",
-      "4",
-      "3",
-      "1"
-    ],
-    "answer": "3",
-    "id": "sports-043"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
-    "question": "Which Hall of Fame running back was nicknamed The Bus?",
-    "options": [
-      "Jerome Bettis",
-      "Emmitt Smith",
-      "Marshall Faulk",
-      "Eddie George"
-    ],
-    "answer": "Jerome Bettis",
-    "id": "sports-044"
   },
   {
     "difficulty": "easy",
@@ -2641,19 +2238,6 @@
   {
     "difficulty": "medium",
     "category": "sports",
-    "question": "Which penalty is called when a team has 12 players on the field during a play?",
-    "options": [
-      "Illegal formation, 5 yards",
-      "12 men on the field, 5 yards",
-      "Delay of game, 5 yards",
-      "Unsportsmanlike conduct, 15 yards"
-    ],
-    "answer": "12 men on the field, 5 yards",
-    "id": "sports-046"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
     "question": "What is the name of the trophy awarded to the Super Bowl champion?",
     "options": [
       "Vince Lombardi Trophy",
@@ -2663,19 +2247,6 @@
     ],
     "answer": "Vince Lombardi Trophy",
     "id": "sports-047"
-  },
-  {
-    "difficulty": "hard",
-    "category": "sports",
-    "question": "Which NFL rule allows a free kick for 3 points after a fair catch?",
-    "options": [
-      "Fair catch kick",
-      "Free play kick",
-      "Drop kick",
-      "Safety kick"
-    ],
-    "answer": "Fair catch kick",
-    "id": "sports-048"
   },
   {
     "difficulty": "easy",
@@ -2706,110 +2277,6 @@
   {
     "difficulty": "easy",
     "category": "sports",
-    "question": "Who is the shortest player ever to play in the NBA at 5 ft 3 in as of 2026?",
-    "options": [
-      "Spud Webb",
-      "Muggsy Bogues",
-      "Earl Boykins",
-      "Isaiah Thomas"
-    ],
-    "answer": "Muggsy Bogues",
-    "id": "sports-051"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "As of 2026, which franchise holds the record for most NBA championships with 18?",
-    "options": [
-      "Los Angeles Lakers",
-      "Golden State Warriors",
-      "Boston Celtics",
-      "Chicago Bulls"
-    ],
-    "answer": "Boston Celtics",
-    "id": "sports-052"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "Who holds the NBA single-game record for most three-pointers made with 14 in 2018?",
-    "options": [
-      "Stephen Curry",
-      "Damian Lillard",
-      "Klay Thompson",
-      "Zach LaVine"
-    ],
-    "answer": "Klay Thompson",
-    "id": "sports-053"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "Who holds the NBA record for most assists in a single game with 30 in 1990?",
-    "options": [
-      "John Stockton",
-      "Magic Johnson",
-      "Scott Skiles",
-      "Steve Nash"
-    ],
-    "answer": "Scott Skiles",
-    "id": "sports-054"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "Who holds the NBA single-game rebound record with 55 rebounds in 1960?",
-    "options": [
-      "Bill Russell",
-      "Wilt Chamberlain",
-      "Dennis Rodman",
-      "Bob Pettit"
-    ],
-    "answer": "Wilt Chamberlain",
-    "id": "sports-055"
-  },
-  {
-    "difficulty": "hard",
-    "category": "sports",
-    "question": "Who is the only NBA player to average a triple-double for a season and also win MVP in 2016-17?",
-    "options": [
-      "Oscar Robertson",
-      "Russell Westbrook",
-      "Nikola Jokic",
-      "Luka Doncic"
-    ],
-    "answer": "Russell Westbrook",
-    "id": "sports-056"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "As of 2026, who is the NBA career leader in three-pointers made?",
-    "options": [
-      "Ray Allen",
-      "Stephen Curry",
-      "James Harden",
-      "Reggie Miller"
-    ],
-    "answer": "Stephen Curry",
-    "id": "sports-057"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "Which team drafted Kobe Bryant 13th overall in 1996 before trading him?",
-    "options": [
-      "Los Angeles Lakers",
-      "Charlotte Hornets",
-      "Philadelphia 76ers",
-      "New Jersey Nets"
-    ],
-    "answer": "Charlotte Hornets",
-    "id": "sports-058"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
     "question": "What does the acronym WNBA stand for?",
     "options": [
       "Women's National Basketball Association",
@@ -2819,32 +2286,6 @@
     ],
     "answer": "Women's National Basketball Association",
     "id": "sports-059"
-  },
-  {
-    "difficulty": "hard",
-    "category": "sports",
-    "question": "Which NBA team holds the longest winning streak at 33 games in 1971-72?",
-    "options": [
-      "Chicago Bulls",
-      "Golden State Warriors",
-      "Los Angeles Lakers",
-      "Boston Celtics"
-    ],
-    "answer": "Los Angeles Lakers",
-    "id": "sports-060"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "As of 2026, who holds the NBA record for most career regular-season steals?",
-    "options": [
-      "Michael Jordan",
-      "John Stockton",
-      "Chris Paul",
-      "Gary Payton"
-    ],
-    "answer": "John Stockton",
-    "id": "sports-061"
   },
   {
     "difficulty": "easy",
@@ -2858,19 +2299,6 @@
     ],
     "answer": "1 point",
     "id": "sports-062"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "What defensive violation results in 1 free throw and possession in NBA since 2001?",
-    "options": [
-      "Defensive 3 seconds",
-      "Goaltending",
-      "Illegal screen",
-      "Hand checking"
-    ],
-    "answer": "Defensive 3 seconds",
-    "id": "sports-063"
   },
   {
     "difficulty": "hard",
@@ -2914,45 +2342,6 @@
   {
     "difficulty": "easy",
     "category": "sports",
-    "question": "Which ballpark is the oldest active MLB stadium as of 2026, opened in 1912?",
-    "options": [
-      "Wrigley Field",
-      "Fenway Park",
-      "Dodger Stadium",
-      "Yankee Stadium"
-    ],
-    "answer": "Fenway Park",
-    "id": "sports-067"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
-    "question": "What is the official distance from the pitcher's rubber to home plate?",
-    "options": [
-      "60 ft 6 in",
-      "55 ft 6 in",
-      "60 ft",
-      "62 ft 6 in"
-    ],
-    "answer": "60 ft 6 in",
-    "id": "sports-068"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
-    "question": "How many double stitches are on an official MLB baseball?",
-    "options": [
-      "96",
-      "88",
-      "108",
-      "216"
-    ],
-    "answer": "108",
-    "id": "sports-069"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
     "question": "The Mendoza Line refers to what batting average threshold?",
     "options": [
       ".250",
@@ -2962,58 +2351,6 @@
     ],
     "answer": ".200",
     "id": "sports-070"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "As of the end of 2025, which active MLB franchise has never appeared in a World Series?",
-    "options": [
-      "Colorado Rockies",
-      "Tampa Bay Rays",
-      "Seattle Mariners",
-      "Milwaukee Brewers"
-    ],
-    "answer": "Seattle Mariners",
-    "id": "sports-071"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "As of 2026, who holds the MLB career record for stolen bases with 1,406?",
-    "options": [
-      "Lou Brock",
-      "Rickey Henderson",
-      "Billy Hamilton",
-      "Ty Cobb"
-    ],
-    "answer": "Rickey Henderson",
-    "id": "sports-072"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "As of 2026, who holds the MLB career record for most no-hitters with 7?",
-    "options": [
-      "Sandy Koufax",
-      "Nolan Ryan",
-      "Randy Johnson",
-      "Justin Verlander"
-    ],
-    "answer": "Nolan Ryan",
-    "id": "sports-073"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "Fenway Park's right-field foul pole is known as what?",
-    "options": [
-      "Pesky's Pole",
-      "Fisk's Pole",
-      "Yaz's Pole",
-      "Williamsburg Pole"
-    ],
-    "answer": "Pesky's Pole",
-    "id": "sports-074"
   },
   {
     "difficulty": "easy",
@@ -3027,19 +2364,6 @@
     ],
     "answer": "Runs Batted In",
     "id": "sports-075"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "Which MLB team holds the record for most consecutive World Series titles with 5 from 1949 to 1953?",
-    "options": [
-      "Boston Red Sox",
-      "New York Yankees",
-      "St. Louis Cardinals",
-      "Oakland Athletics"
-    ],
-    "answer": "New York Yankees",
-    "id": "sports-077"
   },
   {
     "difficulty": "medium",
@@ -3068,71 +2392,6 @@
     "id": "sports-079"
   },
   {
-    "difficulty": "hard",
-    "category": "sports",
-    "question": "As of 2026, who is the only player to win MVP in both the American League and National League?",
-    "options": [
-      "Roger Clemens",
-      "Vida Blue",
-      "Frank Robinson",
-      "Max Scherzer"
-    ],
-    "answer": "Frank Robinson",
-    "id": "sports-080"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "As of 2026, who holds the MLB single-season home run record in the American League with 62 in 2022?",
-    "options": [
-      "Babe Ruth",
-      "Aaron Judge",
-      "Roger Maris",
-      "Mark McGwire"
-    ],
-    "answer": "Aaron Judge",
-    "id": "sports-081"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
-    "question": "What is the infield fly rule designed to prevent?",
-    "options": [
-      "Intentional double play on pop-up",
-      "Batter running too slow",
-      "Pitcher throwing too fast",
-      "Catcher interference"
-    ],
-    "answer": "Intentional double play on pop-up",
-    "id": "sports-082"
-  },
-  {
-    "difficulty": "hard",
-    "category": "sports",
-    "question": "Which pitcher threw the only Opening Day no-hitter in MLB history in 1940?",
-    "options": [
-      "Bob Feller",
-      "Nolan Ryan",
-      "Sandy Koufax",
-      "Walter Johnson"
-    ],
-    "answer": "Bob Feller",
-    "id": "sports-083"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "As of 2026, which player has the most career Gold Gloves at 18?",
-    "options": [
-      "Brooks Robinson",
-      "Greg Maddux",
-      "Ozzie Smith",
-      "Roberto Clemente"
-    ],
-    "answer": "Greg Maddux",
-    "id": "sports-084"
-  },
-  {
     "difficulty": "easy",
     "category": "sports",
     "question": "What does ERA stand for in baseball pitching?",
@@ -3144,97 +2403,6 @@
     ],
     "answer": "Earned Run Average",
     "id": "sports-085"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
-    "question": "As of 2026, which club has won the most UEFA Champions League titles with 15?",
-    "options": [
-      "Bayern Munich",
-      "Barcelona",
-      "Real Madrid",
-      "Liverpool"
-    ],
-    "answer": "Real Madrid",
-    "id": "sports-086"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "As of 2026, who is the all-time top scorer in the UEFA Champions League with 140 goals?",
-    "options": [
-      "Lionel Messi",
-      "Robert Lewandowski",
-      "Cristiano Ronaldo",
-      "Raul"
-    ],
-    "answer": "Cristiano Ronaldo",
-    "id": "sports-087"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
-    "question": "As of 2026, which player has won the most Ballon d'Or awards with 8?",
-    "options": [
-      "Cristiano Ronaldo",
-      "Michel Platini",
-      "Lionel Messi",
-      "Johan Cruyff"
-    ],
-    "answer": "Lionel Messi",
-    "id": "sports-088"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "Who is the only goalkeeper to win the Ballon d'Or in 1963?",
-    "options": [
-      "Dino Zoff",
-      "Lev Yashin",
-      "Gianluigi Buffon",
-      "Iker Casillas"
-    ],
-    "answer": "Lev Yashin",
-    "id": "sports-089"
-  },
-  {
-    "difficulty": "hard",
-    "category": "sports",
-    "question": "Under IFAB Law 11, there is no offside offence if a player receives the ball directly from which restarts?",
-    "options": [
-      "Free kick",
-      "Goal kick, throw-in, corner kick",
-      "Penalty kick",
-      "Goal kick only"
-    ],
-    "answer": "Goal kick, throw-in, corner kick",
-    "id": "sports-090"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "Which club set the Premier League record for most points in a season with 100 in 2017-18?",
-    "options": [
-      "Liverpool",
-      "Manchester City",
-      "Arsenal",
-      "Chelsea"
-    ],
-    "answer": "Manchester City",
-    "id": "sports-091"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "As of 2026, who holds the record for most goals in a single Premier League season with 36 in 2022-23?",
-    "options": [
-      "Mohamed Salah",
-      "Alan Shearer",
-      "Erling Haaland",
-      "Harry Kane"
-    ],
-    "answer": "Erling Haaland",
-    "id": "sports-092"
   },
   {
     "difficulty": "easy",
@@ -3252,45 +2420,6 @@
   {
     "difficulty": "hard",
     "category": "sports",
-    "question": "Which nation has won the most Women's World Cup titles as of 2026 with 4?",
-    "options": [
-      "Germany",
-      "United States",
-      "Norway",
-      "Japan"
-    ],
-    "answer": "United States",
-    "id": "sports-094"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "What is the distance from the penalty spot to the goal line?",
-    "options": [
-      "10 yards",
-      "12 yards",
-      "11 yards",
-      "9 yards"
-    ],
-    "answer": "12 yards",
-    "id": "sports-095"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "Which club has won the most FA Cup titles as of 2026?",
-    "options": [
-      "Manchester United",
-      "Arsenal",
-      "Liverpool",
-      "Chelsea"
-    ],
-    "answer": "Arsenal",
-    "id": "sports-097"
-  },
-  {
-    "difficulty": "hard",
-    "category": "sports",
     "question": "What does VAR stand for in soccer officiating?",
     "options": [
       "Video Assistant Referee",
@@ -3300,19 +2429,6 @@
     ],
     "answer": "Video Assistant Referee",
     "id": "sports-098"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "As of 2026, who has the most appearances in FIFA World Cup tournaments with 5 as a player?",
-    "options": [
-      "Lionel Messi",
-      "Cristiano Ronaldo",
-      "Lothar Matthaus",
-      "Messi, Ronaldo, Matthaus and others tied"
-    ],
-    "answer": "Messi, Ronaldo, Matthaus and others tied",
-    "id": "sports-099"
   },
   {
     "difficulty": "easy",
@@ -3328,58 +2444,6 @@
     "id": "sports-100"
   },
   {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "As of 2026, which African nation was first to reach a World Cup semi-final in 2022?",
-    "options": [
-      "Senegal",
-      "Morocco",
-      "Cameroon",
-      "Nigeria"
-    ],
-    "answer": "Morocco",
-    "id": "sports-101"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
-    "question": "Before switching to hard courts in 1988, what surface was the Australian Open played on?",
-    "options": [
-      "Clay",
-      "Grass",
-      "Carpet",
-      "Wood"
-    ],
-    "answer": "Grass",
-    "id": "sports-102"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "As of 2026, which Grand Slam was the last to introduce a final-set tiebreak, doing so in 2022?",
-    "options": [
-      "Wimbledon",
-      "US Open",
-      "French Open",
-      "Australian Open"
-    ],
-    "answer": "French Open",
-    "id": "sports-103"
-  },
-  {
-    "difficulty": "hard",
-    "category": "sports",
-    "question": "As of 2026, which match holds the record for longest Grand Slam singles final at 5h 53m?",
-    "options": [
-      "2012 Australian Open Djokovic vs Nadal",
-      "2019 Wimbledon Djokovic vs Federer",
-      "2008 Wimbledon Nadal vs Federer",
-      "1988 US Open Lendl vs Wilander"
-    ],
-    "answer": "2012 Australian Open Djokovic vs Nadal",
-    "id": "sports-104"
-  },
-  {
     "difficulty": "easy",
     "category": "sports",
     "question": "Which is the oldest golf major championship first played in 1860?",
@@ -3391,19 +2455,6 @@
     ],
     "answer": "The Open Championship",
     "id": "sports-105"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "According to ITF Rules, what is the official height of a tennis net at the center?",
-    "options": [
-      "3.5 feet",
-      "2.5 feet",
-      "3 feet",
-      "4 feet"
-    ],
-    "answer": "3 feet",
-    "id": "sports-106"
   },
   {
     "difficulty": "easy",
@@ -3419,45 +2470,6 @@
     "id": "sports-107"
   },
   {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "As of 2026, who holds the women's all-time record for most Grand Slam singles titles with 24, spanning both the amateur and Open Eras?",
-    "options": [
-      "Serena Williams",
-      "Margaret Court",
-      "Steffi Graf",
-      "Martina Navratilova"
-    ],
-    "answer": "Margaret Court",
-    "id": "sports-108"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "Which female golfer holds the record for most LPGA major wins with 15?",
-    "options": [
-      "Annika Sorenstam",
-      "Patty Berg",
-      "Mickey Wright",
-      "Louise Suggs"
-    ],
-    "answer": "Patty Berg",
-    "id": "sports-109"
-  },
-  {
-    "difficulty": "hard",
-    "category": "sports",
-    "question": "What is the diameter of a golf hole as defined by the R&A?",
-    "options": [
-      "4.25 inches",
-      "4.5 inches",
-      "4 inches",
-      "5 inches"
-    ],
-    "answer": "4.25 inches",
-    "id": "sports-110"
-  },
-  {
     "difficulty": "easy",
     "category": "sports",
     "question": "How many points to win a standard tennis game if not deuce?",
@@ -3469,19 +2481,6 @@
     ],
     "answer": "4",
     "id": "sports-111"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "As of 2026, which country has won the most Davis Cup titles?",
-    "options": [
-      "Australia",
-      "United States",
-      "France",
-      "Great Britain"
-    ],
-    "answer": "United States",
-    "id": "sports-112"
   },
   {
     "difficulty": "hard",
@@ -3523,19 +2522,6 @@
     "id": "sports-115"
   },
   {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "As of 2026, who has the fastest serve recorded at 163.7 mph in tennis?",
-    "options": [
-      "John Isner",
-      "Sam Groth",
-      "Nick Kyrgios",
-      "Ivo Karlovic"
-    ],
-    "answer": "Sam Groth",
-    "id": "sports-116"
-  },
-  {
     "difficulty": "easy",
     "category": "sports",
     "question": "Which club is used to start most golf holes?",
@@ -3549,71 +2535,6 @@
     "id": "sports-117"
   },
   {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "In which Games were women first allowed to compete in Olympic track and field?",
-    "options": [
-      "1900 Paris",
-      "1928 Amsterdam",
-      "1912 Stockholm",
-      "1936 Berlin"
-    ],
-    "answer": "1928 Amsterdam",
-    "id": "sports-118"
-  },
-  {
-    "difficulty": "hard",
-    "category": "sports",
-    "question": "In what year did the IAAF formally standardize the marathon at 42.195 km?",
-    "options": [
-      "1908",
-      "1921",
-      "1924",
-      "1936"
-    ],
-    "answer": "1921",
-    "id": "sports-119"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "When was tug of war last contested as an official Olympic event?",
-    "options": [
-      "1908 London",
-      "1920 Antwerp",
-      "1936 Berlin",
-      "1964 Tokyo"
-    ],
-    "answer": "1920 Antwerp",
-    "id": "sports-120"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "Who holds the men's 400m world record of 43.03 seconds as of 2026?",
-    "options": [
-      "Michael Johnson",
-      "Wayde van Niekerk",
-      "Kirani James",
-      "Michael Norman"
-    ],
-    "answer": "Wayde van Niekerk",
-    "id": "sports-121"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "Who holds the women's 100m world record of 10.49 seconds as of 2026?",
-    "options": [
-      "Elaine Thompson-Herah",
-      "Florence Griffith-Joyner",
-      "Shelly-Ann Fraser-Pryce",
-      "Sha'Carri Richardson"
-    ],
-    "answer": "Florence Griffith-Joyner",
-    "id": "sports-122"
-  },
-  {
     "difficulty": "easy",
     "category": "sports",
     "question": "What is the length of an Olympic long-course swimming pool?",
@@ -3625,32 +2546,6 @@
     ],
     "answer": "50 meters",
     "id": "sports-123"
-  },
-  {
-    "difficulty": "hard",
-    "category": "sports",
-    "question": "Swimming goggles were first permitted at the Olympics in which year?",
-    "options": [
-      "1968",
-      "1976",
-      "1984",
-      "1956"
-    ],
-    "answer": "1976",
-    "id": "sports-124"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "Under World Athletics rules since 2010, what happens on a single false start in sprints?",
-    "options": [
-      "Warning for all",
-      "Disqualification",
-      "Second chance",
-      "Time penalty"
-    ],
-    "answer": "Disqualification",
-    "id": "sports-125"
   },
   {
     "difficulty": "easy",
@@ -3707,19 +2602,6 @@
   {
     "difficulty": "medium",
     "category": "sports",
-    "question": "As of 2026, which nation has won the most Summer Olympic gold medals overall?",
-    "options": [
-      "Soviet Union",
-      "United States",
-      "China",
-      "Great Britain"
-    ],
-    "answer": "United States",
-    "id": "sports-130"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
     "question": "In high jump, what is the Fosbury Flop?",
     "options": [
       "Jumping feet first",
@@ -3729,45 +2611,6 @@
     ],
     "answer": "Jumping back-first over bar",
     "id": "sports-131"
-  },
-  {
-    "difficulty": "hard",
-    "category": "sports",
-    "question": "What is the weight of a men's shot put in Olympics?",
-    "options": [
-      "6 kg",
-      "7.26 kg",
-      "8 kg",
-      "5 kg"
-    ],
-    "answer": "7.26 kg",
-    "id": "sports-132"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
-    "question": "How many attempts does each athlete get in long jump final if top 8?",
-    "options": [
-      "4",
-      "6",
-      "8",
-      "3"
-    ],
-    "answer": "6",
-    "id": "sports-133"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "Which country has won the most Olympic men's marathon golds as of 2026?",
-    "options": [
-      "Kenya",
-      "Ethiopia",
-      "United States",
-      "Finland"
-    ],
-    "answer": "Ethiopia",
-    "id": "sports-134"
   },
   {
     "difficulty": "easy",
@@ -3781,19 +2624,6 @@
     ],
     "answer": "1896",
     "id": "sports-135"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
-    "question": "Which NHL team holds the record for most Stanley Cup championships as of 2026?",
-    "options": [
-      "Toronto Maple Leafs",
-      "Montreal Canadiens",
-      "Detroit Red Wings",
-      "Boston Bruins"
-    ],
-    "answer": "Montreal Canadiens",
-    "id": "sports-136"
   },
   {
     "difficulty": "easy",
@@ -3822,32 +2652,6 @@
     "id": "sports-138"
   },
   {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "Who holds the NHL record for most goals in a single season with 92 in 1981-82?",
-    "options": [
-      "Brett Hull",
-      "Mario Lemieux",
-      "Wayne Gretzky",
-      "Alex Ovechkin"
-    ],
-    "answer": "Wayne Gretzky",
-    "id": "sports-139"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "Which goaltender holds the NHL record for most career regular-season wins as of 2026 with 691?",
-    "options": [
-      "Patrick Roy",
-      "Marc-Andre Fleury",
-      "Martin Brodeur",
-      "Dominik Hasek"
-    ],
-    "answer": "Martin Brodeur",
-    "id": "sports-140"
-  },
-  {
     "difficulty": "hard",
     "category": "sports",
     "question": "What term describes a player scoring a goal, an assist, and a fight in same NHL game?",
@@ -3859,19 +2663,6 @@
     ],
     "answer": "Gordie Howe hat trick",
     "id": "sports-141"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "Which trophy is awarded to NHL player who leads league in points?",
-    "options": [
-      "Hart Memorial Trophy",
-      "Art Ross Trophy",
-      "Maurice Richard Trophy",
-      "Conn Smythe Trophy"
-    ],
-    "answer": "Art Ross Trophy",
-    "id": "sports-142"
   },
   {
     "difficulty": "easy",
@@ -3887,32 +2678,6 @@
     "id": "sports-143"
   },
   {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "As of 2026, which Formula 1 driver holds record for most World Drivers Championships with 7 tied?",
-    "options": [
-      "Ayrton Senna",
-      "Lewis Hamilton and Michael Schumacher",
-      "Max Verstappen",
-      "Sebastian Vettel"
-    ],
-    "answer": "Lewis Hamilton and Michael Schumacher",
-    "id": "sports-144"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "Which F1 team has won the most Constructors Championships as of 2026?",
-    "options": [
-      "McLaren",
-      "Mercedes",
-      "Ferrari",
-      "Williams"
-    ],
-    "answer": "Ferrari",
-    "id": "sports-145"
-  },
-  {
     "difficulty": "hard",
     "category": "sports",
     "question": "What does DRS stand for in Formula 1?",
@@ -3924,19 +2689,6 @@
     ],
     "answer": "Drag Reduction System",
     "id": "sports-146"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
-    "question": "As of 2026, how many points does the race winner get under F1's points system?",
-    "options": [
-      "20",
-      "25",
-      "10",
-      "15"
-    ],
-    "answer": "25",
-    "id": "sports-147"
   },
   {
     "difficulty": "medium",
@@ -3965,19 +2717,6 @@
     "id": "sports-149"
   },
   {
-    "difficulty": "hard",
-    "category": "sports",
-    "question": "Which NHL team was first to win back-to-back Stanley Cups in salary cap era as of 2020?",
-    "options": [
-      "Chicago Blackhawks",
-      "Los Angeles Kings",
-      "Pittsburgh Penguins",
-      "Tampa Bay Lightning"
-    ],
-    "answer": "Pittsburgh Penguins",
-    "id": "sports-150"
-  },
-  {
     "difficulty": "easy",
     "category": "sports",
     "question": "In hockey, what is a power play?",
@@ -3989,45 +2728,6 @@
     ],
     "answer": "Man advantage",
     "id": "sports-151"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "Who holds F1 record for most wins in a single season with 19 in 2023 as of 2026?",
-    "options": [
-      "Lewis Hamilton",
-      "Michael Schumacher",
-      "Max Verstappen",
-      "Sebastian Vettel"
-    ],
-    "answer": "Max Verstappen",
-    "id": "sports-152"
-  },
-  {
-    "difficulty": "hard",
-    "category": "sports",
-    "question": "What was the minimum weight of an F1 car without fuel under the 2023-2024 regulations?",
-    "options": [
-      "798 kg",
-      "750 kg",
-      "800 kg",
-      "700 kg"
-    ],
-    "answer": "798 kg",
-    "id": "sports-153"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "As of 2026, which driver has the most F1 Grand Prix starts?",
-    "options": [
-      "Fernando Alonso",
-      "Lewis Hamilton",
-      "Kimi Raikkonen",
-      "Rubens Barrichello"
-    ],
-    "answer": "Fernando Alonso",
-    "id": "sports-154"
   },
   {
     "difficulty": "easy",
@@ -4043,58 +2743,6 @@
     "id": "sports-155"
   },
   {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "As of 2026, who holds the record for highest individual score in Test cricket innings with 400 not out?",
-    "options": [
-      "Matthew Hayden",
-      "Brian Lara",
-      "Virender Sehwag",
-      "Don Bradman"
-    ],
-    "answer": "Brian Lara",
-    "id": "sports-156"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "As of 2026, who holds the record for most wickets in Test cricket with 800?",
-    "options": [
-      "Shane Warne",
-      "Muttiah Muralitharan",
-      "Anil Kumble",
-      "James Anderson"
-    ],
-    "answer": "Muttiah Muralitharan",
-    "id": "sports-157"
-  },
-  {
-    "difficulty": "hard",
-    "category": "sports",
-    "question": "In a five-day Test match, what first-innings lead is required to enforce the follow-on?",
-    "options": [
-      "150 runs",
-      "100 runs",
-      "200 runs",
-      "250 runs"
-    ],
-    "answer": "200 runs",
-    "id": "sports-158"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "In cricket laws, what does a Mankad dismissal involve?",
-    "options": [
-      "Batsman timed out",
-      "Non-striker run out for leaving crease early",
-      "Ball hitting helmet",
-      "Two no-balls"
-    ],
-    "answer": "Non-striker run out for leaving crease early",
-    "id": "sports-159"
-  },
-  {
     "difficulty": "easy",
     "category": "sports",
     "question": "In cricket, what is a hat-trick?",
@@ -4106,32 +2754,6 @@
     ],
     "answer": "Three wickets in three balls",
     "id": "sports-160"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
-    "question": "In boxing, which weight class is 135 pounds limit?",
-    "options": [
-      "Featherweight",
-      "Lightweight",
-      "Welterweight",
-      "Middleweight"
-    ],
-    "answer": "Lightweight",
-    "id": "sports-162"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "As of 2026, which boxer is only man to hold undisputed championship in two weight classes in four-belt era?",
-    "options": [
-      "Floyd Mayweather",
-      "Terence Crawford",
-      "Oleksandr Usyk",
-      "Canelo Alvarez"
-    ],
-    "answer": "Terence Crawford",
-    "id": "sports-163"
   },
   {
     "difficulty": "medium",
@@ -4175,45 +2797,6 @@
   {
     "difficulty": "easy",
     "category": "sports",
-    "question": "In rugby league, how many tackles before turnover?",
-    "options": [
-      "5",
-      "6",
-      "4",
-      "Unlimited"
-    ],
-    "answer": "6",
-    "id": "sports-167"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "As of 2026, who holds record for most UFC title defenses with 10 in middleweight?",
-    "options": [
-      "Georges St-Pierre",
-      "Anderson Silva",
-      "Jon Jones",
-      "Demetrious Johnson"
-    ],
-    "answer": "Anderson Silva",
-    "id": "sports-168"
-  },
-  {
-    "difficulty": "hard",
-    "category": "sports",
-    "question": "What is the weight of a cricket ball between?",
-    "options": [
-      "5.5 to 5.75 ounces",
-      "4.5 to 5 ounces",
-      "6 to 6.5 ounces",
-      "5 to 5.25 ounces"
-    ],
-    "answer": "5.5 to 5.75 ounces",
-    "id": "sports-169"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
     "question": "In boxing, what does TKO mean?",
     "options": [
       "Technical Knockout",
@@ -4227,110 +2810,6 @@
   {
     "difficulty": "easy",
     "category": "sports",
-    "question": "What is the official distance from the front of a steel-tip dartboard to the oche?",
-    "options": [
-      "7 ft 6 in",
-      "7 ft 9.25 in",
-      "8 ft",
-      "8 ft 6 in"
-    ],
-    "answer": "7 ft 9.25 in",
-    "id": "sports-171"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "What is the highest possible checkout in a standard 501 darts leg?",
-    "options": [
-      "180",
-      "170",
-      "167",
-      "164"
-    ],
-    "answer": "170",
-    "id": "sports-172"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "What is the minimum number of darts to complete a perfect leg of 501?",
-    "options": [
-      "6",
-      "12",
-      "9",
-      "15"
-    ],
-    "answer": "9",
-    "id": "sports-173"
-  },
-  {
-    "difficulty": "hard",
-    "category": "sports",
-    "question": "As of 2026, who holds the record for most darts World Championship titles with 16?",
-    "options": [
-      "Michael van Gerwen",
-      "Phil Taylor",
-      "Eric Bristow",
-      "Gary Anderson"
-    ],
-    "answer": "Phil Taylor",
-    "id": "sports-174"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
-    "question": "What is the value of a maximum break in snooker under standard rules?",
-    "options": [
-      "155",
-      "147",
-      "150",
-      "167"
-    ],
-    "answer": "147",
-    "id": "sports-175"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "How many total balls are on a snooker table at start including cue ball?",
-    "options": [
-      "21",
-      "16",
-      "22",
-      "15"
-    ],
-    "answer": "22",
-    "id": "sports-176"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "Which color ball has the lowest point value in snooker?",
-    "options": [
-      "Green",
-      "Yellow",
-      "Blue",
-      "Brown"
-    ],
-    "answer": "Yellow",
-    "id": "sports-177"
-  },
-  {
-    "difficulty": "hard",
-    "category": "sports",
-    "question": "What is the official diameter of a professional sumo dohyo?",
-    "options": [
-      "4.55 meters",
-      "5 meters",
-      "4 meters",
-      "6 meters"
-    ],
-    "answer": "4.55 meters",
-    "id": "sports-178"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
     "question": "How many players per team on field in men's lacrosse at once?",
     "options": [
       "8",
@@ -4340,19 +2819,6 @@
     ],
     "answer": "10",
     "id": "sports-179"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "How long is a water polo quarter in Olympic play as of 2026?",
-    "options": [
-      "7 minutes",
-      "8 minutes",
-      "10 minutes",
-      "12 minutes"
-    ],
-    "answer": "8 minutes",
-    "id": "sports-180"
   },
   {
     "difficulty": "easy",
@@ -4379,19 +2845,6 @@
     ],
     "answer": "3",
     "id": "sports-182"
-  },
-  {
-    "difficulty": "hard",
-    "category": "sports",
-    "question": "Which snooker player made the first-ever 147 maximum break at the Crucible, during the 1983 World Championship?",
-    "options": [
-      "Ronnie O'Sullivan",
-      "Cliff Thorburn",
-      "Stephen Hendry",
-      "Mark Williams"
-    ],
-    "answer": "Cliff Thorburn",
-    "id": "sports-183"
   },
   {
     "difficulty": "easy",
@@ -4433,32 +2886,6 @@
     "id": "sports-186"
   },
   {
-    "difficulty": "hard",
-    "category": "sports",
-    "question": "In darts, what is a bed?",
-    "options": [
-      "A segment of the board like double or triple",
-      "The stand for board",
-      "The throw line",
-      "The scoring wire"
-    ],
-    "answer": "A segment of the board like double or triple",
-    "id": "sports-188"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "How many ends are in Olympic team curling as of 2026?",
-    "options": [
-      "8 ends",
-      "10 ends",
-      "12 ends",
-      "6 ends"
-    ],
-    "answer": "10 ends",
-    "id": "sports-189"
-  },
-  {
     "difficulty": "easy",
     "category": "sports",
     "question": "What color is the center of an archery target worth 10 points?",
@@ -4474,84 +2901,6 @@
   {
     "difficulty": "easy",
     "category": "sports",
-    "question": "As of 2026, who is the WNBA all-time career scoring leader?",
-    "options": [
-      "Sue Bird",
-      "Diana Taurasi",
-      "Breanna Stewart",
-      "Lisa Leslie"
-    ],
-    "answer": "Diana Taurasi",
-    "id": "sports-191"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "As of 2026, which three franchises share record for most WNBA championships with 4 each?",
-    "options": [
-      "Lynx, Comets, Storm",
-      "Liberty, Sparks, Mercury",
-      "Comets, Liberty, Storm",
-      "Lynx, Liberty, Aces"
-    ],
-    "answer": "Lynx, Comets, Storm",
-    "id": "sports-192"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
-    "question": "Who was selected first overall in 2024 WNBA Draft by Indiana Fever?",
-    "options": [
-      "Angel Reese",
-      "Paige Bueckers",
-      "Caitlin Clark",
-      "Aliyah Boston"
-    ],
-    "answer": "Caitlin Clark",
-    "id": "sports-193"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
-    "question": "Which program has won most NCAA Division I men's basketball championships as of 2026?",
-    "options": [
-      "Kentucky",
-      "UCLA Bruins",
-      "North Carolina",
-      "Duke"
-    ],
-    "answer": "UCLA Bruins",
-    "id": "sports-194"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "What is the longest winning streak in NCAA Division I women's basketball history?",
-    "options": [
-      "90 games",
-      "111 games",
-      "101 games",
-      "78 games"
-    ],
-    "answer": "111 games",
-    "id": "sports-195"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "As of 2026, who holds record for most FIS Alpine World Cup race wins overall?",
-    "options": [
-      "Ingemar Stenmark",
-      "Mikaela Shiffrin",
-      "Lindsey Vonn",
-      "Marcel Hirscher"
-    ],
-    "answer": "Mikaela Shiffrin",
-    "id": "sports-196"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
     "question": "How many stones does each team deliver in a single end of traditional curling?",
     "options": [
       "5 stones",
@@ -4561,19 +2910,6 @@
     ],
     "answer": "8 stones",
     "id": "sports-197"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "In figure skating, what is the highest possible component score per program component under current ISU system?",
-    "options": [
-      "10",
-      "6",
-      "5",
-      "12"
-    ],
-    "answer": "10",
-    "id": "sports-198"
   },
   {
     "difficulty": "medium",
@@ -4602,19 +2938,6 @@
     "id": "sports-200"
   },
   {
-    "difficulty": "hard",
-    "category": "sports",
-    "question": "In ski jumping, which three phases of a jump do judges evaluate to award style points?",
-    "options": [
-      "Distance only",
-      "Flight, landing, and outrun",
-      "Speed and weight",
-      "Height and wind"
-    ],
-    "answer": "Flight, landing, and outrun",
-    "id": "sports-201"
-  },
-  {
     "difficulty": "easy",
     "category": "sports",
     "question": "How many periods in Olympic ice hockey final including overtime if tied?",
@@ -4626,32 +2949,6 @@
     ],
     "answer": "3 plus OT if needed",
     "id": "sports-202"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "Which nation has won the most Winter Olympic gold medals as of 2026 overall?",
-    "options": [
-      "Germany",
-      "Norway",
-      "United States",
-      "Canada"
-    ],
-    "answer": "Norway",
-    "id": "sports-203"
-  },
-  {
-    "difficulty": "hard",
-    "category": "sports",
-    "question": "What is the official height of a basketball hoop for wheelchair basketball as of 2026?",
-    "options": [
-      "8 feet",
-      "10 feet",
-      "9 feet",
-      "11 feet"
-    ],
-    "answer": "10 feet",
-    "id": "sports-204"
   },
   {
     "difficulty": "medium",
@@ -4680,32 +2977,6 @@
     "id": "sports-207"
   },
   {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "As of 2026, who holds the NFL record for most receiving touchdowns in a career?",
-    "options": [
-      "Randy Moss",
-      "Jerry Rice",
-      "Terrell Owens",
-      "Cris Carter"
-    ],
-    "answer": "Jerry Rice",
-    "id": "sports-208"
-  },
-  {
-    "id": "sports-209",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "As of 2024, which pitcher holds the MLB record for most strikeouts in a single game?",
-    "options": [
-      "Tom Cheney",
-      "Roger Clemens",
-      "Max Scherzer",
-      "Kerry Wood"
-    ],
-    "answer": "Tom Cheney"
-  },
-  {
     "id": "sports-210",
     "category": "sports",
     "difficulty": "medium",
@@ -4732,45 +3003,6 @@
     "answer": "Jackie Robinson"
   },
   {
-    "id": "sports-212",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "As of 2024, which MLB franchise holds the longest active World Series championship drought, having last won in 1948?",
-    "options": [
-      "Texas Rangers",
-      "Cleveland Guardians",
-      "Milwaukee Brewers",
-      "San Diego Padres"
-    ],
-    "answer": "Cleveland Guardians"
-  },
-  {
-    "id": "sports-213",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "Who hit the famous \"Shot Heard 'Round the World\" to win the 1951 National League pennant for the New York Giants?",
-    "options": [
-      "Willie Mays",
-      "Duke Snider",
-      "Bobby Thomson",
-      "Ralph Branca"
-    ],
-    "answer": "Bobby Thomson"
-  },
-  {
-    "id": "sports-214",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "Who is the only player in MLB history to hit a walk-off inside-the-park grand slam?",
-    "options": [
-      "Roberto Clemente",
-      "Babe Ruth",
-      "Hank Aaron",
-      "Ty Cobb"
-    ],
-    "answer": "Roberto Clemente"
-  },
-  {
     "id": "sports-215",
     "category": "sports",
     "difficulty": "easy",
@@ -4782,19 +3014,6 @@
       "Dodger Stadium"
     ],
     "answer": "Fenway Park"
-  },
-  {
-    "id": "sports-216",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "Who was the first player to win the MLB MVP award primarily as a designated hitter?",
-    "options": [
-      "Paul Molitor",
-      "Don Baylor",
-      "Edgar Martinez",
-      "Chili Davis"
-    ],
-    "answer": "Don Baylor"
   },
   {
     "id": "sports-217",
@@ -4810,84 +3029,6 @@
     "answer": "90 feet"
   },
   {
-    "id": "sports-218",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "Who holds the MLB single-season record for most stolen bases with 130 in 1982?",
-    "options": [
-      "Lou Brock",
-      "Tim Raines",
-      "Rickey Henderson",
-      "Vince Coleman"
-    ],
-    "answer": "Rickey Henderson"
-  },
-  {
-    "id": "sports-219",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "Who was the last MLB pitcher to win 30 games in a single season, achieving the feat in 1968?",
-    "options": [
-      "Bob Gibson",
-      "Denny McLain",
-      "Juan Marichal",
-      "Sandy Koufax"
-    ],
-    "answer": "Denny McLain"
-  },
-  {
-    "id": "sports-220",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "In baseball slang, what term describes a batter striking out four times in a single game?",
-    "options": [
-      "Golden Sombrero",
-      "Bronze Boot",
-      "Silver Platter",
-      "Platinum Helmet"
-    ],
-    "answer": "Golden Sombrero"
-  },
-  {
-    "id": "sports-221",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "Which MLB manager holds the all-time record for most career ejections?",
-    "options": [
-      "Tony La Russa",
-      "Bobby Cox",
-      "Earl Weaver",
-      "Lou Piniella"
-    ],
-    "answer": "Bobby Cox"
-  },
-  {
-    "id": "sports-222",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "Who is the only pitcher in MLB history to throw a no-hitter in a World Series game?",
-    "options": [
-      "Don Larsen",
-      "Whitey Ford",
-      "Bob Gibson",
-      "Sandy Koufax"
-    ],
-    "answer": "Don Larsen"
-  },
-  {
-    "id": "sports-223",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "Which franchise is recognized as the oldest continuously operating professional sports franchise in the United States?",
-    "options": [
-      "Chicago Cubs",
-      "Atlanta Braves",
-      "Cincinnati Reds",
-      "St. Louis Cardinals"
-    ],
-    "answer": "Atlanta Braves"
-  },
-  {
     "id": "sports-224",
     "category": "sports",
     "difficulty": "easy",
@@ -4899,370 +3040,6 @@
       "Oracle Park"
     ],
     "answer": "Wrigley Field"
-  },
-  {
-    "id": "sports-225",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "Who scored the very first points in NBA history on November 1, 1946?",
-    "options": [
-      "Joe Fulks",
-      "Bob Davies",
-      "Ossie Schectman",
-      "George Mikan"
-    ],
-    "answer": "Ossie Schectman"
-  },
-  {
-    "id": "sports-226",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "Who is credited with inventing the 24-second shot clock used in the NBA?",
-    "options": [
-      "Danny Biasone",
-      "Ned Irish",
-      "Maurice Podoloff",
-      "Eddie Gottlieb"
-    ],
-    "answer": "Danny Biasone"
-  },
-  {
-    "id": "sports-227",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "As of 2024, which NBA player holds the all-time record for most career technical fouls?",
-    "options": [
-      "Charles Barkley",
-      "Draymond Green",
-      "Rasheed Wallace",
-      "Dennis Rodman"
-    ],
-    "answer": "Rasheed Wallace"
-  },
-  {
-    "id": "sports-229",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "Who is the only player in NBA history to win Finals MVP with three different franchises?",
-    "options": [
-      "Robert Horry",
-      "Danny Green",
-      "LeBron James",
-      "Shaquille O'Neal"
-    ],
-    "answer": "LeBron James"
-  },
-  {
-    "id": "sports-230",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "As of 2024, what is the exact distance from the baseline to the corner three-point line in the NBA?",
-    "options": [
-      "22 feet",
-      "23 feet 9 inches",
-      "20 feet 6 inches",
-      "21 feet 3 inches"
-    ],
-    "answer": "22 feet"
-  },
-  {
-    "id": "sports-233",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "Who was the first international player to be selected with the first overall pick in an NBA Draft?",
-    "options": [
-      "Yao Ming",
-      "Dirk Nowitzki",
-      "Andrea Bargnani",
-      "Tim Duncan"
-    ],
-    "answer": "Yao Ming"
-  },
-  {
-    "id": "sports-234",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "Who was the first European-born and trained player to win the NBA Most Valuable Player award?",
-    "options": [
-      "Tony Parker",
-      "Pau Gasol",
-      "Dirk Nowitzki",
-      "Manu Ginobili"
-    ],
-    "answer": "Dirk Nowitzki"
-  },
-  {
-    "id": "sports-235",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "What is the standard width of a professional NBA basketball court?",
-    "options": [
-      "50 feet",
-      "45 feet",
-      "55 feet",
-      "60 feet"
-    ],
-    "answer": "50 feet"
-  },
-  {
-    "id": "sports-236",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "Who made the famous \"junior, junior skyhook\" game-winning shot in the 1987 NBA Finals?",
-    "options": [
-      "Magic Johnson",
-      "Kareem Abdul-Jabbar",
-      "James Worthy",
-      "Byron Scott"
-    ],
-    "answer": "Magic Johnson"
-  },
-  {
-    "id": "sports-237",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "In NCAA football, who is the only player to win the Heisman Trophy twice?",
-    "options": [
-      "Herschel Walker",
-      "Bo Jackson",
-      "Archie Griffin",
-      "Tim Tebow"
-    ],
-    "answer": "Archie Griffin"
-  },
-  {
-    "id": "sports-238",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "As of 2026, which NFL team has lost the most Super Bowls in history?",
-    "options": [
-      "New England Patriots",
-      "Denver Broncos",
-      "Buffalo Bills",
-      "Minnesota Vikings"
-    ],
-    "answer": "New England Patriots"
-  },
-  {
-    "id": "sports-239",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "Who scored the very first points in Super Bowl I by catching a 37-yard touchdown pass?",
-    "options": [
-      "Bart Starr",
-      "Elijah Pitts",
-      "Max McGee",
-      "Paul Hornung"
-    ],
-    "answer": "Max McGee"
-  },
-  {
-    "id": "sports-240",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "As of 2024, what is the maximum number of players allowed on an NFL active roster during the regular season?",
-    "options": [
-      "45",
-      "48",
-      "53",
-      "56"
-    ],
-    "answer": "53"
-  },
-  {
-    "id": "sports-241",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "Who was the first NFL running back to rush for 2,000 yards in a single season?",
-    "options": [
-      "Eric Dickerson",
-      "O.J. Simpson",
-      "Barry Sanders",
-      "Terrell Davis"
-    ],
-    "answer": "O.J. Simpson"
-  },
-  {
-    "id": "sports-242",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "Who is the only player from a losing team to be named Super Bowl MVP?",
-    "options": [
-      "Chuck Howley",
-      "Fred Biletnikoff",
-      "Larry Csonka",
-      "Roger Staubach"
-    ],
-    "answer": "Chuck Howley"
-  },
-  {
-    "id": "sports-243",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "Which NFL franchise was originally established as the New York Titans in 1960?",
-    "options": [
-      "Buffalo Bills",
-      "New York Jets",
-      "Dallas Texans",
-      "Tennessee Titans"
-    ],
-    "answer": "New York Jets"
-  },
-  {
-    "id": "sports-244",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "Which college football team plays its home games at a stadium nicknamed \"The Horseshoe\"?",
-    "options": [
-      "Michigan Wolverines",
-      "Penn State Nittany Lions",
-      "Ohio State Buckeyes",
-      "Wisconsin Badgers"
-    ],
-    "answer": "Ohio State Buckeyes"
-  },
-  {
-    "id": "sports-245",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "Who was the first African American head coach to win a Super Bowl?",
-    "options": [
-      "Lovie Smith",
-      "Tony Dungy",
-      "Mike Tomlin",
-      "Dennis Green"
-    ],
-    "answer": "Tony Dungy"
-  },
-  {
-    "id": "sports-246",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "What is the exact width of a standard NFL goal post between the two uprights?",
-    "options": [
-      "18 feet",
-      "18 feet 6 inches",
-      "19 feet",
-      "23 feet 4 inches"
-    ],
-    "answer": "18 feet 6 inches"
-  },
-  {
-    "id": "sports-247",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "As of 2024, who holds the NFL record for most career wins as a head coach?",
-    "options": [
-      "Bill Belichick",
-      "Don Shula",
-      "George Halas",
-      "Tom Landry"
-    ],
-    "answer": "Don Shula"
-  },
-  {
-    "id": "sports-248",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "Which NFL player famously wore jersey number 00 for the Oakland Raiders for his entire career?",
-    "options": [
-      "Bob Lilly",
-      "Jim Otto",
-      "Gino Marchetti",
-      "Johnny Unitas"
-    ],
-    "answer": "Jim Otto"
-  },
-  {
-    "id": "sports-249",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "Which special teams player won the Super Bowl MVP award in 1997?",
-    "options": [
-      "Devin Hester",
-      "Desmond Howard",
-      "Jacoby Ford",
-      "Mel Gray"
-    ],
-    "answer": "Desmond Howard"
-  },
-  {
-    "id": "sports-250",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "Who holds the NHL record for most goals by a defenseman in a single season, scoring 48 in 1985-86?",
-    "options": [
-      "Bobby Orr",
-      "Paul Coffey",
-      "Ray Bourque",
-      "Denis Potvin"
-    ],
-    "answer": "Paul Coffey"
-  },
-  {
-    "id": "sports-251",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "Which of the following teams was NOT part of the NHL's \"Original Six\"?",
-    "options": [
-      "New York Rangers",
-      "Philadelphia Flyers",
-      "Boston Bruins",
-      "Chicago Blackhawks"
-    ],
-    "answer": "Philadelphia Flyers"
-  },
-  {
-    "id": "sports-252",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "Who was the first goaltender in NHL history to score a goal by shooting the puck into the opposing net?",
-    "options": [
-      "Ron Hextall",
-      "Martin Brodeur",
-      "Billy Smith",
-      "Chris Osgood"
-    ],
-    "answer": "Ron Hextall"
-  },
-  {
-    "id": "sports-253",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "In hockey slang, what is the area behind the net colloquially known as, where Wayne Gretzky famously operated?",
-    "options": [
-      "The Sandbox",
-      "The Office",
-      "The Blind Spot",
-      "The Pocket"
-    ],
-    "answer": "The Office"
-  },
-  {
-    "id": "sports-254",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "What is the diameter of a standard professional hockey puck?",
-    "options": [
-      "2.5 inches",
-      "3 inches",
-      "3.5 inches",
-      "4 inches"
-    ],
-    "answer": "3 inches"
-  },
-  {
-    "id": "sports-255",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "As of 2024, which NHL team holds the longest active Stanley Cup championship drought, having last won in 1967?",
-    "options": [
-      "Montreal Canadiens",
-      "New York Rangers",
-      "Toronto Maple Leafs",
-      "Detroit Red Wings"
-    ],
-    "answer": "Toronto Maple Leafs"
   },
   {
     "id": "sports-256",
@@ -5278,71 +3055,6 @@
     "answer": "A goal, an assist, and a fight"
   },
   {
-    "id": "sports-257",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "Which Russian NHL player was famously nicknamed \"The Russian Rocket\"?",
-    "options": [
-      "Sergei Fedorov",
-      "Alexander Ovechkin",
-      "Pavel Bure",
-      "Ilya Kovalchuk"
-    ],
-    "answer": "Pavel Bure"
-  },
-  {
-    "id": "sports-258",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "What is the standard weight of a professional hockey puck?",
-    "options": [
-      "5 ounces",
-      "6 ounces",
-      "7 ounces",
-      "8 ounces"
-    ],
-    "answer": "6 ounces"
-  },
-  {
-    "id": "sports-259",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "Which WHA team originally drafted Wayne Gretzky before trading him to the Edmonton Oilers in 1978?",
-    "options": [
-      "Indianapolis Racers",
-      "Birmingham Bulls",
-      "Winnipeg Jets",
-      "Quebec Nordiques"
-    ],
-    "answer": "Indianapolis Racers"
-  },
-  {
-    "id": "sports-260",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "Who is the only player in NHL history to win the Conn Smythe Trophy while playing for the losing team in the Stanley Cup Finals?",
-    "options": [
-      "Glenn Anderson",
-      "Claude Lemieux",
-      "Reggie Leach",
-      "Ron Hextall"
-    ],
-    "answer": "Reggie Leach"
-  },
-  {
-    "id": "sports-261",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "What is the name of the trophy awarded annually to the NHL's best defenseman?",
-    "options": [
-      "Vezina Trophy",
-      "Art Ross Trophy",
-      "James Norris Memorial Trophy",
-      "Maurice Richard Trophy"
-    ],
-    "answer": "James Norris Memorial Trophy"
-  },
-  {
     "id": "sports-262",
     "category": "sports",
     "difficulty": "hard",
@@ -5356,19 +3068,6 @@
     "answer": "Mike Eruzione"
   },
   {
-    "id": "sports-263",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "As of 2024, what is the maximum number of players an NHL team can dress for a single game?",
-    "options": [
-      "18 skaters and 2 goalies",
-      "19 skaters and 2 goalies",
-      "20 skaters and 2 goalies",
-      "18 skaters and 3 goalies"
-    ],
-    "answer": "18 skaters and 2 goalies"
-  },
-  {
     "id": "sports-264",
     "category": "sports",
     "difficulty": "medium",
@@ -5380,58 +3079,6 @@
       "San Jose Sharks"
     ],
     "answer": "Detroit Red Wings"
-  },
-  {
-    "id": "sports-265",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "Who was the first European-born and trained player to be inducted into the Hockey Hall of Fame in 1996?",
-    "options": [
-      "Mats Sundin",
-      "Borje Salming",
-      "Peter Forsberg",
-      "Jari Kurri"
-    ],
-    "answer": "Borje Salming"
-  },
-  {
-    "id": "sports-266",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "Which Grand Slam tournament was the first to eliminate line judges on all its courts in favor of a fully electronic line-calling system?",
-    "options": [
-      "Australian Open",
-      "French Open",
-      "Wimbledon",
-      "US Open"
-    ],
-    "answer": "Australian Open"
-  },
-  {
-    "id": "sports-267",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "Who was the first unseeded player to win the men's singles title at Wimbledon in 1985?",
-    "options": [
-      "Stefan Edberg",
-      "Boris Becker",
-      "Mats Wilander",
-      "John McEnroe"
-    ],
-    "answer": "Boris Becker"
-  },
-  {
-    "id": "sports-268",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "As of 2024, which female tennis player holds the record for most consecutive weeks ranked world No. 1 at 186 weeks?",
-    "options": [
-      "Martina Navratilova",
-      "Serena Williams",
-      "Steffi Graf",
-      "Chris Evert"
-    ],
-    "answer": "Steffi Graf"
   },
   {
     "id": "sports-269",
@@ -5460,58 +3107,6 @@
     "answer": "Wimbledon"
   },
   {
-    "id": "sports-272",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "As of 2024, which male player holds the record for most ATP Masters 1000 singles titles?",
-    "options": [
-      "Rafael Nadal",
-      "Novak Djokovic",
-      "Roger Federer",
-      "Andy Murray"
-    ],
-    "answer": "Novak Djokovic"
-  },
-  {
-    "id": "sports-273",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "What is the exact height of a standard tennis net at the center of the court?",
-    "options": [
-      "2.5 feet",
-      "3 feet",
-      "3.5 feet",
-      "4 feet"
-    ],
-    "answer": "3 feet"
-  },
-  {
-    "id": "sports-274",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "Who was the first African American woman to win a Grand Slam singles title, winning the French Open in 1956?",
-    "options": [
-      "Althea Gibson",
-      "Arthur Ashe",
-      "Serena Williams",
-      "Zina Garrison"
-    ],
-    "answer": "Althea Gibson"
-  },
-  {
-    "id": "sports-275",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "As of 2024, who holds the record for most aces served in a single professional tennis match with 113?",
-    "options": [
-      "Ivo Karlovic",
-      "John Isner",
-      "Andy Roddick",
-      "Goran Ivanisevic"
-    ],
-    "answer": "John Isner"
-  },
-  {
     "id": "sports-276",
     "category": "sports",
     "difficulty": "medium",
@@ -5523,32 +3118,6 @@
       "Tram line"
     ],
     "answer": "Service line"
-  },
-  {
-    "id": "sports-277",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "In what city is the International Tennis Hall of Fame located?",
-    "options": [
-      "Wimbledon",
-      "Newport",
-      "Melbourne",
-      "Paris"
-    ],
-    "answer": "Newport"
-  },
-  {
-    "id": "sports-278",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "Which male tennis player won five consecutive French Open singles titles from 2010 to 2014?",
-    "options": [
-      "Bjorn Borg",
-      "Novak Djokovic",
-      "Rafael Nadal",
-      "Roger Federer"
-    ],
-    "answer": "Rafael Nadal"
   },
   {
     "id": "sports-279",
@@ -5564,19 +3133,6 @@
     "answer": "A let"
   },
   {
-    "id": "sports-280",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "Which apparel company has been the official outfitter of Wimbledon judges and ball kids since 2006?",
-    "options": [
-      "Nike",
-      "Adidas",
-      "Ralph Lauren",
-      "Lacoste"
-    ],
-    "answer": "Ralph Lauren"
-  },
-  {
     "id": "sports-281",
     "category": "sports",
     "difficulty": "easy",
@@ -5588,19 +3144,6 @@
       "Bogey"
     ],
     "answer": "Eagle"
-  },
-  {
-    "id": "sports-282",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "As of 2024, who is the oldest player to ever win a men's golf major championship, doing so at age 50?",
-    "options": [
-      "Jack Nicklaus",
-      "Phil Mickelson",
-      "Julius Boros",
-      "Sam Snead"
-    ],
-    "answer": "Phil Mickelson"
   },
   {
     "id": "sports-283",
@@ -5616,19 +3159,6 @@
     "answer": "14 clubs"
   },
   {
-    "id": "sports-284",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "As of 2024, who holds the record for most consecutive weeks ranked as the World No. 1 male golfer at 281 weeks?",
-    "options": [
-      "Greg Norman",
-      "Tiger Woods",
-      "Rory McIlroy",
-      "Nick Faldo"
-    ],
-    "answer": "Tiger Woods"
-  },
-  {
     "id": "sports-285",
     "category": "sports",
     "difficulty": "hard",
@@ -5640,136 +3170,6 @@
       "Birdie"
     ],
     "answer": "Albatross"
-  },
-  {
-    "id": "sports-286",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "As of 2024, which golf course has hosted the U.S. Open the most times?",
-    "options": [
-      "Pebble Beach",
-      "Oakmont Country Club",
-      "Winged Foot",
-      "Shinnecock Hills"
-    ],
-    "answer": "Oakmont Country Club"
-  },
-  {
-    "id": "sports-287",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "Who was the first player from continental Europe to win the Masters Tournament in 1980?",
-    "options": [
-      "Bernhard Langer",
-      "Seve Ballesteros",
-      "Sandy Lyle",
-      "Jose Maria Olazabal"
-    ],
-    "answer": "Seve Ballesteros"
-  },
-  {
-    "id": "sports-289",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "Which team won the inaugural Ryder Cup held in 1927?",
-    "options": [
-      "Great Britain",
-      "United States",
-      "Europe",
-      "Republic of Ireland"
-    ],
-    "answer": "United States"
-  },
-  {
-    "id": "sports-290",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "Who is the only male golfer as of 2024 to have won the modern career Grand Slam three times?",
-    "options": [
-      "Jack Nicklaus",
-      "Gary Player",
-      "Gene Sarazen",
-      "Tiger Woods"
-    ],
-    "answer": "Tiger Woods"
-  },
-  {
-    "id": "sports-291",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "As of 2024, who holds the record for most career LPGA major championship wins with 15?",
-    "options": [
-      "Annika Sörenstam",
-      "Patty Sheehan",
-      "Mickey Wright",
-      "Babe Zaharias"
-    ],
-    "answer": "Mickey Wright"
-  },
-  {
-    "id": "sports-292",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "What is the name of the trophy awarded to the winner of the PGA Championship?",
-    "options": [
-      "Claret Jug",
-      "Wanamaker Trophy",
-      "Green Jacket",
-      "U.S. Open Trophy"
-    ],
-    "answer": "Wanamaker Trophy"
-  },
-  {
-    "id": "sports-293",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "Who was the first African American to play in the Masters Tournament in 1975?",
-    "options": [
-      "Charlie Sifford",
-      "Lee Elder",
-      "Calvin Peete",
-      "Jim Dent"
-    ],
-    "answer": "Lee Elder"
-  },
-  {
-    "id": "sports-294",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "In a four-ball match play format in golf, how many players make up a single team?",
-    "options": [
-      "Four",
-      "Three",
-      "Two",
-      "One"
-    ],
-    "answer": "Two"
-  },
-  {
-    "id": "sports-295",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "Who won the 1979 Masters Tournament in a sudden-death playoff on their very first appearance at the event?",
-    "options": [
-      "Larry Mize",
-      "Ian Woosnam",
-      "Fuzzy Zoeller",
-      "Craig Stadler"
-    ],
-    "answer": "Fuzzy Zoeller"
-  },
-  {
-    "id": "sports-296",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "Under the Rules of Golf updated in 2019, what is the maximum time allowed to search for a lost ball before it is deemed lost?",
-    "options": [
-      "2 minutes",
-      "3 minutes",
-      "4 minutes",
-      "5 minutes"
-    ],
-    "answer": "3 minutes"
   },
   {
     "id": "sports-297",
@@ -5785,32 +3185,6 @@
     "answer": "Tiger Woods"
   },
   {
-    "id": "sports-298",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "Who scored the first-ever goal in FIFA World Cup history in 1930?",
-    "options": [
-      "Guillermo Stabile",
-      "Lucien Laurent",
-      "Bert Patenaude",
-      "Pedro Cea"
-    ],
-    "answer": "Lucien Laurent"
-  },
-  {
-    "id": "sports-299",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "What is the standard circumference of a Size 5 soccer ball used in professional matches?",
-    "options": [
-      "65-67 cm",
-      "68-70 cm",
-      "70-72 cm",
-      "64-66 cm"
-    ],
-    "answer": "68-70 cm"
-  },
-  {
     "id": "sports-300",
     "category": "sports",
     "difficulty": "medium",
@@ -5822,32 +3196,6 @@
       "20 minutes"
     ],
     "answer": "15 minutes"
-  },
-  {
-    "id": "sports-301",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "As of 2024, who holds the FIFA-recognized record for most goals scored in a single calendar year with 91?",
-    "options": [
-      "Lionel Messi",
-      "Cristiano Ronaldo",
-      "Robert Lewandowski",
-      "Gerd Müller"
-    ],
-    "answer": "Lionel Messi"
-  },
-  {
-    "id": "sports-302",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "Which English Premier League club is nicknamed \"The Toffees\"?",
-    "options": [
-      "Liverpool",
-      "Everton",
-      "Aston Villa",
-      "Tottenham Hotspur"
-    ],
-    "answer": "Everton"
   },
   {
     "id": "sports-303",
@@ -5863,19 +3211,6 @@
     "answer": "The 18-yard box"
   },
   {
-    "id": "sports-304",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "Who was the English goalkeeper who famously conceded the \"Hand of God\" goal by Diego Maradona in 1986?",
-    "options": [
-      "Gary Bailey",
-      "Chris Woods",
-      "Ray Clemence",
-      "Peter Shilton"
-    ],
-    "answer": "Peter Shilton"
-  },
-  {
     "id": "sports-305",
     "category": "sports",
     "difficulty": "easy",
@@ -5887,71 +3222,6 @@
       "Stamford Bridge"
     ],
     "answer": "Old Trafford"
-  },
-  {
-    "id": "sports-307",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "Who was the first player to win the Ballon d'Or three consecutive times, doing so from 1983 to 1985?",
-    "options": [
-      "Johan Cruyff",
-      "Michel Platini",
-      "Marco van Basten",
-      "Franz Beckenbauer"
-    ],
-    "answer": "Michel Platini"
-  },
-  {
-    "id": "sports-308",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "Which Italian football club is traditionally nicknamed \"The Old Lady\"?",
-    "options": [
-      "Inter Milan",
-      "AC Milan",
-      "Juventus",
-      "AS Roma"
-    ],
-    "answer": "Juventus"
-  },
-  {
-    "id": "sports-309",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "Who was the first and only goalkeeper as of 2024 to win the Ballon d'Or award, doing so in 1963?",
-    "options": [
-      "Dino Zoff",
-      "Gordon Banks",
-      "Lev Yashin",
-      "Sepp Maier"
-    ],
-    "answer": "Lev Yashin"
-  },
-  {
-    "id": "sports-310",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "Which country won the first-ever UEFA European Championship tournament in 1960?",
-    "options": [
-      "Yugoslavia",
-      "Italy",
-      "Czechoslovakia",
-      "Soviet Union"
-    ],
-    "answer": "Soviet Union"
-  },
-  {
-    "id": "sports-311",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "Who scored the game-winning goal for Argentina in the 1986 FIFA World Cup Final against West Germany?",
-    "options": [
-      "Diego Maradona",
-      "Jorge Valdano",
-      "Jorge Burruchaga",
-      "Oscar Ruggeri"
-    ],
-    "answer": "Jorge Burruchaga"
   },
   {
     "id": "sports-312",
@@ -5967,19 +3237,6 @@
     "answer": "UEFA"
   },
   {
-    "id": "sports-313",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "Which two national teams competed in the first-ever officially recognized international football match in 1872?",
-    "options": [
-      "Scotland and England",
-      "Scotland and Wales",
-      "England and Ireland",
-      "Wales and England"
-    ],
-    "answer": "Scotland and England"
-  },
-  {
     "id": "sports-314",
     "category": "sports",
     "difficulty": "easy",
@@ -5991,19 +3248,6 @@
       "43.195 kilometers"
     ],
     "answer": "42.195 kilometers"
-  },
-  {
-    "id": "sports-315",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "In 1954, Roger Bannister became the first person to break the 4-minute mile barrier. What was his exact time?",
-    "options": [
-      "3 minutes 58.2 seconds",
-      "3 minutes 59.4 seconds",
-      "4 minutes 0.1 seconds",
-      "3 minutes 59.9 seconds"
-    ],
-    "answer": "3 minutes 59.4 seconds"
   },
   {
     "id": "sports-316",
@@ -6045,19 +3289,6 @@
     "answer": "Fosbury Flop"
   },
   {
-    "id": "sports-319",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "Who was the first male track athlete to win both the 400m and 800m events at the same Olympic Games in 1976?",
-    "options": [
-      "Michael Johnson",
-      "Alberto Juantorena",
-      "Jeremy Wariner",
-      "Wayde van Niekerk"
-    ],
-    "answer": "Alberto Juantorena"
-  },
-  {
     "id": "sports-320",
     "category": "sports",
     "difficulty": "medium",
@@ -6069,19 +3300,6 @@
       "Shooting, swimming, fencing, running, boxing"
     ],
     "answer": "Fencing, swimming, equestrian, shooting, running"
-  },
-  {
-    "id": "sports-321",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "As of 2024, who holds the record for the most decorated Olympian of all time with 28 total medals?",
-    "options": [
-      "Larisa Latynina",
-      "Michael Phelps",
-      "Paavo Nurmi",
-      "Mark Spitz"
-    ],
-    "answer": "Michael Phelps"
   },
   {
     "id": "sports-322",
@@ -6110,32 +3328,6 @@
     "answer": "Negative split"
   },
   {
-    "id": "sports-324",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "As of 2024, which country has won the most Olympic gold medals in men's basketball?",
-    "options": [
-      "Soviet Union",
-      "Yugoslavia",
-      "United States",
-      "Argentina"
-    ],
-    "answer": "United States"
-  },
-  {
-    "id": "sports-325",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "In track and field, what is the standard height of the hurdles in the men's 110-meter hurdles race?",
-    "options": [
-      "36 inches",
-      "39 inches",
-      "42 inches",
-      "48 inches"
-    ],
-    "answer": "42 inches"
-  },
-  {
     "id": "sports-327",
     "category": "sports",
     "difficulty": "medium",
@@ -6147,149 +3339,6 @@
       "Triathlon"
     ],
     "answer": "Decathlon"
-  },
-  {
-    "id": "sports-328",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "As of 2024, which four sanctioning bodies are universally recognized in professional boxing for world championships?",
-    "options": [
-      "WBA, WBC, IBF, WBO",
-      "WBA, WBC, IBF, IBO",
-      "WBA, WBC, WBO, EBU",
-      "WBA, IBF, WBO, NABF"
-    ],
-    "answer": "WBA, WBC, IBF, WBO"
-  },
-  {
-    "id": "sports-329",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "As of 2024, who is the only boxer in history to have won world championships in eight different weight classes?",
-    "options": [
-      "Floyd Mayweather Jr.",
-      "Manny Pacquiao",
-      "Oscar De La Hoya",
-      "Thomas Hearns"
-    ],
-    "answer": "Manny Pacquiao"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
-    "question": "Who holds the women-only marathon world record as of 2026?",
-    "options": [
-      "Tigst Assefa",
-      "Brigid Kosgei",
-      "Paula Radcliffe",
-      "Ruth Chepng'etich"
-    ],
-    "answer": "Tigst Assefa",
-    "id": "sports-330"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "What is the women-only marathon world record time as of 2026?",
-    "options": [
-      "2:15:41",
-      "2:14:04",
-      "2:17:01",
-      "2:13:55"
-    ],
-    "answer": "2:15:41",
-    "id": "sports-331"
-  },
-  {
-    "difficulty": "hard",
-    "category": "sports",
-    "question": "At which event in 2026 did Tigst Assefa set the women-only marathon world record?",
-    "options": [
-      "Berlin Marathon",
-      "Chicago Marathon",
-      "London Marathon",
-      "Boston Marathon"
-    ],
-    "answer": "London Marathon",
-    "id": "sports-332"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
-    "question": "Who holds the women's marathon world record in a mixed-gender race as of 2026?",
-    "options": [
-      "Ruth Chepng'etich",
-      "Tigst Assefa",
-      "Brigid Kosgei",
-      "Paula Radcliffe"
-    ],
-    "answer": "Ruth Chepng'etich",
-    "id": "sports-333"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "What is the women's marathon world record time in a mixed-gender race as of 2026?",
-    "options": [
-      "2:09:56",
-      "2:11:53",
-      "2:14:04",
-      "2:17:01"
-    ],
-    "answer": "2:09:56",
-    "id": "sports-334"
-  },
-  {
-    "difficulty": "hard",
-    "category": "sports",
-    "question": "At which event in 2024 did Ruth Chepng'etich set the women's marathon world record in a mixed-gender race?",
-    "options": [
-      "Boston Marathon",
-      "New York Marathon",
-      "Chicago Marathon",
-      "London Marathon"
-    ],
-    "answer": "Chicago Marathon",
-    "id": "sports-335"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
-    "question": "Who holds the men's marathon world record as of 2026?",
-    "options": [
-      "Eliud Kipchoge",
-      "Kelvin Kiptum",
-      "Sabastian Sawe",
-      "Haile Gebrselassie"
-    ],
-    "answer": "Sabastian Sawe",
-    "id": "sports-336"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "What is the men's marathon world record time as of 2026?",
-    "options": [
-      "1:59:30",
-      "2:00:35",
-      "2:01:09",
-      "1:58:55"
-    ],
-    "answer": "1:59:30",
-    "id": "sports-337"
-  },
-  {
-    "difficulty": "hard",
-    "category": "sports",
-    "question": "At which event in 2026 did Sabastian Sawe set the men's marathon world record?",
-    "options": [
-      "Berlin Marathon",
-      "Chicago Marathon",
-      "London Marathon",
-      "Boston Marathon"
-    ],
-    "answer": "London Marathon",
-    "id": "sports-338"
   },
   {
     "difficulty": "medium",
@@ -6318,318 +3367,6 @@
     "id": "sports-341"
   },
   {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "How many total Winter Olympic medals has Norway won as of 2026?",
-    "options": [
-      "410",
-      "428",
-      "447",
-      "460"
-    ],
-    "answer": "447",
-    "id": "sports-342"
-  },
-  {
-    "difficulty": "hard",
-    "category": "sports",
-    "question": "How many gold medals has Norway won at the Winter Olympics as of 2026?",
-    "options": [
-      "148",
-      "158",
-      "166",
-      "172"
-    ],
-    "answer": "166",
-    "id": "sports-343"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
-    "question": "Which country has won the most Paralympic gold medals as of 2024?",
-    "options": [
-      "China",
-      "Great Britain",
-      "United States",
-      "Australia"
-    ],
-    "answer": "United States",
-    "id": "sports-344"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "How many Paralympic gold medals has the United States won as of 2024?",
-    "options": [
-      "800",
-      "844",
-      "900",
-      "780"
-    ],
-    "answer": "844",
-    "id": "sports-345"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
-    "question": "Which gymnast holds the record for the most World Championship medals?",
-    "options": [
-      "Nastia Liukin",
-      "Simone Biles",
-      "Larisa Latynina",
-      "Aliya Mustafina"
-    ],
-    "answer": "Simone Biles",
-    "id": "sports-346"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "How many World Championship medals has Simone Biles won in gymnastics?",
-    "options": [
-      "25",
-      "28",
-      "30",
-      "32"
-    ],
-    "answer": "30",
-    "id": "sports-347"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
-    "question": "Which tennis player has won the most Olympic tennis medals overall (counting gold, silver, and bronze)?",
-    "options": [
-      "Serena Williams",
-      "Venus Williams",
-      "Steffi Graf",
-      "Andy Murray"
-    ],
-    "answer": "Venus Williams",
-    "id": "sports-348"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "How many Olympic gold medals has Venus Williams won?",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "4",
-    "id": "sports-349"
-  },
-  {
-    "difficulty": "hard",
-    "category": "sports",
-    "question": "Which tennis players are the only ones to have won four Olympic gold medals?",
-    "options": [
-      "Serena and Venus Williams",
-      "Roger Federer and Rafael Nadal",
-      "Novak Djokovic and Andy Murray",
-      "Steffi Graf and Andre Agassi"
-    ],
-    "answer": "Serena and Venus Williams",
-    "id": "sports-350"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "How many consecutive games did the Los Angeles Lakers win during their longest winning streak?",
-    "options": [
-      "28",
-      "30",
-      "33",
-      "35"
-    ],
-    "answer": "33",
-    "id": "sports-352"
-  },
-  {
-    "difficulty": "hard",
-    "category": "sports",
-    "question": "In which NBA season did the Los Angeles Lakers achieve their longest winning streak?",
-    "options": [
-      "1970-71",
-      "1971-72",
-      "1984-85",
-      "1995-96"
-    ],
-    "answer": "1971-72",
-    "id": "sports-353"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
-    "question": "Which NBA team holds the record for the longest playoff winning streak?",
-    "options": [
-      "Los Angeles Lakers",
-      "Boston Celtics",
-      "Golden State Warriors",
-      "Chicago Bulls"
-    ],
-    "answer": "Golden State Warriors",
-    "id": "sports-354"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "How many consecutive playoff games did the Golden State Warriors win during their longest streak?",
-    "options": [
-      "12",
-      "13",
-      "15",
-      "16"
-    ],
-    "answer": "15",
-    "id": "sports-355"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
-    "question": "As of 2026, which two NFL teams are tied for the most Super Bowl wins?",
-    "options": [
-      "Dallas Cowboys and San Francisco 49ers",
-      "New England Patriots and Pittsburgh Steelers",
-      "Green Bay Packers and New York Giants",
-      "Kansas City Chiefs and Las Vegas Raiders"
-    ],
-    "answer": "New England Patriots and Pittsburgh Steelers",
-    "id": "sports-356"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "How many Super Bowl wins do the New England Patriots and Pittsburgh Steelers each have as of 2026?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
-    ],
-    "answer": "6",
-    "id": "sports-357"
-  },
-  {
-    "difficulty": "hard",
-    "category": "sports",
-    "question": "Which NFL teams have won 5 Super Bowls each as of 2026?",
-    "options": [
-      "Dallas Cowboys and San Francisco 49ers",
-      "Green Bay Packers and New York Giants",
-      "Denver Broncos and Washington Commanders",
-      "Miami Dolphins and Seattle Seahawks"
-    ],
-    "answer": "Dallas Cowboys and San Francisco 49ers",
-    "id": "sports-358"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
-    "question": "Who holds the record for the highest individual score in Test cricket?",
-    "options": [
-      "Sachin Tendulkar",
-      "Brian Lara",
-      "Ricky Ponting",
-      "Virat Kohli"
-    ],
-    "answer": "Brian Lara",
-    "id": "sports-359"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "What is the highest individual score in Test cricket?",
-    "options": [
-      "375",
-      "380",
-      "400 not out",
-      "399"
-    ],
-    "answer": "400 not out",
-    "id": "sports-360"
-  },
-  {
-    "difficulty": "hard",
-    "category": "sports",
-    "question": "Against which team did Brian Lara score his record 400 not out in Test cricket?",
-    "options": [
-      "Australia",
-      "England",
-      "South Africa",
-      "India"
-    ],
-    "answer": "England",
-    "id": "sports-361"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
-    "question": "Which country won the first Rugby World Cup?",
-    "options": [
-      "Australia",
-      "South Africa",
-      "New Zealand",
-      "England"
-    ],
-    "answer": "New Zealand",
-    "id": "sports-362"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "In which year was the first Rugby World Cup held?",
-    "options": [
-      "1983",
-      "1987",
-      "1991",
-      "1995"
-    ],
-    "answer": "1987",
-    "id": "sports-363"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
-    "question": "Which golfers are tied for the most PGA Tour wins of all time?",
-    "options": [
-      "Jack Nicklaus and Arnold Palmer",
-      "Tiger Woods and Phil Mickelson",
-      "Sam Snead and Tiger Woods",
-      "Ben Hogan and Gary Player"
-    ],
-    "answer": "Sam Snead and Tiger Woods",
-    "id": "sports-364"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "How many PGA Tour wins do Sam Snead and Tiger Woods each have?",
-    "options": [
-      "78",
-      "80",
-      "82",
-      "84"
-    ],
-    "answer": "82",
-    "id": "sports-365"
-  },
-  {
-    "difficulty": "hard",
-    "category": "sports",
-    "question": "As of 2026, which golfer has 30 career PGA Tour wins?",
-    "options": [
-      "Dustin Johnson",
-      "Rory McIlroy",
-      "Jordan Spieth",
-      "Justin Thomas"
-    ],
-    "answer": "Rory McIlroy",
-    "id": "sports-366"
-  },
-  {
     "difficulty": "easy",
     "category": "sports",
     "question": "Who was the youngest heavyweight boxing champion in history?",
@@ -6641,1136 +3378,5 @@
     ],
     "answer": "Mike Tyson",
     "id": "sports-367"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "At what age did Mike Tyson become the youngest heavyweight boxing champion?",
-    "options": [
-      "19 years, 11 months",
-      "20 years, 4 months",
-      "21 years, 2 months",
-      "18 years, 9 months"
-    ],
-    "answer": "20 years, 4 months",
-    "id": "sports-368"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
-    "question": "Who holds the record for the most Tour de France stage wins?",
-    "options": [
-      "Eddy Merckx",
-      "Bernard Hinault",
-      "Chris Froome",
-      "Mark Cavendish"
-    ],
-    "answer": "Mark Cavendish",
-    "id": "sports-369"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "How many Tour de France stage wins does Mark Cavendish have?",
-    "options": [
-      "30",
-      "34",
-      "35",
-      "36"
-    ],
-    "answer": "35",
-    "id": "sports-370"
-  },
-  {
-    "difficulty": "hard",
-    "category": "sports",
-    "question": "Who has the second-most Tour de France stage wins?",
-    "options": [
-      "Bernard Hinault",
-      "Eddy Merckx",
-      "Jacques Anquetil",
-      "Miguel Indurain"
-    ],
-    "answer": "Eddy Merckx",
-    "id": "sports-371"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
-    "question": "Which esports tournament had a prize pool of $2,881,791 in 2025?",
-    "options": [
-      "League of Legends World Championship",
-      "The International",
-      "Fortnite World Cup",
-      "CS:GO Major"
-    ],
-    "answer": "The International",
-    "id": "sports-372"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "What was the base prize pool for The International 2025?",
-    "options": [
-      "$1,200,000",
-      "$1,400,000",
-      "$1,600,000",
-      "$1,800,000"
-    ],
-    "answer": "$1,600,000",
-    "id": "sports-373"
-  },
-  {
-    "difficulty": "hard",
-    "category": "sports",
-    "question": "How much was raised through in-game sales for The International 2025 prize pool?",
-    "options": [
-      "$981,791",
-      "$1,181,791",
-      "$1,281,791",
-      "$1,381,791"
-    ],
-    "answer": "$1,281,791",
-    "id": "sports-374"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
-    "question": "Which club has won the most Copa Libertadores titles?",
-    "options": [
-      "Boca Juniors",
-      "River Plate",
-      "Independiente",
-      "Flamengo"
-    ],
-    "answer": "Independiente",
-    "id": "sports-375"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "How many Copa Libertadores titles has Independiente won?",
-    "options": [
-      "5",
-      "6",
-      "7",
-      "8"
-    ],
-    "answer": "7",
-    "id": "sports-376"
-  },
-  {
-    "difficulty": "hard",
-    "category": "sports",
-    "question": "Which clubs have won the second and third most Copa Libertadores titles, respectively?",
-    "options": [
-      "Boca Juniors with 6, Peñarol with 5",
-      "River Plate with 4, São Paulo with 3",
-      "Santos with 3, Flamengo with 3",
-      "Palmeiras with 3, Grêmio with 3"
-    ],
-    "answer": "Boca Juniors with 6, Peñarol with 5",
-    "id": "sports-377"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "How many career home runs does Barry Bonds have?",
-    "options": [
-      "714",
-      "735",
-      "755",
-      "762"
-    ],
-    "answer": "762",
-    "id": "sports-379"
-  },
-  {
-    "difficulty": "hard",
-    "category": "sports",
-    "question": "Who is second in MLB career home runs?",
-    "options": [
-      "Babe Ruth",
-      "Hank Aaron",
-      "Willie Mays",
-      "Alex Rodriguez"
-    ],
-    "answer": "Hank Aaron",
-    "id": "sports-380"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
-    "question": "Who holds the record for the most career pole positions in Formula 1?",
-    "options": [
-      "Ayrton Senna",
-      "Michael Schumacher",
-      "Sebastian Vettel",
-      "Lewis Hamilton"
-    ],
-    "answer": "Lewis Hamilton",
-    "id": "sports-381"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
-    "question": "Which country has won the most Thomas Cup titles?",
-    "options": [
-      "China",
-      "Malaysia",
-      "Indonesia",
-      "Japan"
-    ],
-    "answer": "Indonesia",
-    "id": "sports-382"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "How many Thomas Cup titles has Indonesia won?",
-    "options": [
-      "10",
-      "12",
-      "14",
-      "16"
-    ],
-    "answer": "14",
-    "id": "sports-383"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
-    "question": "Which country won the 2025 FIVB Men's Volleyball World Championship?",
-    "options": [
-      "Brazil",
-      "Poland",
-      "Italy",
-      "United States"
-    ],
-    "answer": "Italy",
-    "id": "sports-384"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "How many FIVB Men's Volleyball World Championship titles has Italy won as of 2025?",
-    "options": [
-      "3",
-      "4",
-      "5",
-      "6"
-    ],
-    "answer": "5",
-    "id": "sports-385"
-  },
-  {
-    "difficulty": "hard",
-    "category": "sports",
-    "question": "Which country historically won the most FIVB Men's Volleyball World Championship titles before 2025?",
-    "options": [
-      "Brazil",
-      "United States",
-      "Soviet Union",
-      "Poland"
-    ],
-    "answer": "Soviet Union",
-    "id": "sports-386"
-  },
-  {
-    "difficulty": "easy",
-    "category": "sports",
-    "question": "Which country has won the most IHF World Men's Handball Championships?",
-    "options": [
-      "Germany",
-      "Sweden",
-      "Denmark",
-      "France"
-    ],
-    "answer": "France",
-    "id": "sports-387"
-  },
-  {
-    "difficulty": "medium",
-    "category": "sports",
-    "question": "How many IHF World Men's Handball Championships has France won?",
-    "options": [
-      "4",
-      "5",
-      "6",
-      "7"
-    ],
-    "answer": "6",
-    "id": "sports-388"
-  },
-  {
-    "difficulty": "hard",
-    "category": "sports",
-    "question": "Which countries have each won 4 IHF World Men's Handball Championships?",
-    "options": [
-      "Germany, Sweden, Denmark",
-      "Sweden, Denmark, Romania",
-      "France, Spain, Germany",
-      "Russia, Croatia, Egypt"
-    ],
-    "answer": "Sweden, Denmark, Romania",
-    "id": "sports-389"
-  },
-  {
-    "id": "sports-391",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "Who holds the record for the most Wimbledon men's singles titles?",
-    "options": [
-      "Pete Sampras",
-      "Roger Federer",
-      "Novak Djokovic",
-      "Björn Borg"
-    ],
-    "answer": "Roger Federer"
-  },
-  {
-    "id": "sports-392",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "How many Wimbledon men's singles titles has Roger Federer won?",
-    "options": [
-      "6",
-      "7",
-      "8",
-      "9"
-    ],
-    "answer": "8"
-  },
-  {
-    "id": "sports-393",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "Who holds the record for the most Wimbledon women's singles titles?",
-    "options": [
-      "Martina Navratilova",
-      "Serena Williams",
-      "Steffi Graf",
-      "Billie Jean King"
-    ],
-    "answer": "Martina Navratilova"
-  },
-  {
-    "id": "sports-394",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "How many Wimbledon women's singles titles has Martina Navratilova won?",
-    "options": [
-      "7",
-      "8",
-      "9",
-      "10"
-    ],
-    "answer": "9"
-  },
-  {
-    "id": "sports-395",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "Who holds the record for the most French Open men's singles titles?",
-    "options": [
-      "Rafael Nadal",
-      "Björn Borg",
-      "Chris Evert",
-      "Justine Henin"
-    ],
-    "answer": "Rafael Nadal"
-  },
-  {
-    "id": "sports-396",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "How many French Open men's singles titles has Rafael Nadal won?",
-    "options": [
-      "10",
-      "12",
-      "14",
-      "16"
-    ],
-    "answer": "14"
-  },
-  {
-    "id": "sports-397",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "Which player won a record 5 consecutive US Open men's singles titles from 2004 to 2008?",
-    "options": [
-      "Pete Sampras",
-      "Roger Federer",
-      "Jimmy Connors",
-      "Novak Djokovic"
-    ],
-    "answer": "Roger Federer"
-  },
-  {
-    "id": "sports-398",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "How many US Open men's singles titles has Roger Federer won?",
-    "options": [
-      "4",
-      "5",
-      "6",
-      "7"
-    ],
-    "answer": "5"
-  },
-  {
-    "id": "sports-399",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "Who holds the record for the most Australian Open men's singles titles?",
-    "options": [
-      "Novak Djokovic",
-      "Roger Federer",
-      "Roy Emerson",
-      "Andre Agassi"
-    ],
-    "answer": "Novak Djokovic"
-  },
-  {
-    "id": "sports-400",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "How many Australian Open men's singles titles has Novak Djokovic won as of 2026?",
-    "options": [
-      "8",
-      "9",
-      "10",
-      "11"
-    ],
-    "answer": "10"
-  },
-  {
-    "id": "sports-401",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "Who is the NBA's all-time leading scorer as of 2026?",
-    "options": [
-      "Kareem Abdul-Jabbar",
-      "Karl Malone",
-      "Kobe Bryant",
-      "LeBron James"
-    ],
-    "answer": "LeBron James"
-  },
-  {
-    "id": "sports-402",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "How many career points does LeBron James have as of 2026?",
-    "options": [
-      "38,000",
-      "40,000",
-      "43,440",
-      "45,000"
-    ],
-    "answer": "43,440"
-  },
-  {
-    "id": "sports-403",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "Who holds the NBA record for most career assists?",
-    "options": [
-      "Magic Johnson",
-      "Isiah Thomas",
-      "John Stockton",
-      "Chris Paul"
-    ],
-    "answer": "John Stockton"
-  },
-  {
-    "id": "sports-404",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "How many career assists does John Stockton have?",
-    "options": [
-      "14,000",
-      "15,806",
-      "16,500",
-      "17,200"
-    ],
-    "answer": "15,806"
-  },
-  {
-    "id": "sports-405",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "Who holds the NBA record for most career rebounds?",
-    "options": [
-      "Bill Russell",
-      "Kareem Abdul-Jabbar",
-      "Wilt Chamberlain",
-      "Hakeem Olajuwon"
-    ],
-    "answer": "Wilt Chamberlain"
-  },
-  {
-    "id": "sports-406",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "How many career rebounds does Wilt Chamberlain have?",
-    "options": [
-      "21,000",
-      "22,924",
-      "23,924",
-      "24,500"
-    ],
-    "answer": "23,924"
-  },
-  {
-    "id": "sports-407",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "Who holds the NFL record for most career passing yards?",
-    "options": [
-      "Peyton Manning",
-      "Drew Brees",
-      "Brett Favre",
-      "Tom Brady"
-    ],
-    "answer": "Tom Brady"
-  },
-  {
-    "id": "sports-408",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "How many career passing yards does Tom Brady have?",
-    "options": [
-      "75,000",
-      "80,358",
-      "89,214",
-      "92,000"
-    ],
-    "answer": "89,214"
-  },
-  {
-    "id": "sports-409",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "Who holds the NFL record for most career rushing yards?",
-    "options": [
-      "Walter Payton",
-      "Frank Gore",
-      "Barry Sanders",
-      "Emmitt Smith"
-    ],
-    "answer": "Emmitt Smith"
-  },
-  {
-    "id": "sports-410",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "How many career rushing yards does Emmitt Smith have?",
-    "options": [
-      "16,726",
-      "17,500",
-      "18,355",
-      "19,000"
-    ],
-    "answer": "18,355"
-  },
-  {
-    "id": "sports-411",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "Who holds the record for the most Test centuries in cricket history?",
-    "options": [
-      "Ricky Ponting",
-      "Jacques Kallis",
-      "Sachin Tendulkar",
-      "Virat Kohli"
-    ],
-    "answer": "Sachin Tendulkar"
-  },
-  {
-    "id": "sports-412",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "How many Test centuries does Sachin Tendulkar have?",
-    "options": [
-      "45",
-      "49",
-      "51",
-      "55"
-    ],
-    "answer": "51"
-  },
-  {
-    "id": "sports-413",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "Which opponent did Mike Tyson defeat to become the youngest heavyweight champion?",
-    "options": [
-      "Larry Holmes",
-      "Trevor Berbick",
-      "Michael Spinks",
-      "Buster Douglas"
-    ],
-    "answer": "Trevor Berbick"
-  },
-  {
-    "id": "sports-414",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "Who holds the MLB record for most career saves?",
-    "options": [
-      "Trevor Hoffman",
-      "Lee Smith",
-      "Mariano Rivera",
-      "Craig Kimbrel"
-    ],
-    "answer": "Mariano Rivera"
-  },
-  {
-    "id": "sports-415",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "How many career saves does Mariano Rivera have?",
-    "options": [
-      "600",
-      "601",
-      "652",
-      "675"
-    ],
-    "answer": "652"
-  },
-  {
-    "id": "sports-416",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "Who holds the MLB record for most career wins by a pitcher?",
-    "options": [
-      "Walter Johnson",
-      "Nolan Ryan",
-      "Greg Maddux",
-      "Cy Young"
-    ],
-    "answer": "Cy Young"
-  },
-  {
-    "id": "sports-417",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "How many career wins does Cy Young have?",
-    "options": [
-      "417",
-      "450",
-      "511",
-      "550"
-    ],
-    "answer": "511"
-  },
-  {
-    "id": "sports-418",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "Who holds the MLB record for most home runs in a single season?",
-    "options": [
-      "Mark McGwire",
-      "Sammy Sosa",
-      "Barry Bonds",
-      "Aaron Judge"
-    ],
-    "answer": "Barry Bonds"
-  },
-  {
-    "id": "sports-419",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "How many home runs did Barry Bonds hit in a single season?",
-    "options": [
-      "61",
-      "65",
-      "70",
-      "73"
-    ],
-    "answer": "73"
-  },
-  {
-    "id": "sports-420",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "Who holds the NHL record for most career points?",
-    "options": [
-      "Gordie Howe",
-      "Jaromír Jágr",
-      "Mark Messier",
-      "Wayne Gretzky"
-    ],
-    "answer": "Wayne Gretzky"
-  },
-  {
-    "id": "sports-421",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "How many career points does Wayne Gretzky have?",
-    "options": [
-      "2,500",
-      "2,750",
-      "2,857",
-      "3,000"
-    ],
-    "answer": "2,857"
-  },
-  {
-    "id": "sports-422",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "As of 2026, who holds the NHL record for most career goals?",
-    "options": [
-      "Gordie Howe",
-      "Jaromír Jágr",
-      "Wayne Gretzky",
-      "Alex Ovechkin"
-    ],
-    "answer": "Alex Ovechkin"
-  },
-  {
-    "id": "sports-423",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "How many career goals does Wayne Gretzky have?",
-    "options": [
-      "800",
-      "850",
-      "894",
-      "900"
-    ],
-    "answer": "894"
-  },
-  {
-    "id": "sports-424",
-    "category": "sports",
-    "difficulty": "easy",
-    "question": "Who holds the NHL record for most career assists?",
-    "options": [
-      "Gordie Howe",
-      "Jaromír Jágr",
-      "Wayne Gretzky",
-      "Ron Francis"
-    ],
-    "answer": "Wayne Gretzky"
-  },
-  {
-    "id": "sports-425",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "How many career assists does Wayne Gretzky have?",
-    "options": [
-      "1,800",
-      "1,900",
-      "1,963",
-      "2,000"
-    ],
-    "answer": "1,963"
-  },
-  {
-    "id": "sports-426",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "Which player has won the most Stanley Cups in NHL history?",
-    "options": [
-      "Gordie Howe",
-      "Jean Béliveau",
-      "Henri Richard",
-      "Mark Messier"
-    ],
-    "answer": "Henri Richard"
-  },
-  {
-    "id": "sports-427",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "How many Stanley Cups did Henri Richard win?",
-    "options": [
-      "9",
-      "10",
-      "11",
-      "12"
-    ],
-    "answer": "11"
-  },
-  {
-    "id": "sports-429",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "How many Stanley Cups have the Montreal Canadiens won?",
-    "options": [
-      "20",
-      "22",
-      "24",
-      "26"
-    ],
-    "answer": "24"
-  },
-  {
-    "id": "sports-430",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "Which country has won the most Uber Cup titles in badminton?",
-    "options": [
-      "Japan",
-      "China",
-      "Indonesia",
-      "South Korea"
-    ],
-    "answer": "China"
-  },
-  {
-    "id": "sports-431",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "How many Uber Cup titles has China won?",
-    "options": [
-      "12",
-      "14",
-      "15",
-      "16"
-    ],
-    "answer": "16"
-  },
-  {
-    "id": "sports-432",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "How many FIVB Men's Volleyball World Championship titles did the Soviet Union win?",
-    "options": [
-      "4",
-      "5",
-      "6",
-      "7"
-    ],
-    "answer": "6"
-  },
-  {
-    "id": "sports-433",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "Who holds the men's 100m world record?",
-    "options": [
-      "Carl Lewis",
-      "Asafa Powell",
-      "Usain Bolt",
-      "Tyson Gay"
-    ],
-    "answer": "Usain Bolt"
-  },
-  {
-    "id": "sports-434",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "What is the men's 100m world record time?",
-    "options": [
-      "9.63",
-      "9.58",
-      "9.69",
-      "9.72"
-    ],
-    "answer": "9.58"
-  },
-  {
-    "id": "sports-435",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "As of September 2026, who holds the women's 100m hurdles world record?",
-    "options": [
-      "Sally Pearson",
-      "Masai Russell",
-      "Yordanka Donkova",
-      "Tobi Amusan"
-    ],
-    "answer": "Masai Russell"
-  },
-  {
-    "id": "sports-436",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "As of September 2026, what is the women's 100m hurdles world record time?",
-    "options": [
-      "12.09",
-      "12.12",
-      "12.20",
-      "12.34"
-    ],
-    "answer": "12.09"
-  },
-  {
-    "id": "sports-437",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "As of 2026, who holds the men's 100m freestyle world record?",
-    "options": [
-      "Ian Thorpe",
-      "Caeleb Dressel",
-      "Pan Zhanle",
-      "James Magnussen"
-    ],
-    "answer": "Pan Zhanle"
-  },
-  {
-    "id": "sports-438",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "As of 2026, what is the men's 100m freestyle world record time?",
-    "options": [
-      "46.40",
-      "46.80",
-      "46.96",
-      "47.02"
-    ],
-    "answer": "46.40"
-  },
-  {
-    "id": "sports-439",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "Who holds the record for the most ODI centuries in cricket history?",
-    "options": [
-      "Sachin Tendulkar",
-      "Virat Kohli",
-      "Ricky Ponting",
-      "Kumar Sangakkara"
-    ],
-    "answer": "Virat Kohli"
-  },
-  {
-    "id": "sports-440",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "As of December 2025, how many ODI centuries does Virat Kohli have?",
-    "options": [
-      "49",
-      "51",
-      "53",
-      "55"
-    ],
-    "answer": "53"
-  },
-  {
-    "id": "sports-441",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "Who holds the NBA record for most career triple-doubles?",
-    "options": [
-      "Magic Johnson",
-      "Jason Kidd",
-      "Russell Westbrook",
-      "LeBron James"
-    ],
-    "answer": "Russell Westbrook"
-  },
-  {
-    "id": "sports-442",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "How many career triple-doubles does Russell Westbrook have?",
-    "options": [
-      "185",
-      "198",
-      "200",
-      "209"
-    ],
-    "answer": "209"
-  },
-  {
-    "id": "sports-443",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "Who holds the NFL record for most career receiving yards?",
-    "options": [
-      "Larry Fitzgerald",
-      "Reggie Wayne",
-      "Julio Jones",
-      "Jerry Rice"
-    ],
-    "answer": "Jerry Rice"
-  },
-  {
-    "id": "sports-444",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "How many career receiving yards does Jerry Rice have?",
-    "options": [
-      "20,000",
-      "21,500",
-      "22,895",
-      "23,500"
-    ],
-    "answer": "22,895"
-  },
-  {
-    "id": "sports-446",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "How many major wins does Jack Nicklaus have?",
-    "options": [
-      "15",
-      "16",
-      "18",
-      "20"
-    ],
-    "answer": "18"
-  },
-  {
-    "id": "sports-447",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "Who holds the NHL record for most career playoff points?",
-    "options": [
-      "Wayne Gretzky",
-      "Jaromír Jágr",
-      "Mark Messier",
-      "Gordie Howe"
-    ],
-    "answer": "Wayne Gretzky"
-  },
-  {
-    "id": "sports-448",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "How many career playoff points does Wayne Gretzky have?",
-    "options": [
-      "350",
-      "382",
-      "400",
-      "420"
-    ],
-    "answer": "382"
-  },
-  {
-    "id": "sports-449",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "Who holds the record for most goals in a single FIFA World Cup tournament?",
-    "options": [
-      "Pelé",
-      "Miroslav Klose",
-      "Gerd Müller",
-      "Just Fontaine"
-    ],
-    "answer": "Just Fontaine"
-  },
-  {
-    "id": "sports-450",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "How many goals did Just Fontaine score in the 1958 FIFA World Cup?",
-    "options": [
-      "10",
-      "11",
-      "12",
-      "13"
-    ],
-    "answer": "13"
-  },
-  {
-    "id": "sports-451",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "As of 2026, who holds the record for most career Champions League appearances?",
-    "options": [
-      "Lionel Messi",
-      "Cristiano Ronaldo",
-      "Iker Casillas",
-      "Ryan Giggs"
-    ],
-    "answer": "Cristiano Ronaldo"
-  },
-  {
-    "id": "sports-452",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "How many career Champions League appearances does Iker Casillas have?",
-    "options": [
-      "160",
-      "168",
-      "177",
-      "180"
-    ],
-    "answer": "177"
-  },
-  {
-    "id": "sports-453",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "Who holds the MLB record for most career strikeouts by a pitcher?",
-    "options": [
-      "Randy Johnson",
-      "Steve Carlton",
-      "Nolan Ryan",
-      "Greg Maddux"
-    ],
-    "answer": "Nolan Ryan"
-  },
-  {
-    "id": "sports-454",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "How many career strikeouts does Nolan Ryan have?",
-    "options": [
-      "5,000",
-      "5,500",
-      "5,714",
-      "6,000"
-    ],
-    "answer": "5,714"
-  },
-  {
-    "id": "sports-455",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "As of 2026, who holds the record for most Winter Olympic gold medals by an athlete?",
-    "options": [
-      "Ole Einar Bjørndalen",
-      "Ireen Wüst",
-      "Marit Bjørgen",
-      "Johannes Høsflot Klæbo"
-    ],
-    "answer": "Johannes Høsflot Klæbo"
-  },
-  {
-    "id": "sports-456",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "How many Winter Olympic gold medals does Marit Bjørgen have?",
-    "options": [
-      "6",
-      "8",
-      "10",
-      "12"
-    ],
-    "answer": "8"
-  },
-  {
-    "id": "sports-457",
-    "category": "sports",
-    "difficulty": "medium",
-    "question": "Who holds the record for most Paralympic medals by an athlete?",
-    "options": [
-      "Tatyana McFadden",
-      "Sophie Pascoe",
-      "Trischa Zorn",
-      "Lee Pearson"
-    ],
-    "answer": "Trischa Zorn"
-  },
-  {
-    "id": "sports-458",
-    "category": "sports",
-    "difficulty": "hard",
-    "question": "How many Paralympic medals does Trischa Zorn have?",
-    "options": [
-      "41",
-      "46",
-      "55",
-      "60"
-    ],
-    "answer": "55"
   }
 ]
