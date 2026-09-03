@@ -15182,5 +15182,2618 @@
     ],
     "answer": "Rust",
     "id": "science-technology-915"
+  },
+  {
+    "id": "science-technology-916",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which Bayer chemist synthesized a stable form of acetylsalicylic acid (aspirin) in 1897?",
+    "options": [
+      "Paul Ehrlich",
+      "Felix Hoffmann",
+      "Gerhard Domagk",
+      "Robert Koch"
+    ],
+    "answer": "Felix Hoffmann"
+  },
+  {
+    "id": "science-technology-917",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What is the generic chemical name for aspirin?",
+    "options": [
+      "Ibuprofen",
+      "Acetaminophen",
+      "Acetylsalicylic acid",
+      "Salicylic acid"
+    ],
+    "answer": "Acetylsalicylic acid"
+  },
+  {
+    "id": "science-technology-918",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Frederick Banting and Charles Best first isolated which hormone from a dog's pancreas in 1921?",
+    "options": [
+      "Glucagon",
+      "Cortisol",
+      "Insulin",
+      "Adrenaline"
+    ],
+    "answer": "Insulin"
+  },
+  {
+    "id": "science-technology-919",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Which American dentist gave the first public demonstration of ether as a surgical anesthetic, in Boston in 1846?",
+    "options": [
+      "Crawford Long",
+      "Joseph Lister",
+      "William T. G. Morton",
+      "James Young Simpson"
+    ],
+    "answer": "William T. G. Morton"
+  },
+  {
+    "id": "science-technology-920",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "James Young Simpson pioneered the surgical use of which anesthetic in 1847?",
+    "options": [
+      "Ether",
+      "Nitrous oxide",
+      "Cocaine",
+      "Chloroform"
+    ],
+    "answer": "Chloroform"
+  },
+  {
+    "id": "science-technology-921",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Katalin Karikó and Drew Weissman won the 2023 Nobel Prize in Medicine for research that enabled which type of COVID-19 vaccine?",
+    "options": [
+      "Viral vector vaccines",
+      "Live attenuated vaccines",
+      "mRNA vaccines",
+      "Inactivated vaccines"
+    ],
+    "answer": "mRNA vaccines"
+  },
+  {
+    "id": "science-technology-922",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which surgeon pioneered antiseptic technique in the 1860s by using carbolic acid to sterilize wounds and instruments?",
+    "options": [
+      "Ignaz Semmelweis",
+      "Robert Koch",
+      "Joseph Lister",
+      "Louis Pasteur"
+    ],
+    "answer": "Joseph Lister"
+  },
+  {
+    "id": "science-technology-923",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "Statin drugs are prescribed primarily to lower levels of what in the blood?",
+    "options": [
+      "Blood sugar",
+      "Cholesterol",
+      "Blood pressure",
+      "White blood cells"
+    ],
+    "answer": "Cholesterol"
+  },
+  {
+    "id": "science-technology-924",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Penicillin belongs to which broad class of antibiotics, which works by preventing bacteria from building their cell walls?",
+    "options": [
+      "Macrolides",
+      "Tetracyclines",
+      "Beta-lactam antibiotics",
+      "Aminoglycosides"
+    ],
+    "answer": "Beta-lactam antibiotics"
+  },
+  {
+    "id": "science-technology-925",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "A vaccine that contains a weakened but still-living form of a pathogen is called what type of vaccine?",
+    "options": [
+      "Subunit vaccine",
+      "Inactivated vaccine",
+      "mRNA vaccine",
+      "Live attenuated vaccine"
+    ],
+    "answer": "Live attenuated vaccine"
+  },
+  {
+    "id": "science-technology-926",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Procaine (marketed as Novocaine) was developed as a synthetic substitute for which addictive local anesthetic used by dentists?",
+    "options": [
+      "Morphine",
+      "Cocaine",
+      "Opium",
+      "Chloroform"
+    ],
+    "answer": "Cocaine"
+  },
+  {
+    "id": "science-technology-927",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "The first chemotherapy drugs for treating cancer were developed from research into which World War I chemical weapon?",
+    "options": [
+      "Chlorine gas",
+      "Mustard gas",
+      "Phosgene",
+      "Sarin"
+    ],
+    "answer": "Mustard gas"
+  },
+  {
+    "id": "science-technology-928",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "In what year did the World Health Organization officially declare smallpox eradicated worldwide?",
+    "options": [
+      "1972",
+      "1980",
+      "1990",
+      "1965"
+    ],
+    "answer": "1980"
+  },
+  {
+    "id": "science-technology-929",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "In medicine, what does the acronym MRSA stand for?",
+    "options": [
+      "Multi-Resistant Staphylococcal Antigen",
+      "Methicillin-Resistant Staphylococcus Aureus",
+      "Microbial Resistance to Standard Antibiotics",
+      "Methicillin-Reactive Streptococcal Agent"
+    ],
+    "answer": "Methicillin-Resistant Staphylococcus Aureus"
+  },
+  {
+    "id": "science-technology-930",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What does the abbreviation GMO stand for?",
+    "options": [
+      "Genetically Modified Organism",
+      "Genomic Mutation Outcome",
+      "Generalized Molecular Organism",
+      "Gene Manipulation Output"
+    ],
+    "answer": "Genetically Modified Organism"
+  },
+  {
+    "id": "science-technology-931",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "DNA fingerprinting, now widely used in forensics, was pioneered in 1984 by which British geneticist?",
+    "options": [
+      "Alec Jeffreys",
+      "Frederick Sanger",
+      "John Sulston",
+      "Paul Nurse"
+    ],
+    "answer": "Alec Jeffreys"
+  },
+  {
+    "id": "science-technology-932",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Often called the 'guardian of the genome,' which gene is the most frequently mutated gene across human cancers?",
+    "options": [
+      "BRCA1",
+      "p53",
+      "RAS",
+      "MYC"
+    ],
+    "answer": "p53"
+  },
+  {
+    "id": "science-technology-933",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Jennifer Doudna and Emmanuelle Charpentier won the 2020 Nobel Prize in Chemistry for developing which gene-editing tool, nicknamed 'genetic scissors'?",
+    "options": [
+      "TALENs",
+      "Zinc-finger nucleases",
+      "RNA interference",
+      "CRISPR-Cas9"
+    ],
+    "answer": "CRISPR-Cas9"
+  },
+  {
+    "id": "science-technology-934",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What enzyme rebuilds the protective caps at the ends of chromosomes, a discovery that won a 2009 Nobel Prize?",
+    "options": [
+      "Helicase",
+      "Telomerase",
+      "DNA polymerase",
+      "Ligase"
+    ],
+    "answer": "Telomerase"
+  },
+  {
+    "id": "science-technology-935",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Shinya Yamanaka won a 2012 Nobel Prize for showing that adult cells could be reprogrammed into what type of cell?",
+    "options": [
+      "Cancer cells",
+      "Germ cells",
+      "Induced pluripotent stem cells",
+      "Red blood cells"
+    ],
+    "answer": "Induced pluripotent stem cells"
+  },
+  {
+    "id": "science-technology-936",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "The Human Genome Project, an international effort to map all human genes, was declared essentially complete in what year?",
+    "options": [
+      "1990",
+      "2010",
+      "2003",
+      "1998"
+    ],
+    "answer": "2003"
+  },
+  {
+    "id": "science-technology-937",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What term describes treating or preventing disease by introducing, altering, or removing genetic material inside a patient's cells?",
+    "options": [
+      "Immunotherapy",
+      "Chemotherapy",
+      "Gene therapy",
+      "Radiotherapy"
+    ],
+    "answer": "Gene therapy"
+  },
+  {
+    "id": "science-technology-938",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "CRISPR-Cas9 gene editing was adapted from a natural defense system found in what type of organism?",
+    "options": [
+      "Fungi",
+      "Bacteria",
+      "Plants",
+      "Viruses"
+    ],
+    "answer": "Bacteria"
+  },
+  {
+    "id": "science-technology-939",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "What term describes heritable changes in gene expression that occur without any change to the underlying DNA sequence?",
+    "options": [
+      "Genomics",
+      "Mutagenesis",
+      "Epigenetics",
+      "Phenotyping"
+    ],
+    "answer": "Epigenetics"
+  },
+  {
+    "id": "science-technology-940",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Stem cells able to become almost any cell type in the adult body, but not extra-embryonic tissue like the placenta, are described as what?",
+    "options": [
+      "Totipotent",
+      "Multipotent",
+      "Pluripotent",
+      "Unipotent"
+    ],
+    "answer": "Pluripotent"
+  },
+  {
+    "id": "science-technology-941",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Genetically engineered bacteria producing human insulin was one of the first commercial products of what biotechnology technique?",
+    "options": [
+      "Gene therapy",
+      "PCR",
+      "Recombinant DNA technology",
+      "Cloning"
+    ],
+    "answer": "Recombinant DNA technology"
+  },
+  {
+    "id": "science-technology-942",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Down syndrome is caused by an extra copy of which numbered chromosome?",
+    "options": [
+      "Chromosome 13",
+      "Chromosome 18",
+      "Chromosome 21",
+      "Chromosome 23"
+    ],
+    "answer": "Chromosome 21"
+  },
+  {
+    "id": "science-technology-943",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Which type of RNA forms the structural and catalytic core of a cell's ribosomes?",
+    "options": [
+      "Messenger RNA",
+      "Transfer RNA",
+      "Ribosomal RNA",
+      "Micro RNA"
+    ],
+    "answer": "Ribosomal RNA"
+  },
+  {
+    "id": "science-technology-944",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "A mutation that inserts or deletes a number of DNA bases not divisible by three, shifting the entire reading frame, is called what?",
+    "options": [
+      "Point mutation",
+      "Silent mutation",
+      "Frameshift mutation",
+      "Nonsense mutation"
+    ],
+    "answer": "Frameshift mutation"
+  },
+  {
+    "id": "science-technology-945",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Dolly the sheep was created using a cloning technique that transfers a body cell's nucleus into an egg cell — what is this technique called?",
+    "options": [
+      "Somatic cell nuclear transfer",
+      "Recombinant DNA transfer",
+      "Gel electrophoresis",
+      "In vitro fertilization"
+    ],
+    "answer": "Somatic cell nuclear transfer"
+  },
+  {
+    "id": "science-technology-946",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Adding an element like phosphorus to silicon, giving it extra free electrons, produces what type of semiconductor?",
+    "options": [
+      "P-type semiconductor",
+      "Intrinsic semiconductor",
+      "N-type semiconductor",
+      "Amorphous semiconductor"
+    ],
+    "answer": "N-type semiconductor"
+  },
+  {
+    "id": "science-technology-947",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Adding an element like boron to silicon, creating positive 'holes' that carry charge, produces what type of semiconductor?",
+    "options": [
+      "N-type semiconductor",
+      "Superconducting semiconductor",
+      "Intrinsic semiconductor",
+      "P-type semiconductor"
+    ],
+    "answer": "P-type semiconductor"
+  },
+  {
+    "id": "science-technology-948",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which manufacturing process uses light to transfer a circuit pattern onto a silicon wafer during computer chip fabrication?",
+    "options": [
+      "Electroplating",
+      "Annealing",
+      "Photolithography",
+      "Sintering"
+    ],
+    "answer": "Photolithography"
+  },
+  {
+    "id": "science-technology-949",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "The Czochralski process is used to grow large, ultra-pure single crystals of which material for the semiconductor industry?",
+    "options": [
+      "Quartz",
+      "Germanium",
+      "Silicon",
+      "Graphene"
+    ],
+    "answer": "Silicon"
+  },
+  {
+    "id": "science-technology-950",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Annealing is a heat-treatment process used to reduce a metal's hardness while increasing its what?",
+    "options": [
+      "Density",
+      "Ductility",
+      "Conductivity",
+      "Brittleness"
+    ],
+    "answer": "Ductility"
+  },
+  {
+    "id": "science-technology-951",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Rapidly cooling hot metal in water or oil to increase its hardness is called what heat-treatment process?",
+    "options": [
+      "Tempering",
+      "Annealing",
+      "Quenching",
+      "Sintering"
+    ],
+    "answer": "Quenching"
+  },
+  {
+    "id": "science-technology-952",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What manufacturing process fuses powdered material into a solid mass by heating it below its melting point?",
+    "options": [
+      "Casting",
+      "Sintering",
+      "Forging",
+      "Extrusion"
+    ],
+    "answer": "Sintering"
+  },
+  {
+    "id": "science-technology-953",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which metalworking process shapes material by forcing it through a shaped opening called a die?",
+    "options": [
+      "Forging",
+      "Casting",
+      "Extrusion",
+      "Sintering"
+    ],
+    "answer": "Extrusion"
+  },
+  {
+    "id": "science-technology-954",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which metalworking process shapes metal using compressive forces, such as hammering or pressing, without melting it?",
+    "options": [
+      "Casting",
+      "Extrusion",
+      "Sintering",
+      "Forging"
+    ],
+    "answer": "Forging"
+  },
+  {
+    "id": "science-technology-955",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "Injection molding manufactures plastic parts by injecting molten plastic into what?",
+    "options": [
+      "A furnace",
+      "A mold cavity",
+      "A vacuum chamber",
+      "A rolling press"
+    ],
+    "answer": "A mold cavity"
+  },
+  {
+    "id": "science-technology-956",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Carbon fiber composites are prized in aerospace and sports equipment for combining very low weight with what property?",
+    "options": [
+      "High strength",
+      "High magnetism",
+      "High transparency",
+      "High flexibility"
+    ],
+    "answer": "High strength"
+  },
+  {
+    "id": "science-technology-957",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Borosilicate glass, used in lab equipment and oven-safe bakeware, is especially valued for its resistance to what?",
+    "options": [
+      "Corrosion",
+      "UV light",
+      "Thermal shock",
+      "Electricity"
+    ],
+    "answer": "Thermal shock"
+  },
+  {
+    "id": "science-technology-958",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "Tempered safety glass is designed to do what when it breaks, unlike ordinary glass?",
+    "options": [
+      "Not break at all",
+      "Shatter into small, blunt pieces",
+      "Melt instead of cracking",
+      "Turn opaque"
+    ],
+    "answer": "Shatter into small, blunt pieces"
+  },
+  {
+    "id": "science-technology-959",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which lightweight, corrosion-resistant metal is widely used in aircraft frames and hip-replacement implants?",
+    "options": [
+      "Aluminum",
+      "Magnesium",
+      "Titanium",
+      "Tungsten"
+    ],
+    "answer": "Titanium"
+  },
+  {
+    "id": "science-technology-960",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Anodizing is an electrochemical process that thickens the natural oxide layer on which common metal, seen in colorful cookware and electronics casings?",
+    "options": [
+      "Steel",
+      "Copper",
+      "Zinc",
+      "Aluminum"
+    ],
+    "answer": "Aluminum"
+  },
+  {
+    "id": "science-technology-961",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Stereolithography, the first 3D printing technology, was invented by Chuck Hull in which decade?",
+    "options": [
+      "The 1970s",
+      "The 1980s",
+      "The 1990s",
+      "The 2000s"
+    ],
+    "answer": "The 1980s"
+  },
+  {
+    "id": "science-technology-962",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "FDM, the most common consumer 3D printing method, stands for what?",
+    "options": [
+      "Filament Direct Molding",
+      "Fused Deposition Modeling",
+      "Flexible Density Modeling",
+      "Fused Diameter Milling"
+    ],
+    "answer": "Fused Deposition Modeling"
+  },
+  {
+    "id": "science-technology-963",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "The Kroll process is the primary industrial method for extracting which metal from its ore?",
+    "options": [
+      "Magnesium",
+      "Titanium",
+      "Zirconium",
+      "Chromium"
+    ],
+    "answer": "Titanium"
+  },
+  {
+    "id": "science-technology-964",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "The Ostwald process is an industrial method for producing which acid from ammonia?",
+    "options": [
+      "Sulfuric acid",
+      "Hydrochloric acid",
+      "Phosphoric acid",
+      "Nitric acid"
+    ],
+    "answer": "Nitric acid"
+  },
+  {
+    "id": "science-technology-965",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "Fiberglass is a composite material made of fine glass fibers embedded in what?",
+    "options": [
+      "A plastic resin",
+      "Rubber",
+      "Cement",
+      "Wax"
+    ],
+    "answer": "A plastic resin"
+  },
+  {
+    "id": "science-technology-966",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Chemical vapor deposition (CVD) is one of the two main techniques used to grow synthetic, lab-grown versions of which gemstone?",
+    "options": [
+      "Ruby",
+      "Sapphire",
+      "Diamond",
+      "Quartz"
+    ],
+    "answer": "Diamond"
+  },
+  {
+    "id": "science-technology-967",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "The 1887 Michelson-Morley experiment failed to detect a stationary 'luminiferous ether,' a null result that helped pave the way for what theory?",
+    "options": [
+      "General relativity",
+      "Einstein's special theory of relativity",
+      "Quantum mechanics",
+      "The Big Bang theory"
+    ],
+    "answer": "Einstein's special theory of relativity"
+  },
+  {
+    "id": "science-technology-968",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "The 1952-53 Miller-Urey experiment simulated early Earth's atmosphere to show that simple inorganic chemicals could form what?",
+    "options": [
+      "Living cells",
+      "DNA",
+      "Amino acids",
+      "Proteins"
+    ],
+    "answer": "Amino acids"
+  },
+  {
+    "id": "science-technology-969",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Robert Millikan's famous oil-drop experiment precisely measured what fundamental physical quantity?",
+    "options": [
+      "The mass of the proton",
+      "The electric charge of the electron",
+      "The speed of light",
+      "Planck's constant"
+    ],
+    "answer": "The electric charge of the electron"
+  },
+  {
+    "id": "science-technology-970",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "The double-slit experiment, first performed with light by Thomas Young in 1801, demonstrates what fundamental property of light and matter?",
+    "options": [
+      "The Doppler effect",
+      "Gravitational lensing",
+      "Wave-particle duality",
+      "Quantum entanglement"
+    ],
+    "answer": "Wave-particle duality"
+  },
+  {
+    "id": "science-technology-971",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Henry Cavendish's 1798 torsion-balance experiment was used to precisely measure what?",
+    "options": [
+      "The speed of sound",
+      "The gravitational constant",
+      "The charge of the electron",
+      "Atmospheric pressure"
+    ],
+    "answer": "The gravitational constant"
+  },
+  {
+    "id": "science-technology-972",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Léon Foucault's 1851 pendulum experiment in Paris provided direct visual proof of what?",
+    "options": [
+      "Earth's magnetic field",
+      "Earth's rotation",
+      "Gravity's universal pull",
+      "Continental drift"
+    ],
+    "answer": "Earth's rotation"
+  },
+  {
+    "id": "science-technology-973",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Louis Pasteur's swan-neck flask experiments helped disprove which long-held scientific idea?",
+    "options": [
+      "Germ theory of disease",
+      "Spontaneous generation",
+      "The theory of evolution",
+      "The four humors"
+    ],
+    "answer": "Spontaneous generation"
+  },
+  {
+    "id": "science-technology-974",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Erwin Schrödinger's famous thought experiment involving a cat illustrates a paradox tied to which quantum concept?",
+    "options": [
+      "Entanglement",
+      "Quantum tunneling",
+      "Superposition",
+      "The uncertainty principle"
+    ],
+    "answer": "Superposition"
+  },
+  {
+    "id": "science-technology-975",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "The ancient Greek scholar Eratosthenes used shadow angles measured at two cities to estimate what, with remarkable accuracy?",
+    "options": [
+      "The distance to the Moon",
+      "The circumference of the Earth",
+      "The tilt of Earth's axis",
+      "The speed of light"
+    ],
+    "answer": "The circumference of the Earth"
+  },
+  {
+    "id": "science-technology-976",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Ivan Pavlov's experiments, which found that dogs could be trained to salivate at the sound of a bell, established the concept of what?",
+    "options": [
+      "The placebo effect",
+      "Operant conditioning",
+      "Classical conditioning",
+      "Cognitive dissonance"
+    ],
+    "answer": "Classical conditioning"
+  },
+  {
+    "id": "science-technology-977",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Carl Anderson's 1932 cloud-chamber experiment led to the discovery of which antimatter particle?",
+    "options": [
+      "The neutrino",
+      "The muon",
+      "The positron",
+      "The antiproton"
+    ],
+    "answer": "The positron"
+  },
+  {
+    "id": "science-technology-978",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Nuclear fission was first experimentally achieved in 1938 by Otto Hahn and Fritz Strassmann, who split the nucleus of which element?",
+    "options": [
+      "Plutonium",
+      "Uranium",
+      "Radium",
+      "Thorium"
+    ],
+    "answer": "Uranium"
+  },
+  {
+    "id": "science-technology-979",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "Benjamin Franklin's famous (and dangerous) 1752 kite experiment investigated the nature of what?",
+    "options": [
+      "Magnetism",
+      "Sound waves",
+      "Lightning",
+      "Static cling"
+    ],
+    "answer": "Lightning"
+  },
+  {
+    "id": "science-technology-980",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Galileo Galilei's experiments with inclined planes and falling objects directly challenged which ancient philosopher's ideas about motion?",
+    "options": [
+      "Plato",
+      "Pythagoras",
+      "Aristotle",
+      "Archimedes"
+    ],
+    "answer": "Aristotle"
+  },
+  {
+    "id": "science-technology-981",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "The Beaufort wind scale, devised in 1805, estimates wind speed based on what?",
+    "options": [
+      "Barometric pressure readings",
+      "Observed effects on the sea and objects on land",
+      "Cloud height",
+      "Temperature drop"
+    ],
+    "answer": "Observed effects on the sea and objects on land"
+  },
+  {
+    "id": "science-technology-982",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "The Enhanced Fujita (EF) Scale rates the intensity of which type of storm, based on the damage it causes?",
+    "options": [
+      "Hurricanes",
+      "Blizzards",
+      "Tornadoes",
+      "Thunderstorms"
+    ],
+    "answer": "Tornadoes"
+  },
+  {
+    "id": "science-technology-983",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "The modern system for classifying clouds into types like cumulus, stratus, and cirrus was devised in 1802 by which English chemist?",
+    "options": [
+      "John Dalton",
+      "Luke Howard",
+      "Robert Boyle",
+      "Joseph Priestley"
+    ],
+    "answer": "Luke Howard"
+  },
+  {
+    "id": "science-technology-984",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "Towering cumulonimbus clouds are most closely associated with which kind of severe weather?",
+    "options": [
+      "Fog",
+      "Drizzle",
+      "Thunderstorms",
+      "Heatwaves"
+    ],
+    "answer": "Thunderstorms"
+  },
+  {
+    "id": "science-technology-985",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "El Niño is a periodic warming of surface waters in which ocean that disrupts weather patterns worldwide?",
+    "options": [
+      "The Atlantic Ocean",
+      "The Indian Ocean",
+      "The Pacific Ocean",
+      "The Arctic Ocean"
+    ],
+    "answer": "The Pacific Ocean"
+  },
+  {
+    "id": "science-technology-986",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "In the mid-latitudes, the jet stream that drives most weather systems generally flows in which direction?",
+    "options": [
+      "East to west",
+      "West to east",
+      "North to south",
+      "South to north"
+    ],
+    "answer": "West to east"
+  },
+  {
+    "id": "science-technology-987",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "What instrument is used to detect and record the vibrations produced by earthquakes?",
+    "options": [
+      "Barometer",
+      "Anemometer",
+      "Seismograph",
+      "Hygrometer"
+    ],
+    "answer": "Seismograph"
+  },
+  {
+    "id": "science-technology-988",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Which magnitude scale has largely replaced the Richter scale among seismologists for measuring the size of large earthquakes?",
+    "options": [
+      "The moment magnitude scale",
+      "The Mercalli scale",
+      "The Beaufort scale",
+      "The Fujita scale"
+    ],
+    "answer": "The moment magnitude scale"
+  },
+  {
+    "id": "science-technology-989",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Tsunamis are most commonly generated by what kind of event occurring beneath the ocean?",
+    "options": [
+      "A hurricane",
+      "A meteor shower",
+      "An underwater earthquake",
+      "A shift in ocean currents"
+    ],
+    "answer": "An underwater earthquake"
+  },
+  {
+    "id": "science-technology-990",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "A rapidly falling barometric (atmospheric) pressure reading typically signals the approach of what?",
+    "options": [
+      "Clear skies",
+      "Stormy weather",
+      "A heatwave",
+      "Calm winds"
+    ],
+    "answer": "Stormy weather"
+  },
+  {
+    "id": "science-technology-991",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Where two tectonic plates slide horizontally past one another, the boundary between them is called what type?",
+    "options": [
+      "Convergent boundary",
+      "Divergent boundary",
+      "Transform boundary",
+      "Subduction zone"
+    ],
+    "answer": "Transform boundary"
+  },
+  {
+    "id": "science-technology-992",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Obsidian, a natural volcanic glass, forms when lava cools how?",
+    "options": [
+      "Very slowly",
+      "Under extreme pressure only",
+      "Very rapidly",
+      "Underwater only"
+    ],
+    "answer": "Very rapidly"
+  },
+  {
+    "id": "science-technology-993",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Linus Torvalds, already known for creating Linux, wrote which distributed version-control system in about ten days in 2005?",
+    "options": [
+      "Subversion",
+      "Mercurial",
+      "Git",
+      "CVS"
+    ],
+    "answer": "Git"
+  },
+  {
+    "id": "science-technology-994",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "George Boole's 1854 book 'An Investigation of the Laws of Thought' introduced the algebra of logic now known as what?",
+    "options": [
+      "Linear algebra",
+      "Set theory",
+      "Boolean algebra",
+      "Calculus"
+    ],
+    "answer": "Boolean algebra"
+  },
+  {
+    "id": "science-technology-995",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "The 1804 Jacquard loom used punched cards to automatically control what?",
+    "options": [
+      "Steam engine speed",
+      "Weaving patterns in fabric",
+      "Printing press type",
+      "Clock mechanisms"
+    ],
+    "answer": "Weaving patterns in fabric"
+  },
+  {
+    "id": "science-technology-996",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Frank Rosenblatt's 1958 'Perceptron' is considered an early ancestor of which modern computing technology?",
+    "options": [
+      "The microprocessor",
+      "The internet",
+      "Artificial neural networks",
+      "The relational database"
+    ],
+    "answer": "Artificial neural networks"
+  },
+  {
+    "id": "science-technology-997",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "The Stuxnet computer worm, discovered in 2010, was designed to sabotage the centrifuges of which country's nuclear program?",
+    "options": [
+      "North Korea",
+      "Iraq",
+      "Iran",
+      "Russia"
+    ],
+    "answer": "Iran"
+  },
+  {
+    "id": "science-technology-998",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "The 'ILOVEYOU' email worm, one of the most damaging in history, originated in 2000 in which country?",
+    "options": [
+      "Russia",
+      "The Philippines",
+      "The United States",
+      "China"
+    ],
+    "answer": "The Philippines"
+  },
+  {
+    "id": "science-technology-999",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "The 2017 'WannaCry' ransomware attack spread by exploiting a vulnerability in which operating system?",
+    "options": [
+      "macOS",
+      "Linux",
+      "Microsoft Windows",
+      "Android"
+    ],
+    "answer": "Microsoft Windows"
+  },
+  {
+    "id": "science-technology-1000",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "Which data structure follows a 'first in, first out' principle, like a line at a checkout counter?",
+    "options": [
+      "Stack",
+      "Queue",
+      "Array",
+      "Linked list"
+    ],
+    "answer": "Queue"
+  },
+  {
+    "id": "science-technology-1001",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Binary search is an efficient algorithm for finding an item in a list, but it requires the list to already be what?",
+    "options": [
+      "Indexed",
+      "Encrypted",
+      "Sorted",
+      "Compressed"
+    ],
+    "answer": "Sorted"
+  },
+  {
+    "id": "science-technology-1002",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "In computer science, 'Big O notation' is used to describe what about an algorithm?",
+    "options": [
+      "Its exact runtime in seconds",
+      "Its efficiency as input size grows",
+      "Its programming language",
+      "Its file size"
+    ],
+    "answer": "Its efficiency as input size grows"
+  },
+  {
+    "id": "science-technology-1003",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "Software whose source code is freely available for anyone to view, modify, and share is described using what term?",
+    "options": [
+      "Freeware",
+      "Shareware",
+      "Open source",
+      "Proprietary"
+    ],
+    "answer": "Open source"
+  },
+  {
+    "id": "science-technology-1004",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "A small piece of data a website stores on a user's device to remember information between visits is called what?",
+    "options": [
+      "A cache",
+      "A packet",
+      "A cookie",
+      "A token"
+    ],
+    "answer": "A cookie"
+  },
+  {
+    "id": "science-technology-1005",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "In the HTTP protocol, a '404' status code indicates what?",
+    "options": [
+      "A server error occurred",
+      "Access was denied",
+      "The requested page was not found",
+      "The request succeeded"
+    ],
+    "answer": "The requested page was not found"
+  },
+  {
+    "id": "science-technology-1006",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "In an operating system, the core component that manages hardware and system resources is called the what?",
+    "options": [
+      "Shell",
+      "Compiler",
+      "Kernel",
+      "Firmware"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "id": "science-technology-1007",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "'The cloud' in cloud computing refers primarily to what?",
+    "options": [
+      "A type of encryption",
+      "Remote servers accessed over the internet",
+      "A wireless signal booster",
+      "A backup hard drive"
+    ],
+    "answer": "Remote servers accessed over the internet"
+  },
+  {
+    "id": "science-technology-1008",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Requiring both a password and a one-time code sent to your phone before logging in is an example of what security practice?",
+    "options": [
+      "Single sign-on",
+      "Two-factor authentication",
+      "Encryption at rest",
+      "A firewall"
+    ],
+    "answer": "Two-factor authentication"
+  },
+  {
+    "id": "science-technology-1009",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "IPv6 was developed primarily to solve which growing problem with the older IPv4 addressing system?",
+    "options": [
+      "Slow internet speeds",
+      "Weak encryption",
+      "Running out of available addresses",
+      "High connection costs"
+    ],
+    "answer": "Running out of available addresses"
+  },
+  {
+    "id": "science-technology-1010",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which reversible USB connector type, introduced in 2014, can be plugged in either way up?",
+    "options": [
+      "USB-A",
+      "Micro-USB",
+      "USB-C",
+      "Mini-USB"
+    ],
+    "answer": "USB-C"
+  },
+  {
+    "id": "science-technology-1011",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Bitcoin transactions are recorded on a distributed, tamper-resistant public ledger called what?",
+    "options": [
+      "A private database",
+      "A hash table",
+      "A blockchain",
+      "A server cluster"
+    ],
+    "answer": "A blockchain"
+  },
+  {
+    "id": "science-technology-1012",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which early programming language, developed in 1959 for business data processing, is still used in some banking systems today?",
+    "options": [
+      "Fortran",
+      "BASIC",
+      "COBOL",
+      "ALGOL"
+    ],
+    "answer": "COBOL"
+  },
+  {
+    "id": "science-technology-1013",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Named after a 19th-century mathematician, which programming language was developed for the US Department of Defense in the early 1980s?",
+    "options": [
+      "Pascal",
+      "Modula-2",
+      "Ada",
+      "Eiffel"
+    ],
+    "answer": "Ada"
+  },
+  {
+    "id": "science-technology-1014",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "In quantum computing, what name is given to the smallest unit of quantum information, analogous to a classical bit?",
+    "options": [
+      "A byte",
+      "A qubit",
+      "A node",
+      "A gate"
+    ],
+    "answer": "A qubit"
+  },
+  {
+    "id": "science-technology-1015",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which logic gate outputs 'true' only when its two inputs are different from each other?",
+    "options": [
+      "AND gate",
+      "OR gate",
+      "XOR gate",
+      "NOT gate"
+    ],
+    "answer": "XOR gate"
+  },
+  {
+    "id": "science-technology-1016",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "In a relational database, the column (or columns) that uniquely identifies each row in a table is called the what?",
+    "options": [
+      "Foreign key",
+      "Index",
+      "Primary key",
+      "Schema"
+    ],
+    "answer": "Primary key"
+  },
+  {
+    "id": "science-technology-1017",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "In programming, a function that calls itself to solve smaller instances of the same problem is described as what?",
+    "options": [
+      "Recursive",
+      "Iterative",
+      "Static",
+      "Abstract"
+    ],
+    "answer": "Recursive"
+  },
+  {
+    "id": "science-technology-1018",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Moore's Law is an observation that the number of transistors on a microchip tends to double approximately how often?",
+    "options": [
+      "Every year",
+      "Every two years",
+      "Every five years",
+      "Every decade"
+    ],
+    "answer": "Every two years"
+  },
+  {
+    "id": "science-technology-1019",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "The Diffie-Hellman method, published in 1976, was a breakthrough for securely doing what over an insecure channel?",
+    "options": [
+      "Compressing large files",
+      "Exchanging a secret cryptographic key",
+      "Rendering 3D graphics",
+      "Detecting computer viruses"
+    ],
+    "answer": "Exchanging a secret cryptographic key"
+  },
+  {
+    "id": "science-technology-1020",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Nuclear fission releases energy by doing what to an atom's nucleus?",
+    "options": [
+      "Fusing it with another nucleus",
+      "Splitting it into smaller nuclei",
+      "Removing all its electrons",
+      "Reversing its electric charge"
+    ],
+    "answer": "Splitting it into smaller nuclei"
+  },
+  {
+    "id": "science-technology-1021",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Nuclear fusion, the process that powers the Sun, releases energy by doing what?",
+    "options": [
+      "Splitting heavy nuclei apart",
+      "Combining light atomic nuclei into a heavier one",
+      "Absorbing free electrons",
+      "Emitting radio waves"
+    ],
+    "answer": "Combining light atomic nuclei into a heavier one"
+  },
+  {
+    "id": "science-technology-1022",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "An alpha particle emitted during radioactive decay has the same composition as the nucleus of which element?",
+    "options": [
+      "Hydrogen",
+      "Helium",
+      "Lithium",
+      "Carbon"
+    ],
+    "answer": "Helium"
+  },
+  {
+    "id": "science-technology-1023",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Unlike alpha and beta radiation, gamma radiation consists of what, carrying no mass and no electric charge?",
+    "options": [
+      "Neutrons",
+      "Electrons",
+      "High-energy photons",
+      "Protons"
+    ],
+    "answer": "High-energy photons"
+  },
+  {
+    "id": "science-technology-1024",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "A radioactive substance's 'half-life' is the time it takes for what to happen?",
+    "options": [
+      "All of its atoms to decay",
+      "Half of its radioactive atoms to decay",
+      "Its mass to double",
+      "It to stop being radioactive completely"
+    ],
+    "answer": "Half of its radioactive atoms to decay"
+  },
+  {
+    "id": "science-technology-1025",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "A self-sustaining nuclear chain reaction occurs when the fission of one atom triggers fission in others via released what?",
+    "options": [
+      "Photons",
+      "Neutrons",
+      "Electrons",
+      "Protons"
+    ],
+    "answer": "Neutrons"
+  },
+  {
+    "id": "science-technology-1026",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "The minimum amount of fissile material needed to sustain a nuclear chain reaction is called what?",
+    "options": [
+      "Threshold mass",
+      "Fission point",
+      "Critical mass",
+      "Saturation mass"
+    ],
+    "answer": "Critical mass"
+  },
+  {
+    "id": "science-technology-1027",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "In which type of nuclear reactor is water under high pressure kept from boiling as it circulates through the reactor core?",
+    "options": [
+      "Boiling water reactor",
+      "Pressurized water reactor",
+      "Gas-cooled reactor",
+      "Heavy water reactor"
+    ],
+    "answer": "Pressurized water reactor"
+  },
+  {
+    "id": "science-technology-1028",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "The world's worst nuclear power plant accident occurred in 1986 near Chernobyl, in what is now which independent country?",
+    "options": [
+      "Russia",
+      "Belarus",
+      "Ukraine",
+      "Kazakhstan"
+    ],
+    "answer": "Ukraine"
+  },
+  {
+    "id": "science-technology-1029",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "How many different types, or 'flavors,' of quarks have been identified in the Standard Model of particle physics?",
+    "options": [
+      "Four",
+      "Six",
+      "Eight",
+      "Two"
+    ],
+    "answer": "Six"
+  },
+  {
+    "id": "science-technology-1030",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "The Standard Model of particle physics successfully describes three of the four fundamental forces, but does not yet incorporate which one?",
+    "options": [
+      "Electromagnetism",
+      "The strong nuclear force",
+      "Gravity",
+      "The weak nuclear force"
+    ],
+    "answer": "Gravity"
+  },
+  {
+    "id": "science-technology-1031",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "In what year did scientists at CERN announce the discovery of the Higgs boson?",
+    "options": [
+      "2008",
+      "2015",
+      "2012",
+      "1998"
+    ],
+    "answer": "2012"
+  },
+  {
+    "id": "science-technology-1032",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Neutrinos are notoriously difficult to detect because they very rarely interact with what?",
+    "options": [
+      "Light",
+      "Magnetic fields",
+      "Ordinary matter",
+      "Gravity"
+    ],
+    "answer": "Ordinary matter"
+  },
+  {
+    "id": "science-technology-1033",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "The 'latent heat of vaporization' is the energy needed to do what, without changing a liquid's temperature?",
+    "options": [
+      "Raise its temperature by one degree",
+      "Turn it into a gas at its boiling point",
+      "Freeze it solid",
+      "Compress it into a smaller volume"
+    ],
+    "answer": "Turn it into a gas at its boiling point"
+  },
+  {
+    "id": "science-technology-1034",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "A substance's 'specific heat capacity' measures how much energy is needed to do what?",
+    "options": [
+      "Melt one unit of its mass",
+      "Boil one unit of its mass",
+      "Raise the temperature of one unit of its mass by one degree",
+      "Ionize one unit of its mass"
+    ],
+    "answer": "Raise the temperature of one unit of its mass by one degree"
+  },
+  {
+    "id": "science-technology-1035",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "'Resonance' occurs when an object is driven to vibrate with maximum amplitude at its own what?",
+    "options": [
+      "Boiling point",
+      "Terminal velocity",
+      "Natural frequency",
+      "Center of mass"
+    ],
+    "answer": "Natural frequency"
+  },
+  {
+    "id": "science-technology-1036",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "A 'standing wave,' which appears to stay fixed in place, is produced by the interference of two waves doing what?",
+    "options": [
+      "Traveling in the same direction",
+      "Cancelling out completely",
+      "Traveling in opposite directions",
+      "Traveling through a vacuum"
+    ],
+    "answer": "Traveling in opposite directions"
+  },
+  {
+    "id": "science-technology-1037",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Charles Kao won a 2009 Nobel Prize for pioneering work that made long-distance communication possible by sending light through what?",
+    "options": [
+      "Copper wires",
+      "Radio antennas",
+      "Optical fibers",
+      "Satellites"
+    ],
+    "answer": "Optical fibers"
+  },
+  {
+    "id": "science-technology-1038",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Dennis Gabor won a 1971 Nobel Prize for inventing what lensless, three-dimensional imaging technique?",
+    "options": [
+      "Radiography",
+      "Photolithography",
+      "Holography",
+      "Spectroscopy"
+    ],
+    "answer": "Holography"
+  },
+  {
+    "id": "science-technology-1039",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Polarized sunglasses reduce glare by blocking light waves that vibrate in which orientation?",
+    "options": [
+      "Vertical",
+      "Diagonal",
+      "Horizontal",
+      "All orientations equally"
+    ],
+    "answer": "Horizontal"
+  },
+  {
+    "id": "science-technology-1040",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "An aircraft flying faster than the speed of sound is traveling at a speed greater than what?",
+    "options": [
+      "Escape velocity",
+      "Terminal velocity",
+      "Mach 1",
+      "Mach 2"
+    ],
+    "answer": "Mach 1"
+  },
+  {
+    "id": "science-technology-1041",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "The Third Law of Thermodynamics states that the entropy of a perfect crystal approaches zero as temperature approaches what?",
+    "options": [
+      "Room temperature",
+      "Absolute zero",
+      "The boiling point of nitrogen",
+      "The Curie temperature"
+    ],
+    "answer": "Absolute zero"
+  },
+  {
+    "id": "science-technology-1042",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "The Zeroth Law of Thermodynamics, which underpins the very idea of measuring it, concerns which physical property?",
+    "options": [
+      "Pressure",
+      "Temperature",
+      "Volume",
+      "Density"
+    ],
+    "answer": "Temperature"
+  },
+  {
+    "id": "science-technology-1043",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "When two waves overlap so their crests align and amplify the resulting wave, this is called what kind of interference?",
+    "options": [
+      "Destructive interference",
+      "Diffractive interference",
+      "Constructive interference",
+      "Resonant interference"
+    ],
+    "answer": "Constructive interference"
+  },
+  {
+    "id": "science-technology-1044",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Ranked by wavelength, which of these types of electromagnetic radiation has the longest wavelength?",
+    "options": [
+      "Visible light",
+      "X-rays",
+      "Radio waves",
+      "Gamma rays"
+    ],
+    "answer": "Radio waves"
+  },
+  {
+    "id": "science-technology-1045",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "The lymphatic system helps the body fight infection and also returns excess what to the bloodstream?",
+    "options": [
+      "Red blood cells",
+      "Fluid",
+      "Bile",
+      "Hormones"
+    ],
+    "answer": "Fluid"
+  },
+  {
+    "id": "science-technology-1046",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "The stage of sleep associated with vivid dreaming and rapid eye movement is commonly abbreviated as what?",
+    "options": [
+      "NREM",
+      "Deep sleep",
+      "REM",
+      "Stage 1"
+    ],
+    "answer": "REM"
+  },
+  {
+    "id": "science-technology-1047",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "A simple reflex, like pulling your hand away from something hot, can happen without waiting for a signal to reach where?",
+    "options": [
+      "The heart",
+      "The brain",
+      "The lungs",
+      "The stomach"
+    ],
+    "answer": "The brain"
+  },
+  {
+    "id": "science-technology-1048",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "The body's ability to maintain a stable internal environment, like temperature or pH, despite external changes is called what?",
+    "options": [
+      "Metabolism",
+      "Adaptation",
+      "Homeostasis",
+      "Osmosis"
+    ],
+    "answer": "Homeostasis"
+  },
+  {
+    "id": "science-technology-1049",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Unlike skeletal muscle, the involuntary muscle found in the walls of organs like the stomach and intestines is called what type?",
+    "options": [
+      "Cardiac muscle",
+      "Skeletal muscle",
+      "Smooth muscle",
+      "Striated muscle"
+    ],
+    "answer": "Smooth muscle"
+  },
+  {
+    "id": "science-technology-1050",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "The brain and spinal cord together make up which major division of the nervous system?",
+    "options": [
+      "The peripheral nervous system",
+      "The central nervous system",
+      "The autonomic nervous system",
+      "The somatic nervous system"
+    ],
+    "answer": "The central nervous system"
+  },
+  {
+    "id": "science-technology-1051",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "The 'fight-or-flight' response is triggered by which branch of the autonomic nervous system?",
+    "options": [
+      "The parasympathetic nervous system",
+      "The somatic nervous system",
+      "The sympathetic nervous system",
+      "The central nervous system"
+    ],
+    "answer": "The sympathetic nervous system"
+  },
+  {
+    "id": "science-technology-1052",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "In a blood pressure reading like '120 over 80,' the top (higher) number measures pressure during which phase of the heartbeat, when the heart contracts?",
+    "options": [
+      "Diastole",
+      "Systole",
+      "Arrhythmia",
+      "Fibrillation"
+    ],
+    "answer": "Systole"
+  },
+  {
+    "id": "science-technology-1053",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "The elbow and knee are classic examples of which type of joint, which allows movement in only one plane, like a door hinge?",
+    "options": [
+      "Ball-and-socket joint",
+      "Pivot joint",
+      "Hinge joint",
+      "Gliding joint"
+    ],
+    "answer": "Hinge joint"
+  },
+  {
+    "id": "science-technology-1054",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "According to the 'sliding filament theory,' muscle contraction occurs when which two protein filaments slide past each other?",
+    "options": [
+      "Keratin and collagen",
+      "Actin and myosin",
+      "Elastin and tubulin",
+      "Actin and keratin"
+    ],
+    "answer": "Actin and myosin"
+  },
+  {
+    "id": "science-technology-1055",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Below the dermis, the deepest layer of skin, made mostly of fat, is called what?",
+    "options": [
+      "The epidermis",
+      "The stratum corneum",
+      "The hypodermis",
+      "The follicle layer"
+    ],
+    "answer": "The hypodermis"
+  },
+  {
+    "id": "science-technology-1056",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "A dental filling alloy traditionally made by combining mercury with other metals is called a dental what?",
+    "options": [
+      "Composite",
+      "Amalgam",
+      "Ceramic",
+      "Alloy plate"
+    ],
+    "answer": "Amalgam"
+  },
+  {
+    "id": "science-technology-1057",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Atoms of the same element with different numbers of neutrons, and therefore different atomic masses, are called what?",
+    "options": [
+      "Isomers",
+      "Isotopes",
+      "Allotropes",
+      "Isobars"
+    ],
+    "answer": "Isotopes"
+  },
+  {
+    "id": "science-technology-1058",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Using electricity to drive a non-spontaneous chemical reaction, such as splitting water into hydrogen and oxygen, is called what?",
+    "options": [
+      "Electroplating",
+      "Oxidation",
+      "Electrolysis",
+      "Distillation"
+    ],
+    "answer": "Electrolysis"
+  },
+  {
+    "id": "science-technology-1059",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "Which laboratory technique separates the components of a mixture by carrying them through a medium at different rates, often seen as colorful bands on paper?",
+    "options": [
+      "Distillation",
+      "Centrifugation",
+      "Chromatography",
+      "Filtration"
+    ],
+    "answer": "Chromatography"
+  },
+  {
+    "id": "science-technology-1060",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "A combustion reaction is a chemical reaction between a fuel and what gas, releasing heat and light?",
+    "options": [
+      "Nitrogen",
+      "Oxygen",
+      "Hydrogen",
+      "Carbon dioxide"
+    ],
+    "answer": "Oxygen"
+  },
+  {
+    "id": "science-technology-1061",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "In the metric system, the prefix 'nano-' represents a factor of what?",
+    "options": [
+      "One millionth",
+      "One billionth",
+      "One thousandth",
+      "One trillionth"
+    ],
+    "answer": "One billionth"
+  },
+  {
+    "id": "science-technology-1062",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "The Archimedes screw, an ancient device still used today, is designed for what practical purpose?",
+    "options": [
+      "Measuring time",
+      "Lifting water upward",
+      "Generating electricity",
+      "Purifying water"
+    ],
+    "answer": "Lifting water upward"
+  },
+  {
+    "id": "science-technology-1063",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "The vacuum (Thermos) flask, which keeps drinks hot or cold by minimizing heat transfer, was invented in 1892 by which Scottish scientist?",
+    "options": [
+      "James Dewar",
+      "James Clerk Maxwell",
+      "William Thomson",
+      "Joseph Black"
+    ],
+    "answer": "James Dewar"
+  },
+  {
+    "id": "science-technology-1064",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "The magnetic compass, one of the oldest navigational instruments, was first developed in which ancient civilization?",
+    "options": [
+      "Ancient Greece",
+      "Ancient Egypt",
+      "Ancient China",
+      "Ancient Rome"
+    ],
+    "answer": "Ancient China"
+  },
+  {
+    "id": "science-technology-1065",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Solar panels convert sunlight directly into electricity using what physical effect?",
+    "options": [
+      "The photoelectric effect",
+      "The photovoltaic effect",
+      "The Doppler effect",
+      "The Hall effect"
+    ],
+    "answer": "The photovoltaic effect"
+  },
+  {
+    "id": "science-technology-1066",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Sound waves at frequencies too high for humans to hear, used in medical imaging and sonar, are called what?",
+    "options": [
+      "Infrasound",
+      "Ultrasound",
+      "White noise",
+      "Subsonic sound"
+    ],
+    "answer": "Ultrasound"
+  },
+  {
+    "id": "science-technology-1067",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "Sound travels fastest through which of these mediums?",
+    "options": [
+      "Air",
+      "Water",
+      "Steel",
+      "A vacuum"
+    ],
+    "answer": "Steel"
+  },
+  {
+    "id": "science-technology-1068",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "When mixing light (not pigment), which three colors are considered 'primary' and combine to make white light?",
+    "options": [
+      "Red, yellow, and blue",
+      "Cyan, magenta, and yellow",
+      "Red, green, and blue",
+      "Red, green, and purple"
+    ],
+    "answer": "Red, green, and blue"
+  },
+  {
+    "id": "science-technology-1069",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "The sky appears blue during the day mainly because of a phenomenon called what, in which shorter wavelengths of sunlight scatter more?",
+    "options": [
+      "Rayleigh scattering",
+      "Total internal reflection",
+      "Refraction",
+      "Diffraction"
+    ],
+    "answer": "Rayleigh scattering"
+  },
+  {
+    "id": "science-technology-1070",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Photochromic eyeglass lenses, which automatically darken outdoors, react to what type of light?",
+    "options": [
+      "Infrared light",
+      "Ultraviolet light",
+      "Polarized light",
+      "Blue light"
+    ],
+    "answer": "Ultraviolet light"
+  },
+  {
+    "id": "science-technology-1071",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Methane, released by livestock and landfills, is a greenhouse gas that traps significantly more heat per molecule than what other common greenhouse gas?",
+    "options": [
+      "Carbon dioxide",
+      "Nitrogen",
+      "Oxygen",
+      "Water vapor"
+    ],
+    "answer": "Carbon dioxide"
+  },
+  {
+    "id": "science-technology-1072",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Rising atmospheric CO2 levels are causing the world's oceans to become more what, threatening coral reefs and shellfish?",
+    "options": [
+      "Alkaline",
+      "Acidic",
+      "Saline",
+      "Turbid"
+    ],
+    "answer": "Acidic"
+  },
+  {
+    "id": "science-technology-1073",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "Geothermal power plants generate electricity by harnessing heat from where?",
+    "options": [
+      "Ocean currents",
+      "Beneath the Earth's surface",
+      "The upper atmosphere",
+      "Solar radiation"
+    ],
+    "answer": "Beneath the Earth's surface"
+  },
+  {
+    "id": "science-technology-1074",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Acid rain is primarily caused by sulfur dioxide and what other gas, both released by burning fossil fuels?",
+    "options": [
+      "Carbon monoxide",
+      "Nitrogen oxides",
+      "Methane",
+      "Ozone"
+    ],
+    "answer": "Nitrogen oxides"
+  },
+  {
+    "id": "science-technology-1075",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Desalination plants remove salt from seawater to produce what, often using a process called reverse osmosis?",
+    "options": [
+      "Fresh water",
+      "Table salt",
+      "Hydrogen fuel",
+      "Fertilizer"
+    ],
+    "answer": "Fresh water"
+  },
+  {
+    "id": "science-technology-1076",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Science fiction author Isaac Asimov's 'Three Laws of Robotics' were devised to govern the behavior of what?",
+    "options": [
+      "Robots",
+      "Computer viruses",
+      "Spacecraft",
+      "Artificial organs"
+    ],
+    "answer": "Robots"
+  },
+  {
+    "id": "science-technology-1077",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "In machine learning, when a model performs very well on its training data but poorly on new, unseen data, it's said to be doing what?",
+    "options": [
+      "Underfitting",
+      "Overfitting",
+      "Regularizing",
+      "Normalizing"
+    ],
+    "answer": "Overfitting"
+  },
+  {
+    "id": "science-technology-1078",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Karl Landsteiner won a Nobel Prize for discovering the human ABO blood group system in the early 1900s, an achievement that made what medical procedure much safer?",
+    "options": [
+      "Organ transplants",
+      "Blood transfusions",
+      "Vaccinations",
+      "Surgery under anesthesia"
+    ],
+    "answer": "Blood transfusions"
+  },
+  {
+    "id": "science-technology-1079",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "A CT (or CAT) scan combines many X-ray images taken from different angles to produce what?",
+    "options": [
+      "A live video of blood flow",
+      "Cross-sectional images of the body",
+      "A map of electrical brain activity",
+      "A 3D-printed model instantly"
+    ],
+    "answer": "Cross-sectional images of the body"
+  },
+  {
+    "id": "science-technology-1080",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Water's unusually high specific heat capacity, which helps regulate Earth's climate, is mainly due to what type of bond between its molecules?",
+    "options": [
+      "Ionic bonds",
+      "Covalent bonds",
+      "Hydrogen bonds",
+      "Metallic bonds"
+    ],
+    "answer": "Hydrogen bonds"
+  },
+  {
+    "id": "science-technology-1081",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "The property of a liquid's surface that causes it to form droplets and resist an external force is called what?",
+    "options": [
+      "Viscosity",
+      "Buoyancy",
+      "Surface tension",
+      "Capillary action"
+    ],
+    "answer": "Surface tension"
+  },
+  {
+    "id": "science-technology-1082",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "The ability of a liquid to flow through narrow spaces, like up a paper towel, without the help of external forces, is called what?",
+    "options": [
+      "Surface tension",
+      "Capillary action",
+      "Viscosity",
+      "Osmosis"
+    ],
+    "answer": "Capillary action"
+  },
+  {
+    "id": "science-technology-1083",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Osmosis is the movement of water across a semi-permeable membrane, from an area of low solute concentration to an area of what?",
+    "options": [
+      "Equal concentration",
+      "High solute concentration",
+      "Zero concentration",
+      "High pressure only"
+    ],
+    "answer": "High solute concentration"
+  },
+  {
+    "id": "science-technology-1084",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "The movement of particles from an area of high concentration to an area of low concentration is called simple what?",
+    "options": [
+      "Osmosis",
+      "Diffusion",
+      "Filtration",
+      "Convection"
+    ],
+    "answer": "Diffusion"
+  },
+  {
+    "id": "science-technology-1085",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "In a neural network, the layers of nodes between the input and output layers, where most computation happens, are called what?",
+    "options": [
+      "Hidden layers",
+      "Root layers",
+      "Buffer layers",
+      "Terminal layers"
+    ],
+    "answer": "Hidden layers"
+  },
+  {
+    "id": "science-technology-1086",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Unlike a compiler, which translates an entire program before it runs, an interpreter executes code how?",
+    "options": [
+      "All at once, after compiling",
+      "Line by line, as it runs",
+      "Only when the program closes",
+      "By converting it to a spreadsheet"
+    ],
+    "answer": "Line by line, as it runs"
+  },
+  {
+    "id": "science-technology-1087",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Besides sweet, sour, salty, and bitter, what is the fifth basic taste, associated with savory flavors?",
+    "options": [
+      "Umami",
+      "Metallic",
+      "Astringent",
+      "Piquant"
+    ],
+    "answer": "Umami"
+  },
+  {
+    "id": "science-technology-1088",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "The path that carries blood to and from the lungs to pick up oxygen is known as what kind of circulation, distinct from systemic circulation?",
+    "options": [
+      "Coronary circulation",
+      "Pulmonary circulation",
+      "Portal circulation",
+      "Renal circulation"
+    ],
+    "answer": "Pulmonary circulation"
+  },
+  {
+    "id": "science-technology-1089",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "The immune system's fast-acting, non-specific first line of defense is called what, as opposed to the slower, targeted adaptive immune response?",
+    "options": [
+      "Passive immunity",
+      "Innate immunity",
+      "Acquired immunity",
+      "Herd immunity"
+    ],
+    "answer": "Innate immunity"
+  },
+  {
+    "id": "science-technology-1090",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "The human appendix is often cited as an example of what kind of anatomical structure, one that has lost most of its original function through evolution?",
+    "options": [
+      "A vestigial organ",
+      "A regenerative organ",
+      "An accessory gland",
+      "A sensory organ"
+    ],
+    "answer": "A vestigial organ"
+  },
+  {
+    "id": "science-technology-1091",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Barbara McClintock won a 1983 Nobel Prize for discovering mobile genetic elements in corn, nicknamed what?",
+    "options": [
+      "Junk genes",
+      "Jumping genes",
+      "Silent genes",
+      "Ghost genes"
+    ],
+    "answer": "Jumping genes"
+  },
+  {
+    "id": "science-technology-1092",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Rachel Carson's 1962 book 'Silent Spring' raised public awareness about the environmental dangers of which widely used pesticide?",
+    "options": [
+      "DDT",
+      "Glyphosate",
+      "Arsenic",
+      "Mercury"
+    ],
+    "answer": "DDT"
+  },
+  {
+    "id": "science-technology-1093",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Agronomist Norman Borlaug won the Nobel Peace Prize for developing high-yield crop varieties during a movement known by what name?",
+    "options": [
+      "The Agricultural Revolution",
+      "The Green Revolution",
+      "The Industrial Revolution",
+      "The Farm Renaissance"
+    ],
+    "answer": "The Green Revolution"
+  },
+  {
+    "id": "science-technology-1094",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "Engineer Percy Spencer accidentally discovered the heating effect of microwaves in 1945 after noticing what happen in his pocket?",
+    "options": [
+      "A chocolate bar melted",
+      "A coin overheated",
+      "His keys demagnetized",
+      "His watch stopped"
+    ],
+    "answer": "A chocolate bar melted"
+  },
+  {
+    "id": "science-technology-1095",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Unlike thermoset plastics, which permanently harden when molded, 'thermoplastic' materials can be repeatedly what?",
+    "options": [
+      "Melted and reshaped",
+      "Dissolved in water",
+      "Magnetized",
+      "Carbonized"
+    ],
+    "answer": "Melted and reshaped"
+  },
+  {
+    "id": "science-technology-1096",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "In the scientific method, a testable proposed explanation for an observation is called what?",
+    "options": [
+      "A theory",
+      "A hypothesis",
+      "A law",
+      "An axiom"
+    ],
+    "answer": "A hypothesis"
+  },
+  {
+    "id": "science-technology-1097",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "In a controlled experiment, the variable that a researcher deliberately changes is called the what variable?",
+    "options": [
+      "Dependent variable",
+      "Independent variable",
+      "Control variable",
+      "Confounding variable"
+    ],
+    "answer": "Independent variable"
+  },
+  {
+    "id": "science-technology-1098",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "In an experiment, the group that does not receive the treatment being tested, kept as a baseline for comparison, is called the what group?",
+    "options": [
+      "Test group",
+      "Control group",
+      "Sample group",
+      "Null group"
+    ],
+    "answer": "Control group"
+  },
+  {
+    "id": "science-technology-1099",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Before publication, scientific research papers are typically evaluated by other experts in the field through a process called what?",
+    "options": [
+      "Editorial review",
+      "Peer review",
+      "Citation checking",
+      "Fact certification"
+    ],
+    "answer": "Peer review"
+  },
+  {
+    "id": "science-technology-1100",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "The principle that, when faced with competing explanations for something, the simplest one is usually preferred is known as what?",
+    "options": [
+      "Occam's razor",
+      "Murphy's Law",
+      "The null hypothesis",
+      "Newton's flaming laser sword"
+    ],
+    "answer": "Occam's razor"
+  },
+  {
+    "id": "science-technology-1101",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "The 'Y2K bug' was a widespread computer programming concern about how older systems stored what, as the year 2000 approached?",
+    "options": [
+      "Passwords",
+      "The year, using only two digits",
+      "File sizes",
+      "Time zones"
+    ],
+    "answer": "The year, using only two digits"
+  },
+  {
+    "id": "science-technology-1102",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "The late-1990s 'dot-com bubble' involved the rapid rise and crash in value of companies built around what emerging technology?",
+    "options": [
+      "Mobile phones",
+      "The internet",
+      "Personal computers",
+      "Video game consoles"
+    ],
+    "answer": "The internet"
+  },
+  {
+    "id": "science-technology-1103",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "The roughly 24-hour internal body clock that regulates sleep-wake cycles is called what?",
+    "options": [
+      "The metabolic cycle",
+      "The circadian rhythm",
+      "The endocrine loop",
+      "The homeostatic drive"
+    ],
+    "answer": "The circadian rhythm"
+  },
+  {
+    "id": "science-technology-1104",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "The trillions of bacteria living in the human digestive tract, now known to affect health broadly, are collectively called the gut what?",
+    "options": [
+      "Flora index",
+      "Microbiome",
+      "Enzyme pool",
+      "Bacterial matrix"
+    ],
+    "answer": "Microbiome"
+  },
+  {
+    "id": "science-technology-1105",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Any foreign substance that triggers the immune system to produce antibodies is called what?",
+    "options": [
+      "A pathogen",
+      "An antigen",
+      "A toxin",
+      "An enzyme"
+    ],
+    "answer": "An antigen"
+  },
+  {
+    "id": "science-technology-1106",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "When enough of a population is immune to a disease that it indirectly protects those who aren't, this is called what?",
+    "options": [
+      "Passive immunity",
+      "Herd immunity",
+      "Cross-immunity",
+      "Adaptive resistance"
+    ],
+    "answer": "Herd immunity"
+  },
+  {
+    "id": "science-technology-1107",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Underground layers of permeable rock that store and transmit groundwater are called what?",
+    "options": [
+      "Reservoirs",
+      "Aquifers",
+      "Watersheds",
+      "Sinkholes"
+    ],
+    "answer": "Aquifers"
+  },
+  {
+    "id": "science-technology-1108",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "Le Chatelier's Principle predicts that a chemical system at equilibrium will shift to counteract what?",
+    "options": [
+      "A change in its conditions",
+      "The passage of time",
+      "A change in its color",
+      "Its own catalyst"
+    ],
+    "answer": "A change in its conditions"
+  },
+  {
+    "id": "science-technology-1109",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "The Ideal Gas Law, PV = nRT, relates a gas's pressure and volume to its number of moles and what other quantity?",
+    "options": [
+      "Density",
+      "Temperature",
+      "Molar mass",
+      "Viscosity"
+    ],
+    "answer": "Temperature"
+  },
+  {
+    "id": "science-technology-1110",
+    "category": "science-technology",
+    "difficulty": "hard",
+    "question": "In chemistry, 'molarity' expresses a solution's concentration as the number of moles of solute per what?",
+    "options": [
+      "Gram of solvent",
+      "Liter of solution",
+      "Milliliter of solute",
+      "Mole of solvent"
+    ],
+    "answer": "Liter of solution"
+  },
+  {
+    "id": "science-technology-1111",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "An object falling through air reaches 'terminal velocity' when the force of air resistance equals what other force acting on it?",
+    "options": [
+      "Gravity",
+      "Buoyancy",
+      "Inertia",
+      "Momentum"
+    ],
+    "answer": "Gravity"
+  },
+  {
+    "id": "science-technology-1112",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "The single point where an object's entire mass can be treated as concentrated, for analyzing its motion, is called its what?",
+    "options": [
+      "Fulcrum",
+      "Center of mass",
+      "Focal point",
+      "Axis of rotation"
+    ],
+    "answer": "Center of mass"
+  },
+  {
+    "id": "science-technology-1113",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "Which type of friction between two surfaces must be overcome before a stationary object will start moving?",
+    "options": [
+      "Kinetic friction",
+      "Rolling friction",
+      "Static friction",
+      "Fluid friction"
+    ],
+    "answer": "Static friction"
+  },
+  {
+    "id": "science-technology-1114",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "Antihistamine drugs relieve allergy symptoms by blocking the effects of what chemical the body releases during an allergic reaction?",
+    "options": [
+      "Adrenaline",
+      "Histamine",
+      "Cortisol",
+      "Serotonin"
+    ],
+    "answer": "Histamine"
+  },
+  {
+    "id": "science-technology-1115",
+    "category": "science-technology",
+    "difficulty": "easy",
+    "question": "Unlike an analog signal, which varies continuously, a digital signal represents data using what?",
+    "options": [
+      "Sound waves",
+      "Discrete values like 0s and 1s",
+      "Light frequencies",
+      "Magnetic poles only"
+    ],
+    "answer": "Discrete values like 0s and 1s"
+  },
+  {
+    "id": "science-technology-1116",
+    "category": "science-technology",
+    "difficulty": "medium",
+    "question": "What term describes different structural forms of the same element, such as diamond and graphite for carbon?",
+    "options": [
+      "Isotopes",
+      "Isomers",
+      "Allotropes",
+      "Isobars"
+    ],
+    "answer": "Allotropes"
   }
 ]

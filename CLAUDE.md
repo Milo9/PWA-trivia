@@ -286,6 +286,29 @@ arts-literature have all hit this hardest). Watch for:
   automatically. Check by hand whenever a general-category draft touches
   Friends/Big Bang Theory characters or a mythology/legend fact that has
   its own dedicated category.
+  **`science-technology` surfaced both known gaps at once in a single
+  2026-09-03 batch** (found via `check-draft.js --full-answer-audit`,
+  read in full — none of these were caught by the default run). Three
+  were the group-size-cap/overlap-floor gap described above, not a
+  dupeGroup issue at all: `geography` and `history` both share
+  `dupeGroup: "general"` with `science-technology`, so a Mount Fuji
+  stratovolcano fact and a metric-system-origin fact were *checked*
+  against those categories, just phrased differently enough (longer,
+  reworded stems) to score under `SAME_ANSWER_MIN_OVERLAP` and slip past
+  the default advisory output despite an obvious shared answer. The
+  fourth was a genuine dupeGroup-boundary miss like the Friends/Big Bang
+  Theory case above: `business-brands` carries no `dupeGroup` at all
+  (fully isolated, not folded into `"general"`), so a QR-code-inventor
+  fact overlapping it was invisible to any same-dupeGroup check by
+  construction, full-answer-audit included in principle — it only
+  surfaced because full-answer-audit actually scans the *entire* corpus
+  regardless of dupeGroup, not just the draft's own group. (A fifth
+  candidate, an infrasound fact overlapping `animals-nature` — same
+  dupeGroup, same overlap-floor story as the first two — was also
+  caught this way.) Net lesson: for a category this saturated, treat
+  `--full-answer-audit`'s full output as required reading, not a
+  fallback for when the default run looks suspicious — the default run
+  gave no signal at all on any of these four.
 - **Multi-file merges need one union pass, not one check-draft run per
   file.** See "Large batches parallelized via fork agents" below.
 
@@ -907,6 +930,26 @@ more terminology. This pivot is worth reaching for on any future
 category that combines "a few hundred+ questions" with its own
 audience-scoping rule that shrinks the usable fact space faster than raw
 volume would suggest.
+
+**`science-technology` crossed this same wall by 2026-09-03**, at 1,168
+questions before that session's 202-question batch (now ~1,370) — deeper
+than `friends` (852) or `big-bang-theory` (861) were when they were
+first flagged, and `templates/science-technology.md`'s own AVOID list
+had already grown past the ~30-40 entry guideline without ever being
+pruned (see that file's MAINTENANCE NOTE). What worked at this depth:
+dump every existing answer in the category to a scratch file and read
+it (`node -e "require('./data/questions/science-technology.json').forEach(q=>console.log(q.answer))"`,
+piped to a file — cheap, ~1,100 lines) to see which sub-domains were
+visibly thin, rather than guessing from memory or the AVOID list alone;
+pick specific under-covered sub-domains (that session: pharmacology
+history, materials-science manufacturing processes, famous experiments,
+meteorology/disaster scales, genetics/biotech Nobel-prize facts, nuclear
+particle-physics basics, computing history/security incidents) instead
+of drafting generally; batch `WebSearch` verification by entity/topic
+before drafting rather than after, for every specific
+date/attribution/number claim; and over-draft by ~15% (210 drafted, 201
+survived to merge — most cuts came from `--full-answer-audit`, not the
+default check, see the "Cross-category duplicates" note above).
 
 ## What not to do
 
