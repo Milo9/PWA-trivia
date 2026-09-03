@@ -169,6 +169,27 @@ binding constraint — that's the exception, not the default.
   --full-answer-audit` (see README and the tools section below — the
   default pass alone reliably misses a large fraction of real
   duplicates). See README for the draft file format and full workflow.
+- **When Claude drafts a batch itself directly into a scratch file (as
+  opposed to using one of the `templates/` prompts handed to an external
+  agent), explicitly shuffle each question's option order before running
+  check-draft — don't rely on writing them in a "natural" order.**
+  Confirmed 2026-09-03 drafting a 233-question science-technology batch:
+  every single question had the correct answer sitting in `options[0]`,
+  because that's the order it's natural to write them in when composing
+  a question and its distractors together, and nothing catches this
+  automatically — neither `check-draft.js` nor `validate.js` checks
+  answer-position distribution at all (the external-agent templates tell
+  the drafting agent to vary position themselves, but a Claude-authored
+  scratch draft has no equivalent reminder anywhere in this workflow).
+  Caught only by a one-off manual check
+  (`options.indexOf(answer)` tallied across the draft) run on a hunch
+  after merging felt too easy — this would have shipped 233 questions
+  where the answer was always "A" if that check hadn't happened. Fix by
+  shuffling `options` per-question (a seeded shuffle is fine, keeps the
+  run reproducible) right before the check-draft pass, then re-running
+  check-draft afterward to confirm the shuffle didn't introduce anything
+  new (it can't logically, since `answer` is matched by string not
+  position, but it's a free confirmation).
 - **Check that an inbox file actually parses before running
   check-draft on it.** An external agent's draft can contain invalid
   JS/JSON (e.g. unescaped quotes inside a `question` string) that makes
@@ -950,6 +971,36 @@ before drafting rather than after, for every specific
 date/attribution/number claim; and over-draft by ~15% (210 drafted, 201
 survived to merge — most cuts came from `--full-answer-audit`, not the
 default check, see the "Cross-category duplicates" note above).
+
+**A second science-technology session on 2026-09-03 (same day, ~1,370
+questions going in, ~1,600 coming out) got a much lower cut rate — 233
+drafted, only 2 cut — by picking sub-domains genuinely adjacent to, but
+outside, everything the AVOID list already names**, rather than
+continuing to mine the same well-covered territory harder: batteries/
+energy-storage history, forensic-science techniques, medical devices/
+diagnostics (as opposed to imaging history, which was already covered),
+electricity/circuit fundamentals (diode, resistor, transformer, relay —
+components that had shown up only as *distractors* in existing
+questions, never a correct answer), robotics/automation history, optics/
+acoustics beyond what was covered, polymers/ceramics/composites,
+aviation/aerospace engineering, immunology/vaccine-technology types
+(inactivated/subunit/toxoid/conjugate — again, terms already floating
+around the corpus only as distractors), renewable-energy mechanics, and
+general chemistry fundamentals (titration, buffer, molar mass). The one
+confirmed duplicate (a robot-word-etymology fact) was a cross-category
+hit against `world-cultures`, not against `science-technology` itself.
+Two takeaways: (1) "memory-only drafting is exhausted" describes the
+*angles already drafted*, not the category's whole fact space — a
+category can still have plenty of clean, memory-confident material left
+once you stop re-approaching the same chestnut-dense corners (unit
+lookups, famous scientists, famous experiments, computing acronyms) and
+instead ask "what adjacent sub-domain has never been touched at all,"
+the same way `find-gaps.js` surfaces answers that only ever show up as
+wrong options; (2) grepping the corpus for a candidate term (e.g.
+`grep -i "diode"`) and confirming it never appears as an `"answer"`
+value, only in `"options"`, is a cheap, high-confidence green light
+before drafting that specific fact — cheaper than a WebSearch and a
+stronger signal than eyeballing the AVOID list.
 
 ## What not to do
 
