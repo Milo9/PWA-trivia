@@ -12,6 +12,13 @@
   --incorrect: #ff3860;
   --border: #3a2a5c;
   --shadow-deep: #05030c;
+  /* Fixed dark text used on top of solid/gradient accent fills (buttons,
+     active chips, the streak badge) — those fills are bright in dark theme,
+     so a dark foreground reads clearly. Light theme's accent fills are
+     deliberately darkened for their own on-surface contrast (see below),
+     which makes them too dark for this same near-black text — flips to
+     white there instead. */
+  --on-accent: #14061b;
 
   --card-1: #ff2ec4;
   --card-2: #22e3ff;
@@ -21,6 +28,78 @@
   --card-6: #b26bff;
   --card-7: #3d8bff;
   --card-8: #ff5470;
+}
+
+/* Light theme: darker/more-saturated variants of the same accent hues, since
+   several (--accent-2, --card-N) double as foreground text color, not just
+   decoration — the neon dark-mode values fail contrast on a light surface.
+   Two copies (system-preference-driven default, then an explicit override)
+   are unavoidable without CSS nesting; keep them in sync if either changes. */
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="dark"]) {
+    --bg: #f6f3fb;
+    --surface: #ffffff;
+    --surface-raised: #efe9fa;
+    --text: #1c1730;
+    --text-muted: #5b5478;
+    --accent: #c2058f;
+    --accent-rgb: 194, 5, 143;
+    --accent-2: #007b9e;
+    --accent-3: #9c6b00;
+    --correct: #0b7a4d;
+    --incorrect: #d81c46;
+    --border: #ddd4ef;
+    --shadow-deep: #cabfe0;
+    --on-accent: #ffffff;
+
+    --card-1: #c2058f;
+    --card-2: #007b9e;
+    --card-3: #9c6b00;
+    --card-4: #0b7a4d;
+    --card-5: #b34f00;
+    --card-6: #7c3fd1;
+    --card-7: #1f5fd1;
+    --card-8: #d81c46;
+  }
+}
+
+:root[data-theme="light"] {
+  --bg: #f6f3fb;
+  --surface: #ffffff;
+  --surface-raised: #efe9fa;
+  --text: #1c1730;
+  --text-muted: #5b5478;
+  --accent: #c2058f;
+  --accent-rgb: 194, 5, 143;
+  --accent-2: #007b9e;
+  --accent-3: #9c6b00;
+  --correct: #0b7a4d;
+  --incorrect: #d81c46;
+  --border: #ddd4ef;
+  --shadow-deep: #cabfe0;
+  --on-accent: #ffffff;
+
+  --card-1: #c2058f;
+  --card-2: #007b9e;
+  --card-3: #9c6b00;
+  --card-4: #0b7a4d;
+  --card-5: #b34f00;
+  --card-6: #7c3fd1;
+  --card-7: #1f5fd1;
+  --card-8: #d81c46;
+}
+
+/* The blurred background blobs read as a neon glow against dark surfaces at
+   45% opacity, but the same treatment looks like a muddy smudge on a light
+   surface — keep them present but much subtler in light theme. */
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="dark"]) .bg-blob {
+    opacity: 0.18;
+  }
+}
+
+:root[data-theme="light"] .bg-blob {
+  opacity: 0.18;
 }
 
 * {
@@ -128,6 +207,17 @@ html, body {
 
 .hidden {
   display: none !important;
+}
+
+/* Unlike .hidden, keeps an element's layout space reserved even while it's
+   not showing. Used for the quiz screen's Next and 50/50 buttons: .options-
+   list is bottom-anchored via margin-top:auto (see below), so if either
+   button collapsed out of flow (display:none) when hidden, the freed-up
+   space would flow into that auto margin and the options would visibly
+   jump — Next appearing after every answer, or the lifeline vanishing
+   after its one use or once a question's been answered. */
+.layout-hidden {
+  visibility: hidden;
 }
 
 .app-header {
@@ -246,7 +336,7 @@ html, body {
   top: 1px;
   width: 5px;
   height: 9px;
-  border: solid #0a0714;
+  border: solid var(--bg);
   border-width: 0 2px 2px 0;
   transform: rotate(45deg);
 }
@@ -267,6 +357,13 @@ html, body {
   line-height: 1.25;
 }
 
+.category-meta {
+  font-size: 0.72rem;
+  font-weight: 600;
+  color: var(--text-muted);
+  overflow-wrap: break-word;
+}
+
 .quick-play-btn {
   margin-top: 0;
   margin-bottom: 14px;
@@ -279,11 +376,21 @@ html, body {
 }
 
 .selection-bar {
+  position: sticky;
+  bottom: calc(12px + env(safe-area-inset-bottom));
+  z-index: 5;
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: 12px;
   margin-top: 12px;
+  padding: 10px;
+  border-radius: 20px;
+  background: color-mix(in srgb, var(--surface) 92%, transparent);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid var(--border);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4);
 }
 
 .selection-bar .primary-btn {
@@ -338,9 +445,17 @@ html, body {
 .toggle-btn.active {
   border-color: var(--accent);
   background: linear-gradient(135deg, var(--accent), var(--card-6));
-  color: #14061b;
+  color: var(--on-accent);
   box-shadow: 0 0 16px rgba(var(--accent-rgb), 0.5);
   transform: translateY(-1px);
+}
+
+.toggle-btn-count {
+  display: block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  opacity: 0.7;
+  margin-top: 2px;
 }
 
 .toggle-btn:disabled {
@@ -500,6 +615,8 @@ html, body {
 .quiz-body {
   position: relative;
   flex: 1;
+  display: flex;
+  flex-direction: column;
   background: linear-gradient(160deg, var(--surface-raised), var(--surface));
   border: 1px solid var(--border);
   border-radius: 20px;
@@ -515,7 +632,7 @@ html, body {
   align-items: center;
   gap: 4px;
   background: linear-gradient(135deg, var(--accent-3), var(--accent));
-  color: #1a1025;
+  color: var(--on-accent);
   font-weight: 800;
   font-size: 0.85rem;
   padding: 6px 12px;
@@ -564,6 +681,11 @@ html, body {
   display: flex;
   flex-direction: column;
   gap: 12px;
+  /* Pushes options (and the lifeline button after them) down to the bottom
+     of the card, next to where the quiz screen's fixed Next button sits —
+     keeps the question readable at the top while the tap targets and the
+     advance action live in the same one-handed reach zone. */
+  margin-top: auto;
 }
 
 .option-btn {
@@ -674,7 +796,7 @@ html, body {
 
 .primary-btn {
   background: linear-gradient(135deg, var(--accent-2), var(--accent));
-  color: #14061b;
+  color: var(--on-accent);
   border: none;
   border-radius: 16px;
   padding: 17px;
@@ -881,6 +1003,7 @@ html, body {
 
 .prefs-row {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   gap: 10px;
   margin-bottom: 10px;
@@ -907,6 +1030,11 @@ html, body {
 
 .lifeline-btn {
   display: inline-block;
+  /* .quiz-body is a flex column now (for bottom-anchoring .options-list);
+     flex items stretch to the container's full cross-axis width by default,
+     which would blow this up from a shrink-to-fit pill into a full-width
+     bar. */
+  align-self: flex-start;
   margin-top: 14px;
   background: var(--surface);
   border: 1px solid var(--current-accent, var(--accent-2));
@@ -922,10 +1050,6 @@ html, body {
 
 .lifeline-btn:active {
   transform: translateY(2px);
-}
-
-.lifeline-btn.hidden {
-  display: none;
 }
 
 .option-btn.eliminated {

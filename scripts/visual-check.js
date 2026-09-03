@@ -94,6 +94,7 @@ async function main() {
     console.log("Loading app...");
     await page.goto(`http://localhost:${PORT}/`);
     await page.waitForSelector("#category-list .category-card");
+    await page.waitForTimeout(350); // let the .screen-in fade/slide finish before capturing
     await shot(page, "categories");
 
     // Sound/auto-advance prefs toggle (footer)

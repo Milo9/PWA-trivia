@@ -106,6 +106,7 @@ const el = {
   quickPlayBtn: document.getElementById("quick-play-btn"),
   soundToggleBtn: document.getElementById("sound-toggle-btn"),
   autoAdvanceToggleBtn: document.getElementById("auto-advance-toggle-btn"),
+  themeToggleBtn: document.getElementById("theme-toggle-btn"),
 
   settingsCategoryName: document.getElementById("settings-category-name"),
   modeOptions: document.getElementById("mode-options"),
@@ -177,8 +178,12 @@ function shuffle(array) {
 
 const PREFS_KEY = "offline-trivia:prefs";
 
+function systemPrefersLightTheme() {
+  return !!(window.matchMedia && window.matchMedia("(prefers-color-scheme: light)").matches);
+}
+
 function defaultPrefs() {
-  return { sound: true, autoAdvance: true };
+  return { sound: true, autoAdvance: true, theme: systemPrefersLightTheme() ? "light" : "dark" };
 }
 
 function loadPrefs() {
@@ -200,11 +205,23 @@ function savePrefs(prefs) {
 
 const prefs = loadPrefs();
 
+// Applied on load (in addition to index.html's inline pre-paint script,
+// which only covers the case where a theme was already saved) and again
+// whenever the theme toggle is pressed. Also syncs the browser-chrome tint
+// (theme-color) so it doesn't stay dark-mode-colored in a light session.
+function applyTheme() {
+  document.documentElement.setAttribute("data-theme", prefs.theme);
+  const meta = document.querySelector('meta[name="theme-color"]');
+  if (meta) meta.setAttribute("content", prefs.theme === "light" ? "#f6f3fb" : "#0a0714");
+}
+
 function renderPrefsRow() {
   el.soundToggleBtn.textContent = prefs.sound ? "🔊 Sound On" : "🔇 Sound Off";
   el.soundToggleBtn.classList.toggle("active", prefs.sound);
   el.autoAdvanceToggleBtn.textContent = prefs.autoAdvance ? "⏭ Auto-Advance On" : "⏭ Auto-Advance Off";
   el.autoAdvanceToggleBtn.classList.toggle("active", prefs.autoAdvance);
+  el.themeToggleBtn.textContent = prefs.theme === "light" ? "☀️ Light Mode" : "🌙 Dark Mode";
+  el.themeToggleBtn.classList.toggle("active", prefs.theme === "light");
 }
 
 el.soundToggleBtn.addEventListener("click", () => {
@@ -219,6 +236,14 @@ el.autoAdvanceToggleBtn.addEventListener("click", () => {
   renderPrefsRow();
 });
 
+el.themeToggleBtn.addEventListener("click", () => {
+  prefs.theme = prefs.theme === "light" ? "dark" : "light";
+  savePrefs(prefs);
+  applyTheme();
+  renderPrefsRow();
+});
+
+applyTheme();
 renderPrefsRow();
 
 const PICKER_STATE_KEY = "offline-trivia:picker-state";
@@ -464,11 +489,14 @@ function renderCategoryList() {
     const isSelected = state.selectedCategoryIds.has(cat.id);
     btn.className = "category-card" + (isSelected ? " selected" : "");
     btn.disabled = cat.questions.length === 0;
+    const statLine = categoryStatsLine(cat.id);
+    const metaLine = `${cat.questions.length} question${cat.questions.length === 1 ? "" : "s"}${statLine ? " · " + statLine : ""}`;
     btn.innerHTML = `
       <span class="category-check" aria-hidden="true"></span>
       <span class="category-icon" aria-hidden="true">${categoryIcon(cat.id)}</span>
       <span class="category-info">
         <span class="category-name">${cat.name}</span>
+        <span class="category-meta">${metaLine}</span>
       </span>
     `;
     btn.addEventListener("click", () => toggleCategorySelection(cat.id));
@@ -557,6 +585,7 @@ function settingsTitle(categories) {
 
 function renderSettingsScreen() {
   el.settingsCategoryName.textContent = settingsTitle(state.pendingCategories);
+  const combinedQuestions = state.pendingCategories.flatMap((c) => c.questions);
 
   el.modeOptions.innerHTML = "";
   for (const mode of MODE_OPTIONS) {
@@ -591,7 +620,8 @@ function renderSettingsScreen() {
   for (const diff of DIFFICULTY_OPTIONS) {
     const btn = document.createElement("button");
     btn.className = "toggle-btn" + (state.settings.difficulty === diff.id ? " active" : "");
-    btn.textContent = diff.label;
+    const count = filterByDifficulty(combinedQuestions, diff.id).length;
+    btn.innerHTML = `${diff.label}<span class="toggle-btn-count">${count}</span>`;
     btn.addEventListener("click", () => {
       state.settings.difficulty = diff.id;
       savePickerState();
@@ -600,7 +630,6 @@ function renderSettingsScreen() {
     el.difficultyOptions.appendChild(btn);
   }
 
-  const combinedQuestions = state.pendingCategories.flatMap((c) => c.questions);
   const pool = filterByDifficulty(combinedQuestions, state.settings.difficulty);
   if (isSurvival) {
     const cap = Math.min(SURVIVAL_POOL_CAP, pool.length);
@@ -1003,9 +1032,9 @@ function renderQuestion() {
   el.questionText.textContent = q.question;
   el.screenQuiz.style.setProperty("--current-accent", categoryAccentVar(q.category));
   renderQuizStatus();
-  el.nextBtn.classList.add("hidden");
+  el.nextBtn.classList.add("layout-hidden");
   updateStreakBadge(false);
-  el.lifelineBtn.classList.toggle("hidden", state.lifelineUsed);
+  el.lifelineBtn.classList.toggle("layout-hidden", state.lifelineUsed);
 
   // Re-trigger the entrance animation on a fresh question (remove/reflow/add,
   // same trick flashMilestone uses) — a plain class add wouldn't restart the
@@ -1051,7 +1080,7 @@ el.lifelineBtn.addEventListener("click", () => {
     btn.classList.add("eliminated");
   }
   state.lifelineUsed = true;
-  el.lifelineBtn.classList.add("hidden");
+  el.lifelineBtn.classList.add("layout-hidden");
   // Not checkpointed here deliberately — saves only happen at question
   // boundaries (see saveActiveRound's comment). Worst case on an interrupted
   // reload: the player gets their lifeline back on the same fresh question.
@@ -1096,7 +1125,7 @@ function selectAnswer(selected) {
   saveSeenIds(q.category, state.seenByCat[q.category]);
   saveActiveRound();
 
-  el.lifelineBtn.classList.add("hidden");
+  el.lifelineBtn.classList.add("layout-hidden");
 
   for (const btn of el.optionsList.children) {
     btn.disabled = true;
@@ -1112,7 +1141,7 @@ function selectAnswer(selected) {
   const roundWillBeOver = state.mode === "survival" && state.lives <= 0
     ? true
     : state.currentIndex + 1 >= state.roundQuestions.length;
-  el.nextBtn.classList.remove("hidden");
+  el.nextBtn.classList.remove("layout-hidden");
   el.nextBtn.textContent = roundWillBeOver ? "See Results" : "Next";
 
   // Auto-advance only past correct answers, so a miss still waits for a

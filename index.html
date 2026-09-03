@@ -10,6 +10,21 @@
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="Trivia" />
+  <script>
+    // Applies a saved theme override before first paint, so a light-theme
+    // user doesn't see a flash of the default dark palette on every launch.
+    (function () {
+      try {
+        var raw = localStorage.getItem("offline-trivia:prefs");
+        var theme = raw && JSON.parse(raw).theme;
+        if (theme === "light" || theme === "dark") {
+          document.documentElement.setAttribute("data-theme", theme);
+        }
+      } catch (e) {
+        // localStorage unavailable — falls back to the prefers-color-scheme default
+      }
+    })();
+  </script>
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
@@ -39,6 +54,7 @@
         <div id="prefs-row" class="prefs-row">
           <button id="sound-toggle-btn" class="pref-toggle-btn" type="button"></button>
           <button id="auto-advance-toggle-btn" class="pref-toggle-btn" type="button"></button>
+          <button id="theme-toggle-btn" class="pref-toggle-btn" type="button"></button>
         </div>
         <button id="reset-stats-btn" class="text-btn hidden">Reset Stats</button>
         <p id="app-version" class="app-version"></p>
@@ -84,9 +100,9 @@
         <p id="question-category" class="question-category"></p>
         <h2 id="question-text" class="question-text"></h2>
         <div id="options-list" class="options-list"></div>
-        <button id="lifeline-btn" class="lifeline-btn hidden" type="button">50:50</button>
+        <button id="lifeline-btn" class="lifeline-btn layout-hidden" type="button">50:50</button>
       </div>
-      <button id="next-btn" class="primary-btn hidden">Next</button>
+      <button id="next-btn" class="primary-btn layout-hidden">Next</button>
     </section>
 
     <section id="screen-results" class="screen hidden">
