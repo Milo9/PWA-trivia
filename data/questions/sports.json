@@ -7278,5 +7278,460 @@
       "Cycling"
     ],
     "answer": "Horse racing"
+  },
+  {
+    "id": "sports-668",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In golf, what is the term for finishing a hole one stroke over par?",
+    "options": [
+      "Albatross",
+      "Bogey",
+      "Birdie",
+      "Eagle"
+    ],
+    "answer": "Bogey"
+  },
+  {
+    "id": "sports-669",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "In tennis, what is the term for a score of zero points in a game?",
+    "options": [
+      "Blank",
+      "Nil",
+      "Love",
+      "Zero"
+    ],
+    "answer": "Love"
+  },
+  {
+    "id": "sports-670",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In tennis, what is it called when both players reach 40 points in a single game?",
+    "options": [
+      "Match point",
+      "Advantage",
+      "Deuce",
+      "Tiebreak"
+    ],
+    "answer": "Deuce"
+  },
+  {
+    "id": "sports-671",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "In tennis, what do you call a serve that the returning player fails to touch at all?",
+    "options": [
+      "Let",
+      "Winner",
+      "Ace",
+      "Fault"
+    ],
+    "answer": "Ace"
+  },
+  {
+    "id": "sports-672",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In basketball, what is the popular term for a shot that goes cleanly through the net without touching the rim or backboard?",
+    "options": [
+      "Clean sweep",
+      "Swish",
+      "Net drive",
+      "Nothing but air"
+    ],
+    "answer": "Swish"
+  },
+  {
+    "id": "sports-673",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In basketball, what is the violation called when a player takes too many steps without dribbling the ball?",
+    "options": [
+      "Carrying",
+      "Palming",
+      "Traveling",
+      "Charging"
+    ],
+    "answer": "Traveling"
+  },
+  {
+    "id": "sports-674",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In basketball, what foul occurs when a player dribbles with both hands at once or stops and restarts their dribble?",
+    "options": [
+      "Double dribble",
+      "Palming",
+      "Backcourt violation",
+      "Carrying"
+    ],
+    "answer": "Double dribble"
+  },
+  {
+    "id": "sports-675",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "In baseball, how many balls must a pitcher throw outside the strike zone for the batter to be awarded a walk?",
+    "options": [
+      "Four",
+      "Three",
+      "Five",
+      "Six"
+    ],
+    "answer": "Four"
+  },
+  {
+    "id": "sports-676",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "In baseball, how many strikes result in a batter being called out?",
+    "options": [
+      "Four",
+      "Five",
+      "Two",
+      "Three"
+    ],
+    "answer": "Three"
+  },
+  {
+    "id": "sports-677",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "In soccer, which colored card does a referee show a player to eject them from the match?",
+    "options": [
+      "Black card",
+      "Blue card",
+      "Red card",
+      "Yellow card"
+    ],
+    "answer": "Red card"
+  },
+  {
+    "id": "sports-678",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In soccer, what procedure decides the winner of a knockout match still tied after extra time?",
+    "options": [
+      "Coin toss",
+      "Sudden death goal",
+      "Golden goal",
+      "Penalty shootout"
+    ],
+    "answer": "Penalty shootout"
+  },
+  {
+    "id": "sports-679",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In soccer, what is it called when a player accidentally kicks the ball into their own team's goal?",
+    "options": [
+      "Own goal",
+      "Reverse goal",
+      "Self goal",
+      "Backfire"
+    ],
+    "answer": "Own goal"
+  },
+  {
+    "id": "sports-680",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "In boxing, what do you call it when a fighter is knocked down and unable to get up before the referee counts to ten?",
+    "options": [
+      "Retirement",
+      "Knockout",
+      "Disqualification",
+      "Technical knockout"
+    ],
+    "answer": "Knockout"
+  },
+  {
+    "id": "sports-681",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In mixed martial arts and wrestling, what do you call it when a competitor concedes defeat, often by tapping the mat or their opponent?",
+    "options": [
+      "Submission",
+      "Pin",
+      "Forfeit",
+      "Disqualification"
+    ],
+    "answer": "Submission"
+  },
+  {
+    "id": "sports-682",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In competitive swimming, an individual medley race requires a swimmer to use how many different strokes?",
+    "options": [
+      "Two",
+      "Three",
+      "Five",
+      "Four"
+    ],
+    "answer": "Four"
+  },
+  {
+    "id": "sports-683",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In track and field, what is the name of the jumping event in which an athlete performs a hop, a step, and a jump in one continuous motion?",
+    "options": [
+      "Long jump",
+      "Triple jump",
+      "Pole vault",
+      "High jump"
+    ],
+    "answer": "Triple jump"
+  },
+  {
+    "id": "sports-684",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "What is the name for a tournament format in which a single loss eliminates a team or player from further competition?",
+    "options": [
+      "Round robin",
+      "Single elimination",
+      "Swiss system",
+      "Group stage"
+    ],
+    "answer": "Single elimination"
+  },
+  {
+    "id": "sports-685",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "What is the name for a tournament format in which every competitor plays every other competitor at least once?",
+    "options": [
+      "Single elimination",
+      "Round robin",
+      "Ladder format",
+      "Bracket play"
+    ],
+    "answer": "Round robin"
+  },
+  {
+    "id": "sports-686",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "In golf, what is the popular term for sinking the ball into the hole with a single shot from the tee?",
+    "options": [
+      "Hole-in-one",
+      "Birdie",
+      "Clean strike",
+      "Perfect shot"
+    ],
+    "answer": "Hole-in-one"
+  },
+  {
+    "id": "sports-687",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In bowling, what is the term for a ball that rolls into the channel beside the lane without knocking down any pins?",
+    "options": [
+      "Split",
+      "Foul ball",
+      "Gutter ball",
+      "Dead ball"
+    ],
+    "answer": "Gutter ball"
+  },
+  {
+    "id": "sports-688",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In bowling, what is it called when a player's first roll leaves standing pins with a gap between them, making it hard to knock them all down on the second roll?",
+    "options": [
+      "A split",
+      "A spare",
+      "A strike",
+      "A turkey"
+    ],
+    "answer": "A split"
+  },
+  {
+    "id": "sports-689",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In pool or billiards, what is it called when a player accidentally sinks the cue ball into a pocket, resulting in a foul?",
+    "options": [
+      "A scratch",
+      "A break",
+      "A kiss",
+      "A miss"
+    ],
+    "answer": "A scratch"
+  },
+  {
+    "id": "sports-690",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In American football, how many downs does an offense get to advance the ball at least 10 yards before losing possession?",
+    "options": [
+      "Six",
+      "Four",
+      "Three",
+      "Five"
+    ],
+    "answer": "Four"
+  },
+  {
+    "id": "sports-691",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In artistic gymnastics and diving, before scoring changed in 2006, what was the highest possible score a judge could award for a flawless routine?",
+    "options": [
+      "Fifty",
+      "Ten",
+      "One hundred",
+      "Nine"
+    ],
+    "answer": "Ten"
+  },
+  {
+    "id": "sports-692",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Which fast-growing paddle sport, played on a badminton-sized court with a net and a perforated plastic ball, has become one of the most popular recreational sports in the US in recent years?",
+    "options": [
+      "Platform tennis",
+      "Racquetball",
+      "Pickleball",
+      "Padel"
+    ],
+    "answer": "Pickleball"
+  },
+  {
+    "id": "sports-693",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In cycling's Tour de France, what color jersey is awarded to the rider with the lowest overall race time?",
+    "options": [
+      "Polka dot jersey",
+      "Green jersey",
+      "Yellow jersey",
+      "White jersey"
+    ],
+    "answer": "Yellow jersey"
+  },
+  {
+    "id": "sports-694",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In curling, what is the name of the heavy, polished piece of granite that players slide down the ice toward a target?",
+    "options": [
+      "Stone",
+      "Disc",
+      "Puck",
+      "Boulder"
+    ],
+    "answer": "Stone"
+  },
+  {
+    "id": "sports-695",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In archery, what is the name of the small central circle on the target that scores the highest points?",
+    "options": [
+      "Core",
+      "Center ring",
+      "Bullseye",
+      "Gold zone"
+    ],
+    "answer": "Bullseye"
+  },
+  {
+    "id": "sports-696",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In weightlifting, which Olympic lift is performed in two stages: first pulling the bar to shoulder height, then pressing it overhead?",
+    "options": [
+      "Snatch",
+      "Squat",
+      "Clean and jerk",
+      "Deadlift"
+    ],
+    "answer": "Clean and jerk"
+  },
+  {
+    "id": "sports-697",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In gymnastics, on which apparatus, used only by male gymnasts, do athletes swing their bodies in circular motions while gripping handles on a padded frame?",
+    "options": [
+      "Vault",
+      "Balance beam",
+      "Rings",
+      "Pommel horse"
+    ],
+    "answer": "Pommel horse"
+  },
+  {
+    "id": "sports-698",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "What do you call a horse race in which a single horse wins all three legs of a country's premier racing series, such as America's Triple Crown?",
+    "options": [
+      "A Triple Crown",
+      "A Grand Slam",
+      "A Clean Sweep",
+      "A Photo Finish"
+    ],
+    "answer": "A Triple Crown"
+  },
+  {
+    "id": "sports-699",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Which sport, played in a swimming pool, combines swimming with a handball-like game where two teams try to score in a goal while treading water?",
+    "options": [
+      "Water polo",
+      "Rowing",
+      "Water skiing",
+      "Synchronized swimming"
+    ],
+    "answer": "Water polo"
+  },
+  {
+    "id": "sports-700",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "Which sport, testing speed, endurance, and technical skill on an artificial wall, also made its Olympic debut at the 2020 Tokyo Games?",
+    "options": [
+      "Bouldering",
+      "Mountaineering",
+      "Parkour",
+      "Sport climbing"
+    ],
+    "answer": "Sport climbing"
+  },
+  {
+    "id": "sports-701",
+    "category": "sports",
+    "difficulty": "medium",
+    "question": "In competitive cycling, what is the large main group of riders, who conserve energy by drafting closely behind one another, called?",
+    "options": [
+      "Echelon",
+      "Peloton",
+      "Breakaway",
+      "Domestique"
+    ],
+    "answer": "Peloton"
+  },
+  {
+    "id": "sports-702",
+    "category": "sports",
+    "difficulty": "easy",
+    "question": "Which sport, played on horseback with players using long-handled mallets to hit a ball into the opposing team's goal, is one of the oldest known team sports?",
+    "options": [
+      "Horseball",
+      "Buzkashi",
+      "Polo",
+      "Pato"
+    ],
+    "answer": "Polo"
   }
 ]

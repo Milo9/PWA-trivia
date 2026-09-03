@@ -1093,6 +1093,55 @@ of it) has been drafted at all before concluding the category is
 exhausted — it usually hasn't, because concept questions don't fit the
 "surprising fact about X" mold most drafting sessions default to.
 
+## Accessibility-constrained drafting hits the corpus's most-mined layer
+
+A request for a batch of only broadly accessible/casual-difficulty
+questions (asked with no category preference, "not niche, answerable by
+an average intelligent person") is a fundamentally different drafting
+constraint than the default "avoid the obvious, favor lesser-known"
+instruction baked into every `templates/<category>.md` prompt — and it
+routinely collides *harder* with the existing corpus than a normal
+batch would, not easier, because "accessible" facts are exactly the
+ones a fact-hungry corpus with 20,000+ questions has been mining hardest
+for years. Confirmed 2026-09-03 drafting 200 such questions
+(music-942–1022, world-cultures-1535–1622, sports-668–702, chosen after
+ruling out history/geography/space-astronomy/food-drink/general — their
+own `templates/*.md` AVOID lists were already wall-to-wall chestnuts,
+the opposite signal from what an accessible-only batch needs): the
+default `check-draft.js` pass alone cut ~15-20% of each category's
+draft, and `--full-answer-audit` plus a manual read caught a further
+similar-sized slice — total cut rates of 24% (music, 92→70 before a
+top-up), 15% (world-cultures, 89→76 before a top-up), and 33% (sports,
+46→31 before a small top-up), before topping each back up toward the
+200 target. Sports was the extreme case: the casual-audience rule's own
+"basic rules and terminology" lane is *also* the most heavily pre-mined
+lane in that category (see `templates/sports.md`'s 2026-09-03 addition),
+so aiming for "accessible" and aiming for "not yet asked" pointed at
+almost the same exhausted territory.
+
+**Before picking categories for a request like this, spot-check each
+candidate's own template file, not just its question count.** A
+template whose AVOID list already reads as a list of *famous, obvious*
+facts (not obscure ones) is a signal the category's accessible band is
+thin, regardless of how "deep" or "shallow" the category looks by raw
+count — geography's AVOID list is longer than almost any other category
+specifically because capital-city and superlative lookups (the most
+accessible geography angles there are) have been drafted over and over.
+Categories whose AVOID lists lean toward specific/niche items (music,
+world-cultures at the time of this session) are a better bet than ones
+whose AVOID lists are dominated by "first/only/largest X" or "how many Y
+per Z" — those are already-mined accessible chestnuts.
+
+**Once drafting, over-draft by more than the usual ~15%** for this
+constraint specifically — 20-25% is safer, since the duplicate rate runs
+higher than a normal batch. A same-day top-up round (drafting a smaller
+second pass once the real cut rate is known, targeting sub-domains that
+scored zero collisions in the first pass — e.g. world-cultures'
+dress/textile/dwelling angles and music's instrument-family angles both
+came back completely clean while "famous musician" and "famous
+custom/festival" facts got hit hardest) is a cheap way to close the gap
+without redrafting the whole batch from scratch.
+
 ## What not to do
 
 - Don't add a build step, framework, or bundler — this is intentionally

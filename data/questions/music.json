@@ -13245,5 +13245,1058 @@
     ],
     "answer": "Harp",
     "id": "music-941"
+  },
+  {
+    "id": "music-942",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which family of orchestral instruments does the trombone belong to?",
+    "options": [
+      "Brass",
+      "Percussion",
+      "Woodwind",
+      "String"
+    ],
+    "answer": "Brass"
+  },
+  {
+    "id": "music-943",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Despite being made of metal, the saxophone is technically classified in which instrument family?",
+    "options": [
+      "Brass",
+      "String",
+      "Woodwind",
+      "Percussion"
+    ],
+    "answer": "Woodwind"
+  },
+  {
+    "id": "music-944",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "How many strings does a standard classical guitar have?",
+    "options": [
+      "Four",
+      "Six",
+      "Seven",
+      "Five"
+    ],
+    "answer": "Six"
+  },
+  {
+    "id": "music-945",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which is the largest and lowest-pitched instrument in the orchestral string family?",
+    "options": [
+      "Cello",
+      "Double bass",
+      "Viola",
+      "Violin"
+    ],
+    "answer": "Double bass"
+  },
+  {
+    "id": "music-946",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "What is the short stick a conductor uses to direct an orchestra called?",
+    "options": [
+      "Wand",
+      "Cue",
+      "Baton",
+      "Mallet"
+    ],
+    "answer": "Baton"
+  },
+  {
+    "id": "music-947",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which keyboard instrument produces sound by forcing air through large pipes and is commonly found in churches?",
+    "options": [
+      "Accordion",
+      "Piano",
+      "Organ",
+      "Harpsichord"
+    ],
+    "answer": "Organ"
+  },
+  {
+    "id": "music-948",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "What is the small, high-pitched relative of the flute often heard in marching bands?",
+    "options": [
+      "Recorder",
+      "Fife",
+      "Piccolo",
+      "Ocarina"
+    ],
+    "answer": "Piccolo"
+  },
+  {
+    "id": "music-949",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which double-reed woodwind instrument traditionally sounds the pitch the rest of the orchestra tunes to?",
+    "options": [
+      "Bassoon",
+      "Clarinet",
+      "Flute",
+      "Oboe"
+    ],
+    "answer": "Oboe"
+  },
+  {
+    "id": "music-950",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "In a standard drum kit, what is the large drum played with a foot pedal called?",
+    "options": [
+      "Floor tom",
+      "Hi-hat",
+      "Bass drum",
+      "Snare drum"
+    ],
+    "answer": "Bass drum"
+  },
+  {
+    "id": "music-951",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which bellows-driven instrument, played by squeezing while pressing buttons or keys, is a staple of polka and zydeco music?",
+    "options": [
+      "Accordion",
+      "Concertina",
+      "Harmonica",
+      "Bagpipes"
+    ],
+    "answer": "Accordion"
+  },
+  {
+    "id": "music-952",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which Scottish wind instrument is famously played at both military ceremonies and weddings, using a bag to maintain continuous airflow?",
+    "options": [
+      "Fife",
+      "Accordion",
+      "Bugle",
+      "Bagpipes"
+    ],
+    "answer": "Bagpipes"
+  },
+  {
+    "id": "music-953",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "What is the traditional Hawaiian four-stringed instrument, popular in island and folk music, called?",
+    "options": [
+      "Lute",
+      "Ukulele",
+      "Mandolin",
+      "Banjo"
+    ],
+    "answer": "Ukulele"
+  },
+  {
+    "id": "music-954",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "What is the fretted, long-necked string instrument with a distinctive twangy sound, closely associated with American folk and bluegrass music?",
+    "options": [
+      "Dulcimer",
+      "Banjo",
+      "Mandolin",
+      "Sitar"
+    ],
+    "answer": "Banjo"
+  },
+  {
+    "id": "music-955",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which genre, developed by African American musicians in the Mississippi Delta in the late 19th century, heavily influenced the later rise of jazz and rock and roll?",
+    "options": [
+      "Gospel",
+      "Ragtime",
+      "Blues",
+      "Zydeco"
+    ],
+    "answer": "Blues"
+  },
+  {
+    "id": "music-956",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Besides rapping and DJing, which street dance style is considered one of hip-hop's four foundational elements?",
+    "options": [
+      "Ballet",
+      "Line dancing",
+      "Tap dancing",
+      "Breakdancing"
+    ],
+    "answer": "Breakdancing"
+  },
+  {
+    "id": "music-957",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which fast-tempo electronic dance genre, built on hard, machine-driven beats, was pioneered in Detroit during the 1980s?",
+    "options": [
+      "Trance",
+      "House",
+      "Dubstep",
+      "Techno"
+    ],
+    "answer": "Techno"
+  },
+  {
+    "id": "music-958",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which lively, percussion-driven genre of Brazilian music is closely associated with Carnival celebrations?",
+    "options": [
+      "Merengue",
+      "Salsa",
+      "Samba",
+      "Bossa nova"
+    ],
+    "answer": "Samba"
+  },
+  {
+    "id": "music-959",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which dramatic genre of music and dance, often performed as a close embrace and accompanied by the bandoneon, originated in Argentina?",
+    "options": [
+      "Tango",
+      "Rumba",
+      "Flamenco",
+      "Paso doble"
+    ],
+    "answer": "Tango"
+  },
+  {
+    "id": "music-960",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which fast, stripped-down rock genre, associated with bands like the Ramones and the Sex Pistols, emerged in the mid-1970s as a reaction against mainstream rock?",
+    "options": [
+      "Funk",
+      "New wave",
+      "Disco",
+      "Punk rock"
+    ],
+    "answer": "Punk rock"
+  },
+  {
+    "id": "music-961",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which dance music genre, marked by four-on-the-floor beats and orchestral flourishes, dominated nightclubs in the late 1970s?",
+    "options": [
+      "Funk",
+      "New wave",
+      "Motown",
+      "Disco"
+    ],
+    "answer": "Disco"
+  },
+  {
+    "id": "music-962",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "What is the term for a short musical phrase that repeats throughout a song, often forming its most memorable part?",
+    "options": [
+      "Hook",
+      "Verse",
+      "Coda",
+      "Bridge"
+    ],
+    "answer": "Hook"
+  },
+  {
+    "id": "music-963",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "In song structure, what is the contrasting section that typically leads back into the final chorus called?",
+    "options": [
+      "Refrain",
+      "Bridge",
+      "Intro",
+      "Outro"
+    ],
+    "answer": "Bridge"
+  },
+  {
+    "id": "music-964",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "What term describes music played or sung slightly off the main beat, a defining feature of jazz rhythm?",
+    "options": [
+      "Syncopation",
+      "Modulation",
+      "Improvisation",
+      "Harmonization"
+    ],
+    "answer": "Syncopation"
+  },
+  {
+    "id": "music-965",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "What musical term describes the distinctive tone quality that lets you tell a trumpet apart from a violin playing the same note?",
+    "options": [
+      "Timbre",
+      "Resonance",
+      "Pitch",
+      "Octave"
+    ],
+    "answer": "Timbre"
+  },
+  {
+    "id": "music-966",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "How many notes make up a standard major scale before it repeats at the octave?",
+    "options": [
+      "Six",
+      "Seven",
+      "Eight",
+      "Five"
+    ],
+    "answer": "Seven"
+  },
+  {
+    "id": "music-967",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "What do you call three or more musical notes played together at the same time?",
+    "options": [
+      "A key",
+      "A scale",
+      "A riff",
+      "A chord"
+    ],
+    "answer": "A chord"
+  },
+  {
+    "id": "music-968",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which Austrian composer is best known for his set of waltzes that earned him the nickname \"The Waltz King\"?",
+    "options": [
+      "Johann Strauss II",
+      "Gustav Mahler",
+      "Franz Schubert",
+      "Anton Bruckner"
+    ],
+    "answer": "Johann Strauss II"
+  },
+  {
+    "id": "music-969",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which iconic solo career began when its future star was just a child performing as the lead singer of the Jackson 5?",
+    "options": [
+      "Lionel Richie",
+      "Stevie Wonder",
+      "Michael Jackson",
+      "Prince"
+    ],
+    "answer": "Michael Jackson"
+  },
+  {
+    "id": "music-970",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which flamboyant American pianist and singer was famous for his rhinestone-covered stage costumes, a candelabra atop his piano, and glamorous 1950s TV specials?",
+    "options": [
+      "Jerry Lee Lewis",
+      "Little Richard",
+      "Liberace",
+      "Elton John"
+    ],
+    "answer": "Liberace"
+  },
+  {
+    "id": "music-971",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which American singer-songwriter's anthems include \"Born to Run\" and \"Born in the U.S.A.\"?",
+    "options": [
+      "Tom Petty",
+      "Bob Dylan",
+      "Bruce Springsteen",
+      "Billy Joel"
+    ],
+    "answer": "Bruce Springsteen"
+  },
+  {
+    "id": "music-972",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which pioneering guitarist and singer of the 1950s, known for songs like \"Johnny B. Goode,\" is often called one of the fathers of rock and roll?",
+    "options": [
+      "Fats Domino",
+      "Buddy Holly",
+      "Bo Diddley",
+      "Chuck Berry"
+    ],
+    "answer": "Chuck Berry"
+  },
+  {
+    "id": "music-973",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which Swedish pop group, formed in 1972, won the Eurovision Song Contest with \"Waterloo\" and went on to global fame?",
+    "options": [
+      "Roxette",
+      "Ace of Base",
+      "a-ha",
+      "ABBA"
+    ],
+    "answer": "ABBA"
+  },
+  {
+    "id": "music-974",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which annual song competition, first held in 1956, features countries from across Europe (and beyond) each sending an act to perform live?",
+    "options": [
+      "The World Music Awards",
+      "The Eurovision Song Contest",
+      "The Cannes Music Festival",
+      "The Sanremo Festival"
+    ],
+    "answer": "The Eurovision Song Contest"
+  },
+  {
+    "id": "music-975",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which category, awarded at the Grammys, recognizes the single most outstanding recording of the year regardless of genre?",
+    "options": [
+      "Album of the Year",
+      "Record of the Year",
+      "Best New Artist",
+      "Song of the Year"
+    ],
+    "answer": "Record of the Year"
+  },
+  {
+    "id": "music-976",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which massive outdoor music festival is held annually on a farm-turned-venue in Somerset, England, and is one of the world's largest greenfield festivals?",
+    "options": [
+      "Isle of Wight Festival",
+      "Download Festival",
+      "Glastonbury Festival",
+      "Reading Festival"
+    ],
+    "answer": "Glastonbury Festival"
+  },
+  {
+    "id": "music-977",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which major American music festival takes place annually in the California desert town of Indio?",
+    "options": [
+      "Lollapalooza",
+      "Coachella",
+      "Bonnaroo",
+      "Austin City Limits"
+    ],
+    "answer": "Coachella"
+  },
+  {
+    "id": "music-978",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "What is the popular term for a musical group typically made up of young, attractive male singers who perform choreographed pop songs, popularized by acts like NSYNC and the Backstreet Boys?",
+    "options": [
+      "Vocal group",
+      "Pop quartet",
+      "Doo-wop group",
+      "Boy band"
+    ],
+    "answer": "Boy band"
+  },
+  {
+    "id": "music-979",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which American vocal group, consisting of five brothers including a young Michael Jackson, rose to fame in the late 1960s on the Motown label?",
+    "options": [
+      "The Jackson 5",
+      "The Temptations",
+      "The Four Tops",
+      "The Commodores"
+    ],
+    "answer": "The Jackson 5"
+  },
+  {
+    "id": "music-980",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which American TV network, launched in 1981, revolutionized the music industry by broadcasting music videos around the clock?",
+    "options": [
+      "VH1",
+      "Fuse",
+      "BET",
+      "MTV"
+    ],
+    "answer": "MTV"
+  },
+  {
+    "id": "music-981",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which dance-inspired move, associated with Michael Jackson, creates the illusion of walking forward while actually gliding backward?",
+    "options": [
+      "The shuffle",
+      "The worm",
+      "The moonwalk",
+      "The robot"
+    ],
+    "answer": "The moonwalk"
+  },
+  {
+    "id": "music-982",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which South Korean genre of pop music, propelled by highly choreographed groups like BTS and BLACKPINK, became a major global phenomenon in the 2010s and 2020s?",
+    "options": [
+      "Mandopop",
+      "C-pop",
+      "K-pop",
+      "J-pop"
+    ],
+    "answer": "K-pop"
+  },
+  {
+    "id": "music-983",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "What term describes a form of theater that tells a story primarily through singing, dialogue, and dance, as seen on Broadway?",
+    "options": [
+      "Ballet",
+      "Vaudeville",
+      "Opera",
+      "Musical theater"
+    ],
+    "answer": "Musical theater"
+  },
+  {
+    "id": "music-984",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which long-running Broadway musical, based on a French novel about a former convict, features the songs \"I Dreamed a Dream\" and \"One Day More\"?",
+    "options": [
+      "The Phantom of the Opera",
+      "Les Misérables",
+      "Cats",
+      "Miss Saigon"
+    ],
+    "answer": "Les Misérables"
+  },
+  {
+    "id": "music-985",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which Andrew Lloyd Webber musical, set beneath the Paris Opera House, is one of the longest-running shows in Broadway history?",
+    "options": [
+      "Evita",
+      "The Phantom of the Opera",
+      "Cats",
+      "Sunset Boulevard"
+    ],
+    "answer": "The Phantom of the Opera"
+  },
+  {
+    "id": "music-986",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "What is the term for a piece of music written specifically to identify a recurring character, place, or idea in a film score?",
+    "options": [
+      "Overture",
+      "Reprise",
+      "Prelude",
+      "Leitmotif"
+    ],
+    "answer": "Leitmotif"
+  },
+  {
+    "id": "music-987",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "\"La Marseillaise\" is the stirring national anthem of which country?",
+    "options": [
+      "Spain",
+      "Belgium",
+      "France",
+      "Italy"
+    ],
+    "answer": "France"
+  },
+  {
+    "id": "music-988",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which patriotic American song, often sung at ballparks, begins with the line \"Oh, say can you see\"?",
+    "options": [
+      "The Star-Spangled Banner",
+      "My Country, 'Tis of Thee",
+      "God Bless America",
+      "America the Beautiful"
+    ],
+    "answer": "The Star-Spangled Banner"
+  },
+  {
+    "id": "music-989",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "What is the traditional Scottish folk song, often sung to bid farewell at New Year's Eve gatherings, called?",
+    "options": [
+      "Auld Lang Syne",
+      "Loch Lomond",
+      "Danny Boy",
+      "The Skye Boat Song"
+    ],
+    "answer": "Auld Lang Syne"
+  },
+  {
+    "id": "music-990",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which classic Christmas song was famously first performed as \"Stille Nacht\" in a small Austrian village church in 1818?",
+    "options": [
+      "Joy to the World",
+      "Silent Night",
+      "The First Noel",
+      "O Holy Night"
+    ],
+    "answer": "Silent Night"
+  },
+  {
+    "id": "music-991",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "What is the traditional term for a religious song of joy and praise, especially one performed by a Christian choir at Christmas?",
+    "options": [
+      "Chant",
+      "Hymn",
+      "Carol",
+      "Requiem"
+    ],
+    "answer": "Carol"
+  },
+  {
+    "id": "music-992",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which large-scale choral and orchestral work is traditionally composed as a solemn musical setting of a funeral Mass?",
+    "options": [
+      "Oratorio",
+      "Requiem",
+      "Cantata",
+      "Mass"
+    ],
+    "answer": "Requiem"
+  },
+  {
+    "id": "music-993",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "What term describes a solo vocal performance within an opera that expresses a character's emotions at a key dramatic moment?",
+    "options": [
+      "Recitative",
+      "Aria",
+      "Overture",
+      "Libretto"
+    ],
+    "answer": "Aria"
+  },
+  {
+    "id": "music-994",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which Italian composer's famous operas include \"Tosca\" and \"Madama Butterfly,\" both tragic stories of doomed love?",
+    "options": [
+      "Gaetano Donizetti",
+      "Gioachino Rossini",
+      "Giuseppe Verdi",
+      "Giacomo Puccini"
+    ],
+    "answer": "Giacomo Puccini"
+  },
+  {
+    "id": "music-995",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which physical music format, a small plastic cassette with magnetic tape, was the dominant way people listened to portable music before CDs took over?",
+    "options": [
+      "Cassette tape",
+      "MiniDisc",
+      "Vinyl record",
+      "8-track tape"
+    ],
+    "answer": "Cassette tape"
+  },
+  {
+    "id": "music-996",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "What audio file format, whose three-letter extension became a household name in the late 1990s, made compressed digital music files small enough to share easily online?",
+    "options": [
+      "AAC",
+      "FLAC",
+      "MP3",
+      "WAV"
+    ],
+    "answer": "MP3"
+  },
+  {
+    "id": "music-997",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "What is the flat, grooved disc format that music was commonly sold on before cassette tapes and CDs became popular?",
+    "options": [
+      "Compact disc",
+      "Vinyl record",
+      "Cassette tape",
+      "Reel-to-reel tape"
+    ],
+    "answer": "Vinyl record"
+  },
+  {
+    "id": "music-998",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "What term describes an album, EP, or song released independently by an artist without a major record label's backing?",
+    "options": [
+      "Remix",
+      "B-side",
+      "Bootleg",
+      "Indie release"
+    ],
+    "answer": "Indie release"
+  },
+  {
+    "id": "music-999",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "In the era of vinyl singles, what term described the less-promoted song printed on the reverse side of the record from the hit single?",
+    "options": [
+      "Reprise",
+      "Deep cut",
+      "B-side",
+      "Filler track"
+    ],
+    "answer": "B-side"
+  },
+  {
+    "id": "music-1000",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "What term describes an artist re-recording or reworking an existing song, often putting their own musical stamp on it?",
+    "options": [
+      "Sampling",
+      "Remaster",
+      "Mashup",
+      "Cover version"
+    ],
+    "answer": "Cover version"
+  },
+  {
+    "id": "music-1001",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "What production technique involves taking a portion of an existing recording and reusing it as an element in a new song, common in hip-hop production?",
+    "options": [
+      "Sampling",
+      "Layering",
+      "Looping",
+      "Mixing"
+    ],
+    "answer": "Sampling"
+  },
+  {
+    "id": "music-1002",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which classical composer, often called \"the Father of the Symphony,\" mentored both Mozart and Beethoven and wrote over 100 symphonies?",
+    "options": [
+      "Franz Joseph Haydn",
+      "Antonio Vivaldi",
+      "Johann Sebastian Bach",
+      "Christoph Willibald Gluck"
+    ],
+    "answer": "Franz Joseph Haydn"
+  },
+  {
+    "id": "music-1003",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which German-born composer, who later became a British citizen, wrote the oratorio \"Messiah,\" famous for its \"Hallelujah\" chorus?",
+    "options": [
+      "George Frideric Handel",
+      "Christoph Willibald Gluck",
+      "Johann Sebastian Bach",
+      "Franz Joseph Haydn"
+    ],
+    "answer": "George Frideric Handel"
+  },
+  {
+    "id": "music-1004",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which large ensemble, typically led by a conductor and combining string, woodwind, brass, and percussion sections, performs classical works like symphonies?",
+    "options": [
+      "A big band",
+      "An orchestra",
+      "A chamber group",
+      "A choir"
+    ],
+    "answer": "An orchestra"
+  },
+  {
+    "id": "music-1005",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "What is a small ensemble of musicians, typically playing one instrument per part without a conductor, called in classical music?",
+    "options": [
+      "A symphony",
+      "An overture",
+      "A chamber ensemble",
+      "A concerto"
+    ],
+    "answer": "A chamber ensemble"
+  },
+  {
+    "id": "music-1006",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "In jazz and popular music, what term describes a large ensemble, often featuring multiple brass and saxophone sections, that was especially popular during the swing era?",
+    "options": [
+      "Big band",
+      "Chamber orchestra",
+      "Combo",
+      "Marching band"
+    ],
+    "answer": "Big band"
+  },
+  {
+    "id": "music-1007",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which American bandleader and clarinetist, known as the \"King of Swing,\" led one of the most popular big bands of the 1930s?",
+    "options": [
+      "Count Basie",
+      "Duke Ellington",
+      "Glenn Miller",
+      "Benny Goodman"
+    ],
+    "answer": "Benny Goodman"
+  },
+  {
+    "id": "music-1008",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which piano-playing jazz composer and bandleader, known for songs like \"Take the 'A' Train,\" led his own big band for nearly 50 years?",
+    "options": [
+      "Thelonious Monk",
+      "Count Basie",
+      "Duke Ellington",
+      "Fats Waller"
+    ],
+    "answer": "Duke Ellington"
+  },
+  {
+    "id": "music-1009",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which annual music competition in San Remo, Italy has run since 1951 and directly inspired the creation of the Eurovision Song Contest?",
+    "options": [
+      "The Milan Song Contest",
+      "The Verona Opera Festival",
+      "The Venice Music Prize",
+      "The Sanremo Music Festival"
+    ],
+    "answer": "The Sanremo Music Festival"
+  },
+  {
+    "id": "music-1010",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which stringed folk instrument, shaped like a shallow box with strings stretched across it and played by strumming or hammering, is associated with Appalachian mountain music?",
+    "options": [
+      "Zither",
+      "Lyre",
+      "Autoharp",
+      "Dulcimer"
+    ],
+    "answer": "Dulcimer"
+  },
+  {
+    "id": "music-1011",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which classical Indian string instrument, with a long neck and gourd-shaped resonator, was popularized in the West after George Harrison of the Beatles began playing it?",
+    "options": [
+      "Sitar",
+      "Veena",
+      "Santoor",
+      "Sarod"
+    ],
+    "answer": "Sitar"
+  },
+  {
+    "id": "music-1012",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which is the largest and lowest-pitched instrument in the brass family, typically played while seated due to its size?",
+    "options": [
+      "Tuba",
+      "Trombone",
+      "Euphonium",
+      "French horn"
+    ],
+    "answer": "Tuba"
+  },
+  {
+    "id": "music-1013",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which brass instrument, known for its coiled tubing and mellow, rounded tone, takes its English name from the French for \"hunting horn\"?",
+    "options": [
+      "Trumpet",
+      "French horn",
+      "Trombone",
+      "Tuba"
+    ],
+    "answer": "French horn"
+  },
+  {
+    "id": "music-1014",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "What guitar technique involves sliding a smooth object, like a glass or metal tube, along the strings to create a smooth gliding pitch, common in blues music?",
+    "options": [
+      "Slide guitar",
+      "Strumming",
+      "Tapping",
+      "Fingerpicking"
+    ],
+    "answer": "Slide guitar"
+  },
+  {
+    "id": "music-1015",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which genre of electronic music is built around slow tempos and atmospheric textures, intended to promote relaxation or reflection rather than dancing?",
+    "options": [
+      "Ambient",
+      "Lo-fi",
+      "Chillwave",
+      "Downtempo"
+    ],
+    "answer": "Ambient"
+  },
+  {
+    "id": "music-1016",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "What is the term for a slow, emotional song, typically about love or heartbreak, common across pop, R&B, and country music?",
+    "options": [
+      "Overture",
+      "Ballad",
+      "Aria",
+      "Anthem"
+    ],
+    "answer": "Ballad"
+  },
+  {
+    "id": "music-1017",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "What is the term for a song performed for a loved one, historically sung outdoors beneath their window as a romantic gesture?",
+    "options": [
+      "Serenade",
+      "Lullaby",
+      "Aria",
+      "Ballad"
+    ],
+    "answer": "Serenade"
+  },
+  {
+    "id": "music-1018",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "What is a soft, soothing song traditionally sung to help a baby or young child fall asleep called?",
+    "options": [
+      "Ballad",
+      "Lullaby",
+      "Serenade",
+      "Carol"
+    ],
+    "answer": "Lullaby"
+  },
+  {
+    "id": "music-1019",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which West African stringed instrument, resembling a cross between a harp and a lute with 21 strings, is traditionally played by hereditary musician-storytellers in countries like Mali and Senegal?",
+    "options": [
+      "Oud",
+      "Balafon",
+      "Kora",
+      "Sitar"
+    ],
+    "answer": "Kora"
+  },
+  {
+    "id": "music-1020",
+    "category": "music",
+    "difficulty": "medium",
+    "question": "Which pair of hand-sized wooden sticks, clicked together to keep rhythm, gives its name to a defining sound of flamenco and Latin music?",
+    "options": [
+      "Claves",
+      "Maracas",
+      "Cowbell",
+      "Castanets"
+    ],
+    "answer": "Claves"
+  },
+  {
+    "id": "music-1021",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which small percussion instrument, made of two shell-like pieces of wood or ivory clicked together with the fingers, is closely associated with Spanish and flamenco dance?",
+    "options": [
+      "Castanets",
+      "Claves",
+      "Maracas",
+      "Tambourine"
+    ],
+    "answer": "Castanets"
+  },
+  {
+    "id": "music-1022",
+    "category": "music",
+    "difficulty": "easy",
+    "question": "Which shaker percussion instrument, typically a pair of hollow gourd-shaped containers filled with seeds or beads, is a staple of Latin American music?",
+    "options": [
+      "Castanets",
+      "Claves",
+      "Cabasa",
+      "Maracas"
+    ],
+    "answer": "Maracas"
   }
 ]

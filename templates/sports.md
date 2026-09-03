@@ -97,6 +97,25 @@ reach for a more obscure version of the same angle):
   - Do NOT repeat the marathon's 26.2-mile distance-in-km/miles fact (sports-314 already has it) when
     drafting the *reason* for that distance (the 1908 London royal-box finish line) — they're
     different facts about the same number, both are now used, a third angle on it would be one too many
+  - A 2026-09-03 accessibility-focused batch (sports-668 through sports-702) found the "basic
+    rules/scoring/terminology" lane the casual-audience rule itself points toward almost as heavily
+    mined as the record-holder trivia the 2026-09-01 audit removed — see CLAUDE.md's "Accessibility-
+    constrained drafting" note for why the cut rate ran high across every category that session, not
+    just this one. Confirmed already covered, don't redraft any framing of these: golf's albatross
+    (3-under-par term, distinct from eagle at 2-under, which also collided once already), the
+    basketball free-throw point value, soccer's offside rule, boxing's TKO meaning and standard
+    3-minute round length, freestyle as the fastest swimming stroke, Formula 1 pole position,
+    badminton's shuttlecock, the weightlifting snatch, the gymnastics balance beam apparatus,
+    skateboarding's 2020/2021 Olympic debut, American football's touchdown (6) and field goal (3)
+    point values, and squash's four-walled-court description. Now also covered from that same batch
+    (so don't redraft these either, even though they weren't pre-existing collisions): golf's bogey,
+    tennis's love/deuce/ace, baseball's ball-for-a-walk and strikeout counts, basketball's traveling
+    and double dribble, soccer's red card/penalty shootout/own goal, boxing's knockout, MMA/wrestling's
+    submission, the individual-medley stroke count, triple jump, single-elimination and round-robin
+    tournament formats, a golf hole-in-one, bowling's gutter ball and split, a pool scratch, a perfect
+    10 in gymnastics/diving (pinned to "before 2006"), curling's stone, archery's bullseye, the
+    clean-and-jerk, the gymnastics pommel horse, horse racing's Triple Crown, water polo, sport
+    climbing, cycling's peloton, and horseback polo
 
 Use web search to verify every fact — do not rely on memory alone. Prefer authoritative sources
 (official league/federation sites, general reference sources) over guessing.
