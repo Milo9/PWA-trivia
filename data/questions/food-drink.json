@@ -15533,5 +15533,1123 @@
       "Petillant naturel, bottled while fermenting"
     ],
     "answer": "Petillant naturel, bottled while fermenting"
+  },
+  {
+    "id": "food-drink-1156",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "In cooking, what does the French term 'deglaze' mean?",
+    "options": [
+      "Coating food in a thin layer of sugar syrup",
+      "Removing excess fat from the surface of a stock",
+      "Adding liquid to a hot pan to loosen browned bits stuck to the bottom",
+      "Cooling a sauce quickly in an ice bath"
+    ],
+    "answer": "Adding liquid to a hot pan to loosen browned bits stuck to the bottom"
+  },
+  {
+    "id": "food-drink-1157",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What cooking technique involves gently cooking food, often eggs or fish, in liquid kept just below a simmer?",
+    "options": [
+      "Braising",
+      "Steaming",
+      "Blanching",
+      "Poaching"
+    ],
+    "answer": "Poaching"
+  },
+  {
+    "id": "food-drink-1158",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "In cooking, what is a 'reduction'?",
+    "options": [
+      "A dish served in a smaller portion",
+      "Meat trimmed of visible fat",
+      "A liquid simmered down to concentrate its flavor",
+      "A sauce thickened only with flour"
+    ],
+    "answer": "A liquid simmered down to concentrate its flavor"
+  },
+  {
+    "id": "food-drink-1159",
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "What cooking term describes regularly spooning liquid or melted fat over food, like a turkey, while it roasts?",
+    "options": [
+      "Blanching",
+      "Basting",
+      "Barding",
+      "Braising"
+    ],
+    "answer": "Basting"
+  },
+  {
+    "id": "food-drink-1160",
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "What cooking technique means quickly browning the outside of meat over high heat before finishing it another way?",
+    "options": [
+      "Poaching",
+      "Searing",
+      "Steaming",
+      "Simmering"
+    ],
+    "answer": "Searing"
+  },
+  {
+    "id": "food-drink-1161",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "The French culinary term 'chiffonade' refers to what preparation?",
+    "options": [
+      "Fruit carved into decorative shapes",
+      "Meat pounded thin with a mallet",
+      "Vegetables cut into tiny uniform cubes",
+      "Herbs or leafy greens cut into thin ribbon strips"
+    ],
+    "answer": "Herbs or leafy greens cut into thin ribbon strips"
+  },
+  {
+    "id": "food-drink-1162",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "In baking, what does 'proofing' bread dough refer to?",
+    "options": [
+      "Testing its salt content",
+      "Coating it with egg wash before baking",
+      "Letting it rest so yeast can make it rise",
+      "Kneading it for exactly ten minutes"
+    ],
+    "answer": "Letting it rest so yeast can make it rise"
+  },
+  {
+    "id": "food-drink-1163",
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "In cooking and baking, what is 'zest'?",
+    "options": [
+      "A blend of citrus-flavored sugar",
+      "The grated outer peel of citrus fruit",
+      "The juice squeezed from citrus fruit",
+      "The white pith beneath citrus peel"
+    ],
+    "answer": "The grated outer peel of citrus fruit"
+  },
+  {
+    "id": "food-drink-1164",
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "A classic Martini is traditionally made with gin and what other ingredient?",
+    "options": [
+      "Amaretto",
+      "Sweet vermouth",
+      "Triple sec",
+      "Dry vermouth"
+    ],
+    "answer": "Dry vermouth"
+  },
+  {
+    "id": "food-drink-1165",
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "What is the base spirit in a Cosmopolitan cocktail?",
+    "options": [
+      "Vodka",
+      "Gin",
+      "Rum",
+      "Tequila"
+    ],
+    "answer": "Vodka"
+  },
+  {
+    "id": "food-drink-1166",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "A Tom Collins cocktail is built on which base spirit?",
+    "options": [
+      "Vodka",
+      "Rum",
+      "Gin",
+      "Whiskey"
+    ],
+    "answer": "Gin"
+  },
+  {
+    "id": "food-drink-1167",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "A classic Whiskey Sour combines whiskey, lemon juice, and what other ingredient?",
+    "options": [
+      "Grenadine",
+      "Triple sec",
+      "Sweet vermouth",
+      "Simple syrup"
+    ],
+    "answer": "Simple syrup"
+  },
+  {
+    "id": "food-drink-1168",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "The tropical cocktail the Mai Tai is traditionally made with which base spirit?",
+    "options": [
+      "Tequila",
+      "Vodka",
+      "Rum",
+      "Gin"
+    ],
+    "answer": "Rum"
+  },
+  {
+    "id": "food-drink-1169",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "A Paloma cocktail pairs grapefruit soda with which base spirit?",
+    "options": [
+      "Gin",
+      "Tequila",
+      "Vodka",
+      "Rum"
+    ],
+    "answer": "Tequila"
+  },
+  {
+    "id": "food-drink-1170",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Edam, a mild, ball-shaped cheese often coated in red wax, originates from which country?",
+    "options": [
+      "Belgium",
+      "The Netherlands",
+      "Germany",
+      "Denmark"
+    ],
+    "answer": "The Netherlands"
+  },
+  {
+    "id": "food-drink-1171",
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "For a sparkling wine to legally be called Prosecco, it must be produced in which country?",
+    "options": [
+      "France",
+      "Italy",
+      "Spain",
+      "Portugal"
+    ],
+    "answer": "Italy"
+  },
+  {
+    "id": "food-drink-1172",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Rioja, one of the world's best-known red wine regions, is located in which country?",
+    "options": [
+      "Portugal",
+      "Italy",
+      "Spain",
+      "France"
+    ],
+    "answer": "Spain"
+  },
+  {
+    "id": "food-drink-1173",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Bordeaux, one of the world's most famous wine regions, is located in which country?",
+    "options": [
+      "Spain",
+      "France",
+      "Italy",
+      "Germany"
+    ],
+    "answer": "France"
+  },
+  {
+    "id": "food-drink-1174",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Traditional Scotch is spelled 'whisky' without an 'e,' while most American and Irish versions add the extra letter and spell it how?",
+    "options": [
+      "Whiskey",
+      "Whyskey",
+      "Whiskie",
+      "Whiskee"
+    ],
+    "answer": "Whiskey"
+  },
+  {
+    "id": "food-drink-1175",
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "The stinging, tear-inducing effect of cutting an onion is caused by a compound that irritates what?",
+    "options": [
+      "The nose only",
+      "The eyes",
+      "The skin",
+      "The throat"
+    ],
+    "answer": "The eyes"
+  },
+  {
+    "id": "food-drink-1176",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Unlike baking powder, baking soda needs to be combined with what to activate as a leavener?",
+    "options": [
+      "An acidic ingredient, like buttermilk or lemon juice",
+      "Boiling water",
+      "A second dose of yeast",
+      "Whipped egg whites"
+    ],
+    "answer": "An acidic ingredient, like buttermilk or lemon juice"
+  },
+  {
+    "id": "food-drink-1177",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "The flavor enhancer MSG is short for what compound?",
+    "options": [
+      "Monosodium glutamate",
+      "Multi-sodium glycerate",
+      "Modified starch glucose",
+      "Mono-saturated glutamine"
+    ],
+    "answer": "Monosodium glutamate"
+  },
+  {
+    "id": "food-drink-1178",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "In the United States, alcohol 'proof' is calculated as roughly what multiple of its alcohol-by-volume (ABV) percentage?",
+    "options": [
+      "Triple (3x)",
+      "Double (2x)",
+      "Half (0.5x)",
+      "The same number as ABV"
+    ],
+    "answer": "Double (2x)"
+  },
+  {
+    "id": "food-drink-1179",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "The main difference between ale and lager comes down to the type of yeast and what other brewing factor?",
+    "options": [
+      "How long it's bottled",
+      "The grain used",
+      "The amount of hops",
+      "Fermentation temperature"
+    ],
+    "answer": "Fermentation temperature"
+  },
+  {
+    "id": "food-drink-1180",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Hops are added to beer primarily to provide bitterness, aroma, and what other function?",
+    "options": [
+      "Color",
+      "Carbonation",
+      "Extra sweetness",
+      "Natural preservation"
+    ],
+    "answer": "Natural preservation"
+  },
+  {
+    "id": "food-drink-1181",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Botanically speaking, a bell pepper is technically what?",
+    "options": [
+      "A tuber",
+      "A root vegetable",
+      "A fruit",
+      "A legume"
+    ],
+    "answer": "A fruit"
+  },
+  {
+    "id": "food-drink-1182",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Botanically speaking, a pumpkin is technically what, despite being cooked and eaten as a vegetable?",
+    "options": [
+      "A fruit",
+      "A legume",
+      "A stem vegetable",
+      "A tuber"
+    ],
+    "answer": "A fruit"
+  },
+  {
+    "id": "food-drink-1183",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "The traditional German pretzel is generally believed to have originated with which group?",
+    "options": [
+      "Alpine shepherds",
+      "Viking traders",
+      "Roman soldiers",
+      "Medieval monks"
+    ],
+    "answer": "Medieval monks"
+  },
+  {
+    "id": "food-drink-1184",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "The spice turmeric, which gives many curries their yellow color, comes from which part of the plant?",
+    "options": [
+      "Its seed pods",
+      "Its dried flower buds",
+      "Its root (rhizome)",
+      "Its bark"
+    ],
+    "answer": "Its root (rhizome)"
+  },
+  {
+    "id": "food-drink-1185",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Star anise, a star-shaped spice, is one of the components of which spice blend?",
+    "options": [
+      "Za'atar",
+      "Chinese five-spice powder",
+      "Herbes de Provence",
+      "Garam masala"
+    ],
+    "answer": "Chinese five-spice powder"
+  },
+  {
+    "id": "food-drink-1186",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "The bright green 'wasabi' commonly served at sushi restaurants outside Japan is most often actually what?",
+    "options": [
+      "Diluted mustard seed",
+      "Colored avocado paste",
+      "A mild green chili paste",
+      "Dyed horseradish"
+    ],
+    "answer": "Dyed horseradish"
+  },
+  {
+    "id": "food-drink-1187",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Unlike almonds, which are technically a drupe, peanuts are botanically classified as what?",
+    "options": [
+      "A tuber",
+      "A legume",
+      "A true nut",
+      "A berry"
+    ],
+    "answer": "A legume"
+  },
+  {
+    "id": "food-drink-1188",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "In the 1830s, ketchup was briefly sold in the United States in tablet form and marketed as what?",
+    "options": [
+      "A hair tonic",
+      "A medicine",
+      "A pest repellent",
+      "A cleaning product"
+    ],
+    "answer": "A medicine"
+  },
+  {
+    "id": "food-drink-1189",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "After saffron, which spice is generally considered the world's second most expensive by weight, due to its labor-intensive hand-pollination and curing?",
+    "options": [
+      "Cinnamon",
+      "Clove",
+      "Vanilla",
+      "Cardamom"
+    ],
+    "answer": "Vanilla"
+  },
+  {
+    "id": "food-drink-1190",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Pizza Margherita's name honors which historical figure?",
+    "options": [
+      "Saint Margaret of Naples",
+      "An Italian opera singer",
+      "Queen Margherita of Savoy",
+      "A Neapolitan baker named Margherita"
+    ],
+    "answer": "Queen Margherita of Savoy"
+  },
+  {
+    "id": "food-drink-1191",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "General Tso's chicken, a staple of American Chinese restaurants, is largely unknown as a dish in which country?",
+    "options": [
+      "China",
+      "Canada",
+      "The United States",
+      "Australia"
+    ],
+    "answer": "China"
+  },
+  {
+    "id": "food-drink-1192",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Deep-dish pizza is closely associated with which US city, where it's said to have been created in 1943?",
+    "options": [
+      "Detroit",
+      "Chicago",
+      "St. Louis",
+      "New York"
+    ],
+    "answer": "Chicago"
+  },
+  {
+    "id": "food-drink-1193",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "The California roll was developed partly to make sushi more appealing to Americans by hiding the seaweed and replacing raw fish with what?",
+    "options": [
+      "Cooked shrimp",
+      "Cream cheese",
+      "Avocado",
+      "Mango"
+    ],
+    "answer": "Avocado"
+  },
+  {
+    "id": "food-drink-1194",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "The potato originated in which region before being brought to Europe by Spanish explorers?",
+    "options": [
+      "Coastal West Africa",
+      "The Andes Mountains of South America",
+      "Central Mexico",
+      "The Caribbean islands"
+    ],
+    "answer": "The Andes Mountains of South America"
+  },
+  {
+    "id": "food-drink-1195",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "For much of its early history in Mesoamerica, chocolate was consumed almost exclusively as what?",
+    "options": [
+      "A solid candy bar",
+      "A dried snack",
+      "A spread for bread",
+      "A bitter drink"
+    ],
+    "answer": "A bitter drink"
+  },
+  {
+    "id": "food-drink-1196",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Contrary to a popular legend, historians say pasta almost certainly did NOT reach Italy through the travels of which explorer?",
+    "options": [
+      "Ferdinand Magellan",
+      "Christopher Columbus",
+      "Vasco da Gama",
+      "Marco Polo"
+    ],
+    "answer": "Marco Polo"
+  },
+  {
+    "id": "food-drink-1197",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Which US state produces by far the most potatoes?",
+    "options": [
+      "Idaho",
+      "Wisconsin",
+      "North Dakota",
+      "Maine"
+    ],
+    "answer": "Idaho"
+  },
+  {
+    "id": "food-drink-1198",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Despite its name, chili con carne is generally believed to have originated not in Mexico but in which region?",
+    "options": [
+      "The Caribbean",
+      "Central America",
+      "Texas and the American Southwest",
+      "Southern California"
+    ],
+    "answer": "Texas and the American Southwest"
+  },
+  {
+    "id": "food-drink-1199",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "The earliest form of sushi, called narezushi, was originally developed as a method for what?",
+    "options": [
+      "Preserving fish by fermenting it in rice",
+      "Curing fish with salt alone",
+      "Serving rice as a dessert",
+      "Smoking fish over an open flame"
+    ],
+    "answer": "Preserving fish by fermenting it in rice"
+  },
+  {
+    "id": "food-drink-1200",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Instant ramen noodles were invented in Japan in 1958 by which entrepreneur?",
+    "options": [
+      "Konosuke Matsushita",
+      "Akio Morita",
+      "Soichiro Honda",
+      "Momofuku Ando"
+    ],
+    "answer": "Momofuku Ando"
+  },
+  {
+    "id": "food-drink-1201",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Kraft's boxed macaroni and cheese first went on sale in 1937, during which economic period, which helped make it an affordable hit?",
+    "options": [
+      "The 1970s oil crisis",
+      "The Great Depression",
+      "The dot-com bust",
+      "World War I"
+    ],
+    "answer": "The Great Depression"
+  },
+  {
+    "id": "food-drink-1202",
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "Because of its low moisture content and natural acidity, properly stored honey has what unusual property among foods?",
+    "options": [
+      "It becomes more nutritious with age",
+      "It naturally sterilizes other foods around it",
+      "It doubles in sweetness over time",
+      "It essentially never spoils"
+    ],
+    "answer": "It essentially never spoils"
+  },
+  {
+    "id": "food-drink-1203",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Peanut butter was promoted as a health food in the early 1900s partly by which cereal-industry figure?",
+    "options": [
+      "Will Keith Kellogg",
+      "John Harvey Kellogg",
+      "Sylvester Graham",
+      "Charles Post"
+    ],
+    "answer": "John Harvey Kellogg"
+  },
+  {
+    "id": "food-drink-1204",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "The ice cream cone was popularized at the 1904 St. Louis World's Fair, according to a widely told story, after a nearby vendor ran out of what?",
+    "options": [
+      "Spoons",
+      "Dishes to serve ice cream in",
+      "Napkins",
+      "Ice cream itself"
+    ],
+    "answer": "Dishes to serve ice cream in"
+  },
+  {
+    "id": "food-drink-1205",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Traditional chewing gum bases were originally made from chicle, a natural latex tapped from which tree?",
+    "options": [
+      "The birch tree",
+      "The baobab tree",
+      "The sapodilla tree",
+      "The rubber tree"
+    ],
+    "answer": "The sapodilla tree"
+  },
+  {
+    "id": "food-drink-1206",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "The extra hops originally added to India Pale Ale (IPA) served what practical purpose?",
+    "options": [
+      "Helping preserve the beer on long sea voyages",
+      "Making the beer look darker in color",
+      "Reducing the alcohol content for soldiers",
+      "Masking the taste of contaminated water"
+    ],
+    "answer": "Helping preserve the beer on long sea voyages"
+  },
+  {
+    "id": "food-drink-1207",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Traditional root beer got its flavor in part from sassafras root, which was later restricted or reformulated in the US due to concerns about a compound called what?",
+    "options": [
+      "Sassafrin",
+      "Barkanol",
+      "Safrole",
+      "Rootalin"
+    ],
+    "answer": "Safrole"
+  },
+  {
+    "id": "food-drink-1208",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Chop suey, often assumed to be an authentic Chinese dish, is actually believed to have originated among Chinese immigrant communities in which country?",
+    "options": [
+      "Australia",
+      "Canada",
+      "The United Kingdom",
+      "The United States"
+    ],
+    "answer": "The United States"
+  },
+  {
+    "id": "food-drink-1209",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Which Chinese-American noodle dish is stir-fried until slightly crispy, as opposed to being boiled and tossed with sauce?",
+    "options": [
+      "Pho",
+      "Chow mein",
+      "Lo mein",
+      "Pad thai"
+    ],
+    "answer": "Chow mein"
+  },
+  {
+    "id": "food-drink-1210",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Most of what's sold as 'yams' in US grocery stores is actually what?",
+    "options": [
+      "Taro",
+      "Sweet potatoes",
+      "Cassava",
+      "A hybrid of potato and yam"
+    ],
+    "answer": "Sweet potatoes"
+  },
+  {
+    "id": "food-drink-1211",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Botanically speaking, what is a fig actually classified as, rather than a simple fruit?",
+    "options": [
+      "A dried berry cluster",
+      "An inverted cluster of tiny flowers",
+      "A modified root structure",
+      "A type of edible seed pod"
+    ],
+    "answer": "An inverted cluster of tiny flowers"
+  },
+  {
+    "id": "food-drink-1212",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Chocolate is toxic to dogs mainly because of a compound called theobromine, which dogs metabolize far more slowly than what?",
+    "options": [
+      "Birds",
+      "Rodents",
+      "Cats",
+      "Humans"
+    ],
+    "answer": "Humans"
+  },
+  {
+    "id": "food-drink-1213",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "According to a well-known legend, coffee's stimulating effects were first noticed on which continent, after a goat herder observed his goats' energetic behavior?",
+    "options": [
+      "Asia",
+      "Europe",
+      "Africa",
+      "South America"
+    ],
+    "answer": "Africa"
+  },
+  {
+    "id": "food-drink-1214",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "According to Chinese legend, tea was discovered when leaves accidentally blew into a pot of boiling water being prepared for which emperor?",
+    "options": [
+      "Wu of Han",
+      "Kangxi",
+      "Shen Nung",
+      "Qin Shi Huang"
+    ],
+    "answer": "Shen Nung"
+  },
+  {
+    "id": "food-drink-1215",
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "The difference between white and brown chicken eggs comes down mainly to what factor?",
+    "options": [
+      "How the egg was stored",
+      "The breed of hen",
+      "The hen's diet",
+      "The egg's freshness"
+    ],
+    "answer": "The breed of hen"
+  },
+  {
+    "id": "food-drink-1216",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "From planting to harvest, a pineapple typically takes roughly how long to mature?",
+    "options": [
+      "About 2 years",
+      "About 5 years",
+      "About 3 months",
+      "About 6 months"
+    ],
+    "answer": "About 2 years"
+  },
+  {
+    "id": "food-drink-1217",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What is the main difference between simmering and boiling a liquid?",
+    "options": [
+      "Simmering requires a lid; boiling never does",
+      "Simmering only applies to soups, never sauces",
+      "Simmering means cooking without any liquid at all",
+      "Simmering uses a lower temperature, with gentler bubbles"
+    ],
+    "answer": "Simmering uses a lower temperature, with gentler bubbles"
+  },
+  {
+    "id": "food-drink-1218",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "A Sidecar cocktail is traditionally made with brandy or cognac, orange liqueur, and what other ingredient?",
+    "options": [
+      "Grenadine",
+      "Lemon juice",
+      "Simple syrup",
+      "Lime juice"
+    ],
+    "answer": "Lemon juice"
+  },
+  {
+    "id": "food-drink-1219",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Gorgonzola, a pungent Italian blue cheese, originates from which country?",
+    "options": [
+      "Spain",
+      "Greece",
+      "Italy",
+      "France"
+    ],
+    "answer": "Italy"
+  },
+  {
+    "id": "food-drink-1220",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Comté, a firm, nutty French cheese often compared to Gruyère, originates from which country?",
+    "options": [
+      "Switzerland",
+      "Italy",
+      "Belgium",
+      "France"
+    ],
+    "answer": "France"
+  },
+  {
+    "id": "food-drink-1221",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Buffalo wings were invented in 1964 at a bar in Buffalo, New York, reportedly by which cook, using leftover chicken wings?",
+    "options": [
+      "Teressa Bellissimo",
+      "Julia Sweet",
+      "Grace DiMaggio",
+      "Frank Termini"
+    ],
+    "answer": "Teressa Bellissimo"
+  },
+  {
+    "id": "food-drink-1222",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "The Cobb salad was reportedly invented at the Hollywood restaurant the Brown Derby by an owner named what?",
+    "options": [
+      "Robert Cobb",
+      "Sidney Cobb",
+      "William Cobb",
+      "Harold Cobb"
+    ],
+    "answer": "Robert Cobb"
+  },
+  {
+    "id": "food-drink-1223",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "The Cronut, a croissant-donut hybrid pastry, was invented in New York City in 2013 by which pastry chef?",
+    "options": [
+      "David Lebovitz",
+      "Pierre Hermé",
+      "Dominique Ansel",
+      "Christina Tosi"
+    ],
+    "answer": "Dominique Ansel"
+  },
+  {
+    "id": "food-drink-1224",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "The meringue-based dessert Pavlova is named in honor of which famous ballerina?",
+    "options": [
+      "Anna Karenina",
+      "Margot Fonteyn",
+      "Anna Pavlova",
+      "Maya Plisetskaya"
+    ],
+    "answer": "Anna Pavlova"
+  },
+  {
+    "id": "food-drink-1225",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "The chimichanga, a deep-fried burrito, was reportedly invented by accident when a burrito fell into a deep fryer in which US state?",
+    "options": [
+      "California",
+      "Arizona",
+      "Texas",
+      "New Mexico"
+    ],
+    "answer": "Arizona"
+  },
+  {
+    "id": "food-drink-1226",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "In classic French cuisine, what does it mean to 'emulsify' two ingredients, such as oil and egg yolk?",
+    "options": [
+      "Cook two ingredients in completely separate pans",
+      "Remove all moisture from an ingredient",
+      "Freeze a sauce solid for later use",
+      "Blend liquids that don't normally mix into a stable combination"
+    ],
+    "answer": "Blend liquids that don't normally mix into a stable combination"
+  },
+  {
+    "id": "food-drink-1227",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Traditional balsamic vinegar production begins with grape must that is cooked down and then aged for years in barrels made of what?",
+    "options": [
+      "Wood",
+      "Stone",
+      "Glass",
+      "Clay"
+    ],
+    "answer": "Wood"
+  },
+  {
+    "id": "food-drink-1228",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Which spice comes in black, white, and green varieties, all made from the berries of the same plant?",
+    "options": [
+      "Juniper",
+      "Pepper",
+      "Sumac",
+      "Allspice"
+    ],
+    "answer": "Pepper"
+  },
+  {
+    "id": "food-drink-1229",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Traditional miso paste is made by fermenting soybeans with salt and which mold culture?",
+    "options": [
+      "Saccharomyces",
+      "Rhizopus",
+      "Penicillium",
+      "Koji"
+    ],
+    "answer": "Koji"
+  },
+  {
+    "id": "food-drink-1230",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Traditional kimchi gets much of its signature heat and color from which pepper flake?",
+    "options": [
+      "Gochugaru",
+      "Cayenne",
+      "Aleppo pepper",
+      "Paprika"
+    ],
+    "answer": "Gochugaru"
+  },
+  {
+    "id": "food-drink-1231",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Traditional Japanese soy sauce is brewed primarily from soybeans, salt, and what other grain?",
+    "options": [
+      "Corn",
+      "Rice",
+      "Wheat",
+      "Barley"
+    ],
+    "answer": "Wheat"
+  },
+  {
+    "id": "food-drink-1232",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "The distinctive sourness in traditional Ethiopian injera bread comes mainly from what process?",
+    "options": [
+      "Added citric acid",
+      "Souring with yogurt culture",
+      "A splash of vinegar mixed in",
+      "Natural fermentation of the batter"
+    ],
+    "answer": "Natural fermentation of the batter"
+  },
+  {
+    "id": "food-drink-1233",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Traditional (non-vinegar) dill pickles get their tang from what natural process?",
+    "options": [
+      "Smoking over wood chips",
+      "Freezing and thawing cycles",
+      "Lacto-fermentation in a salt brine",
+      "Sugar-based curing"
+    ],
+    "answer": "Lacto-fermentation in a salt brine"
+  },
+  {
+    "id": "food-drink-1234",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Which grain is toasted and ground to make traditional Mexican and Central American atole and horchata drinks, alongside rice or nuts?",
+    "options": [
+      "Barley",
+      "Oats",
+      "Corn",
+      "Wheat"
+    ],
+    "answer": "Corn"
+  },
+  {
+    "id": "food-drink-1235",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "For an olive oil to be labeled 'extra virgin,' it must meet a strict standard on what characteristic?",
+    "options": [
+      "Being pressed only from black olives",
+      "A specific shade of green color",
+      "Low acidity from proper extraction methods",
+      "A minimum aging period in barrels"
+    ],
+    "answer": "Low acidity from proper extraction methods"
+  },
+  {
+    "id": "food-drink-1236",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Sriracha hot sauce gets its flavor primarily from red jalapeño-style chilies combined with which other key ingredient?",
+    "options": [
+      "Ginger",
+      "Onion",
+      "Tamarind",
+      "Garlic"
+    ],
+    "answer": "Garlic"
+  },
+  {
+    "id": "food-drink-1237",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Traditional pesto sauce originated in which Italian city?",
+    "options": [
+      "Bologna",
+      "Naples",
+      "Florence",
+      "Genoa"
+    ],
+    "answer": "Genoa"
+  },
+  {
+    "id": "food-drink-1238",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What is the main difference between a stock and a broth in classic cooking?",
+    "options": [
+      "Served hot vs. served cold",
+      "Vegetarian vs. meat-based always",
+      "Unsalted vs. heavily salted",
+      "Bones vs. meat as the base"
+    ],
+    "answer": "Bones vs. meat as the base"
+  },
+  {
+    "id": "food-drink-1239",
+    "difficulty": "easy",
+    "category": "food-drink",
+    "question": "What makes Greek yogurt thicker and higher in protein than regular yogurt?",
+    "options": [
+      "It's strained to remove extra liquid whey",
+      "It contains added gelatin",
+      "It's cooked at a higher temperature",
+      "It's made from a different animal's milk"
+    ],
+    "answer": "It's strained to remove extra liquid whey"
+  },
+  {
+    "id": "food-drink-1240",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "What is the key difference between angel food cake and a traditional pound cake?",
+    "options": [
+      "Always chocolate-flavored",
+      "Egg whites only, no butter or yolks",
+      "No sugar at all",
+      "Never baked, only chilled"
+    ],
+    "answer": "Egg whites only, no butter or yolks"
+  },
+  {
+    "id": "food-drink-1241",
+    "difficulty": "medium",
+    "category": "food-drink",
+    "question": "Mascarpone, the rich Italian cheese used in tiramisu, differs from cream cheese mainly by having a notably higher amount of what?",
+    "options": [
+      "Salt content",
+      "Protein content",
+      "Fat content",
+      "Water content"
+    ],
+    "answer": "Fat content"
   }
 ]

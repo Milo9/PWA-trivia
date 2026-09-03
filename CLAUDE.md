@@ -1231,6 +1231,96 @@ every other candidate category was confirmed unworkable, not an oversight.
    "Large batches parallelized via fork agents," just applied within a
    single category across same-session waves instead of across files.
 
+**A third accessible-difficulty session (2026-09-03, same constraint, no
+category preference) picked categories by grepping candidate lanes
+against the full corpus *before* drafting, rather than by reading AVOID
+lists alone — and confirmed even "second-tier" facts are more pre-mined
+than they look.** With every category touched earlier that same day
+(mythology-religion, music, world-cultures, sports, animals-nature,
+science-technology) off the table, and `general`/space-astronomy/
+arts-literature/geography/civics/film-tv already flagged elsewhere in
+this file as saturated or exhausted, the remaining field was
+`business-brands`, `food-drink`, and `history`. Per-lane grepping (8-10
+concrete angles per candidate — parent-company ownership, brand
+country-of-origin, mascot real names, cooking-technique vocabulary,
+cocktail base spirits — each checked against **all 17 files**, not just
+the target category) picked `business-brands` (no `dupeGroup` at all,
+so fully isolated from cross-category collision) and `food-drink`
+(cooking technique/cocktail/cheese-origin lanes scored clean on the
+pre-draft grep) over `history` (not grepped further once two viable
+categories were found — "don't hunt for a second category" once two
+are confirmed workable, same call as the second accessible session).
+
+1. **The pre-draft grep still under-caught real collisions — full
+   verification only happens post-draft.** ~90-100 questions were
+   drafted per category on facts that scored zero or low hits during
+   lane-selection grepping; `check-draft.js`'s default pass plus
+   `--full-answer-audit` still caught 10-13 real duplicates per category
+   afterward (business-brands: Bounty/Verizon/Skittles/Trix/Lay's
+   slogans, Bubble Wrap, M&M's founders, Barbie's full name, Starbucks'
+   name origin, eBay's first sale, Red Bull's inspiration, Blockbuster/
+   Netflix, Snap-Crackle-Pop, all already covered; food-drink: Gruyère/
+   Roquefort/Halloumi/Cognac country-of-origin, mise en place, Vitamin D
+   from sunlight, beer's barley base, vanilla's orchid origin, fortune
+   cookies' US origin, Worcestershire's anchovies, "fond," umami, the
+   Sazerac's rye base, sourdough's lactic acid bacteria, and nachos'
+   inventor nickname — see `templates/food-drink.md`'s new "hidden
+   mini-series" note on cheese/wine/spirit country-of-origin facts
+   specifically). Lane-level grepping (does this *category of fact*
+   have open territory) is a filter for picking a category, not a
+   substitute for per-fact verification once drafting starts — budget
+   for the full check-draft pipeline regardless of how clean the
+   pre-draft grep looked.
+2. **Business trivia's "second-tier" layer (mascot real names, slogan
+   origin stories, acquisition prices, invention-accident stories) is
+   *not* meaningfully less mined than the "bare identity fact" layer
+   the mythology-religion session warned about** — it's just a
+   differently-shaped chestnut. `business-brands` had already
+   independently covered nearly every one of the slogans/mascots/origin
+   stories this session reached for from general knowledge (M&M's
+   slogan, Bounty's slogan, Barbie's full name, Starbucks' name origin,
+   eBay's first sale), because those are exactly the same "surprising
+   but well-known" facts a memory-only drafting pass reaches for by
+   default, template AVOID list or not. Two things that helped anyway:
+   drafting from **specific companies/products the existing corpus
+   hadn't touched at all** (checked by grepping the company/product name
+   itself, not just the fact) rather than fresher angles on
+   already-covered companies; and running the mandatory short-answer
+   pass (`answer.length < 6`, full-corpus scan) even for a category with
+   mostly long/specific answers — it caught business-brands' M&M's,
+   Barbie, and Starbucks duplicates that `--full-answer-audit` also
+   caught, confirming the two checks overlap but neither alone is
+   sufficient.
+3. **Coincidental same-answer reuse across many drafted questions in one
+   batch is extremely common and is not itself a signal — read every
+   flagged pair.** This batch's `check-draft` runs threw 15-20 "shares
+   answer with draft[N]" advisories per category (Amazon owning
+   Whole Foods/Twitch/Zappos; Germany as the origin of Aldi/Puma/
+   Birkenstock; France as the answer for Bordeaux/Comté/Danone), and
+   every single one was a genuinely distinct fact about a different
+   specific company — a large batch of country-of-origin or
+   parent-company questions will naturally reuse a handful of common
+   countries/conglomerates many times over, and that reuse alone doesn't
+   mean anything collided. Confirm by reading the paired question text,
+   not by the advisory count.
+4. **Multi-wave over-drafting within a single session works, but
+   reshuffle the *entire* merged set at the end, not just the newest
+   wave.** Each wave (main draft, then two small top-up waves once the
+   real cut rate was known) was shuffled independently at draft time,
+   then the full merged file was shuffled once more as a final step
+   before assigning real IDs — cheap, and avoids the position-skew that
+   would otherwise result from concatenating three separately-shuffled
+   arrays of different sizes.
+5. **Net result:** business-brands 97 drafted → 117 shipped after two
+   top-up waves (1217 → 1334 questions); food-drink 73 drafted → 86
+   shipped after two top-up waves (1195 → 1281 questions); 203 new
+   questions total against a 200 target, roughly a 35% overall
+   draft-to-ship attrition rate once all three waves are counted
+   together — in line with the ~24-33% per-category rates the first two
+   accessible sessions saw, confirming this constraint reliably costs
+   roughly a third of any naive draft count regardless of which
+   category absorbs it.
+
 ## What not to do
 
 - Don't add a build step, framework, or bundler — this is intentionally

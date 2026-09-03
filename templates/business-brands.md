@@ -203,6 +203,10 @@ AVOID THESE ANGLES (facts already asked, in some cases more than once — don't 
 - Baskin-Robbins' "31 flavors" meaning one flavor per day of the month
 - Jack in the Box's original name, Oscar's
 - Justin Timberlake being paid ~$6 million to sing/perform McDonald's "I'm Lovin' It" jingle/falsetto hook (2003) — a drafting-agent loop asked this same fact 3 separate ways in one batch
+- Slogan chestnuts, now covered: M&M's "Melts in your mouth, not in your hand" (trademarked 1954); Bounty's "The quicker picker-upper"; Verizon's "Can you hear me now?" (Paul Marcarelli as Test Man); Skittles' "Taste the Rainbow"; Trix's "Silly Rabbit, Trix are for kids"; Lay's "Betcha can't eat just one" (since 1963)
+- Kool-Aid Man, Snap/Crackle/Pop (Rice Krispies), and Charlie the Tuna (StarKist) as mascots — all covered; a fresh mascot question needs to describe the mascot without naming it in the stem (naming it leaks the answer directly)
+- Bubble Wrap's original marketing pitch as wallpaper; M&M's named for founders Forrest Mars and Bruce Murrie; Barbie's full name (Barbara Millicent Roberts); Starbucks named after Moby-Dick's Starbuck; the first item sold on eBay (a broken laser pointer, 1995); Red Bull's formula based on Thai drink Krating Daeng — all already covered from a prior batch, watch for these being independently rediscovered and redrafted
+- In 2000, Blockbuster passing on buying Netflix for ~$50 million (CEO John Antioco)
 - McDonald's product/mascot history, now also covered: original 1963 mascot Speedee (a winking chef, predates Ronald), the 1962 Filet-O-Fish (aimed at Catholics abstaining from meat on Fridays), the 1972 Egg McMuffin (invented by franchisee Herb Peterson), and the 1967 Big Mac (created by franchisee Jim Delligatti in Uniontown, PA)
 - KFC founder Colonel Sanders starting to franchise at age 65, door-to-door
 - Domino's "30-minute delivery guarantee or it's free" (US, 1979-1993)
