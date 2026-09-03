@@ -26,6 +26,27 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Which Aztec feathered serpent god is associated with wind/learning (Quetzalcoatl)
 - Which Inca sun god is ancestor of the Sapa Inca emperors (Inti)
 - Islamic Night of Power when the Quran was first revealed (Laylat al-Qadr)
+- Persephone abducted by Hades / pomegranate seeds binding her to the underworld
+- Scylla and Charybdis, the Sirens, Ariadne's thread, Jason/Medea and the Golden Fleece (Colchis)
+- Heracles' individual labors (Nemean Lion's impervious hide, Hydra's regrowing heads, Augean stables)
+- Ajax's madness/suicide, Cassandra's curse, Laocoön and the sea serpents, Calypso holding Odysseus
+- Chiron the wise centaur, Ganymede's abduction, Endymion's eternal sleep, Adonis killed by a boar
+- The nine Muses (and Calliope = epic poetry), the three Graces/Charites, Prometheus's liver eaten daily
+- Deucalion's flood, Cadmus founding Thebes/dragon's teeth, Narcissus's reflection, Pygmalion and Galatea
+- The Norns (Urd/Verdandi/Skuld), Valkyries' role, Aegir and Ran, Sif's golden hair, Skadi, Gerd, Mimir's head
+- Norse berserkers/draugr/Yule, Vafthrudnir's contest with Odin, Baldr's ship funeral, Hermod's ride to Hel, Kvasir/Mead of Poetry, Freyja's cats
+- Amun/Amun-Ra, Nephthys, Apep the chaos serpent, Khepri the scarab, Atum, Shu/Tefnut, Hapi, canopic jars, Khufu's pyramid, the Sphinx as Khafre, the Ennead, obelisks dedicated to Ra
+- Kali vs. Durga (skull garland vs. Mahishasura-slaying), Vishnu's individual avatars (Matsya, Kurma, Varaha, Narasimha, Parashurama), Holika and Holi's origin, chakras, Upanishads, Puranas, Char Dham, Ganesh Chaturthi, Rangoli, Krishna lifting Govardhan
+- Buddhism's three vehicles (Theravada/Mahayana/Vajrayana), Dalai Lama, stupas, mandalas, Bodh Gaya, prayer wheels, the Middle Way, Sangha, the Three Jewels, Zen koans
+- Bar mitzvah age, kashrut, mezuzah, Seder maror symbolism, the ten plagues' finale, golems, dreidels, the Western Wall, Isaiah, Tu BiShvat
+- Jesus's water-into-wine miracle, the Good Samaritan's significance, Vatican City, Lent, Advent, the Eucharist, David and Goliath's sling, Samson's hair, Jonah and the fish, the Tower of Babel, Lot's wife, the Book of Job
+- The Sunni/Shia succession split, the caliphate, Eid al-Fitr vs. Eid al-Adha, the Dome of the Rock, the Hijra to Medina, Ibrahim as shared patriarch, the Qibla
+- Aztec Tlaloc/Mictlantecuhtli/Xipe Totec/Coatlicue; Maya Chaac/Ixchel/Itzamna/Camazotz; Inca Viracocha/Mama Quilla
+- Tuatha Dé Danann, the Dagda's club, Brigid, Epona, Cernunnos's antlers, the Battle of Mag Tuired
+- Slavic Perun/Veles rivalry, Baba Yaga's chicken-leg hut, Koschei's hidden death, rusalka
+- Yoruba Shango/Obatala/Ogun, Anansi winning all stories, Akan Nyame, Dahomey Mawu-Lisa (sun/moon)
+- Coyote/Raven as tricksters, the Thunderbird's thunder/lightning, White Buffalo Calf Woman, Kokopelli
+- Romulus and Remus's she-wolf, the Vestal Virgins' sacred flame, Lares and Penates, Bacchus = Dionysus, Roman augury, Terminus/Terminalia
 
 Use web search to verify every fact — do not rely on memory alone. Prefer authoritative sources (encyclopedic sources, religious/mythological references) over guessing. For each question, actually find the fact via search rather than recalling it, especially for obscure details (lesser- known figures, specific texts).
 
