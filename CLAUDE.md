@@ -640,6 +640,36 @@ grepping only for `error(s)`.
   default check's thresholds are specifically what let ~41% of one such
   batch (generic "who directed/played/composed famous-film-X" chestnuts)
   through undetected.
+- **`--full-answer-audit` silently drops any answer shorter than
+  `MIN_ANSWER_DUPLICATE_LENGTH` (6 characters, defined in `validate.js`)
+  — the same floor `validate.js`'s own same-answer check and
+  `check-draft.js`'s default pass already apply, but the docs describe
+  `--full-answer-audit` as "no threshold," which is only true above that
+  floor.** Short proper nouns — god names ("Tyr," "Set," "Nut," "Om"),
+  single-word answers, numbers — are exactly what short-answer mythology/
+  trivia questions produce, so this gap hits name-heavy categories hard
+  and gives zero signal, not a false "clean." `scripts/audit.js`'s `next`
+  command already works around this for already-shipped content (falls
+  back to a same-category match for short answers, per "Auditing
+  existing questions" below) — `check-draft.js` has no equivalent
+  fallback for a not-yet-merged draft. Confirmed 2026-09-03 drafting a
+  mythology-religion batch: a clean `check-draft.js` run (0 duplicates,
+  including a clean `--full-answer-audit`) still had 16 more real
+  duplicates sitting in short answers ("Tyr," "Set," "Isis," "Horus,"
+  "Zeus," "Mars," "Janus," ...) that only surfaced from a manual
+  `answer.length < 6` filter run against the *full* corpus by hand. Two
+  of those (a Mars/March and a Janus/January god-gives-the-month-its-name
+  fact) were sitting in `general.json` under `general-NNNN` ids that were
+  never migrated into `mythology-religion.json` during the 2026-08-01
+  split — i.e. genuinely new `general` content added after that split,
+  not just historical entries — so even a check scoped to
+  "target-category-file plus the historical general-NNNN entries already
+  inside it" would have missed them; only a full-corpus scan catches
+  this. **For any batch with short (<6 char) answers, after check-draft
+  passes clean, run one more manual pass:** filter the draft to answers
+  under 6 letters, dump every existing question across the *entire*
+  corpus (not just the target category or its `dupeGroup`) that shares
+  that exact normalized answer text, and read each match's stem by hand.
 - **Generic concept/definition questions are a distinct `--full-answer-
   audit` risk from "iconic subject" batches, and need the same treatment
   even when nothing about the batch looks iconic.** A question that
@@ -1141,6 +1171,65 @@ dress/textile/dwelling angles and music's instrument-family angles both
 came back completely clean while "famous musician" and "famous
 custom/festival" facts got hit hardest) is a cheap way to close the gap
 without redrafting the whole batch from scratch.
+
+**A second accessible-difficulty session (2026-09-03, same constraint,
+no category preference) confirmed the pattern above and added three more
+lessons.** Every category already touched that day (music, world-cultures,
+sports) was off the table to avoid same-day re-collision with the batch
+just shipped, and a fresh AVOID-list read ruled out `civics-law-economics`
+and `film-tv` outright — both had explicit saturation notes at the *bottom*
+of otherwise-plausible-looking AVOID lists (civics: "~32-58% duplicate
+rate across recent batches... the term-glossary format is essentially
+exhausted for anything short of genuinely obscure terms" — the opposite
+of what "accessible" needs; film-tv: wall-to-wall famous-fact entries top
+to bottom, same signal as geography). **Read the entire AVOID list before
+picking a category, not just the first screen of it** — a list can look
+fine for 30 lines and hit a saturation warning at line 140. That left
+`mythology-religion` (609 questions, one of the two smallest categories)
+as the only viable pick; per the "don't hunt for a second category"
+call, the whole 200-question ask ended up drafted into that one category
+across two waves, landing at 163 net new questions (609→772) rather than
+the requested 200 — a deliberate quality-over-target-count tradeoff once
+every other candidate category was confirmed unworkable, not an oversight.
+
+1. **Every single duplicate in wave 1 (46 of 148 drafted, 31%) was a bare
+   "who/what is [major entity]" identity fact — not a narrative detail, a
+   symbol, a number, or a comparative fact.** Wave 2, drafted with an
+   explicit rule to *skip bare identity facts entirely* and favor
+   second-tier narrative/detail facts instead (a myth's specific plot
+   point, a numbered detail, a distinguishing attribute, a comparative
+   fact between two traditions), cut at under 3% (2 of 79) from the
+   default `check-draft.js` pass and only 1 more from `--full-answer-audit`
+   — the short-answer manual pass (see the `--full-answer-audit` length-
+   floor gap under "Duplicate detection" above) caught one further
+   duplicate that both tools missed. For any well-established `general`-
+   derived category, treat "who/what is [X]" as the single most
+   over-mined stem shape and design around it from the first draft, not
+   as a category to discover via check-draft.
+2. **The pre-draft green-light check (dumping the target category's
+   answers and grepping candidate terms, from the first accessible
+   session) needs two corrections to actually work:** dump and grep the
+   *entire* corpus, not just the target category (a `general`-derived
+   category's easy chestnuts often live in `general.json`'s own new
+   content, not just the historically-migrated `general-NNNN` entries
+   sitting inside the target file — see the length-floor gap note under
+   "Duplicate detection" for how this hid two real duplicates from every
+   automated check at once); and read the *matched question's stem*, not
+   just the hit count. A count of "1" on a major entity reads as "room to
+   draft," but if that one hit is the bare identity fact, the room is an
+   illusion — the identity fact is exactly what a fresh draft reaches for
+   first. `grep`ing ~30 candidate sub-angles (not just entity names) drawn
+   from a specific list of narrative/detail facts per tradition — not
+   "which gods haven't been asked about" — is what actually finds open
+   territory at this depth.
+3. **Merge and validate each wave before drafting the next, rather than
+   batching two waves through check-draft together.** Wave 2's
+   check-draft run saw wave 1 through the live corpus once it was merged,
+   so cross-wave duplication was caught for free with no separate union
+   pass — the same principle as "process sequentially, one file fully
+   checked-and-merged before the next's check-draft run starts" under
+   "Large batches parallelized via fork agents," just applied within a
+   single category across same-session waves instead of across files.
 
 ## What not to do
 

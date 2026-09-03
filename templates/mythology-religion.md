@@ -47,6 +47,19 @@ AVOID THESE ANGLES — already well-covered in my question bank, so don't draft 
 - Yoruba Shango/Obatala/Ogun, Anansi winning all stories, Akan Nyame, Dahomey Mawu-Lisa (sun/moon)
 - Coyote/Raven as tricksters, the Thunderbird's thunder/lightning, White Buffalo Calf Woman, Kokopelli
 - Romulus and Remus's she-wolf, the Vestal Virgins' sacred flame, Lares and Penates, Bacchus = Dionysus, Roman augury, Terminus/Terminalia
+- MAINTENANCE NOTE (2026-09-03, accessible-difficulty batch): bare "who is the god/goddess of X" identity questions for major deities are almost all taken — the accessible facts a casual-drafting pass reaches for are exactly what's already been mined, largely into `general.json` specifically (a `general`-derived category's easy chestnuts often live in the sibling `general.json` file, not the target category file — check both, and note `check-draft.js --full-answer-audit` silently skips any answer under 6 characters, which is most god names, so short answers need a manual full-corpus grep by hand regardless of what audit passes clean). Confirmed-taken bare-identity/symbol facts, by tradition — don't redraft these, but a *different specific fact* about the same named figure (a myth detail, a narrative event, a distinguishing attribute) is still fair game:
+  - Greek: Hermes as winged messenger; Apollo as Artemis's twin, god of music/prophecy/sun; Demeter as harvest goddess; Dionysus as wine/revelry god; Hephaestus as lame blacksmith god; Mount Olympus as home of the twelve gods; Cerberus guarding Hades; Perseus killing Medusa; Helen of Troy's abduction starting the war; the River Styx as the underworld river; Hera as queen/wife of Zeus; Nike as victory goddess; Gaia personifying Earth; Zeus as king of the gods; Echo cursed to repeat last words
+  - Roman: Neptune=Poseidon, Mercury as messenger god, Saturn/Saturday, Mars/March, Janus/January (all four god-gives-day/month-its-name etymologies are taken, not just Saturday), Virgil wrote the Aeneid, Venus=Aphrodite equivalence
+  - Norse: Asgard as home of the gods, Fenrir killing Odin at Ragnarok, Loki as trickster/shapeshifter, Frigg as Odin's wife/queen of Asgard, Tyr sacrificing his hand to bind Fenrir (both the "which god loses a hand" and "Tyr/Tuesday" etymology framings)
+  - Egyptian: Anubis as jackal-headed god, Bastet as cat goddess/home protector, Osiris murdered by Set / Set as chaos god and Osiris's rival, Isis as magic/motherhood goddess (mother of Horus), Horus as falcon-headed sky/kingship god, Nut as sky goddess arching over Geb
+  - Hindu: Vishnu as "the Preserver," Diwali as the festival of lights (asked at least twice already, fully saturated), Hanuman as devoted monkey god in the Ramayana, Ravana kidnapping Sita, the Ganges as the sacred river, Om as the sacred syllable
+  - Buddhist: the Bodhi tree as the enlightenment site, Nirvana as liberation from rebirth
+  - Judaism: Passover commemorating the Exodus, Yom Kippur as the Day of Atonement, a synagogue as the house of worship, the Guru Granth Sahib framing is Sikh not Jewish — see Sikhism below
+  - Christianity: Judas Iscariot's betrayal for thirty pieces of silver, baptism as the water rite, Gabriel announcing Jesus's birth to Mary, Mount Ararat as the Ark's resting place
+  - Islam: Zakat as charitable giving (one of the Five Pillars)
+  - Sikhism: a gurdwara as the place of worship, the Guru Granth Sahib as the eternal living Guru scripture
+  - Shinto: a torii gate marking a shrine entrance
+  - Chinese: Confucius's teachings on morality/social harmony
 
 Use web search to verify every fact — do not rely on memory alone. Prefer authoritative sources (encyclopedic sources, religious/mythological references) over guessing. For each question, actually find the fact via search rather than recalling it, especially for obscure details (lesser- known figures, specific texts).
 
