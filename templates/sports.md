@@ -44,7 +44,7 @@ reach for a more obscure version of the same angle):
 - Muhammad Ali's "float like a butterfly, sting like a bee" phrase
 - How many periods in a standard ice hockey game (3)
 - How many players per side on a rugby union team on the field (15)
-- How many players per team are on the court in indoor volleyball (6) — beach volleyball's 2-per-team is a distinct, still-fair-game fact
+- How many players per team are on the court in indoor volleyball (6), and beach volleyball (2)
 - Note: an inbox draft was received truncated mid-file on 2026-08-06 (only 129 of a planned ~200 entries survived) — if this template is re-run, the missing back half of that batch was never drafted and its topics are unknown, so don't assume anything beyond what's listed above is covered
 - Note: a 2026-09-01 audit cut 338 of 598 existing sports questions for violating the casual-audience
   rule above (record-holder/stat-recall, draft/nickname trivia, rule-spec measurements, obscure

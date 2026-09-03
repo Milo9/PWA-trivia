@@ -408,6 +408,23 @@ trusting recall, especially for "hard"-difficulty/obscure specifics
     }
   }"
   ```
+- **Answer-leak via a discriminating word in the stem, not the full answer
+  string.** `check-draft.js`'s leak check only matches the *complete*
+  answer text appearing verbatim in the question — it misses a single
+  word from the answer (or a close variant of one) showing up in the
+  stem while being absent from every distractor, which still tips off
+  the answer without requiring any real knowledge (e.g. a stem
+  mentioning "resembling a grid" when the answer is "The gridiron," or
+  "seven players per side" when the answer is "Rugby sevens"). Only a
+  manual read catches this reliably. Confirmed 2026-09-02: a
+  self-drafted 150-question sports batch that passed both
+  `check-draft.js` passes clean still had ~15 of these on a manual
+  re-read, plus one outright tautological stem (quoting the answer's
+  nickname directly: "several skills are officially named 'The Biles' —
+  after which gymnast?"). Fix by rewording the stem to describe the
+  concept without reusing the answer's distinctive word (a synonym, or
+  drop the clause entirely) — same principle as not leaking the literal
+  answer, just at word-substring granularity instead of full-string.
 
 After merging, **always re-run `npm run validate` before shipping**,
 even after a careful manual review pass — it's free, and it catches
