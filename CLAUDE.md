@@ -325,6 +325,25 @@ trusting recall, especially for "hard"-difficulty/obscure specifics
   bug is that the option set doesn't uniquely determine an answer. Cut
   rather than pick a side, unless the option set can be narrowed to
   exclude all-but-one true answer.
+- **Knowledge-cutoff trap on real-world events that happened between the
+  model's training cutoff and today's actual date.** Confirmed 2026-09-03
+  drafting a sports batch: the session's cutoff was January 2026, but the
+  session date was September 2026 — meaning the Milan-Cortina 2026 Winter
+  Olympics (February 2026) and the FIFA World Cup 2026 (June-July 2026)
+  had both already happened, with results the model has no memory of.
+  Asking "which city will host X" or "which country hosted X" for an
+  event whose host was locked in and announced years earlier (Milan-
+  Cortina's host cities, the 2026 World Cup's three co-hosts) is still
+  safe — that fact predates the cutoff. Asking who *won* anything at
+  either event is not — a plausible-sounding guess would be a fabricated
+  result with total confidence behind it, exactly the kind of error
+  duplication checks can't catch. Before drafting any question about a
+  recent or upcoming real-world competition, check today's actual date
+  (not the training cutoff) against the event date, and if the event
+  falls in the gap between them, restrict facts to whatever was already
+  fixed/announced before the cutoff (host, format, participants) and
+  skip anything that depends on the event's outcome — verify via
+  `WebSearch` instead of guessing, or don't ask it at all.
 - **Near-synonym option sets in vocabulary/slang questions are the same
   bug in a different costume.** A "what's the term for X" question whose
   distractors are close synonyms of the correct answer (e.g. "British
@@ -867,6 +886,27 @@ heavily-populated category" for the wiki/reference-sourcing workflow
 this calls for — fetching source material fixes *accuracy*, it doesn't
 fix *duplication*, so still run `check-draft.js` against the full corpus
 for every candidate fact regardless of where it came from.
+
+**For `sports` specifically, the wall shows up earlier and differently**
+because the casual-audience rule (see "Adding question batches" above)
+removes most of the fact space a mined-out category would normally fall
+back on (records, stats, obscure firsts) — so straightforward "what do
+you call X" terminology runs dry well before whole-corpus dedup alone
+would flag it. Confirmed 2026-09-03: after the 368-517 batch covered
+terminology across nearly every mainstream sport, a follow-up batch found
+that lane mostly exhausted and instead drew on **adjacent angles that stay
+within the casual rule but aren't pure terminology**: which sport a
+famous movie depicts, which sport an everyday idiom comes from (verify
+via `WebSearch`, phrase as "comes from the sport of X" rather than
+asserting a specific etymology story when the exact origin is disputed —
+same principle as "Near-synonym option sets" below), historical
+event outcomes (Olympic/World Cup host cities and one-time results, not
+career stats), and pop-culture-famous non-stat moments (Zidane's
+headbutt, the Tyson-Holyfield ear bite, Kerri Strug's vault) rather than
+more terminology. This pivot is worth reaching for on any future
+category that combines "a few hundred+ questions" with its own
+audience-scoping rule that shrinks the usable fact space faster than raw
+volume would suggest.
 
 ## What not to do
 

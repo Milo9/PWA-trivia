@@ -51,6 +51,52 @@ reach for a more obscure version of the same angle):
   "firsts"). That's why this list is much shorter than the question count would suggest — the
   removed facts aren't "already covered," they're facts this category should never have had, so
   don't avoid them as duplicates, avoid them as the wrong kind of question per the rule above.
+- A 2026-09-03 batch (150 questions, sports-518 through sports-667) found the straightforward
+  "what do you call X" terminology angle mostly mined out after the prior 368-517 batch, and instead
+  drew on adjacent angles that stayed within the casual-audience rule — see README's "Sourcing facts
+  for a heavily-populated category" and this file's own note below for why that pivot works. Angles
+  now well-covered, so don't redraft:
+  - Summer/Winter Olympic host cities (Paris 2024, Sydney 2000, Atlanta 1996, Barcelona 1992, Seoul
+    1988, Moscow 1980, Munich 1972, Mexico City 1968, Montreal 1976, Beijing 2022, Salt Lake City
+    2002, Sochi 2014, PyeongChang 2018, Turin 2006, Nagano 1998, Calgary 1988, Lillehammer 1994, Lake
+    Placid 1980, Milan-Cortina 2026, Brisbane 2032, Paris 1900) — pick a still-open year if adding more
+  - FIFA World Cup host (and, where the host also won, that pairing) for 1966, 1974, 1978, 1990, 1994,
+    1998, 2006, 2014 (Brazil's 7-1 semifinal loss), plus 2026 co-hosts, 2019/2023 Women's World Cup
+    hosts, Euro 2024, 2023 Rugby World Cup, 2023 Cricket World Cup
+  - Sports movies -> which sport: Rocky, Caddyshack, Cool Runnings, Field of Dreams, A League of
+    Their Own, Rudy, Miracle, Chariots of Fire, Million Dollar Baby, Happy Gilmore, Talladega Nights,
+    Moneyball, Invictus, Seabiscuit, Whip It, Kingpin, Bend It Like Beckham, Blades of Glory, Remember
+    the Titans, Hoosiers, The Blind Side, Jerry Maguire, Space Jam, The Sandlot, Warrior, Cinderella
+    Man, Days of Thunder, Coach Carter, Bull Durham, The Mighty Ducks, Slap Shot (do NOT use The
+    Karate Kid or Dodgeball for this angle — the answer sport is literally in the title, an
+    unfixable answer-leak)
+  - Idioms and their sport of origin (verified, undisputed-enough to state plainly): sticky wicket,
+    Monday-morning quarterback, blindsided, below the belt, on the ropes, throw your hat in the ring,
+    par for the course, out of left field, in the ballpark, dark horse, photo finish, batting a
+    thousand, step up to the plate, neck and neck, grand slam's origin in the card game bridge —
+    already-used elsewhere in the corpus (skip): throw in the towel, saved by the bell, rain check,
+    the ball is in your court, down to the wire
+  - Pop-culture athlete moments (not stats): Tom Brady's Patriots years, David Beckham, Cristiano
+    Ronaldo's nationality, Zidane's 2006 final headbutt, Billie Jean King vs. Bobby Riggs, Jackie
+    Robinson's 1947 color-barrier break, Lou Gehrig's farewell speech, DiMaggio/Monroe, George
+    Foreman's grill, the Tyson/Holyfield ear bite, Kerri Strug's 1996 vault, Tonya Harding/Nancy
+    Kerrigan, Shaun White's nickname, Simone Biles' "twisties," Serena/Venus Williams, Michael
+    Jordan's baseball detour, Babe Ruth's "called shot," Magic Johnson's 1991 HIV announcement, Wilma
+    Rudolph, Jim Thorpe, the Yankee Stadium "House That Ruth Built" nickname
+  - Origins/venues/equipment/officials: Boston Marathon (oldest annual), Daytona 500, 24 Hours of Le
+    Mans, the Iditarod, St Andrews as the "home of golf" (and 1764's 22-to-18-hole standardization),
+    the America's Cup as oldest trophy in international sport, cricket bats being willow, curling
+    stones' Ailsa Craig granite, Olympic "gold" medals being mostly silver, the ancient Olympics'
+    olive-wreath prize, FIFA/IOC/UFC/PGA spelled out, umpire vs. referee, jockey, linebacker, striker,
+    Wimbledon's all-white dress code, the Solheim Cup
+  - Cross-sport/terminology: wrestling pin, bowling strike, volleyball set, dribbling with feet vs.
+    hands, kickoff, career vs. calendar grand slam, walkover, a soccer draw, luge vs. skeleton body
+    position, a golf mulligan, an NBA three-pointer's point value, a baseball walk-off, hockey boards
+    and the penalty box, the NFL two-minute warning, special teams, a tennis baseline and drop shot,
+    the mercy rule, sudden death, a Test match
+  - Do NOT repeat the marathon's 26.2-mile distance-in-km/miles fact (sports-314 already has it) when
+    drafting the *reason* for that distance (the 1908 London royal-box finish line) — they're
+    different facts about the same number, both are now used, a third angle on it would be one too many
 
 Use web search to verify every fact — do not rely on memory alone. Prefer authoritative sources
 (official league/federation sites, general reference sources) over guessing.
