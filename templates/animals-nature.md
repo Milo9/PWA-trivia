@@ -7,121 +7,49 @@ TOPIC: Animals & Nature — wildlife, plants, ecosystems, animal biology and beh
 
 COUNT: 200 questions.
 
-AVOID THESE ANGLES — already well-covered in my question bank, so don't draft facts that overlap with these (pick different, more specific facts instead):
-- How many legs a spider has (Eight)
-- Largest mammal in the world (Blue Whale)
-- How many hearts an octopus has (Three)
-- Mantis shrimp punch acceleration/speed (compared to a .22 caliber bullet, or given in g-force) — already asked twice
-- What a narwhal's tusk actually is (an elongated canine tooth)
-- What the honeybee waggle dance communicates (direction/distance to food)
-- What pangolin scales are made of (keratin, same as fingernails) — already asked twice
-- How wood frogs survive winter (freezing solid, thawing in spring)
-- Which sex of seahorse carries the developing embryos (the male)
-- How the "immortal jellyfish" (Turritopsis dohrnii) achieves biological immortality (reverting to a polyp stage)
-- Bombardier beetle's defensive spray being boiling-hot
-- Peregrine falcon's diving speed as the fastest animal (already asked with a ~240 mph figure — don't reintroduce with a different number)
-- Unique shape of wombat droppings (cube-shaped)
-- Giant squid having the largest eyes in the animal kingdom (already described as "size of a dinner plate" — don't reintroduce with a diameter-in-inches figure)
-- Capybara as the largest living rodent species
-- Naked mole rats' exceptional cancer resistance
-- The fossa as Madagascar's top predator/largest carnivore
-- Kākāpō being the world's only flightless parrot
-- Okapi's closest living relative being the giraffe
-- Mantis shrimp's exceptional color vision (12-16 photoreceptor types, vs. 3 in humans)
-- Sea otters having the densest fur of any mammal (~1 million hairs per square inch)
-- Giant panda's "thumb" being an enlarged/modified wrist bone (radial sesamoid) — already asked twice
-- Cuttlefish pupils forming a W-shape in bright light
-- Starfish regenerating a whole body from a single severed arm plus part of the central disk
-- Electric eel (Electrophorus voltai) discharging ~860 volts, the highest recorded voltage from an eel
-- Slow loris as the only venomous primate (toxin from elbow glands, delivered via a bite through grooved teeth)
-- Collective noun for a group of flamingos (a flamboyance)
-- Pufferfish toxin's name (tetrodotoxin)
-- Chemical compound fireflies use to produce light (luciferin)
-- Emperor penguin as the largest living penguin species
-- Hoatzin chicks having claws on their wings
-- King cobra as the longest venomous snake in the world
-- Periodical cicadas' 13- or 17-year emergence cycles
-- Venus flytrap needing two touches to its trigger hairs within ~20 seconds to snap shut
-- Mimic octopus impersonating other marine animals (already asked with specific species named — lionfish, sea snakes, jellyfish)
-- Poison dart frogs losing toxicity in captivity because their toxin comes from their wild diet (ants/mites/beetles)
-- How long it takes a sloth to digest a single meal (~a month/30 days)
-- Hummingbird heart rate in flight (~1,200 beats per minute)
-- Hippopotamus "blood sweat" being a natural sunscreen/antibacterial secretion (hipposudoric acid)
-- Komodo dragon killing prey primarily via venom (not just septic bacteria/bite force)
-- Chameleon tongue length relative to body (about twice its body length)
-- Basilisk ("Jesus") lizard running across water's surface
-- Surinam toad embedding eggs in the skin of her back
-- Quokka's "world's happiest animal" nickname
-- Bristlecone pine "Methuselah"'s age (~4,800-4,857 years)
-- Superb lyrebird's general ability to mimic a wide range of sounds (already asked with specific examples — camera shutters, chainsaws)
-- Aye-aye locating grubs by tapping on wood and listening for hollows
-- Greenland shark's ~400+ year lifespan as longest of any vertebrate
-- Archerfish's basic water-jet hunting method (already asked with the specific accurate range — up to ~5 feet/1.5 meters)
-- Deep-sea anglerfish males fusing permanently to females (sexual parasitism)
-- Blobfish's "ugly" appearance being an artifact of decompression at the surface, not how it looks at depth
-- Pistol shrimp's cavitation bubble reaching temperatures comparable to the surface of the sun
-- Kiwi laying the largest egg relative to its body size of any bird
-- Male platypus's venomous spurs on its hind legs
-- Giraffe having the same number of neck/cervical vertebrae as humans (seven) — already asked twice, with and without the human comparison
-- Polar bear fur being transparent/hollow over black skin
-- Cheetah being unable to roar (already asked twice, once compared to snow leopard)
-- Tiger stripes being visible on the skin itself, not just the fur
-- Bats being the only mammal capable of true/sustained/powered flight
-- Kangaroo rat never needing to drink liquid water
-- Beaver incisors being orange due to iron in the enamel
-- Tasmanian devil's bite force being the strongest relative to body size among living mammals
-- Snow leopard's long tail wrapping around itself for warmth/balance
-- Cassowary as the world's most dangerous bird, via its dagger-like inner claw
-- New Caledonian crows' tool-making/tool use ability
-- Flamingos turning pink from carotenoids in their diet (algae/crustaceans)
-- Snakes using the Jacobson's (vomeronasal) organ, sampled via tongue-flicking, to detect scent
-- Geckos adhering to surfaces via Van der Waals forces from toe setae
-- Parrotfish secreting a mucus cocoon/sleeping bag at night
-- Flying fish gliding distance (up to ~200m/650ft)
-- Mudskippers breathing through skin and mouth/throat lining out of water
-- Coelacanth's rediscovery year (1938) after presumed extinction
-- Manta ray having the largest brain-to-body ratio of any fish
-- Leafcutter ants farming fungus rather than eating the leaves directly
-- Dung beetles navigating by the Milky Way
-- Butterflies' taste receptors being located on their feet
-- Monarch butterfly migration distance (~3,000 miles, Canada/US to Mexico)
-- Earthworms having five pairs of aortic arches ("hearts")
-- Leeches having 32 segmental ganglia, often called "brains"
-- Snail radula being covered in thousands of microscopic teeth
-- Sea cucumbers expelling internal organs as a defense mechanism
-- The "Wood Wide Web" nickname for the underground fungal network connecting trees
-- Welwitschia mirabilis growing only two leaves over its entire lifetime
-- Bullhorn acacia trees hosting ants that defend the tree in a mutualism
-- Giraffe tongue length (~45-50cm/18-20in) — already stated as a premise in the existing tongue-color question, so don't ask it as a standalone answer
-- Arctic fox coat changing color with the seasons — summer color (brownish-gray) is already an existing answer
-- Koala fingerprints closely resembling human fingerprints
-- What a camel stores in its hump (fat)
-- Platypus being a/the only egg-laying mammal
-- Ostrich's eye being larger than its brain
-- Owl maximum head-rotation angle
-- Frigatebird's largest wingspan-to-weight ratio, staying aloft for weeks
-- Wandering albatross having the largest wingspan of any living bird
-- Woodpecker's tongue wrapping around its skull to cushion its brain while drumming
-- Shark electroreceptors (ampullae of Lorenzini) detecting bioelectric fields of buried prey
-- Coral being an animal, not a plant/rock
-- Anglerfish's lure glowing via symbiotic bioluminescent bacteria
-- How many eyes a honeybee has (five, compound + ocelli)
-- Plants absorbing carbon dioxide for photosynthesis
-- Octopus blood being blue due to the copper-based protein hemocyanin
-- Manatees having only six cervical vertebrae instead of the usual seven mammalian count
-- Tundra biome definition (permafrost, low-growing mosses/lichens/shrubs, no trees)
-- Binturong's urine smelling like buttered popcorn (2-acetyl-1-pyrroline)
-- Star-nosed mole's snout appendages/tentacles and their sensory receptors (Eimer's organs)
-- Axolotl retaining its external gills into adulthood (neoteny/paedomorphosis) — already asked twice
-- Gaboon viper having the longest fangs of any snake species
-- Oilbird using echolocation to navigate caves, the only nocturnal fruit-eating bird known to do so
-- Platypus using electroreceptors in its bill to hunt underwater
+AVOID THESE ANGLES — already well-covered in my question bank, so don't draft facts that overlap with these (pick different, more specific facts instead). Grouped by sub-domain to make it easier to skim before drafting a batch in that area — a fact can straddle two sections; it's only listed once, under whichever section fit best.
 
-Two facts that are premises already stated inside an existing question's stem, so drafting them as a separate standalone question is redundant even though the wording/answer differs: Rafflesia arnoldii being the world's largest individual flower (already stated as a premise in the existing "corpse flower" question), and a baobab's swollen trunk being for water storage (already implied by the existing "how many liters" question).
+MAMMALS:
+- Narwhal tusk (elongated canine tooth), pangolin scales (keratin, asked twice), wombat cube-shaped droppings, capybara as largest rodent, naked mole rat cancer resistance, fossa as Madagascar's top predator, okapi's closest relative the giraffe, sea otter fur density, giant panda's "thumb" (radial sesamoid, asked twice), slow loris as only venomous primate, sloth digestion time (~a month), hippo "blood sweat" sunscreen, quokka "happiest animal" nickname, aye-aye tapping for grubs, platypus venomous spurs, giraffe neck vertebrae count (seven, asked twice) and tongue length/color, polar bear transparent/hollow fur, cheetah's inability to roar (asked twice), tiger stripes on skin not just fur, bats as only mammal with true flight, kangaroo rat never drinking water, beaver orange incisors, Tasmanian devil bite force, snow leopard tail use, camel hump storing fat, platypus egg-laying, koala fingerprints resembling humans', manatee's six neck vertebrae, binturong smelling like buttered popcorn, star-nosed mole's Eimer's organs, platypus electroreceptors in its bill
+- Beaver anatomy/behavior cluster (lodge construction, dam engineering as habitat creation, castoreum, webbed feet, tail functions, nictitating membrane, diet, kit development, chromosome-count speciation from muskrats) — heavily covered, treat as exhausted
+- Armadillo cluster (nine-banded quadruplets, three-banded rolling ability, giant armadillo claws, osteoderm shell) — heavily covered, treat as exhausted
+- Small wild cat cluster (flat-headed, rusty-spotted, black-footed, sand, caracal, oncilla, ocelot, bobcat, Asian golden, leopard/Bengal cats — each already has its own distinguishing-fact question) — treat as exhausted unless a genuinely new species/fact
+- Bison vs. water buffalo naming confusion, bison wallowing as ecosystem engineering, wolf pack "alpha" myth (real structure is a breeding pair + offspring), coyote range expansion into cities, coywolf hybrid, raccoon urban dexterity, gorilla silverback/knuckle-walking/chest-beating function, orangutan's solitary lifestyle, red panda vs. giant panda relation, skunk spray gland location, grizzly vs. black bear shoulder hump
+- Calico cat X-inactivation and rare infertile XXY males, albinism/leucism/melanism/piebaldism distinctions, polydactyl "Hemingway cats"
 
-Watch for this same fact reused on a *different* named animal, not just verbatim repeats — e.g. blue blood from copper-based hemocyanin is already asked about a horseshoe crab; the same mechanism on an octopus or other mollusk is a distinct-enough entity to keep, but don't stack more than one or two species onto the same shared mechanism.
+BIRDS:
+- Peregrine falcon diving speed (already given a ~240 mph figure — don't reintroduce with a different number), kakapo as only flightless parrot, emperor penguin as largest penguin, hoatzin chick wing claws, hummingbird heart rate (~1,200 bpm), lyrebird mimicry (asked with camera shutters/chainsaws examples), kiwi egg size relative to body, cassowary's dagger claw, crow/New Caledonian crow tool use, flamingo carotenoid coloration and collective noun (a flamboyance), ostrich eye larger than brain, owl head rotation angle, frigatebird and albatross wingspan records, woodpecker tongue/skull cushioning, oilbird echolocation, sword-billed hummingbird's oversized bill, bowerbird courtship structures, penguin family (emperor, Galápagos, rockhopper, little), albatross/petrel tubular nostrils and salt glands, corvid family (crow, raven, Clark's nutcracker), owl/hawk/falcon/eagle raptor cluster, woodpecker cluster (pileated, downy-type drumming), hummingbird cluster, songbird nest-building cluster (cliff swallow mud nests, weaver bird nests, ovenbird), extinct/endangered bird cluster (California condor, ivory-billed woodpecker "Lord God bird")
+- Feral pigeon descent from the rock dove
 
-Use web search to verify every fact — do not rely on memory alone. Prefer authoritative sources (reference databases, encyclopedic sources) over guessing. For each question, actually find the fact via search rather than recalling it, especially for obscure details (specific numbers, records, lesser-known species).
+REPTILES & AMPHIBIANS:
+- King cobra as longest venomous snake, komodo dragon venom, chameleon tongue length and independent eye movement, basilisk lizard running on water, wood frog freezing survival, poison dart frog captive toxicity loss, surinam toad eggs embedded in back, snake Jacobson's/vomeronasal organ, gecko Van der Waals adhesion, gaboon viper's long fangs, axolotl neoteny (asked twice), python/boa vestigial pelvic spurs, tuatara's parietal (third) eye, temperature-dependent sex determination in turtles/alligators, sea turtle species cluster (leatherback, loggerhead — nesting/migration facts), crocodile vs. alligator snout/tooth-visibility distinction, pit viper infrared-sensing pit organs, flying/gliding lizard (Draco) elongated ribs, tokay gecko name origin, Gila monster as only venomous US lizard, marine iguana salt-sneezing, chameleon color-change mechanism (chromatophores/iridophores, not just camouflage), caecilian's worm/snake-like body
+
+MARINE LIFE & FISH:
+- Octopus three hearts and copper-based blue blood (hemocyanin) — watch for this mechanism reused on a different mollusk/arthropod (already also asked re: horseshoe crab); giant squid's dinner-plate-sized eyes, immortal jellyfish (Turritopsis dohrnii) reverting to a polyp, mantis shrimp punch force/color vision, cuttlefish W-shaped pupils, starfish whole-body regeneration, electric eel voltage record, pufferfish tetrodotoxin, mimic octopus impersonating other species (already asked with lionfish/sea snakes/jellyfish named), archerfish water-jet hunting (already given a ~5 ft range), anglerfish sexual parasitism and bioluminescent lure bacteria, blobfish decompression appearance, pistol shrimp cavitation bubble temperature, greenland shark lifespan, coelacanth's 1938 rediscovery, manta ray brain-to-body ratio, parrotfish mucus sleeping cocoon, flying fish glide distance, mudskipper breathing out of water, shark ampullae of Lorenzini, seahorse male pregnancy, coral as an animal not a plant/rock, orca ecotype/pod-dialect cluster, whale species cluster (blue, sperm, bowhead, gray — each already has a distinguishing record fact), nautilus buoyancy/eye/argonaut cluster, vampire squid feeding/defense cluster, cephalopod color-change cluster (cuttlefish, octopus chromatophores)
+- Remora sucker-disc attachment, flatfish eye migration during metamorphosis, pipefish/seadragon as seahorse relatives, red tide/harmful algal blooms, ocean dead zones/hypoxia, hagfish slime defense, lamprey parasitic rasping feeding, sea squirt/tunicate notochord, barnacle permanent cementation as an adult (a second, different barnacle fact already exists re: reproductive organ size — don't add a third), estuaries, thermocline, photic/mesopelagic ocean zones, anadromous vs. catadromous fish, osmoregulation, plankton, kelp holdfasts
+
+INSECTS & OTHER INVERTEBRATES:
+- Spider leg count (eight), honeybee waggle dance and eye count, bombardier beetle's boiling spray, firefly luciferin, periodical cicada emergence cycles, leafcutter ant fungus farming, dung beetle celestial (Milky Way) navigation, butterfly taste receptors on feet, monarch migration distance and multi-generational nature, earthworm's five "hearts," leech ganglia, snail radula, sea cucumber organ expulsion, Venus flytrap trigger-hair mechanism, complete vs. incomplete metamorphosis (grasshopper vs. butterfly already both used), zombie ant fungus (Ophiocordyceps), spider silk protein/spinneret, jumping spiders hunting without webs
+- Chitin as arthropod exoskeleton material, beetles (Coleoptera) as ~40% of insect species, orb-weaver dragline silk, termites' closer relation to cockroaches than ants, termite soldier caste, dragonfly aquatic naiad stage, silverfish as wingless insects (not fish), woodlice as the only fully land-adapted crustaceans, slugs as shell-less land snails, octopus "arms" vs. true tentacles (squid)
+
+PLANTS & FUNGI:
+- Rafflesia arnoldii as world's largest flower (already a premise inside an existing question — don't redraft as standalone), Venus flytrap two-touch trigger, bristlecone pine "Methuselah" age, Wood Wide Web mycorrhizal network, Welwitschia's two lifetime leaves, bullhorn acacia ant mutualism, baobab trunk water storage (already implied by an existing "how many liters" question), giant sequoia/coast redwood size records, quaking aspen (Pando) clonal colony, strangler fig epiphyte start, corpse flower (titan arum) smell, carnivorous plant cluster (pitcher plants, sundew, bladderwort/Utricularia — each already has its own trap-mechanism question), mangrove cluster (salt filtration, vivipary, root oxygen uptake — heavily covered, treat as exhausted), fig/fig-wasp obligate mutualism, lichen-reindeer winter diet
+- Mycelium vs. mushroom fruiting body, gymnosperm vs. angiosperm definitions, lichen as fungus+algae/cyanobacteria partnership, yeast fermentation, fern/moss spore reproduction, xylem vs. phloem, auxin/phototropism, photoperiodism, pollination syndromes, self- vs. cross-pollination, deciduous vs. evergreen, tomato/banana fruit classification, Rhizobium root-nodule nitrogen fixation, dendrochronology (tree rings)
+
+ECOLOGY, EVOLUTION, GENETICS & CONSERVATION CONCEPTS (large 2026-09-03 addition — this whole sub-domain went from ~empty to well-covered in one batch; treat every bullet below as exhausted, not just a sample):
+- Core vocabulary: ecological niche, food web vs. food chain, trophic level, biomagnification, carrying capacity, ecological succession, pioneer/keystone/indicator/umbrella/flagship/foundation species (Yellowstone wolves and prairie dogs used as keystone examples — sea otter/kelp forest keystone fact already existed separately), commensalism/mutualism/parasitism, detritivore vs. decomposer, island biogeography, endemic species, ecosystem services, trophic cascade, extirpation
+- Biomes/cycles: chaparral, temperate grassland, swamp vs. marsh vs. bog, water cycle condensation, nitrogen fixation, carbon sequestration, interspecific competition
+- Evolution/taxonomy: homologous vs. analogous vs. vestigial structures (whale pelvis, blind cave fish eyes, ostrich wings each used as a separate example — don't add a fourth), binomial nomenclature, Linnaeus, taxonomic rank ordering, convergent evolution (bat/bird/insect wings; thylacine/wolf), natural selection (Darwin & Wallace), punctuated equilibrium, genetic drift, gene flow, allopatric/sympatric speciation, adaptive radiation (Darwin's finches, Hawaiian honeycreepers), founder effect, population bottleneck, biological species concept, sexual selection, living fossil (as a term, plus Ginkgo biloba as an example — coelacanth/nautilus/horseshoe crab already used for other facts), ring species (Ensatina salamanders), cryptic species
+- Coloration/mimicry concepts: aposematism, countershading, crypsis, disruptive coloration, masquerade, deimatic display, Müllerian mimicry, aggressive mimicry (Photuris fireflies), structural coloration/iridescence, luciferase (paired with the already-used luciferin fact)
+- Genetics: X-chromosome inactivation (calico cats), albinism/leucism/melanism/piebaldism, polydactyly, codominance (roan cattle), incomplete dominance (snapdragons), hybrid vigor, mutation
+- Extinct species & paleontology: quagga, dodo, thylacine, passenger pigeon (Martha), great auk, Irish elk, woolly mammoth (Wrangel Island survival), Xerces blue butterfly, Permian-Triassic "Great Dying," Cretaceous-Paleogene/Chicxulub extinction, La Brea Tar Pits, dire wolf, giant ground sloth, moa, elephant bird egg size, Caribbean monk seal, woolly rhinoceros, amber fossil preservation, permineralization, coprolites, background vs. mass extinction definitions
+- Parasites/vectors: Guinea worm, human botfly, tapeworm proglottids, ticks/Lyme disease, rabies transmission, liver flukes/trematodes, Anopheles mosquitoes as the malaria vector (Plasmodium itself already covered separately)
+- Conservation: IUCN Red List categories (ordering, and "Extinct in the Wild" specifically), CITES, poaching, rewilding, DDT ban/bald eagle recovery, California condor captive-breeding program, zebra mussel/Burmese python/lionfish/cane toad invasive-species stories, black-footed ferret rediscovery, giant panda's 2016 downlisting, International Whaling Commission moratorium, turtle excluder devices, ex situ vs. in situ conservation, Svalbard Global Seed Vault, biodiversity hotspots, flyways, wildlife corridors, habitat fragmentation, ocean acidification, overfishing, bycatch, the 1992 Atlantic cod collapse
+- Animal behavior/senses: imprinting (Konrad Lorenz), dolphin strand feeding, songbird celestial (star) navigation, countercurrent heat exchange, crepuscular/diurnal/nocturnal activity terms, circadian rhythm, ruminant stomach chambers (reticulum/omasum/abomasum), precocial vs. altricial young, whale falls sustaining deep-sea ecosystems for decades
+
+MAINTENANCE NOTE: restructured into sub-domain sections 2026-09-03 after a 202-question batch (mostly ecology/evolution/genetics/conservation concept-and-definition questions, a sub-domain that had been almost entirely untouched despite the corpus's size) pushed the flat list well past the ~30-40 entry guideline for a second time. If a section above grows unwieldy on its own, prune within that section using the existing guidance (drop angles too specific to plausibly recur, keep the ones that show up repeatedly). Before drafting a batch, consider grepping `data/questions/animals-nature.json` (plus `general.json`/`science-technology.json`/etc. for concept-level facts, since `dupeGroup: "general"` means those categories share duplicate-checking with this one) for candidate terms and confirming they never appear as an `"answer"` value — this is often a faster and more reliable signal than scanning this list, especially once a section gets long. This category is deep enough (1,300+ questions as of this note) that memory-only drafting on its well-mined species/quirk-fact angles (MAMMALS/BIRDS/REPTILES/MARINE/INSECTS/PLANTS sections above) is largely exhausted — but concept-level sub-domains (ecology vocabulary, evolutionary biology, genetics, conservation policy, taxonomy) can still yield a large, low-duplication batch, as this one did, precisely because they'd never been drafted before. Before assuming a sub-domain is played out, check whether it's actually been touched at all.
+
+Use web search to verify every fact — do not rely on memory alone. Prefer authoritative sources (reference databases, encyclopedic sources) over guessing. For each question, actually find the fact via search rather than recalling it, especially for obscure details (specific numbers, records, lesser-known species, dates).
 
 If any fact involves a "current record," "most," "latest," or similar superlative, pin it to a specific time (e.g. "as of 2026") rather than stating it as a timeless fact, since these claims go stale.
 

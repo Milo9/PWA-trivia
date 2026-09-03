@@ -15195,5 +15195,2631 @@
       "Green sea turtle"
     ],
     "answer": "Green sea turtle"
+  },
+  {
+    "id": "animals-nature-1154",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What term describes the specific role, habitat, and set of resources a species uses within its ecosystem?",
+    "options": [
+      "Biotic potential",
+      "Ecological niche",
+      "Trophic pyramid",
+      "Habitat range"
+    ],
+    "answer": "Ecological niche"
+  },
+  {
+    "id": "animals-nature-1155",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "What name is given to a diagram showing the many interconnected feeding relationships among species in an ecosystem, rather than a single line of who-eats-whom?",
+    "options": [
+      "A trophic pyramid",
+      "A food chain",
+      "A food web",
+      "A biomass chart"
+    ],
+    "answer": "A food web"
+  },
+  {
+    "id": "animals-nature-1156",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What term describes an organism's position in a food chain, such as producer, primary consumer, or secondary consumer?",
+    "options": [
+      "Biomass tier",
+      "Ecological niche",
+      "Trophic level",
+      "Species guild"
+    ],
+    "answer": "Trophic level"
+  },
+  {
+    "id": "animals-nature-1157",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "What ecological term describes a toxin like mercury becoming more concentrated in animal tissue at each successive step up a food chain?",
+    "options": [
+      "Eutrophication",
+      "Biofiltration",
+      "Bioremediation",
+      "Biomagnification"
+    ],
+    "answer": "Biomagnification"
+  },
+  {
+    "id": "animals-nature-1158",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "What term describes the maximum population size an environment can sustainably support given its available resources?",
+    "options": [
+      "Carrying capacity",
+      "Reproductive rate",
+      "Ecological footprint",
+      "Population density"
+    ],
+    "answer": "Carrying capacity"
+  },
+  {
+    "id": "animals-nature-1159",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Gray wolves were reintroduced to which U.S. national park in 1995, triggering a widely studied trophic cascade that helped riverside willows and beavers recover?",
+    "options": [
+      "Glacier National Park",
+      "Yellowstone National Park",
+      "Denali National Park",
+      "Yosemite National Park"
+    ],
+    "answer": "Yellowstone National Park"
+  },
+  {
+    "id": "animals-nature-1160",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Which burrowing rodent is considered a keystone species of North American grasslands, since its colonies create habitat and food used by many other species?",
+    "options": [
+      "Meadow vole",
+      "Pocket gopher",
+      "Prairie dog",
+      "Groundhog"
+    ],
+    "answer": "Prairie dog"
+  },
+  {
+    "id": "animals-nature-1161",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What term describes the gradual, predictable change in an ecological community over time following a disturbance, such as a forest regrowing after a fire?",
+    "options": [
+      "Ecological drift",
+      "Ecological succession",
+      "Niche partitioning",
+      "Habitat fragmentation"
+    ],
+    "answer": "Ecological succession"
+  },
+  {
+    "id": "animals-nature-1162",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "In ecological succession, what term describes the first species to colonize a barren or disturbed environment, such as lichens on bare rock?",
+    "options": [
+      "Pioneer species",
+      "Keystone species",
+      "Foundation species",
+      "Indicator species"
+    ],
+    "answer": "Pioneer species"
+  },
+  {
+    "id": "animals-nature-1163",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What term describes a species whose presence or health signals the overall condition of its ecosystem, such as certain amphibians for wetland water quality?",
+    "options": [
+      "Keystone species",
+      "Indicator species",
+      "Flagship species",
+      "Umbrella species"
+    ],
+    "answer": "Indicator species"
+  },
+  {
+    "id": "animals-nature-1164",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What is the term for a symbiotic relationship in which one organism benefits and the other is neither helped nor harmed, such as barnacles attaching to a whale's skin?",
+    "options": [
+      "Parasitism",
+      "Mutualism",
+      "Commensalism",
+      "Amensalism"
+    ],
+    "answer": "Commensalism"
+  },
+  {
+    "id": "animals-nature-1165",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "What field of biology studies how factors like an island's size and distance from the mainland shape the number of species that live there?",
+    "options": [
+      "Island biogeography",
+      "Phylogeography",
+      "Paleoecology",
+      "Biogeochemistry"
+    ],
+    "answer": "Island biogeography"
+  },
+  {
+    "id": "animals-nature-1166",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "What term describes a species that occurs naturally in only one specific geographic area and nowhere else on Earth?",
+    "options": [
+      "Indigenous species",
+      "Endemic species",
+      "Invasive species",
+      "Migratory species"
+    ],
+    "answer": "Endemic species"
+  },
+  {
+    "id": "animals-nature-1167",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "What term describes the benefits humans receive from healthy ecosystems, such as pollination, clean water, and flood control?",
+    "options": [
+      "Resource partitioning",
+      "Ecological footprint",
+      "Biotic potential",
+      "Ecosystem services"
+    ],
+    "answer": "Ecosystem services"
+  },
+  {
+    "id": "animals-nature-1168",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Which biome, found in regions like coastal California and the Mediterranean, is defined by hot, dry summers, mild wet winters, and drought-resistant shrubs?",
+    "options": [
+      "Steppe",
+      "Savanna",
+      "Chaparral",
+      "Taiga"
+    ],
+    "answer": "Chaparral"
+  },
+  {
+    "id": "animals-nature-1169",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "Which biome, exemplified by North America's Great Plains, is dominated by grasses with very few trees and experiences cold winters and hot summers?",
+    "options": [
+      "Temperate grassland",
+      "Savanna",
+      "Tundra",
+      "Chaparral"
+    ],
+    "answer": "Temperate grassland"
+  },
+  {
+    "id": "animals-nature-1170",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What term distinguishes a wetland dominated by trees and shrubs from a marsh, which is dominated by grasses and reeds?",
+    "options": [
+      "Fen",
+      "Delta",
+      "Estuary",
+      "Swamp"
+    ],
+    "answer": "Swamp"
+  },
+  {
+    "id": "animals-nature-1171",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "What term describes a wetland fed mainly by rainfall rather than groundwater, with acidic, oxygen-poor water and a carpet of sphagnum moss?",
+    "options": [
+      "Bog",
+      "Marsh",
+      "Fen",
+      "Swamp"
+    ],
+    "answer": "Bog"
+  },
+  {
+    "id": "animals-nature-1172",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What term describes the process by which certain soil bacteria convert nitrogen gas from the atmosphere into a form plants can absorb?",
+    "options": [
+      "Ammonification",
+      "Nitrification",
+      "Nitrogen fixation",
+      "Denitrification"
+    ],
+    "answer": "Nitrogen fixation"
+  },
+  {
+    "id": "animals-nature-1173",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What term describes the long-term storage of carbon in forests, soil, and ocean sediments so it does not re-enter the atmosphere?",
+    "options": [
+      "Carbon offsetting",
+      "Carbon fixation",
+      "Bioaccumulation",
+      "Carbon sequestration"
+    ],
+    "answer": "Carbon sequestration"
+  },
+  {
+    "id": "animals-nature-1174",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What term describes two different species competing directly for the same limited resource, such as food or nesting space?",
+    "options": [
+      "Interspecific competition",
+      "Mutualism",
+      "Intraspecific competition",
+      "Niche overlap"
+    ],
+    "answer": "Interspecific competition"
+  },
+  {
+    "id": "animals-nature-1175",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "What term describes new species forming after populations become geographically separated and evolve independently, such as by a mountain range or river?",
+    "options": [
+      "Sympatric speciation",
+      "Adaptive radiation",
+      "Parapatric speciation",
+      "Allopatric speciation"
+    ],
+    "answer": "Allopatric speciation"
+  },
+  {
+    "id": "animals-nature-1176",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "What term describes new species forming from a common ancestor within the same geographic area, without any physical separation?",
+    "options": [
+      "Sympatric speciation",
+      "Genetic drift",
+      "Peripatric speciation",
+      "Allopatric speciation"
+    ],
+    "answer": "Sympatric speciation"
+  },
+  {
+    "id": "animals-nature-1177",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What term describes a single ancestral species rapidly diversifying into many new species to fill different niches, as with Darwin's finches on the Galápagos Islands?",
+    "options": [
+      "Punctuated equilibrium",
+      "Convergent evolution",
+      "Adaptive radiation",
+      "Genetic drift"
+    ],
+    "answer": "Adaptive radiation"
+  },
+  {
+    "id": "animals-nature-1178",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "Which Hawaiian bird family is a classic example of adaptive radiation, evolving from a single ancestral species into dozens of forms with different beak shapes?",
+    "options": [
+      "Hawaiian crows",
+      "Hawaiian honeycreepers",
+      "Hawaiian geese",
+      "Hawaiian owls"
+    ],
+    "answer": "Hawaiian honeycreepers"
+  },
+  {
+    "id": "animals-nature-1179",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "What term describes the loss of genetic diversity that occurs when a new population is established by a very small number of individuals from a larger one?",
+    "options": [
+      "Founder effect",
+      "Genetic bottleneck",
+      "Natural selection",
+      "Gene flow"
+    ],
+    "answer": "Founder effect"
+  },
+  {
+    "id": "animals-nature-1180",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "What term describes a sharp reduction in a population's size, such as from a natural disaster, that leaves the survivors with reduced genetic diversity?",
+    "options": [
+      "Carrying capacity",
+      "Population bottleneck",
+      "Founder effect",
+      "Genetic drift"
+    ],
+    "answer": "Population bottleneck"
+  },
+  {
+    "id": "animals-nature-1181",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What term describes structures like a bat's wing, a whale's flipper, and a human arm that share a common ancestral origin despite serving different functions?",
+    "options": [
+      "Convergent structures",
+      "Vestigial structures",
+      "Analogous structures",
+      "Homologous structures"
+    ],
+    "answer": "Homologous structures"
+  },
+  {
+    "id": "animals-nature-1182",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What term describes structures like a bird's wing and an insect's wing that serve a similar function but evolved independently, not from a shared ancestor?",
+    "options": [
+      "Analogous structures",
+      "Homologous structures",
+      "Vestigial structures",
+      "Divergent structures"
+    ],
+    "answer": "Analogous structures"
+  },
+  {
+    "id": "animals-nature-1183",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "Whales retain tiny, functionless pelvic and leg bones buried in their body wall, left over from land-dwelling ancestors. What are such leftover structures called?",
+    "options": [
+      "Adaptive structures",
+      "Vestigial structures",
+      "Homologous structures",
+      "Analogous structures"
+    ],
+    "answer": "Vestigial structures"
+  },
+  {
+    "id": "animals-nature-1184",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "What is the term for a scientific name made of two parts, the genus followed by the species, such as Panthera leo for the lion?",
+    "options": [
+      "Cladistic naming",
+      "Binomial nomenclature",
+      "Phylogenetic code",
+      "Taxonomic hierarchy"
+    ],
+    "answer": "Binomial nomenclature"
+  },
+  {
+    "id": "animals-nature-1185",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Which 18th-century Swedish botanist developed the binomial naming system still used to classify living things today, earning him the title 'father of modern taxonomy'?",
+    "options": [
+      "Charles Darwin",
+      "Carl Linnaeus",
+      "Alfred Russel Wallace",
+      "Gregor Mendel"
+    ],
+    "answer": "Carl Linnaeus"
+  },
+  {
+    "id": "animals-nature-1186",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "Which of these correctly lists three consecutive ranks of the standard taxonomic hierarchy, from broadest to narrowest?",
+    "options": [
+      "Phylum, Order, Class",
+      "Class, Order, Family",
+      "Order, Class, Family",
+      "Class, Family, Order"
+    ],
+    "answer": "Class, Order, Family"
+  },
+  {
+    "id": "animals-nature-1187",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "What term describes unrelated species like bats, birds, and insects independently evolving wings for flight, rather than inheriting them from a shared flying ancestor?",
+    "options": [
+      "Convergent evolution",
+      "Adaptive radiation",
+      "Homologous adaptation",
+      "Coevolution"
+    ],
+    "answer": "Convergent evolution"
+  },
+  {
+    "id": "animals-nature-1188",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Which extinct marsupial predator, nicknamed the Tasmanian tiger, is often cited as an example of convergent evolution with placental wolves despite an unrelated ancestry?",
+    "options": [
+      "Thylacine",
+      "Quoll",
+      "Numbat",
+      "Tasmanian devil"
+    ],
+    "answer": "Thylacine"
+  },
+  {
+    "id": "animals-nature-1189",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "Which 19th-century naturalists independently proposed the theory of evolution by natural selection, with Darwin publishing 'On the Origin of Species' in 1859?",
+    "options": [
+      "Charles Darwin and Alfred Russel Wallace",
+      "Alfred Russel Wallace and Carl Linnaeus",
+      "Charles Darwin and Thomas Huxley",
+      "Charles Darwin and Gregor Mendel"
+    ],
+    "answer": "Charles Darwin and Alfred Russel Wallace"
+  },
+  {
+    "id": "animals-nature-1190",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "What term describes the evolutionary pattern where species show little change for long stretches of time, then undergo relatively rapid bursts of change?",
+    "options": [
+      "Gradualism",
+      "Adaptive radiation",
+      "Punctuated equilibrium",
+      "Genetic drift"
+    ],
+    "answer": "Punctuated equilibrium"
+  },
+  {
+    "id": "animals-nature-1191",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What term describes random changes in the frequency of gene variants within a small population, unrelated to whether those variants are helpful or harmful?",
+    "options": [
+      "Gene flow",
+      "Natural selection",
+      "Founder effect",
+      "Genetic drift"
+    ],
+    "answer": "Genetic drift"
+  },
+  {
+    "id": "animals-nature-1192",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What term describes the movement of genes between populations, such as when individuals migrate and interbreed with a different group?",
+    "options": [
+      "Genetic mapping",
+      "Gene flow",
+      "Genetic drift",
+      "Horizontal gene transfer"
+    ],
+    "answer": "Gene flow"
+  },
+  {
+    "id": "animals-nature-1193",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "Unlike Batesian mimicry, what term describes two or more genuinely harmful or toxic species evolving to resemble each other, reinforcing a shared warning signal to predators?",
+    "options": [
+      "Crypsis",
+      "Aggressive mimicry",
+      "Müllerian mimicry",
+      "Automimicry"
+    ],
+    "answer": "Müllerian mimicry"
+  },
+  {
+    "id": "animals-nature-1194",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "What term describes bright warning colors, like a poison dart frog's, that signal to predators that an animal is toxic or dangerous?",
+    "options": [
+      "Camouflage",
+      "Countershading",
+      "Crypsis",
+      "Aposematism"
+    ],
+    "answer": "Aposematism"
+  },
+  {
+    "id": "animals-nature-1195",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What term describes an animal being darker on its back and lighter on its belly, a pattern that counteracts sunlight from above to make it harder to spot in three dimensions?",
+    "options": [
+      "Aposematism",
+      "Countershading",
+      "Batesian mimicry",
+      "Disruptive coloration"
+    ],
+    "answer": "Countershading"
+  },
+  {
+    "id": "animals-nature-1196",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What general term describes an organism's coloring or shape helping it blend into its surroundings to avoid detection?",
+    "options": [
+      "Mimicry",
+      "Countershading",
+      "Aposematism",
+      "Crypsis"
+    ],
+    "answer": "Crypsis"
+  },
+  {
+    "id": "animals-nature-1197",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What term describes bold, contrasting patterns, like a zebra's stripes or a moth's wing markings, that work by breaking up an animal's outline rather than matching its background?",
+    "options": [
+      "Aposematism",
+      "Countershading",
+      "Structural coloration",
+      "Disruptive coloration"
+    ],
+    "answer": "Disruptive coloration"
+  },
+  {
+    "id": "animals-nature-1198",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "Female fireflies of the genus Photuris mimic the flash patterns of other firefly species to lure in and eat the males that respond. What is this predatory tactic called?",
+    "options": [
+      "Müllerian mimicry",
+      "Crypsis",
+      "Batesian mimicry",
+      "Aggressive mimicry"
+    ],
+    "answer": "Aggressive mimicry"
+  },
+  {
+    "id": "animals-nature-1199",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Under the biological species concept, two organisms are generally considered the same species if they can interbreed and produce what kind of offspring?",
+    "options": [
+      "Offspring with identical genes",
+      "Offspring within the same generation",
+      "Any offspring at all",
+      "Fertile offspring"
+    ],
+    "answer": "Fertile offspring"
+  },
+  {
+    "id": "animals-nature-1200",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What term describes traits, like a peacock's elaborate tail, that evolve because they improve an animal's chances of attracting a mate, even at a survival cost?",
+    "options": [
+      "Natural selection",
+      "Group selection",
+      "Sexual selection",
+      "Kin selection"
+    ],
+    "answer": "Sexual selection"
+  },
+  {
+    "id": "animals-nature-1201",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What term describes a living species that has changed very little over tens of millions of years and closely resembles its ancient fossil relatives?",
+    "options": [
+      "Relict population",
+      "Living fossil",
+      "Basal taxon",
+      "Cryptic species"
+    ],
+    "answer": "Living fossil"
+  },
+  {
+    "id": "animals-nature-1202",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Which tree species, native to China and often called a living fossil, belongs to a lineage that has survived largely unchanged for roughly 200 million years?",
+    "options": [
+      "Wollemi pine",
+      "Ginkgo biloba",
+      "Bristlecone pine",
+      "Coast redwood"
+    ],
+    "answer": "Ginkgo biloba"
+  },
+  {
+    "id": "animals-nature-1203",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Calico cats are almost always female because their orange-and-black patchwork depends on which genetic process, which randomly silences one X chromosome in each cell?",
+    "options": [
+      "X-chromosome inactivation",
+      "Genetic recombination",
+      "Codominant mutation",
+      "Chromosomal crossover"
+    ],
+    "answer": "X-chromosome inactivation"
+  },
+  {
+    "id": "animals-nature-1204",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "The rare male calico cats that do exist are usually infertile because they carry an unusual chromosome combination. Which one?",
+    "options": [
+      "An extra Y chromosome (XYY)",
+      "An extra X chromosome (XXY)",
+      "A missing X chromosome (Y0)",
+      "Two Y chromosomes and no X"
+    ],
+    "answer": "An extra X chromosome (XXY)"
+  },
+  {
+    "id": "animals-nature-1205",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "What genetic condition results in a complete absence of melanin production, causing white fur or skin and typically pink or red eyes?",
+    "options": [
+      "Leucism",
+      "Melanism",
+      "Piebaldism",
+      "Albinism"
+    ],
+    "answer": "Albinism"
+  },
+  {
+    "id": "animals-nature-1206",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Unlike albinism, what condition causes only a partial loss of pigmentation, often producing patchy white fur or feathers while normal eye color is retained?",
+    "options": [
+      "Albinism",
+      "Vitiligo in animals",
+      "Leucism",
+      "Melanism"
+    ],
+    "answer": "Leucism"
+  },
+  {
+    "id": "animals-nature-1207",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "A black panther is simply a leopard or jaguar with an excess of dark pigment, rather than its own distinct species. What is this condition called?",
+    "options": [
+      "Melanism",
+      "Albinism",
+      "Piebaldism",
+      "Leucism"
+    ],
+    "answer": "Melanism"
+  },
+  {
+    "id": "animals-nature-1208",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Ernest Hemingway kept many cats with an extra toe on each paw, a heritable trait now nicknamed after him. What is this condition called?",
+    "options": [
+      "Syndactyly",
+      "Ectrodactyly",
+      "Polydactyly",
+      "Brachydactyly"
+    ],
+    "answer": "Polydactyly"
+  },
+  {
+    "id": "animals-nature-1209",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "What term describes irregular patches of unpigmented white fur or skin on an otherwise normally colored animal, common in horses and dogs?",
+    "options": [
+      "Albinism",
+      "Leucism",
+      "Chimerism",
+      "Piebaldism"
+    ],
+    "answer": "Piebaldism"
+  },
+  {
+    "id": "animals-nature-1210",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What term describes an organism's complete underlying genetic makeup, as opposed to the physical traits that makeup actually produces?",
+    "options": [
+      "Chromosome",
+      "Phenotype",
+      "Karyotype",
+      "Genotype"
+    ],
+    "answer": "Genotype"
+  },
+  {
+    "id": "animals-nature-1211",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "What term describes a change in an organism's DNA sequence, the ultimate source of new genetic variation for evolution to act on?",
+    "options": [
+      "Transcription",
+      "Recombination",
+      "Translocation",
+      "Mutation"
+    ],
+    "answer": "Mutation"
+  },
+  {
+    "id": "animals-nature-1212",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Mules, bred from a horse and a donkey, are often stronger and hardier than either parent species. What term describes this boost in traits seen in some crossbred offspring?",
+    "options": [
+      "Hybrid vigor",
+      "Founder effect",
+      "Adaptive radiation",
+      "Genetic drift"
+    ],
+    "answer": "Hybrid vigor"
+  },
+  {
+    "id": "animals-nature-1213",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "The quagga, a subspecies of plains zebra striped only on its front half, went extinct when the last individual died in an Amsterdam zoo in what year?",
+    "options": [
+      "1922",
+      "1901",
+      "1856",
+      "1883"
+    ],
+    "answer": "1883"
+  },
+  {
+    "id": "animals-nature-1214",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "The thylacine, or Tasmanian tiger, went extinct when the last known individual died in a Hobart zoo in which year?",
+    "options": [
+      "1936",
+      "1918",
+      "1952",
+      "1901"
+    ],
+    "answer": "1936"
+  },
+  {
+    "id": "animals-nature-1215",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Martha, the last known passenger pigeon, died in the Cincinnati Zoo in 1914, ending a species that once numbered in the billions. What continent were passenger pigeons native to?",
+    "options": [
+      "South America",
+      "Asia",
+      "North America",
+      "Europe"
+    ],
+    "answer": "North America"
+  },
+  {
+    "id": "animals-nature-1216",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "The great auk, a large flightless seabird of the North Atlantic, was hunted to extinction, with the last confirmed pair killed on an island near which country in 1844?",
+    "options": [
+      "Greenland",
+      "Scotland",
+      "Iceland",
+      "Norway"
+    ],
+    "answer": "Iceland"
+  },
+  {
+    "id": "animals-nature-1217",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "The extinct Irish elk, which vanished around 11,000 years ago, is famous for having the largest what of any known deer species?",
+    "options": [
+      "Body mass",
+      "Hooves",
+      "Antlers",
+      "Skull"
+    ],
+    "answer": "Antlers"
+  },
+  {
+    "id": "animals-nature-1218",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "A small population of woolly mammoths outlived their mainland relatives by thousands of years, surviving until about 4,000 years ago on which isolated island?",
+    "options": [
+      "Wrangel Island",
+      "Ellesmere Island",
+      "Baffin Island",
+      "Svalbard"
+    ],
+    "answer": "Wrangel Island"
+  },
+  {
+    "id": "animals-nature-1219",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "The Xerces blue, generally considered the first American butterfly species driven extinct by human activity, once lived only around which city before its habitat was destroyed?",
+    "options": [
+      "Los Angeles",
+      "Portland",
+      "Seattle",
+      "San Francisco"
+    ],
+    "answer": "San Francisco"
+  },
+  {
+    "id": "animals-nature-1220",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What nickname is given to the Permian-Triassic extinction event roughly 252 million years ago, which wiped out an estimated 90% of marine species?",
+    "options": [
+      "The Silent Spring",
+      "The Great Collapse",
+      "The Great Dying",
+      "The Big Freeze"
+    ],
+    "answer": "The Great Dying"
+  },
+  {
+    "id": "animals-nature-1221",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "The mass extinction that wiped out the non-avian dinosaurs about 66 million years ago is generally attributed to an asteroid impact at which location?",
+    "options": [
+      "Yellowstone, USA",
+      "Chicxulub, Mexico",
+      "Siberia, Russia",
+      "The Deccan Plateau, India"
+    ],
+    "answer": "Chicxulub, Mexico"
+  },
+  {
+    "id": "animals-nature-1222",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Thousands of Ice Age animals, from mammoths to dire wolves, were preserved after becoming trapped in natural asphalt seeps at which famous Los Angeles site?",
+    "options": [
+      "The Salton Sea",
+      "La Brea Tar Pits",
+      "Mono Lake",
+      "Death Valley"
+    ],
+    "answer": "La Brea Tar Pits"
+  },
+  {
+    "id": "animals-nature-1223",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "What is the term for fossilized tree resin that can preserve ancient insects and other small organisms in remarkable detail?",
+    "options": [
+      "Sap crystal",
+      "Petrified sap",
+      "Resin stone",
+      "Amber"
+    ],
+    "answer": "Amber"
+  },
+  {
+    "id": "animals-nature-1224",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "What term describes the fossilization process in which minerals dissolved in groundwater gradually replace an organism's original tissue, such as turning wood to stone?",
+    "options": [
+      "Mummification",
+      "Carbonization",
+      "Recrystallization",
+      "Permineralization"
+    ],
+    "answer": "Permineralization"
+  },
+  {
+    "id": "animals-nature-1225",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What is the technical term for fossilized animal dung, which can reveal details about an extinct species' diet?",
+    "options": [
+      "Ichnofossil",
+      "Coprolite",
+      "Bioclast",
+      "Osteolith"
+    ],
+    "answer": "Coprolite"
+  },
+  {
+    "id": "animals-nature-1226",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "What term distinguishes the ordinary, ongoing rate of species extinction from a rare event where a large share of Earth's species disappear in a geologically short time?",
+    "options": [
+      "Background extinction rate",
+      "Baseline extinction rate",
+      "Static extinction rate",
+      "Ambient extinction rate"
+    ],
+    "answer": "Background extinction rate"
+  },
+  {
+    "id": "animals-nature-1227",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Giant ground sloths, some as large as elephants, went extinct around 10,000 years ago. Which living animals are their closest modern relatives?",
+    "options": [
+      "Armadillos",
+      "Tree sloths",
+      "Anteaters",
+      "Aardvarks"
+    ],
+    "answer": "Tree sloths"
+  },
+  {
+    "id": "animals-nature-1228",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "The moa, a group of giant flightless birds, went extinct within a few centuries of human settlement on which islands?",
+    "options": [
+      "Fiji",
+      "New Zealand",
+      "Hawaii",
+      "Madagascar"
+    ],
+    "answer": "New Zealand"
+  },
+  {
+    "id": "animals-nature-1229",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "The extinct elephant bird of Madagascar, which stood up to 10 feet tall, is generally credited with laying the largest known bird egg. Roughly how many average chicken eggs would one elephant bird egg's volume equal?",
+    "options": [
+      "About 500",
+      "About 150",
+      "About 50",
+      "About 15"
+    ],
+    "answer": "About 150"
+  },
+  {
+    "id": "animals-nature-1230",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "The Caribbean monk seal, the only seal species native to the Caribbean Sea, was officially declared extinct in 2008 after last being reliably seen in what decade?",
+    "options": [
+      "The 1990s",
+      "The 1970s",
+      "The 1950s",
+      "The 1920s"
+    ],
+    "answer": "The 1950s"
+  },
+  {
+    "id": "animals-nature-1231",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What is the general scientific definition of a mass extinction event?",
+    "options": [
+      "A gradual decline in biodiversity over tens of millions of years",
+      "The loss of a large share of Earth's species within a geologically short time span",
+      "Any single species going extinct due to human activity",
+      "The extinction of all species within one taxonomic kingdom"
+    ],
+    "answer": "The loss of a large share of Earth's species within a geologically short time span"
+  },
+  {
+    "id": "animals-nature-1232",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Remoras hitch rides on sharks and whales using a suction disc formed from a highly modified version of which fin?",
+    "options": [
+      "Dorsal fin",
+      "Pectoral fin",
+      "Caudal fin",
+      "Anal fin"
+    ],
+    "answer": "Dorsal fin"
+  },
+  {
+    "id": "animals-nature-1233",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Flounder, halibut, and sole all begin life with one eye on each side of the head, like a typical fish, until one eye does what during metamorphosis?",
+    "options": [
+      "Grows larger than the other",
+      "Develops independent movement",
+      "Fuses shut permanently",
+      "Migrates to the other side of the head"
+    ],
+    "answer": "Migrates to the other side of the head"
+  },
+  {
+    "id": "animals-nature-1234",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "Which slender fish, a close relative of the seahorse, also has males that carry the developing eggs, in their case in a groove or pouch on the belly or tail?",
+    "options": [
+      "Anchovy",
+      "Pufferfish",
+      "Pipefish",
+      "Lamprey"
+    ],
+    "answer": "Pipefish"
+  },
+  {
+    "id": "animals-nature-1235",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Leafy and weedy seadragons, close relatives of the seahorse found off Australia's coast, are camouflaged by body appendages that resemble what?",
+    "options": [
+      "Fish scales",
+      "Sea anemone tentacles",
+      "Drifting seaweed or kelp fronds",
+      "Coral polyps"
+    ],
+    "answer": "Drifting seaweed or kelp fronds"
+  },
+  {
+    "id": "animals-nature-1236",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What term describes a harmful algal bloom, often caused by a surge of dinoflagellates, that can discolor coastal water and release toxins harmful to marine life?",
+    "options": [
+      "Blue tide",
+      "Thermocline shift",
+      "Red tide",
+      "Coral bleaching"
+    ],
+    "answer": "Red tide"
+  },
+  {
+    "id": "animals-nature-1237",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "What term describes an area of water so depleted of oxygen that most marine life cannot survive there, often caused by fertilizer runoff feeding algal growth?",
+    "options": [
+      "Barren reef",
+      "Cold spot",
+      "Dead zone",
+      "Silent zone"
+    ],
+    "answer": "Dead zone"
+  },
+  {
+    "id": "animals-nature-1238",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "When threatened, a hagfish can flood the surrounding water with slime dense enough to do what to a predator?",
+    "options": [
+      "Paralyze its muscles",
+      "Clog its gills",
+      "Dissolve its skin",
+      "Blind its eyes permanently"
+    ],
+    "answer": "Clog its gills"
+  },
+  {
+    "id": "animals-nature-1239",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Parasitic sea lampreys attach to host fish using a round, tooth-lined mouth and feed by doing what?",
+    "options": [
+      "Laying eggs in the bloodstream",
+      "Injecting venom into the wound",
+      "Rasping through flesh with their tongue",
+      "Filtering plankton from the gills"
+    ],
+    "answer": "Rasping through flesh with their tongue"
+  },
+  {
+    "id": "animals-nature-1240",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "Sea squirts, or tunicates, are simple-looking filter feeders that are surprisingly close relatives of vertebrates because their free-swimming larvae possess what structure?",
+    "options": [
+      "A cartilaginous skull",
+      "Gill slits with jaws",
+      "A notochord",
+      "A backbone"
+    ],
+    "answer": "A notochord"
+  },
+  {
+    "id": "animals-nature-1241",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Adult barnacles are actually crustaceans, related to crabs and shrimp, despite spending their adult lives doing what unusual thing for an animal?",
+    "options": [
+      "Burying themselves fully in sand for life",
+      "Floating passively for their entire adult life",
+      "Living entirely inside another animal's shell",
+      "Permanently cementing themselves head-first to a surface"
+    ],
+    "answer": "Permanently cementing themselves head-first to a surface"
+  },
+  {
+    "id": "animals-nature-1242",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What term describes the brackish habitat where a river's fresh water mixes with the ocean's salt water, forming a nutrient-rich nursery for many marine species?",
+    "options": [
+      "Fjord",
+      "Tide pool",
+      "Estuary",
+      "Lagoon"
+    ],
+    "answer": "Estuary"
+  },
+  {
+    "id": "animals-nature-1243",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "What term describes the layer of ocean or lake water where temperature drops rapidly with depth, separating warmer surface water from the cold depths below?",
+    "options": [
+      "Pycnocline",
+      "Photocline",
+      "Halocline",
+      "Thermocline"
+    ],
+    "answer": "Thermocline"
+  },
+  {
+    "id": "animals-nature-1244",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What term describes the sunlit upper layer of the ocean where enough light penetrates for photosynthesis to occur?",
+    "options": [
+      "Abyssal zone",
+      "Benthic zone",
+      "Aphotic zone",
+      "Photic zone"
+    ],
+    "answer": "Photic zone"
+  },
+  {
+    "id": "animals-nature-1245",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "What name is given to the ocean's 'twilight zone', roughly 200 to 1,000 meters deep, where faint light still penetrates but not enough to support photosynthesis?",
+    "options": [
+      "The bathypelagic zone",
+      "The epipelagic zone",
+      "The mesopelagic zone",
+      "The hadalpelagic zone"
+    ],
+    "answer": "The mesopelagic zone"
+  },
+  {
+    "id": "animals-nature-1246",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What term describes fish, like salmon, that live most of their lives in the ocean but migrate into freshwater rivers to spawn?",
+    "options": [
+      "Anadromous",
+      "Diadromous only",
+      "Amphidromous",
+      "Catadromous"
+    ],
+    "answer": "Anadromous"
+  },
+  {
+    "id": "animals-nature-1247",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What term describes fish, like the freshwater eel, that do the reverse of a salmon: living most of their lives in freshwater but migrating to the ocean to spawn?",
+    "options": [
+      "Euryhaline only",
+      "Amphidromous",
+      "Catadromous",
+      "Anadromous"
+    ],
+    "answer": "Catadromous"
+  },
+  {
+    "id": "animals-nature-1248",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "What term describes an organism's ability to control the salt and water balance inside its body, a major physiological challenge for fish moving between fresh and salt water?",
+    "options": [
+      "Homeostasis alone",
+      "Osmoregulation",
+      "Thermoregulation",
+      "Chemoreception"
+    ],
+    "answer": "Osmoregulation"
+  },
+  {
+    "id": "animals-nature-1249",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "What umbrella term describes the tiny drifting organisms, including both plant-like phytoplankton and animal-like zooplankton, that form the base of most aquatic food webs?",
+    "options": [
+      "Benthos",
+      "Detritus",
+      "Plankton",
+      "Nekton"
+    ],
+    "answer": "Plankton"
+  },
+  {
+    "id": "animals-nature-1250",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What structure do kelp use to anchor themselves to rocks on the seafloor, since, unlike land plants, they have no true roots to absorb nutrients?",
+    "options": [
+      "A rhizoid",
+      "A basal disc",
+      "A holdfast",
+      "An anchor root"
+    ],
+    "answer": "A holdfast"
+  },
+  {
+    "id": "animals-nature-1251",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "The Guinea worm, a parasite nearing global eradication through behavior-change programs rather than a vaccine or drug, infects people primarily through what route?",
+    "options": [
+      "Drinking water containing infected water fleas",
+      "Contaminated soil entering open wounds",
+      "Eating undercooked freshwater fish",
+      "Mosquito bites"
+    ],
+    "answer": "Drinking water containing infected water fleas"
+  },
+  {
+    "id": "animals-nature-1252",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "The human botfly is unusual among parasites for often using another insect, commonly a mosquito, to do what?",
+    "options": [
+      "Deliver its eggs onto a host's skin",
+      "Digest food on the larva's behalf",
+      "Build a protective cocoon for the larva",
+      "Carry its larvae between hosts internally"
+    ],
+    "answer": "Deliver its eggs onto a host's skin"
+  },
+  {
+    "id": "animals-nature-1253",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "Tapeworms living in a host's intestine grow by adding repeating segments along their body. What are these segments called?",
+    "options": [
+      "Scolices",
+      "Ganglia",
+      "Cysticerci",
+      "Proglottids"
+    ],
+    "answer": "Proglottids"
+  },
+  {
+    "id": "animals-nature-1254",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Which small blood-feeding arachnid is the primary vector for transmitting Lyme disease to humans?",
+    "options": [
+      "Tick",
+      "Flea",
+      "Chigger",
+      "Mite"
+    ],
+    "answer": "Tick"
+  },
+  {
+    "id": "animals-nature-1255",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Rabies, a virus that attacks the central nervous system of mammals, is most commonly transmitted to a new host through what?",
+    "options": [
+      "The saliva of an infected animal, usually via a bite",
+      "Contaminated water sources",
+      "Contact with an infected animal's fur or skin",
+      "Airborne droplets from an infected animal's breath"
+    ],
+    "answer": "The saliva of an infected animal, usually via a bite"
+  },
+  {
+    "id": "animals-nature-1256",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "Liver flukes are parasitic flatworms that infect the liver and bile ducts of their host. What broader group of worms do flukes belong to?",
+    "options": [
+      "Nematodes",
+      "Annelids",
+      "Trematodes",
+      "Cestodes"
+    ],
+    "answer": "Trematodes"
+  },
+  {
+    "id": "animals-nature-1257",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Malaria is caused by the parasite Plasmodium, but which insect genus is the specific vector responsible for transmitting it between humans?",
+    "options": [
+      "Anopheles mosquitoes",
+      "Tsetse flies",
+      "Culex mosquitoes",
+      "Aedes mosquitoes"
+    ],
+    "answer": "Anopheles mosquitoes"
+  },
+  {
+    "id": "animals-nature-1258",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "The parasitic Ophiocordyceps fungus infects certain ants and manipulates their behavior before killing them, earning it what popular nickname?",
+    "options": [
+      "Vampire fungus",
+      "Zombie ant fungus",
+      "Mind-control mushroom",
+      "Puppet mold"
+    ],
+    "answer": "Zombie ant fungus"
+  },
+  {
+    "id": "animals-nature-1259",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "A mushroom that pops up overnight is just the fruiting body of a fungus. What term describes the thread-like network that makes up the fungus's main, mostly underground body?",
+    "options": [
+      "Thallus",
+      "Stolon",
+      "Mycelium",
+      "Rhizome"
+    ],
+    "answer": "Mycelium"
+  },
+  {
+    "id": "animals-nature-1260",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What term describes seed-bearing plants like pine and spruce trees whose seeds are not enclosed in a fruit, often developing exposed on cone scales instead?",
+    "options": [
+      "Gymnosperms",
+      "Pteridophytes",
+      "Bryophytes",
+      "Angiosperms"
+    ],
+    "answer": "Gymnosperms"
+  },
+  {
+    "id": "animals-nature-1261",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "What term describes flowering plants whose seeds develop enclosed within a fruit, making up the vast majority of living plant species?",
+    "options": [
+      "Angiosperms",
+      "Lichens",
+      "Gymnosperms",
+      "Bryophytes"
+    ],
+    "answer": "Angiosperms"
+  },
+  {
+    "id": "animals-nature-1262",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Rather than a single organism, a lichen is a partnership between a fungus and which other organism, which provides food through photosynthesis?",
+    "options": [
+      "Moss",
+      "Algae or cyanobacteria",
+      "Bacteria alone",
+      "A separate species of fungus"
+    ],
+    "answer": "Algae or cyanobacteria"
+  },
+  {
+    "id": "animals-nature-1263",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What single-celled fungus is used industrially to ferment sugar into carbon dioxide and alcohol, essential to baking bread and brewing beer?",
+    "options": [
+      "Yeast",
+      "Mold",
+      "Mycelium",
+      "Mushroom spawn"
+    ],
+    "answer": "Yeast"
+  },
+  {
+    "id": "animals-nature-1264",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Unlike flowering plants, ferns reproduce without seeds or flowers, instead releasing tiny structures from under their fronds. What are these called?",
+    "options": [
+      "Spores",
+      "Pollen grains",
+      "Seeds",
+      "Bulbils"
+    ],
+    "answer": "Spores"
+  },
+  {
+    "id": "animals-nature-1265",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Mosses are non-vascular plants that reproduce via spores rather than seeds, and typically require what condition for their sperm to reach and fertilize eggs?",
+    "options": [
+      "Freezing temperatures",
+      "A film of moisture or water",
+      "Wind alone",
+      "Direct sunlight"
+    ],
+    "answer": "A film of moisture or water"
+  },
+  {
+    "id": "animals-nature-1266",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Which plant vascular tissue transports water and dissolved minerals upward from the roots to the leaves?",
+    "options": [
+      "Cambium",
+      "Phloem",
+      "Cortex",
+      "Xylem"
+    ],
+    "answer": "Xylem"
+  },
+  {
+    "id": "animals-nature-1267",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "What is the name of the plant hormone that controls growth direction, causing stems to bend toward a light source in a response called phototropism?",
+    "options": [
+      "Cytokinin",
+      "Auxin",
+      "Gibberellin",
+      "Ethylene"
+    ],
+    "answer": "Auxin"
+  },
+  {
+    "id": "animals-nature-1268",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "What term describes a plant's physiological response to the relative length of day and night, which controls when many species flower?",
+    "options": [
+      "Photosynthesis rate",
+      "Vernalization",
+      "Photoperiodism",
+      "Phototropism"
+    ],
+    "answer": "Photoperiodism"
+  },
+  {
+    "id": "animals-nature-1269",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What term describes the set of flower traits, like color, shape, and scent, that have evolved to attract a particular type of pollinator, such as bats, moths, or bees?",
+    "options": [
+      "Floral symbiosis",
+      "Nectar guild",
+      "Pollination syndrome",
+      "Anthesis pattern"
+    ],
+    "answer": "Pollination syndrome"
+  },
+  {
+    "id": "animals-nature-1270",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "What term describes a plant fertilizing itself with its own pollen, as opposed to receiving pollen from a different plant?",
+    "options": [
+      "Vegetative propagation",
+      "Cross-pollination",
+      "Wind pollination",
+      "Self-pollination"
+    ],
+    "answer": "Self-pollination"
+  },
+  {
+    "id": "animals-nature-1271",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "What term describes trees that shed all their leaves during part of the year, as opposed to evergreen trees, which retain foliage year-round?",
+    "options": [
+      "Perennial",
+      "Coniferous",
+      "Deciduous",
+      "Herbaceous"
+    ],
+    "answer": "Deciduous"
+  },
+  {
+    "id": "animals-nature-1272",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "American bison were hunted to near-extinction by the late 1800s. Which animal, native only to Asia and Africa, is it often mistakenly called?",
+    "options": [
+      "Water buffalo",
+      "Musk ox",
+      "Wildebeest",
+      "Yak"
+    ],
+    "answer": "Water buffalo"
+  },
+  {
+    "id": "animals-nature-1273",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Bison act as ecosystem engineers on the prairie partly through wallowing, a behavior in which they roll in dirt to create shallow depressions that later do what?",
+    "options": [
+      "Compact soil to prevent erosion",
+      "Collect rainwater, forming temporary ponds used by other species",
+      "Trap burrowing insects for birds to eat",
+      "Fertilize grass seeds for faster germination"
+    ],
+    "answer": "Collect rainwater, forming temporary ponds used by other species"
+  },
+  {
+    "id": "animals-nature-1274",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "Wildlife biologists studying wild wolf packs have largely abandoned the term 'alpha wolf' because most packs are actually structured around what simpler arrangement?",
+    "options": [
+      "Multiple unrelated breeding pairs sharing territory",
+      "A rotating leadership decided by combat",
+      "A breeding pair and their offspring, essentially a family unit",
+      "No stable leadership structure at all"
+    ],
+    "answer": "A breeding pair and their offspring, essentially a family unit"
+  },
+  {
+    "id": "animals-nature-1275",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Once confined mainly to the open plains and deserts of the western United States, which adaptable canid has since expanded its range into nearly every U.S. state, including many major cities?",
+    "options": [
+      "Red fox",
+      "Coyote",
+      "Gray wolf",
+      "Dingo"
+    ],
+    "answer": "Coyote"
+  },
+  {
+    "id": "animals-nature-1276",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "In the northeastern United States and Canada, coyotes have interbred with wolves and, in some cases, domestic dogs, producing a hybrid popularly nicknamed what?",
+    "options": [
+      "Dogyote",
+      "Coywolf",
+      "Canid hybrid",
+      "Wolfote"
+    ],
+    "answer": "Coywolf"
+  },
+  {
+    "id": "animals-nature-1277",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "Which highly dexterous North American mammal has thrived in cities by learning to open latches, lids, and trash cans with its sensitive front paws?",
+    "options": [
+      "Opossum",
+      "Groundhog",
+      "Raccoon",
+      "Skunk"
+    ],
+    "answer": "Raccoon"
+  },
+  {
+    "id": "animals-nature-1278",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "The feral pigeons common in cities worldwide are descended from a wild bird species originally native to cliffs and rocky coastlines. What is that ancestral species?",
+    "options": [
+      "Turtle dove",
+      "Rock dove",
+      "Wood pigeon",
+      "Mourning dove"
+    ],
+    "answer": "Rock dove"
+  },
+  {
+    "id": "animals-nature-1279",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Gorilla troops are typically led by a single dominant, mature male distinguished by a patch of silver-gray hair on his back. What is he called?",
+    "options": [
+      "A grayback",
+      "A dominant bull",
+      "A silverback",
+      "A patriarch"
+    ],
+    "answer": "A silverback"
+  },
+  {
+    "id": "animals-nature-1280",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Gorillas and chimpanzees share a distinctive way of walking on all fours, supporting their weight on the knuckles of their hands. What is this gait called?",
+    "options": [
+      "Digitigrade walking",
+      "Quadrupedal striding",
+      "Knuckle-walking",
+      "Palm-walking"
+    ],
+    "answer": "Knuckle-walking"
+  },
+  {
+    "id": "animals-nature-1281",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "A male gorilla's chest-beating display, once thought to be purely aggressive, is now understood by researchers to primarily serve what function?",
+    "options": [
+      "Warming up muscles before a fight",
+      "Marking territory with scent from chest glands",
+      "Communicating information like body size to rivals and mates",
+      "Dislodging parasites from the chest"
+    ],
+    "answer": "Communicating information like body size to rivals and mates"
+  },
+  {
+    "id": "animals-nature-1282",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Unlike most other great apes, which primate lives a largely solitary life as an adult, with males and females coming together mainly to mate?",
+    "options": [
+      "Bonobo",
+      "Orangutan",
+      "Gorilla",
+      "Chimpanzee"
+    ],
+    "answer": "Orangutan"
+  },
+  {
+    "id": "animals-nature-1283",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "Despite its name and bushy tail, the red panda is more closely related to raccoons and weasels than to which other bamboo-eating animal?",
+    "options": [
+      "The giant panda",
+      "The red fox",
+      "The binturong",
+      "The sloth bear"
+    ],
+    "answer": "The giant panda"
+  },
+  {
+    "id": "animals-nature-1284",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "A skunk's foul-smelling defensive spray is produced by a pair of glands located near which part of its body?",
+    "options": [
+      "Its front paws",
+      "Its mouth",
+      "Its ears",
+      "Its anus"
+    ],
+    "answer": "Its anus"
+  },
+  {
+    "id": "animals-nature-1285",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What key physical feature helps distinguish a grizzly (brown) bear from an American black bear at a distance, even when coat color looks similar?",
+    "options": [
+      "A longer tail",
+      "A pronounced shoulder hump",
+      "A shorter snout",
+      "Rounder ears"
+    ],
+    "answer": "A pronounced shoulder hump"
+  },
+  {
+    "id": "animals-nature-1286",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "On the IUCN Red List, which category applies to a species that survives only in captivity or cultivation, with no individuals left in the wild?",
+    "options": [
+      "Data Deficient",
+      "Extinct in the Wild",
+      "Critically Endangered",
+      "Extinct"
+    ],
+    "answer": "Extinct in the Wild"
+  },
+  {
+    "id": "animals-nature-1287",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "What is the correct order of IUCN Red List risk, from least concerning to most severe, for these three categories: Vulnerable, Near Threatened, Critically Endangered?",
+    "options": [
+      "Near Threatened, then Vulnerable, then Critically Endangered",
+      "Critically Endangered, then Vulnerable, then Near Threatened",
+      "Vulnerable, then Near Threatened, then Critically Endangered",
+      "Near Threatened, then Critically Endangered, then Vulnerable"
+    ],
+    "answer": "Near Threatened, then Vulnerable, then Critically Endangered"
+  },
+  {
+    "id": "animals-nature-1288",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What does the international agreement CITES primarily regulate?",
+    "options": [
+      "Carbon emissions from industrial fishing fleets",
+      "Trade in endangered plants and animals across borders",
+      "The transport of invasive species between countries",
+      "Whaling quotas in international waters"
+    ],
+    "answer": "Trade in endangered plants and animals across borders"
+  },
+  {
+    "id": "animals-nature-1289",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "What term describes the illegal hunting or capturing of wild animals, often driving species toward extinction for products like ivory or fur?",
+    "options": [
+      "Trapping",
+      "Culling",
+      "Foraging",
+      "Poaching"
+    ],
+    "answer": "Poaching"
+  },
+  {
+    "id": "animals-nature-1290",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What conservation term describes deliberately reintroducing a species, such as wolves, to restore natural ecological processes to a landscape?",
+    "options": [
+      "Rewilding",
+      "Naturalization",
+      "Repopulation",
+      "Reforestation"
+    ],
+    "answer": "Rewilding"
+  },
+  {
+    "id": "animals-nature-1291",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "The bald eagle's dramatic population recovery in the United States is closely linked to the 1972 ban of which pesticide, which had thinned its eggshells?",
+    "options": [
+      "Atrazine",
+      "DDT",
+      "Malathion",
+      "Glyphosate"
+    ],
+    "answer": "DDT"
+  },
+  {
+    "id": "animals-nature-1292",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "The California condor, North America's largest flying bird, dropped to just 22 individuals in 1982 before every remaining wild bird was captured for what purpose?",
+    "options": [
+      "Permanent zoo display",
+      "Relocation to a single protected reserve",
+      "A captive breeding program",
+      "Medical testing to find the cause of decline"
+    ],
+    "answer": "A captive breeding program"
+  },
+  {
+    "id": "animals-nature-1293",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "The zebra mussel, an invasive species now widespread in the Great Lakes, is native to which region?",
+    "options": [
+      "The Mediterranean coast of Africa",
+      "Southeast Asia",
+      "The Amazon basin",
+      "The Black and Caspian Sea region"
+    ],
+    "answer": "The Black and Caspian Sea region"
+  },
+  {
+    "id": "animals-nature-1294",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "The Burmese python has become a major invasive predator in Florida's Everglades, largely due to escaped or released animals from which industry?",
+    "options": [
+      "Zoo breeding programs",
+      "The exotic pet trade",
+      "The leather goods industry",
+      "Agricultural pest control programs"
+    ],
+    "answer": "The exotic pet trade"
+  },
+  {
+    "id": "animals-nature-1295",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "The lionfish, an aggressive invasive predator now common in Atlantic and Caribbean reefs, is native to which ocean?",
+    "options": [
+      "The Southern Ocean",
+      "The Arctic Ocean",
+      "The South Atlantic",
+      "The Indo-Pacific"
+    ],
+    "answer": "The Indo-Pacific"
+  },
+  {
+    "id": "animals-nature-1296",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Cane toads, deliberately introduced to Australia in 1935 to control beetle pests, became a major invasive species largely because of what defensive trait?",
+    "options": [
+      "Extremely rapid, uncontrollable breeding rates alone",
+      "An ability to outcompete native frogs for food",
+      "A toxin that kills native predators that try to eat them",
+      "A venomous bite that injures livestock"
+    ],
+    "answer": "A toxin that kills native predators that try to eat them"
+  },
+  {
+    "id": "animals-nature-1297",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "The black-footed ferret, once believed extinct in the wild, was rediscovered in 1981 near a ranch in which U.S. state, sparking a captive breeding recovery program?",
+    "options": [
+      "Montana",
+      "South Dakota",
+      "Wyoming",
+      "Colorado"
+    ],
+    "answer": "Wyoming"
+  },
+  {
+    "id": "animals-nature-1298",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "In 2016, the IUCN downgraded the giant panda's conservation status from 'Endangered' to which less severe category, reflecting decades of conservation success?",
+    "options": [
+      "Near Threatened",
+      "Vulnerable",
+      "Data Deficient",
+      "Least Concern"
+    ],
+    "answer": "Vulnerable"
+  },
+  {
+    "id": "animals-nature-1299",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "The International Whaling Commission introduced a moratorium banning most commercial whaling in which decade?",
+    "options": [
+      "The 1990s",
+      "The 1970s",
+      "The 1980s",
+      "The 1960s"
+    ],
+    "answer": "The 1980s"
+  },
+  {
+    "id": "animals-nature-1300",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Shrimp trawling nets in many countries are now required to include turtle excluder devices, designed to let which animals escape before they drown?",
+    "options": [
+      "Sharks",
+      "Sea turtles",
+      "Seabirds",
+      "Dolphins"
+    ],
+    "answer": "Sea turtles"
+  },
+  {
+    "id": "animals-nature-1301",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What term, coined by researcher Konrad Lorenz, describes a young animal's tendency to bond with and follow the first moving object it sees after hatching or birth?",
+    "options": [
+      "Habituation",
+      "Conditioning",
+      "Socialization",
+      "Imprinting"
+    ],
+    "answer": "Imprinting"
+  },
+  {
+    "id": "animals-nature-1302",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Some bottlenose dolphin populations hunt cooperatively by driving fish onto exposed mudbanks and briefly beaching themselves to grab a meal. What is this behavior called?",
+    "options": [
+      "Cooperative stunning",
+      "Strand feeding",
+      "Pod herding",
+      "Bubble-net feeding"
+    ],
+    "answer": "Strand feeding"
+  },
+  {
+    "id": "animals-nature-1303",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "Indigo buntings and some other migratory songbirds learn to navigate at night by memorizing the rotation of what?",
+    "options": [
+      "The positions of nearby mountain ranges",
+      "Cloud formation patterns",
+      "The moon's phases",
+      "The stars around the North Star"
+    ],
+    "answer": "The stars around the North Star"
+  },
+  {
+    "id": "animals-nature-1304",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "Many marine mammals and diving birds limit heat loss through their flippers or legs using a network of blood vessels where warm outgoing blood heats cold returning blood. What is this mechanism called?",
+    "options": [
+      "Peripheral vasoconstriction",
+      "Vascular insulation",
+      "Countercurrent heat exchange",
+      "Thermogenic shunting"
+    ],
+    "answer": "Countercurrent heat exchange"
+  },
+  {
+    "id": "animals-nature-1305",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What term describes animals, like many deer and rabbits, that are most active during the dim light of dawn and dusk rather than fully day or night?",
+    "options": [
+      "Crepuscular",
+      "Nocturnal",
+      "Cathemeral",
+      "Diurnal"
+    ],
+    "answer": "Crepuscular"
+  },
+  {
+    "id": "animals-nature-1306",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "What term describes animals, like most songbirds and primates, that are primarily active during daylight hours?",
+    "options": [
+      "Cathemeral",
+      "Crepuscular",
+      "Diurnal",
+      "Nocturnal"
+    ],
+    "answer": "Diurnal"
+  },
+  {
+    "id": "animals-nature-1307",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Cows, deer, and giraffes are all ruminants, meaning they digest tough plant material using a specialized stomach chamber called the rumen along with which other three chambers?",
+    "options": [
+      "Cecum, colon, and rectum",
+      "Foregut, midgut, and hindgut",
+      "Gizzard, crop, and proventriculus",
+      "Reticulum, omasum, and abomasum"
+    ],
+    "answer": "Reticulum, omasum, and abomasum"
+  },
+  {
+    "id": "animals-nature-1308",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What is the term for a symbiotic relationship in which one organism benefits at the direct expense of another, such as a tapeworm living inside a host's gut?",
+    "options": [
+      "Commensalism",
+      "Predation only",
+      "Mutualism",
+      "Parasitism"
+    ],
+    "answer": "Parasitism"
+  },
+  {
+    "id": "animals-nature-1309",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "What term describes the ripple effect through an ecosystem's food web when removing or reintroducing a top predator changes the abundance of species several levels below it?",
+    "options": [
+      "Biomagnification",
+      "Ecological succession",
+      "Niche partitioning",
+      "Trophic cascade"
+    ],
+    "answer": "Trophic cascade"
+  },
+  {
+    "id": "animals-nature-1310",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "What term describes a species, like the tiger, chosen for conservation efforts because protecting its large habitat indirectly protects many other species that share it?",
+    "options": [
+      "Umbrella species",
+      "Keystone species",
+      "Endemic species",
+      "Indicator species"
+    ],
+    "answer": "Umbrella species"
+  },
+  {
+    "id": "animals-nature-1311",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What term describes a charismatic species, such as the giant panda, chosen to represent a conservation campaign and raise public awareness and funding?",
+    "options": [
+      "Umbrella species",
+      "Indicator species",
+      "Foundation species",
+      "Flagship species"
+    ],
+    "answer": "Flagship species"
+  },
+  {
+    "id": "animals-nature-1312",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "What term describes a species, such as a reef-building coral or a canopy tree, that plays such a large role in physically creating and structuring a habitat that many other species depend on it?",
+    "options": [
+      "Keystone species",
+      "Umbrella species",
+      "Foundation species",
+      "Pioneer species"
+    ],
+    "answer": "Foundation species"
+  },
+  {
+    "id": "animals-nature-1313",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What term describes an organism, like an earthworm or dung beetle, that feeds directly on dead organic matter, as distinct from decomposers like fungi and bacteria that break it down chemically?",
+    "options": [
+      "Autotroph",
+      "Detritivore",
+      "Decomposer",
+      "Herbivore"
+    ],
+    "answer": "Detritivore"
+  },
+  {
+    "id": "animals-nature-1314",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What term describes a strip of natural habitat, such as a stretch of forest or a land bridge, deliberately preserved or built to let wildlife move safely between two larger habitat areas?",
+    "options": [
+      "Ecotone",
+      "Buffer zone",
+      "Wildlife corridor",
+      "Migratory flyway"
+    ],
+    "answer": "Wildlife corridor"
+  },
+  {
+    "id": "animals-nature-1315",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What term describes a large, continuous habitat being broken up into smaller, isolated patches, typically by roads, farms, or urban development?",
+    "options": [
+      "Biotic homogenization",
+      "Ecological succession",
+      "Habitat fragmentation",
+      "Niche partitioning"
+    ],
+    "answer": "Habitat fragmentation"
+  },
+  {
+    "id": "animals-nature-1316",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What term describes seawater becoming more acidic as it absorbs excess atmospheric carbon dioxide, making it harder for corals and shellfish to build their calcium carbonate skeletons and shells?",
+    "options": [
+      "Coral bleaching",
+      "Thermal stratification",
+      "Ocean acidification",
+      "Eutrophication"
+    ],
+    "answer": "Ocean acidification"
+  },
+  {
+    "id": "animals-nature-1317",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "What term describes harvesting fish from the ocean faster than their populations can naturally replenish, a major driver of collapsing fisheries worldwide?",
+    "options": [
+      "Aquaculture",
+      "Overfishing",
+      "Trawling",
+      "Dredging"
+    ],
+    "answer": "Overfishing"
+  },
+  {
+    "id": "animals-nature-1318",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What term describes marine animals like dolphins, sea turtles, or seabirds that are unintentionally caught in fishing gear meant for a different target species?",
+    "options": [
+      "Overfishing",
+      "Discard rate",
+      "Bycatch",
+      "Trawl loss"
+    ],
+    "answer": "Bycatch"
+  },
+  {
+    "id": "animals-nature-1319",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "The 1992 collapse of which fish stock off Newfoundland, driven by decades of industrial overfishing, led to a moratorium that put tens of thousands of Canadians out of work?",
+    "options": [
+      "Atlantic cod",
+      "Bluefin tuna",
+      "Atlantic salmon",
+      "Atlantic herring"
+    ],
+    "answer": "Atlantic cod"
+  },
+  {
+    "id": "animals-nature-1320",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "When a red cow and a white cow produce roan calves with red and white hairs intermixed rather than blended pink, this coat pattern is a classic textbook example of what genetic phenomenon?",
+    "options": [
+      "Genetic drift",
+      "Incomplete dominance",
+      "Polygenic inheritance",
+      "Codominance"
+    ],
+    "answer": "Codominance"
+  },
+  {
+    "id": "animals-nature-1321",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Crossing a red-flowered snapdragon with a white-flowered one produces pink offspring, a classic textbook example of what genetic phenomenon, where neither allele fully masks the other?",
+    "options": [
+      "Incomplete dominance",
+      "Linkage",
+      "Epistasis",
+      "Codominance"
+    ],
+    "answer": "Incomplete dominance"
+  },
+  {
+    "id": "animals-nature-1322",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "The woolly rhinoceros, an Ice Age megafauna species known from ancient cave paintings, went extinct around the same time as which other famous Ice Age mammal?",
+    "options": [
+      "The Irish elk only, before mammoths",
+      "The saber-toothed tiger only",
+      "The woolly mammoth",
+      "The dodo"
+    ],
+    "answer": "The woolly mammoth"
+  },
+  {
+    "id": "animals-nature-1323",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What is the name of the microscopic stinging capsules found in jellyfish and sea anemone tentacles that fire a barbed thread to inject venom into prey?",
+    "options": [
+      "Chromatophores",
+      "Pneumatocysts",
+      "Osteoderms",
+      "Nematocysts"
+    ],
+    "answer": "Nematocysts"
+  },
+  {
+    "id": "animals-nature-1324",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "Toothed whales, such as dolphins and sperm whales, have a single blowhole, while baleen whales like the blue whale have how many?",
+    "options": [
+      "One, the same as toothed whales",
+      "Three",
+      "Two",
+      "Four"
+    ],
+    "answer": "Two"
+  },
+  {
+    "id": "animals-nature-1325",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Baleen whales filter tiny prey from the water using baleen plates, which are made of what material rather than teeth?",
+    "options": [
+      "Bone",
+      "Cartilage",
+      "Chitin",
+      "Keratin, the same protein as fingernails"
+    ],
+    "answer": "Keratin, the same protein as fingernails"
+  },
+  {
+    "id": "animals-nature-1326",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What tough, nitrogen-based substance forms the hard exoskeleton of insects, crabs, and other arthropods?",
+    "options": [
+      "Keratin",
+      "Cellulose",
+      "Collagen",
+      "Chitin"
+    ],
+    "answer": "Chitin"
+  },
+  {
+    "id": "animals-nature-1327",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Beetles, of the order Coleoptera, make up roughly what share of all described insect species, making them the most diverse insect order by far?",
+    "options": [
+      "About 90 percent",
+      "About 40 percent",
+      "About 15 percent",
+      "About 5 percent"
+    ],
+    "answer": "About 40 percent"
+  },
+  {
+    "id": "animals-nature-1328",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Orb-weaver spiders build their signature wheel-shaped webs using a frame and radiating spokes made from which type of especially strong silk?",
+    "options": [
+      "Cribellate silk",
+      "Dragline silk",
+      "Egg-sac silk",
+      "Capture silk"
+    ],
+    "answer": "Dragline silk"
+  },
+  {
+    "id": "animals-nature-1329",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Despite their similar-looking colonies and caste systems, termites are evolutionarily most closely related to which other insect?",
+    "options": [
+      "Wasps",
+      "Cockroaches",
+      "Beetles",
+      "Ants"
+    ],
+    "answer": "Cockroaches"
+  },
+  {
+    "id": "animals-nature-1330",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "In a termite colony, which caste is primarily responsible for defending the nest with enlarged jaws or chemical sprays, rather than foraging or reproducing?",
+    "options": [
+      "Alates",
+      "Queens",
+      "Workers",
+      "Soldiers"
+    ],
+    "answer": "Soldiers"
+  },
+  {
+    "id": "animals-nature-1331",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Dragonflies spend most of their lives, sometimes several years, underwater as predatory nymphs before their final molt into a flying adult. What is an aquatic dragonfly nymph also called?",
+    "options": [
+      "A larva",
+      "A pupa",
+      "A grub",
+      "A naiad"
+    ],
+    "answer": "A naiad"
+  },
+  {
+    "id": "animals-nature-1332",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "Despite its common name, a silverfish is a small, wingless, fast-moving member of which group of animals?",
+    "options": [
+      "Mollusks",
+      "Crustaceans",
+      "Arachnids",
+      "Insects"
+    ],
+    "answer": "Insects"
+  },
+  {
+    "id": "animals-nature-1333",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "The common woodlouse, or pillbug, is often mistaken for an insect but is actually the only group of which class of animals to have fully adapted to life on land?",
+    "options": [
+      "Myriapods",
+      "Arachnids",
+      "Crustaceans",
+      "Mollusks"
+    ],
+    "answer": "Crustaceans"
+  },
+  {
+    "id": "animals-nature-1334",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "A slug is essentially a land snail that lacks what feature, or has only a small internal remnant of it?",
+    "options": [
+      "A foot",
+      "A radula",
+      "An external shell",
+      "Eyes"
+    ],
+    "answer": "An external shell"
+  },
+  {
+    "id": "animals-nature-1335",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Squid have true tentacles with suckers only at the tip, but their eight-limbed relative the octopus has limbs that are technically called what instead?",
+    "options": [
+      "Palps",
+      "Cirri",
+      "Legs",
+      "Arms"
+    ],
+    "answer": "Arms"
+  },
+  {
+    "id": "animals-nature-1336",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Botanically speaking, a tomato develops from a flower's ovary and contains seeds, technically making it what, even though it's culinarily treated as a vegetable?",
+    "options": [
+      "A legume",
+      "A fruit",
+      "A tuber",
+      "A root vegetable"
+    ],
+    "answer": "A fruit"
+  },
+  {
+    "id": "animals-nature-1337",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "Botanically, a banana is classified as what type of fruit, unlike a strawberry, which is not considered a true berry at all?",
+    "options": [
+      "An aggregate fruit",
+      "A pome",
+      "A berry",
+      "A drupe"
+    ],
+    "answer": "A berry"
+  },
+  {
+    "id": "animals-nature-1338",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Legume plants like beans and clover host colonies of Rhizobium bacteria in root nodules, forming a mutualism in which the bacteria provide the plant with what?",
+    "options": [
+      "Sugars from photosynthesis",
+      "Protection from insects",
+      "Extra water storage",
+      "Usable nitrogen compounds"
+    ],
+    "answer": "Usable nitrogen compounds"
+  },
+  {
+    "id": "animals-nature-1339",
+    "category": "animals-nature",
+    "difficulty": "easy",
+    "question": "Counting the concentric rings visible in a cut tree trunk, a technique called dendrochronology, primarily reveals what about the tree?",
+    "options": [
+      "Its species",
+      "How much water it has stored",
+      "Its total height",
+      "Its age in years"
+    ],
+    "answer": "Its age in years"
+  },
+  {
+    "id": "animals-nature-1340",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Many species of blind cave fish still have tiny, non-functional eyes buried under their skin, a classic example of what kind of evolutionary leftover?",
+    "options": [
+      "An analogous structure",
+      "A convergent structure",
+      "A vestigial structure",
+      "A homologous structure"
+    ],
+    "answer": "A vestigial structure"
+  },
+  {
+    "id": "animals-nature-1341",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Ostriches cannot fly, yet they still retain reduced wings, which they use mainly for balance while running and for courtship and shade displays. This is an example of what?",
+    "options": [
+      "Convergent evolution with penguins",
+      "Sexual dimorphism only",
+      "A homologous structure with no known function",
+      "A vestigial structure retaining a secondary use"
+    ],
+    "answer": "A vestigial structure retaining a secondary use"
+  },
+  {
+    "id": "animals-nature-1342",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "The shimmering, color-shifting sheen of a peacock's feathers or a Morpho butterfly's wings comes not from pigment but from what?",
+    "options": [
+      "Reflective mineral deposits in the scales",
+      "Microscopic structures that scatter and refract light",
+      "Fluorescent proteins that glow under UV light",
+      "A thin layer of natural oil on the surface"
+    ],
+    "answer": "Microscopic structures that scatter and refract light"
+  },
+  {
+    "id": "animals-nature-1343",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "In bioluminescent organisms like fireflies, the light-emitting molecule is called luciferin, but what is the name of the enzyme that catalyzes the reaction to actually produce light?",
+    "options": [
+      "Luciferase",
+      "Biolumin",
+      "Chromatase",
+      "Photozyme"
+    ],
+    "answer": "Luciferase"
+  },
+  {
+    "id": "animals-nature-1344",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What term describes a species disappearing entirely from one part of its range while surviving elsewhere, as gray wolves did across most of the U.S. before their Yellowstone reintroduction?",
+    "options": [
+      "Speciation",
+      "Extinction",
+      "Endemism",
+      "Extirpation"
+    ],
+    "answer": "Extirpation"
+  },
+  {
+    "id": "animals-nature-1345",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "What term describes conserving a species by breeding and protecting it outside its natural habitat, such as in a zoo or seed bank, as opposed to protecting it in the wild?",
+    "options": [
+      "Assisted migration",
+      "Rewilding",
+      "In situ conservation",
+      "Ex situ conservation"
+    ],
+    "answer": "Ex situ conservation"
+  },
+  {
+    "id": "animals-nature-1346",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "The Svalbard Global Seed Vault, built into a mountainside in the Arctic, exists to safeguard the world's food supply by storing what?",
+    "options": [
+      "Samples of ocean water",
+      "Backup samples of crop seeds",
+      "Preserved plant fossils",
+      "Frozen animal embryos"
+    ],
+    "answer": "Backup samples of crop seeds"
+  },
+  {
+    "id": "animals-nature-1347",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "What term describes two or more species that look virtually identical to the naked eye but are genetically distinct and cannot interbreed?",
+    "options": [
+      "Convergent species",
+      "Hybrid species",
+      "Sibling ecotypes",
+      "Cryptic species"
+    ],
+    "answer": "Cryptic species"
+  },
+  {
+    "id": "animals-nature-1348",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "When a whale dies and its carcass sinks to the deep seafloor, it can support a unique local ecosystem of scavengers and specialized organisms for how long?",
+    "options": [
+      "Decades",
+      "Roughly one month",
+      "About a week",
+      "A few hours"
+    ],
+    "answer": "Decades"
+  },
+  {
+    "id": "animals-nature-1349",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What term describes young animals, like ducklings and baby deer, that are born relatively mobile, feathered or furred, and able to feed themselves soon after birth?",
+    "options": [
+      "Altricial",
+      "Precocial",
+      "Viviparous",
+      "Semelparous"
+    ],
+    "answer": "Precocial"
+  },
+  {
+    "id": "animals-nature-1350",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What term describes young animals, like most songbirds, that are born blind, featherless or furless, and completely dependent on parental care?",
+    "options": [
+      "Precocial",
+      "Semelparous",
+      "Altricial",
+      "Oviparous"
+    ],
+    "answer": "Altricial"
+  },
+  {
+    "id": "animals-nature-1351",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "What term describes a region of Earth with an exceptionally high number of unique species combined with severe habitat loss, making it a top priority for conservation funding?",
+    "options": [
+      "Species reservoir",
+      "Biodiversity hotspot",
+      "Ecological refuge",
+      "Conservation corridor"
+    ],
+    "answer": "Biodiversity hotspot"
+  },
+  {
+    "id": "animals-nature-1352",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "What term describes a major north-south migration route, such as the one huge numbers of birds follow along North America's Pacific coast, connecting breeding and wintering grounds?",
+    "options": [
+      "Transit lane",
+      "Aerial highway",
+      "Migration corridor",
+      "Flyway"
+    ],
+    "answer": "Flyway"
+  },
+  {
+    "id": "animals-nature-1353",
+    "category": "animals-nature",
+    "difficulty": "medium",
+    "question": "Stick insects and leaf insects don't just blend in with background colors; they mimic the actual shape of a specific inanimate object. What is this specific camouflage strategy called?",
+    "options": [
+      "Masquerade",
+      "Countershading",
+      "Crypsis",
+      "Aposematism"
+    ],
+    "answer": "Masquerade"
+  },
+  {
+    "id": "animals-nature-1354",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "Some moths, like the Io moth, suddenly flash large eyespots on their hindwings when disturbed, startling a predator just long enough to escape. What is this defense tactic called?",
+    "options": [
+      "Countershading",
+      "A deimatic display",
+      "Batesian mimicry",
+      "Aposematism"
+    ],
+    "answer": "A deimatic display"
+  },
+  {
+    "id": "animals-nature-1355",
+    "category": "animals-nature",
+    "difficulty": "hard",
+    "question": "What term describes a chain of neighboring populations that can each interbreed with their neighbors, but where the two populations at opposite ends of the chain cannot, as seen in California's Ensatina salamanders?",
+    "options": [
+      "A sister taxon",
+      "A hybrid zone",
+      "A cryptic species complex",
+      "A ring species"
+    ],
+    "answer": "A ring species"
   }
 ]

@@ -234,7 +234,16 @@ itself — is the single copy.** Don't duplicate it here or anywhere else:
 3. If a category's list grows past ~30–40 entries, prune it: drop angles
    too specific to plausibly recur, and keep the ones that show up
    repeatedly across batches (e.g. "SI unit of X," "chemical symbol for
-   Y" — categories of chestnut, not just one-off facts).
+   Y" — categories of chestnut, not just one-off facts). **Once a
+   category is broad enough to have natural sub-domains, restructuring
+   into labeled sections is a better fix than flat pruning** — pruning
+   loses coverage a future drafter still needs, where grouping just
+   makes the same coverage skimmable. `templates/science-technology.md`
+   did this first (PHYSICS/CHEMISTRY/BIOLOGY/etc. sections with a
+   MAINTENANCE NOTE); `templates/animals-nature.md` followed the same
+   pattern 2026-09-03 when a 202-question concept-heavy batch pushed its
+   flat list well past guideline size for a second time. Prune *within*
+   a section once that section alone gets unwieldy, not the whole list.
 
 ### Duplicate patterns the automated checks routinely miss
 
@@ -356,6 +365,22 @@ trusting recall, especially for "hard"-difficulty/obscure specifics
   two options that are both currently-active/both-true at once, like two
   "current" Mars rovers or two spacecraft that both returned asteroid
   samples).
+- **Logically-incoherent stems for sequence/hierarchy questions** — a
+  distinct bug from a wrong *fact*: the question's premise is unanswerable
+  or self-contradictory given the sequence it names, independent of which
+  option is marked correct. Confirmed 2026-09-03: a drafted question asked
+  "which taxonomic rank sits directly between 'class' and 'order'" — but
+  class and order are *adjacent* ranks in the standard seven-rank
+  hierarchy (kingdom-phylum-class-order-family-genus-species), so nothing
+  sits between them; the question was unanswerable as written regardless
+  of which option got marked correct. Caught only by manually re-deriving
+  the actual sequence while reading the draft, since every automated
+  check (schema, dedup, answer-leak) only inspects the option/answer
+  strings, never whether the stem's own claim about a named sequence,
+  ranking, or ordering is internally consistent. Any question of the
+  form "what comes between X and Y" or "what rank/step is directly
+  before/after Z" needs the namer to actually count the sequence, not
+  just recall that X and Y are both real steps in it.
 - **Genuine real-world ambiguity, not just obscurity** — a sub-flavor of
   the above worth checking for separately, since it isn't about digging
   harder into one suspicious option: some questions have more than one
@@ -615,6 +640,35 @@ grepping only for `error(s)`.
   default check's thresholds are specifically what let ~41% of one such
   batch (generic "who directed/played/composed famous-film-X" chestnuts)
   through undetected.
+- **Generic concept/definition questions are a distinct `--full-answer-
+  audit` risk from "iconic subject" batches, and need the same treatment
+  even when nothing about the batch looks iconic.** A question that
+  defines a general term ("what's the term for X") rather than asking
+  about a specific named animal/species/place is exactly as likely to
+  already exist in a *different* dupeGroup-shared category as in the
+  target one, because the fact isn't inherently tied to the target
+  category's subject matter — a biology/chemistry/physics definition
+  could plausibly have been drafted into `science-technology` OR
+  `animals-nature` OR `general` with nobody noticing the overlap until
+  audit time. Confirmed 2026-09-03 drafting a 202-question
+  animals-nature batch built mostly around ecology/evolution/genetics
+  *concepts* (a sub-domain picked specifically because plain species-fact
+  drafting was exhausted, per "Memory-only drafting exhausts" below):
+  6 of 208 drafted questions were exact-concept duplicates already
+  sitting in `science-technology` or `general` (condensation as a phase
+  change, Gregor Mendel/pea-plant genetics, phenotype's definition,
+  Mauritius as the dodo's home island, phloem's definition, circadian
+  rhythm's definition) — none of these were caught by grepping the
+  *target* category beforehand (the whole point of drafting concept
+  questions was that animals-nature itself had zero prior coverage of
+  them), and none scored high enough on text overlap for the default
+  check to flag, since the two phrasings of the same definition rarely
+  share much wording. `--full-answer-audit` caught all 6 because it
+  compares the *answer* against the whole corpus with no threshold,
+  regardless of dupeGroup. Treat any batch built on stem-format
+  "what's the term for X" / "what do you call Y" definitional questions
+  as inherently iconic-subject-risk-level, not just batches about
+  famous named entities.
 
 ## Large batches parallelized via fork agents need one merge-gate, not many
 
@@ -1001,6 +1055,43 @@ wrong options; (2) grepping the corpus for a candidate term (e.g.
 value, only in `"options"`, is a cheap, high-confidence green light
 before drafting that specific fact — cheaper than a WebSearch and a
 stronger signal than eyeballing the AVOID list.
+
+**`animals-nature` crossed this same wall by 2026-09-03**, at 1,169
+questions before that session's 202-question batch (now ~1,371), with
+`templates/animals-nature.md`'s own AVOID list at 118 entries — already
+past guideline size, same situation science-technology was in (see
+above; both got the section-restructure treatment rather than a flat
+prune). The species/quirk-fact angles that dominate the existing corpus
+(a surprising fact about a specific named animal or plant) were
+genuinely mined out — a dump-and-read of every existing answer plus
+targeted greps for ~80 candidate terms across a dozen candidate
+sub-domains kept turning up "already covered," often in a form the
+AVOID list didn't even list explicitly (e.g. cuckoo/cowbird brood
+parasitism, mangrove salt filtration, four-chambered crocodilian
+hearts — all fully covered but easy to almost re-draft from memory
+without checking). **What actually worked was a different *kind* of
+sub-domain, not just a different topic**: this category had ~1,169
+questions of concrete species facts but had never touched abstract
+ecology/evolution/genetics/taxonomy/conservation *vocabulary and
+concepts* at all (niche, trophic level, homologous vs. analogous
+structures, allopatric vs. sympatric speciation, IUCN Red List
+categories, codominance, etc.) — a completely different axis from "which
+species hasn't been asked about yet," and one `find-gaps.js` can't
+surface since it's keyed to a curated subject list, not abstract terms.
+Grepping ~80 candidate concept terms against the corpus before drafting
+(all either zero hits or hits that were clearly a different, unrelated
+fact) let the batch go to 202 survivors on 208 drafted — a ~3% cut rate,
+all 6 cuts caught by `--full-answer-audit` finding the same concept
+already defined in a *different* dupeGroup-shared category (see
+"Generic concept/definition questions" under "Duplicate detection"
+above), not by anything the pre-drafting greps could have caught, since
+those greps only checked the target category. Lesson for any other deep
+category: when species/entity-fact drafting dries up, check whether the
+category's own *abstract vocabulary* (the concepts and terminology
+underpinning its subject, as opposed to facts about specific instances
+of it) has been drafted at all before concluding the category is
+exhausted — it usually hasn't, because concept questions don't fit the
+"surprising fact about X" mold most drafting sessions default to.
 
 ## What not to do
 
