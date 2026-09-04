@@ -1576,6 +1576,62 @@ Two things worth carrying forward:
   no `dupeGroup` at all — the duplicates it catches there are against
   *other entries already in the same file*, not a cross-category leak.
 
+## Accessibility-constrained drafting (seventh session): switch industries, not angles, once a category's obvious layer is exhausted
+
+**A seventh accessible-difficulty session (2026-09-04, single category, no
+category preference given by the user) pushed `business-brands` further
+still — 1658 → 1839 questions, 181 net new across seven sequential
+waves — by picking whole *industries* the corpus had never touched at
+all, rather than a fresh angle on an already-mined industry.** Two probe
+lanes were tried first per prior sessions' advice (fresh `business-brands`
+sub-domains vs. abstract film-tv/geography vocabulary terms, as suggested
+by an `advisor()` consult before drafting); the vocabulary-terms probe
+came back noisy and mostly-covered (sitcom/cameo/spin-off/strait all hit),
+so the whole session stayed in `business-brands`. Industries mined this
+time, in order: airlines, hotel chains, car makes (plain country/parent-
+company identity, not the fashion-logo angle prior sessions used),
+news/media brands, watches, cruise lines/theme parks, insurance, shipping,
+then a second round of banks, jewelry, beauty, streaming, car rental, gas
+stations, cameras, mattresses, furniture, fitness tech, then a third round
+of computer makers, prepaid wireless carriers, grocery/fashion retail,
+running shoes, tires, then dating apps, home security, magazines, family
+entertainment, misc. startups (WeWork, 23andMe), then EVs, fitness/edtech
+apps, plant-based food, fintech, wearables, then finally web
+browsers/search engines/email providers/antivirus/VPN/password managers —
+a whole tech-software layer with literally zero prior coverage despite
+the corpus's overall depth. Each wave was small (7-29 questions) and went
+through the full pipeline (draft → shuffle options → `check-draft` →
+manual whole-corpus same-answer audit, done inline via a one-off script
+rather than re-running `--full-answer-audit` per wave, since each wave was
+merged into the live corpus before the next was drafted → manual
+`index | answer | question` dump-and-read → merge → `validate`) before the
+next wave was drafted. Result: **zero new `validate` warnings across all
+seven waves** (373 before and after), same clean signature as the sixth
+session.
+
+**The default `check-draft` pass was clean on every single wave, and yet
+manual whole-corpus answer-matching still caught one real duplicate in 3
+of the 7 waves** (an Acer/"Multitech" original-name question already
+asked near-verbatim; a Tinder/"Matchbox" prototype-name question already
+asked near-verbatim — the exact same fact-shape as the sixth session's
+Lego/Intel misses; a Chuck E. Cheese/Atari founder-crossover question
+already asked near-verbatim; a Paramount+/"CBS All Access" rebrand
+question already asked near-verbatim) — confirming yet again that a clean
+default `check-draft` run is never sufficient on its own, even deep into
+a well-established, isolated-`dupeGroup` category on a session that
+already knows to check. **Two mechanical bugs also only surfaced on the
+manual read, not any automated check:** a "Sealy is named after the Texas
+town..." question that was tautological (the town's name is trivially
+inferable from the brand name itself, same family as the Klondike-bar
+self-answering-stem bug from an earlier session) — fixed by asking what
+material the original mattresses were filled with instead; and an
+initial Ryanair distractor set that included both "Gatwick" and "London
+Gatwick" as separate options for the same real airport — fixed by
+swapping one for a genuinely different airport. Neither `check-draft.js`
+nor `validate.js` catches an answer implied by its own stem, or two
+options naming the same real place — both need the same human read every
+other pattern in this file already calls for.
+
 ## What not to do
 
 - Don't add a build step, framework, or bundler — this is intentionally
