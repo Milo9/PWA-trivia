@@ -1321,6 +1321,91 @@ are confirmed workable, same call as the second accessible session).
    roughly a third of any naive draft count regardless of which
    category absorbs it.
 
+**A fourth same-day accessible-difficulty session (2026-09-03) hit a
+genuinely different wall: at this point, three prior sessions had
+already shipped ~570 accessible questions across mythology-religion,
+music, world-cultures, sports, business-brands, and food-drink, plus
+two unrelated same-day science-technology/animals-nature batches — 8
+categories touched in one day. Every remaining untouched category
+turned out to be saturated far deeper than its own `AVOID THESE ANGLES`
+list reveals, which is the session's real finding.**
+
+Before drafting, ~150 candidate facts were grepped directly against a
+full-corpus dump (`answer ||| question` per line, every `data/questions/
+*.json` file — cheaper and more reliable than reading each category's
+template) rather than trusting AVOID lists or memory: 20th-century and
+ancient/medieval history (Korean War, Camp David Accords, Hannibal,
+Ides of March, Battle of Thermopylae, Trail of Tears, Monroe Doctrine),
+non-Western history (Mali Empire, Great Zimbabwe, Songhai's Battle of
+Tondibi, Machu Picchu, Aboriginal/Maori/Ashanti facts), arts-literature
+beyond "who wrote/painted X" (fresco vs. tempera vs. gouache, Masaccio's
+Trinity, egg tempera, sonnet/limerick/haiku definitions), world-cultures
+dress/textile/dwelling (kimono, yurt, tulou, izba — confirmed "clean" by
+the *first* accessible session, but fully drained by that same session's
+own output), music's instrument-family lane (same story — sitar, koto,
+didgeridoo, all now covered), Friends trivia (Central Perk, "Pivot!,"
+the Moist Maker — some facts asked 2-3 times over), geography
+microstates (every microstate capital and geographic-oddity fact, e.g.
+Bhutan's national-sport archery, Andorra's highest-capital-in-Europe
+status), and space-astronomy (individual Jupiter/Saturn moons' orbital
+resonances, meteor shower parent bodies, Lagrange points). **Essentially
+all ~150 came back already covered, frequently at a level of specificity
+(Treaty of Lutatius, Siarnaq the Saturn moon, God's Number for a Rubik's
+Cube) that goes well beyond what any category's AVOID list documents.**
+The lesson: a category's AVOID list records *confirmed duplicates found
+in past batches*, not the corpus's actual coverage — it's necessarily
+incomplete, since the many categories sharing `dupeGroup: "general"`
+have apparently had multiple independent deep-mining passes over the
+years whose output was never folded back into every affected category's
+AVOID list. Treat "this category's own AVOID list looks thin" as weak
+evidence either way (it was wrong in both directions this year: it
+wrongly ruled out food-drink in the second accessible session, and
+wrongly looked survivable for history/arts-literature/geography/
+space-astronomy going into this fourth one) — a live full-corpus grep of
+concrete candidate facts is the only real test, for ruling a category
+*in* as well as *out*.
+
+Given that even "medium, specific" facts (not just headline chestnuts)
+were this saturated, the user was asked how to proceed and chose
+"best-effort, no fixed count" over forcing 200 through further guessing.
+**The pivot that actually worked: WebSearch-driven research into a
+sub-domain neither `business-brands` nor `food-drink` had touched yet —
+household/cleaning products and OTC medicines (Ziploc, Roomba, Sharpie,
+Gorilla Glue, Windex, Swiffer, Febreze, OxiClean, Reynolds Wrap, Saran
+Wrap, Scotch Tape, duct tape, Dawn dish soap, Vicks VapoRub, Tylenol,
+Pepto-Bismol, Neosporin) and pantry-staple/snack brands one tier below
+the already-mined soda/candy/cookie layer (Old Bay, Cheez-It, Ritz,
+Fritos, Little Debbie, Goldfish, Kraft Mac and Cheese, Velveeta, Cool
+Whip, Heinz Ketchup, French's Mustard, Spam, Nutella).** A pre-draft
+grep of ~50 candidate brand names in this vein came back almost entirely
+clean (vs. near-100% saturated for the soda/candy/toy/game brands
+grepped first — Oreo, Pringles, Dr Pepper, Gatorade, Rubik's Cube,
+Scrabble, Jenga, Clue, all deeply covered), and the resulting drafts
+(actual WebSearch-sourced facts, not memory guesses) went through
+`check-draft.js` clean on both passes plus the short-answer full-corpus
+check: 62 drafted, 61 survived to merge (34 business-brands, 27
+food-drink) — a ~98% survival rate, sharply better than the 65-76%
+seen in every earlier accessible session. **Two mechanisms explain the
+gap:** (1) memory-based guessing, even when deliberately aimed at
+"lesser-known" facts, converges on the same handful of iconic
+instances (the exact soda/candy/toy brands above) that every prior
+session already reached for, because that's what "notable enough to
+draft trivia about" surfaces from memory first — actual research
+turns up facts about brands a memory-only pass wouldn't have
+prioritized, which are just as real and just as fair but weren't on
+anyone's mental shortlist yet; and (2) `business-brands` and
+`food-drink` are the only two categories with no shared `dupeGroup`
+(see "Duplicate detection" above), so their coverage reflects only
+their own past sessions' angle choices, not a systematic multi-category
+mining effort the way every `dupeGroup: "general"` category apparently
+has behind it — a lower ceiling on total questions, but a much more
+predictable one to reason about via direct grep. **When a full-corpus
+grep shows a category's "obvious" layer this saturated, look for a
+sibling sub-domain within a *dupeGroup-isolated* category before
+concluding the day's accessible-content budget is exhausted** — it's a
+more reliable lever than continuing to test shape-shifted angles within
+already-exhausted `dupeGroup: "general"` categories.
+
 ## What not to do
 
 - Don't add a build step, framework, or bundler — this is intentionally
