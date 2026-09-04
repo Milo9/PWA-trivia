@@ -1585,9 +1585,16 @@ waves — by picking whole *industries* the corpus had never touched at
 all, rather than a fresh angle on an already-mined industry.** Two probe
 lanes were tried first per prior sessions' advice (fresh `business-brands`
 sub-domains vs. abstract film-tv/geography vocabulary terms, as suggested
-by an `advisor()` consult before drafting); the vocabulary-terms probe
-came back noisy and mostly-covered (sitcom/cameo/spin-off/strait all hit),
-so the whole session stayed in `business-brands`. Industries mined this
+by an `advisor()` consult before drafting); the vocabulary-terms probe came
+back **inconclusive, not pursued** — the grep hits were the words used as
+plain descriptors inside existing Friends/Big Bang Theory question stems
+("which sitcom...", "cameo role...", "the strait between..."), not
+evidence that a question testing the *concept itself* ("what do you call
+a TV show with a fixed regular cast filmed before a live audience?")
+already exists. A future session should still treat that lane as
+untested, not ruled out, since the business-brands probe came back
+productive enough on its own that nobody actually checked. Industries
+mined this
 time, in order: airlines, hotel chains, car makes (plain country/parent-
 company identity, not the fashion-logo angle prior sessions used),
 news/media brands, watches, cruise lines/theme parks, insurance, shipping,
@@ -1631,6 +1638,38 @@ swapping one for a genuinely different airport. Neither `check-draft.js`
 nor `validate.js` catches an answer implied by its own stem, or two
 options naming the same real place — both need the same human read every
 other pattern in this file already calls for.
+
+**A post-ship `advisor()` review of this batch caught two further bug
+classes that neither the pre-merge pipeline above nor any existing
+CLAUDE.md checklist explicitly names, both fixed in a same-day follow-up
+commit:** (1) **distractor-also-true via a shared owner/publisher/parent**
+— a "Sports Illustrated was launched by the same publisher as which
+magazine? answer: Time" question had *Life* and *Fortune* as distractors,
+but both were also Henry Luce/Time Inc. publications, making 3 of 4
+options technically correct; this is the same family as "Factual-error
+patterns worth verifying"'s distractor-correctness bugs above, just
+triggered by a shared-conglomerate fact rather than a shared-taxonomy or
+shared-era one — worth an explicit check whenever a distractor set names
+sibling entities under one parent company. (2) **present-tense claims
+about current CEOs/parent companies/corporate structure are exactly as
+knowledge-cutoff-fragile as the "who won X event" claims the existing
+cutoff-trap entry warns about, even when the *company* has existed for
+years** — a Lucid Motors question asserted "the CEO... previously worked
+at Tesla" as a present-tense fact, but that CEO had stepped down in
+February 2025, before this session's own January 2026 cutoff; a
+Paramount+ question asserted its parent company was "Paramount Global,"
+which had already been renamed Paramount Skydance Corporation by August
+2025, also pre-cutoff, with a further Warner Bros. Discovery merger
+agreed in February 2026 turning one of the question's own distractors
+into a live acquirer. Both slipped through because the WebSearch results
+used to draft them happened to be written in present tense from a still-
+older snapshot — a source being retrieved live doesn't guarantee the
+underlying fact it states is still current, only that the page still
+exists. Any question asserting a company's *current* CEO, parent, or
+corporate structure needs either an explicit as-of-year pin (matching the
+existing "Stale record-holder / superlative claims" treatment) or a
+same-search cross-check for a more recent headline about that exact
+company, not just trust in the search result's grammatical tense.
 
 ## What not to do
 
