@@ -1393,18 +1393,94 @@ session already reached for, because that's what "notable enough to
 draft trivia about" surfaces from memory first — actual research
 turns up facts about brands a memory-only pass wouldn't have
 prioritized, which are just as real and just as fair but weren't on
-anyone's mental shortlist yet; and (2) `business-brands` and
-`food-drink` are the only two categories with no shared `dupeGroup`
-(see "Duplicate detection" above), so their coverage reflects only
-their own past sessions' angle choices, not a systematic multi-category
-mining effort the way every `dupeGroup: "general"` category apparently
-has behind it — a lower ceiling on total questions, but a much more
-predictable one to reason about via direct grep. **When a full-corpus
-grep shows a category's "obvious" layer this saturated, look for a
-sibling sub-domain within a *dupeGroup-isolated* category before
-concluding the day's accessible-content budget is exhausted** — it's a
-more reliable lever than continuing to test shape-shifted angles within
-already-exhausted `dupeGroup: "general"` categories.
+anyone's mental shortlist yet; and (2) `business-brands` was believed at
+the time to share no `dupeGroup` with any other category (see
+"Duplicate detection" above), so its coverage reflects only its own past
+sessions' angle choices, not a systematic multi-category mining effort
+the way every `dupeGroup: "general"` category apparently has behind
+it — a lower ceiling on total questions, but a much more predictable
+one to reason about via direct grep. **Correction (confirmed
+2026-09-03, checking `data/categories.json` directly): `food-drink` was
+never actually dupeGroup-isolated — it's carried `"dupeGroup": "general"`
+since 2026-08-04, the same group as history/geography/science-technology/
+animals-nature/space-astronomy/arts-literature/film-tv/music/sports/
+mythology-religion/world-cultures/general/civics-law-economics.** Only
+`business-brands`, `friends`, and `big-bang-theory` have no `dupeGroup`
+key (so each defaults to its own category id per `validate.js`'s
+`dupeGroupOf`) and are therefore genuinely isolated. This doesn't
+invalidate the ~98% survival rate above — the real driver was drafting
+brand names the corpus had never touched (verified by `check-draft.js`,
+which is dupeGroup-aware regardless), not dupeGroup isolation itself —
+but don't repeat the isolation claim for `food-drink` specifically; check
+`data/categories.json` rather than trusting this file's summary when it
+matters for a decision. **When a full-corpus grep shows a category's
+"obvious" layer this saturated, look for a sibling sub-domain within
+`business-brands` (or another genuinely `dupeGroup`-isolated category)
+before concluding the day's accessible-content budget is exhausted** —
+it's a more reliable lever than continuing to test shape-shifted angles
+within already-exhausted `dupeGroup: "general"` categories, `food-drink`
+included.
+
+**A fifth same-day accessible-difficulty session (2026-09-03) pushed
+further into `business-brands`/`food-drink` and confirmed the pattern
+holds at a third pass into the same two categories, given a genuinely
+fresh sub-domain split.** With every other category already ruled out
+earlier the same day (see the fourth session above), and both
+`business-brands` and `food-drink` already having absorbed two prior
+research-driven passes, a **pre-draft full-corpus grep of ~150 candidate
+brand names across ~15 sub-domains** (hardware/tools, kitchen
+appliances, personal care, pet products, home cleaning, automotive
+services, office/stationery, sporting goods, footwear/luggage/beauty/
+baby, OTC medicine, baby clothing/formula, sun care/laundry/lighting,
+kitchenware, dairy/condiments, cereal, ice cream, savory/meat) — checked
+against **every category file, not just the target one**, using a single
+`answer ||| question` corpus dump grepped repeatedly rather than one
+`WebSearch` per brand — found the large majority of candidates
+completely clean, in sharp contrast to the same day's earlier finding
+that "obvious" layers (toy/game/soda/fast-food/cereal-mascot chestnuts)
+were saturated. The difference: this session deliberately targeted
+**plain product-identity facts** (what a brand makes, its signature
+color, country of origin, a well-known slogan/mascot) rather than
+**origin-story facts** (founder names, founding years, acquisition
+history, "original name before rebranding") — the angle every earlier
+`business-brands`/`food-drink` session (and this file's own template
+AVOID lists) had been mining by default. Both angles test real,
+fair-game knowledge, but "what does Crest make" is a fundamentally
+different fact from "when did Crest introduce fluoride," and a corpus
+that's been mined hard for the second kind of fact for months still had
+the first kind almost entirely untouched. Result: 185 questions drafted
+across ~85 brands, confirmed clean by `check-draft.js` (default pass,
+`--full-answer-audit`, and the mandatory short-answer full-corpus scan)
+with **zero real duplicates found by any check** — the cleanest result
+of any accessible-difficulty session this file documents, better even
+than the fourth session's household-brands pivot (98% survival). A
+handful of `check-draft.js`'s "shares answer with" advisories fired
+(e.g. Similac/Enfamil both "Baby formula," DeWalt/Black+Decker both
+"Power tools") — all confirmed genuine distinct facts about different
+real brands on manual read, not duplicates; this is the same
+coincidental-reuse pattern documented under "Coincidental same-answer
+reuse" above and needs a read, not a cut, every time it fires. **Three
+mechanical bugs surfaced only by the mandatory manual per-question
+read** (CLAUDE.md's own "dump and eyeball" step), none caught by any
+automated check: (1) a reworded question (done to dodge a same-draft
+near-duplicate phrasing warning) that changed the question's stem to
+ask for a *brand name* while leaving the answer/options as *product
+types* — a stem/answer mismatch introduced by the fix itself, not the
+original draft; (2) an answer that gave itself away by option-length
+imbalance (a long descriptive answer like "Chicken by-product meal,
+corn, wheat, and soy" next to short distractors) — the same
+answer-leak-via-formatting pattern documented under "Factual-error
+patterns" above, still not caught by any tool; (3) a tautological stem
+that named the answer brand in its own setup text before asking for
+that same brand as the answer (a Klondike-bar question stating "Klondike
+is a...ice cream bar" then asking "what would you do for a ___," where
+the blank was "Klondike Bar") — same self-answering-stem family as the
+Jack Woltz/horse's-head pattern, just via redundant restatement rather
+than an unrelated background fact. All three were only findable by
+actually reading the drafted question+options together as a human would
+see them in-app, confirming the "dump every question, don't just trust
+a clean check-draft run" rule is still load-bearing even on a
+near-perfect batch.
 
 ## What not to do
 
