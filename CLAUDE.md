@@ -1482,6 +1482,100 @@ see them in-app, confirming the "dump every question, don't just trust
 a clean check-draft run" rule is still load-bearing even on a
 near-perfect batch.
 
+## Grep brand names, not facts, before drafting a brand-identity batch
+
+For `business-brands` and `food-drink` specifically (the two categories built
+around real companies/products), the fastest pre-draft duplicate check isn't
+grepping candidate *facts* — it's grepping candidate *brand names* against a
+full-corpus dump, before you've decided what fact to ask about each one.
+Confirmed 2026-09-03 across a six-wave, ~300-question accessible-difficulty
+session:
+
+1. Dump the whole corpus once as `answer ||| question` per line (all 17
+   category files, not just the target one — see the food-drink example
+   below for why).
+2. Build a list of ~50-150 candidate brand names per round, grouped by
+   sub-domain (e.g. "gas stations," "meal-kit startups," "golf equipment"),
+   and grep each bare name against the dump. Zero hits = genuinely open;
+   any hit needs a manual read of the matched line(s), not an automatic
+   verdict either way.
+3. **Many "hits" are false positives from generic-word collision, not real
+   brand coverage** — a plain substring grep doesn't know the difference
+   between a brand name and an English word that happens to contain it.
+   Confirmed repeatedly: "Target" matched archerfish "targets," "Casio"
+   matched "occasion," "Beats" matched insect wingbeat trivia, "Fanta"
+   matched "fantasy" novels, "Lego" matched "allegory," "Uber" matched
+   "tuberculosis," "Sprint" matched wombat sprint-speed facts, "Hertz"
+   matched the frequency unit, "SoFi" matched Sofia Coppola and the
+   capital of Bulgaria, "Ipsy" matched "dipsy-doodle." Read every sample
+   line before excluding a candidate — reclaiming these false positives is
+   where a meaningful fraction of the eventually-drafted questions came
+   from, not a rounding error.
+4. **The reverse failure is more dangerous: a padded search token can
+   false-negative past a brand that actually is covered.** Searching for
+   "Radio Flyer wagon" or "IHOP name" or "Nerf gun brand" returns zero hits
+   even though the corpus has real "Radio Flyer" (original name Liberty
+   Coaster), "IHOP" (name-meaning fact), and "Nerf" (Parker Brothers
+   origin) questions — the padding word breaks the substring match. Always
+   grep the bare brand name alone; add descriptive words only in the
+   *label* you show yourself, never in the regex token. Re-verify with the
+   bare name before trusting any "clean" result you're about to build a
+   question on.
+5. Only after a name comes back genuinely clean do you research *which*
+   fact to ask about it (WebSearch, batched by sub-domain rather than one
+   call per brand) and draft. This order — name-clean first, fact-research
+   second — is cheaper than the reverse because most of a candidate list
+   turns out already covered, and you don't want to have spent research
+   effort on a fact you can't use.
+
+This is the same principle as the `--full-answer-audit` and short-answer
+full-corpus passes described below, just applied *before* drafting instead
+of after — it doesn't replace those post-draft checks (a name-clean brand
+can still collide on a specific fact once drafted, and did, several times,
+in the session that established this technique), but it means a much
+higher fraction of what you draft survives them.
+
+## Accessibility-constrained drafting hits the corpus's most-mined layer (continued: sixth session)
+
+**A sixth accessible-difficulty session (2026-09-03, same constraint, no
+category preference) went deliberately narrow instead of hunting for a
+fresh category** — every other category had already absorbed an
+accessibility pass earlier the same broad period (see the five sessions
+above), but `business-brands` and `food-drink` specifically had only ever
+been mined via *fact*-level greps and memory-driven angle selection, never
+via the brand-*name*-first technique above. Restricting to these two
+categories across six sequential waves (draft → `check-draft` default →
+`--full-answer-audit` → manual short-answer (<6 char) full-corpus grep →
+manual `index | answer | question` dump-and-read → merge → `validate` →
+re-grep the now-live corpus for the next wave) produced 297 net new
+questions against a 300 target (188 into `business-brands`, 109 into
+`food-drink`) with **zero new `validate` warnings introduced across all six
+waves** — every single one of the pre-existing 373 corpus-wide warnings
+predated this session's changes, confirmed by diffing the warning count
+before and after each merge.
+
+Two things worth carrying forward:
+
+- **Per-wave yield decayed roughly by half each round** (85, 58, 32, 22,
+  27, 16 net new questions across the six waves) as the cheapest, most
+  obvious candidate brands in each freshly-grepped sub-domain got used up.
+  This is the expected shape, not a sign the technique stopped working —
+  budget a session accordingly (diminishing but non-zero returns for
+  several rounds, not a hard wall) rather than stopping after the first
+  wave's yield looks small, or expecting later waves to match the first
+  wave's pace.
+- **The default `check-draft` pass reported 0 likely duplicates on every
+  single one of the six waves, including the two waves that turned out to
+  contain a real, confirmed duplicate** (an Intel name-origin question and
+  a Lego name-origin question, both already asked near-verbatim elsewhere
+  in `business-brands`; a Karo-syrup product-identity question already
+  asked near-verbatim in `food-drink`; an A&W root-beer founders question
+  already asked near-verbatim in `business-brands`). All four were caught
+  only by `--full-answer-audit`, which is dupeGroup-blind by design and
+  therefore still worth running even on `business-brands`, a category with
+  no `dupeGroup` at all — the duplicates it catches there are against
+  *other entries already in the same file*, not a cross-category leak.
+
 ## What not to do
 
 - Don't add a build step, framework, or bundler — this is intentionally
