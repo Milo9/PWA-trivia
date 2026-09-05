@@ -1671,6 +1671,115 @@ existing "Stale record-holder / superlative claims" treatment) or a
 same-search cross-check for a more recent headline about that exact
 company, not just trust in the search result's grammatical tense.
 
+## Accessible-difficulty drafting can drift into enthusiast-niche brands even while staying dedup-clean
+
+**An eighth accessible-difficulty session (2026-09-05, `business-brands`
+only, no category preference) drafted 189 questions across ~30
+industries in seven waves (lawn/garden, plumbing/HVAC/locks, utilities,
+appliances, furniture/mattress, golf/fitness, aerospace/trucks,
+outdoor/coolers, materials, eyewear, motorcycles, instruments,
+craft/greeting-cards, vitamins/pharma, farm equipment, luggage,
+sewing/denim, power tools, fishing/camping/climbing, cookware/knives,
+office furniture, ski/surf/skate, bikes, grills, pens, coffee, hockey,
+audio, tennis, footwear, kayaks) using the brand-name-first grep
+technique — and got the dedup part right (only 1 confirmed duplicate,
+an L.L.Bean fact, across all 189; the technique from "Grep brand names,
+not facts" below continues to work at this depth) while badly missing
+the *actual* constraint the user asked for.** A same-session
+`advisor()` review, called before shipping, caught that a large fraction
+of the batch — despite being 100% dedup-clean — violated the
+accessible-to-an-average-adult bar the user explicitly set, because
+founding-story research (this session's main technique, per "Memory-only
+drafting exhausts") had pulled in whole industries where the *brand
+itself* is enthusiast/trade-only knowledge: fishing tackle (Rapala,
+Daiwa, Abu Garcia, Zebco, Humminbird, Plano), climbing/camping gear
+(Petzl, La Sportiva, MSR, Black Diamond, Big Agnes, Therm-a-Rest, Osprey,
+Vibram), professional audio (Shure, Sennheiser), musician-only
+instrument brands (Henri Selmer, Vincent Bach, Buffet Crampon, Wüsthof/
+Zwilling J.A. Henckels as chef-only cutlery), B2B power tools (Hilti,
+Festool), and kayak manufacturers (Perception, Wilderness Systems) —
+none of these are names an "average intelligent" non-hobbyist would
+recognize, regardless of how fun or well-verified the founding-story
+fact attached to them is. **50 of the 189 (26%) were cut post-hoc**,
+landing the shipped batch at 139 — a materially different number than
+the clean-dedup pipeline alone would have suggested, and the gap was
+invisible to every automated check (`check-draft`, `validate`,
+`--full-answer-audit`) because none of them evaluate brand recognition.
+**The fix has to be a deliberate triage step, run at the "is this brand
+itself a household name" level, separate from (and after) the
+fact-accuracy/dedup pipeline** — not something foldable into the
+existing checks. When picking industries to mine for an
+accessible-difficulty batch specifically, prefer ones where the *whole
+category* skews consumer-facing (appliances, furniture, toys, footwear,
+snack brands) over ones that skew professional/enthusiast even when a
+few flagship names in that category are mainstream (e.g. Yeti and
+Traeger are mainstream even though "camping gear" and "grills" broadly
+lean hobbyist) — check each specific brand name against "would a
+non-hobbyist parent or office worker recognize this," not just whether
+the industry as a whole sounds relatable.
+
+**Two new bug patterns surfaced in the same review, neither caught by
+any existing tool:**
+
+- **Self-answering stems via the brand name itself, a distinct sub-class
+  of the answer-leak family from "Factual-error patterns worth
+  verifying."** `check-draft.js`'s leak check only flags the *complete*
+  answer string appearing verbatim in the question — it misses the
+  answer being a **substring or component of the brand name that's
+  already stated in the stem**, decomposable by spelling alone with zero
+  underlying knowledge. Confirmed instances: "Formica...comes from
+  combining 'mica' with which word?" → "For" (literally the first
+  syllable of "Formica," already in the question); "Electrolux was
+  formed by combining 'Elektromekaniska' with the name of which other
+  brand?" → "Lux" (the visible suffix of "Electrolux," itself named in
+  the stem); "Samsonite...took its name from which Biblical figure?" →
+  "Samson" (contained verbatim in the brand name stated in the stem);
+  "Sherwin-Williams was founded by Henry Sherwin and which business
+  partner?" → "Edward Williams" (the hyphenated brand name gives away
+  the surname, leaving only the first name genuinely unknown — but the
+  question asked for the full name). A cheap manual check: for any
+  question whose answer names a *person or word* and whose stem also
+  states the *brand name*, check whether any ≥3-letter fragment of the
+  answer appears inside the brand name itself — if so, either rephrase
+  so the stem never states the full brand name, or pivot to a different
+  fact about that brand entirely (both fixes were used this session).
+  This is the same family as the "Rodeo Ben"/"rodeo performers" and
+  "Hula Hoop"/"the Hawaiian hula" stem-word-leak pattern already
+  documented under "Answer-leak via a discriminating word in the stem"
+  — brand names are just an unusually rich source of it because they're
+  *made* of the answer components by construction (portmanteaus, founder
+  surnames, mythological references).
+- **Distractor-also-true via a shared personal achievement, a new
+  sub-flavor of the distractor-correctness family** (alongside the
+  existing shared-taxonomy, shared-era, and shared-conglomerate
+  variants): a question asking which endurance sport On Running
+  co-founder Olivier Bernhard competed in professionally offered
+  "Duathlon" as the answer and "Triathlon" as a distractor, but the
+  same research turned up that he was *also* a six-time Ironman
+  (triathlon) champion — both options were factually true achievements
+  of the same person. Caught only by rereading the original research
+  snippet after drafting, not by any tool. When a distractor option
+  names an achievement/category and the correct answer is a *different*
+  achievement/category for the *same person or entity*, explicitly check
+  whether that person/entity also holds the distractor's achievement
+  before shipping.
+
+**Also reconfirmed from a fresh angle: verify merger/founding specifics
+against a second source before trusting one search summary's numbers.**
+A drafted International Harvester question asserted an 1901 founding via
+a merger of McCormick and "three other firms" — a second, more detailed
+search (prompted by the advisor flagging the first summary as
+underspecified) found the actual date was August 1902 and the merger
+included *four* other firms (Deering — McCormick's biggest rival,
+omitted from the first summary entirely — plus Plano, Milwaukee, and
+Warder Bushnell & Glessner). The first search's answer wasn't fabricated,
+just incomplete in a way that changed both the year and the count. Same
+principle as the existing Canon/MSN Direct caution above, reconfirmed
+for merger dates specifically: a single search-summary paragraph
+covering "founding history" of an old, multiply-merged company is a weak
+source for the *exact* year and *exact* count — worth a second, narrower
+query before using either as a multiple-choice answer.
+
 ## What not to do
 
 - Don't add a build step, framework, or bundler — this is intentionally
