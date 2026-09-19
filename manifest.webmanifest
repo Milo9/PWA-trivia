@@ -1,14 +1,16 @@
 {
+  "id": "./",
   "name": "Offline Trivia",
   "short_name": "Trivia",
-  "description": "Offline multiple-choice trivia for TV shows.",
+  "description": "Offline-first multiple-choice trivia across 17 categories, from history and science to Friends and The Big Bang Theory.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#12131a",
-  "theme_color": "#12131a",
+  "background_color": "#0a0714",
+  "theme_color": "#0a0714",
   "icons": [
-    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
-    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
   ]
 }

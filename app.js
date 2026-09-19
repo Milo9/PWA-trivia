@@ -1,3 +1,18 @@
+// Pure rules (round building, resume reconciliation, stats) live in
+// game-logic.js, loaded before this file; see test/game-logic.test.js.
+const {
+  SURVIVAL_LIVES,
+  SURVIVAL_POOL_CAP,
+  shuffle,
+  filterByDifficulty,
+  buildRound,
+  reconcileResume,
+  starRating,
+  defaultStats,
+  todayBucket,
+  applyGameResult,
+} = GameLogic;
+
 const COUNT_OPTIONS = [10, 20, 30, 40];
 const DIFFICULTY_OPTIONS = [
   { id: "any", label: "Any" },
@@ -9,13 +24,6 @@ const MODE_OPTIONS = [
   { id: "standard", label: "Standard" },
   { id: "survival", label: "Survival" },
 ];
-const SURVIVAL_LIVES = 3;
-// Capped well below "the whole selected pool" — saveActiveRound serializes
-// roundQuestions on every answer, and an uncapped select-all survival round
-// (thousands of questions) would blow past localStorage's ~5MB quota on iOS
-// Safari and silently break resume. Nobody survives this many anyway; if
-// someone does, isRoundOver() treats pool exhaustion as a clean finish.
-const SURVIVAL_POOL_CAP = 150;
 const OPTION_LETTERS = ["A", "B", "C", "D", "E", "F"];
 const CATEGORY_ICONS = {
   friends: "☕",
@@ -75,6 +83,8 @@ const state = {
   currentCategories: [],
   pendingCategories: [],
   settings: { count: 10, difficulty: "any", mode: "standard" },
+  roundSettings: null, // settings snapshot of the active/last-shown round (Play Again replays these, not the picker's current choices)
+  loadedFiles: {}, // { [categoryId]: Promise<Question[]> } — question files are fetched lazily, see ensureLoaded()
   roundQuestions: [],
   currentIndex: 0,
   score: 0,
@@ -142,6 +152,10 @@ const el = {
   chooseCategoryBtn: document.getElementById("choose-category-btn"),
 
   confettiCanvas: document.getElementById("confetti-canvas"),
+  answerAnnouncer: document.getElementById("answer-announcer"),
+  updateToast: document.getElementById("update-toast"),
+  updateReloadBtn: document.getElementById("update-reload-btn"),
+  updateDismissBtn: document.getElementById("update-dismiss-btn"),
 
   confirmSheetOverlay: document.getElementById("confirm-sheet-overlay"),
   confirmSheet: document.getElementById("confirm-sheet"),
@@ -151,10 +165,43 @@ const el = {
   confirmSheetConfirm: document.getElementById("confirm-sheet-confirm"),
 };
 
-function showScreen(name) {
+let currentScreen = "categories";
+
+// History model: the browser history holds at most two entries for this
+// app — the categories screen (root, depth 0) and whichever other screen is
+// showing (depth 1). Moving between non-root screens replaces the depth-1
+// entry, so Back always means "go home" (with a quit confirm mid-round)
+// instead of exiting the PWA or walking back through every question. Set
+// while we're deliberately calling history.back() ourselves, so the popstate
+// that follows doesn't get treated as a user Back press.
+let ignoreNextPop = false;
+
+function historyDepth() {
+  return history.state && typeof history.state.depth === "number" ? history.state.depth : 0;
+}
+
+function syncHistory(name) {
+  try {
+    if (name === "categories") {
+      if (historyDepth() > 0) {
+        ignoreNextPop = true;
+        history.back();
+      }
+    } else if (historyDepth() > 0) {
+      history.replaceState({ depth: 1, screen: name }, "");
+    } else {
+      history.pushState({ depth: 1, screen: name }, "");
+    }
+  } catch (e) {
+    // history API unavailable (e.g. sandboxed) — Back just won't be intercepted
+  }
+}
+
+function showScreen(name, { fromHistory = false } = {}) {
   for (const s of [el.screenCategories, el.screenSettings, el.screenQuiz, el.screenResults]) {
     s.classList.add("hidden");
   }
+  currentScreen = name;
   if (name === "categories") {
     el.screenCategories.classList.remove("hidden");
     if (state.categories.length) renderCategoryList();
@@ -165,16 +212,35 @@ function showScreen(name) {
   if (name === "settings") el.screenSettings.classList.remove("hidden");
   if (name === "quiz") el.screenQuiz.classList.remove("hidden");
   if (name === "results") el.screenResults.classList.remove("hidden");
+  if (!fromHistory) syncHistory(name);
+  window.scrollTo(0, 0);
 }
 
-function shuffle(array) {
-  const copy = array.slice();
-  for (let i = copy.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [copy[i], copy[j]] = [copy[j], copy[i]];
+window.addEventListener("popstate", async () => {
+  if (ignoreNextPop) {
+    ignoreNextPop = false;
+    return;
   }
-  return copy;
-}
+  if (historyDepth() > 0) {
+    // Forward navigation onto our depth-1 entry — nothing to restore, so
+    // collapse it back to the root rather than showing a stale screen.
+    ignoreNextPop = true;
+    history.back();
+    return;
+  }
+  if (currentScreen === "categories") return;
+  if (currentScreen === "quiz" && !isRoundOver()) {
+    // Re-push first so the app stays on the quiz entry while the sheet is
+    // open; a second Back then re-asks rather than exiting.
+    history.pushState({ depth: 1, screen: "quiz" }, "");
+    const confirmed = await confirmQuit();
+    if (!confirmed) return;
+    abandonRound();
+    showScreen("categories");
+    return;
+  }
+  showScreen("categories", { fromHistory: true });
+});
 
 const PREFS_KEY = "offline-trivia:prefs";
 
@@ -322,6 +388,15 @@ function quickPlayLabel(categories, settings) {
   return `▶ Quick Play: ${names} (${modeLabel} · ${diffOpt ? diffOpt.label : "Any"})`;
 }
 
+// How many questions a category has at a difficulty, without needing its
+// question file loaded: uses the counts stamp-version.js writes into
+// categories.json, falling back to the loaded questions when present.
+function categoryCountAt(cat, difficulty) {
+  if (cat.questions) return filterByDifficulty(cat.questions, difficulty).length;
+  if (difficulty === "any") return cat.questionCount || 0;
+  return (cat.difficultyCounts && cat.difficultyCounts[difficulty]) || 0;
+}
+
 // Renders (or hides) the Quick Play button based on whether the last-started
 // round's categories still exist and still have questions at that
 // difficulty. Requires state.categoryById to be populated.
@@ -336,16 +411,18 @@ function renderQuickPlay() {
     el.quickPlayBtn.classList.add("hidden");
     return;
   }
-  const pool = filterByDifficulty(categories.flatMap((c) => c.questions), cfg.settings.difficulty);
-  if (pool.length === 0) {
+  const available = categories.reduce((n, c) => n + categoryCountAt(c, cfg.settings.difficulty), 0);
+  if (available === 0) {
     el.quickPlayBtn.classList.add("hidden");
     return;
   }
   el.quickPlayBtn.textContent = quickPlayLabel(categories, cfg.settings);
   el.quickPlayBtn.classList.remove("hidden");
   el.quickPlayBtn.onclick = () => {
-    state.settings = { ...state.settings, ...cfg.settings };
-    startRound(categories);
+    withLoaded(el.quickPlayBtn, categories, () => {
+      state.settings = { ...state.settings, ...cfg.settings };
+      startRound(categories, state.settings);
+    });
   };
 }
 
@@ -403,9 +480,16 @@ function vibrate(pattern) {
 
 // In-theme replacement for window.confirm(). Resolves true/false; only one
 // sheet is ever open at a time since the app has no overlapping flows that
-// would need it.
+// would need it. Behaves like a real modal: focus moves into the sheet and
+// back out afterwards, Escape cancels, Tab cycles within the two buttons,
+// and everything behind it is made inert so it can't be tabbed or clicked.
+let confirmSheetOpen = false;
+
 function showConfirmSheet({ title, message, confirmText = "Confirm", cancelText = "Cancel", danger = false }) {
+  if (confirmSheetOpen) return Promise.resolve(false);
+  confirmSheetOpen = true;
   return new Promise((resolve) => {
+    const previouslyFocused = document.activeElement;
     el.confirmSheetTitle.textContent = title;
     el.confirmSheetMessage.textContent = message;
     el.confirmSheetConfirm.textContent = confirmText;
@@ -413,12 +497,23 @@ function showConfirmSheet({ title, message, confirmText = "Confirm", cancelText 
     el.confirmSheetConfirm.classList.toggle("primary-btn", !danger);
     el.confirmSheetConfirm.classList.toggle("danger-btn", danger);
     el.confirmSheetOverlay.classList.remove("hidden");
+    document.getElementById("app").inert = true;
+    // Cancel is the safe default focus — every use of this sheet is either
+    // destructive (quit, reset) or a resume prompt where "Discard" is the
+    // action that needs the most deliberate choice anyway.
+    el.confirmSheetCancel.focus();
 
     function cleanup(result) {
       el.confirmSheetOverlay.classList.add("hidden");
+      document.getElementById("app").inert = false;
       el.confirmSheetConfirm.removeEventListener("click", onConfirm);
       el.confirmSheetCancel.removeEventListener("click", onCancel);
       el.confirmSheetOverlay.removeEventListener("click", onOverlayClick);
+      document.removeEventListener("keydown", onKeyDown, true);
+      confirmSheetOpen = false;
+      if (previouslyFocused && typeof previouslyFocused.focus === "function" && document.contains(previouslyFocused)) {
+        previouslyFocused.focus();
+      }
       resolve(result);
     }
     function onConfirm() {
@@ -430,11 +525,73 @@ function showConfirmSheet({ title, message, confirmText = "Confirm", cancelText 
     function onOverlayClick(e) {
       if (e.target === el.confirmSheetOverlay) cleanup(false);
     }
+    function onKeyDown(e) {
+      if (e.key === "Escape") {
+        e.preventDefault();
+        cleanup(false);
+      } else if (e.key === "Tab") {
+        // Only two focusable controls — just bounce between them.
+        e.preventDefault();
+        const next = document.activeElement === el.confirmSheetCancel ? el.confirmSheetConfirm : el.confirmSheetCancel;
+        next.focus();
+      }
+    }
 
     el.confirmSheetConfirm.addEventListener("click", onConfirm);
     el.confirmSheetCancel.addEventListener("click", onCancel);
     el.confirmSheetOverlay.addEventListener("click", onOverlayClick);
+    document.addEventListener("keydown", onKeyDown, true);
   });
+}
+
+// Question files (~7.6MB across all categories) are fetched only when a
+// round actually needs them, not at startup — the category picker renders
+// straight from categories.json's stamped counts. Each file is fetched at
+// most once per session; a failed fetch is forgotten so a retry can work
+// (e.g. first ever launch on flaky wifi).
+function ensureLoaded(categories) {
+  return Promise.all(
+    categories.map((cat) => {
+      if (cat.questions) return cat.questions;
+      if (!state.loadedFiles[cat.id]) {
+        state.loadedFiles[cat.id] = fetch(`data/${cat.file}`)
+          .then((res) => {
+            if (!res.ok) throw new Error(`HTTP ${res.status}`);
+            return res.json();
+          })
+          .then((questions) => {
+            cat.questions = questions;
+            return questions;
+          })
+          .catch((e) => {
+            delete state.loadedFiles[cat.id];
+            throw e;
+          });
+      }
+      return state.loadedFiles[cat.id];
+    })
+  );
+}
+
+// Runs `action` once the given categories' questions are loaded, with the
+// triggering button disabled and relabelled "Loading…" meanwhile (a no-op
+// flash when everything is already in memory).
+async function withLoaded(button, categories, action) {
+  const label = button.textContent;
+  const wasDisabled = button.disabled;
+  button.disabled = true;
+  button.textContent = "Loading…";
+  try {
+    await ensureLoaded(categories);
+  } catch (e) {
+    button.disabled = wasDisabled;
+    button.textContent = label;
+    el.categoriesStatus.textContent = "Couldn't load those questions. Check your connection and try again.";
+    return;
+  }
+  button.disabled = wasDisabled;
+  button.textContent = label;
+  action();
 }
 
 async function loadCategories() {
@@ -442,21 +599,18 @@ async function loadCategories() {
     const res = await fetch("data/categories.json");
     const categories = await res.json();
 
-    const withCounts = await Promise.all(
-      categories.map(async (cat) => {
-        try {
-          const qRes = await fetch(`data/${cat.file}`);
-          const questions = await qRes.json();
-          return { ...cat, questions };
-        } catch (e) {
-          return { ...cat, questions: [] };
-        }
-      })
-    );
-
-    state.categories = withCounts;
+    state.categories = categories.map((cat) => ({ ...cat }));
     state.categoryById = {};
-    for (const cat of withCounts) state.categoryById[cat.id] = cat;
+    for (const cat of state.categories) state.categoryById[cat.id] = cat;
+
+    // A categories.json without stamped counts (never shipped since the
+    // counts were introduced, or hand-edited) falls back to loading the
+    // files up front so the picker still shows real numbers.
+    const unstamped = state.categories.filter((c) => typeof c.questionCount !== "number");
+    if (unstamped.length) {
+      await Promise.all(unstamped.map((c) => ensureLoaded([c]).catch(() => { c.questions = []; })));
+      for (const c of unstamped) c.questionCount = c.questions.length;
+    }
 
     const savedPicker = loadPickerState();
     if (savedPicker) {
@@ -488,17 +642,20 @@ function renderCategoryList() {
     const btn = document.createElement("button");
     const isSelected = state.selectedCategoryIds.has(cat.id);
     btn.className = "category-card" + (isSelected ? " selected" : "");
-    btn.disabled = cat.questions.length === 0;
+    const count = categoryCountAt(cat, "any");
+    btn.disabled = count === 0;
     const statLine = categoryStatsLine(cat.id);
-    const metaLine = `${cat.questions.length} question${cat.questions.length === 1 ? "" : "s"}${statLine ? " · " + statLine : ""}`;
+    const metaLine = `${count} question${count === 1 ? "" : "s"}${statLine ? " · " + statLine : ""}`;
     btn.innerHTML = `
       <span class="category-check" aria-hidden="true"></span>
       <span class="category-icon" aria-hidden="true">${categoryIcon(cat.id)}</span>
       <span class="category-info">
-        <span class="category-name">${cat.name}</span>
-        <span class="category-meta">${metaLine}</span>
+        <span class="category-name"></span>
+        <span class="category-meta"></span>
       </span>
     `;
+    btn.querySelector(".category-name").textContent = cat.name;
+    btn.querySelector(".category-meta").textContent = metaLine;
     btn.addEventListener("click", () => toggleCategorySelection(cat.id));
     el.categoryList.appendChild(btn);
   }
@@ -512,14 +669,24 @@ function renderCategoryCounts() {
     return;
   }
   el.categoryCounts.classList.remove("hidden");
-  const rows = state.categories
-    .map((cat) => {
-      const statLine = categoryStatsLine(cat.id);
-      const value = `${cat.questions.length} questions${statLine ? " · " + statLine : ""}`;
-      return `<div class="category-breakdown-row"><span>${cat.name}</span><span class="stats-value">${value}</span></div>`;
-    })
-    .join("");
-  el.categoryCounts.innerHTML = `<p class="settings-label">Question Bank</p>${rows}`;
+  el.categoryCounts.innerHTML = `<p class="settings-label">Question Bank</p>`;
+  for (const cat of state.categories) {
+    const statLine = categoryStatsLine(cat.id);
+    const value = `${categoryCountAt(cat, "any")} questions${statLine ? " · " + statLine : ""}`;
+    el.categoryCounts.appendChild(breakdownRow(cat.name, value));
+  }
+}
+
+function breakdownRow(label, value) {
+  const row = document.createElement("div");
+  row.className = "category-breakdown-row";
+  const name = document.createElement("span");
+  name.textContent = label;
+  const val = document.createElement("span");
+  val.className = "stats-value";
+  val.textContent = value;
+  row.append(name, val);
+  return row;
 }
 
 function toggleCategorySelection(catId) {
@@ -533,7 +700,7 @@ function toggleCategorySelection(catId) {
 }
 
 function playableCategories() {
-  return state.categories.filter((c) => c.questions.length > 0);
+  return state.categories.filter((c) => categoryCountAt(c, "any") > 0);
 }
 
 function renderSelectionBar() {
@@ -564,12 +731,8 @@ function renderSelectionBar() {
 el.playSelectedBtn.addEventListener("click", () => {
   const categories = state.categories.filter((c) => state.selectedCategoryIds.has(c.id));
   if (!categories.length) return;
-  openSettings(categories);
+  withLoaded(el.playSelectedBtn, categories, () => openSettings(categories));
 });
-
-function filterByDifficulty(questions, difficulty) {
-  return difficulty === "any" ? questions : questions.filter((q) => q.difficulty === difficulty);
-}
 
 function openSettings(categories) {
   state.pendingCategories = categories;
@@ -650,7 +813,7 @@ function renderSettingsScreen() {
 }
 
 el.settingsBackBtn.addEventListener("click", () => showScreen("categories"));
-el.startRoundBtn.addEventListener("click", () => startRound(state.pendingCategories));
+el.startRoundBtn.addEventListener("click", () => startRound(state.pendingCategories, state.settings));
 
 function seenStorageKey(categoryId) {
   return `offline-trivia:seen:${categoryId}`;
@@ -701,6 +864,7 @@ function saveActiveRound() {
         lifelineUsed: state.lifelineUsed,
         mode: state.mode,
         lives: state.lives,
+        settings: state.roundSettings,
       })
     );
   } catch (e) {
@@ -735,12 +899,7 @@ async function tryResumeActiveRound() {
   const categories = saved.currentCategoryIds.map((id) => state.categoryById[id]);
   if (categories.some((c) => !c)) return; // categories didn't load — try again next launch
 
-  const answeredCount = Math.min(saved.answers.length, saved.roundQuestions.length);
-  const savedMode = saved.mode || "standard";
-  const savedLives = typeof saved.lives === "number" ? saved.lives : 0;
-  const finished = savedMode === "survival"
-    ? savedLives <= 0 || answeredCount >= saved.roundQuestions.length
-    : answeredCount >= saved.roundQuestions.length;
+  const { answeredCount, mode: savedMode, lives: savedLives, finished, currentIndex } = reconcileResume(saved);
   const confirmed = await showConfirmSheet({
     title: finished ? "See your last round?" : "Resume your round?",
     message: finished
@@ -763,15 +922,14 @@ async function tryResumeActiveRound() {
   state.lifelineUsed = !!saved.lifelineUsed;
   state.mode = savedMode;
   state.lives = savedLives;
+  // Rounds saved before roundSettings existed only recorded the mode; fall
+  // back to the picker's other settings for those.
+  state.roundSettings = saved.settings || { ...state.settings, mode: savedMode };
   state.seenByCat = {};
   for (const catId of Object.keys(saved.seenByCat || {})) {
     state.seenByCat[catId] = new Set(saved.seenByCat[catId]);
   }
-  // Reconcile rather than trust saved.currentIndex directly: it's only
-  // checkpointed after "Next," so a save that landed right after an answer
-  // (before "Next" was tapped) would otherwise re-render an already-answered
-  // question and double-count it once the user answers again.
-  state.currentIndex = Math.max(saved.currentIndex, answeredCount);
+  state.currentIndex = currentIndex;
 
   if (finished) {
     el.progressFill.style.width = "100%";
@@ -783,25 +941,6 @@ async function tryResumeActiveRound() {
 }
 
 const STATS_KEY = "offline-trivia:stats";
-
-function currentDateKey() {
-  const d = new Date();
-  return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
-}
-
-function defaultStats() {
-  return {
-    gamesPlayed: 0,
-    totalQuestions: 0,
-    totalCorrect: 0,
-    bestPct: 0,
-    bestStreak: 0,
-    bestSurvivalScore: 0,
-    lastGame: null, // { score, total, pct, mode }
-    today: { date: currentDateKey(), gamesPlayed: 0, totalQuestions: 0, totalCorrect: 0 },
-    byCategory: {}, // { [categoryId]: { totalQuestions, totalCorrect } }
-  };
-}
 
 function loadStats() {
   try {
@@ -820,50 +959,10 @@ function saveStats(stats) {
   }
 }
 
-// Returns stats.today if it's still today's bucket, otherwise a fresh
-// zeroed-out bucket for the current date (doesn't mutate/save).
-function todayBucket(stats) {
-  if (stats.today && stats.today.date === currentDateKey()) return stats.today;
-  return { date: currentDateKey(), gamesPlayed: 0, totalQuestions: 0, totalCorrect: 0 };
-}
-
-// Records this game's result and returns the updated overall stats. `answers`
-// (state.answers) carries the category each question actually belonged to,
-// so a mixed round attributes each question to its own category rather than
-// the round as a whole. `bestPct` (and the star rating/confetti it drives)
-// only makes sense for a fixed-length standard round — a survival run is
-// structurally almost-all-correct (at most a few misses before lives run
-// out), so it gets its own bestSurvivalScore instead of skewing bestPct.
+// Records this game's result (see GameLogic.applyGameResult for the rules)
+// and returns the updated overall stats.
 function recordGameResult(score, total, answers, bestStreak, mode) {
-  const stats = loadStats();
-  stats.gamesPlayed += 1;
-  stats.totalQuestions += total;
-  stats.totalCorrect += score;
-  const pct = total > 0 ? (score / total) * 100 : 0;
-  if (mode === "survival") {
-    if (score > stats.bestSurvivalScore) stats.bestSurvivalScore = score;
-  } else if (pct > stats.bestPct) {
-    stats.bestPct = pct;
-  }
-  if (bestStreak > stats.bestStreak) stats.bestStreak = bestStreak;
-
-  const today = todayBucket(stats);
-  today.gamesPlayed += 1;
-  today.totalQuestions += total;
-  today.totalCorrect += score;
-  stats.today = today;
-
-  stats.lastGame = { score, total, pct, mode };
-
-  for (const a of answers || []) {
-    if (!a.category) continue;
-    if (!stats.byCategory[a.category]) {
-      stats.byCategory[a.category] = { totalQuestions: 0, totalCorrect: 0 };
-    }
-    stats.byCategory[a.category].totalQuestions += 1;
-    if (a.wasCorrect) stats.byCategory[a.category].totalCorrect += 1;
-  }
-
+  const stats = applyGameResult(loadStats(), { score, total, answers, bestStreak, mode });
   saveStats(stats);
   return stats;
 }
@@ -927,39 +1026,31 @@ function isRoundOver() {
   return state.currentIndex >= state.roundQuestions.length;
 }
 
-function startRound(categories) {
+// `settings` is passed explicitly (rather than read from state.settings) so
+// Play Again and Quick Play replay the round that was actually played, not
+// whatever the picker currently says.
+function startRound(categories, settings) {
   state.currentCategories = categories;
-  state.mode = state.settings.mode;
-  saveLastRoundConfig(categories, state.settings);
+  state.roundSettings = { ...settings };
+  state.mode = settings.mode;
+  saveLastRoundConfig(categories, state.roundSettings);
 
-  const filtered = filterByDifficulty(categories.flatMap((c) => c.questions), state.settings.difficulty);
-  const requestedCount = state.mode === "survival"
-    ? Math.min(SURVIVAL_POOL_CAP, filtered.length)
-    : Math.min(state.settings.count, filtered.length);
-
-  // Avoid repeating questions already asked for a category until its whole
-  // pool (at the current difficulty) has been cycled through once. Each
-  // question keeps its own real category (q.category), so a mixed round
-  // still tracks "seen" per underlying category, not per round.
-  const seenByCat = {};
-  for (const cat of categories) seenByCat[cat.id] = loadSeenIds(cat.id);
-
-  let unseen = filtered.filter((q) => !seenByCat[q.category].has(q.id));
-  if (unseen.length < requestedCount) {
-    for (const cat of categories) seenByCat[cat.id] = new Set();
-    unseen = filtered;
-  }
-
-  const pool = shuffle(unseen);
-  state.roundQuestions = pool.slice(0, requestedCount).map((q) => ({
-    ...q,
-    shuffledOptions: shuffle(q.options),
-  }));
+  // Balanced draw across categories with per-category, per-difficulty
+  // repeat avoidance — see GameLogic.buildRound. Each question keeps its own
+  // real category (q.category), so a mixed round still tracks "seen" per
+  // underlying category, not per round.
+  const seenIn = {};
+  for (const cat of categories) seenIn[cat.id] = loadSeenIds(cat.id);
+  const round = buildRound(categories, state.roundSettings, seenIn);
+  state.roundQuestions = round.questions;
 
   // Only mark a question "seen" once it's actually answered (in
   // selectAnswer) — marking the whole round up front meant quitting before
-  // reaching a question still permanently burned it out of the pool.
-  state.seenByCat = seenByCat;
+  // reaching a question still permanently burned it out of the pool. A
+  // category whose pool ran dry had its history cleared, though, and that
+  // needs persisting now so the next round sees the same starting point.
+  state.seenByCat = round.seenByCat;
+  for (const catId of round.resetCategoryIds) saveSeenIds(catId, state.seenByCat[catId]);
 
   state.currentIndex = 0;
   state.score = 0;
@@ -1024,12 +1115,36 @@ function renderQuizStatus() {
   }
 }
 
+// Long stems and long option sets get a smaller type size so a worst-case
+// question still fits a short phone screen without pushing the options
+// (and Next) below the fold. Thresholds are in characters of stem text and
+// of the longest option, tuned against the corpus's longest entries.
+function textSizeClass(q) {
+  const longestOption = Math.max(...q.options.map((o) => o.length));
+  if (q.question.length > 220 || longestOption > 60) return "text-xs";
+  if (q.question.length > 150 || longestOption > 40) return "text-sm";
+  return "";
+}
+
+// Screen-reader announcement (visually hidden aria-live region). Cleared
+// then set on a tick so identical consecutive messages still get read.
+function announce(message) {
+  el.answerAnnouncer.textContent = "";
+  setTimeout(() => {
+    el.answerAnnouncer.textContent = message;
+  }, 50);
+}
+
 function renderQuestion() {
   clearAutoAdvanceTimer();
+  window.scrollTo(0, 0);
   const q = state.roundQuestions[state.currentIndex];
   const cat = state.categoryById[q.category];
   el.questionCategory.textContent = `${categoryIcon(q.category)} ${cat ? cat.name : q.category}`;
   el.questionText.textContent = q.question;
+  el.quizBody.classList.remove("text-sm", "text-xs");
+  const sizeClass = textSizeClass(q);
+  if (sizeClass) el.quizBody.classList.add(sizeClass);
   el.screenQuiz.style.setProperty("--current-accent", categoryAccentVar(q.category));
   renderQuizStatus();
   el.nextBtn.classList.add("layout-hidden");
@@ -1144,6 +1259,12 @@ function selectAnswer(selected) {
   el.nextBtn.classList.remove("layout-hidden");
   el.nextBtn.textContent = roundWillBeOver ? "See Results" : "Next";
 
+  announce(
+    wasCorrect
+      ? `Correct. Score ${state.score}.`
+      : `Wrong. The answer was ${q.answer}.${state.mode === "survival" ? ` ${state.lives} ${state.lives === 1 ? "life" : "lives"} left.` : ""}`
+  );
+
   // Auto-advance only past correct answers, so a miss still waits for a
   // manual tap — the point is to read the correct answer, not rush past it.
   if (wasCorrect && prefs.autoAdvance) {
@@ -1178,22 +1299,59 @@ function advanceToNext() {
 
 el.nextBtn.addEventListener("click", advanceToNext);
 
-el.quitBtn.addEventListener("click", async () => {
-  // Cleared up front, not after the confirm sheet resolves: a pending
-  // auto-advance timer (set after answering correctly) can otherwise fire
-  // while the sheet is open and silently call showResults() underneath it.
-  clearAutoAdvanceTimer();
-  const inProgress = !isRoundOver();
-  if (inProgress) {
-    const confirmed = await showConfirmSheet({
-      title: "Quit this round?",
-      message: "Your progress will be lost.",
-      confirmText: "Quit",
-      cancelText: "Keep Playing",
-      danger: true,
-    });
-    if (!confirmed) return;
+// Desktop/keyboard play: 1-4 or A-D picks an option, Enter/Space advances
+// once Next is showing, L uses the lifeline. Ignored while the confirm sheet
+// is open or when focus is in a text field (there are none today, but it's
+// cheap insurance).
+document.addEventListener("keydown", (e) => {
+  if (currentScreen !== "quiz" || confirmSheetOpen) return;
+  if (e.altKey || e.ctrlKey || e.metaKey) return;
+  const tag = document.activeElement && document.activeElement.tagName;
+  if (tag === "INPUT" || tag === "TEXTAREA") return;
+
+  const key = e.key.length === 1 ? e.key.toUpperCase() : e.key;
+  let optionIndex = -1;
+  if (key >= "1" && key <= "9") optionIndex = Number(key) - 1;
+  else if (OPTION_LETTERS.includes(key)) optionIndex = OPTION_LETTERS.indexOf(key);
+
+  if (optionIndex >= 0) {
+    const btn = el.optionsList.children[optionIndex];
+    if (btn && !btn.disabled) {
+      e.preventDefault();
+      btn.click();
+    }
+    return;
   }
+  if ((key === "Enter" || key === " ") && !el.nextBtn.classList.contains("layout-hidden")) {
+    // Let a focused button handle its own Enter/Space so it isn't fired twice.
+    if (tag === "BUTTON") return;
+    e.preventDefault();
+    advanceToNext();
+    return;
+  }
+  if (key === "L" && !el.lifelineBtn.classList.contains("layout-hidden")) {
+    e.preventDefault();
+    el.lifelineBtn.click();
+  }
+});
+
+// Asks whether to abandon the in-progress round. The auto-advance timer is
+// cleared up front, not after the sheet resolves: a pending timer (set after
+// answering correctly) could otherwise fire while the sheet is open and
+// silently call showResults() underneath it.
+function confirmQuit() {
+  clearAutoAdvanceTimer();
+  return showConfirmSheet({
+    title: "Quit this round?",
+    message: "Your progress will be lost.",
+    confirmText: "Quit",
+    cancelText: "Keep Playing",
+    danger: true,
+  });
+}
+
+function abandonRound() {
+  clearAutoAdvanceTimer();
   clearActiveRound();
   state.roundQuestions = [];
   state.currentIndex = 0;
@@ -1203,6 +1361,14 @@ el.quitBtn.addEventListener("click", async () => {
   state.answers = [];
   state.lifelineUsed = false;
   state.lives = 0;
+}
+
+el.quitBtn.addEventListener("click", async () => {
+  if (!isRoundOver()) {
+    const confirmed = await confirmQuit();
+    if (!confirmed) return;
+  }
+  abandonRound();
   showScreen("categories");
 });
 
@@ -1221,22 +1387,12 @@ function renderResultsCategoryBreakdown(answers) {
     return;
   }
 
-  const rows = [...byCategory.entries()]
-    .map(([catId, e]) => {
-      const name = state.categoryById[catId] ? state.categoryById[catId].name : catId;
-      return `<div class="category-breakdown-row"><span>${name}</span><span class="stats-value">${e.correct}/${e.total}</span></div>`;
-    })
-    .join("");
-  el.resultsCategoryBreakdown.innerHTML = rows;
+  el.resultsCategoryBreakdown.innerHTML = "";
+  for (const [catId, e] of byCategory.entries()) {
+    const name = state.categoryById[catId] ? state.categoryById[catId].name : catId;
+    el.resultsCategoryBreakdown.appendChild(breakdownRow(name, `${e.correct}/${e.total}`));
+  }
   el.resultsCategoryBreakdown.classList.remove("hidden");
-}
-
-function starRating(score, total) {
-  const pct = total > 0 ? (score / total) * 100 : 0;
-  if (pct >= 90) return 3;
-  if (pct >= 70) return 2;
-  if (pct >= 50) return 1;
-  return 0;
 }
 
 function easeOutCubic(t) {
@@ -1407,7 +1563,10 @@ function showResults() {
       optionsList.appendChild(li);
     }
 
-    item.innerHTML = `<p class="review-question">${a.question}</p>`;
+    const questionEl = document.createElement("p");
+    questionEl.className = "review-question";
+    questionEl.textContent = a.question;
+    item.appendChild(questionEl);
     item.appendChild(optionsList);
     el.resultsReview.appendChild(item);
   }
@@ -1486,7 +1645,10 @@ function renderSurvivalResultsStats(score, updated, isNewBest, isNewStreakRecord
   `;
 }
 
-el.playAgainBtn.addEventListener("click", () => startRound(state.currentCategories));
+el.playAgainBtn.addEventListener("click", () => {
+  const settings = state.roundSettings || state.settings;
+  withLoaded(el.playAgainBtn, state.currentCategories, () => startRound(state.currentCategories, settings));
+});
 el.chooseCategoryBtn.addEventListener("click", () => showScreen("categories"));
 
 async function loadVersion() {
@@ -1499,14 +1661,60 @@ async function loadVersion() {
   }
 }
 
+try {
+  history.replaceState({ depth: 0, screen: "categories" }, "");
+} catch (e) {
+  // history API unavailable — Back just won't be intercepted
+}
+
 loadCategories();
 loadVersion();
 renderStatsSummary();
 
+// A new build installs in the background and then *waits* (sw.js no longer
+// calls skipWaiting on its own), so the running session keeps a consistent
+// set of files. This toast offers a reload to switch over; ignoring it is
+// fine — the new version activates by itself the next time the app is
+// opened fresh. Reloading mid-round is safe: the round is checkpointed to
+// localStorage and offered for resume on the next launch.
+function showUpdateToast(registration) {
+  const waiting = registration.waiting;
+  if (!waiting) return;
+  el.updateToast.classList.remove("hidden");
+  el.updateReloadBtn.onclick = () => {
+    el.updateReloadBtn.disabled = true;
+    el.updateReloadBtn.textContent = "Updating…";
+    waiting.postMessage({ type: "SKIP_WAITING" });
+  };
+  el.updateDismissBtn.onclick = () => el.updateToast.classList.add("hidden");
+}
+
 if ("serviceWorker" in navigator) {
+  let reloading = false;
+  navigator.serviceWorker.addEventListener("controllerchange", () => {
+    // Only reload when we asked for the switch (a fresh install's first
+    // claim also fires this, and reloading then would be pointless).
+    if (reloading || !el.updateReloadBtn.disabled) return;
+    reloading = true;
+    window.location.reload();
+  });
   window.addEventListener("load", () => {
-    navigator.serviceWorker.register("sw.js").catch(() => {
-      // offline-first app still works without SW registration succeeding on first load
-    });
+    navigator.serviceWorker
+      .register("sw.js")
+      .then((registration) => {
+        if (registration.waiting && navigator.serviceWorker.controller) showUpdateToast(registration);
+        registration.addEventListener("updatefound", () => {
+          const installing = registration.installing;
+          if (!installing) return;
+          installing.addEventListener("statechange", () => {
+            if (installing.state === "installed" && navigator.serviceWorker.controller) {
+              showUpdateToast(registration);
+            }
+          });
+        });
+      })
+      .catch(() => {
+        // offline-first app still works without SW registration succeeding on first load
+      });
   });
 }

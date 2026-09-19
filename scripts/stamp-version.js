@@ -9,6 +9,12 @@
 // re-downloading everything on every ship. Run this before deploying
 // (after validate.js passes).
 //
+// Also stamps per-category question counts (total and per difficulty) into
+// data/categories.json, so the app can render the category picker without
+// downloading and parsing a single question file — those are fetched lazily
+// when a round needs them. This runs *before* hashing, so the stamped
+// counts are part of what the cache version covers.
+//
 // Note: icons and "./" are part of the cached app shell but aren't in
 // HASHED_FILES, so they have no manifest entry — the service worker
 // always re-fetches those rather than guessing.
@@ -22,7 +28,28 @@ const crypto = require("crypto");
 const ROOT = path.join(__dirname, "..");
 const SW_FILE = path.join(ROOT, "sw.js");
 
-const HASHED_FILES = ["index.html", "styles.css", "app.js", "manifest.webmanifest", "version.json"];
+const CATEGORIES_FILE = path.join(ROOT, "data", "categories.json");
+const HASHED_FILES = ["index.html", "styles.css", "game-logic.js", "app.js", "manifest.webmanifest", "version.json"];
+
+// Rewrites categories.json with a questionCount and difficultyCounts per
+// category. Returns true if the file changed.
+function stampCategoryCounts() {
+  const raw = fs.readFileSync(CATEGORIES_FILE, "utf8");
+  const categories = JSON.parse(raw);
+  for (const cat of categories) {
+    const questions = JSON.parse(fs.readFileSync(path.join(ROOT, "data", cat.file), "utf8"));
+    const difficultyCounts = { easy: 0, medium: 0, hard: 0 };
+    for (const q of questions) {
+      if (q.difficulty in difficultyCounts) difficultyCounts[q.difficulty] += 1;
+    }
+    cat.questionCount = questions.length;
+    cat.difficultyCounts = difficultyCounts;
+  }
+  const updated = JSON.stringify(categories, null, 2) + "\n";
+  if (updated === raw) return false;
+  fs.writeFileSync(CATEGORIES_FILE, updated);
+  return true;
+}
 
 function collectDataFiles() {
   const dataDir = path.join(ROOT, "data");
@@ -38,6 +65,8 @@ function collectDataFiles() {
 }
 
 function main() {
+  if (stampCategoryCounts()) console.log("Stamped question counts into data/categories.json");
+
   const files = [...HASHED_FILES.map((f) => path.join(ROOT, f)), ...collectDataFiles()];
 
   const combined = crypto.createHash("sha256");

@@ -7,6 +7,7 @@
   <meta name="theme-color" content="#0a0714" />
   <link rel="manifest" href="manifest.webmanifest" />
   <link rel="apple-touch-icon" href="icons/icon-180.png" />
+  <meta name="mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="Trivia" />
@@ -122,6 +123,16 @@
 
   </main>
 
+  <div id="answer-announcer" class="visually-hidden" aria-live="assertive" aria-atomic="true"></div>
+
+  <div id="update-toast" class="update-toast hidden" role="status">
+    <span class="update-toast-text">A new version is ready.</span>
+    <div class="update-toast-actions">
+      <button id="update-dismiss-btn" class="text-btn" type="button">Later</button>
+      <button id="update-reload-btn" class="update-reload-btn" type="button">Update now</button>
+    </div>
+  </div>
+
   <div id="confirm-sheet-overlay" class="confirm-sheet-overlay hidden">
     <div id="confirm-sheet" class="confirm-sheet" role="alertdialog" aria-modal="true" aria-labelledby="confirm-sheet-title">
       <p id="confirm-sheet-title" class="confirm-sheet-title"></p>
@@ -133,6 +144,7 @@
     </div>
   </div>
 
+  <script src="game-logic.js"></script>
   <script src="app.js"></script>
 </body>
 </html>

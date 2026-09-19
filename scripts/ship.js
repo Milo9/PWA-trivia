@@ -1,7 +1,8 @@
 #!/usr/bin/env node
-// Bundles the mechanical parts of shipping a change: validate the data,
-// bump the visible build number, stamp the offline cache version, stage
-// everything, commit, push. Does NOT write the commit message for you —
+// Bundles the mechanical parts of shipping a change: run the unit tests,
+// validate the data, bump the visible build number, stamp the offline cache
+// version (and the per-category question counts), stage everything, commit,
+// push. Does NOT write the commit message for you —
 // that still requires actually understanding the diff, which isn't worth
 // scripting away.
 //
@@ -65,6 +66,13 @@ const pendingChanges = execFileSync("git", ["status", "--porcelain"], { cwd: ROO
 if (!pendingChanges) {
   console.log("Nothing to ship — working tree is already clean.");
   process.exit(0);
+}
+
+try {
+  run("node", ["--test"]);
+} catch (e) {
+  console.error("\nUnit tests failed — fix them before shipping.");
+  process.exit(1);
 }
 
 try {

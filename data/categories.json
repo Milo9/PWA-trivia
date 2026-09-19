@@ -2,100 +2,202 @@
   {
     "id": "friends",
     "name": "Friends",
-    "file": "questions/friends.json"
+    "file": "questions/friends.json",
+    "questionCount": 852,
+    "difficultyCounts": {
+      "easy": 159,
+      "medium": 479,
+      "hard": 214
+    }
   },
   {
     "id": "big-bang-theory",
     "name": "The Big Bang Theory",
-    "file": "questions/big-bang-theory.json"
+    "file": "questions/big-bang-theory.json",
+    "questionCount": 861,
+    "difficultyCounts": {
+      "easy": 125,
+      "medium": 473,
+      "hard": 263
+    }
   },
   {
     "id": "history",
     "name": "History",
     "file": "questions/history.json",
-    "dupeGroup": "general"
+    "dupeGroup": "general",
+    "questionCount": 1185,
+    "difficultyCounts": {
+      "easy": 265,
+      "medium": 609,
+      "hard": 311
+    }
   },
   {
     "id": "geography",
     "name": "Geography",
     "file": "questions/geography.json",
-    "dupeGroup": "general"
+    "dupeGroup": "general",
+    "questionCount": 1461,
+    "difficultyCounts": {
+      "easy": 291,
+      "medium": 884,
+      "hard": 286
+    }
   },
   {
     "id": "science-technology",
     "name": "Science & Technology",
     "file": "questions/science-technology.json",
-    "dupeGroup": "general"
+    "dupeGroup": "general",
+    "questionCount": 1602,
+    "difficultyCounts": {
+      "easy": 364,
+      "medium": 799,
+      "hard": 439
+    }
   },
   {
     "id": "animals-nature",
     "name": "Animals & Nature",
     "file": "questions/animals-nature.json",
-    "dupeGroup": "general"
+    "dupeGroup": "general",
+    "questionCount": 1371,
+    "difficultyCounts": {
+      "easy": 273,
+      "medium": 773,
+      "hard": 325
+    }
   },
   {
     "id": "space-astronomy",
     "name": "Space & Astronomy",
     "file": "questions/space-astronomy.json",
-    "dupeGroup": "general"
+    "dupeGroup": "general",
+    "questionCount": 1139,
+    "difficultyCounts": {
+      "easy": 258,
+      "medium": 618,
+      "hard": 263
+    }
   },
   {
     "id": "arts-literature",
     "name": "Arts & Literature",
     "file": "questions/arts-literature.json",
-    "dupeGroup": "general"
+    "dupeGroup": "general",
+    "questionCount": 1637,
+    "difficultyCounts": {
+      "easy": 321,
+      "medium": 893,
+      "hard": 423
+    }
   },
   {
     "id": "film-tv",
     "name": "Film & TV",
     "file": "questions/film-tv.json",
-    "dupeGroup": "general"
+    "dupeGroup": "general",
+    "questionCount": 1509,
+    "difficultyCounts": {
+      "easy": 550,
+      "medium": 691,
+      "hard": 268
+    }
   },
   {
     "id": "music",
     "name": "Music",
     "file": "questions/music.json",
-    "dupeGroup": "general"
+    "dupeGroup": "general",
+    "questionCount": 1100,
+    "difficultyCounts": {
+      "easy": 370,
+      "medium": 544,
+      "hard": 186
+    }
   },
   {
     "id": "sports",
     "name": "Sports",
     "file": "questions/sports.json",
-    "dupeGroup": "general"
+    "dupeGroup": "general",
+    "questionCount": 595,
+    "difficultyCounts": {
+      "easy": 207,
+      "medium": 331,
+      "hard": 57
+    }
   },
   {
     "id": "food-drink",
     "name": "Food & Drink",
     "file": "questions/food-drink.json",
-    "dupeGroup": "general"
+    "dupeGroup": "general",
+    "questionCount": 1500,
+    "difficultyCounts": {
+      "easy": 428,
+      "medium": 794,
+      "hard": 278
+    }
   },
   {
     "id": "mythology-religion",
     "name": "Mythology & Religion",
     "file": "questions/mythology-religion.json",
-    "dupeGroup": "general"
+    "dupeGroup": "general",
+    "questionCount": 772,
+    "difficultyCounts": {
+      "easy": 221,
+      "medium": 413,
+      "hard": 138
+    }
   },
   {
     "id": "world-cultures",
     "name": "World Cultures & Languages",
     "file": "questions/world-cultures.json",
-    "dupeGroup": "general"
+    "dupeGroup": "general",
+    "questionCount": 1563,
+    "difficultyCounts": {
+      "easy": 417,
+      "medium": 892,
+      "hard": 254
+    }
   },
   {
     "id": "general",
     "name": "General Knowledge",
     "file": "questions/general.json",
-    "dupeGroup": "general"
+    "dupeGroup": "general",
+    "questionCount": 1397,
+    "difficultyCounts": {
+      "easy": 498,
+      "medium": 649,
+      "hard": 250
+    }
   },
   {
     "id": "business-brands",
     "name": "Business & Brands",
-    "file": "questions/business-brands.json"
+    "file": "questions/business-brands.json",
+    "questionCount": 1978,
+    "difficultyCounts": {
+      "easy": 471,
+      "medium": 1238,
+      "hard": 269
+    }
   },
   {
     "id": "civics-law-economics",
     "name": "Civics, Law & Economics",
     "file": "questions/civics-law-economics.json",
-    "dupeGroup": "general"
+    "dupeGroup": "general",
+    "questionCount": 1265,
+    "difficultyCounts": {
+      "easy": 301,
+      "medium": 650,
+      "hard": 314
+    }
   }
 ]

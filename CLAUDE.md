@@ -1780,8 +1780,55 @@ covering "founding history" of an old, multiply-merged company is a weak
 source for the *exact* year and *exact* count — worth a second, narrower
 query before using either as a multiple-choice answer.
 
+## App code: where the rules live and what the tooling assumes
+
+- **Game rules are in `game-logic.js`, not `app.js`.** Round building
+  (balanced round-robin draw across categories, per-category and
+  per-difficulty repeat-avoidance resets), resume reconciliation, and stats
+  are pure functions there, unit-tested by `test/game-logic.test.js`
+  (`npm test`; `ship` runs it before `validate`). When changing a rule,
+  change it there and add/adjust a test — don't reimplement it inline in
+  `app.js`. Anything random takes an `rng` argument so tests stay
+  deterministic.
+- **`data/categories.json` carries `questionCount`/`difficultyCounts` per
+  category, stamped by `scripts/stamp-version.js` (so by `ship`).** The
+  home screen renders from those and never fetches a question file until a
+  round needs it (`ensureLoaded` in `app.js`), so startup doesn't parse
+  7.6MB of JSON. Don't hand-edit the counts; after merging a batch, `npm run
+  stamp` (or `ship`) refreshes them. Extra fields on a category entry are
+  ignored by every script in `scripts/`.
+- **`sw.js` is cache-first with no background revalidation, and a new
+  build waits instead of calling `skipWaiting()` on install.** Freshness
+  comes from `stamp-version.js` bumping `CACHE_VERSION`; the page shows an
+  "update ready" toast (`showUpdateToast` in `app.js`) that posts
+  `SKIP_WAITING`. The old stale-while-revalidate handler re-downloaded the
+  entire question corpus on every online launch (confirmed 2026-09-18: 44
+  requests / 7.6MB per warm reload) — don't reintroduce it. Any new file
+  the app loads must be added to both `APP_SHELL` in `sw.js` and
+  `HASHED_FILES` in `stamp-version.js`.
+- **Browser history holds at most two entries** (categories at depth 0,
+  the current other screen at depth 1 — see `syncHistory`/`popstate` in
+  `app.js`), so Back means "go home" (with the quit confirm mid-round)
+  rather than exiting the PWA. Route new screens through `showScreen()`;
+  don't push history entries elsewhere.
+- **Every question/category string is rendered with `textContent`**, and
+  `validate.js` rejects tag-shaped markup (`<` followed by a letter, `/` or
+  `!`) in question/option/answer text. Don't switch a render path back to
+  `innerHTML` with data-derived strings.
+- **Verifying app changes:** `npm run visual-check` is the happy-path
+  smoke test. For anything touching the service worker, history handling,
+  the confirm sheet, or small-screen layout, drive Playwright by hand (a
+  one-off script in the scratchpad against `scripts/serve.js`) and assert
+  the specific behavior — the 2026-09-18 audit's fixes were each verified
+  that way (network request counts on a warm reload, Back mid-round opening
+  the confirm, Escape/focus/inert on the sheet, the longest corpus question
+  on a 375×667 viewport, the update toast end-to-end by rewriting
+  `CACHE_VERSION` on disk and calling `registration.update()`).
+
 ## What not to do
 
 - Don't add a build step, framework, or bundler — this is intentionally
   plain HTML/CSS/JS with no build step.
 - Don't hand-edit `version.json` — `ship`/`stamp-version.js` owns it.
+- Don't hand-edit the `questionCount`/`difficultyCounts` fields in
+  `data/categories.json` — `stamp-version.js` owns those too.

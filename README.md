@@ -26,17 +26,22 @@ required.
 ## Project layout
 
 ```
-index.html, styles.css, app.js   — the app
+index.html, styles.css, app.js   — the app (DOM, storage, screens)
+game-logic.js                    — pure rules shared by app.js and the tests:
+                                    round building, resume, stats
+test/*.test.js                   — node:test unit tests for game-logic.js
 sw.js                            — offline caching
 manifest.webmanifest, icons/     — home screen install metadata
-data/categories.json             — category manifest (id, name, file)
+data/categories.json             — category manifest (id, name, file, plus
+                                    question counts stamped at ship time)
 data/questions/<category>.json   — one array of questions per category
 scripts/validate.js              — schema + duplicate + quality checks
 scripts/check-draft.js           — pre-merge check for a not-yet-added batch
 scripts/analyze.js               — difficulty/answer-position/topic coverage report
 scripts/find-gaps.js             — topics used only as a wrong answer, never correct
 scripts/audit.js                 — chunked accuracy-audit progress tracker
-scripts/stamp-version.js         — updates the offline cache version
+scripts/stamp-version.js         — updates the offline cache version and
+                                    the per-category counts in categories.json
 scripts/serve.js                 — local dev server
 scripts/generate-icons.ps1       — regenerates icons/ (Windows/PowerShell)
 questions_inbox/                 — gitignored; drop external-agent draft
@@ -148,7 +153,10 @@ tokens and re-auditing shouldn't:
    use judgment (or ask Claude to look at the specific pair) rather than
    re-running a full AI review over the whole set.
 6. Before deploying, refresh the offline cache version so phones actually
-   pick up the new content next time they're online:
+   pick up the new content next time they're online (this also re-stamps
+   the per-category question counts the home screen renders from — the
+   app doesn't download any question file until a round needs it, so a
+   stale count here shows a stale number on the card):
    ```
    npm run stamp
    ```
@@ -323,14 +331,21 @@ future `next` call that will never come.
    ```
 3. Run `npm run validate` and `npm run stamp`.
 
-No app code changes needed — the category list and service worker precache
+No app code changes needed — the category list, its question counts (once
+`npm run stamp` has run), and the service worker precache
 list are both derived from `categories.json` at runtime.
 
 ## Local testing
 
 ```
+npm test
 npm run serve
 ```
+
+`npm test` runs the unit tests in `test/` (node:test, no dependencies)
+against `game-logic.js` — round building and balancing, repeat-avoidance
+resets, resume reconciliation, stats. `npm run ship` runs them too. If you
+change a rule in `game-logic.js`, change or add a test with it.
 
 Then open `http://localhost:8080` in a browser. The service worker requires
 `http://` (not `file://`) to register.
@@ -373,8 +388,12 @@ CLAUDE.md.
 From then on, it works with no connection. Because it's added to the Home
 Screen (standalone mode), it's exempt from Safari's normal 7-day inactive-site
 data eviction — the cached questions aren't at risk of quietly disappearing
-between trips. Whenever you publish new/updated questions, just reopen the
-app once with wifi on and it'll pick up the changes in the background.
+between trips. Whenever you publish new/updated questions, open the app
+once with wifi on: the new build downloads in the background (only the
+files that actually changed) and an "A new version is ready" banner offers
+to switch over. Ignoring the banner is fine — the new version takes over by
+itself the next time the app is opened fresh. The app never re-downloads
+question data just because it's online; only a new build triggers a fetch.
 
 **Before you travel:** do one real test in Airplane Mode to confirm the
 install worked end-to-end.

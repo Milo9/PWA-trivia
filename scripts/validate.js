@@ -16,6 +16,7 @@ const CATEGORIES_FILE = path.join(DATA_DIR, "categories.json");
 const REQUIRED_OPTION_COUNT = 4;
 const DIFFICULTIES = new Set(["easy", "medium", "hard"]);
 const ID_PATTERN = /^[a-z0-9-]+-\d{3,}$/;
+const TAG_LIKE_PATTERN = /<[a-zA-Z/!]/;
 const NEAR_DUPLICATE_THRESHOLD = 0.7;
 // Group size, not answer length, is what actually separates "this answer is
 // just a generic reused entity" (Thomas Jefferson answers both a Declaration
@@ -128,6 +129,17 @@ function validateQuestion(q, categoryId, file, seenIds) {
     err(`${where}: missing/empty "question"`);
   } else if (q.question.length < 8 || q.question.length > 220) {
     warn(`${where}: question length (${q.question.length} chars) looks unusual — double check it`);
+  }
+
+  // The app renders all of these with textContent, so markup would show up
+  // literally rather than render — but nothing legitimate looks like a tag,
+  // so treat it as a drafting artifact. A bare "<" or ">" (e.g. a question
+  // about angle brackets) is fine; only "<" followed by a letter, "/" or "!"
+  // (tag-shaped) is flagged.
+  for (const text of [q.question, q.answer, ...(Array.isArray(q.options) ? q.options : [])]) {
+    if (typeof text === "string" && TAG_LIKE_PATTERN.test(text)) {
+      err(`${where}: contains HTML-like markup: ${JSON.stringify(text)}`);
+    }
   }
 
   if (!Array.isArray(q.options)) {
