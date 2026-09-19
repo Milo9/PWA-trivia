@@ -93,9 +93,12 @@ function loadCategories() {
   return JSON.parse(fs.readFileSync(CATEGORIES_FILE, "utf8"));
 }
 
+// Stored files don't carry a per-question "category" (implied by the file,
+// stripped by stamp-version.js) — re-attach it here so callers can rely on
+// q.category the way the app does.
 function loadCategoryQuestions(cat) {
   const filePath = path.join(DATA_DIR, cat.file);
-  return JSON.parse(fs.readFileSync(filePath, "utf8"));
+  return JSON.parse(fs.readFileSync(filePath, "utf8")).map((q) => ({ ...q, category: cat.id }));
 }
 
 function loadProgress() {

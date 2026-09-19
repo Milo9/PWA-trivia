@@ -1,7 +1,7 @@
 // Stamped by scripts/stamp-version.js — do not edit by hand.
 // Changes automatically whenever app shell or question data changes,
 // which forces old cached data to be replaced next time we're online.
-const CACHE_VERSION = "v1-8fe42a3b";
+const CACHE_VERSION = "v1-220d53ab";
 
 // Per-file content hashes for everything CACHE_VERSION covers. Lets
 // precache() tell which files actually changed and copy the rest forward
@@ -11,27 +11,27 @@ const FILE_HASHES = {
   "index.html": "cc8707f668d84faf",
   "styles.css": "8ae14e9ad3bd96b9",
   "game-logic.js": "ddaf34b27bf8a9fc",
-  "app.js": "4290e16d633d1024",
+  "app.js": "8c4d31e1503bb537",
   "manifest.webmanifest": "2a35dc54d2e4d65e",
-  "version.json": "1dc5621137d6a132",
+  "version.json": "99d98d5db2711d93",
   "data/categories.json": "d34c9511535b6a26",
-  "data/questions/animals-nature.json": "ae7431b6431776a4",
-  "data/questions/arts-literature.json": "9eeb06dc0a91af2c",
-  "data/questions/big-bang-theory.json": "b7f252e80a2e751a",
-  "data/questions/business-brands.json": "6071c66f961228a5",
-  "data/questions/civics-law-economics.json": "8412b38b70661dc0",
-  "data/questions/film-tv.json": "2ecb96a61ec4196a",
-  "data/questions/food-drink.json": "8dae0ef64ee0701d",
-  "data/questions/friends.json": "a32ead0cff33d8b1",
-  "data/questions/general.json": "60bab4f3fa0e5fce",
-  "data/questions/geography.json": "98bf0cada05fecd5",
-  "data/questions/history.json": "0c2dee08b9e86064",
-  "data/questions/music.json": "752e434b45ca61a8",
-  "data/questions/mythology-religion.json": "38e6b44743b8a561",
-  "data/questions/science-technology.json": "0ffa619fddecb505",
-  "data/questions/space-astronomy.json": "424fb2a1fe5459ed",
-  "data/questions/sports.json": "7d69200bccb5b88f",
-  "data/questions/world-cultures.json": "05478c2344250508",
+  "data/questions/animals-nature.json": "728cce7faaf2f907",
+  "data/questions/arts-literature.json": "c2a1cae706e6afd4",
+  "data/questions/big-bang-theory.json": "63d2f7e89c9dc7f1",
+  "data/questions/business-brands.json": "ec733500e0d57056",
+  "data/questions/civics-law-economics.json": "f2ed07c0c2bd39c2",
+  "data/questions/film-tv.json": "100a95828d64faf8",
+  "data/questions/food-drink.json": "701b90b81211bb00",
+  "data/questions/friends.json": "bc9493ace6b5815d",
+  "data/questions/general.json": "276ae2c3b00f6e3b",
+  "data/questions/geography.json": "e6e2ca79b2529f6b",
+  "data/questions/history.json": "11b5b59022e0a519",
+  "data/questions/music.json": "c11d2bb1067b38ca",
+  "data/questions/mythology-religion.json": "c47f8f1c28067a9f",
+  "data/questions/science-technology.json": "0f1c06357dc3caef",
+  "data/questions/space-astronomy.json": "2f8b57edbef6d730",
+  "data/questions/sports.json": "9fc2805d8dbcdd72",
+  "data/questions/world-cultures.json": "7fa0d17e2f7375f2",
   "data/topics.json": "00c6219fb318d9de"
 };
 

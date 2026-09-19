@@ -9,6 +9,16 @@
 // re-downloading everything on every ship. Run this before deploying
 // (after validate.js passes).
 //
+// Also rewrites every data/questions/*.json into the canonical compact
+// format (see formatQuestionFile): one question per line, no indentation,
+// and no per-question "category" field (it's implied by the containing file
+// and re-attached by every reader — app.js's ensureLoaded and the scripts'
+// loaders). Pretty-printed or category-tagged files (a hand-merged batch)
+// are accepted as input and normalized here, so merge in whatever format
+// is convenient. This cut the served corpus from 7.6MB to 5.5MB raw
+// (2026-09-18) — what a phone stores in its cache and JSON.parses per
+// round — while keeping git diffs readable at one question per line.
+//
 // Also stamps per-category question counts (total and per difficulty) into
 // data/categories.json, so the app can render the category picker without
 // downloading and parsing a single question file — those are fetched lazily
@@ -31,13 +41,40 @@ const SW_FILE = path.join(ROOT, "sw.js");
 const CATEGORIES_FILE = path.join(ROOT, "data", "categories.json");
 const HASHED_FILES = ["index.html", "styles.css", "game-logic.js", "app.js", "manifest.webmanifest", "version.json"];
 
-// Rewrites categories.json with a questionCount and difficultyCounts per
-// category. Returns true if the file changed.
+// Canonical on-disk format for a question file: a JSON array, one compact
+// question object per line, fixed key order, "category" dropped.
+function formatQuestionFile(questions) {
+  const lines = questions.map((q) => {
+    const { category, ...rest } = q;
+    const ordered = {
+      id: rest.id,
+      difficulty: rest.difficulty,
+      question: rest.question,
+      options: rest.options,
+      answer: rest.answer,
+    };
+    for (const k of Object.keys(rest)) if (!(k in ordered)) ordered[k] = rest[k];
+    return JSON.stringify(ordered);
+  });
+  return "[\n" + lines.join(",\n") + "\n]\n";
+}
+
+// Rewrites each question file in canonical format and categories.json with
+// a questionCount and difficultyCounts per category. Returns the number of
+// files changed.
 function stampCategoryCounts() {
+  let changed = 0;
   const raw = fs.readFileSync(CATEGORIES_FILE, "utf8");
   const categories = JSON.parse(raw);
   for (const cat of categories) {
-    const questions = JSON.parse(fs.readFileSync(path.join(ROOT, "data", cat.file), "utf8"));
+    const filePath = path.join(ROOT, "data", cat.file);
+    const fileRaw = fs.readFileSync(filePath, "utf8");
+    const questions = JSON.parse(fileRaw);
+    const formatted = formatQuestionFile(questions);
+    if (formatted !== fileRaw) {
+      fs.writeFileSync(filePath, formatted);
+      changed += 1;
+    }
     const difficultyCounts = { easy: 0, medium: 0, hard: 0 };
     for (const q of questions) {
       if (q.difficulty in difficultyCounts) difficultyCounts[q.difficulty] += 1;
@@ -46,9 +83,11 @@ function stampCategoryCounts() {
     cat.difficultyCounts = difficultyCounts;
   }
   const updated = JSON.stringify(categories, null, 2) + "\n";
-  if (updated === raw) return false;
-  fs.writeFileSync(CATEGORIES_FILE, updated);
-  return true;
+  if (updated !== raw) {
+    fs.writeFileSync(CATEGORIES_FILE, updated);
+    changed += 1;
+  }
+  return changed;
 }
 
 function collectDataFiles() {
@@ -65,7 +104,8 @@ function collectDataFiles() {
 }
 
 function main() {
-  if (stampCategoryCounts()) console.log("Stamped question counts into data/categories.json");
+  const changedFiles = stampCategoryCounts();
+  if (changedFiles) console.log(`Normalized question files / stamped counts (${changedFiles} file(s) rewritten)`);
 
   const files = [...HASHED_FILES.map((f) => path.join(ROOT, f)), ...collectDataFiles()];
 

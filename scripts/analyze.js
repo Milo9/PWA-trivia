@@ -152,7 +152,7 @@ function main() {
   let grandTotal = 0;
   for (const cat of categories) {
     const filePath = path.join(DATA_DIR, cat.file);
-    const questions = loadJson(filePath);
+    const questions = loadJson(filePath).map((q) => ({ ...q, category: cat.id }));
     grandTotal += questions.length;
     printCategoryReport(cat, questions, topicsByCategory[cat.id]);
   }

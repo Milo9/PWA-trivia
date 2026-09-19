@@ -80,7 +80,7 @@ function main() {
   for (const cat of categories) {
     if (filter && cat.id !== filter) continue;
     const filePath = path.join(DATA_DIR, cat.file);
-    const questions = loadJson(filePath);
+    const questions = loadJson(filePath).map((q) => ({ ...q, category: cat.id }));
     reportForCategory(cat, questions, topicsByCategory[cat.id]);
   }
 }

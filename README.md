@@ -60,7 +60,6 @@ Each entry in a `data/questions/*.json` file looks like:
 ```json
 {
   "id": "friends-041",
-  "category": "friends",
   "difficulty": "medium",
   "question": "What is the name of...?",
   "options": ["Correct answer", "Wrong 1", "Wrong 2", "Wrong 3"],
@@ -70,6 +69,16 @@ Each entry in a `data/questions/*.json` file looks like:
 
 - `id`: `<category>-<3+ digit number>`, unique across the *entire* dataset,
   not just within the file.
+- `category` is implied by the containing file and **not stored** per
+  question — `npm run stamp` (and so `ship`) strips it and rewrites each
+  file into the canonical compact format (one question per line, no
+  indentation). Merge a batch in whatever format is convenient, `category`
+  field included (a draft's `category` must match the file it lands in;
+  `validate` checks that). Every reader — `app.js`, `validate.js`,
+  `check-draft.js`, `audit.js`, `analyze.js`, `find-gaps.js` — re-attaches
+  `category` from the file when loading, so `q.category` is always
+  available in code. Don't reformat the files by hand; stamping owns the
+  layout, and one-question-per-line is what keeps `git diff` readable.
 - `answer` must be an exact string match to one (and only one) of `options`.
 - `difficulty`: `easy` | `medium` | `hard`.
 - Exactly 4 options, all non-empty and unique.

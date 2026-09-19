@@ -135,7 +135,8 @@ function loadCorpus() {
   for (const cat of categories) {
     const filePath = path.join(DATA_DIR, cat.file);
     const questions = JSON.parse(fs.readFileSync(filePath, "utf8"));
-    for (const q of questions) all.push(q);
+    // Stored files omit "category" (implied by the file) — re-attach it.
+    for (const q of questions) all.push({ ...q, category: cat.id });
   }
   return all;
 }

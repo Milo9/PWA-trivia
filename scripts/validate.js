@@ -121,7 +121,10 @@ function validateQuestion(q, categoryId, file, seenIds) {
     seenIds.add(q.id);
   }
 
-  if (q.category !== categoryId) {
+  // "category" is implied by the containing file and stripped from the
+  // stored files by stamp-version.js; a freshly merged batch may still
+  // carry it, in which case it has to agree with the file it landed in.
+  if (q.category !== undefined && q.category !== categoryId) {
     err(`${where}: category field "${q.category}" doesn't match containing category "${categoryId}"`);
   }
 
@@ -289,7 +292,7 @@ function main() {
 
     for (const q of questions) {
       validateQuestion(q, cat.id, cat.file, seenIds);
-      allQuestions.push(q);
+      allQuestions.push({ ...q, category: cat.id });
     }
 
     console.log(`${cat.name}: ${questions.length} questions loaded`);

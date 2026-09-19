@@ -1797,6 +1797,21 @@ query before using either as a multiple-choice answer.
   7.6MB of JSON. Don't hand-edit the counts; after merging a batch, `npm run
   stamp` (or `ship`) refreshes them. Extra fields on a category entry are
   ignored by every script in `scripts/`.
+- **Question files are stored compact — one question per line, no
+  per-question `category` field — and `stamp-version.js` (so `ship`)
+  rewrites them into that canonical format from whatever a merge left
+  behind.** Every loader (`ensureLoaded` in `app.js`, and the corpus
+  loaders in `validate.js`/`check-draft.js`/`audit.js`/`analyze.js`/
+  `find-gaps.js`) re-attaches `category` from the containing file, so
+  code can keep using `q.category`. When merging a batch, writing
+  `JSON.stringify(arr, null, 2)` with `category` still on each entry is
+  fine — don't bother matching the compact format by hand, and don't add
+  a new script that reads a question file without re-attaching `category`
+  (`grep -n "category" scripts/*.js` shows the pattern). Motivation: the
+  served corpus dropped from 7.6MB to 5.5MB raw (2026-09-18), which is
+  what the phone's cache stores and what `JSON.parse` chews through on
+  each lazily-loaded category; gzip-on-the-wire savings are small (1.60MB
+  → 1.50MB), so this is a storage/parse win, not a bandwidth one.
 - **`sw.js` is cache-first with no background revalidation, and a new
   build waits instead of calling `skipWaiting()` on install.** Freshness
   comes from `stamp-version.js` bumping `CACHE_VERSION`; the page shows an

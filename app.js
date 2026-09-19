@@ -560,6 +560,11 @@ function ensureLoaded(categories) {
             return res.json();
           })
           .then((questions) => {
+            // Stored files omit the per-question "category" (implied by the
+            // file, stripped at ship time to shrink the payload) — every
+            // downstream consumer (seen tracking, stats, results) keys off
+            // q.category, so re-attach it here.
+            for (const q of questions) q.category = cat.id;
             cat.questions = questions;
             return questions;
           })
