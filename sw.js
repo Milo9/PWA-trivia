@@ -1,7 +1,7 @@
 // Stamped by scripts/stamp-version.js — do not edit by hand.
 // Changes automatically whenever app shell or question data changes,
 // which forces old cached data to be replaced next time we're online.
-const CACHE_VERSION = "v1-220d53ab";
+const CACHE_VERSION = "v1-067fddd3";
 
 // Per-file content hashes for everything CACHE_VERSION covers. Lets
 // precache() tell which files actually changed and copy the rest forward
@@ -13,11 +13,11 @@ const FILE_HASHES = {
   "game-logic.js": "ddaf34b27bf8a9fc",
   "app.js": "8c4d31e1503bb537",
   "manifest.webmanifest": "2a35dc54d2e4d65e",
-  "version.json": "99d98d5db2711d93",
+  "version.json": "5223c677da40b84b",
   "data/categories.json": "d34c9511535b6a26",
   "data/questions/animals-nature.json": "728cce7faaf2f907",
   "data/questions/arts-literature.json": "c2a1cae706e6afd4",
-  "data/questions/big-bang-theory.json": "63d2f7e89c9dc7f1",
+  "data/questions/big-bang-theory.json": "3ba506ab31e7f013",
   "data/questions/business-brands.json": "ec733500e0d57056",
   "data/questions/civics-law-economics.json": "f2ed07c0c2bd39c2",
   "data/questions/film-tv.json": "100a95828d64faf8",
