@@ -30,3 +30,4 @@ between files or edit these by hand.
 - [friends.md](friends.md) — Friends (TV show)
 - [big-bang-theory.md](big-bang-theory.md) — The Big Bang Theory (TV show)
 - [catchphrases.md](catchphrases.md) — Catchphrases
+- [tv-catchphrases.md](tv-catchphrases.md) — TV Show Catchphrases

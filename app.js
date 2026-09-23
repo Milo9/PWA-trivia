@@ -43,6 +43,7 @@ const CATEGORY_ICONS = {
   general: "🧠",
   "business-brands": "💼",
   catchphrases: "💬",
+  "tv-catchphrases": "📺",
 };
 const DEFAULT_CATEGORY_ICON = "🎯";
 
@@ -72,6 +73,7 @@ const CATEGORY_COLORS = {
   "business-brands": "--card-8",
   "civics-law-economics": "--card-1",
   catchphrases: "--card-2",
+  "tv-catchphrases": "--card-3",
 };
 
 function categoryAccentVar(id) {

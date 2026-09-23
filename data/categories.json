@@ -211,5 +211,16 @@
       "medium": 757,
       "hard": 67
     }
+  },
+  {
+    "id": "tv-catchphrases",
+    "name": "TV Show Catchphrases",
+    "file": "questions/tv-catchphrases.json",
+    "questionCount": 500,
+    "difficultyCounts": {
+      "easy": 159,
+      "medium": 321,
+      "hard": 20
+    }
   }
 ]

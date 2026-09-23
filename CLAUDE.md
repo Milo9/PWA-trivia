@@ -208,6 +208,18 @@ binding constraint — that's the exception, not the default.
   write the Unicode `…` in stems instead. Its "not a"/"actually" hedge hits
   on quoted lines and titles (`'I am not a crook'`, *Love Actually*) are
   false positives.
+- **`tv-catchphrases` (added 2026-09-23) asks for the show, and it overlaps
+  `catchphrases` on purpose.** The user's wife wanted quote→show matching,
+  which `catchphrases` (mostly quote→character, with the show named in the
+  stem) doesn't do. The two categories reuse many of the same famous quotes,
+  so `tv-catchphrases` has no `dupeGroup`. Only same-format pairs, where an
+  existing question already asks which show a quote is from, count as
+  duplicates. There were 47 of these, all in `catchphrases`, and a phrase
+  grep caught every one. Keep stems as bare as `Which TV show is "X" from?`.
+  `validate.js` flags anything at 0.7+ Jaccard overlap, and with 1–2-word
+  quotes, a wordier template ("Which TV show is known for the catchphrase…")
+  puts every pair of short quotes over that line. The first draft this way
+  added ~230 bogus warnings; the bare stem added 12.
 - **Check that an inbox file actually parses before running
   check-draft on it.** An external agent's draft can contain invalid
   JS/JSON (e.g. unescaped quotes inside a `question` string) that makes
