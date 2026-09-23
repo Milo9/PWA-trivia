@@ -205,11 +205,11 @@
     "name": "Catchphrases",
     "file": "questions/catchphrases.json",
     "dupeGroup": "general",
-    "questionCount": 502,
+    "questionCount": 1002,
     "difficultyCounts": {
-      "easy": 132,
-      "medium": 314,
-      "hard": 56
+      "easy": 178,
+      "medium": 757,
+      "hard": 67
     }
   }
 ]
