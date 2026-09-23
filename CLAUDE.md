@@ -201,6 +201,13 @@ binding constraint — that's the exception, not the default.
   2-3-word fragment of each quote across all category files. Of the 13
   duplicates cut from the first 500-question batch, the default check-draft
   pass caught 0, `--full-answer-audit` caught 6, and the phrase grep caught 7.
+  The second 500 (2026-09-23) went the same way: the phrase grep, limited to
+  the quoted text in each stem, found most of the 12 cuts, all of them
+  against `film-tv`. Also, check-draft treats a literal `...` as a hard
+  hedge error, and real quotes are often truncated (`'Some say...'`), so
+  write the Unicode `…` in stems instead. Its "not a"/"actually" hedge hits
+  on quoted lines and titles (`'I am not a crook'`, *Love Actually*) are
+  false positives.
 - **Check that an inbox file actually parses before running
   check-draft on it.** An external agent's draft can contain invalid
   JS/JSON (e.g. unescaped quotes inside a `question` string) that makes
