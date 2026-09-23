@@ -1,7 +1,7 @@
 // Stamped by scripts/stamp-version.js — do not edit by hand.
 // Changes automatically whenever app shell or question data changes,
 // which forces old cached data to be replaced next time we're online.
-const CACHE_VERSION = "v1-067fddd3";
+const CACHE_VERSION = "v1-2e0094a6";
 
 // Per-file content hashes for everything CACHE_VERSION covers. Lets
 // precache() tell which files actually changed and copy the rest forward
@@ -11,14 +11,15 @@ const FILE_HASHES = {
   "index.html": "cc8707f668d84faf",
   "styles.css": "8ae14e9ad3bd96b9",
   "game-logic.js": "ddaf34b27bf8a9fc",
-  "app.js": "8c4d31e1503bb537",
+  "app.js": "a5f14674bc28b9e0",
   "manifest.webmanifest": "2a35dc54d2e4d65e",
-  "version.json": "5223c677da40b84b",
-  "data/categories.json": "d34c9511535b6a26",
+  "version.json": "30bd58c1ef2bbf28",
+  "data/categories.json": "daa9c9334ae838f4",
   "data/questions/animals-nature.json": "728cce7faaf2f907",
   "data/questions/arts-literature.json": "c2a1cae706e6afd4",
   "data/questions/big-bang-theory.json": "3ba506ab31e7f013",
   "data/questions/business-brands.json": "ec733500e0d57056",
+  "data/questions/catchphrases.json": "fe25e54494aef84a",
   "data/questions/civics-law-economics.json": "f2ed07c0c2bd39c2",
   "data/questions/film-tv.json": "100a95828d64faf8",
   "data/questions/food-drink.json": "701b90b81211bb00",

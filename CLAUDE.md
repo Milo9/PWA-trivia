@@ -190,6 +190,17 @@ binding constraint — that's the exception, not the default.
   check-draft afterward to confirm the shuffle didn't introduce anything
   new (it can't logically, since `answer` is matched by string not
   position, but it's a free confirmation).
+- **`catchphrases` (added 2026-09-22) has a checking gap specific to
+  quote trivia.** Answers are mostly character/show names shared with
+  `film-tv`/`general`, so `--full-answer-audit` mostly turns up unrelated
+  questions about the same show. The real duplicates (famous movie lines
+  like "I'll be back" or "You talkin' to me?", already asked in `film-tv`/
+  `general`, often in reversed direction: the line asked for the film vs.
+  for the character) mostly showed up by grepping the corpus for the **quoted
+  phrase itself**. For every catchphrase draft, grep a distinctive
+  2-3-word fragment of each quote across all category files. Of the 13
+  duplicates cut from the first 500-question batch, the default check-draft
+  pass caught 0, `--full-answer-audit` caught 6, and the phrase grep caught 7.
 - **Check that an inbox file actually parses before running
   check-draft on it.** An external agent's draft can contain invalid
   JS/JSON (e.g. unescaped quotes inside a `question` string) that makes

@@ -199,5 +199,17 @@
       "medium": 650,
       "hard": 314
     }
+  },
+  {
+    "id": "catchphrases",
+    "name": "Catchphrases",
+    "file": "questions/catchphrases.json",
+    "dupeGroup": "general",
+    "questionCount": 502,
+    "difficultyCounts": {
+      "easy": 132,
+      "medium": 314,
+      "hard": 56
+    }
   }
 ]
