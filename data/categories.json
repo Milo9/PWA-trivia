@@ -3,22 +3,22 @@
     "id": "friends",
     "name": "Friends",
     "file": "questions/friends.json",
-    "questionCount": 852,
+    "questionCount": 1000,
     "difficultyCounts": {
-      "easy": 159,
-      "medium": 479,
-      "hard": 214
+      "easy": 170,
+      "medium": 602,
+      "hard": 228
     }
   },
   {
     "id": "big-bang-theory",
     "name": "The Big Bang Theory",
     "file": "questions/big-bang-theory.json",
-    "questionCount": 861,
+    "questionCount": 1000,
     "difficultyCounts": {
-      "easy": 125,
-      "medium": 473,
-      "hard": 263
+      "easy": 135,
+      "medium": 594,
+      "hard": 271
     }
   },
   {

@@ -311,6 +311,15 @@ arts-literature have all hit this hardest). Watch for:
   things (e.g. an existing question names "Jack Woltz" while asking
   about the horse's head; a new question asking who wakes up with the
   horse's head is answered by the first question's premise).
+- **Actor "known for" questions in a show category are a premise-reveal
+  trap.** A stem like "Katey Sagal, who plays Penny's mother, is famous as
+  which Married… with Children character?" answers the category's existing
+  "Which actress plays Penny's mother?" question in its own premise.
+  `friends`/`big-bang-theory` already ask "who plays X" for nearly every
+  recurring role, so name the actor as "a Big Bang Theory guest star" (or
+  similar) without the role. Confirmed 2026-09-23: 14 of one BBT batch's
+  actor questions needed this rewrite, and no automated check flagged any
+  of them.
 - **Shared answer isn't always a duplicate signal, and lack of a shared
   answer isn't always safety.** A shared *artist/author* alone is not a
   duplicate (Picasso, Michelangelo, etc. can correctly have many
