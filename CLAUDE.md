@@ -220,6 +220,17 @@ binding constraint — that's the exception, not the default.
   quotes, a wordier template ("Which TV show is known for the catchphrase…")
   puts every pair of short quotes over that line. The first draft this way
   added ~230 bogus warnings; the bare stem added 12.
+  A second batch (2026-09-24, IDs 501–800, with a gap at 666) hit the
+  recognizability ceiling. After about 350 candidates, only about 300 still
+  met the "most adults would recognize it" bar. The user chose to ship
+  those rather than pad to 500 with obscure lines. Two things the first
+  batch's notes didn't cover. First, the phrase grep turned up many
+  `catchphrases` stems that ask for a *character whose name is the show
+  title* (Mighty Mouse, Darkwing Duck, Dr. Phil, Naruto, Kojak, Columbo):
+  treat those as same-format duplicates too. Second, one very short, generic
+  quote ("What the what?") scored 0.75 against nearly every other 1–2-word
+  quote in check-draft. Cut quotes like that, or they flood validate's
+  warnings.
 - **Check that an inbox file actually parses before running
   check-draft on it.** An external agent's draft can contain invalid
   JS/JSON (e.g. unescaped quotes inside a `question` string) that makes
