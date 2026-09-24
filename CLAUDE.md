@@ -1521,6 +1521,28 @@ see them in-app, confirming the "dump every question, don't just trust
 a clean check-draft run" rule is still load-bearing even on a
 near-perfect batch.
 
+## `general` still had an untouched axis: everyday-object vocabulary
+
+**Confirmed 2026-09-24 (general-4482 to -4986, 502 questions in 6 waves):**
+`general` looked tapped out, because its idioms, wordplay, units and game
+counts were saturated. Its "what's the name for this everyday thing" axis
+was almost empty, though. That axis covers garment parts, hats and shoes,
+house structure, furniture, tools and knots, old trades, UK/US word pairs,
+color-name etymologies, phobias and collecting hobbies. Grepping about 400
+bare candidate terms against a full-corpus dump found nearly all of them
+clean. Only about 2% of the drafts were cut as duplicates. The lanes now
+covered are listed in `templates/general.md`'s AVOID list.
+
+**Automated checks missed a leak class that is dense in this format.**
+Etymology and "named after X" stems ("named after a dog breed", "French
+for long chair", "Bette Nesmith Graham" → Michael Nesmith) leak the answer
+through a word or a sound in the stem. No automated check flags them.
+check-draft passed all of them clean. A post-merge sweep found about 35 to
+reword and 3 to cut. It flagged every stem containing a 4+ letter prefix
+of an answer token, plus every stem matching
+`named after|takes its name|comes from`. Run that sweep before merging
+any vocabulary-style batch, and read each hit by hand.
+
 ## Grep brand names, not facts, before drafting a brand-identity batch
 
 For `business-brands` and `food-drink` specifically (the two categories built
