@@ -161,6 +161,7 @@ const el = {
   livesDisplay: document.getElementById("lives-display"),
   questionCounter: document.getElementById("question-counter"),
   questionCategory: document.getElementById("question-category"),
+  questionDifficulty: document.getElementById("question-difficulty"),
   reportBtn: document.getElementById("report-btn"),
   questionText: document.getElementById("question-text"),
   optionsList: document.getElementById("options-list"),
@@ -1509,6 +1510,9 @@ function renderQuestion() {
   const q = state.roundQuestions[state.currentIndex];
   const cat = state.categoryById[q.category];
   el.questionCategory.textContent = `${categoryIcon(q.category)} ${cat ? cat.name : q.category}`;
+  const diff = DIFFICULTY_OPTIONS.find((d) => d.id === q.difficulty && d.id !== "any");
+  el.questionDifficulty.textContent = diff ? diff.label : "";
+  el.questionDifficulty.className = "difficulty-pill" + (diff ? ` difficulty-${diff.id}` : " hidden");
   el.questionText.textContent = q.question;
   el.quizBody.classList.remove("text-sm", "text-xs");
   const sizeClass = textSizeClass(q);
@@ -1524,7 +1528,7 @@ function renderQuestion() {
   // Re-trigger the entrance animation on a fresh question (remove/reflow/add,
   // same trick flashMilestone uses) — a plain class add wouldn't restart the
   // animation on consecutive questions since the class never actually leaves.
-  for (const target of [el.questionCategory, el.questionText]) {
+  for (const target of [el.questionCategory, el.questionDifficulty, el.questionText]) {
     target.classList.remove("question-enter");
     void target.offsetWidth;
     target.classList.add("question-enter");
