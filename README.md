@@ -29,7 +29,12 @@ required.
 index.html, styles.css, app.js   — the app (DOM, storage, screens)
 game-logic.js                    — pure rules shared by app.js and the tests:
                                     round building, resume, stats
+feedback-queue.js                — pure outbox rules for thumbs-down question
+                                    reports (queue, backoff, wire format)
 test/*.test.js                   — node:test unit tests for game-logic.js
+                                    and feedback-queue.js
+firebase/database.rules.json     — Realtime Database security rules for
+                                    question feedback (paste into the console)
 sw.js                            — offline caching
 manifest.webmanifest, icons/     — home screen install metadata
 data/categories.json             — category manifest (id, name, file, plus
@@ -43,6 +48,9 @@ scripts/audit.js                 — chunked accuracy-audit progress tracker
 scripts/stamp-version.js         — updates the offline cache version and
                                     the per-category counts in categories.json
 scripts/serve.js                 — local dev server
+scripts/feedback-check.js        — Playwright check of the feedback feature
+scripts/feedback-report.js       — triage report from a Firebase JSON export
+scripts/feedback-smoke.js        — live check of the published Firebase rules
 scripts/generate-icons.ps1       — regenerates icons/ (Windows/PowerShell)
 questions_inbox/                 — gitignored; drop external-agent draft
                                     files here to be checked and merged
@@ -382,6 +390,79 @@ uncaught page exception is printed and makes the script exit non-zero.
 Use this (or drive Playwright by hand for something more targeted) for any
 UI/CSS/JS change instead of assuming there's no way to check — see
 CLAUDE.md.
+
+## Question feedback
+
+Players can tap 👎 on any question — while playing (before or after
+answering) or from the results review — and optionally say what's wrong
+(wrong answer, two correct options, typo, too obscure). The report:
+
+1. is saved on the device immediately (`localStorage`, so it survives an app
+   kill, a reload, an update, and days offline), and
+2. uploads by itself to a Firebase Realtime Database whenever a connection
+   exists — on launch, when the `online` event fires, when the app returns to
+   the foreground, right after submitting, and on a backoff timer while the
+   app is open. iOS has no Background Sync, so the page drives delivery.
+
+Reporting never affects score, streak, lives, seen-ids, stats, or resume.
+Each device can report a given question once (no undo or edit in v1). The
+categories screen footer shows "N reports waiting to upload" while any are
+queued. Until `FEEDBACK_DB_URL` is set, reports queue but never upload.
+
+Uploads are idempotent `PUT`s to `/feedback/<reportId>.json` with a
+client-generated id, so retries and two tabs flushing at once never create
+duplicates. The pure rules (id/payload shape, queue, retry classification,
+backoff) live in `feedback-queue.js`; the IO is in `app.js`.
+`firebase/database.rules.json` is the only server-side protection (the repo
+and the database URL are public) — reads are denied, writes must match the
+exact schema, and an existing report can only be rewritten by the device that
+wrote it.
+
+### One-time setup (needs a person, not an agent)
+
+The feature works without this; reports just wait on the device.
+
+1. Go to https://console.firebase.google.com → **Add project**. Google
+   Analytics can stay off; the free Spark plan is plenty.
+2. **Build → Realtime Database → Create Database.** Pick a location and
+   choose **Start in locked mode**.
+3. **Rules** tab: replace the contents with `firebase/database.rules.json`
+   from this repo, then click **Publish**.
+4. Copy the database URL from the **Data** tab and run
+   `npm run feedback-smoke -- <url>`. All four checks must print PASS. If
+   any fail, fix the published rules **before** continuing — phones never
+   drop reports on a 401, so nothing is lost, but nothing uploads until the
+   rules accept writes. Afterwards, delete the `smoke-000` records from the
+   Data tab.
+5. Use the same URL (`https://<project>-default-rtdb.firebaseio.com`, or
+   `https://<project>-default-rtdb.<region>.firebasedatabase.app` outside
+   us-central1): set `FEEDBACK_DB_URL` at the top of `app.js` to it, with no
+   trailing slash, then `npm run ship -- "Configure feedback upload URL"`.
+   Phones pick it up on their next update and flush any queued reports.
+
+### Reviewing reports
+
+In the Firebase console go to **Data → ⋮ → Export JSON**, then:
+
+```
+npm run feedback-report -- <export.json> [--json]
+```
+
+This groups reports by question (most-reported first), shows the current
+question/answer and each report's comment, what the player picked, the
+context, date, and app build, and flags "(question edited since report)" and
+"(question no longer exists)". It's read-only; fix questions in
+`data/questions/` as usual.
+
+### Testing it
+
+`npm test` covers the pure logic (including that the wire payload's key set
+matches the rules file). `npm run feedback-check` drives Chromium against a
+stubbed backend (port 8098): offline enqueue → flush on reconnect, surviving
+a reload, gameplay untouched, keyboard isolation, the Back button, the
+results review, a rejected item not blocking the queue, dedup, and an
+offline launch under the real service worker. Screenshots go to
+`dev-screenshots/feedback/`.
 
 ## Deploying to GitHub Pages
 

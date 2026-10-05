@@ -58,6 +58,7 @@
           <button id="theme-toggle-btn" class="pref-toggle-btn" type="button"></button>
         </div>
         <button id="reset-stats-btn" class="text-btn hidden">Reset Stats</button>
+        <p id="feedback-pending" class="app-version hidden"></p>
         <p id="app-version" class="app-version"></p>
       </footer>
     </section>
@@ -98,8 +99,11 @@
       <div class="quiz-body" id="quiz-body">
         <div id="milestone-flash" class="milestone-flash" aria-hidden="true"></div>
         <span id="streak-badge" class="streak-badge hidden"></span>
-        <p id="question-category" class="question-category"></p>
-        <h2 id="question-text" class="question-text"></h2>
+        <div class="question-meta-row">
+          <p id="question-category" class="question-category"></p>
+          <button id="report-btn" class="report-btn" type="button" aria-label="Report a problem with this question">👎</button>
+        </div>
+        <h2 id="question-text" class="question-text" tabindex="-1"></h2>
         <div id="options-list" class="options-list"></div>
         <button id="lifeline-btn" class="lifeline-btn layout-hidden" type="button">50:50</button>
       </div>
@@ -144,7 +148,23 @@
     </div>
   </div>
 
+  <div id="feedback-sheet-overlay" class="feedback-sheet-overlay hidden">
+    <div id="feedback-sheet" class="confirm-sheet feedback-sheet" role="dialog" aria-modal="true" aria-labelledby="feedback-sheet-title">
+      <p id="feedback-sheet-title" class="confirm-sheet-title">Report this question</p>
+      <p id="feedback-sheet-question" class="feedback-sheet-question"></p>
+      <label for="feedback-comment" class="settings-label">What's wrong? (optional)</label>
+      <textarea id="feedback-comment" class="feedback-comment" rows="4" maxlength="500"
+        placeholder="e.g. wrong answer, two options are correct, typo, too obscure"></textarea>
+      <p class="feedback-meta"><span id="feedback-error" class="feedback-error hidden">Couldn't save your report on this device.</span><span id="feedback-counter" class="feedback-counter">0/500</span></p>
+      <div class="confirm-sheet-actions">
+        <button id="feedback-cancel" class="secondary-btn" type="button">Cancel</button>
+        <button id="feedback-submit" class="primary-btn" type="button">Send report</button>
+      </div>
+    </div>
+  </div>
+
   <script src="game-logic.js"></script>
+  <script src="feedback-queue.js"></script>
   <script src="app.js"></script>
 </body>
 </html>

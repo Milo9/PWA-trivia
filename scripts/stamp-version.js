@@ -39,7 +39,7 @@ const ROOT = path.join(__dirname, "..");
 const SW_FILE = path.join(ROOT, "sw.js");
 
 const CATEGORIES_FILE = path.join(ROOT, "data", "categories.json");
-const HASHED_FILES = ["index.html", "styles.css", "game-logic.js", "app.js", "manifest.webmanifest", "version.json"];
+const HASHED_FILES = ["index.html", "styles.css", "game-logic.js", "feedback-queue.js", "app.js", "manifest.webmanifest", "version.json"];
 
 // Canonical on-disk format for a question file: a JSON array, one compact
 // question object per line, fixed key order, "category" dropped.

@@ -1,0 +1,30 @@
+{
+  "rules": {
+    ".read": false,
+    ".write": false,
+    "feedback": {
+      "$reportId": {
+        ".write": "newData.exists() && (!data.exists() || data.child('deviceId').val() === newData.child('deviceId').val())",
+        ".validate": "$reportId.matches(/^[A-Za-z0-9_-]{22}$/) && newData.hasChildren(['v','id','questionId','category','question','options','answer','selected','comment','context','deviceId','appBuild','clientCreatedAt','receivedAt']) && newData.child('id').val() === $reportId",
+        "v": { ".validate": "newData.val() === 1" },
+        "id": { ".validate": "newData.isString()" },
+        "questionId": { ".validate": "newData.isString() && newData.val().matches(/^[a-z0-9-]+-[0-9]{3,}$/) && newData.val().length <= 64" },
+        "category": { ".validate": "newData.isString() && newData.val().matches(/^[a-z0-9-]{1,40}$/)" },
+        "question": { ".validate": "newData.isString() && newData.val().length >= 1 && newData.val().length <= 600" },
+        "options": {
+          ".validate": "newData.hasChildren(['0','1','2','3'])",
+          "$i": { ".validate": "$i.matches(/^[0-3]$/) && newData.isString() && newData.val().length <= 300" }
+        },
+        "answer": { ".validate": "newData.isString() && newData.val().length <= 300" },
+        "selected": { ".validate": "newData.isString() && newData.val().length <= 300" },
+        "comment": { ".validate": "newData.isString() && newData.val().length <= 500" },
+        "context": { ".validate": "newData.val() === 'quiz-before-answer' || newData.val() === 'quiz-after-answer' || newData.val() === 'results'" },
+        "deviceId": { ".validate": "newData.isString() && newData.val().matches(/^[A-Za-z0-9_-]{22}$/)" },
+        "appBuild": { ".validate": "newData.isNumber() && newData.val() >= 0" },
+        "clientCreatedAt": { ".validate": "newData.isNumber()" },
+        "receivedAt": { ".validate": "newData.val() === now" },
+        "$other": { ".validate": false }
+      }
+    }
+  }
+}

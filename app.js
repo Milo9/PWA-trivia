@@ -13,6 +13,26 @@ const {
   applyGameResult,
 } = GameLogic;
 
+// Pure outbox rules for thumbs-down question reports live in
+// feedback-queue.js (loaded before this file); see test/feedback-queue.test.js.
+const {
+  MAX_COMMENT_LENGTH,
+  BACKOFF_MAX_MS,
+  makeId,
+  createReport,
+  enqueue,
+  dueItems,
+  nextDueAt,
+  classify,
+  applyOutcome,
+  toWireBody,
+} = FeedbackQueue;
+
+// Firebase Realtime Database root URL, e.g.
+// "https://my-trivia-default-rtdb.firebaseio.com" (no trailing slash).
+// Empty = reports queue locally but never upload. See README "Question feedback".
+const FEEDBACK_DB_URL = "";
+
 const COUNT_OPTIONS = [10, 20, 30, 40];
 const DIFFICULTY_OPTIONS = [
   { id: "any", label: "Any" },
@@ -94,7 +114,8 @@ const state = {
   score: 0,
   streak: 0,
   bestStreak: 0,
-  answers: [], // { question, options, correctAnswer, selected, wasCorrect, category }
+  answers: [], // { id, question, options, correctAnswer, selected, wasCorrect, category } — id is absent on rounds saved before feedback reporting existed
+  appBuild: 0, // build number from version.json, stamped onto feedback reports
   seenByCat: {}, // { [categoryId]: Set<questionId> } — this round's in-progress seen tracking
   lifelineUsed: false, // 50/50 lifeline, one per round
   mode: "standard", // "standard" | "survival" — mirrors settings.mode for the active round
@@ -105,6 +126,7 @@ const el = {
   categoryList: document.getElementById("category-list"),
   categoriesStatus: document.getElementById("categories-status"),
   appVersion: document.getElementById("app-version"),
+  feedbackPending: document.getElementById("feedback-pending"),
 
   screenCategories: document.getElementById("screen-categories"),
   screenSettings: document.getElementById("screen-settings"),
@@ -139,6 +161,7 @@ const el = {
   livesDisplay: document.getElementById("lives-display"),
   questionCounter: document.getElementById("question-counter"),
   questionCategory: document.getElementById("question-category"),
+  reportBtn: document.getElementById("report-btn"),
   questionText: document.getElementById("question-text"),
   optionsList: document.getElementById("options-list"),
   streakBadge: document.getElementById("streak-badge"),
@@ -167,6 +190,15 @@ const el = {
   confirmSheetMessage: document.getElementById("confirm-sheet-message"),
   confirmSheetCancel: document.getElementById("confirm-sheet-cancel"),
   confirmSheetConfirm: document.getElementById("confirm-sheet-confirm"),
+
+  feedbackSheetOverlay: document.getElementById("feedback-sheet-overlay"),
+  feedbackSheet: document.getElementById("feedback-sheet"),
+  feedbackSheetQuestion: document.getElementById("feedback-sheet-question"),
+  feedbackComment: document.getElementById("feedback-comment"),
+  feedbackCounter: document.getElementById("feedback-counter"),
+  feedbackError: document.getElementById("feedback-error"),
+  feedbackCancel: document.getElementById("feedback-cancel"),
+  feedbackSubmit: document.getElementById("feedback-submit"),
 };
 
 let currentScreen = "categories";
@@ -212,6 +244,7 @@ function showScreen(name, { fromHistory = false } = {}) {
     renderStatsSummary();
     renderCategoryCounts();
     renderQuickPlay();
+    renderFeedbackPending();
   }
   if (name === "settings") el.screenSettings.classList.remove("hidden");
   if (name === "quiz") el.screenQuiz.classList.remove("hidden");
@@ -223,6 +256,14 @@ function showScreen(name, { fromHistory = false } = {}) {
 window.addEventListener("popstate", async () => {
   if (ignoreNextPop) {
     ignoreNextPop = false;
+    return;
+  }
+  if (feedbackSheetOpen) {
+    // Back while the report sheet is open just closes the sheet. Re-push the
+    // depth-1 entry the Back press consumed so the app stays on this screen
+    // (no history entry is ever pushed when the sheet opens).
+    history.pushState({ depth: 1, screen: currentScreen }, "");
+    cancelFeedbackSheet();
     return;
   }
   if (historyDepth() > 0) {
@@ -490,7 +531,7 @@ function vibrate(pattern) {
 let confirmSheetOpen = false;
 
 function showConfirmSheet({ title, message, confirmText = "Confirm", cancelText = "Cancel", danger = false }) {
-  if (confirmSheetOpen) return Promise.resolve(false);
+  if (confirmSheetOpen || feedbackSheetOpen) return Promise.resolve(false);
   confirmSheetOpen = true;
   return new Promise((resolve) => {
     const previouslyFocused = document.activeElement;
@@ -547,6 +588,324 @@ function showConfirmSheet({ title, message, confirmText = "Confirm", cancelText 
     document.addEventListener("keydown", onKeyDown, true);
   });
 }
+
+// --- Question feedback ---
+//
+// Thumbs-down reports persist to localStorage immediately (an outbox), then
+// upload on their own to a Firebase Realtime Database over plain fetch
+// whenever a connection exists. The rules (classification, backoff, queue
+// caps) are pure and live in feedback-queue.js. Reporting never touches
+// score, streak, lives, seen-ids, stats or the saved active round.
+
+const FEEDBACK_QUEUE_KEY = "offline-trivia:feedback-queue";
+const FEEDBACK_REPORTED_KEY = "offline-trivia:feedback-reported";
+const FEEDBACK_DEVICE_KEY = "offline-trivia:feedback-device";
+const FEEDBACK_FAILED_KEY = "offline-trivia:feedback-failed";
+const FEEDBACK_REPORTED_CAP = 5000;
+const FEEDBACK_FAILED_CAP = 20;
+const FEEDBACK_FETCH_TIMEOUT_MS = 15_000;
+
+// Not clearing these in "Reset Stats" is deliberate: they aren't stats, and
+// wiping them would silently throw away reports that haven't uploaded yet.
+
+function loadJsonArray(key) {
+  try {
+    const raw = localStorage.getItem(key);
+    const parsed = raw ? JSON.parse(raw) : [];
+    return Array.isArray(parsed) ? parsed : [];
+  } catch (e) {
+    return [];
+  }
+}
+
+function loadFeedbackQueue() {
+  return loadJsonArray(FEEDBACK_QUEUE_KEY).filter(
+    (it) => it && it.report && typeof it.report.id === "string"
+  );
+}
+
+// Returns whether the write stuck, so callers never claim a report was saved
+// when it wasn't (storage full / unavailable).
+function saveFeedbackQueue(queue) {
+  try {
+    localStorage.setItem(FEEDBACK_QUEUE_KEY, JSON.stringify(queue));
+    return true;
+  } catch (e) {
+    return false;
+  }
+}
+
+function loadReportedIds() {
+  return new Set(loadJsonArray(FEEDBACK_REPORTED_KEY));
+}
+
+function addReportedId(questionId) {
+  const ids = loadJsonArray(FEEDBACK_REPORTED_KEY).filter((id) => id !== questionId);
+  ids.push(questionId);
+  try {
+    localStorage.setItem(FEEDBACK_REPORTED_KEY, JSON.stringify(ids.slice(-FEEDBACK_REPORTED_CAP)));
+  } catch (e) {
+    // localStorage unavailable — the "already reported" state just won't persist
+  }
+}
+
+function newReportId() {
+  return makeId(crypto.getRandomValues(new Uint8Array(16)));
+}
+
+let memoryDeviceId = null;
+
+// Random per-install id (no PII); lets the server rules tell "same device
+// retrying" apart from "someone else overwriting a report".
+function getDeviceId() {
+  try {
+    const saved = localStorage.getItem(FEEDBACK_DEVICE_KEY);
+    if (saved && /^[A-Za-z0-9_-]{22}$/.test(saved)) return saved;
+  } catch (e) {
+    // fall through to the in-memory id
+  }
+  if (!memoryDeviceId) {
+    memoryDeviceId = newReportId();
+    try {
+      localStorage.setItem(FEEDBACK_DEVICE_KEY, memoryDeviceId);
+    } catch (e) {
+      // storage unavailable — the id lasts for this session only
+    }
+  }
+  return memoryDeviceId;
+}
+
+// Debug aid only, never shown in the UI: items dropped as permanently invalid.
+function recordFailedReport(item, status) {
+  const failed = loadJsonArray(FEEDBACK_FAILED_KEY);
+  failed.push({ report: item.report, status, at: Date.now() });
+  try {
+    localStorage.setItem(FEEDBACK_FAILED_KEY, JSON.stringify(failed.slice(-FEEDBACK_FAILED_CAP)));
+  } catch (e) {
+    // ignore
+  }
+}
+
+function feedbackBaseUrl() {
+  const url = String(FEEDBACK_DB_URL || "").replace(/\/+$/, "");
+  return url.startsWith("https://") ? url : "";
+}
+
+function renderFeedbackPending() {
+  const n = loadFeedbackQueue().length;
+  if (n > 0) {
+    el.feedbackPending.textContent = `${n} report${n === 1 ? "" : "s"} waiting to upload`;
+    el.feedbackPending.classList.remove("hidden");
+  } else {
+    el.feedbackPending.classList.add("hidden");
+  }
+}
+
+// Queue mutation rule: re-read from storage, apply the pure function, write
+// back. Never write a copy read before an await, or an item enqueued during a
+// flush would be lost.
+function submitFeedback({ question, selected, comment, context }) {
+  let report;
+  try {
+    report = createReport({
+      id: newReportId(),
+      question,
+      selected,
+      comment,
+      context,
+      deviceId: getDeviceId(),
+      appBuild: state.appBuild,
+      now: Date.now(),
+    });
+  } catch (e) {
+    return { ok: false };
+  }
+  if (!saveFeedbackQueue(enqueue(loadFeedbackQueue(), report))) return { ok: false };
+  addReportedId(question.id);
+  renderFeedbackPending();
+  flushFeedback();
+  return { ok: true };
+}
+
+let feedbackFlushInFlight = false;
+let feedbackRetryTimer = null;
+
+async function sendFeedbackItem(base, item) {
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), FEEDBACK_FETCH_TIMEOUT_MS);
+  try {
+    const res = await fetch(`${base}/feedback/${encodeURIComponent(item.report.id)}.json`, {
+      method: "PUT",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(toWireBody(item.report)),
+      cache: "no-store",
+      signal: controller.signal,
+    });
+    return { status: res.status };
+  } catch (e) {
+    return { networkError: true };
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
+// Deliberately not gated on navigator.onLine (unreliable behind captive
+// portals / airplane wifi) — a failed fetch costs nothing. PUT to a client-
+// generated id is idempotent, so a lost response or two tabs flushing at once
+// just rewrites the same record; that's why there's no cross-tab lock.
+async function flushFeedback() {
+  const base = feedbackBaseUrl();
+  if (!base || feedbackFlushInFlight) return;
+  feedbackFlushInFlight = true;
+  let wasOffline = false;
+  try {
+    for (const item of dueItems(loadFeedbackQueue(), Date.now())) {
+      const result = await sendFeedbackItem(base, item);
+      const outcome = classify(result);
+      if (outcome === "offline") {
+        // Stop the pass; online/visibility/timer triggers will try again.
+        wasOffline = true;
+        break;
+      }
+      // Never stop on "retry"/"invalid": one bad payload must not block the
+      // rest of the queue.
+      const { queue, dropped } = applyOutcome(loadFeedbackQueue(), item.report.id, outcome, Date.now(), result.status);
+      saveFeedbackQueue(queue);
+      if (dropped) {
+        recordFailedReport(dropped, result.status);
+        console.warn(`Feedback report dropped after repeated HTTP ${result.status}`);
+      }
+    }
+  } finally {
+    feedbackFlushInFlight = false;
+  }
+  renderFeedbackPending();
+  scheduleFeedbackRetry({ wasOffline });
+}
+
+// iOS Safari has no Background Sync, so the page drives delivery itself. The
+// timer covers the case where the `online` event doesn't fire (also flaky on
+// iOS). After an offline stop everything is still due immediately, hence the
+// 60s floor — a 5s one would poll for an entire flight.
+function scheduleFeedbackRetry({ wasOffline = false } = {}) {
+  if (feedbackRetryTimer) {
+    clearTimeout(feedbackRetryTimer);
+    feedbackRetryTimer = null;
+  }
+  if (!feedbackBaseUrl()) return;
+  const due = nextDueAt(loadFeedbackQueue());
+  if (due === null) return;
+  const floor = wasOffline ? 60_000 : 5_000;
+  const delay = Math.min(Math.max(due - Date.now(), floor), BACKOFF_MAX_MS);
+  feedbackRetryTimer = setTimeout(flushFeedback, delay);
+}
+
+function setReportButtonState(btn, reported) {
+  btn.classList.toggle("reported", reported);
+  btn.disabled = reported;
+  btn.setAttribute("aria-pressed", reported ? "true" : "false");
+  btn.setAttribute("aria-label", reported ? "Question reported" : "Report a problem with this question");
+  btn.textContent = reported ? "👎 Reported" : "👎";
+}
+
+// Report sheet. Modeled on showConfirmSheet, but with its own keydown handler
+// (that one traps Tab between exactly two buttons) and top-anchored in CSS so
+// the iOS keyboard doesn't cover it. Resolves true if a report was saved.
+// Opening it pushes no history entry; Back is handled in the popstate handler.
+let feedbackSheetOpen = false;
+let cancelFeedbackSheet = () => {};
+
+function openFeedbackSheet({ question, selected, context }) {
+  if (feedbackSheetOpen || confirmSheetOpen) return Promise.resolve(false);
+  feedbackSheetOpen = true;
+  return new Promise((resolve) => {
+    const previouslyFocused = document.activeElement;
+    el.feedbackSheetQuestion.textContent = question.question;
+    el.feedbackComment.value = "";
+    el.feedbackCounter.textContent = `0/${MAX_COMMENT_LENGTH}`;
+    el.feedbackError.classList.add("hidden");
+    el.feedbackSheetOverlay.classList.remove("hidden");
+    document.getElementById("app").inert = true;
+    el.feedbackComment.focus();
+
+    function cleanup(result) {
+      el.feedbackSheetOverlay.classList.add("hidden");
+      document.getElementById("app").inert = false;
+      el.feedbackSubmit.removeEventListener("click", onSubmit);
+      el.feedbackCancel.removeEventListener("click", onCancel);
+      el.feedbackSheetOverlay.removeEventListener("click", onOverlayClick);
+      el.feedbackComment.removeEventListener("input", onInput);
+      document.removeEventListener("keydown", onKeyDown, true);
+      feedbackSheetOpen = false;
+      cancelFeedbackSheet = () => {};
+      if (previouslyFocused && typeof previouslyFocused.focus === "function" && document.contains(previouslyFocused)) {
+        previouslyFocused.focus();
+      }
+      resolve(result);
+    }
+    function onCancel() {
+      cleanup(false);
+    }
+    function onSubmit() {
+      const res = submitFeedback({ question, selected, comment: el.feedbackComment.value, context });
+      if (!res.ok) {
+        el.feedbackError.classList.remove("hidden");
+        return;
+      }
+      announce("Thanks — report saved. It'll upload next time you're online.");
+      cleanup(true);
+    }
+    function onOverlayClick(e) {
+      if (e.target === el.feedbackSheetOverlay) cleanup(false);
+    }
+    function onInput() {
+      el.feedbackCounter.textContent = `${el.feedbackComment.value.length}/${MAX_COMMENT_LENGTH}`;
+    }
+    function onKeyDown(e) {
+      if (e.key === "Escape") {
+        e.preventDefault();
+        cleanup(false);
+      } else if (e.key === "Tab") {
+        e.preventDefault();
+        const order = [el.feedbackComment, el.feedbackCancel, el.feedbackSubmit];
+        const at = order.indexOf(document.activeElement);
+        const step = e.shiftKey ? -1 : 1;
+        order[(at + step + order.length) % order.length].focus();
+      } else if (e.key === "Enter" && (e.ctrlKey || e.metaKey)) {
+        e.preventDefault();
+        onSubmit();
+      }
+    }
+
+    cancelFeedbackSheet = onCancel;
+    el.feedbackSubmit.addEventListener("click", onSubmit);
+    el.feedbackCancel.addEventListener("click", onCancel);
+    el.feedbackSheetOverlay.addEventListener("click", onOverlayClick);
+    el.feedbackComment.addEventListener("input", onInput);
+    document.addEventListener("keydown", onKeyDown, true);
+  });
+}
+
+// Quiz-screen 👎: available before and after answering (a broken question is
+// often obvious before you pick).
+el.reportBtn.addEventListener("click", async () => {
+  const q = state.roundQuestions[state.currentIndex];
+  if (!q) return;
+  // Otherwise a correct answer's auto-advance fires behind the open sheet.
+  // Not restarted afterwards — the player taps Next.
+  clearAutoAdvanceTimer();
+  const answered = state.answers.length > state.currentIndex;
+  const saved = await openFeedbackSheet({
+    question: q,
+    selected: answered ? state.answers[state.currentIndex].selected : null,
+    context: answered ? "quiz-after-answer" : "quiz-before-answer",
+  });
+  if (!saved) return;
+  setReportButtonState(el.reportBtn, true);
+  // The button is disabled now, so focus can't go back to it.
+  if (!el.nextBtn.classList.contains("layout-hidden")) el.nextBtn.focus();
+  else el.questionText.focus();
+});
 
 // Question files (~7.6MB across all categories) are fetched only when a
 // round actually needs them, not at startup — the category picker renders
@@ -1155,6 +1514,8 @@ function renderQuestion() {
   const sizeClass = textSizeClass(q);
   if (sizeClass) el.quizBody.classList.add(sizeClass);
   el.screenQuiz.style.setProperty("--current-accent", categoryAccentVar(q.category));
+  // The report button is reused across questions, so reset it every time.
+  setReportButtonState(el.reportBtn, loadReportedIds().has(q.id));
   renderQuizStatus();
   el.nextBtn.classList.add("layout-hidden");
   updateStreakBadge(false);
@@ -1236,6 +1597,7 @@ function selectAnswer(selected) {
   renderQuizStatus();
 
   state.answers.push({
+    id: q.id,
     question: q.question,
     options: q.shuffledOptions,
     correctAnswer: q.answer,
@@ -1309,11 +1671,11 @@ function advanceToNext() {
 el.nextBtn.addEventListener("click", advanceToNext);
 
 // Desktop/keyboard play: 1-4 or A-D picks an option, Enter/Space advances
-// once Next is showing, L uses the lifeline. Ignored while the confirm sheet
-// is open or when focus is in a text field (there are none today, but it's
-// cheap insurance).
+// once Next is showing, L uses the lifeline. Ignored while the confirm or
+// feedback sheet is open or when focus is in a text field (the feedback
+// sheet's comment box is one).
 document.addEventListener("keydown", (e) => {
-  if (currentScreen !== "quiz" || confirmSheetOpen) return;
+  if (currentScreen !== "quiz" || confirmSheetOpen || feedbackSheetOpen) return;
   if (e.altKey || e.ctrlKey || e.metaKey) return;
   const tag = document.activeElement && document.activeElement.tagName;
   if (tag === "INPUT" || tag === "TEXTAREA") return;
@@ -1548,6 +1910,7 @@ function showResults() {
   if (isPerfect || isNewBest || isNewStreakRecord) confettiBurst();
 
   el.resultsReview.innerHTML = "";
+  const reportedIds = loadReportedIds();
   for (const a of state.answers) {
     const item = document.createElement("div");
     item.className = "review-item";
@@ -1574,8 +1937,33 @@ function showResults() {
 
     const questionEl = document.createElement("p");
     questionEl.className = "review-question";
+    questionEl.tabIndex = -1; // focus target after a report, since the 👎 disables itself
     questionEl.textContent = a.question;
-    item.appendChild(questionEl);
+    const questionRow = document.createElement("div");
+    questionRow.className = "review-question-row";
+    questionRow.appendChild(questionEl);
+    // Rounds saved before reporting existed have no id on their answers — no
+    // button for those rather than guessing.
+    if (a.id) {
+      const reportBtn = document.createElement("button");
+      reportBtn.type = "button";
+      reportBtn.className = "report-btn";
+      setReportButtonState(reportBtn, reportedIds.has(a.id));
+      reportBtn.addEventListener("click", async () => {
+        const saved = await openFeedbackSheet({
+          // a.options is the shuffled display order; the canonical order isn't
+          // kept on answers, and the snapshot doesn't need it.
+          question: { id: a.id, category: a.category, question: a.question, options: a.options, answer: a.correctAnswer },
+          selected: a.selected,
+          context: "results",
+        });
+        if (!saved) return;
+        setReportButtonState(reportBtn, true);
+        questionEl.focus();
+      });
+      questionRow.appendChild(reportBtn);
+    }
+    item.appendChild(questionRow);
     item.appendChild(optionsList);
     el.resultsReview.appendChild(item);
   }
@@ -1665,6 +2053,7 @@ async function loadVersion() {
     const res = await fetch("version.json");
     const data = await res.json();
     el.appVersion.textContent = `v${data.build}`;
+    state.appBuild = Number(data.build) || 0;
   } catch (e) {
     // non-critical — just don't show a version number
   }
@@ -1679,6 +2068,16 @@ try {
 loadCategories();
 loadVersion();
 renderStatsSummary();
+
+// Feedback upload triggers. The pending line is rendered here too, since
+// startup never goes through showScreen("categories") and flushFeedback
+// returns early while FEEDBACK_DB_URL is unconfigured.
+renderFeedbackPending();
+flushFeedback();
+window.addEventListener("online", flushFeedback);
+document.addEventListener("visibilitychange", () => {
+  if (document.visibilityState === "visible") flushFeedback();
+});
 
 // A new build installs in the background and then *waits* (sw.js no longer
 // calls skipWaiting on its own), so the running session keeps a consistent

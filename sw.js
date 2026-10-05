@@ -1,19 +1,20 @@
 // Stamped by scripts/stamp-version.js — do not edit by hand.
 // Changes automatically whenever app shell or question data changes,
 // which forces old cached data to be replaced next time we're online.
-const CACHE_VERSION = "v1-c9f8bd7a";
+const CACHE_VERSION = "v1-252feb9f";
 
 // Per-file content hashes for everything CACHE_VERSION covers. Lets
 // precache() tell which files actually changed and copy the rest forward
 // from the previous cache instead of re-downloading all of it on every
 // ship. Files not listed here (icons, "./") are always re-fetched.
 const FILE_HASHES = {
-  "index.html": "cc8707f668d84faf",
-  "styles.css": "8ae14e9ad3bd96b9",
+  "index.html": "f04df70ceac04c07",
+  "styles.css": "19b26831f203e33a",
   "game-logic.js": "ddaf34b27bf8a9fc",
-  "app.js": "9e69d7db7cf337d2",
+  "feedback-queue.js": "7ce4f98cafe628e8",
+  "app.js": "222a0046e654aa1d",
   "manifest.webmanifest": "2a35dc54d2e4d65e",
-  "version.json": "9f45a628aa493ba1",
+  "version.json": "d78aefb09b4cf79b",
   "data/categories.json": "0d01f574061f8e2b",
   "data/questions/animals-nature.json": "776a4cc7859f4bdf",
   "data/questions/arts-literature.json": "c2a1cae706e6afd4",
@@ -44,6 +45,7 @@ const APP_SHELL = [
   "index.html",
   "styles.css",
   "game-logic.js",
+  "feedback-queue.js",
   "app.js",
   "manifest.webmanifest",
   "version.json",

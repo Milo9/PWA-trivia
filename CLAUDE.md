@@ -1862,6 +1862,17 @@ query before using either as a multiple-choice answer.
   change it there and add/adjust a test — don't reimplement it inline in
   `app.js`. Anything random takes an `rng` argument so tests stay
   deterministic.
+- **Thumbs-down question feedback: the outbox rules are in
+  `feedback-queue.js` (pure, tested by `test/feedback-queue.test.js`); `app.js`
+  only does storage, fetch and UI.** Delivery is an idempotent `PUT` to
+  `/feedback/<client-generated id>.json`, so retries and double-flushes can't
+  duplicate — never switch it to `POST`/push ids. 401/403/404 must stay
+  retry-forever (RTDB answers 401 for any rule rejection and for a not-yet-set-up
+  project), never dropped. `firebase/database.rules.json` is the only
+  server-side defense (the repo and DB URL are public) and must stay in sync
+  with the payload's key set; a unit test enforces that. The
+  `offline-trivia:feedback-*` localStorage keys must survive Reset Stats. See
+  README "Question feedback" (setup, `feedback-report`, `feedback-check`).
 - **`data/categories.json` carries `questionCount`/`difficultyCounts` per
   category, stamped by `scripts/stamp-version.js` (so by `ship`).** The
   home screen renders from those and never fetches a question file until a
