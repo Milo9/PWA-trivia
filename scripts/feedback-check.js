@@ -121,7 +121,7 @@ async function stubHandler(route) {
 async function newStubbedContext(browser) {
   const context = await browser.newContext({ serviceWorkers: "block", viewport: { width: 375, height: 667 } });
   const appJs = fs.readFileSync(path.join(ROOT, "app.js"), "utf8");
-  const patched = appJs.replace('const FEEDBACK_DB_URL = "";', `const FEEDBACK_DB_URL = "${STUB_ORIGIN}";`);
+  const patched = appJs.replace(/const FEEDBACK_DB_URL = "[^"]*";/, `const FEEDBACK_DB_URL = "${STUB_ORIGIN}";`);
   if (patched === appJs) throw new Error("could not patch FEEDBACK_DB_URL in app.js");
   await context.route((url) => url.pathname === "/app.js" && url.origin === `http://localhost:${PORT}`, (route) =>
     route.fulfill({ status: 200, contentType: "text/javascript", body: patched })

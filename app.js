@@ -31,7 +31,7 @@ const {
 // Firebase Realtime Database root URL, e.g.
 // "https://my-trivia-default-rtdb.firebaseio.com" (no trailing slash).
 // Empty = reports queue locally but never upload. See README "Question feedback".
-const FEEDBACK_DB_URL = "";
+const FEEDBACK_DB_URL = "https://offline-trivia-feedback-default-rtdb.firebaseio.com";
 
 const COUNT_OPTIONS = [10, 20, 30, 40];
 const DIFFICULTY_OPTIONS = [
