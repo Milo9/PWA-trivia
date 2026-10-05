@@ -1,7 +1,7 @@
 // Stamped by scripts/stamp-version.js — do not edit by hand.
 // Changes automatically whenever app shell or question data changes,
 // which forces old cached data to be replaced next time we're online.
-const CACHE_VERSION = "v1-af993c18";
+const CACHE_VERSION = "v1-76aaa901";
 
 // Per-file content hashes for everything CACHE_VERSION covers. Lets
 // precache() tell which files actually changed and copy the rest forward
@@ -14,24 +14,24 @@ const FILE_HASHES = {
   "feedback-queue.js": "7ce4f98cafe628e8",
   "app.js": "e3f50927531d6444",
   "manifest.webmanifest": "2a35dc54d2e4d65e",
-  "version.json": "49da8ce9aca5318b",
+  "version.json": "f25fc4516daaad3e",
   "data/categories.json": "0d01f574061f8e2b",
   "data/questions/animals-nature.json": "776a4cc7859f4bdf",
   "data/questions/arts-literature.json": "c2a1cae706e6afd4",
-  "data/questions/big-bang-theory.json": "529c9b6dffdf66e9",
+  "data/questions/big-bang-theory.json": "382b3424037f1244",
   "data/questions/business-brands.json": "ec733500e0d57056",
   "data/questions/catchphrases.json": "f14bc1f0ef0fdaeb",
   "data/questions/civics-law-economics.json": "f2ed07c0c2bd39c2",
-  "data/questions/film-tv.json": "100a95828d64faf8",
+  "data/questions/film-tv.json": "ec69414dced2b4b1",
   "data/questions/food-drink.json": "701b90b81211bb00",
-  "data/questions/friends.json": "391bb82e63b3968c",
+  "data/questions/friends.json": "34ed9de170ca1fcb",
   "data/questions/general.json": "c3963a36cb069e58",
   "data/questions/geography.json": "e6e2ca79b2529f6b",
   "data/questions/history.json": "11b5b59022e0a519",
   "data/questions/music.json": "c11d2bb1067b38ca",
   "data/questions/mythology-religion.json": "c47f8f1c28067a9f",
   "data/questions/science-technology.json": "0f1c06357dc3caef",
-  "data/questions/space-astronomy.json": "2f8b57edbef6d730",
+  "data/questions/space-astronomy.json": "61fff7f4c763432f",
   "data/questions/sports.json": "9fc2805d8dbcdd72",
   "data/questions/tv-catchphrases.json": "f1ac168ffa2f1c0d",
   "data/questions/world-cultures.json": "7fa0d17e2f7375f2",
