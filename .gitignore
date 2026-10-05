@@ -1,3 +1,6 @@
 node_modules/
 questions_inbox/
 dev-screenshots/
+
+# Never commit credentials (feedback-pull keeps its key in ~/.offline-trivia/)
+*service-account*.json

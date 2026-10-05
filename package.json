@@ -16,7 +16,8 @@
     "ship": "node scripts/ship.js",
     "feedback-check": "node scripts/feedback-check.js",
     "feedback-report": "node scripts/feedback-report.js",
-    "feedback-smoke": "node scripts/feedback-smoke.js"
+    "feedback-smoke": "node scripts/feedback-smoke.js",
+    "feedback-pull": "node scripts/feedback-pull.js"
   },
   "devDependencies": {
     "playwright": "^1.62.1"

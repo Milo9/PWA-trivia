@@ -50,6 +50,8 @@ scripts/stamp-version.js         — updates the offline cache version and
 scripts/serve.js                 — local dev server
 scripts/feedback-check.js        — Playwright check of the feedback feature
 scripts/feedback-report.js       — triage report from a Firebase JSON export
+scripts/feedback-pull.js         — pulls reports straight from Firebase
+                                    (service-account key) and clears resolved ones
 scripts/feedback-smoke.js        — live check of the published Firebase rules
 scripts/generate-icons.ps1       — regenerates icons/ (Windows/PowerShell)
 questions_inbox/                 — gitignored; drop external-agent draft
@@ -442,17 +444,35 @@ The feature works without this; reports just wait on the device.
 
 ### Reviewing reports
 
-In the Firebase console go to **Data → ⋮ → Export JSON**, then:
+The primary route is `npm run feedback-pull`, which reads the database
+directly (the public rules deny all reads, so it authenticates as a Firebase
+service account) and prints the triage view: grouped by question,
+most-reported first, with the current question/answer, each report's comment,
+what the player picked, context, date and app build, plus "(question edited
+since report)" and "(question no longer exists)" flags. `-- --json` emits the
+same as JSON.
+
+One-time setup: Firebase console → Project settings → **Service accounts** →
+**Generate new private key**. Save the JSON **outside this repo** (it grants
+full access to the project) at `~/.offline-trivia/firebase-service-account.json`
+(on Windows, `.offline-trivia` inside your user folder), or point at it with
+`--key <path>` / `$FEEDBACK_SERVICE_ACCOUNT`. The database URL comes from
+`FEEDBACK_DB_URL` in `app.js`.
+
+After a question has been fixed (or the report dismissed):
 
 ```
-npm run feedback-report -- <export.json> [--json]
+npm run feedback-pull -- --resolve <questionId> [<questionId> ...]
 ```
 
-This groups reports by question (most-reported first), shows the current
-question/answer and each report's comment, what the player picked, the
-context, date, and app build, and flags "(question edited since report)" and
-"(question no longer exists)". It's read-only; fix questions in
-`data/questions/` as usual.
+copies every report for those questions to
+`~/.offline-trivia/feedback-archive.jsonl`, then deletes them from the
+database. Nothing is deleted unless you name the question.
+
+No key handy? In the console go to **Data → ⋮ → Export JSON**, then
+`npm run feedback-report -- <export.json> [--json]` gives the same view from
+the file. Both are read-only with respect to `data/questions/`; fixing
+questions is a normal edit afterwards.
 
 ### Testing it
 

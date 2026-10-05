@@ -1873,6 +1873,19 @@ query before using either as a multiple-choice answer.
   with the payload's key set; a unit test enforces that. The
   `offline-trivia:feedback-*` localStorage keys must survive Reset Stats. See
   README "Question feedback" (setup, `feedback-report`, `feedback-check`).
+- **Reviewing player feedback is a first-class workflow: pull it, go
+  through it with the user, fix the questions.** `npm run feedback-pull`
+  (needs the service-account key at `~/.offline-trivia/`, never in the repo)
+  lists reports grouped by question. Treat each report as a lead, not a
+  verdict: re-check the claim (WebSearch for factual disputes) before
+  editing, and apply the same checks as any batch (distractor-also-true,
+  ambiguity, answer-leak, then `npm run validate`). Discuss each question
+  with the user, then fix directly in `data/questions/<category>.json`, or
+  cut it if the fact can't be fixed. Only after the user agrees the question
+  is dealt with run `npm run feedback-pull -- --resolve <questionId>...`
+  (archives, then deletes those reports — don't resolve unprompted). A fix
+  session ships once at the end like any other. The key grants full access to
+  the Firebase project: never print it, copy it into the repo, or commit it.
 - **`data/categories.json` carries `questionCount`/`difficultyCounts` per
   category, stamped by `scripts/stamp-version.js` (so by `ship`).** The
   home screen renders from those and never fetches a question file until a

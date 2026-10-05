@@ -17,12 +17,6 @@ const DATA_DIR = path.join(ROOT, "data");
 
 const args = process.argv.slice(2);
 const asJson = args.includes("--json");
-const file = args.find((a) => !a.startsWith("--"));
-
-if (!file) {
-  console.error("Usage: npm run feedback-report -- <path-to-rtdb-export.json> [--json]");
-  process.exit(2);
-}
 
 function loadJson(filePath) {
   return JSON.parse(fs.readFileSync(filePath, "utf8"));
@@ -109,6 +103,11 @@ function printText(groups, total) {
 }
 
 function main() {
+  const file = args.find((a) => !a.startsWith("--"));
+  if (!file) {
+    console.error("Usage: npm run feedback-report -- <path-to-rtdb-export.json> [--json]");
+    process.exit(2);
+  }
   let exported;
   try {
     exported = loadJson(path.resolve(file));
@@ -122,4 +121,7 @@ function main() {
   else printText(groups, reports.length);
 }
 
-main();
+// feedback-pull.js reuses the loading/grouping/printing; only run as a CLI when invoked directly.
+if (require.main === module) main();
+
+module.exports = { loadCorpus, extractReports, group, printText };
