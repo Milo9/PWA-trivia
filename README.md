@@ -484,6 +484,15 @@ results review, a rejected item not blocking the queue, dedup, and an
 offline launch under the real service worker. Screenshots go to
 `dev-screenshots/feedback/`.
 
+### Not built in v1
+
+- Anonymous Firebase Auth (Identity Toolkit REST `signUp` plus token
+  refresh), so the rules can require `auth != null` and rate-limit on
+  `auth.uid`. Today the rules are the only defense on a public URL.
+- A per-device daily write cap in the rules, using a `/limits/$deviceId`
+  counter.
+- Undo or edit for a report that's still queued.
+
 ## Deploying to GitHub Pages
 
 1. Push this project to a GitHub repo.
