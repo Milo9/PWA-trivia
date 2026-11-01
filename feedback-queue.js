@@ -74,24 +74,28 @@
   }
 
   // Returns a new array; a report for a question that's already queued
-  // replaces that item in place (latest comment wins). Over MAX_QUEUE, the
-  // oldest items fall off the front.
+  // replaces that item in place (latest comment wins). A full queue rejects
+  // new questions instead of silently deleting previously saved reports.
   function enqueue(queue, report) {
     const item = { report, attempts: 0, nextAttemptAt: 0, lastError: "" };
     const next = queue.slice();
-    const existing = next.findIndex((it) => it.report.questionId === report.questionId);
+    const existing = next.findIndex((it) => it.report && it.report.questionId === report.questionId);
     if (existing !== -1) next[existing] = item;
-    else next.push(item);
-    return next.length > MAX_QUEUE ? next.slice(next.length - MAX_QUEUE) : next;
+    else {
+      if (next.length >= MAX_QUEUE) throw new Error("Report queue is full");
+      next.push(item);
+    }
+    return next;
   }
 
   function dueItems(queue, now) {
-    return queue.filter((it) => it.nextAttemptAt <= now);
+    return queue.filter((it) => !it.failed && it.nextAttemptAt <= now);
   }
 
   function nextDueAt(queue) {
-    if (!queue.length) return null;
-    return Math.min(...queue.map((it) => it.nextAttemptAt));
+    const pending = queue.filter(it => !it.failed);
+    if (!pending.length) return null;
+    return Math.min(...pending.map((it) => it.nextAttemptAt));
   }
 
   // result is { networkError: true } or { status: number }.
@@ -115,7 +119,7 @@
   }
 
   function applyOutcome(queue, reportId, outcome, now, status) {
-    const idx = queue.findIndex((it) => it.report.id === reportId);
+    const idx = queue.findIndex((it) => it.report && it.report.id === reportId);
     if (idx === -1) return { queue, dropped: null };
     const item = queue[idx];
 
@@ -125,10 +129,9 @@
     if (outcome === "retry" || outcome === "invalid") {
       const attempts = item.attempts + 1;
       if (outcome === "invalid" && attempts >= MAX_INVALID_ATTEMPTS) {
-        return {
-          queue: queue.filter((_, i) => i !== idx),
-          dropped: { ...item, attempts, lastError: String(status) },
-        };
+        const next = queue.slice();
+        next[idx] = { ...item, attempts, lastError: String(status), failed: true };
+        return { queue: next, dropped: null };
       }
       const updated = {
         ...item,

@@ -1,3 +1,138 @@
+function storageNotice(message) {
+  const status = document.getElementById("storage-status");
+  status.textContent = message;
+  status.classList.remove("hidden");
+}
+
+function readStored(key, fallback = null) {
+  try {
+    const raw = readRawStored(key);
+    return raw === null ? fallback : JSON.parse(raw);
+  } catch (e) {
+    storageNotice("Some saved data couldn't be read. Your original data has been kept on this device.");
+    return fallback;
+  }
+}
+
+function writeStored(key, value) {
+  try {
+    const raw = JSON.stringify(value);
+    localStorage.setItem(key, raw);
+    if (activeStorageTransaction && sharedKey(activeStorageTransaction.name, key)) activeStorageTransaction.data[key] = raw;
+    return true;
+  } catch (e) {
+    storageNotice("Couldn't save on this device. Keep this tab open; recent progress may be lost if you close it. Free some storage and try again.");
+    return false;
+  }
+}
+
+// IndexedDB is authoritative during shared mutations. Its read/write transaction
+// also serializes tabs whose localStorage mirrors haven't received storage events
+// yet. Web Locks avoid needless contention where supported; neither path relies
+// on localStorage event timing for correctness. All action callbacks are synchronous.
+let storageLockDb;
+let activeStorageTransaction = null;
+
+function sharedKey(name, key) {
+  if (name === "feedback") return ["offline-trivia:feedback-queue", "offline-trivia:feedback-reported", "offline-trivia:feedback-failed"].includes(key);
+  if (name === "stats") return key === "offline-trivia:stats";
+  if (name === "prefs") return key === "offline-trivia:prefs";
+  if (name === "seen") return key.startsWith("offline-trivia:seen:");
+  if (name.startsWith("round:")) return key === `offline-trivia:${name}`;
+  return false;
+}
+
+function readRawStored(key) {
+  if (activeStorageTransaction && sharedKey(activeStorageTransaction.name, key)) return activeStorageTransaction.data[key] ?? null;
+  return localStorage.getItem(key);
+}
+
+function removeStored(key) {
+  localStorage.removeItem(key);
+  if (activeStorageTransaction && sharedKey(activeStorageTransaction.name, key)) delete activeStorageTransaction.data[key];
+}
+
+function storageDatabase() {
+  if (!storageLockDb) storageLockDb = new Promise((resolve, reject) => {
+    const request = indexedDB.open("offline-trivia-locks", 1);
+    request.onupgradeneeded = () => request.result.createObjectStore("locks");
+    request.onsuccess = () => {
+      request.result.onversionchange = () => { request.result.close(); storageLockDb = null; };
+      resolve(request.result);
+    };
+    request.onerror = () => reject(request.error);
+    request.onblocked = () => reject(new Error("Storage is busy"));
+  });
+  return storageLockDb;
+}
+
+async function restoreStorageMirrors() {
+  try {
+    const db = await storageDatabase();
+    await new Promise((resolve, reject) => {
+      const transaction = db.transaction("locks", "readwrite");
+      const store = transaction.objectStore("locks");
+      let names = [];
+      store.getAllKeys().onsuccess = event => { names = event.target.result; };
+      store.getAll().onsuccess = event => {
+        try {
+          event.target.result.forEach((record, index) => {
+            if (!record || record.v !== 1 || !record.data || typeof record.data !== "object") return;
+            const name = names[index];
+            for (const key of Object.keys(localStorage).filter(key => sharedKey(name, key))) {
+              if (!Object.hasOwn(record.data, key)) localStorage.removeItem(key);
+            }
+            for (const [key, raw] of Object.entries(record.data)) {
+              if (sharedKey(name, key) && typeof raw === "string" && localStorage.getItem(key) !== raw) localStorage.setItem(key, raw);
+            }
+          });
+        } catch (e) { transaction.abort(); reject(e); }
+      };
+      transaction.oncomplete = resolve;
+      transaction.onerror = transaction.onabort = () => reject(transaction.error);
+    });
+  } catch (e) {
+    storageLockDb = null;
+    storageNotice("Couldn't restore all saved data. Keep this tab open and allow browser storage before continuing.");
+  }
+}
+
+async function withStorageLock(name, action) {
+  try {
+    const transact = async () => {
+      const db = await storageDatabase();
+      return new Promise((resolve, reject) => {
+        const transaction = db.transaction("locks", "readwrite");
+        const store = transaction.objectStore("locks");
+        const request = store.get(name);
+        let result;
+        request.onsuccess = () => {
+          try {
+            const data = request.result && request.result.v === 1 ? request.result.data : Object.fromEntries(
+              Object.keys(localStorage).filter(key => sharedKey(name, key)).map(key => [key, localStorage.getItem(key)])
+            );
+            activeStorageTransaction = { name, data };
+            result = action();
+            if (result && typeof result.then === "function") throw new Error("Storage actions must be synchronous");
+            store.put({ v: 1, data }, name);
+          } catch (e) { transaction.abort(); reject(e); }
+          finally { activeStorageTransaction = null; }
+        };
+        transaction.oncomplete = () => resolve(result);
+        transaction.onerror = transaction.onabort = () => reject(transaction.error || new Error("Storage operation failed"));
+      });
+    };
+    if (navigator.locks) return await navigator.locks.request(`offline-trivia:${name}`, transact);
+    return await transact();
+  } catch (e) {
+    storageLockDb = null;
+    storageNotice("Couldn't safely update saved data. Keep this tab open and allow browser storage, then try again.");
+    return null;
+  }
+}
+
+document.getElementById("storage-reload-btn").onclick = () => window.location.reload();
+
 // Pure rules (round building, resume reconciliation, stats) live in
 // game-logic.js, loaded before this file; see test/game-logic.test.js.
 const {
@@ -108,6 +243,13 @@ const state = {
   pendingCategories: [],
   settings: { count: 10, difficulty: "any", mode: "standard" },
   roundSettings: null, // settings snapshot of the active/last-shown round (Play Again replays these, not the picker's current choices)
+  roundId: null,
+  roundRevision: 0,
+  roundPersisted: false,
+  roundConflict: false,
+  resultsRecorded: false,
+  resultsInFlight: false,
+  answerPending: null,
   loadedFiles: {}, // { [categoryId]: Promise<Question[]> } — question files are fetched lazily, see ensureLoaded()
   roundQuestions: [],
   currentIndex: 0,
@@ -299,20 +441,11 @@ function defaultPrefs() {
 }
 
 function loadPrefs() {
-  try {
-    const raw = localStorage.getItem(PREFS_KEY);
-    return raw ? { ...defaultPrefs(), ...JSON.parse(raw) } : defaultPrefs();
-  } catch (e) {
-    return defaultPrefs();
-  }
+  return StorageLogic.prefs(readStored(PREFS_KEY), defaultPrefs());
 }
 
 function savePrefs(prefs) {
-  try {
-    localStorage.setItem(PREFS_KEY, JSON.stringify(prefs));
-  } catch (e) {
-    // localStorage unavailable — prefs just won't persist
-  }
+  return writeStored(PREFS_KEY, { ...prefs, v: 1 });
 }
 
 const prefs = loadPrefs();
@@ -336,24 +469,27 @@ function renderPrefsRow() {
   el.themeToggleBtn.classList.toggle("active", prefs.theme === "light");
 }
 
-el.soundToggleBtn.addEventListener("click", () => {
+el.soundToggleBtn.addEventListener("click", () => withStorageLock("prefs", () => {
+  Object.assign(prefs, loadPrefs());
   prefs.sound = !prefs.sound;
   savePrefs(prefs);
   renderPrefsRow();
-});
+}));
 
-el.autoAdvanceToggleBtn.addEventListener("click", () => {
+el.autoAdvanceToggleBtn.addEventListener("click", () => withStorageLock("prefs", () => {
+  Object.assign(prefs, loadPrefs());
   prefs.autoAdvance = !prefs.autoAdvance;
   savePrefs(prefs);
   renderPrefsRow();
-});
+}));
 
-el.themeToggleBtn.addEventListener("click", () => {
+el.themeToggleBtn.addEventListener("click", () => withStorageLock("prefs", () => {
+  Object.assign(prefs, loadPrefs());
   prefs.theme = prefs.theme === "light" ? "dark" : "light";
   savePrefs(prefs);
   applyTheme();
   renderPrefsRow();
-});
+}));
 
 applyTheme();
 renderPrefsRow();
@@ -368,35 +504,23 @@ function savePickerState() {
     localStorage.setItem(
       PICKER_STATE_KEY,
       JSON.stringify({
+        v: 1,
         selectedCategoryIds: Array.from(state.selectedCategoryIds),
         settings: state.settings,
       })
     );
   } catch (e) {
-    // localStorage unavailable — picker state just won't persist
+    storageNotice("Couldn't save your category selection. Allow browser storage and try again.");
   }
 }
 
 function loadPickerState() {
-  try {
-    const raw = localStorage.getItem(PICKER_STATE_KEY);
-    if (!raw) return null;
-    const parsed = JSON.parse(raw);
-    const settings = parsed.settings || {};
-    const sanitized = {
-      count: COUNT_OPTIONS.includes(settings.count) ? settings.count : state.settings.count,
-      difficulty: DIFFICULTY_OPTIONS.some((d) => d.id === settings.difficulty)
-        ? settings.difficulty
-        : state.settings.difficulty,
-      mode: MODE_OPTIONS.some((m) => m.id === settings.mode) ? settings.mode : state.settings.mode,
-    };
-    return {
-      selectedCategoryIds: Array.isArray(parsed.selectedCategoryIds) ? parsed.selectedCategoryIds : [],
-      settings: sanitized,
-    };
-  } catch (e) {
-    return null;
-  }
+  const value = readStored(PICKER_STATE_KEY);
+  if (!value || typeof value !== "object" || (value.v !== undefined && value.v !== 1)) return null;
+  return {
+    selectedCategoryIds: Array.isArray(value.selectedCategoryIds) ? value.selectedCategoryIds.filter(StorageLogic.categoryId) : [],
+    settings: StorageLogic.settings(value.settings),
+  };
 }
 
 const LAST_ROUND_KEY = "offline-trivia:last-round";
@@ -409,22 +533,20 @@ function saveLastRoundConfig(categories, settings) {
     localStorage.setItem(
       LAST_ROUND_KEY,
       JSON.stringify({
+        v: 1,
         categoryIds: categories.map((c) => c.id),
         settings,
       })
     );
   } catch (e) {
-    // localStorage unavailable — Quick Play just won't be offered
+    storageNotice("Couldn't save Quick Play settings. Allow browser storage and try again.");
   }
 }
 
 function loadLastRoundConfig() {
-  try {
-    const raw = localStorage.getItem(LAST_ROUND_KEY);
-    return raw ? JSON.parse(raw) : null;
-  } catch (e) {
-    return null;
-  }
+  const value = readStored(LAST_ROUND_KEY);
+  if (!value || !Array.isArray(value.categoryIds) || (value.v !== undefined && value.v !== 1)) return null;
+  return { categoryIds: [...new Set(value.categoryIds.filter(StorageLogic.categoryId))], settings: StorageLogic.settings(value.settings) };
 }
 
 function quickPlayLabel(categories, settings) {
@@ -603,51 +725,48 @@ const FEEDBACK_REPORTED_KEY = "offline-trivia:feedback-reported";
 const FEEDBACK_DEVICE_KEY = "offline-trivia:feedback-device";
 const FEEDBACK_FAILED_KEY = "offline-trivia:feedback-failed";
 const FEEDBACK_REPORTED_CAP = 5000;
-const FEEDBACK_FAILED_CAP = 20;
 const FEEDBACK_FETCH_TIMEOUT_MS = 15_000;
 
 // Not clearing these in "Reset Stats" is deliberate: they aren't stats, and
 // wiping them would silently throw away reports that haven't uploaded yet.
 
 function loadJsonArray(key) {
-  try {
-    const raw = localStorage.getItem(key);
-    const parsed = raw ? JSON.parse(raw) : [];
-    return Array.isArray(parsed) ? parsed : [];
-  } catch (e) {
-    return [];
-  }
+  const value = readStored(key, []);
+  if (Array.isArray(value)) return value;
+  storageNotice("Some saved data needs recovery. Your original data has been kept on this device.");
+  return [];
 }
 
 function loadFeedbackQueue() {
-  return loadJsonArray(FEEDBACK_QUEUE_KEY).filter(
-    (it) => it && it.report && typeof it.report.id === "string"
-  );
+  let value;
+  try {
+    const raw = readRawStored(FEEDBACK_QUEUE_KEY);
+    try { value = raw === null ? [] : JSON.parse(raw); }
+    catch (e) { value = raw; }
+  } catch (e) {
+    storageNotice("Couldn't read saved reports. Allow browser storage before submitting another report.");
+    return [{ original: null, report: null, failed: true, attempts: 0, nextAttemptAt: 0 }];
+  }
+  const queue = StorageLogic.queue(value);
+  // Keep malformed data exportable; never overwrite it with an empty queue.
+  return queue || [{ original: value, report: null, failed: true, attempts: 0, nextAttemptAt: 0, lastError: "Saved reports need recovery" }];
 }
 
-// Returns whether the write stuck, so callers never claim a report was saved
-// when it wasn't (storage full / unavailable).
 function saveFeedbackQueue(queue) {
-  try {
-    localStorage.setItem(FEEDBACK_QUEUE_KEY, JSON.stringify(queue));
-    return true;
-  } catch (e) {
-    return false;
-  }
+  return writeStored(FEEDBACK_QUEUE_KEY, queue);
 }
 
 function loadReportedIds() {
-  return new Set(loadJsonArray(FEEDBACK_REPORTED_KEY));
+  return new Set([
+    ...loadJsonArray(FEEDBACK_REPORTED_KEY).filter(StorageLogic.questionId),
+    ...loadFeedbackQueue().map(item => item.report && item.report.questionId).filter(StorageLogic.questionId),
+  ]);
 }
 
 function addReportedId(questionId) {
-  const ids = loadJsonArray(FEEDBACK_REPORTED_KEY).filter((id) => id !== questionId);
+  const ids = loadJsonArray(FEEDBACK_REPORTED_KEY).filter(id => StorageLogic.questionId(id) && id !== questionId);
   ids.push(questionId);
-  try {
-    localStorage.setItem(FEEDBACK_REPORTED_KEY, JSON.stringify(ids.slice(-FEEDBACK_REPORTED_CAP)));
-  } catch (e) {
-    // localStorage unavailable — the "already reported" state just won't persist
-  }
+  return writeStored(FEEDBACK_REPORTED_KEY, ids.slice(-FEEDBACK_REPORTED_CAP));
 }
 
 function newReportId() {
@@ -676,15 +795,9 @@ function getDeviceId() {
   return memoryDeviceId;
 }
 
-// Debug aid only, never shown in the UI: items dropped as permanently invalid.
-function recordFailedReport(item, status) {
-  const failed = loadJsonArray(FEEDBACK_FAILED_KEY);
-  failed.push({ report: item.report, status, at: Date.now() });
-  try {
-    localStorage.setItem(FEEDBACK_FAILED_KEY, JSON.stringify(failed.slice(-FEEDBACK_FAILED_CAP)));
-  } catch (e) {
-    // ignore
-  }
+// Legacy failed reports remain exportable; new failures stay in the outbox.
+function loadFailedReports() {
+  return loadJsonArray(FEEDBACK_FAILED_KEY);
 }
 
 function feedbackBaseUrl() {
@@ -693,40 +806,73 @@ function feedbackBaseUrl() {
 }
 
 function renderFeedbackPending() {
-  const n = loadFeedbackQueue().length;
-  if (n > 0) {
-    el.feedbackPending.textContent = `${n} report${n === 1 ? "" : "s"} waiting to upload`;
-    el.feedbackPending.classList.remove("hidden");
-  } else {
-    el.feedbackPending.classList.add("hidden");
-  }
+  const queue = loadFeedbackQueue();
+  const failed = queue.filter(item => item.failed).length + loadFailedReports().length;
+  const pending = queue.filter(item => !item.failed).length;
+  el.feedbackPending.textContent = [
+    pending ? `${pending} report${pending === 1 ? "" : "s"} waiting to upload` : "",
+    failed ? `${failed} report${failed === 1 ? "" : "s"} need attention` : "",
+  ].filter(Boolean).join(" · ");
+  el.feedbackPending.classList.toggle("hidden", !pending && !failed);
+  document.getElementById("feedback-recovery").classList.toggle("hidden", !pending && !failed);
+  document.getElementById("feedback-retry-btn").classList.toggle("hidden", !failed);
 }
 
-// Queue mutation rule: re-read from storage, apply the pure function, write
-// back. Never write a copy read before an await, or an item enqueued during a
-// flush would be lost.
-function submitFeedback({ question, selected, comment, context }) {
+async function submitFeedback({ question, selected, comment, context }) {
   let report;
   try {
-    report = createReport({
-      id: newReportId(),
-      question,
-      selected,
-      comment,
-      context,
-      deviceId: getDeviceId(),
-      appBuild: state.appBuild,
-      now: Date.now(),
-    });
-  } catch (e) {
-    return { ok: false };
+    report = createReport({ id: newReportId(), question, selected, comment, context, deviceId: getDeviceId(), appBuild: state.appBuild, now: Date.now() });
+    if (!StorageLogic.report(report)) return { ok: false, message: "This question's report needs recovery. Please export your reports." };
+  } catch (e) { return { ok: false }; }
+  const result = await withStorageLock("feedback", () => {
+    const queue = loadFeedbackQueue();
+    if (loadReportedIds().has(question.id)) return { ok: true };
+    let next;
+    try { next = enqueue(queue, report); }
+    catch (e) { return { ok: false, message: "Your report queue is full. Upload or export existing reports before trying again." }; }
+    if (!saveFeedbackQueue(next)) return { ok: false };
+    addReportedId(question.id);
+    return { ok: true };
+  });
+  renderFeedbackPending();
+  if (result && result.ok) flushFeedback();
+  return result || { ok: false };
+}
+
+document.getElementById("feedback-export-btn").onclick = () => {
+  // Include raw values too, so even invalid JSON can be recovered without loss.
+  const raw = {};
+  for (const key of [FEEDBACK_QUEUE_KEY, FEEDBACK_FAILED_KEY]) {
+    try { raw[key] = localStorage.getItem(key); } catch (e) { storageNotice("Couldn't read reports for export."); return; }
   }
-  if (!saveFeedbackQueue(enqueue(loadFeedbackQueue(), report))) return { ok: false };
-  addReportedId(question.id);
+  const url = URL.createObjectURL(new Blob([JSON.stringify({ v: 1, exportedAt: new Date().toISOString(), reports: loadFeedbackQueue(), legacyFailures: loadFailedReports(), raw }, null, 2)], { type: "application/json" }));
+  const link = document.createElement("a");
+  link.href = url;
+  link.download = "offline-trivia-reports.json";
+  link.click();
+  setTimeout(() => URL.revokeObjectURL(url), 60_000);
+};
+
+document.getElementById("feedback-retry-btn").onclick = async () => {
+  await withStorageLock("feedback", () => {
+    const queue = loadFeedbackQueue();
+    const legacy = loadFailedReports();
+    for (const item of legacy) {
+      if (item && StorageLogic.report(item.report) && !queue.some(q => q.report && q.report.id === item.report.id)) {
+        // Preserve every legacy failure, even when migration temporarily exceeds the cap.
+        queue.push({ report: item.report, failed: true, attempts: 0, nextAttemptAt: 0, lastError: String(item.status || "") });
+      }
+    }
+    const next = queue.map(item => StorageLogic.report(item.report) ? { ...item, failed: false, attempts: 0, nextAttemptAt: 0, lastError: "" } : item);
+    if (saveFeedbackQueue(next)) {
+      // Only remove archived entries after their recoverable copies were saved.
+      writeStored(FEEDBACK_FAILED_KEY, legacy.filter(item => !item || !StorageLogic.report(item.report)));
+    }
+    if (next.some(item => item.failed)) storageNotice("Some reports need manual recovery. Export reports to keep a copy.");
+  });
   renderFeedbackPending();
   flushFeedback();
-  return { ok: true };
-}
+};
 
 let feedbackFlushInFlight = false;
 let feedbackRetryTimer = null;
@@ -750,38 +896,43 @@ async function sendFeedbackItem(base, item) {
   }
 }
 
-// Deliberately not gated on navigator.onLine (unreliable behind captive
-// portals / airplane wifi) — a failed fetch costs nothing. PUT to a client-
-// generated id is idempotent, so a lost response or two tabs flushing at once
-// just rewrites the same record; that's why there's no cross-tab lock.
+// Reserve delivery across tabs, but keep the storage lock out of the network
+// wait so another tab can enqueue while a request is pending.
 async function flushFeedback() {
   const base = feedbackBaseUrl();
   if (!base || feedbackFlushInFlight) return;
   feedbackFlushInFlight = true;
   let wasOffline = false;
   try {
-    for (const item of dueItems(loadFeedbackQueue(), Date.now())) {
-      const result = await sendFeedbackItem(base, item);
+    const pending = dueItems(loadFeedbackQueue(), Date.now());
+    for (const candidate of pending) {
+      const reservation = await withStorageLock("feedback", () => {
+        const queue = loadFeedbackQueue();
+        const item = queue.find(it => it.report && it.report.id === candidate.report.id);
+        if (!item || item.failed || item.nextAttemptAt > Date.now() || (item.sendingUntil || 0) > Date.now()) return null;
+        item.sendingUntil = Date.now() + FEEDBACK_FETCH_TIMEOUT_MS + 5000;
+        item.deliveryToken = newReportId();
+        return saveFeedbackQueue(queue) ? { ...item } : null;
+      });
+      if (!reservation) continue;
+      const result = await sendFeedbackItem(base, reservation);
       const outcome = classify(result);
-      if (outcome === "offline") {
-        // Stop the pass; online/visibility/timer triggers will try again.
-        wasOffline = true;
-        break;
-      }
-      // Never stop on "retry"/"invalid": one bad payload must not block the
-      // rest of the queue.
-      const { queue, dropped } = applyOutcome(loadFeedbackQueue(), item.report.id, outcome, Date.now(), result.status);
-      saveFeedbackQueue(queue);
-      if (dropped) {
-        recordFailedReport(dropped, result.status);
-        console.warn(`Feedback report dropped after repeated HTTP ${result.status}`);
-      }
+      await withStorageLock("feedback", () => {
+        const queue = loadFeedbackQueue();
+        const item = queue.find(it => it.report && it.report.id === reservation.report.id);
+        if (!item || item.deliveryToken !== reservation.deliveryToken) return;
+        delete item.sendingUntil;
+        delete item.deliveryToken;
+        const next = applyOutcome(queue, item.report.id, outcome, Date.now(), result.status).queue;
+        saveFeedbackQueue(next);
+      });
+      if (outcome === "offline") { wasOffline = true; break; }
     }
   } finally {
     feedbackFlushInFlight = false;
+    renderFeedbackPending();
+    scheduleFeedbackRetry({ wasOffline });
   }
-  renderFeedbackPending();
-  scheduleFeedbackRetry({ wasOffline });
 }
 
 // iOS Safari has no Background Sync, so the page drives delivery itself. The
@@ -822,14 +973,18 @@ function openFeedbackSheet({ question, selected, context }) {
   return new Promise((resolve) => {
     const previouslyFocused = document.activeElement;
     el.feedbackSheetQuestion.textContent = question.question;
+    let closed = false;
     el.feedbackComment.value = "";
     el.feedbackCounter.textContent = `0/${MAX_COMMENT_LENGTH}`;
     el.feedbackError.classList.add("hidden");
+    el.feedbackSubmit.disabled = false;
     el.feedbackSheetOverlay.classList.remove("hidden");
     document.getElementById("app").inert = true;
     el.feedbackComment.focus();
 
     function cleanup(result) {
+      if (closed) return;
+      closed = true;
       el.feedbackSheetOverlay.classList.add("hidden");
       document.getElementById("app").inert = false;
       el.feedbackSubmit.removeEventListener("click", onSubmit);
@@ -847,9 +1002,17 @@ function openFeedbackSheet({ question, selected, context }) {
     function onCancel() {
       cleanup(false);
     }
-    function onSubmit() {
-      const res = submitFeedback({ question, selected, comment: el.feedbackComment.value, context });
+    let submitting = false;
+    async function onSubmit() {
+      if (submitting) return;
+      submitting = true;
+      el.feedbackSubmit.disabled = true;
+      const res = await submitFeedback({ question, selected, comment: el.feedbackComment.value, context });
+      if (closed) return;
+      submitting = false;
+      el.feedbackSubmit.disabled = false;
       if (!res.ok) {
+        el.feedbackError.textContent = res.message || "Couldn't save your report on this device. Keep your comment and try again.";
         el.feedbackError.classList.remove("hidden");
         return;
       }
@@ -890,6 +1053,7 @@ function openFeedbackSheet({ question, selected, context }) {
 // Quiz-screen 👎: available before and after answering (a broken question is
 // often obvious before you pick).
 el.reportBtn.addEventListener("click", async () => {
+  if (state.answerPending) await state.answerPending;
   const q = state.roundQuestions[state.currentIndex];
   if (!q) return;
   // Otherwise a correct answer's auto-advance fires behind the open sheet.
@@ -992,7 +1156,7 @@ async function loadCategories() {
     renderCategoryList();
     renderCategoryCounts();
     renderQuickPlay();
-    tryResumeActiveRound();
+    await tryResumeActiveRound();
   } catch (e) {
     el.categoriesStatus.textContent = "Couldn't load categories. Try reopening the app.";
   }
@@ -1189,20 +1353,11 @@ function seenStorageKey(categoryId) {
 }
 
 function loadSeenIds(categoryId) {
-  try {
-    const raw = localStorage.getItem(seenStorageKey(categoryId));
-    return raw ? new Set(JSON.parse(raw)) : new Set();
-  } catch (e) {
-    return new Set();
-  }
+  return new Set(loadJsonArray(seenStorageKey(categoryId)).filter(StorageLogic.questionId));
 }
 
 function saveSeenIds(categoryId, seenSet) {
-  try {
-    localStorage.setItem(seenStorageKey(categoryId), JSON.stringify(Array.from(seenSet)));
-  } catch (e) {
-    // localStorage unavailable — repeat-avoidance just won't persist
-  }
+  return writeStored(seenStorageKey(categoryId), Array.from(seenSet));
 }
 
 const ACTIVE_ROUND_KEY = "offline-trivia:active-round";
@@ -1211,74 +1366,96 @@ const ACTIVE_ROUND_KEY = "offline-trivia:active-round";
 // gets backgrounded/reloaded mid-round (or mid-flight) can pick back up
 // instead of losing all progress. Only ever saved at a question boundary
 // (not mid-reveal), so resuming always lands on a fresh, unanswered
-// question — see the currentIndex/answers.length reconciliation in
-// tryResumeActiveRound.
+// question. The lifeline is checkpointed too so reloads cannot restore a used
+// lifeline; tryResumeActiveRound reconciles answers before continuing.
+function roundStorageKey(id) { return `offline-trivia:round:${id}`; }
+
 function saveActiveRound() {
-  try {
-    const seenByCat = {};
-    for (const catId of Object.keys(state.seenByCat)) {
-      seenByCat[catId] = Array.from(state.seenByCat[catId]);
-    }
-    localStorage.setItem(
-      ACTIVE_ROUND_KEY,
-      JSON.stringify({
-        currentCategoryIds: state.currentCategories.map((c) => c.id),
-        roundQuestions: state.roundQuestions,
-        currentIndex: state.currentIndex,
-        score: state.score,
-        streak: state.streak,
-        bestStreak: state.bestStreak,
-        answers: state.answers,
-        seenByCat,
-        lifelineUsed: state.lifelineUsed,
-        mode: state.mode,
-        lives: state.lives,
-        settings: state.roundSettings,
-      })
-    );
-  } catch (e) {
-    // localStorage unavailable — resume just won't work
-  }
+  const seenByCat = {};
+  for (const catId of Object.keys(state.seenByCat)) seenByCat[catId] = Array.from(state.seenByCat[catId]);
+  const snapshot = {
+    v: 1, roundId: state.roundId, revision: state.roundRevision + 1, savedAt: Date.now(),
+    currentCategoryIds: state.currentCategories.map(c => c.id), roundQuestions: state.roundQuestions,
+    currentIndex: state.currentIndex, score: state.score, streak: state.streak, bestStreak: state.bestStreak,
+    answers: state.answers, seenByCat, lifelineUsed: state.lifelineUsed, mode: state.mode, lives: state.lives, settings: state.roundSettings,
+  };
+  const ok = writeStored(roundStorageKey(state.roundId), snapshot);
+  if (ok) { state.roundRevision = snapshot.revision; state.roundPersisted = true; }
+  return ok;
 }
 
-function clearActiveRound() {
+function clearActiveRound(roundId = state.roundId) {
   try {
-    localStorage.removeItem(ACTIVE_ROUND_KEY);
-  } catch (e) {
-    // ignore
-  }
+    if (roundId) removeStored(roundStorageKey(roundId));
+    const legacy = readStored(ACTIVE_ROUND_KEY);
+    if (legacy && (legacy.roundId || `legacy-${hashLegacyRound(legacy)}`) === roundId) localStorage.removeItem(ACTIVE_ROUND_KEY);
+  } catch (e) { storageNotice("Couldn't clear the saved round. Its result will still be counted only once."); }
 }
 
 function loadActiveRound() {
+  const candidates = [];
   try {
-    const raw = localStorage.getItem(ACTIVE_ROUND_KEY);
-    return raw ? JSON.parse(raw) : null;
-  } catch (e) {
-    return null;
-  }
+    for (const key of Object.keys(localStorage)) {
+      if (!key.startsWith("offline-trivia:round:") && key !== ACTIVE_ROUND_KEY) continue;
+      const raw = readStored(key);
+      const saved = StorageLogic.round(raw);
+      if (!saved) { storageNotice("A saved round couldn't be restored. Other progress is still available; the original save has been kept."); continue; }
+      // Stable identity also prevents two tabs restoring the same legacy round from counting it twice.
+      if (!saved.roundId) saved.roundId = `legacy-${hashLegacyRound(raw)}`;
+      if (loadStats().completedRoundIds.includes(saved.roundId)) continue;
+      candidates.push(saved);
+    }
+  } catch (e) { storageNotice("Saved rounds aren't available. Allow browser storage to resume progress."); }
+  return candidates.sort((a, b) => b.savedAt - a.savedAt)[0] || null;
+}
+
+function hashLegacyRound(value) {
+  let hash = 2166136261;
+  for (const char of JSON.stringify(value)) hash = Math.imul(hash ^ char.charCodeAt(0), 16777619);
+  return (hash >>> 0).toString(36);
+}
+
+function roundIsCurrent() {
+  if (state.roundConflict) return false;
+  if (!state.roundPersisted) return true;
+  const saved = readStored(roundStorageKey(state.roundId));
+  if (saved && saved.revision === state.roundRevision) return true;
+  state.roundConflict = true;
+  clearAutoAdvanceTimer();
+  storageNotice("This round changed in another tab. Reload saved progress to continue with the latest answers.");
+  document.getElementById("storage-reload-btn").classList.remove("hidden");
+  return false;
 }
 
 // Offers to resume a round saved by saveActiveRound(). Requires
 // state.categoryById to already be populated, so this must run after
 // loadCategories() resolves.
 async function tryResumeActiveRound() {
-  const saved = loadActiveRound();
-  if (!saved || !saved.roundQuestions || !saved.roundQuestions.length) return;
+  let saved = loadActiveRound();
+  if (!saved) return;
 
   const categories = saved.currentCategoryIds.map((id) => state.categoryById[id]);
   if (categories.some((c) => !c)) return; // categories didn't load — try again next launch
 
-  const { answeredCount, mode: savedMode, lives: savedLives, finished, currentIndex } = reconcileResume(saved);
+  const { answeredCount, finished: promptFinished } = reconcileResume(saved);
   const confirmed = await showConfirmSheet({
-    title: finished ? "See your last round?" : "Resume your round?",
-    message: finished
+    title: promptFinished ? "See your last round?" : "Resume your round?",
+    message: promptFinished
       ? "Your last round's results are ready."
       : `Question ${answeredCount + 1} of ${saved.roundQuestions.length}.`,
-    confirmText: finished ? "See Results" : "Resume",
+    confirmText: promptFinished ? "See Results" : "Resume",
     cancelText: "Discard",
   });
+  const latest = StorageLogic.round(readStored(roundStorageKey(saved.roundId)));
+  if (latest) saved = latest;
+  const { mode: savedMode, lives: savedLives, finished, currentIndex } = reconcileResume(saved);
+  state.roundId = saved.roundId;
+  state.roundRevision = saved.revision;
+  state.roundPersisted = !!readStored(roundStorageKey(saved.roundId));
+  state.roundConflict = false;
+  state.resultsRecorded = false;
   if (!confirmed) {
-    clearActiveRound();
+    await withStorageLock(`round:${state.roundId}`, clearActiveRound);
     return;
   }
 
@@ -1299,6 +1476,7 @@ async function tryResumeActiveRound() {
     state.seenByCat[catId] = new Set(saved.seenByCat[catId]);
   }
   state.currentIndex = currentIndex;
+  if (!state.roundPersisted) saveActiveRound();
 
   if (finished) {
     el.progressFill.style.width = "100%";
@@ -1312,28 +1490,21 @@ async function tryResumeActiveRound() {
 const STATS_KEY = "offline-trivia:stats";
 
 function loadStats() {
-  try {
-    const raw = localStorage.getItem(STATS_KEY);
-    return raw ? { ...defaultStats(), ...JSON.parse(raw) } : defaultStats();
-  } catch (e) {
-    return defaultStats();
-  }
+  return StorageLogic.stats(readStored(STATS_KEY), defaultStats());
 }
 
-function saveStats(stats) {
-  try {
-    localStorage.setItem(STATS_KEY, JSON.stringify(stats));
-  } catch (e) {
-    // localStorage unavailable — stats just won't persist
-  }
-}
+function saveStats(stats) { return writeStored(STATS_KEY, { ...stats, v: 1 }); }
 
-// Records this game's result (see GameLogic.applyGameResult for the rules)
-// and returns the updated overall stats.
-function recordGameResult(score, total, answers, bestStreak, mode) {
-  const stats = applyGameResult(loadStats(), { score, total, answers, bestStreak, mode });
-  saveStats(stats);
-  return stats;
+async function recordGameResult(score, total, answers, bestStreak, mode) {
+  const roundId = state.roundId;
+  return withStorageLock("stats", () => {
+    const prior = loadStats();
+    if (prior.completedRoundIds.includes(roundId)) return { prior, updated: prior };
+    const updated = applyGameResult(prior, { score, total, answers, bestStreak, mode });
+    updated.completedRoundIds = [...prior.completedRoundIds, roundId];
+    if (!saveStats(updated)) return null;
+    return { prior, updated };
+  });
 }
 
 function renderStatsSummary() {
@@ -1385,7 +1556,11 @@ el.resetStatsBtn.addEventListener("click", async () => {
     danger: true,
   });
   if (!confirmed) return;
-  saveStats(defaultStats());
+  await withStorageLock("stats", () => {
+    // Keep completion identities so an already-open results tab cannot re-add a reset game.
+    const completedRoundIds = loadStats().completedRoundIds;
+    saveStats({ ...defaultStats(), completedRoundIds });
+  });
   renderStatsSummary();
   renderCategoryCounts();
 });
@@ -1398,39 +1573,54 @@ function isRoundOver() {
 // `settings` is passed explicitly (rather than read from state.settings) so
 // Play Again and Quick Play replay the round that was actually played, not
 // whatever the picker currently says.
-function startRound(categories, settings) {
-  state.currentCategories = categories;
-  state.roundSettings = { ...settings };
-  state.mode = settings.mode;
-  saveLastRoundConfig(categories, state.roundSettings);
+async function startRound(categories, settings) {
+  return withStorageLock("seen", () => {
+    if (!categories.length || !categories.every(cat => Array.isArray(cat.questions))) return;
+    settings = StorageLogic.settings(settings);
+    if (!categories.some(cat => filterByDifficulty(cat.questions, settings.difficulty).length)) return;
+    state.roundId = newReportId();
+    state.roundRevision = 0;
+    state.roundPersisted = false;
+    state.roundConflict = false;
+    state.resultsRecorded = false;
+    state.resultsInFlight = false;
+    state.currentCategories = categories;
+    state.roundSettings = { ...settings };
+    state.mode = settings.mode;
+    saveLastRoundConfig(categories, state.roundSettings);
 
-  // Balanced draw across categories with per-category, per-difficulty
-  // repeat avoidance — see GameLogic.buildRound. Each question keeps its own
-  // real category (q.category), so a mixed round still tracks "seen" per
-  // underlying category, not per round.
-  const seenIn = {};
-  for (const cat of categories) seenIn[cat.id] = loadSeenIds(cat.id);
-  const round = buildRound(categories, state.roundSettings, seenIn);
-  state.roundQuestions = round.questions;
+    // Balanced draw across categories with per-category, per-difficulty
+    // repeat avoidance — see GameLogic.buildRound. Each question keeps its own
+    // real category (q.category), so a mixed round still tracks "seen" per
+    // underlying category, not per round.
+    const seenIn = {};
+    for (const cat of categories) seenIn[cat.id] = loadSeenIds(cat.id);
+    const round = buildRound(categories, state.roundSettings, seenIn);
+    state.roundQuestions = round.questions;
 
-  // Only mark a question "seen" once it's actually answered (in
-  // selectAnswer) — marking the whole round up front meant quitting before
-  // reaching a question still permanently burned it out of the pool. A
-  // category whose pool ran dry had its history cleared, though, and that
-  // needs persisting now so the next round sees the same starting point.
-  state.seenByCat = round.seenByCat;
-  for (const catId of round.resetCategoryIds) saveSeenIds(catId, state.seenByCat[catId]);
+    // Only mark a question "seen" once it's actually answered (in
+    // selectAnswer) — marking the whole round up front meant quitting before
+    // reaching a question still permanently burned it out of the pool. A
+    // category whose pool ran dry had its history cleared, though, and that
+    // needs persisting now so the next round sees the same starting point.
+    state.seenByCat = round.seenByCat;
+    for (const catId of round.resetCategoryIds) {
+      const seen = loadSeenIds(catId);
+      for (const q of filterByDifficulty(categories.find(cat => cat.id === catId).questions, settings.difficulty)) seen.delete(q.id);
+      saveSeenIds(catId, seen);
+    }
 
-  state.currentIndex = 0;
-  state.score = 0;
-  state.streak = 0;
-  state.bestStreak = 0;
-  state.answers = [];
-  state.lifelineUsed = false;
-  state.lives = state.mode === "survival" ? SURVIVAL_LIVES : 0;
-  saveActiveRound();
-  showScreen("quiz");
-  renderQuestion();
+    state.currentIndex = 0;
+    state.score = 0;
+    state.streak = 0;
+    state.bestStreak = 0;
+    state.answers = [];
+    state.lifelineUsed = false;
+    state.lives = state.mode === "survival" ? SURVIVAL_LIVES : 0;
+    saveActiveRound();
+    showScreen("quiz");
+    renderQuestion();
+  });
 }
 
 function prefersReducedMotion() {
@@ -1558,21 +1748,22 @@ function renderQuestion() {
 }
 
 el.lifelineBtn.addEventListener("click", () => {
-  if (state.lifelineUsed) return;
-  const q = state.roundQuestions[state.currentIndex];
-  const wrongButtons = [...el.optionsList.children].filter(
-    (btn) => btn.dataset.option !== q.answer
-  );
-  const toEliminate = shuffle(wrongButtons).slice(0, 2);
-  for (const btn of toEliminate) {
-    btn.disabled = true;
-    btn.classList.add("eliminated");
-  }
-  state.lifelineUsed = true;
-  el.lifelineBtn.classList.add("layout-hidden");
-  // Not checkpointed here deliberately — saves only happen at question
-  // boundaries (see saveActiveRound's comment). Worst case on an interrupted
-  // reload: the player gets their lifeline back on the same fresh question.
+  const index = state.currentIndex, roundId = state.roundId;
+  withStorageLock(`round:${roundId}`, () => {
+    if (currentScreen !== "quiz" || state.currentIndex !== index || state.roundId !== roundId || state.answers.length !== index || state.lifelineUsed || !roundIsCurrent()) return;
+    const q = state.roundQuestions[state.currentIndex];
+    const wrongButtons = [...el.optionsList.children].filter(
+      (btn) => btn.dataset.option !== q.answer
+    );
+    const toEliminate = shuffle(wrongButtons).slice(0, 2);
+    for (const btn of toEliminate) {
+      btn.disabled = true;
+      btn.classList.add("eliminated");
+    }
+    state.lifelineUsed = true;
+    el.lifelineBtn.classList.add("layout-hidden");
+    saveActiveRound();
+  });
 });
 
 function markOptionResult(btn, symbol) {
@@ -1584,67 +1775,79 @@ function markOptionResult(btn, symbol) {
   btn.appendChild(icon);
 }
 
-function selectAnswer(selected) {
-  const q = state.roundQuestions[state.currentIndex];
-  const wasCorrect = selected === q.answer;
-  if (wasCorrect) {
-    state.score++;
-    state.streak++;
-    if (state.streak > state.bestStreak) state.bestStreak = state.streak;
-  } else {
-    state.streak = 0;
-    if (state.mode === "survival") state.lives--;
-  }
-  playAnswerSound(wasCorrect, state.streak);
-  vibrate(wasCorrect ? 40 : [30, 60, 30]);
-  updateStreakBadge(true);
-  renderQuizStatus();
-
-  state.answers.push({
-    id: q.id,
-    question: q.question,
-    options: q.shuffledOptions,
-    correctAnswer: q.answer,
-    selected,
-    wasCorrect,
-    category: q.category,
-  });
-
-  if (!state.seenByCat[q.category]) state.seenByCat[q.category] = new Set();
-  state.seenByCat[q.category].add(q.id);
-  saveSeenIds(q.category, state.seenByCat[q.category]);
-  saveActiveRound();
-
-  el.lifelineBtn.classList.add("layout-hidden");
-
-  for (const btn of el.optionsList.children) {
-    btn.disabled = true;
-    if (btn.dataset.option === q.answer) {
-      btn.classList.add("correct");
-      markOptionResult(btn, "✓");
-    } else if (btn.dataset.option === selected) {
-      btn.classList.add("incorrect");
-      markOptionResult(btn, "✗");
+async function selectAnswer(selected) {
+  const index = state.currentIndex, roundId = state.roundId;
+  const operation = withStorageLock(`round:${roundId}`, () => {
+    if (currentScreen !== "quiz" || state.roundId !== roundId || state.currentIndex !== index || state.answers.length !== index || !roundIsCurrent()) return;
+    const q = state.roundQuestions[state.currentIndex];
+    if (!q || !q.options.includes(selected)) return;
+    const wasCorrect = selected === q.answer;
+    if (wasCorrect) {
+      state.score++;
+      state.streak++;
+      if (state.streak > state.bestStreak) state.bestStreak = state.streak;
+    } else {
+      state.streak = 0;
+      if (state.mode === "survival") state.lives--;
     }
-  }
+    try { playAnswerSound(wasCorrect, state.streak); } catch (e) { /* Audio must never interrupt a saved answer. */ }
+    vibrate(wasCorrect ? 40 : [30, 60, 30]);
+    updateStreakBadge(true);
+    renderQuizStatus();
 
-  const roundWillBeOver = state.mode === "survival" && state.lives <= 0
-    ? true
-    : state.currentIndex + 1 >= state.roundQuestions.length;
-  el.nextBtn.classList.remove("layout-hidden");
-  el.nextBtn.textContent = roundWillBeOver ? "See Results" : "Next";
+    state.answers.push({
+      id: q.id,
+      question: q.question,
+      options: q.shuffledOptions,
+      correctAnswer: q.answer,
+      selected,
+      wasCorrect,
+      category: q.category,
+    });
 
-  announce(
-    wasCorrect
-      ? `Correct. Score ${state.score}.`
-      : `Wrong. The answer was ${q.answer}.${state.mode === "survival" ? ` ${state.lives} ${state.lives === 1 ? "life" : "lives"} left.` : ""}`
-  );
+    if (!state.seenByCat[q.category]) state.seenByCat[q.category] = new Set();
+    state.seenByCat[q.category].add(q.id);
+    withStorageLock("seen", () => {
+      const seen = loadSeenIds(q.category);
+      seen.add(q.id);
+      saveSeenIds(q.category, seen);
+    });
+    saveActiveRound();
 
-  // Auto-advance only past correct answers, so a miss still waits for a
-  // manual tap — the point is to read the correct answer, not rush past it.
-  if (wasCorrect && prefs.autoAdvance) {
-    autoAdvanceTimer = setTimeout(advanceToNext, 1200);
-  }
+    el.lifelineBtn.classList.add("layout-hidden");
+
+    for (const btn of el.optionsList.children) {
+      btn.disabled = true;
+      if (btn.dataset.option === q.answer) {
+        btn.classList.add("correct");
+        markOptionResult(btn, "✓");
+      } else if (btn.dataset.option === selected) {
+        btn.classList.add("incorrect");
+        markOptionResult(btn, "✗");
+      }
+    }
+
+    const roundWillBeOver = state.mode === "survival" && state.lives <= 0
+      ? true
+      : state.currentIndex + 1 >= state.roundQuestions.length;
+    el.nextBtn.classList.remove("layout-hidden");
+    el.nextBtn.textContent = roundWillBeOver ? "See Results" : "Next";
+
+    announce(
+      wasCorrect
+        ? `Correct. Score ${state.score}.`
+        : `Wrong. The answer was ${q.answer}.${state.mode === "survival" ? ` ${state.lives} ${state.lives === 1 ? "life" : "lives"} left.` : ""}`
+    );
+
+    // Auto-advance only past correct answers, so a miss still waits for a
+    // manual tap — the point is to read the correct answer, not rush past it.
+    if (wasCorrect && prefs.autoAdvance) {
+      autoAdvanceTimer = setTimeout(advanceToNext, 1200);
+    }
+  });
+  state.answerPending = operation;
+  try { return await operation; }
+  finally { if (state.answerPending === operation) state.answerPending = null; }
 }
 
 let autoAdvanceTimer = null;
@@ -1656,20 +1859,29 @@ function clearAutoAdvanceTimer() {
   }
 }
 
-function advanceToNext() {
+async function advanceToNext() {
+  const index = state.currentIndex, roundId = state.roundId;
+  if (state.answerPending) await state.answerPending;
   clearAutoAdvanceTimer();
-  if (state.mode === "survival" && state.lives <= 0) {
-    showResults();
+  if (currentScreen !== "quiz") return;
+  if (confirmSheetOpen || feedbackSheetOpen) return;
+  if (state.answers.length && (state.answers.length === state.roundQuestions.length || (state.mode === "survival" && state.lives <= 0))) {
+    await showResults();
     return;
   }
-  state.currentIndex++;
-  if (state.currentIndex < state.roundQuestions.length) {
-    saveActiveRound();
-    renderQuestion();
-  } else {
+  const finished = await withStorageLock(`round:${roundId}`, () => {
+    if (currentScreen !== "quiz" || state.roundId !== roundId || state.currentIndex !== index || state.answers.length !== index + 1 || !roundIsCurrent()) return false;
+    if (state.mode === "survival" && state.lives <= 0) return true;
+    state.currentIndex++;
+    if (state.currentIndex < state.roundQuestions.length) {
+      saveActiveRound();
+      renderQuestion();
+      return false;
+    }
     el.progressFill.style.width = "100%";
-    showResults();
-  }
+    return true;
+  });
+  if (finished) await showResults();
 }
 
 el.nextBtn.addEventListener("click", advanceToNext);
@@ -1714,7 +1926,8 @@ document.addEventListener("keydown", (e) => {
 // cleared up front, not after the sheet resolves: a pending timer (set after
 // answering correctly) could otherwise fire while the sheet is open and
 // silently call showResults() underneath it.
-function confirmQuit() {
+async function confirmQuit() {
+  if (state.answerPending) await state.answerPending;
   clearAutoAdvanceTimer();
   return showConfirmSheet({
     title: "Quit this round?",
@@ -1727,7 +1940,8 @@ function confirmQuit() {
 
 function abandonRound() {
   clearAutoAdvanceTimer();
-  clearActiveRound();
+  const roundId = state.roundId;
+  withStorageLock(`round:${roundId}`, () => clearActiveRound(roundId));
   state.roundQuestions = [];
   state.currentIndex = 0;
   state.score = 0;
@@ -1876,15 +2090,40 @@ function confettiBurst() {
   requestAnimationFrame(frame);
 }
 
-function showResults() {
-  clearActiveRound();
+async function showResults() {
+  if (state.resultsRecorded || state.resultsInFlight || !state.answers.length) return;
+  if (state.mode === "survival" ? state.lives > 0 && state.answers.length < state.roundQuestions.length : state.answers.length < state.roundQuestions.length) return;
+  state.resultsInFlight = true;
+  const roundId = state.roundId;
+  clearAutoAdvanceTimer();
   // answers.length rather than roundQuestions.length: for survival the pool
   // is a fixed cap (SURVIVAL_POOL_CAP) that's usually much larger than how
   // far the player actually got, so the pool size is never the right
   // denominator — only what was actually answered is.
   const total = state.answers.length;
-  const priorStats = loadStats();
-  const updatedStats = recordGameResult(state.score, total, state.answers, state.bestStreak, state.mode);
+  const recorded = await recordGameResult(state.score, total, state.answers, state.bestStreak, state.mode);
+  if (state.roundId !== roundId) return;
+  state.resultsInFlight = false;
+  if (!recorded) {
+    // A completed save restored on launch has no visible quiz yet. Present its
+    // final answer again so the result-save retry is always reachable.
+    state.currentIndex = Math.max(0, state.answers.length - 1);
+    showScreen("quiz");
+    renderQuestion();
+    const answer = state.answers[state.currentIndex];
+    for (const button of el.optionsList.children) {
+      button.disabled = true;
+      if (button.dataset.option === answer.correctAnswer) button.classList.add("correct");
+      else if (button.dataset.option === answer.selected) button.classList.add("incorrect");
+    }
+    el.lifelineBtn.classList.add("layout-hidden");
+    el.nextBtn.classList.remove("layout-hidden");
+    el.nextBtn.textContent = "Retry saving results";
+    return;
+  }
+  state.resultsRecorded = true;
+  const { prior: priorStats, updated: updatedStats } = recorded;
+  await withStorageLock(`round:${state.roundId}`, clearActiveRound);
 
   const isSurvival = state.mode === "survival";
   const isNewBest = isSurvival
@@ -2069,15 +2308,18 @@ try {
   // history API unavailable — Back just won't be intercepted
 }
 
-loadCategories();
 loadVersion();
-renderStatsSummary();
-
-// Feedback upload triggers. The pending line is rendered here too, since
-// startup never goes through showScreen("categories") and flushFeedback
-// returns early while FEEDBACK_DB_URL is unconfigured.
-renderFeedbackPending();
-flushFeedback();
+async function initializeApp() {
+  await restoreStorageMirrors();
+  Object.assign(prefs, loadPrefs());
+  applyTheme();
+  renderPrefsRow();
+  loadCategories();
+  renderStatsSummary();
+  renderFeedbackPending();
+  flushFeedback();
+}
+initializeApp();
 window.addEventListener("online", flushFeedback);
 document.addEventListener("visibilitychange", () => {
   if (document.visibilityState === "visible") flushFeedback();
@@ -2101,32 +2343,110 @@ function showUpdateToast(registration) {
   el.updateDismissBtn.onclick = () => el.updateToast.classList.add("hidden");
 }
 
-if ("serviceWorker" in navigator) {
-  let reloading = false;
-  navigator.serviceWorker.addEventListener("controllerchange", () => {
-    // Only reload when we asked for the switch (a fresh install's first
-    // claim also fires this, and reloading then would be pointless).
-    if (reloading || !el.updateReloadBtn.disabled) return;
-    reloading = true;
-    window.location.reload();
-  });
-  window.addEventListener("load", () => {
-    navigator.serviceWorker
-      .register("sw.js")
-      .then((registration) => {
-        if (registration.waiting && navigator.serviceWorker.controller) showUpdateToast(registration);
-        registration.addEventListener("updatefound", () => {
-          const installing = registration.installing;
-          if (!installing) return;
-          installing.addEventListener("statechange", () => {
-            if (installing.state === "installed" && navigator.serviceWorker.controller) {
-              showUpdateToast(registration);
-            }
-          });
-        });
-      })
-      .catch(() => {
-        // offline-first app still works without SW registration succeeding on first load
-      });
+let offlineRegistration = null;
+let offlineWasReady = false;
+
+function renderOfflineStatus(info) {
+  const status = document.getElementById("offline-status");
+  const retry = document.getElementById("offline-retry-btn");
+  retry.disabled = false;
+  retry.classList.toggle("hidden", info.status !== "failed");
+  if (info.status === "ready") {
+    offlineWasReady = true;
+    status.textContent = "Ready to play offline";
+  } else if (info.status === "downloading") {
+    status.textContent = `${offlineWasReady ? "Updating offline copy" : "Downloading for offline play"}${info.total ? `: ${info.completed} of ${info.total} files` : "…"}`;
+  } else if (info.status === "failed") {
+    if (!info.updateFailed) offlineWasReady = false;
+    status.textContent = offlineWasReady && info.updateFailed
+      ? "Your offline copy is ready. The latest download failed; retry when connected."
+      : "Offline download isn't complete. Connect to the internet and retry before travelling.";
+  } else status.textContent = "Checking offline availability…";
+}
+
+function queryOfflineStatus(worker) {
+  if (!worker) { renderOfflineStatus({ status: "failed" }); return; }
+  const channel = new MessageChannel();
+  const timer = setTimeout(() => {
+    channel.port1.close();
+    renderOfflineStatus({ status: "failed" });
+  }, 5000);
+  channel.port1.onmessage = event => {
+    clearTimeout(timer);
+    channel.port1.close();
+    renderOfflineStatus(event.data);
+  };
+  worker.postMessage({ type: "GET_OFFLINE_STATUS" }, [channel.port2]);
+}
+
+function watchOfflineWorker(worker, registration) {
+  if (!worker || worker.offlineWatched) return;
+  worker.offlineWatched = true;
+  renderOfflineStatus({ status: "downloading" });
+  worker.addEventListener("statechange", () => {
+    if (worker.state === "installed") {
+      queryOfflineStatus(worker);
+      if (navigator.serviceWorker.controller) showUpdateToast(registration);
+    } else if (worker.state === "redundant") renderOfflineStatus({ status: "failed", updateFailed: !!registration.active });
+    else if (worker.state === "activated") queryOfflineStatus(worker);
   });
 }
+
+async function setupOffline(retry = false) {
+  if (!("serviceWorker" in navigator)) {
+    document.getElementById("offline-status").textContent = "Offline installation isn't supported in this browser. You can play while connected.";
+    return;
+  }
+  renderOfflineStatus({ status: "checking" });
+  try {
+    const registration = await navigator.serviceWorker.register("sw.js", { updateViaCache: "none" });
+    offlineRegistration = registration;
+    registration.addEventListener("updatefound", () => watchOfflineWorker(registration.installing, registration));
+    if (retry) await registration.update();
+    if (registration.installing) watchOfflineWorker(registration.installing, registration);
+    else if (registration.waiting) {
+      queryOfflineStatus(registration.waiting);
+      showUpdateToast(registration);
+    } else if (registration.active) {
+      if (retry) {
+        renderOfflineStatus({ status: "downloading" });
+        registration.active.postMessage({ type: "REPAIR_OFFLINE_CACHE" });
+      } else queryOfflineStatus(registration.active);
+    } else renderOfflineStatus({ status: "failed" });
+  } catch (e) { renderOfflineStatus({ status: "failed" }); }
+}
+
+document.getElementById("offline-retry-btn").onclick = () => setupOffline(true);
+if ("serviceWorker" in navigator) {
+  let reloading = false;
+  navigator.serviceWorker.addEventListener("message", event => {
+    if (event.data && event.data.type === "OFFLINE_STATUS") renderOfflineStatus({
+      ...event.data,
+      updateFailed: event.data.status === "failed" && !!(offlineRegistration && offlineRegistration.active && event.source !== offlineRegistration.active),
+    });
+  });
+  navigator.serviceWorker.addEventListener("controllerchange", () => {
+    if (reloading) return;
+    if (el.updateReloadBtn.disabled) {
+      reloading = true;
+      window.location.reload();
+    } else queryOfflineStatus(navigator.serviceWorker.controller);
+  });
+}
+if (document.readyState === "complete") setupOffline();
+else window.addEventListener("load", () => setupOffline());
+
+window.addEventListener("storage", event => {
+  if (event.key === STATS_KEY && currentScreen === "categories") {
+    renderStatsSummary();
+    renderCategoryCounts();
+  }
+  if (event.key === FEEDBACK_QUEUE_KEY || event.key === FEEDBACK_FAILED_KEY || event.key === FEEDBACK_REPORTED_KEY) {
+    renderFeedbackPending();
+    if (currentScreen === "quiz") {
+      const q = state.roundQuestions[state.currentIndex];
+      if (q) setReportButtonState(el.reportBtn, loadReportedIds().has(q.id));
+    }
+  }
+  if (event.key === PREFS_KEY) { Object.assign(prefs, loadPrefs()); applyTheme(); renderPrefsRow(); }
+});

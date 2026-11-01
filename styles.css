@@ -1437,3 +1437,13 @@ html, body {
     animation: none;
   }
 }
+/* Keep download and save status visible before the active screen. */
+.app-notices {
+  max-width: 640px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 8px 16px 0;
+  text-align: center;
+}
+
+.app-notices .status-text { margin: 8px 0; font-size: 0.8rem; }

@@ -36,6 +36,12 @@
   </div>
   <canvas id="confetti-canvas" class="confetti-canvas" aria-hidden="true"></canvas>
   <main id="app">
+    <aside class="app-notices" aria-label="App status">
+      <p id="storage-status" role="status" class="status-text hidden"></p>
+      <button id="storage-reload-btn" class="text-btn hidden" type="button">Reload saved progress</button>
+      <p id="offline-status" role="status" class="status-text">Checking offline availability…</p>
+      <button id="offline-retry-btn" class="text-btn hidden" type="button">Retry offline download</button>
+    </aside>
 
     <section id="screen-categories" class="screen">
       <header class="app-header">
@@ -59,6 +65,10 @@
         </div>
         <button id="reset-stats-btn" class="text-btn hidden">Reset Stats</button>
         <p id="feedback-pending" class="app-version hidden"></p>
+        <div id="feedback-recovery" class="hidden">
+          <button id="feedback-retry-btn" class="text-btn" type="button">Retry failed reports</button>
+          <button id="feedback-export-btn" class="text-btn" type="button">Export reports</button>
+        </div>
         <p id="app-version" class="app-version"></p>
       </footer>
     </section>
@@ -166,6 +176,7 @@
     </div>
   </div>
 
+  <script src="storage-logic.js"></script>
   <script src="game-logic.js"></script>
   <script src="feedback-queue.js"></script>
   <script src="app.js"></script>

@@ -110,14 +110,16 @@ test("enqueue: appends, replaces same questionId in place, doesn't mutate", () =
   assert.equal(q3[1].report.questionId, "history-9999");
 });
 
-test("enqueue: caps at MAX_QUEUE by dropping the oldest", () => {
+test("enqueue: rejects a full queue without losing saved reports; allows replacement", () => {
   let queue = [];
-  for (let i = 0; i < F.MAX_QUEUE + 5; i++) {
+  for (let i = 0; i < F.MAX_QUEUE; i++) {
     queue = F.enqueue(queue, report({ id: String(i).padStart(22, "0"), question: { ...QUESTION, id: `history-${1000 + i}` } }));
   }
   assert.equal(queue.length, F.MAX_QUEUE);
-  assert.equal(queue[0].report.questionId, "history-1005");
-  assert.equal(queue[queue.length - 1].report.questionId, `history-${1000 + F.MAX_QUEUE + 4}`);
+  assert.throws(() => F.enqueue(queue, report({ question: { ...QUESTION, id: "history-99999" } })), /full/);
+  assert.equal(queue[0].report.questionId, "history-1000");
+  assert.equal(queue[queue.length - 1].report.questionId, `history-${999 + F.MAX_QUEUE}`);
+  assert.equal(F.enqueue(queue, report({ question: { ...QUESTION, id: "history-1000" } })).length, F.MAX_QUEUE);
 });
 
 test("dueItems / nextDueAt respect nextAttemptAt", () => {
@@ -191,7 +193,7 @@ test("applyOutcome: retry increments and backs off but never drops", () => {
   assert.equal(queue[0].nextAttemptAt - now, F.BACKOFF_MAX_MS);
 });
 
-test("applyOutcome: invalid drops only at MAX_INVALID_ATTEMPTS and returns dropped", () => {
+test("applyOutcome: repeated invalid responses retain the report for recovery and stop automatic retries", () => {
   let queue = [item("a", "q1"), item("b", "q2")];
   for (let i = 1; i < F.MAX_INVALID_ATTEMPTS; i++) {
     const res = F.applyOutcome(queue, "a", "invalid", 5000, 400);
@@ -200,10 +202,13 @@ test("applyOutcome: invalid drops only at MAX_INVALID_ATTEMPTS and returns dropp
     assert.equal(queue.find((it) => it.report.id === "a").attempts, i);
   }
   const res = F.applyOutcome(queue, "a", "invalid", 5000, 400);
-  assert.deepEqual(res.queue.map((it) => it.report.id), ["b"]);
-  assert.equal(res.dropped.report.id, "a");
-  assert.equal(res.dropped.attempts, F.MAX_INVALID_ATTEMPTS);
-  assert.equal(res.dropped.lastError, "400");
+  assert.deepEqual(res.queue.map((it) => it.report.id), ["a", "b"]);
+  assert.equal(res.dropped, null);
+  assert.equal(res.queue[0].failed, true);
+  assert.equal(res.queue[0].attempts, F.MAX_INVALID_ATTEMPTS);
+  assert.equal(res.queue[0].lastError, "400");
+  assert.deepEqual(F.dueItems(res.queue, Infinity).map(it => it.report.id), ["b"]);
+  assert.equal(F.nextDueAt([res.queue[0]]), null);
 });
 
 test("applyOutcome: unknown id is a no-op", () => {

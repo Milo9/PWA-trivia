@@ -158,6 +158,7 @@ async function startRound(page) {
 
 async function answer(page, index) {
   await page.locator("#options-list .option-btn").nth(index).click();
+  await page.waitForFunction(() => state.answers.length === state.currentIndex + 1);
 }
 
 async function nextQuestion(page) {
@@ -199,6 +200,7 @@ async function main() {
       if (msg.type() !== "error" && msg.type() !== "warning") return;
       // Aborted/rejected stub requests are expected to log "Failed to load resource".
       if ((msg.location().url || "").includes("stub-db.example")) return;
+      if ((msg.location().url || "").includes("offline-trivia-feedback-default-rtdb.firebaseio.com") && msg.text().includes("Failed to load resource")) return; // Context B deliberately reports offline.
       if (msg.text().includes("Service Worker registration blocked")) return; // context A blocks SWs on purpose
       issues.push(`[console.${msg.type()}] ${msg.text()}`);
     });

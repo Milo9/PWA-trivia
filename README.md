@@ -31,6 +31,7 @@ game-logic.js                    — pure rules shared by app.js and the tests:
                                     round building, resume, stats
 feedback-queue.js                — pure outbox rules for thumbs-down question
                                     reports (queue, backoff, wire format)
+storage-logic.js                 — validation and recovery for saved data
 test/*.test.js                   — node:test unit tests for game-logic.js
                                     and feedback-queue.js
 firebase/database.rules.json     — Realtime Database security rules for
@@ -356,10 +357,23 @@ list are both derived from `categories.json` at runtime.
 
 ## Local testing
 
+Saved rounds, stats, preferences, and reports are validated before use. Shared
+updates use IndexedDB transactions and a localStorage mirror, with Web Locks
+where available. Existing localStorage saves migrate automatically. Each active
+round has its own identity; tabs can play separate rounds, and a stale tab cannot
+overwrite a newer checkpoint of the same round. Completed-round identities prevent
+duplicate stats. Save failures appear above the active screen and retain a retry
+path for completed results.
+
 ```
 npm test
 npm run serve
 ```
+
+`npm run reliability-check` exercises corrupt saves, concurrent tabs (including
+the fallback without Web Locks), full/failed report queues, export, storage quota
+failures and retries, and interrupted offline installs, cache repairs, and updates.
+It uses a stubbed feedback backend and makes no live database writes.
 
 `npm test` runs the unit tests in `test/` (node:test, no dependencies)
 against `game-logic.js` — round building and balancing, repeat-avoidance
@@ -368,6 +382,9 @@ change a rule in `game-logic.js`, change or add a test with it.
 
 Then open `http://localhost:8080` in a browser. The service worker requires
 `http://` (not `file://`) to register.
+
+The local server binds to localhost and serves only public app assets;
+repository metadata, drafts, and tooling are not available over HTTP.
 
 To test true offline behavior: load the page once, then use your browser's
 dev tools to go offline (or actually disconnect), and reload.
@@ -410,6 +427,13 @@ Reporting never affects score, streak, lives, seen-ids, stats, or resume.
 Each device can report a given question once (no undo or edit in v1). The
 categories screen footer shows "N reports waiting to upload" while any are
 queued. Until `FEEDBACK_DB_URL` is set, reports queue but never upload.
+
+At 200 queued reports, new reports are rejected with an explanation; existing
+reports are never evicted to make room. Reports repeatedly rejected as invalid
+remain saved and appear as needing attention. **Retry failed reports** retries
+recoverable items, and **Export reports** downloads a JSON copy, including legacy
+failures and original malformed values for manual recovery. Sending from multiple
+tabs uses a delivery reservation so the same queued item is not sent concurrently.
 
 Uploads are idempotent `PUT`s to `/feedback/<reportId>.json` with a
 client-generated id, so retries and two tabs flushing at once never create
@@ -516,3 +540,9 @@ question data just because it's online; only a new build triggers a fetch.
 
 **Before you travel:** do one real test in Airplane Mode to confirm the
 install worked end-to-end.
+
+The status above the app shows the offline download's progress and confirms
+**Ready to play offline** only after the complete cache has been checked. Failed
+downloads expose **Retry offline download**. A failed update keeps the previous
+working offline copy; missing files in the active cache can be downloaded again.
+Downloaded app/data files must match the build's content hashes before use.

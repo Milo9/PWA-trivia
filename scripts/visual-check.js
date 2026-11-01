@@ -141,6 +141,7 @@ async function main() {
         const btn = [...document.querySelectorAll("#options-list .option-btn")].find((b) => b.dataset.option === ans);
         btn.click();
       }, answer);
+      await page.waitForFunction(() => state.answers.length === state.currentIndex + 1);
 
       const streak = await page.evaluate(() => state.streak);
       if (streak === 5 || streak === 10) {

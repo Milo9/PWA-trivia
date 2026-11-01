@@ -1,20 +1,21 @@
 // Stamped by scripts/stamp-version.js — do not edit by hand.
 // Changes automatically whenever app shell or question data changes,
 // which forces old cached data to be replaced next time we're online.
-const CACHE_VERSION = "v1-76aaa901";
+const CACHE_VERSION = "v1-40993552";
 
 // Per-file content hashes for everything CACHE_VERSION covers. Lets
 // precache() tell which files actually changed and copy the rest forward
 // from the previous cache instead of re-downloading all of it on every
 // ship. Files not listed here (icons, "./") are always re-fetched.
 const FILE_HASHES = {
-  "index.html": "40c0cbe262c0cae9",
-  "styles.css": "14cb47003774aa63",
+  "index.html": "b8d0f82e291df54c",
+  "styles.css": "4811711ff814fea6",
+  "storage-logic.js": "f370171755d96ad1",
   "game-logic.js": "ddaf34b27bf8a9fc",
-  "feedback-queue.js": "7ce4f98cafe628e8",
-  "app.js": "e3f50927531d6444",
+  "feedback-queue.js": "13e63d5409e12eb2",
+  "app.js": "64b488d7683d0c1a",
   "manifest.webmanifest": "2a35dc54d2e4d65e",
-  "version.json": "f25fc4516daaad3e",
+  "version.json": "3238971b36d29ecd",
   "data/categories.json": "0d01f574061f8e2b",
   "data/questions/animals-nature.json": "776a4cc7859f4bdf",
   "data/questions/arts-literature.json": "c2a1cae706e6afd4",
@@ -45,6 +46,7 @@ const APP_SHELL = [
   "index.html",
   "styles.css",
   "game-logic.js",
+  "storage-logic.js",
   "feedback-queue.js",
   "app.js",
   "manifest.webmanifest",
@@ -56,6 +58,33 @@ const APP_SHELL = [
 ];
 
 const MANIFEST_KEY = "__manifest__";
+let offlineState = { type: "OFFLINE_STATUS", status: "checking", completed: 0, total: 0 };
+
+async function fetchForOffline(url) {
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), 30_000);
+  try {
+    const response = await fetch(url, { cache: "no-store", signal: controller.signal });
+    // Keep the timeout active through the body download, including stalled wifi.
+    const body = await response.arrayBuffer();
+    return new Response(body, { status: response.status, statusText: response.statusText, headers: response.headers });
+  } finally { clearTimeout(timeout); }
+}
+
+async function publishOfflineStatus(status, completed = 0, total = 0) {
+  offlineState = { type: "OFFLINE_STATUS", status, completed, total };
+  const clients = await self.clients.matchAll({ type: "window", includeUncontrolled: true });
+  for (const client of clients) if (client.url.startsWith(self.registration.scope)) client.postMessage(offlineState);
+}
+
+async function offlineStatus() {
+  if (offlineState.status === "downloading") return offlineState;
+  const cache = await caches.open(CACHE_NAME);
+  const urls = [...new Set([...APP_SHELL, ...Object.keys(FILE_HASHES).filter(url => url.startsWith("data/questions/"))])];
+  const present = await Promise.all(urls.map(url => cache.match(url)));
+  const ready = await cache.match(MANIFEST_KEY) && present.every(Boolean);
+  return { type: "OFFLINE_STATUS", status: ready ? "ready" : "failed", completed: present.filter(Boolean).length, total: urls.length };
+}
 
 // Picks the previous cache that actually carries a hash manifest (an
 // interrupted install can leave a partial, manifest-less cache behind that
@@ -80,37 +109,52 @@ async function readManifest(cache) {
 }
 
 async function precache() {
+  await publishOfflineStatus("downloading");
   const cache = await caches.open(CACHE_NAME);
 
   // Pull in every category's question file too, so a fresh install has
   // all data cached before the user ever opens a category.
-  const res = await fetch("data/categories.json");
+  const res = await fetchForOffline("data/categories.json");
+  if (!res.ok) throw new Error("Couldn't load the question manifest");
   const categories = await res.json();
   const dataUrls = categories.map((c) => `data/${c.file}`);
 
   const oldCache = await findPreviousCache();
   const oldManifest = oldCache ? await readManifest(oldCache) : null;
+  const urls = [...new Set([...APP_SHELL, ...dataUrls])];
+  let completed = 0;
+  await publishOfflineStatus("downloading", completed, urls.length);
 
-  await Promise.all(
-    [...APP_SHELL, ...dataUrls].map(async (url) => {
-      const hash = FILE_HASHES[url];
+  const downloads = await Promise.allSettled(
+    urls.map(async (url) => {
+      const hash = FILE_HASHES[url === "./" ? "index.html" : url];
       if (oldCache && oldManifest && hash && oldManifest[url] === hash) {
         const cached = await oldCache.match(url);
         if (cached) {
           await cache.put(url, cached.clone());
+          await publishOfflineStatus("downloading", ++completed, urls.length);
           return;
         }
       }
       // Deliberately NOT caught here: if this fails, install must fail
       // too, so the browser keeps the previous (working) cache instead
       // of activating a new one that's missing app shell or question data.
-      const fresh = await fetch(url);
+      const fresh = await fetchForOffline(url);
       if (!fresh.ok) throw new Error(`Precache fetch failed for ${url}: ${fresh.status}`);
+      if (hash) {
+        const digest = await crypto.subtle.digest("SHA-256", await fresh.clone().arrayBuffer());
+        const actual = [...new Uint8Array(digest)].map(byte => byte.toString(16).padStart(2, "0")).join("").slice(0, 16);
+        if (actual !== hash) throw new Error(`File changed during download: ${url}`);
+      }
       await cache.put(url, fresh);
+      await publishOfflineStatus("downloading", ++completed, urls.length);
     })
   );
+  const failed = downloads.find(result => result.status === "rejected");
+  if (failed) throw failed.reason;
 
   await cache.put(MANIFEST_KEY, new Response(JSON.stringify(FILE_HASHES)));
+  await publishOfflineStatus("ready", completed, urls.length);
 }
 
 // No skipWaiting() here: a new build installs (and precaches) in the
@@ -118,12 +162,30 @@ async function precache() {
 // ready" toast in app.js posts SKIP_WAITING) or every tab of the old version
 // is closed — so a session never runs the old app.js against a swapped-out
 // cache, and a fresh launch always comes up on the newest version.
+let precacheTask = null;
+function downloadOffline() {
+  if (!precacheTask) precacheTask = precache().catch(async error => {
+    await publishOfflineStatus("failed");
+    throw error;
+  }).finally(() => { precacheTask = null; });
+  return precacheTask;
+}
+
 self.addEventListener("install", (event) => {
-  event.waitUntil(precache());
+  event.waitUntil(downloadOffline());
 });
 
 self.addEventListener("message", (event) => {
   if (event.data && event.data.type === "SKIP_WAITING") self.skipWaiting();
+  if (event.data && event.data.type === "GET_OFFLINE_STATUS") {
+    event.waitUntil(offlineStatus().then(status => {
+      if (event.ports[0]) event.ports[0].postMessage(status);
+      else if (event.source) event.source.postMessage(status);
+    }));
+  }
+  if (event.data && event.data.type === "REPAIR_OFFLINE_CACHE") {
+    event.waitUntil(downloadOffline().catch(() => {}));
+  }
 });
 
 self.addEventListener("activate", (event) => {
