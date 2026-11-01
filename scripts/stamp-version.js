@@ -41,6 +41,15 @@ const SW_FILE = path.join(ROOT, "sw.js");
 const CATEGORIES_FILE = path.join(ROOT, "data", "categories.json");
 const HASHED_FILES = ["index.html", "styles.css", "storage-logic.js", "game-logic.js", "feedback-queue.js", "app.js", "manifest.webmanifest", "version.json"];
 
+// GitHub Pages serves Git's LF blobs. Normalize the working copy before
+// hashing too, so Windows CRLF checkouts cannot stamp a different byte stream.
+function canonicalFileBytes(file) {
+  const original = fs.readFileSync(file);
+  const content = Buffer.from(original.toString("utf8").replace(/\r\n/g, "\n"));
+  if (!content.equals(original)) fs.writeFileSync(file, content);
+  return content;
+}
+
 // Canonical on-disk format for a question file: a JSON array, one compact
 // question object per line, fixed key order, "category" dropped.
 function formatQuestionFile(questions) {
@@ -113,7 +122,7 @@ function main() {
   const fileHashes = {};
   for (const file of files) {
     const rel = path.relative(ROOT, file).split(path.sep).join("/");
-    const content = fs.readFileSync(file);
+    const content = canonicalFileBytes(file);
     combined.update(rel);
     combined.update(content);
     fileHashes[rel] = crypto.createHash("sha256").update(content).digest("hex").slice(0, 16);
@@ -140,4 +149,5 @@ function main() {
   console.log(`Stamped sw.js with CACHE_VERSION = "${version}"`);
 }
 
-main();
+if (require.main === module) main();
+module.exports = { canonicalFileBytes };
