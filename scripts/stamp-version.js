@@ -169,4 +169,4 @@ function main() {
 }
 
 if (require.main === module) main();
-module.exports = { canonicalFileBytes, staleStampedFiles, assertStampCurrent };
+module.exports = { HASHED_FILES, canonicalFileBytes, staleStampedFiles, assertStampCurrent };

@@ -68,6 +68,8 @@ audit/progress.json              — current accuracy-audit pass state
 audit/backlog.json               — parked duplicate leads (audit.js note/backlog)
 audit/history/                   — archived completed audit passes
 audit/app-audit-*.md             — app/tooling audit reports
+CLAUDE.md                        — concise rules for Claude sessions (auto-loaded)
+docs/lessons-learned.md          — the incidents behind those rules (not auto-loaded)
 data/topics.json                 — dev-only subject lists for analyze/find-gaps
                                     (not loaded or cached by the app)
 ```
@@ -196,7 +198,9 @@ tokens and re-auditing shouldn't:
    a file outside the repo and pass `npm run ship -- --file <path>` instead
    of the inline form — see CLAUDE.md's "Always ship after making changes"
    for why (a Windows `npm run` / cmd.exe quirk truncates inline multi-line
-   arguments at the first newline).
+   arguments at the first newline). The build number only goes up when a
+   file phones download changed (app shell, `sw.js`, icons, question data),
+   so a docs- or tooling-only ship doesn't show an "update ready" banner.
 
 ### Finding what to draft next
 
@@ -395,8 +399,10 @@ path for completed results.
 
 `npm run reliability-check` exercises corrupt saves, concurrent tabs (including
 the fallback without Web Locks), full/failed report queues, export, storage quota
-failures and retries, leaving a finished round via ✕ or Back, and interrupted
-offline installs, cache repairs, and updates. It uses a stubbed feedback backend
+failures and retries, leaving a finished round via ✕ or Back, migration of
+pre-2026-11 saves, playing with IndexedDB unavailable (and not rolling back
+when it returns), and interrupted, slow, or stalled offline installs, cache
+repairs, and updates. It uses a stubbed feedback backend
 and makes no live database writes.
 
 The browser suites (`visual-check`, `feedback-check`, `reliability-check`)
@@ -560,4 +566,7 @@ The status above the app shows the offline download's progress and confirms
 **Ready to play offline** only after the complete cache has been checked. Failed
 downloads expose **Retry offline download**. A failed update keeps the previous
 working offline copy; missing files in the active cache can be downloaded again.
-Downloaded app/data files must match the build's content hashes before use.
+Downloaded app/data files must match the build's content hashes before use. A
+download only times out when no data arrives for 30 seconds, so a slow
+connection still finishes. Retrying keeps the files that already arrived and
+fetches only what's missing.

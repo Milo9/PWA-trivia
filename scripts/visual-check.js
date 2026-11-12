@@ -118,11 +118,13 @@ async function main() {
     await page.waitForTimeout(350);
     await shot(page, "quiz-question-1");
 
-    // Exercise the 50/50 lifeline on the first question, if it's visible
-    if (await page.locator("#lifeline-btn:not(.hidden)").count()) {
-      await page.click("#lifeline-btn");
-      await shot(page, "quiz-lifeline-used");
-    }
+    // Exercise the 50/50 lifeline on the first question. The handler is async
+    // (it saves through the storage lock), so wait for its effect before the
+    // screenshot rather than capturing the pre-click state.
+    await page.click("#lifeline-btn");
+    await page.waitForFunction(() => document.querySelectorAll(".option-btn.eliminated").length === 2, null, { timeout: 5000 });
+    await page.waitForSelector("#lifeline-btn.layout-hidden", { state: "attached" });
+    await shot(page, "quiz-lifeline-used");
 
     // Answer every question correctly (reads the correct answer straight
     // off the page's own `state`, same realm as app.js's top-level const)

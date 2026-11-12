@@ -142,8 +142,6 @@ async function newStubbedContext(browser) {
 
 const readQueue = (page) =>
   page.evaluate(() => JSON.parse(localStorage.getItem("offline-trivia:feedback-queue") || "[]"));
-const readFailed = (page) =>
-  page.evaluate(() => JSON.parse(localStorage.getItem("offline-trivia:feedback-failed") || "[]"));
 
 async function startRound(page) {
   await page.goto(BASE);
@@ -441,8 +439,7 @@ async function main() {
     check(queue[0] && queue[0].attempts === 1, "attempts is 1", queue[0] && queue[0].attempts);
     check(queue[0] && queue[0].nextAttemptAt > Date.now(), "nextAttemptAt is in the future");
     check(queue[0] && queue[0].lastError === "401", "lastError records the status", queue[0] && queue[0].lastError);
-    const failed = await readFailed(page);
-    check(failed.length === 0, "nothing was moved to the failed log", failed.length);
+    check(queue[0] && !queue[0].failed, "a 401 is retried, not marked failed", queue[0] && queue[0].failed);
 
     // ---- footer pending line -----------------------------------------------
     await page.click("#choose-category-btn");

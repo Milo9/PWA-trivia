@@ -113,7 +113,7 @@ MISCELLANEOUS:
 - Rachel Carson/DDT, Norman Borlaug/the Green Revolution, Percy Spencer's accidental microwave discovery, the Archimedes screw, the ancient Chinese magnetic compass, the photovoltaic effect, RGB additive color mixing, Rayleigh scattering (why the sky is blue), photochromic lenses, dental amalgam fillings, Isaac Asimov's Three Laws of Robotics
 - The word "robot" being coined by playwright Karel Čapek from a Czech word meaning "forced labor" (1920 play R.U.R.) — covered under `world-cultures`, not `science-technology` itself; confirmed 2026-09-03 via `--full-answer-audit` after drafting two independent angles on this (which playwright coined it / what the Czech word meant) that both turned out redundant with the existing question's own premise, which already states who coined it and what it meant
 
-CROSS-CATEGORY DUPLICATE MISSES (confirmed via `--full-answer-audit`, missed by the default check-draft run — see CLAUDE.md's "Cross-category duplicates" section for why these dodged the default check):
+CROSS-CATEGORY DUPLICATE MISSES (confirmed via `--full-answer-audit`, missed by the default check-draft run — see docs/lessons-learned.md's "Cross-category duplicates" section for why these dodged the default check):
 - Mount Fuji as a stratovolcano — covered under `geography`
 - The metric system's French origin — covered under `history`
 - Infrasound (sounds below human hearing) — covered under `animals-nature` via an elephant-communication framing

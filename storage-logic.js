@@ -16,6 +16,9 @@
   // first and stays standalone); test/storage-logic.test.js keeps them equal.
   const SURVIVAL_LIVES = 3;
   const MAX_ROUND_QUESTIONS = 150;
+  // Completed-round ids are kept only to stop a lingering save (or a stale
+  // tab) counting a game twice; the most recent ones are all that matter.
+  const MAX_COMPLETED_ROUND_IDS = 500;
 
   function settings(value, defaults = { count: 10, difficulty: "any", mode: "standard" }) {
     const v = object(value) ? value : {};
@@ -58,7 +61,7 @@
       result.lastGame = { score, total, pct: score / total * 100, mode: v.lastGame.mode === "survival" ? "survival" : "standard" };
     }
     result.completedRoundIds = Array.isArray(v.completedRoundIds)
-      ? [...new Set(v.completedRoundIds.filter(id => typeof id === "string" && /^[A-Za-z0-9_-]{1,80}$/.test(id)))] : [];
+      ? [...new Set(v.completedRoundIds.filter(id => typeof id === "string" && /^[A-Za-z0-9_-]{1,80}$/.test(id)))].slice(-MAX_COMPLETED_ROUND_IDS) : [];
     return result;
   }
 
@@ -123,5 +126,5 @@
     });
   }
 
-  return { COUNT_OPTIONS, SURVIVAL_LIVES, MAX_ROUND_QUESTIONS, settings, prefs, stats, round, report, queue, categoryId, questionId };
+  return { COUNT_OPTIONS, SURVIVAL_LIVES, MAX_ROUND_QUESTIONS, MAX_COMPLETED_ROUND_IDS, settings, prefs, stats, round, report, queue, categoryId, questionId };
 });

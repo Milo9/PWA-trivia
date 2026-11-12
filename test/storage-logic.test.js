@@ -64,3 +64,11 @@ test("storage limits stay in sync with the game rules they validate", () => {
   assert.equal(S.round({ ...saved(), roundQuestions: many(L.SURVIVAL_POOL_CAP + 1) }), null);
   assert.equal(S.round(saved()).lives, L.SURVIVAL_LIVES);
 });
+
+test("completed-round ids are capped to the most recent ones", () => {
+  const ids = Array.from({ length: S.MAX_COMPLETED_ROUND_IDS + 20 }, (_, i) => `round-${i}`);
+  const kept = S.stats({ completedRoundIds: ids }, L.defaultStats()).completedRoundIds;
+  assert.equal(kept.length, S.MAX_COMPLETED_ROUND_IDS);
+  assert.equal(kept[kept.length - 1], ids[ids.length - 1]);
+  assert.equal(kept[0], ids[20]);
+});

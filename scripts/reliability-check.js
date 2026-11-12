@@ -10,18 +10,45 @@ async function main() {
   require("./stamp-version.js").assertStampCurrent();
   let failAsset = null;
   let updateBuild = false;
+  let shortStallTimeout = false; // serve sw.js with a 1.5s stall timeout
+  let slowAsset = null; // { url, gapMs }: sent in 10 pieces, gapMs apart
+  let logRequests = false;
+  const requestLog = [];
   const server = createServer();
   const serve = server.listeners("request")[0];
   server.removeAllListeners("request");
   server.on("request", (req, res) => {
+    if (logRequests) requestLog.push(req.url.split("?")[0]);
     if (req.url === failAsset) { res.writeHead(503); res.end("Simulated interruption"); return; }
-    if (req.url === "/sw.js" && updateBuild) {
+    if (req.url === "/sw.js" && (updateBuild || shortStallTimeout)) {
+      let sw = fs.readFileSync(path.join(__dirname, "..", "sw.js"), "utf8");
+      if (updateBuild) sw = sw.replace(/const CACHE_VERSION = ".*?";/, 'const CACHE_VERSION = "reliability-update";');
+      if (shortStallTimeout) {
+        const patched = sw.replace(/const STALL_TIMEOUT_MS = [\d_]+;/, "const STALL_TIMEOUT_MS = 1500;");
+        if (patched === sw) throw new Error("sw.js no longer declares STALL_TIMEOUT_MS; update reliability-check");
+        sw = patched;
+      }
       res.writeHead(200, { "Content-Type": "text/javascript", "Cache-Control": "no-store" });
-      res.end(fs.readFileSync(path.join(__dirname, "..", "sw.js"), "utf8").replace(/const CACHE_VERSION = ".*?";/, 'const CACHE_VERSION = "reliability-update";'));
+      res.end(sw);
+      return;
+    }
+    if (slowAsset && req.url === slowAsset.url) {
+      const body = fs.readFileSync(path.join(__dirname, "..", req.url.slice(1)));
+      const pieces = Array.from({ length: 10 }, (_, i) => body.subarray(Math.floor(i * body.length / 10), Math.floor((i + 1) * body.length / 10)));
+      res.writeHead(200, { "Content-Type": "application/json", "Cache-Control": "no-store" });
+      const gap = slowAsset.gapMs;
+      (function send(i) {
+        if (i === pieces.length) { res.end(); return; }
+        res.write(pieces[i]);
+        setTimeout(() => send(i + 1), gap);
+      })(0);
       return;
     }
     serve(req, res);
   });
+  // Precache requests other than "./", icons and sw.js itself, which are never
+  // reused (they carry no content hash).
+  const hashedRequests = () => requestLog.filter(url => url !== "/" && url !== "/sw.js" && !url.startsWith("/icons/"));
   await new Promise(resolve => server.listen(0, "localhost", resolve));
   const base = `http://localhost:${server.address().port}/`;
   const browser = await chromium.launch();
@@ -225,6 +252,92 @@ async function main() {
       await exitCtx.close();
     }
 
+    console.log("[5c] Legacy saves migrate; counted saves and stale lock records are cleaned up");
+    const fixtureCtx = await context(); const fixturePage = await open(fixtureCtx); await start(fixturePage);
+    const fixture = await fixturePage.evaluate(async () => {
+      await selectAnswer(state.roundQuestions[0].answer);
+      const round = JSON.parse(localStorage.getItem(`offline-trivia:round:${state.roundId}`));
+      for (const key of ["v", "roundId", "revision", "savedAt"]) delete round[key]; // pre-November shape
+      const report = createReport({ id: newReportId(), question: state.roundQuestions[1], selected: "", comment: "Legacy", context: "results", deviceId: getDeviceId(), appBuild: 1, now: Date.now() });
+      const done = { ...JSON.parse(localStorage.getItem(`offline-trivia:round:${state.roundId}`)), roundId: "done-1" };
+      return { round, report, done };
+    });
+    await fixtureCtx.close();
+    const legacyCtx = await context();
+    await legacyCtx.addInitScript(fixture => {
+      if (localStorage.getItem("audit:seeded")) return;
+      localStorage.setItem("audit:seeded", "1");
+      localStorage.setItem("offline-trivia:active-round", JSON.stringify(fixture.round));
+      localStorage.setItem("offline-trivia:feedback-failed", JSON.stringify([{ report: fixture.report, status: 400 }, { junk: true }]));
+      localStorage.setItem("offline-trivia:round:done-1", JSON.stringify(fixture.done));
+      localStorage.setItem("offline-trivia:stats", JSON.stringify({ gamesPlayed: 1, totalQuestions: 10, totalCorrect: 5, completedRoundIds: ["done-1"] }));
+    }, fixture);
+    const legacy = await legacyCtx.newPage(); watch(legacy);
+    await legacy.goto(base);
+    await legacy.waitForSelector("#confirm-sheet-overlay:not(.hidden)");
+    assert.match(await legacy.locator("#confirm-sheet-message").textContent(), /Question 2 of 10/);
+    const migrated = await legacy.evaluate(() => ({
+      legacyKeys: ["offline-trivia:active-round", "offline-trivia:feedback-failed", "offline-trivia:round:done-1"].filter(k => localStorage.getItem(k) !== null),
+      rounds: Object.keys(localStorage).filter(k => k.startsWith("offline-trivia:round:legacy-")).length,
+      failed: loadFeedbackQueue().filter(item => item.failed).length,
+    }));
+    assert.deepEqual(migrated, { legacyKeys: [], rounds: 1, failed: 2 });
+    await legacy.click("#confirm-sheet-confirm");
+    await legacy.waitForSelector("#screen-quiz:not(.hidden)");
+    assert.equal(await legacy.evaluate(() => state.answers.length), 1);
+    // Empty per-round lock records: fresh ones survive a launch (tombstones), old ones are pruned.
+    await legacy.evaluate(() => new Promise((resolve, reject) => {
+      const request = indexedDB.open("offline-trivia-locks", 1);
+      request.onsuccess = () => {
+        const tx = request.result.transaction("locks", "readwrite");
+        tx.objectStore("locks").put({ v: 1, data: {}, updatedAt: 0 }, "round:old-empty");
+        tx.objectStore("locks").put({ v: 1, data: {} }, "round:legacy-empty");
+        tx.objectStore("locks").put({ v: 1, data: {}, updatedAt: Date.now() }, "round:fresh-empty");
+        tx.oncomplete = () => { request.result.close(); resolve(); };
+        tx.onerror = () => reject(tx.error);
+      };
+    }));
+    await legacy.reload();
+    await legacy.waitForSelector(".category-card");
+    const lockNames = await legacy.evaluate(() => new Promise(resolve => {
+      const request = indexedDB.open("offline-trivia-locks", 1);
+      request.onsuccess = () => { const keys = request.result.transaction("locks").objectStore("locks").getAllKeys(); keys.onsuccess = () => resolve(keys.result); };
+    }));
+    assert.ok(lockNames.includes("round:fresh-empty"));
+    assert.ok(!lockNames.includes("round:old-empty") && !lockNames.includes("round:legacy-empty"));
+    await legacyCtx.close();
+
+    console.log("[5d] Without IndexedDB the app still plays, and nothing rolls back when it returns");
+    const idbCtx = await context();
+    await idbCtx.addInitScript(() => {
+      if (localStorage.getItem("audit:block-idb")) IDBFactory.prototype.open = function () { throw new DOMException("Blocked", "SecurityError"); };
+      if (localStorage.getItem("audit:hang-idb")) IDBFactory.prototype.open = function () { return {}; }; // never settles
+    });
+    const idb = await open(idbCtx);
+    const games = () => idb.evaluate(() => loadStats().gamesPlayed);
+    await start(idb); await finish(idb);
+    assert.equal(await games(), 1);
+    for (const mode of ["audit:block-idb", "audit:hang-idb"]) {
+      await idb.evaluate(mode => localStorage.setItem(mode, "1"), mode);
+      await idb.reload();
+      await idb.waitForSelector(".category-card");
+      await idb.waitForFunction(() => /limiting storage/.test(document.getElementById("storage-status").textContent));
+      await start(idb);
+      assert.equal(await idb.evaluate(() => currentScreen), "quiz", `${mode}: a round starts`);
+      await finish(idb);
+      await idb.evaluate(mode => localStorage.removeItem(mode), mode);
+      await idb.reload();
+      await idb.waitForSelector(".category-card");
+    }
+    // Back on IndexedDB: both fallback games survive the mirror restore.
+    assert.equal(await games(), 3);
+    assert.equal(await idb.evaluate(() => localStorage.getItem("offline-trivia:storage-unmirrored")), null);
+    await start(idb); await finish(idb);
+    await idb.reload();
+    await idb.waitForSelector(".category-card");
+    assert.equal(await games(), 4);
+    await idbCtx.close();
+
     console.log("[6] Offline install failure, retry, cache repair, and failed/successful updates");
     failAsset = "/data/questions/friends.json";
     const offlineCtx = await browser.newContext();
@@ -232,8 +345,12 @@ async function main() {
     await offline.waitForSelector("#offline-retry-btn:not(.hidden)");
     assert.match(await offline.locator("#offline-status").textContent(), /isn't complete/);
     failAsset = null;
+    requestLog.length = 0; logRequests = true;
     await offline.click("#offline-retry-btn");
     await offline.waitForFunction(() => document.getElementById("offline-status").textContent === "Ready to play offline");
+    logRequests = false;
+    // The interrupted install kept everything else it downloaded.
+    assert.deepEqual(hashedRequests(), ["/data/questions/friends.json"]);
     await offline.waitForFunction(() => !!navigator.serviceWorker.controller);
     await offlineCtx.setOffline(true);
     await offline.reload();
@@ -249,8 +366,11 @@ async function main() {
     });
     await offline.waitForSelector("#offline-retry-btn:not(.hidden)");
     assert.match(await offline.locator("#offline-status").textContent(), /isn't complete/);
+    requestLog.length = 0; logRequests = true;
     await offline.click("#offline-retry-btn");
     await offline.waitForFunction(() => document.getElementById("offline-status").textContent === "Ready to play offline");
+    logRequests = false;
+    assert.deepEqual(hashedRequests(), ["/data/questions/friends.json"], "repair only re-downloads the missing file");
     updateBuild = true; failAsset = "/icons/icon-192.png";
     await offline.evaluate(async () => (await navigator.serviceWorker.getRegistration()).update());
     await offline.waitForSelector("#offline-retry-btn:not(.hidden)");
@@ -262,6 +382,26 @@ async function main() {
     await offline.waitForFunction(() => document.getElementById("offline-status").textContent === "Ready to play offline");
     assert.ok((await offline.evaluate(() => caches.keys())).includes("trivia-cache-reliability-update"));
     await offlineCtx.close();
+
+    console.log("[6b] A slow but steady download installs; a stalled one fails and can be retried");
+    shortStallTimeout = true; updateBuild = false;
+    // ~4.5s in total, but never more than 0.5s without bytes: under the 1.5s stall timeout.
+    slowAsset = { url: "/data/questions/friends.json", gapMs: 500 };
+    const slowCtx = await browser.newContext();
+    const slow = await open(slowCtx);
+    await slow.waitForFunction(() => /Ready to play offline|isn't complete/.test(document.getElementById("offline-status").textContent), null, { timeout: 30000 });
+    assert.equal(await slow.locator("#offline-status").textContent(), "Ready to play offline");
+    await slowCtx.close();
+    // A 3s silence mid-file exceeds the stall timeout.
+    slowAsset = { url: "/data/questions/friends.json", gapMs: 3000 };
+    const stallCtx = await browser.newContext();
+    const stall = await open(stallCtx);
+    await stall.waitForSelector("#offline-retry-btn:not(.hidden)", { timeout: 30000 });
+    slowAsset = null;
+    await stall.click("#offline-retry-btn");
+    await stall.waitForFunction(() => document.getElementById("offline-status").textContent === "Ready to play offline");
+    await stallCtx.close();
+    shortStallTimeout = false;
     assert.deepEqual(errors, []);
     console.log("All reliability checks passed.");
   } finally {

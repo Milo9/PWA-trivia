@@ -1,7 +1,7 @@
 // Stamped by scripts/stamp-version.js — do not edit by hand.
 // Changes automatically whenever app shell or question data changes,
 // which forces old cached data to be replaced next time we're online.
-const CACHE_VERSION = "v1-0baa821e";
+const CACHE_VERSION = "v1-6e58c18e";
 
 // Per-file content hashes for everything CACHE_VERSION covers. Lets
 // precache() tell which files actually changed and copy the rest forward
@@ -10,12 +10,12 @@ const CACHE_VERSION = "v1-0baa821e";
 const FILE_HASHES = {
   "index.html": "55f2d4a1c9f10d6f",
   "styles.css": "01092583ebdee441",
-  "storage-logic.js": "9fbbb22a2589d319",
+  "storage-logic.js": "a3d29aee2a10d6a8",
   "game-logic.js": "ddaf34b27bf8a9fc",
   "feedback-queue.js": "f200f51a66707d8d",
-  "app.js": "d6e3ec3a6bcba58a",
+  "app.js": "f292777e91fbca2d",
   "manifest.webmanifest": "0095442db9e18c94",
-  "version.json": "460250af936f2da5",
+  "version.json": "fc79b85f34abdbb7",
   "data/categories.json": "0d01f574061f8e2b",
   "data/questions/animals-nature.json": "776a4cc7859f4bdf",
   "data/questions/arts-literature.json": "c2a1cae706e6afd4",
@@ -59,15 +59,58 @@ const APP_SHELL = [
 const MANIFEST_KEY = "__manifest__";
 let offlineState = { type: "OFFLINE_STATUS", status: "checking", completed: 0, total: 0 };
 
+// A stall timeout, not a total one: it restarts whenever bytes arrive, so a
+// slow but steady connection always finishes, while one that stops
+// delivering (dead hotel wifi) fails within this window and can be retried.
+const STALL_TIMEOUT_MS = 30_000;
+// Few enough parallel downloads that each file makes visible progress on a
+// slow link, instead of ~26 trickling streams all finishing at the very end.
+const DOWNLOAD_CONCURRENCY = 4;
+
 async function fetchForOffline(url) {
   const controller = new AbortController();
-  const timeout = setTimeout(() => controller.abort(), 30_000);
+  let timer;
+  const restartTimer = () => {
+    clearTimeout(timer);
+    timer = setTimeout(() => controller.abort(), STALL_TIMEOUT_MS);
+  };
+  restartTimer();
   try {
     const response = await fetch(url, { cache: "no-store", signal: controller.signal });
-    // Keep the timeout active through the body download, including stalled wifi.
-    const body = await response.arrayBuffer();
+    const chunks = [];
+    if (response.body) {
+      const reader = response.body.getReader();
+      for (;;) {
+        const { done, value } = await reader.read();
+        if (done) break;
+        chunks.push(value);
+        restartTimer();
+      }
+    }
+    const body = await new Blob(chunks).arrayBuffer();
     return new Response(body, { status: response.status, statusText: response.statusText, headers: response.headers });
-  } finally { clearTimeout(timeout); }
+  } finally { clearTimeout(timer); }
+}
+
+async function shortHash(response) {
+  const digest = await crypto.subtle.digest("SHA-256", await response.clone().arrayBuffer());
+  return [...new Uint8Array(digest)].map(byte => byte.toString(16).padStart(2, "0")).join("").slice(0, 16);
+}
+
+// Runs task(item) for every item with at most `limit` in flight; settles like
+// Promise.allSettled so one failure doesn't abandon the other downloads (a
+// retry then only needs the files that failed).
+async function settleLimited(items, limit, task) {
+  const results = new Array(items.length);
+  let next = 0;
+  await Promise.all(Array.from({ length: Math.min(limit, items.length) }, async () => {
+    while (next < items.length) {
+      const index = next++;
+      try { results[index] = { status: "fulfilled", value: await task(items[index]) }; }
+      catch (reason) { results[index] = { status: "rejected", reason }; }
+    }
+  }));
+  return results;
 }
 
 async function publishOfflineStatus(status, completed = 0, total = 0) {
@@ -111,12 +154,11 @@ async function precache() {
   await publishOfflineStatus("downloading");
   const cache = await caches.open(CACHE_NAME);
 
-  // Pull in every category's question file too, so a fresh install has
-  // all data cached before the user ever opens a category.
-  const res = await fetchForOffline("data/categories.json");
-  if (!res.ok) throw new Error("Couldn't load the question manifest");
-  const categories = await res.json();
-  const dataUrls = categories.map((c) => `data/${c.file}`);
+  // Every category's question file too, so a fresh install has all data
+  // cached before the user ever opens a category. FILE_HASHES lists exactly
+  // the question files categories.json names (stamp-version.js builds it
+  // from there), so there's no need to download categories.json first.
+  const dataUrls = Object.keys(FILE_HASHES).filter(url => url.startsWith("data/questions/"));
 
   const oldCache = await findPreviousCache();
   const oldManifest = oldCache ? await readManifest(oldCache) : null;
@@ -124,10 +166,18 @@ async function precache() {
   let completed = 0;
   await publishOfflineStatus("downloading", completed, urls.length);
 
-  const downloads = await Promise.allSettled(
-    urls.map(async (url) => {
-      const hash = FILE_HASHES[url === "./" ? "index.html" : url];
-      if (oldCache && oldManifest && hash && oldManifest[url] === hash) {
+  const downloads = await settleLimited(urls, DOWNLOAD_CONCURRENCY, async (url) => {
+    const hash = FILE_HASHES[url === "./" ? "index.html" : url];
+    if (hash) {
+      // Already in this build's cache from an interrupted install or an
+      // earlier repair? Keep it if it's intact. (The fetch handler can also
+      // put unverified copies here, hence the hash check.)
+      const existing = await cache.match(url);
+      if (existing && await shortHash(existing) === hash) {
+        await publishOfflineStatus("downloading", ++completed, urls.length);
+        return;
+      }
+      if (oldCache && oldManifest && oldManifest[url] === hash) {
         const cached = await oldCache.match(url);
         if (cached) {
           await cache.put(url, cached.clone());
@@ -135,20 +185,16 @@ async function precache() {
           return;
         }
       }
-      // Deliberately NOT caught here: if this fails, install must fail
-      // too, so the browser keeps the previous (working) cache instead
-      // of activating a new one that's missing app shell or question data.
-      const fresh = await fetchForOffline(url);
-      if (!fresh.ok) throw new Error(`Precache fetch failed for ${url}: ${fresh.status}`);
-      if (hash) {
-        const digest = await crypto.subtle.digest("SHA-256", await fresh.clone().arrayBuffer());
-        const actual = [...new Uint8Array(digest)].map(byte => byte.toString(16).padStart(2, "0")).join("").slice(0, 16);
-        if (actual !== hash) throw new Error(`File changed during download: ${url}`);
-      }
-      await cache.put(url, fresh);
-      await publishOfflineStatus("downloading", ++completed, urls.length);
-    })
-  );
+    }
+    // Deliberately NOT caught here: if this fails, install must fail
+    // too, so the browser keeps the previous (working) cache instead
+    // of activating a new one that's missing app shell or question data.
+    const fresh = await fetchForOffline(url);
+    if (!fresh.ok) throw new Error(`Precache fetch failed for ${url}: ${fresh.status}`);
+    if (hash && await shortHash(fresh) !== hash) throw new Error(`File changed during download: ${url}`);
+    await cache.put(url, fresh);
+    await publishOfflineStatus("downloading", ++completed, urls.length);
+  });
   const failed = downloads.find(result => result.status === "rejected");
   if (failed) throw failed.reason;
 
