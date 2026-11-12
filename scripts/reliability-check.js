@@ -285,6 +285,16 @@ async function main() {
     await legacy.click("#confirm-sheet-confirm");
     await legacy.waitForSelector("#screen-quiz:not(.hidden)");
     assert.equal(await legacy.evaluate(() => state.answers.length), 1);
+    // The migrated round must stay playable: answering used to trip the
+    // other-tab conflict check because the legacy save had no revision.
+    await legacy.evaluate(() => selectAnswer(state.roundQuestions[1].answer));
+    assert.deepEqual(await legacy.evaluate(() => [state.answers.length, state.roundConflict]), [2, false]);
+    await legacy.reload();
+    await legacy.waitForSelector("#confirm-sheet-overlay:not(.hidden)");
+    await legacy.click("#confirm-sheet-confirm");
+    await legacy.waitForSelector("#screen-quiz:not(.hidden)");
+    await legacy.evaluate(async () => { await advanceToNext(); await selectAnswer(state.roundQuestions[2].answer); });
+    assert.deepEqual(await legacy.evaluate(() => [state.answers.length, state.roundConflict]), [3, false]);
     // Empty per-round lock records: fresh ones survive a launch (tombstones), old ones are pruned.
     await legacy.evaluate(() => new Promise((resolve, reject) => {
       const request = indexedDB.open("offline-trivia-locks", 1);

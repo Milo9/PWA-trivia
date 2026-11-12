@@ -16,7 +16,7 @@ required.
   animals-nature, space-astronomy, arts-literature, film-tv, music,
   sports, food-drink, mythology-religion, world-cultures) plus a small
   `general` catch-all for genuine misfits — see `data/categories.json`
-  for the full current list and CLAUDE.md for how/why.
+  for the full current list and `docs/lessons-learned.md` for how/why.
 - The category picker on the home screen is multi-select: tap to toggle
   categories, then "Play Selected" starts a round pulling from all of
   them (per-question repeat-avoidance and stats still track each
@@ -237,7 +237,7 @@ own training-data memory stops working well: most well-known facts are
 already asked, so new drafts either duplicate something existing or rest on
 facts the model isn't actually sure of. `friends` (690 questions) and
 `big-bang-theory` (611 questions) are already past that point — see
-CLAUDE.md for the specifics of what a memory-only pass yielded there.
+`docs/lessons-learned.md` for the specifics of what a memory-only pass yielded there.
 
 For those categories (and any other category that gets similarly deep),
 fetch source material with `WebFetch`/`WebSearch` instead of drafting from

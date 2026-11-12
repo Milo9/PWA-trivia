@@ -1488,7 +1488,7 @@ async function migrateLegacyStorage() {
       const roundId = saved.roundId || `legacy-${hashLegacyRound(raw)}`;
       await withStorageLock(`round:${roundId}`, () => {
         const key = roundStorageKey(roundId);
-        if (readRawStored(key) !== null || writeStored(key, { ...raw, v: 1, roundId })) localStorage.removeItem(ACTIVE_ROUND_KEY);
+        if (readRawStored(key) !== null || writeStored(key, { ...raw, v: 1, roundId, revision: 0 })) localStorage.removeItem(ACTIVE_ROUND_KEY);
       });
     }
   }
@@ -1526,7 +1526,10 @@ function roundIsCurrent() {
   if (state.roundConflict) return false;
   if (!state.roundPersisted) return true;
   const saved = readStored(roundStorageKey(state.roundId));
-  if (saved && saved.revision === state.roundRevision) return true;
+  // A save without a valid revision reads as 0, the same as StorageLogic.round
+  // (build 326 migrated legacy rounds without one).
+  const storedRevision = saved && Number.isSafeInteger(saved.revision) && saved.revision >= 0 ? saved.revision : 0;
+  if (saved && storedRevision === state.roundRevision) return true;
   state.roundConflict = true;
   clearAutoAdvanceTimer();
   storageNotice("This round changed in another tab. Reload saved progress to continue with the latest answers.");

@@ -53,7 +53,7 @@ const MAX_ANSWER_MATCHES_SHOWN = 5;
 // option-length/format, not text"): the correct option is a full sentence
 // while distractors are short names/phrases, so the answer is visually
 // identifiable without any content knowledge. Thresholds copied from the
-// tuned one-off grep in CLAUDE.md that found ~100+ corpus candidates this
+// tuned one-off grep (docs/lessons-learned.md) that found ~100+ corpus candidates this
 // way — noisy in isolation, so treat every hit as a lead, not a verdict.
 const ANSWER_LEAK_MAX_DISTRACTOR_LENGTH = 22;
 const ANSWER_LEAK_MIN_ANSWER_LENGTH = 45;

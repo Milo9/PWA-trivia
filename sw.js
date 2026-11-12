@@ -1,7 +1,7 @@
 // Stamped by scripts/stamp-version.js — do not edit by hand.
 // Changes automatically whenever app shell or question data changes,
 // which forces old cached data to be replaced next time we're online.
-const CACHE_VERSION = "v1-6e58c18e";
+const CACHE_VERSION = "v1-7a76e1ef";
 
 // Per-file content hashes for everything CACHE_VERSION covers. Lets
 // precache() tell which files actually changed and copy the rest forward
@@ -13,9 +13,9 @@ const FILE_HASHES = {
   "storage-logic.js": "a3d29aee2a10d6a8",
   "game-logic.js": "ddaf34b27bf8a9fc",
   "feedback-queue.js": "f200f51a66707d8d",
-  "app.js": "f292777e91fbca2d",
+  "app.js": "64575d4003340109",
   "manifest.webmanifest": "0095442db9e18c94",
-  "version.json": "fc79b85f34abdbb7",
+  "version.json": "808e802788ab45fc",
   "data/categories.json": "0d01f574061f8e2b",
   "data/questions/animals-nature.json": "776a4cc7859f4bdf",
   "data/questions/arts-literature.json": "c2a1cae706e6afd4",
@@ -78,7 +78,8 @@ async function fetchForOffline(url) {
   try {
     const response = await fetch(url, { cache: "no-store", signal: controller.signal });
     const chunks = [];
-    if (response.body) {
+    if (!response.body) chunks.push(new Uint8Array(await response.arrayBuffer())); // no streaming support
+    else {
       const reader = response.body.getReader();
       for (;;) {
         const { done, value } = await reader.read();
