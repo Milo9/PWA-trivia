@@ -118,20 +118,23 @@
     return Math.min(BACKOFF_MAX_MS, BACKOFF_BASE_MS * 2 ** (attempts - 1));
   }
 
+  // Returns the updated queue (the same array when nothing changed). Never
+  // deletes an undelivered report: repeated "invalid" responses mark it
+  // failed so it stays exportable/retryable from the home screen.
   function applyOutcome(queue, reportId, outcome, now, status) {
     const idx = queue.findIndex((it) => it.report && it.report.id === reportId);
-    if (idx === -1) return { queue, dropped: null };
+    if (idx === -1) return queue;
     const item = queue[idx];
 
     if (outcome === "sent") {
-      return { queue: queue.filter((_, i) => i !== idx), dropped: null };
+      return queue.filter((_, i) => i !== idx);
     }
     if (outcome === "retry" || outcome === "invalid") {
       const attempts = item.attempts + 1;
       if (outcome === "invalid" && attempts >= MAX_INVALID_ATTEMPTS) {
         const next = queue.slice();
         next[idx] = { ...item, attempts, lastError: String(status), failed: true };
-        return { queue: next, dropped: null };
+        return next;
       }
       const updated = {
         ...item,
@@ -141,10 +144,10 @@
       };
       const next = queue.slice();
       next[idx] = updated;
-      return { queue: next, dropped: null };
+      return next;
     }
     // "offline" (the normal state, costs no attempt) and anything unknown.
-    return { queue, dropped: null };
+    return queue;
   }
 
   function toWireBody(report) {

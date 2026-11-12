@@ -32,8 +32,9 @@ game-logic.js                    — pure rules shared by app.js and the tests:
 feedback-queue.js                — pure outbox rules for thumbs-down question
                                     reports (queue, backoff, wire format)
 storage-logic.js                 — validation and recovery for saved data
-test/*.test.js                   — node:test unit tests for game-logic.js
-                                    and feedback-queue.js
+test/*.test.js                   — node:test unit tests: game rules, feedback
+                                    queue, saved-data validation, the dev
+                                    server, cache stamping, validate.js
 firebase/database.rules.json     — Realtime Database security rules for
                                     question feedback (paste into the console)
 sw.js                            — offline caching
@@ -48,7 +49,10 @@ scripts/find-gaps.js             — topics used only as a wrong answer, never c
 scripts/audit.js                 — chunked accuracy-audit progress tracker
 scripts/stamp-version.js         — updates the offline cache version and
                                     the per-category counts in categories.json
+scripts/ship.js                  — test, validate, bump, stamp, commit, push
 scripts/serve.js                 — local dev server
+scripts/visual-check.js          — Playwright walkthrough with screenshots
+scripts/reliability-check.js     — Playwright failure/recovery/multi-tab checks
 scripts/feedback-check.js        — Playwright check of the feedback feature
 scripts/feedback-report.js       — triage report from a Firebase JSON export
 scripts/feedback-pull.js         — pulls reports straight from Firebase
@@ -61,7 +65,11 @@ questions_inbox/processed/       — merged draft files get moved here
                                     (not deleted) once shipped, as a record
                                     of what's already been processed
 audit/progress.json              — current accuracy-audit pass state
+audit/backlog.json               — parked duplicate leads (audit.js note/backlog)
 audit/history/                   — archived completed audit passes
+audit/app-audit-*.md             — app/tooling audit reports
+data/topics.json                 — dev-only subject lists for analyze/find-gaps
+                                    (not loaded or cached by the app)
 ```
 
 ## Question schema
@@ -351,11 +359,31 @@ future `next` call that will never come.
    ```
 3. Run `npm run validate` and `npm run stamp`.
 
-No app code changes needed — the category list, its question counts (once
-`npm run stamp` has run), and the service worker precache
-list are both derived from `categories.json` at runtime.
+The category list, its question counts (once `npm run stamp` has run), and
+the service worker precache list are all derived from `categories.json`.
+Two small app-code touches are still needed: give the category an emoji in
+`CATEGORY_ICONS` and an accent in `CATEGORY_COLORS` (both near the top of
+`app.js`); without them it falls back to a generic 🎯 and the default accent.
 
 ## Local testing
+
+```
+npm test
+npm run serve
+```
+
+`npm run serve` serves the app at `http://localhost:8080`. The service
+worker needs `http://`; it won't register from `file://`. The server binds
+to localhost and serves only public app assets. Repository metadata, drafts,
+and tooling aren't reachable over HTTP. To test true offline behavior, load
+the page once, go offline in dev tools (or actually disconnect), and reload.
+
+`npm test` runs the unit tests in `test/` (node:test, no dependencies):
+round building and balancing, repeat-avoidance resets, resume
+reconciliation, stats, the feedback outbox, saved-data validation, the dev
+server's file allowlist, cache stamping, and validate.js's duplicate scan.
+`npm run ship` runs them too. If you change a rule in `game-logic.js`,
+change or add a test with it.
 
 Saved rounds, stats, preferences, and reports are validated before use. Shared
 updates use IndexedDB transactions and a localStorage mirror, with Web Locks
@@ -365,29 +393,16 @@ overwrite a newer checkpoint of the same round. Completed-round identities preve
 duplicate stats. Save failures appear above the active screen and retain a retry
 path for completed results.
 
-```
-npm test
-npm run serve
-```
-
 `npm run reliability-check` exercises corrupt saves, concurrent tabs (including
 the fallback without Web Locks), full/failed report queues, export, storage quota
-failures and retries, and interrupted offline installs, cache repairs, and updates.
-It uses a stubbed feedback backend and makes no live database writes.
+failures and retries, leaving a finished round via ✕ or Back, and interrupted
+offline installs, cache repairs, and updates. It uses a stubbed feedback backend
+and makes no live database writes.
 
-`npm test` runs the unit tests in `test/` (node:test, no dependencies)
-against `game-logic.js` — round building and balancing, repeat-avoidance
-resets, resume reconciliation, stats. `npm run ship` runs them too. If you
-change a rule in `game-logic.js`, change or add a test with it.
-
-Then open `http://localhost:8080` in a browser. The service worker requires
-`http://` (not `file://`) to register.
-
-The local server binds to localhost and serves only public app assets;
-repository metadata, drafts, and tooling are not available over HTTP.
-
-To test true offline behavior: load the page once, then use your browser's
-dev tools to go offline (or actually disconnect), and reload.
+The browser suites (`visual-check`, `feedback-check`, `reliability-check`)
+refuse to start if `sw.js`'s stamped file hashes are stale. The service
+worker rejects any file whose hash doesn't match, so after editing an app
+file run `npm run stamp` first (`ship` does this for you).
 
 ### Automated visual check
 

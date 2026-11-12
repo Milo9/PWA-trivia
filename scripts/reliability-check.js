@@ -7,6 +7,7 @@ const path = require("node:path");
 const { createServer } = require("./serve.js");
 
 async function main() {
+  require("./stamp-version.js").assertStampCurrent();
   let failAsset = null;
   let updateBuild = false;
   const server = createServer();
@@ -191,6 +192,38 @@ async function main() {
     await quota.waitForSelector("#screen-results:not(.hidden)");
     assert.equal(await quota.evaluate(() => loadStats().gamesPlayed), 1);
     await quotaCtx.close();
+
+    console.log("[5b] Leaving a finished round records it; leaving mid-round still asks first");
+    for (const leave of ["quit", "back"]) {
+      const exitCtx = await context(); const exit = await open(exitCtx);
+      await start(exit);
+      await exit.evaluate(() => selectAnswer(state.roundQuestions[0].answer));
+      if (leave === "quit") await exit.click("#quit-btn"); else await exit.goBack();
+      await exit.waitForSelector("#confirm-sheet-overlay:not(.hidden)");
+      await exit.click("#confirm-sheet-cancel");
+      assert.equal(await exit.evaluate(() => currentScreen), "quiz");
+      await exit.reload();
+      await exit.waitForSelector("#confirm-sheet-overlay:not(.hidden)");
+      await exit.click("#confirm-sheet-cancel"); // discard the standard round
+      await exit.waitForSelector("#confirm-sheet-overlay.hidden", { state: "attached" });
+      // A survival run that just lost its last life used to be discarded
+      // unrecorded by ✕ (and only deferred by Back).
+      await exit.evaluate(async () => {
+        const categories = [state.categories[0]];
+        await ensureLoaded(categories);
+        await startRound(categories, { count: 10, mode: "survival", difficulty: "any" });
+        while (state.lives > 0) {
+          const q = state.roundQuestions[state.currentIndex];
+          await selectAnswer(q.options.find(o => o !== q.answer));
+          if (state.lives > 0) await advanceToNext();
+        }
+      });
+      if (leave === "quit") await exit.click("#quit-btn"); else await exit.goBack();
+      await exit.waitForSelector("#screen-results:not(.hidden)");
+      assert.deepEqual(await exit.evaluate(() => [loadStats().gamesPlayed, loadStats().lastGame.mode]), [1, "survival"]);
+      assert.equal(await exit.evaluate(() => Object.keys(localStorage).filter(k => k.startsWith("offline-trivia:round:")).length), 0);
+      await exitCtx.close();
+    }
 
     console.log("[6] Offline install failure, retry, cache repair, and failed/successful updates");
     failAsset = "/data/questions/friends.json";

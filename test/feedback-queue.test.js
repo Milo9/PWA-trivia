@@ -164,27 +164,23 @@ test("backoffMs: 0, doubling, capped", () => {
 
 test("applyOutcome: sent removes the item", () => {
   const queue = [item("a", "q1"), item("b", "q2")];
-  const { queue: next, dropped } = F.applyOutcome(queue, "a", "sent", 1000);
+  const next = F.applyOutcome(queue, "a", "sent", 1000);
   assert.deepEqual(next.map((i) => i.report.id), ["b"]);
-  assert.equal(dropped, null);
   assert.equal(queue.length, 2);
 });
 
 test("applyOutcome: offline leaves the queue unchanged and costs no attempt", () => {
   const queue = [item("a", "q1")];
-  const { queue: next, dropped } = F.applyOutcome(queue, "a", "offline", 1000);
+  const next = F.applyOutcome(queue, "a", "offline", 1000);
   assert.equal(next, queue);
   assert.equal(next[0].attempts, 0);
-  assert.equal(dropped, null);
 });
 
 test("applyOutcome: retry increments and backs off but never drops", () => {
   let queue = [item("a", "q1")];
   let now = 1_000_000;
   for (let i = 1; i <= 50; i++) {
-    const res = F.applyOutcome(queue, "a", "retry", now, 401);
-    assert.equal(res.dropped, null);
-    queue = res.queue;
+    queue = F.applyOutcome(queue, "a", "retry", now, 401);
     assert.equal(queue.length, 1);
     assert.equal(queue[0].attempts, i);
     assert.equal(queue[0].nextAttemptAt, now + F.backoffMs(i));
@@ -196,27 +192,22 @@ test("applyOutcome: retry increments and backs off but never drops", () => {
 test("applyOutcome: repeated invalid responses retain the report for recovery and stop automatic retries", () => {
   let queue = [item("a", "q1"), item("b", "q2")];
   for (let i = 1; i < F.MAX_INVALID_ATTEMPTS; i++) {
-    const res = F.applyOutcome(queue, "a", "invalid", 5000, 400);
-    assert.equal(res.dropped, null);
-    queue = res.queue;
+    queue = F.applyOutcome(queue, "a", "invalid", 5000, 400);
     assert.equal(queue.find((it) => it.report.id === "a").attempts, i);
   }
   const res = F.applyOutcome(queue, "a", "invalid", 5000, 400);
-  assert.deepEqual(res.queue.map((it) => it.report.id), ["a", "b"]);
-  assert.equal(res.dropped, null);
-  assert.equal(res.queue[0].failed, true);
-  assert.equal(res.queue[0].attempts, F.MAX_INVALID_ATTEMPTS);
-  assert.equal(res.queue[0].lastError, "400");
-  assert.deepEqual(F.dueItems(res.queue, Infinity).map(it => it.report.id), ["b"]);
-  assert.equal(F.nextDueAt([res.queue[0]]), null);
+  assert.deepEqual(res.map((it) => it.report.id), ["a", "b"]);
+  assert.equal(res[0].failed, true);
+  assert.equal(res[0].attempts, F.MAX_INVALID_ATTEMPTS);
+  assert.equal(res[0].lastError, "400");
+  assert.deepEqual(F.dueItems(res, Infinity).map(it => it.report.id), ["b"]);
+  assert.equal(F.nextDueAt([res[0]]), null);
 });
 
 test("applyOutcome: unknown id is a no-op", () => {
   const queue = [item("a", "q1")];
   for (const outcome of ["sent", "offline", "retry", "invalid"]) {
-    const res = F.applyOutcome(queue, "zzz", outcome, 1000, 500);
-    assert.equal(res.queue, queue);
-    assert.equal(res.dropped, null);
+    assert.equal(F.applyOutcome(queue, "zzz", outcome, 1000, 500), queue);
   }
 });
 

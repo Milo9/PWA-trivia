@@ -54,3 +54,13 @@ test("valid queued feedback recovers invalid retry metadata", () => {
   assert.equal(actual.nextAttemptAt, 0);
   assert.equal(actual.failed, false);
 });
+
+test("storage limits stay in sync with the game rules they validate", () => {
+  assert.equal(S.SURVIVAL_LIVES, L.SURVIVAL_LIVES);
+  assert.equal(S.MAX_ROUND_QUESTIONS, L.SURVIVAL_POOL_CAP);
+  assert.ok(Math.max(...S.COUNT_OPTIONS) <= S.MAX_ROUND_QUESTIONS);
+  const many = n => Array.from({ length: n }, (_, i) => ({ ...question, id: `history-${String(i + 1).padStart(3, "0")}` }));
+  assert.notEqual(S.round({ ...saved(), roundQuestions: many(L.SURVIVAL_POOL_CAP) }), null);
+  assert.equal(S.round({ ...saved(), roundQuestions: many(L.SURVIVAL_POOL_CAP + 1) }), null);
+  assert.equal(S.round(saved()).lives, L.SURVIVAL_LIVES);
+});

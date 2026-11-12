@@ -60,10 +60,34 @@ if (!message) {
   process.exit(1);
 }
 
-const pendingChanges = execFileSync("git", ["status", "--porcelain"], { cwd: ROOT })
-  .toString()
-  .trim();
+function git(args) {
+  return execFileSync("git", args, { cwd: ROOT }).toString().trim();
+}
+
+function push() {
+  try {
+    run("git", ["push"]);
+  } catch (e) {
+    console.error("\nCommitted locally, but the push failed. Fix the cause (network/auth) and rerun ship — it pushes unpushed commits even when there's nothing new to commit.");
+    process.exit(1);
+  }
+}
+
+const pendingChanges = git(["status", "--porcelain"]);
 if (!pendingChanges) {
+  // A previous ship may have committed and then failed to push.
+  let unpushed = 0;
+  try {
+    unpushed = Number(git(["rev-list", "--count", "@{u}..HEAD"]));
+  } catch (e) {
+    // no upstream configured — nothing we can push to
+  }
+  if (unpushed > 0) {
+    console.log(`Working tree is clean, but ${unpushed} commit(s) haven't been pushed yet.`);
+    push();
+    console.log("\nShipped.");
+    process.exit(0);
+  }
   console.log("Nothing to ship — working tree is already clean.");
   process.exit(0);
 }
@@ -89,9 +113,11 @@ run("git", ["add", "-A"]);
 try {
   run("git", ["commit", "-m", message]);
 } catch (e) {
-  console.log("\nNothing to commit (working tree already clean after stamping).");
-  process.exit(0);
+  // There is always something staged here (at minimum the version bump), so
+  // a failed commit is a real failure (hook, signing, identity), not "clean".
+  console.error("\ngit commit failed — see the output above. Everything is still staged; fix the cause and rerun ship (it will bump the build number again).");
+  process.exit(1);
 }
 
-run("git", ["push"]);
+push();
 console.log("\nShipped.");

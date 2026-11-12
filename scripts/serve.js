@@ -57,7 +57,7 @@ function createServer(root = ROOT) {
     const publicPath = urlPath.slice(1);
     const allowed = PUBLIC_FILES.has(publicPath)
       || /^icons\/icon-(32|180|192|512)\.png$/.test(publicPath)
-      || /^data\/(categories|topics)\.json$/.test(publicPath)
+      || publicPath === "data/categories.json"
       || /^data\/questions\/[a-z0-9-]+\.json$/.test(publicPath);
     const filePath = path.resolve(realRoot, publicPath);
     if (!allowed || !isWithin(realRoot, filePath)) {

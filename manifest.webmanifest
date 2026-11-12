@@ -2,7 +2,7 @@
   "id": "./",
   "name": "Offline Trivia",
   "short_name": "Trivia",
-  "description": "Offline-first multiple-choice trivia across 17 categories, from history and science to Friends and The Big Bang Theory.",
+  "description": "Offline-first multiple-choice trivia, from history and science to Friends and The Big Bang Theory.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",

@@ -43,10 +43,13 @@ const HASHED_FILES = ["index.html", "styles.css", "storage-logic.js", "game-logi
 
 // GitHub Pages serves Git's LF blobs. Normalize the working copy before
 // hashing too, so Windows CRLF checkouts cannot stamp a different byte stream.
+function lfBytes(file) {
+  return Buffer.from(fs.readFileSync(file).toString("utf8").replace(/\r\n/g, "\n"));
+}
+
 function canonicalFileBytes(file) {
-  const original = fs.readFileSync(file);
-  const content = Buffer.from(original.toString("utf8").replace(/\r\n/g, "\n"));
-  if (!content.equals(original)) fs.writeFileSync(file, content);
+  const content = lfBytes(file);
+  if (!content.equals(fs.readFileSync(file))) fs.writeFileSync(file, content);
   return content;
 }
 
@@ -99,36 +102,52 @@ function stampCategoryCounts() {
   return changed;
 }
 
+// Only the data files the app actually loads: categories.json and each
+// category's question file. Dev-only data (data/topics.json, used by
+// analyze/find-gaps) stays out, so editing it doesn't push an app update.
 function collectDataFiles() {
-  const dataDir = path.join(ROOT, "data");
-  const files = [];
-  (function walk(dir) {
-    for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
-      const full = path.join(dir, entry.name);
-      if (entry.isDirectory()) walk(full);
-      else if (entry.name.endsWith(".json")) files.push(full);
-    }
-  })(dataDir);
-  return files.sort();
+  const categories = JSON.parse(fs.readFileSync(CATEGORIES_FILE, "utf8"));
+  return [CATEGORIES_FILE, ...categories.map((c) => path.join(ROOT, "data", c.file))].sort();
+}
+
+function computeHashes(readBytes) {
+  const files = [...HASHED_FILES.map((f) => path.join(ROOT, f)), ...collectDataFiles()];
+  const combined = crypto.createHash("sha256");
+  const fileHashes = {};
+  for (const file of files) {
+    const rel = path.relative(ROOT, file).split(path.sep).join("/");
+    const content = readBytes(file);
+    combined.update(rel);
+    combined.update(content);
+    fileHashes[rel] = crypto.createHash("sha256").update(content).digest("hex").slice(0, 16);
+  }
+  return { version: `v1-${combined.digest("hex").slice(0, 8)}`, fileHashes };
+}
+
+// Read-only check for the browser suites. The service worker rejects any
+// download whose hash doesn't match FILE_HASHES, so an edit to app.js that
+// wasn't followed by `npm run stamp` makes offline installs fail with
+// nothing but a timeout. Returns the stale file names (empty = current).
+function staleStampedFiles() {
+  const match = fs.readFileSync(SW_FILE, "utf8").match(/const FILE_HASHES = (\{[\s\S]*?\});/);
+  const stamped = match ? JSON.parse(match[1]) : {};
+  const { fileHashes } = computeHashes(lfBytes);
+  const names = new Set([...Object.keys(stamped), ...Object.keys(fileHashes)]);
+  return [...names].filter((name) => stamped[name] !== fileHashes[name]);
+}
+
+function assertStampCurrent() {
+  const stale = staleStampedFiles();
+  if (stale.length) {
+    throw new Error(`sw.js FILE_HASHES is stale for: ${stale.join(", ")}. Run "npm run stamp" first; the service worker rejects files that don't match.`);
+  }
 }
 
 function main() {
   const changedFiles = stampCategoryCounts();
   if (changedFiles) console.log(`Normalized question files / stamped counts (${changedFiles} file(s) rewritten)`);
 
-  const files = [...HASHED_FILES.map((f) => path.join(ROOT, f)), ...collectDataFiles()];
-
-  const combined = crypto.createHash("sha256");
-  const fileHashes = {};
-  for (const file of files) {
-    const rel = path.relative(ROOT, file).split(path.sep).join("/");
-    const content = canonicalFileBytes(file);
-    combined.update(rel);
-    combined.update(content);
-    fileHashes[rel] = crypto.createHash("sha256").update(content).digest("hex").slice(0, 16);
-  }
-  const digest = combined.digest("hex").slice(0, 8);
-  const version = `v1-${digest}`;
+  const { version, fileHashes } = computeHashes(canonicalFileBytes);
 
   let sw = fs.readFileSync(SW_FILE, "utf8");
   let updated = sw.replace(
@@ -150,4 +169,4 @@ function main() {
 }
 
 if (require.main === module) main();
-module.exports = { canonicalFileBytes };
+module.exports = { canonicalFileBytes, staleStampedFiles, assertStampCurrent };

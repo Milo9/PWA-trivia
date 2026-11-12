@@ -42,6 +42,13 @@ const MIN_ANSWER_DUPLICATE_LENGTH = 6;
 // resolves to "ignore this" on every single run trains reviewers to stop
 // reading warnings at all.
 const SAME_ANSWER_MIN_OVERLAP = 0.55;
+// Hard limits shared with the app and the feedback backend: storage-logic.js
+// rejects a saved round containing a longer question/option (the round would
+// be unrestorable), and firebase/database.rules.json rejects a report about
+// it. Keep these three in sync.
+const MAX_QUESTION_LENGTH = 600;
+const MAX_OPTION_LENGTH = 300;
+const MAX_ID_LENGTH = 64;
 
 let errors = [];
 let warnings = [];
@@ -112,8 +119,10 @@ function validateQuestion(q, categoryId, file, seenIds) {
   if (!q.id || typeof q.id !== "string") {
     err(`${where}: missing/invalid "id"`);
   } else {
-    if (!ID_PATTERN.test(q.id)) {
-      warn(`${where}: id "${q.id}" doesn't match expected pattern <category>-<number>`);
+    if (!ID_PATTERN.test(q.id) || q.id.length > MAX_ID_LENGTH) {
+      // An error, not a warning: the app's saved-round validation and the
+      // feedback rules both reject ids outside this pattern.
+      err(`${where}: id "${q.id}" doesn't match <category>-<number> (lowercase, max ${MAX_ID_LENGTH} chars)`);
     }
     if (seenIds.has(q.id)) {
       err(`${where}: duplicate id "${q.id}" (already used elsewhere in the dataset)`);
@@ -130,6 +139,8 @@ function validateQuestion(q, categoryId, file, seenIds) {
 
   if (!q.question || typeof q.question !== "string" || !q.question.trim()) {
     err(`${where}: missing/empty "question"`);
+  } else if (q.question.length > MAX_QUESTION_LENGTH) {
+    err(`${where}: question is ${q.question.length} chars; the app can't save rounds with questions over ${MAX_QUESTION_LENGTH}`);
   } else if (q.question.length < 8 || q.question.length > 220) {
     warn(`${where}: question length (${q.question.length} chars) looks unusual — double check it`);
   }
@@ -156,6 +167,9 @@ function validateQuestion(q, categoryId, file, seenIds) {
       if (typeof opt !== "string" || !opt.trim()) {
         err(`${where}: found an empty/invalid option`);
         continue;
+      }
+      if (opt.length > MAX_OPTION_LENGTH) {
+        err(`${where}: option is ${opt.length} chars; the app can't save rounds with options over ${MAX_OPTION_LENGTH}`);
       }
       const key = opt.trim().toLowerCase();
       if (seenOptions.has(key)) {
@@ -200,19 +214,58 @@ function findDuplicates(questions) {
     }
   }
 
-  for (let i = 0; i < withWordSets.length; i++) {
-    for (let j = i + 1; j < withWordSets.length; j++) {
-      const a = withWordSets[i];
-      const b = withWordSets[j];
-      if (a.norm === b.norm) continue; // already reported as exact duplicate
-      const sim = jaccard(a.words, b.words);
-      if (sim >= NEAR_DUPLICATE_THRESHOLD) {
-        warn(
-          `Possible near-duplicate (similarity ${sim.toFixed(2)}): "${a.q.id}" ("${a.q.question}") vs "${b.q.id}" ("${b.q.question}")`
-        );
-      }
+  for (const [i, j, sim] of nearDuplicatePairs(withWordSets.map((e) => e.words), NEAR_DUPLICATE_THRESHOLD)) {
+    const a = withWordSets[i];
+    const b = withWordSets[j];
+    if (a.norm === b.norm) continue; // already reported as exact duplicate
+    warn(
+      `Possible near-duplicate (similarity ${sim.toFixed(2)}): "${a.q.id}" ("${a.q.question}") vs "${b.q.id}" ("${b.q.question}")`
+    );
+  }
+}
+
+// Every pair (i < j) of word sets with jaccard >= threshold, in (i, j)
+// order — exactly what an all-pairs loop finds, without the ~300M
+// comparisons that loop costs on a 24k-question corpus (it took ~70s).
+// Prefix filtering: order each set's words rarest-first. If
+// jaccard(A, B) >= t then |A ∩ B| >= ceil(t * |A|), and two sets sharing
+// that many words must share one within their first |A| - ceil(t*|A|) + 1
+// rarest words. So only pairs sharing a "prefix" word need scoring, and
+// rare words make those candidate lists short. Two empty sets score 1
+// (see jaccard), so they're paired up separately.
+function nearDuplicatePairs(sets, threshold) {
+  const df = new Map();
+  for (const set of sets) for (const w of set) df.set(w, (df.get(w) || 0) + 1);
+  const rarestFirst = (a, b) => df.get(a) - df.get(b) || (a < b ? -1 : a > b ? 1 : 0);
+  const index = new Map(); // word -> ids of sets with that word in their prefix
+  const prefixes = sets.map((set, id) => {
+    // The epsilon only ever lengthens the prefix (more candidates), never
+    // shortens it, so float rounding in threshold * size can't drop a pair.
+    const prefixLength = set.size - Math.ceil(threshold * set.size - 1e-9) + 1;
+    const prefix = [...set].sort(rarestFirst).slice(0, prefixLength);
+    for (const w of prefix) {
+      if (!index.has(w)) index.set(w, []);
+      index.get(w).push(id);
+    }
+    return prefix;
+  });
+  const empties = [];
+  sets.forEach((set, id) => { if (set.size === 0) empties.push(id); });
+
+  const pairs = [];
+  for (let i = 0; i < sets.length; i++) {
+    const candidates = new Set();
+    if (sets[i].size === 0) {
+      for (const j of empties) if (j > i) candidates.add(j);
+    } else {
+      for (const w of prefixes[i]) for (const j of index.get(w)) if (j > i) candidates.add(j);
+    }
+    for (const j of [...candidates].sort((x, y) => x - y)) {
+      const sim = jaccard(sets[i], sets[j]);
+      if (sim >= threshold) pairs.push([i, j, sim]);
     }
   }
+  return pairs;
 }
 
 // Catches "same fact, different wording" duplicates that findDuplicates()
@@ -331,6 +384,7 @@ module.exports = {
   normalize,
   wordSet,
   jaccard,
+  nearDuplicatePairs,
   NEAR_DUPLICATE_THRESHOLD,
   normalizeAnswer,
   MAX_ANSWER_GROUP_SIZE,

@@ -168,7 +168,7 @@ const {
 // Empty = reports queue locally but never upload. See README "Question feedback".
 const FEEDBACK_DB_URL = "https://offline-trivia-feedback-default-rtdb.firebaseio.com";
 
-const COUNT_OPTIONS = [10, 20, 30, 40];
+const COUNT_OPTIONS = StorageLogic.COUNT_OPTIONS; // saved settings are validated against the same list
 const DIFFICULTY_OPTIONS = [
   { id: "any", label: "Any" },
   { id: "easy", label: "Easy" },
@@ -197,6 +197,7 @@ const CATEGORY_ICONS = {
   "world-cultures": "🗺️",
   general: "🧠",
   "business-brands": "💼",
+  "civics-law-economics": "⚖️",
   catchphrases: "💬",
   "tv-catchphrases": "📺",
 };
@@ -249,6 +250,7 @@ const state = {
   roundConflict: false,
   resultsRecorded: false,
   resultsInFlight: false,
+  resultsSaveFailed: false, // last attempt to record this round's result failed (storage); ✕/Back then offer to quit instead
   answerPending: null,
   loadedFiles: {}, // { [categoryId]: Promise<Question[]> } — question files are fetched lazily, see ensureLoaded()
   roundQuestions: [],
@@ -417,7 +419,15 @@ window.addEventListener("popstate", async () => {
     return;
   }
   if (currentScreen === "categories") return;
-  if (currentScreen === "quiz" && !isRoundOver()) {
+  if (currentScreen === "quiz") {
+    if (state.answerPending) await state.answerPending;
+    // Every question is answered (or the survival run is out of lives):
+    // Back means "I'm done", so record and show the results rather than
+    // offering to throw a finished round away.
+    if (roundAnsweredOut() && !state.resultsSaveFailed) {
+      await showResults();
+      return;
+    }
     // Re-push first so the app stays on the quiz entry while the sheet is
     // open; a second Back then re-asks rather than exiting.
     history.pushState({ depth: 1, screen: "quiz" }, "");
@@ -923,7 +933,7 @@ async function flushFeedback() {
         if (!item || item.deliveryToken !== reservation.deliveryToken) return;
         delete item.sendingUntil;
         delete item.deliveryToken;
-        const next = applyOutcome(queue, item.report.id, outcome, Date.now(), result.status).queue;
+        const next = applyOutcome(queue, item.report.id, outcome, Date.now(), result.status);
         saveFeedbackQueue(next);
       });
       if (outcome === "offline") { wasOffline = true; break; }
@@ -1072,7 +1082,7 @@ el.reportBtn.addEventListener("click", async () => {
   else el.questionText.focus();
 });
 
-// Question files (~7.6MB across all categories) are fetched only when a
+// Question files (~6MB across all categories) are fetched only when a
 // round actually needs them, not at startup — the category picker renders
 // straight from categories.json's stamped counts. Each file is fetched at
 // most once per session; a failed fetch is forgotten so a retry can work
@@ -1162,8 +1172,10 @@ async function loadCategories() {
   }
 }
 
-function categoryStatsLine(catId) {
-  const stats = loadStats();
+// Takes already-loaded stats: the picker and the question-bank footer each
+// render every category, and re-reading/re-validating stats per row was
+// ~40 parses per home-screen render.
+function categoryStatsLine(stats, catId) {
   const s = stats.byCategory && stats.byCategory[catId];
   if (!s || !s.totalQuestions) return null;
   return `${Math.round((s.totalCorrect / s.totalQuestions) * 100)}% avg`;
@@ -1171,13 +1183,14 @@ function categoryStatsLine(catId) {
 
 function renderCategoryList() {
   el.categoryList.innerHTML = "";
+  const stats = loadStats();
   for (const cat of state.categories) {
     const btn = document.createElement("button");
     const isSelected = state.selectedCategoryIds.has(cat.id);
     btn.className = "category-card" + (isSelected ? " selected" : "");
     const count = categoryCountAt(cat, "any");
     btn.disabled = count === 0;
-    const statLine = categoryStatsLine(cat.id);
+    const statLine = categoryStatsLine(stats, cat.id);
     const metaLine = `${count} question${count === 1 ? "" : "s"}${statLine ? " · " + statLine : ""}`;
     btn.innerHTML = `
       <span class="category-check" aria-hidden="true"></span>
@@ -1203,8 +1216,9 @@ function renderCategoryCounts() {
   }
   el.categoryCounts.classList.remove("hidden");
   el.categoryCounts.innerHTML = `<p class="settings-label">Question Bank</p>`;
+  const stats = loadStats();
   for (const cat of state.categories) {
-    const statLine = categoryStatsLine(cat.id);
+    const statLine = categoryStatsLine(stats, cat.id);
     const value = `${categoryCountAt(cat, "any")} questions${statLine ? " · " + statLine : ""}`;
     el.categoryCounts.appendChild(breakdownRow(cat.name, value));
   }
@@ -1454,6 +1468,7 @@ async function tryResumeActiveRound() {
   state.roundPersisted = !!readStored(roundStorageKey(saved.roundId));
   state.roundConflict = false;
   state.resultsRecorded = false;
+  state.resultsSaveFailed = false;
   if (!confirmed) {
     await withStorageLock(`round:${state.roundId}`, clearActiveRound);
     return;
@@ -1565,9 +1580,11 @@ el.resetStatsBtn.addEventListener("click", async () => {
   renderCategoryCounts();
 });
 
-function isRoundOver() {
-  if (state.mode === "survival" && state.lives <= 0) return true;
-  return state.currentIndex >= state.roundQuestions.length;
+// True once every question has an answer, or a survival run is out of
+// lives — whether or not the results have been recorded yet.
+function roundAnsweredOut() {
+  if (!state.answers.length) return false;
+  return state.answers.length >= state.roundQuestions.length || (state.mode === "survival" && state.lives <= 0);
 }
 
 // `settings` is passed explicitly (rather than read from state.settings) so
@@ -1584,6 +1601,7 @@ async function startRound(categories, settings) {
     state.roundConflict = false;
     state.resultsRecorded = false;
     state.resultsInFlight = false;
+    state.resultsSaveFailed = false;
     state.currentCategories = categories;
     state.roundSettings = { ...settings };
     state.mode = settings.mode;
@@ -1865,7 +1883,7 @@ async function advanceToNext() {
   clearAutoAdvanceTimer();
   if (currentScreen !== "quiz") return;
   if (confirmSheetOpen || feedbackSheetOpen) return;
-  if (state.answers.length && (state.answers.length === state.roundQuestions.length || (state.mode === "survival" && state.lives <= 0))) {
+  if (roundAnsweredOut()) {
     await showResults();
     return;
   }
@@ -1953,10 +1971,16 @@ function abandonRound() {
 }
 
 el.quitBtn.addEventListener("click", async () => {
-  if (!isRoundOver()) {
-    const confirmed = await confirmQuit();
-    if (!confirmed) return;
+  if (state.answerPending) await state.answerPending;
+  // A finished round (including a survival run that just lost its last
+  // life) goes to its results instead of being discarded unrecorded. Only a
+  // round whose result couldn't be saved falls through to the quit confirm.
+  if (roundAnsweredOut() && !state.resultsSaveFailed) {
+    await showResults();
+    return;
   }
+  const confirmed = await confirmQuit();
+  if (!confirmed) return;
   abandonRound();
   showScreen("categories");
 });
@@ -2091,8 +2115,7 @@ function confettiBurst() {
 }
 
 async function showResults() {
-  if (state.resultsRecorded || state.resultsInFlight || !state.answers.length) return;
-  if (state.mode === "survival" ? state.lives > 0 && state.answers.length < state.roundQuestions.length : state.answers.length < state.roundQuestions.length) return;
+  if (state.resultsRecorded || state.resultsInFlight || !roundAnsweredOut()) return;
   state.resultsInFlight = true;
   const roundId = state.roundId;
   clearAutoAdvanceTimer();
@@ -2104,6 +2127,7 @@ async function showResults() {
   const recorded = await recordGameResult(state.score, total, state.answers, state.bestStreak, state.mode);
   if (state.roundId !== roundId) return;
   state.resultsInFlight = false;
+  state.resultsSaveFailed = !recorded;
   if (!recorded) {
     // A completed save restored on launch has no visible quiz yet. Present its
     // final answer again so the result-save retry is always reachable.
@@ -2263,7 +2287,9 @@ function subtitleFor(score, total) {
 // thresholds.
 function survivalSubtitle(livesLeft, isNewBest) {
   if (isNewBest) return "New personal best!";
-  if (livesLeft > 0) return "You cleared the entire category!";
+  // Lives left means the run's whole question pool (capped at
+  // SURVIVAL_POOL_CAP, possibly mixed categories) was answered.
+  if (livesLeft > 0) return "You survived every question in the run!";
   return "Out of lives — play again!";
 }
 

@@ -10,11 +10,17 @@
   const questionId = (v) => typeof v === "string" && /^[a-z0-9-]+-[0-9]{3,}$/.test(v) && v.length <= 64;
   const text = (v, max) => typeof v === "string" && v.length > 0 && v.length <= max;
   const options = (v) => Array.isArray(v) && v.length === 4 && v.every(s => text(s, 300)) && new Set(v).size === 4;
+  // The round-length choices; app.js renders its count picker from this.
+  const COUNT_OPTIONS = [10, 20, 30, 40];
+  // Mirrors of GameLogic.SURVIVAL_LIVES / SURVIVAL_POOL_CAP (this file loads
+  // first and stays standalone); test/storage-logic.test.js keeps them equal.
+  const SURVIVAL_LIVES = 3;
+  const MAX_ROUND_QUESTIONS = 150;
 
   function settings(value, defaults = { count: 10, difficulty: "any", mode: "standard" }) {
     const v = object(value) ? value : {};
     return {
-      count: [10, 20, 30, 40].includes(v.count) ? v.count : defaults.count,
+      count: COUNT_OPTIONS.includes(v.count) ? v.count : defaults.count,
       difficulty: ["any", "easy", "medium", "hard"].includes(v.difficulty) ? v.difficulty : defaults.difficulty,
       mode: ["standard", "survival"].includes(v.mode) ? v.mode : defaults.mode,
     };
@@ -59,7 +65,7 @@
   function round(v) {
     if (!object(v) || (v.v !== undefined && v.v !== 1)) return null;
     if (!Array.isArray(v.currentCategoryIds) || !v.currentCategoryIds.length || !v.currentCategoryIds.every(categoryId)) return null;
-    if (!Array.isArray(v.roundQuestions) || !v.roundQuestions.length || v.roundQuestions.length > 150) return null;
+    if (!Array.isArray(v.roundQuestions) || !v.roundQuestions.length || v.roundQuestions.length > MAX_ROUND_QUESTIONS) return null;
     const ids = new Set();
     for (const q of v.roundQuestions) {
       if (!object(q) || !questionId(q.id) || ids.has(q.id) || !v.currentCategoryIds.includes(q.category)
@@ -81,7 +87,7 @@
       answers.push({ id: q.id, question: q.question, options: q.shuffledOptions.slice(), correctAnswer: q.answer, selected: a.selected, wasCorrect, category: q.category });
     }
     const mode = v.mode === "survival" ? "survival" : "standard";
-    const lives = mode === "survival" ? 3 - (answers.length - score) : 0;
+    const lives = mode === "survival" ? SURVIVAL_LIVES - (answers.length - score) : 0;
     if (lives < 0) return null;
     const seenByCat = {};
     if (object(v.seenByCat)) for (const [id, values] of Object.entries(v.seenByCat)) {
@@ -117,5 +123,5 @@
     });
   }
 
-  return { settings, prefs, stats, round, report, queue, categoryId, questionId };
+  return { COUNT_OPTIONS, SURVIVAL_LIVES, MAX_ROUND_QUESTIONS, settings, prefs, stats, round, report, queue, categoryId, questionId };
 });

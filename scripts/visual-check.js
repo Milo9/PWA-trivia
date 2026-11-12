@@ -77,6 +77,7 @@ async function waitForNextQuestionOrResults(page) {
 }
 
 async function main() {
+  require("./stamp-version.js").assertStampCurrent();
   const server = spawn(process.execPath, [path.join(ROOT, "scripts", "serve.js"), String(PORT)], { cwd: ROOT });
   server.stderr.on("data", (d) => process.stderr.write(String(d)));
   await waitForServer(PORT);

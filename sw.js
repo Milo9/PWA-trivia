@@ -1,7 +1,7 @@
 // Stamped by scripts/stamp-version.js — do not edit by hand.
 // Changes automatically whenever app shell or question data changes,
 // which forces old cached data to be replaced next time we're online.
-const CACHE_VERSION = "v1-c6f64b99";
+const CACHE_VERSION = "v1-0baa821e";
 
 // Per-file content hashes for everything CACHE_VERSION covers. Lets
 // precache() tell which files actually changed and copy the rest forward
@@ -10,12 +10,12 @@ const CACHE_VERSION = "v1-c6f64b99";
 const FILE_HASHES = {
   "index.html": "55f2d4a1c9f10d6f",
   "styles.css": "01092583ebdee441",
-  "storage-logic.js": "f370171755d96ad1",
+  "storage-logic.js": "9fbbb22a2589d319",
   "game-logic.js": "ddaf34b27bf8a9fc",
-  "feedback-queue.js": "13e63d5409e12eb2",
-  "app.js": "89a214fb7aeaeada",
-  "manifest.webmanifest": "2a35dc54d2e4d65e",
-  "version.json": "8b875d4df24b90cf",
+  "feedback-queue.js": "f200f51a66707d8d",
+  "app.js": "d6e3ec3a6bcba58a",
+  "manifest.webmanifest": "0095442db9e18c94",
+  "version.json": "460250af936f2da5",
   "data/categories.json": "0d01f574061f8e2b",
   "data/questions/animals-nature.json": "776a4cc7859f4bdf",
   "data/questions/arts-literature.json": "c2a1cae706e6afd4",
@@ -35,8 +35,7 @@ const FILE_HASHES = {
   "data/questions/space-astronomy.json": "61fff7f4c763432f",
   "data/questions/sports.json": "9fc2805d8dbcdd72",
   "data/questions/tv-catchphrases.json": "f1ac168ffa2f1c0d",
-  "data/questions/world-cultures.json": "7fa0d17e2f7375f2",
-  "data/topics.json": "00c6219fb318d9de"
+  "data/questions/world-cultures.json": "7fa0d17e2f7375f2"
 };
 
 const CACHE_NAME = `trivia-cache-${CACHE_VERSION}`;
